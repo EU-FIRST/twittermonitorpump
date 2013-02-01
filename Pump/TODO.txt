@@ -1,0 +1,7 @@
+﻿[ ] don't lemmatize usernames and stock symbols
+[ ] sync tokenizer and stop words
+[ ] sync tokenization in data acq and this tokenization. Make sure that $AAPL's TFIDF is 0 for all periods
+[x] incl. doc frequency for plotting volume charts
+[ ] test incremental BOW space
+[ ] mWordFormUpdateInit user setting
+[ ] sync KMeansClustering and KMeansClusteringFast
