@@ -34,16 +34,17 @@ namespace BagOfWordsTest
             // additional stop words
             stopWords.AddRange("i,m,you,re,he,s,she,it,we,they,ve,d,ll,isn,t,aren,wasn,weren,hasn,haven,hadn,doesn,don,didn,wouldn,shan,shouldn,couldn,mustn,let,that,who,what,here,there,when,where,why,how".Split(','));
             stopWords.Add("rt");
-            // TODO: add company name stop words (inc, ltd, corp...)
             bowSpc.Stemmer = new Lemmatizer(Language.English);
             bowSpc.StopWords = stopWords;
             bowSpc.MaxNGramLen = 2;
             return bowSpc;
         }
 
-        public static string RemoveUrls(string tweet)
+        public static IncrementalKMeansClustering CreateClustering()
         {
-            return mUrlRegex.Replace(tweet, "");
+            IncrementalKMeansClustering clustering = new IncrementalKMeansClustering();
+            clustering.QualThresh = Convert.ToDouble(Latino.Utils.GetConfigValue("ClusterQualityThresh", "0.2"));
+            return clustering;
         }
 
         public static DataTable CreateBowTable()
@@ -77,6 +78,11 @@ namespace BagOfWordsTest
         public static T GetVal<T>(SqlDataReader reader, string colName)
         {
             return Cast<T>(reader.GetValue(reader.GetOrdinal(colName)));
+        }
+
+        public static string RemoveUrls(string tweet)
+        {
+            return mUrlRegex.Replace(tweet, "");
         }
     }
 }

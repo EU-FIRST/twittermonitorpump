@@ -3,88 +3,92 @@ using System.Web;
 using System.Linq;
 using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Diagnostics;
+using System.Data;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
-using System.Data;
 
 namespace BagOfWordsTest
 {
     class Program
     {
-        private const int STEP_SIZE
-            = 60; // in minutes
-        private const int WINDOW_SIZE_DAY
-            = 24 * 60;
-        private const int WINDOW_SIZE_WEEK
+        class Queue
+        {
+            public Queue<DateTime> mTimeStamps
+                = new Queue<DateTime>();
+            public IncrementalBowSpace mBowSpace
+                = Utils.CreateBowSpace();
+            public IncrementalKMeansClustering mClustering
+                = Utils.CreateClustering();
+
+            public Queue()
+            {
+                // *** for debugging only
+                mClustering.BowSpace = mBowSpace;
+                mClustering.Logger.LocalLevel = Logger.Level.Trace;
+            }
+        }
+
+        const int WINDOW_SIZE_DAY
+            = 24 * 60; // in minutes
+        const int WINDOW_SIZE_WEEK
             = 7 * 24 * 60;
-        private const int WINDOW_SIZE_MONTH
+        const int WINDOW_SIZE_MONTH
             = 30 * 24 * 60;
 
-        private static int mCommandTimeout
+        static int mCommandTimeout
             = Convert.ToInt32(Latino.Utils.GetConfigValue("CommandTimeout", "0"));
+        static string mTopic
+            = Latino.Utils.GetConfigValue("Topic");
+        static int mStepSize
+            = Convert.ToInt32(Latino.Utils.GetConfigValue("StepSizeMinutes", "60"));
+        static double mBowCut
+            = Convert.ToDouble(Latino.Utils.GetConfigValue("BowCut", "0"));
 
-        static Dictionary<int, Pair<IncrementalBowSpace, Queue<DateTime>>> mBowQueues
-            = new Dictionary<int, Pair<IncrementalBowSpace, Queue<DateTime>>>();
-        static Dictionary<int, IncrementalKMeansClustering> mClusteringQueues
-            = new Dictionary<int, IncrementalKMeansClustering>();
+        static Dictionary<int, Queue> mQueues
+            = new Dictionary<int, Queue>();
 
         static void GetTimeSlot(DateTime time, out DateTime timeStart, out DateTime timeEnd)
         {
             double min = (time - DateTime.MinValue).TotalMinutes;
-            int n = (int)Math.Floor(min / (double)STEP_SIZE);
-            TimeSpan timeOffset = new TimeSpan(0, n * STEP_SIZE, 0);
+            int n = (int)Math.Floor(min / (double)mStepSize);
+            TimeSpan timeOffset = new TimeSpan(0, n * mStepSize, 0);
             timeStart = DateTime.MinValue + timeOffset;
-            timeEnd = timeStart + new TimeSpan(0, STEP_SIZE, 0);
+            timeEnd = timeStart + new TimeSpan(0, mStepSize, 0);
         }
 
-        static Pair<IncrementalBowSpace, Queue<DateTime>> GetQueueInfo(int windowSize)
+        static Queue GetQueue(int windowSize)
         {
-            Pair<IncrementalBowSpace, Queue<DateTime>> queueInfo;
-            if (!mBowQueues.TryGetValue(windowSize, out queueInfo))
+            Queue queue;
+            if (!mQueues.TryGetValue(windowSize, out queue))
             {
-                queueInfo = new Pair<IncrementalBowSpace, Queue<DateTime>>();
-                queueInfo.First = Utils.CreateBowSpace();
-                queueInfo.Second = new Queue<DateTime>();
-                mBowQueues.Add(windowSize, queueInfo);
+                queue = new Queue();
+                mQueues.Add(windowSize, queue);
             }
-            return queueInfo;
-        }
-
-        static IncrementalKMeansClustering GetClustering(int windowSize)
-        {
-            IncrementalKMeansClustering clustering;
-            if (!mClusteringQueues.TryGetValue(windowSize, out clustering))
-            {
-                clustering = new IncrementalKMeansClustering();
-                clustering.QualThresh = 0.2;
-                clustering.Logger.LocalLevel = Logger.Level.Trace;
-                clustering.BowSpace = GetQueueInfo(windowSize).First;
-                mClusteringQueues.Add(windowSize, clustering);                
-            }
-            return clustering;
+            return queue;
         }
 
         static void UpdateBowSpace(int windowSize, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, out int numOutdated)
         {
-            Pair<IncrementalBowSpace, Queue<DateTime>> queueInfo = GetQueueInfo(windowSize);            
+            Queue queue = GetQueue(windowSize);
+            IncrementalBowSpace bowSpc = queue.mBowSpace;
+            Queue<DateTime> timeStamps = queue.mTimeStamps;
             DateTime timeStart = timeEnd - new TimeSpan(0, windowSize, 0);
             // add new tweets
             foreach (DateTime timeStamp in tweets.Select(x => x.First))
             {
-                queueInfo.Second.Enqueue(timeStamp);
+                timeStamps.Enqueue(timeStamp);
             }
-            queueInfo.First.Enqueue(tweets.Select(x => x.Second));
+            bowSpc.Enqueue(tweets.Select(x => x.Second));
             // remove outdated tweets
             numOutdated = 0;
-            while (queueInfo.Second.Peek() < timeStart)
+            while (timeStamps.Peek() < timeStart)
             {
-                queueInfo.Second.Dequeue();
+                timeStamps.Dequeue();
                 numOutdated++;
             }
-            queueInfo.First.Dequeue(numOutdated);
-            //queueInfo.First.UpdateMostFrequentWordForms(); // *** too slow
+            bowSpc.Dequeue(numOutdated);
+            //bowSpc.UpdateMostFrequentWordForms(); // *** too slow
         }
 
         static void ProcessTweets(DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
@@ -97,16 +101,22 @@ namespace BagOfWordsTest
                 int numOutdated;
                 UpdateBowSpace(windowSize, timeEnd, tweets, out numOutdated);
                 // update clusters
-                IncrementalBowSpace bowSpc = GetQueueInfo(windowSize).First;                
-                IncrementalKMeansClustering clustering = GetClustering(windowSize);
+                Queue queue = GetQueue(windowSize);
+                IncrementalBowSpace bowSpc = queue.mBowSpace;
+                IncrementalKMeansClustering clustering = queue.mClustering;
                 ArrayList<SparseVector<double>> bowsTfIdf 
-                    = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, /*cut=*/0, /*minWordFreq=*/1); // *** cut here 
-                clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));                
+                    = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, mBowCut, /*minWordFreq=*/1);
+                ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));
+                // create topic-specific centroids
+                foreach (Cluster cluster in result.Roots)
+                {                    
+                    //Console.WriteLine(cluster.ClusterInfo);
+                }
                 // write BOWs to DB
                 ArrayList<SparseVector<double>> bowsTf
                     = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
                 SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(bowsTf, CentroidType.Sum);
-                SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(bowsTfIdf, CentroidType.NrmL2);
+                SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(bowsTfIdf, CentroidType.NrmL2);                
                 foreach (IdxDat<double> item in centroidTfIdf) // *** do this for each topic-specific centroid
                 {
                     Word wordObj = bowSpc.Words[item.Idx];
@@ -123,12 +133,11 @@ namespace BagOfWordsTest
                     bool hashtag = word.Contains("#");
                     bool stock = word.Contains("$");
                     bool nGram = word.Contains(" ");
-                    //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", 
-                    //    stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
+                    //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
                     bowTable.Rows.Add(
                         timeStart,
                         timeEnd,
-                        null, // topic 1
+                        mTopic, // topic 1
                         null, // topic 2
                         null, // topic 3
                         windowSize,
