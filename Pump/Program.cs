@@ -13,18 +13,8 @@ namespace BagOfWordsTest
 {
     class Program
     {
-        private class WordInfo
-        {
-            public int mTermFreq
-                = 0;
-            public Dictionary<int, double> mTfIdf
-                = new Dictionary<int, double>();
-            public Dictionary<int, string> mMostFrequentForm
-                = new Dictionary<int, string>();
-        }
-
-        private const int WINDOW_SIZE_STEP
-            = 5; // in minutes
+        private const int STEP_SIZE
+            = 60; // in minutes
         private const int WINDOW_SIZE_DAY
             = 24 * 60;
         private const int WINDOW_SIZE_WEEK
@@ -35,34 +25,50 @@ namespace BagOfWordsTest
         private static int mCommandTimeout
             = Convert.ToInt32(Latino.Utils.GetConfigValue("CommandTimeout", "0"));
 
-        static Dictionary<int, Pair<IncrementalBowSpace, Queue<DateTime>>> mQueues
+        static Dictionary<int, Pair<IncrementalBowSpace, Queue<DateTime>>> mBowQueues
             = new Dictionary<int, Pair<IncrementalBowSpace, Queue<DateTime>>>();
+        static Dictionary<int, IncrementalKMeansClustering> mClusteringQueues
+            = new Dictionary<int, IncrementalKMeansClustering>();
 
         static void GetTimeSlot(DateTime time, out DateTime timeStart, out DateTime timeEnd)
         {
             double min = (time - DateTime.MinValue).TotalMinutes;
-            int n = (int)Math.Floor(min / (double)WINDOW_SIZE_STEP);
-            TimeSpan timeOffset = new TimeSpan(0, n * WINDOW_SIZE_STEP, 0);
+            int n = (int)Math.Floor(min / (double)STEP_SIZE);
+            TimeSpan timeOffset = new TimeSpan(0, n * STEP_SIZE, 0);
             timeStart = DateTime.MinValue + timeOffset;
-            timeEnd = timeStart + new TimeSpan(0, WINDOW_SIZE_STEP, 0);
+            timeEnd = timeStart + new TimeSpan(0, STEP_SIZE, 0);
         }
 
         static Pair<IncrementalBowSpace, Queue<DateTime>> GetQueueInfo(int windowSize)
         {
             Pair<IncrementalBowSpace, Queue<DateTime>> queueInfo;
-            if (!mQueues.TryGetValue(windowSize, out queueInfo))
+            if (!mBowQueues.TryGetValue(windowSize, out queueInfo))
             {
                 queueInfo = new Pair<IncrementalBowSpace, Queue<DateTime>>();
                 queueInfo.First = Utils.CreateBowSpace();
                 queueInfo.Second = new Queue<DateTime>();
-                mQueues.Add(windowSize, queueInfo);
+                mBowQueues.Add(windowSize, queueInfo);
             }
             return queueInfo;
         }
 
-        static void UpdateQueue(int windowSize, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets)
+        static IncrementalKMeansClustering GetClustering(int windowSize)
         {
-            Pair<IncrementalBowSpace, Queue<DateTime>> queueInfo = GetQueueInfo(windowSize);
+            IncrementalKMeansClustering clustering;
+            if (!mClusteringQueues.TryGetValue(windowSize, out clustering))
+            {
+                clustering = new IncrementalKMeansClustering();
+                clustering.QualThresh = 0.2;
+                clustering.Logger.LocalLevel = Logger.Level.Trace;
+                clustering.BowSpace = GetQueueInfo(windowSize).First;
+                mClusteringQueues.Add(windowSize, clustering);                
+            }
+            return clustering;
+        }
+
+        static void UpdateBowSpace(int windowSize, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, out int numOutdated)
+        {
+            Pair<IncrementalBowSpace, Queue<DateTime>> queueInfo = GetQueueInfo(windowSize);            
             DateTime timeStart = timeEnd - new TimeSpan(0, windowSize, 0);
             // add new tweets
             foreach (DateTime timeStamp in tweets.Select(x => x.First))
@@ -71,97 +77,78 @@ namespace BagOfWordsTest
             }
             queueInfo.First.Enqueue(tweets.Select(x => x.Second));
             // remove outdated tweets
-            int num = 0;
+            numOutdated = 0;
             while (queueInfo.Second.Peek() < timeStart)
             {
                 queueInfo.Second.Dequeue();
-                num++;
+                numOutdated++;
             }
-            queueInfo.First.Dequeue(num);
+            queueInfo.First.Dequeue(numOutdated);
             //queueInfo.First.UpdateMostFrequentWordForms(); // *** too slow
         }
 
         static void ProcessTweets(DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
         {
             Console.WriteLine("Processing tweets {0:HH:mm:ss}-{1:HH:mm:ss} ({2} tweets) ...", timeStart, timeEnd, tweets.Count);
-            Dictionary<string, WordInfo> words = new Dictionary<string, WordInfo>();
-            foreach (int windowSize in new int[] { WINDOW_SIZE_STEP, WINDOW_SIZE_DAY, WINDOW_SIZE_WEEK, WINDOW_SIZE_MONTH })
+            DataTable bowTable = Utils.CreateBowTable();
+            foreach (int windowSize in new int[] { WINDOW_SIZE_DAY, WINDOW_SIZE_WEEK, WINDOW_SIZE_MONTH })
             {
-                UpdateQueue(windowSize, timeEnd, tweets);
-                IncrementalBowSpace bowSpc = GetQueueInfo(windowSize).First;
-                if (windowSize == WINDOW_SIZE_STEP) // compute TF weights
+                // update BOW space
+                int numOutdated;
+                UpdateBowSpace(windowSize, timeEnd, tweets, out numOutdated);
+                // update clusters
+                IncrementalBowSpace bowSpc = GetQueueInfo(windowSize).First;                
+                IncrementalKMeansClustering clustering = GetClustering(windowSize);
+                ArrayList<SparseVector<double>> bowsTfIdf 
+                    = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, /*cut=*/0, /*minWordFreq=*/1); // *** cut here 
+                clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));                
+                // write BOWs to DB
+                ArrayList<SparseVector<double>> bowsTf
+                    = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
+                SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(bowsTf, CentroidType.Sum);
+                SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(bowsTfIdf, CentroidType.NrmL2);
+                foreach (IdxDat<double> item in centroidTfIdf) // *** do this for each topic-specific centroid
                 {
-                    ArrayList<SparseVector<double>> bows = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cutLowWeightsPerc=*/0, /*minWordFreq=*/1);
-                    SparseVector<double> bowSum = ModelUtils.ComputeCentroid(bows, CentroidType.Sum);
-                    foreach (IdxDat<double> item in bowSum)
-                    {
-                        Word word = bowSpc.Words[item.Idx];
-                        WordInfo wordInfo = new WordInfo();
-                        wordInfo.mTermFreq = (int)item.Dat;
-                        words.Add(word.Stem, wordInfo);
+                    Word wordObj = bowSpc.Words[item.Idx];
+                    string stem = wordObj.Stem.ToUpper();
+                    string word = wordObj.MostFrequentForm.ToUpper();
+                    int tf = (int)sumBowsTf[item.Idx];
+                    int d = 0;
+                    foreach (SparseVector<double> bow in bowsTf) 
+                    { 
+                        if (bow.ContainsAt(item.Idx)) { d++; } 
                     }
+                    double tfIdf = item.Dat;
+                    bool user = word.Contains("@");
+                    bool hashtag = word.Contains("#");
+                    bool stock = word.Contains("$");
+                    bool nGram = word.Contains(" ");
+                    //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", 
+                    //    stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
+                    bowTable.Rows.Add(
+                        timeStart,
+                        timeEnd,
+                        null, // topic 1
+                        null, // topic 2
+                        null, // topic 3
+                        windowSize,
+                        tweets.Count, // *** cluster size
+                        Latino.Utils.Truncate(stem, 140),
+                        Latino.Utils.Truncate(word, 140),
+                        tf,
+                        d,
+                        tfIdf,
+                        user,
+                        hashtag,
+                        stock,
+                        nGram
+                        );
                 }
-                else // compute TF-IDF weights
-                {
-                    double wgtSum = 0;
-                    int i = 0;
-                    ArrayList<int> tmp = new ArrayList<int>();
-                    WordInfo wordInfo;
-                    foreach (Word word in bowSpc.Words)
-                    {                        
-                        if (word != null && words.TryGetValue(word.Stem, out wordInfo))
-                        {
-                            double idf = Math.Log((double)bowSpc.Count / (double)word.DocFreq);
-                            double tfIdf = wordInfo.mTermFreq * idf;
-                            wordInfo.mTfIdf.Add(windowSize, tfIdf);
-                            wordInfo.mMostFrequentForm.Add(windowSize, word.MostFrequentForm);
-                            wgtSum += tfIdf;
-                            tmp.Add(i);
-                        }
-                        i++;
-                    }
-                    if (wgtSum > 0) // normalize TF-IDF weights
-                    {
-                        foreach (int idx in tmp)
-                        {
-                            Word word = bowSpc.Words[idx];
-                            if (word != null && words.TryGetValue(word.Stem, out wordInfo))
-                            {
-                                wordInfo.mTfIdf[windowSize] /= wgtSum;
-                            }
-                        }
-                    }
-                }
-            }
-            // write data to database
-            DataTable tbl = Utils.CreateBowTable();
-            foreach (KeyValuePair<string, WordInfo> item in words)
-            {
-                string stem = item.Key.ToUpper();
-                string word = item.Value.mMostFrequentForm[WINDOW_SIZE_MONTH].ToUpper();
-                tbl.Rows.Add(
-                    timeStart,
-                    timeEnd,
-                    Latino.Utils.Truncate(stem, 140),
-                    Latino.Utils.Truncate(word, 140),
-                    item.Value.mTermFreq,
-                    tweets.Count,
-                    item.Value.mTfIdf[WINDOW_SIZE_DAY],
-                    item.Value.mTfIdf[WINDOW_SIZE_WEEK],
-                    item.Value.mTfIdf[WINDOW_SIZE_MONTH],
-                    word.Contains("@"),
-                    word.Contains("#"),
-                    word.Contains("$"),
-                    word.Contains(" "),
-                    null,
-                    null,
-                    null
-                    );
             }
             SqlBulkCopy bulkCopy = new SqlBulkCopy(connection);
             bulkCopy.BulkCopyTimeout = mCommandTimeout;
             bulkCopy.DestinationTableName = "BagsOfWords";
-            bulkCopy.WriteToServer(tbl);
+            bulkCopy.WriteToServer(bowTable);
             bulkCopy.Close();
         }
 

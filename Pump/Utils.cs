@@ -4,6 +4,7 @@ using System.Text.RegularExpressions;
 using System.Data;
 using Latino;
 using Latino.TextMining;
+using Latino.Model;
 
 namespace BagOfWordsTest
 {
@@ -50,20 +51,20 @@ namespace BagOfWordsTest
             DataTable table = new DataTable();
             table.Columns.Add("StartTime", typeof(DateTime));
             table.Columns.Add("EndTime", typeof(DateTime));
+            table.Columns.Add("Topic1", typeof(string));
+            table.Columns.Add("Topic2", typeof(string));
+            table.Columns.Add("Topic3", typeof(string));
+            table.Columns.Add("WindowSize", typeof(int));
+            table.Columns.Add("NumDocs", typeof(int));
             table.Columns.Add("Stem", typeof(string));
-            table.Columns.Add("MostFrequentForm_1M", typeof(string));
+            table.Columns.Add("MostFrequentForm", typeof(string));
             table.Columns.Add("TF", typeof(int));
             table.Columns.Add("D", typeof(int));
-            table.Columns.Add("TFIDF_1D", typeof(double));
-            table.Columns.Add("TFIDF_1W", typeof(double));
-            table.Columns.Add("TFIDF_1M", typeof(double));
+            table.Columns.Add("TFIDF", typeof(double));
             table.Columns.Add("[User]", typeof(bool));
             table.Columns.Add("Hashtag", typeof(bool));
             table.Columns.Add("Stock", typeof(bool));
             table.Columns.Add("NGram", typeof(bool));
-            table.Columns.Add("Topic1", typeof(string));
-            table.Columns.Add("Topic2", typeof(string));
-            table.Columns.Add("Topic3", typeof(string));
             return table;
         }
 
