@@ -42,8 +42,8 @@ namespace BagOfWordsTest
             = Latino.Utils.GetConfigValue("Topic");
         static int mStepSize
             = Convert.ToInt32(Latino.Utils.GetConfigValue("StepSizeMinutes", "60"));
-        static double mBowCut
-            = Convert.ToDouble(Latino.Utils.GetConfigValue("BowCut", "0"));
+        static double mBowWeightsCut
+            = Convert.ToDouble(Latino.Utils.GetConfigValue("BowWeightsCut", "0"));
 
         static Dictionary<int, Queue> mQueues
             = new Dictionary<int, Queue>();
@@ -104,54 +104,56 @@ namespace BagOfWordsTest
                 Queue queue = GetQueue(windowSize);
                 IncrementalBowSpace bowSpc = queue.mBowSpace;
                 IncrementalKMeansClustering clustering = queue.mClustering;
-                ArrayList<SparseVector<double>> bowsTfIdf 
-                    = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, mBowCut, /*minWordFreq=*/1);
-                ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));
-                // create topic-specific centroids
-                foreach (Cluster cluster in result.Roots)
-                {                    
-                    //Console.WriteLine(cluster.ClusterInfo);
-                }
-                // write BOWs to DB
                 ArrayList<SparseVector<double>> bowsTf
                     = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
-                SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(bowsTf, CentroidType.Sum);
-                SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(bowsTfIdf, CentroidType.NrmL2);                
-                foreach (IdxDat<double> item in centroidTfIdf) // *** do this for each topic-specific centroid
+                ArrayList<SparseVector<double>> bowsTfIdf
+                    = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, mBowWeightsCut, /*minWordFreq=*/1);
+                ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));
+                // create topic-specific centroids
+                int minIdx = bowSpc.Count - tweets.Count;
+                foreach (Cluster cluster in result.Roots)
                 {
-                    Word wordObj = bowSpc.Words[item.Idx];
-                    string stem = wordObj.Stem.ToUpper();
-                    string word = wordObj.MostFrequentForm.ToUpper();
-                    int tf = (int)sumBowsTf[item.Idx];
-                    int d = 0;
-                    foreach (SparseVector<double> bow in bowsTf) 
-                    { 
-                        if (bow.ContainsAt(item.Idx)) { d++; } 
+                    string topicId = string.Format("T{0}", cluster.ClusterInfo); // topic identifier
+                    Set<int> items = new Set<int>(cluster.Items.Where(x => x >= minIdx).Select(x => x - minIdx));
+                    if (items.Count == 0) { continue; }
+                    ArrayList<SparseVector<double>> clusterBowsTf
+                        = new ArrayList<SparseVector<double>>(bowsTf.Where((x, i) => items.Contains(i)));
+                    ArrayList<SparseVector<double>> clusterBowsTfIdf
+                        = new ArrayList<SparseVector<double>>(bowsTfIdf.Where((x, i) => items.Contains(i)));
+                    SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.Sum);
+                    SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
+                    foreach (IdxDat<double> item in centroidTfIdf) 
+                    {
+                        Word wordObj = bowSpc.Words[item.Idx];
+                        string stem = wordObj.Stem.ToUpper();
+                        string word = wordObj.MostFrequentForm.ToUpper();
+                        int tf = (int)sumBowsTf[item.Idx];
+                        int d = clusterBowsTf.Where(x => x.ContainsAt(item.Idx)).Count();
+                        double tfIdf = item.Dat;
+                        bool user = word.Contains("@");
+                        bool hashtag = word.Contains("#");
+                        bool stock = word.Contains("$");
+                        bool nGram = word.Contains(" ");
+                        //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
+                        bowTable.Rows.Add(
+                            timeStart,
+                            timeEnd,
+                            mTopic,  // topic 1
+                            topicId, // topic 2
+                            null,    // topic 3
+                            windowSize,
+                            items.Count,
+                            Latino.Utils.Truncate(stem, 140),
+                            Latino.Utils.Truncate(word, 140),
+                            tf,
+                            d,
+                            tfIdf,
+                            user,
+                            hashtag,
+                            stock,
+                            nGram
+                            );
                     }
-                    double tfIdf = item.Dat;
-                    bool user = word.Contains("@");
-                    bool hashtag = word.Contains("#");
-                    bool stock = word.Contains("$");
-                    bool nGram = word.Contains(" ");
-                    //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
-                    bowTable.Rows.Add(
-                        timeStart,
-                        timeEnd,
-                        mTopic, // topic 1
-                        null, // topic 2
-                        null, // topic 3
-                        windowSize,
-                        tweets.Count, // *** cluster size
-                        Latino.Utils.Truncate(stem, 140),
-                        Latino.Utils.Truncate(word, 140),
-                        tf,
-                        d,
-                        tfIdf,
-                        user,
-                        hashtag,
-                        stock,
-                        nGram
-                        );
                 }
             }
             SqlBulkCopy bulkCopy = new SqlBulkCopy(connection);
@@ -183,15 +185,15 @@ namespace BagOfWordsTest
                             string text = Utils.GetVal<string>(reader, "Text");
                             text = HttpUtility.HtmlDecode(Utils.RemoveUrls(text)); // prepare tweet text
                             DateTime timeStamp = Utils.GetVal<DateTime>(reader, "CreatedAt");
-                            DateTime _timeStart, _timeEnd;
-                            GetTimeSlot(timeStamp, out _timeStart, out _timeEnd);
-                            if (_timeStart != timeStart && timeStart != DateTime.MinValue)
+                            DateTime tmpTimeStart, tmpTimeEnd;
+                            GetTimeSlot(timeStamp, out tmpTimeStart, out tmpTimeEnd);
+                            if (tmpTimeStart != timeStart && timeStart != DateTime.MinValue)
                             {
                                 ProcessTweets(timeStart, timeEnd, tweets, output);
                                 tweets.Clear();
                             }
-                            timeStart = _timeStart;
-                            timeEnd = _timeEnd;
+                            timeStart = tmpTimeStart;
+                            timeEnd = tmpTimeEnd;
                             tweets.Add(new Pair<DateTime, string>(timeStamp, text));
                         }
                         if (tweets.Count > 0)
