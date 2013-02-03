@@ -62,6 +62,7 @@ namespace BagOfWordsTest
         {
             DataTable table = new DataTable();
             table.Columns.Add("ClusterId", typeof(Guid));
+            table.Columns.Add("StemHash", typeof(Guid));
             table.Columns.Add("Stem", typeof(string));
             table.Columns.Add("MostFrequentForm", typeof(string));
             table.Columns.Add("TF", typeof(int));

@@ -18,14 +18,15 @@ CREATE TABLE [dbo].[Clusters](
 	[EndTime] [datetime] NOT NULL,
 	[Topic] [bigint] NOT NULL,
 	[NumDocs] [int] NOT NULL
-	constraint UQ_Clusters unique (Id) --with (ignore_dup_key = on)
+	constraint UQ_Clusters unique (Id) 
 ) ON [PRIMARY]
 
 GO
 
 CREATE TABLE [dbo].[Terms](
 	[ClusterId] [uniqueidentifier] NOT NULL,
-	[Stem] [nvarchar](140) NOT NULL,
+	[StemHash] [uniqueidentifier] NOT NULL,
+	[Stem] [nvarchar](140) NOT NULL,	
 	[MostFrequentForm] [nvarchar](140) NOT NULL,
 	[TF] [int] NOT NULL,
 	[D] [int] NOT NULL,
@@ -34,7 +35,7 @@ CREATE TABLE [dbo].[Terms](
 	[Hashtag] [bit] NOT NULL,
 	[Stock] [bit] NOT NULL,
 	[NGram] [bit] NOT NULL
-	constraint UQ_Terms unique (ClusterId, Stem) --with (ignore_dup_key = on)
+	constraint UQ_Terms unique (ClusterId, StemHash)
 ) ON [PRIMARY]
 
 GO

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data;
+using System.Security.Cryptography;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
@@ -52,8 +53,8 @@ namespace BagOfWordsTest
         static int mWindowSize
             = Convert.ToInt32(Latino.Utils.GetConfigValue("WindowSizeMinutes", "1440"));
 
-        static Dictionary<int, Queue> mQueues
-            = new Dictionary<int, Queue>();
+        static Queue mQueue
+            = new Queue();
 
         static void GetTimeSlot(DateTime time, out DateTime timeStart, out DateTime timeEnd)
         {
@@ -64,22 +65,10 @@ namespace BagOfWordsTest
             timeEnd = timeStart + new TimeSpan(0, mStepSize, 0);
         }
 
-        static Queue GetQueue(int windowSize)
-        {
-            Queue queue;
-            if (!mQueues.TryGetValue(windowSize, out queue))
-            {
-                queue = new Queue();
-                mQueues.Add(windowSize, queue);
-            }
-            return queue;
-        }
-
         static void UpdateBowSpace(int windowSize, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, out int numOutdated)
         {
-            Queue queue = GetQueue(windowSize);
-            IncrementalBowSpace bowSpc = queue.mBowSpace;
-            Queue<DateTime> timeStamps = queue.mTimeStamps;
+            IncrementalBowSpace bowSpc = mQueue.mBowSpace;
+            Queue<DateTime> timeStamps = mQueue.mTimeStamps;
             DateTime timeStart = timeEnd - new TimeSpan(0, windowSize, 0);
             // add new tweets
             foreach (DateTime timeStamp in tweets.Select(x => x.First))
@@ -100,7 +89,10 @@ namespace BagOfWordsTest
 
         static Guid ComputeClusterId(DateTime startTime, long topicId)
         {
-            return Guid.NewGuid();
+            ArrayList<byte> buffer = new ArrayList<byte>();
+            buffer.AddRange(BitConverter.GetBytes(startTime.ToBinary()));
+            buffer.AddRange(BitConverter.GetBytes(topicId));
+            return new Guid(MD5.Create().ComputeHash(buffer.ToArray()));
         }
 
         static void ProcessTweets(DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
@@ -112,9 +104,8 @@ namespace BagOfWordsTest
             int numOutdated;
             UpdateBowSpace(mWindowSize, timeEnd, tweets, out numOutdated);
             // update clusters
-            Queue queue = GetQueue(mWindowSize);
-            IncrementalBowSpace bowSpc = queue.mBowSpace;
-            IncrementalKMeansClustering clustering = queue.mClustering;
+            IncrementalBowSpace bowSpc = mQueue.mBowSpace;
+            IncrementalKMeansClustering clustering = mQueue.mClustering;
             ArrayList<SparseVector<double>> bowsTf
                 = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
             ArrayList<SparseVector<double>> bowsTfIdf
@@ -144,8 +135,8 @@ namespace BagOfWordsTest
                 foreach (IdxDat<double> item in centroidTfIdf) 
                 {
                     Word wordObj = bowSpc.Words[item.Idx];
-                    string stem = wordObj.Stem.ToUpper();
-                    string word = wordObj.MostFrequentForm.ToUpper();
+                    string stem = wordObj.Stem;
+                    string word = wordObj.MostFrequentForm;
                     int tf = (int)sumBowsTf[item.Idx];
                     int d = clusterBowsTf.Count(x => x.ContainsAt(item.Idx));
                     double tfIdf = item.Dat;
@@ -156,8 +147,9 @@ namespace BagOfWordsTest
                     //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
                     termsTable.Rows.Add(
                         clusterId,
-                        Latino.Utils.Truncate(stem, 140),
-                        Latino.Utils.Truncate(word, 140),
+                        Latino.Utils.GetStringHashCode128(stem),
+                        Latino.Utils.Truncate(stem.ToUpper(), 140),
+                        Latino.Utils.Truncate(word.ToUpper(), 140),
                         tf,
                         d,
                         tfIdf,
