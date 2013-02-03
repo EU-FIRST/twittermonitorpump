@@ -34,7 +34,7 @@ namespace BagOfWordsTest
             // additional stop words
             stopWords.AddRange("i,m,you,re,he,s,she,it,we,they,ve,d,ll,isn,t,aren,wasn,weren,hasn,haven,hadn,doesn,don,didn,wouldn,shan,shouldn,couldn,mustn,let,that,who,what,here,there,when,where,why,how".Split(','));
             stopWords.Add("rt");
-            bowSpc.Stemmer = new Lemmatizer(Language.English);
+            bowSpc.Stemmer = new TwitterLemmatizer();
             bowSpc.StopWords = stopWords;
             bowSpc.MaxNGramLen = 2;
             return bowSpc;
@@ -47,13 +47,21 @@ namespace BagOfWordsTest
             return clustering;
         }
 
-        public static DataTable CreateBowTable()
+        public static DataTable CreateClustersTable()
         {
             DataTable table = new DataTable();
+            table.Columns.Add("Id", typeof(Guid));
             table.Columns.Add("StartTime", typeof(DateTime));
             table.Columns.Add("EndTime", typeof(DateTime));
             table.Columns.Add("Topic", typeof(long));
             table.Columns.Add("NumDocs", typeof(int));
+            return table;        
+        }
+
+        public static DataTable CreateTermsTable()
+        {
+            DataTable table = new DataTable();
+            table.Columns.Add("ClusterId", typeof(Guid));
             table.Columns.Add("Stem", typeof(string));
             table.Columns.Add("MostFrequentForm", typeof(string));
             table.Columns.Add("TF", typeof(int));

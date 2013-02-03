@@ -45,8 +45,10 @@ namespace BagOfWordsTest
             = Convert.ToInt32(Latino.Utils.GetConfigValue("StepSizeMinutes", "60"));
         static double mBowWeightsCut
             = Convert.ToDouble(Latino.Utils.GetConfigValue("BowWeightsCut", "0"));
-        static string mOutputTableName
-            = Latino.Utils.GetConfigValue("OutputTableName");
+        static string mOutputTableNameTerms
+            = Latino.Utils.GetConfigValue("OutputTableNameTerms");
+        static string mOutputTableNameClusters
+            = Latino.Utils.GetConfigValue("OutputTableNameClusters");
         static int mWindowSize
             = Convert.ToInt32(Latino.Utils.GetConfigValue("WindowSizeMinutes", "1440"));
 
@@ -96,10 +98,16 @@ namespace BagOfWordsTest
             //bowSpc.UpdateMostFrequentWordForms(); // *** too slow
         }
 
+        static Guid ComputeClusterId(DateTime startTime, long topicId)
+        {
+            return Guid.NewGuid();
+        }
+
         static void ProcessTweets(DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
         {
             Console.WriteLine("Processing tweets {0:HH:mm:ss}-{1:HH:mm:ss} ({2} tweets) ...", timeStart, timeEnd, tweets.Count);
-            DataTable bowTable = Utils.CreateBowTable();
+            DataTable clustersTable = Utils.CreateClustersTable();
+            DataTable termsTable = Utils.CreateTermsTable();
             // update BOW space
             int numOutdated;
             UpdateBowSpace(mWindowSize, timeEnd, tweets, out numOutdated);
@@ -125,25 +133,29 @@ namespace BagOfWordsTest
                     = new ArrayList<SparseVector<double>>(bowsTfIdf.Where((x, i) => items.Contains(i)));
                 SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.Sum);
                 SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
+                Guid clusterId = ComputeClusterId(timeStart, topicId);
+                clustersTable.Rows.Add(
+                    clusterId,
+                    timeStart,
+                    timeEnd,
+                    topicId, 
+                    items.Count
+                    );                
                 foreach (IdxDat<double> item in centroidTfIdf) 
                 {
                     Word wordObj = bowSpc.Words[item.Idx];
                     string stem = wordObj.Stem.ToUpper();
                     string word = wordObj.MostFrequentForm.ToUpper();
                     int tf = (int)sumBowsTf[item.Idx];
-                    int d = clusterBowsTf.Where(x => x.ContainsAt(item.Idx)).Count();
-                    // use "int d = clusterBowsTf.Count(x => x.ContainsAt(item.Idx));" instead?
+                    int d = clusterBowsTf.Count(x => x.ContainsAt(item.Idx));
                     double tfIdf = item.Dat;
                     bool user = word.Contains("@");
                     bool hashtag = word.Contains("#");
                     bool stock = word.Contains("$");
                     bool nGram = word.Contains(" ");
                     //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
-                    bowTable.Rows.Add(
-                        timeStart,
-                        timeEnd,
-                        topicId, 
-                        items.Count,
+                    termsTable.Rows.Add(
+                        clusterId,
                         Latino.Utils.Truncate(stem, 140),
                         Latino.Utils.Truncate(word, 140),
                         tf,
@@ -158,8 +170,10 @@ namespace BagOfWordsTest
             }
             SqlBulkCopy bulkCopy = new SqlBulkCopy(connection);
             bulkCopy.BulkCopyTimeout = mCommandTimeout;
-            bulkCopy.DestinationTableName = mOutputTableName;
-            bulkCopy.WriteToServer(bowTable);
+            bulkCopy.DestinationTableName = mOutputTableNameClusters;
+            bulkCopy.WriteToServer(clustersTable);
+            bulkCopy.DestinationTableName = mOutputTableNameTerms;
+            bulkCopy.WriteToServer(termsTable);
             bulkCopy.Close();
         }
 
