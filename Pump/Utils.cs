@@ -52,10 +52,7 @@ namespace BagOfWordsTest
             DataTable table = new DataTable();
             table.Columns.Add("StartTime", typeof(DateTime));
             table.Columns.Add("EndTime", typeof(DateTime));
-            table.Columns.Add("Topic1", typeof(string));
-            table.Columns.Add("Topic2", typeof(string));
-            table.Columns.Add("Topic3", typeof(string));
-            table.Columns.Add("WindowSize", typeof(int));
+            table.Columns.Add("Topic", typeof(long));
             table.Columns.Add("NumDocs", typeof(int));
             table.Columns.Add("Stem", typeof(string));
             table.Columns.Add("MostFrequentForm", typeof(string));

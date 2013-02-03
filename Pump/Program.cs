@@ -25,7 +25,8 @@ namespace BagOfWordsTest
             {
                 // *** for debugging only
                 mClustering.BowSpace = mBowSpace;
-                mClustering.Logger.LocalLevel = Logger.Level.Trace;
+                //mClustering.Logger.LocalLevel = Logger.Level.Trace;
+                mClustering.Logger.LocalLevel = Logger.Level.Off;
             }
         }
 
@@ -44,6 +45,10 @@ namespace BagOfWordsTest
             = Convert.ToInt32(Latino.Utils.GetConfigValue("StepSizeMinutes", "60"));
         static double mBowWeightsCut
             = Convert.ToDouble(Latino.Utils.GetConfigValue("BowWeightsCut", "0"));
+        static string mOutputTableName
+            = Latino.Utils.GetConfigValue("OutputTableName");
+        static int mWindowSize
+            = Convert.ToInt32(Latino.Utils.GetConfigValue("WindowSizeMinutes", "1440"));
 
         static Dictionary<int, Queue> mQueues
             = new Dictionary<int, Queue>();
@@ -95,70 +100,65 @@ namespace BagOfWordsTest
         {
             Console.WriteLine("Processing tweets {0:HH:mm:ss}-{1:HH:mm:ss} ({2} tweets) ...", timeStart, timeEnd, tweets.Count);
             DataTable bowTable = Utils.CreateBowTable();
-            foreach (int windowSize in new int[] { WINDOW_SIZE_DAY, WINDOW_SIZE_WEEK, WINDOW_SIZE_MONTH })
+            // update BOW space
+            int numOutdated;
+            UpdateBowSpace(mWindowSize, timeEnd, tweets, out numOutdated);
+            // update clusters
+            Queue queue = GetQueue(mWindowSize);
+            IncrementalBowSpace bowSpc = queue.mBowSpace;
+            IncrementalKMeansClustering clustering = queue.mClustering;
+            ArrayList<SparseVector<double>> bowsTf
+                = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
+            ArrayList<SparseVector<double>> bowsTfIdf
+                = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, mBowWeightsCut, /*minWordFreq=*/1);
+            ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));
+            // create topic-specific centroids
+            int minIdx = bowSpc.Count - tweets.Count;
+            foreach (Cluster cluster in result.Roots)
             {
-                // update BOW space
-                int numOutdated;
-                UpdateBowSpace(windowSize, timeEnd, tweets, out numOutdated);
-                // update clusters
-                Queue queue = GetQueue(windowSize);
-                IncrementalBowSpace bowSpc = queue.mBowSpace;
-                IncrementalKMeansClustering clustering = queue.mClustering;
-                ArrayList<SparseVector<double>> bowsTf
-                    = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
-                ArrayList<SparseVector<double>> bowsTfIdf
-                    = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, mBowWeightsCut, /*minWordFreq=*/1);
-                ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));
-                // create topic-specific centroids
-                int minIdx = bowSpc.Count - tweets.Count;
-                foreach (Cluster cluster in result.Roots)
+                long topicId = (long)cluster.ClusterInfo; // topic identifier
+                Set<int> items = new Set<int>(cluster.Items.Where(x => x >= minIdx).Select(x => x - minIdx));
+                if (items.Count == 0) { continue; }
+                ArrayList<SparseVector<double>> clusterBowsTf
+                    = new ArrayList<SparseVector<double>>(bowsTf.Where((x, i) => items.Contains(i)));
+                ArrayList<SparseVector<double>> clusterBowsTfIdf
+                    = new ArrayList<SparseVector<double>>(bowsTfIdf.Where((x, i) => items.Contains(i)));
+                SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.Sum);
+                SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
+                foreach (IdxDat<double> item in centroidTfIdf) 
                 {
-                    string topicId = string.Format("T{0}", cluster.ClusterInfo); // topic identifier
-                    Set<int> items = new Set<int>(cluster.Items.Where(x => x >= minIdx).Select(x => x - minIdx));
-                    if (items.Count == 0) { continue; }
-                    ArrayList<SparseVector<double>> clusterBowsTf
-                        = new ArrayList<SparseVector<double>>(bowsTf.Where((x, i) => items.Contains(i)));
-                    ArrayList<SparseVector<double>> clusterBowsTfIdf
-                        = new ArrayList<SparseVector<double>>(bowsTfIdf.Where((x, i) => items.Contains(i)));
-                    SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.Sum);
-                    SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
-                    foreach (IdxDat<double> item in centroidTfIdf) 
-                    {
-                        Word wordObj = bowSpc.Words[item.Idx];
-                        string stem = wordObj.Stem.ToUpper();
-                        string word = wordObj.MostFrequentForm.ToUpper();
-                        int tf = (int)sumBowsTf[item.Idx];
-                        int d = clusterBowsTf.Where(x => x.ContainsAt(item.Idx)).Count();
-                        double tfIdf = item.Dat;
-                        bool user = word.Contains("@");
-                        bool hashtag = word.Contains("#");
-                        bool stock = word.Contains("$");
-                        bool nGram = word.Contains(" ");
-                        //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
-                        bowTable.Rows.Add(
-                            timeStart,
-                            timeEnd,
-                            mTopic,  // topic 1
-                            topicId, // topic 2
-                            null,    // topic 3
-                            windowSize,
-                            items.Count,
-                            Latino.Utils.Truncate(stem, 140),
-                            Latino.Utils.Truncate(word, 140),
-                            tf,
-                            d,
-                            tfIdf,
-                            user,
-                            hashtag,
-                            stock,
-                            nGram
-                            );
-                    }
+                    Word wordObj = bowSpc.Words[item.Idx];
+                    string stem = wordObj.Stem.ToUpper();
+                    string word = wordObj.MostFrequentForm.ToUpper();
+                    int tf = (int)sumBowsTf[item.Idx];
+                    int d = clusterBowsTf.Where(x => x.ContainsAt(item.Idx)).Count();
+                    // use "int d = clusterBowsTf.Count(x => x.ContainsAt(item.Idx));" instead?
+                    double tfIdf = item.Dat;
+                    bool user = word.Contains("@");
+                    bool hashtag = word.Contains("#");
+                    bool stock = word.Contains("$");
+                    bool nGram = word.Contains(" ");
+                    //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
+                    bowTable.Rows.Add(
+                        timeStart,
+                        timeEnd,
+                        topicId, 
+                        items.Count,
+                        Latino.Utils.Truncate(stem, 140),
+                        Latino.Utils.Truncate(word, 140),
+                        tf,
+                        d,
+                        tfIdf,
+                        user,
+                        hashtag,
+                        stock,
+                        nGram
+                        );
                 }
             }
             SqlBulkCopy bulkCopy = new SqlBulkCopy(connection);
             bulkCopy.BulkCopyTimeout = mCommandTimeout;
-            bulkCopy.DestinationTableName = "BagsOfWords";
+            bulkCopy.DestinationTableName = mOutputTableName;
             bulkCopy.WriteToServer(bowTable);
             bulkCopy.Close();
         }

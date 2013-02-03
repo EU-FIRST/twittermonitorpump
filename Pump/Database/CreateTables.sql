@@ -1,5 +1,5 @@
-﻿IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[BagsOfWords]') AND type in (N'U'))
-DROP TABLE [dbo].[BagsOfWords]
+﻿IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[<table_name>]') AND type in (N'U'))
+DROP TABLE [dbo].[<table_name>]
 GO
 
 SET ANSI_NULLS ON
@@ -8,13 +8,10 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
-CREATE TABLE [dbo].[BagsOfWords](
+CREATE TABLE [dbo].[<table_name>](
 	[StartTime] [datetime] NOT NULL,
 	[EndTime] [datetime] NOT NULL,
-	[Topic1] [nvarchar](100) NULL,
-	[Topic2] [nvarchar](100) NULL,
-	[Topic3] [nvarchar](100) NULL,
-	[WindowSize] [int] NOT NULL,
+	[Topic] [bigint] NOT NULL,
 	[NumDocs] [int] NOT NULL,
 	[Stem] [nvarchar](140) NOT NULL,
 	[MostFrequentForm] [nvarchar](140) NOT NULL,
