@@ -1,0 +1,9 @@
+bin/
+obj/
+*.suo
+*.sln.user
+*.sln.DotSettings.user
+*.csproj.user
+*.csproj.DotSettings.user
+*.Publish.xml
+_ReSharper.*/
