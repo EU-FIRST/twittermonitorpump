@@ -14,7 +14,16 @@ namespace TwitterMonitorDAL
     {
 
         [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
         string GetData(int value);
+
+        [OperationContract]
+        [WebInvoke(ResponseFormat = WebMessageFormat.Json)]
+        string GetDataPost(int value);
+
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        CompositeType GetDataComplex(int value);
 
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);

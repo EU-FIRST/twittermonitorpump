@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="TwitterMonitorDAL.Service1" CodeBehind="TwitterMonitor.svc.cs" %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TwitterMonitorDAL.TwitterMonitor" CodeBehind="TwitterMonitor.svc.cs" Factory="System.ServiceModel.Activation.WebScriptServiceHostFactory" %>
