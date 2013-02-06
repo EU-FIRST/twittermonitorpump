@@ -6,7 +6,7 @@ using Latino;
 using Latino.TextMining;
 using Latino.Model;
 
-namespace BagOfWordsTest
+namespace TwitterMonitorPump
 {
     public class Utils
     {

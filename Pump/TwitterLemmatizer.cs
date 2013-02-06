@@ -1,7 +1,7 @@
 ﻿using Latino;
 using Latino.TextMining;
 
-namespace BagOfWordsTest
+namespace TwitterMonitorPump
 {
     public class TwitterLemmatizer : IStemmer
     {

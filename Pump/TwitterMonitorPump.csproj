@@ -8,7 +8,7 @@
     <ProjectGuid>{08644A93-6F18-4A30-9F3F-0819E01E623D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BagOfWordsTest</RootNamespace>
+    <RootNamespace>TwitterMonitorPump</RootNamespace>
     <AssemblyName>BagOfWordsTest</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

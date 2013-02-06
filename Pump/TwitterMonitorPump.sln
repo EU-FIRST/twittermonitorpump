@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagOfWordsTest", "BagOfWordsTest.csproj", "{08644A93-6F18-4A30-9F3F-0819E01E623D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterMonitorPump", "TwitterMonitorPump.csproj", "{08644A93-6F18-4A30-9F3F-0819E01E623D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latino", "..\..\..\Latino\Latino\Latino.csproj", "{5B86AAD5-3FEA-487C-A518-4F846AF09E18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latino", "..\..\Latino\Latino\Latino.csproj", "{5B86AAD5-3FEA-487C-A518-4F846AF09E18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
