@@ -16,110 +16,282 @@ namespace TwitterMonitorDAL
     public class TwitterMonitor
     {
         [Flags]
+        [DataContract]
         public enum FilterFlag
         {
             TermUnigram = 1, 
             TermBigram = 2, 
             UserUnigram = 4, 
             HashtagUnigram = 8, 
-            HashtagBigram = 16
+            HashtagBigram = 16,
+            StockUnigram = 32,
+            StockBigram = 64,
         }
         
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public TagCloudElement[] TagCloud(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, int maxVolume, string windowsSize, int filterFlag)
+        public List<WeightedTerm> TagCloud(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, int maxNumTerms, string windowsSize, FilterFlag filterFlag)
         {
+
+            filterFlag = (FilterFlag)Math.Max((int)filterFlag, 1);
             FilterFlag filterFlagEnum = (FilterFlag)filterFlag;
-            if (maxVolume == 0) maxVolume = 100;
+            if (maxNumTerms == 0) maxNumTerms = 100;
             if (windowsSize == null) windowsSize = "D";
 
-            return DataProvider.GetDataWithReplace<TagCloudElement>(
-                "TagCloud.sql", 
-                new List<Tuple<string, string>>( new Tuple<string, string>[]
+            List<Tuple<string, string>> replacements = new List<Tuple<string, string>>(new Tuple<string, string>[]
                     {
                         new Tuple<string, string>("/*REM*/", "--"), 
                         new Tuple<string, string>("--ADD", ""),
-                        new Tuple<string, string>("--TOP NN", string.Format("TOP {0}", maxVolume)),
                         new Tuple<string, string>("[AAPL_D_Terms]",string.Format("[{0}_{1}_Terms]",entity, windowsSize)), 
                         new Tuple<string, string>("[AAPL_D_Clusters]",string.Format("[{0}_{1}_Clusters]",entity, windowsSize)), 
-                    }),
-                new object[]
+                        new Tuple<string, string>("/*#NumTerms*/", maxNumTerms.ToString()),
+                    });
+            foreach (FilterFlag ff in Enum.GetValues(typeof(FilterFlag)))
+            {
+                if (!filterFlagEnum.HasFlag(ff))
+                {
+                    replacements.Add(new Tuple<string, string>(string.Format("/*REM {0}*/", ff.ToString()), "--"));
+                }
+            }
+
+            object[] sqlParams = new object[]
                     {
                         (int) filterFlagEnum,
                         dateTimeStart,
                         dateTimeEnd
-                    }).ToArray();
+                    };
 
+            List<WeightedTerm> weighetdTerms = DataProvider.GetDataWithReplace<WeightedTerm>("TagCloud.sql", replacements, sqlParams);
+
+            return weighetdTerms.ToList();
         }
 
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public string GetDataPost(int value)
-        {
-            return string.Format("You entered: {0}", value);
+        public List<Topic> Topics(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, int maxNumTermsPerTopic,
+                                  int maxNumTopics, string windowsSize, FilterFlag filterFlag) {
+
+            filterFlag = (FilterFlag) Math.Max((int)filterFlag, 1);
+            FilterFlag filterFlagEnum = (FilterFlag) filterFlag;
+            if (maxNumTermsPerTopic == 0) maxNumTermsPerTopic = 100;
+            if (maxNumTopics == 0) maxNumTopics = 10;
+            if (windowsSize == null) windowsSize = "D";
+
+            List<Tuple<string, string>> replacements = new List<Tuple<string, string>>(new Tuple<string, string>[]
+                {
+                    new Tuple<string, string>("/*REM*/", "--"),
+                    new Tuple<string, string>("--ADD", ""),
+                    new Tuple<string, string>("[AAPL_D_Terms]", string.Format("[{0}_{1}_Terms]", entity, windowsSize)),
+                    new Tuple<string, string>("[AAPL_D_Clusters]", string.Format("[{0}_{1}_Clusters]", entity, windowsSize)),
+                    new Tuple<string, string>("/*#NumTerms*/", maxNumTermsPerTopic.ToString()),
+                    new Tuple<string, string>("/*#NumTopics*/", maxNumTopics.ToString()),
+                });
+
+            object[] sqlParams = new object[]
+                    {
+                        (int) filterFlagEnum,
+                        dateTimeStart,
+                        dateTimeEnd
+                    };
+
+            List<TopicWeightedTerm> topicWeightedTerms = DataProvider.GetDataWithReplace<TopicWeightedTerm>("Topics.sql", replacements, sqlParams);
+
+            return topicWeightedTerms
+                .GroupBy(topic => new {topic.TopicId, topic.NumDocs})
+                .Select(topicGroup => new Topic()
+                    {
+                        TopicId = topicGroup.Key.TopicId,
+                        NumDocs = topicGroup.Key.NumDocs,
+                        Terms = topicGroup.Select(term =>
+                                                  new WeightedTerm()
+                                                      {
+                                                          Term = term.Term,
+                                                          Weight = term.Weight
+                                                      }
+                                          ).ToList()
+                    })
+                .ToList();
         }
+
 
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public CompositeType GetDataComplex(int value)
-        {
-            CompositeType composite = new CompositeType();
+        public TopicsOverTime TopicsOverTime(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, TimeSpan stepTimeSpan, 
+                                            /*int maxNumTermsPerTopic,*/ int maxNumTopics, string windowsSize, FilterFlag filterFlag) {
 
-            if (composite == null)
-            {
-                throw new ArgumentNullException("composite");
-            }
-            if (composite.BoolValue)
-            {
-                composite.StringValue += "Suffix";
-            }
-            return composite;
+            filterFlag = (FilterFlag)Math.Max((int)filterFlag, 1);
+            FilterFlag filterFlagEnum = (FilterFlag) filterFlag;
+            //if (maxNumTermsPerTopic == 0) maxNumTermsPerTopic = 100;
+            if (maxNumTopics == 0) maxNumTopics = 10;
+            if (windowsSize == null) windowsSize = "D";
+
+            stepTimeSpan = new TimeSpan((int) Math.Max(Math.Round(stepTimeSpan.TotalHours), 1), 0, 0);
+            dateTimeStart = DateTime.MinValue + new TimeSpan((int) (Math.Round((dateTimeStart - DateTime.MinValue).TotalHours/stepTimeSpan.TotalHours)*stepTimeSpan.TotalHours), 0, 0);
+            dateTimeEnd = DateTime.MinValue + new TimeSpan((int) (Math.Round((dateTimeEnd - DateTime.MinValue).TotalHours/stepTimeSpan.TotalHours)*stepTimeSpan.TotalHours), 0, 0);
+
+            List<Tuple<string, string>> replacements = new List<Tuple<string, string>>(new Tuple<string, string>[]
+                {
+                    new Tuple<string, string>("/*REM*/", "--"),
+                    new Tuple<string, string>("--ADD", ""),
+                    new Tuple<string, string>("[AAPL_D_Terms]", string.Format("[{0}_{1}_Terms]", entity, windowsSize)),
+                    new Tuple<string, string>("[AAPL_D_Clusters]", string.Format("[{0}_{1}_Clusters]", entity, windowsSize)),
+                    new Tuple<string, string>("/*#NumTopics*/", maxNumTopics.ToString()),
+                });
+
+            object[] sqlParams = new object[]
+                {
+                    (int) filterFlagEnum,
+                    dateTimeStart,
+                    dateTimeEnd,
+                    (int) stepTimeSpan.TotalHours,
+                };
+
+            List<TopicTimeSlots> topicTimeSlots = DataProvider.GetDataWithReplace<TopicTimeSlots>("TopicsOverTime.sql", replacements, sqlParams);
+
+            int minTimeSlotId = topicTimeSlots.Min(tts => tts.TimeSlotGroup);
+            int maxTimeSlotId = topicTimeSlots.Max(tts => tts.TimeSlotGroup);
+
+            Dictionary<long, TimeSlotDef> timeSlotsDef =
+                Enumerable
+                    .Range(minTimeSlotId, maxTimeSlotId - minTimeSlotId + 1)
+                    .Select(timeSlotId =>
+                            new TimeSlotDef()
+                                {
+                                    TimeSlotId = timeSlotId,
+                                    StartTimeDate = dateTimeStart + TimeSpan.FromTicks(stepTimeSpan.Ticks*timeSlotId),
+                                    EndTimeDate = dateTimeStart + TimeSpan.FromTicks(stepTimeSpan.Ticks*(timeSlotId + 1))
+                                })
+                    .ToDictionary(tsd => tsd.TimeSlotId, tsd => tsd);
+
+            return new TopicsOverTime()
+                {
+                    TimeSlotsDef = 
+                        timeSlotsDef.OrderBy(kvp=>kvp.Key).Select(kvp=>kvp.Value).ToList(),
+                    Topics =
+                        topicTimeSlots
+                            .GroupBy(topic => new {topic.TopicId, topic.TopicNumDocs})
+                            .Select(topicGroup => new TopicOverTime()
+                                {
+                                    TopicId = topicGroup.Key.TopicId,
+                                    NumDocs = topicGroup.Key.TopicNumDocs,
+                                    TimeSlots = 
+                                        topicGroup
+                                        .Select(timeSlot =>
+                                            new TimeSlot()
+                                                {
+                                                    TimeSlotId = timeSlot.TimeSlotGroup,
+                                                    NumDocs = timeSlot.TimeSlotNumDocs,
+                                                    StartTimeDate = timeSlot.StartTime,
+                                                    EndTimeDate = timeSlot.EndTime
+                                                })
+                                        .ToList()
+                                })
+                            .ToList()
+                };
         }
+    }
 
-        [OperationContract]
-        public CompositeType GetDataUsingDataContract(CompositeType composite)
+    public class TopicTimeSlots
+    {
+        public long TopicId { get; set; }
+        public int TopicNumDocs { get; set; }
+        public int TimeSlotNumDocs { get; set; }
+        public int TimeSlotGroup { get; set; }
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
+    }
+
+    public class TopicWeightedTerm
+    {
+        public long TopicId { get; set; }
+        public int NumDocs { get; set; }
+        public string Term { get; set; }
+        public double Weight { get; set; }
+    }
+
+    [DataContract]
+    public class TopicsOverTime
+    {
+        [DataMember]
+        public List<TimeSlotDef> TimeSlotsDef { get; set; }
+        [DataMember]
+        public List<TopicOverTime> Topics { get; set; }
+    }
+
+    [DataContract]
+    public class TopicOverTime
+    {
+        [DataMember]
+        public long TopicId { get; set; }
+        [DataMember]
+        public int NumDocs { get; set; }
+        [DataMember]
+        public List<TimeSlot> TimeSlots { get; set; }
+        [DataMember]
+        public List<WeightedTerm> Terms { get; set; }
+    }
+
+    [DataContract]
+    public class TimeSlot
+    {
+        [DataMember]
+        public long TimeSlotId { get; set; }
+        [DataMember]
+        public int NumDocs { get; set; }
+
+        public DateTime StartTimeDate { get; set; }
+        public DateTime EndTimeDate { get; set; }
+        [DataMember]
+        public string DEBUG_StartTime
         {
-            if (composite == null)
-            {
-                throw new ArgumentNullException("composite");
-            }
-            if (composite.BoolValue)
-            {
-                composite.StringValue += "Suffix";
-            }
-            return composite;
+            get { return StartTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
+            set { StartTimeDate = DateTime.Parse(value); }
+        }
+        [DataMember]
+        public string DEBUG_EndTime
+        {
+            get { return EndTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
+            set { EndTimeDate = DateTime.Parse(value); }
         }
     }
 
     [DataContract]
-    public class TagCloudElement
+    public class TimeSlotDef
     {
-        [DataMember]
-        private string Term { get; set; }
-        [DataMember]
-        private double Weight { get; set; }
+        [DataMember(Order = 0)]
+        public long TimeSlotId { get; set; }
+        
+        public DateTime StartTimeDate { get; set; }
+        public DateTime EndTimeDate { get; set; }
+        [DataMember(Order = 1)]
+        public string StartTime {
+            get { return StartTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
+            set { StartTimeDate = DateTime.Parse(value); }
+        }
+        [DataMember(Order = 1)]
+        public string EndTime {
+            get { return EndTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
+            set { EndTimeDate = DateTime.Parse(value); }
+        }
     }
 
-    // Use a data contract as illustrated in the sample below to add composite types to service operations.
     [DataContract]
-    public class CompositeType
+    public class Topic
     {
-        bool boolValue = true;
-        string stringValue = "Hello ";
-
         [DataMember]
-        public bool BoolValue
-        {
-            get { return boolValue; }
-            set { boolValue = value; }
-        }
-
+        public long TopicId { get; set; }
         [DataMember]
-        public string StringValue
-        {
-            get { return stringValue; }
-            set { stringValue = value; }
-        }
+        public int NumDocs { get; set; }
+        [DataMember]
+        public List<WeightedTerm> Terms { get; set; }
+    }
+    [DataContract]
+    public class WeightedTerm
+    {
+        [DataMember]
+        public string Term { get; set; }
+        [DataMember]
+        public double Weight { get; set; }
     }
 
 }

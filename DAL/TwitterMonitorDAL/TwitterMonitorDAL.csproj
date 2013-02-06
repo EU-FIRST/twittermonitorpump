@@ -55,6 +55,8 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Sql\TagCloud.sql" />
+    <EmbeddedResource Include="Sql\Topics.sql" />
+    <EmbeddedResource Include="Sql\TopicsOverTime.sql" />
     <Content Include="TwitterMonitor.svc" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
