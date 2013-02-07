@@ -69,8 +69,11 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataContracts.cs" />
+    <Compile Include="SqlRow.cs" />
     <Compile Include="DataProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringReplacer.cs" />
     <Compile Include="TwitterMonitor.svc.cs">
       <DependentUpon>TwitterMonitor.svc</DependentUpon>
     </Compile>

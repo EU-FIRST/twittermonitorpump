@@ -10,91 +10,47 @@ using System.Text;
 
 namespace TwitterMonitorDAL
 {
-    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "TwitterMonitor" in code, svc and config file together.
     [ServiceContract]
     [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Allowed)]
     public class TwitterMonitor
     {
-        [Flags]
-        [DataContract]
-        public enum FilterFlag
-        {
-            TermUnigram = 1, 
-            TermBigram = 2, 
-            UserUnigram = 4, 
-            HashtagUnigram = 8, 
-            HashtagBigram = 16,
-            StockUnigram = 32,
-            StockBigram = 64,
-        }
-        
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public List<WeightedTerm> TagCloud(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, int maxNumTerms, string windowsSize, FilterFlag filterFlag)
+        public List<WeightedTerm> TagCloud(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, int maxNumTerms, string windowSize, int filterFlag)
         {
-
-            filterFlag = (FilterFlag)Math.Max((int)filterFlag, 1);
-            FilterFlag filterFlagEnum = (FilterFlag)filterFlag;
+            filterFlag = Math.Max((int)filterFlag, 1);
             if (maxNumTerms == 0) maxNumTerms = 100;
-            if (windowsSize == null) windowsSize = "D";
+            if (windowSize == null) windowSize = "D";
 
-            List<Tuple<string, string>> replacements = new List<Tuple<string, string>>(new Tuple<string, string>[]
-                    {
-                        new Tuple<string, string>("/*REM*/", "--"), 
-                        new Tuple<string, string>("--ADD", ""),
-                        new Tuple<string, string>("[AAPL_D_Terms]",string.Format("[{0}_{1}_Terms]",entity, windowsSize)), 
-                        new Tuple<string, string>("[AAPL_D_Clusters]",string.Format("[{0}_{1}_Clusters]",entity, windowsSize)), 
-                        new Tuple<string, string>("/*#NumTerms*/", maxNumTerms.ToString()),
-                    });
-            foreach (FilterFlag ff in Enum.GetValues(typeof(FilterFlag)))
-            {
-                if (!filterFlagEnum.HasFlag(ff))
-                {
-                    replacements.Add(new Tuple<string, string>(string.Format("/*REM {0}*/", ff.ToString()), "--"));
-                }
-            }
+            StringReplacer strRpl = StringReplacerGetDefault(entity, windowSize);
+            strRpl.AddReplacement("/*#NumTerms*/", maxNumTerms.ToString());
+            StringReplacerAddFilterFlag(strRpl, (FilterFlag)filterFlag);
 
-            object[] sqlParams = new object[]
-                    {
-                        (int) filterFlagEnum,
-                        dateTimeStart,
-                        dateTimeEnd
-                    };
+            var sqlParams = new object[] { (int) filterFlag, dateTimeStart, dateTimeEnd };
 
-            List<WeightedTerm> weighetdTerms = DataProvider.GetDataWithReplace<WeightedTerm>("TagCloud.sql", replacements, sqlParams);
+            List<SqlRow.WeightedTerm> weighetdTerms = DataProvider.GetDataWithReplace<SqlRow.WeightedTerm>("TagCloud.sql", strRpl, sqlParams);
 
-            return weighetdTerms.ToList();
+            return weighetdTerms.Select(term => new WeightedTerm() { Term = term.Term, Weight = term.Weight }).ToList();
         }
 
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
         public List<Topic> Topics(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, int maxNumTermsPerTopic,
-                                  int maxNumTopics, string windowsSize, FilterFlag filterFlag) {
+                                  int maxNumTopics, string windowSize, int filterFlag) {
 
-            filterFlag = (FilterFlag) Math.Max((int)filterFlag, 1);
-            FilterFlag filterFlagEnum = (FilterFlag) filterFlag;
+            filterFlag = Math.Max((int)filterFlag, 1);
             if (maxNumTermsPerTopic == 0) maxNumTermsPerTopic = 100;
             if (maxNumTopics == 0) maxNumTopics = 10;
-            if (windowsSize == null) windowsSize = "D";
+            if (windowSize == null) windowSize = "D";
 
-            List<Tuple<string, string>> replacements = new List<Tuple<string, string>>(new Tuple<string, string>[]
-                {
-                    new Tuple<string, string>("/*REM*/", "--"),
-                    new Tuple<string, string>("--ADD", ""),
-                    new Tuple<string, string>("[AAPL_D_Terms]", string.Format("[{0}_{1}_Terms]", entity, windowsSize)),
-                    new Tuple<string, string>("[AAPL_D_Clusters]", string.Format("[{0}_{1}_Clusters]", entity, windowsSize)),
-                    new Tuple<string, string>("/*#NumTerms*/", maxNumTermsPerTopic.ToString()),
-                    new Tuple<string, string>("/*#NumTopics*/", maxNumTopics.ToString()),
-                });
+            StringReplacer strRpl = StringReplacerGetDefault(entity, windowSize);
+            strRpl.AddReplacement("/*#NumTerms*/", maxNumTermsPerTopic.ToString());
+            strRpl.AddReplacement("/*#NumTopics*/", maxNumTopics.ToString());
+            StringReplacerAddFilterFlag(strRpl, (FilterFlag)filterFlag);
 
-            object[] sqlParams = new object[]
-                    {
-                        (int) filterFlagEnum,
-                        dateTimeStart,
-                        dateTimeEnd
-                    };
+            var sqlParams = new object[] { (int)filterFlag, dateTimeStart, dateTimeEnd };
 
-            List<TopicWeightedTerm> topicWeightedTerms = DataProvider.GetDataWithReplace<TopicWeightedTerm>("Topics.sql", replacements, sqlParams);
+            List<SqlRow.TopicWeightedTerm> topicWeightedTerms = DataProvider.GetDataWithReplace<SqlRow.TopicWeightedTerm>("Topics.sql", strRpl, sqlParams);
 
             return topicWeightedTerms
                 .GroupBy(topic => new {topic.TopicId, topic.NumDocs})
@@ -116,182 +72,106 @@ namespace TwitterMonitorDAL
 
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public TopicsOverTime TopicsOverTime(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, TimeSpan stepTimeSpan, 
-                                            /*int maxNumTermsPerTopic,*/ int maxNumTopics, string windowsSize, FilterFlag filterFlag) {
+        public List<TopicOverTime> TopicsOverTime(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, TimeSpan stepTimeSpan,
+                                                  int maxNumTermsPerTopic, int maxNumTopics, string windowSize, int filterFlag)
+        {
 
-            filterFlag = (FilterFlag)Math.Max((int)filterFlag, 1);
-            FilterFlag filterFlagEnum = (FilterFlag) filterFlag;
-            //if (maxNumTermsPerTopic == 0) maxNumTermsPerTopic = 100;
+            filterFlag = Math.Max((int)filterFlag, 1);
+            if (maxNumTermsPerTopic == 0) maxNumTermsPerTopic = 100;
             if (maxNumTopics == 0) maxNumTopics = 10;
-            if (windowsSize == null) windowsSize = "D";
+            if (windowSize == null) windowSize = "D";
 
             stepTimeSpan = new TimeSpan((int) Math.Max(Math.Round(stepTimeSpan.TotalHours), 1), 0, 0);
             dateTimeStart = DateTime.MinValue + new TimeSpan((int) (Math.Round((dateTimeStart - DateTime.MinValue).TotalHours/stepTimeSpan.TotalHours)*stepTimeSpan.TotalHours), 0, 0);
             dateTimeEnd = DateTime.MinValue + new TimeSpan((int) (Math.Round((dateTimeEnd - DateTime.MinValue).TotalHours/stepTimeSpan.TotalHours)*stepTimeSpan.TotalHours), 0, 0);
 
-            List<Tuple<string, string>> replacements = new List<Tuple<string, string>>(new Tuple<string, string>[]
-                {
-                    new Tuple<string, string>("/*REM*/", "--"),
-                    new Tuple<string, string>("--ADD", ""),
-                    new Tuple<string, string>("[AAPL_D_Terms]", string.Format("[{0}_{1}_Terms]", entity, windowsSize)),
-                    new Tuple<string, string>("[AAPL_D_Clusters]", string.Format("[{0}_{1}_Clusters]", entity, windowsSize)),
-                    new Tuple<string, string>("/*#NumTopics*/", maxNumTopics.ToString()),
-                });
+            StringReplacer strRpl = StringReplacerGetDefault(entity, windowSize);
+            strRpl.AddReplacement("/*#NumTerms*/", maxNumTermsPerTopic.ToString());
+            strRpl.AddReplacement("/*#NumTopics*/", maxNumTopics.ToString());
+            StringReplacerAddFilterFlag(strRpl, (FilterFlag)filterFlag);
 
-            object[] sqlParams = new object[]
-                {
-                    (int) filterFlagEnum,
-                    dateTimeStart,
-                    dateTimeEnd,
-                    (int) stepTimeSpan.TotalHours,
-                };
+            var sqlParams = new object[] { (int)filterFlag, dateTimeStart, dateTimeEnd, (int) stepTimeSpan.TotalHours};
 
-            List<TopicTimeSlots> topicTimeSlots = DataProvider.GetDataWithReplace<TopicTimeSlots>("TopicsOverTime.sql", replacements, sqlParams);
+            List<SqlRow.TopicTimeSlot> topicTimeSlots = DataProvider.GetDataWithReplace<SqlRow.TopicTimeSlot>("TopicsOverTime.sql", strRpl, sqlParams);
+            List<SqlRow.TopicWeightedTerm> topicTerms = DataProvider.GetDataWithReplace<SqlRow.TopicWeightedTerm>("Topics.sql", strRpl, sqlParams);
 
             int minTimeSlotId = topicTimeSlots.Min(tts => tts.TimeSlotGroup);
             int maxTimeSlotId = topicTimeSlots.Max(tts => tts.TimeSlotGroup);
-
-            Dictionary<long, TimeSlotDef> timeSlotsDef =
+            var timeSlotsDef =
                 Enumerable
                     .Range(minTimeSlotId, maxTimeSlotId - minTimeSlotId + 1)
                     .Select(timeSlotId =>
-                            new TimeSlotDef()
+                            new
                                 {
                                     TimeSlotId = timeSlotId,
                                     StartTimeDate = dateTimeStart + TimeSpan.FromTicks(stepTimeSpan.Ticks*timeSlotId),
                                     EndTimeDate = dateTimeStart + TimeSpan.FromTicks(stepTimeSpan.Ticks*(timeSlotId + 1))
                                 })
-                    .ToDictionary(tsd => tsd.TimeSlotId, tsd => tsd);
+                    .ToList();
 
-            return new TopicsOverTime()
-                {
-                    TimeSlotsDef = 
-                        timeSlotsDef.OrderBy(kvp=>kvp.Key).Select(kvp=>kvp.Value).ToList(),
-                    Topics =
-                        topicTimeSlots
-                            .GroupBy(topic => new {topic.TopicId, topic.TopicNumDocs})
-                            .Select(topicGroup => new TopicOverTime()
-                                {
-                                    TopicId = topicGroup.Key.TopicId,
-                                    NumDocs = topicGroup.Key.TopicNumDocs,
-                                    TimeSlots = 
-                                        topicGroup
-                                        .Select(timeSlot =>
-                                            new TimeSlot()
+            var topicTermsDict = topicTerms
+                .GroupBy(tt => tt.TopicId)
+                .ToDictionary(ttGroup => ttGroup.Key, ttGroup => ttGroup);
+
+            return topicTimeSlots
+                .GroupBy(topic => new {topic.TopicId, topic.TopicNumDocs})
+                .Select(topicGroup =>
+                    {
+                        Dictionary<int, SqlRow.TopicTimeSlot> timeSlotDict = topicGroup.ToDictionary(tg => tg.TimeSlotGroup, tg => tg);
+
+                        return new TopicOverTime()
+                            {
+                                TopicId = topicGroup.Key.TopicId,
+                                NumDocs = topicGroup.Key.TopicNumDocs,
+                                Terms = topicTermsDict[topicGroup.Key.TopicId].Select(tt=>new WeightedTerm(){Term=tt.Term,Weight= tt.Weight}).ToList(),
+                                TimeSlots = timeSlotsDef
+                                    .Select(timeSlotDef =>
+                                        {
+                                            SqlRow.TopicTimeSlot timeSlot;
+                                            timeSlotDict.TryGetValue(timeSlotDef.TimeSlotId, out timeSlot);
+                                            if (timeSlot == null) timeSlot = new SqlRow.TopicTimeSlot();
+                                            else
+                                            {
+                                                if (timeSlot.StartTime < timeSlotDef.StartTimeDate || timeSlot.EndTime > timeSlotDef.EndTimeDate)
+                                                    throw new Exception("Start time of a document inside a group has starting or ending time outside the group boundary!");
+                                            }
+                                            return new TimeSlot()
                                                 {
-                                                    TimeSlotId = timeSlot.TimeSlotGroup,
+                                                    StartTimeDate = timeSlotDef.StartTimeDate,
+                                                    EndTimeDate = timeSlotDef.EndTimeDate,
                                                     NumDocs = timeSlot.TimeSlotNumDocs,
-                                                    StartTimeDate = timeSlot.StartTime,
-                                                    EndTimeDate = timeSlot.EndTime
-                                                })
-                                        .ToList()
-                                })
-                            .ToList()
-                };
+                                                };
+                                        })
+                                    .ToList()
+                            };
+                    })
+                .ToList();
         }
-    }
 
-    public class TopicTimeSlots
-    {
-        public long TopicId { get; set; }
-        public int TopicNumDocs { get; set; }
-        public int TimeSlotNumDocs { get; set; }
-        public int TimeSlotGroup { get; set; }
-        public DateTime StartTime { get; set; }
-        public DateTime EndTime { get; set; }
-    }
-
-    public class TopicWeightedTerm
-    {
-        public long TopicId { get; set; }
-        public int NumDocs { get; set; }
-        public string Term { get; set; }
-        public double Weight { get; set; }
-    }
-
-    [DataContract]
-    public class TopicsOverTime
-    {
-        [DataMember]
-        public List<TimeSlotDef> TimeSlotsDef { get; set; }
-        [DataMember]
-        public List<TopicOverTime> Topics { get; set; }
-    }
-
-    [DataContract]
-    public class TopicOverTime
-    {
-        [DataMember]
-        public long TopicId { get; set; }
-        [DataMember]
-        public int NumDocs { get; set; }
-        [DataMember]
-        public List<TimeSlot> TimeSlots { get; set; }
-        [DataMember]
-        public List<WeightedTerm> Terms { get; set; }
-    }
-
-    [DataContract]
-    public class TimeSlot
-    {
-        [DataMember]
-        public long TimeSlotId { get; set; }
-        [DataMember]
-        public int NumDocs { get; set; }
-
-        public DateTime StartTimeDate { get; set; }
-        public DateTime EndTimeDate { get; set; }
-        [DataMember]
-        public string DEBUG_StartTime
-        {
-            get { return StartTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
-            set { StartTimeDate = DateTime.Parse(value); }
-        }
-        [DataMember]
-        public string DEBUG_EndTime
-        {
-            get { return EndTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
-            set { EndTimeDate = DateTime.Parse(value); }
-        }
-    }
-
-    [DataContract]
-    public class TimeSlotDef
-    {
-        [DataMember(Order = 0)]
-        public long TimeSlotId { get; set; }
         
-        public DateTime StartTimeDate { get; set; }
-        public DateTime EndTimeDate { get; set; }
-        [DataMember(Order = 1)]
-        public string StartTime {
-            get { return StartTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
-            set { StartTimeDate = DateTime.Parse(value); }
-        }
-        [DataMember(Order = 1)]
-        public string EndTime {
-            get { return EndTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
-            set { EndTimeDate = DateTime.Parse(value); }
-        }
-    }
+        //Helper functions
+        public StringReplacer StringReplacerGetDefault(string entity, string windowSize)
+        {
+            var strRpl = new StringReplacer();
+            strRpl.AddReplacement("/*REM*/", "--");
+            strRpl.AddReplacement("--ADD", "");
+            strRpl.AddReplacement("[AAPL_D_Terms]", string.Format("[{0}_{1}_Terms]", entity, windowSize));
+            strRpl.AddReplacement("[AAPL_D_Clusters]", string.Format("[{0}_{1}_Clusters]", entity, windowSize));
 
-    [DataContract]
-    public class Topic
-    {
-        [DataMember]
-        public long TopicId { get; set; }
-        [DataMember]
-        public int NumDocs { get; set; }
-        [DataMember]
-        public List<WeightedTerm> Terms { get; set; }
-    }
-    [DataContract]
-    public class WeightedTerm
-    {
-        [DataMember]
-        public string Term { get; set; }
-        [DataMember]
-        public double Weight { get; set; }
+            return strRpl;
+        }
+        public StringReplacer StringReplacerAddFilterFlag(StringReplacer strRpl, FilterFlag filterFlag)
+        {
+            foreach (FilterFlag ff in Enum.GetValues(typeof(FilterFlag)))
+            {
+                if (!filterFlag.HasFlag(ff))
+                {
+                    strRpl.AddReplacement(string.Format("/*REM {0}*/", ff.ToString()), "--");
+                }
+            }
+
+            return strRpl;
+        }
     }
 
 }

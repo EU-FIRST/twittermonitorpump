@@ -44,21 +44,21 @@ namespace TwitterMonitorDAL
                 return db.ExecuteQuery<T>(sql, sqlParams ?? new object[] { }).ToList();
             }
         }
-        public static List<T> GetDataWithReplace<T>(string sqlQueryResFile, List<Tuple<string, string>> replacements = null, object[] sqlParams = null, string connectionStringId = "default")
+
+        public static List<T> GetDataWithReplace<T>(string sqlQueryResFile, StringReplacer strRpl = null, object[] sqlParams = null, string connectionStringId = "default")
         {
             string sql = GetManifestResourceString(sqlQueryResFile);
-            if (replacements != null)
-            {
-                foreach (Tuple<string, string> replacement in replacements)
-                {
-                    sql = sql.Replace(replacement.Item1, replacement.Item2);
-                }
-            }
+            if (strRpl != null) { sql = strRpl.PerformReplace(sql); }
+
+            //File.AppendAllText(@"C:\Users\Matjaz\Desktop\SqlLog.sql", Environment.NewLine + "---------------------------------------------------------------------" + Environment.NewLine);
+            //File.AppendAllText(@"C:\Users\Matjaz\Desktop\SqlLog.sql", sql);
 
             using (var db = new DataContext(GetConnectionString(connectionStringId)))
             {
-                return db.ExecuteQuery<T>(sql, sqlParams ?? new object[] { }).ToList();
+                return db.ExecuteQuery<T>(sql, sqlParams ?? new object[] {}).ToList();
             }
+
+
         }
     }
 }

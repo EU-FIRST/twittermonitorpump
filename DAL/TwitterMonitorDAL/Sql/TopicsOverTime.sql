@@ -10,7 +10,7 @@
   SELECT Topic TopicId,
          Topic.NumDocs TopicNumDocs,
 		 Sum(Clusters.NumDocs) TimeSlotNumDocs,
-         DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan*@stepTimeSpan TimeSlotGroup,
+         DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan TimeSlotGroup,
 		 Min(StartTime) StartTime,
 		 Max(EndTime) EndTime
     FROM [AAPL_D_Clusters] Clusters
@@ -30,6 +30,6 @@
          Clusters.EndTime <= @dateTimeEnd
 GROUP BY Topic,
          Topic.NumDocs,
-         DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan*@stepTimeSpan
+         DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan
 ORDER BY Topic,
-         DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan*@stepTimeSpan
+         DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan
