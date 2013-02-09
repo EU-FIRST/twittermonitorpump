@@ -5,21 +5,21 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<link href="css/bootstrap.min.css" rel="stylesheet" />
 		<!--<link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet" />-->
-		<script src="js/jquery.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<!--<script src="js/bootstrap-datetimepicker.min.js"></script>-->
 		<style type="text/css">
 			#canvas {
-				height: 300px; border: 1px solid #DDD; box-shadow: 0px 0px 5px #666; position: relative; overflow: hidden;
+				height: 800px; border: 1px solid #DDD; box-shadow: 0px 0px 5px #666; position: relative; overflow: hidden;
 			}
 			#main {
-				xborder: 1px solid red; width: 1000px;
+				border: 1px solid red; width: 1000px;
 			}
 			#controls {
-				xborder: 1px solid orange; margin-top: 30px; margin-bottom: 30px;
+				border: 1px solid orange; margin-top: 30px; margin-bottom: 30px;
 			}
 			#logo {
-				width: 800px; xborder: 1px solid blue; font-size: 90%; margin-top: 30px;
+				width: 800px; border: 1px solid blue; font-size: 90%; margin-top: 30px;
+			}
+			.bubbleTxt {
+				text-align: center; position: absolute; font-family: arial; font-size: 14px; pointer-events: none; border: 1px solid red;
 			}
 		</style>
 	</head>
@@ -44,5 +44,113 @@
 
 			</div>
 		</center>
+
+		<script src="js/jquery.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<!--<script src="js/bootstrap-datetimepicker.min.js"></script>-->
+		<script src="js/raphael.js"></script>
+
+		<script type="text/javascript">
+
+function outline(canvas, x, y, r) {
+	canvas.circle(x, y, r).attr({"stroke-width": 20, "stroke": "#EEEEEE"});
+}
+
+function circle(canvas, x, y, r, onClick) {
+	var c = canvas.circle(x, y, r).attr({"stroke-width": 0, "fill": "lightgray"});
+	c.mouseover(function() { c.toFront(); c.attr("fill", "lightblue"); });
+	c.mouseout(function() { c.attr("fill", "lightgray"); });
+	if (onClick) { c.click(function() { onClick(); }); }
+}
+
+function text(x, y, width, txt) {
+	var div = $("<div class='bubbleTxt' style='width: " + width + "px;'>" + txt + "</div>").appendTo("#canvas");
+	div.css("left", x - div.width() / 2 + "px");
+	div.css("top", y - div.height() / 2 + "px");
+}
+
+function hideCallout() {
+	$("#callout").css("visibility", "hidden");
+}
+
+function callout(x, y, html) {
+	var callout = $("#callout")[0];
+	callout.children[1].innerHTML = html;
+	callout.style.left = x + "px";
+	callout.style.top = y + "px";
+	callout.style.visibility = "";
+}
+
+var MULTX = 900;
+var MULTY = 700;
+var OFFSX = 50;
+var OFFSY = 50;
+
+var AREA = 250000;
+var MINR = 25;
+var MINTXTW = 150;
+
+function visualize(canvas, data) {
+	var area = 0;
+	for (var i in data) {
+		var r = Math.sqrt(data[i].sz / Math.PI);
+		area += Math.PI * r * r;
+	}
+	var k = Math.sqrt(AREA / area / Math.PI);
+	for (var i in data) {
+		var x = data[i].x * MULTX + OFFSX;
+		var y = data[i].y * MULTY + OFFSY;
+		var r = Math.max(Math.sqrt(data[i].sz) * k, MINR);
+		outline(canvas, x, y, r);
+	}
+	for (var i in data) {
+		var x = data[i].x * MULTX + OFFSX;
+		var y = data[i].y * MULTY + OFFSY;
+		var r = Math.max(Math.sqrt(data[i].sz) * k, MINR);
+		circle(canvas, x, y, r);
+	}
+	for (var i in data) {
+		var x = data[i].x * MULTX + OFFSX;
+		var y = data[i].y * MULTY + OFFSY;
+		var r = Math.max(Math.sqrt(data[i].sz) * k, MINR);
+		text(x, y, Math.max(r * 2, MINTXTW), data[i].txt + " (" + data[i].sz + ")");
+	}
+}
+
+var canvas = Raphael(document.getElementById("canvas"));
+
+visualize(canvas, [{'x':0.1086, 'y':0.2413, 'txt':'short, term, short term, long, short position', 'sz':143},
+	{'x':0.5716, 'y':1.0000, 'txt':'tim, cook, tim cook, share, resistance', 'sz':294},
+	{'x':0.6955, 'y':0.0959, 'txt':'away, app, iphone, make, microsoft apple', 'sz':163},
+	{'x':0.4081, 'y':0.7659, 'txt':'going, will, pullback, like, bears', 'sz':169},
+	{'x':0.1202, 'y':0.4552, 'txt':'buy, now, scale, dip, stock', 'sz':147},
+	{'x':0.3054, 'y':0.2790, 'txt':'price, stock, buy, just, app', 'sz':271},
+	{'x':0.3284, 'y':0.9377, 'txt':'jobs, steve, steve jobs, news made, ecstatic', 'sz':402},
+	{'x':1.0000, 'y':0.5024, 'txt':'ipad, ios, use, apple, iphone', 'sz':394},
+	{'x':0.0844, 'y':0.6246, 'txt':'long, calls, mar, tomorrow, look', 'sz':174},
+	{'x':0.9072, 'y':0.8139, 'txt':'got, quote, just got, someone just, someone', 'sz':322},
+	{'x':0.9871, 'y':0.3076, 'txt':'iphone, apple, ios, new, use', 'sz':416},
+	{'x':0.0000, 'y':0.3968, 'txt':'going, think, apple going, idiot, people', 'sz':218},
+	{'x':0.6019, 'y':0.0000, 'txt':'price, book, target, price target, publishers', 'sz':409},
+	{'x':0.8542, 'y':0.3697, 'txt':'sell, now, buy, ipad cheaper, perspective ipad', 'sz':202},
+	{'x':0.6310, 'y':0.7938, 'txt':'video, got simple, simple quote, someone just, just got', 'sz':179},
+	{'x':0.5407, 'y':0.6139, 'txt':'market, trade, watch, post, volume', 'sz':473},
+	{'x':0.3884, 'y':0.1103, 'txt':'jobs, steve, china, apple, good', 'sz':474},
+	{'x':0.7902, 'y':0.6427, 'txt':'stock, apple, ever, worst, ever made', 'sz':581},
+	{'x':0.8675, 'y':0.1432, 'txt':'double, first, sell, huge, minute', 'sz':545},
+	{'x':0.3777, 'y':0.4985, 'txt':'going, short, long, will, think', 'sz':444},
+	{'x':0.1327, 'y':0.8082, 'txt':'tv, big, apple, apple tv, thing', 'sz':253},
+	{'x':0.9659, 'y':0.6546, 'txt':'market, simple quote, got simple, someone just, simple', 'sz':448},
+	{'x':0.2947, 'y':0.5578, 'txt':'short, today, puts, high, will', 'sz':655},
+	{'x':0.7365, 'y':0.9149, 'txt':'billion, cash, google, market, dividend', 'sz':377},
+	{'x':0.5051, 'y':0.3987, 'txt':'trade, short, just, week, high', 'sz':658},
+	{'x':0.5486, 'y':0.1719, 'txt':'back, apple, event, ipad, apple ipad', 'sz':626},
+	{'x':0.3091, 'y':0.7625, 'txt':'app, google, apple, facility, google research', 'sz':1090},
+	{'x':0.2559, 'y':0.1151, 'txt':'trending, social, volume, trending social, social volume', 'sz':791},
+	{'x':0.7083, 'y':0.3489, 'txt':'ipad, apple, will, thing, week', 'sz':1710},
+	{'x':0.6277, 'y':0.4965, 'txt':'ipad, new, new ipad, apple, will', 'sz':2395}]);
+
+		</script> 
+
 	</body>
 </html>
