@@ -7,7 +7,6 @@ using System.Web;
 namespace TwitterMonitorDAL
 {
     [Flags]
-    [DataContract]
     public enum FilterFlag
     {
         TermUnigram = 1,
@@ -72,5 +71,45 @@ namespace TwitterMonitorDAL
             get { return EndTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
             set { EndTimeDate = DateTime.Parse(value); }
         }
+
+        [DataMember(Order = 3)]
+        public List<WeightedTerm> Terms { get; set; }
     }
+
+    [DataContract]
+    public class EntityInfo
+    {
+        [DataMember(Order = 0)]
+        public string Entity { get; set; }
+        [DataMember(Order = 1)]
+        public string WindowSize { get; set; }
+    }
+
+    [DataContract]
+    public class EntityInfoDetail
+    {
+        [DataMember(Order = 0)]
+        public string Entity { get; set; }
+        [DataMember(Order = 1)]
+        public string WindowSize { get; set; }
+        public DateTime StartTimeDate { get; set; }
+        public DateTime EndTimeDate { get; set; }
+        [DataMember(Order = 2)]
+        public string StartTime
+        {
+            get { return StartTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
+            set { StartTimeDate = DateTime.Parse(value); }
+        }
+        [DataMember(Order = 3)]
+        public string EndTime
+        {
+            get { return EndTimeDate.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz"); }
+            set { EndTimeDate = DateTime.Parse(value); }
+        }
+        [DataMember(Order = 4)]
+        public int NumOfDataPoints { get; set; }
+        [DataMember(Order = 5)]
+        public int TimeSpanResolutionSec { get; set; }
+    }
+
 }

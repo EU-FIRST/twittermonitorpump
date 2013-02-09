@@ -21,7 +21,7 @@
 			 ) AS Topic
 		 CROSS APPLY (
                SELECT /*REM*/ TOP 100
-             		 --ADD    TOP /*#NumTerms*/
+             		 --ADD    TOP /*#NumTermsPerTopic*/
                       Min(MostFrequentForm) Term,
                       Sum(TFIDF) Weight
                  FROM [AAPL_D_Clusters] Clusters

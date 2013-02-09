@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Net;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Activation;
@@ -16,11 +17,53 @@ namespace TwitterMonitorDAL
     {
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public List<EntityInfo> AllEntities()
+        {
+            StringReplacer strRpl = StringReplacerGetDefaultBasic();
+            var sqlParams = new object[] { };
+
+            List<SqlRow.EntityInfoDetail> dataDescription = DataProvider.GetDataWithReplace<SqlRow.EntityInfoDetail>("AllEntities.sql", strRpl, sqlParams);
+
+            return dataDescription.Select(dd => new EntityInfo()
+            {
+                Entity = dd.Entity,
+                WindowSize = dd.WindowSize
+            }).ToList();
+        }
+
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public EntityInfoDetail EntityDetail(string entity, string windowSize)
+        {
+            windowSize = ParameterChecker.WindowSize(windowSize);
+            entity = ParameterChecker.Entity(entity, windowSize);
+
+            StringReplacer strRpl = StringReplacerGetDefault(entity, windowSize);
+            var sqlParams = new object[] { entity, windowSize };
+
+            List<SqlRow.EntityInfoDetail> dataDescription = DataProvider.GetDataWithReplace<SqlRow.EntityInfoDetail>("EntityDetail.sql", strRpl, sqlParams);
+
+            return dataDescription.Select(dd => new EntityInfoDetail()
+                {
+                    Entity = dd.Entity,
+                    WindowSize = dd.WindowSize,
+                    StartTimeDate = dd.StartTime,
+                    EndTimeDate = dd.EndTime,
+                    NumOfDataPoints = dd.NumOfDataPoints,
+                    TimeSpanResolutionSec = dd.TimeSpanResolutionSec
+                }).FirstOrDefault();
+        }
+        
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
         public List<WeightedTerm> TagCloud(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, int maxNumTerms, string windowSize, int filterFlag)
         {
-            filterFlag = Math.Max((int)filterFlag, 1);
-            if (maxNumTerms == 0) maxNumTerms = 100;
-            if (windowSize == null) windowSize = "D";
+            windowSize = ParameterChecker.WindowSize(windowSize);
+            entity = ParameterChecker.Entity(entity, windowSize);
+            filterFlag = ParameterChecker.FilterFlagCheck(filterFlag);
+            maxNumTerms = ParameterChecker.StrictlyPositiveNumber(maxNumTerms, 100);
+            dateTimeStart = ParameterChecker.DateRound(dateTimeStart);
+            dateTimeEnd = ParameterChecker.DateRound(dateTimeEnd);
 
             StringReplacer strRpl = StringReplacerGetDefault(entity, windowSize);
             strRpl.AddReplacement("/*#NumTerms*/", maxNumTerms.ToString());
@@ -36,15 +79,18 @@ namespace TwitterMonitorDAL
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
         public List<Topic> Topics(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, int maxNumTermsPerTopic,
-                                  int maxNumTopics, string windowSize, int filterFlag) {
-
-            filterFlag = Math.Max((int)filterFlag, 1);
-            if (maxNumTermsPerTopic == 0) maxNumTermsPerTopic = 100;
-            if (maxNumTopics == 0) maxNumTopics = 10;
-            if (windowSize == null) windowSize = "D";
+                                  int maxNumTopics, string windowSize, int filterFlag) 
+        {
+            windowSize = ParameterChecker.WindowSize(windowSize);
+            entity = ParameterChecker.Entity(entity, windowSize);
+            filterFlag = ParameterChecker.FilterFlagCheck(filterFlag);
+            maxNumTopics = ParameterChecker.StrictlyPositiveNumber(maxNumTopics, 10);
+            maxNumTermsPerTopic = ParameterChecker.StrictlyPositiveNumber(maxNumTermsPerTopic, 50);
+            dateTimeStart = ParameterChecker.DateRound(dateTimeStart);
+            dateTimeEnd = ParameterChecker.DateRound(dateTimeEnd);
 
             StringReplacer strRpl = StringReplacerGetDefault(entity, windowSize);
-            strRpl.AddReplacement("/*#NumTerms*/", maxNumTermsPerTopic.ToString());
+            strRpl.AddReplacement("/*#NumTermsPerTopic*/", maxNumTermsPerTopic.ToString());
             strRpl.AddReplacement("/*#NumTopics*/", maxNumTopics.ToString());
             StringReplacerAddFilterFlag(strRpl, (FilterFlag)filterFlag);
 
@@ -69,32 +115,43 @@ namespace TwitterMonitorDAL
                 .ToList();
         }
 
-
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
         public List<TopicOverTime> TopicsOverTime(string entity, DateTime dateTimeStart, DateTime dateTimeEnd, TimeSpan stepTimeSpan,
-                                                  int maxNumTermsPerTopic, int maxNumTopics, string windowSize, int filterFlag)
+                                                  int maxNumTopics, int maxNumTermsPerTopic, int maxNumTermsPerTimeSlot, string windowSize, int filterFlag, 
+                                                  bool groupedZeroPadding)
         {
+            windowSize = ParameterChecker.WindowSize(windowSize);
+            entity = ParameterChecker.Entity(entity, windowSize);
+            filterFlag = ParameterChecker.FilterFlagCheck(filterFlag);
+            maxNumTopics = ParameterChecker.StrictlyPositiveNumber(maxNumTopics, 10);
+            maxNumTermsPerTopic = ParameterChecker.PositiveNumber(maxNumTermsPerTopic, 0);
+            maxNumTermsPerTimeSlot = ParameterChecker.PositiveNumber(maxNumTermsPerTimeSlot, 0);
+            stepTimeSpan = ParameterChecker.StepTimeSpan(stepTimeSpan);
+            dateTimeStart = ParameterChecker.DateRound(dateTimeStart);
+            dateTimeEnd = ParameterChecker.DateRound(dateTimeEnd);
+            groupedZeroPadding = ParameterChecker.Boolean(groupedZeroPadding);
 
-            filterFlag = Math.Max((int)filterFlag, 1);
-            if (maxNumTermsPerTopic == 0) maxNumTermsPerTopic = 100;
-            if (maxNumTopics == 0) maxNumTopics = 10;
-            if (windowSize == null) windowSize = "D";
-
-            stepTimeSpan = new TimeSpan((int) Math.Max(Math.Round(stepTimeSpan.TotalHours), 1), 0, 0);
-            dateTimeStart = DateTime.MinValue + new TimeSpan((int) (Math.Round((dateTimeStart - DateTime.MinValue).TotalHours/stepTimeSpan.TotalHours)*stepTimeSpan.TotalHours), 0, 0);
-            dateTimeEnd = DateTime.MinValue + new TimeSpan((int) (Math.Round((dateTimeEnd - DateTime.MinValue).TotalHours/stepTimeSpan.TotalHours)*stepTimeSpan.TotalHours), 0, 0);
+            ParameterChecker.CheckTimeSlotNum(dateTimeStart, dateTimeEnd, stepTimeSpan, maxNumTopics);
 
             StringReplacer strRpl = StringReplacerGetDefault(entity, windowSize);
-            strRpl.AddReplacement("/*#NumTerms*/", maxNumTermsPerTopic.ToString());
+            strRpl.AddReplacement("/*#NumTermsPerTopic*/", maxNumTermsPerTopic.ToString());
+            strRpl.AddReplacement("/*#NumTermsPerTimeSlot*/", maxNumTermsPerTimeSlot.ToString());
             strRpl.AddReplacement("/*#NumTopics*/", maxNumTopics.ToString());
             StringReplacerAddFilterFlag(strRpl, (FilterFlag)filterFlag);
 
             var sqlParams = new object[] { (int)filterFlag, dateTimeStart, dateTimeEnd, (int) stepTimeSpan.TotalHours};
+            string sqlTopicsOverTime = maxNumTermsPerTimeSlot==0 ? "TopicsOverTime.sql" : "TopicsOverTimeDetail.sql";
 
-            List<SqlRow.TopicTimeSlot> topicTimeSlots = DataProvider.GetDataWithReplace<SqlRow.TopicTimeSlot>("TopicsOverTime.sql", strRpl, sqlParams);
-            List<SqlRow.TopicWeightedTerm> topicTerms = DataProvider.GetDataWithReplace<SqlRow.TopicWeightedTerm>("Topics.sql", strRpl, sqlParams);
-
+            List<SqlRow.TopicTimeSlot> topicTimeSlots = DataProvider.GetDataWithReplace<SqlRow.TopicTimeSlot>(sqlTopicsOverTime, strRpl, sqlParams);
+            if (topicTimeSlots.Count==0)
+                return new List<TopicOverTime>();
+            
+            List<SqlRow.TopicWeightedTerm> topicTerms = 
+                maxNumTermsPerTopic==0
+                    ? new List<SqlRow.TopicWeightedTerm>() 
+                    : DataProvider.GetDataWithReplace<SqlRow.TopicWeightedTerm>("Topics.sql", strRpl, sqlParams);
+            
             int minTimeSlotId = topicTimeSlots.Min(tts => tts.TimeSlotGroup);
             int maxTimeSlotId = topicTimeSlots.Max(tts => tts.TimeSlotGroup);
             var timeSlotsDef =
@@ -105,56 +162,129 @@ namespace TwitterMonitorDAL
                                 {
                                     TimeSlotId = timeSlotId,
                                     StartTimeDate = dateTimeStart + TimeSpan.FromTicks(stepTimeSpan.Ticks*timeSlotId),
-                                    EndTimeDate = dateTimeStart + TimeSpan.FromTicks(stepTimeSpan.Ticks*(timeSlotId + 1))
+                                    EndTimeDate = dateTimeStart + TimeSpan.FromTicks(stepTimeSpan.Ticks*(timeSlotId + 1)) - TimeSpan.FromMilliseconds(1)
                                 })
                     .ToList();
 
-            var topicTermsDict = topicTerms
+            Dictionary<long, List<SqlRow.TopicWeightedTerm>> topicTermsDict = topicTerms
                 .GroupBy(tt => tt.TopicId)
-                .ToDictionary(ttGroup => ttGroup.Key, ttGroup => ttGroup);
+                .ToDictionary(ttGroup => ttGroup.Key, ttGroup => ttGroup.ToList());
+            foreach (long topicId in topicTimeSlots.Select(tts=>tts.TopicId).Distinct().Where(topicId => !topicTermsDict.ContainsKey(topicId)))
+            {
+                topicTermsDict[topicId] = new List<SqlRow.TopicWeightedTerm>();
+            }
 
-            return topicTimeSlots
+            List<TopicOverTime> topicOverTime =
+                topicTimeSlots
                 .GroupBy(topic => new {topic.TopicId, topic.TopicNumDocs})
                 .Select(topicGroup =>
                     {
-                        Dictionary<int, SqlRow.TopicTimeSlot> timeSlotDict = topicGroup.ToDictionary(tg => tg.TimeSlotGroup, tg => tg);
+                        Dictionary<int, List<SqlRow.TopicTimeSlot>> timeSlotDict = 
+                            topicGroup
+                            .GroupBy(tg => tg.TimeSlotGroup)
+                            .ToDictionary(tg => tg.Key, tg => tg.ToList());
+
+                        List<WeightedTerm> termList = topicTermsDict[topicGroup.Key.TopicId].Select(tt => new WeightedTerm() {Term = tt.Term, Weight = tt.Weight}).ToList();
+                        if (termList.All(wt => wt.Term == null)) termList = null;
 
                         return new TopicOverTime()
                             {
                                 TopicId = topicGroup.Key.TopicId,
                                 NumDocs = topicGroup.Key.TopicNumDocs,
-                                Terms = topicTermsDict[topicGroup.Key.TopicId].Select(tt=>new WeightedTerm(){Term=tt.Term,Weight= tt.Weight}).ToList(),
+                                Terms = termList,
                                 TimeSlots = timeSlotsDef
                                     .Select(timeSlotDef =>
                                         {
-                                            SqlRow.TopicTimeSlot timeSlot;
-                                            timeSlotDict.TryGetValue(timeSlotDef.TimeSlotId, out timeSlot);
-                                            if (timeSlot == null) timeSlot = new SqlRow.TopicTimeSlot();
+                                            List<SqlRow.TopicTimeSlot> timeSlotRows;
+                                            SqlRow.TopicTimeSlot timeSlotFirst;
+
+                                            timeSlotDict.TryGetValue(timeSlotDef.TimeSlotId, out timeSlotRows);
+                                            if (timeSlotRows == null || timeSlotRows.Count == 0)
+                                            {
+                                                timeSlotFirst = new SqlRow.TopicTimeSlot();
+                                            }
                                             else
                                             {
-                                                if (timeSlot.StartTime < timeSlotDef.StartTimeDate || timeSlot.EndTime > timeSlotDef.EndTimeDate)
+                                                timeSlotFirst = timeSlotRows.First();
+                                                if (timeSlotFirst.StartTime < timeSlotDef.StartTimeDate || (timeSlotFirst.EndTime - TimeSpan.FromMilliseconds(1)) > timeSlotDef.EndTimeDate)
                                                     throw new Exception("Start time of a document inside a group has starting or ending time outside the group boundary!");
                                             }
                                             return new TimeSlot()
                                                 {
                                                     StartTimeDate = timeSlotDef.StartTimeDate,
                                                     EndTimeDate = timeSlotDef.EndTimeDate,
-                                                    NumDocs = timeSlot.TimeSlotNumDocs,
+                                                    NumDocs = timeSlotFirst.TimeSlotNumDocs,
+                                                    Terms = timeSlotFirst.TimeSlotNumDocs == 0 || timeSlotRows == null || timeSlotRows.All(ts => ts.Term == null)
+                                                        ? null
+                                                        : timeSlotRows
+                                                            .Where(ts => ts.Term != null)
+                                                            .Select(term =>
+                                                                new WeightedTerm()
+                                                                    {
+                                                                        Term = term.Term,
+                                                                        Weight = term.Weight
+                                                                    })
+                                                            .ToList()
                                                 };
                                         })
                                     .ToList()
                             };
                     })
                 .ToList();
+
+
+            if (groupedZeroPadding)
+            {
+                foreach (TopicOverTime tot in topicOverTime)
+                {
+                    List<TimeSlot> timeSlotsNew = new List<TimeSlot>();
+                    TimeSlot timeSlotLast = null;
+                    foreach (TimeSlot timeSlot in tot.TimeSlots)
+                    {
+                        if (timeSlotLast == null)
+                        {
+                            timeSlotsNew.Add(timeSlot);
+                            timeSlotLast = timeSlot;
+                        }
+                        else
+                        {
+                            if (timeSlotLast.NumDocs == 0 & timeSlot.NumDocs == 0)
+                                timeSlotLast.EndTimeDate = timeSlot.EndTimeDate;
+                            else
+                            {
+                                timeSlotsNew.Add(timeSlot);                                
+                                timeSlotLast = timeSlot;
+                            }
+                        }
+                    }
+                    tot.TimeSlots = timeSlotsNew;
+                }
+            }
+
+            return topicOverTime;
         }
 
+
+        //Dummy functions
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public int GetFilterFlag(FilterFlag filterFlag)
+        {
+            return (int) filterFlag;
+        }
         
         //Helper functions
-        public StringReplacer StringReplacerGetDefault(string entity, string windowSize)
+        public StringReplacer StringReplacerGetDefaultBasic()
         {
             var strRpl = new StringReplacer();
             strRpl.AddReplacement("/*REM*/", "--");
             strRpl.AddReplacement("--ADD", "");
+
+            return strRpl;
+        }
+        public StringReplacer StringReplacerGetDefault(string entity, string windowSize)
+        {
+            var strRpl = StringReplacerGetDefaultBasic();
             strRpl.AddReplacement("[AAPL_D_Terms]", string.Format("[{0}_{1}_Terms]", entity, windowSize));
             strRpl.AddReplacement("[AAPL_D_Clusters]", string.Format("[{0}_{1}_Clusters]", entity, windowSize));
 

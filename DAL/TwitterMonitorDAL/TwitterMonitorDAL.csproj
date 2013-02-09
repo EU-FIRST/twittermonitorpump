@@ -57,6 +57,9 @@
     <EmbeddedResource Include="Sql\TagCloud.sql" />
     <EmbeddedResource Include="Sql\Topics.sql" />
     <EmbeddedResource Include="Sql\TopicsOverTime.sql" />
+    <EmbeddedResource Include="Sql\TopicsOverTimeDetail.sql" />
+    <EmbeddedResource Include="Sql\AllEntities.sql" />
+    <EmbeddedResource Include="Sql\EntityDetail.sql" />
     <Content Include="TwitterMonitor.svc" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -70,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataContracts.cs" />
+    <Compile Include="ParameterChecker.cs" />
     <Compile Include="SqlRow.cs" />
     <Compile Include="DataProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
