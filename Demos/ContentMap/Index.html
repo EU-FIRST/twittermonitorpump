@@ -16,10 +16,10 @@
 				border: 1px solid orange; margin-top: 30px; margin-bottom: 30px;
 			}
 			#logo {
-				width: 800px; border: 1px solid blue; font-size: 90%; margin-top: 30px;
+				width: 800px; border: 1px solid blue; margin-top: 30px;
 			}
-			.bubbleTxt {
-				text-align: center; position: absolute; font-family: arial; font-size: 14px; pointer-events: none; border: 1px solid red;
+			.bubbleText {
+				text-align: center; position: absolute; pointer-events: none; border: 1px solid red;
 			}
 		</style>
 	</head>
@@ -52,43 +52,99 @@
 
 		<script type="text/javascript">
 
-function outline(canvas, x, y, r) {
-	canvas.circle(x, y, r).attr({"stroke-width": 20, "stroke": "#EEEEEE"});
-}
+// styles
+var css_bubbleOutline = { "stroke-width": "20px", "stroke": "#EEEEEE" };
+var css_bubbleFill = { "stroke-width": "0px", "fill": "lightgray" };
+var css_bubbleHover = { "fill": "lightblue" };
 
-function circle(canvas, x, y, r, onClick) {
-	var c = canvas.circle(x, y, r).attr({"stroke-width": 0, "fill": "lightgray"});
-	c.mouseover(function() { c.toFront(); c.attr("fill", "lightblue"); });
-	c.mouseout(function() { c.attr("fill", "lightgray"); });
-	if (onClick) { c.click(function() { onClick(); }); }
-}
-
-function text(x, y, width, txt) {
-	var div = $("<div class='bubbleTxt' style='width: " + width + "px;'>" + txt + "</div>").appendTo("#canvas");
-	div.css("left", x - div.width() / 2 + "px");
-	div.css("top", y - div.height() / 2 + "px");
-}
-
-function hideCallout() {
-	$("#callout").css("visibility", "hidden");
-}
-
-function callout(x, y, html) {
-	var callout = $("#callout")[0];
-	callout.children[1].innerHTML = html;
-	callout.style.left = x + "px";
-	callout.style.top = y + "px";
-	callout.style.visibility = "";
-}
-
-var MULTX = 900;
-var MULTY = 700;
+// settings
 var OFFSX = 50;
 var OFFSY = 50;
+var MULTX = 1000 - 2 * OFFSX;
+var MULTY = 800 - 2 * OFFSY;
 
 var AREA = 250000;
 var MINR = 25;
 var MINTXTW = 150;
+
+// other stuff
+var bubbles = [];
+var lastOutline;
+
+// event handlers
+var onEnter = function(bubbles) { 
+	for (var i in bubbles) {
+		bubbles[i].obj.toFront();
+		bubbles[i].obj.attr(css_bubbleHover);
+	}
+};
+
+var onExit = function(bubbles) {
+	for (var i in bubbles) {
+		bubbles[i].obj.insertAfter(lastOutline);
+		bubbles[i].obj.attr(css_bubbleFill);
+	}
+};
+
+$("#canvas").mousemove(function(event) {
+	var pos = $("#canvas").position();
+	var x = event.pageX - pos.left;
+	var y = event.pageY - pos.top;
+	var startHover = [];
+	var stopHover = [];
+	for (var i in bubbles) {
+		var b = bubbles[i];
+		var dist = Math.sqrt(Math.pow(x - b.x, 2) + Math.pow(y - b.y, 2));
+		if (dist <= b.r) {
+			if (!b.hover) {
+				b.hover = true;
+				startHover.push(b);
+			}
+		} else {
+			if (b.hover) {
+				b.hover = false;
+				stopHover.push(b);
+			}
+		}
+	}
+	// fire events
+	if (startHover.length > 0 && onEnter) { 
+		onEnter(startHover); 
+	}
+	if (stopHover.length > 0 && onExit) { 
+		onExit(stopHover); 
+	}
+});
+
+$("#canvas").mouseleave(function() {
+	var stopHover = [];
+	for (var i in bubbles) {
+		var b = bubbles[i];
+		if (b.hover) {
+			b.hover = false;
+			stopHover.push(b);
+		}
+	}	
+	// fire events
+	if (stopHover.length > 0 && onExit) { 
+		onExit(stopHover); 
+	}
+});
+
+function outline(canvas, x, y, r) {
+	lastOutline = canvas.circle(x, y, r).attr(css_bubbleOutline);
+}
+
+function circle(canvas, x, y, r, onClick) {
+	var c = canvas.circle(x, y, r).attr(css_bubbleFill);
+	bubbles.push({ "x": x, "y": y, "r": r, "obj": c, "hover": false });
+}
+
+function text(x, y, width, txt) {
+	var div = $("<div class='bubbleText' style='width: " + width + "px;'>" + txt + "</div>").appendTo("#canvas");
+	div.css("left", x - div.width() / 2 + "px");
+	div.css("top", y - div.height() / 2 + "px");
+}
 
 function visualize(canvas, data) {
 	var area = 0;
@@ -117,7 +173,7 @@ function visualize(canvas, data) {
 	}
 }
 
-var canvas = Raphael(document.getElementById("canvas"));
+var canvas = Raphael($("#canvas")[0]);
 
 visualize(canvas, [{'x':0.1086, 'y':0.2413, 'txt':'short, term, short term, long, short position', 'sz':143},
 	{'x':0.5716, 'y':1.0000, 'txt':'tim, cook, tim cook, share, resistance', 'sz':294},
