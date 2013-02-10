@@ -77,6 +77,9 @@ var onEnter = function(bubbles) {
 		bubbles[i].obj.toFront();
 		bubbles[i].obj.attr(css_bubbleHover);
 	}
+	if (popupVisible()) {
+		$("#canvas").popover("hide");
+	}	
 };
 
 var onExit = function(bubbles) {
@@ -84,6 +87,9 @@ var onExit = function(bubbles) {
 		bubbles[i].obj.insertAfter(lastOutline);
 		bubbles[i].obj.attr(css_bubbleFill);
 	}
+	if (popupVisible()) {
+		$("#canvas").popover("hide");
+	}	
 };
 
 $("#canvas").mousemove(function(event) {
@@ -130,6 +136,27 @@ $("#canvas").mouseleave(function() {
 		onExit(stopHover); 
 	}
 });
+
+$("#canvas").popover({ "animation": true, "html": true, "placement": "right", "trigger": "manual", "content": "This popover should give more info about the selected clusters.", "title": "More info", "container" : "#canvas", "template": '<div id="popover" class="popover"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>' });
+
+$("#canvas").click(function(event) {
+	var canvas = $("#canvas");
+	var pos = canvas.position();
+	var x = event.pageX - pos.left;
+	var y = event.pageY - pos.top;
+	if (!popupVisible()) {
+		// TODO: check which bubbles are highlighted
+		canvas.popover("show");
+		var popover = $("#popover");
+		popover.css("top", y + "px");
+		popover.css("left", x + 5 + "px");
+		popover.css("top", y - popover.height() / 2 + "px");
+	} 
+});
+
+function popupVisible() {
+	return $("#popover").length > 0;
+}
 
 function outline(canvas, x, y, r) {
 	lastOutline = canvas.circle(x, y, r).attr(css_bubbleOutline);
