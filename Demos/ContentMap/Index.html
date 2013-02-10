@@ -72,6 +72,7 @@ var MINTXTW = 150;
 // other stuff
 var bubbles = [];
 var lastOutline;
+var canvasDiv = $("#canvas");
 
 // event handlers
 var onEnter = function(bubbles) { 
@@ -80,8 +81,8 @@ var onEnter = function(bubbles) {
 		bubbles[i].obj.attr(css_bubbleHover);
 	}
 	if (popoverVisible()) {
-		//popoverDiv.popover("hide");
-	}	
+		popoverDiv.popover("hide");
+	}
 };
 
 var onExit = function(bubbles) {
@@ -90,12 +91,12 @@ var onExit = function(bubbles) {
 		bubbles[i].obj.attr(css_bubbleFill);
 	}
 	if (popoverVisible()) {
-		//popoverDiv.popover("hide");
-	}	
+		popoverDiv.popover("hide");
+	}
 };
 
-$("#canvas").mousemove(function(event) {
-	var pos = $("#canvas").position();
+canvasDiv.mousemove(function(event) {
+	var pos = canvasDiv.position();
 	var x = event.pageX - pos.left;
 	var y = event.pageY - pos.top;
 	var startHover = [];
@@ -124,7 +125,7 @@ $("#canvas").mousemove(function(event) {
 	}
 });
 
-$("#canvas").mouseleave(function() {
+canvasDiv.mouseleave(function() {
 	var stopHover = [];
 	for (var i in bubbles) {
 		var b = bubbles[i];
@@ -139,20 +140,40 @@ $("#canvas").mouseleave(function() {
 	}
 });
 
-var popoverDiv = $("<div id='popoverDiv'></div>").appendTo("#canvas");
+var popoverDiv = $("<div id='popoverDiv'></div>").appendTo(canvasDiv);
 
-popoverDiv.popover({ "animation": true, "html": true, "placement": "bottom-right", "trigger": "manual", "content": "This popover should give more info about the selected clusters.", "title": "More info" });
+popoverDiv.popover({ 
+	"animation": true, 
+	"html": true, 
+	"placement": function(pop, el) {
+		var x = $(el).position().left + $(el).width() / 2;
+		var y = $(el).position().top + $(el).height() / 2;
+		var hW = canvasDiv.width() / 2;
+		var hH = canvasDiv.height() / 2;
+		if (x <= hW && y <= hH) {
+			return "bottom-right";
+		} else if (x > hW && y <= hH) {
+			return "bottom-left";
+		} else if (x <= hW && y > hH) {
+			return "top-right";
+		} else {
+			return "top-left";
+		}
+	},
+	"trigger": "manual", 
+	"title": "More info",
+	"content": "This popover should give more info about the selected clusters."
+});
 
-$("#canvas").click(function(event) {
-	var canvas = $("#canvas");
-	var pos = canvas.position();
+canvasDiv.click(function(event) {
+	var pos = canvasDiv.position();
 	var x = event.pageX - pos.left;
 	var y = event.pageY - pos.top;
 	popoverDiv.css("left", x - popoverDiv.width() / 2 + "px");
 	popoverDiv.css("top", y - popoverDiv.height() / 2 + "px");
-	//if (!popoverVisible()) {
+	if (!popoverVisible()) {
 		popoverDiv.popover("show");
-	//}
+	}
 });
 
 function popoverVisible() {
@@ -169,7 +190,7 @@ function circle(canvas, x, y, r, onClick) {
 }
 
 function text(x, y, width, txt) {
-	var div = $("<div class='bubbleText' style='width: " + width + "px;'>" + txt + "</div>").appendTo("#canvas");
+	var div = $("<div class='bubbleText' style='width: " + width + "px;'>" + txt + "</div>").appendTo(canvasDiv);
 	div.css("left", x - div.width() / 2 + "px");
 	div.css("top", y - div.height() / 2 + "px");
 }
