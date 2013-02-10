@@ -1232,7 +1232,7 @@
       actualWidth = $tip[0].offsetWidth
       actualHeight = $tip[0].offsetHeight
 
-      if (placement == 'top' && actualHeight != height) {
+      if ((placement == 'top' || placement == 'top-left' || placement == 'top-right') && actualHeight != height) {
         offset.top = offset.top + height - actualHeight
         replace = true
       }
@@ -1267,7 +1267,7 @@
         , title = this.getTitle()
 
       $tip.find('.tooltip-inner')[this.options.html ? 'html' : 'text'](title)
-      $tip.removeClass('fade in top bottom left right')
+      $tip.removeClass('fade in top bottom left right top-left top-right bottom-left bottom-right')
     }
 
   , hide: function () {
@@ -1457,7 +1457,7 @@
       $tip.find('.popover-title')[this.options.html ? 'html' : 'text'](title)
       $tip.find('.popover-content')[this.options.html ? 'html' : 'text'](content)
 
-      $tip.removeClass('fade top bottom left right in')
+      $tip.removeClass('fade top bottom left right in top-left top-right bottom-left bottom-right')
     }
 
   , hasContent: function () {

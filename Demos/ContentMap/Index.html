@@ -80,7 +80,7 @@ var onEnter = function(bubbles) {
 		bubbles[i].obj.attr(css_bubbleHover);
 	}
 	if (popoverVisible()) {
-		popoverDiv.popover("hide");
+		//popoverDiv.popover("hide");
 	}	
 };
 
@@ -90,7 +90,7 @@ var onExit = function(bubbles) {
 		bubbles[i].obj.attr(css_bubbleFill);
 	}
 	if (popoverVisible()) {
-		popoverDiv.popover("hide");
+		//popoverDiv.popover("hide");
 	}	
 };
 
@@ -141,7 +141,7 @@ $("#canvas").mouseleave(function() {
 
 var popoverDiv = $("<div id='popoverDiv'></div>").appendTo("#canvas");
 
-popoverDiv.popover({ "animation": true, "html": true, "placement": "top-left", "trigger": "manual", "content": "This popover should give more info about the selected clusters.", "title": "More info" });
+popoverDiv.popover({ "animation": true, "html": true, "placement": "bottom-right", "trigger": "manual", "content": "This popover should give more info about the selected clusters.", "title": "More info" });
 
 $("#canvas").click(function(event) {
 	var canvas = $("#canvas");
@@ -150,9 +150,9 @@ $("#canvas").click(function(event) {
 	var y = event.pageY - pos.top;
 	popoverDiv.css("left", x - popoverDiv.width() / 2 + "px");
 	popoverDiv.css("top", y - popoverDiv.height() / 2 + "px");
-	if (!popoverVisible()) {
+	//if (!popoverVisible()) {
 		popoverDiv.popover("show");
-	}
+	//}
 });
 
 function popoverVisible() {
