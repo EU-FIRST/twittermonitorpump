@@ -6157,8 +6157,6 @@ a.badge:focus {
   position: fixed;
 }
 
-/* added by mIHA */
-
 .popover.top-left, .popover.top-right {
 	margin-top: -10px;
 }

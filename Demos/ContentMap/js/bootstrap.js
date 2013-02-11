@@ -1195,7 +1195,6 @@
           case 'right':
             tp = {top: pos.top + pos.height / 2 - actualHeight / 2, left: pos.left + pos.width}
             break 
-          /* added by mIHA */
           case 'top-left':
             tp = {top: pos.top - actualHeight, left: pos.left + pos.width / 2 - actualWidth + 20}
             break
@@ -1223,6 +1222,10 @@
         , actualHeight
         , delta
         , replace
+
+      if (placement == 'bottom-left' || placement == 'bottom-right' || placement == 'top-left' || placement == 'top-right') {
+        $tip.css({ width: width })
+      }
 
       $tip
         .offset(offset)
