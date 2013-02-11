@@ -36,8 +36,8 @@ namespace TwitterMonitorDAL
                 return entity.ToUpper();
 
             throw new WebFaultException<string>(
-                string.Format("The specify entity ({0}) with a combination with the specified windowSize ({1}). " +
-                              "Use the provided services to check all available entity-windowSize combinations." +
+                string.Format("The specified entity ({0}) with a combination with the specified windowSize ({1}) does not exist! " +
+                              "Use the provided services to check all available entity-windowSize combinations.",
                               entity, windowSize),
                 HttpStatusCode.NotAcceptable);
         }
