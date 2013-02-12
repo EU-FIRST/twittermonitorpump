@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>CanyonFlow Demo</title>
+    <script src="js/jquery-1.9.0.js"></script>
+    <script src="js/jsuri-1.1.1.min.js"></script>
+    <script src="js/highstock.js"></script>
+</head>
+
+<body>
+
+    <div id="main">
+
+        <div style="text-align: center;">
+        <div class="header"><a href="">&lt;&lt; Home</a></div>
+        <div style="width: 800px;">        
+            <h1>CanyonFlow Demo</h1>
+
+            <div style="padding-left: 50px; padding-top: 50px; text-align: left">
+                <label>Start: <input type="datetime" id="start" placeholder="yyyy-mm-dd"></label>
+                <label>End: <input type="datetime" id="end" placeholder="yyyy-mm-dd"></label>
+                <label>Entity: <select id="entity"><option selected="selected">aapl</option></select></label>
+                <label>Max. topics: <input type="text" id="topics"></label>
+                <input type="button" id="go_btn" value="Go!"/>
+            </div>
+
+            <div id="container" style="padding-top: 30px; padding-left: 50px; height: 500px"></div>
+
+        </div>
+        </div>
+    </div>
+    <div id="footer" style="padding-top: 50px">
+        <div style="text-align: center; width: 800px">
+            <div style="float: left; height: 100px; line-height: 80px;"><a href="http://project-first.eu"><img style="vertical-align: middle;" src="http://first.ijs.si/Demos/Common/Img/FIRSTLogoSmall.gif" alt="FIRST Logo" /></a></div>
+            <div style="float: right; height: 100px; line-height: 80px;"><a href="http://cordis.europa.eu/info-management/"><img style="vertical-align: middle;" src="http://first.ijs.si/Demos/Common/Img/EULogoSmall.gif" alt="EU Logo" /></a></div>
+            <a href="http://www.ijs.si"><img src="http://first.ijs.si/Demos/Common/Img/JSILogoSmall.gif" alt="JSI Logo" /></a><br />
+            <span class="copyright">&copy; 2012 <a href="http://kt.ijs.si">Department of Knowledge Technologies</a>. Co-funded by the <a href="http://cordis.europa.eu/info-management/">European Union</a>.</span>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+
+    function invokeJsonP(url, callback)
+    {
+        if (typeof callback != "function") { throw new TypeError("function type expected"); }
+
+        $('script[id="' + callback.name + '"]').remove();
+
+        var uri = new Uri(url).addQueryParam("callback", callback.name);
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = uri.toString();
+        script.id = callback.name;
+
+        $("head").append(script);
+    }
+
+    $("#go_btn").click(function(){
+
+        $("#container").empty().append('<div><div style="text-align: center;">Please wait ...</div></div>');
+
+        var start = $("#start").val();
+        var end = $("#end").val();
+        var uri = new Uri("http://first.ijs.si/TwitterMonitor/TwitterMonitor.svc/rest/TopicsOverTime")
+                .addQueryParam("entity", $("#entity").val())
+                .addQueryParam("dateTimeStart", start)
+                .addQueryParam("dateTimeEnd", end)
+                .addQueryParam("maxNumTermsPerTopic", "3")
+                .addQueryParam("windowSize", "w");
+
+        var span = parseDate(end).getTime() - parseDate(start).getTime();
+        const numPoints = 100;
+        if (span > 0)
+        {
+            var secs = span / numPoints / 1000;
+            var days = secs / 3600 / 24;
+            secs %= 3600 * 24;
+            var hours = secs / 3600;
+            secs %= 3600;
+            var mins = secs / 60;
+            var s = days > 0 ? days.toFixed() + ":" : "";
+            s += hours.toFixed() + ":" + mins.toFixed() + ":0";
+            uri.addQueryParam("stepTimeSpan", s);
+        }
+
+        var numTopics = $("#topics").val();
+        if (!isNaN(parseFloat(numTopics))) {
+            uri.addQueryParam("maxNumTopics", parseFloat(numTopics).toFixed());
+        }
+
+        invokeJsonP(uri.toString(), displayCanyonChart);
+    });
+
+    // parse a date in yyyy-mm-dd format
+    function parseDate(input) {
+        var parts = input.match(/(\d+)/g);
+        // new Date(year, month [, date [, hours[, minutes[, seconds[, ms]]]]])
+        return new Date(parts[0], parts[1]-1, parts[2]); // months are 0-based
+    }
+
+    function displayCanyonChart(data)
+    {
+        var seriesOptions = [];
+        for (var i = 0; i < data.length; i++)
+        {
+            var topic = data[i];
+            var seriesData = [];
+            for (var j = 0; j < topic.TimeSlots.length; j++)
+            {
+                var timeSlot = topic.TimeSlots[j];
+                var start  = Date.parse(timeSlot.StartTime);
+                var end  = Date.parse(timeSlot.EndTime);
+                seriesData.push([start, timeSlot.NumDocs]);
+                seriesData.push([end, timeSlot.NumDocs]);
+            }
+            seriesData.sort(function(a, b) { return a - b; });
+            var topicName = "";
+            var len = topic.Terms.length >= 3 ? 3 : topic.Terms.length;
+            for (j = 0; j < len; j++)
+            {
+                if (j > 0) { topicName += " "; }
+                topicName += topic.Terms[j].Term;
+            }
+
+            seriesOptions.push({
+                name: topicName,
+                data: seriesData,
+                type: "area"
+            });
+            seriesOptions.push({
+                name: topicName,
+                data: seriesData,
+                type: "line",
+                yAxis: 1
+            });
+        }
+
+        $("#container").empty();
+
+        // sync name-paired series colors
+        var chartColors = ["#4572A7", "#AA4643", "#89A54E", "#80699B", "#3D96AE", "#DB843D", "#92A8CD", "#A47D7C", "#B5CA92"];
+        var seriesColors = {};
+        var seriesIndexes = {};
+        var seriesIndexLen = 0;
+        var ci = 0;
+        for (i = 0; i < seriesOptions.length; i++) {
+            var color = seriesColors[seriesOptions[i].name];
+            if (color == undefined) {
+                color = chartColors[ci++ % chartColors.length];
+                seriesColors[seriesOptions[i].name] = color;
+            }
+            seriesOptions[i].color = color;
+            if (seriesIndexes[seriesOptions[i].name] == undefined) {
+                seriesIndexes[seriesOptions[i].name] = seriesIndexLen++;
+            }
+        }
+        seriesOptions.sort(function(a, b) {
+            var ai = seriesIndexes[a.name];
+            var bi = seriesIndexes[b.name];
+            if (a.yAxis == 1) ai += seriesIndexLen;
+            if (b.yAxis == 1) bi += seriesIndexLen;
+            return ai < bi ? -1 : (ai > bi ? 1 : 0);
+        });
+
+        var chart = new Highcharts.StockChart({
+            credits: { enabled: false },
+            chart: {
+                renderTo: 'container',
+                zoomType: 'x'
+            },
+            xAxis: {
+                type: 'datetime',
+                title: {
+                    enabled: false
+                }
+            },
+            yAxis: [{
+                title: {
+                    text: "Topics"
+                },
+                min: 0,
+                labels: {
+                    align: "right",
+                    x: -5,
+                    formatter: function() {
+                        return (this.value > 0 ? '+' : '') + this.value;
+                    }
+                },
+                plotLines: [{
+                    value: 0,
+                    width: 2,
+                    color: 'silver'
+                }],
+                height: 200,
+                lineWidth: 2
+            },
+            {
+                title: {
+                    text: "Volume"
+                },
+                labels:{
+                    align: "right",
+                    x: -5,
+                    formatter:function () {
+                        return (this.value > 0 ? '+' : '') + this.value;
+                    }
+                },
+                plotLines:[
+                    {
+                        value: 0,
+                        width: 2,
+                        color: 'silver'
+                    }
+                ],
+                top: 250,
+                height: 150,
+                offset: 0,
+                lineWidth: 2
+            }],
+
+            plotOptions: {
+                series: {
+                    connectNulls: true,
+                    marker: { enabled: false }
+                },
+                area: {
+                    stacking: 'percent',
+                    lineColor: '#ffffff',
+                    lineWidth: 1,
+                    marker: {
+                        lineWidth: 1,
+                        lineColor: '#ffffff'
+                    }
+                }
+            },
+
+            tooltip: {
+                formatter: function() {
+                    var visible = [];
+                    $.each(this.points, function(i, point) {
+                        if (point.y > 0 && typeof point.percentage != "undefined"){
+                            visible.push(point);
+                        }
+                    });
+                    visible.sort(function(a, b) { return b.y - a.y});
+                    var s = '<b>'+ Highcharts.dateFormat('%A, %b %e, %Y', this.x) +'</b>';
+                    $.each(visible, function(i, point) {
+                        s += '<br><span style="color:' + point.series.color;
+                        s += '">' + point.series.name + ': ';
+                        s += '<b>' + point.y + '</b>';
+                        s += ' (' + point.percentage.toFixed(2) +'%)';
+                    });
+                    return s;
+                },
+                valueDecimals: 2
+            },
+
+            series: seriesOptions
+        });
+    }
+
+</script>
+
+</html>

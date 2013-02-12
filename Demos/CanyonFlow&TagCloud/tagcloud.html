@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>TagCloud Demo</title>
+    <script src="js/jquery-1.9.0.js"></script>
+    <script src="js/jsuri-1.1.1.min.js"></script>
+    <script src="http://first.ijs.si/Demos/Common/Js/First.js"></script>
+
+	<style type="text/css">
+		#htmltagcloud{
+			position: relative;
+			font-size: 100%;
+			width: auto;
+			font-family: 'lucida grande', 'trebuchet ms', arial, helvetica, sans-serif;
+			background-color: #fff;
+			margin: 1em 1em 0 1em;
+			border: 1px solid #ddd;
+			box-shadow: 0 0 5px #666;
+			padding: 2em;
+		}
+		#htmltagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
+		#htmltagcloud a:link{text-decoration:none}
+		#htmltagcloud a:visited{text-decoration:none}
+		#htmltagcloud a:hover{color:white;background-color:#05f}
+		#htmltagcloud a:active{color:white;background-color:#03d}
+		.wrd{padding:0;position:relative}
+		.wrd a{text-decoration:none}
+        .tagcloud0{font-size:1.0em;color:#ACC1F3;z-index:10}
+        .tagcloud0 a{color:#ACC1F3}
+        .tagcloud1{font-size:1.4em;color:#ACC1F3;z-index:9}
+        .tagcloud1 a{color:#ACC1F3}
+        .tagcloud2{font-size:1.8em;color:#86A0DC;z-index:8}
+        .tagcloud2 a{color:#86A0DC}
+        .tagcloud3{font-size:2.2em;color:#86A0DC;z-index:7}
+        .tagcloud3 a{color:#86A0DC}
+        .tagcloud4{font-size:2.6em;color:#607EC5;z-index:6}
+        .tagcloud4 a{color:#607EC5}
+        .tagcloud5{font-size:3.0em;color:#607EC5;z-index:5}
+        .tagcloud5 a{color:#607EC5}
+        .tagcloud6{font-size:3.3em;color:#4C6DB9;z-index:4}
+        .tagcloud6 a{color:#4C6DB9}
+        .tagcloud7{font-size:3.6em;color:#395CAE;z-index:3}
+        .tagcloud7 a{color:#395CAE}
+        .tagcloud8{font-size:3.9em;color:#264CA2;z-index:2}
+        .tagcloud8 a{color:#264CA2}
+        .tagcloud9{font-size:4.2em;color:#133B97;z-index:1}
+        .tagcloud9 a{color:#133B97}
+        .tagcloud10{font-size:4.5em;color:#002A8B;z-index:0}
+        .tagcloud10 a{color:#002A8B}
+	</style>
+</head>
+
+<body>
+
+    <div id="wrap">
+    <div id="main">
+
+        <div style="text-align: center;">
+        <div class="header"><a href="">&lt;&lt; Home</a></div>
+        <div style="width: 800px;">        
+            <h1>TagCloud Demo</h1>
+
+            <div style="padding-left: 50px; padding-top: 50px; text-align: left">
+                <label>Start: <input type="datetime" id="start" placeholder="yyyy-mm-dd"></label>
+                <label>End: <input type="datetime" id="end" placeholder="yyyy-mm-dd"></label>
+                <label>Entity: <select id="entity"><option selected="selected">aapl</option></select></label>
+                <input type="button" id="go_btn" value="Go!"/>
+            </div>
+
+			<div id="container" style="padding-left: 50px; text-align: left; padding-top: 20px"></div>
+
+        </div>
+        </div>
+    </div>
+    </div>
+    <div id="footer" style="padding-top: 50px">
+        <div style="text-align: center; width: 800px">
+            <div style="float: left; height: 100px; line-height: 80px;"><a href="http://project-first.eu"><img style="vertical-align: middle;" src="http://first.ijs.si/Demos/Common/Img/FIRSTLogoSmall.gif" alt="FIRST Logo" /></a></div>
+            <div style="float: right; height: 100px; line-height: 80px;"><a href="http://cordis.europa.eu/info-management/"><img style="vertical-align: middle;" src="http://first.ijs.si/Demos/Common/Img/EULogoSmall.gif" alt="EU Logo" /></a></div>
+            <a href="http://www.ijs.si"><img src="http://first.ijs.si/Demos/Common/Img/JSILogoSmall.gif" alt="JSI Logo" /></a><br />
+            <span class="copyright">&copy; 2012 <a href="http://kt.ijs.si">Department of Knowledge Technologies</a>. Co-funded by the <a href="http://cordis.europa.eu/info-management/">European Union</a>.</span>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+
+    function invokeJsonP(url, callback)
+    {
+        if (typeof callback != "function") { throw new TypeError("function type expected"); }
+
+        $('script[id="' + callback.name + '"]').remove();
+
+        var uri = new Uri(url).addQueryParam("callback", callback.name);
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = uri.toString();
+        script.id = callback.name;
+
+        $("head").append(script);
+    }
+
+    $("#go_btn").click(function(){
+
+        $("#container").empty().append('<div style="text-align: center">Please wait ...</div>');
+
+        var uri = new Uri("http://first.ijs.si/TwitterMonitor/TwitterMonitor.svc/rest/Topics")
+                .addQueryParam("entity", $("#entity").val())
+                .addQueryParam("dateTimeStart", $("#start").val())
+                .addQueryParam("dateTimeEnd", $("#end").val())
+                .addQueryParam("maxNumTermsPerTopic", 100)
+                .addQueryParam("filterFlag", 8);
+
+        invokeJsonP(uri.toString(), displayTopics);
+    });
+
+    function displayTopics(cloudData)
+    {
+        cloudData.sort(function(a, b){ return b.NumDocs - a.NumDocs;});
+        var topicTerms = {};
+        var selectedTopic = null;
+        var select = '<label>Topic: <select id="topics" style="text-align: left">';
+        for (var i = 0; i < cloudData.length; i++)
+        {
+            var name = '';
+            var len = cloudData[i].Terms.length > 3 ? 3 : cloudData[i].Terms.length;
+            for (var j = 0; j < len; j++) { name += cloudData[i].Terms[j].Term; name += ' '; }
+            name += " - " + cloudData[i].NumDocs + "";
+            select += '<option id="' + cloudData[i].TopicId;
+            if (i == 0) { selectedTopic = cloudData[i].Terms; }
+            select += '">' + name + '</option>';
+            topicTerms[cloudData[i].TopicId] = cloudData[i].Terms;
+        }
+        select += '</select></label>';
+        select += '<div id="topic_container"></div>';
+
+        $("#container").empty().append(select);
+
+        $("#topics").change(function(){
+            var id = topicTerms[$('select[id="topics"] option:selected').attr("id")];
+            displayTagCloud(id, 60);
+        });
+        if (selectedTopic != null) { displayTagCloud(selectedTopic, 60); }
+    }
+
+
+    function displayTagCloud(cloudData, termCount)
+    {
+        if (cloudData != undefined && cloudData != null)
+        {
+            $("#topic_container").empty().append('<div id="htmltagcloud"></div>');
+
+            // sort desc by weight and truncate
+            cloudData.sort(function(a, b){ return b.Weight - a.Weight;});
+            cloudData = cloudData.slice(0, cloudData.length > termCount ? termCount : cloudData.length);
+
+            // normalize weights
+            var min = Infinity;
+            var max = -Infinity;
+            for (var i = 0; i < cloudData.length; i++)
+            {
+                if (cloudData[i].Weight < min) { min = cloudData[i].Weight; }
+                if (cloudData[i].Weight > max) { max = cloudData[i].Weight; }
+            }
+
+            var styles = 11;
+            var step = (max - min) / styles;
+            var map = function(w) {
+                for (var i = 0; i < styles; i++)
+                {
+                    var thr = min + (i + 1) * step;
+                    if (w < thr) { return i; }
+                }
+                return styles - 1;
+            };
+
+            // sort by term
+            cloudData.sort(function(a, b){ return a.Term.localeCompare(b.Term);});
+
+            // display
+            var html = "";
+            for (i = 0; i < cloudData.length; i++)
+            {
+                html += "<span id=" + i + " class='wrd tagcloud" + map(cloudData[i].Weight) + "'><a>";
+                html += first.htmlEncode(cloudData[i].Term) + "</a></span> ";
+            }
+            $("#htmltagcloud").html(html);
+        }
+    }
+
+</script>
+
+</html>
