@@ -19,10 +19,10 @@
             <h1>CanyonFlow Demo</h1>
 
             <div style="padding-left: 50px; padding-top: 50px; text-align: left">
-                <label>Start: <input type="datetime" id="start" placeholder="yyyy-mm-dd"></label>
-                <label>End: <input type="datetime" id="end" placeholder="yyyy-mm-dd"></label>
+                <label>Start: <input type="datetime" id="start" placeholder="yyyy-mm-dd" style="width: 100px"></label>
+                <label>End: <input type="datetime" id="end" placeholder="yyyy-mm-dd" style="width: 100px"></label>
                 <label>Entity: <select id="entity"><option selected="selected">aapl</option></select></label>
-                <label>Max. topics: <input type="text" id="topics"></label>
+                <label>Max. topics: <input type="text" id="topics" style="width: 50px"></label>
                 <input type="button" id="go_btn" value="Go!"/>
             </div>
 
@@ -116,7 +116,6 @@
                 seriesData.push([start, timeSlot.NumDocs]);
                 seriesData.push([end, timeSlot.NumDocs]);
             }
-            seriesData.sort(function(a, b) { return a - b; });
             var topicName = "";
             var len = topic.Terms.length >= 3 ? 3 : topic.Terms.length;
             for (j = 0; j < len; j++)

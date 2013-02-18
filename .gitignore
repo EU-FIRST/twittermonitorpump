@@ -7,3 +7,7 @@ obj/
 *.csproj.DotSettings.user
 *.Publish.xml
 _ReSharper.*/
+.idea/
+target/
+classes/
+*.properties
