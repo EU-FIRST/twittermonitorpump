@@ -5,6 +5,8 @@ using System.Data;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
+using LUtils
+    = Latino.Utils;
 
 namespace TwitterMonitorPump
 {
@@ -43,7 +45,8 @@ namespace TwitterMonitorPump
         public static IncrementalKMeansClustering CreateClustering()
         {
             IncrementalKMeansClustering clustering = new IncrementalKMeansClustering();
-            clustering.QualThresh = Convert.ToDouble(Latino.Utils.GetConfigValue("ClusterQualityThresh", "0.2"));
+            clustering.Random = new Random(1);
+            clustering.QualThresh = Convert.ToDouble(LUtils.GetConfigValue("ClusterQualityThresh", "0.2"));
             return clustering;
         }
 

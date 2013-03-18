@@ -8,13 +8,13 @@ namespace TwitterMonitorPump
         private IStemmer mLemmatizer
             = new Lemmatizer(Language.English);
 
-        //public MyLemmatizer()
-        //{ 
-        //}
+        public TwitterLemmatizer()
+        {
+        }
 
-        //public MyLemmatizer(BinarySerializer reader)
-        //{
-        //}
+        public TwitterLemmatizer(BinarySerializer reader)
+        { 
+        }
 
         public string GetStem(string word)
         {
