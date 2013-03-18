@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap-datetimepicker.min.css">
+<!-- comment-out the following two lines to rmv responsive -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<title>Canyon Flow Demo</title>
+</head>
+<body>
+<div class="container">
+<h1>Canyon Flow Demo</h1>
+<div class="alert alert-info">
+	<button type="button" class="close" data-dismiss="alert">&times;</button>
+	<p><b>This demo shows</b> blah blah</p>
+</div>
+<div class="loading-container">
+<div class="loading-curtain"></div>
+<img class="loading-img" src="img/loading.gif">
+<div class="loading-oops">Oops, something went wrong. Please try to reload the page.</div>
+<div class="controls">
+	<div class="controls-left">
+		Entity <select id="entity" class="fixpos">
+			<option value="AAPL" selected="selected">Apple Inc.</option>
+			<option value="Krnekej">Krnekej</option>
+		</select>
+	</div>
+	<div class="controls-right">
+		Number of topics <div id="num-topics" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="topics-5" class="btn">5</button>
+		<button id="topics-10" class="btn">10</button>
+		<button id="topics-20" class="btn">20</button>
+		</div>	
+	</div>
+</div>
+<div class="controls controls-band">
+	<div class="controls-left">
+		Zoom <div id="zoom" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="1m" class="btn">1m</button>
+		<button id="3m" class="btn">3m</button>
+		<button id="6m" class="btn">6m</button>
+		<button id="all" class="btn">All</button>
+		</div>	
+	</div>
+	<div class="controls-right">
+		From <div id="datepicker-from" class="input-append fixpos">
+		<input data-format="yyyy-MM-dd" type="text">
+		<span class="add-on">
+			<i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+		</span>
+		</div>&nbsp; To <div id="datepicker-to" class="input-append fixpos">
+		<input data-format="yyyy-MM-dd" type="text">
+		<span class="add-on">
+			<i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+		</span>
+		</div>
+	</div>
+</div>
+<div id="chart-container"></div>
+</div>
+<div id="copyright"><div>&copy; 2013 Sowa Labs</div></div>
+</div>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/highstock.js"></script>
+<script src="js/bootstrap-datetimepicker.js"></script>
+<script src="js/code.js"></script>
+</body>
+</html>
