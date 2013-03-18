@@ -2,69 +2,25 @@ var chart;
 var MIN_DATE 
 	= Date.UTC(2012, 0, 1); // Jan 1, 2012
 var MAX_DATE 
-	= Date.UTC(2012, 11, 31); // Dec 31, 2012
+	= Date.UTC(2012, 2, 31); // Mar 31, 2012
 var DAY_SPAN
 	= 86400000;
 var FONT
 	= "12px 'Helvetica Neue',Helvetica,Arial,sans-serif";
 
-/*function filter(data) {
-	var newData = [];
-	for (var i in data) {
-		if (data[i][0] >= MIN_DATE && data[i][0] <= MAX_DATE + DAY_SPAN / 3 * 2) {
-			var d = new Date(data[i][0]);
-			d = Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()); 
-			newData.push([d, data[i][1]]); 
-		}
-	}
-	return newData;
-}
-
-function align(data, refData) {
-	var newData = [];
-	var v = null;
-	for (var i in refData) {
-		if (data[refData[i][0]]) {
-			newData.push([refData[i][0], v = data[refData[i][0]]]);
-		} else {
-			newData.push([refData[i][0], v]);
-		}
-	}
-	return newData;
-}
-
-function MA(data, days) {
-	var maData = [];
-	var queue = [];
-	var sum = 0;
-	for (var i in data) {
-		if (queue.length < days) {
-			queue.push(data[i].y); sum += data[i].y; 
-			maData.push(sum / queue.length);
-		} else {
-			queue.push(data[i].y); sum += data[i].y;
-			sum -= queue.shift();
-			maData.push(sum / days);
-		}
-	}
-	return maData;
-}*/
-
 function error() {
 	$(".loading-img").hide(); $(".loading-oops").show();
 }
 
-function load(name) {
+function load(name, period) {
 	$(".loading-curtain,.loading-img").show();
 	$("#datepicker-from").data("datetimepicker").setDate(MIN_DATE);
 	$("#datepicker-to").data("datetimepicker").setDate(MAX_DATE);
-	$("#topics-5").button("toggle");
 	$("#all").button("toggle");
-
-	$.getJSON("data/" + name + ".txt", function(data) {
+	$.getJSON("data/" + name + "_" + period + ".txt", function(data) {
 		var series = [];
 		var vol = [];
-		var pointStart = Date.UTC(2012, 0, 1);
+		var pointStart = MIN_DATE;
 		var pointInterval = 3600 * 1000 * 24;
 		for (var i in data) {
 			if (vol.length == 0) {
@@ -243,58 +199,35 @@ $("#datepicker-from,#datepicker-to").datetimepicker({
 	chart.xAxis[0].setExtremes(dateStart, dateEnd);
 });
 
-// assign zoom button handlers
+// assign zoom selection handler 
 $("#zoom .btn").click(function() {
 	var action = $(this).attr("id");
 	var span;
 	var dateEnd = chart.xAxis[0].getExtremes().max;
 	if (action == "all") { chart.xAxis[0].setExtremes(MIN_DATE, MAX_DATE); return; }
+	else if (action == "1w") { span = 7 * DAY_SPAN; }
+	else if (action == "2w") { span = 14 * DAY_SPAN; }
 	else if (action == "1m") { span = 30 * DAY_SPAN; }
-	else if (action == "3m") { span = 90 * DAY_SPAN; }
-	else if (action == "6m") { span = 180 * DAY_SPAN; }
 	var dateStart = dateEnd - span;
 	if (dateStart < MIN_DATE) { dateEnd += (MIN_DATE - dateStart); dateStart += (MIN_DATE - dateStart); }
 	chart.xAxis[0].setExtremes(dateStart, dateEnd);
 });
 
-// assign MA button handlers
-/*$("#lower-chart .btn").click(function() {
-	var action = $(this).attr("id");
-	if (action == "none") {
-		for (var i in chart.series[MA_IDX].data) { chart.series[MA_IDX].data[i].update(chart.series[SENT_IDX].data[i].y, false); } 
-		chart.redraw();
-		chart.series[MA_IDX].setVisible(false, true);
-	}
-	else { 
-		var data = MA(chart.series[SENT_IDX].data, action == "7-day-avg" ? 7 : 14);
-		for (var i in chart.series[MA_IDX].data) { chart.series[MA_IDX].data[i].update(data[i], false); }
-		chart.series[MA_IDX].setVisible(true, true);
-	}
-});*/
-
-// assign upper-chart button handlers
-/*$("#upper-chart .btn").click(function() {
-	var action = $(this).attr("id");
-	if (action == "price") {
-		chart.series[VOL_IDX].setVisible(false, false);
-		chart.yAxis[0].setOptions($.extend({}, chart.yAxis[0].options, { min: null, title: { text: "Stock price", style: { font: FONT, color: "#000" } } }));
-		chart.yAxis[0].setTitle(); // wtf?!
-		chart.series[PRICE_IDX].setVisible(true, true);
-	} else {
-		chart.series[PRICE_IDX].setVisible(false, false);
-		chart.yAxis[0].setOptions($.extend({}, chart.yAxis[0].options, { min: 0, title: { text: "Occurrence", style: { font: FONT, color: "#000" } } }));
-		chart.yAxis[0].setTitle(); // wtf?!
-		chart.series[VOL_IDX].setVisible(true, true);
-	}
-});*/
-
-// assign selection handler !!!!!
-/*$("select").change(function() {
+// assign entity selection handler 
+$("#entity").change(function() {
 	$(this)[0].blur(); // rmv ugly focus rectangle
-	$("select option:selected").each(function () {
-		load($(this).attr("value"));
-	});
-});*/
+	load($("#entity option:selected").attr("value"), $("#period .active").attr("id"));
+});
+
+// assign period selection handler
+$("#period .btn").click(function() {
+	var p = $(this).attr("id");
+	if (p == "p1") { MIN_DATE = Date.UTC(2012, 0, 1); MAX_DATE = Date.UTC(2012, 2, 31); }
+	else if (p == "p2") { MIN_DATE = Date.UTC(2012, 3, 1); MAX_DATE = Date.UTC(2012, 5, 30); }
+	else if (p == "p3") { MIN_DATE = Date.UTC(2012, 6, 1); MAX_DATE = Date.UTC(2012, 8, 30); }
+	else if (p == "p4") { MIN_DATE = Date.UTC(2012, 9, 1); MAX_DATE = Date.UTC(2012, 11, 31); }
+	load($("#entity option:selected").attr("value"), p);
+});
 
 // initialize
-load("AAPL"); 
+load("AAPL", "p1"); 
