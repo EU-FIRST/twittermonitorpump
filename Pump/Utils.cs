@@ -58,6 +58,7 @@ namespace TwitterMonitorPump
             table.Columns.Add("EndTime", typeof(DateTime));
             table.Columns.Add("Topic", typeof(long));
             table.Columns.Add("NumDocs", typeof(int));
+            table.Columns.Add("RecordState", typeof(int));
             return table;        
         }
 
@@ -75,6 +76,8 @@ namespace TwitterMonitorPump
             table.Columns.Add("Hashtag", typeof(bool));
             table.Columns.Add("Stock", typeof(bool));
             table.Columns.Add("NGram", typeof(bool));
+            table.Columns.Add("EndTime", typeof(DateTime));
+            table.Columns.Add("RecordState", typeof(int));
             return table;
         }
 

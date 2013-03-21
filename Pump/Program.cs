@@ -25,9 +25,9 @@ namespace TwitterMonitorPump
             public IncrementalKMeansClustering mClustering
                 = Utils.CreateClustering();
 
-            public Queue(BinarySerializer bs) : this()
+            public Queue(BinarySerializer reader) : this()
             {
-                Load(bs);
+                Load(reader);
             }
 
             public Queue()
@@ -99,7 +99,6 @@ namespace TwitterMonitorPump
                 numOutdated++;
             }
             bowSpc.Dequeue(numOutdated);
-            //bowSpc.UpdateMostFrequentWordForms(); // *** too slow
         }
 
         static Guid ComputeClusterId(DateTime startTime, long topicId)
@@ -110,9 +109,29 @@ namespace TwitterMonitorPump
             return new Guid(MD5.Create().ComputeHash(buffer.ToArray()));
         }
 
+        static int SwitchRecordState(DateTime timeEnd, SqlConnection connection)
+        {
+            string cmdSql = string.Format(@"
+                UPDATE {0} SET RecordState = 2 WHERE EndTime = @EndTime AND RecordState = 0
+                UPDATE {0} SET RecordState = 0 WHERE EndTime = @EndTime AND RecordState = 1
+                UPDATE {1} SET RecordState = 2 WHERE EndTime = @EndTime AND RecordState = 0
+                UPDATE {1} SET RecordState = 0 WHERE EndTime = @EndTime AND RecordState = 1", 
+                mOutputTableNameClusters, mOutputTableNameTerms);
+            using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
+            {
+                using (SqlCommand cmd = new SqlCommand(cmdSql, connection, tran))
+                {
+                    cmd.Parameters.Add(new SqlParameter("EndTime", timeEnd));
+                    int rowsAffected = cmd.ExecuteNonQuery();
+                    tran.Commit();
+                    return rowsAffected;
+                }
+            }
+        }
+
         static void ProcessTweets(DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
         {
-            Console.WriteLine("Processing tweets {0:HH:mm:ss}-{1:HH:mm:ss} ({2} tweets) ...", timeStart, timeEnd, tweets.Count);
+            Console.WriteLine("Processing tweets {0:yyyy-MM-dd HH:mm:ss}-{1:HH:mm:ss} ({2} tweets) ...", timeStart, timeEnd, tweets.Count);
             DataTable clustersTable = Utils.CreateClustersTable();
             DataTable termsTable = Utils.CreateTermsTable();
             // update BOW space
@@ -128,6 +147,13 @@ namespace TwitterMonitorPump
             ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));
             // create topic-specific centroids
             int minIdx = bowSpc.Count - tweets.Count;
+            int state = 0;
+            // check if time period already in DB and change state to 1
+            using (SqlCommand checkExists = new SqlCommand(string.Format("SELECT TOP 1 * FROM {0} WHERE EndTime = @EndTime AND RecordState = 0", mOutputTableNameClusters), connection))
+            {
+                checkExists.Parameters.Add(new SqlParameter("EndTime", timeEnd));
+                if (checkExists.ExecuteScalar() != null) { state = 1; Console.WriteLine("Record state set to 1."); }
+            }
             foreach (Cluster cluster in result.Roots)
             {
                 long topicId = (long)cluster.ClusterInfo; // topic identifier
@@ -145,7 +171,8 @@ namespace TwitterMonitorPump
                     timeStart,
                     timeEnd,
                     topicId, 
-                    items.Count
+                    items.Count,
+                    state
                     );                
                 foreach (IdxDat<double> item in centroidTfIdf) 
                 {
@@ -158,8 +185,7 @@ namespace TwitterMonitorPump
                     bool user = word.Contains("@");
                     bool hashtag = word.Contains("#");
                     bool stock = word.Contains("$");
-                    bool nGram = word.Contains(" ");
-                    //Console.WriteLine("{0} {1} tf={2} d={3} tfIdf={4:0.00} @={5} #={6} $={7} term={8} window={9}", stem, word, tf, d, tfIdf, user, hashtag, stock, nGram, windowSize);
+                    bool nGram = word.Contains(" ");                    
                     termsTable.Rows.Add(
                         clusterId,
                         LUtils.GetStringHashCode128(stem),
@@ -171,7 +197,9 @@ namespace TwitterMonitorPump
                         user,
                         hashtag,
                         stock,
-                        nGram
+                        nGram,
+                        timeEnd,
+                        state
                         );
                 }
             }
@@ -182,31 +210,43 @@ namespace TwitterMonitorPump
             bulkCopy.DestinationTableName = mOutputTableNameTerms;
             bulkCopy.WriteToServer(termsTable);
             bulkCopy.Close();
+            if (state == 1)
+            {
+                Console.WriteLine("Switching record states ...");
+                SwitchRecordState(timeEnd, connection);
+            }
         }
 
-        static void SaveState(DateTime timeEnd, long tweetId)
+        static void SaveState(long tweetId)
         {
             Console.WriteLine("Saving state ...");
             if (File.Exists("state.bin.bak")) { File.Delete("state.bin.bak"); } // delete BAK file
             if (File.Exists("state.bin")) { File.Copy("state.bin", "state.bin.bak"); } // rename state file to BAK
             BinarySerializer bs = new BinarySerializer("state.bin", FileMode.Create);
             bs.WriteLong(tweetId); // last processed tweet ID
-            bs.WriteDouble(timeEnd.ToOADate()); // last written record date
             mQueue.Save(bs); // state            
             bs.Close();
-            // reload (testing)
-            //bs = new BinarySerializer("state.bin", FileMode.Open);
-            //bs.ReadLong(); // skip
-            //bs.ReadDouble(); // skip
-            //mQueue.Load(bs);
-            //bs.Close();
+        }
+
+        static void InitState(out long lastId)
+        {
+            lastId = 0;
+            if (File.Exists("state.bin.bak"))
+            {
+                Console.WriteLine("Restoring state ...");
+                BinarySerializer bs = new BinarySerializer("state.bin.bak", FileMode.Open);
+                lastId = bs.ReadLong();
+                mQueue.Load(bs);
+                bs.Close();
+            }
         }
 
         static void Main(string[] args)
         {
             int N = 10;
             int n = N;
-            long lastId = 0;
+            long lastId;
+            InitState(out lastId);            
             ArrayList<Pair<DateTime, string>> tweets = new ArrayList<Pair<DateTime, string>>();
             DateTime timeStart = DateTime.MinValue;
             DateTime timeEnd = DateTime.MinValue;
@@ -235,11 +275,12 @@ namespace TwitterMonitorPump
                             {
                                 ProcessTweets(timeStart, timeEnd, tweets, output);                                
                                 tweets.Clear();
-                                if (--n == 0) { n = N; SaveState(timeEnd, id); }
+                                if (--n == 0) { n = N; SaveState(lastId); }
                             }
                             timeStart = tmpTimeStart;
                             timeEnd = tmpTimeEnd;
                             tweets.Add(new Pair<DateTime, string>(timeStamp, text));
+                            lastId = id;
                         }
                         if (tweets.Count > 0)
                         {
@@ -248,7 +289,7 @@ namespace TwitterMonitorPump
                         }
                     }
                 }
-                Console.WriteLine("All done.");
+                Console.WriteLine("All done. For now.");
             }
         }
     }
