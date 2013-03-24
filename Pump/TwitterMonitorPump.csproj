@@ -62,7 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Database\CreateTables.sql" />
+    <EmbeddedResource Include="Database\CreateTables.sql" />
     <Content Include="TODO.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

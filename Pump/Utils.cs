@@ -42,11 +42,11 @@ namespace TwitterMonitorPump
             return bowSpc;
         }
 
-        public static IncrementalKMeansClustering CreateClustering()
+        public static IncrementalKMeansClustering CreateClustering(double qualThresh)
         {
             IncrementalKMeansClustering clustering = new IncrementalKMeansClustering();
             clustering.Random = new Random(1);
-            clustering.QualThresh = Convert.ToDouble(LUtils.GetConfigValue("ClusterQualityThresh", "0.2"));
+            clustering.QualThresh = qualThresh;
             return clustering;
         }
 

@@ -23,7 +23,7 @@ namespace TwitterMonitorPump
             public IncrementalBowSpace mBowSpace
                 = Utils.CreateBowSpace();
             public IncrementalKMeansClustering mClustering
-                = Utils.CreateClustering();
+                = Utils.CreateClustering(Program.mClusterQualityThresh);
 
             public Queue(BinarySerializer reader) : this()
             {
@@ -60,15 +60,21 @@ namespace TwitterMonitorPump
         static int mStepSize
             = Convert.ToInt32(LUtils.GetConfigValue("StepSizeMinutes", "60"));
         static double mBowWeightsCut
-            = Convert.ToDouble(LUtils.GetConfigValue("BowWeightsCut", "0"));
-        static string mOutputTableNameTerms
-            = LUtils.GetConfigValue("OutputTableNameTerms");
-        static string mOutputTableNameClusters
-            = LUtils.GetConfigValue("OutputTableNameClusters");
+            = Convert.ToDouble(LUtils.GetConfigValue("BowWeightsCut", "0"));        
         static int mWindowSize
             = Convert.ToInt32(LUtils.GetConfigValue("WindowSizeMinutes", "1440"));
         static Set<string> mTaggedWords
             = new Set<string>(LUtils.GetConfigValue("TaggedWords", "").Split(',').Select(x => x.ToUpper()));
+        static double mClusterQualityThresh
+            = Convert.ToDouble(LUtils.GetConfigValue("ClusterQualityThresh", "0.1"));
+        static string mOutputTableNameSuffix
+            = LUtils.GetConfigValue("OutputTableNameSuffix", "");
+        static string mTableSuffix
+            = string.Format("_{0}_{1}_{2:0}", mOutputTableNameSuffix, mWindowSize, mClusterQualityThresh * 100);
+        static string mOutputTableNameTerms
+            = "Terms" + mTableSuffix;
+        static string mOutputTableNameClusters
+            = "Clusters" + mTableSuffix;
 
         static Queue mQueue
             = new Queue();
@@ -245,8 +251,28 @@ namespace TwitterMonitorPump
             }
         }
 
+        static void CreateTables()
+        {
+            string sqlTxt = LUtils.GetManifestResourceString(typeof(Program), "CreateTables.sql");
+            sqlTxt = sqlTxt.Replace("[Clusters]", "[" + mOutputTableNameClusters + "]");
+            sqlTxt = sqlTxt.Replace("[Terms]", "[" + mOutputTableNameTerms + "]");
+            sqlTxt = sqlTxt.Replace("UQ_Clusters", "UQ_" + mOutputTableNameClusters);
+            sqlTxt = sqlTxt.Replace("UQ_Terms", "UQ_" + mOutputTableNameTerms);
+            sqlTxt = sqlTxt.Replace("GO", "");
+            //Console.WriteLine(sqlTxt);
+            using (SqlConnection db = new SqlConnection(LUtils.GetConfigValue("OutputConnectionString")))
+            {
+                db.Open();
+                using (SqlCommand cmd = new SqlCommand(sqlTxt, db))
+                {
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
+
         static void Main(string[] args)
         {
+            //CreateTables();
             int N = 10;
             int n = N;
             long lastId;
