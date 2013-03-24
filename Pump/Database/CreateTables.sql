@@ -36,6 +36,7 @@ CREATE TABLE [dbo].[Terms](
 	[Hashtag] [bit] NOT NULL,
 	[Stock] [bit] NOT NULL,
 	[NGram] [bit] NOT NULL,
+	[Tagged] [bit] NOT NULL,
 	[EndTime] [datetime] NOT NULL,
 	[RecordState] [int] NOT NULL
 	constraint UQ_Terms unique (ClusterId, StemHash, RecordState)

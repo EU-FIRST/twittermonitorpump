@@ -76,6 +76,7 @@ namespace TwitterMonitorPump
             table.Columns.Add("Hashtag", typeof(bool));
             table.Columns.Add("Stock", typeof(bool));
             table.Columns.Add("NGram", typeof(bool));
+            table.Columns.Add("Tagged", typeof(bool));
             table.Columns.Add("EndTime", typeof(DateTime));
             table.Columns.Add("RecordState", typeof(int));
             return table;

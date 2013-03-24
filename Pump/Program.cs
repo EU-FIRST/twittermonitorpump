@@ -67,6 +67,8 @@ namespace TwitterMonitorPump
             = LUtils.GetConfigValue("OutputTableNameClusters");
         static int mWindowSize
             = Convert.ToInt32(LUtils.GetConfigValue("WindowSizeMinutes", "1440"));
+        static Set<string> mTaggedWords
+            = new Set<string>(LUtils.GetConfigValue("TaggedWords", "").Split(',').Select(x => x.ToUpper()));
 
         static Queue mQueue
             = new Queue();
@@ -111,7 +113,7 @@ namespace TwitterMonitorPump
 
         static int SwitchRecordState(DateTime timeEnd, SqlConnection connection)
         {
-            string cmdSql = string.Format(@"
+            string cmdTxt = string.Format(@"
                 UPDATE {0} SET RecordState = 2 WHERE EndTime = @EndTime AND RecordState = 0
                 UPDATE {0} SET RecordState = 0 WHERE EndTime = @EndTime AND RecordState = 1
                 UPDATE {1} SET RecordState = 2 WHERE EndTime = @EndTime AND RecordState = 0
@@ -119,7 +121,7 @@ namespace TwitterMonitorPump
                 mOutputTableNameClusters, mOutputTableNameTerms);
             using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
             {
-                using (SqlCommand cmd = new SqlCommand(cmdSql, connection, tran))
+                using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
                 {
                     cmd.Parameters.Add(new SqlParameter("EndTime", timeEnd));
                     int rowsAffected = cmd.ExecuteNonQuery();
@@ -144,9 +146,7 @@ namespace TwitterMonitorPump
                 = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
             ArrayList<SparseVector<double>> bowsTfIdf
                 = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, mBowWeightsCut, /*minWordFreq=*/1);
-            ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));
-            // create topic-specific centroids
-            int minIdx = bowSpc.Count - tweets.Count;
+            ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));            
             int state = 0;
             // check if time period already in DB and change state to 1
             using (SqlCommand checkExists = new SqlCommand(string.Format("SELECT TOP 1 * FROM {0} WHERE EndTime = @EndTime AND RecordState = 0", mOutputTableNameClusters), connection))
@@ -154,6 +154,8 @@ namespace TwitterMonitorPump
                 checkExists.Parameters.Add(new SqlParameter("EndTime", timeEnd));
                 if (checkExists.ExecuteScalar() != null) { state = 1; Console.WriteLine("Record state set to 1."); }
             }
+            // create topic-specific centroids
+            int minIdx = bowSpc.Count - tweets.Count;
             foreach (Cluster cluster in result.Roots)
             {
                 long topicId = (long)cluster.ClusterInfo; // topic identifier
@@ -185,7 +187,8 @@ namespace TwitterMonitorPump
                     bool user = word.Contains("@");
                     bool hashtag = word.Contains("#");
                     bool stock = word.Contains("$");
-                    bool nGram = word.Contains(" ");                    
+                    bool nGram = word.Contains(" ");
+                    bool tagged = word.Split(' ').Count(x => mTaggedWords.Contains(x.ToUpper())) > 0;
                     termsTable.Rows.Add(
                         clusterId,
                         LUtils.GetStringHashCode128(stem),
@@ -198,6 +201,7 @@ namespace TwitterMonitorPump
                         hashtag,
                         stock,
                         nGram,
+                        tagged,
                         timeEnd,
                         state
                         );
@@ -267,7 +271,7 @@ namespace TwitterMonitorPump
                         {
                             long id = Utils.GetVal<long>(reader, "Id");
                             string text = Utils.GetVal<string>(reader, "Text");                            
-                            text = HttpUtility.HtmlDecode(Utils.RemoveUrls(text)); // prepare tweet text
+                            text = HttpUtility.HtmlDecode(Utils.RemoveUrls(text)); // prepare tweet text                            
                             DateTime timeStamp = Utils.GetVal<DateTime>(reader, "CreatedAt");
                             DateTime tmpTimeStart, tmpTimeEnd;
                             GetTimeSlot(timeStamp, out tmpTimeStart, out tmpTimeEnd);
