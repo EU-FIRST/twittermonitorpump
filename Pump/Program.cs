@@ -111,19 +111,19 @@ namespace TwitterMonitorPump
             return new Guid(MD5.Create().ComputeHash(buffer.ToArray()));
         }
 
-        static int SwitchRecordState(DateTime timeEnd, SqlConnection connection)
+        static int SwitchRecordState(DateTime timeStart, SqlConnection connection)
         {
             string cmdTxt = string.Format(@"
-                UPDATE {0} SET RecordState = 2 WHERE EndTime = @EndTime AND RecordState = 0
-                UPDATE {0} SET RecordState = 0 WHERE EndTime = @EndTime AND RecordState = 1
-                UPDATE {1} SET RecordState = 2 WHERE EndTime = @EndTime AND RecordState = 0
-                UPDATE {1} SET RecordState = 0 WHERE EndTime = @EndTime AND RecordState = 1", 
+                UPDATE {0} SET RecordState = 2 WHERE StartTime = @StartTime AND RecordState = 0
+                UPDATE {0} SET RecordState = 0 WHERE StartTime = @StartTime AND RecordState = 1
+                UPDATE {1} SET RecordState = 2 WHERE StartTime = @StartTime AND RecordState = 0
+                UPDATE {1} SET RecordState = 0 WHERE StartTime = @StartTime AND RecordState = 1", 
                 mOutputTableNameClusters, mOutputTableNameTerms);
             using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
             {
                 using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
                 {
-                    cmd.Parameters.Add(new SqlParameter("EndTime", timeEnd));
+                    cmd.Parameters.Add(new SqlParameter("StartTime", timeStart));
                     int rowsAffected = cmd.ExecuteNonQuery();
                     tran.Commit();
                     return rowsAffected;
@@ -149,9 +149,9 @@ namespace TwitterMonitorPump
             ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));            
             int state = 0;
             // check if time period already in DB and change state to 1
-            using (SqlCommand checkExists = new SqlCommand(string.Format("SELECT TOP 1 * FROM {0} WHERE EndTime = @EndTime AND RecordState = 0", mOutputTableNameClusters), connection))
+            using (SqlCommand checkExists = new SqlCommand(string.Format("SELECT TOP 1 * FROM {0} WHERE StartTime = @StartTime AND RecordState = 0", mOutputTableNameClusters), connection))
             {
-                checkExists.Parameters.Add(new SqlParameter("EndTime", timeEnd));
+                checkExists.Parameters.Add(new SqlParameter("StartTime", timeStart));
                 if (checkExists.ExecuteScalar() != null) { state = 1; Console.WriteLine("Record state set to 1."); }
             }
             // create topic-specific centroids
@@ -202,7 +202,7 @@ namespace TwitterMonitorPump
                         stock,
                         nGram,
                         tagged,
-                        timeEnd,
+                        timeStart,
                         state
                         );
                 }
@@ -217,7 +217,7 @@ namespace TwitterMonitorPump
             if (state == 1)
             {
                 Console.WriteLine("Switching record states ...");
-                SwitchRecordState(timeEnd, connection);
+                SwitchRecordState(timeStart, connection);
             }
         }
 
