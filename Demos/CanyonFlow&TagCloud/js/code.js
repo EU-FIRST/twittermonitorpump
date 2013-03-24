@@ -42,9 +42,11 @@ function load(name, period) {
 			series.push({
 				name: data[i].name,
 				data: data[i].data,
+				keywords: data[i].keywords,
 				pointStart: pointStart,
 				pointInterval: pointInterval,
 				type: "area",
+				color: data[i].color,
 				states: { hover: { enabled: false } },
 				lineWidth: 1
 			});
@@ -55,6 +57,7 @@ function load(name, period) {
 				data: data[i].data,
 				pointStart: pointStart,
 				pointInterval: pointInterval,
+				color: data[i].color,
 				states: { hover: { enabled: false } },
 				lineWidth: 1,
 				yAxis: 1
@@ -107,7 +110,7 @@ function load(name, period) {
 						font: FONT,
 						color: "#000"
 					},
-					text: "Canyon flow",
+					text: "Topic flow",
 					x: -15
 				},
 				maxPadding: 0,
@@ -157,22 +160,21 @@ function load(name, period) {
 			plotOptions: {
 				area: {
 					stacking: "percent"
-					//stacking: "normal"
 				}
 			},
-			series: series 
-				/*
+			series: series,
 			tooltip: {
 				formatter: function() {
-					var tooltip = Highcharts.dateFormat("%a, %b %d, %Y", this.x) + 
-						"<br/><span style=\"color:" + this.points[0].series.color + "\">" + this.points[0].series.name + "</span>: <b>" + this.points[0].y + "</b>" +
-						"<br/><span style=\"color:" + this.points[1].series.color + "\">Sentiment</span>: <b>" + this.points[1].y.toFixed(2) + "</b>";
-					if (this.points[2]) {
-						tooltip += "<br/><span style=\"color:" + this.points[2].series.color + "\">Sentiment MA</span>: <b>" + this.points[2].y.toFixed(2) + "</b>";
+					var ptIdx = (this.x - MIN_DATE) / DAY_SPAN;
+					var tooltip = Highcharts.dateFormat("%a, %b %d, %Y", this.x);
+					for (var i in this.points) {
+						if (this.points[i].series.options.yAxis != 1 && this.points[i].y > 0) {
+							tooltip += "<br/><span style=\"color:" + this.points[i].series.color + "\">[" + this.points[i].series.name + "]" + this.points[i].series.options.keywords[ptIdx] + "</span> (" + Highcharts.numberFormat(this.points[i].y, 0) + ")";
+						}
 					}
 					return tooltip;
 				}
-			}*/
+			}
 		});
 		chart.span = MAX_DATE - MIN_DATE;
 		$(".loading-curtain,.loading-img").hide();

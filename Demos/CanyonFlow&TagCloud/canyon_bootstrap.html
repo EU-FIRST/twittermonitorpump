@@ -8,14 +8,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
 <link rel="stylesheet" type="text/css" href="css/styles.css">
-<title>Canyon Flow Demo</title>
+<title>Topic Flow Demo</title>
 </head>
 <body>
 <div class="container">
-<h1>Canyon Flow Demo</h1>
+<h1>Topic Flow Demo</h1>
+<center><h2>US Stocks 2012</h2></center>
 <div class="alert alert-info">
 	<button type="button" class="close" data-dismiss="alert">&times;</button>
-	<p><b>This demo shows</b> blah blah</p>
+	<p><b>This demo shows</b> the development of topics through time.</p>
 </div>
 <div class="loading-container">
 <div class="loading-curtain"></div>
@@ -28,7 +29,7 @@
 		</select>
 	</div>
 	<div class="controls-right">
-		Period 2012 <div id="period" class="btn-group fixpos" data-toggle="buttons-radio">
+		Period <div id="period" class="btn-group fixpos" data-toggle="buttons-radio">
 		<button id="p1" class="btn active">Jan - Mar</button>
 		<button id="p2" class="btn">Apr - Jun</button>
 		<button id="p3" class="btn">Jul - Sep</button>
@@ -39,8 +40,8 @@
 <div class="controls controls-band">
 	<div class="controls-left">
 		Zoom <div id="zoom" class="btn-group fixpos" data-toggle="buttons-radio">
-		<button id="1w" class="btn">1w</button>
-		<button id="2w" class="btn">2w</button>
+		<button id="1w" class="btn">7d</button>
+		<button id="2w" class="btn">14d</button>
 		<button id="1m" class="btn">1m</button>
 		<button id="all" class="btn">All</button>
 		</div>	

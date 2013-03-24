@@ -6,8 +6,8 @@ h1 { text-align: center; margin-bottom: 30px; margin-top: 30px; }
 .controls-left { float: left; padding-top: 2px; }
 .controls-right { padding-top: 2px; }
 #chart-container { height: 500px; margin-top: 10px; } 
-#copyright { position: relative; margin-top: 50px; height: 100px; background: url("../img/sowalabs.png") no-repeat center top; }
-#copyright div { position: absolute; width: 100%; text-align: center; bottom: 0; }
+#copyright { margin-top: 50px; }
+#copyright div { width: 100%; text-align: center; }
 .alert { margin-left: 10px; margin-right: 10px; }
 .alert p:last-child { margin-bottom: 0; } 
 
