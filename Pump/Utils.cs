@@ -29,12 +29,13 @@ namespace TwitterMonitorPump
         {
             IncrementalBowSpace bowSpc = new IncrementalBowSpace();
             RegexTokenizer tok = new RegexTokenizer();
-            tok.TokenRegex = @"[#@$]?([\d_]*\p{L}[\d_]*){2,}";
+            tok.TokenRegex = @"[#@$]?([\d_]*[\p{IsBasicLatin}\p{IsLatin-1Supplement}\p{IsLatinExtended-A}\p{IsLatinExtended-B}\p{IsLatinExtendedAdditional}-[^\p{L}]][\d_]*){2,}";
             tok.IgnoreUnknownTokens = true;
             bowSpc.Tokenizer = tok;
             Set<string> stopWords = new Set<string>(StopWords.EnglishStopWords);
             // additional stop words
-            stopWords.AddRange("i,m,you,re,he,s,she,it,we,they,ve,d,ll,isn,t,aren,wasn,weren,hasn,haven,hadn,doesn,don,didn,wouldn,shan,shouldn,couldn,mustn,let,that,who,what,here,there,when,where,why,how".Split(','));
+            stopWords.AddRange("can,will,must".Split(','));
+            stopWords.AddRange("im,youre,hes,shes,its,were,theyre,ive,youve,weve,theyve,youd,hed,theyd,youll,theyll,isnt,arent,wasnt,werent,hasnt,havent,hadnt,doesnt,dont,didnt,wont,wouldnt,shant,shouldnt,cant,couldnt,mustnt,lets,thats,whos,whats,heres,theres,whens,wheres,whys,hows,i,m,you,re,he,s,she,it,we,they,ve,d,ll,isn,t,aren,wasn,weren,hasn,haven,hadn,doesn,don,didn,won,wouldn,shan,shouldn,can,couldn,mustn,let,that,who,what,here,there,when,where,why,how".Split(','));
             stopWords.Add("rt");
             bowSpc.Stemmer = new TwitterLemmatizer();
             bowSpc.StopWords = stopWords;
