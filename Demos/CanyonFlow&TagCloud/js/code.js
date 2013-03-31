@@ -3,21 +3,13 @@ var MIN_DATE
 	= Date.UTC(2012, 0, 1); // Jan 1, 2012
 var MAX_DATE 
 	= Date.UTC(2012, 2, 31); // Mar 31, 2012
-var DAY_SPAN
-	= 86400000;
-var FONT
-	= "12px 'Helvetica Neue',Helvetica,Arial,sans-serif";
 
-function error() {
-	$(".loading-img").hide(); $(".loading-oops").show();
-}
-
-function load(name, period) {
-	$(".loading-curtain,.loading-img").show();
+function load(name, period, gran) {
+	showLoading();
 	$("#datepicker-from").data("datetimepicker").setDate(MIN_DATE);
 	$("#datepicker-to").data("datetimepicker").setDate(MAX_DATE);
 	$("#all").button("toggle");
-	$.getJSON("data/" + name + "_" + period + ".txt", function(data) {
+	$.getJSON("data/" + name + "_" + period + "_" + gran + ".txt", function(data) {
 		var series = [];
 		var vol = [];
 		var pointStart = MIN_DATE;
@@ -43,6 +35,7 @@ function load(name, period) {
 				name: data[i].name,
 				data: data[i].data,
 				keywords: data[i].keywords,
+				staticKeywords: data[i].staticKeywords,
 				pointStart: pointStart,
 				pointInterval: pointInterval,
 				type: "area",
@@ -87,9 +80,9 @@ function load(name, period) {
 			xAxis: {
 				events: {
 					setExtremes: function(event) {
-						$("#datepicker-from").data("datetimepicker").setDate(event.min);
-						$("#datepicker-to").data("datetimepicker").setDate(event.max);
-						if (Math.abs(event.max - event.min - chart.span) >= 2 * DAY_SPAN) {
+						$("#datepicker-from").data("datetimepicker").setDate(dateOnly(event.min));
+						$("#datepicker-to").data("datetimepicker").setDate(dateOnly(event.max));
+						if (Math.abs(event.max - event.min - chart.span) >= DAY_SPAN) {
 							chart.span = event.max - event.min;
 							$("#zoom button").removeClass("active");
 						}
@@ -164,20 +157,25 @@ function load(name, period) {
 			},
 			series: series,
 			tooltip: {
+				useHTML: true,
 				formatter: function() {
+					var staticKeywords = getOption("#keywords") == "static";
 					var ptIdx = (this.x - MIN_DATE) / DAY_SPAN;
-					var tooltip = Highcharts.dateFormat("%a, %b %d, %Y", this.x);
+					var tooltip = "<span style=\"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif\">" + Highcharts.dateFormat("%a, %b %e, %Y", this.x);
 					for (var i in this.points) {
 						if (this.points[i].series.options.yAxis != 1 && this.points[i].y > 0) {
-							tooltip += "<br/><span style=\"color:" + this.points[i].series.color + "\">[" + this.points[i].series.name + "]" + this.points[i].series.options.keywords[ptIdx] + "</span> (" + Highcharts.numberFormat(this.points[i].y, 0) + ")";
+							var kwds = staticKeywords ? this.points[i].series.options.staticKeywords : this.points[i].series.options.keywords[ptIdx];
+							if (kwds != null) {
+								tooltip += "<br/><span style=\"color:" + this.points[i].series.color + "\">" + kwds + "</span> (" + fmtNum(this.points[i].y, 0) + ")";
+							} 
 						}
 					}
-					return tooltip;
+					return tooltip + "</span>";
 				}
 			}
 		});
 		chart.span = MAX_DATE - MIN_DATE;
-		$(".loading-curtain,.loading-img").hide();
+		hideLoading();
 	}).error(error);
 }
 
@@ -218,7 +216,7 @@ $("#zoom .btn").click(function() {
 // assign entity selection handler 
 $("#entity").change(function() {
 	$(this)[0].blur(); // rmv ugly focus rectangle
-	load($("#entity option:selected").attr("value"), $("#period .active").attr("id"));
+	load(getSelection("#entity"), getOption("#period"), getOption("#gran"));
 });
 
 // assign period selection handler
@@ -228,8 +226,14 @@ $("#period .btn").click(function() {
 	else if (p == "p2") { MIN_DATE = Date.UTC(2012, 3, 1); MAX_DATE = Date.UTC(2012, 5, 30); }
 	else if (p == "p3") { MIN_DATE = Date.UTC(2012, 6, 1); MAX_DATE = Date.UTC(2012, 8, 30); }
 	else if (p == "p4") { MIN_DATE = Date.UTC(2012, 9, 1); MAX_DATE = Date.UTC(2012, 11, 31); }
-	load($("#entity option:selected").attr("value"), p);
+	load(getSelection("#entity"), p, getOption("#gran"));
+});
+
+// assign granularity selection handler
+$("#gran .btn").click(function() {
+	var gran = $(this).attr("id");
+	load(getSelection("#entity"), getOption("#period"), gran);
 });
 
 // initialize
-load("AAPL", "p1"); 
+load("AAPL", "p1", "coarse"); 

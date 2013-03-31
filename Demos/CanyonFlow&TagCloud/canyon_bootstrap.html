@@ -25,7 +25,8 @@
 <div class="controls">
 	<div class="controls-left">
 		Entity <select id="entity" class="fixpos">
-			<option value="AAPL" selected="selected">Apple Inc.</option>
+			<option value="AAPL" selected="selected">Apple (AAPL)</option>
+			<option value="GOOG">Google (GOOG)</option>
 		</select>
 	</div>
 	<div class="controls-right">
@@ -39,11 +40,25 @@
 </div>
 <div class="controls controls-band">
 	<div class="controls-left">
+		Granularity <div id="gran" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="coarse" class="btn active">Coarse</button>
+		<button id="fine" class="btn">Fine</button>
+		</div>	
+	</div>
+	<div class="controls-right">
+		Keywords <div id="keywords" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="dynamic" class="btn active">Dynamic</button>
+		<button id="static" class="btn">Static</button>
+		</div>
+	</div>
+</div>
+<div class="controls">
+	<div class="controls-left">
 		Zoom <div id="zoom" class="btn-group fixpos" data-toggle="buttons-radio">
 		<button id="1w" class="btn">7d</button>
 		<button id="2w" class="btn">14d</button>
 		<button id="1m" class="btn">1m</button>
-		<button id="all" class="btn">All</button>
+		<button id="all" class="btn active">All</button>
 		</div>	
 	</div>
 	<div class="controls-right">
@@ -68,6 +83,7 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/highstock.js"></script>
 <script src="js/bootstrap-datetimepicker.js"></script>
+<script src="js/common.js"></script>
 <script src="js/code.js"></script>
 </body>
 </html>
