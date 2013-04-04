@@ -9,25 +9,26 @@
 
   SELECT Topic TopicId,
          Topic.NumDocs TopicNumDocs,
-		 Sum(Clusters.NumDocs) TimeSlotNumDocs,
+         Sum(Clusters.NumDocs) TimeSlotNumDocs,
          DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan TimeSlotGroup,
-		 Min(StartTime) StartTime,
-		 Max(EndTime) EndTime
+         Min(StartTime) StartTime,
+         Max(EndTime) EndTime
     FROM [AAPL_D_Clusters] Clusters
-	     INNER JOIN
-	     (    SELECT /*REM*/ TOP 10
-             		 --ADD   TOP /*#NumTopics*/
+         INNER JOIN
+         (    SELECT /*REM*/ TOP 10
+                     --ADD   TOP /*#NumTopics*/
                       Topic TopicId,
-					  Sum(NumDocs) NumDocs
+                      Sum(NumDocs) NumDocs
                  FROM [AAPL_D_Clusters] Clusters
                 WHERE Clusters.StartTime >= @dateTimeStart AND
                       Clusters.EndTime <= @dateTimeEnd
              GROUP BY Topic
              ORDER BY Sum(NumDocs) DESC
-		 ) AS Topic
-		 ON (Topic = Topic.TopicId)
+         ) AS Topic
+         ON (Topic = Topic.TopicId)
    WHERE Clusters.StartTime >= @dateTimeStart AND
          Clusters.EndTime <= @dateTimeEnd
+		 and Clusters.RecordState = 0
 GROUP BY Topic,
          Topic.NumDocs,
          DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan

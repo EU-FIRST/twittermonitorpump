@@ -65,7 +65,10 @@
             <div style="padding-left: 50px; padding-top: 50px; text-align: left">
                 <label>Start: <input type="datetime" id="start" placeholder="yyyy-mm-dd"></label>
                 <label>End: <input type="datetime" id="end" placeholder="yyyy-mm-dd"></label>
-                <label>Entity: <select id="entity"><option selected="selected">aapl</option></select></label>
+                <label>Entity: <select id="entity">
+                    <option selected="selected">aapl</option>
+                    <option>goog</option>
+                </select></label>
                 <input type="button" id="go_btn" value="Go!"/>
             </div>
 
@@ -106,7 +109,8 @@
 
         $("#container").empty().append('<div style="text-align: center">Please wait ...</div>');
 
-        var uri = new Uri("http://first.ijs.si/TwitterMonitor/TwitterMonitor.svc/rest/Topics")
+//        var uri = new Uri("http://first.ijs.si/TwitterMonitor/TwitterMonitor.svc/rest/Topics")
+        var uri = new Uri("http://localhost:10424/TwitterMonitor.svc/rest/TopicsOverTime")
                 .addQueryParam("entity", $("#entity").val())
                 .addQueryParam("dateTimeStart", $("#start").val())
                 .addQueryParam("dateTimeEnd", $("#end").val())

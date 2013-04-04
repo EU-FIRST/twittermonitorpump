@@ -144,16 +144,19 @@ namespace TwitterMonitorDAL
             string sqlTopicsOverTime = maxNumTermsPerTimeSlot==0 ? "TopicsOverTime.sql" : "TopicsOverTimeDetail.sql";
 
             List<SqlRow.TopicTimeSlot> topicTimeSlots = DataProvider.GetDataWithReplace<SqlRow.TopicTimeSlot>(sqlTopicsOverTime, strRpl, sqlParams);
-            if (topicTimeSlots.Count==0)
+            List<SqlRow.TopicTimeSlot> allTopicTimeSlots = DataProvider.GetDataWithReplace<SqlRow.TopicTimeSlot>("AllTopicsOverTime.sql", strRpl, sqlParams);
+            Dictionary<int, SqlRow.TopicTimeSlot> allTopicTimeSlotsDict = allTopicTimeSlots.ToDictionary(t => t.TimeSlotGroup);
+
+            if (!topicTimeSlots.Any())
                 return new List<TopicOverTime>();
             
             List<SqlRow.TopicWeightedTerm> topicTerms = 
                 maxNumTermsPerTopic==0
                     ? new List<SqlRow.TopicWeightedTerm>() 
                     : DataProvider.GetDataWithReplace<SqlRow.TopicWeightedTerm>("Topics.sql", strRpl, sqlParams);
-            
-            int minTimeSlotId = topicTimeSlots.Min(tts => tts.TimeSlotGroup);
-            int maxTimeSlotId = topicTimeSlots.Max(tts => tts.TimeSlotGroup);
+
+            int minTimeSlotId = allTopicTimeSlots.Min(tts => tts.TimeSlotGroup);
+            int maxTimeSlotId = allTopicTimeSlots.Max(tts => tts.TimeSlotGroup);
             var timeSlotsDef =
                 Enumerable
                     .Range(minTimeSlotId, maxTimeSlotId - minTimeSlotId + 1)
@@ -174,6 +177,7 @@ namespace TwitterMonitorDAL
                 topicTermsDict[topicId] = new List<SqlRow.TopicWeightedTerm>();
             }
 
+            Dictionary<int, int> sumAllTopicNumDocDict = new Dictionary<int, int>();
             List<TopicOverTime> topicOverTime =
                 topicTimeSlots
                 .GroupBy(topic => new {topic.TopicId, topic.TopicNumDocs})
@@ -185,7 +189,7 @@ namespace TwitterMonitorDAL
                             .ToDictionary(tg => tg.Key, tg => tg.ToList());
 
                         List<WeightedTerm> termList = topicTermsDict[topicGroup.Key.TopicId].Select(tt => new WeightedTerm() {Term = tt.Term, Weight = tt.Weight}).ToList();
-                        if (termList.All(wt => wt.Term == null)) termList = null;
+                        if (termList.All(wt => wt.Term == null)) termList = new List<WeightedTerm>();
 
                         return new TopicOverTime()
                             {
@@ -209,6 +213,11 @@ namespace TwitterMonitorDAL
                                                 if (timeSlotFirst.StartTime < timeSlotDef.StartTimeDate || (timeSlotFirst.EndTime - TimeSpan.FromMilliseconds(1)) > timeSlotDef.EndTimeDate)
                                                     throw new Exception("Start time of a document inside a group has starting or ending time outside the group boundary!");
                                             }
+                                            
+                                            int sumNumDoc;
+                                            sumAllTopicNumDocDict.TryGetValue(timeSlotDef.TimeSlotId, out sumNumDoc);
+                                            sumAllTopicNumDocDict[timeSlotDef.TimeSlotId] = sumNumDoc + timeSlotFirst.TimeSlotNumDocs;
+                                            
                                             return new TimeSlot()
                                                 {
                                                     StartTimeDate = timeSlotDef.StartTimeDate,
@@ -232,6 +241,24 @@ namespace TwitterMonitorDAL
                     })
                 .ToList();
 
+            topicOverTime.Insert(
+                0,                         
+                new TopicOverTime
+                        {
+                            TopicId = -1,
+                            NumDocs = allTopicTimeSlots.Sum(t => t.TopicNumDocs),
+                            Terms = new List<WeightedTerm>(),
+                            TimeSlots = timeSlotsDef
+                                .Select(timeSlotDef => new TimeSlot
+                                    {
+                                        StartTimeDate = timeSlotDef.StartTimeDate,
+                                        EndTimeDate = timeSlotDef.EndTimeDate,
+                                        Terms = new List<WeightedTerm>(),
+                                        NumDocs = (allTopicTimeSlotsDict.ContainsKey(timeSlotDef.TimeSlotId) ? allTopicTimeSlotsDict[timeSlotDef.TimeSlotId].TopicNumDocs : 0)
+                                            - (sumAllTopicNumDocDict.ContainsKey(timeSlotDef.TimeSlotId) ? sumAllTopicNumDocDict[timeSlotDef.TimeSlotId] : 0)
+                                    })
+                                .ToList()
+                        });
 
             if (groupedZeroPadding)
             {
@@ -285,8 +312,8 @@ namespace TwitterMonitorDAL
         public StringReplacer StringReplacerGetDefault(string entity, string windowSize)
         {
             var strRpl = StringReplacerGetDefaultBasic();
-            strRpl.AddReplacement("[AAPL_D_Terms]", string.Format("[{0}_{1}_Terms]", entity, windowSize));
-            strRpl.AddReplacement("[AAPL_D_Clusters]", string.Format("[{0}_{1}_Clusters]", entity, windowSize));
+            strRpl.AddReplacement("[AAPL_D_Terms]", string.Format("[Terms_{0}_{1}_1500]", entity, windowSize));
+            strRpl.AddReplacement("[AAPL_D_Clusters]", string.Format("[Clusters_{0}_{1}_1500]", entity, windowSize));
 
             return strRpl;
         }

@@ -60,6 +60,7 @@
     <EmbeddedResource Include="Sql\TopicsOverTimeDetail.sql" />
     <EmbeddedResource Include="Sql\AllEntities.sql" />
     <EmbeddedResource Include="Sql\EntityDetail.sql" />
+    <EmbeddedResource Include="Sql\AllTopicsOverTime.sql" />
     <Content Include="TwitterMonitor.svc" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
