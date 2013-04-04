@@ -17,8 +17,9 @@ CREATE TABLE [dbo].[Clusters](
 	[StartTime] [datetime] NOT NULL,
 	[EndTime] [datetime] NOT NULL,
 	[Topic] [bigint] NOT NULL,
-	[NumDocs] [int] NOT NULL
-	constraint UQ_Clusters unique (Id) 
+	[NumDocs] [int] NOT NULL,
+	[RecordState] [int] NOT NULL
+	constraint UQ_Clusters unique (Id, RecordState) 
 ) ON [PRIMARY]
 
 GO
@@ -34,8 +35,10 @@ CREATE TABLE [dbo].[Terms](
 	[User] [bit] NOT NULL,
 	[Hashtag] [bit] NOT NULL,
 	[Stock] [bit] NOT NULL,
-	[NGram] [bit] NOT NULL
-	constraint UQ_Terms unique (ClusterId, StemHash)
+	[NGram] [bit] NOT NULL,
+	[EndTime] [datetime] NOT NULL,
+	[RecordState] [int] NOT NULL
+	constraint UQ_Terms unique (ClusterId, StemHash, RecordState)
 ) ON [PRIMARY]
 
 GO
