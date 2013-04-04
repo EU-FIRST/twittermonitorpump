@@ -67,8 +67,7 @@
 
         var start = $("#start").val();
         var end = $("#end").val();
-//        var uri = new Uri("http://first.ijs.si/TwitterMonitor/TwitterMonitor.svc/rest/TopicsOverTime")
-        var uri = new Uri("http://localhost:10424/TwitterMonitor.svc/rest/TopicsOverTime")
+        var uri = new Uri("http://first.ijs.si/TwitterMonitor/TwitterMonitor.svc/rest/TopicsOverTime")
                 .addQueryParam("entity", $("#entity").val())
                 .addQueryParam("dateTimeStart", start)
                 .addQueryParam("dateTimeEnd", end)
