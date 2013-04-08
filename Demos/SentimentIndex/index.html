@@ -8,14 +8,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
 <link rel="stylesheet" type="text/css" href="css/styles.css">
-<title>DAX Sentiment Index 2012</title>
+<title>Twitter Sentiment Index: US Stocks 2012</title>
 </head>
 <body>
 <div class="container">
-<h1>DAX Sentiment Index 2012</h1>
+<h1>Twitter Sentiment Index</h1>
+<h2>US Stocks 2012</h2>
 <div class="alert alert-info">
 	<button type="button" class="close" data-dismiss="alert">&times;</button>
-	<p><b>This demo shows</b> the sentiment attributed to DAX and its constituents in Web news and blogs through time.</p>
+	<p><b>This demo shows</b> the sentiment attributed to US stocks in tweets through time.</p>
+	<p><span class="label label-info">Note</span> The times are in Eastern Standard Time (New York).</p>
 </div>
 <div class="loading-container">
 <div class="loading-curtain"></div>
@@ -24,16 +26,16 @@
 <div class="controls">
 	<div class="controls-left">
 		Entity <select id="entity" class="fixpos">
-			<option value="GDAXI" selected="selected">DAX</option> 
-			<option value="SIE.DE">Siemens AG</option> 			
+			<option value="GOOG" selected="selected">Google (GOOG)</option> 
+			<option value="AMZN">Amazon (AMZN)</option> 			
 		</select>
 	</div>
 	<div class="controls-right">
 		Zoom <div id="zoom" class="btn-group fixpos" data-toggle="buttons-radio">
-		<button id="1m" class="btn">1m</button>
-		<button id="3m" class="btn">3m</button>
-		<button id="6m" class="btn">6m</button>
-		<button id="all" class="btn">All</button>
+		<button id="zoom-1m" class="btn">1m</button>
+		<button id="zoom-3m" class="btn">3m</button>
+		<button id="zoom-6m" class="btn">6m</button>
+		<button id="zoom-all" class="btn">All</button>
 		</div>&nbsp; From <div id="datepicker-from" class="input-append fixpos">
 		<input data-format="yyyy-MM-dd" type="text">
 		<span class="add-on">
@@ -49,16 +51,20 @@
 </div>
 <div class="controls controls-band">
 	<div class="controls-left">
-		Upper chart <div id="upper-chart" class="btn-group fixpos" data-toggle="buttons-radio">
-		<button id="occurrence" class="btn active">Occurrence</button>
-		<button id="price" class="btn">Stock price</button>
+		Upper chart <div id="uchart" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="uchart-price" class="btn active">Price</button>
+		<button id="uchart-vol" class="btn">Volume</button>
 		</div>
 	</div>
 	<div class="controls-right">
-		Lower chart overlay <div id="lower-chart" class="btn-group fixpos" data-toggle="buttons-radio">
-		<button id="none" class="btn active">None</button>
-		<button id="7-day-avg" class="btn">7-day avg</button>
-		<button id="14-day-avg" class="btn">14-day avg</button>
+		Lower chart <div id="lchart" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="lchart-diff" class="btn active">Difference</button>
+		<button id="lchart-polar" class="btn">Polarity</button>
+		<button id="lchart-count" class="btn">Count</button>
+		</div>&nbsp; MA <div id="lchart-ma" class="btn-group fixpos" style="margin-left: 0;" data-toggle="buttons-radio">
+		<button id="lchart-ma-none" class="btn active">None</button>
+		<button id="lchart-ma-7-day" class="btn">7-day</button>
+		<button id="lchart-ma-14-day" class="btn">14-day</button>
 		</div>
 	</div>
 </div>
@@ -68,8 +74,9 @@
 </div>
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script src="js/highstock.js"></script>
+<script src="js/highstock.src.js"></script>
 <script src="js/bootstrap-datetimepicker.js"></script>
+<script src="js/common.js"></script>
 <script src="js/code.js"></script>
 </body>
 </html>

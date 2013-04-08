@@ -1,11 +1,12 @@
 body { margin: 0; }
-h1 { text-align: center; margin-bottom: 30px; margin-top: 30px; } 
+h1 { text-align: center; margin-top: 30px; margin-bottom: 30px; } 
+h2 { text-align: center; margin-bottom: 30px; margin-top: -10px; }
 .container { min-width: 940px; }
 .controls { margin-left: 10px; text-align: right; margin-right: 10px; padding-top: 8px; padding-bottom: 8px; }
 .controls-band { background-color: #EEE; padding-left: 5px; padding-right: 5px; border-radius: 4px; }
 .controls-left { float: left; padding-top: 2px; }
 .controls-right { padding-top: 2px; }
-#chart-container { height: 500px; margin-top: 10px; } 
+#chart-container { height: 543px; margin-top: 10px; } 
 #copyright { margin-top: 50px; }
 #copyright div { width: 100%; text-align: center; }
 .alert { margin-left: 10px; margin-right: 10px; }
