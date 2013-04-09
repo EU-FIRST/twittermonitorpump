@@ -451,7 +451,7 @@ function load(name) {
 				yAxis: 5,
 				lineWidth: 1,
 				color: '#4572A7',
-				data: aaDiv(aaSub(data.high, data.low), asSum(data.close, 1)),
+				data: data.volatility,
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
 				marker: { symbol: "circle" },
