@@ -100,7 +100,6 @@ function load(name) {
 						var max = event.max;
 						if (!min) { min = MIN_DATE; }
 						if (!max) { max = MAX_DATE; }
-						console.log(min);
 						$("#datepicker-from").data("datetimepicker").setDate(dateOnly(min));
 						$("#datepicker-to").data("datetimepicker").setDate(dateOnly(max));
 						if (Math.abs(max - min - chart.span) >= 2 * DAY_SPAN) {
@@ -342,7 +341,7 @@ function load(name) {
 				yAxis: 2,
 				lineWidth: 1,
 				color: '#000',
-				data: asMult(MA(diff, 7), 2),
+				data: asMult(MA(diff, 7), 3),
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
 				marker: { symbol: "circle" },
@@ -355,7 +354,7 @@ function load(name) {
 				yAxis: 2,
 				lineWidth: 1,
 				color: '#000',
-				data: asMult(MA(diff, 14), 2),
+				data: asMult(MA(diff, 14), 3),
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
 				marker: { symbol: "circle" },
@@ -419,7 +418,8 @@ function load(name) {
 				formatter: function() {
 					var tooltip = "<span style=\"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif\"><b>" + Highcharts.dateFormat("%a, %b %e, %Y", this.x) + "</b>";
 					for (var i in this.points) {
-						tooltip += "<br/><span style=\"color:" + this.points[i].series.color + "\">" + this.points[i].series.name + ":</span> <b>" + Highcharts.numberFormat(this.points[i].y, this.points[i].series.options.decimals) + "</b>";
+						var name = this.points[i].series.name;
+						tooltip += "<br/><span style=\"color:" + this.points[i].series.color + "\">" + name + ":</span> <b>" + Highcharts.numberFormat(this.points[i].y * (name == "Negative tweet count" ? -1 : 1), this.points[i].series.options.decimals) + "</b>";
 					}
 					return tooltip + "</span>";
 				}
@@ -466,7 +466,6 @@ $("#zoom .btn").click(function() {
 
 // assign upper-chart button handlers
 $("#uchart .btn").click(function() {
-	console.log($(this).attr("id"));
 	showChartUpper($(this).attr("id"));
 });
 
