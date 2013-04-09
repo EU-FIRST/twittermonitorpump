@@ -27,11 +27,15 @@ var IDX_POLARITY_MA14
 	= 10;
 var IDX_COUNT
 	= 11;
+var IDX_VOLATILITY
+	= 12;
 
 function showChartUpper(option) {
-	var group = [ IDX_PRICE, IDX_VOL ];
+	var group = [ IDX_PRICE, IDX_VOL, IDX_VOLATILITY ];
 	if (option == "uchart-price") {
 		toggleSeries(chart, group, [ IDX_PRICE ], "Stock price");
+	} else if (option == "uchart-volatility") {
+		toggleSeries(chart, group, [ IDX_VOLATILITY ], "Daily volatility");
 	} else {
 		toggleSeries(chart, group, [ IDX_VOL ], "Trading volume");
 	}
@@ -260,6 +264,34 @@ function load(name) {
 				offset: 0,
 				lineWidth: 2,
 				lineColor: "silver"
+			},
+			{ // volatility axis
+				title: {
+					style: {
+						font: FONT,
+						color: "#000"
+					},
+					text: ""
+				},
+				maxPadding: 0,
+				minPadding: 0,
+				labels: {
+					align: "right",
+					style: {
+						font: FONT,
+						color: "#000"
+					},
+					x: -5,
+				},
+				plotLines: [{
+					value: 0,
+					width: 2,
+					color: "silver"
+				}],
+				height: 200,
+				offset: 0,
+				lineWidth: 2,
+				lineColor: "silver"
 			}],
 			series: [{ // this series shows in navigator
 				data: vol,
@@ -407,6 +439,19 @@ function load(name) {
 				lineWidth: 1,
 				color: '#AA4643',
 				data: vol,
+				visible: false,
+				states: { hover: { lineWidth: 1 } },
+				marker: { symbol: "circle" },
+				pointStart: pointStart,
+				pointInterval: pointInterval
+			},
+			{ // 12
+				name: "Daily volatility", 
+				decimals: 2,
+				yAxis: 5,
+				lineWidth: 1,
+				color: '#4572A7',
+				data: aaDiv(aaSub(data.high, data.low), asSum(data.close, 1)),
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
 				marker: { symbol: "circle" },
