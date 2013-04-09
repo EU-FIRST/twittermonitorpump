@@ -1,14 +1,10 @@
 var chart;
+
 var MIN_DATE 
-	= Date.UTC(2012, 0, 1); // Jan 1, 2012
-var MAX_DATE 
-	= Date.UTC(2012, 2, 31); // Mar 31, 2012
+	= Date.UTC(2012, 0, 1); 
 
 function load(name, period, gran) {
 	showLoading();
-	$("#datepicker-from").data("datetimepicker").setDate(MIN_DATE);
-	$("#datepicker-to").data("datetimepicker").setDate(MAX_DATE);
-	$("#all").button("toggle");
 	$.getJSON("data/" + name + "_" + period + "_" + gran + ".txt", function(data) {
 		var series = [];
 		var vol = [];
@@ -77,17 +73,7 @@ function load(name, period, gran) {
 					}
 				}
 			},
-			xAxis: {
-				events: {
-					setExtremes: function(event) {
-						$("#datepicker-from").data("datetimepicker").setDate(dateOnly(event.min));
-						$("#datepicker-to").data("datetimepicker").setDate(dateOnly(event.max));
-						if (Math.abs(event.max - event.min - chart.span) >= DAY_SPAN) {
-							chart.span = event.max - event.min;
-							$("#zoom button").removeClass("active");
-						}
-					}
-				},
+			xAxis: {			
 				lineColor: "silver",
 				tickColor: "silver",
 				labels: {
@@ -107,6 +93,7 @@ function load(name, period, gran) {
 					x: -15
 				},
 				maxPadding: 0,
+				min: 0,
 				labels: {
 					enabled: false,
 				},
@@ -125,10 +112,9 @@ function load(name, period, gran) {
 						font: FONT,
 						color: "#000"
 					},
-					text: "Occurrence"
+					text: "Tweet count"
 				},
 				maxPadding: 0,
-				minPadding: 0,
 				min: 0,
 				alignTicks: false,
 				labels: {
@@ -144,8 +130,8 @@ function load(name, period, gran) {
 					width: 2,
 					color: "silver"
 				}],
-				top: 300,
-				height: 100,
+				top: 280,
+				height: 150,
 				offset: 0,
 				lineWidth: 2,
 				lineColor: "silver"
@@ -159,14 +145,14 @@ function load(name, period, gran) {
 			tooltip: {
 				useHTML: true,
 				formatter: function() {
-					var staticKeywords = getOption("#keywords") == "static";
+					var staticKeywords = getOption("#keywords") == "keywords-static";
 					var ptIdx = (this.x - MIN_DATE) / DAY_SPAN;
-					var tooltip = "<span style=\"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif\">" + Highcharts.dateFormat("%a, %b %e, %Y", this.x);
+					var tooltip = "<span style=\"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif\"><b>" + Highcharts.dateFormat("%a, %b %e, %Y", this.x) + "</b>";
 					for (var i in this.points) {
 						if (this.points[i].series.options.yAxis != 1 && this.points[i].y > 0) {
 							var kwds = staticKeywords ? this.points[i].series.options.staticKeywords : this.points[i].series.options.keywords[ptIdx];
 							if (kwds != null) {
-								tooltip += "<br/><span style=\"color:" + this.points[i].series.color + "\">" + kwds + "</span> (" + fmtNum(this.points[i].y, 0) + ")";
+								tooltip += "<br/><span style=\"color:" + this.points[i].series.color + "\">" + kwds + "</span> (" + Highcharts.numberFormat(this.points[i].y, 0) + ") <b>" + Highcharts.numberFormat(this.points[i].percentage, 0) + "%</b>";
 							} 
 						}
 					}
@@ -174,7 +160,6 @@ function load(name, period, gran) {
 				}
 			}
 		});
-		chart.span = MAX_DATE - MIN_DATE;
 		hideLoading();
 	}).error(error);
 }
@@ -187,30 +172,9 @@ $(".btn").focus(function() {
 // initialize selection box
 $("#entity").val("AAPL");
 
-// initialize date pickers
-$("#datepicker-from,#datepicker-to").datetimepicker({
-	pickTime: false
-}).on("changeDate", function(e) {
-	var dateStart = $("#datepicker-from").data("datetimepicker").getDate().getTime();
-	var dateEnd = $("#datepicker-to").data("datetimepicker").getDate().getTime();
-	if (dateEnd < dateStart) { dateEnd = dateStart; }
-	dateStart = Math.max(MIN_DATE, Math.min(dateStart, MAX_DATE));
-	dateEnd = Math.max(MIN_DATE, Math.min(dateEnd, MAX_DATE));
-	chart.xAxis[0].setExtremes(dateStart, dateEnd);
-});
-
-// assign zoom selection handler 
+// assign zoom reset handler 
 $("#zoom .btn").click(function() {
-	var action = $(this).attr("id");
-	var span;
-	var dateEnd = chart.xAxis[0].getExtremes().max;
-	if (action == "all") { chart.xAxis[0].setExtremes(MIN_DATE, MAX_DATE); return; }
-	else if (action == "1w") { span = 7 * DAY_SPAN; }
-	else if (action == "2w") { span = 14 * DAY_SPAN; }
-	else if (action == "1m") { span = 30 * DAY_SPAN; }
-	var dateStart = dateEnd - span;
-	if (dateStart < MIN_DATE) { dateEnd += (MIN_DATE - dateStart); dateStart += (MIN_DATE - dateStart); }
-	chart.xAxis[0].setExtremes(dateStart, dateEnd);
+	chart.xAxis[0].setExtremes();
 });
 
 // assign entity selection handler 
@@ -222,10 +186,10 @@ $("#entity").change(function() {
 // assign period selection handler
 $("#period .btn").click(function() {
 	var p = $(this).attr("id");
-	if (p == "p1") { MIN_DATE = Date.UTC(2012, 0, 1); MAX_DATE = Date.UTC(2012, 2, 31); }
-	else if (p == "p2") { MIN_DATE = Date.UTC(2012, 3, 1); MAX_DATE = Date.UTC(2012, 5, 30); }
-	else if (p == "p3") { MIN_DATE = Date.UTC(2012, 6, 1); MAX_DATE = Date.UTC(2012, 8, 30); }
-	else if (p == "p4") { MIN_DATE = Date.UTC(2012, 9, 1); MAX_DATE = Date.UTC(2012, 11, 31); }
+	if (p == "p1") { MIN_DATE = Date.UTC(2012, 0, 1); }
+	else if (p == "p2") { MIN_DATE = Date.UTC(2012, 3, 1); }
+	else if (p == "p3") { MIN_DATE = Date.UTC(2012, 6, 1); }
+	else if (p == "p4") { MIN_DATE = Date.UTC(2012, 9, 1); }
 	load(getSelection("#entity"), p, getOption("#gran"));
 });
 

@@ -8,11 +8,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
 <link rel="stylesheet" type="text/css" href="css/styles.css">
-<title>Topic Flow Demo</title>
+<title>Topic Flow: US Stocks 2012</title>
 </head>
 <body>
 <div class="container">
-<h1>Topic Flow Demo</h1>
+<h1>Topic Flow</h1>
 <center><h2>US Stocks 2012</h2></center>
 <div class="alert alert-info">
 	<button type="button" class="close" data-dismiss="alert">&times;</button>
@@ -31,11 +31,13 @@
 	</div>
 	<div class="controls-right">
 		Period <div id="period" class="btn-group fixpos" data-toggle="buttons-radio">
-		<button id="p1" class="btn active">Jan - Mar</button>
-		<button id="p2" class="btn">Apr - Jun</button>
-		<button id="p3" class="btn">Jul - Sep</button>
-		<button id="p4" class="btn">Oct - Dec</button>
-		</div>	
+		<button id="p1" class="btn active">Jan−Mar</button>
+		<button id="p2" class="btn">Apr−Jun</button>
+		<button id="p3" class="btn">Jul−Sep</button>
+		<button id="p4" class="btn">Oct−Dec</button>
+		</div>&nbsp; Zoom <div id="zoom" class="btn-group fixpos" style="margin-left: 0;">
+		<button id="zoom-reset" class="btn">Reset</button>
+		</div>			
 	</div>
 </div>
 <div class="controls controls-band">
@@ -43,35 +45,12 @@
 		Granularity <div id="gran" class="btn-group fixpos" data-toggle="buttons-radio">
 		<button id="coarse" class="btn active">Coarse</button>
 		<button id="fine" class="btn">Fine</button>
-		</div>	
+		</div>
 	</div>
 	<div class="controls-right">
 		Keywords <div id="keywords" class="btn-group fixpos" data-toggle="buttons-radio">
-		<button id="dynamic" class="btn active">Dynamic</button>
-		<button id="static" class="btn">Static</button>
-		</div>
-	</div>
-</div>
-<div class="controls">
-	<div class="controls-left">
-		Zoom <div id="zoom" class="btn-group fixpos" data-toggle="buttons-radio">
-		<button id="1w" class="btn">7d</button>
-		<button id="2w" class="btn">14d</button>
-		<button id="1m" class="btn">1m</button>
-		<button id="all" class="btn active">All</button>
-		</div>	
-	</div>
-	<div class="controls-right">
-		From <div id="datepicker-from" class="input-append fixpos">
-		<input data-format="yyyy-MM-dd" type="text">
-		<span class="add-on">
-			<i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
-		</span>
-		</div>&nbsp; To <div id="datepicker-to" class="input-append fixpos">
-		<input data-format="yyyy-MM-dd" type="text">
-		<span class="add-on">
-			<i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
-		</span>
+		<button id="keywords-dynamic" class="btn active">Dynamic</button>
+		<button id="keywords-static" class="btn">Static</button>
 		</div>
 	</div>
 </div>

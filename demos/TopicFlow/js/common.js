@@ -12,10 +12,6 @@ function dateOnly(ms) {
 	return Date.UTC(d.getFullYear(), d.getMonth(), d.getDate());
 }
 
-function fmtNum(num, d) {
-	return Highcharts.numberFormat(num, d).replace("-", "−");
-}
-
 function getOption(sel) {
 	return $(sel + " .active").attr("id");
 }
