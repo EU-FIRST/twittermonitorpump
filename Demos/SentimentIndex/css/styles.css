@@ -8,9 +8,9 @@ h2 { text-align: center; margin-bottom: 30px; margin-top: -10px; }
 .controls-right { padding-top: 2px; }
 #chart-container { height: 544px; margin-top: 10px; } 
 #copyright { margin-top: 50px; }
-#copyright div { width: 100%; text-align: center; }
+#copyright > div { width: 100%; text-align: center; }
 .alert { margin-left: 10px; margin-right: 10px; }
-.alert p:last-child { margin-bottom: 0; } 
+.alert > p:last-child { margin-bottom: 0; } 
 
 .btn:focus { outline: none; }
 select:focus { outline: none; }
@@ -20,7 +20,7 @@ select { margin: 0; width: 180px; }
 
 .add-on { cursor: pointer; }
 
-.input-append input { width: 80px; }
+.input-append > input { width: 80px; }
 
 .loading-container { position: relative; }
 .loading-curtain { position: absolute; left: 0; top: 0; right: 0; bottom: 0; background-color: white; z-index: 999; opacity: 0.8; display: none; }

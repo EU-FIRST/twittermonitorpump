@@ -9,25 +9,25 @@ var IDX_PRICE
 	= 1;
 var IDX_VOL
 	= 2;
-var IDX_COUNT_POS
-	= 3;
-var IDX_COUNT_NEG
-	= 4;
-var IDX_COUNT_DIFF
-	= 5;
-var IDX_COUNT_DIFF_MA7
-	= 6;
-var IDX_COUNT_DIFF_MA14
-	= 7;
-var IDX_POLARITY
-	= 8;
-var IDX_POLARITY_MA7
-	= 9;
-var IDX_POLARITY_MA14
-	= 10;
-var IDX_COUNT
-	= 11;
 var IDX_VOLATILITY
+	= 3;
+var IDX_COUNT_POS
+	= 4;
+var IDX_COUNT_NEG
+	= 5;
+var IDX_COUNT_DIFF
+	= 6;
+var IDX_COUNT_DIFF_MA7
+	= 7;
+var IDX_COUNT_DIFF_MA14
+	= 8;
+var IDX_POLARITY
+	= 9;
+var IDX_POLARITY_MA7
+	= 10;
+var IDX_POLARITY_MA14
+	= 11;
+var IDX_COUNT
 	= 12;
 
 function showChartUpper(option) {
@@ -72,11 +72,6 @@ function load(name) {
 		var diff = aaSub(data.pos, data.neg);
 		var pol = aaDiv(diff, asSum(aaSum(data.pos, data.neg), 1));
 		chart = new Highcharts.StockChart({
-			plotOptions: {
-				series: {
-					animation: false
-				}
-			},
 			credits: { 
 				enabled: false 
 			},
@@ -153,7 +148,7 @@ function load(name) {
 					style: {
 						font: FONT,
 						color: "#000"
-					},
+					}
 				},
 				maxPadding: 0,
 				min: 0,
@@ -172,7 +167,7 @@ function load(name) {
 				}],
 				height: 200,
 				offset: 0,
-				lineWidth: 2,
+				lineWidth: 0,
 				lineColor: "silver"
 			},
 			{ // sentiment difference axis
@@ -210,8 +205,7 @@ function load(name) {
 					style: {
 						font: FONT,
 						color: "#000"
-					},
-					text: ""
+					}
 				},
 				maxPadding: 0,
 				minPadding: 0,
@@ -232,7 +226,7 @@ function load(name) {
 				top: 230,
 				height: 200,
 				offset: 0,
-				lineWidth: 2,
+				lineWidth: 0,
 				lineColor: "silver"
 			},
 			{ // tweet count axis
@@ -240,8 +234,7 @@ function load(name) {
 					style: {
 						font: FONT,
 						color: "#000"
-					},
-					text: ""
+					}
 				},
 				maxPadding: 0,
 				min: 0,
@@ -262,7 +255,7 @@ function load(name) {
 				top: 230,
 				height: 200,
 				offset: 0,
-				lineWidth: 2,
+				lineWidth: 0,
 				lineColor: "silver"
 			},
 			{ // volatility axis
@@ -270,8 +263,7 @@ function load(name) {
 					style: {
 						font: FONT,
 						color: "#000"
-					},
-					text: ""
+					}
 				},
 				maxPadding: 0,
 				minPadding: 0,
@@ -290,7 +282,7 @@ function load(name) {
 				}],
 				height: 200,
 				offset: 0,
-				lineWidth: 2,
+				lineWidth: 0,
 				lineColor: "silver"
 			}],
 			series: [{ // this series shows in navigator
@@ -327,6 +319,19 @@ function load(name) {
 				pointInterval: pointInterval
 			},
 			{ // 3
+				name: "Daily volatility", 
+				decimals: 3,
+				yAxis: 5,
+				lineWidth: 1,
+				color: '#4572A7',
+				data: data.volatility,
+				visible: false,
+				states: { hover: { lineWidth: 1 } },
+				marker: { symbol: "circle" },
+				pointStart: pointStart,
+				pointInterval: pointInterval
+			},
+			{ // 4
 				name: "Positive tweet count", 
 				decimals: 0,
 				yAxis: 2,
@@ -340,7 +345,7 @@ function load(name) {
 				pointStart: pointStart,
 				pointInterval: pointInterval
 			},
-			{ // 4
+			{ // 5
 				name: "Negative tweet count", 
 				decimals: 0,
 				yAxis: 2,
@@ -354,7 +359,7 @@ function load(name) {
 				pointStart: pointStart,
 				pointInterval: pointInterval
 			},
-			{ // 5
+			{ // 6
 				name: "Absolute difference", 
 				decimals: 0,
 				yAxis: 2,
@@ -367,7 +372,7 @@ function load(name) {
 				pointStart: pointStart,
 				pointInterval: pointInterval
 			},
-			{ // 6
+			{ // 7
 				name: "Absolute difference MA", 
 				decimals: 2,
 				yAxis: 2,
@@ -380,7 +385,7 @@ function load(name) {
 				pointStart: pointStart,
 				pointInterval: pointInterval
 			},
-			{ // 7
+			{ // 8
 				name: "Absolute difference MA", 
 				decimals: 2,
 				yAxis: 2,
@@ -393,7 +398,7 @@ function load(name) {
 				pointStart: pointStart,
 				pointInterval: pointInterval
 			},
-			{ // 8
+			{ // 9
 				name: "Sentiment polarity", 
 				decimals: 2,
 				yAxis: 3,
@@ -406,7 +411,7 @@ function load(name) {
 				pointStart: pointStart,
 				pointInterval: pointInterval
 			},
-			{ // 9
+			{ // 10
 				name: "Sentiment polarity MA", 
 				decimals: 2,
 				yAxis: 3,
@@ -419,7 +424,7 @@ function load(name) {
 				pointStart: pointStart,
 				pointInterval: pointInterval
 			},
-			{ // 10
+			{ // 11
 				name: "Sentiment polarity MA", 
 				decimals: 2,
 				yAxis: 3,
@@ -432,26 +437,13 @@ function load(name) {
 				pointStart: pointStart,
 				pointInterval: pointInterval
 			},
-			{ // 11
+			{ // 12
 				name: "Tweet count", 
 				decimals: 0,
 				yAxis: 4,
 				lineWidth: 1,
 				color: '#AA4643',
 				data: vol,
-				visible: false,
-				states: { hover: { lineWidth: 1 } },
-				marker: { symbol: "circle" },
-				pointStart: pointStart,
-				pointInterval: pointInterval
-			},
-			{ // 12
-				name: "Daily volatility", 
-				decimals: 2,
-				yAxis: 5,
-				lineWidth: 1,
-				color: '#4572A7',
-				data: data.volatility,
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
 				marker: { symbol: "circle" },
