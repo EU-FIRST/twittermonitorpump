@@ -30,6 +30,11 @@ var IDX_POLARITY_MA14
 var IDX_COUNT
 	= 12;
 
+function viewTweets(time) {
+	$(".modal-header > h3").text("Tweets on " + Highcharts.dateFormat("%a, %b %e, %Y", time));
+	$(".modal").modal();
+}
+
 function showChartUpper(option) {
 	var group = [ IDX_PRICE, IDX_VOL, IDX_VOLATILITY ];
 	if (option == "uchart-price") {
@@ -78,6 +83,11 @@ function load(name) {
 			chart: {
 				renderTo: "chart-container",
 				zoomType: "x",
+				events: {
+					click: function(e) { 
+						viewTweets(chart.currentX);
+					}
+				}
 			},
 			rangeSelector: { 
 				enabled: false
@@ -453,6 +463,7 @@ function load(name) {
 			tooltip: {
 				useHTML: true,
 				formatter: function() {
+					chart.currentX = this.x;
 					var tooltip = "<span style=\"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif\"><b>" + Highcharts.dateFormat("%a, %b %e, %Y", this.x) + "</b>";
 					for (var i in this.points) {
 						var name = this.points[i].series.name;
@@ -468,7 +479,7 @@ function load(name) {
 }
 
 // initialize buttons
-$(".btn").focus(function() {
+$(".btn,.close").focus(function() {
 	$(this)[0].blur(); // fixes FF focus bug
 });
 
