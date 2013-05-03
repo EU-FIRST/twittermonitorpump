@@ -1,0 +1,9 @@
+[
+{"time":"9:05","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: Autom8: $GOOG, can\u0027t resist shorting premium on the $645(w) puts http://t.co/zkREHSWn","lbl":"Negative"}
+,{"time":"10:26","usr":"tjtakes","txt":"$goog 646.90 running","lbl":"Positive"}
+,{"time":"12:41","usr":"ActAccordingly","txt":"Search no more? $GOOG\u0027s secular issues have been well documented. \u0022The case against google\u0022, really thought provoking http://t.co/hddNlArQ","lbl":"Negative"}
+,{"time":"12:46","usr":"EvolvingMedium","txt":"Google Inc (GOOG) Faces Privacy Battle From Former Employees $goog - http://t.co/T8QVLhlh","lbl":"Negative"}
+,{"time":"14:12","usr":"sciencetrader","txt":"@KeithMcCullough Simple people who missed the rip in $aapl, $pcln, $goog-are buying to join","lbl":"Positive"}
+,{"time":"19:30","usr":"lazywisdom","txt":"RANDOM QUESTION: When was the last time $GOOG made something BETTER than the alternatives, as opposed to merely FREE?","lbl":"Negative"}
+,{"time":"19:52","usr":"TrendRida","txt":"@netgarden $goog is a flawed biz. It uses free as a crutch to ship incomplete / half azz products.","lbl":"Negative"}
+]

@@ -1,0 +1,6 @@
+[
+{"time":"15:32","usr":"rogerkirkness","txt":"RT @themotleyfool: Watch out, iPhone. On a global basis, Android now has an overwhelming 75% market share: http://t.co/wmMfKpgh $AAPL $GOOG","lbl":"Positive"}
+,{"time":"15:34","usr":"JuanMoriarty","txt":"RT @themotleyfool: Watch out, iPhone. On a global basis, Android now has an overwhelming 75% market share: http://t.co/wmMfKpgh $AAPL $GOOG","lbl":"Positive"}
+,{"time":"18:52","usr":"AfropeanGirl","txt":"RT @themotleyfool: Watch out, iPhone. On a global basis, Android now has an overwhelming 75% market share: http://t.co/wmMfKpgh $AAPL $GOOG","lbl":"Positive"}
+,{"time":"23:30","usr":"boyflamix","txt":"Been long $GOOG since Pre-Election. Hoping recent rally carries my calls into something worth selling. Hate losing, principles over profit.","lbl":"Positive"}
+]

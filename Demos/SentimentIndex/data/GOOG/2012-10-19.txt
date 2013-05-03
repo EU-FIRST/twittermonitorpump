@@ -1,0 +1,80 @@
+[
+{"time":"1:07","usr":"keyaki_channel","txt":"RT @Reuters: Google, Inc. shares halted news pending, last down 9 percent. $GOOG","lbl":"Negative"}
+,{"time":"2:24","usr":"Equitykingkong","txt":"$GOOG: in any event it is very likely that yesterdays low of 676 will be retested in the coming days or weeks","lbl":"Negative"}
+,{"time":"2:27","usr":"jcbruin","txt":"Why Google\u2019s revenue is a half billion dollars less than everyone expected http://t.co/VYWvFUUY $GOOG #baumgartnered #longsqueezed $$","lbl":"Negative"}
+,{"time":"4:13","usr":"YoungLivermore","txt":"Just imagine... if you bought puts yesterday in $GOOG ... you most likely would of woke up a millionaire today.","lbl":"Negative"}
+,{"time":"4:13","usr":"shirleyener","txt":"RT @SeekingAlpha: Google Q3 Earnings Recap: Weak Mobile And Core Growth http://t.co/ZesAhzRi $GOOG","lbl":"Negative"}
+,{"time":"4:55","usr":"silverjet2","txt":"It starts: $GOOG downgraded to Perform at Oppenheimer","lbl":"Negative"}
+,{"time":"5:40","usr":"haentz","txt":"ROFL, nice screenshot of the $GOOG debacle on the bottom :) http://t.co/UxIvoMQH","lbl":"Negative"}
+,{"time":"5:41","usr":"Tape_Reader","txt":"Watching $GOOG 200 Day SMA and Key 78.6% Fibonacci Support around $629.20 (Fib range Aug 2004 lo @ $95.96 thru Oct 2012 hi @ $774.38) 4 buy","lbl":"Positive"}
+,{"time":"6:12","usr":"crazyfasteddy","txt":"So $GOOG misses, SELL $AAPL right? And since it was Nintendo & not $AAPL that has the underaged workers in China, that\u0027s OK, but sell $AAPL","lbl":"Negative"}
+,{"time":"6:13","usr":"Sir0tek","txt":"Surprise, surprise. Yesterday on #TASE tech was hammered down, previous to any $GOOG informations. Some obviously DID know what was looming.","lbl":"Negative"}
+,{"time":"6:14","usr":"abnormalreturns","txt":"Friday 7atSeven: lessons from 1987, $GOOG earnings issues and six Wall Street blogs to follow. http://t.co/qM6RNSob $NYX $NDAQ $ICE $AAPL","lbl":"Negative"}
+,{"time":"6:50","usr":"BPGAG","txt":"$goog all analysts bears so far this am - when/if bulls going to defend it","lbl":"Negative"}
+,{"time":"6:51","usr":"QueenBia22","txt":"RT @CNNMoney: Google\u0027s big mess... Here\u0027s what happened: http://t.co/PuuRbwsx $GOOG","lbl":"Negative"}
+,{"time":"7:29","usr":"bored2tears","txt":"Oppenheimer joins BofA-Merrill in downgrading Google after yesterday\u0027s #earnings surprise\u00B2. $GOOG +1.05% at 702.39 premarket #stocks","lbl":"Negative"}
+,{"time":"7:29","usr":"BenCBanks","txt":"$goog and $aapl both coming up pre market hours while indices pointing down.","lbl":"Negative"}
+,{"time":"7:45","usr":"Finance_Wire","txt":"RT @etfdigest: Google\u0027s Slip Rocks Markets http://t.co/H4SQbtZw $GOOG $QQQ $XLK $$","lbl":"Negative"}
+,{"time":"7:46","usr":"mikecowan424","txt":"@Stephanie_Link $GOOG lives on.","lbl":"Positive"}
+,{"time":"7:47","usr":"GlobalMacroZen","txt":"\u0022@Benzinga: $GOOG PT lowered from $850 to $847 at Credit Suisse, Outperform rated\u0022 CS analyst is just anoher luminary!","lbl":"Negative"}
+,{"time":"8:05","usr":"MaribelAberCNN","txt":"I\u0027ve got a LIVE look at stocks from #NASDAQMarketSite at 6:34aP on @SanDiego6 + a recap on the bad news for $GOOG ...","lbl":"Negative"}
+,{"time":"8:05","usr":"loreng07","txt":"Now is long $GOOG! :S","lbl":"Positive"}
+,{"time":"8:06","usr":"CashBauer","txt":"\u0022Google $GOOG still has so much in the pipeline that is going to rock your world (Glass, etc.)... http://t.co/VRaOuqtg $CMG $YUM","lbl":"Positive"}
+,{"time":"8:15","usr":"DeidreZune","txt":"5 Reasons Apple Still Trumps Google http://t.co/HEcFdRfH $AAPL $GOOG","lbl":"Negative"}
+,{"time":"8:16","usr":"stevelarowe","txt":"What the $GOOG?!?","lbl":"Negative"}
+,{"time":"8:35","usr":"rsblades","txt":"@MichaelComeau $GOOG asked for the halt - it was not a circuit breaker halt http://t.co/2TBGRCFR","lbl":"Negative"}
+,{"time":"8:50","usr":"vito_crogs","txt":"RT @BryanMortenson: Notable misses across industries: $MCD, $KO, $IBM, $MSFT, $GOOG, $EW, $WFC, $CHKP, $POT, $CAT, $AXP, $CMG. QE and housing will save us... $$","lbl":"Negative"}
+,{"time":"8:50","usr":"TheStreet","txt":"Google Shares: Still Fairly Priced - http://t.co/ChYEl0E1 $GOOG","lbl":"Positive"}
+,{"time":"9:18","usr":"Unclerojelio","txt":"Google\u0027s Mobile Mess http://t.co/y4THfUIw via @TheStreet $goog is a huge fail! Paper tiger and deserves to die!","lbl":"Negative"}
+,{"time":"9:18","usr":"BarbarianCap","txt":"RT @BryanMortenson: Notable misses across industries: $MCD, $KO, $IBM, $MSFT, $GOOG, $EW, $WFC, $CHKP, $POT, $CAT, $AXP, $CMG. QE and housing will save us... $$","lbl":"Negative"}
+,{"time":"9:32","usr":"ADVFNplc","txt":"$GOOG - Google Grows But Misses in Q3 - Analyst Blog http://t.co/BAwSRFb5","lbl":"Positive"}
+,{"time":"9:32","usr":"DallasTexxxas","txt":"Getting concerned with $HD not sig trading down into this red. If $GOOG doesn\u0027t get a $700 pin and it falls it might drag rest down.","lbl":"Negative"}
+,{"time":"9:47","usr":"dunragit","txt":"$VRNG $GOOG TODAYS THE DAY CASE COULD VIRTUALLY BE DECIDED SOURCE CODE BEING DISCUSSED IN CAMERA","lbl":"Negative"}
+,{"time":"9:47","usr":"3angelsrnmylife","txt":"@Opinterest CNBC talking about $GOOG disappearing, more bullish than any technical indicator.","lbl":"Positive"}
+,{"time":"9:48","usr":"Gssound","txt":"$GOOG seeking 690 pin just to screw everyone","lbl":"Positive"}
+,{"time":"9:48","usr":"UdallTechStrat","txt":"$AAPL Siri as replacement for $GOOG is very poor argument. Umm Siri uses $goog search. And Google Voice is better than Siri. check mate $$","lbl":"Positive"}
+,{"time":"10:01","usr":"peter_gibbons","txt":"Larry Page sounds like he\u0027s dying. Hope it\u0027s not true. $GOOG","lbl":"Negative"}
+,{"time":"10:16","usr":"HedgehogTrader","txt":"Folks, the problem with a two-stock market is when both of them suck wind: $AAPL $GOOG","lbl":"Negative"}
+,{"time":"10:16","usr":"biofan1","txt":"Leaders, $goog $exep $pcln $aapl $cmg $mcd $jpm $ wfc all down together with nice volume. Ugly be careful","lbl":"Negative"}
+,{"time":"10:31","usr":"StkConfidential","txt":"$GOOG unable to hold its gains on multiple downgrades from Oppenheimer and $BAC. $$","lbl":"Negative"}
+,{"time":"10:41","usr":"DeidreZune","txt":"$GOOG now really sinking UNDER price at time of trading halt. So much for apologists like henry Blodget","lbl":"Negative"}
+,{"time":"10:42","usr":"KTVora","txt":"@Tangletrade $GOOG So much for the 700 pin. Looks like it wants to go through yesterday\u0027s low. Then 660 support? And 100 day mvg at 650?","lbl":"Negative"}
+,{"time":"10:53","usr":"jayholler","txt":"I\u0027m surprised the press didn\u0027t blame @NASDAQOMX for $GOOG\u0027s drop yesterday.","lbl":"Negative"}
+,{"time":"10:53","usr":"tradingview","txt":"$GOOG chart by scheplick: http://t.co/FiPlKMf6 the goog drop after earnings leak.","lbl":"Negative"}
+,{"time":"10:54","usr":"flybynite11","txt":"@Opinterest Apple v. Google: Why Only a F\u2019ing Idiot would Recommend $GOOG over $AAPL http://t.co/SI7zbAXa","lbl":"Negative"}
+,{"time":"11:24","usr":"Prospectus","txt":"Wow, am I glad I bailed on the $700 $GOOG butterfly! That was a gift this morning. Ugly market","lbl":"Negative"}
+,{"time":"11:24","usr":"jordanhodgkinso","txt":"@EBateup $GOOG and $MSFT missing doesn\u0027t help either, bulls start heading for the exits. Lofty $LULU gets smacked.","lbl":"Negative"}
+,{"time":"11:33","usr":"Lattouf","txt":"Ouch! RT @EddyElfenbein: $GOOG has lost $26 billion in market cap yesterday and today.","lbl":"Negative"}
+,{"time":"11:33","usr":"joannekhtf","txt":"RT @USFBullsTrader: It\u0027s the end of the world as we know it! $SPY $GOOG $AAPL #Bloodbath #Austerity #FiscalCliff #FED","lbl":"Negative"}
+,{"time":"11:43","usr":"paulwoll","txt":"$GOOG exited +.90 got some of it back.. Decided not to hold when it got close to the down TL.","lbl":"Negative"}
+,{"time":"11:43","usr":"SJosephBurns","txt":"I sold my $GOOG put for a 300% return. $900 profit in a few hours.","lbl":"Positive"}
+,{"time":"11:59","usr":"creditspread23","txt":"$GOOG STILL SHITTING THE BED, OUR $NDX PLAY AND GENERAL TECHNICAL THOUGHTS ON TECH $QQQ $AAPL http://t.co/Y3okHca8 via @creditspread23","lbl":"Negative"}
+,{"time":"11:59","usr":"tradethembi","txt":"to beat a dead horse, on $GOOG, my extreme histo yesterday told us the low would be retested on -61 http://t.co/xO8kqeem","lbl":"Negative"}
+,{"time":"12:11","usr":"_SimplyTessa","txt":"RT @TheStreet: If You\u0027re Waiting for a Google Dip, Too Late - http://t.co/HpQV5Ylc by $GOOG","lbl":"Negative"}
+,{"time":"12:25","usr":"MichaelComeau","txt":"Core $GOOG business wasn\u0027t so bad. But they own Motorola and that\u0027s a drag.","lbl":"Negative"}
+,{"time":"12:41","usr":"cybertradingu","txt":"Take a look at this spectacular waterfall-style decline in $GOOG (chart): http://t.co/9YSXeqJh Talk about a fall from grace...","lbl":"Negative"}
+,{"time":"12:42","usr":"JoaoFelipeReall","txt":"RT @CityIndex: Google shares suspended after profit results blunder http://t.co/ws9sxbbi $GOOG","lbl":"Negative"}
+,{"time":"12:42","usr":"wallstdaily","txt":"Trading on #Google #Stock Halted After Big Earnings Miss http://t.co/tXJxr697 $GOOG","lbl":"Negative"}
+,{"time":"13:04","usr":"biggalaxy","txt":"@TMSchoenberger Last time I checked, was visible from the International Space Station. $GOOG bombed the market.","lbl":"Negative"}
+,{"time":"13:04","usr":"TraderDR","txt":"@racernic you have the $GOOG scenario vs $AAPL too much hubris/money to innovate vs $MSFT low prob of taking on dominant players, tough call","lbl":"Negative"}
+,{"time":"13:05","usr":"JerTignes","txt":"it is a very bad idea for $goog to fight a european country on taxes while lot of european citizens face daily huge taxe increases!!","lbl":"Negative"}
+,{"time":"13:05","usr":"rrshasss","txt":"$GOOG Highest call volume at 700, highest put volume at 680. About 30% more puts than call volume","lbl":"Negative"}
+,{"time":"13:40","usr":"ETFtrends","txt":"Google earnings fallout hits tech, Nasdaq ETFs: http://t.co/3XVwaBXw $GOOG $XLK $FDN $PNQI $IYW $IGM $IXN $SOCL $QQQ $VGT #etf","lbl":"Negative"}
+,{"time":"13:42","usr":"2KnightsTrading","txt":"The risk with selling puts in the likes of $AAPL and $GOOG today is that a cascading selloff is more likely today/monday than anytime lately","lbl":"Negative"}
+,{"time":"13:58","usr":"jpu19","txt":"RT @Benzinga: $GOOG downgraded to Long-term Buy at Hilliard Lyons, $840 PT","lbl":"Negative"}
+,{"time":"13:59","usr":"bluser12","txt":"$GOOG\u0027s breaking too","lbl":"Negative"}
+,{"time":"13:59","usr":"MarcoB","txt":"How many billions $GOOG and $AAPL lost yesterday and today?","lbl":"Negative"}
+,{"time":"14:16","usr":"CHRISBODICHI","txt":"RT @takingstock614: $GOOG off almost 13%","lbl":"Negative"}
+,{"time":"14:17","usr":"The_OmarAyouche","txt":"RT @SAI: Google\u0027s Next Smartphone Leaks Again On Twitter And The Specs Sound Pretty Amazing $GOOG by @stevekovach http://t.co/iL3KwWYI","lbl":"Positive"}
+,{"time":"14:17","usr":"TheRajarshi_H","txt":"RT @SAI: Google\u0027s Next Smartphone Leaks Again On Twitter And The Specs Sound Pretty Amazing $GOOG by @stevekovach http://t.co/iL3KwWYI","lbl":"Positive"}
+,{"time":"14:18","usr":"ManijehM","txt":"$GOOG doing bad cuz not doing well in mobile we punish $AAPL that is in mobile assuming they miss then we sell again if they do, Logic? not","lbl":"Negative"}
+,{"time":"14:44","usr":"marchuq","txt":"RT @SAI: Here\u0027s The HUGE Problem With Google\u0027s $8 Billion Mobile Business $GOOG by @Jim_Edwards http://t.co/J6kSSQ7v","lbl":"Negative"}
+,{"time":"14:45","usr":"bhaaz","txt":"RT @SAI: Here\u0027s The HUGE Problem With Google\u0027s $8 Billion Mobile Business $GOOG by @Jim_Edwards http://t.co/J6kSSQ7v","lbl":"Negative"}
+,{"time":"15:09","usr":"rmotilla","txt":"RT @WSJ: Google earnings fell 20% from a year ago as total costs roses and advertising prices fell. http://t.co/iV0J75TX $GOOG","lbl":"Negative"}
+,{"time":"15:11","usr":"beachbum314159","txt":"@61point8 News triumphs charts, $GOOG killed it, and my portfolio too. Big ouch for today.","lbl":"Negative"}
+,{"time":"15:48","usr":"srisri55","txt":"@ChaseWolfe U wanna know? $GOOG 690 puts went from 40c to 15 bucks. Yes thats 3500%.","lbl":"Negative"}
+,{"time":"17:44","usr":"eltrade","txt":"$GOOG ouch. \u0027145 Brazilian journals (90% of market) pull contents from Google News, demand compensation.\u0027 http://t.co/K7BgfJdT","lbl":"Negative"}
+,{"time":"17:47","usr":"mundofs","txt":"$goog so ad sales down who took the business? $fb $twit $yhoo it just doesn\u0027t stop does it? $goog for search $twit for news $fb social?","lbl":"Negative"}
+,{"time":"17:48","usr":"nobwak","txt":"LG\u3067\u3057\u305F RT @SAI: Google\u0027s Next Smartphone Leaks Again On Twitter And The Specs Sound Pretty Amazing $GOOG by @stevekovach http://t.co/NyS37nAV","lbl":"Positive"}
+,{"time":"19:08","usr":"larryfooter","txt":"Unlikely ... profits continue to grow and it\u0027s now only 11.5x2013 eEPS = cheap RT @EXPstocktrader More $GOOG news http://t.co/yyhCuaVL $VRNG","lbl":"Positive"}
+]

@@ -1,0 +1,16 @@
+[
+{"time":"8:39","usr":"angryspeculator","txt":"Now the Sheep are ripe for slaughter $SPY suckers get in on the private payroll #\u0027s. fuckn clowns trading this market $AAPL $GOOG $MA $V $T","lbl":"Negative"}
+,{"time":"10:52","usr":"claytoncohn","txt":"To be honest I just go straight to the source - I ask people I know who\u0027ve worked at both as programmers who\u0027s better...they all say $GOOG.","lbl":"Positive"}
+,{"time":"11:20","usr":"bsvtwit","txt":"@Nouf_wpt Also look at $GOOG and $IBM. Showing signs of impulsive moves down from top","lbl":"Negative"}
+,{"time":"11:54","usr":"HumbleBioTrader","txt":"@chasingthealpha Yes, I like $GOOG on the 5 minute chart. Would you buy $CHTP here?","lbl":"Positive"}
+,{"time":"13:02","usr":"numberonetell","txt":"$GOOG has a bullish daily chart and is now sitting on this trend line from the 60 min. chart http://t.co/rMDkNZOT","lbl":"Positive"}
+,{"time":"13:54","usr":"JamesPhenom","txt":"Long $TZA, $GOOG, $FXE June 2012 puts. Done.","lbl":"Negative"}
+,{"time":"15:14","usr":"StockSage1","txt":"$GOOG continues to exhibit notable relative weakness","lbl":"Negative"}
+,{"time":"15:14","usr":"Japanesegunto","txt":"$Goog is landing hard.......lol.......$AAPL is next.....","lbl":"Negative"}
+,{"time":"15:52","usr":"Phileo99","txt":"$GOOG looks like it put in a short term top - what was so special about 670 ?","lbl":"Positive"}
+,{"time":"15:54","usr":"OptionsHawk","txt":"$GOOG right on that 650 pin","lbl":"Positive"}
+,{"time":"17:34","usr":"lluccipha","txt":"SAI: UH-OH: The Company That Google Just Paid $12.5 Billion For Had An Awful Holiday $GOOG $MMI by @MattRosoff http://t.co/JPSrcWIZ","lbl":"Negative"}
+,{"time":"17:37","usr":"macroaxis","txt":"Google Inc $GOOG Fairly Down. Lost 1%. 5 Stock Seeing Big Analyst Downgrades: http://t.co/ilolOKqd","lbl":"Negative"}
+,{"time":"17:37","usr":"CorporateYoungs","txt":"http://t.co/WrnMQLOz $315.00 loss in $GOOG Just couldn\u0027t do it. Of all the day on GOOG bullish i got a caught a bear","lbl":"Positive"}
+,{"time":"19:51","usr":"CashRocket","txt":"$GOOG http://t.co/GGFvjtgP looks like an exhaustion gap to me #takeprofits","lbl":"Negative"}
+]

@@ -1,0 +1,10 @@
+[
+{"time":"7:56","usr":"balwant","txt":"RT @SAI: Lending Money To China\u0027s Leading Internet Company Is Now Less Risky Than Lending Money To Google $GOOG http://t.co/EovQNrsg","lbl":"Negative"}
+,{"time":"11:06","usr":"iTraderz","txt":"$GOOG stopped dead at it\u0027s 50 day today. Love to see a little consolidation here.","lbl":"Negative"}
+,{"time":"12:25","usr":"wsmco","txt":"Sold to open $GOOG Dec 7 680 puts at 1.60","lbl":"Positive"}
+,{"time":"12:30","usr":"thefinancepress","txt":"$GOOG Google-owned Motorola can\u0027t block sales of Microsoft products, US judge rules: Google-owned Motorola can\u0027... http://t.co/aYUNFvIe","lbl":"Negative"}
+,{"time":"13:54","usr":"MMASSASSIN","txt":"AGGRESSIVE strategy 4 trade a buying long leg of $GOOG 685 pDS at 2.50-.80 with a .90 spread in mind, we ai-> http://t.co/fku2FMPS","lbl":"Positive"}
+,{"time":"14:00","usr":"MMASSASSIN","txt":"SIMPLE and AGGRESSIVE strategy 3 trade a creating a $GOOG 717 cCS at .50 area, mentioned this earlier -> http://t.co/fku2FMPS","lbl":"Positive"}
+,{"time":"18:21","usr":"BPGAG","txt":"@jimcramer bearish ok maybe holdinh on $goog - I almost passed out - I agree with you.","lbl":"Negative"}
+,{"time":"23:26","usr":"msdestyni69","txt":"@WeekesTyler It goes down bc investor confusion. Ppl panic on any move $GOOG $VRNG makes. These moves are just normal court procedures, tho.","lbl":"Negative"}
+]

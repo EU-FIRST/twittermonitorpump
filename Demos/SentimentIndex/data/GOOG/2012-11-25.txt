@@ -1,0 +1,7 @@
+[
+{"time":"7:20","usr":"wdyang","txt":"RT @SAI: Google\u0027s Latest Smartphone Is Already Having Issues $GOOG by @officialKLS http://t.co/oKkR5JLh","lbl":"Negative"}
+,{"time":"10:31","usr":"adlymn","txt":"RT @SAI: The iPad Had 88% Of All Online Tablet Shopping Traffic On Black Friday $AAPL $GOOG by @jyarow http://t.co/5nwU30Oj","lbl":"Positive"}
+,{"time":"10:56","usr":"PMgeezer","txt":"RT @businessinsider: The iPad Had 88% Of All Online Tablet Shopping Traffic On Black Friday $AAPL $GOOG by @jyarow http://t.co/eKgISRqh","lbl":"Positive"}
+,{"time":"13:07","usr":"allisonstamm","txt":"RT @SAI: The iPad Had 88% Of All Online Tablet Shopping Traffic On Black Friday $AAPL $GOOG by @jyarow http://t.co/5nwU30Oj","lbl":"Positive"}
+,{"time":"21:28","usr":"61point8","txt":"$GOOG should make a run for [$695 - $700].","lbl":"Positive"}
+]

@@ -1,0 +1,13 @@
+[
+{"time":"8:14","usr":"wallstCS","txt":"Jim Cramer: \u0027BUY, BUY, BUY\u0027 LinkedIn, Google and these 3 Sizzling Stocks TODAY http://t.co/KHcYGuYB $GOOG $LNKD $LTD $LULU $VMW #mkt","lbl":"Positive"}
+,{"time":"9:06","usr":"Sell_Theta","txt":"$GOOG Credit Put Spreads http://t.co/hhuJvI7x #trades","lbl":"Negative"}
+,{"time":"11:00","usr":"TweetLeni","txt":"Good afternoon. Quick check in. Looks like Ill have to cover the $GOOG -1.5% Gain in $TSO +1.2 so kind of a wash. Nice to see some bullish","lbl":"Positive"}
+,{"time":"11:32","usr":"ADVFNplc","txt":"$GOOG - Amazon Launches New Cloud Service - Analyst Blog http://t.co/dL3nlTJ8","lbl":"Positive"}
+,{"time":"13:24","usr":"creeksidecap","txt":"Will take the theta in my short 680 weekly calls tomorrow and roll into a short position for next week expiration $GOOG","lbl":"Negative"}
+,{"time":"13:55","usr":"marwan_jones","txt":"RT @TraderFlorida: $GOOG $AAPL these two market leaders continue to hold up well","lbl":"Positive"}
+,{"time":"14:32","usr":"jbptuco","txt":"RT @Fitzstock2004: I see your engulfing candle AND RAISE U A HAMMER REVERSAL $spx $aapl $goog","lbl":"Negative"}
+,{"time":"15:29","usr":"dberkowitz","txt":"@dslevy it\u0027s a great post, though i still would be happy if $FB could be a complement to $GOOG w/search rather than killer","lbl":"Negative"}
+,{"time":"16:19","usr":"SAI_Tools","txt":"8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/B54E3IBz","lbl":"Negative"}
+,{"time":"16:21","usr":"Nukaba","txt":"RT @businessinsider: 8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/XcXRRjMq","lbl":"Negative"}
+,{"time":"19:42","usr":"BuildSocialBiz","txt":"RT @DevKMenon: 8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/lo7lQ16p","lbl":"Negative"}
+]

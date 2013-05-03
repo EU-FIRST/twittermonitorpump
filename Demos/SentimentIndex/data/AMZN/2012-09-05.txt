@@ -1,0 +1,4 @@
+[
+{"time":"9:20","usr":"eeckdhal","txt":"@ECONgeek947 but $AMZN also sells appetizers and deserts. They don\u0027t need to raise prices on pizza and pop. $NFLX is going down.","lbl":"Positive"}
+,{"time":"9:22","usr":"ECONgeek947","txt":"LOW supply of GOOD content LEFT 4 $NFLX 2 ADD ergo create content & improve quality of service-JUST LIKE HBO, PS 7days til $AMZN dies ;) $FB","lbl":"Negative"}
+]

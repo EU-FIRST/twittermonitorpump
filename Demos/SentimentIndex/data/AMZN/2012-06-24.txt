@@ -1,0 +1,4 @@
+[
+{"time":"18:12","usr":"roykissel","txt":"@danabrams You should start an Amazon boycott until they yank all this garbage off their site. $AMZN","lbl":"Negative"}
+,{"time":"18:28","usr":"roykissel","txt":"Why in God\u0027s name is Amazon allowing people to profit on innocent childrens\u0027 tragedies? Please boycott ASAP. $AMZN http://t.co/c32sCiWa","lbl":"Negative"}
+]

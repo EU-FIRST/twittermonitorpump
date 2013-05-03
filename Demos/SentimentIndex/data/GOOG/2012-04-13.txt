@@ -1,0 +1,50 @@
+[
+{"time":"4:53","usr":"goldmansachs666","txt":"@herbgreenberg I think #Google is a fine stock at $5. $GOOG","lbl":"Negative"}
+,{"time":"5:35","usr":"dontsaythatman","txt":"RT @cnbcfastmoney: Google\u2019s Stock Split Could Trigger Selling: Pro Trader http://t.co/ZdRZ6Gme $GOOG #StockPicks","lbl":"Negative"}
+,{"time":"5:37","usr":"Benzinga","txt":"$GOOG PT Raised from $675 to $730 at Piper Jaffray","lbl":"Positive"}
+,{"time":"5:38","usr":"StockSage1","txt":"RT @Benzinga: $GOOG PT Raised from $675 to $730 at Piper Jaffray","lbl":"Positive"}
+,{"time":"5:38","usr":"Benzinga","txt":"$GOOG PT Raised from $600 to $640 at Goldman Sachs","lbl":"Positive"}
+,{"time":"6:32","usr":"stock_pandit","txt":"$GOOG Google (GOOG) reiterated by Oppenheimer. Reiterated rating Outperform","lbl":"Positive"}
+,{"time":"6:33","usr":"olivetrader","txt":"RT @Trending123: $GOOG Barclays raised their tgt to $750 from $700, RBC Capital raised their tgt to $850 from $800","lbl":"Positive"}
+,{"time":"7:09","usr":"polluxtechnical","txt":"@thetradedotcom and a business that has lacked for years. $goog is chasing apple. Internet search is peaked for now. $goog is trash IMO.","lbl":"Negative"}
+,{"time":"7:10","usr":"SeekingAlpha","txt":"Google\u0027s Evil Stock Split http://t.co/vKtxOxHQ $GOOG","lbl":"Negative"}
+,{"time":"7:30","usr":"andrewbaron","txt":"$goog behind the times on glasses front as US MIL places orders for contact data lenses: http://t.co/lRFjCYJB","lbl":"Negative"}
+,{"time":"7:58","usr":"TopDollaJay","txt":"Looks like $GOOG and $SBUX may open higher today. Good sign","lbl":"Positive"}
+,{"time":"8:16","usr":"LPEFtrading","txt":"$GOOG looking like it is selling off Pre Market, boads well for our 585 puts, $AAPL up premarket!! http://t.co/gj9USvDn","lbl":"Negative"}
+,{"time":"8:38","usr":"aznboi27","txt":"lol.. $GOOG =)","lbl":"Positive"}
+,{"time":"8:46","usr":"KeeneOnMarket","txt":"WOW, $GOOG moved down to $623 today","lbl":"Negative"}
+,{"time":"8:46","usr":"JohnEarlBurnett","txt":"@herbgreenberg $APPL is #TheCheapBuy with huge growth to come, most likely with #Facebook - $GOOG is like POTUS #NoRealPlan $$","lbl":"Negative"}
+,{"time":"8:58","usr":"geckler","txt":"If you sold the 680 call and held the Bfly - I am jeal of you $GOOG","lbl":"Positive"}
+,{"time":"9:10","usr":"VolcadoDePila","txt":"$GOOG strategy of splitting its stock seems right for a company whose management is so volatile. Must keep same dynamic to survive.","lbl":"Positive"}
+,{"time":"9:31","usr":"LaMonicaBuzz","txt":"RT @jonasQuinn23: \u201C@LaMonicaBuzz: So much for $AAPL or $GOOG hitting $666 on Friday the 13th.\u201Dthat\u0027s as long shot as creating a see-thru aluminum","lbl":"Negative"}
+,{"time":"9:31","usr":"BlueFielder","txt":"$GooG - bot to close 1/3 of wkly 635 $CALLs @ 1.50 for a 55% gain","lbl":"Positive"}
+,{"time":"9:49","usr":"tgsjoberg","txt":"can anyone explain me why $GOOG goes up double digit % then pullbacks - no news I can see today?","lbl":"Negative"}
+,{"time":"9:50","usr":"takingstock614","txt":"My shorts in $AAPL $PCLN $TZA working well but still in the hole for the day because of my $GOOG calls.","lbl":"Negative"}
+,{"time":"10:15","usr":"Harnek","txt":"RT @BloombergNews: Google stock plan comes at investors\u0027 expense | http://t.co/b2U2kvhb $GOOG","lbl":"Negative"}
+,{"time":"10:45","usr":"MarketWatch","txt":"Google is down 3%, sliding back into the red year-to-date. The stock has fallen 2% since Jan. 1 http://t.co/p3CZIed2 $GOOG","lbl":"Negative"}
+,{"time":"10:46","usr":"ronellman","txt":"RT @MarketWatch Google is down 3%, sliding back into the red year-to-date. The stock has fallen 2% since Jan. 1 http://t.co/Wbu3eEtn $GOOG","lbl":"Negative"}
+,{"time":"11:26","usr":"catchit16","txt":"RT @pattidomm Why Google Will Beat Apple to $1000, Cheaper than Facebook: @herbgreenberg http://t.co/7C7twv3K $AAPL $GOOG","lbl":"Positive"}
+,{"time":"11:26","usr":"chrisgilmer","txt":"RT @erickschonfeld: Wow, $GOOG down $20 after it\u0027s earnings call yesterday. Net Revenue growth lowest in 8 Qs http://t.co/6ejRMzrG","lbl":"Negative"}
+,{"time":"11:53","usr":"SenoritaDHETA","txt":"RT @MarketWatch: Google is down 3%, sliding back into the red year-to-date. The stock has fallen 2% since Jan. 1 http://t.co/p3CZIed2 $GOOG","lbl":"Negative"}
+,{"time":"12:12","usr":"mkarias1","txt":"Investors are getting screwed on this $GOOG split. We\u0027re losing voting rights & giving it to the founders.","lbl":"Negative"}
+,{"time":"12:29","usr":"HTB_Krull","txt":"$GOOG printed a bad tick early this morning and now it went there. The matrix shows itself","lbl":"Negative"}
+,{"time":"12:29","usr":"WadeCottrell","txt":"RT @Tangletrade: http://t.co/L6b8zD2S $GOOG test on support now after the break at $630","lbl":"Negative"}
+,{"time":"12:48","usr":"JosephTurkel","txt":"RT @dpetrillo23: For u Vinny , Google is down 3%, sliding back into the red year-to-date. The stock has fallen 2% since Jan. 1 http://t.co/LtPWtSvI $GOOG","lbl":"Negative"}
+,{"time":"12:49","usr":"syalg","txt":"to loose market share $AAPL has to bring just one flop device, while everyone else has to bring a really smart search engine to topple $GOOG","lbl":"Positive"}
+,{"time":"13:13","usr":"RossJaklik","txt":"RT @HTB_Krull $GOOG printed a bad tick early this morning and now it went there. The matrix shows itself","lbl":"Negative"}
+,{"time":"13:17","usr":"DCMJeff","txt":"Interesting take on $GOOG split. Google\u0027s evil stock split - Felix Salmon http://t.co/irpkSzqO","lbl":"Negative"}
+,{"time":"13:47","usr":"MarketBeat","txt":"http://t.co/4FBQ5j02 Google Shares: Expect More Turbulence Ahead $GOOG @srussolillo","lbl":"Negative"}
+,{"time":"13:49","usr":"TenBaggers","txt":"A quick, bullish take on Google\u0027s earnings: http://t.co/5bsJ37Bt $GOOG (video)","lbl":"Positive"}
+,{"time":"13:49","usr":"ActAccordingly","txt":"So I guess we can attribute the strength in $RATE and $QNST to the strong paid click growth from $GOOG and the decline in CPC.","lbl":"Positive"}
+,{"time":"14:11","usr":"mitchelltsai","txt":"long $GOOG 627.40 #MyStock http://t.co/JEll6j1T","lbl":"Positive"}
+,{"time":"14:13","usr":"lluccipha","txt":"SAI: EXPLAINER: Everything You Need To Know About Google\u0027s Weird Stock Split $GOOG $CMCSA $CMCSK by @MattRosoff http://t.co/YjacGwDg","lbl":"Negative"}
+,{"time":"14:47","usr":"stockwatch9","txt":"$GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/EO5RuEqA","lbl":"Positive"}
+,{"time":"14:49","usr":"btershana","txt":"RT @SeekingAlpha: Google Stock Dividend: Why 1 + 1 Will Not Equal 2 http://t.co/Q3U1y5Uc $SPY $QQQ $CMG $F $GOOG","lbl":"Negative"}
+,{"time":"15:59","usr":"westbrook_cjg","txt":"RT @SAI: CHART OF THE DAY: The Scariest Thing About Google\u0027s Earnings $GOOG by @jyarow http://t.co/zsAsuZHg","lbl":"Negative"}
+,{"time":"16:04","usr":"MJMIPAttorneys","txt":"RT @ReutersLegal: #FridayLegalReads -- Preview: #Oracle kicks off busy trial season against #Google http://t.co/Z9yNEG0d by @FedCourtJunkie $GOOG $ORCL","lbl":"Negative"}
+,{"time":"16:58","usr":"viewfromamerica","txt":"Long-term shareholders may get scorched by $FB and $GOOG http://t.co/TGRGSnUY via @cnbc","lbl":"Negative"}
+,{"time":"17:04","usr":"letstrade14","txt":"$GOOG - Google Stock Analysis - CCI is bullish - http://t.co/Liei8HzP","lbl":"Positive"}
+,{"time":"19:39","usr":"BrianSHall","txt":"$GOOG stock split. It\u0027s for the users.","lbl":"Positive"}
+,{"time":"22:50","usr":"zzbar","txt":"i have some zero coupon perpetual bonds for sale, it\u0027s called Google Class C share. $goog","lbl":"Negative"}
+,{"time":"22:54","usr":"albertycheng","txt":"Yeah. On $GOOG. - Forbes http://t.co/73g5Qe3i","lbl":"Positive"}
+]

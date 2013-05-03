@@ -1,0 +1,5 @@
+[
+{"time":"10:56","usr":"Convertbond","txt":"Who\u0027s next to pay a dividend? 19% of Google\u0027s $GOOG market value is in cash, 30% of Dell $DELL is","lbl":"Positive"}
+,{"time":"16:55","usr":"NewTraderU","txt":"My #FinalFour Stocks Picks http://t.co/FdnV3dYl $AAPL $GOOG plus two more","lbl":"Positive"}
+,{"time":"23:04","usr":"tradingtowin12","txt":"$GOOG - Google Stock Analysis - bullish macd crossover - http://t.co/iiiK2wsz","lbl":"Positive"}
+]

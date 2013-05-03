@@ -1,0 +1,22 @@
+[
+{"time":"3:24","usr":"luca_mac","txt":"RT @SAI: Google Is Busted For Violating Its Own Rules And Will Now Lower The Search Ranking For Chrome $GOOG by @Julie188 http://t.co/Ny16rZGN","lbl":"Negative"}
+,{"time":"7:20","usr":"richi","txt":"@cioanywhere $GOOG for its patent portfolio (albeit a bit of an obvious answer)","lbl":"Positive"}
+,{"time":"9:18","usr":"stocklist21","txt":"$GOOG - Google Stock Analysis - stock gap up - http://t.co/6itoYDMf","lbl":"Positive"}
+,{"time":"9:53","usr":"ManiOhli","txt":"Option Millionaires: retiredMM: In $GOOG $640 WP @ .35. http://t.co/TT2vAktq","lbl":"Positive"}
+,{"time":"9:54","usr":"lawyermarketer","txt":"RT @SAI: Google Is Busted For Violating Its Own Rules And Will Now Lower The Search Ranking For Chrome $GOOG by @Julie188 http://t.co/Ny16rZGN","lbl":"Negative"}
+,{"time":"10:50","usr":"GS612","txt":"$GOOG all out the 665 weekly p.","lbl":"Positive"}
+,{"time":"11:14","usr":"TRADER1970","txt":"out of remaining shorts.. bouncing lead by $QQQ precisely some retail onliners and $GOOG, $AAPL getting some green","lbl":"Negative"}
+,{"time":"11:14","usr":"Minyanville","txt":"Four Stocks Starting 2012 With Strength, by @TopProsTopPicks http://t.co/dXI7Kw0k $AAPL $APL $GOOG $CMG","lbl":"Positive"}
+,{"time":"11:54","usr":"lockingprofits","txt":"$aapl is cool $goog is cool however $pcln has the clear path to $500","lbl":"Positive"}
+,{"time":"12:36","usr":"stoleyourmoney","txt":"$GOOG & $AAPL SHOWING STRENGTH!","lbl":"Positive"}
+,{"time":"12:38","usr":"DarvasTrader","txt":"$GOOG just a monster, hitting new highs again.","lbl":"Positive"}
+,{"time":"12:39","usr":"AlbertS_NY","txt":"Have to admit, wanted $aaple to open lower so I can add some more. Patience grasshoppaaaaa $spy $aapl $goog $es_f","lbl":"Positive"}
+,{"time":"12:39","usr":"StockTwits50","txt":"St50 stocks at new 52week high today: $FTK $KOG $BKI $GOOG","lbl":"Positive"}
+,{"time":"13:04","usr":"DiscoverWallSt","txt":"KillerSquid: $GOOG defying gravity, oberbought on all my stuff: KillerSquid http://t.co/khzLRATO","lbl":"Positive"}
+,{"time":"13:47","usr":"LaMonicaBuzz","txt":"$GOOG up a little bit this afternoon. Hit new 52-week high of $670. Will this hit $700 after earnings report later this month?","lbl":"Positive"}
+,{"time":"15:33","usr":"MNYCx","txt":"$GOOG red, weakening more and more","lbl":"Negative"}
+,{"time":"16:25","usr":"WallStWatchDog","txt":"12 Large-Cap Stocks that Have Hit 52-Week Highs for Jan 4th http://t.co/UMYftnN2 $GOOG $ISRG $CLR $CP $CVS $EC $EPD $HD $NKE $PHI","lbl":"Positive"}
+,{"time":"17:28","usr":"lluccipha","txt":"SAI: Android Ice Cream Sandwich\u0027s Pitiful Numbers So Far $GOOG by @stevekovach http://t.co/ijNKVSFA","lbl":"Negative"}
+,{"time":"18:50","usr":"JohnPurdum","txt":"@The_Analyst Been crunching nbrs on $GOOG and that guys chart may not be 2 far off. I estimate $GOOG opens on 01/20/12 at btwn ($750-$775)","lbl":"Positive"}
+,{"time":"22:36","usr":"SAI_Tools","txt":"Crazy Rumor: Google Is Working On A 7-Inch Tablet Priced To Beat The Kindle Fire $GOOG by @stevekovach http://t.co/iLM75AjX","lbl":"Positive"}
+]

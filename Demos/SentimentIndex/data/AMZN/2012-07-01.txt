@@ -1,0 +1,6 @@
+[
+{"time":"7:30","usr":"seospecialistbd","txt":"RT @Trefis ::Google Launches Compute Engine To Challenge Amazon http://t.co/Lrmt3SBV by Trefis Team $GOOG $AMZN $MSFT http://t.co/h5ecZBBp","lbl":"Negative"}
+,{"time":"9:16","usr":"realcommonking","txt":"nice looking chart $AMZN","lbl":"Positive"}
+,{"time":"19:15","usr":"Court1Scott","txt":"RT @howardlindzon : I am so pissed at Amazon being down I just ordered 3 peanuts on Prime (long $amzn)","lbl":"Positive"}
+,{"time":"23:28","usr":"takingstock614","txt":"$AMZN chart looks good for higher prices.","lbl":"Positive"}
+]

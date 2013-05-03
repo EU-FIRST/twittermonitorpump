@@ -1,0 +1,5 @@
+[
+{"time":"10:15","usr":"toddstrade","txt":"$AMZN Basing","lbl":"Positive"}
+,{"time":"13:29","usr":"jaykza","txt":"@cornholelio @eddyhooks been trying to keep up with the stream. turned a bit bullish this morning. 10dma continues as upper bound. $AMZN","lbl":"Positive"}
+,{"time":"23:44","usr":"DMacBoston","txt":"$AMZN showing price volume divergence, looks like sellers may be exhausted http://t.co/6Mc8EIyE #WORDEN","lbl":"Positive"}
+]

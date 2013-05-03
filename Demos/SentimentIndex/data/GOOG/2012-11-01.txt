@@ -1,0 +1,14 @@
+[
+{"time":"7:40","usr":"psael","txt":"RT @thefinancepress: $GOOG Google Inc (NASDAQ:GOOG) sued for patent violation by Google Wallet: Google Inc (NASDAQ:GOOG) sued for pa... http://t.co/f7hxyxr4","lbl":"Negative"}
+,{"time":"7:42","usr":"petergo99037185","txt":"Employment numbers helped our futures a bit, need QQQ UP, $AAPL & $GOOG UP, and $MSFT UP. Note our rallies lately fizz fast, quick draw out!","lbl":"Positive"}
+,{"time":"8:57","usr":"KBThePres","txt":"@TheNextWeb @m4tt seems like too much trouble just to please only a handful of people, don\u0027t you think? $GOOG","lbl":"Negative"}
+,{"time":"9:40","usr":"Jamtrades","txt":"$GOOG needs to break $686.66 after consolidating since the last intraday rip.","lbl":"Negative"}
+,{"time":"12:39","usr":"thefinancepress","txt":"$GOOG Nokia Won\u0027t Stop Google From Using Patented Idea In Android Tablets: Nokia Won\u0027t Stop Google From Using P... http://t.co/yjHol5lQ","lbl":"Positive"}
+,{"time":"13:32","usr":"racernic","txt":"$GOOG wth happ? http://t.co/aZ1FH6bF","lbl":"Negative"}
+,{"time":"13:42","usr":"LimitBuyer","txt":"@sssc rotflmbo!!! That drop was bought up like there\u0027s no tomorrow. Somebody is working over-time. $GOOG","lbl":"Positive"}
+,{"time":"13:42","usr":"RobertWeinstein","txt":"out $GOOG +1.90","lbl":"Negative"}
+,{"time":"14:23","usr":"OptionAlarm","txt":"$AAPL and $GOOG should be sold into the close today","lbl":"Negative"}
+,{"time":"15:00","usr":"SeekingAlpha","txt":"Google Wallet Expands To Mobile Web http://t.co/v49IpF4x $GOOG","lbl":"Positive"}
+,{"time":"15:56","usr":"letzing","txt":"Yelp CEO: Google hasn\u0027t yet been able to have an impact in local $YELP $GOOG","lbl":"Negative"}
+,{"time":"17:12","usr":"BsiflingTrades","txt":"http://t.co/CDU4Ajqo $231.99 profit in $GOOG Short leg on 655/665 short put spread.","lbl":"Negative"}
+]

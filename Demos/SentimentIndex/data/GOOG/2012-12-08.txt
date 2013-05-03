@@ -1,0 +1,5 @@
+[
+{"time":"8:27","usr":"jornalistavitor","txt":"RT @SAI: Apple And Google Are Trying To Buy $500 Million Worth Of Kodak Patents $AAPL $GOOG http://t.co/PwnBcQkF","lbl":"Positive"}
+,{"time":"13:26","usr":"ThePaaji","txt":"RT @shyamdhulkhed: Apple And Google Are Trying To Buy $500 Million Worth Of Kodak Patents $AAPL $GOOG http://t.co/VC6XZZSm","lbl":"Positive"}
+,{"time":"13:31","usr":"Rour24","txt":"I had $goog puts perfectly. Wanted 680 or 690 puts. Did nothing. Fml","lbl":"Negative"}
+]

@@ -1,0 +1,5 @@
+[
+{"time":"12:10","usr":"BlueFielder","txt":"$AMZN For giggles ... bot wkly 220 \u0027lottery ticket\u0027 $CALLs @ .05 - I shouldn\u0027t even tweet this garbage. ( corrected tweet)","lbl":"Positive"}
+,{"time":"13:21","usr":"mosesli12","txt":"$AMZN entering short, 2.50 point max pain","lbl":"Negative"}
+,{"time":"14:16","usr":"SunriseTrader","txt":"@MindRightTrade $AMZN Once it crossed back above its open price for the day my stop was raised and as it approached pivot I raised stop","lbl":"Positive"}
+]

@@ -1,0 +1,6 @@
+[
+{"time":"8:30","usr":"TradeIdeasQuant","txt":"$AMZN New 52 Week High - Crossed daily highs resistance.","lbl":"Positive"}
+,{"time":"11:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:16pm: 243.97 -1.77 (-0.72%).","lbl":"Negative"}
+,{"time":"15:53","usr":"BS_Whistler","txt":"RT @Benzinga: $AAPL $AMZN $NFLX Amazon Crosses Milestone that Apple, Samsung and Netflix Can\u0027t Beat: http://t.co/F0w80A52","lbl":"Positive"}
+,{"time":"19:30","usr":"Larry_Post","txt":"\u201C@themotleyfool: Could Amazon be the death of Netflix? http://t.co/nAsuhZ9h $AMZN $NFLX\u201D YES. YES. YES. And Wally World too.","lbl":"Positive"}
+]

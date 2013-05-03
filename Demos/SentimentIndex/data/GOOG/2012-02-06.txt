@@ -1,0 +1,13 @@
+[
+{"time":"9:48","usr":"Tangletrade","txt":"$GOOG still looking strong here. $ZNGA not as weak as I was looking for","lbl":"Positive"}
+,{"time":"10:05","usr":"TMSchoenberger","txt":"For another 988 years until Y3K becomes an issue. \u201C@trish_regan: $GOOG trading above $600 - for how long will internet companies be able...\u0022","lbl":"Positive"}
+,{"time":"10:38","usr":"stockguy22","txt":"$GOOG strongly into the Jan gap now -- $605 -- missed a nice bounce on this one off the 200day sma $560\u0027s ( said bounce would be $605-$615+)","lbl":"Negative"}
+,{"time":"12:35","usr":"stock2dream","txt":"Loving $GOOG this monday. Helping a lot my tech portfolio. Come on $stx and $qcom!!!","lbl":"Positive"}
+,{"time":"12:36","usr":"Fensterputzer","txt":"RT @SharePlanner: nice bull flag in $GOOG on the 5 min","lbl":"Positive"}
+,{"time":"12:59","usr":"terranovajoe","txt":"@RKruegs pause that refreshes, $GOOG has filled much of the post earnings price gap, will use my bullets elsewhere, come back to $GOOG again","lbl":"Positive"}
+,{"time":"15:48","usr":"redstormstocks","txt":"$GOOG is without doubt the MVP in the portfolio today(especially those Feb calls)","lbl":"Positive"}
+,{"time":"15:48","usr":"idrisslquzaj3","txt":"Dasan firstadopter Siri ($AAPL) is def a long term threat to $GOOG. Watson ($IBM) even more so.cLr","lbl":"Negative"}
+,{"time":"16:51","usr":"bigbadmac","txt":"subscribe to his blog and see for yourself dude! RT @61point8: Pete Najarian gives $GOOG a boost. Is he ever bearish on anything?","lbl":"Positive"}
+,{"time":"16:52","usr":"junkieonwallst","txt":"Kudos to those that are and making money off $goog. The power of the gap","lbl":"Positive"}
+,{"time":"22:40","usr":"BreezeTrading","txt":"$AAPL $GOOG I just now sold all my longs in the private market, raising 200% cash and a couple stocks gapping up tomorrow. $STUDY","lbl":"Negative"}
+]

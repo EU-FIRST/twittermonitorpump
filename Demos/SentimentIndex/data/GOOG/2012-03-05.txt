@@ -1,0 +1,7 @@
+[
+{"time":"10:32","usr":"berkutchitweet","txt":"$GOOG 10d rising to meet it\u0027s 50d today just underneath its current price.","lbl":"Positive"}
+,{"time":"11:55","usr":"BS_Whistler","txt":"RT @SeekingAlpha: Massive Upside Potential In These 5 Stocks http://t.co/MR1tKik3 $AAPL $GOOG $LMCA $NVDA $SIRI","lbl":"Positive"}
+,{"time":"14:44","usr":"BluHorShoe","txt":"\u201C@tlmontana: $GOOG another new low\u201D //Love it!","lbl":"Negative"}
+,{"time":"14:44","usr":"DEMOGETS","txt":"The only problem is the big market leaders are getting hammered .. $AAPL, $GOOG, $PCLN, $CF","lbl":"Negative"}
+,{"time":"14:47","usr":"berkutchitweet","txt":"Stopped out of $GOOG just now. That\u0027s all she wrote. I\u0027ll be back when she get\u0027s her act together.","lbl":"Negative"}
+]

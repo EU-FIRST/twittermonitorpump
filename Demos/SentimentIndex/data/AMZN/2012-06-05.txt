@@ -1,0 +1,6 @@
+[
+{"time":"5:31","usr":"bergie1393","txt":"RT @KeithMcCullough: Of our 8 LONGS, some act well today - $SBUX $AMZN $XLU","lbl":"Positive"}
+,{"time":"5:32","usr":"bergie1393","txt":"RT @KeithMcCullough: $AMZN we still think we can get $218 on the long side","lbl":"Positive"}
+,{"time":"10:48","usr":"Ktr8der","txt":"\u201C@JonErlichman: ChangeWave Research: \u0022Kindle Fire planned buying is now down two-thirds since November 2011\u0022\u201D ///FireFlop $Amzn","lbl":"Negative"}
+,{"time":"14:33","usr":"Commodity_Bull","txt":"@CoachellaPalms $AMZN was the fit I was thinking","lbl":"Positive"}
+]

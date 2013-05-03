@@ -1,0 +1,11 @@
+[
+{"time":"7:20","usr":"outlawz616","txt":"Despite all that, JPM has an Overweight rating on $GOOG! They forgot to mention $ORCL suing them for billions. Android was built on Java.","lbl":"Negative"}
+,{"time":"7:20","usr":"Clarencebz47","txt":"Despite all that, JPM has an Overweight rating on $GOOG! They forgot to mention $ORCL suing them for billions. A... http://t.co/ybtTGFmt","lbl":"Negative"}
+,{"time":"7:21","usr":"ybfmiami","txt":"$GOOG is a directionless company throwing money all over the place. $AAPL focused & not wasteful. $AAPL much better investment.","lbl":"Negative"}
+,{"time":"12:55","usr":"MockTrade","txt":"$GOOG now bouncing off 607; needed 607 to break to help out NQ bears so now have 2 watch 1381 area 4 ES & 800 4 TF to confirm EOD","lbl":"Negative"}
+,{"time":"14:27","usr":"roychiu1","txt":"RT @SAI: The Top 10 Reasons To Pick Android Over iPhone $GOOG $AAPL by @stevekovach http://t.co/hNpk2uUB","lbl":"Positive"}
+,{"time":"18:55","usr":"InvestorHerald","txt":"RT @Vconomics: This isn\u0027t a typo: in the last 6 months, $GOOG insiders have sold 900 million dollars worth of stock, 772.6 million dollars worth in 2012.","lbl":"Negative"}
+,{"time":"18:55","usr":"MNYCx","txt":"RT @Vconomics: This isn\u0027t a typo: in the last 6 months, $GOOG insiders have sold 900 million dollars worth of stock, 772.6 million dollars worth in 2012.","lbl":"Negative"}
+,{"time":"21:53","usr":"USwwwStocks","txt":"$GOOG News: Google fined $25000 for impeding FCC investigation http://t.co/kx555uYL #daytrading #usa #www #stocks","lbl":"Negative"}
+,{"time":"21:53","usr":"mo_lazarus","txt":"RT @Vconomics: $GOOG insiders sold 181,077 shares or $114.8 million dollars worth of $GOOG stock in April. There have been NO buys by insiders this year.","lbl":"Negative"}
+]

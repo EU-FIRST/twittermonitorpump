@@ -1,0 +1,8 @@
+[
+{"time":"8:38","usr":"Que_Nande","txt":"RT @SAI: Amazon\u0027s Tablet Is Actually More Expensive Than You Think $AMZN $AAPL $GOOG by @jyarow http://t.co/wZ2mJdGD","lbl":"Negative"}
+,{"time":"9:05","usr":"LeoKaplin","txt":"stick to $P.... \u201C@RoccoPendola: Amazon Will Beat Apple To 1000 @TheStreet $AAPL $AMZN #Bezos #Jobs #Cook @AmazonKindle\u201D","lbl":"Positive"}
+,{"time":"9:05","usr":"tuckerstevenson","txt":"RT @businessinsider: Amazon\u0027s Tablet Is Actually More Expensive Than You Think $AMZN $AAPL $GOOG by @jyarow http://t.co/5mJ4CAyP","lbl":"Positive"}
+,{"time":"9:48","usr":"StartupProgress","txt":"I don\u0027t see $GOOG outmaneuvering $AMZN in the battle for E-Commerce","lbl":"Positive"}
+,{"time":"10:29","usr":"traderboy23","txt":"$AMZN likely headed lower if LOD doesn\u0027t hold.","lbl":"Negative"}
+,{"time":"23:43","usr":"Wisetrades5","txt":"$AMZN Are youkidding me?The kindlefire is trash compared to the IPAD1. $APPLTo comparethe kindle to the Ipad is to compare Robinto Superman.","lbl":"Negative"}
+]

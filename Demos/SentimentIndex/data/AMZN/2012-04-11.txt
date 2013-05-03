@@ -1,0 +1,12 @@
+[
+{"time":"9:32","usr":"pooyae","txt":"Just got me some $AMZN too... #stocks #options #market","lbl":"Positive"}
+,{"time":"10:11","usr":"profitly","txt":"This is SUCH a good trade on $AMZN http://t.co/wCBFKd1t nearly $20,000 in profits","lbl":"Positive"}
+,{"time":"10:47","usr":"justmegregory","txt":"dammit $AMZN had some more room seriously more room..","lbl":"Negative"}
+,{"time":"10:48","usr":"coryjwatson","txt":"taking loss on $AMZN puts","lbl":"Positive"}
+,{"time":"12:29","usr":"LDrogen","txt":"@Alex__Salomon @MichaelComeau executed by Bezos at $AMZN to perfection","lbl":"Positive"}
+,{"time":"14:28","usr":"RahulTongia","txt":"$AMZN nice bounce of the low back test. Great work @kiwitrader","lbl":"Positive"}
+,{"time":"14:28","usr":"Lowtown21","txt":"$AMZN looking to close strong","lbl":"Positive"}
+,{"time":"16:17","usr":"andrewnyquist","txt":"@pthegr8trades Thank you . Correction: Today is bar 8 of buy setup 9 for $AMZN. Nearing 3YR trendline again but heavy again. Watch 183-185.","lbl":"Positive"}
+,{"time":"17:17","usr":"biggercapital","txt":"Commented on StockTwits: according to the $AMZN stream, the stock is a short because it prices too low. What was you... http://t.co/9j2ncqFq","lbl":"Negative"}
+,{"time":"18:35","usr":"fadjri","txt":"RT @businessinsider: Samsung Has A Tablet That\u0027s Better Than The Kindle Fire [GALAXY TAB 2 REVIEW] $GOOG $AMZN by @stevekovach http://t.co/GHR5wHMM","lbl":"Negative"}
+]

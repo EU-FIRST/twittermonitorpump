@@ -1,0 +1,4 @@
+[
+{"time":"11:25","usr":"OgFOMK","txt":"@LukeRomyn That is good to know. I am glad to see you using the $AMZN because investors like to know too! @StockTwits","lbl":"Positive"}
+,{"time":"11:25","usr":"optionvoyeur","txt":"Looking at charts, Impressed with $AMZN over the past few weeks. #WOW","lbl":"Positive"}
+]

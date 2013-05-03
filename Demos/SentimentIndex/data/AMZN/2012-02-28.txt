@@ -1,0 +1,5 @@
+[
+{"time":"12:09","usr":"proactivetrader","txt":"$AMZN,182,charts=dog,fundamentals=dog,downgrades=dog, that does not stop index funds & etf buying, because they buy dogs,shorts buy to cover","lbl":"Negative"}
+,{"time":"15:42","usr":"berkutchitweet","txt":"@TraderFlorida $AMZN trendline clearing on 1/17 coincides with elevated volume and the first jump over the 50 this year.","lbl":"Positive"}
+,{"time":"15:42","usr":"OptionRunners","txt":"$AMZN 185x weekly calls now at 1.60 up 18.5% since the alert...going for hod!","lbl":"Positive"}
+]

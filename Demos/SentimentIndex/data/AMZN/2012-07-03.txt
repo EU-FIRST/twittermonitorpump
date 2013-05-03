@@ -1,0 +1,4 @@
+[
+{"time":"2:33","usr":"scalamai","txt":"#Cloud vs Google vs Amazon: if you think things are complicated now, it\u2019s about to get a lot worse: http://t.co/la8r59q3 $GOOG $AMZN","lbl":"Negative"}
+,{"time":"11:10","usr":"SeekingAlpha","txt":"Amazon Ready To Plunge On Margin Squeeze http://t.co/KQbEc54g $AOL $GOOG $AMZN","lbl":"Negative"}
+]

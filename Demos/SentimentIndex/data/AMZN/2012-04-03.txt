@@ -1,0 +1,11 @@
+[
+{"time":"5:40","usr":"TraderMichigan","txt":"For every $AMZN or $AAPL there are many $RIMM s. Look at $PNRA or $PRGO. Nice steady growth. Big money. $$","lbl":"Positive"}
+,{"time":"5:42","usr":"hunteramor","txt":"Generally, i think I like the new amazon re-design $amzn","lbl":"Positive"}
+,{"time":"9:09","usr":"newsagg","txt":"$AMZN breaking heading for prior day high http://t.co/lQk34IYB","lbl":"Positive"}
+,{"time":"10:14","usr":"henrygambell","txt":"$AAPL paving the way for the /NQ $AMZN picking up steam $USO down slightly http://t.co/6hnsDzNL","lbl":"Positive"}
+,{"time":"13:41","usr":"gman_smb","txt":"time to reload $amzn into this 199.5 area. looks mad sketch though","lbl":"Positive"}
+,{"time":"14:47","usr":"Lowtown21","txt":"I cannot understate how important the PS3 $AMZN streaming app is. This is a really big deal. First true challenge to $NFLX streaming.","lbl":"Positive"}
+,{"time":"14:48","usr":"Kelleyis70","txt":"I cannot understate how important the PS3 $AMZN streaming app is. This is a really big deal. First true challe... http://t.co/jjZuBCGY","lbl":"Positive"}
+,{"time":"16:46","usr":"61point8","txt":"$AMZN > was sold against the $202.51 gap from two days ago.","lbl":"Negative"}
+,{"time":"20:48","usr":"TravisHoward5","txt":"I got stopped out of $AMZN April 205 calls today.","lbl":"Negative"}
+]

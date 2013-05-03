@@ -1,0 +1,4 @@
+[
+{"time":"12:22","usr":"TheArmyZeus","txt":"RT @SAI: The Great Tablet War Of 2012 $GOOG $AAPL $AMZN $MSFT by @owenthomas http://t.co/On7dNlR3","lbl":"Negative"}
+,{"time":"19:12","usr":"ChartLearning","txt":"Preparing For The Market\u0027s Next Leg Up http://t.co/LEKti1NF $SPY $SPX $DIA $QQQ $AAPL $NYMO $NYA $AMZN $VIX $ACHN $DHI","lbl":"Positive"}
+]

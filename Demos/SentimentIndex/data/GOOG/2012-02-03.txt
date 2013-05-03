@@ -1,0 +1,14 @@
+[
+{"time":"11:22","usr":"Mark_Lexus","txt":"order in for $GOOG credit put spreads","lbl":"Negative"}
+,{"time":"12:17","usr":"Thevolplay","txt":"Riding $goog, $cvi, & $lulu up. Paralyzed for next trades. Not used to all these up days. Not feeling tyre tides turn yet. Adjusting.","lbl":"Positive"}
+,{"time":"13:09","usr":"ystocks","txt":"there goes $GOOG, pushing thru highs of the day, $600 today? I hope so! :-)","lbl":"Positive"}
+,{"time":"14:17","usr":"DanielLynchJr","txt":"RT @KeithMcCullough \u0022Google looks nasty\u0022 January 27th Google in 570s #timestamp $GOOG","lbl":"Positive"}
+,{"time":"14:18","usr":"houstonloves","txt":"RT @passiveharry: $GOOG has a terrible quarter and runs $30. $AAPL has a blowout and runs not too much. Go figure.","lbl":"Negative"}
+,{"time":"14:56","usr":"drewmethey","txt":"@Alex2111 Once $goog clears 600 it will rocket higher. Momentum and stochastics about to go positive...","lbl":"Positive"}
+,{"time":"15:38","usr":"thinkingtrades","txt":"RT @BlueFielder $GooG... that makes 4 Fridays in a row I made that same trade and won. Short the $CALL s /PIN","lbl":"Positive"}
+,{"time":"15:40","usr":"sradick","txt":"RT @ValaAfshar: The U.S. government has settled on Google\u2019s Android platform for secure phones http://t.co/TtHdbQ2w #IT #CIO $GOOG #Gov20","lbl":"Positive"}
+,{"time":"16:03","usr":"Alatorre","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/cxkJWrPi","lbl":"Positive"}
+,{"time":"16:59","usr":"pedrowm","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/cxkJWrPi","lbl":"Positive"}
+,{"time":"21:00","usr":"the_cudder","txt":"RT @businessinsider: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/hc1diZw1","lbl":"Positive"}
+,{"time":"21:08","usr":"stockpicks64","txt":"$GOOG - Google Stock Analysis - stock gap up, #bull signal - http://t.co/R2dYEGht","lbl":"Positive"}
+]

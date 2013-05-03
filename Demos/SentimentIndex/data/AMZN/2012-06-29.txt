@@ -1,0 +1,4 @@
+[
+{"time":"10:12","usr":"SuzyQJaco","txt":"Took profits on half $AAPL bot yesterday ( calls) holding $AMZN calls still.","lbl":"Positive"}
+,{"time":"13:52","usr":"mayank04","txt":"Going to be riding $AMZN to $230","lbl":"Positive"}
+]

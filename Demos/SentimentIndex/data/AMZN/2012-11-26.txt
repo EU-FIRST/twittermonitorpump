@@ -1,0 +1,17 @@
+[
+{"time":"0:31","usr":"SwatOptions","txt":"\u0022 $AMZN - great action past week and next resistance @ 243.2$ MA50 - it has room to break and enter 250\u0027s area \u0022 http://t.co/XCSIZP1f","lbl":"Positive"}
+,{"time":"9:17","usr":"SKSMediaLDN","txt":"RT @tradefast: $AMZN debt deal - 3 tranches - should price at 50-100bps over treasuries = cheap cost of capital, in the long run...","lbl":"Positive"}
+,{"time":"9:40","usr":"mikewhitmore","txt":"Amazon Is Bribing Its Prime Customers To Slow Their Shipments $AMZN by @owenthomas http://t.co/kNeIsMgZ","lbl":"Negative"}
+,{"time":"10:27","usr":"wilkos","txt":"RT @SAI: Amazon Is Bribing Its Prime Customers To Slow Their Shipments $AMZN by @owenthomas http://t.co/u9Gefoww","lbl":"Negative"}
+,{"time":"10:28","usr":"aztecs99","txt":"$AMZN strong here - we got in that one friday","lbl":"Positive"}
+,{"time":"11:14","usr":"NormCycles","txt":"$AAPL $AMZN $APKT $DDD $EXPE & $FB all strong in declined broader market today...on my list","lbl":"Positive"}
+,{"time":"12:00","usr":"Futures_Addict","txt":"Cyber monday and $AMZN on the lows.","lbl":"Negative"}
+,{"time":"13:02","usr":"AllMoneyinAmeri","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Negative"}
+,{"time":"13:35","usr":"ACInvestorBlog","txt":"$AMZN S&P Affirms Amazon at AA-; Outlook Stable","lbl":"Positive"}
+,{"time":"13:36","usr":"RicardoN2012","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Negative"}
+,{"time":"14:02","usr":"Maxfield_R","txt":"RT @Commodity_Bull: I have no problem with Moody\u0027s rating $AMZN debt at Baa1, but S&P giving it AA-? C\u0027mon mannnnnnnn","lbl":"Negative"}
+,{"time":"14:39","usr":"Corkviews","txt":"$AMZN boom","lbl":"Positive"}
+,{"time":"15:02","usr":"MarkAlanT","txt":"$AMZN took some profits on daily options @244","lbl":"Positive"}
+,{"time":"15:04","usr":"KeithMcCullough","txt":"Amazon $AMZN is my wrong of the day; still bearish TREND; thought it would fail today and didnt","lbl":"Negative"}
+,{"time":"15:29","usr":"PeterMartin_IG","txt":"They don\u0027t call it CyberMonday for nothing. Retailers down in general, but $AMZN +1.4%, $AAPL +3% and $EBAY +5.4%. Ebay says sales up 57%","lbl":"Positive"}
+]

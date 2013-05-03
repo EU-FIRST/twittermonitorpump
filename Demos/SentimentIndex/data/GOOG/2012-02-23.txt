@@ -1,0 +1,11 @@
+[
+{"time":"2:20","usr":"CliffordWolff","txt":"STARTING TO MAKE SENSE; #YOUTUBE CHANNELS, $GOOG FIBER: Google is exploring pay-TV service in Kansas City http://t.co/fOwFzhny","lbl":"Positive"}
+,{"time":"2:36","usr":"takingstock614","txt":"I\u0027m crazy but I\u0027m short $AAPL & $GOOG here. Well defined stops at recent high and 50DMA on $GOOG.","lbl":"Negative"}
+,{"time":"8:15","usr":"terranovajoe","txt":"Here are the positions LONGS $IBM, $HPQ, $MCD, $EMC, $OXY, $SBUX, $TBT, $FXE, $LQD SHORTS $AAPL $GOOG","lbl":"Negative"}
+,{"time":"8:17","usr":"dschorrnyc","txt":"@terranovajoe where will you stop out of your $aapl & $goog shorts?","lbl":"Negative"}
+,{"time":"9:36","usr":"dschorrnyc","txt":"I get the feeling $GOOG will break below $600","lbl":"Negative"}
+,{"time":"11:02","usr":"parthadhia","txt":"Five Apps That Would Get Me To Put On Google\u0027s Weird New Computer Glasses $GOOG by http://t.co/WgUK6atC","lbl":"Positive"}
+,{"time":"11:50","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $GOOG attempting to break pivot level....big test area http://t.co/0NgTbfJj","lbl":"Positive"}
+,{"time":"13:34","usr":"andreasojoeda","txt":"RT @BloombergNews: BREAKING: Google said to pick Dennis Woodside as Motorola Mobility CEO | http://t.co/CNpfDT3d $GOOG","lbl":"Positive"}
+,{"time":"17:25","usr":"hoffmanndaniel","txt":"RT @HolgerSchmidt: No Surprise: Google Music Is A Flop $GOOG by @MattRosoff http://t.co/l9tO8IP8 (via @SAI)","lbl":"Negative"}
+]

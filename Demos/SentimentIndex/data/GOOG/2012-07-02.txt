@@ -1,0 +1,9 @@
+[
+{"time":"9:03","usr":"ADVFNplc","txt":"$GOOG - Internet\u0027s Leading \u0022Stock Alert\u0022 Service Remains 100% Perfect in 2012 http://t.co/dqmj042i","lbl":"Positive"}
+,{"time":"9:03","usr":"DavidTBurke","txt":"RT @businessinsider: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/7JfPvRJR","lbl":"Positive"}
+,{"time":"11:24","usr":"2TradersClub","txt":"$GOOG $585 current short-term resistance and $588 http://t.co/MPIbGuyy","lbl":"Negative"}
+,{"time":"13:36","usr":"medianueva","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"17:19","usr":"m_desmond","txt":"$GOOG contributed $80B to U.S. economy in 2011 -- amazing stats. http://t.co/Wau1TtrM","lbl":"Positive"}
+,{"time":"20:16","usr":"yawexperience","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"20:51","usr":"ChicagoDiane","txt":"Saw these things at $GOOG. Cool! RT @TheIAFM: Driverless Cars Move Closer in California http://t.co/oNweEWrl","lbl":"Positive"}
+]

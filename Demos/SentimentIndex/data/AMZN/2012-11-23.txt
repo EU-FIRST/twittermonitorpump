@@ -1,0 +1,5 @@
+[
+{"time":"13:28","usr":"rakeshlobster","txt":"Either best buy has gotten much better at black Friday line management or amazon is really killing them. $bby $amzn","lbl":"Positive"}
+,{"time":"16:58","usr":"DeFotis","txt":"Update, Barron\u0027s Take: #BlackFriday Online Sales Up 20% Y/Y http://t.co/rLssvM2A $FOSL $TGT $WMT $COH $TIF $AMZN $JWN $AAPL #cybermonday","lbl":"Positive"}
+,{"time":"21:56","usr":"USwwwStocks","txt":"$AMZN News: Great Deals Don\u0027t Stop on Black Friday \u2013 Amazon Offers Huge Savings for Cyber .. http://t.co/K39ITwAP #Amazon #AMZN #Black","lbl":"Positive"}
+]

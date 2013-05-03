@@ -1,0 +1,8 @@
+[
+{"time":"9:20","usr":"Sunny_Sang","txt":"@jimcramer definitely another circuit city, the business model needs to evolve it\u0027s just a show room for $amzn","lbl":"Positive"}
+,{"time":"9:21","usr":"bchi99","txt":"$BBY down the drain..$AMZN takes over the retail space..$AMZN > $WMT","lbl":"Positive"}
+,{"time":"11:13","usr":"randygiusto","txt":"RT @bobegan: What a day. Zuck spends $1Bil, $Appl tops $600B, $Amzn stalks IAP, $SUX mobiles 42mil coffees, $yhoo reorgs and BB CEO is out.#itsnotnoonyet","lbl":"Negative"}
+,{"time":"11:14","usr":"Mark_Lexus","txt":"$AMZN is not buying a brick/mortar store..they just sell too many things","lbl":"Negative"}
+,{"time":"14:21","usr":"retail_sails","txt":"Today\u2019s Value Shopper Heads to Amazon, Not Walmart http://t.co/q2mjffOQ #retail $AMZN $WMT","lbl":"Positive"}
+,{"time":"16:03","usr":"event_trader","txt":"Not saying untrained staff and terrible customer service led to $BBY downfall, but it doesn\u0027t help build customer base when $AMZN is cheaper","lbl":"Positive"}
+]

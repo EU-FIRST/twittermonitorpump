@@ -1,0 +1,8 @@
+[
+{"time":"9:44","usr":"CorporateYoungs","txt":"Bought some $AMZN 255C Sept will be holding over the weekend unless I see some kind of weird sell off at EOD.","lbl":"Positive"}
+,{"time":"10:08","usr":"BuyOnTheDip","txt":"long $EBAY & $AMZN ... i just click \u0022buy now\u0022 on my phone and stuff shows up at my door. #Future #TrustTree","lbl":"Positive"}
+,{"time":"10:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:17am: 248.06 +1.84 (+0.75%).","lbl":"Positive"}
+,{"time":"11:31","usr":"StaceyPerrine","txt":"Love my Fire! \u201C@SAI: Here Is A Sneak Peek At Amazon\u0027s Newest Kindle $AMZN by @officialKLS http://t.co/lLwkaSWy\u201D","lbl":"Positive"}
+,{"time":"11:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:17pm: 247.26 +1.04 (+0.42%).","lbl":"Positive"}
+,{"time":"13:02","usr":"tomliberti","txt":"$AMZN 250 weekly calls are making me think it runs to that strike","lbl":"Positive"}
+]

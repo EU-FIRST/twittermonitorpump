@@ -1,0 +1,14 @@
+[
+{"time":"8:53","usr":"matt_L","txt":"And Here Is Why It Must Be So Cool To Work At The Top Of Apple $AAPL or $GOOG by @nichcarlson http://t.co/OWj7e5jv","lbl":"Positive"}
+,{"time":"9:55","usr":"UdallTechStrat","txt":"RT @NorthmanTrader: $AAPL $GOOG calls working well. This could be a monster day..","lbl":"Positive"}
+,{"time":"9:56","usr":"pthegr8trades","txt":"$GOOG 15min 693.63 for extension higher with trgt 12/3 high. still in a 690/700 call vertical http://t.co/nuR8R3sd","lbl":"Positive"}
+,{"time":"12:25","usr":"dschorrnyc","txt":"Some names I like for 2013: Longs- $HES, $HHC, $SHLD, $ZIOP, $AIG, $BAC, $AAPL, $GOOG, $FB, $CDR, $DDD, $NKE, $CMG, $GDX/J. Short- $CRM","lbl":"Positive"}
+,{"time":"12:26","usr":"StockMarket411","txt":"Nexus 4 stock shortage down to \u2018huge demand\u2019, LG explains $goog http://t.co/VdQuEtXG goog, google, google stock, news","lbl":"Positive"}
+,{"time":"13:38","usr":"steelydude","txt":"Stiil long $GOOG , great action given $AAPL plunge, believe $GOOG FOLLOWS 100dma upward - stk MUST break above 700 to right its 50DMA","lbl":"Positive"}
+,{"time":"14:21","usr":"rruhlen","txt":"RT @SAI: Proof That Android Is Losing The Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/iHQdf8er","lbl":"Negative"}
+,{"time":"14:47","usr":"TechWzrd","txt":"@sdishman2 Your welcome. I would handicap the chance of a $GOOG acquisition pretty low. I don\u0027t think $TIVO would sell for $18.","lbl":"Negative"}
+,{"time":"14:49","usr":"Reviews_R_Us","txt":"RT @SAI: Proof That Android Is Losing The Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/iHQdf8er","lbl":"Negative"}
+,{"time":"15:30","usr":"DigitalbyD","txt":"RT @businessinsider: Proof That Android Is Losing The #Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/U6gFMkpV","lbl":"Negative"}
+,{"time":"16:41","usr":"Zipgenie","txt":"RT @SAI: Proof That Android Is Losing The Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/iHQdf8er","lbl":"Negative"}
+,{"time":"23:26","usr":"JustinPulitzer","txt":"Android 4.2 called \u2018one of the most bug-ridden releases since Honeycomb\u2019 http://t.co/jFP5Wy2x $GOOG $AAPL","lbl":"Negative"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"8:59","usr":"JrseyFightsJosh","txt":"@gtotoy Sorry. Replied instead of quoted. Your $AMZN long. Are you using tight stops? Or letting it breath?","lbl":"Positive"}
+,{"time":"14:34","usr":"retail_sails","txt":"Wal-Mart Beats Amazon Prices, Both Online and In-Store http://t.co/1Nq11LkY $WMT $AMZN #retail","lbl":"Negative"}
+,{"time":"14:35","usr":"stevenpdennis","txt":"RT @retail_sails: Wal-Mart Beats Amazon Prices, Both Online and In-Store http://t.co/1Nq11LkY $WMT $AMZN #retail","lbl":"Negative"}
+,{"time":"15:39","usr":"jdsherry","txt":"RT @SAI: Google To Launch Its Amazon Cloud Killer Next Week $AMZN $GOOG by @Julie188 http://t.co/ZOYnjnMf #cloud @Trendmicro","lbl":"Negative"}
+,{"time":"17:00","usr":"t_manfredi","txt":"RT @SAI: Google To Launch Its Amazon Cloud Killer Next Week $AMZN $GOOG by @Julie188 http://t.co/FxJf75fF","lbl":"Negative"}
+]

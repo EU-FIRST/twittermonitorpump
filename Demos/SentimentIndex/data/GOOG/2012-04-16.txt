@@ -1,0 +1,25 @@
+[
+{"time":"5:21","usr":"infoarbitrage","txt":"Third-class shares http://t.co/XhgpJWuH a blunt critique of $GOOG\u0027s move towards further entrenchment","lbl":"Negative"}
+,{"time":"8:41","usr":"srisri55","txt":"out of those $GOOG puts for nice gain from friday. Bot $AAPL calls. Will see how $AAPL acts today.","lbl":"Positive"}
+,{"time":"8:43","usr":"Superrfly","txt":"Sorry but $GOOG your new layout SUCKS...and google finance never works right! #FLUSHTHATTURD","lbl":"Negative"}
+,{"time":"8:53","usr":"SmartStops","txt":"$GOOG Triggered a SmartStops Risk Alert http://t.co/6rELnatl","lbl":"Positive"}
+,{"time":"8:54","usr":"tototrade","txt":"RT @bespokeinvest: Apple, Google getting smoked. $AAPL $GOOG $$","lbl":"Negative"}
+,{"time":"9:07","usr":"jlaich","txt":"RT @Vconomics: Should have bought weekly puts in $GOOG which are now up 250%. Wasn\u0027t thinking straight without my coffee (off coffee this week).","lbl":"Negative"}
+,{"time":"9:55","usr":"equitiesgroup","txt":"Patent wars continue as Oracle suit over Google Android sets trial http://t.co/9OIKaP7b $GOOG","lbl":"Negative"}
+,{"time":"9:55","usr":"equitiescom","txt":"Patent wars continue as Oracle suit over Google Android sets trial http://t.co/yfZA2uFB $GOOG","lbl":"Negative"}
+,{"time":"9:55","usr":"EquitiesNetwork","txt":"Patent wars continue as Oracle suit over Google Android sets trial http://t.co/5p317ypD $GOOG","lbl":"Negative"}
+,{"time":"10:24","usr":"eimei_c","txt":"\u201C@YahooFinance: Google fined $25,000 for impeding FCC investigation http://t.co/14RSfydg $GOOG\u201D","lbl":"Negative"}
+,{"time":"10:25","usr":"Le_bish","txt":"RT @YahooFinance: Google fined $25,000 for impeding FCC investigation http://t.co/lLFUyPXS $GOOG","lbl":"Negative"}
+,{"time":"10:25","usr":"PlanMaestro","txt":"Why Facebook Terrifies Google Fhttp://www.readwriteweb.com/archives/why_facebook_terrifies_google.php $GOOG $FB","lbl":"Negative"}
+,{"time":"10:26","usr":"kiastora","txt":"RT @bgurley: I know why people don\u0027t like the $GOOG split, but I still say the shareholders should have had no other expectation. http://t.co/jvMWxBpR","lbl":"Negative"}
+,{"time":"11:13","usr":"StkConfidential","txt":"If you\u0027re not shorting $PCLN, $AAPL, $TNH, $GOOG, $CMG, etc. this pullback ahead of earnings will create some nice rebound setups. $STUDY","lbl":"Negative"}
+,{"time":"11:14","usr":"DavidConklin21","txt":"Bought $GOOG at $604 area. Looking for$615. Risk the low of the day $601.","lbl":"Positive"}
+,{"time":"13:58","usr":"DavidConklin21","txt":"Big turn around in the $NASDAQ. Still long $GOOG and just bought $AAPL $600 May calls that I will take into earnings.","lbl":"Positive"}
+,{"time":"13:58","usr":"elvicks","txt":"RT @MarketWatch: Shares of Apple and Google have slipped today, leading a tech sector retreat. $AAPL down about 3%, $GOOG slid 2.6% http://t.co/vpKmM6ZN","lbl":"Negative"}
+,{"time":"14:44","usr":"TraderFlorida","txt":"$PCLN $GOOG $AAPL strong shorts today sweet","lbl":"Negative"}
+,{"time":"15:13","usr":"TrdrFloridaFan","txt":"surprisingly $goog and $aapl looks not so oversold. hmmm....","lbl":"Negative"}
+,{"time":"15:19","usr":"dlwasylyk","txt":"Oh $GOOG, you Judas. Existing share dilution, garbage non-voting \u0022C\u0022 shares? That\u0027s so brazen, I think Facebook is blushing.","lbl":"Negative"}
+,{"time":"15:51","usr":"Zidd0","txt":"RT @SAI: Here Are Some Leaked Details On Google\u0027s New Dropbox Wannabe $GOOG by @stevekovach http://t.co/U197wbnO","lbl":"Negative"}
+,{"time":"16:39","usr":"ea32da32","txt":"RT @TraderFlorida: $GOOG $PCLN $AAPL these market leaders lead the market higher and now are leading the charge down - take the hint","lbl":"Negative"}
+,{"time":"22:15","usr":"tomas_vavra","txt":"RT @SAI: Here Are Some Leaked Details On Google\u0027s New Dropbox Wannabe $GOOG by @stevekovach http://t.co/U197wbnO","lbl":"Negative"}
+]

@@ -1,0 +1,12 @@
+[
+{"time":"6:45","usr":"nmvandy","txt":"RT @SAI: Nevada Approves Road Rules For Google\u0027s Driverless Cars $GOOG by @_dtl http://t.co/VdwfXuxo","lbl":"Positive"}
+,{"time":"6:47","usr":"Qwovadis","txt":"Only$BIDU has crushed $AAPL and $GOOG over time we are staying long http://t.co/DvQ7aql2 http://t.co/qwW6zI8i","lbl":"Positive"}
+,{"time":"8:49","usr":"ZisblU4U","txt":"$GooG finally busted #phishing through $APPL SAFARI BROWSER PLATFORM : http://t.co/QsyOl8RN","lbl":"Negative"}
+,{"time":"10:02","usr":"rudshep","txt":"RT @SAI: Nevada Approves Road Rules For Google\u0027s Driverless Cars $GOOG by @_dtl http://t.co/VdwfXuxo","lbl":"Positive"}
+,{"time":"11:32","usr":"PeterJLilley","txt":"RT @SAI: Nevada Approves Road Rules For Google\u0027s Driverless Cars $GOOG by @_dtl http://t.co/VdwfXuxo","lbl":"Positive"}
+,{"time":"15:11","usr":"parthadhia","txt":"RT @SAI: Google Is Run By Geniuses. So How Could It Be So Stupid? $GOOG by @MattRosoff http://t.co/Lo5uQxdO","lbl":"Positive"}
+,{"time":"15:13","usr":"anneravanona","txt":"RT @SAI: Google Is Run By Geniuses. So How Could It Be So Stupid? $GOOG by @MattRosoff http://t.co/Lo5uQxdO","lbl":"Positive"}
+,{"time":"18:35","usr":"rogerpavane","txt":"RT @SAI: HOW TO: Block Google (And Everybody) From Tracking Which Sites You Visit On Your iPhone $AAPL $GOOG by @MattRosoff http://t.co/bKV7escX","lbl":"Negative"}
+,{"time":"19:40","usr":"SeekingAlpha","txt":"Google: Unlocking The Door For More Android Originality? http://t.co/QuxhY8l6 $AAPL $GOOG $MMI $SSNLF.PK","lbl":"Positive"}
+,{"time":"21:35","usr":"tmjpras","txt":"RT @businessinsider: HOW TO: Block Google (And Everybody) From Tracking Which Sites You Visit On Your iPhone $AAPL $GOOG by @MattRosoff http://t.co/FdBOgPQq","lbl":"Negative"}
+]

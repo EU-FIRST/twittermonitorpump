@@ -1,0 +1,4 @@
+[
+{"time":"8:45","usr":"takingstock614","txt":"$AMZN back above 260 okay.","lbl":"Positive"}
+,{"time":"19:52","usr":"ChristianMRicci","txt":"It looks like Amazon achieved what they set out to accomplish. They figured out how to sell fashion. Bye Endless. $AMZN http://t.co/VUpGnAjL","lbl":"Positive"}
+]

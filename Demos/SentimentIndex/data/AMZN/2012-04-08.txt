@@ -1,0 +1,3 @@
+[
+{"time":"16:33","usr":"babala15","txt":"$AMZN - Amazon Stock Analysis - volume down over 5% - http://t.co/q7dnddtI","lbl":"Negative"}
+]

@@ -1,0 +1,8 @@
+[
+{"time":"6:51","usr":"dschorrnyc","txt":"RT @thenotablecalls: $GOOG - Benchmark cuts tgt to $615, sees initial signs of weakness in U.S. http://t.co/xpvTDvpw","lbl":"Negative"}
+,{"time":"9:35","usr":"USwwwStocks","txt":"$GOOG News: Benchmark cuts Google target http://t.co/8DFtZ8FB #GOOG #Benchmark #Cuts","lbl":"Negative"}
+,{"time":"11:12","usr":"stockguy22","txt":"$GOOG hitting under $575 alert -- didn\u0027t want to see it retrace today.. was hitting well yesterday into 20day sma","lbl":"Negative"}
+,{"time":"11:12","usr":"choffman1978","txt":"FED ENACTS EASING~!! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Positive"}
+,{"time":"12:16","usr":"choffman1978","txt":"MARKETS RALLY ON FED NEWS...! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Positive"}
+,{"time":"19:22","usr":"EllenBraitman","txt":"Too little too late or fighting chance? #Microsoft Debuts Windows 8 Phone Software to Rival $aapl & $goog http://t.co/urdJwSnX","lbl":"Negative"}
+]

@@ -1,0 +1,8 @@
+[
+{"time":"8:51","usr":"thetradingwife","txt":"@SunriseTrader long $AMZN with you - in calls","lbl":"Positive"}
+,{"time":"9:46","usr":"PropTrendTrader","txt":"$AMZN held up well after this big gap","lbl":"Positive"}
+,{"time":"12:13","usr":"big_options","txt":"Frank Sinatra - Fly me to the moon $AMZN","lbl":"Positive"}
+,{"time":"15:26","usr":"RSDTrading","txt":"EOD: Closed: Covered $XLY, Sold $SBUX, New: Short $FXY, Added to $AMZN short, Long $URBN $EWZ, Added to $UTX long","lbl":"Negative"}
+,{"time":"15:27","usr":"akivak","txt":"RT @RoccoPendola: 2 Companies Building Franchises To Buy On Any Short-Term Weakness - Seeking Alpha http://t.co/FzvCNk1H via @seekingalpha $P $AMZN","lbl":"Positive"}
+,{"time":"22:59","usr":"OptionsTrader82","txt":"RT @kindlenews: 10-inch Kindle Fire rumor gains traction - Ubergizmo http://t.co/DhBz7m4N $AMZN","lbl":"Positive"}
+]

@@ -1,0 +1,8 @@
+[
+{"time":"10:09","usr":"KimbleCharting","txt":"$GOOG, $APPL $GE $AMZN GAGA indicator not looking too good today! http://t.co/JMJFtrmZ","lbl":"Negative"}
+,{"time":"10:55","usr":"Corkviews","txt":"@OptionsHawk liking $AMZN $IBM charts","lbl":"Positive"}
+,{"time":"11:50","usr":"Equitykingkong","txt":"$AMZN: long @ 229.55-75 small","lbl":"Positive"}
+,{"time":"13:48","usr":"MomentumPtrsLLC","txt":"$amzn out never made to my target -.05","lbl":"Negative"}
+,{"time":"14:54","usr":"Minyanville","txt":"7 Reasons Why Obama\u0027s Policies Are Great for the Tech Industry $GOOG $FB $EBAY $MSFT $AMZN http://t.co/Sermgy1I","lbl":"Positive"}
+,{"time":"16:10","usr":"crazyfasteddy","txt":"$QCOM beats.. oh no..more good news for $AAPL to go down on.. this news should get $AMZN to PE 3000 2moro","lbl":"Positive"}
+]

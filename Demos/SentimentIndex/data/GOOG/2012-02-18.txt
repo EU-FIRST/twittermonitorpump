@@ -1,0 +1,4 @@
+[
+{"time":"3:05","usr":"luis4lonso","txt":"RT @businessinsider: HOW TO: Block Google (And Everybody) From Tracking Which Sites You Visit On Your iPhone $AAPL $GOOG by @MattRosoff http://t.co/FdBOgPQq","lbl":"Negative"}
+,{"time":"17:06","usr":"thefinancepress","txt":"$GOOG Google\u0027s Schmidt plans to cut stake: Google\u0027s Schmidt plans to cut stake MarketWatch - 4 hours ago By Jo... http://t.co/5WykaLwd","lbl":"Negative"}
+]

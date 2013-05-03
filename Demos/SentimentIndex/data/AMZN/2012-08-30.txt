@@ -1,0 +1,20 @@
+[
+{"time":"8:24","usr":"sspencer_smb","txt":"\u0022@TechCrunch: Amazon Wants Everyone To Know The Kindle Fire Is Sold Out http://t.co/l64WnhKZ by @mjburnsy\u0022 not a good mktg strat $amzn","lbl":"Positive"}
+,{"time":"8:39","usr":"TechBarnold","txt":"RT @CNBC: Amazon opens at all-time high, $248.50, with market cap of $112B. $AMZN reports the Kindle Fire sold out. [QUOTE] http://t.co/ ...","lbl":"Positive"}
+,{"time":"8:39","usr":"neilawinston","txt":"RT @CNBC: Amazon opens at all-time high, $248.50, with market cap of $112B. $AMZN reports the Kindle Fire sold out. [QUOTE] http://t.co/ ...","lbl":"Positive"}
+,{"time":"8:39","usr":"APCommentary","txt":"RT @CNBC: Amazon opens at all-time high, $248.50, with market cap of $112B. $AMZN reports the Kindle Fire sold out. [QUOTE] http://t.co/ ...","lbl":"Positive"}
+,{"time":"8:48","usr":"Eloy_Rc","txt":"current holdings: $AAPL $AMZN $GOOG added today more $AMZN to my original position, now making serious money.. BOOOOOM!","lbl":"Positive"}
+,{"time":"8:57","usr":"businessinsider","txt":"Here\u0027s What Amazon Really Means When It Says The Kindle Fire Is Sold Out $AMZN by @stevekovach http://t.co/bgeqmuip","lbl":"Positive"}
+,{"time":"8:57","usr":"SAI_Tools","txt":"Here\u0027s What Amazon Really Means When It Says The Kindle Fire Is Sold Out $AMZN by @stevekovach http://t.co/71OvrheL","lbl":"Positive"}
+,{"time":"9:07","usr":"official_rasyid","txt":"Amazon opens at all-time high, $248.50, with market cap of $112B. $AMZN reports the Kindle Fire sold out. [QUOTE]... http://t.co/6c5vBFGA","lbl":"Positive"}
+,{"time":"9:08","usr":"official_rasyid","txt":"Amazon opens at all-time high, $248.50, with market cap of $112B. $AMZN reports the Kindle Fire sold out. [QUOTE]... http://t.co/iuHYsA8q","lbl":"Positive"}
+,{"time":"9:20","usr":"PeterRaymond7","txt":"RT @YahooFinance: Amazon says Kindle Fire has 22 percent of U.S. market, is sold out http://t.co/FNIvRcKG $AMZN","lbl":"Positive"}
+,{"time":"9:38","usr":"monesti","txt":"Also Long $amzn Sept 245 C @ 8.20,,,Im done for the day,","lbl":"Positive"}
+,{"time":"10:57","usr":"adamsarhan","txt":"Bullish news for $AMZN: Amazon Says Kindle Fire Is Sold Out @Reuters http://t.co/HivQMf8X @cnbc @wsj","lbl":"Positive"}
+,{"time":"11:24","usr":"newsagg","txt":"$AMZN all you need to know is double top, completed butterfly and deadly trending NVI http://t.co/pozgKTIo","lbl":"Positive"}
+,{"time":"11:26","usr":"cordial","txt":"$AMZN looking good for a bearish outside reversal on the daily chart.","lbl":"Negative"}
+,{"time":"12:19","usr":"1800Stocks","txt":"RT @CNNMoney: $AMZN is expected to unveil a new Kindle line next week. Ahead of it, the old #KindleFire has sold out. http://t.co/LTAvVZka","lbl":"Positive"}
+,{"time":"14:30","usr":"NedKnowles","txt":"RT @SAI: LEAKED: Here\u0027s Amazon\u0027s New Kindle Fire $AMZN by @jyarow http://t.co/C4u94Aeo","lbl":"Positive"}
+,{"time":"17:59","usr":"biggercapital","txt":"Bought: \u0027Asus $GOOG Nexus 7 Tablet (8 GB) for $175 on $AMZN New for INV research. Will buy all AMZN tablets, AMZN makes money in all ways","lbl":"Positive"}
+,{"time":"23:12","usr":"Intel_Risk","txt":"@Intel_Risk $amzn sold out of kindle fire. Next quarters earning report will be interesting. But is its 280+ p/e justified?","lbl":"Positive"}
+]

@@ -1,0 +1,20 @@
+[
+{"time":"7:47","usr":"herbgreenberg","txt":"RT @KidDynamiteBlog: Commented on StockTwits: this is $MSFT\u0027s salvo in the war against $AMZN and $AAPL... wither: $GOOG? http://t.co/Ph3sgxxY","lbl":"Negative"}
+,{"time":"7:48","usr":"threadyblock","txt":"RT @ReformedBroker: $AMZN has almost doubled employee headcount in the last year 65,600 people, up from 37,900. Massing for war, yo.","lbl":"Positive"}
+,{"time":"8:38","usr":"TraderNewburgh","txt":"$AMZN poised to break higher","lbl":"Positive"}
+,{"time":"8:39","usr":"optioncommander","txt":"stalking $AMZN weekly $210 puts -7.84%, .45 x .48: http://t.co/DzzkhD5t, waiting for confirmation, will sell w/ a 15% loss","lbl":"Negative"}
+,{"time":"9:27","usr":"DPolitical","txt":"$AMZN - Oppenheimer Boosts Price Target on http://t.co/ef3LTYR9 #AMZN http://t.co/p75NZaw3","lbl":"Positive"}
+,{"time":"10:24","usr":"MNYCx","txt":"$AMZN 230\u0027s calling","lbl":"Positive"}
+,{"time":"10:24","usr":"61point8","txt":"$AMZN > I suspect some resistance will be encountered between 231 and 232, the area that was sold into in pre-market on Friday.","lbl":"Negative"}
+,{"time":"10:52","usr":"MNYCx","txt":"$AMZN 232\u0027s nice break out","lbl":"Positive"}
+,{"time":"10:52","usr":"ACE52weekhigh","txt":"$AMZN on a tear...scalp in effect","lbl":"Negative"}
+,{"time":"10:53","usr":"ryanjhodges","txt":"$AMZN just delist it.","lbl":"Negative"}
+,{"time":"11:13","usr":"StkConfidential","txt":"$AMZN following through on last week\u0027s strong earnings. $$","lbl":"Negative"}
+,{"time":"11:16","usr":"stockguy22","txt":"$AAPL cult been good to me for a while now .. but this $AMZN cult & the state taxes problems keeping me on sidelines for now @CapCube","lbl":"Negative"}
+,{"time":"11:18","usr":"CapCube","txt":"@stockguy22 $AAPL at least makes sense. Great earnings, cash flow, cash. They will make $50 +, $AMZN if lucky will earn $1-1.50 full year.","lbl":"Negative"}
+,{"time":"11:46","usr":"thinkingtrades","txt":"RT @sspencer_smb let the pain begin. $amzn. long. - u have any short term target? Think at least 240 before any rest","lbl":"Positive"}
+,{"time":"11:48","usr":"Equitykingkong","txt":"$AMZN: starting to sell short here @ 233.80 and up for a trade","lbl":"Negative"}
+,{"time":"19:47","usr":"MsAbulhawa","txt":"RT @themotleyfool: Who had better earnings -- Apple or Amazon? http://t.co/8exiYUKg $AAPL $AMZN","lbl":"Positive"}
+,{"time":"22:58","usr":"stock_pandit","txt":"Top 10 Stocks With Strong Balance Sheet http://t.co/y20AUW8V $ACTG $CALX $CPIX $DUSA $EXTR $FSII $GLF $PDFS $SNTS $VELT $BAC $JBLU $AMZN","lbl":"Positive"}
+,{"time":"23:05","usr":"likestocks13","txt":"$AMZN - Amazon Stock Analysis - volume up over 5% - http://t.co/nb4WxrNb","lbl":"Positive"}
+]

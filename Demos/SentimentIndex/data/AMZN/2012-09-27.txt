@@ -1,0 +1,6 @@
+[
+{"time":"8:28","usr":"tlmontana","txt":"RT @techinsidr: Netflix CEO Slams Amazon Prime Video: \u0027A confusing mess\u0027 http://t.co/3Vr48PoI via @CNET $AMZN $NFLX","lbl":"Negative"}
+,{"time":"9:01","usr":"BasinStRecords","txt":"11/3/08 A saved $20K buys $AMZN. B has $20K buys new car. Today: A has $120K $AMZN. B has 4 yr old car worth $10K...","lbl":"Positive"}
+,{"time":"9:02","usr":"CAMAR024","txt":"in $AMZN 255 calls this week. lotto play for tomorrow grabbing early . flag on the 15min","lbl":"Positive"}
+,{"time":"9:17","usr":"takingstock614","txt":"$AMZN really pushing now. 10min chart had really nice flag.","lbl":"Positive"}
+]

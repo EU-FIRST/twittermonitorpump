@@ -1,0 +1,5 @@
+[
+{"time":"3:34","usr":"USwwwStocks","txt":"$AMZN News: Amazon\u0027s Smartphone Faces Uphill Battle Versus Apple iPadAmazon\u0027s ... http://t.co/tlm04ae9 #AMZN #Amazonamp39s #Apple","lbl":"Negative"}
+,{"time":"12:02","usr":"tjin2k","txt":"My opinion for the market next week: $AAPL higher $GOOG higher $AMZN breakout higher #S&PFutes higher to1380 #EURO finding a base somewhere","lbl":"Positive"}
+,{"time":"18:26","usr":"danshep55","txt":"$amzn back testing to support 222-223 area","lbl":"Negative"}
+]

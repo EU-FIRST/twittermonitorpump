@@ -1,0 +1,4 @@
+[
+{"time":"9:32","usr":"dschorrnyc","txt":"Throwing out a small $GOOG short here.","lbl":"Negative"}
+,{"time":"12:00","usr":"NiemannCapital","txt":"Google+ can\u0027t gain traction, despite tireless efforts $GOOG http://t.co/KRvQtBCt via @minyanville #tech #socialmedia","lbl":"Negative"}
+]

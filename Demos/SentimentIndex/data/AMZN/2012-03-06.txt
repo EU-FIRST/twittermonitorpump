@@ -1,0 +1,19 @@
+[
+{"time":"9:56","usr":"Leaf_West","txt":"$AMZN ... stop now at $180 to lock in winning trade on last piece","lbl":"Positive"}
+,{"time":"9:56","usr":"toddstrade","txt":"$AMZN will be sure to squeeze out every last short before going lower","lbl":"Positive"}
+,{"time":"9:56","usr":"Chaoticonomist","txt":"RT @ReformedBroker: While you were sleeping, $AMZN took one third of the tablet market in 3 months. Kindle is 30% of tablet web traffic in Feb, from 4% in Nov","lbl":"Positive"}
+,{"time":"10:36","usr":"leopardtrader","txt":"Intraday long $AMZN 180ish still swing short $AAPL to 460$ area","lbl":"Positive"}
+,{"time":"10:38","usr":"CreateCapital","txt":"Jeez. I recommended buying $AMZN yesterday. a happy accident?","lbl":"Positive"}
+,{"time":"10:54","usr":"ShortStockPicks","txt":"#StockMarket #SP500 #Pops: $MWW 10.0%, $SVU 3.0%, $AMZN 1.3%, $ABC .5%, $RAI .5%, $KSS .5% @ShortStockPicks watches #CNBC","lbl":"Positive"}
+,{"time":"10:57","usr":"MichaelComeau","txt":"$AMZN strength is baffling","lbl":"Positive"}
+,{"time":"10:57","usr":"BobPisani","txt":"Consumer stocks higher despite drops across the board. $JCP $AMZN $KFT $CL all up #Markets #CNBC","lbl":"Positive"}
+,{"time":"11:23","usr":"ShortStockPicks","txt":"#StockMarket #NASDAQ100 #Pops: $AMZN 1.3%, $ATVI .5%, $MCHP .2%, $XLNX .2%, $ORLY .1%, $SPLS .1% @ShortStockPicks watches #CNBC","lbl":"Positive"}
+,{"time":"11:59","usr":"Leaf_West","txt":"$AMZN ... added to scalp at $181.25 ... stop still $180.75 on whole position","lbl":"Positive"}
+,{"time":"12:00","usr":"TheSteve0","txt":"RT @joemccann: Amazon Kindle Fire traffic increases 825% from 4% of tablet traffic to 33% traffic in past 3 months. Wow. $AMZN http://t.co/AcPxmwAM","lbl":"Positive"}
+,{"time":"12:32","usr":"cperruna","txt":"Just checked in at lunch - everything I own or am watching is RED, except $AMZN - even this is trending lower from high - back to work","lbl":"Negative"}
+,{"time":"13:16","usr":"BreezeTrading","txt":"One thinks $AMZN is outperforming the $SPY today. #NOTSURE","lbl":"Positive"}
+,{"time":"14:12","usr":"trader_paradise","txt":"$NFLX and $AMZN puts paying","lbl":"Negative"}
+,{"time":"17:21","usr":"randy_cass","txt":"Amazon vs. Apple. Shaffer: \u0022Competing in e-reader market\u0022 Is $AAPL\u0027s good news bad for $AMZN & vice versa? @BNN_TV #marketsense","lbl":"Negative"}
+,{"time":"17:21","usr":"randy_cass","txt":"Shaffer \u0022There\u0027s room for good news for both $AAPL and $AMZN\u0022 @BNN_TV #marketsense","lbl":"Negative"}
+,{"time":"18:14","usr":"NMULaxin","txt":"@jimcramer CRAMERICA! $AMZN is AMZ\u0027in! 1-2 year growth own!? Increasing international infrastructure","lbl":"Positive"}
+]

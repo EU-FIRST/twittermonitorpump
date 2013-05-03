@@ -1,0 +1,4 @@
+[
+{"time":"9:38","usr":"rjsanchez01","txt":"RT @Fitzstock2004: I can post a million charts today (\u0022charts while u sleep\u0022), but then they loose their relevancy ....stick with $goog $aapl $amzn $xlk ....GL","lbl":"Positive"}
+,{"time":"11:40","usr":"Williamj54","txt":"Names within/below buy points to consider this wk: $AAPL, $FRAN, $TFM, $TDC, $KORS, $GOOG, $AMZN, $EQIX","lbl":"Positive"}
+]

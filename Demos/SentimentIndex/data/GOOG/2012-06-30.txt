@@ -1,0 +1,10 @@
+[
+{"time":"2:13","usr":"vperrin","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"3:04","usr":"Jameslfc19","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"3:05","usr":"thefinancepress","txt":"$GOOG Apple scores second courtroom win vs Samsung: Apple scores second courtroom win vs Samsung CNB... http://t.co/vIH8V4kb","lbl":"Negative"}
+,{"time":"4:40","usr":"ralfvdz","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"7:39","usr":"Troller04","txt":"$goog kicker","lbl":"Positive"}
+,{"time":"9:18","usr":"pennystockguys","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/Z8VA0KhE","lbl":"Positive"}
+,{"time":"10:49","usr":"arjunsethi","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"13:17","usr":"RainerGrossmann","txt":"#Google vs everyone: an epic war on many fronts http://t.co/J4shrFoW http://t.co/hARUbzue via @geoffmanne #antitrust $GOOG","lbl":"Negative"}
+]

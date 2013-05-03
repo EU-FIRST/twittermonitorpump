@@ -1,0 +1,12 @@
+[
+{"time":"0:54","usr":"keithbrumbaugh","txt":"If you invest in the $FB IPO and not $AAPL, $EQIX, $GOOG or $VMW, then like the lottery, it\u0027s just a tax on your bad math.","lbl":"Positive"}
+,{"time":"9:33","usr":"Goodlett","txt":"As @FCC continues probe of $GOOG, findings show #StreetView team purposefully programmed data collection from ur WiFi http://t.co/b6WyKXTw","lbl":"Negative"}
+,{"time":"11:14","usr":"PeteFleck","txt":"RT @ericjackson: New Post: Here\u0027s Why Google and Facebook Might Completely Disappear in the Next 5 Years - Forbes http://t.co/MHxnJlHT $GOOG $FB $AAPL $YHOO","lbl":"Negative"}
+,{"time":"13:25","usr":"Tradified","txt":"\u2663 Insider Trading: $GOOG Page Lawrence Director SOLD 75000 shares \u2611","lbl":"Negative"}
+,{"time":"13:25","usr":"StockAction","txt":"RT @PeakTheories: Agreed on $GOOG & blw 570 cld=470 http://t.co/4qbaSGqw RT @traderblast GOOG -a close below $604-is real trouble for this stock. #stockaction","lbl":"Negative"}
+,{"time":"14:41","usr":"falishamamdani","txt":"\u201C@bespokeinvest: Apple and Google in a battle to see who can get to $500 first. $AAPL $GOOG $$\u201D @Barrons","lbl":"Positive"}
+,{"time":"14:42","usr":"stocial","txt":"Farzana M. is long $GOOG at 602.00. google is looking good http://t.co/8Kn90iNK","lbl":"Positive"}
+,{"time":"16:22","usr":"AdvancedTrading","txt":"RT @barronsonline: Video: Why Apple and Google deserve to be in the Dow Jones Industrial Average http://t.co/R4l8udzv $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:59","usr":"ABtrader","txt":"JAVA founder:\u0022The $GOOG thing is really a pain. Theyre immune to copyright laws,good citizenship,they dont share. They dont even call back.\u0022","lbl":"Negative"}
+,{"time":"18:00","usr":"ABtrader","txt":"Finally someone ripping on $GOOG. Yes im not a fan. http://t.co/od1HfHKi","lbl":"Negative"}
+]

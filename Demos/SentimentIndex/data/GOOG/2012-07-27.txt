@@ -1,0 +1,20 @@
+[
+{"time":"8:42","usr":"paulwoll","txt":"$GOOG Jul 27 \u002712 $620 Put w at 2.90.. willing to lose $90","lbl":"Negative"}
+,{"time":"9:13","usr":"SPEQL8R","txt":"mo mo twitter traders finally glommed on $BIDU $GOOG; I been bullish GOOG since 558, mentioned it several times support levels. BIDU 3 days","lbl":"Positive"}
+,{"time":"9:58","usr":"44andrew","txt":"selling some $goog out ahead of 625 just to book some for the weekend","lbl":"Negative"}
+,{"time":"10:13","usr":"TraderFlorida","txt":"$GOOG clearing this next resistance / buy area today (nibbled a few long) http://t.co/0j9sx3Ia","lbl":"Positive"}
+,{"time":"10:53","usr":"stkonlinetrader","txt":"$GOOG is my shining star, $625+","lbl":"Positive"}
+,{"time":"11:14","usr":"SteveCaru","txt":"$goog breakout possible here. Long at $625. Stop loss right below 624. Full position.","lbl":"Positive"}
+,{"time":"11:40","usr":"thefinancepress","txt":"$GOOG Google Failure Over Street View Data May Breach UK Accord: Google Failure Over Street View Data May Breac... http://t.co/DxC3Os0t","lbl":"Negative"}
+,{"time":"12:23","usr":"alexanderywang","txt":"RT @businessinsider: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/kg76oTG4","lbl":"Negative"}
+,{"time":"12:24","usr":"tkuz4u","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"12:44","usr":"JimmyGreeves","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/HjK4TJLy","lbl":"Negative"}
+,{"time":"13:38","usr":"PGK87","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"14:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 185 shares \u2611","lbl":"Negative"}
+,{"time":"14:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 29 shares \u2611","lbl":"Negative"}
+,{"time":"14:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Page Lawrence Director BOUGHT 150000 shares \u2611","lbl":"Positive"}
+,{"time":"15:29","usr":"mikebuechele","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"16:22","usr":"AJZell23","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"17:45","usr":"_Safeer007","txt":"\u0022@herbgreenberg: For the record: @credittrends (Ken Hackel) was on @cnbc awhile ago saying that $GOOG would be a better bet than $FB.\u0022","lbl":"Positive"}
+,{"time":"20:55","usr":"shyamdhulkhed","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+]

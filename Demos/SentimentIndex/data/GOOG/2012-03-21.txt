@@ -1,0 +1,21 @@
+[
+{"time":"0:04","usr":"wisetraders8","txt":"$GOOG - Google Stock Analysis - 22day ema moving up - http://t.co/O27SjWXT","lbl":"Positive"}
+,{"time":"8:52","usr":"ppearlman","txt":"@ronellman long term chart looks massively bullish to me $GOOG","lbl":"Positive"}
+,{"time":"10:05","usr":"andrewnyquist","txt":"Follow up on $GOOG chart from this weekend -- Still holding above fibonacci level 61.8: http://t.co/wvgklGHE Watch this level","lbl":"Positive"}
+,{"time":"11:04","usr":"aztecs99","txt":"$GOOG very strong","lbl":"Positive"}
+,{"time":"11:04","usr":"rcastle06","txt":"RT @SAI: Here\u0027s The #1 Complaint About Google TV $GOOG by @MattRosoff http://t.co/urdbUobQ","lbl":"Negative"}
+,{"time":"11:04","usr":"61point8","txt":"$GOOG > Exited at $639.","lbl":"Negative"}
+,{"time":"11:31","usr":"tjtakes","txt":"move stops up in $goog to $635 and 640","lbl":"Positive"}
+,{"time":"11:31","usr":"DrDuru","txt":"$GOOG has finally filled its post-earnings gap down. Looking for more...","lbl":"Positive"}
+,{"time":"12:05","usr":"racernic","txt":"is $GOOG the new $AAPL? nah... goog never darling of traders 4some reason & only 1.4days to cover shorts. good run 2day tho.","lbl":"Positive"}
+,{"time":"12:09","usr":"tjtakes","txt":"out of $goog $645","lbl":"Negative"}
+,{"time":"12:10","usr":"howardlindzon","txt":"seems like market loves the idea of a $GOOG dividend....why should they eat for free is the reason I am hearing","lbl":"Positive"}
+,{"time":"13:09","usr":"berkutchitweet","txt":"Wanted to add to my $GOOG pos. at 640 but I missed it. If vol doesn\u0027t clear 3M I may get another chance a few days from now. We\u0027ll see.","lbl":"Positive"}
+,{"time":"13:11","usr":"Afthought","txt":"Hmm. Why is $AAPL Safari at < 8%? @CNET Chrome was the most popular browser in the world on Sunday http://t.co/ewXQ0cNC #tech #MSFT $GOOG $$","lbl":"Positive"}
+,{"time":"13:49","usr":"SJosephBurns","txt":"I am just got long $GOOG with in the money call options.","lbl":"Positive"}
+,{"time":"14:20","usr":"berkutchitweet","txt":"$GOOG http://t.co/cLdjpu9Z Resolving wedge/descending trendline long term.","lbl":"Positive"}
+,{"time":"16:28","usr":"zabackj","txt":"RT @tsgiles: SCOOP Google rethinks Wallet strategy after slow start, excecutive exits http://t.co/SpGBmgo7 Bloomberg\u0027s @olgakharif has the story $GOOG","lbl":"Negative"}
+,{"time":"16:28","usr":"sotek","txt":"RT @ukarlewitz: $GOOG Chrome this week became the number one browser, knocking off $MSFT IE after its decade of dominance.","lbl":"Positive"}
+,{"time":"16:28","usr":"juanmacastellan","txt":"RT @SAI: Google Wallet Is A Bust, So Google Will Try To Throw Money At Carriers To Get Them To Use It $GOOG by @Julie188 http://t.co/QBF6r756","lbl":"Negative"}
+,{"time":"17:52","usr":"ETF_analyst","txt":"Wow. Newsworthy stuff. RT @ppearlman $GOOG Chrome this week became the #1 browser, knocking off $MSFT IE after its decade of dominance.\u201D","lbl":"Positive"}
+]

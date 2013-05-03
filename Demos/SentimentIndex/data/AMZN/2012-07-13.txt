@@ -1,0 +1,8 @@
+[
+{"time":"7:58","usr":"RoccoPendola","txt":"Jeff Bezos, Amazon a Half-Step Above \u0027Idiot?\u0027 - TheStreet http://t.co/IQ54SrLo via @TheStreet $AMZN","lbl":"Negative"}
+,{"time":"10:21","usr":"kem312","txt":"The minute a CEO takes what an analyst thinks about what business they should be in is the exact moment I hit the sell button. $AMZN","lbl":"Negative"}
+,{"time":"11:57","usr":"ECONgeek947","txt":"@jxf101 thats exactly Y $AMZN HULU & other competitors havent achieved scale. $NFLX 26m subs 2 prove demand for JUST streaming model","lbl":"Negative"}
+,{"time":"14:57","usr":"FairOaksTrader","txt":"Short $AMZN and the Dow $DXD, long $GLD going into Monday. Light positions on all 3.","lbl":"Negative"}
+,{"time":"15:00","usr":"LinkedInToday","txt":"An Amazon phone is smart business even if it loses money http://t.co/FtOkz9ua on @BW $AMZN","lbl":"Positive"}
+,{"time":"17:27","usr":"Day1Solutions","txt":"RT @atul: Amazon same-day delivery: How the e-commerce giant will destroy local retail. - Slate Magazine $AMZN http://t.co/oIm6hWEg","lbl":"Positive"}
+]

@@ -1,0 +1,5 @@
+[
+{"time":"14:42","usr":"Borgiziz","txt":"I stopped out of $GOOG yesterday @ 617.25. Will sell $FB Monday if Market does what it needs to do in order for the Fed to be able to do 0.","lbl":"Negative"}
+,{"time":"21:24","usr":"DMacBoston","txt":"Learning about these candlestick patterns, $GOOG nice example of the dark cloud cover pattern here Wed & Thurs http://t.co/5YGSVt7o #WORDEN","lbl":"Negative"}
+,{"time":"21:35","usr":"USwwwStocks","txt":"$GOOG News: Iran\u0027s Foreign Ministry Threatens To Sue Google (NASDAQ:GOOG) (GOOG, PCLN, MA http://t.co/4hXEsHlF #GOOG #PCLN #Foreign","lbl":"Negative"}
+]

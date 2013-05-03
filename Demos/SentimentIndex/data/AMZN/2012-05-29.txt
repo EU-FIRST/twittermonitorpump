@@ -1,0 +1,8 @@
+[
+{"time":"9:10","usr":"cardinalrose","txt":"$EBAY + $AMZN are only 3.4% of US Adj. Retail Sales ... talk about an enormous market! #morganstanley #greatstat","lbl":"Positive"}
+,{"time":"9:13","usr":"BlueFielder","txt":"$AMZn in wkly 215 $CALLs @ avg 3.25 ish","lbl":"Positive"}
+,{"time":"10:10","usr":"dhakkan_d","txt":"I am still short $AMZN .. bought june 210 puts","lbl":"Negative"}
+,{"time":"13:13","usr":"MeetyPie","txt":"Plus, $AMZN overstates its catalog: http://t.co/vAYe4rlD","lbl":"Negative"}
+,{"time":"14:07","usr":"alamarashi","txt":"RT @KeithMcCullough: That\u0027s why I am net long, buying the bigger US Consumption names on red $SBUX $AAPL $AMZN","lbl":"Positive"}
+,{"time":"16:48","usr":"stephenmedawar","txt":"@davemcclure @dhh @cdixon I know it\u0027s different models, but what\u0027s crazier? $AMZN ($96.75B valuation, 173 P/E) or $FB ($80B val, 92 P/E)","lbl":"Negative"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"8:50","usr":"nakedtradercom","txt":"RT @newsagg: In and out of $AMZN flat, very choppy today but I maintain long term is bearish","lbl":"Negative"}
+,{"time":"11:41","usr":"Sermario","txt":"$AMZN very weak on daily\u2026breaks out sideways, you\u0027ll see it at 190","lbl":"Negative"}
+,{"time":"12:18","usr":"rgrunbaum","txt":"RT @bbisbee: $AMZN meeting called to close. Chanters taking over. Cops removing people. Shouters continue. Now it is over. People filing out","lbl":"Negative"}
+,{"time":"13:04","usr":"gregnb","txt":"@TweetLeni in short $AMZN from yest. see you\u0027re in it too? lets fill that #gapdisease","lbl":"Negative"}
+,{"time":"15:43","usr":"texas1214","txt":"In 2012, I spent close to $3K with @Amazon. No longer. I\u0027ll find competitor who supports #ALEC. Shorting $AMZN as well. #IStandWithALEC","lbl":"Negative"}
+]

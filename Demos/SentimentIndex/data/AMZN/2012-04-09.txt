@@ -1,0 +1,5 @@
+[
+{"time":"7:07","usr":"wallstCS","txt":"Here\u0027s Why Google Delayed the Launch of Its New Tablet http://t.co/FqwDc0yw $GOOG $AMZN $NVDA $AAPL #tech #android","lbl":"Positive"}
+,{"time":"9:45","usr":"rechtsteiner","txt":"$AMZN is really good and really bad. Keep your enemies close and Amazon closer (when you can). #tocchicago","lbl":"Positive"}
+,{"time":"12:26","usr":"prostocktrader","txt":"Buyiing small $AMZN (193.05) with a 192.00 stop.","lbl":"Positive"}
+]

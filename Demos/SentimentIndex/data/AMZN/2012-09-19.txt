@@ -1,0 +1,11 @@
+[
+{"time":"7:48","usr":"jimcramer","txt":"RT @john_j_gill: @jimcramer @roccopendola $AMZN is a great company, but P/E is very high. Is stock over-priced? @roccopendola is on fire","lbl":"Negative"}
+,{"time":"7:50","usr":"karan_karnani","txt":"RT @jimcramer: RT @john_j_gill: @jimcramer @roccopendola $AMZN is a great company, but P/E is very high. Is stock over-priced? @roccope ...","lbl":"Positive"}
+,{"time":"8:57","usr":"RobertWeinstein","txt":"Shorting $AMZN at $260.52 and higher fade $1.50 profit target of ave","lbl":"Negative"}
+,{"time":"8:57","usr":"nolte88","txt":"Trying another $AMZN long this morning with longer leash. Broke a descending trend line on the 15 minute chart I was eyeballing.","lbl":"Positive"}
+,{"time":"8:58","usr":"kenjotto","txt":"sold weekly $AMZN 265 calls against longs at .62","lbl":"Negative"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $F +27%, $FDX +13%, $AAPL +4%, $BAC -10%, $AMZN +1%, $MSFT +1% http://t.co/uBJyhJcD","lbl":"Positive"}
+,{"time":"12:20","usr":"newsagg","txt":"$AAPL not keeping pace with $GOOG and $AMZN and possibly holding the market back. AAPL is the new SPX","lbl":"Positive"}
+,{"time":"12:21","usr":"NorthmanTrader","txt":"@todd_harrison @Minyanville no doubt the continued strength in $GOOG $AAPL $AMZN & $IBM has been nothing short of stunning! Pullback ever?","lbl":"Positive"}
+,{"time":"19:32","usr":"MrAndres72","txt":"@RedDogT3Live $AMZN P/E is scares me","lbl":"Negative"}
+]

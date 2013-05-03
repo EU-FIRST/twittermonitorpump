@@ -1,0 +1,16 @@
+[
+{"time":"8:32","usr":"Vivianlius","txt":"$AMZN - Amazon Stock Analysis - CCI is bullish and rising - http://t.co/MercbiWX","lbl":"Positive"}
+,{"time":"9:00","usr":"HeadInvestfool","txt":"Trade: CALENDAR on $AMZN: -5 MAY12 215 / 5 JUL12 215 CALLS 3.35 http://t.co/Qo52UxM5","lbl":"Positive"}
+,{"time":"9:31","usr":"MNYCx","txt":"$AMZN #FLUSHTHATTURD lol @geckler","lbl":"Negative"}
+,{"time":"9:31","usr":"finametrics","txt":"$AMZN puts 1.3","lbl":"Negative"}
+,{"time":"9:31","usr":"nxtmillionair40","txt":"there goes $AMZN dropping like a rock down now, 200 is the price to watch for a bounce","lbl":"Negative"}
+,{"time":"10:03","usr":"coryjwatson","txt":"$AAPL setting up as a short now, stalking, still in $PCLN and $AMZN puts","lbl":"Negative"}
+,{"time":"10:05","usr":"medstudentrader","txt":"$amzn wants lower...","lbl":"Negative"}
+,{"time":"11:50","usr":"takingstock614","txt":"One could go long $AMZN here playing bounce off 200dma with a tight stop there too.","lbl":"Positive"}
+,{"time":"11:50","usr":"mitchelltsai","txt":"long $AMZN 201.05 #MyStock http://t.co/owVhfiH9","lbl":"Positive"}
+,{"time":"11:52","usr":"takingstock614","txt":"@RedDogT3Live @grassosteve @mikedalman $AMZN has actually broken through its 200dma right. Im seeing it around 203.40.","lbl":"Negative"}
+,{"time":"13:13","usr":"KyleG2012","txt":"@RedDogT3Live Scott would u still short $AMZN at this spot? Or would I be chasing the short?","lbl":"Negative"}
+,{"time":"13:14","usr":"CashRocket","txt":"out $AMZN call -60c no good","lbl":"Negative"}
+,{"time":"19:10","usr":"SwatOptions","txt":"$AMZN - we got PUT 200 at open and made 162% Profits so far - more to come, imo - Stay tuned - http://t.co/I2JU4MQv","lbl":"Negative"}
+,{"time":"21:47","usr":"FreeMLSUS","txt":"$AMZN Great Buy Today","lbl":"Positive"}
+]

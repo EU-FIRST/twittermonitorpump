@@ -1,0 +1,14 @@
+[
+{"time":"8:42","usr":"wallstCS","txt":"Google+ Has a Few More Tricks Up Its Sleeve http://t.co/zYIJgSow $GOOG $AAPL #mkt #trading","lbl":"Positive"}
+,{"time":"9:56","usr":"hardeepsidhu28","txt":"RT @businessinsider: Here\u0027s Why Yahoo Suing Facebook Is Nothing Like When Yahoo Sued Google $YHOO $GOOG by @jyarow http://t.co/LqWv5Nt0","lbl":"Negative"}
+,{"time":"10:30","usr":"wavestock","txt":"$GOOG Signs Ex-DARPA Chief : http://t.co/pHx1J1Zq","lbl":"Positive"}
+,{"time":"11:12","usr":"thetradingwife","txt":"$GOOG flagging intra day","lbl":"Negative"}
+,{"time":"12:10","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Big Developer Scrapping Android Due To Fragmentation $GOOG by @hleonard76 http://t.co/OUOf2vYa","lbl":"Negative"}
+,{"time":"13:21","usr":"TheAcsMan","txt":"\u0022Zombie Bystander\u0022 or #BuyAndHold? Drugs & wine may not mix, but I\u0027m liking the trickle down. $SBUX $GOOG http://t.co/FYO5Z7B9 #stockaction","lbl":"Positive"}
+,{"time":"13:23","usr":"berkutchitweet","txt":"Hang in there $GOOG, I believe in you.","lbl":"Positive"}
+,{"time":"14:35","usr":"Lowtown21","txt":"$GOOG bouncing back nicely today","lbl":"Positive"}
+,{"time":"14:36","usr":"thefinancepress","txt":"$GOOG Apple Said to Be Subpoenaed by US Regulators on Google\u0027s Mobile Search: Apple Said to Be Subpoenaed by US... http://t.co/5w5qjVAo","lbl":"Negative"}
+,{"time":"14:38","usr":"NoDoji","txt":"$GOOG : )","lbl":"Positive"}
+,{"time":"15:54","usr":"garrettgreen","txt":"RT @TylerRidings: We might get to see $AAPL overtake $GOOG very soon!","lbl":"Negative"}
+,{"time":"22:18","usr":"bbolan1","txt":"Will $goog please stop the cutesy upgrade names like ice cream sandwhich & just use a number?","lbl":"Negative"}
+]

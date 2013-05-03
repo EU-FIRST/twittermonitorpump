@@ -1,0 +1,12 @@
+[
+{"time":"5:58","usr":"SJosephBurns","txt":"@MrAndres72 I am back in $AAPL $GOOG $VMW call options & $PCLN $INVN Stock","lbl":"Positive"}
+,{"time":"8:42","usr":"tigrs99","txt":"RT @SAI: Larry Page Is Forcing Google To Be Much Less Stupid About Acquisitions $GOOG by @nichcarlson http://t.co/WlSJplO8","lbl":"Positive"}
+,{"time":"9:29","usr":"jaripollanen","txt":"RT @businessinsider: Larry Page Is Forcing Google To Be Much Less Stupid About Acquisitions $GOOG by @nichcarlson http://t.co/eRZjd9Zz","lbl":"Positive"}
+,{"time":"9:29","usr":"dschorrnyc","txt":"$GOOG LOD","lbl":"Negative"}
+,{"time":"10:28","usr":"nichcarlson","txt":"Facebook Is Going After Google In Search, But That Doesn\u0027t Mean What You Think $GOOG http://t.co/ChpZvc9W","lbl":"Negative"}
+,{"time":"11:05","usr":"EuroDiscovery","txt":"Larry Page Is Forcing Google To Be Much Less Stupid About Acquisitions $GOOG by @nichcarlson http://t.co/8pHi28Gm RT @SAI","lbl":"Positive"}
+,{"time":"12:54","usr":"sssc","txt":"$GOOG http://t.co/FSu4bdCq --- watching & patiently waiting, for a potential entry","lbl":"Positive"}
+,{"time":"12:54","usr":"rekko31","txt":"Took a loss on the $AAPL 650 apr12 calls and another loss on the $GOOG 670 apr12 calls. Will revisit later","lbl":"Negative"}
+,{"time":"14:48","usr":"BlueFielder","txt":"$GOOG tall red ones","lbl":"Negative"}
+,{"time":"14:49","usr":"Trending123","txt":"Rolling low of days in $PNRA, $NSC, $PCLN, $UNP, $VFC, $GOOG, GWW...I can\u0027t even keep up....window smashing all over the place","lbl":"Negative"}
+]

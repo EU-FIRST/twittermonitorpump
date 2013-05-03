@@ -1,0 +1,22 @@
+[
+{"time":"3:06","usr":"anujkhap","txt":"RT @SeekingAlpha: This Tech Champion\u0027s In Trouble http://t.co/HNHNt2lx $GOOG $AAPL $HPQ","lbl":"Negative"}
+,{"time":"3:08","usr":"stockwatch9","txt":"$GOOG - Google Stock Analysis - 22day ema moving up - http://t.co/EO5RuEqA","lbl":"Positive"}
+,{"time":"3:20","usr":"SeekingAlpha","txt":"Promising Tech Stocks With Significant Upside Potential http://t.co/rjwOcAvw $AAPL $CSCO $GOOG $MSFT","lbl":"Positive"}
+,{"time":"8:52","usr":"OptionsTrader31","txt":"$GOOG running here.","lbl":"Positive"}
+,{"time":"9:45","usr":"toddstrade","txt":"$GOOG persistent today","lbl":"Positive"}
+,{"time":"9:46","usr":"karleggerss","txt":"$GOOG continues higher today on #dividend speculation. No position.","lbl":"Positive"}
+,{"time":"10:27","usr":"JohnWCary","txt":"@CNBCMelloy $GOOG 20day momentum has crossed over from -75 in early feb to 40 today. Ya, working on new top after drop from last double top","lbl":"Positive"}
+,{"time":"10:30","usr":"murphyrosecliff","txt":"@CNBCMelloy $GOOG trading on some pending news- ride this wave but keep tight stop. No news = big retrace.","lbl":"Positive"}
+,{"time":"11:06","usr":"WallStJesus","txt":"\u2605 RT @TraderFlorida: $GOOG another strong day for this market leader (holding)","lbl":"Positive"}
+,{"time":"11:06","usr":"danshep55","txt":"$indu held 20day now bouncing. tech leading the way . $intc $goog etc.. making lunch time highs","lbl":"Positive"}
+,{"time":"11:45","usr":"NoDoji","txt":"$GOOG wants $650 soon IMO. Needs to break 648 sellers","lbl":"Positive"}
+,{"time":"12:58","usr":"EbrahimM","txt":"$aapl is Red and $GOOG is green #Stocks","lbl":"Positive"}
+,{"time":"13:41","usr":"ScottGow1","txt":"RT @StkConfidential: Positions in $GOOG & $PCLN making up for a lot of other stocks that are pulling back a bit today. $$","lbl":"Positive"}
+,{"time":"13:41","usr":"ToniTurnerTrade","txt":"$GOOG also flying higher 8 days positive. that said, the Naz VIX isoff its lows, so caution is warranted.","lbl":"Positive"}
+,{"time":"14:22","usr":"racernic","txt":"$goog slipping. $pcln still hanging on a bit better","lbl":"Negative"}
+,{"time":"18:12","usr":"OptionsTrader82","txt":"RT @BUDDIEE18: have a feeling markets will be flat tomorrow & rally NEXT week 4 da month end window dressing ?? $AAPL $GOOG $GS","lbl":"Positive"}
+,{"time":"20:12","usr":"alunhillseo","txt":"RT @SAI: Get Serious: Of COURSE Google\u0027s Going To Take On The iPhone $GOOG by @MattRosoff http://t.co/LbUyye1h","lbl":"Positive"}
+,{"time":"20:12","usr":"alunhillseo","txt":"RT @SAI: Google Employees Are Now Happier Than Facebook Employees $GOOG $FB by @MattRosoff http://t.co/VfxFeCKL","lbl":"Positive"}
+,{"time":"20:16","usr":"norbertolf","txt":"RT @businessinsider: Google Employees Are Now Happier Than Facebook Employees $GOOG $FB by @MattRosoff http://t.co/PXefwOdV","lbl":"Positive"}
+,{"time":"22:55","usr":"cvjacober","txt":"RT @businessinsider: Get Serious: Of COURSE Google\u0027s Going To Take On The iPhone $GOOG by @MattRosoff http://t.co/1L6djdN3","lbl":"Positive"}
+]

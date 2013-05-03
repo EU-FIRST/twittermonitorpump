@@ -1,0 +1,18 @@
+[
+{"time":"0:22","usr":"nareshkumargs","txt":"RT @bored2tears: German courts at epicenter of #patent battles among #tech rivals. http://t.co/3WjomDOG $AAPL $GOOG $MSFT $NOK #law #stocks","lbl":"Negative"}
+,{"time":"0:30","usr":"IT_Voyager","txt":"#stocks When I look at the 2 yr charts for $CMG $PCLN $GOOG $AAPL $LNKD $QQQ - I cringe at the apocalyptic tsunami I see forming","lbl":"Negative"}
+,{"time":"8:51","usr":"Dmottco","txt":"@aztecs99 Huge premium on $goog no?","lbl":"Positive"}
+,{"time":"8:56","usr":"franki1","txt":"RT @SAI: Here\u0027s Where Google Gets All Of Its Rock Star Talent $GOOG by @mattlynley http://t.co/RJfwF9EM","lbl":"Positive"}
+,{"time":"9:47","usr":"FanToPro","txt":"RT @SAI: Here\u0027s Where Google Gets All Of Its Rock Star Talent $GOOG by @mattlynley http://t.co/K0sAYQfa","lbl":"Positive"}
+,{"time":"12:21","usr":"LDrogen","txt":"$GOOG would be smart to buy Pinterest as well, visual search which Google does very poorly","lbl":"Negative"}
+,{"time":"12:26","usr":"tyrgr","txt":"Here\u0027s Where Google Gets All Of Its Rock Star Talent $GOOG by @mattlynley http://t.co/1byupUgd","lbl":"Positive"}
+,{"time":"13:20","usr":"josephjpeters","txt":"RT @Sermario: Damn $GOOG got beat to the punch here...instagram would\u0027ve been a fabulous acquisition for them $FB","lbl":"Negative"}
+,{"time":"13:20","usr":"Lowtown21","txt":"$GOOG & $BIDU looking to run together","lbl":"Positive"}
+,{"time":"13:21","usr":"josephjpeters","txt":"\u201C@Sermario: Damn $GOOG got beat to the punch here...instagram would\u0027ve been a fabulous acquisition for them $FB\u201D Huge rivalry.","lbl":"Negative"}
+,{"time":"14:07","usr":"fmorgan2k9","txt":"RT @fromedome: Why FB Instagram deal is brilliant: http://t.co/zhD5tDeV Pick up great product; knock out huge threat; get help competing w/ $AAPL & $GOOG.","lbl":"Negative"}
+,{"time":"14:09","usr":"miss_lynsey","txt":"RT @fromedome: Why FB Instagram deal is brilliant: http://t.co/zhD5tDeV Pick up great product; knock out huge threat; get help competing w/ $AAPL & $GOOG.","lbl":"Negative"}
+,{"time":"14:57","usr":"nkgl","txt":"How Did Google Miss Its Chance To Buy Instagram? $GOOG by @MattRosoff http://t.co/CLS2D5Gi","lbl":"Negative"}
+,{"time":"14:57","usr":"Alison_Lamb","txt":"RT@MattRosoff: How Did Google Miss Its Chance To Buy Instagram? $GOOG http://t.co/yCYmSoFN #social #digital","lbl":"Negative"}
+,{"time":"14:58","usr":"akumar2461","txt":"RT @SAI: How Did Google Miss Its Chance To Buy Instagram? $GOOG by @MattRosoff http://t.co/1PnyNuZ6","lbl":"Negative"}
+,{"time":"15:39","usr":"thefinancepress","txt":"$GOOG How Did Google Miss Its Chance To Buy Instagram? (GOOG): How Did Google Miss Its Chance To Buy Instagram?... http://t.co/eJV8f7JV","lbl":"Negative"}
+]

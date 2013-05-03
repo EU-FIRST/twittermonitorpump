@@ -1,0 +1,12 @@
+[
+{"time":"2:08","usr":"juarezjunior","txt":"RT @businessinsider: Steve Ballmer\u0027s Biggest Mistake: Obsessing Over Google $MSFT $GOOG $AAPL by @jyarow http://t.co/09MhFZGW","lbl":"Negative"}
+,{"time":"2:34","usr":"regisjay","txt":"RT @YahooFinance: Governments asking Google to remove more content http://t.co/OPTM6yLb $GOOG","lbl":"Negative"}
+,{"time":"2:38","usr":"netgarden","txt":"Question: Now that $MSFT has capitulated on hardware-software integration as their primary tablet play, can $GOOG be far behind?","lbl":"Negative"}
+,{"time":"9:41","usr":"investorsmosaic","txt":"Apple and Google just crushing it in the smartphone arena. L-T ?: Who\u0027ll challenge in the future? $aapl $goog $rimm http://t.co/1H1RTzRw","lbl":"Positive"}
+,{"time":"9:43","usr":"Degendanny","txt":"Technology: $Aapl and $yhoo biggest holdings. Started a new small position in $goog. #google #Nasdaq #aapl #yahoo","lbl":"Positive"}
+,{"time":"11:48","usr":"MichaelComeau","txt":"$GOOG making new highs on day","lbl":"Positive"}
+,{"time":"12:42","usr":"Minyanville","txt":"In the #smartphone market, $AAPL and $GOOG reign supreme http://t.co/ntnHdxee","lbl":"Positive"}
+,{"time":"14:10","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Forget Facebook, Twitter Is The One Google Should Be Worried About $GOOG by @hleonard76 http://t.co/BgzD1EkH","lbl":"Negative"}
+,{"time":"14:11","usr":"rohit_bmw","txt":"RT @SAI: THE GOOGLE INVESTOR: Forget Facebook, Twitter Is The One Google Should Be Worried About $GOOG by @hleonard76 http://t.co/673JTlYx","lbl":"Negative"}
+,{"time":"14:11","usr":"lluccipha","txt":"SAI: THE GOOGLE INVESTOR: Forget Facebook, Twitter Is The One Google Should Be Worried About $GOOG by @hleonard76 http://t.co/82Ty2fOs","lbl":"Negative"}
+]

@@ -1,0 +1,30 @@
+[
+{"time":"1:58","usr":"Keith_in_Japan","txt":"@Reuters: $GOOG withdraws patent complaint against $AAPL. http://t.co/u9XGONzR","lbl":"Negative"}
+,{"time":"2:39","usr":"vaughnjeffrey","txt":"I take $GOOG over $AAPL anyday.","lbl":"Positive"}
+,{"time":"7:21","usr":"thefinancepress","txt":"$GOOG Rise in Online-Ad \u0027Clicks\u0027 on Smartphones May Be Due to Key Size: Rise in Online-Ad \u0027Clicks\u0027 on Smartphon... http://t.co/JHsdjrqC","lbl":"Positive"}
+,{"time":"8:36","usr":"takingstock614","txt":"$GOOG still consolidating in channel here. Nothing wrong with it yet. Strongest stock on the tape right now. Above 8/21 still.","lbl":"Positive"}
+,{"time":"8:37","usr":"ppprophet","txt":"SELL $GOOG The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
+,{"time":"9:13","usr":"kiwitrader24","txt":"$GOOG too bad they went and put out a phone when their CEO was sitting on the board of $AAPL. These 2 will never make up.","lbl":"Negative"}
+,{"time":"10:32","usr":"CrushingColts","txt":"$GOOG wants to take out $760 right now","lbl":"Positive"}
+,{"time":"10:32","usr":"bnkausik","txt":"@nichcarlson If you prefer, $GOOG display avg is 1-2%; $FB is 0.01%","lbl":"Negative"}
+,{"time":"11:41","usr":"racernic","txt":"@61point8 still short $goog?","lbl":"Negative"}
+,{"time":"11:42","usr":"HenryPetzold","txt":"@smartertrader And That is why I trade $AAPL/$SPY Options: High volume, tight spreads and not $GOOG/$MA, etc, etc Wide spreads will kill ya","lbl":"Negative"}
+,{"time":"11:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Brin Sergey Director SOLD 400 shares \u2611","lbl":"Negative"}
+,{"time":"12:26","usr":"ElectroSounds","txt":"RT @EXPstocktrader: RT @EXPstocktrader: $VRNG $GOOG lawsuit....more ...it has been ordered that parties engage in settlement discussions... more to follow . ...","lbl":"Negative"}
+,{"time":"13:08","usr":"Biotechmoney18","txt":"RT @zerosum24: RT @zerosum24: If $VRNG gets billions in settlement this stock will be over $10 like nothing! Google $GOOG is going to have to pay here, ...","lbl":"Negative"}
+,{"time":"13:09","usr":"thefinancepress","txt":"$GOOG Google Must Defend Itself in Vringo Lawsuit (GOOG, VRNG, NOK): Google Must Defend Itself in Vringo Lawsui... http://t.co/VDYQIn0o","lbl":"Negative"}
+,{"time":"13:38","usr":"localmidlandmi","txt":"RT @SAI: RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/TVGaYr9W","lbl":"Positive"}
+,{"time":"14:09","usr":"MrJDStokes","txt":"Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/CMo1NULQ","lbl":"Positive"}
+,{"time":"14:09","usr":"takingstock614","txt":"Still holding $AAPL $GOOG $PCLN $V $MLNX $XLF $XLP long here vs. some $SPY $HPQ short.","lbl":"Positive"}
+,{"time":"14:45","usr":"DavidkElam","txt":"RT @SAI: RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/TVGaYr9W","lbl":"Positive"}
+,{"time":"14:45","usr":"TradetheLeader1","txt":"$GOOG close here would be a new all time high close $$$$","lbl":"Positive"}
+,{"time":"14:46","usr":"SwatOptions","txt":"$GOOG making 174% PROFITS and HOLDING","lbl":"Positive"}
+,{"time":"15:11","usr":"fortune_sibanda","txt":"RT @businessinsider: RT @businessinsider: Steve Jobs Wanted To Drop Google Search From The iPhone $AAPL $GOOG by @jyarow http://t.co/ah37k8AU","lbl":"Negative"}
+,{"time":"15:55","usr":"ArtJhunQ","txt":"RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/d0ym4X3C","lbl":"Positive"}
+,{"time":"15:57","usr":"MisterDevin","txt":"RT @zerosum24: RT @zerosum24: If $VRNG gets billions in settlement this stock will be over $10 like nothing! Google $GOOG is going to have to pay here, ...","lbl":"Negative"}
+,{"time":"18:54","usr":"chrissmart","txt":"RT @SAI: RT @SAI: Google Has Patented A Smart Watch $GOOG http://t.co/3XP5bGIu","lbl":"Positive"}
+,{"time":"18:57","usr":"a_abusiness","txt":"RT @SAI: RT @SAI: Google Has Patented A Smart Watch $GOOG http://t.co/3XP5bGIu","lbl":"Positive"}
+,{"time":"18:58","usr":"Fitzstock2004","txt":"$goog >766 .....back up the truck http://t.co/VOy0f3sY","lbl":"Positive"}
+,{"time":"20:16","usr":"TTMarketingInfo","txt":"RT @thefinancepress: RT @thefinancepress: $GOOG Stock Market Edges Into Positive Column: Stock Market Edges Into Positive Column iStockAnalyst - 39 minut... ...","lbl":"Positive"}
+,{"time":"23:03","usr":"IPisBusiness","txt":"\u201C@SAI: Google Has Patented A Smart Watch $GOOG http://t.co/xKg5x8I3\u201D #pebblewatch #watchout","lbl":"Positive"}
+]

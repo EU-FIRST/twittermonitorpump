@@ -1,0 +1,7 @@
+[
+{"time":"9:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 09:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+,{"time":"11:04","usr":"nirajshah","txt":"RT @SAI: Amazon\u0027s Cloud Is So Big It Would Take You 37,000 Years To Count All The Files It Holds $AMZN by @Julie188 http://t.co/wPojCW1V","lbl":"Positive"}
+,{"time":"13:40","usr":"SeekingAlpha","txt":"Amazon And LinkedIn Are Safe Ideas For Losing Money http://t.co/akg2cAtY $FB $GOOG $GRPN $LNKD $ZNGA $MSFT $AMZN","lbl":"Negative"}
+,{"time":"20:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 20:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+,{"time":"20:38","usr":"anupartha","txt":"RT @BI_Enterprise: Amazon\u0027s Cloud Is So Big It Would Take You 37,000 Years To Count All The Files It Holds $AMZN by @Julie188 http://t.co/VxRGfvXm","lbl":"Positive"}
+]

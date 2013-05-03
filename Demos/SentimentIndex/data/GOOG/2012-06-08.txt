@@ -1,0 +1,24 @@
+[
+{"time":"3:49","usr":"thefinancepress","txt":"$GOOG EU Almunia: Expects Google Answers on Antitrust Probe by Early July: EU Almunia: Expects Google Answers o... http://t.co/rB6z46Xj","lbl":"Negative"}
+,{"time":"3:56","usr":"kcassandra","txt":"RT @SAI: Google Snaps Up The Company That Made Microsoft Office Files Work On Android, iPhone $GOOG by @Julie188 http://t.co/mdLm2GSo","lbl":"Positive"}
+,{"time":"7:25","usr":"thefinancepress","txt":"$GOOG India Court Summons Google, Facebook, Microsoft Executives Sept 22: India Court Summons Google, Facebook,... http://t.co/ZB5C2lco","lbl":"Negative"}
+,{"time":"7:25","usr":"bret_jensen","txt":"Commented on: \u0022Apple Versus Google: The War Escalates\u0022 http://t.co/mF5lW3G7 $AAPL $GOOG $MMI $MSFT $NOK","lbl":"Negative"}
+,{"time":"7:27","usr":"ADVFNplc","txt":"$GOOG - UPDATE: India Court Summons Google, Facebook, Microsoft Executives Sept 22 http://t.co/3VsfX1ON","lbl":"Negative"}
+,{"time":"7:27","usr":"pennystockguys","txt":"$GOOG - UPDATE: India Court Summons Google, Facebook, Microsoft Executives Sept 22 http://t.co/4N2GcV9f","lbl":"Negative"}
+,{"time":"8:38","usr":"TradeEducation","txt":"http://t.co/FDrbLRzj $68.60 profit in $GOOG Not bad for an overnight position on $GOOG Puts 6.8K Profits!","lbl":"Positive"}
+,{"time":"9:07","usr":"TradeEducation","txt":"http://t.co/0TUVqOT8 $530.00 profit in $GOOG Nice risk/reward ratio overnight trade on $GOOG 585 Put 126%","lbl":"Positive"}
+,{"time":"9:37","usr":"Grafowebdesign","txt":"RT @SAI_Tools: Here\u0027s A Look At Google\u0027s New Simple, Elegant Chrome OS For Desktops $GOOG by @_dtl http://t.co/Gnrb3R4l","lbl":"Positive"}
+,{"time":"9:37","usr":"TheErinRyan","txt":"RT @SAI_Tools: Here\u0027s A Look At Google\u0027s New Simple, Elegant Chrome OS For Desktops $GOOG by @_dtl http://t.co/Gnrb3R4l","lbl":"Positive"}
+,{"time":"9:40","usr":"patroneux","txt":"$GOOG on beast mode. why? $GOOG rumored to buy $AKAM.","lbl":"Positive"}
+,{"time":"10:30","usr":"BanzaiTrader","txt":"@MockTrade I\u0027ve got a few $GOOG 575 puts that expire today. Will sell the last half hour.","lbl":"Negative"}
+,{"time":"12:06","usr":"thefinancepress","txt":"$GOOG Google Founders to be Questioned by FTC in Antitrust Probe -Bloomberg: Google Founders to be Questioned b... http://t.co/6VBRF3S1","lbl":"Negative"}
+,{"time":"12:10","usr":"Minyanville","txt":"Will #Siri exclude #Google results? 5 More Hot Apple Rumors $AAPL $BIDU $GOOG http://t.co/8BX4xllM","lbl":"Negative"}
+,{"time":"12:47","usr":"CPACincIT","txt":"RT @SAI: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/rFkhqcTY","lbl":"Positive"}
+,{"time":"12:47","usr":"fadjri","txt":"RT @businessinsider: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/Tmjt6lGz","lbl":"Positive"}
+,{"time":"12:49","usr":"Stay_With_It","txt":"RT @SAI: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/rFkhqcTY","lbl":"Positive"}
+,{"time":"13:20","usr":"StephanieW_SA","txt":"RT @SAI: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/rFkhqcTY","lbl":"Positive"}
+,{"time":"14:11","usr":"thefinancepress","txt":"$GOOG Google founders to be questioned by FTC: report: Google founders to be questioned by FTC: report MarketWa... http://t.co/lfDpnhtF","lbl":"Negative"}
+,{"time":"14:15","usr":"NoDoji","txt":"$GOOG nice","lbl":"Positive"}
+,{"time":"14:15","usr":"michaelstencl","txt":"RT @businessinsider: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/Tmjt6lGz","lbl":"Positive"}
+,{"time":"15:36","usr":"A_F","txt":"Dear $GOOG Chrome is for Tablets and Android is for phones... when will U figure that out?","lbl":"Negative"}
+]

@@ -1,0 +1,11 @@
+[
+{"time":"4:05","usr":"TechStockFacts","txt":"$GOOG Noteworthy ETF Inflows: VOO, CVX, GE, GOOG: Noteworthy ETF Inflows: VOO, CVX, GE, GOOG Forbes - 18 minute... http://t.co/nmYd99Yn","lbl":"Positive"}
+,{"time":"4:27","usr":"thefinancepress","txt":"$GOOG Android beats Apple in China mobile platform race-report: Android beats Apple in China mobile platform ra... http://t.co/DBxO9TiZ","lbl":"Positive"}
+,{"time":"4:30","usr":"bored2tears","txt":"Rosetta Stone trademark infringement suit against Google revived, others could follow. http://t.co/dTmH910C $GOOG $RST #stocks","lbl":"Negative"}
+,{"time":"7:30","usr":"tjtakes","txt":"the stream is giddy over $goog, really? its\u0027 up $4 and is a $630 stock, and it\u0027s NOT making ATH each day like 2 other names... chill folks","lbl":"Positive"}
+,{"time":"8:43","usr":"ynggekko","txt":"$GOOG call options lighting up in the 750\u0027s area.","lbl":"Positive"}
+,{"time":"10:10","usr":"RedDogT3Live","txt":"$goog hangs in pretty well- next buyable cash flow trade is through $634.50-635.50","lbl":"Positive"}
+,{"time":"11:56","usr":"GeekofWallSt","txt":"@charliegodwin So I think $GOOG reporting Thurs will effect $AAPL. so if $GOOG droid num high- people may be worried bout iphone sales","lbl":"Positive"}
+,{"time":"13:07","usr":"stockusa","txt":"Google $GOOG short target 577.40 http://t.co/2EZNyTwv #mystockusa #stocks","lbl":"Negative"}
+,{"time":"18:43","usr":"tradeplay","txt":"$GOOG - Google\u0027s stock price testing the 50 day exponential moving average support. http://t.co/CakCNDpy #technicalanalysis of stocks","lbl":"Negative"}
+]

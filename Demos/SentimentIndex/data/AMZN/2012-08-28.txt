@@ -1,0 +1,11 @@
+[
+{"time":"6:30","usr":"OptionsHawk","txt":"Active in Cloud, Amazon Reshapes Computing - NY Time - Good Article on $AMZN Web Services http://t.co/iXBYhITz","lbl":"Positive"}
+,{"time":"10:14","usr":"Casseon","txt":"$AMZN looking a little pricey right now though. .69 profit margin.Only so low you can squeeze margins.$355mil prof on 55bil rev, that\u0027s tiny","lbl":"Negative"}
+,{"time":"10:15","usr":"vid_e","txt":"$amzn unch, awesome!","lbl":"Positive"}
+,{"time":"11:17","usr":"G__MAT","txt":"$AMZN @ 245.19 +0.49%, $AAPL @ 675.29 -0.06%, $GOOG 677.00 +1.16% press on high","lbl":"Positive"}
+,{"time":"11:20","usr":"TenBaggers","txt":"How Amazon will make a dent in the universe: http://t.co/dIqcCW7G $AMZN #cloudcomputing","lbl":"Positive"}
+,{"time":"11:42","usr":"sssc","txt":"RT @MercenaryJack This story on $AMZN web services is crazy http://t.co/snW9kPih Note to self: Don\u0027t short Bezos $QQQ","lbl":"Positive"}
+,{"time":"12:19","usr":"stockmarketvide","txt":"$AMZN http://t.co/hoHqYJeo Amazon. com Inc (AMZN) Web Services Releases Cloud Based Archival; Glacier","lbl":"Positive"}
+,{"time":"14:25","usr":"takingstock614","txt":"Long some $AMZN looking for 250+","lbl":"Positive"}
+,{"time":"19:10","usr":"ValentFinancial","txt":"Amazon\u0027s Kindle Books Are ON FIRE! http://t.co/11OfE3JX $AAPL $AMZN","lbl":"Positive"}
+]

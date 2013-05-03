@@ -1,0 +1,14 @@
+[
+{"time":"2:56","usr":"dotpeople","txt":"RT @howardlindzon: $AMZN raising $3 billion of debt is genius at this stage of interest rate cycle http://t.co/ZnYoEB5n - money to buy up failed ecom teams","lbl":"Positive"}
+,{"time":"9:08","usr":"firstadopter","txt":"Takes real guts to brag about Kindle hardware unit sales w/misleading PRs when units sales are down over 50% y/y in 2012, but whatever $AMZN","lbl":"Negative"}
+,{"time":"9:09","usr":"LaMonicaBuzz","txt":"Amazon, champion of transparency. $AMZN says Kindle sales double from last Black Friday weekend. But from what to what? Unit sales please!","lbl":"Positive"}
+,{"time":"9:34","usr":"takingstock614","txt":"$AMZN still working higher... Look for 250 area.","lbl":"Positive"}
+,{"time":"10:57","usr":"CEP_Observer","txt":"@TMTanalyst @Commodity_Bull @firstadopter $Amzn\u0027s 2 problems 1) 2-day more expensive to provide now 2) Dec. delivery capacity constraints","lbl":"Negative"}
+,{"time":"11:53","usr":"ShadowCapLLC","txt":"$AKAM Pressure today on $AMZN rumor but strong start to holiday shopping is good news. Long the stock, and have been short Jan $33 calls.","lbl":"Negative"}
+,{"time":"11:54","usr":"takingstock614","txt":"$AMZN could get long through 245.67 vs. tight stop there.","lbl":"Positive"}
+,{"time":"12:23","usr":"MWTickersSChang","txt":"Amazon sold a lot of Kindles but RIMM\u0027s BlackBerry 10 not likely to help resuscitate the company. http://t.co/9MHpwzyT $AMZN $RIMM","lbl":"Positive"}
+,{"time":"13:56","usr":"USwwwStocks","txt":"$AMZN News: Cyber Monday best ever, including for Amazon\u0027s Kindle http://t.co/9x3woALh #Amazonamp39s #AMZN #Best","lbl":"Positive"}
+,{"time":"17:02","usr":"steelersdiva","txt":"RT @MarketWatch: Amazon is expected to pick up share of the tablet market in the fourth quarter http://t.co/3DzMQBFI $AMZN","lbl":"Positive"}
+,{"time":"17:31","usr":"_ChrisVersace","txt":"@StockTwits The Real Winners of Black Friday and Cyber Monday http://t.co/JrfWDngi $BBY $TGT $WMT $AMZN $AAPL $IBM $SCOR $GOOG $UPS $MA $$","lbl":"Positive"}
+,{"time":"21:58","usr":"BsiflingTrades","txt":"RT @BenCBanks: $AMZN is extended off it\u0027s 8 EMA w/ caution flags telling us it could rest, see chart - http://t.co/ozKvUclD","lbl":"Negative"}
+]

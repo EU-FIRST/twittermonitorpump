@@ -1,0 +1,8 @@
+[
+{"time":"8:44","usr":"RyanDetrick","txt":"I like $AMZN - but needs to clear that $220 area.","lbl":"Positive"}
+,{"time":"9:04","usr":"tradekitten","txt":"Long $AMZN $CMG","lbl":"Positive"}
+,{"time":"12:07","usr":"SharePlanner","txt":"Another Long Position: Amazon $AMZN at $221.60 | SharePlanner http://t.co/bWWLXHag","lbl":"Positive"}
+,{"time":"13:06","usr":"HelloDelaney","txt":"#Amazon is reportedly coming to an agreement with four major U.S. record labels on a cloud system: http://t.co/N2eg6gBf $AMZN $AAPL","lbl":"Positive"}
+,{"time":"13:08","usr":"Blueshiftideas","txt":"AmazonSupply Does Not Fulfill MRO Needs $AMZN $ARBA $FAST $GWW $MSM $ORCL $SQI","lbl":"Negative"}
+,{"time":"14:28","usr":"Hedgeye","txt":"RT @KeithMcCullough: $AMZN seeing a bullish breakout here > my TRADE line of $217","lbl":"Positive"}
+]

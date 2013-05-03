@@ -1,0 +1,7 @@
+[
+{"time":"13:03","usr":"stockwatch25","txt":"$GOOG - Google Stock Analysis - RSI is bearish and falling - http://t.co/NhcS1RC6","lbl":"Negative"}
+,{"time":"13:08","usr":"earlystock","txt":"$GOOG - Google Stock Analysis - CCI is bullish and rising - http://t.co/nvj3RnAQ","lbl":"Positive"}
+,{"time":"16:24","usr":"thetradedotcom","txt":"@HerbGreenberg so $GOOG\u0027s getting a pretty cheap strategic experiment with $MMI\u0027s STB and mobile businesses -- but HUGE upside potential","lbl":"Positive"}
+,{"time":"16:30","usr":"PatrickKaine","txt":"FAIL! RT @SAI: Sorry, Google Plus: Google Uses Facebook To Tease Product Launch $GOOG by @MattRosoff http://t.co/Ji3okaXf","lbl":"Negative"}
+,{"time":"16:38","usr":"reuvenohr","txt":"RT @Chase03670 @JoshPritchard August - September. $GOOG vs $AAPL for 2012.<~~$GOOG revs slowing, as they move to mobile. $AAPL revs growing.","lbl":"Negative"}
+]

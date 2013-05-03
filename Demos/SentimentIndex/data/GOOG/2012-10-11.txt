@@ -1,0 +1,19 @@
+[
+{"time":"7:00","usr":"sandeepbhavsar","txt":"$goog gets 2 u/g this morning pt of 880 and 900.","lbl":"Positive"}
+,{"time":"8:02","usr":"bw1128","txt":"Court ordered $GOOG to furnish all additional revenues by eod. $VRNG back to 5\u0027s today as they pit together their new higher settlement #\u0027s","lbl":"Negative"}
+,{"time":"8:02","usr":"Wesley_Harr","txt":"$GOOG upgrade this morning interesting so is dahlman\u0027s call on $XOM","lbl":"Positive"}
+,{"time":"8:49","usr":"oNootch","txt":"$GOOG rejected at 10ma, first try","lbl":"Negative"}
+,{"time":"9:23","usr":"bbolan1","txt":"Nomura raises $GOOG PT to 900 from 770, says concern cleared on slowing CPC & MMI -growth in travel search products & YouTube.","lbl":"Positive"}
+,{"time":"9:23","usr":"JFDI","txt":"$GOOG \u0027s 5min chart tightening. Would consider a 758.50 entry for a day trade.","lbl":"Positive"}
+,{"time":"11:03","usr":"HomelessThomOC","txt":"RT @Bytesfrombits: Microsoft Sues Motorola in Germany #germany #patent #legal #lawsuit #maps #Google #Microsoft $MSFT $GOOG http://t.co/2jrq3xiz","lbl":"Negative"}
+,{"time":"12:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG Sentiment decreases: -4% http://t.co/HYmEmFBp","lbl":"Negative"}
+,{"time":"12:02","usr":"businessinsider","txt":"Samsung\u0027s Big Problem $GOOG by @stevekovach http://t.co/p3bHQgmN","lbl":"Negative"}
+,{"time":"12:35","usr":"streetauthority","txt":"4 Reasons it\u0027s Time to Sell Google $GOOG | StreetAuthority http://t.co/A3oSEwD0","lbl":"Negative"}
+,{"time":"12:37","usr":"wsmco","txt":"Sold to open $GOOG Oct 19 695 puts at 3.10","lbl":"Positive"}
+,{"time":"12:37","usr":"BlackStockguy","txt":"$GOOG has more diverse portfolio than $AAPL ...more phones on droid, more inclusive","lbl":"Positive"}
+,{"time":"13:25","usr":"wallstCS","txt":"Not Everything is Going Apple\u0027s Way http://t.co/zc24MMlB $SSNLF $AAPL $GOOG #mkt #stocks #trading #investing","lbl":"Negative"}
+,{"time":"14:28","usr":"Amokritik","txt":"RT @SAI: Samsung\u0027s Big Problem $GOOG by @stevekovach http://t.co/Ba1eos63","lbl":"Positive"}
+,{"time":"14:30","usr":"enhance","txt":"RT @businessinsider: Samsung\u0027s Big Problem $GOOG by @stevekovach http://t.co/p3bHQgmN","lbl":"Negative"}
+,{"time":"15:32","usr":"DerivTrader1","txt":"RT @SJosephBurns: I am holding $AAPL & $GOOG short via weekly in the money puts going into the close.","lbl":"Negative"}
+,{"time":"19:36","usr":"tradingbelle","txt":"Profitable companies with clean balance sheets and lots of cash on hand: $AUQ #EDU $MNST $AAPL $GOOG $KORS $XOM $QCOR $PAYX $CERN $ABV $ADP","lbl":"Positive"}
+]

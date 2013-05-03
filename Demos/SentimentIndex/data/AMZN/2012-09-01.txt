@@ -1,0 +1,3 @@
+[
+{"time":"6:00","usr":"ToddSullivan","txt":"http://t.co/zTxXUa88 Amazon applies for dual-display device patent, where e-ink and LCD play nice together $AMZN","lbl":"Positive"}
+]

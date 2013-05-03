@@ -1,0 +1,15 @@
+[
+{"time":"7:34","usr":"Lucibelle696","txt":"RT @Computerworld: RT @richi: Google wins again vs. Oracle: No patent probs. #ITBW http://t.co/EnfXWc3p $GOOG $ORCL","lbl":"Positive"}
+,{"time":"8:50","usr":"EithanReif","txt":"iwm > qqq i think $goog great here 604.5","lbl":"Positive"}
+,{"time":"9:35","usr":"ADVFNplc","txt":"$GOOG - Microsoft Declares Patent Case Win Vs Motorola In Munich Court http://t.co/FhVfXPav","lbl":"Positive"}
+,{"time":"9:35","usr":"pennystockguys","txt":"$GOOG - Microsoft Declares Patent Case Win Vs Motorola In Munich Court http://t.co/QI6Pylln","lbl":"Negative"}
+,{"time":"10:56","usr":"TMFRuleBreakers","txt":"Finally something interesting from Yahoo! ($YHOO). Initial tests of #Axis browser show promise. Pay attention $GOOG and $AAPL.","lbl":"Negative"}
+,{"time":"11:40","usr":"takingstock614","txt":"How many times can $GOOG keep bouncing off $600. Believe me it\u0027s gonna break it in time.","lbl":"Positive"}
+,{"time":"11:45","usr":"alvisefranz","txt":"RT @SeekingAlpha: 2 High Value Tech Stocks To Buy On Dips http://t.co/NWCTwr1M $AAPL $DELL $GOOG $RIMM $HPQ","lbl":"Positive"}
+,{"time":"13:02","usr":"BichonLover","txt":"Nice bounce on $GOOG weeklies... quick scalp.","lbl":"Negative"}
+,{"time":"13:50","usr":"TradeEducation","txt":"http://t.co/NuwF4q18 $1,300.00 profit in $GOOG They wouldn\u0027t fill me on the whole order :-( Should have been 4x bigger on $GOOG","lbl":"Positive"}
+,{"time":"18:23","usr":"WallStJesus","txt":"\u2605Undervalued Leaders From Jeremy Grantham To Buy - Will You Let Them Pass By? http://t.co/G6J8f9x7 $JNJ $PFE $KO $PM $WMT $GOOG","lbl":"Positive"}
+,{"time":"18:31","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director BOUGHT 11250 shares \u2611","lbl":"Positive"}
+,{"time":"18:37","usr":"RobertWeinstein","txt":"Buy Apple and Google, Wait On Facebook, Stay Away From Zynga - TheStreet http://t.co/e9CKgBLM via @TheStreet $AAPL, $GOOG, $FB, $ZNGA","lbl":"Positive"}
+,{"time":"21:42","usr":"creditspread23","txt":"RT @traderider7 i think $GOOG tomorrow is my put play on the expiring weekly. with a target of 585 or so.","lbl":"Negative"}
+]

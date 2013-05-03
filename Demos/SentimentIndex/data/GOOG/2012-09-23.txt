@@ -1,0 +1,6 @@
+[
+{"time":"15:04","usr":"launchticker","txt":"Iran to switch citizens to domestic internet network; $goog search & email to be blocked until \u0027further notice\u0027 http://t.co/oxdCJUj5","lbl":"Negative"}
+,{"time":"15:12","usr":"BigTicks","txt":"$GOOG News: Google Inc. (GOOG) Facing Big Fine in EU Antitrust Inquiry http://t.co/Zlvi33T9 #GOOG #AntiTrust #Facing","lbl":"Negative"}
+,{"time":"15:26","usr":"Alex__Salomon","txt":"@UdallTechStrat @seeitmarket I agree. It will take a while (12-18 months, which is nothing and yet an eternity) but I agree. Huge for $GOOG.","lbl":"Positive"}
+,{"time":"20:28","usr":"kenjotto","txt":"My plan is to stick with winners $AAPL $GOOG $PCLN $IBM and benefits from #QE-infin $OAS $OIH $UPL","lbl":"Positive"}
+]

@@ -1,0 +1,9 @@
+[
+{"time":"9:46","usr":"henderson_mark","txt":"RT @businessinsider: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/AgGPEADI","lbl":"Negative"}
+,{"time":"16:32","usr":"stockstobuy","txt":"Google $GOOG to pay $22.5 Million settlement for planting cookies on Apple\u0027s $AAPL Safari browser - http://t.co/b58rk60M","lbl":"Negative"}
+,{"time":"18:07","usr":"TerryStorch","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/IRBDvywr","lbl":"Positive"}
+,{"time":"19:36","usr":"DTSalvo","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/IRBDvywr","lbl":"Positive"}
+,{"time":"19:41","usr":"agnesiagnes","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/4gMcT91U","lbl":"Positive"}
+,{"time":"21:48","usr":"joey_volpe","txt":"When did this all happen? RT @SAI: Analysts Say $GOOG Is \u0027Trying Harder\u0027 Than $AAPL, Android Innovation Is Racing Ahead http://t.co/SFLeRywk","lbl":"Positive"}
+,{"time":"21:51","usr":"KapitanWoods","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/IRBDvywr","lbl":"Positive"}
+]

@@ -1,0 +1,12 @@
+[
+{"time":"7:05","usr":"gparadelo","txt":"Google got approval to acquire Motorola, from US & European Commission - $GOOG","lbl":"Positive"}
+,{"time":"9:26","usr":"DesMuzi","txt":"RT @BloombergNews: Google wins U.S. nod to buy Motorola Mobility | http://t.co/Yt92oOPu $GOOG","lbl":"Positive"}
+,{"time":"9:26","usr":"kgcanes","txt":"RT @BloombergNews: Google wins U.S. nod to buy Motorola Mobility | http://t.co/Yt92oOPu $GOOG","lbl":"Positive"}
+,{"time":"10:00","usr":"Convertbond","txt":"A cool 280% move higher and Google $GOOG catches Apple $AAPL in market capitalization","lbl":"Positive"}
+,{"time":"10:01","usr":"TradeDesk_Steve","txt":"RT @Convertbond: Then its a no brainer just buy Google - A cool 280% move higher and Google $GOOG catches Apple $AAPL in market cap","lbl":"Positive"}
+,{"time":"10:39","usr":"Sqwii","txt":"$GOOG target for next 1 month is 450s based on a bearish pattern ,, if possible short it or get puts","lbl":"Negative"}
+,{"time":"12:32","usr":"go2sheth","txt":"RT @SAI: THE GOOGLE INVESTOR: Is There A Google TV Subscription Service In The Works? $GOOG by @hleonard76 http://t.co/Fq5EPwZ7","lbl":"Positive"}
+,{"time":"15:00","usr":"SeekingAlpha","txt":"Apple Takes On Samsung, Android, And Google http://t.co/thYfCopP $SSNLF.PK $MSFT $GOOG $AAPL","lbl":"Negative"}
+,{"time":"15:10","usr":"TheStreet","txt":"6 Winning Stocks for Awards Season http://t.co/fmBZXuzh by @stockpickr $CBS $GOOG","lbl":"Positive"}
+,{"time":"16:51","usr":"EvansIPLaw","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+]

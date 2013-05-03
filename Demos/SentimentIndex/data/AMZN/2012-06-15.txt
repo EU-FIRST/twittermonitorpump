@@ -1,0 +1,6 @@
+[
+{"time":"8:28","usr":"RobTheStreet","txt":"RT @firstadopter: Digitimes report that $AMZN to cut Kindle Fire to $149 http://t.co/kuhA4xk4","lbl":"Positive"}
+,{"time":"10:38","usr":"conorsen","txt":"So if $MSFT/$RIMM/$NOK/$DELL/$HPQ/$GOOG/$AMZN aren\u0027t going to beat $AAPL at phones/tablets/computers, who will?","lbl":"Negative"}
+,{"time":"13:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $PCLN +37%, $AMZN +15%, $AAPL +13%, $MS -42%, $C -30%, $SBUX -26% http://t.co/uBJyhJcD","lbl":"Positive"}
+,{"time":"13:49","usr":"lluccipha","txt":"SAI: Amazon Rivals Do The Happy Dance Over Its Big Web Outage Last Night $AMZN by @Julie188 http://t.co/m5XZwRws","lbl":"Negative"}
+]

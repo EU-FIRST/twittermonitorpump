@@ -1,0 +1,13 @@
+[
+{"time":"4:14","usr":"isitabubble","txt":"$GOOG gives a nice sell signal on weekly graph","lbl":"Negative"}
+,{"time":"8:47","usr":"RealTimeMedia","txt":"RT @SAI: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/O70Qac2B","lbl":"Positive"}
+,{"time":"9:12","usr":"_ThreeStacks","txt":"RT @businessinsider: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/4SUI3gKr","lbl":"Positive"}
+,{"time":"9:12","usr":"matterhornbob","txt":"@ukarlewitz SPX fell 25% in the three weeks before it and $GOOG\u0027s Eric Schmidt said that the outlook was \u0022bleak\u0022 for the next few quarters","lbl":"Negative"}
+,{"time":"9:58","usr":"anthonylmurphy","txt":"RT @SAI: Google Is Threatening To Cut Off Developers Unless They Use Google Wallet For Everything $GOOG http://t.co/9xlMwEWY","lbl":"Negative"}
+,{"time":"10:01","usr":"GeoHGoogins","txt":"@stockguy22 I agree, lightened $goog $ivn and $gs calls. Great to hear some validation. What kind of exit are you looking for $aapl","lbl":"Negative"}
+,{"time":"10:44","usr":"EvolvingMedium","txt":"Survey: 83 percent rate Google as preferred search engine, despite privacy ... $goog - http://t.co/EM8hFhq6","lbl":"Positive"}
+,{"time":"10:45","usr":"carmelsurfer","txt":"$GOOG 595 weeklies for next week, 3 ma\u0027s on the daily stacked just above. Breach will be my stop","lbl":"Positive"}
+,{"time":"15:22","usr":"dubhe124","txt":"$goog drops due to Eric\u0027s planned sale?","lbl":"Negative"}
+,{"time":"15:26","usr":"IamWashira","txt":"short $spy $goog while long $gld $aapl (spread) into the weekend.","lbl":"Negative"}
+,{"time":"15:30","usr":"SeekingAlpha","txt":"2 Bullish But Conservative Options Ideas For Small Investors http://t.co/WZtFeOYI $AAPL $GOOG $KO $MSFT $PEP $SSNLF.PK $NOK","lbl":"Positive"}
+]

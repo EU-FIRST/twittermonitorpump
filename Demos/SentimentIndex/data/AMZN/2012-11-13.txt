@@ -1,0 +1,4 @@
+[
+{"time":"10:19","usr":"Benzinga","txt":"$AAPL $AMZN $MSFT Microsoft Sales are Taking Off: http://t.co/96CqIFgH","lbl":"Positive"}
+,{"time":"11:57","usr":"tradethembi","txt":"Commented on StockTwits: put up the long side trade on $AMZN with target of 228.24 from entry of 226.33 , enjoy http://t.co/XlQKgWDu","lbl":"Positive"}
+]

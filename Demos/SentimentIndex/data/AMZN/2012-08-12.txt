@@ -1,0 +1,3 @@
+[
+{"time":"16:41","usr":"harmongreg","txt":"$AMZN over 238 has a Measured Move to 250 http://t.co/uqlPutd4","lbl":"Positive"}
+]

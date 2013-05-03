@@ -1,0 +1,5 @@
+[
+{"time":"10:22","usr":"TraderFlorida","txt":"$AMZN http://t.co/xOQGoAAX Holding up well since gapping up last week on strong earnings POSTED VIDEO","lbl":"Positive"}
+,{"time":"15:32","usr":"crashdev","txt":"$AMZN is our motor MT @TrevorAGilbert @JeffBezos is Too Good at Running @Amazon to Care About the SEA Startup Ecosystem http://t.co/UiLWBfna","lbl":"Positive"}
+,{"time":"19:41","usr":"thewad71","txt":"@HedgefundPLAY I agree but how come $AMZN still gets a pass.","lbl":"Negative"}
+]

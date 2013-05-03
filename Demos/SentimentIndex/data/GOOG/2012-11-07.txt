@@ -1,0 +1,10 @@
+[
+{"time":"8:13","usr":"OptionRunners","txt":"I actually wanted to add more of my $GOOG puts, but I won\u0027t avg up. Will wait for a bounce if it comes soon.","lbl":"Negative"}
+,{"time":"9:24","usr":"TomFoust","txt":"I\u0027ve got itm $goog puts I may sell today. <biting knuckles>","lbl":"Positive"}
+,{"time":"9:25","usr":"HFTAlert","txt":"main $goog accumulator...continued buying. http://t.co/O4GTPDQu","lbl":"Positive"}
+,{"time":"10:47","usr":"petergo99037185","txt":"$AAPL -12, $GOOG -7, twin towers NASDQ, & US Markt, TECH -55, if -60 then -99 possible, trashing all techs? Gold turnd (-) things R normal!","lbl":"Negative"}
+,{"time":"11:52","usr":"Equitykingkong","txt":"$GOOG: long @ 666.89-99 small","lbl":"Positive"}
+,{"time":"11:54","usr":"Cramer_TV","txt":"fiscal cliff gridlock here we come. $spy $es_f $aapl $goog $vix $tvix $spx #stocks #stockmarket #trading #daytrading #nyse #asx #stockpicks","lbl":"Negative"}
+,{"time":"12:46","usr":"UdallTechStrat","txt":"@smartertrader always much appreciated... btw -- while $aapl $goog hugely important $T just put through a huge capital budget increase $$","lbl":"Positive"}
+,{"time":"13:49","usr":"StockMarket411","txt":"Google Nexus 4 deep-dive review: Android at its best $goog http://t.co/N1NiRCFO goog, google, google stock, news","lbl":"Positive"}
+]

@@ -1,0 +1,6 @@
+[
+{"time":"8:06","usr":"tekgik","txt":"\u201C@SAI: If These Apps Are The Best Android Has To Offer, Google Has A Big Problem $GOOG by @officialKLS http://t.co/s04R3hqx\u201D","lbl":"Negative"}
+,{"time":"8:15","usr":"StockMarket411","txt":"Google Will Face Greater Competition in 2013: The Economist\u2019s Daniel Franklin $goog http://t.co/e16R9Iag goog, google, google stock, news","lbl":"Negative"}
+,{"time":"12:52","usr":"tradethembi","txt":"$GOOG has been all buys this morning ,sometimes it goes just that easy. http://t.co/3BBlf1PR","lbl":"Positive"}
+,{"time":"15:41","usr":"PhilOttewell","txt":"Android Is Dead - Part 4: New Contender Windows Phone 8 http://t.co/YyWut5T2 $MSFT $RIMM $AAPL $GOOG","lbl":"Negative"}
+]

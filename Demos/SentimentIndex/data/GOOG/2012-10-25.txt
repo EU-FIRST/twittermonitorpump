@@ -1,0 +1,13 @@
+[
+{"time":"9:08","usr":"NorthmanTrader","txt":"sold the $SLV and $GLD calls for nice profit. BAck into $GOOG and some $AAPL. Added $IWM calls via Dec exp.","lbl":"Positive"}
+,{"time":"9:08","usr":"nolte88","txt":"$GOOG https://t.co/6pRMMrI1 5 MINUTE. One perspective. Small positioin at $678 added. Another market fade looks worrisome though.","lbl":"Positive"}
+,{"time":"10:38","usr":"nexgennovak","txt":"$GOOG Update on short opportunity heading towards first target area http://t.co/UxscRhVE","lbl":"Negative"}
+,{"time":"11:50","usr":"iStockAnalyst","txt":"Sector Detector: Stocks Can\u0027t Overcome Weak Quarterly Reports $AAPL $AMD $BAC $CAT $CERN $DIS $FFIV $GE $GOOG $H... http://t.co/Tk9gyugQ","lbl":"Negative"}
+,{"time":"14:18","usr":"KeithMcCullough","txt":"$GOOG looks scarier than $AAPL on the downside, not sure why - but next support is $638","lbl":"Negative"}
+,{"time":"14:53","usr":"Alex__Salomon","txt":"Tons to say abt $FIO earnings call, but the $GOOG oppty. is nicest recognizable news. @axiosadvisors @UdallTechStrat I\u0027ll accumulate as ever","lbl":"Positive"}
+,{"time":"15:46","usr":"Equitykingkong","txt":"$GOOG: long a feeler @ 667.25","lbl":"Positive"}
+,{"time":"15:46","usr":"61point8","txt":"$GOOG down in sympathy. Buy it tomorrow near $656 in anticipation of a bounce into month end.","lbl":"Positive"}
+,{"time":"15:53","usr":"racernic","txt":"had hoped that $GOOG would be down 2moro in sympathy2 $AAPL (not they have anything 2do w/each other) but looks like both recovering well.","lbl":"Positive"}
+,{"time":"16:20","usr":"pennystockguys","txt":"$GOOG - UPDATE: http://t.co/zInUQXF7 Posts Rare Loss as Expenses Mount http://t.co/CGVEeLsP","lbl":"Negative"}
+,{"time":"22:09","usr":"shakagenghis","txt":"When tech companies are too big to fail $aapl $goog their stocks get halted on bad news. is that red blooded capitalism?","lbl":"Negative"}
+]

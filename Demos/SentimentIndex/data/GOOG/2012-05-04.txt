@@ -1,0 +1,10 @@
+[
+{"time":"9:38","usr":"rhondaserkes","txt":"RT @businessinsider: Why Everyone Thinks Google Has Lost Its Way And Become Evil $GOOG by @mattlynley http://t.co/ZeKX8SwR","lbl":"Negative"}
+,{"time":"9:38","usr":"DrDuru","txt":"I am doubting $GOOG\u0027s \u00229-Lives\u0022 around $600 can last much longer.","lbl":"Negative"}
+,{"time":"9:39","usr":"BlueFielder","txt":"$GOOG blood letting","lbl":"Negative"}
+,{"time":"10:56","usr":"abebut","txt":"IMHO $GOOG very safe buy with firm stop at $590. Only $10 downside risk, but if it holds will race. $590 is heavy resistance","lbl":"Positive"}
+,{"time":"10:58","usr":"Bluechiptrend","txt":"currently holding $PCLN, $GOOG, $SPG, and $SPY shorts... Pretty nice Friday. Thank God","lbl":"Negative"}
+,{"time":"13:46","usr":"barronstechblog","txt":"Google May Pay Millions In Apple Safari Breach $GOOG $AAPL http://t.co/8JeptTW2","lbl":"Negative"}
+,{"time":"14:33","usr":"BlueFielder","txt":"Looks like my remaining contracts on the shorts on $AAPL & $GooG $calls should clear near 100%","lbl":"Positive"}
+,{"time":"15:40","usr":"FeelTrade","txt":"Island reversal looking strong here $goog","lbl":"Positive"}
+]

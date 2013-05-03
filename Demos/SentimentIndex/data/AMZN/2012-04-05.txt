@@ -1,0 +1,4 @@
+[
+{"time":"8:08","usr":"firstadopter","txt":"If $AMZN decides to under-price ebooks below cost again & further destroy their profitability good luck going into price war w/ $AAPL $GOOG","lbl":"Negative"}
+,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:47pm: 194.80 +0.81 (+0.42%).","lbl":"Positive"}
+]

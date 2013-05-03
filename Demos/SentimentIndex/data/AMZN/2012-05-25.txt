@@ -1,0 +1,4 @@
+[
+{"time":"4:23","usr":"hi_h8rs","txt":"@7FiveSeven $EA is a dog. $GME and $AMZN have sighted slowing sales of video games. $GE sounds fine but has been dead money for a long time.","lbl":"Negative"}
+,{"time":"12:06","usr":"Crap_Trader","txt":"$AMZN has been such a tease these last few days.","lbl":"Negative"}
+]

@@ -1,0 +1,5 @@
+[
+{"time":"10:56","usr":"Fitzstock2004","txt":"$amzn, $expe, $fb, $mnst all still green.......NOTED,,,as when $spx catches a bid(next week), THESE COULD LEAD","lbl":"Positive"}
+,{"time":"12:36","usr":"Hephaestus7","txt":"$AMZN is holding up relatively well, considering today\u0027s market rout.","lbl":"Positive"}
+,{"time":"14:56","usr":"wallstCS","txt":"Tech Business Roundup: Apple ADDS Features for Chinese Users, Amazon\u0027s GRAND SCHEME http://t.co/jdkIgU48 $CY $RMTR $AAPL $CHL $AMZN #stocks","lbl":"Positive"}
+]

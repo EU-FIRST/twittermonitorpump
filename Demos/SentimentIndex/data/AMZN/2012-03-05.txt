@@ -1,0 +1,10 @@
+[
+{"time":"9:13","usr":"out2late","txt":"RT @SAI: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG by @hblodget http://t.co/MzG55bxI","lbl":"Positive"}
+,{"time":"10:33","usr":"mstrades","txt":"long $AMZN 185 weekly calls 0.86","lbl":"Positive"}
+,{"time":"11:52","usr":"JFP","txt":"RT @hblodget: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG http://t.co/kNV5agXB","lbl":"Positive"}
+,{"time":"13:08","usr":"RaginCajun","txt":"Like $MCP, $POT, $AMZN, & $JOEZ. Bot all them this morning","lbl":"Positive"}
+,{"time":"13:08","usr":"WallStJesus","txt":"\u2605 RT @RaginCajun: Like $MCP, $POT, $AMZN, & $JOEZ. Bot all them this morning","lbl":"Positive"}
+,{"time":"13:09","usr":"1nvestor","txt":"Stocks holding up well and/or green: $AMZN $IBM $V $XOM $ORCL $FIRE $SBUX","lbl":"Positive"}
+,{"time":"17:15","usr":"nottora2","txt":"RT @SAI: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG by @hblodget http://t.co/MzG55bxI","lbl":"Positive"}
+,{"time":"20:41","usr":"teagardenparty","txt":"@RedDogT3Live Are you just impatient $amzn or you don\u0027t think it will go. Long 180 April puts","lbl":"Negative"}
+]

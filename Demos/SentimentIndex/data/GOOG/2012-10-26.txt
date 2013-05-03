@@ -1,0 +1,12 @@
+[
+{"time":"1:55","usr":"tommybytes","txt":"@ang_rx I might scrape together a fractional share of $GOOG, but using a deep in the money call option would be a better play","lbl":"Positive"}
+,{"time":"1:55","usr":"USwwwStocks","txt":"$GOOG News: Google Inc. (GOOG): Android Malware Spikes; Worry, or Context? http://t.co/U8zmaZ2j #GOOG #Android #Context","lbl":"Negative"}
+,{"time":"7:14","usr":"petergo99037185","txt":"$AAPL turn around pre market, almost plus 3 now, $goog looking bad this AM, QQQ is much better than last nite.. GO $AAPL lead this mkt plus!","lbl":"Negative"}
+,{"time":"9:32","usr":"parklandtrader","txt":"@cnbcfastmoney $GOOG at keep level rite now if it does not hold could drop fast.. I like $FB on beat in earning","lbl":"Negative"}
+,{"time":"10:09","usr":"filthyjabba","txt":"@NorthmanTrader $goog killing me","lbl":"Negative"}
+,{"time":"12:40","usr":"mpacatte","txt":"RT @KevinShalvey: Mark Mahaney to Citi\u0027s PR person in email about $GOOG disclosure: \u0022This could get me in trouble. Shoot.\u0022 http://t.co/SG09vfJA","lbl":"Negative"}
+,{"time":"13:15","usr":"Angelica_Pagan","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Negative"}
+,{"time":"14:49","usr":"JohnMackel","txt":"$GOOG is another flying turkey trying to consolidate recent losses. Watch for it to test its 50 DMA or more likely plunge towards its 200.","lbl":"Negative"}
+,{"time":"16:38","usr":"rcastle06","txt":"RT @SAI: Google Snubs Bing With Hilarious \u0027Get Your Google Back\u0027 Video $MSFT $GOOG by @officialKLS http://t.co/t13Vx3Lm","lbl":"Positive"}
+,{"time":"18:46","usr":"EricStroderd","txt":"RT @SAI: Google Snubs Bing With Hilarious \u0027Get Your Google Back\u0027 Video $MSFT $GOOG by @officialKLS http://t.co/t13Vx3Lm","lbl":"Positive"}
+]

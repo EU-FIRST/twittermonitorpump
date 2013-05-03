@@ -1,0 +1,19 @@
+[
+{"time":"6:43","usr":"TERRYLEENCTNYC","txt":"RT @SAI: Google\u0027s Number 3 Employee Quit Today $GOOG by @_dtl http://t.co/qjexMV3z","lbl":"Negative"}
+,{"time":"8:29","usr":"CNNMoneyTech","txt":"RT @LaMonicaBuzz: Why the fuss about a $GOOG home entertainment device? We knew it was coming. @davidgoldmancnn reported about it in May. http://t.co/zj0clt3Y","lbl":"Negative"}
+,{"time":"8:37","usr":"cocoy","txt":"\u201C@appleinsider: German court dismisses Motorola\u0027s 3G-related suit against Apple http://t.co/dppupe2z\u201D $AAPL $GOOG","lbl":"Negative"}
+,{"time":"10:15","usr":"LarryOsentoski","txt":"$GOOG acquisition of $MOT reminds me of AOL Time Warner","lbl":"Negative"}
+,{"time":"10:45","usr":"ahdiaz","txt":"RT @FoxBusiness: No longer just a search engine, tech titan #Google will reportedly unveil a new home-entertainment system in 2012 http://t.co/aXmFvnO0 $GOOG","lbl":"Positive"}
+,{"time":"10:46","usr":"randallrex","txt":"RT @FoxBusiness: No longer just a search engine, tech titan #Google will reportedly unveil a new home-entertainment system in 2012 http://t.co/aXmFvnO0 $GOOG","lbl":"Positive"}
+,{"time":"11:20","usr":"SeekingAlpha","txt":"Apple And Google Stock Splits + DJIA = Potential Bonus Returns http://t.co/dqpJOgRz $AAPL $GOOG","lbl":"Positive"}
+,{"time":"11:20","usr":"iBizNews21","txt":"RT @FoxBusiness: No longer just a search engine, tech titan #Google will reportedly unveil a new home-entertainment system in 2012 http://t.co/aXmFvnO0 $GOOG","lbl":"Positive"}
+,{"time":"11:56","usr":"HeatherPerlberg","txt":"RT @BloombergNews: Google is testing wireless entertainment device | http://t.co/AqNMwvyT $GOOG","lbl":"Positive"}
+,{"time":"11:58","usr":"UGzSolution","txt":"RT @BloombergNews: Google is testing wireless entertainment device | http://t.co/AqNMwvyT $GOOG","lbl":"Positive"}
+,{"time":"12:32","usr":"varsitymike","txt":"RT @BloombergNews: Google is testing wireless entertainment device | http://t.co/AqNMwvyT $GOOG","lbl":"Positive"}
+,{"time":"13:21","usr":"iStockAnalyst","txt":"Google (GOOG) Getting Ready For Another Battle With Apple (AAPL); Testing New Communication Device $AAPL $GOOG: ... http://t.co/rClHqgMX","lbl":"Positive"}
+,{"time":"14:27","usr":"nxtmillionair40","txt":"going long some $GOOG 610 Feb 18 calls and March $BAC 8 Calls here","lbl":"Positive"}
+,{"time":"15:40","usr":"SP_Trades","txt":"spcoder sold $GOOG at $605.24 for a 3.16% loss. http://t.co/H4KIBYcD","lbl":"Negative"}
+,{"time":"18:48","usr":"StocialPicks","txt":"Fahad K. made a pick on Stocial. Long $GOOG at 606.00. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"18:50","usr":"SeekingAlpha","txt":"Apple, Google Patent War Tears Down Both Companies http://t.co/cXK5ph3I $AAPL $GOOG","lbl":"Negative"}
+,{"time":"18:55","usr":"WallStJesus","txt":"Apple, Google Patent War Tears Down Both Companies http://t.co/fyPfYkYf $AAPL $GOOG","lbl":"Negative"}
+]

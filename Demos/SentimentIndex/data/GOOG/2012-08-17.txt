@@ -1,0 +1,15 @@
+[
+{"time":"7:41","usr":"SJosephBurns","txt":"I am long $AAPL & $GOOG going into this morning, I am also watching $eBay closely for a break out.","lbl":"Positive"}
+,{"time":"9:03","usr":"SunnyBhamra","txt":"$AAPL 52 week high, with $GOOG and $HD my favorite stocks.. While $FB hits an all new low","lbl":"Positive"}
+,{"time":"9:49","usr":"ronellman","txt":"$GOOG at resistance...again. http://t.co/1YJOdYV2","lbl":"Negative"}
+,{"time":"11:24","usr":"johnsgilbert","txt":"$GOOG Ascending Triple Top Breakout on 1.0 pts/box P&F chart. Bullish Price Objective = 700. $$","lbl":"Positive"}
+,{"time":"12:04","usr":"KevinShalvey","txt":"For a big-cap, there\u0027s been some big runs in $GOOG\u0027s history. Back in 2005, it jumped 43% in 12 weeks: http://t.co/RIyoFEqo","lbl":"Positive"}
+,{"time":"12:05","usr":"TradetheLeader1","txt":"Great move from 650 b/out..needs to take out 700 with power and we are off and running $GOOG","lbl":"Positive"}
+,{"time":"12:49","usr":"paulwoll","txt":"Playing 2 $GOOG 675 puts for .55","lbl":"Negative"}
+,{"time":"12:55","usr":"Fitzstock2004","txt":"@spxtrader2008 $aapl $goog and \u0022Mom jokes\u0022 52 week highs today :)","lbl":"Positive"}
+,{"time":"12:55","usr":"_SimplyTessa","txt":"Watching $Goog and $AAPL go at it.","lbl":"Positive"}
+,{"time":"15:00","usr":"MarkAlanT","txt":"@deliciousAAPL Last minute push into the close on $SPY, $GOOG, and $AAPL. too suspicious.","lbl":"Positive"}
+,{"time":"17:20","usr":"TweetTaco","txt":"@jimcramer: watching some Street Signs with Pop. Narrating the tape with him...Liking the action in the big growth stocks\u0022 $GOOG, $AAPL","lbl":"Positive"}
+,{"time":"17:30","usr":"sciencetrader","txt":"insider selling: $GOOG 8/17 Director sells 145,200 shares at 675, almost 100 million dollars worth","lbl":"Negative"}
+,{"time":"17:41","usr":"sciencetrader","txt":"$GOOG insiders (CEO/founders, VPs, directors) in the month of August have sold close to $260,000,000 in stock","lbl":"Negative"}
+]

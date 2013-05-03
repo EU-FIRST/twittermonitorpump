@@ -1,0 +1,29 @@
+[
+{"time":"4:52","usr":"DGHGroup","txt":"RT @MSN_Money: RT @MSN_Money: $Goog surpassed $MSFT in market value http://t.co/5DmByexB","lbl":"Positive"}
+,{"time":"4:56","usr":"kacko","txt":"RT @JeffMacke: RT @JeffMacke: $GOOG now w/ a bigger mkt cap than $MSFT. Since $GOOG IPO its stock is up 600% vs MSFT\u0027s 9% & $AAPL\u0027s 4,176% gain ht ...","lbl":"Positive"}
+,{"time":"7:16","usr":"cwstrawderman","txt":"RT @YahooFinance: We\u0027re number 2! Google passes Microsoft to become second most valuable tech company in the world, behind Apple http://t.co/PbcMAmEj $GOOG","lbl":"Positive"}
+,{"time":"7:17","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Google (NASDAQ:GOOG) Bypasses Microsoft\u0027s Market Value, Stands on No.1 ...: Google (NASDAQ:GOOG) Bypasses... http://t.co/9nH59VWI","lbl":"Positive"}
+,{"time":"8:48","usr":"z8angela","txt":"@lizzyb191 Yes, it could be fine if $GOOG fell hard like a falling knife in fast and furious speed emulating $AAPL . Plan and watch...","lbl":"Negative"}
+,{"time":"9:12","usr":"smendozag","txt":"Now on $goog call & $aapl put","lbl":"Positive"}
+,{"time":"9:15","usr":"convolutedvol","txt":"$PCLN & $GOOG DOWN....$$","lbl":"Negative"}
+,{"time":"9:15","usr":"m_cof","txt":"#Google is now the third biggest company in the U.S., ahead of $MSFT and $WMT: http://t.co/SISAZuxJ via @MarketBeat @srussolillo $GOOG","lbl":"Positive"}
+,{"time":"9:53","usr":"jeffgent99","txt":"@optionmonster $GOOG to blast right thru $800 by next week","lbl":"Positive"}
+,{"time":"10:36","usr":"stockguy22","txt":"looks like $GOOG hit a new high today but continues to consolidate into the $760+ resistance - would not mind trying to short it again","lbl":"Negative"}
+,{"time":"11:18","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) Expands Advertising with Lightbox: Google Inc. (GOOG) Expands Advertising with Lightbo... http://t.co/JlLRQBOG","lbl":"Positive"}
+,{"time":"11:24","usr":"carney","txt":"Dear $GOOG, I am really, really angry at you about this Chrome thing. I loved Chrome. Now it crashes my computer. It\u0027s malware.","lbl":"Negative"}
+,{"time":"12:15","usr":"CreateCapital","txt":"When \u0022investors\u0022 buy one stock $GOOG because they own too much of another $AAPL that doesn\u0027t mean it represents value. Just another MOMO","lbl":"Negative"}
+,{"time":"12:16","usr":"agwarner","txt":"anyone having probs with $GOOG Drive on Mac? Freezing up every 2 minutes","lbl":"Negative"}
+,{"time":"12:54","usr":"clindhartsen","txt":"RT @BloombergTV: RT @BloombergTV: BREAKING: Google\u0027s Motorola drops latest ITC patent claim against Apple $GOOG $AAPL","lbl":"Negative"}
+,{"time":"13:33","usr":"bluser12","txt":"Nice $GOOG almost back to 750.","lbl":"Positive"}
+,{"time":"13:34","usr":"tradetime99","txt":"@RedDogT3Live $goog made a new hi 2day @765.99, Its the new king (aapl)","lbl":"Positive"}
+,{"time":"14:47","usr":"RedDogT3Live","txt":"@cooldaddy5x $goog needs a rest I would reduce.","lbl":"Negative"}
+,{"time":"14:49","usr":"MichaelComeau","txt":"@UdallTechStrat $GOOG should go all in on its own or its PC-style commodity all over again. More money in it for them.","lbl":"Positive"}
+,{"time":"15:20","usr":"omkarphatak","txt":"RT @SAI: RT @SAI: The Biggest Threat To Apple Right Now $AAPL $GOOG by @stevekovach http://t.co/R2NmteXS","lbl":"Positive"}
+,{"time":"15:21","usr":"smalljones","txt":"$GOOG > $MSFT RT @Slate: For the first time ever, Google is worth more than Microsoft: http://t.co/Ox46bJgk","lbl":"Positive"}
+,{"time":"15:22","usr":"HeatherLaGarde","txt":"RT @smalljones: RT @smalljones: $GOOG > $MSFT RT @Slate: For the first time ever, Google is worth more than Microsoft: http://t.co/Ox46bJgk","lbl":"Positive"}
+,{"time":"16:17","usr":"takingstock614","txt":"Took home some $AAPL $GOOG $LVS and short $SPY hedge.","lbl":"Negative"}
+,{"time":"16:18","usr":"MarketBeat","txt":"Google, Apple May Stop Inspiring Bulls for a While - MarketBeat - WSJ http://t.co/zAj1bCce via @WSJ $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:57","usr":"pennystockguys","txt":"$GOOG - 2nd UPDATE: Google Withdraws Patent Claim Against Apple http://t.co/uvI7RyZX","lbl":"Negative"}
+,{"time":"21:03","usr":"DavidLeshaw","txt":"Food for thought: $GOOG is now worth more than $MSFT. http://t.co/uB9NKaK9","lbl":"Positive"}
+,{"time":"21:06","usr":"cdavis20000","txt":"RT @StockTwits: RT @StockTwits: Google Passes Microsoft\u2019s Market Value as PC Loses to Web http://t.co/X6PQkrDb via @bloomberg $GOOG $MSFT","lbl":"Positive"}
+]

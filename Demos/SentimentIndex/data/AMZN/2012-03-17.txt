@@ -1,0 +1,4 @@
+[
+{"time":"2:12","usr":"sznq","txt":"RT @timoreilly: Argument to short $AMZN in face of accelerating shipping losses, $AAPL competition http://t.co/wKXgicHR But not sure I\u0027d bet against Jeff B","lbl":"Negative"}
+,{"time":"21:54","usr":"gowhitestripes","txt":"@_DecisionPoint $AAPL trailing PE of $40+ after Q2 times PE of 16 = $640 with $110 cash. $GOOG = 21 PE. $AMZN = 135 PE. $AAPL is reasonable.","lbl":"Negative"}
+]

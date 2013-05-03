@@ -1,0 +1,5 @@
+[
+{"time":"6:33","usr":"stocksguru8","txt":"$AMZN - Amazon Stock Analysis - bearish stochastic crossdown - http://t.co/YL4s4uCL","lbl":"Negative"}
+,{"time":"16:27","usr":"iminbeastmode","txt":"RT @firstadopter: How many iPhones and iPads did $AMZN sell directly? 0 and 0. Every dollar spent on iPhone and iPad is a dollar not spent on Amazon","lbl":"Negative"}
+,{"time":"23:18","usr":"wulu4","txt":"$AMZN - Amazon Stock Analysis - price & ema crossover, #bull stock - http://t.co/WSzipGi7","lbl":"Positive"}
+]

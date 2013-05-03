@@ -1,0 +1,7 @@
+[
+{"time":"1:54","usr":"USwwwStocks","txt":"$GOOG News: Google Inc (GOOG), Starbucks (SBUX): This Billionaire\u0027s Big Selloffs http://t.co/ouKy2Q49 #GOOG #Google #News","lbl":"Negative"}
+,{"time":"12:11","usr":"StockMarket411","txt":"Google\u2019s Ray Kurzweil hire could yield some good returns $goog http://t.co/zJMKSMjg goog, google, google stock, news","lbl":"Positive"}
+,{"time":"15:36","usr":"dwizkid21","txt":"@ChartLearning $GOOG and $SPY clinging to that 50MA, definitely like it if either or both can break through, could see good downside","lbl":"Negative"}
+,{"time":"15:45","usr":"daytrader305","txt":"RT @z8angela: @traderblast I bet. Good job on $AAPL w/ conviction! Now let\u0027s watch how $GOOG will follow footsteps of AAPL & $PCLN after bearish reversal.","lbl":"Positive"}
+,{"time":"21:45","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Google Inc(NASDAQ:GOOG) To Shut Down Its Shopping Site In China: Google Inc(NASDAQ:GOOG) To Shut Down Its... http://t.co/92Z5UwBt","lbl":"Negative"}
+]

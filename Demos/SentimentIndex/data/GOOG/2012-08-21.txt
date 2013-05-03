@@ -1,0 +1,16 @@
+[
+{"time":"0:41","usr":"AleColarizi","txt":"RT @niubi: Motorola Adds More to Layoff Compensation Package Following Protests in China-Caijing http://t.co/8FcI7Iha protests work $goog","lbl":"Negative"}
+,{"time":"6:48","usr":"girisari","txt":"RT @SAI: Google Argues Against Patent Wars Just A Few Days After Suing Apple For Patent Infringement $GOOG $AAPL by @sfiegerman http://t.co/tV3uDzGm","lbl":"Negative"}
+,{"time":"8:35","usr":"casualanalysis","txt":"Notable under performers\u2026my longs: $GOOG $WYNN $EBAY.","lbl":"Positive"}
+,{"time":"10:17","usr":"ritelink","txt":"Both $AAPL and $GOOG down 1% on the day.","lbl":"Negative"}
+,{"time":"10:18","usr":"rakeshlobster","txt":"$3 billion, incidentally, is the break fee $grpn supposedly wanted from $goog if regulators didn\u0027t clear the deal.","lbl":"Negative"}
+,{"time":"10:54","usr":"DeidreZune","txt":"Nasdaq 100 recovery to December 2000 levels--causes a tech profittaking.Understandable.Provides opportunity for new buyers $SPY $GOOG $AAPL","lbl":"Positive"}
+,{"time":"10:54","usr":"44andrew","txt":"$goog looks like a buy a 665","lbl":"Positive"}
+,{"time":"12:16","usr":"BUDDIEE18","txt":"RT @SellPuts: bunch of pansies sold the NQ almost vertically. looks like oct of 2008.. not just a $GOOG and $AAPL intra-day reversal http://t.co/smmvL3Df","lbl":"Negative"}
+,{"time":"12:54","usr":"JerTignes","txt":"$aapl no news today, just banksters taking their money to pay their layoffs and debts!! $goog down the same way","lbl":"Negative"}
+,{"time":"12:54","usr":"Bullish_Closer","txt":"RT @BloombergTV: BREAKING: Google\u0027s AA- rating may be raised by S&P on strong performance, via @BloombergNews $GOOG","lbl":"Positive"}
+,{"time":"13:38","usr":"TweetLeni","txt":"$GOOG short to be clear ,more typos I need more fingers","lbl":"Negative"}
+,{"time":"16:32","usr":"david320ruiz","txt":"RT @LaMonicaBuzz: Say what you want about Diller\u0027s penchant for buying tertiary dot com brands. Strategy works. $IACI up 22% YTD. Better than $GOOG & $YHOO","lbl":"Negative"}
+,{"time":"16:50","usr":"vvbellur","txt":"Google\u0027s Next Flagship Nexus Android Phone Could Be Just A Tiny Update $GOOG by @stevekovach http://t.co/xWe7bnbk #mobilenews","lbl":"Negative"}
+,{"time":"19:27","usr":"briancreagan","txt":"Is $GOOG ultimate winner here? RT @FinancialTimes: Apple-Samsung patent battle nears end http://t.co/El2pkDtq","lbl":"Positive"}
+]

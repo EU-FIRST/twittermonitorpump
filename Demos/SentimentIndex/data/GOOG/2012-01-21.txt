@@ -1,0 +1,8 @@
+[
+{"time":"4:40","usr":"sean_low95","txt":"RT @SAI: CHART OF THE DAY: Apple Is Now Twice As Valuable As Google $GOOG $AAPL by @jyarow http://t.co/1LO3pOqY","lbl":"Negative"}
+,{"time":"12:02","usr":"1nvestor","txt":"Gap Fills starring $GOOG http://t.co/qID88zpK","lbl":"Positive"}
+,{"time":"15:27","usr":"WilkiFinancial","txt":"Stocks Worth Buying Before Earnings Week 2: Jan. 23-27 - Seeking Alpha http://t.co/cE9oI1w1 $AAPL $GOOG $CAT $MCD $NFLX $TPX $AXP","lbl":"Positive"}
+,{"time":"15:33","usr":"stockpicks64","txt":"$GOOG - Google Stock Analysis - RSI is bearish and falling - http://t.co/R2dYEGht","lbl":"Negative"}
+,{"time":"19:27","usr":"iancassel","txt":"What $GOOG did to internet advertising is what $RVUE is doing to the digital signage industry. #rvue #digsignagetoday #makingiteasier","lbl":"Positive"}
+,{"time":"19:28","usr":"multistagecorre","txt":"http://t.co/n2EdTbIA $PRU=strongbuy $KO=strongbuy $AAPL=strongbuy $GOOG=strongbuy $HES=strongbuy $BTU=strongbuy $MET=strongbuy $FLR=strongbu","lbl":"Positive"}
+]

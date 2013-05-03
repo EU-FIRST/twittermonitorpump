@@ -1,0 +1,8 @@
+[
+{"time":"0:02","usr":"thefinancepress","txt":"$GOOG Monday Grok: Will Siri crack the walls of GOOG?: Monday Grok: Will Siri crack the walls of GOOG? Computer... http://t.co/DNCA73LA","lbl":"Negative"}
+,{"time":"8:36","usr":"brokerz_bullish","txt":"RT @SJosephBurns - Watch for $AAPL price crossing over the $GOOG price as a bullish market indicator. $QQQ","lbl":"Positive"}
+,{"time":"13:17","usr":"tradingstocks28","txt":"$GOOG - Google Stock Analysis - bullish macd crossover - http://t.co/aRoYhWTV","lbl":"Positive"}
+,{"time":"15:04","usr":"keertichivukula","txt":"$GOOG still holding a dominant search share despite all of the hoopla about Social. http://t.co/WZYJ43gN. Now, can they stop with G+ already","lbl":"Positive"}
+,{"time":"15:05","usr":"morganefitz","txt":"New: $GOOG,GOOGLE, Long Swing Trade S8, 20% $GOOG,GOOGLE, New Long Entry S8, 20%. 12 Shares @ 6... Read more at http://t.co/Sm9zrssB","lbl":"Positive"}
+,{"time":"19:32","usr":"rogpz","txt":"RT @SAI: Google Just Hired The Head Of The Pentagon\u0027s Research Arm $GOOG by @MattRosoff http://t.co/5vKadsyG","lbl":"Positive"}
+]

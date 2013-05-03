@@ -1,0 +1,19 @@
+[
+{"time":"1:00","usr":"vishalsood","txt":"Here\u2019s How Bad Android\u2019s Fragmentation Problem Is http://t.co/YLq4WsAi $GOOG","lbl":"Negative"}
+,{"time":"1:00","usr":"ACInvestorBlog","txt":"$GOOG http://t.co/r0FIOZYn Cleared all sorts of resistance yesterday. From here we can expect a run to the $640 area.","lbl":"Positive"}
+,{"time":"6:31","usr":"ChrisONeill2","txt":"Still love $goog but the move happened and i will wait for an entry much cheaper","lbl":"Negative"}
+,{"time":"9:12","usr":"MattKelmon","txt":"$AAPL cake clearly being reallocated to $GOOG this week. $GOOG a buy at <635>","lbl":"Positive"}
+,{"time":"9:35","usr":"itradethetape","txt":"@TraderFlorida Since a couple of leaders are popping up, ex $LNKD, $GOOG, etc. is that a red flag that they might now lead mkt back up?...","lbl":"Negative"}
+,{"time":"9:36","usr":"Rocket_Trades","txt":"$goog a new market leader...","lbl":"Positive"}
+,{"time":"10:10","usr":"wallstCS","txt":"Apple and Nokia Dethroned By This Growth Monster http://t.co/SuctsmyE $GOOG $NOK $AAPL #mkt #stocks","lbl":"Positive"}
+,{"time":"10:11","usr":"BioTechReports","txt":"$NBY - SQUEEZING!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$s,$wfc,$jpm,$ctic,$jpm,$wfc,$wmt,$chtp,$vvus,$amgn","lbl":"Positive"}
+,{"time":"11:02","usr":"casualanalysis","txt":"Monetizing mobile\u2026who can do it? Not $FB yet. Not $GOOG. $AAPL\u2026I\u0027d say so.","lbl":"Negative"}
+,{"time":"11:05","usr":"jamielissette","txt":"$goog, bot the 620 puts in goog for tomororw, 2.1","lbl":"Negative"}
+,{"time":"11:44","usr":"SAI","txt":"Microsoft And Google Are Both Playing To Their Strengths With Recent Search Updates $MSFT $GOOG by @MattRosoff http://t.co/tYVgwwK1","lbl":"Positive"}
+,{"time":"12:25","usr":"aztecs99","txt":"notables in the green -- $INTC, $MSFT, $GOOG and $RIMM (ok, just kidding on that one!!)","lbl":"Positive"}
+,{"time":"13:14","usr":"jamielissette","txt":"$goog goog about to go red!","lbl":"Negative"}
+,{"time":"19:21","usr":"SAI","txt":"Google Is In Total Denial About Its Huge Problem With Google+ $GOOG by @owenthomas http://t.co/lppy8Ne5","lbl":"Negative"}
+,{"time":"19:22","usr":"InternetAdvise","txt":"RT @SAI: Google Is In Total Denial About Its Huge Problem With Google+ $GOOG by @owenthomas http://t.co/lppy8Ne5","lbl":"Negative"}
+,{"time":"19:23","usr":"ServerAutomatio","txt":"Awesome Scoop: $GOOG to fight $AMZN in public #cloud IaaS war: http://t.co/bbOXesHp by @derrickharris","lbl":"Positive"}
+,{"time":"21:09","usr":"OnStocks","txt":"@tlmontana - Personally attacted to $GOOG more, after considering the costs of $FB. Fundamental. Its in a nice Bullish Wedge. Technical.","lbl":"Positive"}
+]

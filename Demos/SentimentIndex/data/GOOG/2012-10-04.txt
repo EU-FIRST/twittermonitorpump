@@ -1,0 +1,29 @@
+[
+{"time":"6:05","usr":"bernadettebaum","txt":"Google warns job cuts at Motorola Mobility unit to cost $340 million in third quarter, more restructuring to come http://t.co/A2cMfsOD $GOOG","lbl":"Negative"}
+,{"time":"7:59","usr":"dmackdaddy","txt":"Google warns job cuts will cost Motorola $340 million http://t.co/FkabJyWC $GOOG","lbl":"Negative"}
+,{"time":"8:45","usr":"takingstock614","txt":"$GOOG still remains strong. Just biding time before lift off to 800.","lbl":"Positive"}
+,{"time":"8:46","usr":"SPEQL8R","txt":"$GOOG looks lower to me but then again mo mo loves it","lbl":"Negative"}
+,{"time":"9:12","usr":"HFTAlert","txt":"longer term $goog Accumulator continues to look great. $spy $aapl http://t.co/1GFtozZm","lbl":"Positive"}
+,{"time":"9:12","usr":"petergo99037185","txt":"@lroberts411 $GOOG not acting right, AGAIN","lbl":"Negative"}
+,{"time":"9:26","usr":"referohu","txt":"Reuters: Google warns of more Motorola cuts, revises up third-quarter bill http://t.co/XFxX930S $GOOG: Reuters:... http://t.co/ZlT0TQBr","lbl":"Negative"}
+,{"time":"9:26","usr":"HamzeiAnalytics","txt":"RT @Reuters: RT @Reuters: Google warns of more Motorola cuts, revises up third-quarter bill http://t.co/VbyZjuhz $GOOG","lbl":"Negative"}
+,{"time":"9:52","usr":"FoxBusiness","txt":"Google\u2019s Motorola Mobility may cut more jobs than the 4,000 it previously announced http://t.co/6RqAbXkL $GOOG","lbl":"Negative"}
+,{"time":"9:53","usr":"RealCrystalBall","txt":"Google\u0027s Motorola Mobility may cut more jobs than the 4,000 it previously announced http://t.co/bsm8IYB4 $GOOG #Stocks","lbl":"Negative"}
+,{"time":"9:53","usr":"novicetrader88","txt":"RT @z8angela: RT @z8angela: $GOOG topped out again. Don\u0027t chase here.","lbl":"Negative"}
+,{"time":"10:14","usr":"MontagueConsult","txt":"RT @FoxBusiness: RT @FoxBusiness: Google\u2019s Motorola Mobility may cut more jobs than the 4,000 it previously announced http://t.co/6RqAbXkL $GOOG","lbl":"Negative"}
+,{"time":"10:17","usr":"canadadan","txt":"Starting $GOOG with a Oct12 750 Call...BTFD","lbl":"Positive"}
+,{"time":"10:57","usr":"thinkingtrades","txt":"I have no doubt, in this market that means for the next few milli seconds, that $GOOG has made up its mind to go much higher.","lbl":"Positive"}
+,{"time":"11:27","usr":"pengovsky","txt":"RT @AndrejRavnikar: RT @AndrejRavnikar: The Forgotten Mapmaker: Nokia Has Better Maps Than Apple and Maybe Even Google $NOK $GOOG $AAPL http://t.co/12SM0oik","lbl":"Negative"}
+,{"time":"11:31","usr":"cwilhel11","txt":"$GOOG HOD retest","lbl":"Positive"}
+,{"time":"12:28","usr":"tentativenytes","txt":"RT @SAI: RT @SAI: Google May Launch Several Android Phones Soon To Take On The iPhone 5 Over The Holidays $GOOG by @stevekovach http://t.co/45MXDaAB","lbl":"Positive"}
+,{"time":"13:36","usr":"julpepitone","txt":"RT @LaMonicaBuzz: RT @LaMonicaBuzz: $GOOG up again. New all-time high is now $767.81. But stock might be at $1000 already if only Google+ had 1B users! #s ...","lbl":"Positive"}
+,{"time":"13:36","usr":"elguary","txt":"RT @Reuters: RT @Reuters: Google settles with publishers over digital books http://t.co/xuY5PvXe $GOOG","lbl":"Positive"}
+,{"time":"13:36","usr":"pjhoody","txt":"RT @LaMonicaBuzz: RT @LaMonicaBuzz: $GOOG up again. New all-time high is now $767.81. But stock might be at $1000 already if only Google+ had 1B users! #s ...","lbl":"Positive"}
+,{"time":"15:00","usr":"Fitzstock2004","txt":"$goog should retest 766 break out early tomorrow.........will get long, only on a break of todays highs.......","lbl":"Positive"}
+,{"time":"15:00","usr":"SJosephBurns","txt":"I am still holding $GOOG call options long.","lbl":"Positive"}
+,{"time":"15:29","usr":"NataliyaNLR","txt":"RT @CNNMoney: RT @CNNMoney: Google strikes deal with publishers over universal library http://t.co/LYhql2GX $GOOG","lbl":"Positive"}
+,{"time":"15:55","usr":"survivor977","txt":"RT @CNNMoney: RT @CNNMoney: Google strikes deal with publishers over universal library http://t.co/LYhql2GX $GOOG","lbl":"Positive"}
+,{"time":"16:57","usr":"Fitzstock2004","txt":"also, watch 764 in $goog tomorrow......imo, that is critical, and would indicate possible FAILED BREAKOUT........","lbl":"Negative"}
+,{"time":"19:36","usr":"MarkECraft","txt":"RT @SAI: Google Maps Street View Now Works On The iPhone $GOOG $AAPL by @stevekovach http://t.co/IAb05DXG","lbl":"Positive"}
+,{"time":"23:06","usr":"thefinancepress","txt":"$GOOG Google To Incur Additional Charges On Motorola Mobility Restructuring: Google To Incur Additional Charges... http://t.co/dOzWPVQd","lbl":"Negative"}
+]

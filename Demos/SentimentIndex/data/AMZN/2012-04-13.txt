@@ -1,0 +1,8 @@
+[
+{"time":"1:03","usr":"stocktim1","txt":"$AMZN - Amazon Stock Analysis - ATR is bullish - http://t.co/LbhRA2V2","lbl":"Positive"}
+,{"time":"4:51","usr":"businessinsider","txt":"Amazon Inflates Numbers To Make Its Streaming Video Library Seem Bigger Than It Really Is $AMZN by @_dtl http://t.co/WoK6AzPg","lbl":"Negative"}
+,{"time":"7:09","usr":"buzutt","txt":"RT @businessinsider: Amazon Inflates Numbers To Make Its Streaming Video Library Seem Bigger Than It Really Is $AMZN by @_dtl http://t.co/WoK6AzPg","lbl":"Negative"}
+,{"time":"10:14","usr":"tonythetigerp","txt":"$AMZN long","lbl":"Positive"}
+,{"time":"12:12","usr":"psyt","txt":"RT @SAI: Amazon\u0027s Cloud Can Handle 1 Million Transactions Per Second $AMZN by @MattRosoff http://t.co/oWvtQtg0","lbl":"Positive"}
+,{"time":"12:12","usr":"DiogoCMoreira","txt":"RT @firstadopter: Give us Kindle unit numbers sold like Apple does and AWS revenue/margins. If you going to brag about it, give it up $AMZN","lbl":"Negative"}
+]

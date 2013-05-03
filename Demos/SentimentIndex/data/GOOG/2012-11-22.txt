@@ -1,0 +1,3 @@
+[
+{"time":"10:19","usr":"Maxmllt","txt":"RT @businessinsider: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG by @hblodget http://t.co/JwON0m85","lbl":"Negative"}
+]

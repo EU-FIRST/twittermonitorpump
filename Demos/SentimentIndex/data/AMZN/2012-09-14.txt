@@ -1,0 +1,10 @@
+[
+{"time":"9:10","usr":"Eloy_Rc","txt":"current holdings $AAPL $AMZN $CMCSA $LNKD $BIIB $IACI 100% net long","lbl":"Positive"}
+,{"time":"9:12","usr":"markflowchatter","txt":"$AMZN - not sure if this well hurt them but: Amazon to Begin California Sales Tax Collection on September 15th http://t.co/15pQdmV9","lbl":"Negative"}
+,{"time":"10:14","usr":"ECONgeek947","txt":"@Casseon on the contrary, more likely $NFLX will surpass $AMZN in UK this winter & beat HBO $TWX like an unloved stepchild ;) $AAPL $FB $P","lbl":"Negative"}
+,{"time":"10:32","usr":"Jamtrades","txt":"Commented on StockTwits: I know I know... but can that really stop $AMZN? No! http://t.co/7EptvKVU","lbl":"Positive"}
+,{"time":"10:35","usr":"DividendMaster","txt":"@upsidetrader @The_Real_Fly Will be here when all the bagholders in junk bonds and $AMZN realize they been had","lbl":"Negative"}
+,{"time":"11:07","usr":"outlawz616","txt":"@firstadopter That is fricken hilarious! $AMZN","lbl":"Negative"}
+,{"time":"11:41","usr":"biggercapital","txt":"Just got the new Fire. Speakers on this device pretty amazing. Watching Coming to America. $AMZN will sell a ton of these $DLB","lbl":"Positive"}
+,{"time":"13:12","usr":"Rod_RLR","txt":"It\u0027s normal that $AAPL and $AMZN explore new highs in that way, a little hesitant perhaps. Patience will pay here.","lbl":"Positive"}
+]

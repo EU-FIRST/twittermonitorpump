@@ -1,0 +1,4 @@
+[
+{"time":"12:56","usr":"JohnEarlBurnett","txt":"@JohnEarlBurnett @Dantanner Anyone who puts their life/business in the $GOOG #Cloud until personal encryption is available is a total moron!","lbl":"Negative"}
+,{"time":"21:35","usr":"USwwwStocks","txt":"$GOOG News: Google Inc\u0027s (NASDAQ:GOOG) Nexus 7 Available at US Stores http://t.co/qFFO9i9Q #GOOG #available #Google","lbl":"Positive"}
+]

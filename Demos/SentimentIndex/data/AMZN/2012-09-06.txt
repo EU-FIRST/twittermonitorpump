@@ -1,0 +1,31 @@
+[
+{"time":"9:05","usr":"DeidreZune","txt":"$GOOG train has left the station. $AAPL $AMZN next","lbl":"Positive"}
+,{"time":"12:05","usr":"Robbcarpdm","txt":"$amzn remember kindle they dont have to make money but $aapl does roflmao","lbl":"Negative"}
+,{"time":"12:51","usr":"businessinsider","txt":"Amazon Announces New Backlit Kindle Reader $AMZN by @stevekovach http://t.co/Vpcb78bl","lbl":"Positive"}
+,{"time":"12:55","usr":"mattdebord","txt":"RT @CNBC: The new Kindle Paperwhite gets 8 weeks of battery life even if you leave the light on all the time. http://t.co/afrWWOsj $AMZN","lbl":"Positive"}
+,{"time":"12:56","usr":"Arnuminous","txt":"I guess the iKindle is not going over too well. $AMZN","lbl":"Negative"}
+,{"time":"12:59","usr":"event_trader","txt":"and $AMZN just lost VWAP \u201C@firstadopter: $AAPL rallying on $AMZN event. Go figure\u201D","lbl":"Negative"}
+,{"time":"13:06","usr":"LifetimeCO","txt":"RT @CNBC: The new Kindle Paperwhite gets 8 weeks of battery life even if you leave the light on all the time. http://t.co/afrWWOsj $AMZN","lbl":"Positive"}
+,{"time":"13:17","usr":"bsilent","txt":"$Amzn now trading over 300+ p/e. If $aapl was at the same valuation, I wouldn\u0027t be in this cubicle.","lbl":"Negative"}
+,{"time":"13:38","usr":"kelliebell10","txt":"RT @SmartMoney: Amazon shares reached an all-time high on Thursday ahead of its Kindle Fire announcement. http://t.co/P4Pg3YyQ $AMZN","lbl":"Positive"}
+,{"time":"13:45","usr":"swamptrade","txt":"$AMZN making new high, $GOOG could follow, $AAPL lagging.","lbl":"Positive"}
+,{"time":"13:45","usr":"JuliusFerraro","txt":"$AMZN new kindle will kill iPad sales. The stock isn\u0027t worth even half of what its trading at. They won\u0027t recoup the hardware losses though","lbl":"Positive"}
+,{"time":"13:50","usr":"USwwwStocks","txt":"$AMZN News: Highs & Lows: http://t.co/mcOt5byj, General Electric, Google, and Trina Solar http://t.co/jOlXm1tp #AMZN #ampamp #Amazoncom","lbl":"Positive"}
+,{"time":"13:54","usr":"lluccipha","txt":"SAI: CHART OF THE DAY: The Explosion In Kindle Book Sales $AMZN by @jyarow http://t.co/AB42LJlx","lbl":"Positive"}
+,{"time":"13:54","usr":"zengqi","txt":"Is $AMZN spreading itself too thin?","lbl":"Negative"}
+,{"time":"14:02","usr":"smaruzzi","txt":"RT @SAI: CHART OF THE DAY: The Explosion In Kindle Book Sales $AMZN by @jyarow http://t.co/DIrnbbX5","lbl":"Positive"}
+,{"time":"14:02","usr":"wklyopttrades","txt":"$AMZN play: nothing wrong booking 50% profit","lbl":"Positive"}
+,{"time":"14:08","usr":"kpooya","txt":"RT @howardlindzon: Feels good to be long $goog $lnkd $amzn more tham ever","lbl":"Positive"}
+,{"time":"14:16","usr":"Sermario","txt":"Was $AAPL really concerned about an $AMZN phone lol...they got long ways to go in the HW dept...","lbl":"Negative"}
+,{"time":"14:16","usr":"jpu19","txt":"$AMZN 1,89% unveils Kindle Paperwhite http://t.co/ZTHW4rao","lbl":"Positive"}
+,{"time":"14:37","usr":"NewsSR","txt":"One fail from #Amazon, the new stuff are not yet up on Amazon(.)com... @Amazon @AmazonKindle $AMZN","lbl":"Negative"}
+,{"time":"14:50","usr":"mayowaowolabi","txt":"RT @cumiastowski: What $AMZN did today \u2026 Wow. This is why RIM needs a content partner like them. AMZN cares not about h/w profit, only ...","lbl":"Positive"}
+,{"time":"15:00","usr":"SharePlanner","txt":"holding 5 positions overnight all longs: $CROX $AMZN $V $ALXN $FBHS","lbl":"Positive"}
+,{"time":"15:11","usr":"firstadopter","txt":"All the new $AMZN Kindle Fire models ARE AD-SUPPORTED. Funny they didn\u0027t mention this neat feature during the event: http://t.co/EAW5wxOf","lbl":"Negative"}
+,{"time":"16:39","usr":"netgarden","txt":"@parislemon I\u0027m not sure Amazon really needs Google at this point. Larger question is whether $GOOG can stop $AMZN from co-opting Android.","lbl":"Positive"}
+,{"time":"16:39","usr":"nlitenmebabe","txt":"RT @wallstCS: Market Recap: ECB Juices Stocks, Bezos WOWS Techies, VeriFone Collapses http://t.co/YHDUxoSV $AAPL $FB $AMZN $NAV $PAY #mk ...","lbl":"Positive"}
+,{"time":"17:11","usr":"RaviRomo","txt":"RT @firstadopter: There is very little incentive to buy the $299 1920x1200 $AMZN Kindle Fire HD given that most of $NFLX and Prime strea ...","lbl":"Negative"}
+,{"time":"19:33","usr":"deadmau5mania","txt":"Is it just me or the $AMZN kindle fire video looks like an $AAPL iPad video rip off?","lbl":"Negative"}
+,{"time":"20:29","usr":"danhyder","txt":"Hard to argue $aapl win over Samsung reduces consumer choice when great companies like $amzn & $goog keep innovating. American brainpower!","lbl":"Positive"}
+,{"time":"23:53","usr":"thetrading","txt":"These new amazon tablets are getting quite a bit of press. Many of it quite positive. $AMZN","lbl":"Positive"}
+]

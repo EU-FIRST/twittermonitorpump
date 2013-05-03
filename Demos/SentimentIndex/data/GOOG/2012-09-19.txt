@@ -1,0 +1,5 @@
+[
+{"time":"14:01","usr":"TradingBlues1","txt":"RT @traderstewie: Some names making new 52 week highs: $SHW, $RYL, $MON, $AOL, $WHR, $NSM, $CAB, $RAX, $CAKE, GE, $GOOG","lbl":"Positive"}
+,{"time":"14:01","usr":"tradermays","txt":"$FB $GOOG $JCP $LULU $LVS $BIDU $DECK etc forget about it","lbl":"Negative"}
+,{"time":"15:28","usr":"ABBlitzer","txt":"Out half $goog all $bak and $rig.","lbl":"Negative"}
+]

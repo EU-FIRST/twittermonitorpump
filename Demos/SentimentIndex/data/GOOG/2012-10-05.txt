@@ -1,0 +1,17 @@
+[
+{"time":"5:40","usr":"SeekingAlpha","txt":"Google Has Lost Its Alpha http://t.co/IRWyMX33 $FB $VRNG $GOOG","lbl":"Negative"}
+,{"time":"6:26","usr":"aceytlca","txt":"RT @SAI: RT @SAI: Google Admits Fixing Motorola Will Cost More Than It Thought $GOOG by @nichcarlson http://t.co/wbPgkIId","lbl":"Negative"}
+,{"time":"7:53","usr":"williambanzai7","txt":"RT @businessinsider: RT @businessinsider: Google Admits Fixing Motorola Will Cost More Than It Thought $GOOG by @nichcarlson http://t.co/0eB1GkWL","lbl":"Negative"}
+,{"time":"7:59","usr":"tphedgegroup","txt":"$GOOG to $AAPL spread grows to $105. nice move from $10 . we like this, and anticipate a$145.00 spread.","lbl":"Positive"}
+,{"time":"7:59","usr":"Financedge","txt":"$AAPL has no upside momentum, $GOOG has it all, daily chart tells the story","lbl":"Positive"}
+,{"time":"8:52","usr":"BMWagar","txt":"RT @SAI: RT @SAI: Google Admits Fixing Motorola Will Cost More Than It Thought $GOOG by @nichcarlson http://t.co/wbPgkIId","lbl":"Negative"}
+,{"time":"8:54","usr":"Fitzstock2004","txt":"@CeeJeanne yes,,,,,short $goog 780 weekly calls , with intention of letting them expire at zero.....wish me luck:)","lbl":"Negative"}
+,{"time":"10:30","usr":"hige0111","txt":"RT @SAI: RT @SAI: Leaked: Here Are The Specs For Google\u0027s Upcoming Nexus Phone $GOOG by @officialKLS http://t.co/OOyZ8gTw","lbl":"Positive"}
+,{"time":"10:30","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Shriram Kavitark Ram Director SOLD 15000 shares \u2611","lbl":"Negative"}
+,{"time":"11:13","usr":"RatioTrader","txt":"LG will launch a $GOOG Nexus smartphone in mid-November, site says http://t.co/4UEgWu5x","lbl":"Positive"}
+,{"time":"11:15","usr":"noahmp","txt":"Social sentiment on StockTwits has turned bearish for $goog over the last couple weeks. http://t.co/ueYZPJph","lbl":"Negative"}
+,{"time":"12:32","usr":"eirigance","txt":"Leaked: Here Are The Specs For @Google\u0027s Upcoming @Nexus Phone $GOOG by @officialKLS http://t.co/4oFDFiId","lbl":"Positive"}
+,{"time":"12:33","usr":"AlreadyBakedIn","txt":"$aapl is a hold. $goog a buy on next pullback in 740s.","lbl":"Positive"}
+,{"time":"14:28","usr":"Alejandroperez","txt":"Wow! \u201C@launchticker: Bing search results have 65% of malware redirects, $goog 30% http://t.co/aAhvB6mY http://t.co/D7bTIluu\u201D","lbl":"Positive"}
+,{"time":"14:31","usr":"z8angela","txt":"@blassino123 $GOOG will close near its day low on higher volume on the overextended chart. Does that sound familiar? Plan your trade...","lbl":"Negative"}
+]

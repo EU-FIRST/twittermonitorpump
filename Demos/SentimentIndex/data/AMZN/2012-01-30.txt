@@ -1,0 +1,16 @@
+[
+{"time":"3:40","usr":"thekeikoshow","txt":"On my radar tmrw... $XOM $BIDU $AMZN $MA $OIL $GLD $VIX $SPY","lbl":"Positive"}
+,{"time":"8:15","usr":"cnbcfastmoney","txt":"RT @CNBCMelloy: Themes: Apple EPS hangover, $AMZN can\u0027t carry load; eco data doesn\u0027t look great this week; Germans play hardball; Facebook IPO feels toppy","lbl":"Negative"}
+,{"time":"8:18","usr":"DontTakeLosses","txt":"RT @CNBCMelloy: Themes: Apple EPS hangover, $AMZN can\u0027t carry load; eco data doesn\u0027t look great this week; Germans play hardball; Facebook IPO feels toppy","lbl":"Negative"}
+,{"time":"9:56","usr":"NickGweezy","txt":"hmm, $AMZN could pop big after earnings - http://t.co/WTwsmIWj","lbl":"Negative"}
+,{"time":"10:45","usr":"jamescallahan","txt":"As called B4 market open - $AMZN\u0027s fight is around 191 (now let it knock itself out, don\u0027t touch it now)","lbl":"Negative"}
+,{"time":"10:53","usr":"RogueStockTradr","txt":"Also LOL $AMZN spike right after I sell... sooooo typical! >:)","lbl":"Positive"}
+,{"time":"11:41","usr":"rekko31","txt":"Long $AMZN 200 calls at avg price of 5.8 a contract","lbl":"Positive"}
+,{"time":"13:47","usr":"pnavarro88","txt":"$AMZN is becoming too broad. Needs to be more focus on core RT @Reuters: Amazon unit may be moving into sporting goods http://t.co/OZlIftcz","lbl":"Negative"}
+,{"time":"14:16","usr":"boseyjones","txt":"$AMZN got the boom","lbl":"Negative"}
+,{"time":"14:16","usr":"OptionsHawk","txt":"Boom on those $AMZN calls....","lbl":"Positive"}
+,{"time":"14:16","usr":"OptionsHawk","txt":"Looks like they are running $ATML higher ahead of what should be big Kindle Fire sales numbers out of Amazon $AMZN","lbl":"Positive"}
+,{"time":"15:02","usr":"chaikintools","txt":"http://t.co/1IL2R0hC, Inc. $AMZN Earnings Out Tuesday - Power Gauge Bearish - Overbought Sell http://t.co/ZKE9EGcg","lbl":"Negative"}
+,{"time":"19:34","usr":"leopardtrader","txt":"Risks to continue rally after todays pullback. To see higher prices down in the week. $SPY $AMZN $ AAPL $ AUDUSD","lbl":"Positive"}
+,{"time":"23:15","usr":"princebhojwani","txt":"$AMZN http://t.co/ubQlwev0 I\u0027m expecting low margins, it\u0027s always how it\u0027s been done @ AMZN. Kindle fire n...","lbl":"Negative"}
+]

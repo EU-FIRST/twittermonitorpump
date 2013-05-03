@@ -1,0 +1,8 @@
+[
+{"time":"10:38","usr":"jimcollins","txt":"Kicked off the put on my $AMZN straddle for 1.50 so that\u0027s 50% profit in one day. And I own a 180 expiring call as a free bonus lol","lbl":"Positive"}
+,{"time":"11:40","usr":"jamescallahan","txt":"Aaaaaaaaaaaaaaaaaaand $AMZN is GREEN on the day! This market does not want down... period.","lbl":"Positive"}
+,{"time":"11:41","usr":"NoDoji","txt":"$AMZN 5 min looks bullish to me, except for descending cloud support http://t.co/JIf2Xvm4","lbl":"Positive"}
+,{"time":"13:26","usr":"hectorianlogic","txt":"Long $amzn 176.5 stop lossing 175.90 Let see...","lbl":"Positive"}
+,{"time":"14:21","usr":"Antelope_Bach","txt":"RT @wallstCS: E-Book Sales Continue to Climb in Latest Publishing Industry Report http://t.co/3ygGM3Mz $AMZN $BKS $AAPL $RIMM $DELL #mkt #stocks #trading","lbl":"Positive"}
+,{"time":"14:27","usr":"Catwoman2011","txt":"RT @NoDoji: $AMZN breaking out","lbl":"Positive"}
+]

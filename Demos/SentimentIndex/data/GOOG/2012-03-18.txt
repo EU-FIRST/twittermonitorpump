@@ -1,0 +1,4 @@
+[
+{"time":"10:00","usr":"SteelerTrader","txt":"$GOOG http://t.co/fxUqFpJe Not a bad look here trying to break out of range- long > 626. swing stop can be losing 612 or 2.3%","lbl":"Positive"}
+,{"time":"17:44","usr":"bclund","txt":"BREAKING NEWS: $AAPL schedules press conference to announce they have used free cash to construct a \u0022laser\u0022 that is pointed right at $GOOG","lbl":"Negative"}
+]

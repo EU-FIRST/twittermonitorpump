@@ -1,0 +1,5 @@
+[
+{"time":"7:59","usr":"chatlas","txt":"RT @businessinsider: Google\u0027s Stock Split Is Evil $GOOG by @felixsalmon http://t.co/ybdt4rOC","lbl":"Negative"}
+,{"time":"8:09","usr":"NaheedKurji","txt":"RT @SAI: Google\u0027s Stock Split Is Evil $GOOG by @felixsalmon http://t.co/26uEeiCB","lbl":"Negative"}
+,{"time":"11:09","usr":"thefinancepress","txt":"$GOOG Scoring Earnings Season: A True Tale of the Tape (AA, JPM, WFC, GOOG, NOK ...: Scoring Earnings Season: A... http://t.co/3wzwa0Jl","lbl":"Positive"}
+]

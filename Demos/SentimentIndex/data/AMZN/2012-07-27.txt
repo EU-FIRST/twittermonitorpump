@@ -1,0 +1,19 @@
+[
+{"time":"2:25","usr":"binaryoptionsjt","txt":"RT @RealDividendLab: @DividendMaster very true. $AMZN - after all these years - is still not making major bucks per quarter? It\u0027s silly. I\u0027ll stick w/ $WDC 3.8x","lbl":"Negative"}
+,{"time":"2:32","usr":"LarsTS","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"5:59","usr":"Retail_Guru","txt":"@spbaines And that\u0027s a very fair question to raise. I think its clear $AMZN is in a phase where its being run for shoppers not shareholders","lbl":"Negative"}
+,{"time":"7:47","usr":"graubart","txt":"RT @SAI: MUNSTER: Amazon\u0027s Kindle Fire Will Be \u0027Destroyed\u0027 By Apple This Holiday Season $AMZN $AAPL by @sfiegerman http://t.co/uV1q64mn","lbl":"Negative"}
+,{"time":"8:14","usr":"SoylentGreenBot","txt":"@davidfabercnbc yes, lets talk about $AMZN. What have they delivered in terms of earnings ? Almost nothing dude","lbl":"Negative"}
+,{"time":"8:14","usr":"tkuz4u","txt":"Jeff Bezos is Genious! No doubt about it! $Amzn is up on 1cent profit a share? & $GOOG & $AAPL on billions $ in profits go down?","lbl":"Positive"}
+,{"time":"8:34","usr":"FreeMrktCptlst","txt":"So over the next 6 months, I\u0027m going watch how this stock reacts, and see if building a nice short position is warranted $AMZN","lbl":"Negative"}
+,{"time":"8:35","usr":"JAuerbach4","txt":"$amzn up 10 on those numbers. this stock will never go down.","lbl":"Positive"}
+,{"time":"8:43","usr":"erickschonfeld","txt":"RT @ericjackson: Pretty sure $AMZN\u0027s stock will never drop - no matter how much money they don\u0027t make","lbl":"Positive"}
+,{"time":"8:52","usr":"ToddSullivan","txt":"RT @kiddynamiteblog: seems like a good time to revisit this old $AMZN post: http://t.co/4GRhhfHk $AMZN is going to run the retail world..","lbl":"Positive"}
+,{"time":"8:52","usr":"ramiroencizo","txt":"As of yesterday I am a first time shareholder of $AMZN ... Already +5% good job #BezosCEO on quarterly results!","lbl":"Positive"}
+,{"time":"8:59","usr":"EvanMedeiros","txt":"$AMZN above 234 level and we\u0027re clear for take off.","lbl":"Positive"}
+,{"time":"10:52","usr":"Vconomics","txt":"@TRYKtrading $AMZN has a forward P/E of 80, $EBAY has a forward P/E of 16. And compare margins of both companies side by side.","lbl":"Positive"}
+,{"time":"12:42","usr":"CBOE","txt":"VIX methodology for Amazon- $VXAZN -34% to 33.78, $AMZN +6% on Q3","lbl":"Positive"}
+,{"time":"13:15","usr":"jarsch","txt":"$AMZN move is incredible! If you shorted last night on earnings got major burnt toast. Wall St loves them, that simple.","lbl":"Positive"}
+,{"time":"14:45","usr":"FairOaksTrader","txt":"5 Longs: $TCBI $ALXN $BIIB $GLD $BUNL. 4 Shorts: oil via $SCO, Euro via $EUO, $SBUX and $AMZN. :)","lbl":"Negative"}
+,{"time":"16:22","usr":"alexdgn","txt":"RT @DividendMaster: $AMZN is a buy buy buy cuz they gonna lose hundreds of millions next Q to buy market share . Yup , http://t.co/tVJAYCxv circa 1999 strategy","lbl":"Positive"}
+]

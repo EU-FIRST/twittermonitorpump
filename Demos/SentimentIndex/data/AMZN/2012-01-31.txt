@@ -1,0 +1,46 @@
+[
+{"time":"7:00","usr":"$AMZN","txt":"$AMZN earnings roundup: Piper Jaffray lowers EPS to better reflect spending on content, infrastructure. Caris says watch FX, margins","lbl":"Negative"}
+,{"time":"7:03","usr":"$AMZN","txt":"$AMZN cont: DB expects profit growth to resume mid 2012 says buy weakness in share price. Terminal shows 24 Buys, 15 Holds, 1 Sell from BGC","lbl":"Positive"}
+,{"time":"10:11","usr":"$AMZN","txt":"Sean made a pick on Stocial. Long $AMZN at 194.15. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"16:07","usr":"LaMonicaBuzz","txt":"Joking aside, $AMZN had great quarter. Sales up 35%. But expectations were extremely high. And the guidance is a tad light. Down she goes.","lbl":"Negative"}
+,{"time":"16:07","usr":"Bokwe_Invest","txt":"$AMZN Amazon reports Q4 operating margin of 1.5% vs 0.7% last qtr and 3.7% Q4 year ago\u0022","lbl":"Negative"}
+,{"time":"16:07","usr":"Tape_Reader","txt":"RT @JonErlichman: #Amazon forecast for 1Q sales is $12-$13.4B...that\u0027s below estimate of $13.42B; #stock now down 9% after hours $AMZN","lbl":"Negative"}
+,{"time":"16:09","usr":"scubast2ve","txt":"Let\u0027s review Q4 results... $AMZN down 10% after earnings $GOOG down 10% after earnings $AAPL up 8% after earnings ...who\u0027s #Winning again?","lbl":"Negative"}
+,{"time":"16:09","usr":"Shapkarov","txt":"$AMZN selling off after earnings as always","lbl":"Negative"}
+,{"time":"16:09","usr":"nicholagroom","txt":"RT @PoornimaGupta: Amazon shares plunge 10 percent in after hours trading on big drop in quarterly profit $AMZN","lbl":"Negative"}
+,{"time":"16:09","usr":"bramsal","txt":"RT @gtotoy: $AMZN dead wrong<< u still in it?","lbl":"Negative"}
+,{"time":"16:11","usr":"Hephaestus7","txt":"RT @laureni: Amazon 4Q sales up 35% to $17.43 billion. Kindle sales up 177% year-over-year during the holidays - http://t.co/fuNvA04K $AMZN","lbl":"Positive"}
+,{"time":"16:12","usr":"McCallanTrader","txt":"RT @chessNwine: BEST BUY IS BACK, BABY! $AMZN","lbl":"Negative"}
+,{"time":"16:14","usr":"pepegrillo1983","txt":"RT @BloombergNews: RT @jonerlichman: #Amazon 4Q sales up 35% to $17.4B but estimate was for $18.26B! $AMZN down 6% after hours","lbl":"Negative"}
+,{"time":"16:17","usr":"Bokwe_Invest","txt":"RT @Benzinga: $AMZN Down About 9% AH; EPS of $0.38 Does Not Look Comparable to $0.19 Est","lbl":"Negative"}
+,{"time":"16:17","usr":"tradefast","txt":"small long $AMZN 175.24 - out 178.78 - i dunno","lbl":"Positive"}
+,{"time":"16:21","usr":"retail_sails","txt":"Amazon Shares Plunge in After-Hours as Sales Miss Estimates, Profit Drops on Surge in Expenses http://t.co/p1kVc5pq #retail $AMZN","lbl":"Negative"}
+,{"time":"16:21","usr":"andrewnyquist","txt":"RT @StkConfidential: $AMZN is a special case in that it spends a ton on infrastructure to grow its business, but its earnings frequently suffer as a result. $$","lbl":"Negative"}
+,{"time":"16:22","usr":"danielm6","txt":"RT @HedgeyeRetail: $AMZN Guiding Q1 below the Street: Revs of $12.0-$13.4Bn vs. $13.4E. Typical #Bezos. Fear not.","lbl":"Negative"}
+,{"time":"16:26","usr":"Tradin4Gains","txt":"RT @HedgeyeRetail: $AMZN Guiding Q1 below the Street: Revs of $12.0-$13.4Bn vs. $13.4E. Typical #Bezos. Fear not.","lbl":"Negative"}
+,{"time":"16:26","usr":"WeezyMiyagi","txt":"@OptionsHawk Margins are so low. Hard to fathom any business surviving on 1-2%! $AMZN","lbl":"Negative"}
+,{"time":"16:32","usr":"thekeikoshow","txt":"@Lowtown21 I sold most of my $AMZN calls b4 close, pattern I noticed made me nervous. I\u0027m not selling the remainder of my calls.","lbl":"Negative"}
+,{"time":"16:32","usr":"TOK715AG","txt":"\u58F2\u4E0A\u304C\u4E88\u60F3\u3092\u4E0B\u56DE\u3063\u305F\u306E\u306DRT @YahooFinance: Amazon says first-quarter loss possible; shares fall http://t.co/OQllEVA0 $AMZN #earnings","lbl":"Negative"}
+,{"time":"16:38","usr":"conorsen","txt":"@pjfny @jalex2003 Nonprofit -- $AMZN has notoriously low margins.","lbl":"Negative"}
+,{"time":"16:49","usr":"MarketBeat","txt":"http://t.co/UX9o7zKh Amazon Results Disappoint, Stock Tumbles In Late Trading $$ $AMZN @wsj #marketbeat","lbl":"Negative"}
+,{"time":"16:49","usr":"StocksMD","txt":"Seems every $AMZN earnings miss i recall, pps usually eventually gets bot back up sooner or later...we\u0027ll see","lbl":"Positive"}
+,{"time":"16:57","usr":"mitchdeg","txt":"RT @YahooFinance: Amazon says first-quarter loss possible; shares fall http://t.co/bmvq9qs5 $AMZN #earnings","lbl":"Negative"}
+,{"time":"16:57","usr":"1MadMarket","txt":"$AMZN is a screaming BUY BUY BUY right now. Amazon is the best retailer in the world.","lbl":"Positive"}
+,{"time":"17:09","usr":"GetSharked","txt":"Shocked people are shocked by $AMZN missing earnings. 102 p/e and places like koobay coming into the picture #techevolution","lbl":"Negative"}
+,{"time":"17:09","usr":"frizbshay","txt":"So Amazon\u0027s ($AMZN) sales went up 38% but profit went down 53%. #fail down almost 10% afterhours","lbl":"Negative"}
+,{"time":"17:09","usr":"noto1031","txt":"RT @julpepitone: Amazon earnings OK, but stock slides 10% anyway http://t.co/zoIDdlJv via @CNNMoneyTech $AMZN","lbl":"Negative"}
+,{"time":"17:10","usr":"itbot1","txt":"RT@SAI Why Amazon\u0027s Tablet Business Is Nowhere Near As Good As Apple\u0027s (Yet) $AMZN $AAPL by @MattRosoff http://t.co/aLYmldwm","lbl":"Negative"}
+,{"time":"17:18","usr":"jontrainor","txt":"RT @TMFInsideValue: Amazon ($AMZN) disappoints with earnings after hours. The stock is off 9%. Come to papa, you chronically overvalued superstar.","lbl":"Negative"}
+,{"time":"17:18","usr":"given2tweet","txt":"$AMZN bear inflection point? First time they\u0027ve missed sales and guided sales below sell side for out quarter. #nonprofit","lbl":"Negative"}
+,{"time":"17:18","usr":"amirovz","txt":"$AMZN *sigh*","lbl":"Negative"}
+,{"time":"17:28","usr":"katetrades","txt":"$AMZN Its a great company, its a miss, time will tell. LOVE their web services though. Huge growth in 2011.","lbl":"Positive"}
+,{"time":"17:43","usr":"idannyb","txt":"RT @turleymuller: Analyst said $AMZN is trading on expectations not valuation. How is that possible? Valuation is the imputed value of expectations","lbl":"Negative"}
+,{"time":"17:43","usr":"SUInvestClub","txt":"RT @MarketBeat: http://t.co/UX9o7zKh Amazon Results Disappoint, Stock Tumbles In Late Trading $$ $AMZN @wsj #marketbeat","lbl":"Negative"}
+,{"time":"17:43","usr":"StockTwits","txt":"RT @Retail_Guru while sales slow, free cash flow surges 27% at Amazon. Still fab at running negative working capital; cash 12% of cap $AMZN","lbl":"Negative"}
+,{"time":"17:52","usr":"StockViking","txt":"Reducing my fair value prices for $amzn from 60 - 80 to 40 - 50/share. Sound ridiculous? Just wait a while.","lbl":"Negative"}
+,{"time":"17:52","usr":"1MadMarket","txt":"RT @EarningsTweets: $AMZN CFO: Inv up 56% to $4.99B; inv turns 10.3 vs 11.4 in 4Q10 due to expanded selection, improved in-stock levels, new product categories.","lbl":"Positive"}
+,{"time":"17:53","usr":"WeezyMiyagi","txt":"@StockSage1 when will they justify that inflated PE? 2020? I say never. No room for error with those profit margins. $AMZN","lbl":"Negative"}
+,{"time":"19:14","usr":"mark_haylock","txt":"RT @tristan: @drance That\u0027d make $AAPL $3546 a share at the same P/E ratio os $AMZN.","lbl":"Negative"}
+,{"time":"21:03","usr":"$AMZN","txt":"$AMZN is an interesting play. It\u0027s difficult to gauge its earnings as they continue to make big bets. #platformwars #whatsprofit","lbl":"Positive"}
+,{"time":"22:42","usr":"ersuarez","txt":"RT @SeekingAlpha: Amazon Reliant On Growth That\u0027s Not There http://t.co/bACZuGHH $NFLX $BBY $AAPL $AMZN","lbl":"Negative"}
+]

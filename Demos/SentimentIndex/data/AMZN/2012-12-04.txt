@@ -1,0 +1,11 @@
+[
+{"time":"8:54","usr":"JBling13","txt":"RT @Fitzstock2004: $amzn $ebay $pcln $goog all continue to look EXTREMELY BULLISH.........dips should get bought, with 2 fists","lbl":"Positive"}
+,{"time":"11:20","usr":"Dmottco","txt":"@Sangluccitrades you better watch it, it does some scary shit sometimes when your short, I have lost more money shorting $amzn thn any other","lbl":"Positive"}
+,{"time":"12:33","usr":"davemoon","txt":"\u0022You can find what you need but not what you want on $amzn\u0022 @shanaglick","lbl":"Negative"}
+,{"time":"14:08","usr":"rakeshlobster","txt":"As expected, I lost my bet on the intelligence of Amazon locker. It isn\u0027t smart enough to route packages to the same locker. $AMZN","lbl":"Negative"}
+,{"time":"15:02","usr":"tradethembi","txt":"$AMZN 10 min was riding green trend then orange dot players decided to push another run ! BINGO ! http://t.co/cCwXw9Rv","lbl":"Positive"}
+,{"time":"15:03","usr":"StkConfidential","txt":"$AMZN continuing its amazing run. Nice! $$","lbl":"Positive"}
+,{"time":"15:47","usr":"joebones265","txt":"$NFLX what is the hoopla about? Paid a ton of money to $DIS and starts in 2016 $AMZN by then will have crushed them!","lbl":"Positive"}
+,{"time":"18:04","usr":"Fitzstock2004","txt":"still bullish $amzn $ebay $pcln $bac .....and if you trade $aapl buy Jan ITM calls(.i.e 550 ) and sell weekly (580s) against.....GL to all","lbl":"Positive"}
+,{"time":"20:14","usr":"reuvenohr","txt":"\u0022@Zubair84: \u0022@reuvenohr: still holding \u0022the people with the smile on the box\u0022 $AMZN\u0022Amzn gonna go much higher bro\u0022 <-you ridin?","lbl":"Positive"}
+]

@@ -1,0 +1,16 @@
+[
+{"time":"0:04","usr":"econo","txt":"\u201C@firstadopter: Blog post: $AMZN is the Secular Short. http://t.co/T8eylMNg\u201D. Great food for thought.","lbl":"Negative"}
+,{"time":"0:15","usr":"Johnboy23233","txt":"RT @firstadopter: Blog post: $AMZN is the Secular Short of 2012. Please RT if you appreciate this type of work: http://t.co/xkNRhR9J","lbl":"Negative"}
+,{"time":"0:19","usr":"61point8","txt":"$AMZN: Bear in the Jungle http://t.co/d411gJsV","lbl":"Negative"}
+,{"time":"6:13","usr":"iMansaf","txt":"Is Amazon About to Repeat Netflix\u0027s Big Mistake? $AMZN $NFLX http://t.co/cN0tJjQs","lbl":"Negative"}
+,{"time":"6:16","usr":"alexanderywang","txt":"RT @firstadopter: Blog post: $AMZN is the Secular Short of 2012. Please RT if you appreciate this type of work: http://t.co/xkNRhR9J","lbl":"Negative"}
+,{"time":"11:51","usr":"outlawz616","txt":"RT @SAI: Amazon Is The Best Company To Short Right Now $AMZN by @firstadopter http://t.co/fFYkYLI6","lbl":"Negative"}
+,{"time":"13:12","usr":"StockTwits","txt":"Well done... RT @reformedbroker .@FIRSTADOPTER\u0027S AMAZON SHORT THESIS http://t.co/sZPNDD77 $AMZN","lbl":"Negative"}
+,{"time":"13:15","usr":"ampressman","txt":"Gearing up as a 2012 battleground stock -@FIRSTADOPTER has AMAZON SHORT THESIS http://t.co/C5BMSk1M $AMZN via @StockTwits @reformedbroker","lbl":"Negative"}
+,{"time":"14:03","usr":"dtsoy","txt":"RT @SAI: HP Is Almost Ready To Take On Amazon And Microsoft In The Cloud $HPQ $AMZN $MSFT by @Julie188 http://t.co/oJkx8HGf","lbl":"Negative"}
+,{"time":"15:02","usr":"AMZN_stock","txt":"$AMZN stock quote, Mar 12: 183.24 -1.08 (-0.59%).","lbl":"Negative"}
+,{"time":"19:33","usr":"marcelloorizi","txt":"RT @timoreilly: Argument to short $AMZN in face of accelerating shipping losses, $AAPL competition http://t.co/wKXgicHR But not sure I\u0027d bet against Jeff B","lbl":"Negative"}
+,{"time":"19:33","usr":"GregScharlemann","txt":"Well said RT @timoreilly: Argument to short $AMZN in face of accelerating shipping losses, $AAPL competition http://t.co/jgIyAQiX","lbl":"Negative"}
+,{"time":"22:35","usr":"y_shuman","txt":"Went buy a printer cable at walmart it was 15 online it was 4 after shipping so I bought it from $amzn","lbl":"Positive"}
+,{"time":"22:38","usr":"Nichomacus","txt":"@timoreilly thanks for posting the $AMZN article! Not the next RIM, but have a tough uphill battle.","lbl":"Negative"}
+]

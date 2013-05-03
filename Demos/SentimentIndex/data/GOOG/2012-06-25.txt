@@ -1,0 +1,11 @@
+[
+{"time":"2:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 02:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"3:15","usr":"askBloomfield","txt":"Real threat RT\u201C@businessinsider: Google Is Now Recognizing The Threat To Its Mapping Dominance $GOOG by @mattlynley http://t.co/g4BNX5RF\u201D","lbl":"Negative"}
+,{"time":"10:38","usr":"OptionPundit","txt":"Will $GOOG be able to stop sliding here at $556 /-2","lbl":"Negative"}
+,{"time":"12:41","usr":"kngbn97","txt":"RT @SAI: Google Has To Answer A Huge Question About Android This Week $GOOG by @stevekovach http://t.co/u1ejfg2n","lbl":"Negative"}
+,{"time":"12:41","usr":"ECONgeek947","txt":"watch for tech rebound from $NFLX $FB $APPL $GOOG","lbl":"Positive"}
+,{"time":"14:05","usr":"wallstCS","txt":"Google\u0027s Nexus Tablet Faces STIFF COMPETITION and 2 More Tech Titans on the Move http://t.co/Ly9ZZXhf $AAPL $GOOG $NVDA $MSFT $EA #stocks","lbl":"Negative"}
+,{"time":"15:31","usr":"ADVFNplc","txt":"$GOOG - Facebook Expands Ad Network - Analyst Blog http://t.co/yrI0s4dM","lbl":"Negative"}
+,{"time":"16:18","usr":"ericjackson","txt":"$GOOG\u0027s board should get as much grief as $FB\u0027s - same thing","lbl":"Negative"}
+,{"time":"23:09","usr":"DTTradinghub","txt":"Some of the Major MOMO names look really nasty - $AAPL $GOOG $PCLN - $AMZNmight be flagging here or on the verge of a break down","lbl":"Negative"}
+]

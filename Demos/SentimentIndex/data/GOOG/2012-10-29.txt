@@ -1,0 +1,20 @@
+[
+{"time":"7:13","usr":"VancePan","txt":"RT: Why The Future Of Search May Look More Like Yahoo Than Google http://t.co/QsX2CGPg $GOOG $YHOO","lbl":"Negative"}
+,{"time":"8:44","usr":"ppprophet","txt":"SELL $GOOG The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
+,{"time":"9:19","usr":"SAI","txt":"Google\u0027s Flagship Android Tablet Is Now $130 Cheaper Than The iPad Mini $GOOG by @officialKLS http://t.co/BXK1HbPv","lbl":"Positive"}
+,{"time":"9:20","usr":"Jackfpmartin","txt":"RT @businessinsider: Google\u0027s First 10-Inch Android Tablet Caught On Leaked Video $GOOG by @stevekovach http://t.co/gJKFetQr","lbl":"Positive"}
+,{"time":"11:21","usr":"CNBC","txt":"WSJ: Google unveils Nexus 10 $399 tablet. [QUOTE] http://t.co/30Fc4UJ8 $GOOG","lbl":"Positive"}
+,{"time":"11:54","usr":"jgwilson929","txt":"$GOOG and Samsung debut $400 Nexus 10 tablet with beautiful display | http://t.co/cod1plwH $ARMH","lbl":"Positive"}
+,{"time":"12:50","usr":"bored2tears","txt":"Google announces new Nexus devices. http://t.co/ZQClICEQ $GOOG #stocks #tech http://t.co/5w7hARRj","lbl":"Positive"}
+,{"time":"14:46","usr":"pennystockguys","txt":"$GOOG - France\u0027s Hollande Warns Google: Negotiate With Press or Face New Law http://t.co/Efqh6Giy","lbl":"Negative"}
+,{"time":"14:46","usr":"ADVFNplc","txt":"$GOOG - France\u0027s Hollande Warns Google: Negotiate With Press or Face New Law http://t.co/Hw4eIKWG","lbl":"Negative"}
+,{"time":"14:47","usr":"DaveCV100","txt":"RT @jgwilson929: Pentagon considers adding iPhones http://t.co/WiAHhMmW $GOOG $AAPL and $RIMM is toast","lbl":"Negative"}
+,{"time":"15:42","usr":"MattMStuart","txt":"RT @SAI: Check Out How Android\u0027s Awesome New Camera Feature Works $GOOG by @officialKLS http://t.co/UOMekz3H","lbl":"Positive"}
+,{"time":"15:42","usr":"Jeff_Irizarry","txt":"@Mattys007 Check this out RT @SAI: Check Out How Android\u0027s Awesome New Camera Feature Works $GOOG by @officialKLS http://t.co/Ho5keboh","lbl":"Positive"}
+,{"time":"17:21","usr":"nottora2","txt":"RT @businessinsider: Google Announces Its New Superphone, The Nexus 4 $GOOG by @jyarow http://t.co/eerb78rm","lbl":"Positive"}
+,{"time":"17:27","usr":"scampbell2485","txt":"RT @SAI: Google Took A Giant Step Backward With Its New Nexus Phone $GOOG by @stevekovach http://t.co/GdCW2HdN","lbl":"Negative"}
+,{"time":"17:27","usr":"gKaPeNdEkA","txt":"RT @businessinsider: Big, Beautiful Photos Of Google\u0027s Newest Gadgets $GOOG by @officialKLS http://t.co/Gz01EPYt","lbl":"Positive"}
+,{"time":"19:55","usr":"khacheso","txt":"Big, Beautiful Photos Of Google\u0027s Newest Gadgets $GOOG by @officialKLS http://t.co/Zrzx37h8","lbl":"Positive"}
+,{"time":"23:37","usr":"FreeTheSree","txt":"RT @SAI: Check Out How Android\u0027s Awesome New Camera Feature Works $GOOG by @officialKLS http://t.co/bVwGwOkk","lbl":"Positive"}
+,{"time":"23:57","usr":"DeidreZune","txt":"France will consider adopting legislation that would force Google to pay for right to cite news articles online $GOOG #ENDOFFREELUNCHES","lbl":"Negative"}
+]

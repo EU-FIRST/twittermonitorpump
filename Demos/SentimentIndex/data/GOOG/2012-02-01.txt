@@ -1,0 +1,13 @@
+[
+{"time":"3:24","usr":"boonspoon","txt":"RT @MattRosoff: No Love For Google At The Crunchies This Year $GOOG http://t.co/AxbERNXP","lbl":"Negative"}
+,{"time":"6:44","usr":"Karanja_Anthony","txt":"RT @SAI: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/abxuFKuG","lbl":"Negative"}
+,{"time":"9:01","usr":"wallstCS","txt":"Google Responds to Congressional Concerns Over Privacy Policy Revisions http://t.co/rIBRdxaS $GOOG #mkt #stocks #trading","lbl":"Negative"}
+,{"time":"12:45","usr":"dschorrnyc","txt":"Saw a full pg in NYT - Microsoft Slams Google Privacy Changes -http://twb.io/w49Bjd $MSFT $GOOG","lbl":"Negative"}
+,{"time":"12:46","usr":"dschorrnyc","txt":"Google + has reportedly passed 100 million users huh? It\u0027s not nothing anymore. $GOOG","lbl":"Positive"}
+,{"time":"13:52","usr":"jonasQuinn23","txt":"RT @Catwoman2011: Why am I NOT buying into Facebook IPO? Same reason I avoid $GOOG & $MSFT\u2014CEOs are/were thieves. Stay Hungry. Stay Foolish. $AAPL =^.^=","lbl":"Negative"}
+,{"time":"14:56","usr":"thetradedotcom","txt":"@jonfortt I think you need to take the position that $GOOG is also undervalued... at sub $150B net of cash","lbl":"Positive"}
+,{"time":"14:58","usr":"thetradedotcom","txt":"@jonfortt point on growth of $FB is fair, but look at $GOOG\u0027s core biz growth, plus 2012+ rev potential of Android, Chrome, Youtube, Plus","lbl":"Positive"}
+,{"time":"17:30","usr":"MatthewRiccardi","txt":"RT @tradefast: sorry folks, when i want to research a product, i go directly to $GOOG - $FB is for kids, their mommies and ego maniacs with photo albums","lbl":"Positive"}
+,{"time":"17:31","usr":"Mark_Lexus","txt":"RT @tradefast: sorry folks, when i want to research a product, i go directly to $GOOG - $FB is for kids, their mommies and ego maniacs with photo albums","lbl":"Positive"}
+,{"time":"17:32","usr":"MatthewRiccardi","txt":"Long $GM $HIG $GOOG","lbl":"Positive"}
+]

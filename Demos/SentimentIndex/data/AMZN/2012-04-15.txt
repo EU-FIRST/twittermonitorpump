@@ -1,0 +1,3 @@
+[
+{"time":"11:32","usr":"esoap","txt":"RT @TrendRida: New Post: Google and Amazon - The Non Monopoly Monopolies http://t.co/WKFZhzCD $GOOG $AMZN $AAPL","lbl":"Positive"}
+]

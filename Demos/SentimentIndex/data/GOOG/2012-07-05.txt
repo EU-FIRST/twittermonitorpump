@@ -1,0 +1,16 @@
+[
+{"time":"8:44","usr":"StkConfidential","txt":"$GOOG also moving well so far this morning. $$","lbl":"Positive"}
+,{"time":"11:02","usr":"IAmEricPete","txt":"RT @businessinsider: With The New Version Of Android, Google Has All But Caught Up To The iPhone $GOOG by @stevekovach http://t.co/D1TZ9iVL","lbl":"Negative"}
+,{"time":"11:02","usr":"ksantoso","txt":"RT @businessinsider With The New Version Of Android, Google Has All But Caught Up To The iPhone $GOOG by @stevekovach http://t.co/KpklJqVU","lbl":"Negative"}
+,{"time":"11:48","usr":"DJFranceschini","txt":"RT @SAI: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/8OuTxV7P","lbl":"Positive"}
+,{"time":"12:28","usr":"theRealMzYaya","txt":"@SmoveAL \u0022@SAI_Tools: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/Zmc3LxB5\u0022","lbl":"Positive"}
+,{"time":"12:28","usr":"takingstock614","txt":"$GOOG seems to be finding some resistance up here near 200D","lbl":"Positive"}
+,{"time":"12:33","usr":"srisri55","txt":"$GOOG up 10bucks.","lbl":"Positive"}
+,{"time":"12:37","usr":"mmarleydotcom","txt":"RT @SAI: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/8OuTxV7P","lbl":"Positive"}
+,{"time":"14:43","usr":"stockguy22","txt":"@David_Mansfield nice David.. i\u0027ve got $559.58/$574.43 & 578.10 entries .. up 3.85%-6.60% but would sell $GOOG into $618-$630\u0027s zone","lbl":"Negative"}
+,{"time":"14:44","usr":"stockguy22","txt":"just posted an updated $GOOG chart for members.. we had bought June 7th/11th & 15th ..really happy with the timing there @David_Mansfield","lbl":"Positive"}
+,{"time":"14:45","usr":"Insidified","txt":"\u27A1 Insider Trading: $GOOG Brin Sergey Director SOLD 4164 shares \u2611","lbl":"Negative"}
+,{"time":"15:52","usr":"tucj7","txt":"RT @SAI: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/8OuTxV7P","lbl":"Positive"}
+,{"time":"16:01","usr":"Wonby","txt":"RT @SAI: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/8OuTxV7P","lbl":"Positive"}
+,{"time":"19:18","usr":"SAI_Tools","txt":"Judge Who Tossed Out Apple/Motorola Lawsuit Says Tech Companies Are \u0027Animals\u0027 $AAPL $GOOG by @Julie188 http://t.co/aUzI1CpQ","lbl":"Negative"}
+]

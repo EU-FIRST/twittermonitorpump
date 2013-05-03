@@ -1,0 +1,5 @@
+[
+{"time":"10:23","usr":"ambredm3","txt":"$AAPL & $TNH exploding higher early this morning. $GOOG notching some nice early gains, too. $$","lbl":"Positive"}
+,{"time":"17:05","usr":"cocoy","txt":"\u201C@karaswisher: Exclusive: Yahoo Labs Head Raghavan Departing to Google http://t.co/uKbMUzwR\u201D $goog $yhoo","lbl":"Positive"}
+,{"time":"17:29","usr":"CrusaderDalleon","txt":"@herbgreenberg I. Personally love $goog love buying it up after market beats it down","lbl":"Positive"}
+]

@@ -1,0 +1,12 @@
+[
+{"time":"8:20","usr":"reaganbrown","txt":"RT @JeffReevesIP: $GOOG is killing it with its Olympics stuff. The hurdles doodle/game today is creative, the easy display of winners in search -- well done!","lbl":"Positive"}
+,{"time":"8:22","usr":"wavestock","txt":"RT @hblodget: Annoying RT @SAI: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/bmRMvTC2","lbl":"Negative"}
+,{"time":"14:18","usr":"Brendan_Henry","txt":"Sold $GOOG wkly 40 calls @ 6.","lbl":"Negative"}
+,{"time":"17:24","usr":"esoap","txt":"RT @mashable: Google\u0027s Driverless Car Is Now Safer Than the Average Driver - http://t.co/5kjtEXNT * working title \u0022The Yogi\u0022 $GOOG %GOOG","lbl":"Positive"}
+,{"time":"17:31","usr":"morganulang","txt":"$AAPL at war and forcing out the default $GOOG apps on the iPhone\u2026first maps, now youtube http://t.co/rzx1vCR3","lbl":"Negative"}
+,{"time":"19:43","usr":"lowensteiner","txt":"RT @obtuse_investor: RT @mashable: Google\u0027s Driverless Car Is Now Safer Than the Average Driver - http://t.co/n7YGYAtr $goog","lbl":"Positive"}
+,{"time":"23:06","usr":"DeidreZune","txt":"Seriously is there any way $GOOG doesn\u0027t suffer if $AAPL removes it from \u0022search\u0022 in iOS6 phone + tablets. $AAPL is close to doing this","lbl":"Negative"}
+,{"time":"23:11","usr":"andrewnyquist","txt":"RT @seeitmarket $GOOG looks like it may test patience tomorrow - measured move pullback could test 631 http://t.co/KDJATptH \u2026","lbl":"Negative"}
+,{"time":"23:12","usr":"Jamtrades","txt":"RT @ppearlman awesome seeing competition heat up between $GOOG & $AAPL 2 of the greatest companies in history & we, the consumers, will win!","lbl":"Negative"}
+,{"time":"23:19","usr":"hybrididentity","txt":"@DeidreZune I agree it could hurt $GOOG - but will $AAPL have the cajones to deprive their users of google maps and ... http://t.co/JXIsB31Q","lbl":"Negative"}
+]

@@ -28,3 +28,6 @@ select { margin: 0; width: 180px; }
 .loading-oops { position: absolute; width: 100%; text-align: center; z-index: 1000; line-height: 50px; top: 50%; margin-top: -25px; display: none; }
 
 .fixpos { margin-top: -2px; }
+
+.tweet { padding: 2px 0 5px 0; }
+.tweet-header { display: block; color: gray; }

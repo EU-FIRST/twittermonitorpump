@@ -1,0 +1,6 @@
+[
+{"time":"9:50","usr":"GopherTrader","txt":"Short $GOOG from the opening 10 min candle close, sorry twitter wouldn\u0027t load or it would\u0027ve been RT","lbl":"Negative"}
+,{"time":"9:51","usr":"takingstock614","txt":"$AAPL $PCLN $GOOG $BIDU all getting hit hard this morning and yet $DOW +35. Go figure.","lbl":"Negative"}
+,{"time":"12:34","usr":"sdkstl","txt":"Another $GOOG-$AAPL app mess? Went to update Gmail app w/lauded revamp: \u0027the item you tried to buy is no longer available\u0027","lbl":"Negative"}
+,{"time":"13:19","usr":"FreeMrktCptlst","txt":"Let\u0027s not forget, $GOOG didn\u0027t wake up one day and decide to build phones\u2026they partnered with $AAPL, and then stole the idea.","lbl":"Negative"}
+]

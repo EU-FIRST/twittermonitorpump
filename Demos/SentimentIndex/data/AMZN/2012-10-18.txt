@@ -1,0 +1,17 @@
+[
+{"time":"7:06","usr":"Mahmoud_Hamouda","txt":"RT @SAI: Googler Urges Boycott Of Amazon Over Pricing $GOOG $AMZN by @nichcarlson http://t.co/3vMLF1uR","lbl":"Negative"}
+,{"time":"7:06","usr":"LivingThankful","txt":"RT @businessinsider: Googler Urges Boycott Of Amazon Over Pricing $GOOG $AMZN by @nichcarlson http://t.co/T95WH8CF","lbl":"Negative"}
+,{"time":"9:40","usr":"MarketCurrents","txt":"Amazon (AMZN) roundup: 1) Bloomberg reports Amazon is in talks to buy Brazilian bookseller Sara... http://t.co/d5LtRMKY $AMZN $MELI","lbl":"Positive"}
+,{"time":"10:43","usr":"askchrishetrade","txt":"$AMZN 245x weekly calls that we got our followers and subscribers in are workin out well. Bear trap from the other day in full effect. $$","lbl":"Positive"}
+,{"time":"10:44","usr":"srisri55","txt":"who gave steroids to $AMZN on such a down day?","lbl":"Positive"}
+,{"time":"10:46","usr":"Jamtrades","txt":"waiting on another opp on $AMZN","lbl":"Positive"}
+,{"time":"11:38","usr":"HarryWanger","txt":"$AMZN Look at this move on $GOOG miss. Watch what happens when $AMZN misses. Ugly","lbl":"Negative"}
+,{"time":"12:13","usr":"BarryAAnderson","txt":"out of those $AMZN puts +15%. lucky","lbl":"Positive"}
+,{"time":"12:30","usr":"HarryWanger","txt":"$AMZN Lots of money left up there at that 50 dma. Going long based on big boys need to get there money back up there or close to it.","lbl":"Positive"}
+,{"time":"12:34","usr":"wallstCS","txt":"Book Wars: These Retail Giants Are Joining Forces Against Amazon http://t.co/7oKaCk0K $AMZN $BKS $TGT $AAPL $WMT #mkt #stocks","lbl":"Negative"}
+,{"time":"13:00","usr":"AnnJessicaLien","txt":"RT @barronsonline: Google Hammered as Q3 Disappoints in Premature Release, Shares Halted http://t.co/EAd4aYlH $GOOG $RRD $BBY $AMZN","lbl":"Negative"}
+,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:47pm: 243.94 -3.55 (-1.43%).","lbl":"Negative"}
+,{"time":"14:02","usr":"JMFJR","txt":"Are there 2 more over-valued stocks than $AMZN & $LNKD? #AMZN #LNKD look out below?","lbl":"Negative"}
+,{"time":"15:38","usr":"CapCube","txt":"$AMZN - Your Time is Gonna Come ... http://t.co/sl1V7oLK","lbl":"Positive"}
+,{"time":"19:34","usr":"AlexRowney","txt":"lots of poor earning reports in the tech sector today $msft, $amd, $goog. Time for the tech bubble to burst? $amzn, $crm","lbl":"Negative"}
+]

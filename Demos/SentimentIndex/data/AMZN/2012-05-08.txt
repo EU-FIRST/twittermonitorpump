@@ -1,0 +1,9 @@
+[
+{"time":"6:07","usr":"StockBouncers","txt":"mrchipper: $AMZN put in a lower high http://t.co/QhmbCCa3","lbl":"Negative"}
+,{"time":"8:44","usr":"DividendMaster","txt":"@Dasan $AMZN is shades of dot-bomb mentality of 1999 . Buying market share is all they care on ...... will end same way i suspect","lbl":"Negative"}
+,{"time":"9:43","usr":"kingmike423","txt":"$AMZN puts loaded yesterday are rocking! Closing half here let the other half ride","lbl":"Negative"}
+,{"time":"11:37","usr":"keith_douglas","txt":"#Amazon Leaps In2 High End of Fashion http://t.co/nlBeCknG [2 bad that once again $AMZN couldn\u0027t stream enuff video 4 viewers] @amazon","lbl":"Negative"}
+,{"time":"12:39","usr":"Trending123","txt":"@LSilverspar Actually $AMZN is the one stock I continue to like....even way up here :)","lbl":"Positive"}
+,{"time":"14:55","usr":"ChartSwingTrade","txt":"$AOSL $TRIP $CAP $EXPE $MSI $FBHS $AMZN $AMRN - some names holding up well here but overall too much damage to get bullish yet. Time needed","lbl":"Negative"}
+,{"time":"15:58","usr":"61point8","txt":"If $AMZN breaks under today\u0027s low, look forward to $215, followed by $211.","lbl":"Negative"}
+]

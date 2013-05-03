@@ -1,0 +1,7 @@
+[
+{"time":"11:40","usr":"stockhaven","txt":"$AMZN 60 minute chart looks beautiful... just needs some volume to the upside","lbl":"Positive"}
+,{"time":"14:07","usr":"Jeunesse34","txt":"RT @YahooFinance: Get ready to pay sales tax on Amazon http://t.co/aIfvWTBL $AMZN","lbl":"Negative"}
+,{"time":"16:15","usr":"biggercapital","txt":"Oh really? 80% of purchase on our site are via $AMZN payment RT @DeidreZune So $AMZN is going up. But $AMZN does NOT have Paypal equivalent","lbl":"Positive"}
+,{"time":"19:38","usr":"themotleyfool","txt":"These stocks, including Amazon, have serious red flags according to @FlushDrawFool. Possible stocks to short: http://t.co/Ltq5Et7U $AMZN","lbl":"Negative"}
+,{"time":"19:39","usr":"Odette_2011","txt":"RT @themotleyfool: These stocks, including Amazon, have serious red flags according to @FlushDrawFool. Possible stocks to short: http://t.co/Ltq5Et7U $AMZN","lbl":"Negative"}
+]

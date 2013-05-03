@@ -1,0 +1,48 @@
+[
+{"time":"5:25","usr":"pegobry","txt":"Apple And Amazon Earnings Show Once Again Jeff Bezos Is Steve Jobs\u0027 True Heir http://t.co/tXaEnJKz $AAPL $AMZN","lbl":"Positive"}
+,{"time":"6:49","usr":"mercenaryjack","txt":"So $AAPL and $AMZN both whiff, yet stay positive after hours, yet $ES_F down 10 handles early. This market is a stone cold trip $MACRO $SPY","lbl":"Negative"}
+,{"time":"6:50","usr":"DEMOGETS","txt":"I see $AAPL and $AMZN are both green despite those horrible numbers !! #Rigged","lbl":"Negative"}
+,{"time":"7:14","usr":"Fitzstock2004","txt":"yesterday i said $amzn was going to 222 (when quoting 213)......then when it hit 222, i said \u0022228 next\u0022......That is now a DOUBLE YAHTZEE:)","lbl":"Positive"}
+,{"time":"7:51","usr":"DontTakeLosses","txt":"RT @Briefingcom: Amazon shares higher by 2% after reporting Q3 loss http://t.co/t4yjvkTm $AMZN","lbl":"Positive"}
+,{"time":"7:51","usr":"leopardtrader","txt":"RT @studatnu $AMZN dumbfounded here, PE of 300,lost $$ this quarter, guided down on rev for next Qtr and UP 2%??>>Trading & Economy not same","lbl":"Negative"}
+,{"time":"7:52","usr":"aztecs99","txt":"RT @leopardtrader: RT @studatnu $AMZN dumbfounded here, PE of 300,lost $$ this quarter, guided down -- were you around in the late 90\u0027s?","lbl":"Negative"}
+,{"time":"7:52","usr":"leopardtrader","txt":"RT @CarolineC $AMZN got to be short covering up over $5 pre-market???>>Dont bet against amzn whatever u think or call it ..haha","lbl":"Negative"}
+,{"time":"8:09","usr":"OptionRunners","txt":"$AMZN green... $AAPL flat... LOL option writers won","lbl":"Positive"}
+,{"time":"8:09","usr":"contingencyisu","txt":"$AMZN stock price will see major correction","lbl":"Negative"}
+,{"time":"8:26","usr":"TradingGuru","txt":"RT Analysts: $AMZN stock price will see major correction #Markets #WallStreet #Finance #Daytrade #NextTrade #Stx #CNBC #Watching #Stocks","lbl":"Negative"}
+,{"time":"8:26","usr":"TFMkts","txt":"Of all the things I don\u0027t understand & there are lots, $AMZN has to be most confusing. 6 cents total earnings in 9 mths but stk 179 -> 222?","lbl":"Negative"}
+,{"time":"8:36","usr":"TraderJive","txt":"$AMZN Trading higher after nice earnings miss. Go figure, and $AAPL is red.","lbl":"Negative"}
+,{"time":"8:37","usr":"wsmco","txt":"Bought to cover $AMZN Nov 2 195 puts at .20 for plus 1.20/contract profit","lbl":"Positive"}
+,{"time":"8:49","usr":"stockmonkeymom","txt":"RT @etfdigest: $AAPL PE @ 14.3 vs $AMZN PE @ 280. Former seems reasonable while latter absurd. $$","lbl":"Negative"}
+,{"time":"8:49","usr":"eminiking","txt":"$AMZN in bear killing mode","lbl":"Positive"}
+,{"time":"8:57","usr":"LeoKaplin","txt":"@Rocco_TheStreet: You do know $AMZN went from 265 to 225?","lbl":"Negative"}
+,{"time":"8:57","usr":"jonasQuinn23","txt":"Whoa! $amzn p/e is 2,979x and $AAPL has less than 15x. Where is sanity here?","lbl":"Negative"}
+,{"time":"8:57","usr":"jkings1","txt":"U.S. Economy at Stall Speed; A.M. Gold Bounce; Cautious Outlooks from $AMZN & $AAPL; LIBOR Probe #GDP $GLD http://t.co/YnSR8gOs","lbl":"Negative"}
+,{"time":"9:31","usr":"Daniel_Aaron17","txt":"Of course $AMZN is up after losing 3x more than expected on light revenue. Will be looking to short it again soon. #RidiculousValuation","lbl":"Negative"}
+,{"time":"9:32","usr":"HarryWanger","txt":"$AMZN Jeffries views the third quarter results as solid and keeps a Buy rating on their stock with a $300 price target","lbl":"Positive"}
+,{"time":"9:49","usr":"geneyarsky","txt":"RT Citi\u0027s Manahey sceptical on $AMZN growth #Markets #WallStreet #Finance #Daytrade #NextTrade #CNBC #Watching #Stocks","lbl":"Negative"}
+,{"time":"9:50","usr":"WindsorPartners","txt":"RT @DallasTexxxas: Would love to see $AAPL and $AMZN start to tank. Especially $AMZN. That stock deserves a medal for being a POS","lbl":"Negative"}
+,{"time":"10:09","usr":"SPEQL8R","txt":"@fundmyfund would luv to see retest of lows on $AAPL $AMZN; they get saved. Would be nice to see whoosh to $VIX 20-21; $JPM at 50 dema","lbl":"Negative"}
+,{"time":"10:36","usr":"desifinance","txt":"@ChartMoMo I wouldn\u0027t call it same biz. Look at $AMZN repeat loyal customer base. Not sure I can say same about $EBAY. I am a Amazonoholic","lbl":"Positive"}
+,{"time":"10:37","usr":"rubiconcap","txt":"$AAPL & $AMZN rallied in the post-mkt yesterday after earnings, so all is well with the world....for now. Yet GDP slowing, earnings slowing","lbl":"Positive"}
+,{"time":"11:00","usr":"geneyarsky","txt":"RT $AMZN stock value not translated to its ERNGS #Markets #Business #WallStreet #Finance #Daytrade #NextTrade #Stx #CNBC #Watching #Stocks","lbl":"Negative"}
+,{"time":"11:01","usr":"TheStreet","txt":"The Few, the Proud, the Absurd: Amazon Bears Who Are Short - TheStreet http://t.co/eXF0BX4C by @Rocco_TheStreet $AMZN","lbl":"Negative"}
+,{"time":"11:17","usr":"TradeAgainst","txt":"@optionmonster and $AMZN still hasn\u0027t figured out how to make money","lbl":"Negative"}
+,{"time":"11:43","usr":"geneyarsky","txt":"RT US MARKET SELL-OFF due to $AMZN $AAPL HUGE MISSES #Markets #Business #WallStreet #Finance #Daytrade #NextTrade #CNBC #Watching #Stocks","lbl":"Negative"}
+,{"time":"11:44","usr":"geneyarsky","txt":"RT $AMZN will see y\u0027day A/M lows 200 #Markets #WallStreet #Finance #Daytrade #NextTrade #CNBC #Watching #Stocks http://t.co/yCLwXPFW","lbl":"Negative"}
+,{"time":"12:12","usr":"TradingGuru","txt":"RT $AMZN compare to $AAPL P/E should cost $45 #Markets #Business #WallStreet #Finance #Daytrade #Investment #NextTrade #CNBC","lbl":"Negative"}
+,{"time":"12:12","usr":"onemikey","txt":"@TMFJMo still, we need to see exceptional profits from $AMZN at some point, right? How long can market wait? I ask this every quarter.","lbl":"Negative"}
+,{"time":"12:13","usr":"TradingGuru","txt":"RT $AMZN 5-x expensive than $AAPL was +12 #Markets #Business #WallStreet #Finance #Daytrade #Investment #NextTrade #CNBC","lbl":"Negative"}
+,{"time":"12:40","usr":"Jamtrades","txt":"$AMZN squeeze appears to be real boys and girls.","lbl":"Negative"}
+,{"time":"13:00","usr":"CapCube","txt":"$AMZN 235 calls went from $0.06 this morning (around 11 am) to $2.06","lbl":"Positive"}
+,{"time":"13:35","usr":"tradefast","txt":"i would like a do-over on this long scalp on $AMZN - post earnings yesterday - banking gains seemed smart at the time http://t.co/8JMuS5n7","lbl":"Positive"}
+,{"time":"13:53","usr":"paulwoll","txt":"Exited Earlier $AMZN put play loss of .08 due to volatilty stop on daily switched to green.","lbl":"Positive"}
+,{"time":"14:12","usr":"BPGAG","txt":"$amzn just finished last scalp long for +1.5 - but think this could run into the close - but I\u0027m not putting other profits from day at risk","lbl":"Positive"}
+,{"time":"14:12","usr":"Stockpicks81","txt":"$amzn Being bid up every tick... Time for a reality check. Short more up here with puts...","lbl":"Negative"}
+,{"time":"14:34","usr":"HarryWanger","txt":"$AMZN Stay long. It\u0027ll test HOY by early Dec.","lbl":"Positive"}
+,{"time":"15:09","usr":"cronked","txt":"RT @Dasan: People, do you realize $AMZN is up 6.87% today after reporting first negative operating margins in years? This is what we\u0027re dealing with.","lbl":"Negative"}
+,{"time":"16:41","usr":"rocco_thestreet","txt":"This was one of the more entertaining weeks between $FB $AMZN $AAPL, yet it sort of went down as expected. Not many surprises.","lbl":"Negative"}
+,{"time":"17:35","usr":"jpinvestor89","txt":"@Stockpicks81 @taotaoli2001 $AMZN is weird for trading sometimes. . Down first then up on the first day of the ER even though missed.(cont)","lbl":"Negative"}
+,{"time":"21:21","usr":"DaveCV100","txt":"RT @MrBarrySchwartz: Maybe $AAPL should follow $AMZN lead and make no money, that\u0027s obviously how you get a reasonable P/E multiple.","lbl":"Negative"}
+,{"time":"21:28","usr":"BenCBanks","txt":"If $amzn falls to 234 I think all the bulls will be stepping in and swallowing the shorts whole.","lbl":"Positive"}
+]

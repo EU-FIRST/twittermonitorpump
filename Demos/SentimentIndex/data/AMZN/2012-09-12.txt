@@ -1,0 +1,11 @@
+[
+{"time":"5:36","usr":"PaulaWarfield","txt":"RT @StockTwits: Amazon, Forced to Collect a Tax, Is Adding Roots http://t.co/3l6rGPVG $AMZN ht @deidrezune $AMZN","lbl":"Negative"}
+,{"time":"6:41","usr":"etamb","txt":"RT @SAI: MOSSBERG: The Kindle Fire HD Is Not As \u0027Polished, Fluid Or Versatile\u0027 As The iPad $AAPL $AMZN $GOOG by @nichcarlson http://t.co ...","lbl":"Negative"}
+,{"time":"7:21","usr":"joshzik","txt":"RT @businessinsider: Pogue Laughs At Amazon\u0027s iPad Wannabe $AMZN $AAPL by @nichcarlson http://t.co/ZG0ZCx86","lbl":"Negative"}
+,{"time":"12:52","usr":"tlmontana","txt":"$AMZN Go... Looking for 256.50 or will trim more off of this name as well and Buy at re-test of 250. Think it is a 300 stock","lbl":"Positive"}
+,{"time":"14:47","usr":"Benzinga","txt":"$AAPL $AMZN Amazon\u0027s New Shipping Plans May Cause Trouble for Kindle: http://t.co/Dl5AoOhG","lbl":"Negative"}
+,{"time":"15:55","usr":"DeidreZune","txt":"$AMZN has most of its rocket move behind it (called it at 234 for 25 points to 259). Hope u enjoyed it :)","lbl":"Negative"}
+,{"time":"17:13","usr":"rob_a_nielsen","txt":"Tempting, looks true on Amazon -- $99 Samsung Galaxy S3 Deal Alert -- http://t.co/NpZlpUkM via @HuffPostTech $AMZN","lbl":"Positive"}
+,{"time":"18:53","usr":"KevinNewcombe78","txt":"Amazon Is Hitting Google Where It Hurts $GOOG $AMZN http://t.co/xvtqtsRJ via @minyanville","lbl":"Positive"}
+,{"time":"19:10","usr":"FreedoniaMoney","txt":"Amazon To Cash In On #Gaming Market - Seeking Alpha http://t.co/2te0rFML $AMZN $AAPL $GME","lbl":"Positive"}
+]

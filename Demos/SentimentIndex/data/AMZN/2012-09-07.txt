@@ -1,0 +1,27 @@
+[
+{"time":"4:47","usr":"GBA525","txt":"RT @MarketWatch: Amazon takes a page from Apple\u0027s playbook: http://t.co/YD7NaHhU $AAPL $AMZN","lbl":"Positive"}
+,{"time":"7:50","usr":"SAI_Tools","txt":"Do Not Pre-Order Any Of The Amazon Kindle Fire HD Tablets $AMZN by @jyarow http://t.co/ONyJichN","lbl":"Negative"}
+,{"time":"7:50","usr":"businessinsider","txt":"Do Not Pre-Order Any Of The Amazon Kindle Fire HD Tablets $AMZN by @jyarow http://t.co/atp0Ag7u","lbl":"Negative"}
+,{"time":"8:58","usr":"RomeArndDaWorld","txt":"RT @businessinsider: Jeff Bezos\u0027 Explanation Of How Amazon Charges So Little For The Kindle Fire Is Awesome $AMZN by @jyarow http://t.co ...","lbl":"Positive"}
+,{"time":"8:58","usr":"StockHollywood","txt":"RT @DanZanger: $AMZN I consider that a nice winner. $2 risk for a $25+ gain now from my buy point. // yes, nice","lbl":"Positive"}
+,{"time":"8:59","usr":"bored2tears","txt":"Amazon loses money on tablets. It\u0027s all going according to plan. http://t.co/vTwRGWiD $AMZN #AmazonDoctrine #ecommerce","lbl":"Negative"}
+,{"time":"9:10","usr":"rktrades","txt":"$AMZN at a new high and now up over $40 since re-entered & tweeted at 217.17 on July 25th #stockaction","lbl":"Positive"}
+,{"time":"9:29","usr":"AH44KS","txt":"RT @given2tweet: What people don\u0027t get about $AMZN is that it\u0027s really hard to compete with a non-profit and it WILL hurt $AAPL as a res ...","lbl":"Positive"}
+,{"time":"9:42","usr":"cappikell","txt":"RT @businessinsider: Jeff Bezos\u0027 Explanation Of How Amazon Charges So Little For The Kindle Fire Is Awesome $AMZN by @jyarow http://t.co ...","lbl":"Positive"}
+,{"time":"9:50","usr":"jblin","txt":"RT @SAI: Watch Out Google, Microsoft: Amazon Is Ready To Take The Number Two Spot In Tablets $AAPL $GOOG $AMZN $MSFT by @jyarow http://t ...","lbl":"Positive"}
+,{"time":"9:50","usr":"StockAction","txt":"RT @rktrades: $AMZN at a new high and now up over $40 since re-entered & tweeted at 217.17 on July 25th #stockaction","lbl":"Positive"}
+,{"time":"10:17","usr":"Dasan","txt":"just like the good old momo days $GMCR $AMZN $LULU $RIMM all up big","lbl":"Positive"}
+,{"time":"10:18","usr":"KidDynamiteBlog","txt":"$AMZN is the stone cold nuts... another day I hate myself for not owning it","lbl":"Positive"}
+,{"time":"11:52","usr":"Harshal_Wit","txt":"RT @SAI: With The Kindle Fire HD, Amazon Just Pointed A Gun At Google\u0027s Head $AMZN $GOOG by @mattlynley http://t.co/N4UnqLAR","lbl":"Positive"}
+,{"time":"12:51","usr":"Jamtrades","txt":"Commented on StockTwits: i have a confession to make. I am scared to short $AMZN and $CRM ->Cult!!! http://t.co/5p2MMaMt","lbl":"Positive"}
+,{"time":"13:32","usr":"andrespenaranda","txt":"\u201C@SAI: With The Kindle Fire HD, Amazon Just Pointed A Gun At Google\u0027s Head $AMZN $GOOG by @mattlynley http://t.co/oOtqQ8X4\u201D","lbl":"Positive"}
+,{"time":"14:23","usr":"MarketWatch","txt":"Amazon is currently the second-best performer among large-cap tech stocks next to Apple: http://t.co/7VxBF2jx $AMZN $AAPL","lbl":"Positive"}
+,{"time":"14:23","usr":"DeLuCa","txt":"\u201C@MarketWatch: Amazon is currently the second-best performer among large-cap tech stocks next to Apple: http://t.co/Ww5yhHdt $AMZN $AAPL\u201D","lbl":"Positive"}
+,{"time":"14:24","usr":"NrmnGM","txt":"RT @MarketWatch: Amazon is currently the second-best performer among large-cap tech stocks next to Apple: http://t.co/7VxBF2jx $AMZN $AAPL","lbl":"Positive"}
+,{"time":"14:40","usr":"jpu19","txt":"RT @MarketWatch: Amazon is currently the second-best performer among large-cap tech stocks next to Apple: http://t.co/7VxBF2jx $AMZN $AAPL","lbl":"Positive"}
+,{"time":"14:57","usr":"MikeKi6moe","txt":"RT @YahooFinance: Why Kindle Fire HD won\u0027t hurt Apple much...yet http://t.co/LoqNKPZK $AMZN","lbl":"Negative"}
+,{"time":"14:57","usr":"kenjitweet","txt":"I\u0027m shorting $AMZN 258.81. CA residents will be charged tax starting 9/15. Kindle announcement done. High PE.","lbl":"Negative"}
+,{"time":"16:15","usr":"LikeABossStocks","txt":"@RedDogT3Live $AMZN calls were beasting today...Shes a BEAST!","lbl":"Positive"}
+,{"time":"17:34","usr":"WeezyMiyagi","txt":"$AMZN PE is out of touch with reality. One mistake & this bubble going to burst leaving investors in the dust. Don\u0027t fall for the hype","lbl":"Negative"}
+,{"time":"21:35","usr":"RoccoPendola","txt":"@imsaul0968 Today\u0027s $AMZN margins don\u0027t matter much. Must look forward. Bezos is building a dynasty. $AAPL","lbl":"Positive"}
+]

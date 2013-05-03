@@ -1,0 +1,5 @@
+[
+{"time":"7:08","usr":"goldmansachs666","txt":"Amazon\u2019s Diminishing Discounts | New York Times - http://t.co/va0hPGk9 There now appears evidence that many deals are ending. #Amazon $AMZN","lbl":"Negative"}
+,{"time":"18:50","usr":"jaruppert","txt":"Solid #s for $AMZN and hope for economy - Thanksgiving 2012 traffic to retail sites up 71% over 2011: Amazon leads, Walmart and Target...","lbl":"Positive"}
+,{"time":"18:50","usr":"TheRuppertCo","txt":"Solid #s for $AMZN and hope for economy - Thanksgiving 2012 traffic to retail sites up 71% over 2011: Amazon leads, Walmart and Target...","lbl":"Positive"}
+]

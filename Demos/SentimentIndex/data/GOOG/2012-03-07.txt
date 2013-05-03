@@ -1,0 +1,5 @@
+[
+{"time":"9:13","usr":"dmackdaddy","txt":"Gmail users claim Google is sending unauthorized spam emails from their accounts http://t.co/8Rx5xQ86 $GOOG","lbl":"Negative"}
+,{"time":"12:24","usr":"MattRosoff","txt":"Google Is Looking To Sell The Only Profitable Part Of Motorola -- Before The Deal Even Closes $GOOG http://t.co/cETcY15g","lbl":"Negative"}
+,{"time":"13:29","usr":"BUDDIEE18","txt":"wonder if $GOOG is setting itself up for a run to $620++ by Friday oex","lbl":"Positive"}
+]

@@ -1,0 +1,8 @@
+[
+{"time":"3:25","usr":"ewmpsi","txt":"$AMZN is killing Best Browse $BBY crushing Sony Nook and reeling in market share on streaming content with Kindle Fire, I like leap calls!","lbl":"Positive"}
+,{"time":"9:14","usr":"CoveredbyCalls","txt":"Holdings to start the year $SINA $POT $GE $AMZN $CF http://t.co/xsBCRhMn","lbl":"Positive"}
+,{"time":"10:50","usr":"stocktrader1742","txt":"RT @FoxBusiness: Analysts say Amazon\u0027s Kindle Fire may have cost Apple well over $1 billion in holiday iPad sales http://t.co/Wmntjeo8 $AMZN $AAPL","lbl":"Positive"}
+,{"time":"14:33","usr":"andrew_falde","txt":"$AMZN holding above 176. Watching 180 closely for confirmation of trend reversal.","lbl":"Positive"}
+,{"time":"16:23","usr":"agwarner","txt":"Get your $VXX Ebook mini fix. \u0022Trading Volatility ETFs\u0022 by me on $AMZN http://t.co/Cjdf6i6b","lbl":"Positive"}
+,{"time":"19:14","usr":"mike_tweets","txt":"@carmelsurfer - looks like $AMZN broke through the upper trend line in AH - close @ 177.90. + Tim\u0027s reccomdtion @cnbcfastmoney - shd surge","lbl":"Positive"}
+]

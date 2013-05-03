@@ -1,0 +1,47 @@
+[
+{"time":"5:14","usr":"inningPalmer","txt":"Discovered that you can associate $GOOG accounts with landlines. The Vuvuzela Marching Band went by. Must be a rehearsal for tonight or so.","lbl":"Positive"}
+,{"time":"5:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 05:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+,{"time":"7:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 07:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+,{"time":"8:55","usr":"GreenCrestCap","txt":"@google\u0027s Andy Rubin claims 900K #Android activations daily. Closing in on a million per day. Remarkable numbers. http://t.co/jLVpkbht $GOOG","lbl":"Positive"}
+,{"time":"8:56","usr":"JohnGaltsTrader","txt":"Covered 4/5 of $GOOG short at 578.27, trailing some to watch closely here down from 584.45 #timestamped","lbl":"Negative"}
+,{"time":"9:32","usr":"fabcara","txt":"RT @SeekingAlpha: Why You Should Sell Google Before The Apple Conference http://t.co/33T8ZEat $AAPL $FB $GOOG","lbl":"Negative"}
+,{"time":"10:24","usr":"JBoorstin","txt":"Internet ad revenue grows 15% to $8.4 billion in Q1. http://t.co/LVv8tTZs $GOOG $FB $YHOO $AOL","lbl":"Positive"}
+,{"time":"12:45","usr":"GoodTrader1","txt":"$GOOG currently is a good idea for open short.","lbl":"Negative"}
+,{"time":"12:50","usr":"DavidChugg","txt":"$AAPL is, of course, on a surge this morning as @WWDC opens. But $GOOG continues its decline. The market as a whole is being Europed again.","lbl":"Negative"}
+,{"time":"13:58","usr":"statsreal","txt":"Just added to $goog short, avg 575.70 looks ready to crack after showing rel weakness past few sessions.","lbl":"Negative"}
+,{"time":"14:00","usr":"larryfooter","txt":"Stopped myself out of $GOOG calls @21.50 from 23.50 -$2 ... all out","lbl":"Negative"}
+,{"time":"14:00","usr":"TweetLeni","txt":"Took profits in $GOOG short 570.32 4 + points a little trade for the day","lbl":"Positive"}
+,{"time":"14:20","usr":"aznboi27","txt":"$GOOG deserves a bounce here...","lbl":"Positive"}
+,{"time":"15:05","usr":"webguild","txt":"$goog pumelled on news of $aapl maps http://t.co/REbu5djj","lbl":"Negative"}
+,{"time":"15:39","usr":"RealtorGabriel","txt":"RT @SAI: THE BOTTOM LINE: Apple Really Is Going To Try To Kill Google $AAPL $GOOG by @jyarow http://t.co/cTywLYGj","lbl":"Negative"}
+,{"time":"15:40","usr":"tigrs99","txt":"RT @SAI: THE BOTTOM LINE: Apple Really Is Going To Try To Kill Google $AAPL $GOOG by @jyarow http://t.co/yHC6YNmB","lbl":"Negative"}
+,{"time":"16:03","usr":"JDoughtry","txt":"RT @SAI: THE BOTTOM LINE: Apple Really Is Going To Try To Kill Google $AAPL $GOOG by @jyarow http://t.co/yHC6YNmB","lbl":"Negative"}
+,{"time":"16:03","usr":"DaraJavaherian","txt":"Bearish on $GOOG #ruiningsentimentanalysis","lbl":"Negative"}
+,{"time":"16:03","usr":"TheNextWeb","txt":"$AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"16:13","usr":"Bahk76","txt":"$AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/6HPaqeu2","lbl":"Negative"}
+,{"time":"16:14","usr":"texavery1","txt":"$AAPL kisses $FB, smacks $GOOG, and the market yawns: Several days ago, I penned a short article noting the mass... http://t.co/z3XuhMyu","lbl":"Negative"}
+,{"time":"16:30","usr":"AndyPaddock","txt":"$AAPL kisses $FB, smacks $GOOG, and the market yawns: Several days ago, I penned a short article noting the mass... http://t.co/ATC5Raru","lbl":"Negative"}
+,{"time":"16:31","usr":"grahamee","txt":"$AAPL kisses $FB, smacks $GOOG, and the market yawns: Several days ago, I penned a short article noting the mass... http://t.co/bBf0mvK9","lbl":"Negative"}
+,{"time":"16:31","usr":"AdmiralMarketsA","txt":"#business CHART OF THE DAY: Apple Rubs Android\u0027s Fragmentation Problem In Google\u0027s Face $AAPL $GOOG by @jyarow http://t.co/gfGd0Rga","lbl":"Negative"}
+,{"time":"16:31","usr":"wrikent3500","txt":"RT @SAI: CHART OF THE DAY: Apple Rubs Android\u0027s Fragmentation Problem In Google\u0027s Face $AAPL $GOOG by @jyarow http://t.co/6IyiNJGQ","lbl":"Negative"}
+,{"time":"17:07","usr":"thefinancepress","txt":"$GOOG Apple Says Goodbye Google Maps, Hello iOS Maps: Apple Says Goodbye Google Maps, Hello iOS Maps ValueWalk ... http://t.co/Cuawqp9X","lbl":"Negative"}
+,{"time":"17:09","usr":"campione","txt":"The summary of today\u0027s #WWDC: @Apple really is going to try kill @Google. http://t.co/1jmVqARC v @gkm1 $AAPL $GOOG #payment #search #siri","lbl":"Negative"}
+,{"time":"17:09","usr":"paulwoll","txt":"Note: Another hit to $GOOG lately has been the earlier \u0022leaked\u0022? news that $AAPL was going it alone with the maps confirmed today.","lbl":"Negative"}
+,{"time":"17:43","usr":"yusnizam","txt":"$AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/5RcgIN67","lbl":"Negative"}
+,{"time":"17:43","usr":"levelsoflife","txt":"RT @TheNextWeb: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"17:43","usr":"FredHadi","txt":"RT @TheNextWeb: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"17:44","usr":"TimMancuso","txt":"RT @TheNextWeb: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"17:44","usr":"jason660cn","txt":"RT @TheNextWeb: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"17:44","usr":"kevinlu777","txt":"RT @TheNextWeb: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"17:44","usr":"All3high","txt":"RT @TheNextWeb: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"17:44","usr":"seosathyam","txt":"RT @TheNextWeb: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"17:44","usr":"Baskhara77","txt":"RT @TheNextWeb: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/72U8rmpy by @alex","lbl":"Negative"}
+,{"time":"18:12","usr":"ChrisRockGlover","txt":"RT @chrisslatton: $AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/wAkKyKrP","lbl":"Negative"}
+,{"time":"20:35","usr":"GuilleBriseno","txt":"RT @businessinsider: THE BOTTOM LINE: Apple Really Is Going To Try To Kill Google $AAPL $GOOG by @jyarow http://t.co/9mHXvnlH","lbl":"Negative"}
+,{"time":"20:36","usr":"kmantri","txt":"RT @campione: The summary of today\u0027s #WWDC: @Apple really is going to try kill @Google. http://t.co/1jmVqARC v @gkm1 $AAPL $GOOG #payment #search #siri","lbl":"Negative"}
+,{"time":"20:37","usr":"todd_harrison","txt":"\u201CThe rift between $GOOG and $AAPL couldn\u2019t be clearer than it was today,\u201D said Gene Munster, \u201CThey just keep raising the temperature.\u201D","lbl":"Negative"}
+,{"time":"20:39","usr":"sec_prof","txt":"@LazT3Live $AAPL $CMG flat 21ema on daily, so I stay away. $GOOG and $NFLX 8<21 both decr. My choice to trade. Correct \u0022rough\u0022 analysis?","lbl":"Positive"}
+,{"time":"23:23","usr":"optionspunk","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/swpKL9iB #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Negative"}
+,{"time":"23:27","usr":"BluHorShoe","txt":"RT @RaginCajun: $GOOG In Trouble | Ragin\u0027 Cajun http://t.co/GhTdEDY1","lbl":"Negative"}
+,{"time":"23:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 23:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+]

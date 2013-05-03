@@ -1,0 +1,11 @@
+[
+{"time":"5:58","usr":"pegobry","txt":"RT @Benzinga: $GOOG PT Lowered from $730 to $670 at JP Morgan","lbl":"Negative"}
+,{"time":"5:58","usr":"terranovajoe","txt":"RT @Benzinga: $GOOG PT Lowered from $730 to $670 at JP Morgan","lbl":"Negative"}
+,{"time":"5:59","usr":"frotuss","txt":"$DB is taking everyone to woodshed RT @Benzinga $GOOG PT Lowered from $675 to $662 at Deutsche Bank","lbl":"Negative"}
+,{"time":"10:39","usr":"NoDoji","txt":"$GOOG breakout on 5 min, new HOD","lbl":"Positive"}
+,{"time":"10:40","usr":"RJStuart317","txt":"out of $GOOG .... 103% on weeklys today so time to not be greedy when they can easily collapse on me","lbl":"Negative"}
+,{"time":"11:45","usr":"Kyant","txt":"RT @SAI: LIVE: Google\u0027s Maps Is About To Get A Makeover $GOOG by @stevekovach http://t.co/dcvNi3Zh","lbl":"Positive"}
+,{"time":"14:30","usr":"SeekingAlpha","txt":"The True Potential Of Google\u0027s Motorola Acquisition http://t.co/atvuWIlo $BIDU $MMI $MSFT $NOK $RIMM $GOOG","lbl":"Positive"}
+,{"time":"18:31","usr":"tdarling1","txt":"@jimcramer I used the market sell off to reposition. Sold $GOOG, $SDY; bought $ROST and $SBUX. Held $BEAM and $VNQ.","lbl":"Negative"}
+,{"time":"18:45","usr":"njnigh","txt":"Google begins alerting Gmail users to \u0027state-sponsored\u0027 attacks $GOOG http://t.co/PIBF1ilI","lbl":"Negative"}
+]

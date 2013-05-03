@@ -1,0 +1,7 @@
+[
+{"time":"7:12","usr":"thefinancepress","txt":"$GOOG Google (NASDAQ:GOOG) Gets Green Signal in Oracle (NASDAQ:ORCL) Java Case ...: Google (NASDAQ:GOOG) Gets G... http://t.co/pwyzLQHx","lbl":"Positive"}
+,{"time":"7:28","usr":"stevehau","txt":"Next week is a big week for maps. $AAPL $GOOG \u201CNext Dimension Of Google Maps\u201D Next Week http://t.co/HX8iHLYo","lbl":"Positive"}
+,{"time":"7:50","usr":"MSagebiel","txt":"RT @SAI: VERY SMART: Chromebox Is Really Google\u0027s First Desktop PC For Businesses $GOOG by @Julie188 http://t.co/XZ5xsvay","lbl":"Positive"}
+,{"time":"12:08","usr":"A2ZComputing","txt":"RT @SAI: Google Is About To Steal Apple\u0027s WWDC Spotlight $GOOG $AAPL by @_dtl http://t.co/SLzKp6nX","lbl":"Positive"}
+,{"time":"20:06","usr":"wjboynton","txt":"#Apple Gives #Google the Boot, Faces Off With Facebook ($AAPL, $FB, $GOOG) http://t.co/z9ATOA2B","lbl":"Negative"}
+]

@@ -1,0 +1,4 @@
+[
+{"time":"0:12","usr":"Wil_Alex_Martin","txt":"I\u0027d rather make money trading stock options. Current holdings: $amzn $gco $nugt $rtn --- Friday-- $rgr","lbl":"Positive"}
+,{"time":"0:48","usr":"markvwes","txt":"$AMZN leaves negative trend on daily chart. Buy signal.","lbl":"Positive"}
+]

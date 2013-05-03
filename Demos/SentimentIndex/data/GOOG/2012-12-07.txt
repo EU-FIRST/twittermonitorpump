@@ -1,0 +1,11 @@
+[
+{"time":"6:12","usr":"FreeMrktCptlst","txt":"$GOOG is NOT $AAPL\u2026people only use $GOOG services cause they\u0027re free. If $GOOG starts charging people for shit, buh-bye","lbl":"Negative"}
+,{"time":"9:16","usr":"mg3rewinder","txt":"How Google Ruined Its First True Social Network $GOOG $FB by @meganrosedickey http://t.co/Op2V07G3","lbl":"Negative"}
+,{"time":"11:59","usr":"GEQSense","txt":"Do it hahahahahah \u201C@asyurei3: Look at that death spiral on $GOOG makes me want to buy. Seriously.\u201D","lbl":"Positive"}
+,{"time":"12:00","usr":"asyurei3","txt":"$GOOG buy chance would be 684 if it gets there.","lbl":"Positive"}
+,{"time":"12:01","usr":"racernic","txt":"closed lower legs of wkly $GOOG iron condor exp 2day for .03. almost full prof. no sense leaving the risk. 675/70 15x","lbl":"Negative"}
+,{"time":"12:33","usr":"Flock_2","txt":"RT @SAI: GOLDMAN: Here\u0027s Why Google Is \u0027Challenged\u0027 In Mobile $GOOG by @jyarow http://t.co/OicU8CaI","lbl":"Negative"}
+,{"time":"13:05","usr":"sctandogdu","txt":"RT @SAI: GOLDMAN: Here\u0027s Why Google Is \u0027Challenged\u0027 In Mobile $GOOG by @jyarow http://t.co/OicU8CaI","lbl":"Negative"}
+,{"time":"16:08","usr":"GSUTrader","txt":"RT @AlyceLomax: Rumors that Google might buy Groupon apparently floating around. I think I\u0027d majorly lose respect for Google. $GOOG $GRPN","lbl":"Negative"}
+,{"time":"16:10","usr":"JerrrrrBear","txt":"$GOOG rumored to possibly buying $GRPN? I didn\u0027t know it was already April 1st. That would be one dumb M&A.","lbl":"Negative"}
+]

@@ -30,9 +30,23 @@ var IDX_POLARITY_MA14
 var IDX_COUNT
 	= 12;
 
-function viewTweets(time) {
+function showTweets(time) {
+	if (!time) { return; }
 	$(".modal-header > h3").text("Tweets on " + Highcharts.dateFormat("%a, %b %e, %Y", time));
-	$(".modal").modal();
+	var stock = getSelection("#entity");
+	var date = Highcharts.dateFormat("%Y-%m-%d", time);
+	$.getJSON("data/" + stock + "/" + date + ".txt", function(data) {
+		var htmlBlocks = {};
+		for (var i in data) {
+			if (!htmlBlocks[data[i].lbl]) { htmlBlocks[data[i].lbl] = ""; }
+			htmlBlocks[data[i].lbl] += "<div class=\"tweet\"><span class=\"tweet-header\">" + htmlEncode(data[i].usr) + " at " + data[i].time + "</span> " + htmlEncode(data[i].txt) + "</div>";
+		}
+		$(".modal-body").html("<h4>Positive tweets</h4>" + htmlBlocks["Positive"] + "<h4>Negative tweets</h4>" + htmlBlocks["Negative"]);
+		$(".modal").modal();
+	}).error(function() {
+		$(".modal-body").html("Oops, something went wrong. Please try to reload the page.");
+		$(".modal").modal();
+	});
 }
 
 function showChartUpper(option) {
@@ -77,6 +91,15 @@ function load(name) {
 		var diff = aaSub(data.pos, data.neg);
 		var pol = aaDiv(diff, asSum(aaSum(data.pos, data.neg), 1));
 		chart = new Highcharts.StockChart({
+			plotOptions: {
+				series: {
+					events: {
+						click: function() {
+							showTweets(chart.currentX);
+						}
+					}
+				}
+			},
 			credits: { 
 				enabled: false 
 			},
@@ -85,7 +108,7 @@ function load(name) {
 				zoomType: "x",
 				events: {
 					click: function(e) { 
-						viewTweets(chart.currentX);
+						showTweets(chart.currentX);
 					}
 				}
 			},
@@ -539,5 +562,12 @@ $("select").change(function() {
 	load(getSelection("#entity"));
 });
 
+// reset modal pop-up window scrollbar
+$(".modal").on("hidden", function() { 
+	$(".modal").show(); // div needs to be visible for this to work
+	$(".modal-body").scrollTop(0); 
+	$(".modal").hide();
+});
+
 // initialize
-load("GOOG"); 
+load("GOOG");

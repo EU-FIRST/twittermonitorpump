@@ -1,0 +1,11 @@
+[
+{"time":"1:08","usr":"jaystox","txt":"$GOOG tablet probably hurts $AMZN more than $AAPL.","lbl":"Negative"}
+,{"time":"8:37","usr":"daytradingradio","txt":"$AMZN pushing the lows of the day","lbl":"Negative"}
+,{"time":"8:41","usr":"Alvari40","txt":"Out of overnight $AMZN short @ BE","lbl":"Positive"}
+,{"time":"9:17","usr":"Minyanville","txt":"Google\u0027s Nexus 7 is competing with the Nook and Kindle, not the #iPad http://t.co/taF348x3 $GOOG $AMZN $AAPL $BKS @michaelcomeau","lbl":"Negative"}
+,{"time":"9:22","usr":"abebut","txt":"@MichaelComeau still, $AMZN Fire doesn\u0027t work to full potential unless you register and run it with Google account, ... http://t.co/wIJVPn99","lbl":"Negative"}
+,{"time":"12:54","usr":"BayesTrader","txt":"CALL $AMZN Price:219.71 P:855 T:7d 13:54 EDT #stocks $$","lbl":"Positive"}
+,{"time":"13:00","usr":"danielhsqr","txt":"$GOOG going after $AMZN AWS with Google Compute Engine, another pt for @firstadopter ?","lbl":"Negative"}
+,{"time":"13:40","usr":"Jamtrades","txt":"RT @douglaskloeker just for fun @Jamtrades just loaded up on some $AMZN 225 calls --- it\u0027s been hit hardest so far today //Watching","lbl":"Positive"}
+,{"time":"22:26","usr":"CubbieBears","txt":"$AMZN held 50 day in all the mess","lbl":"Negative"}
+]

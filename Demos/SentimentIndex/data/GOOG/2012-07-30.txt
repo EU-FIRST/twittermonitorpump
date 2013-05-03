@@ -1,0 +1,12 @@
+[
+{"time":"7:56","usr":"thefinancepress","txt":"$GOOG Google: Oops! We hung onto that Wi-Fi data we snooped: Google: Oops! We hung onto that Wi-Fi data we snoo... http://t.co/ZX5qpQcg","lbl":"Negative"}
+,{"time":"8:34","usr":"courtneypineda","txt":"$GOOG $640 that was my second target lol still holding my calls","lbl":"Positive"}
+,{"time":"8:36","usr":"jpu19","txt":"$AAPL 1,64% $GOOG 0,98%","lbl":"Positive"}
+,{"time":"11:32","usr":"boogidown","txt":"$AAPL flat but $GOOG looks like a great swing short..","lbl":"Negative"}
+,{"time":"14:14","usr":"tigrs99","txt":"RT @SAI: Android May Have Peaked In The U.S. -- It Lost 4% Of Its Market Share Last Quarter $GOOG $AAPL by @jyarow http://t.co/Vn2SDnSm","lbl":"Negative"}
+,{"time":"15:14","usr":"thefinancepress","txt":"$GOOG Apple, Google, Microsoft Exasperate Judges With \u0027Arrogant\u0027 IP Bickering: Apple, Google, Microsoft Exasper... http://t.co/6I23MkTf","lbl":"Negative"}
+,{"time":"17:46","usr":"JustinPulitzer","txt":"Android\u2019s share of U.S. smartphone market declined in Q2 as iPhone share ballooned 43% http://t.co/Oku95a9H $AAPL $GOOG $$","lbl":"Negative"}
+,{"time":"17:50","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 205 shares \u2611","lbl":"Negative"}
+,{"time":"17:50","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 122 shares \u2611","lbl":"Negative"}
+,{"time":"17:50","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Page Lawrence Director SOLD 75000 shares \u2611","lbl":"Negative"}
+]

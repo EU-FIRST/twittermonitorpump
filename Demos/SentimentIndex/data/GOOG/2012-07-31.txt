@@ -1,0 +1,15 @@
+[
+{"time":"9:24","usr":"44andrew","txt":"$goog still impressive. Second test of trendline at 640-641 and consolidation above 630 is bullish","lbl":"Positive"}
+,{"time":"10:21","usr":"Jaydg1982","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:21","usr":"azraq99","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:22","usr":"fzgrupoempre","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:31","usr":"GentleDentalHOU","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:46","usr":"tradingpicks","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:47","usr":"Dawgum","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"11:09","usr":"Osnay_M","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"11:30","usr":"RRossachacj","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"11:30","usr":"LaramieDunlap","txt":"If you think this run-up in $AAPL\u0027s share price is something $AAPL specific, just look at a daily chart of $GOOG #jeez","lbl":"Positive"}
+,{"time":"11:31","usr":"alvintoddjr","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"15:27","usr":"Richardgwolfe","txt":"If I want to shop online I use $GOOG to find what I want- Not $FB. #Facebook","lbl":"Positive"}
+,{"time":"17:38","usr":"richardball","txt":"RT @StockTwits: Google is adding to its giant advertising business. Snaps Up Wildfire - a social media marketing firm. http://t.co/gUHQaRXc $GOOG","lbl":"Positive"}
+]

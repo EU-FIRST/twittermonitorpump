@@ -1,0 +1,57 @@
+[
+{"time":"6:47","usr":"Pierce2988","txt":"I\u0027m short $goog, if it misses $aapl will touch the sky. People will say bye bye google.","lbl":"Negative"}
+,{"time":"6:55","usr":"LPEFtrading","txt":"@Pierce2988 I think I will buy the $GOOG weekly Puts 50 OTM, Cheap premiums, 10 bagger if they miss $GOOG $AAPL","lbl":"Negative"}
+,{"time":"11:21","usr":"Catwoman2011","txt":"$AAPL As much as I\u0027d personally love to see $GOOG have a big fat miss, I fear it would bring down $BIDU $AAPL NAZ in sympathy. =^.^=","lbl":"Negative"}
+,{"time":"12:45","usr":"marketWill","txt":"RT @AJInsight: So $INDU +260 in 1.5 days... That means $GOOG better beat tonight, $JPM and $WFC tomorrow. Plus China GDP overnight and US CPI Fri am.","lbl":"Negative"}
+,{"time":"14:04","usr":"Market_Bull","txt":"@LaMonicaBuzz posted earlier that $AAPL has rallied for a decade and needs a break. $GOOG is in party mode now, up 13pts.","lbl":"Positive"}
+,{"time":"15:00","usr":"BlueFielder","txt":"RT @vcutrader: I\u0027m not that confident on $GOOG but I think $JPM will be SOLID...(no position on either) // agree on JPM . Google=either way","lbl":"Negative"}
+,{"time":"15:00","usr":"wallstCS","txt":"Google is Throttling its Search Competitors http://t.co/c78a6HKS $SCOR $GOOG $MSFT $YHOO $AOL #mkt #stocks #trading","lbl":"Positive"}
+,{"time":"15:08","usr":"Sumenn7063","txt":"Google Q1 EPS $10.08 vs. $9.65Est. & Q1 Revenue $8.14B vs. $8.1B Est.... $GOOG #UP 2% in the A.H","lbl":"Positive"}
+,{"time":"15:08","usr":"61point8","txt":"$GOOG > Did you notice how $670 got hit on the nose? Hahaha!!! It\u0027s called \u0022give me my money back\u0022!!! http://t.co/xhlFn4tE","lbl":"Negative"}
+,{"time":"15:10","usr":"Gamer_Guild","txt":"$GOOG bulshit accounting reality check time?","lbl":"Negative"}
+,{"time":"15:12","usr":"muhaidib","txt":"RT @SAI: Google Announces Stock Split Proposal $GOOG by @nichcarlson http://t.co/UlhPbWZ2","lbl":"Positive"}
+,{"time":"15:13","usr":"Scott1G","txt":"RT @BloombergNews: Google 1Q adj. EPS $10.08 vs estimated $9.64 | http://t.co/RuvLFwED $GOOG","lbl":"Positive"}
+,{"time":"15:13","usr":"GraduateTrader","txt":"RT @SheilaD_TV: breaking *GOOGLE BOARD APPROVED STOCK DIV PROPOSAL $GOOG","lbl":"Positive"}
+,{"time":"15:16","usr":"alexwangdds","txt":"I don\u0027t get it. how is a 2 for 1 split of $GOOG a dividend? it doesn\u0027t create value for shareholders. Am I missing something here?","lbl":"Negative"}
+,{"time":"15:16","usr":"MattKelmon","txt":"$GOOG why not 10-1? I smell smoothing of the numbers. I will short any big upside knee jerk tomorrow.","lbl":"Negative"}
+,{"time":"15:18","usr":"SchaeferStreet","txt":"Just to be clear $GOOG move is \u0027effectively\u0027 a stock split, actually a dividend payment of one new share in a nonvoting class.","lbl":"Negative"}
+,{"time":"15:18","usr":"livinonprayer","txt":"hold the posiition $GOOG. Got in when the stock was at 628","lbl":"Positive"}
+,{"time":"15:18","usr":"Squishy_Rishi","txt":"was slightly bullish on $GOOG and expected an unimpressive reaction but it\u0027s real quiet here-otm 720 calls/570 puts that i sold seem safe :)","lbl":"Positive"}
+,{"time":"15:20","usr":"Bheng94595","txt":"RT @BloombergNews: Google proposes measure effectively splitting shares 2 for 1 | http://t.co/ywO7nBuA $GOOG","lbl":"Positive"}
+,{"time":"15:20","usr":"jarsch","txt":"$GOOG Huge win for all of the option writers!","lbl":"Positive"}
+,{"time":"15:23","usr":"Equitykingkong","txt":"$GOOG: congrats to those that sold short OTM strangles","lbl":"Negative"}
+,{"time":"15:25","usr":"tjtakes","txt":"added to $emc today. got long $goog, i looked 4 index to be bulilsh Wednesday but had NO IDEA about today\u0027s action, start june $spy puts spr","lbl":"Positive"}
+,{"time":"15:25","usr":"kaztheprof","txt":"RT @CNBC: Google Beats on Earnings, Announces New Class of Stock: http://t.co/3VS8eEbi $GOOG","lbl":"Positive"}
+,{"time":"15:28","usr":"JohnKicklighter","txt":"RT @KidDynamiteBlog: $GOOG - it\u0027s NOT A SPLIT! it\u0027s a new share class designed to keep founders\u0027 control concentrated! non-voting shares will be used for comp","lbl":"Positive"}
+,{"time":"15:31","usr":"LeinzCNN","txt":"RT @LaMonicaBuzz: Google headcount up by 610 employees in Q1 from end of year. Say what you want about company. But $GOOG is at least creating jobs.","lbl":"Positive"}
+,{"time":"15:31","usr":"TradingGuru","txt":"RT @TradingGuru $GOOG beat earnings exp 2-1 stock split Strong Buy #StockMarket #StockPicks #Trading #WallStreet #JimCramer #NASDAQ","lbl":"Positive"}
+,{"time":"15:31","usr":"CDMCapital","txt":"$DOW increases dividend afterhours up 2%. Nice to see these guys returning capital for shareholders here from $GOOG and $DOW","lbl":"Positive"}
+,{"time":"15:34","usr":"jaymathur","txt":"RT @Reuters: Google announces stock dividend http://t.co/9X8ARJPe $GOOG","lbl":"Positive"}
+,{"time":"15:34","usr":"MichaelComeau","txt":"$GOOG needed a rev beat for perception as growth monster, esp since $MMI will drag growth rate down due to shitty sales","lbl":"Negative"}
+,{"time":"15:37","usr":"DanTraderETN","txt":"$GOOG stock split!!! We\u0027re loving it: http://t.co/e3dtMLIv","lbl":"Positive"}
+,{"time":"15:43","usr":"babilal","txt":"WooHoo! \u201C@CNBC: Google Beats on Earnings, Announces New Class of Stock: http://t.co/BekQ90vZ $GOOG\u201D","lbl":"Positive"}
+,{"time":"15:43","usr":"FinanceCrisisDR","txt":"RT @YahooFinance: Google beats on #earnings and announces stock dividend http://t.co/jTAGupw8 $GOOG","lbl":"Positive"}
+,{"time":"15:58","usr":"herbgreenberg","txt":"My final translation of $GOOG letter: \u0022By investing in Google, u r giving up all rights as a shareholder...accept it or leave.\u0022","lbl":"Negative"}
+,{"time":"16:06","usr":"bbolan1","txt":"$GOOG Headcount is not managed Qtr to Qtr -- don\u0027t read that much into it. Products will see better integration with others over time.","lbl":"Positive"}
+,{"time":"16:06","usr":"AndrewWuest","txt":"RT @herbgreenberg: My final translation of $GOOG letter: \u0022By investing in Google, u r giving up all rights as a shareholder...accept it or leave.\u0022","lbl":"Negative"}
+,{"time":"16:11","usr":"tradingpoints","txt":"RT @herbgreenberg: My translation of $GOOG letter: \u0022By investing in GOOG, u r giving up all rights as a shareholder...accept it or leave.\u0022","lbl":"Negative"}
+,{"time":"16:19","usr":"crazyfasteddy","txt":"@daytrend agreed $goog stock is not special but done more for the world than $aapl?? Have you seen a personal computer yet? How about GUI?","lbl":"Positive"}
+,{"time":"16:28","usr":"StockTwits","txt":"RT @firstadopter $GOOG revenue growth decelerating. Last 4 quarters (ex-TAC): +36% y/y, +37% y/y, +28% y/y, +24% y/y","lbl":"Positive"}
+,{"time":"16:29","usr":"trimmgi","txt":"RT @SullyCNBC: Wonder what \u0022outside pressures\u0022 $GOOG fears since it would cost $10.7 billion to buy even 5% stake. http://t.co/s5vbUdPB","lbl":"Positive"}
+,{"time":"16:41","usr":"trader_trend","txt":"\u201C http://t.co/XSQIB0Fl $GOOG revenue growth decelerating. Last 4 quarters (ex-TAC): +36% y/y, +37% y/y, +28% y/y, +24% y/y\u201D","lbl":"Negative"}
+,{"time":"16:53","usr":"mrkokos","txt":"RT @Jonp514: Long $GOOG here on the AH beat... It should be up even more once Cramer is done pumping it at 6pm","lbl":"Positive"}
+,{"time":"16:53","usr":"srisri55","txt":"if I give you two $5 bills for your $10 bill and said that one of the bills is worth less, will you be more happy? $GOOG $AAPL","lbl":"Negative"}
+,{"time":"17:11","usr":"LIONKING1","txt":"RT @ericjackson: Google Growth `Decelerating,\u0027 Jackson Says http://t.co/qgqMnBrF via @BW $GOOG","lbl":"Negative"}
+,{"time":"17:22","usr":"hanskoning","txt":"Larry Page Just Dropped A Huge Hint That A Google Tablet Is Coming Soon $GOOG by @stevekovach http://t.co/rAHl7MYn","lbl":"Positive"}
+,{"time":"17:22","usr":"rajdeep_","txt":"$GOOG is not going down anytime soon","lbl":"Positive"}
+,{"time":"17:36","usr":"CoryTV","txt":"$GRPN looses money on every sale and makes up for it on volume. $GOOG makes money on every sale and makes up for it on volume.","lbl":"Positive"}
+,{"time":"17:36","usr":"DavidIanGray","txt":"RT @SAI: Larry Page Just Dropped A Huge Hint That A Google Tablet Is Coming Soon $GOOG by @stevekovach http://t.co/SUkKuh42","lbl":"Positive"}
+,{"time":"17:36","usr":"proYectone","txt":"RT @BloombergNews: Google 1Q adj. EPS $10.08 vs estimated $9.64 | http://t.co/RuvLFwED $GOOG","lbl":"Positive"}
+,{"time":"18:50","usr":"hollisbhopa","txt":"RT @BloombergNews: Google proposes measure effectively splitting shares 2 for 1 | http://t.co/w7HmZbXo $GOOG","lbl":"Positive"}
+,{"time":"18:50","usr":"jonasQuinn23","txt":"Geez, $GOOG like to complicate things by splitting its stock 2:1 with one half of the resulting # of shs a 2nd-class stock #fail $AAPL","lbl":"Negative"}
+,{"time":"18:50","usr":"SeekingAlpha","txt":"Google\u0027s Split: A Potential Mess In The Options Market http://t.co/UwPKYjLv $GOOG","lbl":"Negative"}
+,{"time":"19:25","usr":"JBowlesSD","txt":"Google announces stock split http://t.co/mK8mikkH $GOOG #finance #stocks","lbl":"Positive"}
+,{"time":"19:28","usr":"equitiescom","txt":"#Viacom and #Google lawsuit over #YouTube heads into Round 2: http://t.co/tSyJW57k $GOOG #copyright $VIA","lbl":"Negative"}
+,{"time":"20:11","usr":"Catwoman2011","txt":"=^.^= @jimcramer $GOOG very cheap on 2013 eps. but not as cheap as $AAPL. I\u0027ll feel better about it if the Phils put the Marlins away here.","lbl":"Positive"}
+,{"time":"20:59","usr":"Kimberly_Yu","txt":"RT @Reuters: Google announces stock dividend http://t.co/9X8ARJPe $GOOG","lbl":"Positive"}
+]

@@ -1,0 +1,4 @@
+[
+{"time":"6:52","usr":"Fitzstock2004","txt":"$amzn had some nice trades(both long & short).....another \u0022MA\u0022 pattern=BEARISH http://t.co/bsKgboBx","lbl":"Negative"}
+,{"time":"11:40","usr":"SeekingAlpha","txt":"Amazon Earnings Preview: Q3 May Be Good, But Guidance Will Disappoint http://t.co/cIyq8QQ3 $BBY $COST $GOOG $WMT $AMZN","lbl":"Negative"}
+]

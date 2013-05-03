@@ -1,0 +1,27 @@
+[
+{"time":"9:05","usr":"rechtsteiner","txt":"$GCI\u0027s USA Today illustrates just how dominating $AMZN\u0027s Fire is in the $GOOG Android arena. http://t.co/KmDgbQLo #ACW","lbl":"Positive"}
+,{"time":"10:00","usr":"fledglingtrader","txt":"They said the same when $CROX crashed to 15,NFLX to 60 @biggercapital Stream perception was $AMZN dead after its report. Zed is not dead","lbl":"Negative"}
+,{"time":"10:43","usr":"nxtmillionair40","txt":"$AMZN going down too fast, we\u0027re gonna trim some profit from yesterday","lbl":"Negative"}
+,{"time":"10:43","usr":"danshep55","txt":"$amzn missed the 190.77 breakdown .. grrrrrrr","lbl":"Positive"}
+,{"time":"13:37","usr":"Jamtrades","txt":"$AMZN shorts suddenly started covering.. I wonder what happened... :) Happy Valentine\u0027s Day to #investors @jimcramer @optionmonster","lbl":"Negative"}
+,{"time":"14:29","usr":"ivanhoff","txt":"RT @howardlindzon the Rackspace move today shows that momentum funds think $RAX is $AMZN without retail = PE expansion","lbl":"Positive"}
+,{"time":"14:30","usr":"KeeneOnMarket","txt":"Taking profits and moving on in $AMZN on #earnings: http://t.co/VY7Vj4yS","lbl":"Positive"}
+,{"time":"14:50","usr":"marketminute","txt":"RT @BloombergNews: BREAKING: Amazon is said to have fewer Prime subscribers than estimated | http://t.co/ywO7nBuA $AMZN","lbl":"Negative"}
+,{"time":"14:50","usr":"dparent","txt":"$AMZN wow","lbl":"Positive"}
+,{"time":"14:51","usr":"cornbroker","txt":"RT @CornFutures: $AMZN having fewer prime subscribers then previously estimated. What im hearing.","lbl":"Negative"}
+,{"time":"14:51","usr":"Zaudio","txt":"Wow, 1.5 M shares of $AMZN just got dumped...","lbl":"Negative"}
+,{"time":"14:54","usr":"tkathlinastocks","txt":"$AMZN Amazon trading 1% below VWAP. Was higher to start the day. Postive news.","lbl":"Positive"}
+,{"time":"14:54","usr":"CapCube","txt":"RT @KeithMcCullough TimeStampers, we shorted $AMZN yesterday at 3:33 PM EST, $191.80/share -- is that a Hindsight Trade ?! - Join HT\u0027s","lbl":"Negative"}
+,{"time":"15:10","usr":"jkutti2000","txt":"$AMZN never ceases to amaze.. each bad result it falls but prompty recovers. .. Bezos the clown has tricks up his sleeve!","lbl":"Positive"}
+,{"time":"15:35","usr":"larryzhao118","txt":"RT @BloombergNews: BREAKING: Amazon is said to have fewer Prime subscribers than estimated | http://t.co/ywO7nBuA $AMZN","lbl":"Negative"}
+,{"time":"16:02","usr":"BlueFielder","txt":"Still own most of those $AMZN $CALLs - tried to sell before the bell... but did not execute","lbl":"Negative"}
+,{"time":"16:50","usr":"Vidrro","txt":"RT @SheilaD_TV: Soros Sells position in $AMZN, $L and $BIIB","lbl":"Negative"}
+,{"time":"16:50","usr":"mikearchy","txt":"RT @SheilaD_TV: Soros Sells position in $AMZN, $L and $BIIB","lbl":"Negative"}
+,{"time":"16:50","usr":"Catwoman2011","txt":"RT @SheilaD_TV: Soros Sells position in $AMZN, $L and $BIIB","lbl":"Negative"}
+,{"time":"17:43","usr":"jimm_eh","txt":"@iowahawkblog speaks, and George Soros listens .@SheilaD_TV: Soros Sells position in $AMZN, $L and $BIIB","lbl":"Negative"}
+,{"time":"17:44","usr":"iowahawkblog","txt":"RT @jimm_eh: @iowahawkblog speaks, and George Soros listens .@SheilaD_TV: Soros Sells position in $AMZN, $L and $BIIB","lbl":"Negative"}
+,{"time":"19:09","usr":"ItsMeexD","txt":"dude $AMZN crashed today intraday! any idea what happened? #sketch","lbl":"Negative"}
+,{"time":"22:16","usr":"arunjolly","txt":"$AAPL $AMZN futures are up 65 as of this. Should be a good day tomorrow.","lbl":"Positive"}
+,{"time":"22:16","usr":"blurry_focus","txt":"RT @hedgefundinvest: @Xiphos_Trading I think $AMZN, despite it\u0027s rich multiples, has way more optionality vs. $AAPL.","lbl":"Positive"}
+,{"time":"22:20","usr":"ELGCC","txt":"BREAKING: Amazon is said to have fewer Prime subscribers than estimated | http://t.co/RAYmF62w $AMZN","lbl":"Negative"}
+]

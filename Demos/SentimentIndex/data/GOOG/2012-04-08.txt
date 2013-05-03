@@ -1,0 +1,4 @@
+[
+{"time":"2:56","usr":"jimcramersucks","txt":"Google drives Blind Guy to Taco Bell http://t.co/ZWxYMfSl #hollywood #tmz #SourceFed $goog","lbl":"Positive"}
+,{"time":"11:34","usr":"AAinslie","txt":"\u0022So to all who say that @GoogleWallet is finished, I say this. You are wrong.\u0022 ~@cherian_abraham http://t.co/TjCGaFsE #payments $GOOG $$","lbl":"Positive"}
+]

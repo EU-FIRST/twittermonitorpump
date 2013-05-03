@@ -1,0 +1,4 @@
+[
+{"time":"4:10","usr":"SeekingAlpha","txt":"Google As The Bad Guy http://t.co/age0WO2y $GOOG","lbl":"Negative"}
+,{"time":"14:06","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Google Inc\u0027s Shares Finish The Week Up 1.38% (NASDAQ:GOOG): Google Inc\u0027s Shares Finish The Week Up 1.38% ... http://t.co/XSOQMGdd","lbl":"Positive"}
+]

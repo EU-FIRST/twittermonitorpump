@@ -1,0 +1,7 @@
+[
+{"time":"3:34","usr":"USwwwStocks","txt":"$AMZN News: http://t.co/mcOt5byj Closes In On Its Endgame As Sales Taxes Loom http://t.co/pKasaqDT #AMZN #Amazoncom #closes","lbl":"Negative"}
+,{"time":"3:34","usr":"USwwwStocks","txt":"$AMZN News: http://t.co/mcOt5byj Closes In On Its Endgame As Sales Taxes Loom http://t.co/xJEyAkat #AMZN #Amazoncom #closes","lbl":"Negative"}
+,{"time":"8:40","usr":"TweetLeni","txt":"A nice morning $Still short $AMZN $EBAY $CRM","lbl":"Negative"}
+,{"time":"11:13","usr":"Power0v5","txt":"It\u0027s a good day to have $AMZN stock in your portfolio... #OntoBigThings","lbl":"Positive"}
+,{"time":"18:02","usr":"tetela_s","txt":"RT @tradingfloorcom: Amazon will be the Wal-Mart of the 21st century @petergarnry equity strategist @Saxobank $AMZN $WMT http://t.co/D6jNKISv","lbl":"Positive"}
+]

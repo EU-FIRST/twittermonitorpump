@@ -1,0 +1,4 @@
+[
+{"time":"10:54","usr":"wbimblick","txt":"RT @SAI: How The iPad Could Destroy Google\u0027s Lucrative Search Business $GOOG $AAPL by @jyarow http://t.co/tdNeVKco","lbl":"Negative"}
+,{"time":"21:28","usr":"thefinancepress","txt":"$GOOG Monday Grok: Will Siri crack the walls of GOOG?: Monday Grok: Will Siri crack the walls of GOOG? CIO Aust... http://t.co/wRdbTo4Q","lbl":"Negative"}
+]

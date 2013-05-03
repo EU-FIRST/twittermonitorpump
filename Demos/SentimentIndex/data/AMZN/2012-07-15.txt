@@ -1,0 +1,6 @@
+[
+{"time":"6:31","usr":"BigTicks","txt":"$AMZN News: 5 Reasons an Amazon Smartphone Won\u0027t Kill Apple http://t.co/EFgDhk87 #Amazon #AMZN #Apple","lbl":"Negative"}
+,{"time":"12:44","usr":"iStockAnalyst","txt":"Fear Has Now Trumped Fundamentals $AAPL $AMZN $APC $BRCM $BSG $BTU $CAM $CAT $CLF $CMI $EMR $EOG $EPL $FCX $GEOI... http://t.co/1ZYQk9sb","lbl":"Negative"}
+,{"time":"20:39","usr":"DeidreZune","txt":"The biggest source of UNFAIR advantage for $AMZN -- tax free shopping-- is coming to an end http://t.co/Yc8SOfjl $AMZN $BBY $EBAY $AAPL","lbl":"Negative"}
+,{"time":"20:42","usr":"DeidreZune","txt":"Republican Governors, in Need of Revenue, Drop Opposition to online sales tax. Finally a level playing field for bricks&mortar vs $AMZN","lbl":"Negative"}
+]

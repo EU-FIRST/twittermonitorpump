@@ -1,0 +1,30 @@
+[
+{"time":"1:11","usr":"Emanuelson_9","txt":"RT @StockTwits: Facebook gained $4.34 per user in advertising last year vs more than $30 per user for Google http://t.co/yEim0paf $FB $GOOG","lbl":"Positive"}
+,{"time":"1:14","usr":"tw_top_business","txt":"RT @StockTwits: Facebook gained $4.34 per user in advertising last year vs more than $30 per user for Google http://t.co/yEim0paf $FB $GOOG","lbl":"Positive"}
+,{"time":"7:04","usr":"brettphilbin","txt":"From late Tuesday, Soros fund added $JPM, $GS and $RF stakes in 1Q, dropped $GOOG http://t.co/fkZMt1we","lbl":"Negative"}
+,{"time":"8:49","usr":"Sangluccitrades","txt":"Weird action today. Chat room is long $GOOG","lbl":"Positive"}
+,{"time":"8:49","usr":"TweetLeni","txt":"Good morning. Took profits in $GOOG long here 621.18 Watching my $LNKD carefully. More later busy open","lbl":"Negative"}
+,{"time":"9:08","usr":"Swagato2","txt":"RT @Sangluccitrades: $GOOG MONSTER TRADE $625 Weekly Calls!!","lbl":"Positive"}
+,{"time":"9:10","usr":"iJamonEdwards","txt":"$GOOG up 2.3% early good to see my friend is getting better.","lbl":"Positive"}
+,{"time":"9:24","usr":"AnniDayTrades","txt":"$GOOG post to members a big winner today riding on $FB anticipation imo but completion of H&S a help too http://t.co/lFuocG6Z","lbl":"Positive"}
+,{"time":"9:24","usr":"whatdoiknw99","txt":"RT @berkutchitweet $GOOG has hit first intermediate resistance level around 630...agreed","lbl":"Negative"}
+,{"time":"9:25","usr":"_eFall","txt":"$GOOG Lookin strong in 2012","lbl":"Positive"}
+,{"time":"9:51","usr":"KTVora","txt":"@Tangletrade Agree re $GM\u0027s prod. Trying to understand $GOOG\u0027s move (not so much $FB). Institutional perception of $GOOG may be changing.","lbl":"Negative"}
+,{"time":"9:51","usr":"TweetLeni","txt":"$GOOG already retraced +50% from 4/23 bottom (at ~624)","lbl":"Positive"}
+,{"time":"9:51","usr":"Tangletrade","txt":"@KTVora I do think that is true. Rotation from $PCLN, $AAPL, etc into $GOOG perhaps","lbl":"Positive"}
+,{"time":"10:42","usr":"CashRocket","txt":"$GOOG good intraday short below 624 with tight stop","lbl":"Negative"}
+,{"time":"11:23","usr":"zachlendon","txt":"RT @howardlindzon: Google harvests demand, facebook can only hope to stoke it http://t.co/GjjV6Sco from @cdixon $fb $goog","lbl":"Positive"}
+,{"time":"11:25","usr":"LPlus","txt":"Google harvests demand, facebook can only hope to stoke it http://t.co/LaXYkjdn v/ @cdixon @howardlindzon $fb $goog","lbl":"Positive"}
+,{"time":"12:24","usr":"humphriesjm","txt":"OK $GOOG, I won\u0027t sell my google stock. http://t.co/AB7zmXa6","lbl":"Positive"}
+,{"time":"13:42","usr":"rickysetiawan","txt":"RT @SAI: If You Don\u0027t Think Android Fragmentation Is A Problem, Then You Have To See This Chart $GOOG by @stevekovach http://t.co/UjS3J3C1","lbl":"Negative"}
+,{"time":"14:24","usr":"AndrewhFX","txt":"Market is fairly resilient due to the banks and financials being weak again from the Greek debacle. $GOOG and $GE are strong though.","lbl":"Positive"}
+,{"time":"16:38","usr":"investools","txt":"Fed\u2019s indecision on QE3 trumps Euro recovery. Retailers got hung out to dry. Breakout examples: $DRI, $FFIV & $GOOG. http://t.co/Bx99M7qK","lbl":"Positive"}
+,{"time":"16:39","usr":"CitizenFluence","txt":"@SAI: WEIRD: Google Just Launched Another Baffling Social App For The iPhone (That\u0027s Not Google+) $GOOG by @mattlynley http://t.co/cCDE60eP\u201D","lbl":"Positive"}
+,{"time":"16:39","usr":"ampressman","txt":"RT @marketfolly: He owns $AAPL $PCLN $GOOG RT @ldelevingne Steve Mandel of #hedgefund Lone Pine: we like \u0022tech leader\u0022 stocks (no names) at #irasohn","lbl":"Positive"}
+,{"time":"17:52","usr":"howardlindzon","txt":"RT @StockTwits: shouldve gotten more attn today... $GOOG Just Got A Lot Smarter Launches Knowledge Graph http://t.co/K63orLhL via TechCrunch","lbl":"Positive"}
+,{"time":"17:52","usr":"jeffnolan","txt":"RT @StockTwits: shouldve gotten more attn today... $GOOG Just Got A Lot Smarter Launches Knowledge Graph http://t.co/K63orLhL via TechCrunch","lbl":"Positive"}
+,{"time":"17:53","usr":"dougkeefe","txt":"RT @StockTwits: shouldve gotten more attn today... $GOOG Just Got A Lot Smarter Launches Knowledge Graph http://t.co/K63orLhL via TechCrunch","lbl":"Positive"}
+,{"time":"19:25","usr":"VivanSmith","txt":"Google Knowledge Graph: Search Gets Smarter and More Direct http://t.co/KLT6c8Js #Google, $goog, $aapl, $fb","lbl":"Positive"}
+,{"time":"19:25","usr":"GOPTrends2012","txt":"Google Knowledge Graph: Search Gets Smarter and More Direct http://t.co/iNspVeIG #Google, $goog, $aapl, $fb","lbl":"Positive"}
+,{"time":"21:21","usr":"StockTwits","txt":"RT @JoshPritchard $FB has HUGE potential but $GOOG\u0027s (non-search) display ad biz alone is biggr & growing faster than all of $FB\u0027s ad biz","lbl":"Positive"}
+]

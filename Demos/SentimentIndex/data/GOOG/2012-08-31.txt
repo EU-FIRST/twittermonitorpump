@@ -1,0 +1,8 @@
+[
+{"time":"7:25","usr":"aseembakshi","txt":"RT @BI_Advertising: Google Will Kill Its TV Advertising Business $GOOG by @Jim_Edwards http://t.co/TKDksxX0","lbl":"Negative"}
+,{"time":"9:43","usr":"ajmcafe","txt":"RT @gtotoy: RT @sspencer_smb: $AAPL trading below pre-samsung verdict level. $GOOG trading above. the market has spoken. http://t.co/EQJ ...","lbl":"Positive"}
+,{"time":"10:06","usr":"TMFJMo","txt":"Today marks Maria Montessori\u0027s 142nd birthday. As a former #Montessori student, hats off to #Google\u0027s $GOOG tribute! https://t.co/Xof6loGN","lbl":"Positive"}
+,{"time":"10:06","usr":"tradermays","txt":"1/2\u0027ing the $GOOG calls here for a quick 75%","lbl":"Positive"}
+,{"time":"10:32","usr":"thekeikoshow","txt":"If ur long $GOOG, I\u0027d get out here. IF it can\u0027t break that $688 I see reversal happening to $685 then break supp to $680","lbl":"Negative"}
+,{"time":"14:04","usr":"ipodnar","txt":"Rt @JonErlichman: Since start of June: $FB -38%, $ZNGA -55%, $GRPN -61%... comparively $LNKD +11%, $YELP +32%, $AAPL +15%, $GOOG +18%\u201D","lbl":"Positive"}
+]

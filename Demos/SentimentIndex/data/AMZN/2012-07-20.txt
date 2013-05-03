@@ -1,0 +1,9 @@
+[
+{"time":"8:01","usr":"danshep55","txt":"$amzn deal with warner bros","lbl":"Positive"}
+,{"time":"8:57","usr":"MichaelShinder","txt":"Laying into $amzn into the quarter. Looking to go biggggg","lbl":"Positive"}
+,{"time":"11:42","usr":"racernic","txt":"wonder why $AMZN holding up well today.","lbl":"Negative"}
+,{"time":"11:44","usr":"CEP_Observer","txt":"@firstadopter My sense is that $amzn is going to sufficiently lower delivery & fulfilment costs to drive some on-line cometitors out","lbl":"Positive"}
+,{"time":"13:54","usr":"gregmartz","txt":"@TMFJMo $AMZN or $DIS. Disney may be easier to grasp, but Amazon would be a great way to intro web/tech. Thinking that\u0027s next for my 8-yo.","lbl":"Positive"}
+,{"time":"14:39","usr":"tomdesee","txt":"before i go to the pool with my daughter....thank you $GOOG and $AMZN for a better friday!","lbl":"Positive"}
+,{"time":"14:40","usr":"HedgeyeRetail","txt":"RT @KeithMcCullough: $AMZN acts like the champ","lbl":"Positive"}
+]

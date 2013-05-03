@@ -1,0 +1,18 @@
+[
+{"time":"8:13","usr":"mojoris1977","txt":"$MMI $GOOG: Phase 2 in China...not unexpected, but adds some uncertainty","lbl":"Negative"}
+,{"time":"9:06","usr":"StkConfidential","txt":"Retry: $GOOG, $FIRE, $FOSL and others moving well so far. $$","lbl":"Positive"}
+,{"time":"9:56","usr":"katetrades","txt":"Moved stop on $GOOG up to lock +4 on bal","lbl":"Positive"}
+,{"time":"10:23","usr":"Tangletrade","txt":"@RedDogT3Live really like that $GOOG chart...good look there","lbl":"Positive"}
+,{"time":"10:23","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: madrose1: $GOOG put on show this am @hod http://t.co/XOrCSOVf","lbl":"Negative"}
+,{"time":"10:57","usr":"katetrades","txt":"Out $GOOG +9 on bal","lbl":"Negative"}
+,{"time":"10:59","usr":"DEMOGETS","txt":"Took profits on $GOOG , will buy the dip !","lbl":"Negative"}
+,{"time":"14:41","usr":"4Samy4","txt":"RT @MarketBeat: http://t.co/C7QGTJNa Apple Unveils Dividend. Is Google Next? @wsj $$ $AAPL $GOOG #dividend","lbl":"Positive"}
+,{"time":"15:08","usr":"pastclnt","txt":"BTW @tjtakes: How is your SHORT $GOOG doing? You must be down at least $12. Are you in a race w/ @sqwii, re: who loses more? @cnbcfastmoney","lbl":"Positive"}
+,{"time":"15:12","usr":"tjtakes","txt":"our long $goog continues to work, all from $605 and $611","lbl":"Positive"}
+,{"time":"15:14","usr":"BullzzzEye","txt":"took $BAC off the table - added to $AAPL $DPZ $GOOG $V - updated my other stops according to todays action","lbl":"Positive"}
+,{"time":"15:48","usr":"ChrisONeill2","txt":"$aapl should catch $goog tomorrow","lbl":"Negative"}
+,{"time":"16:53","usr":"todd_harrison","txt":"Sitting at JFK awaiting #YPO trip to FB, $GOOG Twitter and more. Excited to get totally social :)","lbl":"Positive"}
+,{"time":"17:56","usr":"StateMagister","txt":"RT @LaMonicaBuzz: And now the $GOOG dividend watch begins. $GOOG has $44.6B in cash. If it\u0027s good enough for iOS ($AAPL) shouldn\u0027t it be new Android feature?","lbl":"Positive"}
+,{"time":"21:41","usr":"cocoboywonder","txt":"Really $GOOG? Google Wage?! No wonder you are canceling the product!","lbl":"Negative"}
+,{"time":"21:45","usr":"giantquesadilla","txt":"Watch out $GOOG, $AAPL is catching up!","lbl":"Negative"}
+]

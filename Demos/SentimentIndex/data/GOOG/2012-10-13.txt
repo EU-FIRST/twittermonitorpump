@@ -1,0 +1,11 @@
+[
+{"time":"6:41","usr":"IN_0_V8","txt":"F.T.C. Staff Prepares Antitrust Case Against #Google Over Search - http://t.co/pjCdTuyz - $GOOG http://t.co/m8hLbea2","lbl":"Negative"}
+,{"time":"8:51","usr":"likeweareyoung","txt":"Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/wZwGrHsl","lbl":"Negative"}
+,{"time":"8:51","usr":"marvintumbo","txt":"RT @businessinsider: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/P1XmsVgX","lbl":"Negative"}
+,{"time":"8:55","usr":"AveHurley","txt":"RT @bi_politics: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/nTptRiIU","lbl":"Negative"}
+,{"time":"8:56","usr":"tudalex","txt":"RT @SAI: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/G6zhsMoY","lbl":"Negative"}
+,{"time":"11:35","usr":"fabiandlr","txt":"RT @SAI: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/FX88g5mC","lbl":"Negative"}
+,{"time":"11:39","usr":"HobiBola","txt":"RT @SAI: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/FX88g5mC","lbl":"Negative"}
+,{"time":"21:50","usr":"Mac42az","txt":"RT @dmackdaddy: Microsoft Will Lose a War With Apple; So Will Google http://t.co/4tSZMK0L by @RoccoPendola via @TheStreet MSFT $GOOG $AAPL","lbl":"Negative"}
+,{"time":"21:54","usr":"ronin245","txt":"#aclfestlive $GOOG is really flexing muscle here with Youtube , showing $FB how its done in RT","lbl":"Positive"}
+]

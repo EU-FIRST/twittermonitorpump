@@ -1,0 +1,13 @@
+[
+{"time":"2:49","usr":"McGregorTest","txt":"Get me some $GOOG","lbl":"Positive"}
+,{"time":"8:29","usr":"smendozag","txt":"@AlyssaRuddick NICE work translation with $goog #translator !! jajaj","lbl":"Positive"}
+,{"time":"9:00","usr":"njnigh","txt":"Government adoption of Google Apps picking up steam $GOOG http://t.co/93Y5zGQW","lbl":"Positive"}
+,{"time":"9:02","usr":"Dasan","txt":"@AWidebrant I think $GOOG may have made a mistake with doing Android- it\u0027s going to be very costly for them- but they had no choice in a way","lbl":"Negative"}
+,{"time":"9:03","usr":"_charlesbrun","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"9:56","usr":"sandeepbhavsar","txt":"waiting for $goog and $wfm pullback.","lbl":"Negative"}
+,{"time":"11:10","usr":"srisri55","txt":"Trying $GOOG 640 puts here for 90c.","lbl":"Negative"}
+,{"time":"12:42","usr":"TheUKSEO","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"14:07","usr":"paulwoll","txt":"$GOOG going for higher pin?","lbl":"Positive"}
+,{"time":"14:11","usr":"kclang","txt":"RT @SAI: Google Gets 4% Of All Homes In Kansas City To Sign Up For Super Fast Internet After One Week $GOOG by @Julie188 http://t.co/WOsUx9Ro","lbl":"Positive"}
+,{"time":"21:14","usr":"bryanepstein","txt":"RT @SmartMoney: At $640+, Google is still a \u0022buy.\u0022 Its revenue grew 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+]

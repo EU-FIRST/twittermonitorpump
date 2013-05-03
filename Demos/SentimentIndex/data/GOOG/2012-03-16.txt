@@ -1,0 +1,11 @@
+[
+{"time":"6:37","usr":"macsmarts","txt":"\u201C@SAI: Google Might Have To Pay Unbelievable Fines For Privacy Violations $GOOG by @_dtl http://t.co/yZIh4kSW\u201D I\u0027ll take direct deposit.","lbl":"Negative"}
+,{"time":"6:37","usr":"elvicks","txt":"RT @SAI: Google Might Have To Pay Unbelievable Fines For Privacy Violations $GOOG by @_dtl http://t.co/U7tuSO2e","lbl":"Negative"}
+,{"time":"6:40","usr":"ReutersInsider","txt":"Get your dose of morning news! $GOOG snooping around your browser & the #iPad3 is here! Check it out: http://t.co/4AwAHpW3","lbl":"Negative"}
+,{"time":"9:02","usr":"DaniChicarito","txt":"@ElliotTurn Yes, thing with $GOOG it has got technically a bit stuck I think and weak H1 of the year stock. BIDU will see multiple compress","lbl":"Negative"}
+,{"time":"10:31","usr":"cryptblade","txt":"Former Google Exec says Larry Page\u0027s obsession with FB & social ruined co. http://t.co/9PvpersQ $GOOG","lbl":"Negative"}
+,{"time":"11:28","usr":"MogulAzam","txt":"RT @firstadopter: Report $GOOG 7 inch tablet w/real OS to launch at a STUNNING $149-199 price vs. $199-249 to crush $AMZN Kindle Fire http://t.co/G72xTWyx","lbl":"Positive"}
+,{"time":"12:39","usr":"StkConfidential","txt":"$GOOG continuing to rebound nicely today. $$","lbl":"Positive"}
+,{"time":"13:49","usr":"61point8","txt":"I\u0027ve been patiently looking at $GOOG, waiting for a spike to $629-$632 to go short down to $580, and then long.","lbl":"Negative"}
+,{"time":"14:03","usr":"EvolvingMedium","txt":"YouTube Crushes Online Video Competitors (GOOG, NFLX, YHOO, VIA, AOL, MSFT ... $goog - http://t.co/iMFMNjdP","lbl":"Positive"}
+]

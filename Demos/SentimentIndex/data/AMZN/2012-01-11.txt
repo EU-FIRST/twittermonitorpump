@@ -1,0 +1,9 @@
+[
+{"time":"11:52","usr":"LittleAppleSA","txt":"Commented on: \u0022Giving These 7 Stocks 6 Months To Make Me Rich\u0022 http://t.co/6upqUR0M $SIRI $AAPL $BAC $WMT $AMZN $XOM $BSX $JNJ $ABT","lbl":"Positive"}
+,{"time":"12:33","usr":"MarcoArriagaL","txt":"RT @SAI: Here\u0027s How Amazon Is Telling Apple To Take Its 30% Cut Of eBook Sales And Stuff It $AAPL $AMZN by @jyarow http://t.co/mQBuWuTo","lbl":"Positive"}
+,{"time":"13:09","usr":"$AMZN","txt":"Volume on $AMZN coming in. Feels like it\u0027s gonna pop higher here. Selling the 175/180 Jan11 $PUT spread. I\u0027m bullish.","lbl":"Positive"}
+,{"time":"13:10","usr":"$AMZN","txt":"long $AMZN 180s ... again.","lbl":"Positive"}
+,{"time":"14:46","usr":"elmosquito12631","txt":"RT @thetradingwife: what so recently looked like a bottoming pattern in $AMZN is now looking like a bear flag. Sad.","lbl":"Negative"}
+,{"time":"16:35","usr":"AssuredSvcs","txt":"RT @TMFJMo: Crazy number: #Amazon ($AMZN) sold over 1 million Kindles (all models included) per week in the month of December. Yep. That\u0027s a lot.","lbl":"Positive"}
+,{"time":"16:36","usr":"HaveYouMet_Mike","txt":"RT @TMFJMo: Crazy number: #Amazon ($AMZN) sold over 1 million Kindles (all models included) per week in the month of December. Yep. That\u0027s a lot.","lbl":"Positive"}
+]

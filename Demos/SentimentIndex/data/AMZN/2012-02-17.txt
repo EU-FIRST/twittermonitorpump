@@ -1,0 +1,15 @@
+[
+{"time":"0:57","usr":"IraLipman","txt":"Amazon app check shop prices, ditch retailers http://t.co/JZB9qZMC #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Positive"}
+,{"time":"8:44","usr":"firstadopter","txt":"Staples joins Walmart in gift card promotion for $AMZN Kindle Fire, another data pt supporting \u0022too much\u0022 inventory: http://t.co/b9VTLNnD","lbl":"Positive"}
+,{"time":"8:48","usr":"khanchill","txt":"RT @firstadopter: Staples joins Walmart in gift card promotion for $AMZN Kindle Fire, another data pt supporting \u0022too much\u0022 inventory: http://t.co/b9VTLNnD","lbl":"Positive"}
+,{"time":"10:01","usr":"markgimein","txt":"Hey $AMZN stop the pestering LivingSocial offers! Btw, didn\u0027t you invest http://t.co/CpY3UHnV and http://t.co/Ds2nPpOy? http://t.co/RYJAu8Fg","lbl":"Negative"}
+,{"time":"10:54","usr":"YannisTsi","txt":"RT @themoneygame: MORGAN STANLEY: Apple Is Killing Amazon $AAPL $AMZN by @jyarow http://t.co/hqLYSbNw","lbl":"Negative"}
+,{"time":"10:54","usr":"statsreal","txt":"Not impressed with this weak bounce in $amzn, more convinced now that the short side is right, I will add on weakness hopefully next week","lbl":"Negative"}
+,{"time":"10:55","usr":"tradefast","txt":"shorting $AMZN for a trade","lbl":"Negative"}
+,{"time":"11:30","usr":"albinder","txt":"RT @BloombergNow: Hey $AMZN stop pestering me w/ LivingSocial! Remember: you invested in http://t.co/U3Yf6fpW & http://t.co/FU58iF32 too. http://t.co/hBoeGYa5","lbl":"Negative"}
+,{"time":"11:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:16am: 179.78 -0.15 (-0.08%).","lbl":"Negative"}
+,{"time":"12:47","usr":"MarkSoFla","txt":"RT @SAI: MORGAN STANLEY: Apple Is Killing Amazon $AAPL $AMZN by @jyarow http://t.co/voLIpQW1 @Dasan @The_Analyst","lbl":"Negative"}
+,{"time":"17:21","usr":"PaulGorrell","txt":"MORGAN STANLEY: Apple Is Killing Amazon $AAPL $AMZN http://t.co/9bQjCUkt","lbl":"Negative"}
+,{"time":"19:41","usr":"tradeadan","txt":"$DRYS + $AMZN creeping up after hrs...I really like that!","lbl":"Positive"}
+,{"time":"19:41","usr":"NabilMedjebeur","txt":"MORGAN STANLEY: Apple Is Killing Amazon $AAPL $AMZN by @jyarow http://t.co/yJOuUS8D","lbl":"Negative"}
+]

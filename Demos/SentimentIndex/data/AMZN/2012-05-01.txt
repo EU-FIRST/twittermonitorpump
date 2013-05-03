@@ -1,0 +1,6 @@
+[
+{"time":"8:30","usr":"SeekingAlpha","txt":"Why Amazon Is Overvalued http://t.co/2pj1F7R0 $AMZN","lbl":"Negative"}
+,{"time":"11:03","usr":"CapCube","txt":"\u201C@AronPinson: Amazon\u2019s Fundamentals are Getting Worse via @firstadopter http://t.co/WqlCwjsf\u201D // good piece on $AMZN","lbl":"Negative"}
+,{"time":"13:18","usr":"JohnOwenhouse","txt":"$SHLD is leading the market w/ a 17% gain while $AAPL and $AMZN are unch because everyone knows KMart and Sears are on the cutting edge?? $$","lbl":"Negative"}
+,{"time":"16:49","usr":"jonslinn","txt":"Now I love what $AMZN does but a PE of 190? Seriously, has the market totally lost it?","lbl":"Negative"}
+]

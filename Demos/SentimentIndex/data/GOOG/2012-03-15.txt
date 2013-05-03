@@ -1,0 +1,8 @@
+[
+{"time":"2:38","usr":"mercedesmapua","txt":"RT @SAI: Google Admits Microsoft Is Right, Will Begin Serving Answers Instead Of Links $GOOG $MSFT by @MattRosoff http://t.co/Zfug5UCt","lbl":"Negative"}
+,{"time":"9:53","usr":"Trefis","txt":"Microsoft Continues to Bleed Smartphone Market Share in the US; All Hopes on Tango http://t.co/4hIAB4G2 $MSFT $GOOG $AAPL","lbl":"Negative"}
+,{"time":"9:56","usr":"thinkingtrades","txt":"$GOOG is only meant to be shorted. No point going long this stock. Wait and short.","lbl":"Negative"}
+,{"time":"11:08","usr":"BanzaiTrader","txt":"Large Head and shoulder pattern on $GOOG measures to 470ish. Long $530 April puts at 1.75-1.8...","lbl":"Negative"}
+,{"time":"12:30","usr":"big_options","txt":"RT @BanzaiTrader: Large Head and shoulder pattern on $GOOG measures to 470ish. Long $530 April puts at 1.75-1.8...","lbl":"Negative"}
+,{"time":"13:52","usr":"DanTraderETN","txt":"Even with PR help from #WSJ, $GOOG has a tough road to hoe. http://t.co/YoZdHsRo","lbl":"Negative"}
+]

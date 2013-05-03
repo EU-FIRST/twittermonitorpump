@@ -1,0 +1,12 @@
+[
+{"time":"3:39","usr":"wulu4","txt":"$GOOG - Google Stock Analysis - 10day moving average is down - http://t.co/wCe5KXe2","lbl":"Negative"}
+,{"time":"7:59","usr":"Jarheadclan","txt":"$AAPL want higher and gaining on $GOOG which are you, the Rabit or the Hare.","lbl":"Negative"}
+,{"time":"9:05","usr":"deltaStrikejj","txt":"both $AAPL and $GOOG could possibly pin at 600 today with high OI at each strike","lbl":"Positive"}
+,{"time":"13:49","usr":"trader_MCM","txt":"@TraderFlorida $GOOG toasted too, super good risk reward trade now. you did a great work this week mentor : )","lbl":"Positive"}
+,{"time":"13:53","usr":"anthonybrown","txt":"With Facebook buying @instagram, and rumors of Google buying Twitter, does Apple end up buying Yelp!? $YELP $GOOG $FB $AAPL","lbl":"Positive"}
+,{"time":"14:50","usr":"justtrading45","txt":"$GOOG - Google Stock Analysis - MFI is bearish and falling - http://t.co/X5FWNVBl","lbl":"Negative"}
+,{"time":"15:39","usr":"stockguy22","txt":"@RRPieck we\u0027re just discussing $GOOG in chat now ..but we trying to consider plays even if 200sma fails -","lbl":"Positive"}
+,{"time":"15:40","usr":"tjtakes","txt":"@BUDDIEE18 i think i\u0027m done with $goog for the entire year.. they\u0027re dumb (management)... $sina is interesting, have to look into $renn more","lbl":"Negative"}
+,{"time":"20:32","usr":"zsolt_nemeth","txt":"RT @SAI: Google Just Killed More Three Useless Products $GOOG by @jyarow http://t.co/LWzM8xEV","lbl":"Positive"}
+,{"time":"20:42","usr":"gravestonedoji","txt":"@GYSC16 no. But I know $GOOG is out of their element...har har!","lbl":"Negative"}
+]

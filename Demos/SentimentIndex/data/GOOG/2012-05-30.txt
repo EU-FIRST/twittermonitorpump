@@ -1,0 +1,9 @@
+[
+{"time":"5:49","usr":"Joelagro67","txt":"@MandyCNBC $Goog wins?","lbl":"Positive"}
+,{"time":"10:20","usr":"rcastle06","txt":"RT @SAI: This Could Shake Things Up: Google\u0027s M&A Team Wishes It Had Bought Twitter $GOOG $FB by @nichcarlson http://t.co/A8kP4M32","lbl":"Negative"}
+,{"time":"10:23","usr":"cancerboy85","txt":"Just bought a ChromeBox. I\u0027m done with you Windows and Microsoft. #whathaveyoudoneformelately $GOOG @google","lbl":"Positive"}
+,{"time":"10:23","usr":"tkuz4u","txt":"RT @SAI: This Could Shake Things Up: Google\u0027s M&A Team Wishes It Had Bought Twitter $GOOG $FB by @nichcarlson http://t.co/A8kP4M32","lbl":"Negative"}
+,{"time":"11:47","usr":"LTommy256","txt":"RT @moorehn: Making friends all over! RT $FB continues its charm attack, drops Chrome as supported browser. http://t.co/bD1irysJ $GOOG","lbl":"Negative"}
+,{"time":"12:43","usr":"mercbizbreak","txt":"Zagat integration should be good for Google+, not so good for Yelp, possibly useful to consumers. $GOOG http://t.co/Cif4K6Tp","lbl":"Positive"}
+,{"time":"14:55","usr":"KarSun01","txt":"$GOOG looking very weak into close- I do expect this to head lower","lbl":"Negative"}
+]

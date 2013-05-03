@@ -1,0 +1,10 @@
+[
+{"time":"6:15","usr":"beard_adam","txt":"Buy $GOOG before they take over the TV and phone market by integrating Motorola hardware #stocks #google #bullish #invest","lbl":"Positive"}
+,{"time":"9:39","usr":"EvanMedeiros","txt":"$GOOG hasn\u0027t made it past 613-614 in the last few days, thats your breakout level to watch","lbl":"Negative"}
+,{"time":"9:40","usr":"UncoverBitcoin","txt":"RT Google Just Fixed The Bug That Let Anyone Hack Into Your Google Wallet $GOOG by @stevekovach http://t.co/3p7KdFA4 Use #bitcoin instead","lbl":"Positive"}
+,{"time":"9:40","usr":"itbot1","txt":"RT@SAI Google Just Fixed The Bug That Let Anyone Hack Into Your Google Wallet $GOOG by @stevekovach http://t.co/RW1eJHq6","lbl":"Positive"}
+,{"time":"10:50","usr":"Ben270","txt":"ppl talk about $AAPL being higher than $GOOG at this rate that wont take long","lbl":"Negative"}
+,{"time":"11:54","usr":"pdparticle","txt":"$AAPL vs. $GOOG. Seems to me that Google\u0027s still \u0022winning.\u0022 http://t.co/Xi8t7m7U http://t.co/wispXeLJ","lbl":"Positive"}
+,{"time":"14:58","usr":"lluccipha","txt":"SAI: How Motorola Is Screwing Over Almost All Its Smartphone Customers $MMI $GOOG by @stevekovach http://t.co/lRLivE3d","lbl":"Negative"}
+,{"time":"18:20","usr":"TheStreet","txt":"Hedge Funds Go Gaga For Google http://t.co/OvI8jXRl by @commodity_bull $GOOG","lbl":"Positive"}
+]

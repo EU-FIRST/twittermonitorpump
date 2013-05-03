@@ -1,0 +1,11 @@
+[
+{"time":"3:20","usr":"BKMu","txt":"RT @pdparticle: Android Is Suddenly in a Lot of Trouble http://t.co/mOsatZ35 $GOOG","lbl":"Negative"}
+,{"time":"3:57","usr":"rad182","txt":"RT @pdparticle: Android Is Suddenly in a Lot of Trouble http://t.co/mOsatZ35 $GOOG","lbl":"Negative"}
+,{"time":"6:31","usr":"ishandwivedi","txt":"RT @pdparticle: Android Is Suddenly in a Lot of Trouble http://t.co/mOsatZ35 $GOOG","lbl":"Negative"}
+,{"time":"12:12","usr":"firstadopter","txt":"$GOOG now giving away 5GB cloud drive and 10GB for email for amazing price of free: http://t.co/c6hQeIKv","lbl":"Positive"}
+,{"time":"12:52","usr":"SAI","txt":"Google Drive Offers Nothing New From Dropbox $GOOG by @stevekovach http://t.co/P7ieH8lU","lbl":"Negative"}
+,{"time":"14:17","usr":"LuisaEmilii","txt":"RT @CNNMoney: RT @FortuneMagazine: Google launches Dropbox competitor http://t.co/GuOFjMEe $GOOG","lbl":"Positive"}
+,{"time":"15:20","usr":"campione","txt":"#Microsoft & #Facebook align against #Google in the #patent war http://t.co/PqlZd0YA v @rahul_sachdev $MSFT $GOOG","lbl":"Negative"}
+,{"time":"16:30","usr":"Tradified","txt":"\u2663 Insider Trading: $GOOG Mather Ann Director SOLD 1445 shares \u2611","lbl":"Negative"}
+,{"time":"19:40","usr":"Tradified","txt":"\u2663 Insider Trading: $GOOG Schmidt Eric E Director BOUGHT 15000 shares \u2611","lbl":"Positive"}
+]

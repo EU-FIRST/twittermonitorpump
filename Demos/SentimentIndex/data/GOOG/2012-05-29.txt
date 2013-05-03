@@ -1,0 +1,13 @@
+[
+{"time":"5:02","usr":"d_ramsden","txt":"$FB\u0027s phone & $GOOG\u0027s Motorola purchase are key events in tech. Integration is happening & both are legit leaders http://t.co/pjLTw5AM $$","lbl":"Positive"}
+,{"time":"8:13","usr":"gregnb","txt":"watching $GOOG if it starts off weak again on good selling volume like friday I\u0027ll be short again for quick trade only","lbl":"Negative"}
+,{"time":"8:13","usr":"njnigh","txt":"Google\u2019s New Privacy Policy \u2013 The Counter Attack After Google Plus Failed to Make an Impact http://t.co/Vh9dOLOl $GOOG","lbl":"Negative"}
+,{"time":"9:13","usr":"KarSun01","txt":"$GOOG joining the party","lbl":"Positive"}
+,{"time":"10:10","usr":"AbrilGN","txt":"RT @SAI: THE GOOGLE INVESTOR: Here\u0027s How Google Can Beat Facebook $GOOG by @hleonard76 http://t.co/DNOwrIkO","lbl":"Positive"}
+,{"time":"11:01","usr":"coryjwatson","txt":"$GOOG at lows, if it breaks 590, could have an aggressive move lower","lbl":"Negative"}
+,{"time":"13:14","usr":"Mfournierviens","txt":"short $FB and long $GOOG @lblabbz @gilliawg","lbl":"Positive"}
+,{"time":"14:07","usr":"SoutheastFund","txt":"@market $GOOG could beat $AAPL to $1000, especially if Apple loses institutional and hedge fund support.","lbl":"Positive"}
+,{"time":"16:37","usr":"nickmacco","txt":"RT @dhh: (For the record, I think $FB is overvalued at $10/share. I\u0027d rather own $GOOG at same multiple, which would value $FB at ~$7).","lbl":"Positive"}
+,{"time":"18:54","usr":"tinatinjohnson","txt":"Overpriced and Underpowered: Why #Chromebook, #Chromebox Fail by Christina Warren http://t.co/z8nl8BKi via @mashable @film_girl $GOOG","lbl":"Negative"}
+,{"time":"21:39","usr":"larryfooter","txt":"I remain long $AAPL June 550 calls (working well), $GOOG June 615 calls (not working), $VIX June 23 puts (working well), plus index calls","lbl":"Positive"}
+]

@@ -1,0 +1,5 @@
+[
+{"time":"12:01","usr":"ocg3","txt":"$GOOG sure is getting some love. Long forgotten is the non-voting stock dis on financial markets from April this year. Good for $GOOG.","lbl":"Positive"}
+,{"time":"14:22","usr":"ArLowy","txt":"@gtotoy @larryfooter wouldn\u0027t you rather short $GOOG instead.","lbl":"Negative"}
+,{"time":"16:00","usr":"fredtoquin","txt":"CHART OF THE DAY: Google\u0027s Stock Has Done Surprisingly Well Under Larry Page $GOOG by @jyarow http://t.co/a4UXKc4v","lbl":"Positive"}
+]

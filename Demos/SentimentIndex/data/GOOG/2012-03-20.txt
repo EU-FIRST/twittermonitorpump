@@ -1,0 +1,8 @@
+[
+{"time":"12:37","usr":"1nvestor","txt":"$GOOG in melt up stage. Not too far from green here, well done Bulls.","lbl":"Negative"}
+,{"time":"13:06","usr":"thefinancepress","txt":"$GOOG Apple Fails to Wrest Android Data From Motorola Mobility: Apple Fails to Wrest Android Data From Motorola... http://t.co/NrxQF28g","lbl":"Negative"}
+,{"time":"13:27","usr":"TraderFlorida","txt":"$CMG $GOOG $PCLN to name a few holding up well","lbl":"Positive"}
+,{"time":"15:08","usr":"ValentFinancial","txt":"Why Do App Developers Prefer Apple\u0027s iOS to Android? http://t.co/gRtlzJPI $AAPL $GOOG $RIMM $MSFT #mkt #stocks #trading","lbl":"Negative"}
+,{"time":"16:12","usr":"KatePietrelli","txt":"RT @SAI: CHART OF THE DAY: Developer Interest In Android Is Slowly Eroding $AAPL $GOOG $MSFT by @jyarow http://t.co/Dt1BZGw0","lbl":"Negative"}
+,{"time":"18:33","usr":"tradingstocks28","txt":"$GOOG - Google Stock Analysis - MFI is bearish and falling - http://t.co/aRoYhWTV","lbl":"Negative"}
+]

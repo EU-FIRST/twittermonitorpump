@@ -1,0 +1,4 @@
+[
+{"time":"2:06","usr":"isitabubble","txt":"Lost money on my $TZA mar $20 calls, $GOOG mar $500 puts -> i need to stick to biotech only","lbl":"Positive"}
+,{"time":"11:56","usr":"thefinancepress","txt":"$GOOG Consumer Watchdog Confirms FTC, EU Probe Of Google\u0027s Violation Of Apple\u0027s Safari: Consumer Watchdog Confi... http://t.co/iOARdETX","lbl":"Negative"}
+]

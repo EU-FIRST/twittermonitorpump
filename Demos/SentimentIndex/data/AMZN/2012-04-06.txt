@@ -1,0 +1,6 @@
+[
+{"time":"1:01","usr":"RichLoPresti","txt":"RT @BaselineAce & $AMZN is \u0022cheapest\u0022 @MergerArbitrage $GOOG $AMZN $AAPL & $FB are \u0022just in case they conquer the world\u0022 stocks u have 2 buy","lbl":"Positive"}
+,{"time":"9:22","usr":"tabletinsider","txt":"RT @SAI: Google Delays Its Tablet Because It Can\u0027t Get The Price Under $250 $GOOG $AMZN $AAPL by @jyarow http://t.co/Qy3o5QA2","lbl":"Positive"}
+,{"time":"12:58","usr":"madquad10","txt":"RT @SAI: RUMOR: The Next Kindle Will Let You Read In The Dark $AMZN by @_dtl http://t.co/u8sJog6m","lbl":"Positive"}
+,{"time":"18:17","usr":"tradingwisely3","txt":"$AMZN - Amazon Stock Analysis - 5day ema crossdown - http://t.co/Cxtw4JeX","lbl":"Negative"}
+]

@@ -1,0 +1,9 @@
+[
+{"time":"3:34","usr":"RealStockTrader","txt":"Many people use Penny Stocks to build an account, I perfer trading options of high flying stocks like $APPL, $GOOG and $AMZN.","lbl":"Positive"}
+,{"time":"8:43","usr":"Swake183","txt":"short $AMZN 256.25","lbl":"Negative"}
+,{"time":"9:21","usr":"Liquid_Trader","txt":"Good Consumer # are great for retail stocks. $AMZN has had a ton of selling. watching for a failed bounce to short or avoid this week.","lbl":"Positive"}
+,{"time":"9:37","usr":"BlueFielder","txt":"$AMZN bot 260 $CALLs @ 1.40 - small trade will look to add on breaking HoD","lbl":"Positive"}
+,{"time":"10:56","usr":"BlueFielder","txt":"$AMZN Sold ALL of Wkly 260 $CALL\u0027s for par - not my day","lbl":"Negative"}
+,{"time":"12:43","usr":"AshtonHayse","txt":"\u201C@zerohedge: Amazon is now a stock exchange too?\u201D Well diversified, indeed. $amzn","lbl":"Positive"}
+,{"time":"15:19","usr":"takingstock614","txt":"Bears deflated $AAPL $GOOG $AMZN $LNKD $BIDU $PCLN $XLF $GS $MA $KORS....","lbl":"Negative"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"11:07","usr":"tradesmart8","txt":"$amzn - amazon stock analysis - rsi is bearish and falling - http://t.co/En2ETq1d","lbl":"Negative"}
+,{"time":"11:54","usr":"TheStaceyBowers","txt":"RT @retail_sails: Amazon expands offerings to business and industrial clients with new vertical http://t.co/uDvWlbIV #retail $AMZN","lbl":"Positive"}
+,{"time":"14:04","usr":"daveyarmon","txt":"Amazon readily admits Kindle\u0027s ink screens fail without provocation. #PlannedObsolescence $AMZN http://t.co/ZrNPdMV2 #li","lbl":"Negative"}
+,{"time":"14:04","usr":"wisetraders8","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/ROFb8qC3","lbl":"Positive"}
+,{"time":"17:33","usr":"wisetraders8","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/ROFb8qC3","lbl":"Positive"}
+]

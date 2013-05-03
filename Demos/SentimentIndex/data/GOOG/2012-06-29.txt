@@ -1,0 +1,14 @@
+[
+{"time":"5:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 05:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"7:06","usr":"pennystockguys","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/NrRpJXAp","lbl":"Positive"}
+,{"time":"8:57","usr":"ebcapital","txt":"$GOOG #Nexus may be the catalyst for yet another positive Q3 for the company. You can get the seasonal history here: http://t.co/WtYP7FVN","lbl":"Positive"}
+,{"time":"9:37","usr":"KittKatt89","txt":"RT @CNNMoney: Is @Google too big to be good? What do you think? http://t.co/37FHViZv $GOOG","lbl":"Negative"}
+,{"time":"10:15","usr":"JerTignes","txt":"$aapl $goog just a small thing, sure. But all is like this, working but smoothless on the just visible part of the software.","lbl":"Positive"}
+,{"time":"12:39","usr":"wilkos","txt":"You could now buy both Nokia and RIM for less than Google paid for Motorola.. $NOK $RIMM $GOOG","lbl":"Negative"}
+,{"time":"12:43","usr":"firoozye","txt":"RT @zerobeta: $GOOG going after $FB with Google Glass. No better way to share that your relationship status is single than slapping on a pair of those.","lbl":"Positive"}
+,{"time":"15:38","usr":"jonfortt","txt":"$GOOG Eric Schmidt on @CNBC: People would choose Nexus 7 over iPad bc it\u0027s cheaper, more open","lbl":"Positive"}
+,{"time":"15:39","usr":"samgustin","txt":"RT @jonfortt: $GOOG Eric Schmidt on @CNBC: People would choose Nexus 7 over iPad bc it\u0027s cheaper, more open","lbl":"Positive"}
+,{"time":"16:54","usr":"mbcbna","txt":"RT @JonathanHoenig: Who needs $AAPL or $GOOG? @Jehmu tells @MelissaAFrancis \u0022Economists agree that food stamps are one of the best economic stimulants we have.\u0022","lbl":"Negative"}
+,{"time":"18:20","usr":"busterbenson","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"21:30","usr":"BigTicks","txt":"$GOOG News: Google Reveals Nexus 7 Tablet http://t.co/WSupMz20 #GOOG #Google #News","lbl":"Positive"}
+]

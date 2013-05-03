@@ -1,0 +1,12 @@
+[
+{"time":"2:03","usr":"jeffkoertzen","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/UGZtTXsZ $AAPL $GOOG by @ozoran","lbl":"Negative"}
+,{"time":"2:15","usr":"jasonkneen","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/IuUWF6tm $AAPL $GOOG by @ozoran","lbl":"Negative"}
+,{"time":"5:07","usr":"Gretyna","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/g44ER8iW $AAPL $GOOG by @ozoran","lbl":"Negative"}
+,{"time":"5:29","usr":"buzutt","txt":"Why Apple\u0027s Trumping Android in Enterprises http://t.co/aSk6NzXn $AAPL $GOOG","lbl":"Negative"}
+,{"time":"8:01","usr":"RevRichWebb","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/UGZtTXsZ $AAPL $GOOG by @ozoran","lbl":"Negative"}
+,{"time":"8:05","usr":"IrunMunk","txt":"Why Apple\u0027s Trumping Android in Enterprises http://t.co/Y4TKUPnB $AAPL $GOOG by #news #technology #business","lbl":"Negative"}
+,{"time":"8:11","usr":"CharlesGouldUK","txt":"More on iPhones use in corporates RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/87KyHmEF $AAPL $GOOG by @ozoran","lbl":"Negative"}
+,{"time":"10:02","usr":"MARRUCKA","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/yFYEOkqH $AAPL $GOOG by @ozoran","lbl":"Negative"}
+,{"time":"14:51","usr":"maestroluc","txt":"Que interesante \u0022RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/GD8OOO2A $AAPL $GOOG by @ozoran\u0022","lbl":"Negative"}
+,{"time":"18:56","usr":"mnicky7","txt":"RT @ValaAfshar: 2012 tech hiring trends - 6.25 million jobs and growing http://t.co/Hs8e8aN1 $AAPL $GOOG $MSFT FB #IT #CIO","lbl":"Positive"}
+]

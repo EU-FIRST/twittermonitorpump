@@ -1,0 +1,6 @@
+[
+{"time":"10:07","usr":"leopardtrader","txt":"Taking 25% off $AMZN long from avg 169. We still head to $260. all stops now to 170. $SPX","lbl":"Positive"}
+,{"time":"11:50","usr":"TRADER1970","txt":"$AMZN &$RIG still flying looking for a re-entry in $X","lbl":"Positive"}
+,{"time":"15:32","usr":"PennyLaneLuv","txt":"$AMZN has been mistreated in the past. this is the best place to shop for everything online. Hope it soars........","lbl":"Positive"}
+,{"time":"16:54","usr":"sixpackattack","txt":"@jdominick68 I feel you. I was going to buy $AMZN at 176, but hoped it\u0027d drop a little more. I\u0027m kicking myself right now.","lbl":"Positive"}
+]

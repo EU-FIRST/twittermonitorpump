@@ -1,0 +1,27 @@
+[
+{"time":"0:44","usr":"Bluechiptrend","txt":"Watching $MA $AAPL $AMZN (bullish move tomorrow)","lbl":"Positive"}
+,{"time":"8:04","usr":"OptionsHawk","txt":"$AMZN 185 breakout to 200+ was the easy move- can see a bear case for $210/215 level being simple re-test of trend breakdown...","lbl":"Negative"}
+,{"time":"8:06","usr":"ryandbaird","txt":"RT @OptionsHawk: $AMZN 185 breakout to 200+ was the easy move- can see a bear case for $210/215 level being simple re-test of trend breakdown...","lbl":"Negative"}
+,{"time":"8:07","usr":"Equitykingkong","txt":"$AMZN: looking to sell short above 205","lbl":"Negative"}
+,{"time":"8:43","usr":"lluccipha","txt":"SAI: Amazon Is Going To Step Up Its Assault On The iPad This Year With Three More Kindle Fires $AMZN $GOOG $AAPL by ... http://t.co/Yo4F15Hz","lbl":"Positive"}
+,{"time":"9:14","usr":"StkConfidential","txt":"Momentum only stock, $AMZN continuing to move higher.","lbl":"Positive"}
+,{"time":"9:52","usr":"Stockalertj","txt":"$AMZN biggest obstacle is 210 area out my position yesterday","lbl":"Negative"}
+,{"time":"9:53","usr":"Options_Maniac","txt":"$AMZN still working","lbl":"Positive"}
+,{"time":"10:32","usr":"baam60","txt":"short $AMZN 207.46 stop 212.98 swing","lbl":"Negative"}
+,{"time":"10:34","usr":"TraderMichigan","txt":"Cashed out nice gains $AAPL $AMZN $MA. Portfolio new high!","lbl":"Negative"}
+,{"time":"11:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $AAPL +1.08%, $AMZN +2.55%, $GRPN +4.72%, $PURE -11.87%, $GMCR +1.41% http://t.co/p9Pt1poZ #StockWars","lbl":"Positive"}
+,{"time":"11:04","usr":"DailyStockPlays","txt":"RT @TraderFlorida: $AMZN http://t.co/2HNZx7RQ Cleared this next resistance buy area yesterday on volume - heading higher today a nice FTD","lbl":"Positive"}
+,{"time":"11:27","usr":"investlite","txt":"$AMZN more sweetness","lbl":"Positive"}
+,{"time":"12:52","usr":"dsteele300","txt":"@grassosteve $AMZN still look strong thx ur thu man .Trimming is GOOD $$$","lbl":"Positive"}
+,{"time":"12:56","usr":"optioncommander","txt":"$AMZN +3.26%, 209.53, here we go again. Weekly 215 calls +233% $1.01, let\u0027s go: http://t.co/qMuWMFo2","lbl":"Positive"}
+,{"time":"13:25","usr":"Karter00","txt":"$AMZN http://t.co/v0f1rSLs Nice follow thru day on heavy vol. Will continue to hold- sold 1/2 so far. Will use 208 as support","lbl":"Positive"}
+,{"time":"14:05","usr":"divi","txt":"$AMZN up 3% just because of Harry Potter being on Kindle. Magic, it\u0027s real.","lbl":"Positive"}
+,{"time":"14:27","usr":"optioncommander","txt":"$AMZN slips 206.67. Weekly 205 puts -51%, 2.00 x 2.03 off 1.20 lows. was tracking volume all day, but bought late http://t.co/tSZNWtfU","lbl":"Negative"}
+,{"time":"14:54","usr":"rr_trades","txt":"$AMZN daily SEQ 9 sell today. Move over 200 dma may shaken out shorts.","lbl":"Negative"}
+,{"time":"15:52","usr":"ryanjhodges","txt":"isn\u0027t it widely understood whatever trash $AMZN puts out won\u0027t disrupt that market? stock should be hit down not bid up http://t.co/t67Rmmay","lbl":"Negative"}
+,{"time":"17:55","usr":"61point8","txt":"$AMZN > I still feel $215 is in the cards for several technical reasons.","lbl":"Positive"}
+,{"time":"17:58","usr":"1nvestor","txt":"RT @61point8 $AMZN > I still feel $215 is in the cards for several technical reasons. < discuss the Topping Tail for today","lbl":"Positive"}
+,{"time":"17:59","usr":"OptionsTrader82","txt":"RT @1nvestor: RT @61point8 $AMZN > I still feel $215 is in the cards for several technical reasons. < discuss the Topping Tail for today","lbl":"Positive"}
+,{"time":"21:03","usr":"gtlackey","txt":"$STUDY http://t.co/srfBnCTs *New* RS Movers 20pts 5days $PII $AMZN $CHKP $FMC $ADBE $DNDN $NBR $SLB $MDR $R $$","lbl":"Positive"}
+,{"time":"21:13","usr":"ntfri","txt":"Looks like a new start for $AMZN http://t.co/TIOYbeyJ","lbl":"Positive"}
+]

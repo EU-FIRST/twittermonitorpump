@@ -1,0 +1,6 @@
+[
+{"time":"0:33","usr":"4toptrader","txt":"$AMZN - Amazon Stock Analysis - RSI is bearish and falling - http://t.co/VAuH0F3d","lbl":"Negative"}
+,{"time":"6:44","usr":"sandboxmark","txt":"RT @wallstCS: Kindle Fire Takes a Bite of Apple Tablet Sales http://t.co/lbolEwS8 $AAPL $AMZN #stocks #mkt","lbl":"Positive"}
+,{"time":"13:50","usr":"simitrade","txt":"$AMZN is the most bought stock on Simitrade with 80% of trades being Long http://t.co/q5hYwK9Z","lbl":"Positive"}
+,{"time":"13:53","usr":"gtotoy","txt":"$AMZN http://t.co/GGDENht9 Held the 100sma on the weekly. Has not touched it since 2009","lbl":"Positive"}
+]

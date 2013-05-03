@@ -1,0 +1,5 @@
+[
+{"time":"9:56","usr":"wklyopttrades","txt":"$AMZN alert update: The 15 min candle needs to close below 252.66 for continuation down","lbl":"Negative"}
+,{"time":"9:57","usr":"TradetheLeader1","txt":"As I mentioned yesterday $amzn was NOT a buy..better sell until > 256","lbl":"Negative"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:46am: 253.44 +0.07 (+0.03%).","lbl":"Positive"}
+]

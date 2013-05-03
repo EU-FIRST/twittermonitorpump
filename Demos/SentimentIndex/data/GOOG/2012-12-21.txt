@@ -1,0 +1,5 @@
+[
+{"time":"8:46","usr":"z8angela","txt":"Twitter is quiet considerably. $GOOG, below 4-day support 717ish, where could be res. $ISRG free-fall continues since reversal 3 days ago.","lbl":"Negative"}
+,{"time":"16:07","usr":"IADops40","txt":"#Google designing \u0027X Phone\u0027 to be released in 2013; to rival #Apple & #Samsung http://t.co/Sk2otoga $GOOG $AAPL $MSI #tech #iPhone #XPhone","lbl":"Positive"}
+,{"time":"17:28","usr":"thefinancepress","txt":"$GOOG Google Prepping \u0022X Phone\u0022 To Compete With Apple: Google Prepping \u0022X Phone\u0022 To Compete With Apple ValueWal... http://t.co/TczscFjD","lbl":"Positive"}
+]

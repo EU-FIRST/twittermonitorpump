@@ -1,0 +1,10 @@
+[
+{"time":"2:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 02:22 EST have been positive. Live graph here http://t.co/hjtETpXE","lbl":"Positive"}
+,{"time":"7:54","usr":"SunDevilStory","txt":"@StockWallStreet @iamwallstreet @StocksonWStreet How Amazon $AMZN Revolutionized the Way We Shop Online http://t.co/1ERPizaT","lbl":"Positive"}
+,{"time":"8:42","usr":"racernic","txt":"$AAPL $AMZN peeking thru","lbl":"Positive"}
+,{"time":"13:31","usr":"newsagg","txt":"I am liking my $AMZN JUN215 short calls since it hot 221 top of 60m linreg http://t.co/yX1vqbyo","lbl":"Negative"}
+,{"time":"14:51","usr":"BayesTrader","txt":"CALL $AMZN Range:214.08-214.10 P:892 T:7d 15:51 EDT #stocks $$","lbl":"Positive"}
+,{"time":"14:53","usr":"BayesTrader","txt":"CALL $AMZN Range:214.18-214.23 P:881 T:7d 15:53 EDT #stocks $$","lbl":"Positive"}
+,{"time":"18:40","usr":"ECONgeek947","txt":"@techinsidr Hastings just said 1/3 of old customers returned 2 $nflx this Q & all u fools think $AMZN is goin 2 crush them w/ no proof ha","lbl":"Negative"}
+,{"time":"23:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 23:22 EST have been positive. Live graph here http://t.co/hjtETpXE","lbl":"Positive"}
+]

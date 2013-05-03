@@ -1,0 +1,11 @@
+[
+{"time":"7:03","usr":"aaronhwy","txt":"RT @counternotions: $AMZN \u0022might just be the world\u0027s biggest lifestyle business, run for the entertainment of Jeff Bezos rather than enrichment of shareholders\u0022","lbl":"Positive"}
+,{"time":"9:22","usr":"DNev47","txt":"JibJab, Have some fun this year $AMZN http://t.co/JEbSdtHq","lbl":"Positive"}
+,{"time":"11:23","usr":"HarryWanger","txt":"$AMZN Talk about robots! - yesterday high and now this bounce almost exact minute. If holds, selling continues in 15 min.","lbl":"Negative"}
+,{"time":"11:59","usr":"Corkviews","txt":"$AMZN highs nice","lbl":"Positive"}
+,{"time":"12:37","usr":"HarryWanger","txt":"$AMZN Could be resting a bit right here before next leg higher.","lbl":"Positive"}
+,{"time":"12:42","usr":"paulwoll","txt":"@HCPG Many big names didn\u0027t get to their up TLs or other support. $AMZN $AAPL As much as nice relief rally caution still in order IMHO.","lbl":"Negative"}
+,{"time":"13:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:16pm: 224.99 +4.391 (+1.99%).","lbl":"Positive"}
+,{"time":"15:38","usr":"Riaz_MediaWhiz","txt":"RT @SAI: NETFLIX: Amazon Is Losing Up To $1 Billion A Year Trying To Keep Up With Us $NFLX $AMZN by @jyarow http://t.co/4S7I7npM","lbl":"Negative"}
+,{"time":"19:10","usr":"LargeVoidBot","txt":"$AMZN Nov 15, CFO Sells 3000 (4500 Net) Shrs; Net: -668.00k; Acq\u0027d: 7500 0.00/s; Disp\u0027d: 3000 222.67/s","lbl":"Negative"}
+]

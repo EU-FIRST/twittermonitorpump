@@ -1,0 +1,14 @@
+[
+{"time":"8:03","usr":"TrendRida","txt":"Ask $EK bout importance of new revenue streams RT @STtech Why Google isn\u2019t worried about Android revenue http://t.co/11jqzY8g | GiagOM $GOOG","lbl":"Negative"}
+,{"time":"8:58","usr":"walstbull","txt":"@optionmonster jon your call on $aapl,$pcln,$goog?","lbl":"Positive"}
+,{"time":"8:59","usr":"EvanMedeiros","txt":"long $GOOG 638.28","lbl":"Positive"}
+,{"time":"9:34","usr":"cdesangles","txt":"RT @themotleyfool: Google\u0027s ($GOOG) made 4x more revenue from Apple\u0027s iOS than from its own Android mobile OS. Time to kill the \u0027droid? http://t.co/6yYjGR8s","lbl":"Negative"}
+,{"time":"13:20","usr":"sonaljain1189","txt":"\u0022@SAI: It Doesn\u0027t Matter That Google Hasn\u0027t Made Any Money On Android Yet $GOOG by @jyarow http://t.co/FGPWKe2u\u0022","lbl":"Positive"}
+,{"time":"13:20","usr":"johnc817","txt":"RT @SAI: It Doesn\u0027t Matter That Google Hasn\u0027t Made Any Money On Android Yet $GOOG by @jyarow http://t.co/wkkhzavu","lbl":"Positive"}
+,{"time":"13:24","usr":"myGospelLife","txt":"RT @businessinsider: It Doesn\u0027t Matter That Google Hasn\u0027t Made Any Money On Android Yet $GOOG by @jyarow http://t.co/wo0YBDAB","lbl":"Positive"}
+,{"time":"14:06","usr":"lovestocks89","txt":"$GOOG - Google Stock Analysis - price & ema crossdown, bearish signal detected - http://t.co/ieNATiKD","lbl":"Negative"}
+,{"time":"14:08","usr":"TraderFlorida","txt":"$GOOG http://t.co/JtLUbH0w Holding up well (holding)","lbl":"Positive"}
+,{"time":"17:34","usr":"TrendRida","txt":"Congrats to the 1 or 2 peeps that read this over the weekend. LOL / Why Google Might Be Going to $0 http://t.co/T0h4D8eS $VRNG $GOOG","lbl":"Negative"}
+,{"time":"17:35","usr":"thesalche","txt":"RT @themotleyfool: Google\u0027s ($GOOG) made 4x more revenue from Apple\u0027s iOS than from its own Android mobile OS. Time to kill the \u0027droid? http://t.co/6yYjGR8s","lbl":"Negative"}
+,{"time":"19:33","usr":"adamphosho","txt":"RT @SAI: Google Wallet Engineer Jumps Ship To Square $GOOG by @MattRosoff http://t.co/8MsozWra","lbl":"Negative"}
+]

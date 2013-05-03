@@ -1,0 +1,7 @@
+[
+{"time":"9:21","usr":"jyarow","txt":"Google Has A Magic Money Making Machine $GOOG $FB http://t.co/0KmaSDdJ","lbl":"Positive"}
+,{"time":"10:35","usr":"YouK88","txt":"Google Has A Magic Money Making Machine $GOOG $FB by @jyarow http://t.co/fV7DBCB8","lbl":"Positive"}
+,{"time":"10:38","usr":"netnewgrowth","txt":"RT @LinkedInToday: Groupon\u0027s biggest mistake? Behind its $6 billion brushoff of Google http://t.co/qkCt6t2F $GRPN $GOOG","lbl":"Negative"}
+,{"time":"15:02","usr":"Lekochsportiff","txt":"RT @SAI: Check Out These 11 Awesome Google Chrome Apps $GOOG by @officialKLS http://t.co/G6QQOpj2","lbl":"Positive"}
+,{"time":"22:30","usr":"BigTicks","txt":"$GOOG News: Google (NASDAQ:GOOG) Gets Green Signal in Oracle (NASDAQ:ORCL) Java Case \u2026 http://t.co/k0XJxa64 #GOOG #Case #Gets","lbl":"Positive"}
+]

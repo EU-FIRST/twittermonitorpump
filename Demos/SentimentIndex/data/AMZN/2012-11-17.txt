@@ -1,0 +1,5 @@
+[
+{"time":"14:21","usr":"biggercapital","txt":"Or Fat Margin to be arbitraged RT @AAinslie: \u0022\u0022Your margin is my opportunity.\u0022 ~Jeff Bezos http://t.co/sIOcLze8 $AMZN $$","lbl":"Positive"}
+,{"time":"18:17","usr":"kurtgrela","txt":"RT @StockTwits: Netflix CEO: Amazon Losing Up to $1 Billion a Year on Streaming Video http://t.co/Royd2dr9 via Allthingsd $NFLX $AMZN","lbl":"Negative"}
+,{"time":"18:49","usr":"vcutrader","txt":"RT @StockTwits: Netflix CEO: Amazon Losing Up to $1 Billion a Year on Streaming Video http://t.co/Royd2dr9 via Allthingsd $NFLX $AMZN","lbl":"Negative"}
+]

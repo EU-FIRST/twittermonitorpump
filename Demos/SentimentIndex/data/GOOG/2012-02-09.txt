@@ -1,0 +1,30 @@
+[
+{"time":"2:29","usr":"entrelution","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
+,{"time":"2:32","usr":"melissa_larmore","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
+,{"time":"2:37","usr":"dAAAb","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/z5l6Sm7n","lbl":"Positive"}
+,{"time":"5:57","usr":"MaggiePolicarpo","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/3ymzVfTX","lbl":"Positive"}
+,{"time":"6:07","usr":"dariabarbu75","txt":"Google Plans First Retail Store at #Europe Headquarters Building in Dublin http://t.co/w2lmywQG | $goog #goog #trading #retail #google","lbl":"Positive"}
+,{"time":"7:58","usr":"MichelleBlanc","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
+,{"time":"9:03","usr":"thinkingtrades","txt":"stock of the day - $GOOG. $AAPL is the default stock of the day.","lbl":"Positive"}
+,{"time":"9:04","usr":"61point8","txt":"$GOOG $614!!! Google-icious!!!","lbl":"Positive"}
+,{"time":"10:04","usr":"pj_mckenna","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
+,{"time":"10:41","usr":"harriozspot","txt":"RT @StockTwits: Lawsuit seeks to block Google\u0027s privacy changes http://t.co/1idC8OAA $GOOG","lbl":"Negative"}
+,{"time":"10:43","usr":"HELELANY","txt":"RT @SAI: You Don\u0027t Have To Use Google \u2013 Here Are The Alternatives $GOOG by @mattlynley http://t.co/puOGxth2","lbl":"Negative"}
+,{"time":"11:26","usr":"wallstCS","txt":"Google Inc (GOOG) on February Uptrend Holding $610 Per Share Today http://t.co/9w6fLrHO $GOOG #mkt #stocks #google","lbl":"Positive"}
+,{"time":"15:52","usr":"streetbrief","txt":"$GOOG to develop new home entertainment system. Now THAT is hilarious as it tries to piggyback on growth in $AAPL. ROTFLMAO.","lbl":"Positive"}
+,{"time":"16:02","usr":"ChrisWeatherly1","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:02","usr":"francisco71","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:06","usr":"OnurCif","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:15","usr":"J_912","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:15","usr":"SethGodinsTribe","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:25","usr":"MaryTJo","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:25","usr":"ttcycler","txt":"RT @SAI: Apparently Google Is Building A Music System For Your Home $GOOG by @MattRosoff http://t.co/FlFxxabR","lbl":"Positive"}
+,{"time":"16:38","usr":"reversingentry","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:59","usr":"Orvan","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"17:43","usr":"macroaxis","txt":"Google Inc $GOOG A Little Up. Google\u0027s Share Of US Internet Searches Up In Jan - ComSc: http://t.co/c1dqRu98","lbl":"Positive"}
+,{"time":"17:44","usr":"allanschoenberg","txt":"$GOOG RT @Fisherish: Google Analytics has learned 9 new languages http://t.co/aOpvUn7y #GA","lbl":"Positive"}
+,{"time":"18:32","usr":"macroQmicro","txt":"Google\u0027s share of U.S. Internet searches up last month http://t.co/jRh1lRmr $GOOG 66% $MSFT 15% $YHOO 14% $IACI 3% $AOL 2","lbl":"Positive"}
+,{"time":"19:29","usr":"napiermike","txt":"RT @SAI: Google\u0027s Foray Into Hardware Will Be A Total Disaster \u2014 Here\u0027s Why $GOOG by @MattRosoff http://t.co/3NrnByr5","lbl":"Negative"}
+,{"time":"23:23","usr":"croaking","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"23:24","usr":"shaaashaaa","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+]

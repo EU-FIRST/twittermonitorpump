@@ -1,0 +1,17 @@
+[
+{"time":"2:30","usr":"SeekingAlpha","txt":"What the Market Wants: Technology Stocks Under Siege http://t.co/aLkE7Du8 $AAPL $GOOG $DIA $SPY $QQQ $IVV $VTI","lbl":"Negative"}
+,{"time":"6:49","usr":"Japanesegunto","txt":"$AAPL is still race to the bottom....compared to $Goog.....","lbl":"Positive"}
+,{"time":"7:52","usr":"ScottGow1","txt":"RT @Trending123: RT @CapstoneTrader A few days ago it was which would hit $1000 first. Now it\u0027s which will hit $500 first. $AAPL $GOOG (LOL)","lbl":"Negative"}
+,{"time":"8:47","usr":"stockplace52","txt":"$GOOG - Google Stock Analysis - ATR is bullish - http://t.co/BIbXRubQ","lbl":"Positive"}
+,{"time":"9:19","usr":"gilsoomgt","txt":"$XLK bounced right off that 50 dma. $GOOG and $AAPL retracing back to trendline.","lbl":"Positive"}
+,{"time":"10:06","usr":"Stockfactchecke","txt":"@tradefast $GOOG \u0022bullish continuation pattern\u0022 -- what does that mean? On what time frame? What is this, amateur hour?","lbl":"Positive"}
+,{"time":"10:44","usr":"JerTignes","txt":"$aapl the very good news is that it seems $aapl has now diverted of $goog down trend!","lbl":"Negative"}
+,{"time":"12:05","usr":"scottabel","txt":"RT @SAI: Google Rolls Out A New Bike! $GOOG by @MattRosoff http://t.co/fwD0lwcn","lbl":"Positive"}
+,{"time":"12:28","usr":"Hatmage","txt":"This is news? Seriously? o_O \u201C@businessinsider: Gmail Is Down! $GOOG by @stevekovach http://t.co/1SD9XdGq\u201D","lbl":"Negative"}
+,{"time":"12:56","usr":"BJvV123","txt":"RT @businessinsider: Gmail Is Down! $GOOG by @stevekovach http://t.co/68YbFlRE","lbl":"Negative"}
+,{"time":"13:35","usr":"BUDDIEE18","txt":"be still my heart -- $GOOG \u0027s about to make another move?...up??","lbl":"Positive"}
+,{"time":"14:21","usr":"mikecardascia","txt":"RT @wallstCS: Gmail Outage Puts Twitter on Boil $MSFT $GOOG http://t.co/12dy0bJF","lbl":"Negative"}
+,{"time":"16:14","usr":"JerTignes","txt":"$aapl... Bye bye $Goog","lbl":"Negative"}
+,{"time":"17:13","usr":"lluccipha","txt":"SAI: Here\u0027s One Reason Why Google\u0027s Ad Prices May Be Dropping $GOOG by @MattRosoff http://t.co/G8Tx2FVq","lbl":"Negative"}
+,{"time":"17:17","usr":"mderins","txt":"look to solid companies like $aapl $dvn $ibm $hd $wy $goog $wfc $jpm enjoy @mra99","lbl":"Positive"}
+]

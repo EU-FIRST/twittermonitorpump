@@ -1,0 +1,5 @@
+[
+,{"time":"6:14","usr":"orbit208468","txt":"RT @SAI: Like Hell Facebook Is Killing Google $GOOG by @hblodget http://t.co/4Z3AGFPz","lbl":"Positive"}
+,{"time":"6:22","usr":"raul_montalvo","txt":"RT @SAI: Like Hell Facebook Is Killing Google $GOOG by @hblodget http://t.co/1xFv4mDm","lbl":"Negative"}
+,{"time":"17:50","usr":"NoDoji","txt":"@dparent I posted $GOOG Daily & weekly charts Friday & Saturday nights. Looks bullish. I am in some weekly calls","lbl":"Positive"}
+]

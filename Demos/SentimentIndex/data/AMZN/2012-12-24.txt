@@ -1,0 +1,12 @@
+[
+{"time":"6:26","usr":"jurylady5","txt":"RT @AltGovUK: RT @businessinsider: Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/oYR11Mqr #News","lbl":"Negative"}
+,{"time":"6:31","usr":"AmyJarvisInc","txt":"RT @businessinsider: Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/bPTCttN9","lbl":"Negative"}
+,{"time":"7:52","usr":"SedonaKathy","txt":"RT @SAI: Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/XdObKafc","lbl":"Negative"}
+,{"time":"8:57","usr":"thejackdigital","txt":"RT @businessinsider: Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/bPTCttN9","lbl":"Negative"}
+,{"time":"9:51","usr":"obamah82","txt":"Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/dNw9V1ZW","lbl":"Negative"}
+,{"time":"9:53","usr":"SaprodaniAlerts","txt":"We believe shares in $AMZN Amazon will likely benefit from strong seasonal sales through the end of this year.","lbl":"Positive"}
+,{"time":"12:04","usr":"TradetheLeader1","txt":"Many stocks holding high after nice runs..buyable at new highs $gs $c $bac $phm $amzn to name a few","lbl":"Positive"}
+,{"time":"12:36","usr":"Fitzstock2004","txt":"$amzn looks like the first one to RIP, on Wednesday.......","lbl":"Negative"}
+,{"time":"17:32","usr":"RaffiSosikian","txt":"Advertising war between Amazon $AMZN & Google $GOOG heats up - http://t.co/2krQJxqn - W/ DSP technology Amazon is looking good.","lbl":"Negative"}
+,{"time":"23:26","usr":"daytrader305","txt":"RT @Jamtrades: $AMZN could squeeze nicely on Wednesday!","lbl":"Negative"}
+]

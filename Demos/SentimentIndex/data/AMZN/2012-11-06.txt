@@ -1,0 +1,12 @@
+[
+{"time":"3:48","usr":"vid_e","txt":"If I have to guess, market will be super green today $aapl $goog $spy $qqq $amzn $pcln","lbl":"Positive"}
+,{"time":"3:56","usr":"flipboardbiz","txt":"RT @TheStreet: $AMZN Regaining Confidence - http://t.co/8PVXD0ds by @agara2004 $AAPL $FB","lbl":"Positive"}
+,{"time":"9:33","usr":"dianapetras","txt":"RT @businessinsider: Amazon Just Took A Big Swipe At Hulu And Netflix $AMZN $NFLX by @officialKLS http://t.co/Bqqrpdst","lbl":"Positive"}
+,{"time":"10:42","usr":"BlueFielder","txt":"$AMZN Ripe to run","lbl":"Positive"}
+,{"time":"10:44","usr":"BlacknGoldFool","txt":"@kem312 $AMZN \u0027s P/E is certainly in space. (Read: \u0022Innnn Sppaaaccee\u0022)","lbl":"Negative"}
+,{"time":"12:54","usr":"aten","txt":"RT @rakeshlobster: Great move by $AMZN. Monthly Prime for $8. http://t.co/kiyim3Xw Sign up for December and use it to send gifts. http://t.co/py0HLzLv","lbl":"Positive"}
+,{"time":"13:15","usr":"tlmontana","txt":"RT @HarryWanger: @tlmontana Daily chart showing right shoulder of H&S shaping up nicely. If forms, could see a nice drop soon. <-- $AMZN","lbl":"Negative"}
+,{"time":"16:16","usr":"Urbane_Gorilla","txt":"Exclusive - Amazon to win e-book tussle with Apple http://t.co/z3w6G9ks via @reuters $AMZN $AAPL","lbl":"Positive"}
+,{"time":"17:03","usr":"Commodity_Bull","txt":"RT @firstadopter: $RAX call: Yes having conversation with AWS customers who compete with AMZN, opportunity for competitive wins away from $AMZN","lbl":"Negative"}
+,{"time":"17:08","usr":"wallstCS","txt":"Google Loses, Zillow Tanks, and Amazon Wins: Market Recap http://t.co/dozoJIvE $VRNG $GOOG $AAPL $AMZN $Z #stocks","lbl":"Positive"}
+]

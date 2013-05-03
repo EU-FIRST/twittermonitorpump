@@ -1,0 +1,7 @@
+[
+{"time":"5:58","usr":"tkuz4u","txt":"Yesterday: iPhone, iPad & MacBook. Tomorrow: Nexus 4, Nexus 7 & ChromeBook. $aapl $goog Times are a changing.","lbl":"Positive"}
+,{"time":"12:45","usr":"MaliaSarah","txt":"RT @CNNMoney: Google\u0027s own \u0022transparency report\u0022 shows a sharp drop in traffic from China across all of Google\u0027s products. http://t.co/yfxohMJO $GOOG","lbl":"Negative"}
+,{"time":"12:46","usr":"thefinancepress","txt":"$GOOG Google NASDAQ:GOOG seeing its China traffic fall: Google NASDAQ:GOOG seeing its China traffic fall Live T... http://t.co/GNPtCOax","lbl":"Negative"}
+,{"time":"18:51","usr":"urbanryno","txt":"watching $GOOG at big support 640 (if it gets down there) and $AAPL big support at 520 if it gets down there. I like em both, but waiting.","lbl":"Positive"}
+,{"time":"19:14","usr":"darshandorsey","txt":"RT @ritholtz: STOP THE PRESSES: Mrs. Big Picture gets a Google Plus account; my Luddite wife doing that suggests $GOOG is a buy ! $$","lbl":"Positive"}
+]

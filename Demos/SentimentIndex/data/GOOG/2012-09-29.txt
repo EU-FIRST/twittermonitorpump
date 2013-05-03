@@ -1,0 +1,4 @@
+[
+{"time":"7:56","usr":"Sonnenglanz","txt":"RT @SeekingAlpha: RT @SeekingAlpha: Will Google Be Generous To Us Once Again? http://t.co/q9inawFo $GOOG","lbl":"Positive"}
+,{"time":"13:44","usr":"tyki_mo","txt":"RT @ It can\u0027t be denied that google ads have the best algorithms out there!!! $goog","lbl":"Positive"}
+]

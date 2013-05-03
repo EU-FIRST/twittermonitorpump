@@ -1,0 +1,49 @@
+[
+{"time":"1:21","usr":"sonikg","txt":"RT @MarketCurrents: Google (GOOG) is cutting 20% of Motorola Mobility\u0027s workforce, or over 4K employees. Google has alrea... http://t.co/paaavq3L $GOOG","lbl":"Positive"}
+,{"time":"1:23","usr":"thefinancepress","txt":"$GOOG Google Said to Cut About 4000 Employees in its Motorola Unit: Google Said to Cut About 4000 Employees in ... http://t.co/KpnSc5JL","lbl":"Negative"}
+,{"time":"6:00","usr":"blongwe","txt":"RT @SAI: Google Is Slashing 20% Of Motorola\u0027s Staff Starting Today $GOOG by @sfiegerman http://t.co/JrKICzFJ","lbl":"Positive"}
+,{"time":"6:00","usr":"sunshine66","txt":"RT @SAI: Google Is Slashing 20% Of Motorola\u0027s Staff Starting Today $GOOG by @sfiegerman http://t.co/JrKICzFJ","lbl":"Negative"}
+,{"time":"6:01","usr":"alexcnovak","txt":"\u0022@SAI: Google Is Slashing 20% Of Motorola\u0027s Staff Starting Today $GOOG by @sfiegerman http://t.co/BpXqOEQ1\u0022 got what they came for","lbl":"Negative"}
+,{"time":"6:02","usr":"natebecker","txt":"Google says in filing: restructuring charges could be \u0027significant\u0027 -- wonder how significant. Takes a lotta $ to be significant to $GOOG","lbl":"Negative"}
+,{"time":"6:53","usr":"CBSNews","txt":"Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Positive"}
+,{"time":"6:54","usr":"DavidCHelms1","txt":"RT @CBSNews: Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Negative"}
+,{"time":"6:54","usr":"MarybethJacoby","txt":"RT @CBSNews: Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Negative"}
+,{"time":"7:15","usr":"BloombergTV","txt":"Google plans 4,000 job cuts at Motorola Mobility - http://t.co/6sg1AWUF $GOOG","lbl":"Positive"}
+,{"time":"7:15","usr":"glfitzpatrick","txt":"RT @CBSNews: Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Negative"}
+,{"time":"7:16","usr":"albertutamaID","txt":"RT @BloombergTV: Google plans 4,000 job cuts at Motorola Mobility - http://t.co/6sg1AWUF $GOOG","lbl":"Negative"}
+,{"time":"7:49","usr":"BottomtheBasset","txt":"RT @CBSNews: Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Positive"}
+,{"time":"8:23","usr":"orenmor","txt":"RT @thefinancepress: $GOOG Analyst Upgrades: Sprint, Google, and Bed Bath & Beyond: Analyst Upgrades: Sprint, Google, and Bed Bath &... http://t.co/jTL1s0on","lbl":"Positive"}
+,{"time":"8:48","usr":"pennystockguys","txt":"$GOOG - US HOT STOCK FUTURES: HOT STOCKS TO WATCH http://t.co/gqUQs3SM","lbl":"Positive"}
+,{"time":"8:48","usr":"mrjordonez","txt":"Goodbye Moto: Google Will Send Out 4,000 Motorola Pink Slips Starting Today, Part Of Bigger Overhaul http://t.co/SYj79ea1 $GOOG","lbl":"Positive"}
+,{"time":"9:17","usr":"flexisharetrade","txt":"@FlexiShareTrade $GOOG up early trade after announcing job cuts at Motorola mobility http://t.co/AqMJTxXy http://t.co/jaNxfbtX","lbl":"Positive"}
+,{"time":"9:18","usr":"archibecture","txt":"RT @Dasan: Apple Presentation: Amazing how blatantly Samsung completely copied the iPhone with help from $GOOG http://t.co/fVl7EWv8","lbl":"Negative"}
+,{"time":"9:48","usr":"tlmontana","txt":"RT @JustinPulitzer: It\u0027s going to be hard for Bears to break anything w/ $AAPL & $GOOG ramping. $NQ_F $ES_F .Watching $$ <-- We shall see!","lbl":"Positive"}
+,{"time":"9:48","usr":"GRiccord","txt":"RT @LaurenYoung: Google to cut 4,000 Motorola Mobility jobs, take $275 million charge http://t.co/xjrXNJYo $GOOG","lbl":"Negative"}
+,{"time":"10:21","usr":"Naif_A","txt":"RT @SAI: GOOGLE IS BUYING FROMMER\u0027S $GOOG by @jyarow http://t.co/psvC1XGF","lbl":"Positive"}
+,{"time":"10:30","usr":"MacObserver","txt":"Google Begins \u201CReinvention\u201D of Motorola With Job, Office Cuts $GOOG http://t.co/3yeqDCJc #google #motorola","lbl":"Positive"}
+,{"time":"10:30","usr":"YahooFinance","txt":"Google is buying travel company Frommer\u0027s http://t.co/9yTdIJN5 $GOOG","lbl":"Positive"}
+,{"time":"10:54","usr":"Mehrotranitin","txt":"RT @businessinsider: GOOGLE IS BUYING FROMMER\u0027S $GOOG by @jyarow http://t.co/qdyQTQm9","lbl":"Positive"}
+,{"time":"10:54","usr":"modernhombre","txt":"$GOOG just passed $650, currently sitting at 652.58. #hombrefund","lbl":"Positive"}
+,{"time":"10:54","usr":"paulwoll","txt":"Trying a couple $GOOG Aug 18 \u002712 $650 puts at 4.10.","lbl":"Negative"}
+,{"time":"11:21","usr":"HitTheBidRadio","txt":"$GOOG our old leader is back Everyone else\u0027s failures are GOOG\u0027s wins. if it can get back into the 700\u0027s can 1000 be too far away?","lbl":"Positive"}
+,{"time":"11:21","usr":"russellmreyes","txt":"$AAPL, $CRM, $GOOG=nice!","lbl":"Positive"}
+,{"time":"11:21","usr":"CAMAR024","txt":"shorted $GOOG at the top","lbl":"Negative"}
+,{"time":"11:58","usr":"berkutchitweet","txt":"$GOOG that\u0027s as strong as relative strength gets on a day like today.","lbl":"Positive"}
+,{"time":"11:58","usr":"hijackiv","txt":"Took loss on $GOOG $630 puts","lbl":"Negative"}
+,{"time":"12:50","usr":"smendozag","txt":"stop $goog !!! jajaj","lbl":"Negative"}
+,{"time":"13:20","usr":"hijackiv","txt":"$GOOG & $AAPL real high flyers today.","lbl":"Positive"}
+,{"time":"13:21","usr":"RedDogT3Live","txt":"Recent action in $AAPL and $goog are Great examples that u can make money in equities on multiple time frames with a process/plan","lbl":"Positive"}
+,{"time":"13:52","usr":"Jamtrades","txt":"Commented on StockTwits: yea.... But $GOOG has rabies . Can you be our shepherd for $GOOG? we dont want to get shave... http://t.co/QYRa7zWY","lbl":"Negative"}
+,{"time":"14:26","usr":"JustinPulitzer","txt":"\u201C@zerohedge: RIM plans to license Blackberry 10 OS - BBG\u201D<~Interesting that $GOOG is so strong today.","lbl":"Positive"}
+,{"time":"14:27","usr":"tlmontana","txt":"RT @JustinPulitzer: \u201C@zerohedge: RIM plans to license Blackberry 10 OS - BBG\u201D<~Interesting that $GOOG is so strong today.","lbl":"Positive"}
+,{"time":"14:53","usr":"Sumenn7063","txt":"#Sold Sept 675 CALL $GOOG","lbl":"Negative"}
+,{"time":"15:38","usr":"wallstCS","txt":"Tech Biz Replay: Fallout From Google\u0027s ACQUISITION, AT&T\u0027s iPhone RELEASE Dates http://t.co/cyOv8Uq3 $YELP $EXPE $GOOG $T $AAPL #mkt","lbl":"Negative"}
+,{"time":"15:40","usr":"Ticker_Tank","txt":"Have to respect this move in $GOOG, but it looks like a good area for bearish strategy entry nonetheless.","lbl":"Negative"}
+,{"time":"15:45","usr":"RedDogT3Live","txt":"My T3Live Daily Recap http://t.co/qNC3lTQO August can be rewarding if you\u0027re looking in the right places $AAPL $GOOG $SPY @T3Live","lbl":"Positive"}
+,{"time":"16:48","usr":"USwwwStocks","txt":"$GOOG News: US HOT STOCKS: Google, Tesoro, http://t.co/fQttfdRL, Campbell Soup, Sears http://t.co/d5P35sEx #GOOG #Campbell #Google","lbl":"Positive"}
+,{"time":"16:49","usr":"wallstCS","txt":"Market Recap: Gold Falls, Apple\u0027s Big Announcement, Google Slashes Jobs http://t.co/8q9qBten $AAPL $GOOG $SHLD $ARWR $PVSW $GLD $SPX $QQQ","lbl":"Negative"}
+,{"time":"20:14","usr":"iJamonEdwards","txt":"RT @MarketWatch: Google is cutting 4,000 of Motorola\u0027s 20,000 employees and closing or consolidating a third of its facilities: http://t.co/5BVwPdzC $GOOG","lbl":"Positive"}
+,{"time":"20:14","usr":"FoxonStocks","txt":"Google BUYS again.... Should I BUY some $GOOG? Google already owns Zagat & 2day bought travel reviewer Frommers http://t.co/tfYn3Ajc","lbl":"Positive"}
+,{"time":"20:14","usr":"GPEpmx","txt":"RT @MarketWatch: Google is cutting 4,000 of Motorola\u0027s 20,000 employees and closing or consolidating a third of its facilities: http://t.co/5BVwPdzC $GOOG","lbl":"Negative"}
+,{"time":"21:35","usr":"newarrowcom","txt":"RT @MarketWatch: Google is cutting 4,000 of Motorola\u0027s 20,000 employees and closing or consolidating a third of its facilities: http://t.co/5BVwPdzC $GOOG","lbl":"Negative"}
+]

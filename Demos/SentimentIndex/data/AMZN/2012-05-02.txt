@@ -1,0 +1,19 @@
+[
+{"time":"0:24","usr":"AlexanderBVo","txt":"http://t.co/tSRLwjkC Verified $989.21 profit in $AMZN Import trades for the past month ish","lbl":"Positive"}
+,{"time":"8:54","usr":"coryjwatson","txt":"$AMZN and $AAPL shorts setting up here, in the $AMZN puts waiting for $AAPL","lbl":"Negative"}
+,{"time":"9:48","usr":"firstadopter","txt":"Verge speculates Target stop selling $AMZN Kindle due to \u0022conflict of interest\u0022 with ramp of Target $AAPL mini-stores http://t.co/gpPcg8Ee","lbl":"Negative"}
+,{"time":"10:33","usr":"AGFELPASO","txt":"RT @SAI_Tools This Is The Best Price We\u0027ve Ever Seen For A Kindle Fire $AMZN by @_dtl http://t.co/OAdk6ypB","lbl":"Positive"}
+,{"time":"10:33","usr":"DanielSharma","txt":"Target not selling Kindle Fire anymore $AMZN.","lbl":"Negative"}
+,{"time":"10:34","usr":"sharkfoot","txt":"started my $amzn entry too early... avg 228.86","lbl":"Positive"}
+,{"time":"11:07","usr":"creditspread23","txt":"RT @MNYCx: $AMZN \u0022A fool and his money soon to be parted\u0022, I hope that won\u0027t be me with my Puts. Always a big challenge to go in short after good ER\u0027s","lbl":"Negative"}
+,{"time":"11:07","usr":"CarolinesCall","txt":"Target Will Stop Selling Amazon\u0027s Kindle -- Is Apple To Blame? $AAPL $AMZN $TGT http://t.co/LVG33NwJ http://t.co/xJXGl4qM via @sai","lbl":"Negative"}
+,{"time":"12:07","usr":"getwired","txt":"RT @rakeshlobster: RT @jonfortt \u0022Target is phasing out Kindle-branded products in spring 2012\u0022 I guess $TGT caught on to the Trojan Horse thing. $AMZN","lbl":"Negative"}
+,{"time":"12:08","usr":"niuniu01981","txt":"$AMZN - Amazon Stock Analysis - bearish stochastic crossdown - http://t.co/7kDtaEmB","lbl":"Negative"}
+,{"time":"13:00","usr":"alwaysdaytrader","txt":"RT @jonfortt: If $AMZN\u0027s making content bc it\u0027s cheaper than buying, this doesn\u0027t bode well. Will require a culture shift http://t.co/yVSx0JRP","lbl":"Negative"}
+,{"time":"13:39","usr":"TradeToRetire","txt":"$AMZN mention 17 Dec \u002711 http://t.co/Dwk3fcYG for its gaps is up +26.4% since and price clustering near top of its huge gap up fr 3 days ago","lbl":"Positive"}
+,{"time":"14:41","usr":"ManijehM","txt":"$AMZN volume is really low, holding june puts","lbl":"Negative"}
+,{"time":"16:26","usr":"CEP_Observer","txt":"@firstadopter Another issue for $Amzn & $GOOG both work badly as a e-commerce platform - lower sales from users of that operating system","lbl":"Negative"}
+,{"time":"16:29","usr":"Rooster306","txt":"$AMZN http://t.co/6uxTA0Dk big gains http://t.co/t0PN0NVd","lbl":"Positive"}
+,{"time":"22:52","usr":"Goodlett","txt":"Interesting that $TGT @Target dropping $AMZN #Kindle #eReader products BUT keeping $BKS #Nook just after $MSFT deal http://t.co/kLScoDJy","lbl":"Negative"}
+,{"time":"23:01","usr":"ZacH1992TradeS","txt":"$AMZN, I am tempted to short you to hell...but I will wait for a bit","lbl":"Negative"}
+]

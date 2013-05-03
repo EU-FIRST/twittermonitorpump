@@ -1,0 +1,23 @@
+[
+{"time":"0:46","usr":"Pellucidigm","txt":"@KeeneOnMarket @alexkotm spread: long $AAPL short $GOOG","lbl":"Negative"}
+,{"time":"11:11","usr":"$GOOG","txt":"Long $GOOG $628.75 for a scalp","lbl":"Positive"}
+,{"time":"11:11","usr":"$GOOG","txt":"Short $aapl, long $goog","lbl":"Positive"}
+,{"time":"11:12","usr":"$GOOG","txt":"@bespokeinvest and u idiots were trying to pump it up the other day. I called u guys out on $GOOG & said don\u0027t buy on ur media outlet pump","lbl":"Negative"}
+,{"time":"11:31","usr":"$GOOG","txt":"As Apple trades to new all-time high, Google is quietly getting crushed today. $AAPL $GOOG","lbl":"Negative"}
+,{"time":"11:31","usr":"$GOOG","txt":"$GOOG weakness today -- thought I would see bounces at 640, 633 -- so far nothin -- watchin 616, 50dma - could take a few days","lbl":"Negative"}
+,{"time":"13:32","usr":"moisesuribe","txt":"RT @bespokeinvest: As Apple trades to new all-time high, Google is quietly getting crushed today. Biggest down day since 10/3 as of 11 AM $GOOG $AAPL $$","lbl":"Negative"}
+,{"time":"14:39","usr":"ManiOhli","txt":"Option Millionaires: Omars: some puts on $GOOG Up 2800% how crazy http://t.co/fseYWm01","lbl":"Negative"}
+,{"time":"14:39","usr":"ManiOhli","txt":"Option Millionaires: rickk: NFLX J21 $135 calls filled @.36 $GOOG W $630 http://t.co/uC46AFTR","lbl":"Positive"}
+,{"time":"15:08","usr":"TraderOnTheLake","txt":"$GOOG - Nice fade.","lbl":"Negative"}
+,{"time":"15:20","usr":"SeekingAlpha","txt":"7 Stocks To Be Careful With Going Into Earnings http://t.co/pgiZkLpH $AAPL $NFLX $GOOG $MA $GMCR $DECK $MCP","lbl":"Negative"}
+,{"time":"15:36","usr":"BUDDIEE18","txt":"RT @BlueFielder: $GooG bottom fish fights <<c\u0027mon ...u got deeep pockets -- MOVE $GOOG higher, eh! >>","lbl":"Positive"}
+,{"time":"15:36","usr":"Jettson12","txt":"Positive divergences beginning to show on $GOOG 5, 15min charts (leading indicator). Need some stabilization here between 615 and 620.","lbl":"Positive"}
+,{"time":"16:02","usr":"kfury","txt":"Wow, Google hasn\u0027t even completed its purchase of Motorola Mobility but that didn\u0027t stop $MMI from dragging $GOOG down $27/share today.","lbl":"Negative"}
+,{"time":"16:50","usr":"TraderOnTheLake","txt":"RT @goody $GOOG good job @traderonthelake up 7 bucks >>> I don\u0027t get it... what is up 7 bucks?","lbl":"Positive"}
+,{"time":"17:12","usr":"gspzozotrader","txt":"RT @StockSage1: New Post: \u0022Warning Signs\u0022 http://t.co/UJiqWWZS $AAPL $COMPQ $GOOG $IWM $QQQ $SPY $SPX","lbl":"Negative"}
+,{"time":"17:13","usr":"GreenHedges1","txt":"RT @StockTwits: \u0022Warning Signs\u0022 http://t.co/1tZvzE0j via @StockSage1 $AAPL $COMPQ $GOOG $IWM $QQQ $SPY $SPX","lbl":"Negative"}
+,{"time":"17:57","usr":"$GOOG","txt":"Reviewing my $GOOG trades, these pushed me into an area that challenge my size rules. Trade size is SO important. Trade big, lose big.","lbl":"Negative"}
+,{"time":"18:00","usr":"$GOOG","txt":"RT @mugunthkumar: $GOOG = $670 5 days ago $GOOG = $623 now","lbl":"Negative"}
+,{"time":"23:25","usr":"DivIncome247","txt":"Apple is Finally Taking Mobile Advertising Seriously\u2026.Google Beware http://t.co/RKY3S9cZ $AAPL $GOOG","lbl":"Negative"}
+,{"time":"23:47","usr":"jefffocker","txt":"@cnbcfastmoney please ask Karen about the drop in $GOOG and whether she still plans to hold","lbl":"Negative"}
+]

@@ -1,0 +1,9 @@
+[
+{"time":"8:42","usr":"newsagg","txt":"@annemarietrades says $AMZN loses 209 then it sees 201. I say 196 not far behind that number","lbl":"Negative"}
+,{"time":"9:04","usr":"newsagg","txt":"$AMZN made a new lower price into the gap. Inch by inch","lbl":"Negative"}
+,{"time":"9:21","usr":"askchrishetrade","txt":"$AMZN short 211.20 avg. Stop 211.55 Lets get this baby working : + ) $$","lbl":"Negative"}
+,{"time":"9:59","usr":"gregnb","txt":"hope you guys were short $AMZN with me from last week .. patience paying off here big trade","lbl":"Negative"}
+,{"time":"11:48","usr":"andrewnyquist","txt":"Starter in $AMZN at 208.67","lbl":"Positive"}
+,{"time":"12:41","usr":"RealDividendLab","txt":"\u201C@DividendMaster: and suddenly the world wakes up to fact 100+ PE $AMZN is $75 too high today ?\u201D","lbl":"Negative"}
+,{"time":"13:33","usr":"firstadopter","txt":"$AMZN customers will be paying 6-9.75% more effective pricing in Texas, California, Pennsylvania in next few months due to state sales taxes","lbl":"Negative"}
+]

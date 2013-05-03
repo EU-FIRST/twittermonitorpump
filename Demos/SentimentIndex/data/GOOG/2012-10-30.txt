@@ -1,0 +1,11 @@
+[
+{"time":"5:54","usr":"USwwwStocks","txt":"$GOOG News: Sharp Jumps on Report of Tie-Up Talks With Apple, Google http://t.co/mcOsHoXw #Apple #GOOG #Google","lbl":"Positive"}
+,{"time":"13:14","usr":"alecdibble","txt":"RT @howardlindzon: $goog ... \u201C@pkedrosky: Great changes RT @gmail: Introducing the new compose in Gmail: http://t.co/yhkiGP85 \u201D","lbl":"Positive"}
+,{"time":"13:19","usr":"MichaelComeau","txt":"Google Nexus 10 looks good at $399. $GOOG","lbl":"Positive"}
+,{"time":"15:43","usr":"newsagg","txt":"$GOOG sure looks like it wants to test the 61.8% which is also 200ema and top of a volume node , RSI oversold http://t.co/MHAgBtNA","lbl":"Negative"}
+,{"time":"19:43","usr":"TrueMarketAI","txt":"Somehow I wound up w/the new $GOOG gmail compose. Very slick/smooth. http://t.co/mmPUFjfc #Stocks","lbl":"Positive"}
+,{"time":"21:31","usr":"pennystockguys","txt":"$GOOG - France Makes &euro;1 Billion Tax Claim Against Google http://t.co/lmVjIss7","lbl":"Negative"}
+,{"time":"21:31","usr":"ADVFNplc","txt":"$GOOG - France Makes &euro;1 Billion Tax Claim Against Google http://t.co/uNST3yII","lbl":"Negative"}
+,{"time":"23:18","usr":"StockMarket411","txt":"Google\u2019s 3Q earnings leak early, stock plunges $goog http://t.co/x8SZjQps goog, google, google stock, news","lbl":"Negative"}
+,{"time":"23:30","usr":"RobertWeinstein","txt":"$GOOG =bigr threat. Much love but you\u0027re wrong here RT @TheStreet: Yes, $AAPL Can Kill $MSFT Office http://t.co/SsvWkkDz by @rocco_thestreet","lbl":"Negative"}
+]

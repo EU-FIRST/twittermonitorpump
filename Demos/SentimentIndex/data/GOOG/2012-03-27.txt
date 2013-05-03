@@ -1,0 +1,20 @@
+[
+{"time":"8:43","usr":"NoDoji","txt":"Looking to sell some $GOOG $650 calls soon against my long $645s. Asking $7","lbl":"Negative"}
+,{"time":"9:13","usr":"StephenStull","txt":"#Finally $GOOG Boom.","lbl":"Positive"}
+,{"time":"9:14","usr":"berkutchitweet","txt":"$GOOG added to my long here.","lbl":"Positive"}
+,{"time":"9:16","usr":"StkConfidential","txt":"Others perking up $BIDU, $GOOG, $PNRA, $CF, $AZO, $LVS, $TSCO, $TFM, $UBNT, $NTES etc. $$","lbl":"Positive"}
+,{"time":"11:27","usr":"EkaruIT","txt":"RT @SAI: Google\u0027s Dropbox Killer Is Coming In April $GOOG by @MattRosoff http://t.co/UV278xvI","lbl":"Positive"}
+,{"time":"12:27","usr":"MattRosoff","txt":"Forget Evil. When\u0027s The Last Time Google Blew You Away? $GOOG http://t.co/Fotl5Kq1","lbl":"Negative"}
+,{"time":"12:28","usr":"lluccipha","txt":"SAI: Check Out How Messy And Confusing http://t.co/YAs3LZB5 Has Become $GOOG by @jyarow http://t.co/jIjzDHvc","lbl":"Positive"}
+,{"time":"12:51","usr":"thefinancepress","txt":"$GOOG Forget Evil. When\u0027s The Last Time Google Blew You Away? (GOOG): Forget Evil. When\u0027s The Last Time Google ... http://t.co/ULgbLnM2","lbl":"Negative"}
+,{"time":"12:55","usr":"kcbill","txt":"$GOOG you are blessed and have been released to run free....go free young man go free","lbl":"Positive"}
+,{"time":"13:23","usr":"brendanpramjee","txt":"RT @SAI: THE GOOGLE INVESTOR: Google\u0027s Problems In China Just Got Worse $GOOG by @hleonard76 http://t.co/8p3eoZoS","lbl":"Negative"}
+,{"time":"13:26","usr":"TraderFlorida","txt":"$AAPL $ISRG $GOOG these market leaders are holding up well - look to want to head higher","lbl":"Positive"}
+,{"time":"13:26","usr":"BUDDIEE18","txt":"RT @TraderFlorida: $AAPL $ISRG $GOOG these market leaders are holding up well - look to want to head higher","lbl":"Positive"}
+,{"time":"14:05","usr":"chewelahboy","txt":"THE GOOGLE INVESTOR: Google\u0027s Problems In China Just Got Worse http://t.co/lDkaA1EZ via @sai $GOOG $AAPL :)","lbl":"Negative"}
+,{"time":"14:28","usr":"GarethSoloway","txt":"Master levels on $SBUX and $GOOG working perfectly.","lbl":"Positive"}
+,{"time":"15:51","usr":"ZisblU4U","txt":"fuck off $goog .","lbl":"Negative"}
+,{"time":"16:35","usr":"ZaidKarus","txt":"RT @CNBC: Citi raises target on Google to $750, says underperforming S&P. (h/t @pattidomm) $GOOG","lbl":"Positive"}
+,{"time":"16:36","usr":"srisri55","txt":"Damn... that last minute sell-off. I got tons of $GOOG calls. CITI raising PT 750$ was very much needed. Hoping this gaps up in the morning.","lbl":"Positive"}
+,{"time":"16:37","usr":"Boozillo","txt":"RT @CNBC: Citi raises target on Google to $750, says underperforming S&P. (h/t @pattidomm) $GOOG","lbl":"Positive"}
+]

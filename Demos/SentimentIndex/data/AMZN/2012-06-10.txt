@@ -1,0 +1,4 @@
+[
+{"time":"5:20","usr":"SeekingAlpha","txt":"The Race To Zero: RadioShack http://t.co/LkHwHFqs $AMZN $RSH","lbl":"Negative"}
+,{"time":"5:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 05:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+]

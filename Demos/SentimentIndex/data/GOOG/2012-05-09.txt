@@ -1,0 +1,9 @@
+[
+{"time":"7:24","usr":"Sangluccitrades","txt":"http://t.co/XM5HqAOY Verified $1,021.25 loss in $GOOG Tried a longo on that fake breakout... No love. Ironically the stock got ...","lbl":"Negative"}
+,{"time":"7:25","usr":"Sangluccitrades","txt":"http://t.co/tZzSYWFS Verified $207.88 loss in $GOOG Feeler Trade","lbl":"Negative"}
+,{"time":"8:59","usr":"njnigh","txt":"Nevada issues $GOOG first license for self-driving car http://t.co/uvWGGLO7","lbl":"Positive"}
+,{"time":"11:13","usr":"takingstock614","txt":"Stocks Im watching patiently for long side entry few more weeks: $DNKN $LNKD $GOOG $AAPL $PCLN $MA $CMG $AZO $NFLX $KORS $TSLA","lbl":"Positive"}
+,{"time":"13:15","usr":"racernic","txt":"$GOOG rolling out another change to their search engine.imo every time they do it they gain in click rev. changes screw up natural rankings","lbl":"Negative"}
+,{"time":"16:23","usr":"alliwalk","txt":"RT @peterhorvath: $FB takes on $AAPL and $GOOG with App Center http://t.co/gVITmcZa","lbl":"Negative"}
+,{"time":"19:59","usr":"VinodColeslaw","txt":"$GOOG is the Oldsmobile of social.","lbl":"Negative"}
+]

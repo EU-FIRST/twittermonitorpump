@@ -1,0 +1,12 @@
+[
+{"time":"8:39","usr":"gentrala","txt":"RT @SAI: POGUE: Forget The iPhone 5, It\u0027s A Google Gadget That Really Excites Me $GOOG by @nichcarlson http://t.co/0jyMMP95","lbl":"Positive"}
+,{"time":"9:47","usr":"ItsCam__","txt":"3 years ago today: $AAPL trading at 180. $GOOG approaching 500. Who will hit 800 first? http://t.co/yLULc3tr","lbl":"Positive"}
+,{"time":"10:15","usr":"CQtrad","txt":"RT @StockTwits: RT @ampressman $GOOG loses patent lawsuit to $AAPL in Germany, may have to recall Android tablets & smartphones htt ...","lbl":"Negative"}
+,{"time":"11:42","usr":"SJosephBurns","txt":"It is a great sign for bulls that we are still holding near highs this late in the trading day. $AAPL $GOOG $PCLN","lbl":"Positive"}
+,{"time":"12:07","usr":"DallasTexxxas","txt":"@CharlieThomps0n I might bite the bullet and just overpay for LEAPS next time it falls. I know it will continue upward for years. $GOOG","lbl":"Positive"}
+,{"time":"12:28","usr":"srisri55","txt":"woww looks like lotta shopping opportunities at the EOD, if we hold on to cash. $AAPL $GOOG $PCLN","lbl":"Positive"}
+,{"time":"13:14","usr":"mustped","txt":"only $GOOG can play in the $700 sandbox and not you $AAPL. deal with it.","lbl":"Positive"}
+,{"time":"13:52","usr":"kiwitrader24","txt":"@newsagg Sold $GOOG Oct call spread yest, and was going to unwind now that new 52 WH set. Maybe I should hang on another day?","lbl":"Positive"}
+,{"time":"14:46","usr":"kenjotto","txt":"sold another 1/4 $GOOG Oct660 cal +4%, same thesis","lbl":"Negative"}
+,{"time":"14:46","usr":"Daniel_Aaron17","txt":"Current shorts: $GOOG $CRM $UAL #LongShort #Short #Trader","lbl":"Negative"}
+]

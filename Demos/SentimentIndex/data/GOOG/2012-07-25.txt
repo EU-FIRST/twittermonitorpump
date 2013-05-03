@@ -1,0 +1,5 @@
+[
+{"time":"7:28","usr":"thefinancepress","txt":"$GOOG Google (NASDAQ:GOOG) Approaches Potential Antitrust-Case Settlement with ...: Google (NASDAQ:GOOG) Approa... http://t.co/Z0c0vIeu","lbl":"Positive"}
+,{"time":"9:25","usr":"justtradin","txt":"RT @WhizCheck6: $GOOG put vertical - -15 Jul-27-12 585/590 put vertical @ 0.20 nice 70% gain for today...","lbl":"Negative"}
+,{"time":"14:51","usr":"WalterFritz1966","txt":"$GOOG buy $800","lbl":"Positive"}
+]

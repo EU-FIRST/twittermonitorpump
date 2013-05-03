@@ -1,0 +1,14 @@
+[
+{"time":"1:33","usr":"inno_tech_CIT","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
+,{"time":"1:39","usr":"TraderOnTheLake","txt":"$ISRG http://t.co/KQdN3m95 Acting like $GOOG in January. Google topped 1 day after I called for it. http://t.co/zJl9dSvf","lbl":"Positive"}
+,{"time":"6:19","usr":"brunoyoshimura","txt":"RT @SAI: Google Introduces A New Ad Product It Hopes Is As Lucrative As Search $GOOG by @_dtl http://t.co/6abLBwcE","lbl":"Positive"}
+,{"time":"8:46","usr":"MicrocapTrader","txt":"RT @Penny_Pics: Article on SeekingAlpha suggests a $GOOG buyout of $PLPE for close to $1. Our estimates are closer to $4, but our bullish view is the same","lbl":"Positive"}
+,{"time":"9:18","usr":"conquermarkets","txt":"Sell off across the board. DJIA -167.30 S&P -18.22 NASDAQ -45.22 $AAPL $GOOG $BAC","lbl":"Negative"}
+,{"time":"11:09","usr":"UdallTechStrat","txt":"$goog goes green","lbl":"Positive"}
+,{"time":"11:54","usr":"brokerz_bearish","txt":"RT @BAMinvestor - $GOOG model remains bearish and expects fast-market retest of 530 minimum","lbl":"Negative"}
+,{"time":"15:06","usr":"GPhred","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"15:41","usr":"dcraze","txt":"RT @edwardnh: India: Android outpacing iPhone | beyondbrics | http://t.co/pUCO6zNN http://t.co/tQe04oOQ $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:25","usr":"THE_CraigOrsi","txt":"Nice work @jjfree! RT @sai: Android Is Getting Totally Blown Out Of The Water By iOS. $GOOG $AAPL http://t.co/9pRk7Fdq","lbl":"Negative"}
+,{"time":"19:34","usr":"DaveMacMS","txt":"@dmakovec Actually, I think those numbers are *up* from prior surveys I\u0027ve seen. $GOOG makes vast majority of mobile search $$ from iOS.","lbl":"Positive"}
+,{"time":"19:37","usr":"21cardinalrules","txt":"RT @conorsen: @PhilipEtienne All I know is if $FB is worth $100bn+ then $GOOG is a screaming buy at $600.","lbl":"Positive"}
+]

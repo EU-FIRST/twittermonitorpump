@@ -1,0 +1,38 @@
+[
+{"time":"6:02","usr":"Ktr8der","txt":"Call me crazy, but I think the $goog\u0027s Nexus iPad will be more profitable to $nvda than googarola. http://t.co/EOVCTrpq","lbl":"Negative"}
+,{"time":"6:09","usr":"SiAlpha","txt":"\u201C@cherylwaller: Samsung\u2019s Mobile Chief To Meet Google\u2019s Schmidt \u2014 Apple Patents Battle On The Agenda? http://t.co/kQ8ROLOj $GOOG $AAPL","lbl":"Negative"}
+,{"time":"7:44","usr":"SWolfring","txt":"RT @CNNMoney: Google\u0027s stock hit an all-time high of $748.90 early Monday, topping the previous record set in November 2007. http://t.co/Aee9Re4C $GOOG","lbl":"Positive"}
+,{"time":"8:29","usr":"ACE52weekhigh","txt":"$GOOG split should be set for October. Details unknown until quarterly earnings and court settlement. Contributing to profit taking","lbl":"Positive"}
+,{"time":"8:30","usr":"MoElnadi","txt":"While $AAPL struggles to fix its buggy #iOS6 maps, $GOOG manages to launch new underwater maps! http://t.co/3DdNHUBs #Apple #GPS","lbl":"Positive"}
+,{"time":"8:50","usr":"pennystockguys","txt":"$GOOG - Brazil Judge Orders Google to Remove Anti-Islam Film http://t.co/RIXiSWj2","lbl":"Negative"}
+,{"time":"8:50","usr":"ADVFNplc","txt":"$GOOG - Brazil Judge Orders Google to Remove Anti-Islam Film http://t.co/g22zFi44","lbl":"Negative"}
+,{"time":"9:09","usr":"RealCrystalBall","txt":"Google becomes 5th most valuable U.S. company by market cap http://t.co/yNPA8c1Z $GOOG #Stocks","lbl":"Positive"}
+,{"time":"9:09","usr":"nosaj_jason","txt":"RT @YahooFinance: Google becomes 5th most valuable U.S. company by market cap http://t.co/8oJnHaJl $GOOG","lbl":"Positive"}
+,{"time":"9:10","usr":"littletigercs","txt":"$AAPL will come back to above $670. watching and waiting. meanwhile, enjoying shorting the arrogant $GOOG","lbl":"Negative"}
+,{"time":"9:10","usr":"stuffandplayx","txt":"RT @YahooFinance: Google becomes 5th most valuable U.S. company by market cap http://t.co/AX8Ysz8e $GOOG","lbl":"Positive"}
+,{"time":"9:29","usr":"mitchelltsai","txt":"(typo) sold $AAPL Oct 650 Call 27.95-30.70 (-34% loss), $GOOG Weekly Call 9.5 (+31% profit), Oct 700 Call 62.0 (+4% profit) #MyStock","lbl":"Negative"}
+,{"time":"10:20","usr":"OptionRunners","txt":"Failed exit on $GOOG. In at 1.35 out at 1.70 for a 26% gain. Got up to 3.00 though, got caught in that market bounce.","lbl":"Negative"}
+,{"time":"10:23","usr":"kstockguy","txt":"can somebody answer $goog if it is so cheap, then so is rest of stocks because most stocks have almost doubled income since 2005-2007 range.","lbl":"Positive"}
+,{"time":"11:01","usr":"mkarias1","txt":"Bought some $GOOG stock at $747.64","lbl":"Positive"}
+,{"time":"11:20","usr":"NexgenJeremy","txt":"$GOOG Fibonacci support continues to hold for long opportunities. First target reached again. http://t.co/MH9h28jG","lbl":"Positive"}
+,{"time":"11:22","usr":"actionjack2000","txt":"@ChartLearning any thoughts on $goog, banked some earlier","lbl":"Positive"}
+,{"time":"11:53","usr":"Dmoneydtx","txt":"all out $Goog.. 4.90 she strong ..","lbl":"Negative"}
+,{"time":"11:53","usr":"hedgieguy","txt":"With Apple Stuck On Land, Google Takes Maps Underwater - LITERALLY! http://t.co/SaLcl4fd $AAPL $GOOG","lbl":"Positive"}
+,{"time":"12:12","usr":"valtheegal","txt":"Google Incredibly Didn\u0027t Anticipate Being Dropped From iOS 6 Maps, Scrambling To Create App http://t.co/eC1yb00e @sengineland $AAPL $GOOG","lbl":"Negative"}
+,{"time":"12:12","usr":"JamesGMark","txt":"$GOOG not proven yet http://t.co/Rako2eHn","lbl":"Negative"}
+,{"time":"12:32","usr":"The_cube1984","txt":"$goog will see some lower prices in the near future ;-) .","lbl":"Negative"}
+,{"time":"12:34","usr":"sandeepbhavsar","txt":"@smartertrader the decay in $aapl options vs lack of decay in $goog was really something. Good catch Sam.","lbl":"Positive"}
+,{"time":"13:20","usr":"JustinPulitzer","txt":"$GOOG is just a monster. VERY impressive recovery if it holds strong into the close.","lbl":"Positive"}
+,{"time":"13:37","usr":"littletigercs","txt":"that is my plan. $GOOG puts overnight and $aapl calls overnight. see u all Thursday. hahah","lbl":"Negative"}
+,{"time":"13:38","usr":"mabr0408","txt":"RT @JustinPulitzer: $GOOG is just a monster. VERY impressive recovery if it holds strong into the close.","lbl":"Positive"}
+,{"time":"14:30","usr":"launchticker","txt":"Report: $goog reluctance to add voice navigation to iOS Maps led to fallout w/ $aapl http://t.co/frKYHyb2","lbl":"Negative"}
+,{"time":"14:45","usr":"BsiflingTrades","txt":"http://t.co/LOoT57c2 $130.00 profit in $GOOG Also had 100% profits today and stopped out.","lbl":"Negative"}
+,{"time":"16:13","usr":"Fitzstock2004","txt":"once again....NOBODY talkin $GOOG.......this one still WANTS HIGHER.......buy all dips vs 10sma=STRONGEST STOCK ON THE BOARD","lbl":"Positive"}
+,{"time":"16:16","usr":"ForTraders","txt":"#Google Inc : Google Brazil Chief Detained, ReleasedGoogle Inc : Google Brazil Chief Detained, Released http://t.co/Dd1jO2Vy $GOOG","lbl":"Negative"}
+,{"time":"16:16","usr":"JAG92","txt":"RT @Vconomics: Why is it constantly \u0022which is a better buy now: $AAPL or $GOOG?\u0022 Honestly, shut up at this point. You missed the run, look elsewhere.","lbl":"Negative"}
+,{"time":"16:16","usr":"pennystockguys","txt":"$GOOG - Google Brazil Chief Detained, Released Over YouTube Videos -Police http://t.co/xcRnbgxp","lbl":"Negative"}
+,{"time":"17:06","usr":"Qwovadis","txt":"$GOOG Bear trade #154 entered week 1 750 P at 50% discount have not been able enter 800 call. Bearish short term has run too far too fast.","lbl":"Negative"}
+,{"time":"18:58","usr":"convolutedvol","txt":"RT @tradingplays: $AAPL $GOOG - It\u0027s pop or drop time for these guys! #Intraday","lbl":"Negative"}
+,{"time":"21:41","usr":"thekeikoshow","txt":"@tweet_rrando yea like I\u0027m short $GOOG right now","lbl":"Negative"}
+,{"time":"21:42","usr":"jerry_trades29","txt":"@XESEBT plus the overall stock market is very strong. With $AAPL and $GOOG at all time highs $FB can continue upward","lbl":"Positive"}
+]

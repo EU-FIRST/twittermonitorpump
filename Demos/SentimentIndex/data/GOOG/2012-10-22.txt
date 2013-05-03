@@ -1,0 +1,19 @@
+[
+{"time":"6:26","usr":"_newsAggregator","txt":"RT @carlquintanilla: .@TheStreet reviews $GOOG\u0027s new Chrome laptop and says it \u0022performs like a champ\u0022 http://t.co/WDFDcCXj $AAPL","lbl":"Positive"}
+,{"time":"7:05","usr":"clh007x","txt":"RT @SheilaD_TV: Sanford Bernstein on $GOOG: \u0022margin concerns overdone....we think upside is still much larger than downside\u0022 Price target $820/share #stocks","lbl":"Positive"}
+,{"time":"7:54","usr":"dherman76","txt":"The $GOOG driverless car can help close the loop on marketing. Thoughts? http://t.co/d3orznZR #marketing #advertising #google","lbl":"Positive"}
+,{"time":"7:56","usr":"tlmontana","txt":"RT @tradefast: Barron\u0027s covery story on computer hardware - favorable for $EMC $GOOG $AAPL neg for $HPQ $DELL ~cautiously neutral for $INTC $MSFT","lbl":"Positive"}
+,{"time":"8:40","usr":"CreateCapital","txt":"$GOOG went up 12 weeks in a row, 200 points, $65B in market value JUST BEFORE a HUGE earnings disappointment. #DONTJUSTFOLLOWPRICE fools","lbl":"Negative"}
+,{"time":"10:09","usr":"DeidreZune","txt":"US stocks finally showing discrimination. $AAPL higher $GOOG down. $GOOG\u0027s miss will weigh on stock this Q; $AAPL will outperform","lbl":"Negative"}
+,{"time":"10:25","usr":"tphedgegroup","txt":"$GOOG Added more at $672.","lbl":"Positive"}
+,{"time":"10:26","usr":"Mitchnole","txt":"$GOOG just undercut Friday\u0027s lows.","lbl":"Negative"}
+,{"time":"10:51","usr":"howardlindzon","txt":"RT @bespokeinvest $GOOG\u0027s miss was blamed on $MMI purchase.They only paid $9.8 bln for $MMI, but stock has lost $27 bln in mkt since report.","lbl":"Negative"}
+,{"time":"12:11","usr":"UdallTechStrat","txt":"@biggalaxy Been buying $goog since low $300\u0027s, usually on Qtr\u0027s when price action is terrible.","lbl":"Positive"}
+,{"time":"12:30","usr":"sugg_business","txt":"RT @MarketWatch: Can\u0027t decide between a new iPad or Surface tablet? Maybe check out Google\u0027s $249 Chromebook http://t.co/mt1afbk5 via @thetellblog $GOOG","lbl":"Positive"}
+,{"time":"13:06","usr":"tphedgegroup","txt":"TPHedgegroup maintains its 2013 price target of $845 on $GOOG We continue at add to our position.","lbl":"Positive"}
+,{"time":"13:08","usr":"MockTrade","txt":"I think the key 4 EOD selling or not 2day will b both $AAPL below 622 & $GOOG below 673, along w/Financials not reversing back up as well","lbl":"Negative"}
+,{"time":"15:27","usr":"howardlindzon","txt":"Mood matters RT @JFinDallas Opposite day : $GOOG big rev growth is a \u0022MISS\u0022, $YHOO flat rev is a \u0022BEAT\u0022, expectations and psychology... $QQQ","lbl":"Negative"}
+,{"time":"16:44","usr":"Cole__Hines","txt":"RT @Opinterest: The notion that nobody knows how to monetize mobile is ludicrous. How did $GOOG mobile revenues go from $2.5B to $8B YoY? @cnbcfastmoney","lbl":"Positive"}
+,{"time":"16:47","usr":"Goodlett","txt":"Compounding problems w/$GOOG stock drop, comes revelations that #Android apps \u0027can\u0027 leak personal details http://t.co/73vDaBXs $MSFT $AAPL","lbl":"Negative"}
+,{"time":"17:51","usr":"WS31082","txt":"$YHOO shows better than expected earnings while $GOOG falls this might be the year of Yahoo #Trading #NASDAQ","lbl":"Negative"}
+]

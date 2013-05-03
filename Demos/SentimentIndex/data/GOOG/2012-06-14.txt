@@ -1,0 +1,11 @@
+[
+{"time":"8:56","usr":"choffman1978","txt":"Markets rally on likelyhood of Fed action! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd,$ctic,$dndn,$chtp,$v,#biotech","lbl":"Positive"}
+,{"time":"10:59","usr":"ChicagoRy","txt":"sorry, short $GOOG 563.68, not 562","lbl":"Negative"}
+,{"time":"11:00","usr":"jaystox","txt":"\u0022@IBDinvestors: Apple Gets Friendly With Baidu, While Shunning Google http://t.co/wWjq8SqK\u0022 personally I would short $GOOG - no position","lbl":"Negative"}
+,{"time":"12:14","usr":"tlmontana","txt":"Two Sectors That are Important now: Energy and Banks. <--- Tech is not leading. $GOOG $AAPL","lbl":"Negative"}
+,{"time":"12:15","usr":"danshep55","txt":"$qcom $goog $aapl $pcln all red.. i know i feel good about this rally","lbl":"Negative"}
+,{"time":"13:23","usr":"Bluechiptrend","txt":"Watching $GOOG for a possible Break of $559 level!","lbl":"Positive"}
+,{"time":"13:24","usr":"Options_Maniac","txt":"Looking for more downside on $BIDU. $AAPL, $PCLN and $GOOG taking the day off I see.","lbl":"Negative"}
+,{"time":"14:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 14:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"20:28","usr":"AKPalit","txt":"#popcap reportedly pulling games from #google+. Still a mystery what use the social network really is. $goog $ea","lbl":"Negative"}
+]

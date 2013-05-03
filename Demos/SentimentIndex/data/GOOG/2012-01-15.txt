@@ -1,0 +1,8 @@
+[
+{"time":"1:28","usr":"Nortroll","txt":"Reading $goog 10k. Remarkable company and financials. Still can\u0027t stand the phonies who started it.","lbl":"Positive"}
+,{"time":"1:36","usr":"howardlindzon","txt":"OH man....really not liking being forced into new gmail design...not happy and lost so far ... $goog","lbl":"Negative"}
+,{"time":"7:09","usr":"macroaxis","txt":"Google Inc $GOOG Slightly Dropping. Google Appoints Former VMware CEO To Board: http://t.co/LhhBKazM","lbl":"Negative"}
+,{"time":"7:38","usr":"bored2tears","txt":"Rupert Murdoch takes to Twitter to blast Google, Obama on piracy. http://t.co/j7HnlFDz $GOOG $NWSA #media #PIPA #SOPA","lbl":"Negative"}
+,{"time":"7:39","usr":"PanosM_GR","txt":"RT @businessinsider: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/no4LjF1D","lbl":"Negative"}
+,{"time":"21:31","usr":"BreezeTrading","txt":"$GOOG Acting well only down $50 per share. Hold you\u0027re winners. $STUDY","lbl":"Positive"}
+]

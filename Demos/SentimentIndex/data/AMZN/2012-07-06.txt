@@ -1,0 +1,12 @@
+[
+{"time":"0:26","usr":"Alejandroperez","txt":"RT @AlexOsterwalder: hmmm... RT @SAI: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/NDtrkZaG #bmgen","lbl":"Positive"}
+,{"time":"5:46","usr":"TrendRida","txt":"Commented on StockTwits: I\u0027m not a fan of $goog or $amzn\u0027s strategy outside of their product. http://t.co/zJyfJyQ4","lbl":"Negative"}
+,{"time":"5:49","usr":"TrendRida","txt":"Commented on StockTwits: gun to the head would choose $amzn over $goog. Since AMZN knows how thrive on low margins. http://t.co/8r6NIbFC","lbl":"Positive"}
+,{"time":"6:00","usr":"ronin245","txt":"$AMZN frisky as always, longs worked but fades as well , 230 & 229 yest , topping action? Scalp trading paradise, emphasis to short here","lbl":"Negative"}
+,{"time":"8:36","usr":"parklandtrader","txt":"@grassosteve $AMZN working well today..","lbl":"Positive"}
+,{"time":"9:00","usr":"LinkedInToday","txt":"Will Amazon compete head-to-head with Apple in smartphone arena? http://t.co/qoPX79gG on @BloombergNews $AMZN $AAPL","lbl":"Positive"}
+,{"time":"9:38","usr":"marketfolly","txt":"So $AMZN first puts out Kindle Fire that hasn\u0027t gained much traction, now wants to create smartphone? http://t.co/TaEArtSS","lbl":"Negative"}
+,{"time":"9:40","usr":"alphabachelor","txt":"RT @marketfolly: So $AMZN first puts out Kindle Fire that hasn\u0027t gained much traction, now wants to create smartphone? http://t.co/TaEArtSS","lbl":"Negative"}
+,{"time":"10:22","usr":"david_putnam","txt":"RT @ppearlman: amazing that $AMZN can just decide to build a phone & meanwhile $RIMM cant build one to save its life. $RIM.CA","lbl":"Positive"}
+,{"time":"11:45","usr":"ryanNseal","txt":"RT @jonmilani: What does it say when $AMZN\u0027s entire digital content business model, from a revenue standpoint, is an afterthought to $AAPL?","lbl":"Negative"}
+]

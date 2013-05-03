@@ -1,0 +1,8 @@
+[
+{"time":"8:45","usr":"DividendMaster","txt":"I begin to believe a serious miss at $AMZN with a $CMG style plunge may be catalyst for a massive broad market plunge","lbl":"Negative"}
+,{"time":"10:11","usr":"takingstock614","txt":"Looking to short $AMZN based of 15min. I\u0027ll give it time but I think it moves lower here.","lbl":"Negative"}
+,{"time":"11:00","usr":"joseisaac85","txt":"RT @firstadopter: $GS analyst lowers $AMZN 2012 Kindle e-reader forecast to -50% y/y vs. +17% y/y prior. Ridiculous it took them this long to admit reality","lbl":"Negative"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:47pm: 223.05 -5.24 (-2.30%).","lbl":"Negative"}
+,{"time":"13:50","usr":"xkneelb4mex","txt":"$amzn is helping employees train for another job http://t.co/cm1Diutk i like amazon a lot more.","lbl":"Positive"}
+,{"time":"13:54","usr":"firstadopter","txt":"RT @TechCrunch $GOOG Nexus 7 Is Already Posting \u0027Impressive Usage Figures,\u0027 Could Catch Up With $AMZN Kindle Fire soon http://t.co/tmt8GvRU","lbl":"Negative"}
+]

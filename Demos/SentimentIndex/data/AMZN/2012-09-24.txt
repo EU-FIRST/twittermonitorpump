@@ -1,0 +1,6 @@
+[
+{"time":"1:50","usr":"USwwwStocks","txt":"$AMZN News: Wal-Mart opts to stop selling Amazon\u0027s Kindle http://t.co/qUEEKKQF #AMZN #Amazonamp39s #Kindle","lbl":"Negative"}
+,{"time":"9:44","usr":"danshep55","txt":"$amzn took .20 loss ..","lbl":"Negative"}
+,{"time":"14:13","usr":"SPEQL8R","txt":"If $AAPL and $AMZN do not fill morn gaps after gapping down = bearish","lbl":"Negative"}
+,{"time":"17:49","usr":"RealCrystalBall","txt":"California has started collecting sales tax on http://t.co/ny2DCLa9 purchases by its residents http://t.co/Cbqfmkiv $AMZN #Stocks","lbl":"Negative"}
+]

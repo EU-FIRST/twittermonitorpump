@@ -1,0 +1,10 @@
+[
+{"time":"0:31","usr":"StocksMD","txt":"RT @bramsal: $FB new facebook IPO could push tech higher. Looking at some key players like $LNKD $ORCL $AAPL $GOOG $AMZN","lbl":"Positive"}
+,{"time":"9:13","usr":"Chris_W_Jones","txt":"RT @rtrswalibarr: LivingSocial lost over half a billion dollars last year - so says Amazon $AMZN in its 10K http://t.co/n9ANcOYO","lbl":"Negative"}
+,{"time":"9:39","usr":"taddpole","txt":"stopped out other 3/10 $AMZN from yesterday at 177.35 (0.84 gain) - still holding long term (1/3 size) from 181.75","lbl":"Negative"}
+,{"time":"11:40","usr":"SeekingAlpha","txt":"5 Buys And 1 Sell To Beat The S&P http://t.co/RUUXUky8 $AMZN $BSX $MSFT $RIMM $TXN $XOM","lbl":"Positive"}
+,{"time":"12:11","usr":"jokru","txt":"RT @asymco: The difference in pricing btwn $AMZN and $AAPL is that one is seen as a monopoly and the other as a commodity. Trouble is they are reversed.","lbl":"Positive"}
+,{"time":"12:13","usr":"robertt627","txt":"RT @BrianSozzi: @retailxpert: I think that Amazon swoon is much deserved. They are fundamentally misfiring on margins and communicating to Street. $AMZN","lbl":"Negative"}
+,{"time":"15:02","usr":"Mainelydistress","txt":"looking at Feb 18 170-180 call spread $amzn for 6.80..","lbl":"Positive"}
+,{"time":"15:46","usr":"MrSteveLee","txt":"@Trending123 I probably would have sold $amzn on the open if I hadn\u0027t talked with you..lol.","lbl":"Negative"}
+]

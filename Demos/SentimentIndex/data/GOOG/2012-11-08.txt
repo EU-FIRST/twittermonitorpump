@@ -1,0 +1,15 @@
+[
+{"time":"10:13","usr":"PeterRumble1","txt":"$NFLX $GMCR $QCOR $SRPT $ZGNX -all very bullish in the portfolio and running when $AAPL $GOOG are falling everyday","lbl":"Negative"}
+,{"time":"10:13","usr":"Jon_Gatzby","txt":"$GOOG, if it leaves the 665 area, shorting to next level 662.","lbl":"Negative"}
+,{"time":"12:13","usr":"Davidrbiggs","txt":"@jmaskell personally still prefer $GOOG to $AAPL and for the real win $DPZ","lbl":"Positive"}
+,{"time":"12:13","usr":"RinehartMaria","txt":"$GOOG just broke thru long term support, yikes!","lbl":"Negative"}
+,{"time":"13:46","usr":"berkutchitweet","txt":"RT \u0022@howardlindzon: Can I call a timeout...woozy from the beating $AAPL and $GOOG are delivering to my fund\u0022","lbl":"Negative"}
+,{"time":"14:35","usr":"Equitykingkong","txt":"$GOOG: sold short 100 weekly 660c @ 2.30-1.45","lbl":"Negative"}
+,{"time":"14:39","usr":"Carnageabinitio","txt":"Shares halted on circuit breaker pending news...then superbreakout.This is it $GOOG buys $VRNG that\u0027s 790 sealed document imo.new high!","lbl":"Positive"}
+,{"time":"15:25","usr":"GangnamFail","txt":"Android is #spyware! WIth that in mind, people should use @windowsphone 8 and make $goog stock go down!","lbl":"Negative"}
+,{"time":"15:59","usr":"The_FifeX","txt":"RT @jaltucher: @nj_joejoe the results were great: $GOOG guilty and $VRNG makes $600-800mm","lbl":"Negative"}
+,{"time":"17:27","usr":"RDeanon","txt":"RT @msdestyni69: \u0022@jaltucher: @nj_joejoe the results were great: $GOOG guilty and $VRNG makes $600-800mm\u0022/Is this AWESOME or what?! Good to hear from James!","lbl":"Negative"}
+,{"time":"18:49","usr":"PeterWolf405","txt":"$AAPL (Re:Oct 31 tweet), $GOOG Great buying opp under $500 possible ? http://t.co/XvijvSW0 #AAPL #stockaction #stocks","lbl":"Positive"}
+,{"time":"18:52","usr":"IntangibleValue","txt":"Google\u0027s Glory Days Are Ahead Of It http://t.co/uKJ71mcw $GOOG","lbl":"Negative"}
+,{"time":"21:46","usr":"gordonBIGAPPLE","txt":"waiting for the big sell off so I can buy $GOOG cheaper. #FiscalCliff #Bull #Nexus #Android","lbl":"Negative"}
+]

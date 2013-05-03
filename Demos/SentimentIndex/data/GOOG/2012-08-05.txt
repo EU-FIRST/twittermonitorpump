@@ -1,0 +1,4 @@
+[
+{"time":"10:59","usr":"shoot2win","txt":"RT @sspencer_smb: I\u0027ve had Nexus 7 for a week. Awesome product. Superior OS to IPad. Ridiculous price point of $199. Expect $aapl response soon. $goog","lbl":"Positive"}
+,{"time":"15:53","usr":"ChartMoMo","txt":"@greenjaytrading I\u0027ve been lights out (knock on wood) coming into this week long $goog about 10% invested. Looking for higher or (cont)","lbl":"Positive"}
+]

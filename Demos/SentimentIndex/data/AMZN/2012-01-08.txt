@@ -1,0 +1,5 @@
+[
+{"time":"1:15","usr":"newt_funny_man","txt":"Amazon Box Will Not Reach Destination http://t.co/DQoAzLI1 $amzn #fail","lbl":"Negative"}
+,{"time":"16:17","usr":"educofin","txt":"http://t.co/otyTURr8 This Sleeping Beauty ($AMZN) is Ready to Wake-Up #heikinashi #trading #trendfollowing #worden","lbl":"Positive"}
+,{"time":"20:38","usr":"danshep55","txt":"$amzn on watch this week 184.80 range break 1st tgt 190.87 upper bolly then 194.61 50day supply","lbl":"Positive"}
+]

@@ -1,0 +1,7 @@
+You should create a symbolic link named "cmn".
+
+Use the following command:
+mklink /D cmn <path_to_common_libs>
+
+For example:
+mklink /D cmn C:\Work\JsLibs\min

@@ -1,0 +1,10 @@
+[
+{"time":"8:17","usr":"SJosephBurns","txt":"I am going into this morning long $AAPL with calls, short $GOOG with puts, and short $AMZN stock. This should be interesting, today.","lbl":"Negative"}
+,{"time":"9:36","usr":"RaginCajun","txt":"$AMZN finally cracking","lbl":"Negative"}
+,{"time":"9:36","usr":"trader_paradise","txt":"$AMZN puts paying","lbl":"Negative"}
+,{"time":"10:16","usr":"basilnsage","txt":"$AMZN nice bounce off double bottom","lbl":"Positive"}
+,{"time":"13:34","usr":"jaykza","txt":"$AMZN in some serious trouble","lbl":"Negative"}
+,{"time":"14:16","usr":"rodeubanks","txt":"@jimcramer What is up with $AMZN? Sell?","lbl":"Negative"}
+,{"time":"15:06","usr":"trader_paradise","txt":"$AMZN weekly 180 puts paid nearly 150% intraday","lbl":"Negative"}
+,{"time":"16:10","usr":"Tradesight","txt":"Nice #trading winners in #stocks today from our calls, incl $AMZN and $TEVA. Read the recap here about the #markets: http://t.co/dxvICy6C","lbl":"Positive"}
+]

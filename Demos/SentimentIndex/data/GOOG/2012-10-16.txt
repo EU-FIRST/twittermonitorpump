@@ -1,0 +1,16 @@
+[
+{"time":"6:41","usr":"aradchenko1","txt":"$VRNG vs $GOOG today","lbl":"Negative"}
+,{"time":"9:04","usr":"DHSBusiness","txt":"RT @businessinsider: 9 Android Features That Blow iPhone Out Of The Water $GOOG $AAPL by @_dtl http://t.co/HWAIXLzh","lbl":"Positive"}
+,{"time":"9:44","usr":"tulipmania1636","txt":"RT @ppprophet: SELL $GOOG The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
+,{"time":"10:23","usr":"srisri55","txt":"$AAPL above 641 $GOOG above 742 $PCLN above 600. Life back to normal?","lbl":"Positive"}
+,{"time":"10:25","usr":"TraderPlanet","txt":"RT @SJosephBurns: $GOOG rejected at the 5 day ema line. $AAPL just holding above its 5 day ema line","lbl":"Negative"}
+,{"time":"12:30","usr":"Squirkler","txt":"RT @theroamingRome: @CNBC is the $VRNG vs $GOOG trial going to get any coverage on CNBC?","lbl":"Negative"}
+,{"time":"13:38","usr":"tlmontana","txt":"$GOOG I am going to watch price action on earnings day... but preliminary (given idiosyncratic and market view) going to say SHORT... UGH","lbl":"Negative"}
+,{"time":"15:00","usr":"StockMarket411","txt":"Yahoo CEO raids Google to hire top lieutenant $goog http://t.co/ItGNzkS9 goog, google, google stock, news","lbl":"Negative"}
+,{"time":"15:37","usr":"jamesmdowns","txt":"Time to get out of $GOOG: Desktop search declines for first time ever, and mobile ads don\u0027t pay nearly as well: http://t.co/5XUkPhXN","lbl":"Negative"}
+,{"time":"15:37","usr":"howardlindzon","txt":"$GOOG has disappointed analysts so many times that now every analyst I read says sell into earnings ... hmmm (not me)","lbl":"Positive"}
+,{"time":"16:22","usr":"tlmontana","txt":"RT @MOFinancial: RT @howardlindzon: $GOOG has disappointed analysts so many times that now every analyst I read says sell into earnings ... hmmm (not me)","lbl":"Positive"}
+,{"time":"17:28","usr":"josealivivas","txt":"Agree RT @SeekingAlpha: Expectations Are High For Google http://t.co/SsiAgnR4 $AAPL $GOOG","lbl":"Positive"}
+,{"time":"18:54","usr":"3Bronco","txt":"RT @shibley: $VRNG: paid $3.2M, asking for $493M + future royalties $GOOG: paid $0, made $67B","lbl":"Positive"}
+,{"time":"21:01","usr":"rrshasss","txt":"$GOOG open interest. 800 call still trumps all other strikes. http://t.co/Jt7cI98N","lbl":"Positive"}
+]

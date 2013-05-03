@@ -1,0 +1,34 @@
+[
+{"time":"8:35","usr":"takingstock614","txt":"Closed out some $AAPL $GOOG calls.","lbl":"Positive"}
+,{"time":"8:36","usr":"TheGingi","txt":"$GOOG bought Frommers yesterday for $23 million, and its market cap increased by some $5 BILLION. Amazing.","lbl":"Positive"}
+,{"time":"8:57","usr":"Caveman_Trader","txt":"$GOOG rel strength","lbl":"Positive"}
+,{"time":"8:57","usr":"Crap_Trader","txt":"@racernic I have this feeling its about to take off.... $GOOG. thought I\u0027d be safe and close it now.","lbl":"Positive"}
+,{"time":"9:07","usr":"berkutchitweet","txt":"Been long $GOOG for three weeks now. That is definitely the longest duration trade I\u0027ve had on in forever (3 months!). \u0027Bout time.","lbl":"Positive"}
+,{"time":"9:24","usr":"Jamtrades","txt":"Commented on StockTwits: yea... Thats why i added to my watchlist. frankly, $AAPL and $GOOG are overbought. We have ... http://t.co/oOJgfTMm","lbl":"Negative"}
+,{"time":"9:25","usr":"PingDev","txt":"RT @SAI: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/vBY1B6Pg","lbl":"Positive"}
+,{"time":"9:45","usr":"poonisms","txt":"RT @SAI: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/vBY1B6Pg","lbl":"Positive"}
+,{"time":"9:46","usr":"Jamtrades","txt":"$GOOG is about t o make a new 52 wk high... but caution.. This puppy is over bought","lbl":"Positive"}
+,{"time":"9:46","usr":"drfager","txt":"We were told by analysts that the $GOOG purchase of Motorola was stupid, we were told Europe is hurting $GOOG, leaving China was a bodyblow","lbl":"Negative"}
+,{"time":"9:55","usr":"stockrover","txt":"@StockTwits we say the rise in $GOOG is real, and past patterns predict this. See http://t.co/4mVpAy7h for the reasoning","lbl":"Positive"}
+,{"time":"10:10","usr":"BigE_007","txt":"So mad at myself for missing $GOOG","lbl":"Positive"}
+,{"time":"10:13","usr":"Stock4Doc","txt":"$GOOG. Just put on a short in GOOG (Bought $560 puts) for a trade. Very overbought","lbl":"Negative"}
+,{"time":"10:40","usr":"LuckyDoubleDog","txt":"yesterday I bought some $JPM, $PFE & $GOOG today I bought some $BMY $31.56, $LLY & $YUM","lbl":"Positive"}
+,{"time":"11:00","usr":"HumOnTheMarkets","txt":"Google looking to close at 4.5-year high today. This quarter Google outperforming Apple: $GOOG +16%, $AAPL +9%","lbl":"Positive"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $AAPL -7%, $GOOG -8%, $GOOG -8%, $AAPL -7% http://t.co/uBJyhJcD","lbl":"Negative"}
+,{"time":"11:27","usr":"Robbcarpdm","txt":"$goog sold my puts $669 $13.80 plus$3","lbl":"Positive"}
+,{"time":"11:27","usr":"wlamar91","txt":"RT @CNBC: This quarter Google outperforming Apple: $GOOG +16%, $AAPL +9% (via @HumOnTheMarkets)","lbl":"Positive"}
+,{"time":"11:28","usr":"TradetheLeader1","txt":"$GOOG likely to rest after this big run. May setup again giving an opportunity to add more.","lbl":"Negative"}
+,{"time":"11:49","usr":"KickLaunch","txt":"RT @CNBCnow: $GOOG is currently above its January \u002712 high of $668.28. If it ends day above that level, it will close at its highest level in 4.5 years.","lbl":"Positive"}
+,{"time":"11:49","usr":"JFinDallas","txt":"Right on the money call ! nice @bt24_7 $GOOG above the March highs may very well be a VERY interesting short today","lbl":"Negative"}
+,{"time":"11:49","usr":"GreenHedges1","txt":"RT @Fitzstock2004: i am now 100% cash.......took all $aapl $goog and $fb profits......GL to all","lbl":"Negative"}
+,{"time":"12:19","usr":"jblukin","txt":"For the 4th year in a row, $GOOG continues its Q3 run. https://t.co/99NErrf5 (Full Disclosure: Long)","lbl":"Positive"}
+,{"time":"12:19","usr":"deliciousAAPL","txt":"$AAPL $SPY losing strength/momentum as well... $GOOG(also very oversold) is inching lower... SHORT is the current trend","lbl":"Negative"}
+,{"time":"13:04","usr":"pnani456","txt":"@RedDogT3Live your $aapl $goog tweets on this break out and run up - priceless!","lbl":"Positive"}
+,{"time":"13:59","usr":"takingstock614","txt":"I would not initiate positons in $AAPL $GOOG up here. Come too far too fast. It would not be responsible trading.","lbl":"Negative"}
+,{"time":"14:52","usr":"RedDogT3Live","txt":"Today is a day to lighten up. Came in long 3 names was out of all three by 12:30. I did tweet it. Out of $AAPL $GOOG and $gs.","lbl":"Negative"}
+,{"time":"14:54","usr":"RedDogT3Live","txt":"RT @pnani456: @RedDogT3Live your $aapl $goog tweets on this break out and run up - priceless!","lbl":"Positive"}
+,{"time":"15:51","usr":"APCommentary","txt":"RT @CNBCnow: Third Point takes new stakes in $AAP. $AET, $AIG, $COG, $CHK; dissolves $ANF, $SYY, $DVN, $GOOG, $GS, $WFC stakes","lbl":"Negative"}
+,{"time":"15:53","usr":"agendabursatil","txt":"$SPX $COMPQ $INDU $AAPL $JPM $GOOG time to be short ??? http://t.co/NKWwsKoQ http://t.co/R3eryGLR","lbl":"Negative"}
+,{"time":"19:16","usr":"paulwoll","txt":"@RickyRoma0 - $GOOG may be able to streamline this part and make it more cost effective.. Not just businesses. But users of groupon too.","lbl":"Positive"}
+,{"time":"22:28","usr":"DeidreZune","txt":"$AAPL will soon best its all time high..............joining $GOOG","lbl":"Positive"}
+]

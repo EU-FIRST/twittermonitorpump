@@ -1,0 +1,13 @@
+[
+{"time":"3:28","usr":"nabilkhan17","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
+,{"time":"3:30","usr":"JavierdelSol","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/LkH5t7Kv $APPL $GOOG","lbl":"Negative"}
+,{"time":"7:24","usr":"ajaymathuram","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
+,{"time":"7:25","usr":"SAI","txt":"Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/dU0l8Umf","lbl":"Negative"}
+,{"time":"7:51","usr":"1creative_mf","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
+,{"time":"7:57","usr":"YuldenErwin","txt":"RT \u0022@businessinsider: Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/CzrdCRKZ\u0022","lbl":"Negative"}
+,{"time":"11:15","usr":"joey_volpe","txt":"RT @firstadopter: .@outlawz616 The key $AAPL patents the jury said were infringed are part of the $GOOG Android OS, not a Samsung specific thing","lbl":"Negative"}
+,{"time":"13:21","usr":"DeidreZune","txt":"$AAPL Win is a #GAMECHANGER. Mueller:\u0022$GOOG cannot stop $AAPL. It is now on the run & will have to scramble to make software changes\u0022","lbl":"Negative"}
+,{"time":"13:44","usr":"m_cof","txt":"Apple\u0027s victory sends fear through Android ecosystem: http://t.co/zz8bwtsB via @WSJ $AAPL $GOOG","lbl":"Negative"}
+,{"time":"23:00","usr":"redman59","txt":"@paulwoll nice note & was thinking the same w/$AAPL & $GOOG, especially given recent run in $GOOG","lbl":"Positive"}
+,{"time":"23:16","usr":"TraderDR","txt":"@a_bh_a not an $AAPL fan but $GOOG had it coming, just wish they had to pay instead","lbl":"Negative"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"6:54","usr":"AAinslie","txt":"Zynga has transitioned from Amazon Web Services to its own Citrix-enabled Z-Cloud. http://t.co/OFhK1zhw /via @natishalom #AWS $AMZN","lbl":"Negative"}
+,{"time":"14:13","usr":"herbgreenberg","txt":"huge. shows cloud=commodity RT @firstadopter $AMZN largest web services customer $ZNGA moves from AMZN to own cloud services offering","lbl":"Negative"}
+,{"time":"14:16","usr":"JasonRaznick","txt":"RT @firstadopter: $AMZN largest web services customer $ZNGA decides to move away from AMZN and compete with own cloud services offering: http://t.co/DQRJ2RAo","lbl":"Negative"}
+,{"time":"17:27","usr":"leopardtrader","txt":"we remain bullish risks after shallow selloff early last week. We are buyers of dips. $EURUSD $SPX $AMZN","lbl":"Positive"}
+,{"time":"17:42","usr":"CapCube","txt":"@firstadopter wow ! $AMZN has a lot going wrong for it ... What is going right to justify 170 PE ?","lbl":"Negative"}
+]

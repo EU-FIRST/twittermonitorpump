@@ -1,0 +1,4 @@
+[
+{"time":"11:05","usr":"dmackdaddy","txt":"Whoa, Santa Ditches Google For Microsoft! $GOOG $MSFT http://t.co/vcYReWno","lbl":"Negative"}
+,{"time":"14:23","usr":"buckandrews","txt":"Chart shows resistance around 700, @chartanalyst $GOOG JAN-04-13 720/710 BEAR CALL SPREAD (18 DAYS). #deckfolio http://t.co/C1uGxUs9","lbl":"Negative"}
+]

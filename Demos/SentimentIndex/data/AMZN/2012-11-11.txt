@@ -1,0 +1,3 @@
+[
+{"time":"19:12","usr":"sssc","txt":"$SBUX $AMZN $GGOG - to face UK lawmakers over tax - Reuters http://t.co/yU8TIDZx","lbl":"Negative"}
+]

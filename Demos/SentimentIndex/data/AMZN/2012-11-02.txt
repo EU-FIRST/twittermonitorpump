@@ -1,0 +1,7 @@
+[
+{"time":"7:55","usr":"BWB79","txt":"RT @newsagg Decent warning for $AMZN buyers http://t.co/1EIzm6vy","lbl":"Negative"}
+,{"time":"11:47","usr":"joebuff427","txt":"@jimcramer went to apple today, picked up the mini; in and out less than 2 minutes. Flawless #execution. Game changer too, $AMZN worried?","lbl":"Negative"}
+,{"time":"12:35","usr":"MValdarno","txt":"RT @SeekingAlpha: http://t.co/NHzcEPqH, Netflix And 8 Other Overvalued Stocks In The S&P 500 http://t.co/vpa5tWQc $AMZN $CRM $ISRG $NFLX $WFM $CMG","lbl":"Negative"}
+,{"time":"14:27","usr":"OptionAlarm","txt":"$AAPL is done. Now we need $AMZN and $GOOG to flush out too.","lbl":"Negative"}
+,{"time":"21:46","usr":"BigTicks","txt":"$AMZN News: http://t.co/0pEXC5uk, Netflix and 8 Other Overvalued Stocks in the S&P 500 http://t.co/sk76232L #Amazoncom #AMZN #Netflix","lbl":"Negative"}
+]

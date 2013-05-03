@@ -1,0 +1,16 @@
+[
+{"time":"2:02","usr":"TradeAgainst","txt":"@howardlindzon $GOOG is a money printing machine for its employees, not investors. $AAPL on the other hand...","lbl":"Negative"}
+,{"time":"2:04","usr":"scalamai","txt":"#Google\u0027s Focus On Beating #Facebook Is Wrecking The Company, Says This Former Engineer by @MattRosoff http://t.co/FaLjkTsO $GOOG #in","lbl":"Negative"}
+,{"time":"2:23","usr":"Johnboy23233","txt":"RT @howardlindzon: Ouch... $goog http://t.co/MsUfbJ00 (no position)","lbl":"Negative"}
+,{"time":"9:19","usr":"TweetLeni","txt":"Took profits of additional shares only in $GOOG at target 621.36 Still own core long shares with market money. Free trade","lbl":"Positive"}
+,{"time":"9:19","usr":"tjtakes","txt":"$GOOG 621.. almost 622. move stop up to 619.75","lbl":"Positive"}
+,{"time":"9:19","usr":"NoDoji","txt":"$GOOG breakout","lbl":"Positive"}
+,{"time":"11:23","usr":"alexferrara","txt":"Regretting my decision last week to sell $AAPL and buy $GOOG.","lbl":"Negative"}
+,{"time":"11:29","usr":"wallstCS","txt":"Google Targeted in FTC Investigation http://t.co/s2ga0fzn $GOOG $AAPL $MSFT #mkt #trading","lbl":"Negative"}
+,{"time":"13:24","usr":"KaylaRLambert","txt":"RT @CNNMoneyMarkets: $MSFT is gaining on $GOOG and $IBM has stolen the lead from $F. #MarchStockMania","lbl":"Negative"}
+,{"time":"13:26","usr":"LaMonicaBuzz","txt":"RT @CNNMoneyMarkets: $IBM\u0027s lead is growing over $F - last year\u0027s winner. $GOOG is finally breaking away from $MSFT. #MarchStockMania","lbl":"Positive"}
+,{"time":"16:47","usr":"stocktsogo65","txt":"$GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/poZi9TxI","lbl":"Positive"}
+,{"time":"16:51","usr":"daytrend","txt":".@krupy113 yes, $GOOG 9/21/2007 leg, good example of an exponential trend with full retracement $spy $es_f","lbl":"Negative"}
+,{"time":"19:11","usr":"USwwwStocks","txt":"$GOOG News: [$$] Glenn Beck Rallies Troops For Revolution Against TV http://t.co/vGZhyFuJ #internet #daytrading #stocks","lbl":"Positive"}
+,{"time":"23:50","usr":"ReneLopezMBA","txt":"One @Google $GOOG exec claims: #Google was a great place to work, nit anymore - http://t.co/eY1A819Q","lbl":"Negative"}
+]

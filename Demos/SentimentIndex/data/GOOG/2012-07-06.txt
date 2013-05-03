@@ -1,0 +1,8 @@
+[
+{"time":"7:24","usr":"salespop","txt":"RT @SAI_Tools: Judge Who Tossed Out Apple/Motorola Lawsuit Says Tech Companies Are \u0027Animals\u0027 $AAPL $GOOG by @Julie188 http://t.co/aUzI1CpQ","lbl":"Negative"}
+,{"time":"11:02","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Why Amazon (AMZN) Isn\u0027t Ready to Compete With Apple (AAPL), Nokia (NOK ...: Why Amazon (AMZN) Isn\u0027t Ready... http://t.co/iYpoeRrB","lbl":"Negative"}
+,{"time":"12:42","usr":"BlueFielder","txt":"$GOOG about to open the hatch to 580","lbl":"Positive"}
+,{"time":"14:00","usr":"thefinancepress","txt":"$GOOG 5 Dividend Stocks To Buy And Hold Forever: 5 Dividend Stocks To Buy And Hold Forever Seeking Alpha - 6 mi... http://t.co/rNhPc3wC","lbl":"Positive"}
+,{"time":"18:30","usr":"BigTicks","txt":"$GOOG News: 5 Dividend Stocks To Buy And Hold Forever http://t.co/gARTehZG #GOOG #Dividend #Forever","lbl":"Positive"}
+,{"time":"18:32","usr":"ADVFNplc","txt":"$GOOG - Google Seeks $4 Million From Oracle for Trial Costs http://t.co/znVzo5z2","lbl":"Negative"}
+]

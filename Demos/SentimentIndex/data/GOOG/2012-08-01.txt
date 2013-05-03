@@ -1,0 +1,11 @@
+[
+{"time":"4:00","usr":"itworks","txt":"Google boosts productivity by being creative with its work environments (photos of Google offices) http://t.co/Meady5eN $GOOG","lbl":"Positive"}
+,{"time":"6:29","usr":"Harri8t","txt":"The world\u0027s most succesful digital media companies - $GOOG tops the list, $FB misses top 10... http://t.co/8GFEo7Jc","lbl":"Positive"}
+,{"time":"7:56","usr":"SJosephBurns","txt":"I am still long $AAPL & $GOOG in the money call options going into this morning. So far looking good in the premarket.","lbl":"Positive"}
+,{"time":"12:04","usr":"WordStream","txt":"RT @LinkedInToday: Gotta find someone? This guy turned Google Search into a powerful people search tool http://t.co/EBvnxyXl on @wordstream $GOOG","lbl":"Positive"}
+,{"time":"12:51","usr":"TradetheLeader1","txt":"Intraday charts looking sharp..possible entry point above $640 $GOOG","lbl":"Positive"}
+,{"time":"13:20","usr":"thefinancepress","txt":"$GOOG Google (GOOG) Decides to Stop Nexus Q Shipments over Bad Reviews: Google (GOOG) Decides to Stop Nexus Q S... http://t.co/jDEEcnxM","lbl":"Negative"}
+,{"time":"22:03","usr":"sethcarl","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"22:05","usr":"arlandu","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"22:06","usr":"kpooya","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+]

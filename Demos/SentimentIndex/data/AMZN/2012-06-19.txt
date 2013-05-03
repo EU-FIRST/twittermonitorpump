@@ -1,0 +1,6 @@
+[
+{"time":"9:15","usr":"TweetLeni","txt":"$AMZN should hit 230 Staying long","lbl":"Positive"}
+,{"time":"12:43","usr":"newsagg","txt":"$AMZN 10d60m has moved higher in last 4 hours giving more room for upside http://t.co/Rtg5hUyz","lbl":"Positive"}
+,{"time":"12:43","usr":"ankypanky25","txt":"How high will you go $AMZN...i will sell if u go up to $228...#amazing","lbl":"Positive"}
+,{"time":"23:09","usr":"numberonetell","txt":"$FB, still waiting to pick my short. $AMZN, same. $EWZ may soon be a screaming long. http://t.co/3O6kSJv1 charts.","lbl":"Negative"}
+]

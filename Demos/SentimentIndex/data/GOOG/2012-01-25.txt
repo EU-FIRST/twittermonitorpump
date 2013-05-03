@@ -1,0 +1,23 @@
+[
+{"time":"0:32","usr":"EthertonSwitch","txt":"$GOOG http://t.co/vaizc5KM $GOOG near support, and is close to 50% fib line","lbl":"Positive"}
+,{"time":"6:18","usr":"InFullBloomUS","txt":"RT @ekolsky: $AAPL makes more profit in one quarter than $GOOG has in revenue, has more cash-at-hand than 200 countries -- and they pay almost no taxes?","lbl":"Negative"}
+,{"time":"6:36","usr":"INIDena","txt":"Amazing! RT @SAI Apple\u0027s PROFIT Was Higher Than Google\u0027s REVENUE Last Quarter $GOOG $AAPL by @mattlynley http://t.co/7JuXLmqd","lbl":"Negative"}
+,{"time":"9:10","usr":"itbot1","txt":"RT@SAI BOOM: Apple Passes Android To Take The Market Share Lead In The U.S., Says Kantar $GOOG $AAPL by @jyarow http://t.co/bd25Uu2t","lbl":"Negative"}
+,{"time":"9:10","usr":"ValaAfshar","txt":"Apple\u0027s U.S. market share passes Android http://t.co/z5d4UjGQ $AAPL $GOOG","lbl":"Negative"}
+,{"time":"9:10","usr":"andyabramson","txt":"RT @SAI: BOOM: Apple Passes Android To Take The Market Share Lead In The U.S., Says Kantar $GOOG $AAPL by @jyarow http://t.co/JdsXtqcK","lbl":"Negative"}
+,{"time":"9:41","usr":"CitizenGunner","txt":"RT @businessinsider: BOOM: Apple Passes Android To Take The Market Share Lead In The U.S., Says Kantar $GOOG $AAPL by @jyarow http://t.co/t6buE13i","lbl":"Negative"}
+,{"time":"9:42","usr":"powerpoints_net","txt":"$GOOG gap #1 down to 474.27 filled. Gap #2 down to $559.00 is next","lbl":"Positive"}
+,{"time":"9:57","usr":"rogerchucker","txt":"@jimcramer why do you hate $GOOG so much?","lbl":"Negative"}
+,{"time":"10:16","usr":"racernic","txt":"$GOOG entry now would be good. this dip likely exaggerated by the piling into $AAPL. will wait a bit and sell few safe feb put spreads soon","lbl":"Positive"}
+,{"time":"10:52","usr":"dschorrnyc","txt":"Is $goog down on this privacy thing? Or is it also that $aapl is crushing it?","lbl":"Negative"}
+,{"time":"12:01","usr":"RaviRomo","txt":"Look for $GOOG to be SOURCE of CASH as $AAPL rises into the next few months and $FCBOOK IPO arrives.","lbl":"Positive"}
+,{"time":"12:29","usr":"MichaelShinder","txt":"Damn crazy action slapping $goog all over","lbl":"Negative"}
+,{"time":"12:30","usr":"thefinancepress","txt":"$GOOG Oversold Conditions For Google Inc (GOOG): Oversold Conditions For Google Inc (GOOG) http://t.co/aIQ5o3eM ... http://t.co/d7yMKkxV","lbl":"Positive"}
+,{"time":"13:02","usr":"ppearlman","txt":"@allanbreports fair and good point tho the present search page presently looks much worse and far noisier then it used to. $GOOG","lbl":"Negative"}
+,{"time":"13:39","usr":"IBDinvestors","txt":"RT IBD\u0027s @TrangHoETFs Apple Earnings Surprise Boosts Technology Exchange Traded Funds http://t.co/kNkT1tXB $AAPL $GOOG $IGM","lbl":"Positive"}
+,{"time":"13:39","usr":"wsmco","txt":"@upsidetrader i\u0027m long $GOOG but wanted to give you props for your short call on them day or 2 - and 20 some points ago.","lbl":"Positive"}
+,{"time":"14:16","usr":"DiscoverWallSt","txt":"joepcf: $GOOG 580 W Calls bailed took the loss: joepcf http://t.co/VqpwLr6z","lbl":"Negative"}
+,{"time":"15:24","usr":"Buzz81","txt":"@LiquidBedouin @CAbN but but, Apple\u0027s Profit Was Higher Than Google\u0027s Revenue Last Quarter $GOOG, $AAPL . LOL.","lbl":"Negative"}
+,{"time":"15:24","usr":"iStockAnalyst","txt":"Avoid These 2 High-Yield Stocks -- And Own These 2 Instead $AAPL $CPY $GOOG $HCN $MXM $NHI $NNYP $NOK $NZT $QCOM... http://t.co/qM7Oosro","lbl":"Positive"}
+,{"time":"16:30","usr":"JMDmultimedia","txt":"Google\u2019s Broken Promise http://t.co/qNWOX6DZ $GOOG","lbl":"Negative"}
+]

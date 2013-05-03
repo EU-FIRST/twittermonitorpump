@@ -1,0 +1,10 @@
+[
+{"time":"4:54","usr":"thefinancepress","txt":"$GOOG Google May Face Further UK Action After FCC Privacy Report: Google May Face Further UK Action After FCC P... http://t.co/XzpLsLhK","lbl":"Negative"}
+,{"time":"12:10","usr":"TheEquitiesRoom","txt":"Downside rangebreak short watchlist for tmrw: $LO $GOOG $OVTI $ACN $MENT","lbl":"Negative"}
+,{"time":"15:08","usr":"MassiRonzitti","txt":"RT @TheStreet: Buy Apple and Google Wait On Facebook, Stay Away From Zynga - http://t.co/XEwPPjJi by @RobertWeinstein $AAPL $GOOG $ZNGA","lbl":"Positive"}
+,{"time":"18:22","usr":"MIS_Investors","txt":"We are bearish on $GOOG with the next downside target in the 570 area and pattern target to around 500 http://t.co/YcuguVqV","lbl":"Negative"}
+,{"time":"20:58","usr":"traderblast","txt":"$GOOG GOOG Chart-not looking great. No position. http://t.co/U9Dlc4g5 #WORDEN","lbl":"Negative"}
+,{"time":"20:59","usr":"verryshery","txt":"The Terrifying Ways Google Is Destroying Your Privacy $goog http://t.co/6B3S6phZ","lbl":"Negative"}
+,{"time":"21:02","usr":"itsmeamyme","txt":"The Terrifying Ways Google Is Destroying Your Privacy $goog http://t.co/Mkneydv7","lbl":"Negative"}
+,{"time":"21:04","usr":"marketmavenz","txt":"The Terrifying Ways Google Is Destroying Your Privacy $goog http://t.co/ZtNR8Nhl","lbl":"Negative"}
+]

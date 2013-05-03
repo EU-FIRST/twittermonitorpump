@@ -1,0 +1,13 @@
+[
+{"time":"1:05","usr":"JohncoffeyIRL","txt":"$goog Maps becomes the iOS App Store\u0027s top free app in 7 hours w/a 4.5 star rating!","lbl":"Positive"}
+,{"time":"7:05","usr":"thefinancepress","txt":"$GOOG Google maps to the rescue of Apple Inc- AAPL, GOOG, & HTC: Google maps to the rescue of Apple Inc- AAPL, ... http://t.co/aPxk6Edf","lbl":"Positive"}
+,{"time":"9:54","usr":"BlueFielder","txt":"$GooG Sold ALL of wkly 705 $CALLs @ 1.50 for minus .50","lbl":"Negative"}
+,{"time":"10:39","usr":"Treatise","txt":"RT @businessinsider: Google Has Cool New Way To Find Cheap Plane Tickets $GOOG by @_dtl http://t.co/W4wzz9Yg","lbl":"Positive"}
+,{"time":"10:39","usr":"theHUNGRY__BEAR","txt":"RT @ppprophet: SELL $GOOG The Market will Crash .... .#DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
+,{"time":"11:00","usr":"z8angela","txt":"\u201C@cali_sunnyd: @z8angela @Chunami $goog looks strong today.indicators pointing up! buyers coming in.\u201D- Sell into bounce after reversal bar!","lbl":"Positive"}
+,{"time":"11:00","usr":"TradetheLeader1","txt":"Would like to short $GOOG rallies vs 710ish","lbl":"Negative"}
+,{"time":"12:11","usr":"gabrioni","txt":"@SuperTradeTimer I agree. $GOOG great buy. Better than $AAPL #kapitall","lbl":"Positive"}
+,{"time":"14:49","usr":"noahmp","txt":"$goog bearishness down from October http://t.co/Sljugj5R","lbl":"Negative"}
+,{"time":"15:52","usr":"YWCACleveland","txt":"RT @FortuneMPW: RT @FortuneMagazine Another senior woman leaves Google: SVP Shona Brown. $GOOG http://t.co/gB2sjTqT","lbl":"Negative"}
+,{"time":"16:52","usr":"PuneetKohli_Biz","txt":"Wow. Long $GOOG and long $RIMM vs short $AAPL has been huge over the last few months.","lbl":"Positive"}
+]

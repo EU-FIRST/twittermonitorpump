@@ -1,0 +1,23 @@
+[
+{"time":"7:30","usr":"RainerGrossmann","txt":"#Google\u2019s Schmidt Said to Be Slated for #FTC #Antitrust Deposition http://t.co/0Je0tVkG Bloomberg $GOOG","lbl":"Negative"}
+,{"time":"8:45","usr":"RedDogT3Live","txt":"$GOOG continues lower","lbl":"Negative"}
+,{"time":"8:45","usr":"BlueFielder","txt":"Getting the tar kicked out of me - $GooG","lbl":"Negative"}
+,{"time":"9:20","usr":"JerTignes","txt":"\u201C@berkmh: $AAPL meet $GOOG. once again.\u201D in this race, notice today $goog is sticking@581,5, resistance...","lbl":"Negative"}
+,{"time":"9:22","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Diller Beats Google With World\u0027s Best Web Stock: Riskless Return http://t.co/c1XDCjNy #BIDU #Beats #Best","lbl":"Negative"}
+,{"time":"10:50","usr":"MockTrade","txt":"$AAPL possibly going to cause problems 4 Nazz bears so putting profit stop in on 1/4 $GOOG Sept Puts; still trgting $563ish on rest","lbl":"Negative"}
+,{"time":"12:08","usr":"UdallTechStrat","txt":"$goog I think the Zagat infuses into mobile is a net positive. http://t.co/kRkxBsqc","lbl":"Positive"}
+,{"time":"12:57","usr":"562951413","txt":"All the $AAPL iPhone services I use (mail, music, maps, voice, text, and search) are all run by $GOOG. Guess I already have a Google phone.","lbl":"Positive"}
+,{"time":"14:12","usr":"pennystockguys","txt":"$GOOG - UPDATE: FTC May File Concerns With ITC On Key Standards Patents http://t.co/CjAhpANn","lbl":"Negative"}
+,{"time":"14:12","usr":"ADVFNplc","txt":"$GOOG - UPDATE: FTC May File Concerns With ITC On Key Standards Patents http://t.co/P2vW8bux","lbl":"Negative"}
+,{"time":"14:43","usr":"prosperousguy","txt":"$GOOG Ass Crack bottom alert on GOOG!!! Buy Buy http://t.co/dWWaRVNJ #WORDEN","lbl":"Positive"}
+,{"time":"14:47","usr":"LouiV","txt":"Do No Evil \u201C@SAI Google Could Make $250Million A Year By Sneaking More Paid Ads Into Search Results $GOOG by @Julie188 http://t.co/GBYWqXLd\u201D","lbl":"Positive"}
+,{"time":"16:08","usr":"Buddahfan","txt":"@ZDNet -The judge got the word from the DOJ. Don\u0027t mess with one of #Obama\u0027s largest donors i.e. $GOOG","lbl":"Positive"}
+,{"time":"16:08","usr":"lluccipha","txt":"SAI: RANT: Let\u0027s Just Admit That Google Is Evil Now, Okay? $GOOG by @owenthomas http://t.co/mWPK0f4v","lbl":"Negative"}
+,{"time":"16:09","usr":"ChrisONeill2","txt":"$goog is a big fat buy if it corrects all the way down to 560","lbl":"Positive"}
+,{"time":"16:09","usr":"schachin","txt":"RT @SAI: RANT Let\u0027s Just Admit That Google Is Evil Now, Okay? $GOOG by @owenthomas http://t.co/TgyR1NIq > look up nstic if u want more proof","lbl":"Negative"}
+,{"time":"17:01","usr":"reginad","txt":"RT @SAI: RANT: Let\u0027s Just Admit That Google Is Evil Now, Okay? $GOOG by @owenthomas http://t.co/AH46LZsq","lbl":"Negative"}
+,{"time":"17:03","usr":"stevejspencer","txt":"RT @SAI: JUDGE: Dear Oracle, You\u0027re Not Getting A Dime From Google Over Android $ORCL $GOOG by @Julie188 http://t.co/c1NoN6I6","lbl":"Positive"}
+,{"time":"18:13","usr":"TheAmazingRate","txt":"RT @cnnmoney: Judge deals deathblow to Oracle in Google fight http://t.co/NhS6Y0M3 $ORCL $GOOG","lbl":"Positive"}
+,{"time":"18:14","usr":"mmibooks","txt":"RT @BloombergTV: You\u0027ve heard of .com -- but get ready for .google. Tech titan applies for its own top level domains: http://t.co/bi9YPoFj $GOOG","lbl":"Positive"}
+,{"time":"18:15","usr":"ericjackson","txt":"very interesting and fair $GOOG \u201C@counternotions: \u0022Why I left Google\u0022 http://t.co/dGpkO2ae (The engineer\u0027s POV.)\u201D","lbl":"Negative"}
+]

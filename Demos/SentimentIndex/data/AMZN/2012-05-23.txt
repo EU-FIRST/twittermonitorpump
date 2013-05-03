@@ -1,0 +1,8 @@
+[
+{"time":"9:56","usr":"AndrewhFX","txt":"The leaders not showing any weakness...$AAPL, $GOOG, $FB, $PCLN, $AMZN, $MA and everyone is forgetting about $WMT breakout, limited downside","lbl":"Positive"}
+,{"time":"9:56","usr":"tradeadan","txt":"$AMZN added a wee more.","lbl":"Positive"}
+,{"time":"12:54","usr":"z8angela","txt":"@z8angela Now two weeks later, they say $AAPL nice chart at $561, & $AMZN ugly chart at $214. What will they say in ten days? Trade smart!","lbl":"Negative"}
+,{"time":"13:46","usr":"marketmavenz","txt":"RT @TraderFlorida: Current holdings $AAPL $IWM $AMZN short - $TZA $TWM long (net short) http://t.co/3lbhsqVR","lbl":"Negative"}
+,{"time":"14:12","usr":"josephjpeters","txt":"I\u0027m watching a KPCB partner talk about how great $AMZN is (specifically $AMZN prime). @firstadopter would disagree.","lbl":"Positive"}
+,{"time":"23:12","usr":"takingstock614","txt":"Stocks I still favor for significant downside... $AAPL $PCLN $CMG $MA $V $CAT $JPM $GS $AMZN","lbl":"Negative"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"11:38","usr":"SAI","txt":"A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0BhSBybK","lbl":"Negative"}
+,{"time":"11:40","usr":"tommakau","txt":"RT @SAI: A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0BhSBybK","lbl":"Negative"}
+,{"time":"15:26","usr":"project_mojave","txt":"$GOOG is probably best ticker for investors","lbl":"Positive"}
+,{"time":"15:36","usr":"villav74","txt":"Oh kansas... RT @SAI: A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0O1PRRB9","lbl":"Negative"}
+,{"time":"19:57","usr":"JornBuhring","txt":"RT @SAI: A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0BhSBybK","lbl":"Negative"}
+]

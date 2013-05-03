@@ -1,0 +1,7 @@
+[
+{"time":"7:11","usr":"CescaAntonelli","txt":"Companies risking wrath of voters with growing profit-wage gap? SocGen thinks so http://t.co/mugXN2ta $AMZN $COST","lbl":"Negative"}
+,{"time":"9:55","usr":"prostocktrader","txt":"Observation: $AMZN looks vulnerable on break below 250 down to the 245 zone.","lbl":"Negative"}
+,{"time":"10:21","usr":"MarketCurrents","txt":"Will this year\u0027s holiday shopping season be even more skewed toward online than forecast... http://t.co/MlanmzKl $AMZN $M $DKS $LTD","lbl":"Positive"}
+,{"time":"10:23","usr":"FantasyDayTrade","txt":"RT @MarketCurrents: Will this year\u0027s holiday shopping season be even more skewed toward online than forecast... http://t.co/MlanmzKl $AMZN $M $DKS $LTD","lbl":"Positive"}
+,{"time":"20:47","usr":"Kingston_Trader","txt":"January 185/285 $AMZN Short strangle...for now... http://t.co/YM7EDmzN","lbl":"Negative"}
+]

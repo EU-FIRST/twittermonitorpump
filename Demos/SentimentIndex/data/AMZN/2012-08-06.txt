@@ -1,0 +1,6 @@
+[
+{"time":"9:24","usr":"BanzaiTrader","txt":"I am positioned for a drop in $SPY, $GOOG, $PCLN, and $AMZN before August #OPEX","lbl":"Negative"}
+,{"time":"9:29","usr":"TSCG_","txt":"RT @businessinsider: eBay Is Testing A Same-Day Delivery Service, Beating Amazon To The Punch $AMZN $EBAY - @owenthomas http://t.co/ZVb3NQ72","lbl":"Negative"}
+,{"time":"14:07","usr":"SmartMoney","txt":"RT @jackhough: Why $AMZN probably isn\u0027t worth 200 times earnings: http://t.co/xgDPcMcs","lbl":"Negative"}
+,{"time":"18:51","usr":"KRKRK","txt":"RT @SAI: Amazon Has Gone To War With Zynga With Its Launch Of A Social Game, Living Classics $AMZN $ZNGA by @owenthomas http://t.co/0DBjX4My","lbl":"Negative"}
+]

@@ -1,0 +1,10 @@
+[
+{"time":"7:36","usr":"SAI_Tools","txt":"This Video Shows You Just How Ridiculous Google Glass Is When Used By Normal People $GOOG by @officialKLS http://t.co/LjKCFZog","lbl":"Negative"}
+,{"time":"7:36","usr":"SAI","txt":"This Video Shows You Just How Ridiculous Google Glass Is When Used By Normal People $GOOG by @officialKLS http://t.co/3jLD4p5z","lbl":"Negative"}
+,{"time":"11:47","usr":"AdNewsWorld","txt":"With Nexus 7, $GOOG Finally Gets Android Tablets Right [#REVIEW] http://t.co/bHPTiuZX","lbl":"Positive"}
+,{"time":"13:41","usr":"primary_key","txt":"RT @SAI: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/pIIntp0b","lbl":"Positive"}
+,{"time":"13:45","usr":"bionicV3","txt":"Closing statement is very true RT @SAI: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/sE76YodL","lbl":"Positive"}
+,{"time":"15:51","usr":"KelvinLomboy","txt":"RT @SAI: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/pIIntp0b","lbl":"Positive"}
+,{"time":"19:07","usr":"USwwwStocks","txt":"$GOOG News: Samsung has Google\u0027s backing in fight against Apple http://t.co/j1pBQgKy #GOOG #Against #Apple","lbl":"Positive"}
+,{"time":"23:37","usr":"just4girls1","txt":"RT @businessinsider: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/7JfPvRJR","lbl":"Positive"}
+]

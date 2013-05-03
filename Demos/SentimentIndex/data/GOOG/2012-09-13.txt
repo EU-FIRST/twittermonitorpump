@@ -1,0 +1,14 @@
+[
+{"time":"8:40","usr":"Jskinvest","txt":"$GOOG Gap up today off of rising trend line. BUY. http://t.co/4pkOSTZw #WORDEN","lbl":"Positive"}
+,{"time":"9:25","usr":"AmriCarLoza","txt":"Amazing \u2192RT @SJosephBurns I sold my $GOOG $675 strike call that I bought yesterday for a 60% gain (cont) http://t.co/XVM0bI2h","lbl":"Positive"}
+,{"time":"10:20","usr":"SAI","txt":"In A Dramatic Power Play, Google Allegedly Forces An Android Parter To Cancel A Phone At The Very Last Minute $GOOG http://t.co/L7hBJY2e","lbl":"Negative"}
+,{"time":"10:56","usr":"FOSSpatents","txt":"RT @DeidreZune: $AAPL wins INJUNCTION against $GOOG\u0027s MMI phones in German court http://t.co/inoZpTQR Win involves rubber-banding patent","lbl":"Negative"}
+,{"time":"11:42","usr":"RedDogT3Live","txt":"If ur active take some profits if u bought $goog yesterday. Macro/swing traders. Sit tight","lbl":"Negative"}
+,{"time":"11:42","usr":"DeidreZune","txt":"BULLISH for stocks. Chase for performance on. All skeptics are going to be left on the platform as train pulls out. $SPY $AAPL $GOOG","lbl":"Positive"}
+,{"time":"12:32","usr":"dtahiti","txt":"RT @SAI: In A Dramatic Power Play, Google Allegedly Forces An Android Parter To Cancel A Phone At The Very Last Minute $GOOG http://t.co ...","lbl":"Negative"}
+,{"time":"12:34","usr":"Fibonacciqueen","txt":"$GOOG support holding up, 721.49 still the target....see video from yesterday http://t.co/YDUA4h9w","lbl":"Positive"}
+,{"time":"13:49","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) introduced another amazing tool to search: Google Inc (NASDAQ:GOOG) introduced a... http://t.co/ZQo7csp9","lbl":"Positive"}
+,{"time":"13:55","usr":"paulwoll","txt":"Add 2 $GOOG Sep 22 \u002712 $700 Puts for 5.40","lbl":"Negative"}
+,{"time":"22:18","usr":"redman59","txt":"I love $GOOG Chrome but sometimes it is that love & hate relationship with a psycho ex, can piss you off but when it works it\u0027s awesome","lbl":"Positive"}
+,{"time":"22:19","usr":"dktbb","txt":"Why $goog has been so bullish? any foundamentals change? :S #investing","lbl":"Positive"}
+]

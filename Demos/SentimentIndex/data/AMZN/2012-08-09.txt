@@ -1,0 +1,5 @@
+[
+{"time":"10:39","usr":"Arnuminous","txt":"$AMZN at the bottom of the 5-day trading range. As long as it doesn\u0027t break down through 233.50 into the gap, it could bounce nicely.","lbl":"Positive"}
+,{"time":"12:42","usr":"Lowtown21","txt":"$AMZN moving up, being patient with this one.","lbl":"Positive"}
+,{"time":"15:02","usr":"AMZN_stock","txt":"$AMZN stock quote, Aug 9: 233.97 -0.41 (-0.17%).","lbl":"Negative"}
+]

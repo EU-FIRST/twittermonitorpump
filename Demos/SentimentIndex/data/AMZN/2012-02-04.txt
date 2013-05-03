@@ -1,0 +1,6 @@
+[
+{"time":"12:37","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Moderately Up, Gained over 3%. Analysis: A sobering look at Facebook: http://t.co/H4klAbZ8","lbl":"Positive"}
+,{"time":"12:45","usr":"firstadopter","txt":"\u0022carrying too much inventory..vendors financing its growth.. $AMZN IS THROWING OFF low-quality cash flow\u0022 http://t.co/OIVt6N4V","lbl":"Negative"}
+,{"time":"14:32","usr":"karmadude","txt":"RT @adamnash: Apple ($AAPL) is now at the point where they could acquire Amazon ($AMZN) \u2026 for cash. #YouKnowWhatsCool100BDollars","lbl":"Positive"}
+,{"time":"14:40","usr":"1nvestor","txt":"@CapCube possible yes. It is in the list though and needs some work to improve that. $AMZN","lbl":"Negative"}
+]

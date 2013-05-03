@@ -1,0 +1,5 @@
+[
+{"time":"6:36","usr":"ACInvestorBlog","txt":"$AMZN Buy area when clears $234.34 on heavy volume","lbl":"Positive"}
+,{"time":"7:57","usr":"stuffandplayx","txt":"RT @jimcramer: $AAPL, $AMZN, $GOOG make a ton of money, $FB doesn\u0027t make a ton. Particularly on mobile. Fact of life.","lbl":"Positive"}
+,{"time":"12:32","usr":"franche1","txt":"RT @jimcramer: $AAPL, $AMZN, $GOOG make a ton of money, $FB doesn\u0027t make a ton. Particularly on mobile. Fact of life.","lbl":"Positive"}
+]

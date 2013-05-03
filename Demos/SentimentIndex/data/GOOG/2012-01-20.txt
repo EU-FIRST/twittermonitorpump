@@ -1,0 +1,25 @@
+[
+{"time":"3:03","usr":"dsilva13","txt":"\u201C@SeekingAlpha: Analyst Estimates Are Very Overrated http://t.co/9DcxhWgv $GOOG $MSFT $NFLX $FSLR $AAPL\u201D","lbl":"Negative"}
+,{"time":"8:40","usr":"$GOOG","txt":"nlightn: $GOOG -$590.35 down - $49.47...!!!!!AAPL _$426.20 - $: nlightn http://t.co/4JsHuoi0","lbl":"Negative"}
+,{"time":"8:40","usr":"$GOOG","txt":"contrary to what you may think this morning, $GOOG is in accumulation mode this morning with a Acc/Dist reading abv 0.4 (high yest was 0.1)","lbl":"Positive"}
+,{"time":"8:42","usr":"$GOOG","txt":"@1nvestor You know, for anyone that owned a straddle, this is the best outcome. Close your $puts for a profit and hold those $calls! $goog","lbl":"Positive"}
+,{"time":"9:31","usr":"edponsi","txt":"Or, why you should be long $MSFT but not $GOOG right now http://t.co/wIxGsVg5 $$","lbl":"Negative"}
+,{"time":"11:21","usr":"trambir","txt":"RT @BloombergNews: Google\u2019s price drop prompts Page\u2019s first miss | http://t.co/y1rfuPtz $GOOG","lbl":"Negative"}
+,{"time":"11:21","usr":"ElliotTurn","txt":"Funny $GOOG misses earnings and people are talking about them as a co. in decline. Company is still growing at over 20% clip, what decline?","lbl":"Positive"}
+,{"time":"11:22","usr":"TrendRida","txt":"@TraderDR Sounds a little crazy, but I like $MSFT more than $GOOG cc: @Dasan","lbl":"Negative"}
+,{"time":"12:07","usr":"FeedTheBull","txt":"Google $GOOG fell 8% after posting a rare quarterly earnings miss and said search ad revenue decreased for the first time in 2 years","lbl":"Negative"}
+,{"time":"12:07","usr":"1nvestor","txt":"stopping the bal of $GOOG early. pos closed.","lbl":"Negative"}
+,{"time":"12:38","usr":"Catwoman2011","txt":"WHY was $GOOG paid clicks # so low during Holidays? Because NOBODY googles \u0022Apple Store\u0022...Ever. That\u0027s why. =^.^=","lbl":"Negative"}
+,{"time":"12:38","usr":"BreezeTrading","txt":"$GOOG Learn to hold you\u0027re winners. Slight pull back from $670.25 #HOLDING","lbl":"Negative"}
+,{"time":"12:39","usr":"dadams007","txt":"$GOOG / Google really didn\u0027t care about their share & option holders, otherwise they would have HELD bad earnings until after expiry...#SAD","lbl":"Negative"}
+,{"time":"13:21","usr":"clydbeaty","txt":"RT @SullyCNBC: 2p @CNBC: Are you UNDER taxed?..$FITB CEO on lending...$MSFT = cheap?..gagging on $GOOG..is cheap #natgas good for sector? + I yell at herb","lbl":"Negative"}
+,{"time":"14:55","usr":"2dayT","txt":"Short $NFLX long $GOOG","lbl":"Positive"}
+,{"time":"15:36","usr":"$GOOG","txt":"Option Millionaires: gnlbigte: Bought $GOOG 615 jan 27 calls @ .35. http://t.co/kc9WRKzM","lbl":"Positive"}
+,{"time":"16:02","usr":"$GOOG","txt":"RT @TodayTrader: Dip buyers: There is a gap in $GOOG that was never filled at 559. Setting an alert for that area to watch/take action","lbl":"Negative"}
+,{"time":"16:03","usr":"$GOOG","txt":"Whenever we get a big earnings report ($GOOG) that comes in one day before option expiration, it can turn into a live or die trade.today DIE","lbl":"Negative"}
+,{"time":"16:04","usr":"$GOOG","txt":"RT @timothysykes: Everyone say thank you $GOOG http://t.co/9vf55xTj","lbl":"Positive"}
+,{"time":"17:43","usr":"SunriseTrader","txt":"@liltraderr You must trade ur plan. My opinion your wallet. I would not buy a name just before earnings $GOOG $ISRG look at those that did","lbl":"Negative"}
+,{"time":"19:47","usr":"Avatti","txt":"MarketWatch: Three reasons not to hold Google shares http://t.co/tgkIh7zf $GOOG: MarketWatch: Three reasons not... http://t.co/EaYj2iv5","lbl":"Negative"}
+,{"time":"19:47","usr":"DJThistle","txt":"Review: Antec Cleaning Spray Kit: Face it, your Android smartphone and tablet get smudged a lot. And no ... http://t.co/NLTlUf1Y $GOOG","lbl":"Negative"}
+,{"time":"21:50","usr":"ediscoverygroup","txt":"RT @MarketWatch: Three reasons not to hold Google shares http://t.co/uQTzlZ1G $GOOG","lbl":"Negative"}
+]

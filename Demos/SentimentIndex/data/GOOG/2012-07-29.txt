@@ -1,0 +1,4 @@
+[
+{"time":"0:30","usr":"JudeDeCorgi","txt":"$$BUY 10 $GOOG","lbl":"Positive"}
+,{"time":"16:17","usr":"JamesGMark","txt":"IMO, if market up Monday, $PCLN $AAPL look much better for Call options plays than $GOOG. $GOOG needs a little rest.","lbl":"Negative"}
+]

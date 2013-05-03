@@ -1,0 +1,11 @@
+[
+{"time":"2:39","usr":"ghostontv","txt":"Kate bought 1501 shares of $GOOG at $605.56 in #WallStreetGame (http://t.co/a3pHI0RL).","lbl":"Positive"}
+,{"time":"8:49","usr":"firstadopter","txt":"Digitimes: $GOOG to accelerate launch of Android 5.0 to Q2-2012. Very strange b/c 4.0 just came out. Google is a mess: http://t.co/sdU68UFA","lbl":"Negative"}
+,{"time":"10:04","usr":"dubhe124","txt":"in $goog call this am when sp=599","lbl":"Positive"}
+,{"time":"12:26","usr":"TweetLeni","txt":"Took profits in extra shares of $GOOG I entered today at 599.2 sold at 606.91","lbl":"Positive"}
+,{"time":"12:28","usr":"TweetLeni","txt":"Back at area where I bought extra shares of $GOOG yesterday. Plan to sell those at ~610 and leave balance if core long to run","lbl":"Positive"}
+,{"time":"13:14","usr":"stocial","txt":"Shawn S. bought $GOOG at 605.66. http://t.co/DS03A0x7","lbl":"Positive"}
+,{"time":"14:11","usr":"aztecs99","txt":"RT @Gssound: SUICIDES? FEB 605 ON $GOOG...ONE DAY ONLY....WHO LIKES IT? ---- CRUSHED it on these today!!","lbl":"Negative"}
+,{"time":"16:13","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $GOOG 160mil users up to over 200mil now http://t.co/WxoC3zCq","lbl":"Positive"}
+,{"time":"21:05","usr":"anupartha","txt":"RT @BI_Enterprise: This Guy Is Now Totally In Charge Of Google\u0027s Assault On Microsoft $GOOG $MSFT by @MattRosoff http://t.co/AuYFL2H1","lbl":"Positive"}
+]

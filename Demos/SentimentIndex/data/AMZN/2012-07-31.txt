@@ -1,0 +1,8 @@
+[
+{"time":"8:59","usr":"FairOaksTrader","txt":"My largest short side bet right now is on $AMZN, up nicely today so far.","lbl":"Negative"}
+,{"time":"9:06","usr":"Crap_Trader","txt":"Opened Bear Call Spread on $AMZN. 10x AUG 250/255 for $561","lbl":"Negative"}
+,{"time":"10:31","usr":"Fitzstock2004","txt":"@djl4stockInfo STILL waiting on $amzn....want to see it break previous days hod,,,and then the bull flag will ENGAGE","lbl":"Negative"}
+,{"time":"13:35","usr":"AnthonysPeak","txt":"@boseyjones completely. there\u0027ll be another opportunity. the bus always comes back. $amzn this yr was a great buy on gap down as well.","lbl":"Positive"}
+,{"time":"14:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $AMZN Sentiment rises: +2% http://t.co/Isb5NmxQ","lbl":"Positive"}
+,{"time":"15:00","usr":"RedDogT3Live","txt":"$AAPL needs a rest. $GOOG and $amzn look good, but can use another day of consolidation","lbl":"Positive"}
+]

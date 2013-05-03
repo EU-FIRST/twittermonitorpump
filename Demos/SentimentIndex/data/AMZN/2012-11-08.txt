@@ -1,0 +1,9 @@
+[
+{"time":"12:11","usr":"bluser12","txt":"$GOOG and $AMZN look horrible.","lbl":"Negative"}
+,{"time":"13:45","usr":"JeffCooperLive","txt":"possible Train Tracks on 10 min $AMZN looks buyable for a trade especially if it stabs up through 229","lbl":"Positive"}
+,{"time":"15:30","usr":"retat50","txt":"@61point8 Great job Peter! Made some good money today -- out of my shorts $AAPL, $GOOG, $AMZN, $PANL made money on all - wait for bounce up","lbl":"Positive"}
+,{"time":"17:31","usr":"StockTwits","txt":"\u0022@Zachlehner: comScore: Q3 Retail E-Commerce Up 15%; Predicts A \u201CVery Healthy\u201D Holiday Shopping Season $EBAY $AMZN http://t.co/zueit47i\u0022","lbl":"Positive"}
+,{"time":"17:31","usr":"Velostream","txt":"++\u0022@Zachlehner: comScore: Q3 Retail E-Commerce Up 15%; Predicts A \u201CVery Healthy\u201D Holiday Shopping Season $EBAY $AMZN http://t.co/3kbZW4oa\u0022","lbl":"Positive"}
+,{"time":"17:31","usr":"ChartStockPL","txt":"RT @StockTwits: \u0022@Zachlehner: comScore: Q3 Retail E-Commerce Up 15%; Predicts A \u201CVery Healthy\u201D Holiday Shopping Season $EBAY $AMZN http://t.co/zueit47i\u0022","lbl":"Positive"}
+,{"time":"18:52","usr":"KStokowski","txt":"RT @StockTwits: \u0022@Zachlehner: comScore: Q3 Retail E-Commerce Up 15%; Predicts A \u201CVery Healthy\u201D Holiday Shopping Season $EBAY $AMZN http://t.co/zueit47i\u0022","lbl":"Positive"}
+]

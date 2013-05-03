@@ -1,0 +1,6 @@
+[
+{"time":"3:58","usr":"SemiBull","txt":"I don\u0027t get what happened with $AMZN I had a short #timestamped and despite miss on revenue, forecasted loss, my short was #bullstampeded","lbl":"Positive"}
+,{"time":"10:00","usr":"AaronGertler","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:26","usr":"aznboi27","txt":"$AMZN - just wow. How did it break out on bad news? I\u0027m thinking RED Monday into consolidation for the week. http://t.co/2BHKOyNA","lbl":"Positive"}
+,{"time":"23:50","usr":"USwwwStocks","txt":"$AMZN News: Amazon shares up nearly 8 pct on profit hopes http://t.co/CR6Bz4cV #AMZN #Amazon #Hopes","lbl":"Positive"}
+]

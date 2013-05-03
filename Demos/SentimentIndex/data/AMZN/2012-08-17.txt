@@ -1,0 +1,5 @@
+[
+{"time":"9:50","usr":"KarSun01","txt":"looking to long some $amzn here","lbl":"Positive"}
+,{"time":"9:50","usr":"KarSun01","txt":"alright long $amzn with a 1% stop","lbl":"Positive"}
+,{"time":"9:50","usr":"Sangluccitrades","txt":"I really fucked up today... Gave away a good $100K in profits on $AMZN. That shit ain\u0027t pretty.","lbl":"Negative"}
+]

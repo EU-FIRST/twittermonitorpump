@@ -1,0 +1,10 @@
+[
+{"time":"9:50","usr":"SeekingAlpha","txt":"If You Own This Tech Giant, Then It May Be Time To Sell http://t.co/HwBcBtH2 $AMZN","lbl":"Negative"}
+,{"time":"11:36","usr":"dhakkan_d","txt":"$AMZN resisting hard to fill the gap down to 196.5 which is 100 DMA too!","lbl":"Negative"}
+,{"time":"12:54","usr":"trader_trend","txt":"$AMZN, http://t.co/6phi6QO5 is one of the rare few stocks that looks constructive chart wise. managed to survive quite w...","lbl":"Positive"}
+,{"time":"13:35","usr":"TraderFlorida","txt":"$AMZN cont\u0027s higher nice action today","lbl":"Positive"}
+,{"time":"13:36","usr":"CliffYoung","txt":"@AlyssaRuddick $AMZN 210 C, $AAPL 560 C Thunder on!","lbl":"Positive"}
+,{"time":"14:20","usr":"Volpinacci","txt":"Out of $AMZN at 213.9","lbl":"Negative"}
+,{"time":"15:59","usr":"cjdavola","txt":"RT @LaMonicaBuzz: When you have a Kindle, nobody can tell you\u0027re reading a cheesy paperback romance. $AMZN buying publisher Avalon Books. Very interesting.","lbl":"Positive"}
+,{"time":"22:32","usr":"ntfri","txt":"Some good stock for tomorrow $SO $CMSA $COST $BMY $JNJ $WMT $T $MRK $AEP $EXC and $AMZN, $GOOG, $MSFT, $INTC and $APPL may move higher","lbl":"Positive"}
+]

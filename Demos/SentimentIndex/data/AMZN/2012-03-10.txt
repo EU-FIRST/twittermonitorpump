@@ -1,0 +1,5 @@
+[
+{"time":"12:15","usr":"Johnboy23233","txt":"RT @firstadopter: Sony Playstation network switches from $AMZN web services to $RAX for some services after security breach last year: http://t.co/Si63zzx7","lbl":"Negative"}
+,{"time":"19:22","usr":"TrendRida","txt":"Just turned $AMZN 1-Click off. That thing is dangerous...","lbl":"Negative"}
+,{"time":"19:27","usr":"MarketShot","txt":"I\u0027m sayin RT @TrendRida: Just turned $AMZN 1-Click off. That thing is dangerous...","lbl":"Negative"}
+]

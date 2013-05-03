@@ -1,0 +1,10 @@
+[
+{"time":"7:53","usr":"KingsmenMedia","txt":"RT @SAI: Apple And Amazon Fix The Security Holes That Caused Wired Editor\u0027s Epic Hacking $AAPL $AMZN by @stevekovach http://t.co/bf9R6tc9","lbl":"Positive"}
+,{"time":"9:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:46am: 235.54 -1.02 (-0.43%).","lbl":"Negative"}
+,{"time":"11:51","usr":"trendcetera","txt":"RT @SAI: Apple And Amazon Fix The Security Holes That Caused Wired Editor\u0027s Epic Hacking $AAPL $AMZN by @stevekovach http://t.co/bf9R6tc9","lbl":"Positive"}
+,{"time":"12:50","usr":"fin_bot1","txt":"RT@SAI Amazon Is Hiring Experts To Acquire A Big Pile Of Patents $AMZN http://t.co/Jh8ToBeR","lbl":"Positive"}
+,{"time":"13:57","usr":"S_KimaniM","txt":"RT @SmartMoney: Time to sell Amazon stock? It reported 96% drop in 2Q earnings, said it would lose money in 3rd quarter. http://t.co/Bq6xftUU $AMZN","lbl":"Negative"}
+,{"time":"14:28","usr":"Dannyn92","txt":"RT @SmartMoney: Time to sell Amazon stock? It reported 96% drop in 2Q earnings, said it would lose money in 3rd quarter. http://t.co/Bq6xftUU $AMZN","lbl":"Negative"}
+,{"time":"16:48","usr":"jusprag24","txt":"RT @JohnEarlBurnett: Why A Mini iPad Will Kill The Kindle http://t.co/fdtZL19h $AAPL $AMZN $$","lbl":"Negative"}
+,{"time":"16:52","usr":"1800Stocks","txt":"RT @CNNMoney: RT @julpepitone: Hack of @Mat Honan forces Apple & Amazon to change security policies http://t.co/RwSFoohB via @CNNMoneyTech $AAPL $AMZN","lbl":"Negative"}
+]

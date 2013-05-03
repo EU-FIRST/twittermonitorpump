@@ -1,0 +1,19 @@
+[
+{"time":"7:08","usr":"Furlicity","txt":"RT @ACInvestorBlog: $AMZN Amazon price target raised to $300 from $250 at RBC Capital","lbl":"Positive"}
+,{"time":"8:47","usr":"scalamai","txt":"Watch out, Google, Facebook, Apple. Amazon is coming for your advertisers http://t.co/2JcLHb5z (via @pandodaily) $GOOG $FB $AAPL $AMZN","lbl":"Positive"}
+,{"time":"8:48","usr":"uBooost","txt":"RT @scalamai: Watch out, Google, Facebook, Apple. Amazon is coming for your advertisers http://t.co/2JcLHb5z (via @pandodaily) $GOOG $FB $AAPL $AMZN","lbl":"Positive"}
+,{"time":"9:45","usr":"sspencer_smb","txt":"#1 idea today was long $AMZN above 255. similar setup to $C from ystdy. move decimal over & look at chart. #execute","lbl":"Positive"}
+,{"time":"9:45","usr":"aznboi27","txt":"That was the easiest 100% $AMZN Still holding: $GS $AMZN $NFLX $SPY $SINA","lbl":"Positive"}
+,{"time":"10:14","usr":"aznboi27","txt":"$AMZN $GS looking good! Been a great day folks!","lbl":"Positive"}
+,{"time":"10:15","usr":"Jamtrades","txt":"Commented on StockTwits: $AMZN is squeezing guys. We discussed this in the chat yesterday.. Holiday season = $AMZN..... http://t.co/Icvt9OzX","lbl":"Positive"}
+,{"time":"10:36","usr":"CubbieBears","txt":"$AMZN varsity player","lbl":"Positive"}
+,{"time":"10:37","usr":"StockPlayer6","txt":"RT @CAMAR024: Added to $AMZN 260s","lbl":"Positive"}
+,{"time":"10:37","usr":"Sangluccitrades","txt":"$AMZN $260 Weekly Calls are killing it today.","lbl":"Positive"}
+,{"time":"10:56","usr":"ki11tank","txt":"sold early in $AMZN, figured it would gap MORE with market and didn\u0027t. climbing move, healthier than gap anyways.","lbl":"Positive"}
+,{"time":"11:20","usr":"ManijehM","txt":"out of $AMZN calls bought Jan puts,","lbl":"Negative"}
+,{"time":"12:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $NOK +7.09%, $FB +1.93%, $AAPL +0.84%, $AMZN +2.87%, $BOSC +68.0% http://t.co/p9PotPfP #StockWars","lbl":"Positive"}
+,{"time":"12:41","usr":"ChartMoMo","txt":"ho-ho-ho $spy $amzn $aapl $goog","lbl":"Positive"}
+,{"time":"14:55","usr":"HawkDayTrader","txt":"$amzn shorting here $260.60","lbl":"Negative"}
+,{"time":"15:46","usr":"danielensign","txt":"Ridiculous textbook policy from @amazon. Shipped me 4 books in one box but now they want me to return them individually. $amzn","lbl":"Negative"}
+,{"time":"16:57","usr":"donileo","txt":"@rocco_thestreet unless earnings and sales drop.. #2 $amzn doesnt make profit.. their p/e is ridiculously overvalued","lbl":"Negative"}
+]

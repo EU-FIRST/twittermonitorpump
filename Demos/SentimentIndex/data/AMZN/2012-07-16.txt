@@ -1,0 +1,7 @@
+[
+{"time":"5:29","usr":"BigTicks","txt":"$AMZN News: Apple Inc \u0027working on smaller, cheaper iPad\u0027 to compete with Google Inc\u0027s \u2026 http://t.co/lksyjx6T #iPad #AMZN #Apple","lbl":"Negative"}
+,{"time":"9:26","usr":"JohnWaggoner","txt":"RT @StockTwits: RT @MichaelComeau Positive take on $GOOG Nexus 7. $AMZN Kindle Fire in trouble: http://t.co/4YZRjgOG","lbl":"Negative"}
+,{"time":"9:28","usr":"FairOaksTrader","txt":"RT @StockTwits: RT @MichaelComeau Positive take on $GOOG Nexus 7. $AMZN Kindle Fire in trouble: http://t.co/4YZRjgOG","lbl":"Negative"}
+,{"time":"13:39","usr":"Turtletrader59","txt":"Re-Short $amzn .....$spx $spy","lbl":"Positive"}
+,{"time":"21:22","usr":"paulwoll","txt":"RT @sssc: $AMZN http://t.co/Zz8L61FV potential action point. if it breaks the rising tl & they show up to get short, so will i.","lbl":"Negative"}
+]

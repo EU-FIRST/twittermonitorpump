@@ -1,0 +1,23 @@
+[
+{"time":"0:21","usr":"TheBattleAngel","txt":"hey $GOOG why does chrome never work right. what are you doing to chrome. are you authorized to do this. let me see your badge,","lbl":"Negative"}
+,{"time":"7:01","usr":"Wavepalm","txt":"RT @mobi_nomics: $GOOG is pioneering #bigdata management? -> Inside Google Spanner, the Largest Single Database on Earth http://t.co/3LAJ9UZG #tech","lbl":"Positive"}
+,{"time":"9:55","usr":"arunk_","txt":"It\u0027ll be sold out at 3.10PM :P RT @SAI Google\u0027s Nexus 4 Will Be Available Again Today At 3 PM Eastern $GOOG by @_dtl http://t.co/JiWYKLfX","lbl":"Positive"}
+,{"time":"10:57","usr":"DNDTrading","txt":"RT @rocco_thestreet: \u0027Barron\u0027s\u0027 Was Wrong: Facebook Will Hit $100 http://t.co/1vwphnbJ via @TheStreet $FB $P $AAPL $GOOG with a little holiday @springsteen","lbl":"Negative"}
+,{"time":"11:25","usr":"Laurafreedman","txt":"RT @businessinsider: The iPhone Is Beating Android In The U.S. $AAPL $GOOG $MSFT by @jyarow http://t.co/wxGI7JFv","lbl":"Negative"}
+,{"time":"11:27","usr":"BPGAG","txt":"$goog long at 665.66 - heading to meetings / stops tight in connection with day\u0027s gains","lbl":"Positive"}
+,{"time":"12:22","usr":"Jimmybob77","txt":"$GOOG Underperformed recent tech rally - Time to play CATCH UP","lbl":"Negative"}
+,{"time":"12:22","usr":"OMillionaires","txt":"$GOOG Underperformed recent tech rally - Time to play CATCH UP","lbl":"Positive"}
+,{"time":"12:40","usr":"Fitzstock2004","txt":"$goog 4 day high","lbl":"Positive"}
+,{"time":"12:41","usr":"EdgeMe","txt":"long ideas $goog, $ma","lbl":"Positive"}
+,{"time":"13:01","usr":"GdayToYou","txt":"$GOOG which has been weak lately has made a stellar run today. Up almost $14 atm. $NICE","lbl":"Positive"}
+,{"time":"14:30","usr":"VollmerDerek","txt":"RT @YahooFinance: The #iPhone is beating #Android in the U.S. (via @BusinessInsider) #Apple #Google $AAPL $GOOG #tech http://t.co/oP9JyMAQ","lbl":"Negative"}
+,{"time":"14:30","usr":"IBAim","txt":"$GOOG to surge on the restocking of the #nexus4 at noon PST...","lbl":"Positive"}
+,{"time":"15:06","usr":"thefinancepress","txt":"$GOOG Google & Motorola Make A Deal With Immersion On Licensing: Google & Motorola Make A Deal With Immersion O... http://t.co/mVhF1Aam","lbl":"Positive"}
+,{"time":"15:37","usr":"Demetrius_L","txt":"RT @robhof: Will Google Dodge An FTC Antitrust Bullet? - The New Persuaders/Forbes http://t.co/DMlpUZb7 $goog #antitrust","lbl":"Negative"}
+,{"time":"16:07","usr":"aiket","txt":"RT @SAI: Google\u0027s Nexus 4 Is Sold Out Again $GOOG by @_dtl http://t.co/O9qaLWpk","lbl":"Positive"}
+,{"time":"16:09","usr":"Legacy_Trades","txt":"SUMMARY: No fill SELL L: $SPY Dec 139 calls (@ +150%, hold .5% AUM), $AAPL Dec 550 (+400%, hold .33% AUM). Fill $GOOG Dec 670 calls @ +101%.","lbl":"Positive"}
+,{"time":"16:36","usr":"BUDDIEE18","txt":"RT @61point8: Keep an eye on $GOOG. Still looking for $696 to $700 on a break over the 100-dma.","lbl":"Positive"}
+,{"time":"20:33","usr":"chuberov","txt":"RT @TMFJMo: There\u0027s still part of me that\u0027s like \u0022Damn Google, you guys were actually gonna pay $6B for Groupon?\u0022 I mean you can\u0027t take that back. $GOOG","lbl":"Negative"}
+,{"time":"21:52","usr":"MFatMICenter","txt":"Apple $AAPL overtakes Google\u0027s $GOOG Android for most popular mobile operating system! http://t.co/zzbPAkPJ","lbl":"Negative"}
+,{"time":"21:57","usr":"oNootch","txt":"$GOOG on watch for a 675 break, next resistance would be 692","lbl":"Positive"}
+]

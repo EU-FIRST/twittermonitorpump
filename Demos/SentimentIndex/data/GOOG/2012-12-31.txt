@@ -1,0 +1,8 @@
+[
+{"time":"7:47","usr":"SeekingAlpha","txt":"Apple\u0027s Still A Better Value Than Google http://t.co/RBTpBkLa $GOOG $SSNLF.PK $AAPL","lbl":"Negative"}
+,{"time":"11:02","usr":"Soccmelbein","txt":"RT @Goodlett: Smart take on $AAPL #smartphone market decline via $GOOG\u0027s #iOS apps that steer users back to #Google http://t.co/OThhR0Rs $MSFT","lbl":"Positive"}
+,{"time":"11:03","usr":"rodrigociuffo","txt":"RT @SAI: Google Is Attacking Apple From The Inside Out \u2013 And It\u0027s Working $AAPL $GOOG by @nichcarlson http://t.co/UnLxVVAF","lbl":"Positive"}
+,{"time":"11:05","usr":"jyeater","txt":"RT @businessinsider: Google Is Attacking Apple From The Inside Out \u2013 And It\u0027s Working $AAPL $GOOG by @nichcarlson http://t.co/A5W6NNbx","lbl":"Positive"}
+,{"time":"11:34","usr":"dschorrnyc","txt":"RT @bbolan1: Larry Page has sold $642,093,443 worth of $GOOG stock in 2012.","lbl":"Negative"}
+,{"time":"11:35","usr":"khizarsonu","txt":"RT @businessinsider: Google Is Attacking Apple From The Inside Out \u2013 And It\u0027s Working $AAPL $GOOG by @nichcarlson http://t.co/A5W6NNbx","lbl":"Positive"}
+]

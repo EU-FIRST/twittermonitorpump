@@ -1,0 +1,6 @@
+[
+{"time":"12:05","usr":"Valuentum","txt":"$AMZN - Amazon continues to lose money, the market doesn\u0027t care http://t.co/2LmJi5Bp","lbl":"Negative"}
+,{"time":"15:38","usr":"newsagg","txt":"$AMZN cloud resistance on a big move up with volume, prior day 200 ema support but the NVI looks dreadful http://t.co/0KF2qNB8","lbl":"Positive"}
+,{"time":"21:23","usr":"rahadianagung","txt":"wah \u201C@businessinsider: Amazon\u0027s Ad Slamming The iPad Mini Has A Blatant Lie In It $AAPL $AMZN by @jyarow http://t.co/vbem1Q3A\u201D","lbl":"Negative"}
+,{"time":"23:19","usr":"LeonvdM_biz","txt":"\u201C@SAI: Amazon\u0027s Ad Slamming The iPad Mini Has A Blatant Lie In It $AAPL $AMZN by @jyarow http://t.co/CnQ0E2O1\u201D @Bonnie_Tubbs","lbl":"Negative"}
+]

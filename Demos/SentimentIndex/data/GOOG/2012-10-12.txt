@@ -1,0 +1,18 @@
+[
+{"time":"7:32","usr":"Goodlett","txt":"Interesting to watch ban on #Samsung #Nexus based $GOOG #Android phones just overturned from $AAPL lawsuit http://t.co/cKdxYO6p $MSFT $NOK","lbl":"Negative"}
+,{"time":"9:06","usr":"stocktrendchart","txt":"Technology $GOOG $VZ still have room to correct while there rest are poised to bounce.","lbl":"Positive"}
+,{"time":"9:07","usr":"BlueFielder","txt":"$GooG back in 750 $PUTs @ avg about .95","lbl":"Negative"}
+,{"time":"9:46","usr":"TheGothicThe","txt":"Why to go even near by Risky Stocks when you have big names like $aapl $goog $XOM in reach :)","lbl":"Positive"}
+,{"time":"13:06","usr":"SJosephBurns","txt":"$GOOG was rejected strongly back to under the 5 day ema today and under cut yesterday\u0027s low, these are signals of a possible down trend.","lbl":"Negative"}
+,{"time":"14:03","usr":"GopherTrader","txt":"@Fitzstock2004 Money flowing out of $GOOG into $AAPL","lbl":"Negative"}
+,{"time":"14:36","usr":"nichcarlson","txt":"The Long-Dreaded Anti-Trust Case Against Google Looks Like It Will Finally Happen $GOOG http://t.co/ZhLNSjZZ","lbl":"Negative"}
+,{"time":"14:36","usr":"businessinsider","txt":"The Long-Dreaded Anti-Trust Case Against Google Looks Like It Will Finally Happen $GOOG http://t.co/XfrhdQHE","lbl":"Negative"}
+,{"time":"14:36","usr":"SAI","txt":"The Long-Dreaded Anti-Trust Case Against Google Looks Like It Will Finally Happen $GOOG http://t.co/RzA7D69K","lbl":"Negative"}
+,{"time":"14:36","usr":"JonMarino","txt":"Trouble ahead for $GOOG? http://t.co/7teCVoRY","lbl":"Negative"}
+,{"time":"14:46","usr":"SPEQL8R","txt":"$GOOG is filling gap mentioned this morn 744.8-743.5 ish. Let us see if can hold it. $XLE if closes >73 would be reversal today","lbl":"Negative"}
+,{"time":"15:22","usr":"MarlonLaing","txt":"RT @HumOnTheMarkets: $GOOG down 3% this week, first weekly decline in 3 months (assist to @coombscnbc)","lbl":"Negative"}
+,{"time":"15:29","usr":"thefinancepress","txt":"$GOOG Microsoft to add Google as defendant in Motorola patent fight: Microsoft to add Google as defendant in Mo... http://t.co/u9Mfkz1E","lbl":"Negative"}
+,{"time":"17:39","usr":"22tec","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
+,{"time":"17:51","usr":"YahooFinance","txt":"FTC moving closer to Google antitrust case http://t.co/uoyBUgD6 $GOOG","lbl":"Negative"}
+,{"time":"21:16","usr":"minnierosegray","txt":"RT @TheStreet: Microsoft Will Lose a War With Apple; So Will Google http://t.co/bC3XkAI8 by @RoccoPendola $MSFT $GOOG $AAPL","lbl":"Negative"}
+]

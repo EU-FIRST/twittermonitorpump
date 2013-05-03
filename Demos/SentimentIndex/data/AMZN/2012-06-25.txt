@@ -1,0 +1,6 @@
+[
+{"time":"11:58","usr":"Buddahfan","txt":"RT @barronsonline: See full Barron\u0027s list of World\u0027s Most Respected Companies http://t.co/TKDUhnOE $AAPL $IBM $MCD $AMZN $KO $DIS $GOOG $XOM $INTC $CAT $V $PEP","lbl":"Positive"}
+,{"time":"14:07","usr":"grassosteve","txt":"look at one of my favorites $AMZN today","lbl":"Positive"}
+,{"time":"14:08","usr":"AJohnKyriazis","txt":"RT @grassosteve: look at one of my favorites $AMZN today","lbl":"Positive"}
+,{"time":"23:03","usr":"Cam_Patrick","txt":"@RonnieSpence makes you wonder if it will always trade at crazy multiples like $AMZN.","lbl":"Negative"}
+]

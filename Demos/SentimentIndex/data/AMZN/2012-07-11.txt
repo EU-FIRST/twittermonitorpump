@@ -1,0 +1,10 @@
+[
+{"time":"7:17","usr":"swissjohnny","txt":"RT @jonfortt: Consider: To make their no-profit hw strategies work, $GOOG & $AMZN probably need $AAPL to stay out of the sub-$300 tablet mkt","lbl":"Negative"}
+,{"time":"8:00","usr":"TradingBoiler","txt":"RT @RedDogT3Live: $AMZN borke ascending channel yesterday - short term sell signal","lbl":"Negative"}
+,{"time":"10:36","usr":"trader_trend","txt":"When $AMZN enters smartphone biz, http://t.co/kgZTuYNh it will torch billions of shareholder capital trying to compete i...","lbl":"Negative"}
+,{"time":"12:55","usr":"iceyfrostbidden","txt":"RT @SAI: In A Bold Move, Amazon Is Hiring Game Developers Right Under Zynga\u0027s Nose $AMZN $ZNGA by @owenthomas http://t.co/gFlQUuv7","lbl":"Positive"}
+,{"time":"13:25","usr":"nag_blr","txt":"RT @SAI: In A Bold Move, Amazon Is Hiring Game Developers Right Under Zynga\u0027s Nose $AMZN $ZNGA by @owenthomas http://t.co/gFlQUuv7","lbl":"Positive"}
+,{"time":"13:25","usr":"20100thibault","txt":"RT @jonfortt: Note: $GOOG, $RIMM, $AMZN & $MSFT all betting they\u0027ll succeed at $AAPL\u0027s integrated device model. If history\u0027s a guide, most won\u0027t","lbl":"Negative"}
+,{"time":"22:33","usr":"sirchinkalot","txt":"RT @atul: Amazon same-day delivery: How the e-commerce giant will destroy local retail. - Slate Magazine $AMZN http://t.co/oIm6hWEg","lbl":"Positive"}
+,{"time":"22:36","usr":"skerrie","txt":"RT @atul: Amazon same-day delivery: How the e-commerce giant will destroy local retail. - Slate Magazine $AMZN http://t.co/oIm6hWEg","lbl":"Positive"}
+]

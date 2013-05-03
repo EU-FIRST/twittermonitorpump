@@ -1,0 +1,5 @@
+[
+{"time":"8:27","usr":"ValaAfshar","txt":"Google\u0027s Android crushes Apple in smartphone shipments -- but does it matter? http://t.co/c4UWpnp5 $GOOG $AAPL","lbl":"Positive"}
+,{"time":"14:32","usr":"DallenCyrr","txt":"$VRNG is the wronged party, $GOOG has acted as a \u0022Patent Pirate\u0022 as someone said on Stocktwitts. What happened to Google\u0027s \u0022Don\u0027t Be Evil\u0022 ?","lbl":"Negative"}
+,{"time":"14:36","usr":"DallenCyrr","txt":"$GOOG Google always says \u0022Don\u0027t Be Evil\u0022 So, why has Google blatently become a \u0022Patent Pirate\u0022 re Intellectual Property and $VRNG ???","lbl":"Negative"}
+]

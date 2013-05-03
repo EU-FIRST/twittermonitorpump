@@ -1,0 +1,12 @@
+[
+{"time":"3:56","usr":"RedDogT3Live","txt":"In the last 7 or so sess. as the mkts digest higher. Individual stock movement has been key. Great action $GOOG $AAPL $amzn $hd $TGT $xom","lbl":"Positive"}
+,{"time":"9:41","usr":"CorporateYoungs","txt":"i pick up a few $AMZN 245 for next week. Lets see if he can break out this time. no head fake hopefully. Still need volume.","lbl":"Positive"}
+,{"time":"11:50","usr":"SeekingAlpha","txt":"Amazon Is Overbought And Far Over Valued http://t.co/iLPQahGB $AAPL $GOOG $NFLX $SHLD $WMT $AMZN","lbl":"Negative"}
+,{"time":"13:18","usr":"DrDuru","txt":"$AMZN at fresh post-earnings high. Still holding the post-earnings play. New all-time highs around the corner.","lbl":"Positive"}
+,{"time":"13:50","usr":"SPEQL8R","txt":"some stocks look extremely overbot to me $GOOG $AMZN; we know overbot can stay that way. Keep trailing stops if U bot yest at my 666 level","lbl":"Negative"}
+,{"time":"14:30","usr":"MarekZee","txt":"@mktwcrum @MarketWatch I am certain that either $AAPL or $AMZN will buy $NFLX in the next 12 months.","lbl":"Positive"}
+,{"time":"14:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:17pm: 242.718 +5.298 (+2.23%).","lbl":"Positive"}
+,{"time":"14:33","usr":"DeidreZune","txt":"$AMZN rocking :) rock on :)","lbl":"Positive"}
+,{"time":"17:52","usr":"numberonetell","txt":"@Ahgwanpopcaan agreed. I thanked God for tight stops on $AMZN today.","lbl":"Negative"}
+,{"time":"23:56","usr":"ChartLearning","txt":"@flizzard lol yeah. I learned that being an idiot shorting $amzn","lbl":"Positive"}
+]

@@ -1,0 +1,4 @@
+[
+{"time":"10:28","usr":"takingstock614","txt":"All the HB names look good today. $AMZN $AAPL $GOOG $PCLN $MA","lbl":"Positive"}
+,{"time":"16:31","usr":"princebhojwani","txt":"When does the sales tax law hit $AMZN ??","lbl":"Negative"}
+]

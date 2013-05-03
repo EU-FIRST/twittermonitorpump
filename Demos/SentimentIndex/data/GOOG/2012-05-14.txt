@@ -1,0 +1,7 @@
+[
+{"time":"9:14","usr":"berkutchitweet","txt":"Sitting tight on last week\u0027s shorts at the moment: $AAPL $CEO $CMG $GOOG $GWW $IBM $MA $PCLN. Got room for one more, stalking $ISRG at 50d.","lbl":"Negative"}
+,{"time":"11:54","usr":"BUDDIEE18","txt":"@Mark_Lexus lol...Y don\u0027t u go to @SellPuts trading room & save yourself doing t/a on $GOOG - http://t.co/Efwlj2ES","lbl":"Negative"}
+,{"time":"11:59","usr":"MockTrade","txt":"$GOOG bears trying 2 hold below Fri\u0027s VAL 608 & I am watching $AAPL here 2 lead lower as it has held below the 10min40MA 4 most of the morn","lbl":"Negative"}
+,{"time":"12:58","usr":"Equitykingkong","txt":"$BIDU,$GOOG = should own these 2 stocks but have not found a compelling techn. reason yet","lbl":"Positive"}
+,{"time":"23:04","usr":"smarttrader15","txt":"$GOOG - Google Stock Analysis - RSI is bearish and falling - http://t.co/HmHwjphD","lbl":"Negative"}
+]

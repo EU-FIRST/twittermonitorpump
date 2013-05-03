@@ -1,0 +1,13 @@
+[
+{"time":"11:06","usr":"AdrianCapote","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
+,{"time":"11:09","usr":"nburdy","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
+,{"time":"11:10","usr":"pascalguertin","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"12:35","usr":"kngbn97","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
+,{"time":"12:42","usr":"ozrashid","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/pAhIi3gk @samjaddi","lbl":"Negative"}
+,{"time":"14:23","usr":"stockquestions","txt":"A very important question #IC !!! Is now the time to buy $AAPL $GOOG","lbl":"Positive"}
+,{"time":"14:25","usr":"raheethan","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"16:24","usr":"MaxSpeed988","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"16:32","usr":"RamblingRooney","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/7gDKrOnZ","lbl":"Negative"}
+,{"time":"18:53","usr":"annelizhannan","txt":"Are you buying it? Not me. RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/zQ4ZtV6m","lbl":"Negative"}
+,{"time":"22:23","usr":"janezhujie","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+]

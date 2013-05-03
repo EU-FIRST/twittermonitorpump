@@ -1,0 +1,5 @@
+[
+{"time":"7:12","usr":"alexischeong","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Negative"}
+,{"time":"7:25","usr":"Fitzstock2004","txt":"Huge week for $GOOG, and for your PnL :) This weekly chart (Cup n Handle)says \u0022WANTS HIGHER\u0022 http://t.co/Wmh5vLLL","lbl":"Positive"}
+,{"time":"14:12","usr":"ChrisAstro","txt":"RT @SAI: Here\u0027s Some Really Good News For Android Fans $GOOG by @stevekovach http://t.co/mF1f7Tm3","lbl":"Positive"}
+]

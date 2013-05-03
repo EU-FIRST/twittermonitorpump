@@ -1,0 +1,8 @@
+[
+{"time":"9:33","usr":"RedDogT3Live","txt":"Also trimmed some $goog. Nice three day move. Still long some.","lbl":"Positive"}
+,{"time":"11:46","usr":"SeekingAlpha","txt":"FTC Will Make Google A Buy Candidate http://t.co/zg3Bdgph $GOOG","lbl":"Positive"}
+,{"time":"12:16","usr":"vid_e","txt":"@srisri55 @littletigercs not really, should have bought $goog 705. +0.7 that one","lbl":"Positive"}
+,{"time":"13:58","usr":"poetrymathlover","txt":"retracement of $GOOG complete for the day","lbl":"Negative"}
+,{"time":"14:00","usr":"veigaxu","txt":"RT @EllieAsksWhy: Italy audit finds Google had $311 mil undeclared unearnings http://t.co/fF8Pk3yn Unpaid VAT too $GOOG","lbl":"Negative"}
+,{"time":"16:40","usr":"DPolitical","txt":"$GOOG - Google Stock Rating Upgraded by Oracle Investment Research #GOOG http://t.co/PlwrSi7D","lbl":"Positive"}
+]

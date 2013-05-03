@@ -1,0 +1,9 @@
+[
+{"time":"11:02","usr":"rodrigottr","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/yB7AwayO","lbl":"Positive"}
+,{"time":"11:03","usr":"andrias98","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"11:03","usr":"nevinbuconjic","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"11:05","usr":"noelbaklavasi","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"14:03","usr":"lodginginteract","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/OPGmufOi","lbl":"Positive"}
+,{"time":"14:09","usr":"Jayhassett","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"16:15","usr":"CR8ID","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+]

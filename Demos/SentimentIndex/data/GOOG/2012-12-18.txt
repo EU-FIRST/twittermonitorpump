@@ -1,0 +1,13 @@
+[
+{"time":"1:19","usr":"reuvenohr","txt":"$goog whats up with that 3:59pm high @ 738.28 ?","lbl":"Positive"}
+,{"time":"1:19","usr":"Immercify","txt":"$GOOG just seems to keep its steady rise. I think Project Glass has definitely been a factor.","lbl":"Positive"}
+,{"time":"9:45","usr":"NorthmanTrader","txt":"$GOOG now green. This stock is going places.","lbl":"Positive"}
+,{"time":"12:40","usr":"StockPlayer6","txt":"RT @NorthmanTrader: too many folks trying to short $AAPL $GOOG and market. Don\u0027t fight a freight train, wait for a reversal first. Right now <--No signal but up","lbl":"Positive"}
+,{"time":"12:40","usr":"JAG92","txt":"RT @NorthmanTrader: too many folks trying to short $AAPL $GOOG and market. Don\u0027t fight a freight train, wait for a reversal first. Right now <--No signal but up","lbl":"Positive"}
+,{"time":"13:29","usr":"PeterGhostine","txt":"$GOOG rose above yesterday\u0027s $721 target, but I think a back test is in order here. http://t.co/Si43hu8p","lbl":"Negative"}
+,{"time":"13:30","usr":"kingakira","txt":"@RaginCajun intraday selloff now, $GOOG still can run one more days?","lbl":"Positive"}
+,{"time":"14:25","usr":"basilnsage","txt":"$GOOG about to go red","lbl":"Negative"}
+,{"time":"14:25","usr":"z8angela","txt":"I\u0027m out of $AAPL long. Some high flyers have retreated well off day highs, time to take notice. $GOOG below 722 is bearish. Hate or love.","lbl":"Negative"}
+,{"time":"15:43","usr":"racernic","txt":"most likely taking another stab at shorting $goog here.","lbl":"Negative"}
+,{"time":"21:49","usr":"ppprophet","txt":"SELL $GOOG The Market will Crash .... .#DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
+]

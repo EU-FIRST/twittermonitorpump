@@ -1,0 +1,6 @@
+[
+{"time":"3:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 03:22 EST have been positive. Watch the real-time indicator graph at http://t.co/hjtETpXE","lbl":"Positive"}
+,{"time":"11:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 11:22 EST have been positive. Watch the real-time indicator graph at http://t.co/hjtETpXE","lbl":"Positive"}
+,{"time":"15:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 15:22 EST have been positive. Watch the real-time indicator graph at http://t.co/hjtETpXE","lbl":"Positive"}
+,{"time":"21:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 21:22 EST have been positive. Live graph here http://t.co/hjtETpXE","lbl":"Positive"}
+]

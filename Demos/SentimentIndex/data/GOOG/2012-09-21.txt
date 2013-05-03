@@ -1,0 +1,22 @@
+[
+{"time":"5:50","usr":"srisri55","txt":"@jimcramer $goog map is the sole reason I have not upgraded my $aapl iphone & ipads to iOs 6.","lbl":"Positive"}
+,{"time":"6:31","usr":"nexgennovak","txt":"RT @NexgenJeremy: $GOOG Momentum trade for winner on smaller chart. http://t.co/3bbh5inL","lbl":"Positive"}
+,{"time":"6:32","usr":"gbcchaz","txt":"RT @jimcramer: I swear by $GOOG maps. Used it in Ireland to find every pub i visited --","lbl":"Positive"}
+,{"time":"7:11","usr":"cherrygarciafan","txt":"DJIA replacing $KFT for $UNH but keeps $HP and $MSFT. WTH ! Replace them with $AAPL and $GOOG. $BAC should be dumped too!","lbl":"Positive"}
+,{"time":"7:37","usr":"RussRothsteinIT","txt":"RT @richi: Unwired Planet sues $AAPL, $GOOG over 20 patents: OpenWave/phone.com zombie roams Nevada | http://t.co/rxFJkLem | #ITBW $UPIP","lbl":"Negative"}
+,{"time":"8:37","usr":"mitchelltsai","txt":"wish I held my $AAPL $GOOG weeklies overnight... :-)","lbl":"Positive"}
+,{"time":"8:38","usr":"StkConfidential","txt":"$KORS, $NVO, $GOOG, $PCLN, $AAPL up and out early so far this am. $$","lbl":"Positive"}
+,{"time":"9:09","usr":"tphedgegroup","txt":"Re-iterate our $900 target on $GOOG","lbl":"Positive"}
+,{"time":"9:10","usr":"mitchelltsai","txt":"long $GOOG Sep 21 725 Call 6.3 6.0 (Wish I kept my 1.85-2.05 from Wed & Thu....) #MyStock","lbl":"Positive"}
+,{"time":"9:40","usr":"joseph_parnes","txt":"#Long Position: $GOOG uptrend pattern established accumulation short-covering a boost. Volatile. Nr term obj. 778 Stop-loss 689","lbl":"Positive"}
+,{"time":"9:41","usr":"mitchelltsai","txt":"sold some $GOOG Sep 21 725 Call 7.9 (+29% profit in 30 min) #MyStock","lbl":"Negative"}
+,{"time":"10:20","usr":"TraceyRyniec","txt":"RT @LaMonicaBuzz: $GOOG up again. New 52-week high: $734.50. Now only 1.7% below the all-time high from late 2007. And on iPhone 5 day n ...","lbl":"Positive"}
+,{"time":"11:01","usr":"SwatOptions","txt":"$GOOG making 365% PROFITS - already locked 392% but looking for 400% on last contracts","lbl":"Positive"}
+,{"time":"11:55","usr":"pthegr8trades","txt":"$GOOG exhausted at 735-736, watch 5min chart 732.6 to break for a pullback http://t.co/wRqAWqUc","lbl":"Negative"}
+,{"time":"11:59","usr":"DshapiroDiana","txt":"@jimcramer @TheStreet_Tech bought $RIMM at $6.46 today ahead of earnings...I\u0027ve heard disappointment w biz community on $GOOG Android...","lbl":"Negative"}
+,{"time":"13:00","usr":"wallstCS","txt":"Is the iPhone 5 Making Android Look Good? http://t.co/JhooGOxP $AAPL $GOOG $NOK $VOD $TEF #mkt #stocks #trading #investing","lbl":"Positive"}
+,{"time":"14:05","usr":"ChrisONeill2","txt":"think we might see a monday upsided spike in $goog and $aapl, just a feeling","lbl":"Positive"}
+,{"time":"14:58","usr":"Cyprian_Is_Me","txt":"RT @YahooFinance: Winklevoss twins\u2019 advice for Zuckerberg: Facebook should be more like Google http://t.co/ooSV8VKt $FB $GOOG","lbl":"Positive"}
+,{"time":"15:44","usr":"TAXMONK","txt":"Shut up & spend ur bloodmoney -> Winklevoss twins advice to Zuckerberg: Facebook should B more like Google http://t.co/znwzDja4 $FB $GOOG","lbl":"Positive"}
+,{"time":"17:15","usr":"BloombergTV","txt":".@Mashable editor Peter Pachal tells @Tom_Keene why #iPhone5 maps are inferior to Google - http://t.co/UnQGYiNr $APPL $GOOG","lbl":"Positive"}
+]

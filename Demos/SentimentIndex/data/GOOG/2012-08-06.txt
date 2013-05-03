@@ -1,0 +1,17 @@
+[
+{"time":"9:05","usr":"TraderSanJose","txt":"Finally people are relizing $GOOG is cheap. Not much overhead resistance, will pause around 653 most likely (holding).","lbl":"Positive"}
+,{"time":"9:07","usr":"celiabennett","txt":"$GOOG gave nice opportunity to get back long this morning after going flat Friday. #BeastMode","lbl":"Positive"}
+,{"time":"12:03","usr":"sciencetrader","txt":"Schmidt still selling $GOOG, guess he doesn\u0027t care about the charts","lbl":"Negative"}
+,{"time":"12:58","usr":"racernic","txt":"$goog maybe selling Motorola cable unit as many have expected. is it long in the tooth here at 646? short-term i think yes. LT am bullish","lbl":"Positive"}
+,{"time":"13:44","usr":"biggge","txt":"RT @businessinsider: BAM: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/KvjAKaVk","lbl":"Negative"}
+,{"time":"13:52","usr":"Street_Insider","txt":"Apple $AAPL To Kick YouTube Off iOS $GOOG http://t.co/yBlLrmLY","lbl":"Negative"}
+,{"time":"13:53","usr":"TimABRussell","txt":"RT @ericjackson: S--- just got real \u201C@hblodget: Annoying RT @SAI: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/sAPis2vE\u201D","lbl":"Negative"}
+,{"time":"14:07","usr":"iamife","txt":"RT @businessinsider: BAM: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/KvjAKaVk","lbl":"Negative"}
+,{"time":"14:08","usr":"nitinagrawal08","txt":"RT @marketfolly: $AAPL $GOOG separation continues. Wrong decision? RT @BloombergTV: BREAKING: Apple says Google\u0027s YouTube won\u0027t be on next mobile software","lbl":"Negative"}
+,{"time":"14:32","usr":"MattSoleyn","txt":"#Google has a #liberal bias... it is sending RNC Chairman Priebus\u0027 e-mails to Spam, but allowing Pres. #Obama\u0027s through. $GOOG","lbl":"Negative"}
+,{"time":"14:32","usr":"PolleysPicks","txt":"No YouTube app on new OS update for iPhone and iPad. Hope they know what they are doing. Really trying to get rid of $GOOG. $AAPL","lbl":"Negative"}
+,{"time":"15:13","usr":"tkuz4u","txt":"Fuck, it\u0027s all out war now! Apple dumps You Tube from iOS6! $AAPL $GOOG without Google Maps & You Tube it much weaker iPhone!","lbl":"Negative"}
+,{"time":"16:03","usr":"rhaniacker","txt":"RT @MarkSimoneNY: Apple Drops YouTube App From New Mobile Software http://t.co/mWSYKzTO $AAPL $GOOG","lbl":"Negative"}
+,{"time":"18:49","usr":"owik303","txt":"RT @HunterOfTrade: Wow IPhone 5 won\u0027t get $GOOG youtube or $GOOG maps. $AAPL imo this will hurt sales, when will $AAPL realize they aren\u0027t the better company.?","lbl":"Negative"}
+,{"time":"22:04","usr":"mouna1807","txt":"RT @ValaAfshar: Apple to Pull YouTube App From Devices | @WSJ http://t.co/UDlkcGho $AAPL $GOOG","lbl":"Negative"}
+]

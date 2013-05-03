@@ -1,0 +1,3 @@
+[
+{"time":"7:30","usr":"kayehuit","txt":"RT @SAI: Amazon May Offer Kindle Customers Refunds On Purchased Books $AMZN http://t.co/AMYYwfJw","lbl":"Positive"}
+]

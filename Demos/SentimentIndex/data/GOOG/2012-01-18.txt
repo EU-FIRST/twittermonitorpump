@@ -1,0 +1,19 @@
+[
+{"time":"9:15","usr":"hwsw_","txt":"RT @SAI: The iPhone Strikes Back! Android\u0027s Share Of New Smartphone Purchases Has Collapsed $GOOG $AAPL by @jyarow http://t.co/GHTnYBK3","lbl":"Negative"}
+,{"time":"11:30","usr":"KKKTrader","txt":"bot $msft $goog","lbl":"Positive"}
+,{"time":"12:07","usr":"Alfietrade","txt":"$goog looks ready for a sqeeze before earnings","lbl":"Negative"}
+,{"time":"12:12","usr":"StockTwits","txt":"A Breakout Here Might Lead To A Fake Out http://t.co/qlpzeMTT via @ZorTrades $AAPL $GOOG $EBAY $SPY $QQQ $MSFT","lbl":"Negative"}
+,{"time":"13:10","usr":"AlohaTrades","txt":"Turning my attention away from $PCLN and to $GOOG $AAPL $SSO $QLD $DDM $FCX $UYM and last, but not least $TBT","lbl":"Positive"}
+,{"time":"13:40","usr":"61point8","txt":"$GOOG: this multi-year consolidation took on the shape of an inverted HS. It\u0027s going to.take a major..... http://t.co/BwpjcxI3","lbl":"Positive"}
+,{"time":"14:10","usr":"brokerz_bullish","txt":"RT @NoDoji - $GOOG remains bullish intraday as long as it holds 630.95","lbl":"Positive"}
+,{"time":"14:43","usr":"DiscoverWallSt","txt":"Y U Axing Me: $GOOG$ option prices for Jan are stupid...too overpriced: Y U Axing Me http://t.co/Xeu8lV1P","lbl":"Negative"}
+,{"time":"14:44","usr":"TraderFlorida","txt":"$GOOG adding here - I normally do not hold into earnings per my rules , if I do will sell 80 - 90% and hold the rest","lbl":"Positive"}
+,{"time":"15:21","usr":"STnet","txt":"A Breakout Here Might Lead To A Fake Out http://t.co/Gx4ZlIMR via @ZorTrades $AAPL $GOOG $EBAY $SPY $QQQ $MSFT","lbl":"Negative"}
+,{"time":"15:25","usr":"iparalax","txt":"Taking a small position here L $GOOG @$632.60 (first time trading $GOOG) wish me luck!","lbl":"Positive"}
+,{"time":"15:25","usr":"ManiOhli","txt":"Option Millionaires: Y U Axing Me: I bought $GOOG OTM calls (710) a couple http://t.co/05z0AvRy","lbl":"Positive"}
+,{"time":"16:14","usr":"StocialPicks","txt":"Emily A. made a pick on Stocial. Long $GOOG at 632.00. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"18:11","usr":"thetradedotcom","txt":"@JimCramer for $GOOG and $MMI -- have you seen that $MMI has $3.4B cash and tax assets from NOLs worth $4B+ ($700M/year thru 2019)?","lbl":"Positive"}
+,{"time":"20:24","usr":"ETNtrade","txt":"$GOOG Here\u0027s one of our trades on earnings. Take a look, still time to jump onboard with #ETNtrade. #GoogleEarnings http://t.co/lWRVGbbF","lbl":"Positive"}
+,{"time":"20:26","usr":"EddyElfenbein","txt":"It must come as a great shock to people to learn that $GOOG has underperformed the broader market since late 2007. $$","lbl":"Negative"}
+,{"time":"23:04","usr":"$GOOG","txt":"Google Inc $GOOG Fairly Up. Google and Microsoft Shares in High Demand Before Earnings: http://t.co/bFj9T6MJ","lbl":"Positive"}
+]

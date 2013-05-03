@@ -1,0 +1,9 @@
+[
+{"time":"10:18","usr":"takingstock614","txt":"$AAPL as market moves lower $AAPL $GOOG are holding up surprisingly well.","lbl":"Positive"}
+,{"time":"10:49","usr":"petergo99037185","txt":"@dachsbadger $AAPL was down, $GOOG was down, $FB flashed D mkt turn around, was +0.20\u0027s down fast, sold $TNA UP, boug $QID down, MKT talks!","lbl":"Negative"}
+,{"time":"13:21","usr":"TacticalOptions","txt":"GARCH volatility forecast for $GOOG, #Google stock for today 22.85% (-0.29) http://t.co/EDZvFp8S","lbl":"Negative"}
+,{"time":"14:05","usr":"HawkDayTrader","txt":"Out $GOOG $702","lbl":"Negative"}
+,{"time":"15:23","usr":"paulwoll","txt":"RT @takingstock614: $AAPL $PCLN $GOOG $MA $ISRG $CMG $DECK all running!","lbl":"Positive"}
+,{"time":"16:13","usr":"dougkeefe","txt":"RT @howardlindzon: Boom. \u201C@Bill_Gross: Wow, 17 million iOS and Android devices were activated on Christmas Day! http://t.co/cbykSqZ2\u201D $aapl $goog.","lbl":"Positive"}
+,{"time":"18:35","usr":"MaximShtraus","txt":"$GOOG will be taking advantage of the #Motorola acquisition to stiff arm partners and launch their own phone in 2013. #Google #Samsung #HTC","lbl":"Positive"}
+]

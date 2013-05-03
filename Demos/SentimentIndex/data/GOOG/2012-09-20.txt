@@ -1,0 +1,16 @@
+[
+{"time":"7:25","usr":"kcnickerson","txt":"Forget iOS and Android - China going to Firefox Mobile OS - http://t.co/c3L0UMq5 #mozilla #ios #android $goog $appl #os #html5","lbl":"Negative"}
+,{"time":"8:26","usr":"takingstock614","txt":"I\u0027d be a buyer of any dip in $AAPL $GOOG $LNKD","lbl":"Positive"}
+,{"time":"8:56","usr":"ADVFNplc","txt":"$GOOG - Unwired Planet Files Patent-Infringement Claims .vs Apple, Google http://t.co/bh5zmjTe","lbl":"Negative"}
+,{"time":"8:56","usr":"mitchelltsai","txt":"long $AAPL Weekly 700 Call 2.14 2.05, $GOOG Weekly 725 Call 2.25 2.05 #MyStock","lbl":"Positive"}
+,{"time":"8:56","usr":"BRHook","txt":"-- After losing display ad lead to Facebook, Google is back on top: http://t.co/3kTnQE8k @gigaom @kheussner @facebook @google $FB $GOOG #ads","lbl":"Positive"}
+,{"time":"8:57","usr":"ClickBlip","txt":"-- Google is back on top after losing display ad lead to Facebook: http://t.co/GSgN5IYN @gigaom @kheussner @facebook @google $FB $GOOG #ads","lbl":"Positive"}
+,{"time":"11:52","usr":"launchticker","txt":"$fb drops from 2nd to 5th in Aug for online video; down 10% to 47.7M while $goog dropped 4.3% to 150.2M http://t.co/sthUQPLC","lbl":"Negative"}
+,{"time":"12:47","usr":"HedgeFundPimp","txt":"This Apple $AAPL <-> Google $GOOG war is shaping up to be so much fun. Facebook $FB teaming up with Apple is very interesting for Google...","lbl":"Negative"}
+,{"time":"13:23","usr":"TradeIdeasQuant","txt":"$GOOG New 52 Week High - Crossed daily highs resistance.","lbl":"Positive"}
+,{"time":"13:24","usr":"VinnySali","txt":"$GE Green, $GOOG Green","lbl":"Positive"}
+,{"time":"13:24","usr":"SaanpaurSeedi","txt":"$GOOG set to take \u0022triple crown\u0022 of online advertising by taking the top spot in Web-search ads, mobile ads & display ads (to overtake $FB)","lbl":"Positive"}
+,{"time":"13:59","usr":"CNNMoneyTech","txt":"RT @LaMonicaBuzz: Another new 52-week high for $GOOG. Approaching $730. Larry Page must be super super super duper excited. By the way, ...","lbl":"Positive"}
+,{"time":"14:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG Sentiment decreases: -24% http://t.co/HYmEmFBp","lbl":"Negative"}
+,{"time":"14:31","usr":"MNYCx","txt":"RT @RedDogT3Live: $goog blowing the doors off the shorts. Historic highs are $747.","lbl":"Positive"}
+]

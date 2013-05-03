@@ -1,0 +1,6 @@
+[
+{"time":"7:33","usr":"suspect22","txt":"RT @SAI: Google CEO Larry Page Tells Employees Not To Worry About His Health $GOOG by @mattlynley http://t.co/BoABK92T","lbl":"Positive"}
+,{"time":"7:38","usr":"MrJideAdebayo","txt":"RT @businessinsider: Google CEO Larry Page Tells Employees Not To Worry About His Health $GOOG by @mattlynley http://t.co/iraL55Ev","lbl":"Positive"}
+,{"time":"10:13","usr":"LDrogen","txt":"$GOOG Google is up against some tough comps from this quarter last year when it grew ... http://t.co/eHHOe6GO","lbl":"Negative"}
+,{"time":"10:22","usr":"DerekVesselsJr","txt":"RT @businessinsider: Google Is Now Recognizing The Threat To Its Mapping Dominance $GOOG by @mattlynley http://t.co/WAU4vWCe","lbl":"Negative"}
+]

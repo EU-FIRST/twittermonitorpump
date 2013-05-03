@@ -1,0 +1,10 @@
+[
+{"time":"7:57","usr":"halfDayTrader","txt":"Two big names to watch (for short today): $gs and $goog.","lbl":"Negative"}
+,{"time":"11:11","usr":"SJosephBurns","txt":"I sold my $GOOG for a $300 loss.","lbl":"Negative"}
+,{"time":"11:57","usr":"Sqwii","txt":"$GOOG looks bullish to me","lbl":"Positive"}
+,{"time":"11:58","usr":"mike_wilhelm","txt":"Analysis: Google\u0027s #Android finally earns respect with developers http://t.co/7jrqNEbo via @reuters $GOOG","lbl":"Positive"}
+,{"time":"13:23","usr":"TweetLeni","txt":"$GOOG falling apart again","lbl":"Negative"}
+,{"time":"14:20","usr":"wallstCS","txt":"Apple Wins Square Footage War and 2 Tech Titans on the Move http://t.co/P39DN9Lw $AAPL $GOOG $INTC #mkt #stocks #trading #investing","lbl":"Positive"}
+,{"time":"16:44","usr":"panamaorange","txt":"99$ hockey puck sized korean PC\u0027s ,running $GOOG OS, are the future. $HPQ $DELL $INTC $AMD premium desktop phenomenon is not coming back.","lbl":"Positive"}
+,{"time":"16:56","usr":"StockTwits","txt":"And then Google ate the entire newspaper industry http://t.co/Z21vVcLF via @reformedbroker $GOOG","lbl":"Positive"}
+]

@@ -1,0 +1,16 @@
+[
+{"time":"4:48","usr":"akidonakis","txt":"RT @SAI: Here\u0027s Google\u0027s Latest Apple TV Killer $GOOG by @stevekovach http://t.co/VCKG6o9e","lbl":"Positive"}
+,{"time":"7:50","usr":"Fitzstock2004","txt":"@desichemist EVERYTHING is a \u0022trade\u0022.......dont buy $goog til >680","lbl":"Negative"}
+,{"time":"8:22","usr":"businessinsider","txt":"Google Wants To Add One Of Apple\u0027s Newest iPhone Features To Google Wallet $GOOG by @stevekovach http://t.co/3ArXCp5A","lbl":"Positive"}
+,{"time":"8:42","usr":"StubbornNews","txt":"Out all of my $GOOG Sept 590 calls plus about 3.00. Very nice performance after that gap down.","lbl":"Negative"}
+,{"time":"9:22","usr":"charliegodwin","txt":"@tlmontana @RedDogT3Live $GOOG yes","lbl":"Positive"}
+,{"time":"9:22","usr":"RedDogT3Live","txt":"$goog triggered thru the ppt buy of $672 now at highs of the day. Trad-em and trail em. Most started as it was negative on the day","lbl":"Positive"}
+,{"time":"9:23","usr":"446721x","txt":"$GOOG riiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiip","lbl":"Negative"}
+,{"time":"9:42","usr":"446721x","txt":"@SellPuts $GOOG wants to go again","lbl":"Positive"}
+,{"time":"9:59","usr":"charliegodwin","txt":"@RedDogT3Live @tlmontana Got out of $GOOG with little profit, it\u0027s acting crazy. Almost time to short $AAPL?","lbl":"Negative"}
+,{"time":"9:59","usr":"Fitzstock2004","txt":"Monday $aapl gains gone, $GOOG losses gone......groundhog day","lbl":"Negative"}
+,{"time":"11:41","usr":"joshpritchard","txt":"Commented on StockTwits: to be clear, meant $GOOG is pushing the $NVDA Nexus 7 directly on the www-google-com main h... http://t.co/cAiXGShv","lbl":"Positive"}
+,{"time":"13:20","usr":"boogidown","txt":"$GOOG long that i picked up ysdy is paying off WELL.. $AAPL no position.","lbl":"Positive"}
+,{"time":"16:51","usr":"WalkenTalken","txt":"@BUDDIEE18 Shocked that $GOOG has run back like this, I wouldn\u0027t have predicted it, not like the $MCP yest at $9.58 ;-) and $FB today too.","lbl":"Positive"}
+,{"time":"17:50","usr":"z8angela","txt":"@MarkAlanT Thanks! Also, Corporate Insiders Selling Shares is at Fastest Rate since February according to Trimtabs, $GOOG is no exception.","lbl":"Negative"}
+]

@@ -1,0 +1,11 @@
+[
+{"time":"6:41","usr":"nichcarlson","txt":"Amazon\u0027s New, Read-In-The-Dark Kindle Is A Huge Hit With Reviewers $AMZN http://t.co/HBIwoz1Q","lbl":"Positive"}
+,{"time":"6:41","usr":"businessinsider","txt":"Amazon\u0027s New, Read-In-The-Dark Kindle Is A Huge Hit With Reviewers $AMZN by @nichcarlson http://t.co/dYCailhM","lbl":"Positive"}
+,{"time":"6:41","usr":"SAI","txt":"Amazon\u0027s New, Read-In-The-Dark Kindle Is A Huge Hit With Reviewers $AMZN by @nichcarlson http://t.co/0xXraqrA","lbl":"Positive"}
+,{"time":"6:41","usr":"pegobry","txt":"RT @nichcarlson: RT @nichcarlson: Amazon\u0027s New, Read-In-The-Dark Kindle Is A Huge Hit With Reviewers $AMZN http://t.co/HBIwoz1Q","lbl":"Positive"}
+,{"time":"8:57","usr":"nolte88","txt":"Opened up some 255 $AMZN puts at $2.60. Want to see it break back over 20 day. Acting as resistance. Don\u0027t think stock loses $250ish","lbl":"Negative"}
+,{"time":"10:08","usr":"akash_agarwal","txt":"Oracle announces new cloud offerings -- targetted @Amazon Cloud http://t.co/n0khy839 \u2026 #IaaS #PaaS $AMZN $ORCL #Cloud #openword2012","lbl":"Negative"}
+,{"time":"10:44","usr":"ppearlman","txt":"Tilson not worried about $AAPL competing w/ $NFLX. more worried about $AMZN in the space. also worried a big co \u0022pours money\u0022 into the space","lbl":"Positive"}
+,{"time":"10:44","usr":"ESCapAdv","txt":"Whitney Tislons outlines how $NFLX is better than $AMZN. basically thinks it would have a huge bidding war if placed on the block","lbl":"Negative"}
+,{"time":"11:55","usr":"RA1708","txt":"RT @a_bh_a: RT @a_bh_a: I want what he\u0027s smoking: Tilson says $NFLX has better business model than $AMZN - #WTF","lbl":"Negative"}
+]

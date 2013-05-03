@@ -1,0 +1,23 @@
+[
+{"time":"6:56","usr":"researchpuzzler","txt":"typically great @asymco charts ~ Android slows sequentially http://t.co/Wo617d7p $GOOG $AAPL","lbl":"Negative"}
+,{"time":"8:37","usr":"Equitykingkong","txt":"$GOOG: sold @ 577.36-95 for +7.50pts....flat now","lbl":"Negative"}
+,{"time":"8:37","usr":"aztecs99","txt":"nice rip higher on $GOOG and $PCLN","lbl":"Positive"}
+,{"time":"9:17","usr":"choffman1978","txt":"Markets turn higher on likelyhood of FED EASING!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$gmcr","lbl":"Positive"}
+,{"time":"9:50","usr":"Optum3TV","txt":"#SocialMedia is the past...Next Wave in Hot Stocks are around Web TV: http://t.co/eGMXz4qa #finance $goog","lbl":"Positive"}
+,{"time":"9:50","usr":"AdmiralMarketsA","txt":"#business Android\u0027s User Growth Has Slowed To Its Lowest Rate Since 2009 $AAPL $GOOG by @sfiegerman http://t.co/in2ZWRq0","lbl":"Negative"}
+,{"time":"9:50","usr":"seguetech","txt":"RT @SAI: Android\u0027s User Growth Has Slowed To Its Lowest Rate Since 2009 $AAPL $GOOG by @sfiegerman http://t.co/wtmk5WJj","lbl":"Negative"}
+,{"time":"10:22","usr":"ChainGangsta","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"10:33","usr":"JamesOGolden","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"10:56","usr":"AmandaLynnJudge","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"11:33","usr":"Munevver_Nizam","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"12:21","usr":"mack_mike","txt":"\u201C@WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/OMjFPQdn $GOOG\u201D","lbl":"Positive"}
+,{"time":"14:19","usr":"AceChaudhry","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"14:19","usr":"KeithMcCullough","txt":"$CSCO $PCLN and $GOOG all green, but all bearish on my TRADE and TREND durations","lbl":"Negative"}
+,{"time":"15:05","usr":"HSBASymposium","txt":"Sergey Brin\u0027s Team Working On Secret Projects Is Much Bigger Than We Imagined $GOOG http://t.co/Gi7f19zw RT @businessinsider","lbl":"Positive"}
+,{"time":"15:06","usr":"daliborviko","txt":"RT @businessinsider: Sergey Brin\u0027s Team Working On Secret Projects Is Much Bigger Than We Imagined $GOOG by @mattlynley http://t.co/xuNmDgko","lbl":"Positive"}
+,{"time":"15:08","usr":"wallstCS","txt":"Mergers and Acquisitions Recap: Google Gets a KICK, NetApp CHATTER http://t.co/G0AnrZfD $GOOG $LH $MTOX $NTAP $ORCL $CSCO #mkt #stocks","lbl":"Negative"}
+,{"time":"15:57","usr":"PerforM84697233","txt":"Option Millionaires: ozz collins: $GOOG 565 puts at 4.60 now. weeeeeeeeeeeeeee http://t.co/jxoluUeq","lbl":"Negative"}
+,{"time":"19:36","usr":"patroneux","txt":"If we have a massive rally, expect financials to lead it followed by industrials and/or tech. $C $GS $CAT $AAPL $GOOG $FFIV","lbl":"Positive"}
+,{"time":"22:19","usr":"mifarrell","txt":"Google AdSense Creator: Why I Would Not Start A New Company Inside Google $GOOG by @jyarow http://t.co/MUgd4c6q","lbl":"Negative"}
+,{"time":"23:07","usr":"USwwwStocks","txt":"$GOOG News: 5 Stocks Hedge Funds Are Buying Like Crazy http://t.co/RcwQHE06 #GOOG #Buying #crazy","lbl":"Positive"}
+]

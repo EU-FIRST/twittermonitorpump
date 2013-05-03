@@ -1,0 +1,13 @@
+[
+{"time":"3:48","usr":"jingsnote","txt":"RT @SAI: Google\u0027s Next Smartphone Leaks Again On Twitter And The Specs Sound Pretty Amazing $GOOG by @stevekovach http://t.co/iL3KwWYI","lbl":"Positive"}
+,{"time":"7:13","usr":"saudmasud","txt":"@tomkeene in my opinion the sledge hammer to $GOOG was due to high multiple amidst the \u0022most hated rally\u0022 - very little backstop on misses.","lbl":"Negative"}
+,{"time":"7:15","usr":"SemBarista","txt":"RT @SAI Google May Settle Patent-Abuse Charges $GOOG by @owenthomas http://t.co/yYXDGnkk","lbl":"Negative"}
+,{"time":"10:34","usr":"Cache_Alvarado","txt":"RT @mb_willoughby: google release macbook competitor http://t.co/Fzc4lluu what you guys think? $goog, $appl $msft","lbl":"Positive"}
+,{"time":"13:11","usr":"TakisGenn","txt":"can you define the \u0022dip\u0022 for me plz! RT @market_talk: Commented on: \u0022Nokia: Buying The Dips\u0022 http://t.co/1eH81JzQ $NOK $AAPL $GOOG","lbl":"Negative"}
+,{"time":"13:16","usr":"gregnb","txt":"I had few ideas I wrote on post it note train ride into work. $625 $aapl puts @ 1-2, $goog 695 puts @ 4-5 .. wow http://t.co/D4OdM7iz","lbl":"Negative"}
+,{"time":"14:50","usr":"lecreative","txt":"RT @Convertbond: Another mobile victim? Google $GOOG is taking 16% less per click ad revenue vs a year ago as lower mobile rates take their toll $FB $HPQ","lbl":"Negative"}
+,{"time":"14:50","usr":"DaveCV100","txt":"RT @Convertbond: Another mobile victim? Google $GOOG is taking 16% less per click ad revenue vs a year ago as lower mobile rates take their toll $FB $HPQ","lbl":"Negative"}
+,{"time":"18:18","usr":"spanishNY","txt":"RT @themotleyfool: Are you looking for stock ideas? Here are 3 stocks for your watchlist, including Google: http://t.co/tdeAGd9K $GOOG","lbl":"Positive"}
+,{"time":"22:17","usr":"jorgeaavila","txt":"WHOAH!!! $GOOG vs. $AAPL RT @MacDailyNews Analyst: Google could disappear in five years http://t.co/6nQcK87p","lbl":"Negative"}
+,{"time":"22:22","usr":"St_Louis_Ray","txt":"@SlopeOfHope where is all the money they have pulled out of $AAPL and $GOOG likely to go?","lbl":"Negative"}
+]

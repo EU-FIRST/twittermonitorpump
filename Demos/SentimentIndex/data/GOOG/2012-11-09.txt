@@ -1,0 +1,16 @@
+[
+{"time":"0:40","usr":"dantanner","txt":"Why the stock market is crashing? http://t.co/pvR6Rs9V $SPX, $SPY, $AAPL, $GOOG","lbl":"Negative"}
+,{"time":"7:57","usr":"Tradersfly","txt":"$GOOG breaking this support","lbl":"Negative"}
+,{"time":"9:30","usr":"ChartMoMo","txt":"Bot to cover $goog calls +1.10","lbl":"Negative"}
+,{"time":"9:30","usr":"ChartMoMo","txt":"will re-short $goog 673","lbl":"Negative"}
+,{"time":"10:14","usr":"BlueFielder","txt":"$GooG Bot 655 $CALLs @ avg about 2.75 - will risk .50","lbl":"Positive"}
+,{"time":"10:52","usr":"MockTrade","txt":"$GOOG testing 1st resistance zone 660-663 zone & if above 669/70 is next","lbl":"Positive"}
+,{"time":"10:56","usr":"EliezerFerguson","txt":"Brought $GOOG Calls $AAPL is trippin","lbl":"Positive"}
+,{"time":"11:50","usr":"TampaBayTrader","txt":"#Google : Story about China blocking $GOOG making the rounds; seen as a positive for $BIDU","lbl":"Negative"}
+,{"time":"11:52","usr":"BUDDIEE18","txt":"RT @HedgefundPLAY: China taking extrodinary steps to block access to ALL GOOGLE services\u201D $GOOG Error 503. Service error -27. That\u2019s all http://t.co/VyoPMIeC\u201D","lbl":"Negative"}
+,{"time":"12:34","usr":"Trefis","txt":"Google\u0027s UK Market Share Loss Is Microsoft\u0027s Gain http://t.co/WgedLZar by Trefis Team $GOOG $MSFT $YHOO","lbl":"Negative"}
+,{"time":"12:35","usr":"TradetheLeader1","txt":"Out 1/2 $aapl +1.5 long runner vs cost..now long aapl and $goog runners and $tlt in other account","lbl":"Positive"}
+,{"time":"16:25","usr":"royoriginal","txt":"\u0022@howardlindzon: \u0022@DeidreZune: $GOOG\u0027s Nexus 10 tablet falls short of iPad -- REVIEW http://t.co/fPUsPqMU $AAPL #WINNING\u0022\u0022","lbl":"Negative"}
+,{"time":"17:44","usr":"Rashod_JL","txt":"RT @CNNMoney: Google blocked in China as government leaders meet http://t.co/YSQKVTmA $GOOG","lbl":"Negative"}
+,{"time":"22:04","usr":"mengxy","txt":"RT @dhh: @mastorna I\u0027m big on $AAPL, short on $CRM, long on $GOOG, $T, $VZ, and a bunch of ETFs. Pretty boring portfolio ;)","lbl":"Positive"}
+]

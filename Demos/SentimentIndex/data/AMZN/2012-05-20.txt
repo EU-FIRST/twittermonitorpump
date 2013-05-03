@@ -1,0 +1,4 @@
+[
+{"time":"13:11","usr":"Federico_II","txt":"@RickRock3030 @hblodget $AMZN has better growth than many startups, on a real business, and 3 BLN gross on 13 revenue is worth watching.","lbl":"Positive"}
+,{"time":"20:21","usr":"jimcollins","txt":"My analysis also RT @harmongreg: $AMZN - http://t.co/eusdYzPO heading to 210, with 206 supp under that on way to gap fill","lbl":"Negative"}
+]

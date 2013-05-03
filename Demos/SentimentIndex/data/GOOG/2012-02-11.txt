@@ -1,0 +1,4 @@
+[
+{"time":"13:04","usr":"NoDoji","txt":"$GOOG Weekly Ichimoku: Stopped under tenkan-sen, support at 575.42. Nice defined consolidation area http://t.co/RgPyaNoV","lbl":"Positive"}
+,{"time":"19:32","usr":"betterpick","txt":"$GOOG - Google Stock Analysis - CCI is bullish - http://t.co/iYcGnZ6h","lbl":"Positive"}
+]

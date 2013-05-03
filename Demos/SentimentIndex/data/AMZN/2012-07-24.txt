@@ -1,0 +1,5 @@
+[
+{"time":"20:50","usr":"bwolf_","txt":"$CTRP investing in new products like a chinese tripadvisor, a chinese VRBO,etc. hurting margins. $AMZN investors would cheer.","lbl":"Positive"}
+,{"time":"20:54","usr":"TraderLantern","txt":"@patroneux Yep. I am also thinking about shorting $DECK and $AMZN as well. $AMZN seems to be stuck in a range.","lbl":"Negative"}
+,{"time":"20:54","usr":"patroneux","txt":"@deadmau5mania getting lotsa flak for spreading my thoughts of shorting $AMZN but I think i\u0027\u0027ll play $AMZN during the earnings report.","lbl":"Negative"}
+]

@@ -1,0 +1,21 @@
+[
+{"time":"8:08","usr":"StockTwits","txt":"RT @OptionsHawk Google ($GOOG) Wins Largest Enterprise Contract Ever from Spanish bank http://t.co/kQbJ3NlP","lbl":"Positive"}
+,{"time":"10:37","usr":"Leaf_West","txt":"$GOOG ... like to see an ABC into the $625.31 - $624.70 projected zone to try a scalp long http://t.co/iyp1v5ub","lbl":"Positive"}
+,{"time":"11:14","usr":"BlueFielder","txt":"$GooG added to yesterday\u0027s buy of wkly 635 $CALLs @ 2.00","lbl":"Positive"}
+,{"time":"12:34","usr":"CancunParadise8","txt":"@TraderFlorida Got $GOOG ... +$10 gain.. yesterday... sold in $627s ... looking to buy back ... at what point ?","lbl":"Positive"}
+,{"time":"13:09","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $GOOG 635 C\u0027s 1.55 back in http://t.co/wr6Dl1GS","lbl":"Positive"}
+,{"time":"13:10","usr":"sbobrows","txt":"Could be a game changer. @SAI: Google TV Just Got Its Killer App: OnLive Streaming Video Games $GOOG by @hamburger http://t.co/TSnE9B7c","lbl":"Positive"}
+,{"time":"14:01","usr":"Emerick08","txt":"RT @SAI: Google+ Is Way Bigger Than We Thought: It\u0027s Totally Going To Change How The Web Works $GOOG by @MattRosoff http://t.co/t4lOO8hl","lbl":"Positive"}
+,{"time":"14:02","usr":"bingobaa","txt":"RT @SAI: Google TV Just Got Its Killer App: OnLive Streaming Video Games $GOOG by @hamburger http://t.co/5ogPcJxR","lbl":"Positive"}
+,{"time":"14:03","usr":"BioTechReports","txt":"$dndn new HOD! Fed BB out - MODERATE GROWTH!! RALLY TIME! $BAC, $SIRI, $C, $JPM, $GOOG, $AAPL","lbl":"Positive"}
+,{"time":"14:43","usr":"BUDDIEE18","txt":"GOOOOOO.... $AAPL .... $GOOG .... $NFLX ....$RENN ...$DANG -- TO DA MOOOOON!!!!!","lbl":"Positive"}
+,{"time":"15:34","usr":"61point8","txt":"$GOOG: I\u0027m going to close the other half at either breakeven or at $627. It looks to me like a BS short-covering move.","lbl":"Negative"}
+,{"time":"16:35","usr":"Narries","txt":"RT @hainsworthtv: Stone\u0027s Fickes tells @BNN_TV\u0027s @hainsworthtv her #stockpicks are $AAPL, $GOOG, and $PFE for \u0022defensive tech, US pharma\u0022. #investing $$","lbl":"Positive"}
+,{"time":"18:28","usr":"tianhaoalex","txt":"RT @SAI: Google Apps Gets Its Biggest Deal Ever $GOOG by @MattRosoff http://t.co/PvYnXrvB","lbl":"Positive"}
+,{"time":"18:30","usr":"itbot1","txt":"RT@SAI Google Apps Gets Its Biggest Deal Ever $GOOG by @MattRosoff http://t.co/q7GqcHDT","lbl":"Positive"}
+,{"time":"19:40","usr":"jet_cbolton","txt":"RT @SAI: Google Apps Gets Its Biggest Deal Ever $GOOG by @MattRosoff http://t.co/PvYnXrvB","lbl":"Positive"}
+,{"time":"19:42","usr":"LDrogen","txt":"It just keeps getting better for $GOOG \u201C@Techmeme: Google+ Hangouts Add Screen Sharing to List of Collaboration http://t.co/BfBOazUZ\u0022","lbl":"Positive"}
+,{"time":"22:05","usr":"RaviRomo","txt":"@jimcramer is however plain wrong in saying that Android is losing market share. Simply not true. $AAPL $GOOG","lbl":"Positive"}
+,{"time":"22:07","usr":"portfolio_man","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/XWBHrzNX #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Negative"}
+,{"time":"22:08","usr":"RaviRomo","txt":"$AAPL\u0027s iPhone 4S is a great success. They may sell over 33 million iPhones (incl 3G, GS) in Q4. But $GOOG\u0027s Android will outsell.","lbl":"Positive"}
+]

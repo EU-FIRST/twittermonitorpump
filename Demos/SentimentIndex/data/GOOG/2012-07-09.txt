@@ -1,0 +1,8 @@
+[
+{"time":"9:44","usr":"manifestinvest","txt":"Favorite stocks this week (superior return forecasts, high quality and bullish sentiment) $CRR $GOOG $CSCO $FFIV $MSFT http://t.co/Y7vg3cCs","lbl":"Positive"}
+,{"time":"12:34","usr":"SAI","txt":"Apple Is Getting Clobbered By Android In China $AAPL $GOOG by @jyarow http://t.co/k5PPiAVF","lbl":"Positive"}
+,{"time":"12:34","usr":"pas5974","txt":"RT @businessinsider: Apple Is Getting Clobbered By Android In China $AAPL $GOOG by @jyarow http://t.co/jK604vQB","lbl":"Positive"}
+,{"time":"12:35","usr":"studiocom","txt":"RT @businessinsider: Apple Is Getting Clobbered By Android In China $AAPL $GOOG by @jyarow http://t.co/jK604vQB","lbl":"Positive"}
+,{"time":"13:20","usr":"ratihku5","txt":"Apple Is Getting Clobbered By Android In China $AAPL $GOOG by @jyarow http://t.co/v5AlqHbT","lbl":"Positive"}
+,{"time":"16:00","usr":"DeidreZune","txt":"Found infringing Apple patents, Google pulls the Galaxy Nexus http://t.co/KpbGDiEa $AAPL $GOOG $MSFT","lbl":"Negative"}
+]

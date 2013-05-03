@@ -1,0 +1,8 @@
+[
+{"time":"0:18","usr":"DigitalGreen","txt":"RT @cousinHub Awesome article RT @bcwtang Thank you! Someone realize $FBOOK is not dominating $GOOG http://t.co/0MLwIpLU","lbl":"Positive"}
+,{"time":"9:09","usr":"StockTwits","txt":"Largest USA Tech Companies Market Cap: http://t.co/2SbihWid via @ospreyflyer great battle for 2nd between $GOOG $IBM & $MSFT","lbl":"Positive"}
+,{"time":"9:11","usr":"OmDoc","txt":"RT @StockTwits: Largest USA Tech Companies Market Cap: http://t.co/2SbihWid via @ospreyflyer great battle for 2nd between $GOOG $IBM & $MSFT","lbl":"Negative"}
+,{"time":"18:42","usr":"ValaAfshar","txt":"1.2 billion mobile #apps were downloaded over the holidays - http://t.co/zQZ3Y8zk. #IT #CIO $AAPL $GOOG","lbl":"Positive"}
+,{"time":"23:39","usr":"Dchatrades","txt":"Google flights is perfect. $GOOG","lbl":"Positive"}
+,{"time":"23:47","usr":"audibertalbx2","txt":"daringfireball Necessary play on Google\u0027s part. Has $GOOG paid them money for that, before?wVBu","lbl":"Negative"}
+]

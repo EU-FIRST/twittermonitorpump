@@ -1,0 +1,21 @@
+[
+{"time":"0:27","usr":"EvolvingMedium","txt":"Google+ Users Are Spending Just 3.3 Minutes a Month on Site, ComScore Says $goog - http://t.co/jm8cLRhQ","lbl":"Negative"}
+,{"time":"8:29","usr":"AKPalit","txt":"Google activating 800,000 #Android devices daily. Q1 could see share gains against #iOS after latter came storming back in Q4. $GOOG $AAPL","lbl":"Positive"}
+,{"time":"9:58","usr":"gtotoy","txt":"Long $GOOG 610 wklys at 6.70","lbl":"Positive"}
+,{"time":"9:58","usr":"TweetLeni","txt":"$GOOG cleara yeaterday\u0027s high. Should push to 615","lbl":"Positive"}
+,{"time":"10:00","usr":"AliAlhouli","txt":"RT @gtotoy: Long $GOOG 610 wklys at 6.70","lbl":"Positive"}
+,{"time":"10:00","usr":"JFDI","txt":"$GOOG approaching 50d, looking to get long on a move thru the 50d on heavy volume.","lbl":"Positive"}
+,{"time":"10:22","usr":"RedDogT3Live","txt":"$goog trying to get through","lbl":"Positive"}
+,{"time":"10:22","usr":"dschorrnyc","txt":"$GOOG: top of range is from 2/21 @ 617.88. Just peeked out above. Gametime.","lbl":"Positive"}
+,{"time":"10:23","usr":"takingstock614","txt":"Added $GOOG here","lbl":"Positive"}
+,{"time":"10:23","usr":"RahulTongia","txt":"$GOOG moving higher. Time for it to catch up","lbl":"Positive"}
+,{"time":"10:42","usr":"macroQmicro","txt":"$GOOG on the verge at 619; intraday upside volume #searching http://t.co/C0wEHybo #WORDEN","lbl":"Positive"}
+,{"time":"10:42","usr":"brokerz_bullish","txt":"RT @SJosephBurns - $GOOG has overtaken the 50 day line, bullish","lbl":"Positive"}
+,{"time":"10:42","usr":"Centrifugal","txt":"Re $GOOG, I want to scale into something short, albeit slowly & not definitively...& I may end up stopped on $QCOR today; possbl replacmnt","lbl":"Negative"}
+,{"time":"13:03","usr":"morrislakeland","txt":"RT @StockTwits: RT @JackDamn Facebook users spend 405 minutes/month on site. Google+ users? 3 minutes. http://t.co/w9dJLHJo $GOOG $FB","lbl":"Negative"}
+,{"time":"15:02","usr":"ruoweiwu","txt":"the way $goog $gs perform, it looks like the break out is imminent","lbl":"Positive"}
+,{"time":"15:07","usr":"maczter","txt":"Apple Times iPad 3 Invite To Show How Little Anyone Cares About Android (Cult of Mac) http://t.co/8eD3srIt $AAPL $GOOG","lbl":"Negative"}
+,{"time":"16:26","usr":"macroQmicro","txt":"$GOOG close near hod over 50dma 1st time in month; volume at 3-week high; next step over 620 S/R http://t.co/O0XcqHdZ #WORDEN","lbl":"Positive"}
+,{"time":"16:26","usr":"MoneyNewsWeb","txt":"RT @MSN_Money: Why great consumer products elude Google $GOOG http://t.co/rjLb2XhV","lbl":"Negative"}
+,{"time":"23:56","usr":"sdotbailey","txt":"Another $GOOG social media blunder ? http://t.co/y03z0izU #bust","lbl":"Negative"}
+]

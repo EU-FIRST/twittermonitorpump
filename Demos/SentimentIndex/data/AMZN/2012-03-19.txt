@@ -1,0 +1,10 @@
+[
+{"time":"4:10","usr":"slangwise","txt":"Stars are aligning for $AMZN, per @SpikeTrade , our newest contributors to @tradingdeck http://t.co/eKpij2AQ","lbl":"Positive"}
+,{"time":"4:33","usr":"GretelandBryan","txt":"$AMZN http://t.co/73PPF2dq Amazon appears to have found support off of lows this year. Will buy when it break 188.38","lbl":"Positive"}
+,{"time":"8:14","usr":"LDrogen","txt":"$AMZN http://t.co/l3fdcv7h Lowering my estimates on Amazon on lower kindle sales and competition against A...","lbl":"Negative"}
+,{"time":"8:15","usr":"HedgefundPLAY","txt":": $AMZN dropping on Pacific Crest note saying drop in Kindle sales.\u201D#fx","lbl":"Negative"}
+,{"time":"9:05","usr":"ReformedBroker","txt":"No position, but $AMZN is a very scary stock here.","lbl":"Negative"}
+,{"time":"11:00","usr":"event_trader","txt":"$AMZN green even after Pacific Crest cuts estimates on Kindle sales...unbelievable.","lbl":"Negative"}
+,{"time":"13:37","usr":"katetrades","txt":"Taking $AMZN L again 185.74","lbl":"Positive"}
+,{"time":"19:36","usr":"statsreal","txt":"On the daily, $amzn has made 3 higher highs in a row, bulls in control for now, despite its failure to breakout","lbl":"Negative"}
+]

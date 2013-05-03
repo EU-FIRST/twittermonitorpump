@@ -1,0 +1,11 @@
+[
+{"time":"8:48","usr":"stkbullgod","txt":"The best news I got today was that apparently Cramer was touting $amzn and I am short. Sweet.","lbl":"Negative"}
+,{"time":"9:39","usr":"madsholmen","txt":"RT @businessinsider: Amazon Proves It Is Ready To Spend Massive Amounts Of Money To Destroy Hulu And Netflix $AMZN $NFLX http://t.co/PHb ...","lbl":"Positive"}
+,{"time":"11:48","usr":"given2tweet","txt":"Putting on small (25bp) position in $AMZN 225/200 put spread split Jan and April expiration, pays 5-1 or so","lbl":"Positive"}
+,{"time":"12:29","usr":"bbolan1","txt":"$AMZN tablets are popular, but they were first step. Ad Group is a monetization of that base. Phone is next and holy grail.","lbl":"Positive"}
+,{"time":"14:55","usr":"traderstewie","txt":"$AAPL, making a respectable close today but $GOOG and $AMZN on the other hand......","lbl":"Negative"}
+,{"time":"15:53","usr":"Tradesight","txt":"Some nice #trading winners in #stocks from our picks today, incl $AAPL and $AMZN: http://t.co/7IEVCQMR #markets retweet if you like","lbl":"Positive"}
+,{"time":"17:30","usr":"METrades","txt":"@cfrazierjr Now he\u0027s got $AMZN $GOOG $V $MA on his \u0022Hot List\u0022. #Cool #Stocks","lbl":"Positive"}
+,{"time":"17:36","usr":"HarryWanger","txt":"$AMZN Biggest 1-day drop since last Dec. This is how Q4 slide of over 25% began in Q4 2012. Contrary to @jimcramer claims","lbl":"Negative"}
+,{"time":"17:36","usr":"GarHughes","txt":"RT @SeekingAlpha: Amazon: Drowning In A Large Flood Of Negative Developments http://t.co/ObaCe8e8 $AAPL $GOOG $MMM $NFLX $AMZN","lbl":"Negative"}
+]

@@ -1,0 +1,11 @@
+[
+{"time":"5:40","usr":"SeekingAlpha","txt":"Google Going The Wrong Way http://t.co/WXh8ra2e $QQQ $AAPL $BIDU $MSFT $GOOG","lbl":"Negative"}
+,{"time":"7:56","usr":"mitchelltsai","txt":"sold some $AAPL 616.75 (+2.1% profit), $GOOG 605.50 605.40 (-0.4% loss), $UCO 43.29 (+2.0% profit), $TNA 57.10... http://t.co/DeEc3fYB","lbl":"Negative"}
+,{"time":"9:40","usr":"EquitiesNetwork","txt":"Google begins eCommerce strategies to compete with Apple... http://t.co/2sXMiogN $GOOG $AAPL #Galaxy #Nexus #iphone5","lbl":"Positive"}
+,{"time":"10:18","usr":"danconway","txt":"Interesting and sad that $GOOG is now polluting their home page with a Nexus phone ad.","lbl":"Negative"}
+,{"time":"13:11","usr":"drew216","txt":"RT @SAI: The End Of Android Approaches ... $AAPL $GOOG by @jyarow http://t.co/P77qNIm6","lbl":"Negative"}
+,{"time":"13:13","usr":"lluccipha","txt":"SAI: The End Of Android Approaches ... $AAPL $GOOG by @jyarow http://t.co/Fq0NSYSn","lbl":"Negative"}
+,{"time":"13:51","usr":"LDrogen","txt":"the $SQUARE news is so bullish for $V and $MA, less so for $GOOG $PAY and the banks who are going to get cut out of this whole thing","lbl":"Negative"}
+,{"time":"14:49","usr":"BlueFielder","txt":"$GOOG & $AAPL are exactly the same $ ... they were moving to the penny ...","lbl":"Negative"}
+,{"time":"15:51","usr":"wallstdaily","txt":"@Google\u2019s Stock-Split isn\u2019t Evil, it\u2019s Meaningless. $GOOG http://t.co/WNKGQV0J","lbl":"Negative"}
+]

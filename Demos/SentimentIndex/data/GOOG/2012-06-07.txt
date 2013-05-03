@@ -1,0 +1,23 @@
+[
+{"time":"2:08","usr":"tkuz4u","txt":"Twitter is made for Mobile! $GOOG just BUY IT! $FB will never figure it out! Let FB control desktop social! Like yhoo did Portals! So what?","lbl":"Positive"}
+,{"time":"2:10","usr":"tkuz4u","txt":"If $GOOG Doesn\u2019t buy Twitter then Apple won war of mobile/platforms!","lbl":"Negative"}
+,{"time":"2:22","usr":"tkuz4u","txt":"Next year $GOOG = search+android+ Chrome+maps+ you tube + TWITTER! = market cap $500 billion? King of desktop & mobile?","lbl":"Positive"}
+,{"time":"7:34","usr":"twit_withman","txt":"RT @SAI: Wow, North American Ad Spending On Mobile Remains Hilariously Tiny $GOOG by @nichcarlson http://t.co/SP3zmT3O","lbl":"Negative"}
+,{"time":"7:35","usr":"RussGoPackGo","txt":"RT @SAI: Wow, North American Ad Spending On Mobile Remains Hilariously Tiny $GOOG by @nichcarlson http://t.co/SP3zmT3O","lbl":"Negative"}
+,{"time":"7:35","usr":"michaelbayler","txt":"Hilariously? @BI_Advertising: Wow, American Ad Spending On Mobile Remains Hilariously Tiny $GOOG by @nichcarlson http://t.co/jL9tYnqa #in","lbl":"Negative"}
+,{"time":"9:18","usr":"nickroshon","txt":"RT @SAI: In Another Blow To Google, Apple Plans To Add Baidu For Search In China $AAPL $GOOG $BIDU http://t.co/JR5mLO1o","lbl":"Negative"}
+,{"time":"9:18","usr":"gigabarb","txt":"RT @SAI: In Another Blow To Google, Apple Plans To Add Baidu For Search In China $AAPL $GOOG $BIDU http://t.co/VVZGXmyw","lbl":"Negative"}
+,{"time":"9:19","usr":"berkutchitweet","txt":"short $GOOG","lbl":"Negative"}
+,{"time":"9:50","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Google Is Waging War On Microsoft Office $GOOG by @hleonard76 http://t.co/LVYb7ffn","lbl":"Negative"}
+,{"time":"9:51","usr":"Sandman7591","txt":"$GOOG ugly action next quarter is going to be interesting.........interesting in the Chinese sense","lbl":"Negative"}
+,{"time":"9:51","usr":"vfiorg","txt":"RT @SAI: In Another Blow To Google, Apple Plans To Add Baidu For Search In China $AAPL $GOOG $BIDU http://t.co/VVZGXmyw","lbl":"Negative"}
+,{"time":"11:11","usr":"biztag","txt":"RT @SAI: More Proof That Apple Is Crushing Android In The Platform War $AAPL $GOOG by @jyarow http://t.co/QUWfFBep","lbl":"Negative"}
+,{"time":"11:12","usr":"michaelbruck","txt":"RT @SAI: More Proof That Apple Is Crushing Android In The Platform War $AAPL $GOOG by @jyarow http://t.co/QUWfFBep","lbl":"Negative"}
+,{"time":"11:46","usr":"optioncommander","txt":"RT \u200F@businessinsider More Proof That Apple Is Crushing Android In The Platform War http://t.co/joWDMBu6 > $AAPL $GOOG","lbl":"Negative"}
+,{"time":"11:47","usr":"ThembeK","txt":"RT @businessinsider: More Proof That Apple Is Crushing Android In The Platform War $AAPL $GOOG by @jyarow http://t.co/QF2ebtfz","lbl":"Negative"}
+,{"time":"13:51","usr":"alexcalic","txt":"This falls under the \u0022why did it take $GOOG so long to do this\u0022 category- AdWords + AdMob = solving mobile ad $$ gap: http://t.co/9peBdZPz","lbl":"Negative"}
+,{"time":"14:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 14:30 EST have been positive. Watch the real-time indicator graph at http://t.co/c4rm8WGR","lbl":"Positive"}
+,{"time":"15:52","usr":"BilliamPoole","txt":"@WSJ Why not just wait for the private markets to come up with a solution? Google\u0027s just a few years away. #googlecar $Goog","lbl":"Positive"}
+,{"time":"17:54","usr":"61point8","txt":"@harmongreg Greg, one thing came to mind is $GOOG. My forecast calls for $520. A reversal in $BIDU will trigger the next down leg in $GOOG.","lbl":"Negative"}
+,{"time":"21:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 21:30 EST have been positive. Watch the real-time indicator graph at http://t.co/c4rm8WGR","lbl":"Positive"}
+]

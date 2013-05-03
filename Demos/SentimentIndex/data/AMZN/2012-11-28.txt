@@ -1,0 +1,6 @@
+[
+{"time":"10:15","usr":"newsagg","txt":"$AMZN signs of weakness in the chart https://t.co/pWwns1Sa","lbl":"Negative"}
+,{"time":"14:36","usr":"jfahmy","txt":"$PCLN back above its 200-day and $AMZN back above its 50-day, a good sign for Big Cap leadership.","lbl":"Positive"}
+,{"time":"17:17","usr":"jaruppert","txt":"$AMZN not startup, but certainly meets @highmtnventures criteria: disruptive, inevitable and efficient. Go long. http://t.co/rEAvSXiR","lbl":"Positive"}
+,{"time":"22:33","usr":"bbolan1","txt":"LivingSocial lays off 500, bad news for $AMZN, suggests weak demand for coupons, so bad for $GRPN too.","lbl":"Negative"}
+]

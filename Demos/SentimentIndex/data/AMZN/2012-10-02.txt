@@ -1,0 +1,6 @@
+[
+{"time":"7:20","usr":"biggercapital","txt":"He is full of shit RT @ypanjabi: Tilson says \u0022$nflx is the $amzn of this decade\u0022","lbl":"Negative"}
+,{"time":"9:53","usr":"DividendMaster","txt":"How is it nobody ( including Einhorn ) can at least address the insanity of $AMZN with a 300+ PE and a $100+bln market cap","lbl":"Negative"}
+,{"time":"12:14","usr":"LansdowneWealth","txt":"RT @LegendOnWallSt: RT @LegendOnWallSt: Amazon Quietly Begins Moves Into Online Lending - http://t.co/eBOH5eWg - $AMZN","lbl":"Positive"}
+,{"time":"14:47","usr":"TweetLeni","txt":"@KymLang i like on line retailers a lot I consider $FB one of them :) $Ebay is a great choice as well as $AMZN","lbl":"Positive"}
+]

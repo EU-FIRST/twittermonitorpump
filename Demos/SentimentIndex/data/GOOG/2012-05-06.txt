@@ -1,0 +1,7 @@
+[
+{"time":"8:00","usr":"schmeerte7","txt":"Here Are All The Weird, Secret Projects Sergey Brin Spends His Time Building $GOOG by @mattlynley http://t.co/3fu7E8i4","lbl":"Negative"}
+,{"time":"9:37","usr":"philfss","txt":"Apple rules the world!! Yayyy:D @SAI: More Proof That Android Still Playing Catch Up To iPhone $GOOG by @stevekovach http://t.co/tcXcDevH","lbl":"Negative"}
+,{"time":"9:38","usr":"vargst","txt":"RT @SAI_Tools: More Proof That Android Is Still Playing Catch Up To iPhone $GOOG by @stevekovach http://t.co/7a3IiAln","lbl":"Negative"}
+,{"time":"11:22","usr":"fatimah_x","txt":"RT @SAI_Tools: More Proof That Android Is Still Playing Catch Up To iPhone $GOOG by @stevekovach http://t.co/7a3IiAln","lbl":"Positive"}
+,{"time":"23:54","usr":"USwwwStocks","txt":"$GOOG News: Google Stock Plan Irks Governance Watchdogs http://t.co/vLCZn4iQ #daytrading #usa #www #stocks","lbl":"Negative"}
+]

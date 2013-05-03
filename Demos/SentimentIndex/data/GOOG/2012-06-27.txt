@@ -1,0 +1,20 @@
+[
+{"time":"3:18","usr":"thefinancepress","txt":"$GOOG Planned Google tablet to rival Amazon - Asustek executive: Planned Google tablet to rival Amazon - Asuste... http://t.co/tKmoZU0Z","lbl":"Positive"}
+,{"time":"6:39","usr":"lylefc","txt":"if you have thousands to spend, buy $GOOG. Price target in the $800\u0027s. $FB needs $2bil a year just to run the company...insane to buy $FB.","lbl":"Positive"}
+,{"time":"6:43","usr":"gregnb","txt":"Only thing I\u0027m eying is $goog on a push higher into resistance. If it fails into $570-575 looking to short it","lbl":"Negative"}
+,{"time":"10:01","usr":"_elhadri_","txt":"$GOOG showing strength...let\u0027s see if it holds.","lbl":"Positive"}
+,{"time":"11:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 11:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"11:30","usr":"businessinsider","txt":"LIVE: Google Announces New Products! $GOOG by @stevekovach http://t.co/7isAp6rE","lbl":"Positive"}
+,{"time":"12:19","usr":"Commodity_Bull","txt":"$GOOG just announced its own branded tablet, the Nexus 7. Starting at $199. We\u0027ll see how it fares, but I can\u0027t imagine too well","lbl":"Negative"}
+,{"time":"13:27","usr":"RolfeWinkler","txt":"Project Glass. I get it, it takes pictures. Is that it? And how does it work? $GOOG","lbl":"Negative"}
+,{"time":"13:27","usr":"TradrPaul","txt":"$AAPL $goog Nexus 7 = great competition for the Kindle Fire","lbl":"Positive"}
+,{"time":"13:28","usr":"shi_marschall","txt":"RT @SAI: Meet Google\u0027s Latest Life-Changing Product: \u0027Google Now\u0027 $GOOG by @officialKLS http://t.co/V302QYXF","lbl":"Positive"}
+,{"time":"14:02","usr":"PCH888","txt":"$GOOG tablet is 3yrs too late, mkt already monopolized by $AAPL iPads","lbl":"Negative"}
+,{"time":"15:10","usr":"FreeMrktCptlst","txt":"LOL\u2026that $GOOG hardware is hideous! Are these companies even trying? Buy $AAPL $$","lbl":"Negative"}
+,{"time":"15:43","usr":"jpdurrios","txt":"Kudos to $GOOG for designing and manufacturing the #NexusQ in the #USA. Other companies like $GE and $CAT are leading\u2026http://t.co/5YKbOwFy","lbl":"Positive"}
+,{"time":"16:15","usr":"IdeaJason","txt":"$FB is not only losing the innovation game but anything new is treated w/ fear. $goog on the otherhand is killn it w/ G+. Just need an #API","lbl":"Positive"}
+,{"time":"16:16","usr":"rechtsteiner","txt":"Very intrigued w/ $GOOG Cloud Messaging for Android relative to increasing severity of data caps. http://t.co/ex4Yf2hj","lbl":"Positive"}
+,{"time":"21:27","usr":"TheRealLennan","txt":"RT @szaman: RT @TrendRida: 150 million users log on to $GOOG+ once a month. My question is for what?> Still, no idea what it supposed to be.","lbl":"Negative"}
+,{"time":"21:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 21:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"23:42","usr":"bridgesdavid","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+]

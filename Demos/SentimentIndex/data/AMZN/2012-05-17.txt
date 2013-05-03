@@ -1,0 +1,8 @@
+[
+{"time":"1:02","usr":"BUDDIEE18","txt":"RT @guttrader: $AMZN needs to get out of this range. I solute the stock compared to the rest, watch out 118 support or 233 area for possible breakout up","lbl":"Positive"}
+,{"time":"11:04","usr":"investorsmosaic","txt":"we\u0027ll take the under @LDrogen. $RSH had crappy stores even before $amzn destroyed all brick-and-mortar stores.","lbl":"Positive"}
+,{"time":"11:46","usr":"Mark_Lexus","txt":"$AMZN still holding its post earnings channel despite market down move..still huge gap to fill though http://t.co/oNrhqx93 #WORDEN","lbl":"Negative"}
+,{"time":"12:24","usr":"LazT3Live","txt":"My T3Live Mid-Day Market Update http://t.co/1y6hYkdJ Don\u0027t Try to Catch a Falling Knife $SPY $AAPL $FB $AMZN $BIDU","lbl":"Negative"}
+,{"time":"14:25","usr":"turleymuller","txt":"@Aapl_pain I hope so. $FB at this valuation is a joke. Won\u0027t stop people from buying it. Just look at $AMZN. Defies logic","lbl":"Negative"}
+,{"time":"14:27","usr":"tradeadan","txt":"$AMZN flirting with a gap fill?","lbl":"Negative"}
+]

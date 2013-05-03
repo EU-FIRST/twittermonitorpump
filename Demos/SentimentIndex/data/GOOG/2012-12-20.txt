@@ -1,0 +1,10 @@
+[
+{"time":"8:02","usr":"mrmojorisin320","txt":"RT @businessinsider: Google Just Got Another $2.35 Billion To Play With, Thanks To Sale Motorla Set-Top Business $GOOG $ARRS http://t.co/XiaDCsmF","lbl":"Positive"}
+,{"time":"8:04","usr":"noufji","txt":"RT @SAI: Google Just Got Another $2.35 Billion To Play With, Thanks To Sale Motorla Set-Top Business $GOOG $ARRS http://t.co/IRFSqvTJ","lbl":"Positive"}
+,{"time":"9:25","usr":"Clearwaterfunds","txt":"Not sure what is more painful, short $GOOG or short $EUR/USD. tales from the pain trade..","lbl":"Positive"}
+,{"time":"10:06","usr":"ChartMoMo","txt":"bot to close $goog DEC 705 puts. +.85 per contract","lbl":"Negative"}
+,{"time":"10:06","usr":"lagordon417","txt":"Hopped back in long $WDC yesterday, continues to act strong. Still long $GOOG and $EBAY as well.","lbl":"Positive"}
+,{"time":"11:02","usr":"MogulAzam","txt":"RT @barronstechblog: Apple\u2019s Siri Slightly Better Than Google \u2018Now,\u2019 Says Piper Barron\u0027s $AAPL $GOOG $YELP $OPEN http://t.co/2aCYI5qs","lbl":"Negative"}
+,{"time":"12:23","usr":"GetBizDC","txt":"RT @SAI: These Are Companies Behind Apple\u0027s Attempt To Kill Google $AAPL $GOOG $YELP by @jyarow http://t.co/3CmDBQEn","lbl":"Negative"}
+,{"time":"19:15","usr":"FanToPro","txt":"RT @SAI: Quora Just Launched A Major Salvo At Google With Its Plan To Become The Internet\u0027s \u0027Library Of Alexandria\u0027 $GOOG http://t.co/ihtXDdSo","lbl":"Negative"}
+]

@@ -1,0 +1,10 @@
+[
+{"time":"7:55","usr":"firstadopter","txt":"I may have to write an in-depth article soon to explain why I\u0027m so sure $AMZN will fail so miserably to enlighten everyone. So be it","lbl":"Negative"}
+,{"time":"11:58","usr":"Vconomics","txt":"Warned anyone trading $AMZN last night. No one should be suprised by this move today.","lbl":"Negative"}
+,{"time":"11:58","usr":"calebwalker","txt":"New 165/160 put spreads in $AMZN for .58","lbl":"Negative"}
+,{"time":"11:59","usr":"firstadopter","txt":"$MSFT cuts cloud services pricing 12-50% after $AMZN cut prices earlier this week. Lower margins for EVERYONE! http://t.co/U1jPeUAu","lbl":"Negative"}
+,{"time":"13:18","usr":"iStockAnalyst","txt":"3 Reasons Why Investors Should Stay Away From Netflix $AAPL $AMZN $CCT $CMCSA $DVR $LCAPA $MXM $NFLX $TIVO $TWX:... http://t.co/yWCPvtVY","lbl":"Negative"}
+,{"time":"14:00","usr":"ShortStockPicks","txt":"#StockMarket #NASDAQ100 #Drops: $GMCR -15.5%, $CTRP -2.8%, $WYNN -1.9%, $WCRX -1.6%, $EXPE -1.5%, $AMZN -1.5%, $DELL -1.3%, $VOD -1.3%","lbl":"Negative"}
+,{"time":"15:20","usr":"SeekingAlpha","txt":"Utility Supercomputing: Amazon Markets The Cloud http://t.co/fWnEqMFq $GOOG $RAX $AMZN","lbl":"Positive"}
+,{"time":"16:17","usr":"chrishar00","txt":"Another great day trading $AMZN, $GMCR and locking swing profits in $IWM and $ABT. Holding some hedged $AMZN, but pretty light here...","lbl":"Positive"}
+]

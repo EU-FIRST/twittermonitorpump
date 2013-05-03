@@ -1,0 +1,5 @@
+[
+{"time":"10:04","usr":"Meyouzick","txt":"Who is going to buy $AMZN Kindle Fire if you can buy an iPad with 10Xs better experience for $50-100 more? NOBODY!","lbl":"Negative"}
+,{"time":"11:00","usr":"jaykza","txt":"$AMZN hugging bottom of multi-month triangle. thru day\u0027s low on volume should do it. triangle PO ~ 151 greater H&S in play as well.","lbl":"Negative"}
+,{"time":"18:59","usr":"MiSTERKN0WiTALL","txt":"RT @rayno $AMZN: Awful looking stock du jour @InvestUprising","lbl":"Negative"}
+]

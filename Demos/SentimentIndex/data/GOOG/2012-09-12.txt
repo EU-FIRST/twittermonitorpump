@@ -1,0 +1,15 @@
+[
+{"time":"1:22","usr":"keepitrealdude","txt":"Stopped on $GOOG short from 690 at 701 the other day. No single names at the moment..","lbl":"Positive"}
+,{"time":"8:30","usr":"cfrazierjr","txt":"@soolebop was long $GOOG at the same time and got handed down on them too.","lbl":"Negative"}
+,{"time":"8:31","usr":"firstadopter","txt":"$GOOG should trade down today. $AAPL is basically kicking them out of iOS and $FB said last night they are going after their core search biz","lbl":"Negative"}
+,{"time":"8:59","usr":"DeidreZune","txt":"$GOOG down directly because $FB said they r seriously thinking of entering search. $FB social+$BING= formidable competitor?","lbl":"Negative"}
+,{"time":"9:42","usr":"SeemaCnbc","txt":"Will Facebook be able to steal market share from $GOOG? Zuckerberg did say $FB will get into the search biz...tweet @cnbcfastmoney ur ideas","lbl":"Negative"}
+,{"time":"10:54","usr":"takingstock614","txt":"Those that played $GOOG off 680 level, looks good here. I\u0027d take some profits.","lbl":"Negative"}
+,{"time":"11:35","usr":"soolebop","txt":"@cfrazierjr 683.17 looks like technically strong in $goog.. it looks like it will revisit it.. today\u0027s low plus 15 cent looks like a stop","lbl":"Negative"}
+,{"time":"12:52","usr":"ForbesTech","txt":"$GOOG\u0027s carbon emissions per $1m in revenue has fallen 10% every year since 2009 reports @greenwombat http://t.co/0eITOJfZ","lbl":"Negative"}
+,{"time":"12:52","usr":"RedDogT3Live","txt":"\u201C@tlmontana: $GOOG New Highs\u201D Trade em and trail em","lbl":"Positive"}
+,{"time":"17:16","usr":"mikerochac","txt":"Say i have a smartphone already the question is: \u0022What do I buy? A $300 $AAPL iPod or a $200 $GOOG Nexus 7? Odds are not on Apples side 4 me","lbl":"Positive"}
+,{"time":"18:53","usr":"DeonXXIV","txt":"And everyone please chill with the iPhone sucks texts. I didn\u0027t even get to analyze the phone yet - But I did see $GOOG shares drop 19 pts.","lbl":"Negative"}
+,{"time":"21:37","usr":"BUDDIEE18","txt":"RT @berkmh: Thurs on watch: $MCP $CMG $SODA $FB $NFLX $LNKD $PCLN longs $AAPL $GOOG short","lbl":"Negative"}
+,{"time":"21:37","usr":"BUDDIEE18","txt":"@berkmh WHY are u shorting $AAPL & $GOOG ?? tia","lbl":"Negative"}
+]

@@ -1,0 +1,8 @@
+[
+{"time":"0:36","usr":"beleggersclub8","txt":"$GOOG Stock to go long IF. Break above resistance http://t.co/05TMKSxO","lbl":"Positive"}
+,{"time":"0:40","usr":"tradenotes","txt":"stugots Bought 10 shares of $GOOG at $618.60 on @TradeKing. http://t.co/erJtxnnr - why, you ask? Find out & discuss.","lbl":"Positive"}
+,{"time":"0:41","usr":"tradenotes","txt":"stugots Sold 40 shares of $GOOG at $618.00 on @TradeKing. http://t.co/kszIk5s8 - why, you ask? Find out & discuss.","lbl":"Negative"}
+,{"time":"13:21","usr":"valuewalk","txt":"I still cant figure out exactly how $goog finance works","lbl":"Negative"}
+,{"time":"13:25","usr":"SunnyBhamra","txt":"Regrets of the week $mww,$wynn.. Wins of the week $aapl, $wfc, $slw Holding $kft, $FL, $swy, $lgf, $brkb, $aapl, $goog, Losers $IPG","lbl":"Positive"}
+,{"time":"18:46","usr":"thetapeguy","txt":"On 11/21/2011 $GOOG market cap was $82.6 Billion. Today the market cap is $201.99 Billion. #Google","lbl":"Positive"}
+]

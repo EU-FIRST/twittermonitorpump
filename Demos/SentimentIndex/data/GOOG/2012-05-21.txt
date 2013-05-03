@@ -1,0 +1,37 @@
+[
+{"time":"2:33","usr":"danielz59","txt":"$GOOG - Google Stock Analysis - sub penny stock - http://t.co/7wK2xKTf","lbl":"Negative"}
+,{"time":"8:34","usr":"InvestorJunkie","txt":"Put int an order to buy $GOOG @ 600 for my WTF Fund #fb","lbl":"Positive"}
+,{"time":"8:36","usr":"InvestorJunkie","txt":"Cool. I got my order for $GOOG @ 600 even though it opened at $600.50 #fb","lbl":"Positive"}
+,{"time":"9:04","usr":"billdouglass","txt":"Well-deserved: Google Chrome ousts Internet Explorer as Mayor of Browserville. http://t.co/vU4NwD7H $goog $msft","lbl":"Positive"}
+,{"time":"9:05","usr":"thefinancepress","txt":"$GOOG Critical Alerts For Google, DirecTV, http://t.co/JtKxIUd0, Southwest Airlines, and T ...: Critical Alerts ... http://t.co/QW16tRE2","lbl":"Negative"}
+,{"time":"9:26","usr":"Jim_Edwards","txt":"Pinterest Is Turning Google+ Into A Ghost Town For Advertisers $GOOG http://t.co/pRAqaeap","lbl":"Negative"}
+,{"time":"9:26","usr":"BI_Advertising","txt":"Pinterest Is Turning Google+ Into A Ghost Town For Advertisers $GOOG by @Jim_Edwards http://t.co/vv9GiNQ4","lbl":"Negative"}
+,{"time":"9:26","usr":"SAI","txt":"Pinterest Is Turning Google+ Into A Ghost Town For Advertisers $GOOG by @Jim_Edwards http://t.co/DBZ9FsHU","lbl":"Negative"}
+,{"time":"11:44","usr":"iRemoveAllDoubt","txt":"RT @SuzyQJaco: While everyone was watching $FB nonsense...$GOOG dropped 40 points in 3 days.","lbl":"Negative"}
+,{"time":"11:44","usr":"IntlMktEntry","txt":"#IE passes $GOOG #Chrome to be most Popular #Browser! http://t.co/SUTEGCec","lbl":"Positive"}
+,{"time":"11:46","usr":"creativereason","txt":"RT @SuzyQJaco: While everyone was watching $FB nonsense...$GOOG dropped 40 points in 3 days.","lbl":"Negative"}
+,{"time":"12:32","usr":"justinkistner","txt":"@rcrsv this is the $8 drop over the first two weeks of $GOOG that I was referring to http://t.co/4y2aQUxb","lbl":"Negative"}
+,{"time":"13:25","usr":"TweetLeni","txt":"@PeakTheories In comparing $AAPL v $GGOG the short term up slopes have some merit adding greater probability to $GOOG","lbl":"Positive"}
+,{"time":"16:21","usr":"mattfmccormick","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:21","usr":"SocraticNews","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:21","usr":"kavs88","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:23","usr":"EnricoMorolli","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:23","usr":"itsmereshma","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:26","usr":"TheColdPhoenix","txt":"lmao RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/mUHn8AmP $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:26","usr":"hbosakhar","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:26","usr":"lawhawk","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:32","usr":"pennystockguys","txt":"$GOOG - Modest 1Q for SalesForce - Analyst Blog http://t.co/VVCiCtrD","lbl":"Negative"}
+,{"time":"16:32","usr":"charlesrwa","txt":"$GOOG - Modest 1Q for SalesForce - Analyst Blog http://t.co/ZbkWsJSy","lbl":"Negative"}
+,{"time":"16:32","usr":"josephwerle","txt":"Is the market seeing light in the competition? $APPL and $GOOG both have risen, 2~% and 5~% respectively, while $FB is down 11%","lbl":"Positive"}
+,{"time":"16:43","usr":"redkompressor","txt":"#InternetExplorer lost its number 1 spot to $GOOG #Chrome","lbl":"Positive"}
+,{"time":"16:44","usr":"Watchdogsniffer","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:04","usr":"_jjthejetplane_","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:04","usr":"Christian_Ifft","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:54","usr":"jcardan1","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:55","usr":"AAHbusinessman1","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:55","usr":"notibursa_eah","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"18:59","usr":"KB_Smoove","txt":"\u201C@SAI:Google\u0027s Self Driving Cars Just Got One Step Closer To Reality In California $GOOG by @Julie188 http://t.co/QJaRUlSP\u201D<--iRobot is here","lbl":"Positive"}
+,{"time":"19:00","usr":"ASyahrulH","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/B4U72cHW $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"21:21","usr":"Borgiziz","txt":"Devil bless it! Why didn\u0027t I buy back $GOOG too?!","lbl":"Positive"}
+,{"time":"21:32","usr":"adamh114","txt":"RT @SAI: Google\u0027s Self Driving Cars Just Got One Step Closer To Reality In California $GOOG by @Julie188 http://t.co/uxCS1CGg","lbl":"Positive"}
+]

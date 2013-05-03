@@ -1,0 +1,8 @@
+[
+{"time":"8:04","usr":"BluHorShoe","txt":"I am short $GOOG with slightly out of the money Puts that I purchased yesterday at close","lbl":"Negative"}
+,{"time":"8:11","usr":"UdallTechStrat","txt":"I\u0027m more bullish about potential for $goog buy of MMI than most. Note, was buying $MMI in the $20\u0027s before the deal. http://t.co/vXAnvw3Z","lbl":"Positive"}
+,{"time":"8:12","usr":"Alex__Salomon","txt":"RT @UdallTechStrat: I\u0027m more bullish about potential for $goog buy of MMI than most. Note, was buying $MMI in the $20\u0027s before the deal. http://t.co/vXAnvw3Z","lbl":"Positive"}
+,{"time":"8:58","usr":"tjb1970","txt":"RT @BI_Advertising: CLAIM: Google Ad Campaign Won Top Cannes Award In Corrupt Judging Process $GOOG $OMC $WPPGY by @Jim_Edwards http://t.co/IfmqR4zz","lbl":"Negative"}
+,{"time":"16:59","usr":"ryanmcraver","txt":"amazing what a little competition from apple will do to google pricing on maps product $goog $aapl http://t.co/8TAjblrE","lbl":"Negative"}
+,{"time":"22:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 22:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+]

@@ -1,0 +1,19 @@
+[
+{"time":"5:12","usr":"nazihtw","txt":"$Goog wants to invest in the automotive industry with its self-driving car. :) http://t.co/f5IvHeFS","lbl":"Positive"}
+,{"time":"8:03","usr":"ElliotTurn","txt":"$GOOG Hangouts could have a whole lot of new uses in the future: http://t.co/NVXTZ8jG","lbl":"Positive"}
+,{"time":"9:50","usr":"igrowthinvest","txt":"I have swapped $goog for -2.5% for $ebay. $ebay stop is around 34.80sh. Current longs $v $ebay $bidu $$","lbl":"Negative"}
+,{"time":"10:45","usr":"Rico_NoSuave","txt":"RT @SAI: THE GOOGLE INVESTOR: You Won\u0027t Believe How Much Google Makes Per Android Device $GOOG by @hleonard76 http://t.co/HTGDvYpl","lbl":"Positive"}
+,{"time":"11:36","usr":"SmokeHogan","txt":"RT @9to5mac: \u201C@dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/SZcHgajZ\u201D Meaningless! But still interesting to note","lbl":"Negative"}
+,{"time":"11:40","usr":"dmackdaddy","txt":"We have Apple passing Google folks! RT @pdparticle: Boom! $AAPL $GOOG http://t.co/auMu4qRH","lbl":"Negative"}
+,{"time":"11:50","usr":"mchowelltime","txt":"\u201C@MNYCx: $AAPL ahead of $GOOG for the first time in history\u201D @Guerillaboy too the moon!!!","lbl":"Negative"}
+,{"time":"12:18","usr":"cwaikman","txt":"RT @businessinsider: Hey Google: Here\u0027s Proof People Don\u0027t Want To Wear Computers On Their Faces $GOOG by @MattRosoff http://t.co/30aLA5zi","lbl":"Negative"}
+,{"time":"12:47","usr":"bd7349","txt":"RT @9to5mac: \u201C@dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/l2p02Soz\u201D Meaningless! But still interesting to note","lbl":"Negative"}
+,{"time":"12:48","usr":"BlueFielder","txt":"$GooG Short now working well - Pin the tail","lbl":"Negative"}
+,{"time":"13:24","usr":"P1pBoy","txt":"@MNYCx @tlmontana MNYC loves $GOOG puts","lbl":"Negative"}
+,{"time":"13:25","usr":"MNYCx","txt":"@P1pBoy @tlmontana please stop spamming with those, we get it, you have $GOOG Puts. And no i don\u0027t like them today, bouncing now","lbl":"Positive"}
+,{"time":"14:05","usr":"Catwoman2011","txt":"$AAPL What a thoroughbred racehorse! Levels off @ ATH going into long wknd, 4/24 ER & Beating $GOOG. Can\u0027t get more bullish than that. =^.^=","lbl":"Negative"}
+,{"time":"15:27","usr":"EHYH2010","txt":"@LaMonicaBuzz yeah, and we $AAPL investors will spend a long weekend looking down to $GOOG... couldn\u0027t happen in a better time.","lbl":"Negative"}
+,{"time":"16:11","usr":"TraderMichigan","txt":"I\u0027m guessing if $GOOG had charged for android OS they\u0027d be up w $AAPL RT @Reuters_Biz Google CEO touts gains, focuses on long term bets","lbl":"Negative"}
+,{"time":"16:43","usr":"lluccipha","txt":"SAI: Google Can\u0027t Even Get Its Own Nexus Phones Updated On Time $GOOG $S by @stevekovach http://t.co/tljpjN2M","lbl":"Negative"}
+,{"time":"20:45","usr":"jrstock97","txt":"RT @9to5mac: \u201C@dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/l2p02Soz\u201D Meaningless! But still interesting to note","lbl":"Negative"}
+]

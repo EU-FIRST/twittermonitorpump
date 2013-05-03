@@ -1,0 +1,10 @@
+[
+{"time":"3:05","usr":"tradingallday2","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/Qm2ZPDFQ","lbl":"Positive"}
+,{"time":"11:23","usr":"StocksMD","txt":"$AMZN If 185 breaks, i\u0027ll be looking for a gap fill fairly quickly","lbl":"Positive"}
+,{"time":"12:16","usr":"cornholelio","txt":"RT @cornholelio Usually when everyone is short something $AMZN, it never works out. Could get a short squeeze today. It\u0027s happens a lot. $$","lbl":"Positive"}
+,{"time":"13:09","usr":"61point8","txt":"@MrSteveLee Told ya. No panic. Jobs = consumer spending = good for $AMZN","lbl":"Positive"}
+,{"time":"13:49","usr":"kiwitrader24","txt":"$AMZN http://t.co/rDdl0F9K just a tiny little bit of overhead res. here...","lbl":"Negative"}
+,{"time":"13:52","usr":"esstrader","txt":"RT @Mark_Lexus: http://t.co/HKzReoAq New position in $AMZN MAR 200/205 call credit spread - to make iron condor","lbl":"Positive"}
+,{"time":"14:17","usr":"SogoTradeOption","txt":"$AMZN over $14 off post earnings low. all of a sudden numbers wern\u0027t that bad? or most likely selling was overdone and unjustified.","lbl":"Positive"}
+,{"time":"14:18","usr":"bbolan1","txt":"AMZN down how much? RT @factset: Significant upside #earnings surprises reported during the past week from $ALL $NOC $AMZN","lbl":"Positive"}
+]

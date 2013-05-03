@@ -1,0 +1,6 @@
+[
+{"time":"8:41","usr":"TraderInPlay","txt":"$AMZN, $GOOG, $WYNN notable rel. weakness in $QQQ early","lbl":"Negative"}
+,{"time":"9:35","usr":"Lowtown21","txt":"still like $BIDU long here, same type of action as Friday. The chart still looks bullish. $AMZN not so much. @Xiphos_Trading is right 4 now","lbl":"Negative"}
+,{"time":"9:36","usr":"CNNMoney","txt":"RT @LaMonicaBuzz: Momentum\u0027s a female dog. Hot stocks with triple-digit share prices -- $PCLN $GOOG $MA $AAPL $CMG $FOSL $AMZN -- all down about 2% today.","lbl":"Negative"}
+,{"time":"12:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 186.00 -2.46 (-1.31%).","lbl":"Negative"}
+]

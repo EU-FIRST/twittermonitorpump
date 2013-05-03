@@ -1,0 +1,18 @@
+[
+{"time":"2:56","usr":"sergiazo","txt":"RT @MattRosoff: Google May Have Made The Worst Mistake In Its History This Week $GOOG $MSFT http://t.co/2armLV8W","lbl":"Negative"}
+,{"time":"2:58","usr":"SivanRBarnea","txt":"RT @MattRosoff: Microsoft Has Painted A Patent Target On Chrome $MSFT $GOOG http://t.co/HfZd4uRz","lbl":"Negative"}
+,{"time":"2:58","usr":"1MattHopkins","txt":"RT @SAI: Google May Have Made The Worst Mistake In Its History This Week $GOOG $MSFT by @MattRosoff http://t.co/NB5QRgdm","lbl":"Negative"}
+,{"time":"2:59","usr":"tiogaventure","txt":"RT @SAI: Google May Have Made The Worst Mistake In Its History This Week $GOOG $MSFT by @MattRosoff http://t.co/NB5QRgdm","lbl":"Negative"}
+,{"time":"5:31","usr":"Stockpulse1","txt":"$GOOG Google is extremely talked up in Social Media at the moment. MattRosoff, West Coast Editor for Business... http://t.co/RcydHX8T","lbl":"Negative"}
+,{"time":"5:32","usr":"esterdenicolas","txt":"#MuertaMeQuedo RT @SAI: \u0022Google May Have Made The Worst Mistake In Its History This Week $GOOG $MSFT by @MattRosoff http://t.co/O5pNEJQT\u201D","lbl":"Negative"}
+,{"time":"8:03","usr":"PaddyGray","txt":"\u201C@SeekingAlpha: Google Faces Another PR Disaster http://t.co/UBDiAQXB $GOOG\u201D this is nuts","lbl":"Negative"}
+,{"time":"12:23","usr":"61point8","txt":"$GOOG the downside target of the HS pattern published yesterday was hit on the nose ($621). http://t.co/uQYiPIsj","lbl":"Positive"}
+,{"time":"13:27","usr":"carmenhill8","txt":"Google Inc $GOOG Slightly Dropping. Google Inc. (NASDAQ:GOOG) Set To Host Event: http://t.co/PFQ2x2mR","lbl":"Negative"}
+,{"time":"14:26","usr":"AKPalit","txt":"#google search integration with #google+ is starting to raise privacy and antitrust concerns. $goog","lbl":"Negative"}
+,{"time":"15:06","usr":"ManiOhli","txt":"Option Millionaires: Mikey: can i get an amen on $GOOG being http://t.co/Z0naKeoZ","lbl":"Positive"}
+,{"time":"15:06","usr":"Tangletrade","txt":"RT @aztecs99: yikes, that was a big volume bar on $goog --> And that crushed call holders, now rally back to $625","lbl":"Positive"}
+,{"time":"15:46","usr":"RaviRomo","txt":"Good action in $GOOG $AAPL. Held back only by macro market.","lbl":"Positive"}
+,{"time":"17:46","usr":"$GOOG","txt":"$GOOG apologizes over the Mocality debacle. It was indeed $GOOG personnel who were involved: https://t.co/ub2A1sRn","lbl":"Negative"}
+,{"time":"17:48","usr":"OptionsTrader82","txt":"RT @TraderFlorida: $GOOG http://t.co/PI3Je56J Buyers stepping in holding above this support line","lbl":"Positive"}
+,{"time":"21:52","usr":"DiscoverWallSt","txt":"Hcotton: Awesome! good thing about $GOOG is that it: Hcotton http://t.co/BQLLC2Vx","lbl":"Positive"}
+]

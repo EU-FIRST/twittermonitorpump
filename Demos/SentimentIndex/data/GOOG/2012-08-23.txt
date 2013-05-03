@@ -1,0 +1,13 @@
+[
+{"time":"6:38","usr":"traderosfajans","txt":"Ok, let\u0027s put it this way: $GOOG is gonna fall below 672.2 in a day, i tell ya!","lbl":"Negative"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG +2%, $AAPL -6%, $F -16%, $INTC -63%, $DELL -57%, $MSFT -27% http://t.co/uBJyhJcD","lbl":"Positive"}
+,{"time":"13:16","usr":"market0000","txt":"$GOOG on hod bids","lbl":"Positive"}
+,{"time":"13:16","usr":"Fitzstock2004","txt":"$GOOG wants higher!!!!","lbl":"Positive"}
+,{"time":"13:16","usr":"sandeepbhavsar","txt":"got a $goog put, had an open ord did not think it might get filled.","lbl":"Negative"}
+,{"time":"13:16","usr":"jeverett72","txt":"@RedDogT3Live daytrade short $GOOG if it fails at $678 short term resist. @todd_harrison says mkts that are weak all day usually close weak","lbl":"Negative"}
+,{"time":"14:22","usr":"CFDs_Trader","txt":"RT @SJosephBurns: $GOOG is toying with 52 week highs on this down day for the market.","lbl":"Positive"}
+,{"time":"15:31","usr":"TradetheLeader1","txt":"Still long $AAPL $GOOG $CRUS $PCYC","lbl":"Positive"}
+,{"time":"19:13","usr":"MonkeyBonds","txt":"RT @CNNMoney: Google is reinventing the Internet. (Again) http://t.co/zKygfl4H $GOOG","lbl":"Positive"}
+,{"time":"19:15","usr":"gemsofbeauty","txt":"RT @cnnmoney: Google is reinventing the Internet. (Again) http://t.co/68OH3sKS $GOOG","lbl":"Positive"}
+,{"time":"19:20","usr":"Quest3300","txt":"Schwag RT @CNNMoney: Google is reinventing the Internet. (Again) http://t.co/hY76QHjY $GOOG","lbl":"Positive"}
+]

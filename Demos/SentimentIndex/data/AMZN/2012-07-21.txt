@@ -1,0 +1,3 @@
+[
+{"time":"6:42","usr":"dianputra65","txt":"RT @PaulWHKim: How is $AMZN still afloat with a P/E of 187? Maybe long Sep 21 190 TBO put spread at 195.","lbl":"Positive"}
+]

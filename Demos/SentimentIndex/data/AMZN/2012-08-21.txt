@@ -1,0 +1,10 @@
+[
+{"time":"7:48","usr":"RogueStockTradr","txt":"$GOOG $AMZN two good candidates to ride down for a swing when $SPY cracks.","lbl":"Negative"}
+,{"time":"7:53","usr":"BrianDeDonato","txt":"Interested in $GOOG over 679, $AMZN over 242-245, $AEM over 48, and $AAPL just about anywhere you can get it on a gapfill.","lbl":"Positive"}
+,{"time":"8:35","usr":"Lowtown21","txt":"out some $AMZN weeklies +50%","lbl":"Positive"}
+,{"time":"9:45","usr":"RaveD","txt":"$aapl $amzn $goog ... the generals are waving caution flags","lbl":"Negative"}
+,{"time":"9:47","usr":"jbscapllc","txt":"RT @CreateCapital: RT @RaveD: $aapl $amzn $goog ... the generals are waving caution flags ONE TRILLION DOLLARS IN MARKET VALUE","lbl":"Negative"}
+,{"time":"11:16","usr":"Buddahfan","txt":"RT @SAI: Amazon Announces A New Dirt Cheap Cloud For Storage $AMZN by @Julie188 http://t.co/RKjexJxC","lbl":"Positive"}
+,{"time":"12:16","usr":"htormey","txt":"@rakeshlobster 100% agree, $EBAY is still a distant 2nd place to $AMZN in terms of shopping/payment/shipping. I hate buying stuff from $EBAY","lbl":"Positive"}
+,{"time":"14:43","usr":"EvanMedeiros","txt":"long $AMZN 239.76","lbl":"Positive"}
+]

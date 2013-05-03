@@ -1,0 +1,7 @@
+[
+{"time":"2:28","usr":"guru30","txt":"RT @SAI: Google: Users Are \u0027Delighted\u0027 With Our Search Changes $GOOG by @MattRosoff http://t.co/5VyAEK2r","lbl":"Positive"}
+,{"time":"14:42","usr":"leopardtrader","txt":"I like $GOOG here with stop @540 with tgt $750. I will also take $SNDK with stop $44 tgt $60.","lbl":"Positive"}
+,{"time":"14:44","usr":"alexheimann","txt":"@ericjackson $goog is having issues keeping pace quarter after quarter with earnings based 95% on advertising, will $FB do better?","lbl":"Negative"}
+,{"time":"23:27","usr":"TinMan4L","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/UGZtTXsZ $AAPL $GOOG by @ozoran","lbl":"Negative"}
+,{"time":"23:41","usr":"mobilemerv","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/VRi4zZ6K $AAPL $GOOG by @ozoran","lbl":"Negative"}
+]

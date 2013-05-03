@@ -1,0 +1,3 @@
+[
+{"time":"16:53","usr":"tyson","txt":"RT @counternotions: Can\u0027t wait to see how Wall Street will punish $AAPL on Monday for this: http://t.co/zUI37aPs and reward $AMZN for this: http://t.co/3RrwODGG","lbl":"Positive"}
+]

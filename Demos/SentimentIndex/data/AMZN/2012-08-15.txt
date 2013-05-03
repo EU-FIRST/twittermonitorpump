@@ -1,0 +1,6 @@
+[
+{"time":"10:56","usr":"RedDogT3Live","txt":"$amzn on the move","lbl":"Positive"}
+,{"time":"14:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:17pm: 237.1201 +3.9301 (+1.69%).","lbl":"Positive"}
+,{"time":"17:05","usr":"MarketQuoter","txt":"@jimcramer talking about my three favorite stocks $AMZN $AAPL $GOOG, own all of them!","lbl":"Positive"}
+,{"time":"21:39","usr":"tradekitten","txt":"Long $FB, $AMZN nice profits. Might condor $AAPL tomorrow if pulls back. $GS weak. Longs/shorts working in rotation, be nimble! $SPY","lbl":"Positive"}
+]

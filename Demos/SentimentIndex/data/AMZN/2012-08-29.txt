@@ -1,0 +1,7 @@
+[
+{"time":"8:51","usr":"tradermays","txt":"machine gun out taking 3/4 profits $GOOG calls (+55%) $AMZN c (+25%) $LNKD c (+35%) $SBUX c (+15%) $JCP c (+45%)","lbl":"Positive"}
+,{"time":"9:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:17am: 245.78 -0.33 (-0.13%).","lbl":"Negative"}
+,{"time":"11:30","usr":"RoccoPendola","txt":"Why It May Be Time to Sell Amazon - TheStreet http://t.co/vMLg9VFX via @TheStreet I don\u0027t agree, but @rsaintvilus can write. $AMZN","lbl":"Negative"}
+,{"time":"11:31","usr":"rsaintvilus","txt":"RT @RoccoPendola: Why It May Be Time to Sell Amazon - TheStreet http://t.co/vMLg9VFX via @TheStreet I don\u0027t agree, but @rsaintvilus can write. $AMZN","lbl":"Negative"}
+,{"time":"22:22","usr":"ScottyJK6","txt":"$GOOG and $AMZN one breaking out today and the other coiling imho. Holding both","lbl":"Positive"}
+]

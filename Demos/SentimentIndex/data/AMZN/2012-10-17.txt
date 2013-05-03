@@ -1,0 +1,12 @@
+[
+{"time":"6:48","usr":"rodzvilla","txt":"RT @SAI: These Amazing World Maps Show Where Apple\u0027s Beating Google, Amazon, And Microsoft $AAPL $GOOG $AMZN $MSFT http://t.co/iVa6jZyT","lbl":"Negative"}
+,{"time":"8:40","usr":"YahooFinance","txt":"Amazon makes big Kindle push in U.S. schools $AMZN http://t.co/wI61nKfP #kindle","lbl":"Positive"}
+,{"time":"9:20","usr":"kulatogz","txt":"RT @SAI: Google Is Planning A $99 Tablet For The Holidays $GOOG $AMZN by @jyarow http://t.co/JGwaKDna","lbl":"Negative"}
+,{"time":"9:56","usr":"BlueFielder","txt":"$AMZN - New trade - bot 245 $PUT\u0027s @ 1.76","lbl":"Negative"}
+,{"time":"9:56","usr":"pampered_stef","txt":"RT @YahooFinance: Amazon makes big Kindle push in U.S. schools $AMZN http://t.co/wI61nKfP #kindle","lbl":"Positive"}
+,{"time":"9:57","usr":"ToddSullivan","txt":"RT @thestalwart: @BI_RetailNews: An Analyst Walked Into $BBY And Discovered FIrsthand How $AMZN Is Killing It http://t.co/v9L3S2aV","lbl":"Positive"}
+,{"time":"13:27","usr":"Lowtown21","txt":"RT @OptionsHawk: $AMZN October $245/$250 calls likely active as a play on $EBAY earnings - tend to be correlated and a sympathy mover","lbl":"Positive"}
+,{"time":"14:30","usr":"CBOE","txt":"DRJ on @CBOE_TV: $GOOG & $AMZN outperform & post-debate activity in #coal stocks @Optionmonster reports $$ http://t.co/rMQRYjqu","lbl":"Positive"}
+,{"time":"17:07","usr":"MomentumPtrsLLC","txt":"$amzn god bless you amazon helped make up for that $mlnx f job ......","lbl":"Positive"}
+,{"time":"22:42","usr":"options_mike","txt":"$AMZN looking at nice support stochastics churning higher my favorite stock to trade","lbl":"Positive"}
+]

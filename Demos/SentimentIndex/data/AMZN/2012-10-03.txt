@@ -1,0 +1,8 @@
+[
+{"time":"10:31","usr":"SPEQL8R","txt":"All stocks held support as mentioned earlier $JPM, $AMZN, $AAPL, $GOOG, etc. $SPY is churning in a range like it did in Aug be4 next move","lbl":"Positive"}
+,{"time":"12:23","usr":"wallstCS","txt":"Retailers Prepare for Jolly Good Holiday Sales http://t.co/yOLDtwBh $WMT $TGT $AMZN $GOOG $MSFT $BKS $AAPL $DIA $QQQ $SPY","lbl":"Positive"}
+,{"time":"12:24","usr":"Jamtrades","txt":"$GOOG and $AAPL vacillating.. $AMZN ripping","lbl":"Negative"}
+,{"time":"15:12","usr":"ToddSullivan","txt":"Just got my #kindle paperwhite.... hands down the best reading experience ever, nothing comes close... $AMZN","lbl":"Positive"}
+,{"time":"17:50","usr":"AlreadyBakedIn","txt":"$aapl iPad Mini gonna cannibalize tablet sales alright. $goog nexus and $amzn tablet sales!","lbl":"Negative"}
+,{"time":"20:09","usr":"thewad71","txt":"\u201C@optionmonster: I think 7 to 8 inch iPad mini will pull millions of buyers of $AMZN readers to $AAPL\u201D So will AMZN finally take a haircut?","lbl":"Negative"}
+]

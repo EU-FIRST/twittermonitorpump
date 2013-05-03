@@ -1,0 +1,21 @@
+[
+{"time":"6:48","usr":"victorJ0NES","txt":"RT @Benzinga: $GOOG PT Raised from $640 to $690 at Wedbush, Neutral rated","lbl":"Positive"}
+,{"time":"7:50","usr":"Alex__Salomon","txt":"Published $GOOG estimate on Estimize: +0.16 EPS and +27M Revs compared to Wall Street\u0027s consensus. http://t.co/86rW0ViP","lbl":"Positive"}
+,{"time":"8:40","usr":"JerTignes","txt":"$goog will give a good picture of the economic recovery in US, with its main market, advertisement. Goog ad revenue could lift $fb...","lbl":"Positive"}
+,{"time":"8:58","usr":"JerTignes","txt":"Bad $goog ad revenue would show US industry isnt ready to invest again, all markets will react quiete strongly to this...","lbl":"Negative"}
+,{"time":"8:59","usr":"bluser12","txt":"$GOOG earnings tomorrow, I was wondering why the premiums were so huge.","lbl":"Positive"}
+,{"time":"8:59","usr":"z8angela","txt":"$GOOG dip buying is easier for me ahead of its earring similar to $IBM $ISRG action. Quick play...","lbl":"Positive"}
+,{"time":"9:57","usr":"onlineIDtech","txt":"\u201C@iBlessit: $VRNG going under $4 due to trial risk. Google obviously making patent trolls earn it via jury\u201D / patent thief= $goog.","lbl":"Negative"}
+,{"time":"11:11","usr":"edwil","txt":"RT @SAI_Tools: 10 Android Apps You Didn\u0027t Know Existed, But Make Your Phone Much Better $GOOG by @officialKLS http://t.co/kOoVleSG","lbl":"Positive"}
+,{"time":"11:41","usr":"TweetLeni","txt":"Entering $GOOG today trying to fill under 754","lbl":"Positive"}
+,{"time":"12:29","usr":"TradetheLeader1","txt":"$goog acting well ahead of tomorrow\u0027s ERN report","lbl":"Positive"}
+,{"time":"13:25","usr":"launchticker","txt":"$goog releases 2 map APIs; Tracks API to analyze GPS data & Geolocation API for locating mobile device w/o GPS http://t.co/3WYqZnJY","lbl":"Positive"}
+,{"time":"13:26","usr":"61point8","txt":"$GOOG > If it goes above $758.50, I\u0027ll take a shot at earnings.","lbl":"Positive"}
+,{"time":"14:27","usr":"Dmirelli","txt":"RT @SAI: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/moOEKWl0","lbl":"Positive"}
+,{"time":"14:28","usr":"PCH888","txt":"RT @businessinsider: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/YO6r8J3M","lbl":"Positive"}
+,{"time":"15:03","usr":"OCVC","txt":"RT @SAI: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/moOEKWl0","lbl":"Positive"}
+,{"time":"15:05","usr":"Simonka","txt":"RT @StockTwits: crazy cool.. Google Throws Open Doors to Its Top-Secret Data Center http://t.co/rfuPhulc via Wired $GOOG","lbl":"Positive"}
+,{"time":"15:44","usr":"zeroroy","txt":"RT @SAI: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/moOEKWl0","lbl":"Positive"}
+,{"time":"18:49","usr":"StockMarket411","txt":"Legal concerns could pull Google stock down from current record highs, analysts say $goog http://t.co/W02v4lf9 goog, google, google stock...","lbl":"Negative"}
+,{"time":"20:47","usr":"johnsgilbert","txt":"@DeidreZune I\u0027m long $GOOG for the AH earnings (in ST acct) only if it closes >760. 4mo SMA;13wk EMA;50d SMA are all... http://t.co/MdaqjLbL","lbl":"Positive"}
+]

@@ -1,0 +1,9 @@
+[
+{"time":"6:59","usr":"JeffBessling","txt":"@SammyWalrusIV $AMZN is the opposite of $AAPL w/ respect to valuation. Expectations wildly out of line with performance. Time corrects this.","lbl":"Negative"}
+,{"time":"8:09","usr":"insidermonkey","txt":"Hard Times Ahead for Amazon $AMZN: Amazon (AMZN) has its hands in a lot of pies right now. In addition to its on... http://t.co/OQ7D9QlN","lbl":"Negative"}
+,{"time":"8:09","usr":"ReneeOFarrell","txt":"Hard Times Ahead for Amazon $AMZN: Amazon (AMZN) has its hands in a lot of pies right now. In addition to its on... http://t.co/reGD9xwe","lbl":"Negative"}
+,{"time":"8:15","usr":"wallstreet1928","txt":"RT @firstadopter: \u0022Soros, Ken Heebner, Andreas Halvorsen, Julian Robertson...sold out of their respective positions in $AMZN during Q4\u0022 http://t.co/QOgB0vaL","lbl":"Negative"}
+,{"time":"8:16","usr":"biggercapital","txt":"3000 more movies (17,000 totl) streaming for free on device you can fit in your pocket Yup the Fire sucks big time. Innovation so suck $AMZN","lbl":"Negative"}
+,{"time":"11:25","usr":"61point8","txt":"$AMZN > Yesterday, it dipped down to 180.77, but managed to close above the 50-ma. Today, it\u0027s got a different tone to it.","lbl":"Positive"}
+,{"time":"14:45","usr":"TraderGeek","txt":"@KeithMcCullough Which looks worse, $AMZN or $BIDU?","lbl":"Negative"}
+]

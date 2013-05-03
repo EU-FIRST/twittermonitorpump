@@ -1,0 +1,22 @@
+[
+{"time":"5:28","usr":"salothman1","txt":"RT @RedDogT3Live: I enter today long $AAPL $GOOG $lnkd $FB and short $spy for those who are not Members of my VTF. Out of $gld and $slv for now","lbl":"Positive"}
+,{"time":"8:40","usr":"Boss_Vos","txt":"$GOOG 52 week high break","lbl":"Positive"}
+,{"time":"8:40","usr":"RedDogT3Live","txt":"$goog highs of the year. Added and then trimmed some above $682. Will trail the rest","lbl":"Positive"}
+,{"time":"8:51","usr":"tlmontana","txt":"RT @supersainick: @tlmontana short $GOOG at $683.92, looking for a quick trade! <-- Good Luck Sweetie!","lbl":"Negative"}
+,{"time":"8:52","usr":"MDVigil1967","txt":"@aztecs99 $GOOG!!! Love it. Took that ride, and it paid out. Thanks Bob!!!","lbl":"Positive"}
+,{"time":"9:15","usr":"aztecs99","txt":"$GOOG - multi year high for the goog","lbl":"Positive"}
+,{"time":"9:16","usr":"boogidown","txt":"$AAPL position profitable now, $GOOG rentals +6 \u0022lord a mercy\u0022 - wow!!!","lbl":"Positive"}
+,{"time":"9:31","usr":"ChrisStuntz","txt":"$GOOG next resistance R2 Pivot @ 693.06","lbl":"Negative"}
+,{"time":"9:33","usr":"BuyWrites","txt":"@z8angela you bought calls? i thought that the $AAPL verdict would be a big negative for $GOOG","lbl":"Positive"}
+,{"time":"10:06","usr":"rechtsteiner","txt":"A Medfield phone? Mass market consumers simply don\u0027t care. $GOOG, $INTC are missing it here. http://t.co/YQQQbmU2","lbl":"Negative"}
+,{"time":"11:29","usr":"Fitzstock2004","txt":"$GOOG IS a bull flag, or cup n handle, or in my world a \u0022W V\u0022 pattern (opposite of \u0022MA\u0022)-ALL BULLISH http://t.co/T46EdQ7L","lbl":"Positive"}
+,{"time":"12:12","usr":"TheOxenGroup","txt":"$GOOG daytrade over 684 looks solid for a quick 1-2% scalp.","lbl":"Positive"}
+,{"time":"12:39","usr":"MMASSASSIN","txt":"covering $GOOG 585 weekly calls at 5.00-.10 BIG LOSS but holding 590 long leg. and locking in much smaller p-> http://t.co/fku2FMPS","lbl":"Positive"}
+,{"time":"12:39","usr":"takingstock614","txt":"$GOOG still has room here.","lbl":"Positive"}
+,{"time":"13:29","usr":"ChrisStuntz","txt":"back in $GOOG W 690 C; also added $AAPL W 675 C","lbl":"Positive"}
+,{"time":"14:41","usr":"takingstock614","txt":"Still holding $GOOG","lbl":"Positive"}
+,{"time":"15:26","usr":"Clintoris73","txt":"@Jamtrades Nice calls on $GOOG and $PCLN.. Caught Goog but left a lot on the table... Good problem to have","lbl":"Positive"}
+,{"time":"19:09","usr":"aznboi27","txt":"$GOOG - can you say BTFD? this market leader is headed higher, look at that pickup in volume http://t.co/UHnhtyOn","lbl":"Positive"}
+,{"time":"19:10","usr":"swamptrade","txt":"Bulls not finished yet http://t.co/NeFBIlsi $SPY $SPX $VIX $VXX $UVXY $AAPL $GOOG","lbl":"Positive"}
+,{"time":"19:15","usr":"sciencetrader","txt":"insider selling: $GOOG Schmidt sells 53,193 shares on 8/27 for $35,892,100.00","lbl":"Negative"}
+]

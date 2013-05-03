@@ -1,0 +1,12 @@
+[
+{"time":"10:43","usr":"LittleAppleSA","txt":"\u0022Amazon\u0027s New Tablets Are A Big Hit With Investors, Stock Jumps $13\u0022 http://t.co/BGmJ0LTv $AMZN $AAPL $MSFT $NOK","lbl":"Positive"}
+,{"time":"10:44","usr":"LittleAppleSA","txt":"RT @SeekingAlpha: Amazon\u0027s New Tablets Are A Big Hit With Investors, Stock Jumps $13 http://t.co/QjYLPZq3 $AAPL $MSFT $NOK $AMZN","lbl":"Positive"}
+,{"time":"14:07","usr":"haha_pmsl","txt":"RT: Forget About Amazon\u0027s Ads, Here\u0027s What Will Really Bother People About The Kindle Fire HD $AMZN by @stevekovach http://t.co/a3dr2f8x","lbl":"Negative"}
+,{"time":"16:34","usr":"BigTicks","txt":"$AMZN News: Amazon\u0027s new high-end tablet lacks FCC approval for sale http://t.co/VdbaYLpb #Amazons #AMZN #approval","lbl":"Negative"}
+,{"time":"16:45","usr":"FreedoniaMoney","txt":"Epix Deal Brings More Good News For Amazon, And Worry For Netflix - Seeking Alpha http://t.co/bE9TsNn3 $AMZN $NFLX #streaming","lbl":"Positive"}
+,{"time":"19:23","usr":"ToddSullivan","txt":"Amazon gets endorsement from Activision for games on Kindle Fire http://t.co/eF5KwpXZ $AMZN","lbl":"Positive"}
+,{"time":"19:26","usr":"AdaptToReality","txt":"RT @ToddSullivan: Amazon gets endorsement from Activision for games on Kindle Fire http://t.co/eF5KwpXZ $AMZN","lbl":"Positive"}
+,{"time":"23:44","usr":"firstadopter","txt":"Processor benchmarks $GOOG Nexus 7 chip absolutely destroys 4460 chip in $AMZN Kindle Fire HD 7\u0022 by 85-192% Article: http://t.co/OJ6iad4I","lbl":"Negative"}
+,{"time":"23:46","usr":"tpavlik","txt":"RT @firstadopter: Processor benchmarks $GOOG Nexus 7 chip absolutely destroys 4460 chip in $AMZN Kindle Fire HD 7\u0022 by 85-192% Article: h ...","lbl":"Negative"}
+,{"time":"23:54","usr":"firstadopter","txt":"Jeff Bezos said $AMZN had best hardware at every price point. After these lag videos, processor, and graphics chip benchmarks? Umm, no","lbl":"Positive"}
+]

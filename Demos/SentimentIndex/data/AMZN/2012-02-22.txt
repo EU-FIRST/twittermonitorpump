@@ -1,0 +1,7 @@
+[
+{"time":"7:56","usr":"ryanjhodges","txt":"@MinervasBig I admire you trying to do the impossible. Been a trader for 8 years, it\u0027s impossible to ignore fundys. 10ks are crap = $AMZN!","lbl":"Negative"}
+,{"time":"13:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 180.87 -1.39 (-0.76%).","lbl":"Negative"}
+,{"time":"16:15","usr":"racernic","txt":"trade update: $amzn down again 2day but give all negativity on it sticking w/mar cr put spread (170/65) 170 still proves a good bounce lvl","lbl":"Negative"}
+,{"time":"21:26","usr":"RedDogT3Live","txt":"@WMwins the real short on $amzn triggers if it can break and close below $170-$173","lbl":"Negative"}
+,{"time":"21:31","usr":"brokerz_bearish","txt":"RT @RedDogT3Live - @WMwins I think the macro pat. setting up on $amzn is bearish. I\u005C\u0027d rather use puts so I know my risk. I will also ...","lbl":"Negative"}
+]

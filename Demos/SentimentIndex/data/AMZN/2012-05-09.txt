@@ -1,0 +1,6 @@
+[
+{"time":"8:58","usr":"kingmike423","txt":"$AMZN squeezing...","lbl":"Negative"}
+,{"time":"8:59","usr":"RedDogT3Live","txt":"$amzn green- high beta hangs in so far","lbl":"Positive"}
+,{"time":"10:06","usr":"aznboi27","txt":"$AMZN green","lbl":"Positive"}
+,{"time":"11:10","usr":"aznboi27","txt":"In $AMZN 220 W P @ 1.26","lbl":"Negative"}
+]

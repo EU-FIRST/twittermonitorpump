@@ -1,0 +1,12 @@
+[
+{"time":"9:12","usr":"bacellarjose","txt":"RT @ConfidentInvest: RT @ConfidentInvest: Invest in cloud computing with these 4 companies http://t.co/0fM4a01H $AMZN $GOOG $EBAY $AKAM","lbl":"Positive"}
+,{"time":"11:30","usr":"biggercapital","txt":"Or 1000* I, Paulo has been wrong on $AMZN RT @SeekingAlpha: In Vino Veritas: Third Time Not The Charm For AMZN http://t.co/5vdtBWT9 $AMZN","lbl":"Negative"}
+,{"time":"12:03","usr":"RutterNetRick","txt":"Review: Amazon\u0027s New Kindle Is The Best E-Reader You Can Buy $AMZN by @stevekovach http://t.co/BatlU5mI via @BusinessInsider #Kindle","lbl":"Positive"}
+,{"time":"12:03","usr":"RutterNet","txt":"Review: Amazon\u0027s New Kindle Is The Best E-Reader You Can Buy $AMZN by @stevekovach http://t.co/b2BdF7W7 via @BusinessInsider #Kindle","lbl":"Positive"}
+,{"time":"12:30","usr":"ACInvestorBlog","txt":"$AMZN The stock is back above the 20SMA and is headed for a test of the $264 resistance http://t.co/CiAslK2O","lbl":"Positive"}
+,{"time":"13:06","usr":"joey_volpe","txt":"$AMZN and $GOOG are on a tear!","lbl":"Negative"}
+,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:46pm: 259.89 +3.97 (+1.55%).","lbl":"Positive"}
+,{"time":"14:02","usr":"TMFJMo","txt":"Amazon Capital Services strengthens its relationship w/ many of its smaller suppliers. Gotta love the long-term sticky implications. $AMZN","lbl":"Positive"}
+,{"time":"14:30","usr":"HarryWanger","txt":"$AMZN Gunning for a new closing high? @CNBC going to try and spoil the party with negative piece on $AMZN","lbl":"Negative"}
+,{"time":"14:30","usr":"TweetLeni","txt":"Taking gains in $AMZN trade Will re-enter next week on any small pullback","lbl":"Negative"}
+]

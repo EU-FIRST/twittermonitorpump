@@ -1,0 +1,4 @@
+[
+{"time":"17:20","usr":"LifeSciencesMkt","txt":"@Mahmissa $AMZN Amazon Prime my dear free shipping plus same selection of streaming movies as $NFLX included...make the switch","lbl":"Positive"}
+,{"time":"22:56","usr":"jnayegandhi","txt":"Customer encounters a social engineering scam to get $AMZN to ship replacement orders. http://t.co/IEfGrgml","lbl":"Negative"}
+]

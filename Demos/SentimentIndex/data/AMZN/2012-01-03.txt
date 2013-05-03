@@ -1,0 +1,10 @@
+[
+{"time":"10:52","usr":"andrew_falde","txt":"$AMZN broke bearish trend line from October... plenty of upside. Bought 200-210 April Call spread.","lbl":"Positive"}
+,{"time":"11:35","usr":"allegratech","txt":"@SAI: The Kindle Fire Took Away 1-2 Million iPad Sales $AAPL $AMZN by http://t.co/MvyCGVVP ridiculous because it\u0027s a mediocre toy, at best.","lbl":"Negative"}
+,{"time":"14:15","usr":"jcocin","txt":"$amzn riding the moving avgs nicely","lbl":"Positive"}
+,{"time":"15:28","usr":"jcocin","txt":"going strong til closing $amzn only stock I traded today","lbl":"Positive"}
+,{"time":"17:18","usr":"startupdispatch","txt":"RT @briellenikaido: RT @cselland: Kindle Fire may have cost Apple $1 billion or more in holiday iPad sales http://t.co/PAIFYmwK $AMZN $AAPL","lbl":"Positive"}
+,{"time":"17:50","usr":"LDrogen","txt":"$AAPL http://t.co/rtgiIqLQ My (revised) FQ1 2012 EPS Estimize is 11.0 .Talk of $AMZN Kindle Fire eating in...","lbl":"Positive"}
+,{"time":"17:53","usr":"oldputter","txt":"RT @FoxBusiness: Analysts say Amazon\u0027s Kindle Fire may have cost Apple well over $1 billion in holiday iPad sales http://t.co/Wmntjeo8 $AMZN $AAPL","lbl":"Positive"}
+,{"time":"18:28","usr":"Tradesight","txt":"5 out of 5 with our stock #trading calls to start the year, read the summary here: http://t.co/39UWjpto $gs $tsco $amzn #mkts","lbl":"Positive"}
+]

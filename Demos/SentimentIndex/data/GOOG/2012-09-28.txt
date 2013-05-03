@@ -1,0 +1,15 @@
+[
+{"time":"2:19","usr":"najeed_khan","txt":"RT @LaMonicaBuzz: RT @LaMonicaBuzz: No awkward teen years for Google. Happy 14th birthday, $GOOG. Your present? An all-time high stock price. Buzz video. ...","lbl":"Positive"}
+,{"time":"8:24","usr":"buywhenisell","txt":"@carlquintanilla @jimcramer @CNBCSquawkSt $AAPL should buy $RIMM. Dominate the enterprise mobile market to the loss of Android & $GOOG.","lbl":"Negative"}
+,{"time":"9:04","usr":"thinkingtrades","txt":"Think time for $GOOG to rest a bit and pass the baton to $AAPL.","lbl":"Negative"}
+,{"time":"10:56","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: RT @thefinancepress: $GOOG Google Heads for Biggest Quarterly Rally in 7 Years: Google Heads for Biggest Quarterly Rally in 7 Years ... ...","lbl":"Positive"}
+,{"time":"11:00","usr":"AytakinM","txt":"It can\u0027t be denied that google ads have the best algorithms out there!!! $goog","lbl":"Positive"}
+,{"time":"12:03","usr":"chung55","txt":"@SJosephBurns $GOOG, I guess no rolling over the options for next week? why not the oct monthly w/ deep in the money, like 650???","lbl":"Positive"}
+,{"time":"12:03","usr":"Equitykingkong","txt":"$GOOG: i am short enough delta to allow some room here with this short in case we will revist the highs next week","lbl":"Negative"}
+,{"time":"13:09","usr":"z8angela","txt":"$GOOG seems like to be in danger as it\u0027s breaking the lower line on the symmetrical triangle. 755.5 here ...","lbl":"Negative"}
+,{"time":"13:54","usr":"motanik","txt":"\u201C@paulwoll: $AAPL 670 pin / $GOOG 755 pin maybe but think this could pin to lower numbers (750)\u201D<--Missed $GOOG rally. Where wld u buy now?","lbl":"Negative"}
+,{"time":"13:55","usr":"kenjotto","txt":"long small $GOOG Nov720 calls 53.48","lbl":"Positive"}
+,{"time":"16:27","usr":"sarumbear","txt":"RT @tim: RT @tim: Google just happens to have updated $GOOG Maps with new high-res aerial & satellite imagery today http://t.co/1NDcwGMD #tim ...","lbl":"Positive"}
+,{"time":"16:32","usr":"flytengu","txt":"@janewells @CapitolAlert $GOOG\u0027s driver-less car is not helping either","lbl":"Negative"}
+,{"time":"23:49","usr":"optionDr","txt":"$GOOG Held up nicely today despite a nasty market. I am bullish, holding the 720/710 short Oct put spread. If we push to 775, I will add.","lbl":"Positive"}
+]

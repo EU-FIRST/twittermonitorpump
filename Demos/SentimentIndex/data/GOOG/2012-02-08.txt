@@ -1,0 +1,16 @@
+[
+{"time":"1:22","usr":"riorivera","txt":"RT @SAI: Google Just Crushed It With The New Chrome App For Android $GOOG by @stevekovach http://t.co/mq12hBWv","lbl":"Positive"}
+,{"time":"6:46","usr":"AtlasMarket","txt":"$FB has the largest database, $GOOG has the softest technology and it\u0027s with $TWIT that people get the most addicted. #sharemarkets","lbl":"Positive"}
+,{"time":"7:40","usr":"Testing_whizz","txt":"RT @SAI: Google Just Crushed It With The New Chrome App For Android $GOOG by @stevekovach http://t.co/mq12hBWv","lbl":"Positive"}
+,{"time":"9:02","usr":"astegens","txt":"RT @tradefast: Apple TV Is Coming: 10 Ways It Will Hurt Google, Android \u2013 eWeek http://t.co/Xic6QWMd $AAPL $GOOG","lbl":"Negative"}
+,{"time":"10:02","usr":"ManiOhli","txt":"Option Millionaires: jimmybob: $GOOG the most overlooked FACEBOOK PLAY ~~~ FB http://t.co/iDEqJBGL","lbl":"Positive"}
+,{"time":"10:02","usr":"ConciseMag","txt":"RT @SAI: The Fight Between Google And Microsoft Is Getting Ugly And Public $GOOG $MSFT by @MattRosoff http://t.co/r3ADXqd2","lbl":"Negative"}
+,{"time":"10:37","usr":"1StatArb1","txt":"Selling $GOOG weekly 610 straddle, Thursday into close is usually were I initiate short straddle... But realized vol is in ideal sell range","lbl":"Negative"}
+,{"time":"10:37","usr":"DeLuCa","txt":"RT businessinsider You Don\u0027t Have To Use Google \u2013 Here Are The Alternatives $GOOG by @mattlynley http://t.co/08x8C5rf","lbl":"Negative"}
+,{"time":"10:38","usr":"tianhaoalex","txt":"RT @SAI: You Don\u0027t Have To Use Google \u2013 Here Are The Alternatives $GOOG by @mattlynley http://t.co/puOGxth2","lbl":"Negative"}
+,{"time":"11:10","usr":"ManiOhli","txt":"Option Millionaires: TSRAYS: grabbed a few $GOOG W C 625 http://t.co/VVRvzRPd","lbl":"Positive"}
+,{"time":"12:05","usr":"gurufocus","txt":"Google Still a Good Pick in Spite of Facebook: $GOOG, $YHOO, $FB http://t.co/Mh0SoSnC","lbl":"Positive"}
+,{"time":"13:29","usr":"biboffen","txt":"RT @SAI: You Don\u0027t Have To Use Google \u2013 Here Are The Alternatives $GOOG by @mattlynley http://t.co/puOGxth2","lbl":"Negative"}
+,{"time":"14:33","usr":"ManiOhli","txt":"Option Millionaires: kapoooo: $GOOG 610 spiking http://t.co/whAM9JXi","lbl":"Positive"}
+,{"time":"20:16","usr":"rgruia","txt":"#Chrome 17 tweaks speed, download security - via CNET News http://t.co/FySWYpuq - $GOOG continues to invest in its browser","lbl":"Positive"}
+]

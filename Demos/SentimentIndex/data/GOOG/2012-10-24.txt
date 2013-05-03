@@ -1,0 +1,13 @@
+[
+{"time":"8:17","usr":"thinkingtrades","txt":"Based on my past experience, time to go long is when it\u0027s hard to resist taking a short. Think $GOOG.","lbl":"Positive"}
+,{"time":"8:18","usr":"rtorcato","txt":"$GOOG needs to explain android activations. Are they including OS upgrades? Activations & hardware revenue don\u0027t match up. $AAPL","lbl":"Negative"}
+,{"time":"8:51","usr":"KeithMcCullough","txt":"$GOOG risk remains on - $642 in play on the low end of our risk range","lbl":"Negative"}
+,{"time":"8:52","usr":"tphedgegroup","txt":"Pushing the envelope, adding 3rd 10,000 of $GOOG this morning.","lbl":"Positive"}
+,{"time":"9:30","usr":"parklandtrader","txt":"@cnbcfastmoney @GuyAdami @RedDogT3Live I know $GOOG is great on valuation but so was $YHOO before $GOOG came along.. $FB","lbl":"Positive"}
+,{"time":"13:02","usr":"ForexBrokersHub","txt":"With all the earning report leaks, did you get the chance to cash in on the $GOOG slide and $FB rise? I know I did. #CFD","lbl":"Negative"}
+,{"time":"14:25","usr":"Colarusso42","txt":"RT @ReutersTV: #Facebook, not #Google is increasingly driving internet traffic, says @Buzzfeed\u0027s @jonsteinberg http://t.co/GYYieNT7 $FB $GOOG","lbl":"Negative"}
+,{"time":"15:07","usr":"wargapapua","txt":"RT @timika___csfdau: Here goes! $GOOG \u0022Whoops! I can haz premature earnings release!\u0022 #insertLarryquotehere #transmittoVladimir #VaalisVaal #winning","lbl":"Negative"}
+,{"time":"17:52","usr":"JoshClayyy","txt":"$VRNG Verdict to be announced as soon as next Friday!!! Vringo in favor, $GOOG now has to show their defense Verrrrry","lbl":"Negative"}
+,{"time":"23:16","usr":"2TradersClub","txt":"RT @howardlindzon Google needs some muscle here soon or else... RT @2kaykim $GOOG Classic Bear Flag.. http://t.co/Zt0re2xg","lbl":"Negative"}
+,{"time":"23:34","usr":"thegisboy","txt":"$VRNG & $GOOG case update http://t.co/IRRQcqsq Author is long VRNG. GOOG takes the floor tomorrow and embarks on an uphill battle","lbl":"Negative"}
+]

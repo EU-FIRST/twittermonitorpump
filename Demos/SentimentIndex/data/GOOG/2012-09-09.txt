@@ -1,0 +1,6 @@
+[
+{"time":"7:50","usr":"USwwwStocks","txt":"$GOOG News: At New Highs RAX, GOOG, AAPL, AMZN, GOOG http://t.co/ZnjmxwZp #AMZN #GOOG #AAPL","lbl":"Positive"}
+,{"time":"10:56","usr":"jmullin9","txt":"Youtube just plain sucks nowadays. It pauses 10-20 times to watch a 3 minute video. And thats with a fast connection! $goog","lbl":"Negative"}
+,{"time":"15:22","usr":"vonoldenburg","txt":"@PeterPrudden Great long $goog call last month. Would you hold thru expected mrkt correction since this was a multi yr breakout?","lbl":"Positive"}
+,{"time":"23:49","usr":"OptionPit","txt":"Is $goog partially down?","lbl":"Negative"}
+]

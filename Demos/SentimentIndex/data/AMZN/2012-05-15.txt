@@ -1,0 +1,8 @@
+[
+{"time":"5:40","usr":"murphyrosecliff","txt":"@CNBCMelloy $HD pullback needed. Note: $AMZN trying to take mkt share & $AMZN is usually pretty successful.","lbl":"Positive"}
+,{"time":"6:56","usr":"TradersHuddle","txt":"Early Research Calls: $TMO, $AMZN, $JNPR, $FLEX, $JBL, $D, $SLW, $XEL, $SO, $QSII http://t.co/zKQsm9Oj","lbl":"Positive"}
+,{"time":"9:14","usr":"BlueFielder","txt":"$AMZN in wkly 230 $CALL\u0027s @ 3.30 (corrected symbol)","lbl":"Positive"}
+,{"time":"10:28","usr":"patroneux","txt":"covering here for $AMZN 230 puts after double top formed. $3.46 to 4.0 12 cons.","lbl":"Negative"}
+,{"time":"11:19","usr":"thinkingtrades","txt":"$EXPE wants to take out recent highs. Similar set up as $AMZN","lbl":"Positive"}
+,{"time":"14:26","usr":"Risk_Surfer","txt":"$amzn #givingitallback","lbl":"Negative"}
+]

@@ -1,0 +1,4 @@
+[
+{"time":"10:15","usr":"biggercapital","txt":"They just startg to figure out importance of $EBAY RT @SAI How $AAPL Could Team Up With $AMZN To Put Pressure On $GOOG http://t.co/tIYazj3E","lbl":"Positive"}
+,{"time":"10:19","usr":"biggercapital","txt":"Regarding last tweet about $EBAY So you really want to be short an $AMZN feeding Siri They know the P/E of everything and the value of nothg","lbl":"Negative"}
+]

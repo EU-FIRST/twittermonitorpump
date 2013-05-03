@@ -1,0 +1,6 @@
+[
+{"time":"7:18","usr":"alunhillseo","txt":"RT @SAI: The FCC Just Fined Google $25,000 $GOOG by @stevekovach http://t.co/ng7bkoyW","lbl":"Negative"}
+,{"time":"7:21","usr":"coderkid","txt":"HAHAHA RT @SOSlist Gee, this has got to hurt: RT @SAI: The FCC Just Fined Google $25,000 $GOOG by @stevekovach http://t.co/3Vb1FHcI","lbl":"Negative"}
+,{"time":"15:05","usr":"stockwatch9","txt":"$GOOG - Google Stock Analysis - 10day moving average is down - http://t.co/EO5RuEqA","lbl":"Negative"}
+,{"time":"19:10","usr":"ValentFinancial","txt":"Finally! Google Obtains Rights to This Flagship Property\u0027s Trademark http://t.co/n3DioF0x $GOOG","lbl":"Positive"}
+]

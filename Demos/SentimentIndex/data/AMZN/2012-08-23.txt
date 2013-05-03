@@ -1,0 +1,7 @@
+[
+{"time":"10:15","usr":"WallStTrade","txt":"$AMZN trying to go back green and fill the gap. Remember strong stocks get bought on gap downs. Vice versa for gap ups. $$ #Market #Sense $$","lbl":"Positive"}
+,{"time":"10:15","usr":"askchrishetrade","txt":"RT @WallStTrade: $AMZN trying to go back green and fill the gap. Remember strong stocks get bought on gap downs. Vice versa for gap ups. $$ #Market #Sense $$","lbl":"Positive"}
+,{"time":"13:33","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:18pm: 239.60 -3.50 (-1.44%).","lbl":"Negative"}
+,{"time":"14:21","usr":"MarlonSilos","txt":"Dont understand people buying into $amzn its a disaster waiting to happen #stocks","lbl":"Negative"}
+,{"time":"15:31","usr":"LSilverspar","txt":"RT @Tangletrade: $CRM and $AMZN carry the anti-PE Virus P/E has absolutely no effect on their price.","lbl":"Negative"}
+]

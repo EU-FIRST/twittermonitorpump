@@ -1,0 +1,11 @@
+[
+{"time":"9:02","usr":"aztecs99","txt":"$GOOG 645 weekly looks good here","lbl":"Positive"}
+,{"time":"10:15","usr":"numberonetell","txt":"Maybe I am just biased as I get short, but $GOOG is looking like an easy risk/reward short here with the August 6 high as the stop.","lbl":"Negative"}
+,{"time":"13:34","usr":"akindolu","txt":"Trust googlers RT @SAI: Google Is Bringing Its Siri-Killer To iPhones And iPads $GOOG by @stevekovach http://t.co/L2gUmmiU","lbl":"Positive"}
+,{"time":"14:12","usr":"CLJB","txt":"RT @CeCe_23Spalding: RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/9ZAhAcsF","lbl":"Positive"}
+,{"time":"14:27","usr":"Chris_Yonan","txt":"RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/w5qf4t1b","lbl":"Positive"}
+,{"time":"16:06","usr":"aixanz","txt":"RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/i5vshIEc","lbl":"Positive"}
+,{"time":"18:41","usr":"rhbinvest","txt":"MEANWHILE, Google Is About To Make Apple\u0027s Siri Look Like A Joke | #NASDAQ #in $GOOG $AAPL http://t.co/XryllhLd","lbl":"Positive"}
+,{"time":"18:45","usr":"arabiadev","txt":"RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/i5vshIEc","lbl":"Positive"}
+,{"time":"20:42","usr":"Dim_Zaharakis","txt":"Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/wiHYTWvv","lbl":"Positive"}
+]

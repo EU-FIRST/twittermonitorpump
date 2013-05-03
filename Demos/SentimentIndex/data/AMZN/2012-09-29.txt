@@ -1,0 +1,5 @@
+[
+{"time":"18:29","usr":"DeidreZune","txt":"Netflix Calls Amazon a \u0022Confusing Mess\u0022 $NFLX $AMZN Pot calling the ketle black?","lbl":"Negative"}
+,{"time":"18:29","usr":"DeidreZune","txt":"Here\u0027s the link: Netflix Calls Amazon a \u0022Confusing Mess\u0022 http://t.co/h1zrII2S $NFLX $AMZN","lbl":"Negative"}
+,{"time":"18:38","usr":"scottysnell","txt":"Compare search results on term \u0027lightning adapter\u0027 $amzn, $goog, $yhoo. Amazon is the only one that works. $AAPL http://t.co/tcwvcaZl","lbl":"Positive"}
+]

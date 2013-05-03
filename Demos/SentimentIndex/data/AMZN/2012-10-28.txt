@@ -1,0 +1,6 @@
+[
+{"time":"7:20","usr":"SeekingAlpha","txt":"Amazon Posts First Loss In Almost A Decade Despite Strong Sales http://t.co/88ssScA7 $AMZN","lbl":"Negative"}
+,{"time":"12:19","usr":"danielhsqr","txt":"in our weekly $AMZN top seller check I find just released $EA MOH ranked 35th, right behind Lollipop Chainsaw from $TWX, that hurts","lbl":"Negative"}
+,{"time":"12:20","usr":"howardlindzon","txt":"RT @StockTwits: Sunday links: a deliberate feeling http://t.co/lPczXQpG via @abnormalreturns $AMZN $MSFT $BKS $NYT","lbl":"Positive"}
+,{"time":"12:25","usr":"hegranes","txt":"Truer words... RT @howardlindzon: $AAPL is priced for the end of the world and $AMZN is priced for the beginning #stocktoberfest","lbl":"Negative"}
+]

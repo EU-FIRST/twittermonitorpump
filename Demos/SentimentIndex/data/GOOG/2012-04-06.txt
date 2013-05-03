@@ -1,0 +1,4 @@
+[
+{"time":"11:01","usr":"samwbennett","txt":"Look on the bright side, if we gap down on Monday, QE3 might be back $C $BAC $MS $GS and $AAPL > $GOOG #traders","lbl":"Positive"}
+,{"time":"14:38","usr":"JosefHiggins","txt":"Say what you want about $GOOG Glasses. I\u0027m wouldn\u0027t be ashamed of wearing a pair. I would be ashamed at having a Google+ acct.","lbl":"Negative"}
+]

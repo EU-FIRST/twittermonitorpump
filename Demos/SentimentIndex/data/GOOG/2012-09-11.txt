@@ -1,0 +1,11 @@
+[
+{"time":"9:13","usr":"Equitykingkong","txt":"$GOOG: sold short 50 weekly 710 calls @ 2.50","lbl":"Negative"}
+,{"time":"9:47","usr":"jbrand1","txt":"$GOOG ideal fib retracement, in 40 690p @ 3.16 avg http://t.co/hn4KZFcC","lbl":"Negative"}
+,{"time":"10:14","usr":"ynggekko","txt":"RT @HitTheBidRadio: RT @OptionAssassin $X $MAKO $LOGM $APKT $WLT $CTRP $SINA $GOOG Stop by http://t.co/a8hzFFSP next week for more http: ...","lbl":"Negative"}
+,{"time":"11:45","usr":"DrunkStepmother","txt":"so clearly $GOOG\u0027s \u0022wake-up call\u0022 means they need to firm up a patent portfolio... $VRNG http://t.co/IuxQNJmb GREAT interview","lbl":"Negative"}
+,{"time":"11:48","usr":"Basheer_Paleker","txt":"RT @themotleyfool: Is $800 next for Google? http://t.co/p7LjZUL8 $GOOG","lbl":"Positive"}
+,{"time":"13:27","usr":"spreadthetrend","txt":"Thanks to a lackluster performance out of $GOOG and $AAPL to name just a couple Equities are outperforming the (cont) http://t.co/4f2vnpzj","lbl":"Positive"}
+,{"time":"13:29","usr":"BigTicks","txt":"$GOOG News: An Apple A Day Keeps Google At Bay: Cupertino\u0027s Financial Muscle Is Too Strong http://t.co/7htuyd14 #GOOG #Apple #Cupertinos","lbl":"Negative"}
+,{"time":"17:16","usr":"H4WTS","txt":"RT @businessinsider: Facebook Is Clearly Planning On Trying To Destroy Google With Its Own Search Engine $FB $GOOG by @jyarow http://t.c ...","lbl":"Negative"}
+,{"time":"17:18","usr":"GbemiEreku","txt":"Wow RT\u0022@SAI: Facebook Is Clearly Planning On Trying To Destroy Google With Its Own Search Engine $FB $GOOG by @jyarow http://t.co/UfyCrldx\u0022","lbl":"Negative"}
+]

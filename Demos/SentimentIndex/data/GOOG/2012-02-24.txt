@@ -1,0 +1,8 @@
+[
+{"time":"12:54","usr":"junkieonwallst","txt":"$GOOG, $CAT, $GILD, $HPQ, $KSS, $WMT <<------ Thanks for the undefeated week on wallstreet....","lbl":"Positive"}
+,{"time":"14:55","usr":"simmonet","txt":"RT @t1c1: RT @SAI: How Google Took $500 Million And Turned It Into $47 Million $GOOG $S by http://t.co/WlJB4bJm","lbl":"Negative"}
+,{"time":"17:20","usr":"JeremyKissel","txt":"Google Gets Real-Time Data from LSE - Wall Street & Technology http://t.co/TFZFq4jK $GOOG","lbl":"Positive"}
+,{"time":"17:26","usr":"dvdback23","txt":"Google takes 91 percent loss on its Clearwire share http://t.co/SblJYRMM $CLWR $GOOG","lbl":"Negative"}
+,{"time":"19:51","usr":"ITS_center","txt":"RT @SAI: Here Is One Of Google\u0027s Self-Driving Cars On The Road $GOOG by @MattRosoff http://t.co/FPv8SUEs","lbl":"Positive"}
+,{"time":"20:00","usr":"historysquared","txt":"$GOOG + growth fastest in to reach 50 million users @Caterina http://t.co/8M7q3MiD @pkedrosky","lbl":"Positive"}
+]

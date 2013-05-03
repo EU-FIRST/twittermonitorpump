@@ -1,0 +1,13 @@
+[
+{"time":"2:13","usr":"eDahms","txt":"hoping $AMZN sees a mkt open selloff from mkt close highs last night. put in a short order last night hoping for a slight drop before close","lbl":"Negative"}
+,{"time":"6:52","usr":"kcassandra","txt":"! RT @SAI: Foxconn Said To Be Building An Amazon Smartphone For Mid-2013 Launch $AMZN by @stevekovach http://t.co/VL3UehDq","lbl":"Positive"}
+,{"time":"10:02","usr":"nichcarlson","txt":"Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT http://t.co/nEoKpwjl","lbl":"Negative"}
+,{"time":"10:02","usr":"SAI","txt":"Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT by @nichcarlson http://t.co/Pu65VeNB","lbl":"Negative"}
+,{"time":"10:16","usr":"cgabriel10","txt":"RT @SAI: Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT by @nichcarlson http://t.co/Pu65VeNB","lbl":"Negative"}
+,{"time":"10:43","usr":"agelston","txt":"RT @JSFrier: to short or not to short $AMZN...that is the question.","lbl":"Negative"}
+,{"time":"11:09","usr":"MomentumPtrsLLC","txt":"$amzn just because it stops up here dont lose faith just need to consolidate the move is all it is a bit over done its healthy","lbl":"Positive"}
+,{"time":"11:45","usr":"aliontario","txt":"I am wondering if $amzn goes up $bby goes down ?","lbl":"Positive"}
+,{"time":"13:59","usr":"Fitzstock2004","txt":"not an $aapl bear......just trading what is working.......$amzn $pcln and $goog are up >+5% last 4 trading day......$aapl is UNCH","lbl":"Positive"}
+,{"time":"14:35","usr":"Corkviews","txt":"@smartertrader $AMZN badass .","lbl":"Negative"}
+,{"time":"15:13","usr":"kanecotw","txt":"Shorted 15 shares $AMZN for a kick. 251.50 might add if she dumps.","lbl":"Negative"}
+]

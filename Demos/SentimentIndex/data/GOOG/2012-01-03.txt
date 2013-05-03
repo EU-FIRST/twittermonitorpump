@@ -1,0 +1,31 @@
+[
+{"time":"6:44","usr":"Tradin4Gains","txt":"RT @Fitzstock2004 your $aapl and $goog call spreads will be up HUGE.......fyi,,,,take another 1/4 off @open, and only leave a runner","lbl":"Negative"}
+,{"time":"6:47","usr":"HTB_Krull","txt":"$QQQ $GOOG why must they ruin my good weekend with a massive gap up? When did the futures open? 2012 I am already waiting for a pullback","lbl":"Negative"}
+,{"time":"8:52","usr":"roybachar","txt":"RT @IBDinvestors: Google chief Larry Page is IBD\u0027s CEO of the year, intent on making the search king quick, mobile and social. $GOOG http://t.co/7rcSdF9i","lbl":"Positive"}
+,{"time":"9:36","usr":"lluccipha","txt":"SAI: It Looks Like Google Chrome Could Pass Up Internet Explorer This Year $GOOG $MSFT by @hamburger http://t.co/p5uKAOlg","lbl":"Positive"}
+,{"time":"9:36","usr":"Karl_Meinhardt","txt":"Yay! RT @sai: It Looks Like Google Chrome Could Pass Up Internet Explorer This Year $GOOG $MSFT by @hamburger http://t.co/le4hN6qm","lbl":"Positive"}
+,{"time":"9:52","usr":"DontTakeLosses","txt":"$AAPL $411 $GOOG $660? Sweet. $$ #stocks #stockpicks #GOP","lbl":"Positive"}
+,{"time":"9:52","usr":"socialwyze","txt":"RT @SAI: It Looks Like Google Chrome Could Pass Up Internet Explorer This Year $GOOG $MSFT by @hamburger http://t.co/puo3yssO","lbl":"Positive"}
+,{"time":"9:53","usr":"BUDDIEE18","txt":"out @ 1.35 from 1.15 on wklies $SINA calls. and of course it now runs...LOL... $GOOG looks like a nice put? $SPY looks 2 sell off?","lbl":"Negative"}
+,{"time":"11:34","usr":"NoDoji","txt":"I will scale out of some $GOOG $650 calls if it pops here","lbl":"Negative"}
+,{"time":"11:36","usr":"TraderFlorida","txt":"$GOOG http://t.co/VXKAPB5O A strong run to new highs today for the market leader","lbl":"Positive"}
+,{"time":"12:17","usr":"tkuz4u","txt":"$GOOG is a rare blend of deep value and barely restrained growth today.","lbl":"Positive"}
+,{"time":"14:53","usr":"OdaLisque3","txt":"MOMO\u0027s: SpaceBound: $GOOG Major push here! http://t.co/G5E3Y2LY","lbl":"Positive"}
+,{"time":"14:54","usr":"SMCHARTcom","txt":"$GOOG http://t.co/8wV7TWE4 GOOG our March/12 Call, Strike $500, jumping to $164 from our buy area of $133.","lbl":"Positive"}
+,{"time":"15:28","usr":"jflyons","txt":"RT @SAI: Check Out These 11 Incredible Smartphones And Tablets To Be Unveiled Next Week $GOOG $MSFT by @stevekovach http://t.co/EOM4hoAa","lbl":"Positive"}
+,{"time":"15:28","usr":"tradingPolitics","txt":"Significant one day failure. cc: @tjtakes ;^) \u201C@statsreal: If $goog doesn\u0027t close above 715, look out below\u201D","lbl":"Negative"}
+,{"time":"15:52","usr":"BUDDIEE18","txt":"RT @HedgefundPLAY: $GOOG $IBM $AAPL buying dips working and stay short $RIMM $BBY $HPQ ....nice pair trade & wining trade of 2011 will continue in 2012 too","lbl":"Positive"}
+,{"time":"15:53","usr":"OdaLisque3","txt":"BOUNCE: momentum74: Shorted $GOOG scalp 668.02 http://t.co/LNyHSsJx","lbl":"Negative"}
+,{"time":"16:45","usr":"BartlomiejF","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"16:45","usr":"pinkivy81","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"16:54","usr":"jeluani12","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"16:54","usr":"ChefJTaylor","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"17:17","usr":"RichLoPresti","txt":"RT @valuewalk Google and Apple are the winners of the smartphone war http://t.co/DcrCisQl $RIMM $GOOG $AAPL $MSFT #PALMisstillaround?","lbl":"Positive"}
+,{"time":"17:51","usr":"wallstCS","txt":"Google and Verizon Shares Achieve 52-Week Price Highs With Android Success http://t.co/7NZsHJD7 $GOOG $VZ #mkt #stocks #trading #investing","lbl":"Positive"}
+,{"time":"18:28","usr":"TheRealXMoney","txt":"This is proof to let you know how evil #Google is their stock $GOOG is trading at... [see pic] http://t.co/3RLw7dDd","lbl":"Negative"}
+,{"time":"20:05","usr":"EC78","txt":"RT @FinanceTrends: Chart update: $GOOG soars through resistance, goodbye sideways channel http://t.co/pcSK091g $$","lbl":"Positive"}
+,{"time":"20:05","usr":"kadzaiFP","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"20:07","usr":"seattlegoldpros","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"22:57","usr":"angryspeculator","txt":"@edshow Spending doesn\u0027t result in growth, saving and investing does. Economics 101, u sounded stupid brother $SPY $AAPL $GOOG $BIDU","lbl":"Negative"}
+,{"time":"22:58","usr":"ThembeK","txt":"Android \u0027Open\u0027 for Whom? (@dannysullivan) (\u0027the surgery was a success, but the patient died.\u0027) $GOOG http://t.co/2V9rsxPu via @netgarden","lbl":"Negative"}
+]

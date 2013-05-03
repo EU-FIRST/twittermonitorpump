@@ -1,0 +1,10 @@
+[
+{"time":"7:24","usr":"WallandBroad","txt":"RT @bmccandless: I\u0027ll pay not to go shopping on Black Friday. Just what $amzn wants to hear.","lbl":"Positive"}
+,{"time":"9:21","usr":"TheArmoTrader","txt":"I was abt to buy a headset from $AMZN last night,but found that $BBY had it in stock. No shipping cost +same price +immediacy = Best buy win","lbl":"Negative"}
+,{"time":"9:21","usr":"firstadopter","txt":"BofA: \u0022 $EBAY has lower prices than Amazon.. offering 7% lower prices than $AMZN on average\u0022","lbl":"Negative"}
+,{"time":"10:16","usr":"DeidreZune","txt":"High beta is rallying the most-- the same stocks that were left for dead. Guesses? Hint: $AAPL $GOOG $AMZN. All in time for Thanksgiving","lbl":"Positive"}
+,{"time":"12:34","usr":"OptionCast","txt":"$AAPL Mid-Day Option Trading. Options traders getting 3 times more bullish http://t.co/ix6uHd72 Related: $AMZN, $NFLX Free Month Membership!","lbl":"Positive"}
+,{"time":"13:19","usr":"licorishp","txt":"RT @DividendMaster: Looks like a few $AMZN holders trying to quietly slip out backdoor in midst of a classic CNBC style rally on fluff and bluff","lbl":"Negative"}
+,{"time":"17:21","usr":"XQuickFixX","txt":"Currently long small positions $ITB $FLT $VAL, PUTS $AMZN PUTS $WFM looking at $SHW $LL for a nibble, over 50% cash basis now","lbl":"Negative"}
+,{"time":"22:37","usr":"SKSMediaManila","txt":"RT @stoxline: 5 top stocks on NASDAQ: $ISCA, $AMZN, $WTFC, $GTXI, $NUAN","lbl":"Positive"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"9:50","usr":"mashedtech","txt":"RT @LaMonicaBuzz: Are e-readers the airlines of the tech world? Nook price cuts may be good news for consumers. But not investors. $BKS down 1.4%. $AMZN flat.","lbl":"Negative"}
+,{"time":"12:50","usr":"PhilGaudreau","txt":"Americans Spent $43.2 Billion Online in Q2 via @AllThingsD http://t.co/uBdsftOn with another big with for $AMZN #tech #shopping","lbl":"Positive"}
+,{"time":"14:26","usr":"consultnerd","txt":"Amazon Bets On Storage Lockers, New Kindle To Drive Growth http://t.co/1Bf74IQg via @trefis $AMZN","lbl":"Positive"}
+,{"time":"21:37","usr":"WallStreetBean","txt":"$AMZN\u0027s top 100 \u0022bestsellers in electronics\u0022 - 10% are $GRMN products, 14% $AAPL,11% $AMZN, 9% Sony, 5% $CSCO, 4% $MOTR, 4% Nikon, 2% %SNDK","lbl":"Positive"}
+,{"time":"21:38","usr":"danielhsqr","txt":"re $GRPN, if the phone rings and I dont wake up, ask Mason if he really wants $AMZN op margins with this goods business?","lbl":"Negative"}
+]

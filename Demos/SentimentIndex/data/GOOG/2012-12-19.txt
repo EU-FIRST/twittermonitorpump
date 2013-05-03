@@ -1,0 +1,10 @@
+[
+{"time":"7:08","usr":"RssFollow1","txt":"RT @Fitzstock2004: $GOOG has IBD accum/distr of \u0022A-\u0022 ....means buy dips:)","lbl":"Positive"}
+,{"time":"10:05","usr":"takingstock614","txt":"$GOOG holding up very well so far.","lbl":"Positive"}
+,{"time":"10:05","usr":"businessinsider","txt":"Walt Mossberg Tells iPhone Owners To Use Google Maps $AAPL $GOOG by @jyarow http://t.co/Al51X3n1","lbl":"Positive"}
+,{"time":"10:39","usr":"mrjordonez","txt":"Apple, Google, Samsung and more team up in $525M purchase of Kodak patents $GOOG $AAPL http://t.co/witFKUiu","lbl":"Positive"}
+,{"time":"13:23","usr":"CognitiveBias1","txt":"@newsagg @FreeMrktCptlst $goog low volume backtest over red cloud on daily perhaps.","lbl":"Negative"}
+,{"time":"14:46","usr":"wjboynton","txt":"$GOOG #Google Maps for iPhone Returns Better Than Ever http://t.co/fMwkCjTV $AAPL #Apple","lbl":"Positive"}
+,{"time":"16:04","usr":"sciencetrader","txt":"my shorts from yesterday $SPY @ 145.40, today $IWM @ 84.15, $GOOG @ 720, $FAS @ 121, use stops","lbl":"Negative"}
+,{"time":"23:15","usr":"jamescallahan","txt":"RT @PeterGhostine: $GOOG day trade for tomorrow: down to 713 on a breach of 719.","lbl":"Negative"}
+]

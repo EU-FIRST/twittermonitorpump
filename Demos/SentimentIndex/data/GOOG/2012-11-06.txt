@@ -1,0 +1,10 @@
+[
+{"time":"10:04","usr":"mnoltecpa","txt":"Think $GOOG could go more short, just with only 1 put I can\u0027t really peel and hold. Just be safe and take the 2:1 r/r I targeted in entry.","lbl":"Negative"}
+,{"time":"10:05","usr":"russellmreyes","txt":"$AAPL and $GOOG act like dogs","lbl":"Negative"}
+,{"time":"11:22","usr":"russellmreyes","txt":"$AAPL & $GOOG looks like garbage here, so far","lbl":"Negative"}
+,{"time":"12:54","usr":"ViewOnMarkets","txt":"GOOG - Scary Chart Comparison http://t.co/uNWnanUv $GOOG #goog #google #chart #nasdaq $NDX $AAPL #aapl #apple $QQQ","lbl":"Negative"}
+,{"time":"12:55","usr":"DrunkStepmother","txt":"re $VRNG is today the day $GOOG goes to $0 like you said @jaltucher ???","lbl":"Negative"}
+,{"time":"13:15","usr":"__RobbP__","txt":"\u0022@zerosum24: Hearing that $VRNG won their patent case against $GOOG. Now let\u0027s see how much cash they get!! Congrats LONGS!!!\u0022","lbl":"Negative"}
+,{"time":"14:20","usr":"myTraderGang","txt":"RT @TraderMike9: $VRNG wins huge settlement with $GOOG: and Google stock price didn\u0027t even move one percent on the news...LOL!","lbl":"Negative"}
+,{"time":"17:04","usr":"JornBuhring","txt":"RT @SAI: Patent Troll Vringo\u0027s Big Plan To Kill Google Falls Short $GOOG $VRNGO by @jyarow http://t.co/fD6Gs6Rj","lbl":"Positive"}
+]

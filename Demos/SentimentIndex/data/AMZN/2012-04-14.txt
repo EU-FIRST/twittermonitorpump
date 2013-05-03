@@ -1,0 +1,4 @@
+[
+{"time":"8:08","usr":"cohen76","txt":"RT @SeekingAlpha: The Worrisome Amazon CEO Letter http://t.co/Bb4mmPYz $GOOG $AMZN","lbl":"Negative"}
+,{"time":"11:04","usr":"weiweitrade","txt":"$AMZN - Amazon Stock Analysis - volume down over 5% - http://t.co/BVxX2O6U","lbl":"Negative"}
+]

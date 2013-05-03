@@ -1,0 +1,7 @@
+[
+{"time":"8:48","usr":"z8angela","txt":"Plenty warnings this am w/ bearish gaps on \u0022the Best-looking\u0022 charts: $MA $V $LNKD $AMZN. Which are next ones? Trade smart. - short $SPY $MA","lbl":"Negative"}
+,{"time":"8:48","usr":"rjosef","txt":"RT @TrendRida: Munster was a little lazy on his baby iPad estimates. $AMZN sold 6M Fires last Christmas Q. $AAPL http://t.co/qnB4aFsu","lbl":"Positive"}
+,{"time":"8:49","usr":"iTraderz","txt":"RT @z8angela: Plenty warnings this am w/ bearish gaps on \u0022the Best-looking\u0022 charts: $MA $V $LNKD $AMZN. Which are next ones? Trade smart. - short $SPY $MA","lbl":"Negative"}
+,{"time":"10:58","usr":"investorsmosaic","txt":"Our portfolio heading into the week: $RHT $RAX $ED $SO $CTL $WIN $PEP $SJM $RRC $HEK and short $AMZN and $SPY. 40% net exposure.","lbl":"Negative"}
+,{"time":"14:32","usr":"morganefitz","txt":"New : $AMZN,, Long Swing Trade S8, 10% $AMZN,, New Long Entry S8, 10%. 29 Shares @ 224.38 Stop ... Read more at http://t.co/nIkWUA7B","lbl":"Positive"}
+]

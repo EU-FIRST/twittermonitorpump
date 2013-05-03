@@ -1,0 +1,12 @@
+[
+{"time":"7:36","usr":"SeanWoolven","txt":"can\u0027t wait!: Google Wants To Be Your Cable TV Provider, Sources Tell Analyst $GOOG $AAPL $CMSCA by @nichcarlson http://t.co/QWYYzMiA","lbl":"Positive"}
+,{"time":"8:17","usr":"Dninsan","txt":"RT @SAI: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/dVScXA4T","lbl":"Positive"}
+,{"time":"8:17","usr":"Githuz","txt":"RT @sai: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/oydDlLmn","lbl":"Positive"}
+,{"time":"8:34","usr":"shobz","txt":"RT @SAI: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/wbCdOVfD","lbl":"Positive"}
+,{"time":"9:11","usr":"RedDogT3Live","txt":"If $GOOG stays below $680. A move to the 21 days will be the next spot to consider for action $667","lbl":"Negative"}
+,{"time":"9:12","usr":"Alfietrade","txt":"Watching $goog, early weakness on this recent high flyer is a good tell for market direction","lbl":"Negative"}
+,{"time":"9:46","usr":"Knutos","txt":"RT @SAI: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/dVScXA4T","lbl":"Positive"}
+,{"time":"10:20","usr":"ChartMoMo","txt":"bonds and dollar both weak in comparison to equities selling. could see catch up play on stocks. $es_f $spy $aapl $goog","lbl":"Positive"}
+,{"time":"12:32","usr":"JonWeitzel2012","txt":"$GOOG , $AAPL , $PCLN up up up up up","lbl":"Positive"}
+,{"time":"13:23","usr":"CNNMoney","txt":"Google turns 14 today -- and it still has loads of growth potential says @LaMonicaBuzz http://t.co/1BN3wDoW $GOOG","lbl":"Positive"}
+]

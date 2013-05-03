@@ -1,0 +1,12 @@
+[
+{"time":"3:53","usr":"JNWeisbord","txt":"RT @SeekingAlpha: Global Patent Wars Intensify In 2012 http://t.co/WaDXQM2T $AAPL $AOL $CSCO $GOOG $MITL $MSFT $NEON $NIPNF.PK $SI $TGT $VHC $VRNG","lbl":"Negative"}
+,{"time":"8:36","usr":"BanzaiTrader","txt":"filled more $GOOG 470 July puts @.65","lbl":"Negative"}
+,{"time":"9:26","usr":"FairOaksTrader","txt":"Long $TCBI, added shorts for $MS and $GOOG today. (could not short $DECK with my broker - dammit)","lbl":"Negative"}
+,{"time":"12:34","usr":"Missthenet","txt":"RT @howardlindzon: It may not work financially, but it\u0027s great to see $goog and $msft putting up the good fight in the phone and tablet wars...consumers win","lbl":"Negative"}
+,{"time":"12:37","usr":"michaeljfine","txt":"RT @howardlindzon: It may not work financially, but it\u0027s great to see $goog and $msft putting up the good fight in the phone and tablet wars...consumers win","lbl":"Negative"}
+,{"time":"14:10","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 6000 shares \u2611","lbl":"Negative"}
+,{"time":"14:11","usr":"joshpritchard","txt":"tempted to add $NVDA July $12 calls at ~$1.15 going into $GOOG IO next week, though $GOOG Nexus tab design win for Tegra 3 may be priced in","lbl":"Positive"}
+,{"time":"14:49","usr":"TweetLeni","txt":"Taking some profits in tech shorts $GOOG $VMW $LNKD $EBAY","lbl":"Positive"}
+,{"time":"16:19","usr":"tlmontana","txt":"RT @StockTwits: What\u0027s up with Google\u0027s plan to split its stock http://t.co/wnYB2jrF $GOOG","lbl":"Positive"}
+,{"time":"18:11","usr":"thefinancepress","txt":"$GOOG Google Stock Split Held Up by Litigation: Google Stock Split Held Up by Litigation NASDAQ - 5 minutes ago... http://t.co/mBfBmwLh","lbl":"Negative"}
+]

@@ -1,0 +1,13 @@
+[
+{"time":"0:50","usr":"Royal_Arse","txt":"Changed their name from Oingo to Applied Semantics to what became AdWords/AdSense aka 97% of $67Bil in revenue for $GOOG since 01","lbl":"Positive"}
+,{"time":"7:09","usr":"bpeck","txt":"With TxVia acq., $GOOG still pushing on Wallet post defections.. http://t.co/XKD9TxgP","lbl":"Positive"}
+,{"time":"7:12","usr":"AimHighProfits","txt":"$VRNG Good News?: Oracle ($ORCL) and Google ($GOOG) have reached an \u0022irreconcilable impasse\u0022 in settlement negotiations","lbl":"Negative"}
+,{"time":"7:12","usr":"trader_trend","txt":"$TRIP joins $EXPE in filing anti-trust complaint to EU against $GOOG http://t.co/BpHPsU0Y","lbl":"Negative"}
+,{"time":"8:32","usr":"mikecardascia","txt":"RT @wallstCS: Wall Street Brief: Microsoft and Apple Whine, Oracle and Google Stuck in the Mud http://t.co/spHF9M8A $MMI $MSFT $GOOG $AAPL $ORCL","lbl":"Negative"}
+,{"time":"10:14","usr":"nullempire","txt":"$AAPL is getting close to $GOOG","lbl":"Negative"}
+,{"time":"10:15","usr":"BrianSHall","txt":"RT @TrendRida: Android so good it doesnt even have to make Google any money! Ever! $GOOG via: @brianshall","lbl":"Positive"}
+,{"time":"11:07","usr":"techwealth","txt":"I uploaded a @YouTube video http://t.co/cvk2xidI Made $1,100 Shorting $goog Options \u0022Day-Trade\u0022","lbl":"Negative"}
+,{"time":"12:37","usr":"kngbn97","txt":"RT @SAI: This Could Be Google\u0027s Official Answer To The iPad $GOOG by @_dtl http://t.co/sZvljRIE","lbl":"Positive"}
+,{"time":"20:42","usr":"mkonda","txt":"RT @runako: $GOOG revenue is about half Hollywood\u0027s total global revenue.","lbl":"Positive"}
+,{"time":"20:49","usr":"TrendRida","txt":"@JoshPritchard @Aapl_pain $GOOG is fundamentally mis-understood because they want to b a tech company but is really just an ad company.","lbl":"Negative"}
+]

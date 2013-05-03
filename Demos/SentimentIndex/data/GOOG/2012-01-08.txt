@@ -1,0 +1,6 @@
+[
+{"time":"1:18","usr":"thefinancepress","txt":"$GOOG Did Google Buy A Lemon? Motorola Mobility Whiffs Q4: Did Google Buy A Lemon? Motorola Mobility Whiffs Q4 ... http://t.co/EL5oHv9p","lbl":"Negative"}
+,{"time":"10:23","usr":"Goodlett","txt":"With $MMI eaking out small profit on $GOOG #Android devices and #HTC down 26%, #Samsung nails #1 spot http://t.co/9cXpSuFj $MSFT $AAPL","lbl":"Negative"}
+,{"time":"20:40","usr":"TraderGoalieOne","txt":"$GOOG Nice Shooting Star on overbought weekly chart. MUST SHORT an open below 649.79 because that will leave an Island Top. VERY BEARISH.","lbl":"Negative"}
+,{"time":"20:43","usr":"VolcadoDePila","txt":"@Circa Must consider $GOOG and Samsung performance, which has been really good lately...","lbl":"Positive"}
+]

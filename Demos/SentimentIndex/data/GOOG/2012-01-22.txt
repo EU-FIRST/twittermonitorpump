@@ -1,0 +1,6 @@
+[
+{"time":"10:09","usr":"Flexus_Group","txt":"Google Kills Photo-Sharing Service Picnik, Plus More Products $GOOG by @MattRosoff http://t.co/9F61p6Pr","lbl":"Positive"}
+,{"time":"14:03","usr":"BearBullTrader","txt":"Google $GOOG Is Already Using SOPA-Like Censorship http://t.co/bcRJgL6F","lbl":"Positive"}
+,{"time":"21:19","usr":"$GOOG","txt":"@corprebel I should have sold a little $GOOG at $670 :-)","lbl":"Negative"}
+,{"time":"21:24","usr":"seldomawake","txt":"Observation: $GOOG starts a huge move up every Oct. 31. Noted.","lbl":"Positive"}
+]

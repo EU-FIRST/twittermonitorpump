@@ -1,0 +1,9 @@
+[
+{"time":"8:40","usr":"choffman1978","txt":"Stock market shake - be careful! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj","lbl":"Negative"}
+,{"time":"9:27","usr":"boogidown","txt":"Talk about a defensive strategy in $AAPL (hold that line!)- we need more reindeer to follow. $BIDU did its good job. where the hell is $GOOG","lbl":"Negative"}
+,{"time":"14:38","usr":"Trinitank","txt":"RT @SAI: Android, iPhone, Or BlackBerry: Here Are The Smartphones Top Celebrities Use $AAPL $GOOG $RIMM by @_dtl http://t.co/2sjit2iK","lbl":"Positive"}
+,{"time":"14:40","usr":"choffman1978","txt":"Markets SURGING!!! WOW! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,#markets,#stocks","lbl":"Positive"}
+,{"time":"15:40","usr":"dewtheoption","txt":"$GOOG puts +13% today from entry... going to look a lot better after $AAPL miss! $$$$","lbl":"Negative"}
+,{"time":"15:41","usr":"ranaomer","txt":"RT @SAI_Tools: This Just Might Be Google\u0027s Best Commercial Ever $GOOG by @officialKLS http://t.co/JKpVJN5P","lbl":"Positive"}
+,{"time":"17:50","usr":"lexnfx","txt":"Google also notes in 10Q that margins on ad revenue from mobile devices and newer ad formats generally less than website ad margins $GOOG","lbl":"Negative"}
+]

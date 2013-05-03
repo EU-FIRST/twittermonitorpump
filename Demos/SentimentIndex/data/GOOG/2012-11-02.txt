@@ -1,0 +1,14 @@
+[
+{"time":"7:56","usr":"GrandSupercycle","txt":"As mentioned Oct 15: $GOOG day / week / month charts are overextended & significant correction expected - #goog #google #nasdaq #stocks","lbl":"Negative"}
+,{"time":"9:01","usr":"SuzyQJaco","txt":"$GG calls have time january bought $GOOG calls targeting 720 (Dec)","lbl":"Positive"}
+,{"time":"10:15","usr":"SupFreshItsHrTn","txt":"$VRNG @jalutcher and his hedge fund buds front run suckers everywhere on a shitty ringtone business w/ stupid dreams of beating $GOOG","lbl":"Positive"}
+,{"time":"10:18","usr":"just4girls1","txt":"RT @QuantRec: $VRNG $GOOG update from edvacourt on jury questions Friday Nov 2nd positive. http://t.co/hHJM1iqk","lbl":"Positive"}
+,{"time":"10:19","usr":"philoutweet4u","txt":"$VRNG is right and $GOOG infringed patents deliberately and the jury will agree! Can\u0027t wait for the final verdict! $10 pps soon!","lbl":"Negative"}
+,{"time":"11:00","usr":"rakstrdr","txt":"@tradejas or it could be that most have decided favorably for $VRNG but there is one holdout favoring $GOOG trying to change everyone\u0027s mind","lbl":"Positive"}
+,{"time":"11:47","usr":"choffman1978","txt":"$CORT rallying back after failed bear raid! Q4 will be amazing!#cnbc,#msnbc,#nyse,#wjs,$p,$s,$bac,$gs,$goog,$sbux,$aapl,$lmca,$dndn,$ctic,","lbl":"Positive"}
+,{"time":"12:37","usr":"StockMarket411","txt":"Google Stock Hit by Botched Release and Disappointing Earnings $goog http://t.co/bL0KoO5R goog, google, google stock, news","lbl":"Negative"}
+,{"time":"13:35","usr":"ChartMoMo","txt":"bot to cover $goog Nov700 (7) calls. +.80 per contract.","lbl":"Positive"}
+,{"time":"17:23","usr":"ADVFNplc","txt":"$GOOG - Google in Dispute With French Tax Authorities http://t.co/5L7RGDVi","lbl":"Negative"}
+,{"time":"17:24","usr":"StockMarket411","txt":"Google delivers 3Q letdown early, stock plummets $goog http://t.co/PNZ5YcKu goog, google, google stock, news","lbl":"Negative"}
+,{"time":"21:58","usr":"larryfooter","txt":"@ParHedge @CapCube to be honest, I like $GOOG much more than $AAPL ... but I agree 100% that it\u0027s very cheap here and has good growth","lbl":"Positive"}
+]

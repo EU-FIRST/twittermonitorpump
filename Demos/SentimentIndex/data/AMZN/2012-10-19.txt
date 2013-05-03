@@ -1,0 +1,11 @@
+[
+{"time":"9:33","usr":"MikeTsangaris","txt":"Impressive customer service from $AMZN. As soon as I closed the phone I received an email with a recap of how to handle the issue","lbl":"Positive"}
+,{"time":"11:59","usr":"TylerHKling","txt":"http://t.co/gTAR7C7W $120.00 profit in $AMZN vo bread and butter strategy, nice small position with nice profits","lbl":"Positive"}
+,{"time":"12:24","usr":"chrisbeanie1","txt":"RT @UdallTechStrat: @chrisbeanie1 @takingstock614 Chris, u\u0027d swap $goog for $amzn?? Not me but doesn\u0027t mean I don\u0027t dig ur stuff.","lbl":"Positive"}
+,{"time":"13:19","usr":"paulwoll","txt":"$AMZN looks like nice short below 238.50... Earnings on 10/25.","lbl":"Negative"}
+,{"time":"13:19","usr":"SuzyQJaco","txt":"@z8angela Angela do you have a read on $AMZN I think it has some serious downside potential. Thank you","lbl":"Negative"}
+,{"time":"15:10","usr":"HarryWanger","txt":"$AMZN Still surprised this didn\u0027t drop much more. Pretty much just tracked NAZ. $AAPL takes 3.6% hit and only -2% here. Seems odd.","lbl":"Negative"}
+,{"time":"15:46","usr":"RiskReversal","txt":"RT @CNBCOptions: Tonight: Is Amazon $AMZN an amazing short, and will $UPS deliver disappointment? We\u0027ve got the take AND the trades. At 5pm ET on CNBC.","lbl":"Negative"}
+,{"time":"16:31","usr":"CubbieBears","txt":"@KIERMCD not to mention all these key stk\u0027s under the 50 day,,,$AAPL $IBM $AMZN $GOOG $ORCL $MSFT $ $LNKD $EQIX $SWI $QQQ etc etc","lbl":"Negative"}
+,{"time":"16:32","usr":"councetx","txt":"@RobertWeinstein $AMZN & $GOOD are aggressive & creative.I like that. Own $AAPL & want 2 see after ~2 yrs when Jobs idea pipeline is empty.","lbl":"Positive"}
+]

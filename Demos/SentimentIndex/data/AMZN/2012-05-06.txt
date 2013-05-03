@@ -1,0 +1,5 @@
+[
+{"time":"7:55","usr":"koskietxwelc9","txt":"$AMZN will continue to crush $NFLX since it offers the ability to \u0022rent\u0022 movies that aren\u0027t free. Ge","lbl":"Positive"}
+,{"time":"11:38","usr":"LDrogen","txt":"Great piece on Jeff Bezos and the black box that is Amazon $AMZN http://t.co/f7L3pKZu, another reason we need @Estimize to succeed","lbl":"Negative"}
+,{"time":"11:49","usr":"Stockful","txt":"RT @StockTwits: Sunday links: long term problems http://t.co/K12eBFyO via @abnormalreturns $AMZN $YHOO $FB","lbl":"Negative"}
+]

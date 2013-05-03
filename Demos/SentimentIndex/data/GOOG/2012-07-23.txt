@@ -1,0 +1,17 @@
+[
+{"time":"6:07","usr":"jonartlucas","txt":"RT @SAI: Google Has Completely Sold Out Of The 16 GB Nexus 7 Tablet $GOOG by @sfiegerman http://t.co/mkkkPz0Q","lbl":"Positive"}
+,{"time":"6:07","usr":"seanwod","txt":"RT @SAI: Google Has Completely Sold Out Of The 16 GB Nexus 7 Tablet $GOOG by @sfiegerman http://t.co/mkkkPz0Q","lbl":"Positive"}
+,{"time":"6:09","usr":"IdeaG","txt":"RT @SAI: Google Has Completely Sold Out Of The 16 GB Nexus 7 Tablet $GOOG by @sfiegerman http://t.co/mkkkPz0Q","lbl":"Positive"}
+,{"time":"8:45","usr":"Opinterest","txt":"The bulls are defending $GOOG at 600","lbl":"Positive"}
+,{"time":"9:38","usr":"SAI","txt":"This Just Might Be Google\u0027s Best Commercial Ever $GOOG by @officialKLS http://t.co/jmYqBMpc","lbl":"Positive"}
+,{"time":"9:39","usr":"v3rsust3rminus","txt":"sold $goog calls for 9.60 (+60\u00A2)","lbl":"Negative"}
+,{"time":"10:10","usr":"justtradin","txt":"RT @WhizCheck6: $GOOG Filled Sell 15 Jul-27-12 585/590 Put Vertical @ .60 Limit http://t.co/oRfe2mEC $aapl $vxx $vix $spy $ ebay","lbl":"Negative"}
+,{"time":"11:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $ZLCS -1.94%, $STEM +17.42%, $AAPL -1.28%, $GOOG -1.06%, $GM -0.72% http://t.co/18MIdslT #StockWars","lbl":"Negative"}
+,{"time":"12:45","usr":"MinorityTrader","txt":"@daytradingradio, On $GOOG, Google is rolling out new 1 Gb High Speed It Service in Kansas, which is giving Time Warner n Comcast a headache","lbl":"Positive"}
+,{"time":"12:47","usr":"stockguy22","txt":"geez $GOOG $613 - still holding rest till Wed. but big miss not adding into $600","lbl":"Negative"}
+,{"time":"13:12","usr":"wallstCS","txt":"Facebook ACQUIRES New Engineer and 4 Tech Titans on the Move Today http://t.co/qfj5w4PL $FB $AAPL $GOOG $MSFT $INTC #mkt #stocks","lbl":"Positive"}
+,{"time":"13:13","usr":"StkConfidential","txt":"$GOOG adding to last week\u0027s earnings gains. $$","lbl":"Positive"}
+,{"time":"14:47","usr":"takingstock614","txt":"Long $AAPL $GOOG $PCLN $GLD","lbl":"Positive"}
+,{"time":"14:47","usr":"mel_huang","txt":"@coombscnbc $AAPL flat now, $GOOG is up 1%. Nice to see the latter up one on the i. BTW I\u0027m about to say bye to BB for Galaxy Nexus...","lbl":"Positive"}
+,{"time":"14:48","usr":"v3rsust3rminus","txt":"picked up some $goog aug 585p in another account for 4.80 - hopefully we\u0027ll see an end of day selloff.","lbl":"Negative"}
+]

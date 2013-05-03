@@ -1,0 +1,25 @@
+[
+{"time":"7:19","usr":"SPEQL8R","txt":"$GOOG now if can clear 618.35 will see 630-637. $BIDU might need time to clear 120-124 resist levels. $UNP held the 50 d ema mentioned be4..","lbl":"Positive"}
+,{"time":"12:25","usr":"rsaintvilus","txt":"@Andy_Borenzweig \u0022Excellent tandem, I think that it is a good time to start buying tech i.e. $AAPL $INTC $VMW $GOOG\u0022 - Don\u0027t forget $MSFT.","lbl":"Positive"}
+,{"time":"13:15","usr":"GOOGLE_INFOS","txt":"Google unveils its Google Fiber broadband Internet service http://t.co/7QZK8GWH $GOOG /@-Reuters #Google","lbl":"Positive"}
+,{"time":"13:15","usr":"PseudoBryce","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"13:19","usr":"blproducciones","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"13:26","usr":"UmairMohsin","txt":"RT @SAI: THIS IS WAR: Google Just Announced Plans To Be A Cable TV Provider $GOOG by @Julie188 http://t.co/lF7iZ9nH","lbl":"Positive"}
+,{"time":"13:26","usr":"danostrowski","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"13:37","usr":"aaronejoseph","txt":"RT @mattmireles: Smart. Now buy Netflix. RT @SAI: THIS IS WAR: Google Just Announced Plans To Be A Cable TV Provider $GOOG by @Julie188 http://t.co/S2P77dVD","lbl":"Positive"}
+,{"time":"13:51","usr":"adgillingham","txt":"Awesome... RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/JrFGrFI6 $GOOG","lbl":"Positive"}
+,{"time":"13:52","usr":"VelaTimes","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/VGpUmEew $GOOG Let\u0027s all move out to Kansas !","lbl":"Positive"}
+,{"time":"14:06","usr":"edunexusonline","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"14:06","usr":"jisunza","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"14:23","usr":"ETAMBA","txt":"The future is now! #telco \u0022@Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/wt1mDqMq $GOOG\u0022","lbl":"Positive"}
+,{"time":"14:23","usr":"GreatTweeters","txt":"RT @reuters: Google unveils its Google Fiber broadband Internet service http://t.co/JbgDrN9s $GOOG","lbl":"Positive"}
+,{"time":"14:43","usr":"kassim2468","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"14:43","usr":"dmackdaddy","txt":"$AAPL\u0027s plan worked :) Google beats Apple to the punch with 3D update to iOS Google Earth app today http://t.co/UEJBcihJ $GOOG","lbl":"Positive"}
+,{"time":"14:54","usr":"AkaFitzkes","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"15:14","usr":"PauliAS","txt":"RT @businessinsider: THIS IS WAR: Google Just Announced Plans To Be A Cable TV Provider $GOOG by @Julie188 http://t.co/Md0szh7g","lbl":"Negative"}
+,{"time":"15:45","usr":"BelindaSifuent1","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"16:02","usr":"WilkinsonBob","txt":"Google TV? You Betcha! - Seeking Alpha http://t.co/4sSi477x via @seekingalpha #in $GOOG","lbl":"Positive"}
+,{"time":"16:56","usr":"Lonesome_Ranger","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"18:55","usr":"BlindAbilities","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Positive"}
+,{"time":"22:04","usr":"tlmontana","txt":"@JustinPulitzer I like $GOOG","lbl":"Positive"}
+]

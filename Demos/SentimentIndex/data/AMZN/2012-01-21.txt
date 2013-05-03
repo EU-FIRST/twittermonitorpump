@@ -1,0 +1,4 @@
+[
+{"time":"3:35","usr":"PSU_Portfolio","txt":"Amazon Soils Diaper Discounts. \u0022Amazon Mom\u0022 club members angry http://t.co/s3hCmuti by WSJ #consumer discretionary $AMZN","lbl":"Negative"}
+,{"time":"12:02","usr":"ACInvestorBlog","txt":"Buying on Weakness $GOOG $QCOM $CVS $CAT $CVX $KFT $TOT $HD $AMZN $MMM $NWSA $AXP $MON $HON $WAG $TROW $NOV $APA $V $VZ $COL $NSC $PCP $PX","lbl":"Positive"}
+]

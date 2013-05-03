@@ -1,0 +1,14 @@
+[
+{"time":"1:45","usr":"TheStreet","txt":"Can Amazon Keep Defying Gravity? http://t.co/snO5JNrB by @rsaintvilus $AMZN $AAPL $GOOG $WMT $MSFT","lbl":"Negative"}
+,{"time":"5:33","usr":"ParksRecGirl","txt":"RT @SAI: Amazon May Offer Kindle Customers Refunds On Purchased Books $AMZN http://t.co/vIvXCnND","lbl":"Positive"}
+,{"time":"8:23","usr":"MichaelComeau","txt":"I am calling BS on $AMZN for $TXN chip biz rumor. $TXN OMAP is used in $BKS & Motorola products. They will NEVER buy chips from Amazon.","lbl":"Negative"}
+,{"time":"8:26","usr":"DanielSharma","txt":"Retail sales above forecast. Let\u0027s now get into: $WMT, $TGT, $DOL, $MCD, $HD, $AMZN, $BNNY, $AAPL, $BAC","lbl":"Positive"}
+,{"time":"8:50","usr":"thesandbum","txt":"Shorted $AMZN 241","lbl":"Negative"}
+,{"time":"10:07","usr":"Lowtown21","txt":"This $AMZN beat down has been impressive.","lbl":"Negative"}
+,{"time":"10:45","usr":"timtrice","txt":"$AMZN has tricks turning bearish flags into bullish reversals.","lbl":"Positive"}
+,{"time":"11:43","usr":"CreateCapital","txt":"Maybe $WMT & $AMZN will merge to support their respective market value","lbl":"Negative"}
+,{"time":"13:26","usr":"GSpeculator","txt":"Daytrade short $amzn 242.75 vs HOD","lbl":"Negative"}
+,{"time":"13:27","usr":"adem_tahiri","txt":"@TMFJMo @IBDinvestors-Make sense 4 $AMZN to make this 1 move. But-I worry they\u0027re getting into way too many spaces,diwersification? -Lynch..","lbl":"Negative"}
+,{"time":"14:40","usr":"DeidreZune","txt":"Technicians will celebrate $AMZN red dog reversal. Me, I like $AAPL better into iPAD Mini which will eat Kindle Fire\u0027s lunch","lbl":"Negative"}
+,{"time":"19:51","usr":"jojaifra_","txt":"RT @CNNMoney: Amazon & Apple will give e-book customers a credit as part of recent price-fixing settlement. http://t.co/MpMJLKlJ $AAPL $AMZN","lbl":"Positive"}
+]

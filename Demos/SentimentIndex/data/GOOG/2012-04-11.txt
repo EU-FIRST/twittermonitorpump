@@ -1,0 +1,17 @@
+[
+{"time":"2:29","usr":"TechStockFacts","txt":"If Google earns $10 a share on Thursday night, remember where you read it first. #GOOG $GOOG http://t.co/iXMd1vTi","lbl":"Positive"}
+,{"time":"3:08","usr":"freestocks21","txt":"$GOOG - Google Stock Analysis - bullish macd crossover - http://t.co/eXf6cySj","lbl":"Positive"}
+,{"time":"6:58","usr":"RogueStockTradr","txt":"$GOOG 750 May C size is too big for me to believe it\u0027s a hedge against a short. At 1.30ish good risk for a potential parabolic run ala $AAPL","lbl":"Positive"}
+,{"time":"8:26","usr":"gorosmzk","txt":"RT @SAI: Google\u0027s Motorola Acquisition Is A \u0027Cocky\u0027 Attempt To Do Everything At Once $GOOG by @mattlynley http://t.co/izXxT1Y7","lbl":"Negative"}
+,{"time":"9:32","usr":"AlphaBetaBanjo","txt":"$GOOG will be strong thru earnings my near term target is 670ish","lbl":"Positive"}
+,{"time":"10:49","usr":"coryjwatson","txt":"out of $GOOG calls as well, small loss","lbl":"Negative"}
+,{"time":"11:44","usr":"thefinancepress","txt":"$GOOG Google Launches New Google+ Design in Challenge to Facebook: Google Launches New Google+ Design in Challe... http://t.co/fUthtNWo","lbl":"Positive"}
+,{"time":"12:28","usr":"aztecs99","txt":"RT @BillBigD: @aztecs99 $GOOG trade-about a 400% gain if it closes at 580 or 688ish --- that\u0027s it bill!","lbl":"Positive"}
+,{"time":"13:22","usr":"jonasQuinn23","txt":"wow, $GOOG vaulted over $AAPL again","lbl":"Positive"}
+,{"time":"13:24","usr":"iJamonEdwards","txt":"I just made a new friend, well come to the family $GOOG.","lbl":"Positive"}
+,{"time":"16:17","usr":"PaulMedica","txt":"$GOOG looking good into earnings tomorrow. Looking at the May 590/650/690 call spread risk reversal for $2.30 for max gain of 16x. Also ...","lbl":"Positive"}
+,{"time":"16:21","usr":"Mark_Lexus","txt":"@Ustopcryingfool if it sells off it will present an opportunity to enter into credit put spreads so can participate either direction $GOOG","lbl":"Negative"}
+,{"time":"16:21","usr":"thefinancepress","txt":"$GOOG Google forecast to post earnings, sales gains: Google forecast to post earnings, sales gains MarketWatch ... http://t.co/jCrdAFcH","lbl":"Positive"}
+,{"time":"19:45","usr":"LGStateofMind","txt":"RT @SAI: THE GOOGLE INVESTOR: Hollywood Still Not Happy, Here Comes The $1 Billion YouTube Lawsuit $GOOG by @hleonard76 http://t.co/ldX7JRly","lbl":"Negative"}
+,{"time":"23:39","usr":"speculatethemkt","txt":"$GOOG what does everyone think of the new google+? I honestly liked it better the other way #newgoogle+","lbl":"Negative"}
+]

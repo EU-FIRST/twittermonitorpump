@@ -1,0 +1,5 @@
+[
+{"time":"10:05","usr":"mNHNw","txt":"RT @SAI: Google\u0027s Latest Smartphone Is Already Having Issues $GOOG by @officialKLS http://t.co/oKkR5JLh","lbl":"Negative"}
+,{"time":"10:14","usr":"lualero","txt":"RT @SAI: Google\u0027s Latest Smartphone Is Already Having Issues $GOOG by @officialKLS http://t.co/oKkR5JLh","lbl":"Negative"}
+,{"time":"10:14","usr":"jingsnote","txt":"RT @SAI: Google\u0027s Latest Smartphone Is Already Having Issues $GOOG by @officialKLS http://t.co/oKkR5JLh","lbl":"Negative"}
+]

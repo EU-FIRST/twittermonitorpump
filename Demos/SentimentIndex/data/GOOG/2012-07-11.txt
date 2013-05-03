@@ -1,0 +1,14 @@
+[
+{"time":"7:57","usr":"Nils1975","txt":"RT @thenotablecalls $GOOG - Sbern sees ex-TAC revenues of $7.83B vs $8.42B, thats below the low end of Street #\u0027s ->Benchmark lowered 2w ago","lbl":"Negative"}
+,{"time":"8:00","usr":"scbgezwitscher","txt":"RT @thenotablecalls - $GOOG - \u0027If recent history is a good indicator, there is a risk that something similar wil... http://t.co/rvIBi1EO","lbl":"Negative"}
+,{"time":"9:05","usr":"TweetLeni","txt":"Good morning. A nice morning for shorts Added $AGU 89.67 to ag shorts. Still short $GOOG and $AXP Killed $ULTA long and $BIIB more later","lbl":"Negative"}
+,{"time":"9:51","usr":"cutloos","txt":"RT @SAI The Problem With Your Android Phone $GOOG by @stevekovach http://t.co/QC6jETIV","lbl":"Negative"}
+,{"time":"9:51","usr":"Alohaintegrity","txt":"RT @SAI: The Problem With Your Android Phone $GOOG by @stevekovach http://t.co/Hu5ujMRF","lbl":"Negative"}
+,{"time":"10:35","usr":"BlueFielder","txt":"$GooG looks horrible","lbl":"Negative"}
+,{"time":"11:17","usr":"thefinancepress","txt":"$GOOG Google: Buy And Hold As Seeds Begin To Sprout: Google: Buy And Hold As Seeds Begin To Sprout Seeking Alph... http://t.co/3TKOjzJ3","lbl":"Positive"}
+,{"time":"12:17","usr":"SunnyVegas360","txt":"I smell something funny in the market :-) $AAPL $GOOG The Big Tech is just getting rocked.","lbl":"Negative"}
+,{"time":"12:20","usr":"creditspread23","txt":"Oooh! $goog now u drop more! Serves me right for being too cautious on the put side exit2early! Grr!","lbl":"Negative"}
+,{"time":"16:36","usr":"twit_ashutosh","txt":"#gmail for #googleApps uses #BigQuery now. $GOOG is looking good. http://t.co/73NQqdI2","lbl":"Positive"}
+,{"time":"16:40","usr":"ericjackson","txt":"New Post: Google and Facebook Caught in the Mobile Shift http://t.co/9tCO0NNS $GOOG $FB","lbl":"Negative"}
+,{"time":"19:46","usr":"ValaAfshar","txt":"Google\u2019s market share rose to 66.8% @WSJ http://t.co/tTZBZiWU $GOOG $YHOO $MSFT #SEO #CIO #CMO","lbl":"Positive"}
+]

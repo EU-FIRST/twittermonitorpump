@@ -1,0 +1,10 @@
+[
+{"time":"7:54","usr":"StateDave","txt":"TechCrunch reports that Google is preparing to launch Chrome OS notebooks that will also be equipped with touchscreens. $GOOG","lbl":"Positive"}
+,{"time":"9:41","usr":"illini3","txt":"$GOOG 660 lower #stocks #CNBS","lbl":"Negative"}
+,{"time":"12:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $AAPL +1.65%, $FB +7.84%, $CLNT -1.45%, $GOOG -0.58%, $MBI +6.58% http://t.co/p9PotPfP #StockWars","lbl":"Negative"}
+,{"time":"14:35","usr":"SeekingAlpha","txt":"The Great Android Disconnect http://t.co/fwTxwswj $AAPL $IBM $GOOG","lbl":"Negative"}
+,{"time":"15:29","usr":"BijouMind","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Positive"}
+,{"time":"16:40","usr":"iBizNews21","txt":"RT @CNNMoney: Google\u0027s $400 million Wi-Fi buy a hoax http://t.co/rM66I0p5 $GOOG","lbl":"Negative"}
+,{"time":"19:02","usr":"clafsm","txt":"RT @CNNMoney: Google\u0027s $400 million Wi-Fi buy a hoax http://t.co/rM66I0p5 $GOOG","lbl":"Negative"}
+,{"time":"19:04","usr":"sciencetrader","txt":"still heavy insider selling in $GOOG today around 663","lbl":"Negative"}
+]

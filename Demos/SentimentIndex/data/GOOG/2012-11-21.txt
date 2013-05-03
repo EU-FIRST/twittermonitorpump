@@ -1,0 +1,7 @@
+[
+{"time":"9:53","usr":"DeidreZune","txt":"Rivals question Google Fiber\u0027s network longevity http://t.co/Gts3SzPA $GOOG $VZ $T #CASE of #SOURGRAPES","lbl":"Negative"}
+,{"time":"11:24","usr":"Empaxis","txt":"RT @businessinsider: The Biggest Tech Flops Of 2012 $RIMM $AAPL $AMZN $GOOG $FB $YHOO $ZNGA by @jyarow http://t.co/8oMct8Pw","lbl":"Negative"}
+,{"time":"12:15","usr":"JenRCurry","txt":"#13F Watch: portfolio managers big on $GOOG, $MSFT, $GE, $PG, and $CSCO http://t.co/nU3soN5L","lbl":"Positive"}
+,{"time":"15:15","usr":"LibertineMomani","txt":"RT @herbgreenberg: dum de dum dum... $GOOG trading at 666","lbl":"Positive"}
+,{"time":"16:17","usr":"MysteryMan78","txt":"RT @ACInvestorBlog: $VRNG $GOOG $AOL Judge Orders Google Pay Vringo $15.8M + 3.5% Running Royalty Rate http://t.co/cggkkak1","lbl":"Negative"}
+]

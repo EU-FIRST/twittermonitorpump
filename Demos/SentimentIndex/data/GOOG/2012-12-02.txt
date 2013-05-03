@@ -1,0 +1,4 @@
+[
+{"time":"13:54","usr":"CROSSHAIRTRADER","txt":"RT @abnormalreturns: Sunday (late) links: an unbalanced economy, tech sector weakness and the law of unbundling. http://t.co/DaWcACQG $XLK $AAPL $GOOG $LMCA $VIX","lbl":"Negative"}
+,{"time":"14:01","usr":"peterjhebert","txt":"Google generates more US ad revenue than all newspapers combined http://t.co/ucP6KN50 via @AGoulburn $GOOG","lbl":"Positive"}
+]

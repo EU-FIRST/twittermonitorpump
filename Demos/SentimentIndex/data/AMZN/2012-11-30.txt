@@ -1,0 +1,6 @@
+[
+{"time":"8:43","usr":"STL_Trader22","txt":"$AMZN still pretty extended, very shortable from 252","lbl":"Negative"}
+,{"time":"8:43","usr":"Mr_Abundance","txt":"RT @BenCBanks: I wouldn\u0027t be the one buying at these levels. Though someone has to if you want to make money. Don\u0027t let it be you. $spy $goog $amzn","lbl":"Negative"}
+,{"time":"15:52","usr":"swamptrade","txt":"$GOOG $AMZN $FB HOD","lbl":"Positive"}
+,{"time":"22:14","usr":"sciencetrader","txt":"best stock to watch is $AMZN if isn\u0027t stopped near 265 it may keep going and don\u0027t know where it will stop, maybe next $EBAY","lbl":"Positive"}
+]

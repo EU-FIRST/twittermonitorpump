@@ -1,0 +1,11 @@
+[
+{"time":"8:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 08:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"9:50","usr":"ericjackson","txt":"Good post from @chunkamui on the problems of monetizing mobile $FB $GOOG http://t.co/pRNmdtuO","lbl":"Negative"}
+,{"time":"10:37","usr":"MichaelComeau","txt":"Did you notice that IDC made a huge cut in its Android tablet forecast? $GOOG $AAPL http://t.co/8IjNg6fc","lbl":"Negative"}
+,{"time":"11:41","usr":"MaxHeartwood","txt":"RT @SAI: Here Are All The Reasons It Sucks To Work At Google $GOOG by @mattlynley http://t.co/GEhbPZaY","lbl":"Negative"}
+,{"time":"11:42","usr":"gromalomus","txt":"$GOOG off a hundred points since it\u0027s March 28 top.","lbl":"Negative"}
+,{"time":"13:00","usr":"StocksOracle123","txt":"Stocks Oracle predicts NEGATIVE outlook for GOOG stock through 3:00 pm EST // http://t.co/pX69wYAb // $GOOG #NASDAQ","lbl":"Negative"}
+,{"time":"13:01","usr":"Minyanville","txt":"IDC\u0027s #tablet market forecast: murky outlook for Google Android http://t.co/zNy1e7ZL @michaelcomeau $GOOG $AAPL","lbl":"Negative"}
+,{"time":"13:51","usr":"Opinterest","txt":"$GOOG still struggling here","lbl":"Negative"}
+,{"time":"18:41","usr":"wallstCS","txt":"Bing SOARS Over Google while Ford Reports EXCITING Results http://t.co/NiWKC78x $MSFT $GOOG $F #stocks","lbl":"Negative"}
+]

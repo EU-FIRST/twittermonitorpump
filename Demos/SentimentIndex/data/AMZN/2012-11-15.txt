@@ -1,0 +1,7 @@
+[
+{"time":"9:43","usr":"GeneralMovement","txt":"RT @TheStreet: Christmas Wars: Amazon vs. Walmart - TheStreet http://t.co/J6XT5saE $AMZN $WMT with a little $GOOG @DanaBlankenhorn","lbl":"Negative"}
+,{"time":"10:27","usr":"Daniel_Aaron17","txt":"Shorting $UAL this morning and reshorting $AMZN as well. #LongShort","lbl":"Negative"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:47am: 223.63 +0.68 (+0.31%).","lbl":"Positive"}
+,{"time":"12:19","usr":"KevinSanker","txt":"Sales Tax Won\u2019t Stop @Amazon\u2019s Retail Dominance Says Analyst | http://t.co/o6W1C8Ta via @YahooFinance $AMZN #taxes #stocks #retail","lbl":"Positive"}
+,{"time":"18:14","usr":"optionbob","txt":"@streetbrief $AMZN is believed to have long term growth ahead of it. It\u0027s trading on potential going forward. THE ec... http://t.co/GkqRQL8E","lbl":"Positive"}
+]

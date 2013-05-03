@@ -1,0 +1,13 @@
+[
+{"time":"8:20","usr":"DeidreZune","txt":"Apple Doesn\u2019t Need a $200 iPad Mini http://t.co/Jm4d5RL6 $AAPL $AMZN $GOOG \u0022Should Amazon + Google be worried?Yes, they should be worried.\u201D","lbl":"Negative"}
+,{"time":"8:51","usr":"HarryWanger","txt":"$AMZN Street not being kind to in line or slight misses this Q - could be brutal if $AMZN comes in line 7 horrible if misses","lbl":"Negative"}
+,{"time":"10:17","usr":"CEP_Observer","txt":"@SusanCTShore $1500 iphone in Brazil is not uncommon - similar story in Russia big business buying on $amzn & shipping overseas","lbl":"Positive"}
+,{"time":"10:21","usr":"TheStreet","txt":"RT @RobertWeinstein: $AMZN breaking below $230 in front of earnings even with $SPY up. http://t.co/iTvmfWdv via @TheStreet $WMT, $BBY,","lbl":"Negative"}
+,{"time":"11:01","usr":"MaltdMark","txt":"$AMZN > Awesome cust service once again. Replaced an entire shipment that was LOST BY UPS. Took over issue, shipped overnight too. Cost=zero","lbl":"Positive"}
+,{"time":"12:06","usr":"nico2379","txt":"$AMZN slowly lifting off from 230 support","lbl":"Positive"}
+,{"time":"13:02","usr":"1nvestor","txt":"@paulwoll probably better for $AMZN that they sell less Kindles. helps margins, lol.","lbl":"Negative"}
+,{"time":"14:25","usr":"Jamtrades","txt":"Commented on StockTwits: Bezos is a bonafide pro. Never bet against him! $AMZN http://t.co/v3T0AA76","lbl":"Positive"}
+,{"time":"16:20","usr":"ClickfireCoder","txt":"RT @bored2tears: A Kindle customer thought she owned her #eBooks \u2014 until Amazon erased them overnight. http://t.co/WMVPqXdY $AMZN #DRM","lbl":"Negative"}
+,{"time":"20:10","usr":"XQuickFixX","txt":"$AMZN 250 December puts look cheap IMHO","lbl":"Negative"}
+,{"time":"23:19","usr":"bored2tears","txt":"Foreign firms face tax crackdown in #UK, Europe. http://t.co/18n7sB6K $AMZN $FB $SBUX #EU #stocks","lbl":"Negative"}
+]

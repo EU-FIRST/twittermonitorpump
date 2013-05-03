@@ -1,0 +1,12 @@
+[
+{"time":"9:40","usr":"SPEQL8R","txt":"$GOOG came to 648 I had mentioned & is bouncing. It needs to clear 660 150 d ema to go higher until then might retest lows.","lbl":"Negative"}
+,{"time":"10:25","usr":"mnoltecpa","txt":"$GOOG $4 entry on the weeklys, tight stop at $3.60. Not going to be too greedy and not risking too much.","lbl":"Positive"}
+,{"time":"10:25","usr":"elliottwavelive","txt":"$GOOG testing upper end of 647- 649 support. $$","lbl":"Positive"}
+,{"time":"11:00","usr":"SPEQL8R","txt":"$GOOG if does not hold 648 ish has gap at 641.58; could go to 50 dsma on 5 yr wkly 635 ish.","lbl":"Negative"}
+,{"time":"11:02","usr":"bluser12","txt":"@Ken_S82 @Questrade @RogueStockTradr Pretty sure I\u0027ve lost money cause of this. Had Some weekly options on $GOOG.","lbl":"Negative"}
+,{"time":"11:34","usr":"FlyBoyKhi","txt":"RT @SAI: Let\u0027s Make This Easy: Out Of All The Tiny Tablets, Google\u0027s Nexus 7 Is The Best Buy $GOOG by @stevekovach http://t.co/zylpoczZ","lbl":"Positive"}
+,{"time":"15:23","usr":"StockMarket411","txt":"Google stock drops after missing analysts\u2019 expectations $goog http://t.co/AOik4Hx6 goog, google, google stock, news","lbl":"Negative"}
+,{"time":"18:08","usr":"EhudHoops","txt":"Everyone\u0027s bitching about $AAPL down 25% from peak, allowing $GOOG to float under the radar despite dropping 16% from peak in under 2 months","lbl":"Negative"}
+,{"time":"18:21","usr":"sciencetrader","txt":"insider selling: $GOOG CEO sells 83,334 shares on 11/13 and 11/14 at 665 and 656.","lbl":"Negative"}
+,{"time":"21:08","usr":"macroaxis","txt":"$GOOG Slightly dropping since closing. Preserves shares owned by insiders of 0.33 % http://t.co/mCZQbYf3","lbl":"Negative"}
+]

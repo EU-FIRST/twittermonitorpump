@@ -1,0 +1,23 @@
+[
+{"time":"5:45","usr":"MrStreetSweeper","txt":"With HTC Patent Deal, Apple Is Going For Android\u2019s Jugular http://t.co/asCeU09i $goog $aapl $msft","lbl":"Negative"}
+,{"time":"8:03","usr":"thebankersays","txt":"\u201C@SAI: Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/S4yMYCa2\u201D","lbl":"Negative"}
+,{"time":"8:03","usr":"oceanshaman","txt":"RT @SAI: Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/IO15hyjd","lbl":"Negative"}
+,{"time":"8:03","usr":"PKinbangkok","txt":"RT @bi_politics Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/GeymhCnR","lbl":"Negative"}
+,{"time":"8:39","usr":"PeterLoux","txt":"RT @SAI: Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/IO15hyjd","lbl":"Negative"}
+,{"time":"10:08","usr":"thefinancepress","txt":"$GOOG Critical Alerts For Google, Boeing, Freeport McMoran, Michael Kors, and Toyota ...: Critical Alerts For G... http://t.co/pXQRltUO","lbl":"Negative"}
+,{"time":"11:02","usr":"elsburyxknrml3","txt":"RT @GiovannyMoreano: Google\u0027s market-cap loss as of the halt at 12:50p ($687.3) stands at about -$22 billion. $GOOG","lbl":"Negative"}
+,{"time":"11:05","usr":"UdallTechStrat","txt":"Again seeing strong $goog and rel. weak $aapl.","lbl":"Positive"}
+,{"time":"12:07","usr":"BlueFielder","txt":"$GOOG .... stable","lbl":"Positive"}
+,{"time":"13:55","usr":"tradingview","txt":"$GOOG chart by @sssc: http://t.co/n59ME5WB another sick stock.","lbl":"Negative"}
+,{"time":"14:16","usr":"YahooFinance","txt":"#Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:17","usr":"Jwow1204","txt":"RT @YahooFinance: #Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:17","usr":"Pabjojot","txt":"RT @YahooFinance: #Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:17","usr":"JamesXbondd","txt":"RT @YahooFinance: #Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:50","usr":"_a_nico_","txt":"RT @YahooFinance: #Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"15:26","usr":"vanholaw","txt":"Google Said to Face Ultimatum From FTC in Antitrust Talks $GOOG http://t.co/3mjQLqZB","lbl":"Negative"}
+,{"time":"16:07","usr":"petergo99037185","txt":"MARKET TUESDAY - 16 CHARTS 12 UP, 4 DOWN. spx $VIX down early AM, market UP. <> $DOW UP, $AAPL DOWN again..<> $GOOG UP.<> $USD down=mkt up!","lbl":"Positive"}
+,{"time":"16:49","usr":"StockMarket411","txt":"U.K. Scrutinizes Starbucks, Google, and Amazon Taxes $goog http://t.co/ghtQr5SI goog, google, google stock, news","lbl":"Negative"}
+,{"time":"16:51","usr":"samiaji","txt":"RT @SAI: CHART OF THE DAY: Google Is Bigger Than The U.S. Print Ad Business $GOOG $NYT $NWS $GCI by @jyarow http://t.co/Gk7tz6hV","lbl":"Positive"}
+,{"time":"16:52","usr":"erictartanson","txt":"Google Is Bigger Than The U.S. Print Ad Business $GOOG $NYT $NWS $GCI by @jyarow http://t.co/gGqmJs54","lbl":"Positive"}
+,{"time":"20:36","usr":"timtom","txt":".@Google seems to be in recession this year. http://t.co/Di1T7mpR $GOOG http://t.co/sb504fIt","lbl":"Negative"}
+]

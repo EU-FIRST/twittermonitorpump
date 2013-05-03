@@ -1,0 +1,32 @@
+[
+{"time":"0:49","usr":"swamptrade","txt":"@BOCASBEST $GOOG h/s pattern could be invalidated if she keeps going up next few days.","lbl":"Positive"}
+,{"time":"8:55","usr":"todd_harrison","txt":"A Rising Tide: 7 Stocks Poised to Benefit from the Facebook IPO http://t.co/AGIEinGQ via @minyanville $GOOG $MSFT $ZNGA $EA $FIO $AAPL $SCOR","lbl":"Positive"}
+,{"time":"9:36","usr":"WalterLiveOak","txt":"RT @WallStreet_Rant: .@ReformedBroker If that\u0027s the case, Short $FB Long $GOOG would be the easiest trade of the year.","lbl":"Positive"}
+,{"time":"10:12","usr":"PeakTheories","txt":"$GOOG appears to be a short, prob drops to 600 easily in near-term but has 480 on it at some point in 2012","lbl":"Negative"}
+,{"time":"10:39","usr":"ronellman","txt":"$GOOG near LOD.","lbl":"Negative"}
+,{"time":"11:12","usr":"802dotchris","txt":"The $GOOG account noid strikes again, reg\u0027ing for #I/O using work Gmail, G+ info needed, which is hooked to personal Gmail adds. Grr","lbl":"Negative"}
+,{"time":"11:17","usr":"ZEROCAPITAL","txt":"@Neutronduzit $AAPL and $GOOG down as well.. techs just gearing up for the next fiscal","lbl":"Negative"}
+,{"time":"12:10","usr":"SmartMoney","txt":"Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:11","usr":"performforeva","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:15","usr":"AidaOpokuMensah","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:15","usr":"SamAtAcronym","txt":"RT @SmartMoney: Google is surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/afJox95i $FB $GOOG","lbl":"Positive"}
+,{"time":"12:17","usr":"peter_mushangwe","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:27","usr":"WorldNewsRT","txt":"SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/QbijlN07 $FB $GOOG","lbl":"Positive"}
+,{"time":"12:27","usr":"katiabassi","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:27","usr":"Maccaholics","txt":"Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/cJGP8i4l $FB $GOOG\u201D @aliber28","lbl":"Positive"}
+,{"time":"12:27","usr":"wasimosman","txt":"Kinda funny news if you ask me...Google is the surprise winner in Facebook mania. $FB $GOOG","lbl":"Positive"}
+,{"time":"12:48","usr":"Edwin_II","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:50","usr":"hi_kiyoon","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"13:20","usr":"TweetLeni","txt":"$GOOG 1st entry long 614.85","lbl":"Positive"}
+,{"time":"13:21","usr":"TweetLeni","txt":"$GOOG I\u0027ll add more next week on strength dont want to go to heavy into weekend.","lbl":"Positive"}
+,{"time":"13:21","usr":"61point8","txt":"I\u0027m long September $605 puts on $GOOG. Will trade around it if I have to. Will take it off when my thesis is proven invalid.","lbl":"Negative"}
+,{"time":"13:22","usr":"cakhan","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"14:17","usr":"61point8","txt":"$GOOG > FYI, the bounce to $538 exceeded my expectations. But \u0022b\u0022 waves are notoriously unpredictable. http://t.co/IxpdY4Nm","lbl":"Positive"}
+,{"time":"14:40","usr":"PerforM84697233","txt":"Option Millionaires: shreya: $GOOG...what a crap today http://t.co/siNGveo7","lbl":"Negative"}
+,{"time":"14:53","usr":"happy22234","txt":"RT @CNNMoney: Thrilled & bummed by Google\u0027s self-driving car. Technology is tantalizing but not ready for wider world yet. http://t.co/cnI7ygjW $GOOG","lbl":"Positive"}
+,{"time":"14:53","usr":"PeakTheories","txt":"Getting ugly! RT @RiskReversal GOOG We Agree! http://t.co/bFwbJ1dy RT $GOOG wants to trade to bottom of Diamond Top 465 t 565 c 665 f 495","lbl":"Negative"}
+,{"time":"14:54","usr":"KlickStocks","txt":"Bought large block of $GOOG at $600","lbl":"Positive"}
+,{"time":"15:17","usr":"TraderDR","txt":"$GOOG that was so strong finally played a little catch up today","lbl":"Negative"}
+,{"time":"15:21","usr":"Fibonacciqueen","txt":"This is the $ES zone posted before the money show....bearish symmetry is STILL intact there! $GOOG setup was... http://t.co/OUoEabkX","lbl":"Negative"}
+,{"time":"16:19","usr":"Sirtuan","txt":"$GOOG omg what eff...","lbl":"Negative"}
+]

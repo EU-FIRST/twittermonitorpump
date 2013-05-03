@@ -1,0 +1,8 @@
+[
+{"time":"10:55","usr":"pennyhendu","txt":"RT @optionsanimal: This is the last sigh of effort for $NOK, before they finally succumb to $AAPL and $GOOG. $RIMM will soon follow.","lbl":"Positive"}
+,{"time":"13:41","usr":"Paint_Shield","txt":"#Motorola Razr HD and $NOK Lumia both look average and $GOOG and $MSFT need to cut and run. You\u0027ll never get in my hands, quit trying.","lbl":"Negative"}
+,{"time":"16:33","usr":"steffen_graf","txt":"RT @SAI: CHART OF THE DAY: Google Is Activating 1.3 Million Android Devices On A Daily Basis $AAPL $GOOG by @jyarow http://t.co/p0jI4F5C","lbl":"Positive"}
+,{"time":"17:42","usr":"ps_sean","txt":"CHART OF THE DAY: Google Is Activating 1.3 Million Android Devices On A Daily Basis $AAPL $GOOG by @jyarow http://t.co/toRx1lIk","lbl":"Positive"}
+,{"time":"17:50","usr":"SeekingAlpha","txt":"Could Vringo Be Apple\u0027s \u0027Thermonuclear\u0027 Option Against Google? http://t.co/zhRnOgdj $AAPL $GOOG $NOK $SSNLF.PK $VRNG","lbl":"Negative"}
+,{"time":"23:51","usr":"vurtzk","txt":"$GOOG if sellers on the deck, and loses 679, then sell with cover 673. http://t.co/27NL2f1M","lbl":"Negative"}
+]

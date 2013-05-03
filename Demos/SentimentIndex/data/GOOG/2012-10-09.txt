@@ -1,0 +1,27 @@
+[
+{"time":"6:57","usr":"nicoleurken","txt":"RT @TheStreet: New CEOs Makes These Stocks Buyable http://t.co/7zn6RFTS video w/ @nicoleurken @Lindseycbell $YHOO $INTU $GOOG $SYMC","lbl":"Positive"}
+,{"time":"6:57","usr":"SeeWaiCee","txt":"RT @SAI: Google Exec Accuses Apple Of Negotiating Over Patents In Bad Faith $GOOG $AAPL http://t.co/fBsRGNTK","lbl":"Negative"}
+,{"time":"8:01","usr":"businessinsider","txt":"Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/d6dkJhq5","lbl":"Positive"}
+,{"time":"8:01","usr":"SAI","txt":"Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
+,{"time":"8:01","usr":"ms_tigertale","txt":"RT @businessinsider: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/d6dkJhq5","lbl":"Positive"}
+,{"time":"8:02","usr":"asianchica22","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
+,{"time":"8:21","usr":"wallstCS","txt":"Are Google and Samsung Sneaking Into iPad Territory? http://t.co/2RTUnty1 $SSNLF $AAPL $GOOG #mkt #stocks #trading","lbl":"Positive"}
+,{"time":"8:47","usr":"EShcmidt","txt":"$ORCL is suing $GOOG for IP infringement for android software. Case filed with circuit court on last thursday","lbl":"Negative"}
+,{"time":"8:47","usr":"nwease","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/pp1fIGoN","lbl":"Positive"}
+,{"time":"8:49","usr":"bluser12","txt":"$AAPL wants 630. $GOOG wants to break below 756-754.","lbl":"Negative"}
+,{"time":"9:17","usr":"JamesLUFCLewis","txt":"@stockassassin74 profit taking on $VRNG is purely short-sighted. This company has valuable patents, and has legit challenges vs $GOOG.","lbl":"Negative"}
+,{"time":"9:18","usr":"hamptonus","txt":"RT @firstadopter: Since I got my $GOOG Nexus 7, I use it 90% of time now vs my $AAPL \u0022retina\u0022 iPad. It\u0027s better form factor iPad heavy/u ...","lbl":"Positive"}
+,{"time":"9:39","usr":"stt2318","txt":"for those that play intraday setups $GOOG on major support here","lbl":"Positive"}
+,{"time":"9:39","usr":"russellmreyes","txt":"$GOOG below 754. lets see if it can get below 750.00","lbl":"Negative"}
+,{"time":"9:50","usr":"KarSun01","txt":"$GOOG call spot on- posted chart yesterday, hope you guys weren\u0027t in long, and best case were short, but def at least not long!","lbl":"Negative"}
+,{"time":"9:50","usr":"1nvestor","txt":"740 is where the 20 SMA sits on the Daily for $GOOG - a place it has touched only once since late July.","lbl":"Positive"}
+,{"time":"9:51","usr":"marklopresti","txt":"like i said, break 750 $GOOG moved fast","lbl":"Negative"}
+,{"time":"10:08","usr":"GdayToYou","txt":"@YoungMarketMavn Couldnt agree more $APPL and $GOOG puts so sweet the ride down. $$$ and SPY broke 144...nice trading day ;)","lbl":"Negative"}
+,{"time":"10:41","usr":"tradefast","txt":"$GOOG support at 20dma $740","lbl":"Positive"}
+,{"time":"10:41","usr":"tlmontana","txt":"RT @tradefast: $GOOG support at 20dma $740","lbl":"Positive"}
+,{"time":"11:05","usr":"takingstock614","txt":"A lot of money managers overweight $AAPL Many moving over to $GOOG imo.","lbl":"Positive"}
+,{"time":"11:05","usr":"shrinikketh","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
+,{"time":"11:06","usr":"takingstock614","txt":"$GOOG After 5yrs finally broke out of prev. high 747. Stock not just going to pull back. This one is going much higher. BTD BTD BTD BTD!","lbl":"Positive"}
+,{"time":"11:47","usr":"sailor_2_c","txt":"Caught the $GOOG drop and took profits in my $AAPL puts. Hoping for more downside in $NFLX.","lbl":"Negative"}
+,{"time":"21:58","usr":"ProperNig","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
+]

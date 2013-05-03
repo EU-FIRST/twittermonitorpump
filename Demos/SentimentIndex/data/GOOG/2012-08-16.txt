@@ -1,0 +1,9 @@
+[
+{"time":"8:12","usr":"WolfMonkeyUSA","txt":"@RedDogT3Live Current Bus model going nowhere. Adwords far better than $FB ads for business. No reason to go $FB when there\u0027s $GOOG $AAPL","lbl":"Positive"}
+,{"time":"9:00","usr":"SpeedSixx2","txt":"reversed teh trade, bought $GOOG Aug 670 put for 3.50","lbl":"Positive"}
+,{"time":"9:40","usr":"jonasQuinn23","txt":"Maybe a surprise to many, but $GOOG going up is good for $AAPL and the entire silicon valley stockscape","lbl":"Positive"}
+,{"time":"9:41","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) Facing Intense Digital Wallet Competition: Google Inc. (GOOG) Facing Intense Digital W... http://t.co/fnC2jazf","lbl":"Negative"}
+,{"time":"11:31","usr":"SPEQL8R","txt":"Having said that $GOOG to me looks very overbot; it normall pullsback. $TLT is coming close to my tgt near gap fill & I might nibble there","lbl":"Negative"}
+,{"time":"13:18","usr":"Fibonacciqueen","txt":"$GOOG setup from yesterday seems to be heading towards target 1 http://t.co/dpPiP0Eh","lbl":"Positive"}
+,{"time":"13:53","usr":"PrintChap","txt":"RT @SAI: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/Kx30uYyJ","lbl":"Positive"}
+]

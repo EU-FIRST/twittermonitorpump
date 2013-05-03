@@ -1,0 +1,8 @@
+[
+{"time":"7:33","usr":"BenCBanks","txt":"@T3LivePete what signifies a \u0022accumulation day\u0022 for you? Just a solid bounce of high volume of support? $amzn $cat","lbl":"Positive"}
+,{"time":"8:57","usr":"Ben270","txt":"$AMZN & $AAPL not to impressive this AM so far","lbl":"Negative"}
+,{"time":"10:36","usr":"dantanner","txt":"The whole market is soggy from the Sandy disaster. You can see this sentiment in the trading $AAPL $GOOG $PCLN $AMZN","lbl":"Negative"}
+,{"time":"14:20","usr":"AlphaClone","txt":"@riskonriskoff Yes, looks like $AAPL, $AMZN, $PCLN, $GMCR are biggest winners YTD on weighted return basis for that clone","lbl":"Positive"}
+,{"time":"14:21","usr":"edward_test","txt":"Very strong buy: ***HUGE!*** $AAPL $AMZN $BAC $C $CMCSA $DIA $FAS $GOOG $GS $IWM $IYT $JPM $NFLX $QLD $QQQ $SPY","lbl":"Positive"}
+,{"time":"14:21","usr":"edward_test","txt":"Very strong buy: $AAPL $AMZN $BAC $C $CMCSA $DIA $FAS $GOOG $GS $IWM $IYT $JPM","lbl":"Positive"}
+]

@@ -1,0 +1,15 @@
+[
+{"time":"6:54","usr":"firstadopter","txt":"MS: \u0022we expect Kindle Fire to lose mkt share primarily to $AAPL \u0022 \u0022expect $AMZN to lose share in eBook mkt\u0022 Party on Garth, party on Wayne!","lbl":"Negative"}
+,{"time":"8:10","usr":"USwwwStocks","txt":"$AMZN News: Pier 1 Looks To Furnish Stock Boost With Q4 Report http://t.co/bZXcWtPY #internet #daytrading #stocks","lbl":"Positive"}
+,{"time":"8:14","usr":"rechtsteiner","txt":"$AMZN\u0027s in-app purchase capabilities push them a major step closer to $AAPL & $GOOG http://t.co/pqVGYTYt","lbl":"Positive"}
+,{"time":"8:19","usr":"HedgeArt","txt":"Rather a negative note out on $AMZN from Morgan Stanley","lbl":"Negative"}
+,{"time":"9:23","usr":"newsagg","txt":"$AMZN nearing bottom of 10d60m http://t.co/2lMJttR9","lbl":"Negative"}
+,{"time":"10:03","usr":"urbinarestrepo","txt":"Out of $AMZN @193.49 (-4.2%) LOD / Stopped Out of $EURNOK: the Trailing Stop protected -some of- my Profits. #Risk Management!","lbl":"Negative"}
+,{"time":"10:52","usr":"newsagg","txt":"@WannabeTraderRF now is not the time to buy either of these stocks. $AMZN bottoming on the 10d60m chart but has earnings in 3 weeks.","lbl":"Positive"}
+,{"time":"11:36","usr":"newsagg","txt":"$AMZN following the 10d6m chart? Here is the linear regression low extension coinciding with a critical day for chikou http://t.co/mpW4CxRt","lbl":"Negative"}
+,{"time":"11:36","usr":"W1llSm1th","txt":"@apascual Correct. Rumor has it that $BBBY window shoppers go to $AMZN for products.","lbl":"Positive"}
+,{"time":"12:35","usr":"passiveharry","txt":"$AMZN having problems with 20SMA","lbl":"Negative"}
+,{"time":"14:31","usr":"BlueFielder","txt":"$AMZN going to catch a lift here .... doin git now","lbl":"Positive"}
+,{"time":"18:43","usr":"frumpy","txt":"@optionbob Seriously! Thank you for $AMZN today!","lbl":"Positive"}
+,{"time":"18:45","usr":"BT24_7","txt":"$AMZN http://t.co/zCUWgAaO follow up http://t.co/dWdPsikG & http://t.co/BrjtbqLD $AMZN distribution for a nice profit $$","lbl":"Positive"}
+]

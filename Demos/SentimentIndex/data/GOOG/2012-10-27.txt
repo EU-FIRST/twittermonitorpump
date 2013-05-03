@@ -1,0 +1,6 @@
+[
+{"time":"12:56","usr":"socmediapros","txt":"@Legacy_Trades @chrishar00 @socmediapros Recent drop in $GOOG due to missd earngs but futur AD rev grwth dsktp mobil still mk it lng trm buy","lbl":"Positive"}
+,{"time":"13:03","usr":"SAI_Tools","txt":"Google Cancels Its October 29 Android Event Because Of Hurricane Sandy $GOOG by @stevekovach http://t.co/ZjuVVpDk","lbl":"Negative"}
+,{"time":"17:22","usr":"Mortimer_Duke","txt":"RT @Fitzstock2004: $GOOG still avoid (see notes) http://t.co/29DRQiUU","lbl":"Negative"}
+,{"time":"23:31","usr":"waizwomann","txt":"RT @BI_Advertising: Google Is Now Doing Same-Day Shopping Delivery $GOOG by @Jim_Edwards http://t.co/0vJ9fbBV","lbl":"Positive"}
+]

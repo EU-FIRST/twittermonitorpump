@@ -1,0 +1,6 @@
+[
+{"time":"6:39","usr":"takingstock614","txt":"$AMZN has been diverging from $AAPL it\u0027s the better name for now.","lbl":"Positive"}
+,{"time":"11:13","usr":"tradethembi","txt":"$AMZN hits the 10 min orange dot buy target, http://t.co/hxrumYNt","lbl":"Positive"}
+,{"time":"12:25","usr":"Moulinneuf","txt":"@howardlindzon na $AMZN is the one who is undervalued , they sale $aapl and $nke prods and those of competitors","lbl":"Positive"}
+,{"time":"20:56","usr":"powitz","txt":"RT @Fitzstock2004: $bac $ebay $pcln $sbux $jpm $amzn $goog $all $emn $yhoo $v $ma $dish all look good and continue to grind higher","lbl":"Positive"}
+]

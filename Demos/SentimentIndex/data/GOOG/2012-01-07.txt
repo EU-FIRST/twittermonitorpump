@@ -1,0 +1,6 @@
+[
+{"time":"13:03","usr":"jeremy_tOS","txt":"RT @ldrogen: you don\u0027t see $GOOG trying to shove all of its properties into the same UI like Facebook, its about trust and brand and quality","lbl":"Positive"}
+,{"time":"13:03","usr":"TrendRida","txt":"@ldrogen Why do you say $GOOG\u0027s multiple is increasing? Stock hasn\u0027t done squat in 2 years w/ earning increasing...","lbl":"Positive"}
+,{"time":"13:03","usr":"LDrogen","txt":"Facebook\u0027s motto (let\u0027s dumb it down for grandma), Google\u0027s motto (let\u0027s build the best product possible) $GOOG $FBOOK","lbl":"Positive"}
+,{"time":"19:03","usr":"thefinancepress","txt":"$GOOG Barnes & Noble has Strategic Schizophrenia: Barnes & Noble has Strategic Schizophrenia Wall St. Cheat She... http://t.co/hg0c8pLa","lbl":"Negative"}
+]

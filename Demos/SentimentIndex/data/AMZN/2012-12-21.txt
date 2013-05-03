@@ -1,0 +1,5 @@
+[
+{"time":"5:22","usr":"prabier","txt":"RT @SAI: This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/6POva4Un","lbl":"Negative"}
+,{"time":"10:15","usr":"TMFJMo","txt":"@scbower Not at all; in fact I\u0027m wishing for the same thing. I own $AMZN shares already & if they duck back below $200 I\u0027d be very tempted.","lbl":"Positive"}
+,{"time":"10:20","usr":"danshep55","txt":"$amzn long 257.99","lbl":"Positive"}
+]

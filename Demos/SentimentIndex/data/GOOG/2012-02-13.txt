@@ -1,0 +1,33 @@
+[
+{"time":"1:59","usr":"dAmyfus","txt":"RT @SAI: Google Is Building Secret Hardware Testing Labs All Over Its Campus $GOOG by @MattRosoff http://t.co/QmZ2AC6S","lbl":"Positive"}
+,{"time":"6:53","usr":"tomkeene","txt":"good google+-morning http://t.co/MJ8iKAG4 $GOOG $$","lbl":"Positive"}
+,{"time":"10:07","usr":"RedDogT3Live","txt":"$GOOG acting tough","lbl":"Positive"}
+,{"time":"10:08","usr":"BlueFielder","txt":"$GooG in Feb 620 $CALL \u0027s @ 3.50 - tight stop","lbl":"Positive"}
+,{"time":"13:21","usr":"ReutersTech","txt":"EU Commission clears Google\u0027s acquisition of Motorola Mobility, sees no competition issues via @Reuters $GOOG $MMI","lbl":"Positive"}
+,{"time":"13:21","usr":"SaqibReports","txt":"EU Commission clears Google\u0027s acquisition of Motorola Mobility, sees no competition issues via @Reuters $GOOG $MMI","lbl":"Positive"}
+,{"time":"14:26","usr":"iStockAnalyst","txt":"Google Acquisition Of Motorola Mobility Gets EU Nod $GOOG $MMI: Google Inc.\u0027s (NASDAQ: GOOG) proposed $12.5 bill... http://t.co/TGHA36m3","lbl":"Positive"}
+,{"time":"14:45","usr":"SAI","txt":"CHART OF THE DAY: Google is The Least Diversified Business In Tech $GOOG $AAPL $MSFT $EBAY by @jyarow http://t.co/MiYVTA8Z","lbl":"Negative"}
+,{"time":"14:45","usr":"lluccipha","txt":"SAI: CHART OF THE DAY: Google is The Least Diversified Business In Tech $GOOG $AAPL $MSFT $EBAY by @jyarow http://t.co/gpRjmtMr","lbl":"Negative"}
+,{"time":"16:50","usr":"princebhojwani","txt":"Google-Motorola Mobility Deal Gets Clearance from U.S. Dept. of Justice $GOOG","lbl":"Positive"}
+,{"time":"16:50","usr":"BUDDIEE18","txt":"back in $GOOG 615 + 620 feb calls. shd run higher along w/$BIDU reporting this thursday","lbl":"Positive"}
+,{"time":"17:10","usr":"thefinancepress","txt":"$GOOG Google\u0027s Bid for Motorola Mobility Approved by US Antitrust Regulators: Google\u0027s Bid for Motorola Mobilit... http://t.co/xpULppHB","lbl":"Positive"}
+,{"time":"17:10","usr":"iSoylaOstia","txt":"All clear! Google-Motorola deal approved by Dept of Justice. $GOOG (Poornima Gupta/@poornimagupta) - http://t.co/2gO9TwOF","lbl":"Positive"}
+,{"time":"17:10","usr":"ChicagolandCmbr","txt":"RT @crainschicago: Google, Motorola Mobility deal cleared by U.S. http://t.co/JUUKEqwd $GOOG $MMI","lbl":"Positive"}
+,{"time":"17:29","usr":"desabahh","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"17:29","usr":"DustinMedlin","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"17:30","usr":"xilladel","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"17:30","usr":"JeffreyMDaniels","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"17:44","usr":"MarketWatch","txt":"Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+,{"time":"17:44","usr":"terrarose","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"17:44","usr":"w_jameskenton","txt":"Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/WehqwVPG $GOOG","lbl":"Positive"}
+,{"time":"17:44","usr":"InfoSomniac2","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"18:08","usr":"missmarybrave","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"18:08","usr":"MeeshJoseph","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+,{"time":"18:57","usr":"BioTechReports","txt":"$BPAX - approval likely to be announced tomorrow morning!!!!!! $dndn, $pfe, $jnj, $amgn, $c, $v, $bac, $gs, $goog, $aapl, $ctic","lbl":"Positive"}
+,{"time":"18:58","usr":"ddirubbo","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/bQjalrPd $GOOG","lbl":"Positive"}
+,{"time":"18:59","usr":"IsraRomero","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+,{"time":"21:21","usr":"AE_Maldonado","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+,{"time":"21:26","usr":"DontTakeLosses","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+,{"time":"23:50","usr":"soelex","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"23:51","usr":"DoctorCara","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+]

@@ -1,0 +1,8 @@
+[
+{"time":"8:14","usr":"newsagg","txt":"RT @DrDuru: http://t.co/ry3ESMNf Triggers Signal To Short - But Do Not Pull The Trigger Yet: http://t.co/MYmEofzg $AMZN","lbl":"Negative"}
+,{"time":"10:38","usr":"chicagosean","txt":"Rolled long $AMZN Jun 220 put down to 215 for a $2.50 credit. Long against 205 short. Reducing risk.","lbl":"Positive"}
+,{"time":"10:40","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:25am: 216.15 -2.21 (-1.01%).","lbl":"Negative"}
+,{"time":"12:12","usr":"jimcollins","txt":"RT @StockTwits: In other news, $AMZN is dominating its segment of the Social Heatmap http://t.co/4NG1DI0g as it trades into earnings gap.","lbl":"Positive"}
+,{"time":"14:15","usr":"frank_world","txt":"@TraderFlorida you think $AMZN is a good short here","lbl":"Negative"}
+,{"time":"14:40","usr":"nicholas_yee","txt":"Dead wrong on my $FB call, maybe investors are finally learning! Hopefully now $AMZN will drop by 90% and $AAPL will jump to $1000!","lbl":"Negative"}
+]

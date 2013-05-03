@@ -1,0 +1,3 @@
+[
+{"time":"23:49","usr":"_mberman","txt":"$AMZN has a PE of 295, $GOOG has a PE of 20, and AMZN is going to put GOOG out of business? < what am I missing?","lbl":"Positive"}
+]

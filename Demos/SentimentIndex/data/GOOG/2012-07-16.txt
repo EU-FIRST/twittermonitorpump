@@ -1,0 +1,14 @@
+[
+{"time":"8:25","usr":"MikeKi6moe","txt":"RT @SAI: Google\u0027s Nexus 7 Tablet Already Sold Out In Most Stores $GOOG by @stevekovach http://t.co/HHrnMPcf","lbl":"Positive"}
+,{"time":"8:28","usr":"kateoCFO","txt":"Brutal piece on $MSFT in @VanityFair. How the one-time tech leader got beat on just about everything by $AAPL and $GOOG http://t.co/UfleZgrv","lbl":"Positive"}
+,{"time":"8:30","usr":"deslava10","txt":"RT @businessinsider: Google\u0027s Nexus 7 Tablet Already Sold Out In Most Stores $GOOG by @stevekovach http://t.co/BX5yEiMp","lbl":"Positive"}
+,{"time":"12:02","usr":"GencogluMustafa","txt":"RT @MarketWatch: The 10 most popular stocks in the tech sector among hedge funds: to no surprise, $AAPL $GOOG on the list http://t.co/uy0XDpLO","lbl":"Positive"}
+,{"time":"15:02","usr":"MicroFundy","txt":"$GOOG down $2","lbl":"Negative"}
+,{"time":"15:10","usr":"randyrandy","txt":"shocking: Marissa Mayer leaving $GOOG for $YHOO!! http://t.co/3TYqsyHV","lbl":"Negative"}
+,{"time":"15:44","usr":"DontTakeLosses","txt":"RT @FoxBusiness: More details on Yahoo\u0027s surprise move to hire senior Google exec Marissa Mayer for the CEO spot: http://t.co/uV351Kbv $YHOO $GOOG","lbl":"Negative"}
+,{"time":"16:48","usr":"kristinluck","txt":"RT @SAI: Marissa Mayer\u0027s Exit Took Google By Surprise $YHOO $GOOG by @nichcarlson http://t.co/UkPt2mQ2","lbl":"Negative"}
+,{"time":"18:01","usr":"cocoy","txt":"Google loses Marissa Mayer. Mayer now CEO of Yahoo! http://t.co/Qf1eZ7oX $GOOG $YHOO","lbl":"Negative"}
+,{"time":"18:04","usr":"jessefelder","txt":"Not one of my friends has posted anything in Google+ this month. $GOOG #ifatreefalls","lbl":"Negative"}
+,{"time":"20:04","usr":"sec_prof","txt":"@investorsmosaic I think big$ dumping $FB to get ready to buy $GOOG or $AAPL on good earnings. If $FB earnings not stellar, then teens IMHO","lbl":"Positive"}
+,{"time":"21:31","usr":"IdeaGov","txt":"RT @JBoorstin: Peter Thiel calls Google a monopoly to Eric Schmidt #fortunetech $GOOG http://t.co/La5ezMia","lbl":"Negative"}
+]

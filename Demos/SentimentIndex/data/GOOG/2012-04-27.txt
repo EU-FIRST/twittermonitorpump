@@ -1,0 +1,23 @@
+[
+{"time":"1:19","usr":"SirFreshington","txt":"@Equity_Manager I gave up some gains on those $GOOG 600 puts :( but damn the calls went from 1.30ish to 15.90 over the week! :(","lbl":"Positive"}
+,{"time":"7:48","usr":"bergkelleher","txt":"RT @MKTWBurton: Open letter to Facebook $FB and Instagram millionaires -- Listen to Google $GOOG http://t.co/T1ApyFsC via @MarketWatch","lbl":"Positive"}
+,{"time":"8:02","usr":"JosePonceJouvin","txt":"RT @businessinsider: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL by @hblodget http://t.co/1H00xYiu","lbl":"Negative"}
+,{"time":"8:03","usr":"tigrs99","txt":"RT @SAI: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL by @hblodget http://t.co/m89J7Rq1","lbl":"Negative"}
+,{"time":"8:03","usr":"pegobry","txt":"RT @SAI: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL by @hblodget http://t.co/m89J7Rq1","lbl":"Negative"}
+,{"time":"8:54","usr":"McCannToday","txt":"RT @SAI: Google Is On The Cusp Of Losing Control Of Android $GOOG by @jyarow http://t.co/Q47OBmm2","lbl":"Negative"}
+,{"time":"8:54","usr":"Heer_preet","txt":"RT @hblodget: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL http://t.co/otMdRfpd","lbl":"Negative"}
+,{"time":"9:11","usr":"nishardnuh","txt":"\u0022@SAI: Google Is On The Cusp Of Losing Control Of Android $GOOG by @jyarow http://t.co/RfJn1M1Q\u0022 #fb","lbl":"Negative"}
+,{"time":"9:27","usr":"SHOSHANNARS","txt":"RT @businessinsider: Google Is On The Cusp Of Losing Control Of Android $GOOG by @jyarow http://t.co/iod8In1F","lbl":"Negative"}
+,{"time":"10:40","usr":"BlueFielder","txt":"$GooG lifting of that pennant ....","lbl":"Positive"}
+,{"time":"11:06","usr":"HamzeiAnalytics","txt":"RT @FortuneMagazine: Et tu, Google? Why the tech giant\u0027s stock revamp is a bust: http://t.co/TGki02IV $GOOG","lbl":"Negative"}
+,{"time":"11:24","usr":"JrCapitalGroup","txt":"RT @SAI: Google\u0027s Destruction Is Already Under Way $GOOG by @nichcarlson http://t.co/O8pQrhol","lbl":"Negative"}
+,{"time":"11:48","usr":"sitweak","txt":"RT @SAI: Google Is Out Of Touch With Reality When It Comes To Android Software Updates $GOOG by @stevekovach http://t.co/CONZ5hz7","lbl":"Negative"}
+,{"time":"11:48","usr":"McCannToday","txt":"RT @SAI: Google\u0027s Destruction Is Already Under Way $GOOG by @nichcarlson http://t.co/O8pQrhol","lbl":"Negative"}
+,{"time":"12:36","usr":"cnbcfastmoney","txt":"Is Antitrust Probe a Reason to Sell Google? http://t.co/zgZOah0v $GOOG #StockMarket #StockPicks","lbl":"Negative"}
+,{"time":"13:52","usr":"BlueFielder","txt":"$GOOG .... stirring","lbl":"Positive"}
+,{"time":"15:49","usr":"mpp_84","txt":"RT @businessinsider: 10 Reasons Google Is The Greatest Company In The World $GOOG by @jyarow http://t.co/PoxU3wlZ","lbl":"Positive"}
+,{"time":"15:54","usr":"gforce1","txt":"RT @SAI: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL by @hblodget http://t.co/m89J7Rq1","lbl":"Negative"}
+,{"time":"18:15","usr":"BS_Whistler","txt":"RT @TheStreet: Facebook Has No Business Being Compared to Apple, Google and Amazon http://t.co/b9WXbhjR $GOOG $AAPL","lbl":"Positive"}
+,{"time":"18:16","usr":"NimlokChicago","txt":"RT @businessinsider: 10 Reasons Google Is The Greatest Company In The World $GOOG by @jyarow http://t.co/PoxU3wlZ","lbl":"Positive"}
+,{"time":"19:59","usr":"USwwwStocks","txt":"$GOOG News: Buy GE, Drop Google and Don\u0027t Ask Why: UBS http://t.co/XVHA0PIu #daytrading #usa #www #stocks","lbl":"Negative"}
+]

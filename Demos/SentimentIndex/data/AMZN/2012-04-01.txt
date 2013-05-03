@@ -1,0 +1,6 @@
+[
+{"time":"3:55","usr":"beststockpick65","txt":"$AMZN - Amazon Stock Analysis - 22day ema moving up - http://t.co/xIKxLvzv","lbl":"Positive"}
+,{"time":"11:51","usr":"BS_Whistler","txt":"RT @SeekingAlpha: Amazon Long-Term Wait Until The Last Quarter Of 2012 http://t.co/Al3fKM55 $AMZN","lbl":"Negative"}
+,{"time":"21:01","usr":"StockMarketEnds","txt":"Microsoft & Amazon are Puppets of Anti Christ Zionists $MSFT $AMZN #MSFT #AMZN $GEO #GEO $CXW #CXW #GS $GS","lbl":"Negative"}
+,{"time":"21:19","usr":"m_naar","txt":"Eyeing some $amzn this week! 200 calls and target for stock will be 220","lbl":"Positive"}
+]

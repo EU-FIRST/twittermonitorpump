@@ -1,0 +1,3 @@
+[
+{"time":"4:37","usr":"OptionPundit","txt":"@t3nman I see on the forum that you already closed $GOOG 570 calls for solid gains. Congrats. Now we need the Bear CSpread to work for us.","lbl":"Positive"}
+]

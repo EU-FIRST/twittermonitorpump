@@ -1,0 +1,30 @@
+[
+{"time":"2:21","usr":"wjboynton","txt":"#Apple\u0027s Win Over Samsung Is A Kick In The Teeth For Google http://t.co/sPKKQeED $GOOG $MSFT $S $SSNLF.PK $T $VZ $AAPL","lbl":"Negative"}
+,{"time":"2:29","usr":"khairais","txt":"RT @EXPstocktrader: Overnight Samsung lost $12B in mkt cap on $1B jdgmt in fav of $AAPL. Infringing firms nd to settle or this is what happens. $VHC $VRNG $GOOG","lbl":"Negative"}
+,{"time":"7:49","usr":"berkutchitweet","txt":"Damage control: Willing to hang in my $GOOG long since 600 if and only if 658.59 support holds. http://t.co/vTCABW8e","lbl":"Positive"}
+,{"time":"8:10","usr":"BUDDIEE18","txt":"RT @61point8: $GOOG support near $662.","lbl":"Positive"}
+,{"time":"8:12","usr":"LizMani","txt":"RT @SAI: Google Responds To Apple\u0027s Monster Patent Victory $GOOG $AAPL by @jyarow http://t.co/E7WqRXFa","lbl":"Negative"}
+,{"time":"8:30","usr":"BlueFielder","txt":"Hour glass: $AAPL up 16 .. $GooG down 16","lbl":"Negative"}
+,{"time":"8:44","usr":"robwilmink","txt":"RT @markburdette: Early Watchlist Losers $JRCC $GOOG $WLT #tradersblock","lbl":"Negative"}
+,{"time":"8:45","usr":"ChrisStuntz","txt":"looking for $GOOG entry and $AAPL re-entry; looking for calls, but, will play both ways","lbl":"Positive"}
+,{"time":"8:45","usr":"chiraoka","txt":"RT @powerfulradiofm: RT @SAI: And Here\u0027s Samsung\u0027s \u0027Internal Memo\u0027 On Apple\u0027s Huge Patent Win $AAPL $GOOG by @jyarow http://t.co/p4r52aQf","lbl":"Negative"}
+,{"time":"9:05","usr":"nyckennedy","txt":"The 2 tech companies everyone has an eye on $APPL & $GOOG - RT @jhlipton: Apple rises to record high; Google falls most in six weeks","lbl":"Negative"}
+,{"time":"9:05","usr":"Chrisfoo71","txt":"RT @businessinsider: And Here\u0027s Samsung\u0027s \u0027Internal Memo\u0027 On Apple\u0027s Huge Patent Win $AAPL $GOOG by @jyarow http://t.co/L5j0ghdd","lbl":"Negative"}
+,{"time":"9:37","usr":"N266CH","txt":"RT @RedDogT3Live: $GOOG holding important support of $660ish. I think today is an opportunity.","lbl":"Positive"}
+,{"time":"10:11","usr":"elliottwavelive","txt":"Google: Setting up for a fall? http://t.co/dChAiLLh $GOOG #elliottwave $$","lbl":"Negative"}
+,{"time":"10:44","usr":"henrygambell","txt":"Quiet market with the exception of $AAPL - $GOOG trying to recover - Out of $UNG - Holding $SPY http://t.co/DsnoCb0t","lbl":"Positive"}
+,{"time":"10:45","usr":"Dutchtrader01","txt":"$GOOG a buy if it holds 660?","lbl":"Positive"}
+,{"time":"10:45","usr":"haentz","txt":"$GOOG also took a nice little hit today :) http://t.co/ErP8B3eT #cheaters","lbl":"Negative"}
+,{"time":"11:31","usr":"ADVFNplc","txt":"$GOOG - Major Victory for Apple - Analyst Blog http://t.co/cs2iYnJh","lbl":"Negative"}
+,{"time":"11:35","usr":"GiantRobot7","txt":"RT @cnbcfastmoney Apple Has Only Just Begun to Fight Google $AAPL $GOOG [video] http://t.co/tyMyFQMR","lbl":"Negative"}
+,{"time":"11:36","usr":"summers___","txt":"RT @cnbcfastmoney: Apple Has Only Just Begun to Fight Google $AAPL $GOOG [video] http://t.co/j9ya4RZv","lbl":"Negative"}
+,{"time":"12:50","usr":"DPolitical","txt":"$GOOG - Bank of America Reiterates Buy on Google #GOOG http://t.co/llSBc0kl","lbl":"Negative"}
+,{"time":"12:52","usr":"MMASSASSIN","txt":"1/3shorting $GOOG weekly 685 / 690 calls credit spread and on puts buying $GOOG 650 puts almost 3x oversized. On the puts this the long","lbl":"Negative"}
+,{"time":"13:24","usr":"flibustier3","txt":"RT @businessinsider: Here\u0027s Google\u0027s Latest Apple TV Killer $GOOG by @stevekovach http://t.co/FlzJxVHU","lbl":"Positive"}
+,{"time":"13:46","usr":"chase_hall","txt":"RT @aztecs99: really like $GOOG here","lbl":"Positive"}
+,{"time":"13:46","usr":"AnchorageLLC","txt":"RT @SAI: Here\u0027s Google\u0027s Latest Apple TV Killer $GOOG by @stevekovach http://t.co/VCKG6o9e","lbl":"Positive"}
+,{"time":"13:48","usr":"upseerivera","txt":"RT @SAI: Here\u0027s Google\u0027s Latest Apple TV Killer $GOOG by @stevekovach http://t.co/iaErxtqb","lbl":"Positive"}
+,{"time":"15:04","usr":"Martin_Bowley","txt":"RT @businessinsider: Apple Wants To Ban Sales Of 8 Samsung Devices $AAPL $GOOG by @stevekovach http://t.co/nOtyQRz6","lbl":"Negative"}
+,{"time":"15:54","usr":"xnxtxsx2","txt":"Will Vringo Benefit From Apple\u0027s Patent Victory Over Samsung? http://t.co/Tn5fhQ5q $AAPL $GOOG $VRNG $SSNLF.PK","lbl":"Negative"}
+,{"time":"19:27","usr":"DougP1","txt":"Will Apple\u0027s court victory overrun Google\u0027s purchase of Motorola patents? $AAPL $GOOG $MSFT http://t.co/z5khKj8w","lbl":"Negative"}
+]

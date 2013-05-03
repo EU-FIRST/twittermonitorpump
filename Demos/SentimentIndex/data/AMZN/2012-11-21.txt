@@ -1,0 +1,8 @@
+[
+{"time":"1:19","usr":"guttrader","txt":"$AAPL, $GS, $GOOG, $BIDU, $NFLX, $IBM, $CAT, $AMZN, $FFIV, $JCP, $IOC, $ARNA, $LVS if u love these stocks join us http://t.co/qk5n1zBP","lbl":"Positive"}
+,{"time":"7:43","usr":"DetailsR4Devils","txt":"$AMZN: Amazon\u0027s China Kindle launch delayed by cloud hold-up, Morning Whistle say","lbl":"Negative"}
+,{"time":"10:36","usr":"MBarbaTBR","txt":"Another interesting stat: 21% of kids would want an e-reader, but only 19% would want a Kindle Fire; should that be concerning for $AMZN?","lbl":"Negative"}
+,{"time":"12:14","usr":"Stuey_B","txt":"RT @SAI: The Biggest Tech Flops Of 2012 $RIMM $AAPL $AMZN $GOOG $FB $YHOO $ZNGA by @jyarow http://t.co/m2JawW4T","lbl":"Negative"}
+,{"time":"15:18","usr":"lfburch","txt":"@retail_sails $BBY $amzn has no service, except returns","lbl":"Negative"}
+,{"time":"16:22","usr":"marketmodel","txt":"@KeithMcCullough I just like watching it unfold w u short $amzn against the crowd. #contrarian","lbl":"Negative"}
+]

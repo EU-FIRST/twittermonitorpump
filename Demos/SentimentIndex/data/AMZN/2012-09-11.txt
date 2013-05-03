@@ -1,0 +1,10 @@
+[
+{"time":"8:44","usr":"RedDogT3Live","txt":"I will look to buy back $goog And $amzn around there 8day moving averages if we see them and they set up. No position now","lbl":"Positive"}
+,{"time":"10:47","usr":"RobertWeinstein","txt":"Watching $AMZN for short entry. oversold on 2min bar, but looks to accelerate losses today","lbl":"Negative"}
+,{"time":"10:47","usr":"Shaq48_Trading","txt":"the A team $AAPL and $AMZN leaking lower","lbl":"Negative"}
+,{"time":"12:27","usr":"takingstock614","txt":"Added to my $AMZN calls.","lbl":"Positive"}
+,{"time":"15:50","usr":"ClearlyStatedCo","txt":"Don\u0027t Buy The Amazon Kindle Fire HD Hype http://t.co/FBamXVer $AAPL $GOOG $NVDA $TXN $AMZN","lbl":"Negative"}
+,{"time":"19:27","usr":"DeidreZune","txt":"With $AAPL\u0027s iPAD MINI on its way, let\u0027s see how many people will stll be choosing $AMZN\u0027s Kindle\u0027s over $AAPL iPads. AAPL offers $9 e-books","lbl":"Negative"}
+,{"time":"20:52","usr":"firstadopter","txt":"Great news for $AMZN fans, new Kindle Fire HD same rating score as HP Touchpad and last yr\u0027s Kindle Fire. Low bar for them to beat next yr!","lbl":"Positive"}
+,{"time":"20:52","usr":"DaveCV100","txt":"RT @firstadopter: Great news for $AMZN fans, new Kindle Fire HD same rating score as HP Touchpad and last yr\u0027s Kindle Fire. Low bar for ...","lbl":"Positive"}
+]

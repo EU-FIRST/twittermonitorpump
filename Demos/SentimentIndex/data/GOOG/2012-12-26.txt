@@ -1,0 +1,4 @@
+[
+{"time":"10:25","usr":"HawkDayTrader","txt":"$goog buying some calls here at $710.85. Looks like it wants to move higher like $bidu.","lbl":"Positive"}
+,{"time":"19:20","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 57 shares \u2611","lbl":"Negative"}
+]

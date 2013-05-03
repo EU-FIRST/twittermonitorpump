@@ -1,0 +1,29 @@
+[
+{"time":"1:28","usr":"BigTicks","txt":"$GOOG News: Australia Plans To Introduce New Tax Laws For Multinationals -Report http://t.co/BS4z5NV8 #GOOG #Australia #Introduce","lbl":"Negative"}
+,{"time":"1:37","usr":"USwwwStocks","txt":"$GOOG News: Diller Beats Google With Top Web Stock: Riskless Return http://t.co/Sv4JG7RH #GOOG #Beats #Diller","lbl":"Negative"}
+,{"time":"6:38","usr":"Equitykingkong","txt":"$GOOG : for now still above 600 but I think we will see lower prices today","lbl":"Negative"}
+,{"time":"7:56","usr":"MiltonMorillo","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Negative"}
+,{"time":"7:56","usr":"hammads","txt":"Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/JdoDwddI $FB $GOOG","lbl":"Negative"}
+,{"time":"8:15","usr":"danielsimmonds","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Negative"}
+,{"time":"8:16","usr":"Vingeviciute","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Negative"}
+,{"time":"8:50","usr":"takingstock614","txt":"The more we knock @ $600 the greater chance $GOOG cracks and breaks to downside. Feeling heavy right now.","lbl":"Negative"}
+,{"time":"9:54","usr":"jessefelder","txt":"Guy Kawasaki Compares Google+ to Apple, Calls it a \u2018Religious Experience\u2019 http://t.co/gyHxPy0c $goog $aapl","lbl":"Positive"}
+,{"time":"10:51","usr":"coryjwatson","txt":"market is now taking down the big boys, $GOOG $AAPL","lbl":"Negative"}
+,{"time":"11:10","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) Opens Higher, Support at $600: Google Inc (NASDAQ:GOOG) Opens Higher, Support at... http://t.co/DOdjf1De","lbl":"Positive"}
+,{"time":"12:00","usr":"rktaylor12","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Negative"}
+,{"time":"12:01","usr":"JustJDaub","txt":"RT @jimcramer: RT @YahooFinance: Google privacy inquiries get little cooperation http://t.co/kH8gAU4f $GOOG","lbl":"Negative"}
+,{"time":"12:57","usr":"danshep55","txt":"$goog did not infringe $orcl patent for java","lbl":"Positive"}
+,{"time":"13:04","usr":"gomikeyuen","txt":"RT @SAI: VERDICT IS IN FOR ORACLE-GOOGLE: GOOGLE WINS! $ORCL $GOOG by @jyarow http://t.co/rh8XFg8S","lbl":"Positive"}
+,{"time":"13:04","usr":"tipapa","txt":"RT @SAI: VERDICT IS IN FOR ORACLE-GOOGLE: GOOGLE WINS! $ORCL $GOOG by @jyarow http://t.co/rh8XFg8S","lbl":"Positive"}
+,{"time":"13:04","usr":"graubart","txt":"RT @GinnyLaRoe: BREAKING: Complete Google win on patent infringement claims by Oracle. NO INFRINGEMENT. $GOOG $ORCL","lbl":"Positive"}
+,{"time":"13:19","usr":"lamikayty","txt":"RT @ProducerMatthew: RT @scottbudman: Verdict: Google did not infringe on Oracle Java patents. Trial is over. $GOOG $ORCL","lbl":"Positive"}
+,{"time":"13:19","usr":"mrlaughter","txt":"RT @scottbudman: Verdict: Google did not infringe on Oracle Java patents. Trial is over. $GOOG $ORCL","lbl":"Positive"}
+,{"time":"13:44","usr":"kitrieke","txt":"RT @LaMonicaBuzz: Not a Paranoid Android. Looks like the $GOOG/$ORCL Java patent infringement case is over and that $GOOG is the winner. No damages.","lbl":"Positive"}
+,{"time":"13:46","usr":"joshs","txt":"RT @ReutersLegal: Google did not infringe Oracle patents -jury (story to come) $GOOG $ORCL","lbl":"Positive"}
+,{"time":"14:11","usr":"dancach","txt":"RT @MarketWatch: Verdict is in: Google wins in Oracle patent suit http://t.co/b4C2FXGY $GOOG $ORCL","lbl":"Positive"}
+,{"time":"14:11","usr":"erivadeneira30","txt":"RT @MarketWatch: Verdict is in: Google wins in Oracle patent suit http://t.co/b4C2FXGY $GOOG $ORCL","lbl":"Positive"}
+,{"time":"14:12","usr":"CorneliuCosma","txt":"RT @MarketWatch: Verdict is in: Google wins in Oracle patent suit http://t.co/b4C2FXGY $GOOG $ORCL","lbl":"Positive"}
+,{"time":"14:45","usr":"Qwovadis","txt":"Commented on: \u0022Google\u0027s $12 Billion Motorola Gamble: The Reasons Why It Will Pay Off\u0022 http://t.co/COyQrrBY $AAPL $FB $MMI $GOOG","lbl":"Positive"}
+,{"time":"17:00","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Pandora\u0027s Loss Widens Amid Mounting Costs http://t.co/uQP00CHx","lbl":"Negative"}
+,{"time":"19:29","usr":"BigTicks","txt":"$GOOG News: Perverse Incentives Driving CEOs: Stock Options http://t.co/G6cjzSmt #GOOG #CEOs #Driving","lbl":"Negative"}
+]

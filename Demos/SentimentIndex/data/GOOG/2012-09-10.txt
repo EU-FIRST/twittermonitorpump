@@ -1,0 +1,10 @@
+[
+{"time":"7:38","usr":"rhbinvest","txt":"There Is A Huge Threat To Apple And Google That You\u0027ve Never Heard Of | #in $AAPL $GOOG http://t.co/wt9qVoH6","lbl":"Negative"}
+,{"time":"8:16","usr":"leon_wagner","txt":"RT @SAI: There Is A Huge Threat To Apple And Google That You\u0027ve Never Heard Of $AAPL $GOOG by @nichcarlson http://t.co/Mto9TNcj","lbl":"Positive"}
+,{"time":"9:05","usr":"kenjotto","txt":"added to $GOOG Oct660 calls, avg 56.60","lbl":"Positive"}
+,{"time":"9:51","usr":"NorthmanTrader","txt":"$GOOG new LOD","lbl":"Negative"}
+,{"time":"11:41","usr":"berkmh","txt":"$GOOG buy point","lbl":"Positive"}
+,{"time":"12:07","usr":"drjeffloftus","txt":"RT @StockTwits: Google Glass Graces the Runway at New York Fashion Week http://t.co/Zi4aFhgU via the very styley @laureni $GOOG","lbl":"Positive"}
+,{"time":"12:07","usr":"DerivTrader1","txt":"RT @GdayToYou: $GOOG having trouble at 705 watch $SPY and $GOOG will pull back to 700 $SPY up GOOG test 707 -709. All techs weak today","lbl":"Negative"}
+,{"time":"15:05","usr":"canadadan","txt":"Still holding SeptW2 690 Calls $GOOG looks strong to me...","lbl":"Positive"}
+]

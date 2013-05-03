@@ -1,0 +1,7 @@
+[
+{"time":"6:31","usr":"DepletedO2","txt":"When deficits start calling - $GOOG $SBUX $AMZN to face UK lawmakers over tax http://t.co/f3mnFT58","lbl":"Negative"}
+,{"time":"13:53","usr":"pburelli","txt":"RT @CNNMoney: How four companies took over the Internet http://t.co/wUM5bz9r $AAPL, $GOOG, $FB, $AMZN","lbl":"Positive"}
+,{"time":"13:53","usr":"pedrorolandaba2","txt":"RT @CNBCnow: Amazon received a $252 million demand from the French tax authorities for back taxes, interest and more. (via Reuters) $AMZN","lbl":"Negative"}
+,{"time":"16:08","usr":"YahooFinance","txt":"UK lawmakers slam #Starbucks, #Amazon and #Google on #tax (via @Reuters) $SBUX $AMZN $GOOG http://t.co/MTlOpVl9","lbl":"Negative"}
+,{"time":"20:42","usr":"m168angels","txt":"Amazon Faces $252 Million Fine In France Over Taxes, Prepares To Legally Challenge The Accusation $AMZN http://t.co/44Gc1jDT via @TechCrunch","lbl":"Negative"}
+]

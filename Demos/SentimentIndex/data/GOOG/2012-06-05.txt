@@ -1,0 +1,20 @@
+[
+{"time":"5:34","usr":"bergie1393","txt":"RT @KeithMcCullough: $CSCO $PCLN and $GOOG all green, but all bearish on my TRADE and TREND durations","lbl":"Negative"}
+,{"time":"5:37","usr":"USwwwStocks","txt":"$GOOG News: Apple Maps vs. Google Maps: The New War Begins http://t.co/EQAv7VwW #GOOG #Apple #begins","lbl":"Negative"}
+,{"time":"7:37","usr":"GeekofWallSt","txt":"$AAPL changing its mapping program from $GOOG to its own; maps big part of $GOOG revenue http://t.co/Q3dL5Bvl","lbl":"Negative"}
+,{"time":"7:40","usr":"mckra1g","txt":"RT @worldresources: Why it\u0027s time 2 follow $GOOG $GE & Buffett on clean energy ~ @ltawney http://t.co/kPYLN8A7 #in #cleantech $$","lbl":"Positive"}
+,{"time":"7:40","usr":"DJHookedOn","txt":"\u201C@stockstobuy: #Apple $AAPL kicking #Google $GOOG Maps off iPhone - Going to use their own #maps - Big News!\u201D @cmotweet","lbl":"Negative"}
+,{"time":"10:49","usr":"srisri55","txt":"Bot few $GOOG lotto calls. No $AAPL position.","lbl":"Positive"}
+,{"time":"11:27","usr":"takingstock614","txt":"Markets holding up but $AAPL $GOOG look bad.","lbl":"Negative"}
+,{"time":"11:29","usr":"Vconomics","txt":"$GOOG wedge still working. Printed another lower low. Yesterday\u0027s green tape was to fill the gap created last Friday. http://t.co/TavlYzme","lbl":"Negative"}
+,{"time":"12:43","usr":"margotneebe","txt":"RT @LinkedInToday: Apple and Google now battling over mobile maps http://t.co/fJkpd1om on @WSJ $GOOG $AAPL","lbl":"Negative"}
+,{"time":"12:43","usr":"MrTimRy","txt":"$VRNG shaking out day traders on extremely low volume--Still no official news from the Markman hearing w/ $GOOG. Stock will soar on + news.","lbl":"Positive"}
+,{"time":"12:45","usr":"businessinsider","txt":"Android Is Losing The Platform War, Period $GOOG $AAPL $MSFT by @jyarow http://t.co/qxKQdLGU","lbl":"Negative"}
+,{"time":"13:50","usr":"TheSaaSGuy","txt":"$GOOG + Quickoffice = get more done anytime, anywhere. #acquisition #in http://t.co/FplBSQe8 #fb","lbl":"Positive"}
+,{"time":"13:52","usr":"srisri55","txt":"$AAPL struggling to go green. $GOOG struggling. Period.","lbl":"Negative"}
+,{"time":"13:54","usr":"Jared_Naude","txt":"\u0022@businessinsider Android Is Losing The Platform War, Period $GOOG $AAPL $MSFT http://t.co/5wT17DyY\u0022 You looking at it the WRONG way.","lbl":"Negative"}
+,{"time":"13:55","usr":"MrTimRy","txt":"@ayb Mum is the word, although the basic premise of $VRNG\u0027s patent case looks strong...Strong enough to make $GOOG settle out of court.","lbl":"Negative"}
+,{"time":"14:34","usr":"iid_investor","txt":"people love puts $AAPL $GOOG","lbl":"Negative"}
+,{"time":"15:25","usr":"JohannaBjorkell","txt":"RT @SAI: Android Is Losing The Platform War, Period $GOOG $AAPL $MSFT by @jyarow http://t.co/urhnk5aS","lbl":"Negative"}
+,{"time":"18:08","usr":"JL_Margin","txt":"$GOOG Chart Update - http://t.co/E6kEsG8w below $570 is $560, $545 & $515 as support.Hugging Channel Line.Google Potential small bounce here","lbl":"Negative"}
+]

@@ -1,0 +1,19 @@
+[
+{"time":"1:49","usr":"threenine39","txt":"RT @BI_Enterprise: Amazon\u0027s Game-Changing Cloud Was Built By Some Guys In South Africa $AMZN by @Julie188 http://t.co/28s6fXEc","lbl":"Positive"}
+,{"time":"7:13","usr":"mcvetetic","txt":"$BBY rev up 2.4% yoy- $AMZN is destroying relevance and the CEO is clueless.","lbl":"Negative"}
+,{"time":"7:14","usr":"firstadopter","txt":"$AMZN doesn\u0027t sell iPads/iPhones directly so likely to lose share vs. $BBY this quarter in electronics/mobile phones","lbl":"Negative"}
+,{"time":"7:15","usr":"firstadopter","txt":"Fact that entertainment segment (CDs/DVDs/videogames) comp collapsed q/q for $BBY -21% vs. -9% last qter is a DISASTER red flag for $AMZN Q1","lbl":"Negative"}
+,{"time":"8:49","usr":"RedDogT3Live","txt":"$amzn super strong- $goog went green- $aapl night try and fill gap","lbl":"Positive"}
+,{"time":"8:50","usr":"Urbanomical","txt":"Go $amzn go!!!","lbl":"Positive"}
+,{"time":"8:51","usr":"takingstock614","txt":"$AMZN rocking","lbl":"Positive"}
+,{"time":"9:25","usr":"CONCEDE","txt":"RT @HedgeyeDJ: Bed Bath and Beyond has a 90% SKU overlap with $AMZN. That, my friends, is what we call a secular headwind.","lbl":"Negative"}
+,{"time":"9:28","usr":"firstadopter","txt":"As HP, Samsung, $RIMM , ASUS know by now, tablet shipments DO NOT equal sales - $AMZN Fire","lbl":"Negative"}
+,{"time":"10:13","usr":"AdrienneLA","txt":"Rough day for $TIF and $HWD... but look at $AMZN go!","lbl":"Positive"}
+,{"time":"10:15","usr":"TraderFlorida","txt":"$AMZN $PCLN holding up well","lbl":"Positive"}
+,{"time":"11:40","usr":"Ruu_Dii","txt":"watching for a trading bottom $AAPL $PCLN $AMZN $SPY","lbl":"Negative"}
+,{"time":"11:41","usr":"bchi99","txt":"$bby was a no brainer short, how can you compete with $amzn plus it\u0027s prime service? It\u0027s another circuit city story","lbl":"Positive"}
+,{"time":"13:33","usr":"Arnuminous","txt":"I\u0027m throwing some kindling on the $AMZN fire","lbl":"Positive"}
+,{"time":"14:18","usr":"toddstrade","txt":"If $AMZN > $205-205.30 resistance zone could be a nice move","lbl":"Positive"}
+,{"time":"14:19","usr":"Arnuminous","txt":"$AMZN near High of Day","lbl":"Positive"}
+,{"time":"23:56","usr":"ManiOhli","txt":"Option Millionaires: hdsstocks: I\u0027m holding $AMZN calls :-) http://t.co/9KLvYgLs","lbl":"Positive"}
+]

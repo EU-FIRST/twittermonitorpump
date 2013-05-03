@@ -1,0 +1,3 @@
+[
+{"time":"9:35","usr":"Emmanuel_Manny_","txt":"$AMZN is a technology company $eBAY is not. $AMZN\u2265$eBAY","lbl":"Positive"}
+]

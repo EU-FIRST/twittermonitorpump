@@ -1,0 +1,9 @@
+[
+{"time":"7:58","usr":"coreymanicone","txt":"Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs http://t.co/os6qorrB via @sai $GOOG $AAPL $AMZN","lbl":"Negative"}
+,{"time":"9:05","usr":"tradekitten","txt":"$AAPL long great. Stopped out of $AMZN re-entry, sml loss. If $GS cl > 105, will close bear call, leave bull put. $SPY","lbl":"Negative"}
+,{"time":"11:59","usr":"TheAnalytic","txt":"RT @AlephBlog: Hard to compete against $AMZN, which doesn\u0027t have an immediate profit motive. $BKS http://t.co/SC5gA1Ps","lbl":"Positive"}
+,{"time":"11:59","usr":"DeidreZune","txt":"Buying dips in $AAPL $GOOG $AMZN will serve u well","lbl":"Positive"}
+,{"time":"14:23","usr":"CAMAR024","txt":"yes $AMZN 240 calls is what Im currently in.","lbl":"Positive"}
+,{"time":"14:25","usr":"Arnuminous","txt":"$AMZN trying to break back over $240.00","lbl":"Positive"}
+,{"time":"18:54","usr":"dillardsarah","txt":"Interesting. Ordering an HDMI cable. $AMZN offers two options: \u0022Retail\u0022 or \u0022Amazon Frustration-Free\u0022 for $1 more. http://t.co/6cQn6EAC","lbl":"Positive"}
+]

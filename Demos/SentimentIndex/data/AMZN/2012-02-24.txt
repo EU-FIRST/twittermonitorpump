@@ -1,0 +1,10 @@
+[
+{"time":"2:32","usr":"petercalka","txt":"Commented on: \u0022Short Amazon: Making Sense Of A 5-Year Chart Overlay With Apple\u0022 http://t.co/C1A2e8l5 $AAPL $AMZN","lbl":"Negative"}
+,{"time":"10:15","usr":"XTB_Portugal","txt":"It\u0027s amazing how this market keeps propping up names like $AMZN $CRM $SHLD among others.","lbl":"Positive"}
+,{"time":"10:18","usr":"stockxtrading","txt":"$AMZN is now contracting #Foxconn, what\u0027s good for $AAPL is good for $AMZN http://t.co/V5lDjEoK","lbl":"Positive"}
+,{"time":"11:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:16am: 180.04 +1.15 (+0.64%).","lbl":"Positive"}
+,{"time":"14:34","usr":"racernic","txt":"what happened to the $amzn bashers?is that all u got? said would hold ground in face of dwngrades, negativ coverge+run of all mighty $aapl.","lbl":"Negative"}
+,{"time":"14:39","usr":"tagthatstock","txt":"@racernic $amzn 179 you should buy puts,, but i have been saying that since 220 so dont listen to me :)","lbl":"Negative"}
+,{"time":"20:04","usr":"stockpicks64","txt":"$AMZN - Amazon Stock Analysis - volume down over 5% - http://t.co/3PvrViwY","lbl":"Negative"}
+,{"time":"20:09","usr":"chrishar00","txt":"RT @KeithMcCullough: Amazon $AMZN (short), no support to $174","lbl":"Negative"}
+]

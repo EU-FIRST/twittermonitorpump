@@ -1,0 +1,13 @@
+[
+{"time":"8:51","usr":"61point8","txt":"$AMZN formed a \u0022b\u0022 yesterday and broke below it today. $251/$252.50 should be resistance.","lbl":"Negative"}
+,{"time":"9:10","usr":"CapitalGambit","txt":"$AMZN 113B market cap and 3B in CFO...what could go wrong","lbl":"Negative"}
+,{"time":"11:44","usr":"NormCycles","txt":"$AMZN scaling at 247.40\u0027s as the failure at 257.50\u0027s was a serious short opportunity. stop adjusted tight now.","lbl":"Negative"}
+,{"time":"11:45","usr":"Kendoe21","txt":"First day of options trading. In $AMZN $250 strtike puts at $2.33 sold at $2.60. Wish I wouldve held, now at $3.80. :(","lbl":"Negative"}
+,{"time":"11:48","usr":"berkutchitweet","txt":"$AMZN previous ATH 246.71 and 50d at 247.80 lines up a great support level to trade against.","lbl":"Positive"}
+,{"time":"12:31","usr":"wallstCS","txt":"Wal-Mart vs Amazon: The Battle Continues http://t.co/oTHLVNBY $WMT $AMZN $WFC $UPS $AAPL $GOOG $DIA $SPY $QQQ","lbl":"Negative"}
+,{"time":"13:54","usr":"Alfietrade","txt":"$amzn reaction to probably what will be an ipad mini that competes very close in price to their kindles $aapl","lbl":"Negative"}
+,{"time":"14:36","usr":"HarryWanger","txt":"$AMZN Still staring at a long way down for this thing regardless of the close today.","lbl":"Negative"}
+,{"time":"14:36","usr":"KeithMcCullough","txt":"$AMZN immediate-term TRADE oversold","lbl":"Positive"}
+,{"time":"14:37","usr":"BS_Whistler","txt":"RT @KeithMcCullough: $AMZN immediate-term TRADE oversold","lbl":"Positive"}
+,{"time":"14:37","usr":"tlmontana","txt":"\u201C@traderstewie: $AMZN: starting to look very oversold now. took a beating in last 24 hours.\u201D <~~ #stockaction","lbl":"Positive"}
+]

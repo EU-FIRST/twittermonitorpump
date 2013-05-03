@@ -1,0 +1,4 @@
+[
+{"time":"13:32","usr":"tradekingking","txt":"$AMZN - Amazon Stock Analysis - stock gap up, #bull signal - http://t.co/9XLY7BsK","lbl":"Positive"}
+,{"time":"18:29","usr":"BEFREEinFL","txt":"RT @TraderFlorida: $AMZN http://t.co/72cGIXgx A monster run Friday on solid earnings - appears ready to move back to recent highs.","lbl":"Positive"}
+]

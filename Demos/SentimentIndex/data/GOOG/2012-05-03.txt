@@ -1,0 +1,7 @@
+[
+{"time":"10:12","usr":"wassmannfuozw1","txt":"? Insider Trading: $GOOG Schmidt Eric E Director BOUGHT 11250 shares ?","lbl":"Positive"}
+,{"time":"11:09","usr":"sidbafs","txt":"RT @SAI: It\u0027s Pitiful How Many Android Phones Are Running Outdated Software $AAPL $GOOG by @stevekovach http://t.co/XqSpcbqh","lbl":"Negative"}
+,{"time":"12:25","usr":"kharise","txt":"RT @SAI: FIGHT! Dropbox vs. Google Drive...Guess Who Wins? $GOOG by @@officialKLS http://t.co/kSoZ5ag8","lbl":"Positive"}
+,{"time":"12:26","usr":"RobertSobek","txt":"$MSFT and $GOOG did not suffer the loss in price that othjers have today","lbl":"Positive"}
+,{"time":"14:48","usr":"TropicCapital_","txt":"$GOOG chart still looks bad - low volume bounce today","lbl":"Negative"}
+]

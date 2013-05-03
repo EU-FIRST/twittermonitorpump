@@ -1,0 +1,8 @@
+[
+{"time":"8:51","usr":"ByrneTSCM","txt":"kind of an ugly 3 min bar on $AMZN right there.","lbl":"Negative"}
+,{"time":"10:03","usr":"VOLADIVERSE","txt":"@graybids ive been watching $AMZN too, $KMP is a little risky but utilities are at such a low valuation YTD i put some calls 3 months out.","lbl":"Positive"}
+,{"time":"13:51","usr":"61point8","txt":"@AlyssaRuddick Let me know when you feel $AMZN is going to break out. Not watching it.","lbl":"Positive"}
+,{"time":"14:22","usr":"Lowtown21","txt":"RT @statsreal: @KeithMcCullough I\u0027m sure you have exited your $amzn short at this point, but you forgot to put on your #timestamp #accountability","lbl":"Positive"}
+,{"time":"14:22","usr":"FTGFUTURE","txt":"News Feeds http://t.co/0OXULe7x $AMZN has a breakout from the kumo with a great price surge yesterday","lbl":"Positive"}
+,{"time":"20:35","usr":"SMCHARTcom","txt":"$AMZN http://t.co/nVc1flci AMZN one or two days and this stock could be at $200, our new buy point is above $195.","lbl":"Positive"}
+]

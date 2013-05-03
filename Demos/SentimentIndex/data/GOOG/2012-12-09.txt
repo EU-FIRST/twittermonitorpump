@@ -1,0 +1,4 @@
+[
+{"time":"21:30","usr":"Davidmclellan","txt":"Trying to buy a chromebook but totally sold out everywhere. $GOOG","lbl":"Positive"}
+,{"time":"21:35","usr":"StreetEYE","txt":"That\u0027s gonna leave a mark RT @ReformedBroker: Goldman: $AAPL winning and $GOOG losing the mobile wars. http://t.co/MAbW1WQO","lbl":"Negative"}
+]

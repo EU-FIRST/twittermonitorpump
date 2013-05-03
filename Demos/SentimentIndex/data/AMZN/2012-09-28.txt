@@ -1,0 +1,7 @@
+[
+{"time":"6:55","usr":"eyeonequities","txt":"RT @SonaliVerma Where pros are putting their money http://t.co/QBr0FVqS $AAPL $MSFT $WFC $GOOG $PFE $T $CVX $MRK $PCLN $QCOM $WMT $XOM $AMZN","lbl":"Positive"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"7 Mega Cap Covered Calls http://t.co/mShKSMCg $AMZN $BP $FCX $GOOG $HAL $JPM $AAPL","lbl":"Positive"}
+,{"time":"10:19","usr":"bpeck","txt":"If $AMZN is making a $Square competitor, it joins an ever crowded space - economics is payments getting squeezed http://t.co/6LrjsFhX","lbl":"Negative"}
+,{"time":"10:21","usr":"ivanhoff","txt":"RT @bpeck If $AMZN is making a $SQUARE competitor, it joins an ever crowded space http://t.co/BCaPgVQZ","lbl":"Negative"}
+,{"time":"13:53","usr":"UdallTechStrat","txt":"RT @MichaelComeau: RT @MichaelComeau: @UdallTechStrat Plus $AMZN and $BKS pricing ruin it for real low-price Android tablets.","lbl":"Negative"}
+]

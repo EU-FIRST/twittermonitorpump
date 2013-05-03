@@ -1,0 +1,3 @@
+[
+{"time":"22:48","usr":"MarcusCatoOne","txt":"I just opened a LONG position on $GOOG at 596.33. Check out my trades @simitrade - http://t.co/jSMzYa1F","lbl":"Positive"}
+]

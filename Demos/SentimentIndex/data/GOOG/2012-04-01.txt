@@ -1,0 +1,4 @@
+[
+{"time":"4:43","usr":"noremacc","txt":"A New Patent-Infringement Lawsuit Could Totally Demolish Google\u0027s Stock $GOOG by @hblodget http://t.co/4ObEFDYD #in","lbl":"Negative"}
+,{"time":"11:51","usr":"Johanstael","txt":"RT @SAI: Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG by @Julie188 http://t.co/nWlu7pIR","lbl":"Negative"}
+]

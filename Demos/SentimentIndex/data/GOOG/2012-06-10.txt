@@ -1,0 +1,3 @@
+[
+{"time":"17:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 17:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+]

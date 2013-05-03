@@ -1,0 +1,17 @@
+[
+{"time":"3:36","usr":"cosme_pc","txt":"RT @CNBC: Report says Google avoided $2 billion in international income taxes in 2011 by stashing money in Bermuda: http://t.co/vl6zjK9l $GOOG","lbl":"Positive"}
+,{"time":"8:02","usr":"petergo99037185","txt":"Three legs normally push as market higher, $USD GIANT MINUS, got that, OIL pushing higher, got that, TWIN TOWERS, $AAPL & $GOOG, +5 each YES","lbl":"Positive"}
+,{"time":"8:03","usr":"Claude","txt":"RT @SAI: Google Dodged $2 Billion In Taxes Using A Shell Company In Bermuda $GOOG http://t.co/GFX2FeDb","lbl":"Negative"}
+,{"time":"10:01","usr":"Huff_B","txt":"$GOOG break the 20dma and shoot past $700 please","lbl":"Positive"}
+,{"time":"10:13","usr":"StockPlayer6","txt":"RT @NorthmanTrader: I sold 1/3 of the $GOOG calls, which means the entire trade is paid for @3x win. Will let 2/3 run. Can lose no money now only gain big.","lbl":"Positive"}
+,{"time":"10:33","usr":"SJosephBurns","txt":"@TheYoungWind This is not the spot to start long positions. $AAPL $GOOG","lbl":"Negative"}
+,{"time":"10:34","usr":"tooHOTtoFAIL","txt":"$GOOG Why doesn\u0027t the \u0022Always display images\u0022 option EVER WORK on GMAIL?? I literally enable it everyday on emails and it does nothing #FAIL","lbl":"Negative"}
+,{"time":"11:26","usr":"UdallTechStrat","txt":"@sandeepbhavsar Sandeep... do not doubt the $goog ster... look at my race to $1000 here. $AAPL could still make it a fight","lbl":"Positive"}
+,{"time":"13:10","usr":"srinikom","txt":"RT @timoreilly: RT @digiphile: Rare interview with $GOOG CEO RT @mhelft Larry Page on @Google: \u0022We\u0027re still 1% to where we should be.\u0022 http://t.co/egSMzQA7","lbl":"Negative"}
+,{"time":"15:13","usr":"bear__code","txt":"RT @ppprophet: SELL $GOOG The Market will Crash..... #DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
+,{"time":"15:15","usr":"NokWebDev","txt":"$GOOG Worldwide Gmail, Chrome crash caused by sync server error http://t.co/L3kdTJ8U","lbl":"Negative"}
+,{"time":"16:30","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Page Lawrence Director SOLD 5800 shares \u2611","lbl":"Negative"}
+,{"time":"19:18","usr":"StockMarket411","txt":"Biz Break: Apple, Google, Intel and other tech stocks propel Wall Street, SolarCity IPO may be postponed $goog http://t.co/LQUc4eOZ goog,...","lbl":"Positive"}
+,{"time":"23:41","usr":"fabio_sebastian","txt":"RT @cnbcfastmoney: Top Tech Picks for 2013 - VIDEO http://t.co/aFBjniBg $GOOG $RAX $CRM $WDC $STX $FIO $FB @timseymour","lbl":"Positive"}
+,{"time":"23:47","usr":"TechInsiderco","txt":"Google Shuts Down Its Shopping Service in China: Google just announced it is shutting down its Goo... http://t.co/WltI3nI1 #Google $GOOG","lbl":"Negative"}
+]

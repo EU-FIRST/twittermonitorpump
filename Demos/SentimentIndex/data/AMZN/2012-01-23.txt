@@ -1,0 +1,11 @@
+[
+{"time":"0:56","usr":"BUDDIEE18","txt":"RT @gtotoy: $AMZN http://t.co/kFhkKXvu 30 Min view ~ Watchlist","lbl":"Positive"}
+,{"time":"9:11","usr":"optioncommander","txt":"Trending red: $PAAS -4.5% $NFLX -2% $HAL +1.17% $MS -1.36% $TVIX -1% $ZSL -0.44% $AMZN - 0.64% $TLT -0.58%, $EWZ -0.31% $VMW -0.42%","lbl":"Negative"}
+,{"time":"9:14","usr":"JonErlichman","txt":"#Amazon to open fulfillment center in Spartanburg County, South Carolina; will create \u0022hundreds of new full time #jobs\u0022 $AMZN","lbl":"Positive"}
+,{"time":"12:18","usr":"RebCruz","txt":"RT @JonErlichman: #Amazon to open fulfillment center in Spartanburg County, South Carolina; will create \u0022hundreds of new full time #jobs\u0022 $AMZN","lbl":"Positive"}
+,{"time":"12:19","usr":"rymico","txt":"$AMZN down 3% as company cut Kindle Fire\u2019s supplier orders in half for Q1 citing slower post-holiday sales & expected launch of iPad 3","lbl":"Negative"}
+,{"time":"14:14","usr":"FuegyMoney","txt":"Watch Ipad sales tomorrow. Weakness may be a sign to buy $AMZN.","lbl":"Positive"}
+,{"time":"23:18","usr":"Rammohantweets","txt":"RT @businessinsider: Amazon\u2014Again!\u2014Uses Cheap-Shot \u0027Sex Sells\u0027 Tactic For Kindle Campaign $AMZN by @Jim_Edwards http://t.co/NtVnVi3L","lbl":"Negative"}
+,{"time":"23:20","usr":"iphone4S_nerd","txt":"#Amazon\u2014Again!\u2014Uses Cheap-Shot \u0027Sex Sells\u0027 Tactic For Kindle Campaign $AMZN http://t.co/jGuXUXIO (via @SAI)","lbl":"Negative"}
+,{"time":"23:24","usr":"eYeks","txt":".@SAI Amazon\u2014Uses Cheap-Shot \u0027Sex Sells\u0027 Tactic For Kindle Campaign $AMZN by @Jim_Edwards http://t.co/yNnfJMZN I\u0027m not buying. Ub the judge.","lbl":"Negative"}
+]

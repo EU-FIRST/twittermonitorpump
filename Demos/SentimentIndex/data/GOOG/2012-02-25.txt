@@ -1,0 +1,5 @@
+[
+{"time":"3:42","usr":"rockwithjdt","txt":"RT @joshjames: RT @businessinsider: Here Is One Of Google\u0027s Self-Driving Cars On The Road $GOOG by @MattRosoff http://t.co/T5B3wAQE","lbl":"Positive"}
+,{"time":"3:49","usr":"mongodb_news","txt":"RT @SAI: How Google Took $500 Million And Turned It Into $47 Million $GOOG $S by @Julie188 http://t.co/OTUrYVCz","lbl":"Negative"}
+,{"time":"13:31","usr":"4toptrader","txt":"@telcochris $GOOG price & sma crossover, #bull stock http://t.co/TbJL55Tr","lbl":"Positive"}
+]

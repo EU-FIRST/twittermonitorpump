@@ -1,0 +1,7 @@
+[
+{"time":"10:10","usr":"SheilaD_TV","txt":"$SPLS says seeing strong pre-orders, momentum for $GOOG nexus tablet. \u0022price pint is great\u0022 #backtoschool #tabletwars","lbl":"Positive"}
+,{"time":"12:38","usr":"andru08","txt":"RT @businessinsider: After Two Weeks On Android, Here\u0027s Why I Think The iPhone Is Still Superior $AAPL $GOOG by @officialKLS http://t.co/Wc9upLGy","lbl":"Negative"}
+,{"time":"13:30","usr":"TweetLeni","txt":"Took profits in $CRM to swap more shares in to $GOOG short","lbl":"Negative"}
+,{"time":"14:39","usr":"paulwoll","txt":"Many stocks have gap fills below like $GOOG $NFLX etc.","lbl":"Negative"}
+,{"time":"17:08","usr":"Indyradmama","txt":"RT @ReutersLegal: Congress to discuss sales bans if key #patents infringed http://t.co/cQb1vOqy $GOOG $APPL","lbl":"Negative"}
+]

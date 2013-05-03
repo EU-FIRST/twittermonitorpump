@@ -1,0 +1,3 @@
+[
+{"time":"19:03","usr":"jimfchow","txt":"RT @themotleyfool: On Cyber Monday, Amazon.com ($AMZN) sold 158 items per second, all day long. This & more amazing stats: http://t.co/qJH73hGF","lbl":"Positive"}
+]

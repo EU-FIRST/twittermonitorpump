@@ -1,0 +1,5 @@
+[
+{"time":"9:32","usr":"ChrisStuntz","txt":"in $GOOG Sep 715 C and $MAKO Sep 17.5 C. Still waiting on $AAPL","lbl":"Positive"}
+,{"time":"9:36","usr":"takingstock614","txt":"$GOOG $PCLN $ISRG $AAPL $CMG all looking good today.","lbl":"Positive"}
+,{"time":"12:47","usr":"CorporateYoungs","txt":"A few notable on my watch list today are $PCLN, $FFIV, $AAPL, $CMG, $GOOG, n $PNRA.","lbl":"Positive"}
+]

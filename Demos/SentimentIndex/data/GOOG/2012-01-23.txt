@@ -1,0 +1,12 @@
+[
+{"time":"1:09","usr":"rayfordsask","txt":"Rt @UberFacts: The average iPhone user has 40 apps installed on their phone. Android 25 and Blackberry 14 $aapl $goog $rimm","lbl":"Negative"}
+,{"time":"7:35","usr":"SJosephBurns","txt":"I am going into today long $ISRG at the 50 day and short $GOOG with puts at $585.","lbl":"Negative"}
+,{"time":"10:15","usr":"stockguy22","txt":"$GOOG nice 2 day support -- considering options play or stock add here with additional buys if dips to $560\u0027s ( watching chart this week)","lbl":"Positive"}
+,{"time":"10:59","usr":"businessinsider","txt":"Google\u0027s Biggest Advertisers Are Also Its Enemies $GOOG by @Jim_Edwards http://t.co/ofLvhZ1U","lbl":"Negative"}
+,{"time":"10:59","usr":"SAI","txt":"Google\u0027s Biggest Advertisers Are Also Its Enemies $GOOG by @Jim_Edwards http://t.co/b0Bn5Wy1","lbl":"Negative"}
+,{"time":"11:46","usr":"omarrostom","txt":"Interesting RT @SAI: Google\u0027s Biggest Advertisers Are Also Its Enemies $GOOG by @Jim_Edwards http://t.co/oS1ZJoTI","lbl":"Negative"}
+,{"time":"11:46","usr":"ronemrick","txt":"RT @SAI: Android Hackers Plan App Store Of Banned Apps $GOOG by @Julie188 http://t.co/grr8YIpL","lbl":"Positive"}
+,{"time":"13:13","usr":"TradesWell","txt":"$GOOG I really want a test at the 583 area maybe we can get a lot more on the spread, or you could take profits on the put long, lets see","lbl":"Positive"}
+,{"time":"15:04","usr":"guenterwischman","txt":"RT @SAI: Android Design Chief: Being A Phone Maker Is \u0027Really Tough\u0027 $GOOG by @MattRosoff http://t.co/taZmF2by","lbl":"Negative"}
+,{"time":"17:30","usr":"SFStateMBA","txt":"Succinct! RT @DavidGoldmanCNN: Facebook to Google: \u0027Don\u0027t be evil\u0027 http://t.co/yAUTR95z $GOOG #socialmedia","lbl":"Negative"}
+]

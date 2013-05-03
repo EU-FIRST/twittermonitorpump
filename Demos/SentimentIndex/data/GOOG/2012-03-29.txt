@@ -1,0 +1,25 @@
+[
+{"time":"1:27","usr":"joepak123","txt":"@byoogle congrats! Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG http://t.co/6QZqlO7S","lbl":"Negative"}
+,{"time":"2:01","usr":"mickdelaney","txt":"RT @SAI: Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG by @Julie188 http://t.co/nWlu7pIR","lbl":"Negative"}
+,{"time":"10:12","usr":"Anthonyjohnrll","txt":"RT @SAI: The Time On Your Android Phone Is Incorrect, Says Super Genius $GOOG $AAPL by @_dtl http://t.co/Bkg7k0e4","lbl":"Negative"}
+,{"time":"10:40","usr":"MockTrade","txt":"Covered 1/4 position $GOOG Puts for +3; 1st profit scale","lbl":"Negative"}
+,{"time":"10:41","usr":"berkutchitweet","txt":"Stopped out of my $GOOG add. Support 1: Gap bottom 647. Support 2: 10d at 642.","lbl":"Negative"}
+,{"time":"10:42","usr":"berkutchitweet","txt":"$GOOG gap support is from 1/9.","lbl":"Positive"}
+,{"time":"10:42","usr":"businessinsider","txt":"This Chart Should Have Google Worried $GOOG by @mattlynley http://t.co/sHEBYYSY","lbl":"Negative"}
+,{"time":"11:03","usr":"C2Next","txt":"An unexpected Search challenger? RT @SAI: This Chart Should Have Google Worried $GOOG http://t.co/Iava8Fb0","lbl":"Negative"}
+,{"time":"11:04","usr":"gregpoirier","txt":"RT @SAI: This Chart Should Have Google Worried $GOOG by @mattlynley http://t.co/g6D8FYDi #in #duckduckgo","lbl":"Negative"}
+,{"time":"11:42","usr":"lombardo_ltd","txt":"I Remain short on $aapl and $goog","lbl":"Negative"}
+,{"time":"12:55","usr":"DominicWeeks","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/qYgsxG3a","lbl":"Negative"}
+,{"time":"12:56","usr":"PurviRajani","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/TPKh2htk","lbl":"Negative"}
+,{"time":"12:56","usr":"fcassia","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/qYgsxG3a","lbl":"Negative"}
+,{"time":"12:56","usr":"ManijehM","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/qYgsxG3a","lbl":"Negative"}
+,{"time":"13:34","usr":"babala15","txt":"$GOOG - Google Stock Analysis - CCI is bullish and rising - http://t.co/Au1aUNKW","lbl":"Positive"}
+,{"time":"13:34","usr":"Royal_Arse","txt":"RT @TrendRida: No wonder $GOOG doesn\u0027t report mobile revenue. $550M over 4 yrs. is embarrassing... $AAPL","lbl":"Negative"}
+,{"time":"15:15","usr":"Tradified","txt":"Insider Trading: $GOOG Schmidt Eric E Director SOLD 35 shares at $645.50 \u2611","lbl":"Negative"}
+,{"time":"15:15","usr":"CodesandCiphers","txt":"@Centrifugal Leaders seemed mixed to me - $AAPL, $JPM, $V, $GOOG didn\u0027t come back strong.","lbl":"Negative"}
+,{"time":"16:41","usr":"xpecially","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/qYgsxG3a","lbl":"Negative"}
+,{"time":"17:10","usr":"RubaMushasha","txt":"RT @businessinsider: WATCH OUT GOOGLE: Facebook Has An Ex-Googler And Two Dozen Engineers Working On Search $GOOG by @nichcarlson http://t.co/0O5PMhws","lbl":"Negative"}
+,{"time":"17:54","usr":"SteelRevel","txt":"RT @businessinsider: WATCH OUT GOOGLE: Facebook Has An Ex-Googler And Two Dozen Engineers Working On Search $GOOG by @nichcarlson http://t.co/0O5PMhws","lbl":"Negative"}
+,{"time":"17:55","usr":"julianmb","txt":"RT @SAI: WATCH OUT GOOGLE: Facebook Has An Ex-Googler And Two Dozen Engineers Working On Search $GOOG by @nichcarlson http://t.co/Y99KRPS3","lbl":"Negative"}
+,{"time":"23:43","usr":"USwwwStocks","txt":"$GOOG News: [$$] Rising Risk: Foreign Firms Sense Hostility in India http://t.co/5xdCqIDK #internet #daytrading #stocks","lbl":"Negative"}
+]

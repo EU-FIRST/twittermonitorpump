@@ -1,0 +1,4 @@
+[
+{"time":"13:02","usr":"sutherlandjamie","txt":"Bodes well for $AMZN $HPQ $DELL and others RT @WSJ: From beginning of time until 2003, we generated 5 billion GB of data. Soon we\u0027ll...","lbl":"Positive"}
+,{"time":"13:04","usr":"punitkg","txt":"Commented on StockTwits: $AMZN had strength but ended up going down with $AAPL, $GOOG http://t.co/bcCzFeqo","lbl":"Negative"}
+]

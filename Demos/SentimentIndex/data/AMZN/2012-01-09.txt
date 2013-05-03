@@ -1,0 +1,12 @@
+[
+{"time":"8:53","usr":"CapCube","txt":"$GS drastically lowers E-Reader shipments for 2012 (by 20%) +. GS forward P/E on $AMZN is 128.4, very reasonable (& too optimistic on EPS)","lbl":"Negative"}
+,{"time":"8:55","usr":"CapCube","txt":"more $GS on $AMZN: For stock price to have upside, AMZN needs to beat and raise. \u0022We see this scenario as unlikely\u0022. $AMZN","lbl":"Negative"}
+,{"time":"10:31","usr":"abmendez","txt":"I am truly amazed at how bad @eBay\u0027s sellers\u0027 user interface is. $EBAY $AMZN Impossible to overstate the importance of the #UI.","lbl":"Negative"}
+,{"time":"10:33","usr":"keepitrealdude","txt":"BTW took some loss on Eur longs (bucket out of sea of Eur shorts since summer) neutral for now.$AMZN long stop just above b/e @1.73","lbl":"Positive"}
+,{"time":"14:38","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $AMZN 178.96 moving up 190 C\u0027s .91x.94 http://t.co/Jl9jpr6V","lbl":"Positive"}
+,{"time":"15:36","usr":"ahkautan","txt":"RT @KeithMcCullough: Amazon backed off a key line $184, right when it should have; no support to $171 $AMZN","lbl":"Negative"}
+,{"time":"15:36","usr":"iStockAnalyst","txt":"These Tech Trends Might Not Be All That Trendy $AAPL $AMZN $GOOG $INTC $MMI $MSFT $RIMM: Despite the flow of hyp... http://t.co/ugTQsclT","lbl":"Negative"}
+,{"time":"16:01","usr":"AffluenzaVirus","txt":"Not in love with $AMZN closing price below the 8ema.","lbl":"Negative"}
+,{"time":"21:41","usr":"mskcrk","txt":"RT @SheilaD_TV: $AMZN will begin collecting Indiana\u0027s 7 percent sales tax from customers in the state in 2014, under an agreement announced Monday #amazon","lbl":"Negative"}
+,{"time":"23:19","usr":"$AMZN","txt":"Advantage Lossed! RT @SheilaD_TV $AMZN begins collecting Indiana\u0027s 7% sales tax frm Indiana customers in 2014 per agreement announced Monday","lbl":"Negative"}
+]

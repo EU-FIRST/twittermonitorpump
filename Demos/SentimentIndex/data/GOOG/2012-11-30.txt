@@ -1,0 +1,11 @@
+[
+{"time":"9:47","usr":"RDeanon","txt":"RT @WesStull: So $GOOG files, admitting jury miscalculation for everyone but them, lol - opening Pandora\u0027s Box. Good for $VRNG <-- supported by evidence","lbl":"Negative"}
+,{"time":"12:27","usr":"howardlindzon","txt":"I know kids dont use Gmail and may never, but the product is worth $20-$30 billion minimum to Google if Twitter is $10 bil (long $goog)","lbl":"Positive"}
+,{"time":"13:32","usr":"StockTwits","txt":"$GOOG hitting new HOD, Trending http://t.co/U3ZlIRFB. Rolling 7-day Sentiment on StockTwits has been bullish.","lbl":"Positive"}
+,{"time":"13:32","usr":"Jamtrades","txt":"$GOOG is aiming at $700","lbl":"Positive"}
+,{"time":"14:00","usr":"ModernistAlpha","txt":"@rsaintvilus any tech company? I pick $GOOG which has a lower P/E than $SAP and does it with smaller operating margins","lbl":"Positive"}
+,{"time":"14:41","usr":"itsshawnbrown","txt":"was in $SPY and $GOOG both just went south, blah. out. im done for today. :/","lbl":"Negative"}
+,{"time":"15:23","usr":"BPGAG","txt":"$goog long 695 - 85% cash","lbl":"Positive"}
+,{"time":"15:54","usr":"amitp_gupta","txt":"Wow... Just noticed $GOOG closing on $700","lbl":"Positive"}
+,{"time":"16:25","usr":"samgustin","txt":"RT @DisCo_Project: New post on the #FTC\u0027s potential #antitrust action against #Google: http://t.co/aqnupSgK $GOOG cc @ABAantitrust @ABASAL_UCC @ABASALMediaTech","lbl":"Negative"}
+]

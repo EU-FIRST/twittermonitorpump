@@ -1,0 +1,6 @@
+[
+{"time":"0:13","usr":"ActuallyRLM","txt":"RT @MarketWatch: Apple won an injunction against Motorola in Germany over \u0022rubber band\u0022 patent http://t.co/m6IIZzX0 $AAPL $GOOG","lbl":"Negative"}
+,{"time":"11:46","usr":"jmullin9","txt":"Bravo $goog RT @ChinaBizWatch: Google Refuses White House Request To Pull Anti-Islamic Film http://t.co/cb2ekITt ~Forbes","lbl":"Positive"}
+,{"time":"17:10","usr":"BitcoinAnalyst","txt":"$GOOG $SPX Throw over in ending diagonal!? below 700 is bear signal signal. above more upside. http://t.co/LZz8KlIk","lbl":"Negative"}
+,{"time":"17:41","usr":"tlmontana","txt":"\u201C@Fitzstock2004: $goog Here is a GREAT CHART LESSON......u got stopped at the 10sma, re-enter > previous days high http://t.co/A6cCW2t8\u201D","lbl":"Positive"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"8:32","usr":"Lawndale1","txt":"#Amazon\u0027s Stock Price Is Benefiting From Irrational Exuberance http://t.co/wLeVuz6Y $AMZN","lbl":"Negative"}
+,{"time":"9:19","usr":"OptionCast","txt":"$AMZN large Nov 240 call buyer, 200 @ $3.25","lbl":"Positive"}
+,{"time":"10:12","usr":"HarryWanger","txt":"$AMZN Still $9 above pre ER close. Keep a watch at 228. Lose that and it\u0027s a big move down IMO","lbl":"Negative"}
+,{"time":"11:29","usr":"DividendMaster","txt":"@KeeneOnMarket If only $AMZN could release weekly results ( all horrible ) and stock would be at $300 by Xmas","lbl":"Negative"}
+,{"time":"13:08","usr":"stockstobuy","txt":"Amazon $AMZN bashed the #Apple $AAPL iPad Mini but they didn\u0027t even have the ad correct - #unreal - http://t.co/TVp3gN9Q","lbl":"Negative"}
+]

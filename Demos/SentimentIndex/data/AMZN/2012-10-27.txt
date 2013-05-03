@@ -1,0 +1,7 @@
+[
+{"time":"1:39","usr":"HaiderAKhan88","txt":"RT @StockTwits: Why do investors prefer Amazon to Apple? http://t.co/J6ZwF9wZ via Reuters $AMZN $AAPL","lbl":"Positive"}
+,{"time":"9:40","usr":"anoopvijaykumar","txt":"RT @SAI: AMAZON: We Had Our Best Day Of Kindle Fire HD Sales After Apple Announced The iPad Mini $AAPL $AMZN by @jyarow http://t.co/vkfX9WpM","lbl":"Positive"}
+,{"time":"9:46","usr":"gsrobins","txt":"RT @SAI: AMAZON: We Had Our Best Day Of Kindle Fire HD Sales After Apple Announced The iPad Mini $AAPL $AMZN by @jyarow http://t.co/vkfX9WpM","lbl":"Negative"}
+,{"time":"13:56","usr":"XQuickFixX","txt":"I am looking at the $AMZN 2013 April 260 puts, to me late stage base failure/H&S should form next few months, with 50EMA as resistance","lbl":"Negative"}
+,{"time":"13:57","usr":"HarryWanger","txt":"$AMZN Unless some incredibly negative news comes out this week, it will retest HOY soon. Analysts/press mostly positive after ER for boost","lbl":"Positive"}
+]

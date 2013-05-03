@@ -1,0 +1,32 @@
+[
+{"time":"8:44","usr":"TradetheLeader1","txt":"Long $AAPL $GOOG $KORS $CRUS $SLV","lbl":"Positive"}
+,{"time":"9:11","usr":"samshaddock","txt":"$GOOG crosses $700 threshold. http://t.co/wjzEeXDq","lbl":"Positive"}
+,{"time":"9:11","usr":"nxtmillionair40","txt":"@tom6sigma $GOOG is gone, im half in $GOOG","lbl":"Positive"}
+,{"time":"9:19","usr":"bobfasbender","txt":"RT @SeemaCnbc: Google leading the tech pack - breaks $700 mark. $Goog","lbl":"Positive"}
+,{"time":"9:30","usr":"Fitzstock2004","txt":"RT @elradman: @Fitzstock2004 Saw lots of folks buying $goog puts last night expecting a sell-off. They should have listened to the \u0022Orac ...","lbl":"Negative"}
+,{"time":"9:30","usr":"hijackiv","txt":"$LULU $GOOG not so much a boring day?? $MONEY","lbl":"Positive"}
+,{"time":"9:41","usr":"monesti","txt":"Back in $goog with Sept3 715 calls @ 7.80","lbl":"Positive"}
+,{"time":"10:03","usr":"StacyCarmen07","txt":"RT @CNBCnow: A share of Google is above $700 for the first time since December of 2007: http://t.co/7mzoZJur $GOOG","lbl":"Positive"}
+,{"time":"10:19","usr":"yannbrandt","txt":"Loving my Sept650 $GOOG calls","lbl":"Positive"}
+,{"time":"11:31","usr":"karlilugmp","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:32","usr":"silksharpness","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:32","usr":"marybphoto","txt":"RT @CNNMoney: Google\u0027s stock tops $700 for first time since 2007: http://t.co/QYsyLxu5 $GOOG","lbl":"Positive"}
+,{"time":"11:34","usr":"mamma","txt":"RT @CNNMoney: Google\u0027s stock tops $700 for first time since 2007: http://t.co/f4wg1WVs $GOOG","lbl":"Positive"}
+,{"time":"11:34","usr":"WADO72","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:41","usr":"RagingMonarchQ","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:41","usr":"Mo_Okda","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:42","usr":"cgrisales","txt":"RT @WSJ Google shares top $700 for first time since December 2007. http://t.co/hvutCiJp $GOOG","lbl":"Positive"}
+,{"time":"12:02","usr":"x5e","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"12:03","usr":"MNYCx","txt":"OMG $GOOG hit 712\u0027s, totally forgot. I had the W705 @ .70 yesterday, they went almost 8.00. ARGH! THERE I\u0027D HAD A 1000%+","lbl":"Positive"}
+,{"time":"12:19","usr":"TraderAnger","txt":"RT @RobertTGas: @TraderAnger @Gotanger \u201C@WSJ: Google shares top $700 for first time since December 2007. http://t.co/8thKA9CG $GOOG\u201D","lbl":"Positive"}
+,{"time":"12:32","usr":"kkendd","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"12:32","usr":"faisal381","txt":"A share of Google is above $700 for the first time since December of 2007 http://t.co/dUQCRcda $GOOG","lbl":"Positive"}
+,{"time":"12:51","usr":"bigbobofva","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"13:07","usr":"EdwardFSlayton","txt":"Google tops $700, at 4-year high http://t.co/f1Txqe61 VIDEO @JackieDeAngelis @petenajarian @stephenLweiss @optionmonster $GOOG #Stocks","lbl":"Positive"}
+,{"time":"13:32","usr":"SJosephBurns","txt":"I just purchased a new weekly $GOOG in the money call option when the stock was at $707","lbl":"Positive"}
+,{"time":"13:56","usr":"RnBlund","txt":"RT \u0022@WSJ: Google shares top $700 for first time since December 2007. http://t.co/BuCuILgw $GOOG\u0022 called this one a couple months ago!","lbl":"Positive"}
+,{"time":"14:38","usr":"Tiefseher","txt":"RT @ReutersInsider $GOOG hits record high of $712.25 and $AAPL not far behind reaching $682.48 today. #Google-Aktie steigt auf Rekordhoch","lbl":"Positive"}
+,{"time":"15:16","usr":"TerrillCharming","txt":"A Google Board Member Just Sold $35 Million In Shares $GOOG by @owenthomas http://t.co/qnc8fWpA","lbl":"Negative"}
+,{"time":"15:17","usr":"techandtrading","txt":"RT @sspencer_smb: i wonder if all those who left $GOOG to work for $FB are gonna come crawling back now?? #oops http://t.co/NnoknSPz","lbl":"Positive"}
+,{"time":"15:44","usr":"303to203","txt":"$GOOG past 700 today. 20% 2 month rally for Google. Why do non of the talking heads mention this. Everyone is over-obsessed w/ Apple.","lbl":"Positive"}
+]

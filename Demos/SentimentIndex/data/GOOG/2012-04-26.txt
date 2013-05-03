@@ -1,0 +1,12 @@
+[
+{"time":"4:50","usr":"bored2tears","txt":"Trial documents reveal Google\u0027s unrealized ambitions to grow beyond search. http://t.co/GtAuyzqI $GOOG #Internet #stocks","lbl":"Negative"}
+,{"time":"12:28","usr":"armyguynyc","txt":"@AlyssaRuddick @tlmontana Nice $GOOG hold at 610. Giddy Up!! :)","lbl":"Positive"}
+,{"time":"15:53","usr":"CannoldCNBC","txt":"Video: CNBC Stock Draft 2012: 7 big picks including a few HUGE surprises! http://t.co/wAdmBEuG $RIMM $JCP $DELL $RSH $AAPL $GOOG $SBUX","lbl":"Positive"}
+,{"time":"16:54","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Amazon Profit Slips 35% As Spending Continues http://t.co/cmrsSHB2","lbl":"Negative"}
+,{"time":"18:01","usr":"ZisblU4U","txt":"what is gonna happen to 50 % of the wealth lost in $AAPL and $GOOG ??","lbl":"Negative"}
+,{"time":"18:20","usr":"noname_8","txt":"RT @MKTWBurton: Open letter to Facebook $FB and Instagram millionaires -- Listen to Google $GOOG http://t.co/T1ApyFsC via @MarketWatch","lbl":"Positive"}
+,{"time":"19:07","usr":"MattRosoff","txt":"Google Better Be Ready For A Nasty Fight With Uncle Sam $GOOG http://t.co/a9iKOGJy","lbl":"Negative"}
+,{"time":"19:07","usr":"SAI","txt":"Google Better Be Ready For A Nasty Fight With Uncle Sam $GOOG by @MattRosoff http://t.co/ILMwjMTB","lbl":"Negative"}
+,{"time":"19:07","usr":"bi_politics","txt":"Google Better Be Ready For A Nasty Fight With Uncle Sam $GOOG by @MattRosoff http://t.co/ETXKSSLJ","lbl":"Negative"}
+,{"time":"19:45","usr":"rufinachang","txt":"RT @SAI: Google Better Be Ready For A Nasty Fight With Uncle Sam $GOOG by @MattRosoff http://t.co/ILMwjMTB","lbl":"Negative"}
+]

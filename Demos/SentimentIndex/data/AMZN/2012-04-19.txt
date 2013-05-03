@@ -1,0 +1,6 @@
+[
+{"time":"4:07","usr":"stocktsogo65","txt":"$AMZN - Amazon Stock Analysis - bullish stochastic crossover - http://t.co/NOcFzF77","lbl":"Positive"}
+,{"time":"8:33","usr":"forexscreen","txt":"$AMZN - Amazon Stock Analysis - bullish stochastic crossover - http://t.co/Rve1eOgA","lbl":"Positive"}
+,{"time":"11:00","usr":"SeekingAlpha","txt":"The Web 2.0 Bubble: Prepare For Collapse http://t.co/Lss4UnEc $AAPL $AMZN $EBAY $GOOG $GRPN $LNKD $P $YELP","lbl":"Negative"}
+,{"time":"22:17","usr":"tradingwisely3","txt":"$AMZN - Amazon Stock Analysis - MFI is bearish and falling - http://t.co/Cxtw4JeX","lbl":"Negative"}
+]

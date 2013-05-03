@@ -1,0 +1,27 @@
+[
+{"time":"8:33","usr":"pennystockguys","txt":"$GOOG - Ahead of Wall Street - Oct. 23, 2012 - Ahead of Wall Street http://t.co/wAoKfidO","lbl":"Positive"}
+,{"time":"8:33","usr":"BlueFielder","txt":"$GooG - reprieve","lbl":"Negative"}
+,{"time":"8:44","usr":"TraderInPlay","txt":"$GOOG with slight gains early in the $QQQ","lbl":"Positive"}
+,{"time":"8:54","usr":"JohnnyC30","txt":"Watching for > $685 in $GOOG to buy!","lbl":"Positive"}
+,{"time":"8:54","usr":"Opinterest","txt":"$GOOG As expected the bulls defended the 50% fib retracement at 665.45. If you\u0027re long and/or buying on weakness, that\u0027s your stop.","lbl":"Positive"}
+,{"time":"9:07","usr":"Tape_Reader","txt":"$GOOG ripping in red tape 1%+","lbl":"Positive"}
+,{"time":"9:08","usr":"Jamtrades","txt":"out $GOOG $695C $4.00","lbl":"Negative"}
+,{"time":"9:08","usr":"MiltonaTrades","txt":"And there\u0027s the DOUBLE i called for $GOOG. Hope somebody cashed in. just hit $20 from $9","lbl":"Positive"}
+,{"time":"9:29","usr":"Mortimer_Duke","txt":"@Fitzstock2004 Are you long any $GOOG calls... or spreads?","lbl":"Positive"}
+,{"time":"9:52","usr":"racernic","txt":"there still r some good $GOOG prems here even after report. sellers stay wide though and way otm. don\u0027t be tempted in the quick$ close to P","lbl":"Positive"}
+,{"time":"10:52","usr":"BidnAsk","txt":"/NQ: Was that a probe below Globex session lows...get a feeling we get a good close to the upside. $GOOG trying to make a lead in tech.","lbl":"Positive"}
+,{"time":"11:21","usr":"TraderLantern","txt":"@Pnjabig2 If ad costs affected $GOOG negatively, I don\u0027t see how $FB could avoid it. :o","lbl":"Negative"}
+,{"time":"12:57","usr":"philosophygeek","txt":"Wowza. $aapl taking direct shots at $goog\u0027s android tablets now (!!)","lbl":"Negative"}
+,{"time":"12:57","usr":"adamgriffiths","txt":"Yeah this is new. \u201C@philosophygeek: Wowza. $aapl taking direct shots at $goog\u0027s android tablets now (!!)\u201D","lbl":"Negative"}
+,{"time":"13:10","usr":"TradesWell","txt":"$GOOG I\u0027m going to add more 695 here @ 2.55 stop ~1.50","lbl":"Positive"}
+,{"time":"13:18","usr":"marketfolly","txt":"RT @footnoted Did this story for @dealbook taking a closer look at last week\u0027s mess with $GOOG earnings http://t.co/Yyplf7yn","lbl":"Negative"}
+,{"time":"13:18","usr":"cwilhel11","txt":"Played $GOOG 680 weekly call 6.30 - 8.50","lbl":"Positive"}
+,{"time":"13:40","usr":"ashwinmalshe","txt":"RT @footnoted: Did this story for @dealbook taking a closer look at last week\u0027s mess with $GOOG earnings http://t.co/tEgc8teE","lbl":"Negative"}
+,{"time":"14:05","usr":"JohnnyC30","txt":"$GOOG--NO follow thru over $685!!","lbl":"Negative"}
+,{"time":"14:40","usr":"andrewrabon","txt":"RT @jeffjarvis: $AAPL down ($GOOG up a bit) on iPad announcement","lbl":"Positive"}
+,{"time":"14:42","usr":"TradeEducation","txt":"http://t.co/IdrKCvBd $500.00 profit in $GOOG $500 or 9.52% options trading return on $GOOG","lbl":"Positive"}
+,{"time":"16:12","usr":"RobertWeinstein","txt":"@Rocco_TheStreet $FB, maybe, but they still have almost 50% of the myth to dispel before getting back to the IPO price. $GOOG is better","lbl":"Positive"}
+,{"time":"18:07","usr":"MyFStrade","txt":"$fb bottom line they do a billion $$$ and you bash it. When the add search to it like $goog $twit is growing mobile faster also","lbl":"Positive"}
+,{"time":"20:21","usr":"kaplanikids","txt":"RT @SeekingAlpha: The Rise And Fall Of Google\u0027s Golden Age http://t.co/aHl8zq2C $AAPL $MSFT $XOM $GOOG","lbl":"Negative"}
+,{"time":"20:23","usr":"matthewlmcclure","txt":"RT @SeekingAlpha: The Rise And Fall Of Google\u0027s Golden Age http://t.co/aHl8zq2C $AAPL $MSFT $XOM $GOOG","lbl":"Negative"}
+]

@@ -1,0 +1,10 @@
+[
+{"time":"8:05","usr":"funtrading12","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/UAlCqnJU","lbl":"Positive"}
+,{"time":"10:53","usr":"Leaf_West","txt":"As per this am\u0027s blog on $AMZN .. the 10-min/60-min charts look like it wants to bounce . hawking it http://t.co/IYP7RIVQ","lbl":"Positive"}
+,{"time":"11:23","usr":"RaviRomo","txt":"Ha! Your \u201CLimited Function\u201D Kindle Fire Is No Match for My Magical iPad! $AAPL $AMZN http://t.co/qJ6Mfmue","lbl":"Negative"}
+,{"time":"12:01","usr":"Leaf_West","txt":"$AMZN .. Yellow candles and the Squeeze Indicator has flipped \u0022green\u0022 Expansion follows contraction http://t.co/iF6Vmjht","lbl":"Positive"}
+,{"time":"14:45","usr":"Japanesegunto","txt":"Profitable on $Goog, $MCD, $AAPL earnings..3/3..$AMZN and $BIDU and $NFLX (Option is too expensive....not sure about the how points swing)","lbl":"Positive"}
+,{"time":"15:22","usr":"Yonaz1","txt":"out 1/2 $AMZN Jan-27-12 185 call @ 3.30 still holding http://t.co/jQ9oRIiv","lbl":"Negative"}
+,{"time":"15:27","usr":"rekko31","txt":"$AMZN bull flag, could run to 200+ needs to get above the 50day MA. http://t.co/5jRi9h4M","lbl":"Positive"}
+,{"time":"20:31","usr":"martinmaslo","txt":"@alfonsolg mi tech watch list: $GOOG (long & buying dips), $ZNGA (long @ 8.7) $NFLX (chasing) y $AMZN (long @ 200 on hold) y miro $GLW abz","lbl":"Positive"}
+]

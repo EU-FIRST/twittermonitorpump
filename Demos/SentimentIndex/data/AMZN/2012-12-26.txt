@@ -1,0 +1,15 @@
+[
+{"time":"2:24","usr":"onatpekcan","txt":"Netflix Blames Outage on Amazon http://t.co/AoIMMH3w #tech $nflx $amzn","lbl":"Negative"}
+,{"time":"8:15","usr":"CNBC","txt":"Netflix\u0027s streaming video service experienced an outage on Christmas Eve. Netflix is blaming it on Amazon: http://t.co/ljZpP2CY $NFLX $AMZN","lbl":"Negative"}
+,{"time":"8:16","usr":"JeffKi31","txt":"RT @CNBC: Netflix\u0027s streaming video service experienced an outage on Christmas Eve. Netflix is blaming it on Amazon: http://t.co/ljZpP2CY $NFLX $AMZN","lbl":"Negative"}
+,{"time":"9:44","usr":"JParklsu","txt":"RT @CNBC: Netflix\u0027s streaming video service experienced an outage on Christmas Eve. Netflix is blaming it on Amazon: http://t.co/ljZpP2CY $NFLX $AMZN","lbl":"Negative"}
+,{"time":"10:26","usr":"BenCBanks","txt":"would\u0027t have expected $AMZN to be down this much right now","lbl":"Negative"}
+,{"time":"11:13","usr":"bespokeinvest","txt":"http://t.co/VdfzoG5u now down $7.50, has dropped $1 every 5 minutes since 10:50. $AMZN","lbl":"Negative"}
+,{"time":"12:14","usr":"takingstock614","txt":"$AMZN $AAPL out both for -.35 & -.15","lbl":"Negative"}
+,{"time":"13:42","usr":"LEEbaybeeee","txt":"RT @CNNMoney: Holiday spending not as great. It\u0027s sending retail stocks lower -- $AMZN, $COH, $KORS, $LTD, $M and others.","lbl":"Negative"}
+,{"time":"15:07","usr":"kiwitrader24","txt":"@Sliver Sure, anything\u0027s possible. $264.11 id the high to beat until it isn\u0027t. $AMZN","lbl":"Positive"}
+,{"time":"15:08","usr":"DeanBankMA","txt":"RT @CNNMoney: Holiday spending not as great. It\u0027s sending retail stocks lower -- $AMZN, $COH, $KORS, $LTD, $M and others.","lbl":"Negative"}
+,{"time":"15:09","usr":"TrueChartTrader","txt":"$amzn poor volume in this 4% drop. should go back above 255 at this rate easily on even a small push.","lbl":"Positive"}
+,{"time":"17:06","usr":"lesha22","txt":"\u201C@rocco_thestreet: Drop in $AMZN is typical market reaction. Reports of slow holiday sales. \u0022 wait till you see their revenue...","lbl":"Negative"}
+,{"time":"19:19","usr":"oktobernv","txt":"RT @jpu19: $AMZN -3,86% $M -1,04% $GPS -3,09% $ANF 3,52% $LULU -3,14%","lbl":"Negative"}
+]

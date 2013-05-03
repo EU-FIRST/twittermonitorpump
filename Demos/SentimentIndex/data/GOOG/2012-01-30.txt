@@ -1,0 +1,7 @@
+[
+{"time":"8:16","usr":"TradeConnect","txt":"$GOOG, nice setup for a long swing","lbl":"Positive"}
+,{"time":"10:00","usr":"mohannadaama","txt":"Agree with JM \u0022 @StockTwits RT @abnormalreturns A real world example of how $FB is hurting $GOOG (via @JeffreyMatthews) http://t.co/wetHGFcQ","lbl":"Negative"}
+,{"time":"14:17","usr":"stocklist21","txt":"$GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/6itoYDMf","lbl":"Positive"}
+,{"time":"19:35","usr":"JeremyKissel","txt":"Will Google have to start a patent war to get $9bn of value from Motorola? | Technology | http://t.co/DPGbJQQ7 http://t.co/WVZ1o9fZ $GOOG","lbl":"Negative"}
+,{"time":"19:50","usr":"61point8","txt":"@NickHackworthy Good thing they\u0027re not. Both $BIDU and $GOOG are skewed upward. Hopefully, we\u0027ll get a feedback loop.","lbl":"Positive"}
+]

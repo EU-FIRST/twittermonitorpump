@@ -1,0 +1,4 @@
+[
+{"time":"5:23","usr":"hamreldqxbr7","txt":"Facebook $FB is WAY overpriced. Note $AMZN is also $100bil mkt cap w p/sales ONLY 2x!! Morgan Stanle","lbl":"Negative"}
+,{"time":"18:31","usr":"CashBauer","txt":"Wow, Best Buy $BBY ad really helping to sell Amazon\u0027s $AMZN Kindle Fire... http://t.co/YpLlzgcu","lbl":"Positive"}
+]

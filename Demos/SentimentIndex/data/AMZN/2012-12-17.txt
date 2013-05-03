@@ -1,0 +1,7 @@
+[
+{"time":"8:40","usr":"basilnsage","txt":"$AMZN above 252 will pop to 254 quick","lbl":"Positive"}
+,{"time":"10:12","usr":"Clearwaterfunds","txt":"Street knowledge.. So the street loves $AMZN $CRM two stocks with #$%^& earnings and no margins, downgrades $AAPL with vis earnings and $$$","lbl":"Positive"}
+,{"time":"11:54","usr":"CrushingColts","txt":"$AMZN here we go, next leg up","lbl":"Positive"}
+,{"time":"14:03","usr":"MogulAzam","txt":"RT @firstadopter: Speculation of $100-200 $AMZN smartphone Q2 or Q3 2013, 5 million units: http://t.co/1wnJDOz6","lbl":"Positive"}
+,{"time":"15:04","usr":"DNev47","txt":"$$ Amazon\u0027s Exclusive Deal With Turner And Warner Bros. Brings Top Shows To Amazon Instant Video http://t.co/c6NO3Vi2 $AMZN","lbl":"Positive"}
+]

@@ -1,0 +1,14 @@
+[
+{"time":"8:13","usr":"RONKRAEMER2","txt":"RT @LaMonicaBuzz: Who does $FB think are its biggest rivals? Facebook lists $GOOG $MSFT and Twitter as \u0022significant competition\u0022 in IPO filing.","lbl":"Positive"}
+,{"time":"10:18","usr":"SJosephBurns","txt":"$GOOG finally coming alive and taking out highs of the day instead spending the day at the lows.","lbl":"Positive"}
+,{"time":"11:01","usr":"TraderFlorida","txt":"$GOOG http://t.co/5cvUWEnW Chart is broken since earnings - looking to reshort","lbl":"Negative"}
+,{"time":"13:10","usr":"SeekingAlpha","txt":"Stocks To Consider For Gains To Outperform The S&P 500 http://t.co/fBt46lM5 $AAPL $DUK $GOOG $PPL $RIG $SO $T $VZ $WMT $CTL","lbl":"Positive"}
+,{"time":"14:10","usr":"SAI","txt":"THE GOOGLE INVESTOR: Chrome Falls In Browser Share For First Time In Two Years $GOOG by @hleonard76 http://t.co/v3tiPlWR","lbl":"Negative"}
+,{"time":"14:11","usr":"JamesPrior","txt":"RT @SAI: THE GOOGLE INVESTOR: Chrome Falls In Browser Share For First Time In Two Years $GOOG by @hleonard76 http://t.co/v3tiPlWR","lbl":"Negative"}
+,{"time":"15:01","usr":"stkmkt1","txt":"@BuyOnTheDip are betting on a $GOOG pullback?","lbl":"Negative"}
+,{"time":"15:49","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $GOOG W C 590-595\u0027s still holding/added some as well http://t.co/05iIdX9W","lbl":"Positive"}
+,{"time":"17:41","usr":"SAI_Tools","txt":"It\u0027s About Time Google Did Something About All Those Nasty Android Apps $GOOG by @stevekovach http://t.co/RYwOJWDL","lbl":"Negative"}
+,{"time":"17:41","usr":"SAI","txt":"It\u0027s About Time Google Did Something About All Those Nasty Android Apps $GOOG by @stevekovach http://t.co/6jXrAIcd","lbl":"Positive"}
+,{"time":"17:45","usr":"lluccipha","txt":"SAI: It\u0027s About Time Google Did Something About All Those Nasty Android Apps $GOOG by @stevekovach http://t.co/QOvDC4cB","lbl":"Negative"}
+,{"time":"20:17","usr":"bettertrade5","txt":"$GOOG - Google Stock Analysis - price & sma crossover, #bull stock - http://t.co/Rv54LEO8","lbl":"Positive"}
+]

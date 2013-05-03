@@ -1,0 +1,14 @@
+[
+{"time":"2:18","usr":"Keith_in_Japan","txt":"@WSJ: Jefferies analyst: $AAPL\u0027s new products like #Maps and #Siri are \u0022a clear and present danger\u0022 to $GOOG. http://t.co/pw2Wkwk4","lbl":"Negative"}
+,{"time":"2:28","usr":"BigTicks","txt":"$GOOG News: Google Faces New Street View Probe by UK Privacy Regulator http://t.co/VlqvX2II #GOOG #faces #Google","lbl":"Negative"}
+,{"time":"6:50","usr":"SeekingAlpha","txt":"Billionaire Julian Robertson And John Griffin Are Bullish About These Stocks http://t.co/5vXjt3vv $AAPL $GOOG $HCA $LBTYA $VRSN","lbl":"Positive"}
+,{"time":"8:44","usr":"dschorrnyc","txt":"$AAPL strong, $GOOG weak is the theme for the week it seems","lbl":"Negative"}
+,{"time":"9:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 09:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+,{"time":"10:25","usr":"SJosephBurns","txt":"@DeeBeeFunky $GOOG is just acting way to choppy for me, it would likely just stop me out like $FB did.","lbl":"Negative"}
+,{"time":"10:26","usr":"SJosephBurns","txt":"@DeeBeeFunky I would consider $GOOG if the MKT turns down and I can short off the 5 day ema or 10 day sma","lbl":"Positive"}
+,{"time":"11:55","usr":"minervatweet","txt":"RT @SAI: Google Should Be Terrified Of These 11 Startups $GOOG by @mattlynley http://t.co/8gCcW9um","lbl":"Negative"}
+,{"time":"13:27","usr":"russcovarrubia","txt":"RT @Jamtrades: Why Einhorn Likes $AAPL is apparent by now. $AAPL could make $GOOG extinct is what Einhorn is thinking @Bloomberg @CNBC #NASDAQ $SPY $QQQ","lbl":"Negative"}
+,{"time":"13:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 13:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+,{"time":"16:21","usr":"TraderNewburgh","txt":"Alot of stocks continue to break down. $GOOG, $TSCO $NTES to name a few. Will cover many later in the video. Have a good one","lbl":"Negative"}
+,{"time":"23:25","usr":"brq6","txt":"RT @Jimmybob77: $GOOG 540/530 puts","lbl":"Negative"}
+]

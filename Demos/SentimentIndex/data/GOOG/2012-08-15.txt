@@ -1,0 +1,24 @@
+[
+{"time":"7:43","usr":"RedDogT3Live","txt":"Morning Call (in the spirit of pre-season football): Bears Still in the Game After Goal-Line Stand http://t.co/Yr5tSZsx $AAPL $GOOG $SPY","lbl":"Negative"}
+,{"time":"8:29","usr":"JustinPulitzer","txt":"@smartertrader $GOOG looks good, but be on guard for a large topping tail close as a topping signal. $$","lbl":"Positive"}
+,{"time":"8:59","usr":"SpeedSixx2","txt":"sold $GOOG Aug 670 puts for 5.40, into the gap fill","lbl":"Positive"}
+,{"time":"9:01","usr":"boogidown","txt":"short both $GOOG Aug12 665 Put and $AAPL short via Aug12 625 Put","lbl":"Negative"}
+,{"time":"9:03","usr":"ChrisStuntz","txt":"$GOOG might retest the R1 Pivot @ 663 or MA10 before rocketing higher in the coming days/next week","lbl":"Positive"}
+,{"time":"10:07","usr":"ELkadyKareem","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
+,{"time":"10:07","usr":"MychaelBlue","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
+,{"time":"10:07","usr":"ninukidman","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
+,{"time":"10:24","usr":"0x00string","txt":"\u0022@ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46\u0022","lbl":"Positive"}
+,{"time":"10:24","usr":"aznboi27","txt":"Just adding to $GOOG $FB puts.. it\u0027s going to fall soon","lbl":"Negative"}
+,{"time":"10:25","usr":"HFTAlert","txt":"$goog accumulator flattened at the retracement to 671 from 667-if you trade ranges 671 was it. http://t.co/Bzy3Nh7N","lbl":"Negative"}
+,{"time":"11:49","usr":"z8angela","txt":"@deliciousAAPL Market has little strength on lite vol..Calm before a storm? $AAPL & $GOOG stalled. Hold half AAPL puts & traded it around.","lbl":"Negative"}
+,{"time":"12:15","usr":"Fitzstock2004","txt":"So far , NICE EXITS in $goog","lbl":"Negative"}
+,{"time":"12:15","usr":"ppprophet","txt":"sell $GOOG get your money back! . The #stockmarket will crash 12.21.12 #trading #daytrading #stocks $vix $tvix $uvxy","lbl":"Negative"}
+,{"time":"12:17","usr":"creeksidecap","txt":"@RedDogT3Live $GOOG shaping up for a \u0022reddog reversal\u0022 today. What do you think?","lbl":"Negative"}
+,{"time":"12:52","usr":"Majd_twit","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
+,{"time":"12:53","usr":"frankfeil","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
+,{"time":"14:35","usr":"David_Mansfield","txt":"@chrisbeanie1 See no value in $FB, long or short term. Play $GOOG for social media exposure or wait for Twitter to go public","lbl":"Positive"}
+,{"time":"17:04","usr":"ctreada","txt":"RT @investorsmosaic: This graph shows why the hype should be about Google, not Facebook. $GOOG $FB http://t.co/B8j2I20g","lbl":"Positive"}
+,{"time":"18:41","usr":"Paint_Shield","txt":"\u201C@SeekingAlpha: Avoid IBM; Buy HP, RIM Instead http://t.co/8KqiORhb $GOOG $HPQ $RIMM $IBM\u201D Buy none of that.","lbl":"Negative"}
+,{"time":"18:42","usr":"sciencetrader","txt":"insider selling: $GOOG\u0027s Page sells another 27,778 shares on 8/15 at 668.00","lbl":"Negative"}
+,{"time":"21:34","usr":"mel_huang","txt":"$GOOG has been up over 15% in past month, bought it on lull as well, but also think it\u0027s time to sell soon...","lbl":"Positive"}
+]

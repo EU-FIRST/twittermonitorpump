@@ -1,0 +1,7 @@
+[
+{"time":"9:07","usr":"noodls_sRetail","txt":"$AMZN Amazon\u2019s LOVEFiLM Signs Another Streaming Deal to Launch ABC TV... http://t.co/n51llzPN","lbl":"Positive"}
+,{"time":"11:29","usr":"jonathannpaul","txt":"@davetisch that is $AMZN\u0027s big advantage over $EBAY imo","lbl":"Positive"}
+,{"time":"14:23","usr":"OptionsTrader82","txt":"RT @TraderFlorida: Will be holding over weekend $CMG $AMZN $AAPL $GOOG $PNRA $LVS $BIDU $SPY $AZO $MON to name a few, some have for weeks now","lbl":"Positive"}
+,{"time":"18:24","usr":"BrianNorris1","txt":"\u201C@ReutersTech: 24 million customer accounts hacked at Amazon\u0027s Zappos http://t.co/3etoTu7a\u201D $AMZN","lbl":"Negative"}
+,{"time":"20:04","usr":"traderstock8","txt":"$AMZN - Amazon Stock Analysis - price & ema crossover, #bull stock - http://t.co/nqQLQKEo","lbl":"Positive"}
+]

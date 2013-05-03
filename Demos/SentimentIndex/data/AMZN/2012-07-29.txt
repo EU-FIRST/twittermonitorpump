@@ -1,0 +1,4 @@
+[
+{"time":"8:52","usr":"1X57","txt":"Amazon is a buy, $AMZN http://t.co/I7fbbeEx","lbl":"Positive"}
+,{"time":"13:58","usr":"FairOaksTrader","txt":"5 Longs: $TCBI $ALXN $BIIB $GLD $BUNL. 4 Shorts: oil via $SCO, Euro via $EUO, $SBUX and $AMZN.","lbl":"Negative"}
+]

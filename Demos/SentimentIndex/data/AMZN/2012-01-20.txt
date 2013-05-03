@@ -1,0 +1,16 @@
+[
+{"time":"7:57","usr":"firstadopter","txt":"$AMZN Kindle Fire huge ramp in 2012 was CENTRAL to the Amazon sell-side community bull thesis. STICK A FORK IN IT. IT\u0027S OVER","lbl":"Negative"}
+,{"time":"7:57","usr":"mcvetetic","txt":"Textbook business has begged revolution for years and $AAPL is the only company to deliver - $AMZN kindle not the right platform","lbl":"Negative"}
+,{"time":"8:02","usr":"firstadopter","txt":"Instead of -50% q/q in $AMZN Fire Tablet orders Q4 to Q1, $AAPL iPad orders +27% q/q if you want to directly compare: http://t.co/15PMI0Go","lbl":"Negative"}
+,{"time":"10:12","usr":"PavanAtukuri","txt":"RT @SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/7oMTAKD4","lbl":"Negative"}
+,{"time":"10:13","usr":"sil1998","txt":"bot some $amzn","lbl":"Positive"}
+,{"time":"10:13","usr":"lluccipha","txt":"SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/6G5zf3tY","lbl":"Negative"}
+,{"time":"10:53","usr":"GuinevereXandra","txt":"RT @SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/7oMTAKD4","lbl":"Negative"}
+,{"time":"12:08","usr":"Brendan_Henry","txt":"The $AMZN 190 calls short is working. But must close it out to leave early to avoid a snow storm in Chicago.","lbl":"Negative"}
+,{"time":"12:41","usr":"O_serpi","txt":"RT @SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/b6fNKj62 korktular","lbl":"Negative"}
+,{"time":"13:23","usr":"wallstCS","txt":"Seasonal Drop in Kindle Fire Tablet PCs http://t.co/WuiXX3By $BKS $AAPL $AMZN #mkt #stocks","lbl":"Negative"}
+,{"time":"13:24","usr":"TraderFlorida","txt":"$AMZN http://t.co/qihuLr6C Sold rest of holdings this morning for nice gains since $173.90\u0027s $AAPL POSTED VIDEO","lbl":"Negative"}
+,{"time":"16:04","usr":"TheHarper","txt":"Would love to see $AMZN back-test to its 50-day around 186 to buy back my position $$","lbl":"Negative"}
+,{"time":"17:47","usr":"tw_top_1z142kv","txt":"RT @SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/7oMTAKD4","lbl":"Negative"}
+,{"time":"21:47","usr":"DMAugustine","txt":"RT @gtotoy $AMZN just filled its gap<==time to go long again at 50d support?","lbl":"Positive"}
+]

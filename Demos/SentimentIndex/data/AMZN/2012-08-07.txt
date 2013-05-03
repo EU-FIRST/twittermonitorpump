@@ -1,0 +1,4 @@
+[
+{"time":"9:39","usr":"mbcls","txt":"just shorted amazon. they going to charge sales taxes for california pretty soon. people just going to elsewhere to buy tax free! $AMZN","lbl":"Negative"}
+,{"time":"10:44","usr":"FairOaksTrader","txt":"$AMZN Amazon continues to defy gravity. I can\u0027t argue with the market even though I would like to! :)","lbl":"Positive"}
+]

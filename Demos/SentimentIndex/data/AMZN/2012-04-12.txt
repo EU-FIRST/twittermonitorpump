@@ -1,0 +1,10 @@
+[
+{"time":"8:15","usr":"HusseinManji","txt":"RT @YahooFinance: Amazon to cut e-book prices and shaking rivals http://t.co/RjjbhS6r $AMZN","lbl":"Positive"}
+,{"time":"9:19","usr":"kiwitrader24","txt":"$AMZN http://t.co/PO62qyC2 Here\u0027s my chart I\u0027m using today. I have April calls that expire next Fri & GOOG reports tonight...","lbl":"Positive"}
+,{"time":"10:30","usr":"SocialPicks","txt":"Trade Deficit Narrows, Markets Open Higher http://t.co/J6t4l19o $AMZN $BKS $COMP $DJI $DRYS $HPQ $INDU $MCK $NDX $NOK $NYA $ORIG $RAD","lbl":"Positive"}
+,{"time":"11:20","usr":"ttraudt2","txt":".@SAI: @Amazon\u0027s #Kindle Family Is In Trouble, Says Pacific Crest $AMZN by @jyarow http://t.co/0vBtyjH8\u201D","lbl":"Positive"}
+,{"time":"11:20","usr":"ttraudt2","txt":"RT @SAI: Amazon\u0027s Kindle Family Is In Trouble, Says Pacific Crest $AMZN by @jyarow http://t.co/ylm6VeCQ","lbl":"Negative"}
+,{"time":"14:02","usr":"simpletradr","txt":"$amzn 191 looks like a trap","lbl":"Negative"}
+,{"time":"15:10","usr":"leowise","txt":"Solid numbers for $GOOG,that bodes well for the rest of internet derived biz, looking at $AMZN and $EBAY for tomorrows trade...","lbl":"Positive"}
+,{"time":"17:10","usr":"nottora2","txt":"RT @SAI: Amazon\u0027s New Search Service Is A Brilliant Slap At Google, HP, Others $AMZN by @Julie188 http://t.co/99mUju0h","lbl":"Positive"}
+]

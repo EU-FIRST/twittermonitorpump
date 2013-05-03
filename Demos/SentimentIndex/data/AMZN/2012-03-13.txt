@@ -1,0 +1,5 @@
+[
+{"time":"8:47","usr":"dontgiveup9","txt":"$AMZN - Amazon Stock Analysis - RSI is bearish and falling - http://t.co/Ynplx5nH","lbl":"Negative"}
+,{"time":"9:57","usr":"OptionPundit","txt":"Book your 50% gains in $AMZN now, weekly 185 calls...just hit $1.13","lbl":"Positive"}
+,{"time":"11:22","usr":"newsagg","txt":"Like clockwork $AMZN 60m chikou hits trailing 200ema and stalls http://t.co/uychjN29","lbl":"Negative"}
+]

@@ -1,0 +1,4 @@
+[
+{"time":"13:38","usr":"vrybdpkt","txt":"@37point2 it is for tickers. Like $fire or $goog or $fb","lbl":"Positive"}
+,{"time":"17:39","usr":"_thebigbadwolf_","txt":"The Butcher says #stocks always go up #stockmarket #trading #daytrading $tvix $vix $xiv $uvxy $AAPL $GOOG $EBAY $CSCO","lbl":"Positive"}
+]

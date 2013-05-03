@@ -1,0 +1,26 @@
+[
+{"time":"8:56","usr":"fabcara","txt":"RT @parklandtrader: @cnbcfastmoney See $AAPL and $GOOG turn here... good sign would get long both here for a pop..","lbl":"Positive"}
+,{"time":"9:22","usr":"OptionRunners","txt":"570x $GOOG June weekly puts I alerted at 2.35 now at 3.00 +27.7%","lbl":"Negative"}
+,{"time":"9:24","usr":"groditi","txt":"$GOOG - Risk/Reward not altogether unattractive here http://t.co/15iaHTK3","lbl":"Positive"}
+,{"time":"9:39","usr":"SemiBull","txt":"$GOOG having a hell of a day, sliced through 200DMA and on down","lbl":"Positive"}
+,{"time":"9:54","usr":"RSKYTRDG","txt":"@61point8 Yes, I took advantage of shorting $GOOG and buying PUTS. Made some nice cash. Thx!!","lbl":"Negative"}
+,{"time":"9:55","usr":"BanzaiTrader","txt":"$GOOG puts working http://t.co/iHOMEtwr","lbl":"Negative"}
+,{"time":"9:55","usr":"takingstock614","txt":"$GOOG broke 200Day... probably has much lower to go.","lbl":"Negative"}
+,{"time":"9:55","usr":"lovepapar","txt":"RT @StockTwits: $GOOG Is Trending on StockTwits http://t.co/zMFvJTAf w/ a break down on Volume the Stream Has Been All Over This","lbl":"Positive"}
+,{"time":"10:40","usr":"BanzaiTrader","txt":"As @TraderFlorida would say, \u0022get the jelly out\u0022 $GOOG","lbl":"Negative"}
+,{"time":"11:21","usr":"gregnb","txt":"closed $GOOG calls -.15 @ .70. it\u0027s just pinned can\u0027t catch a bounce not worth theta burn here taking the small loss","lbl":"Negative"}
+,{"time":"12:04","usr":"lluccipha","txt":"SAI: REVIEW ROUNDUP: Samsung\u0027s Galaxy S III Might Just Make You Want To Switch To Android $GOOG by @_dtl http://t.co/Cm3XPNAb","lbl":"Positive"}
+,{"time":"12:06","usr":"thefinancepress","txt":"$GOOG Search Engine Market Showing Signs Of Improvement (GOOG, BIDU, GRPN, ADBE): Search Engine Market Showing ... http://t.co/jphItp1h","lbl":"Positive"}
+,{"time":"12:38","usr":"Janinestree","txt":"@optionmonster @petenajarian Might mean nothing but $AAPL and $GOOG starting to move to upside.. http://t.co/o2JYWITV","lbl":"Positive"}
+,{"time":"12:38","usr":"Rosaski","txt":"RT @wallstCS: Microsoft Is Google\u0027s Biggest Headache http://t.co/eM6IcOJV $GOOG $MSFT $SNE $CMCSA #mkt #stocks","lbl":"Negative"}
+,{"time":"12:40","usr":"paulawitshades","txt":"RT @wallstCS: Microsoft Is Google\u0027s Biggest Headache http://t.co/QMYDKWEx $GOOG $MSFT $SNE $CMCSA #mkt #stocks http://t.co/UPeNhlSS","lbl":"Negative"}
+,{"time":"13:28","usr":"wallstCS","txt":"What is Google+ Hiding? http://t.co/xsXPoqG8 $GOOG $FB #mkt #stocks #trading","lbl":"Negative"}
+,{"time":"13:31","usr":"dyer440","txt":"@tjtakes All i see is your $GOOG idea finally breaking below 600, and a lower double top in $AAPL (bearish). Banks look anemic IMO.. ??","lbl":"Negative"}
+,{"time":"14:17","usr":"toddstrade","txt":"$GOOG http://t.co/XUQjYmmO Breakdown from wedge and 200-day MA","lbl":"Negative"}
+,{"time":"14:53","usr":"CNNMoneyInvest","txt":"Best of StockTwits: The not-so great $GOOG-a Mooga? http://t.co/kBYAJ2uy","lbl":"Negative"}
+,{"time":"14:53","usr":"DTNStockMarket","txt":"DTN Stock Market: Best of StockTwits: The not-so great $GOOG-a Mooga?: Facebook continued to slide one week afte... http://t.co/Iu13cAUR","lbl":"Negative"}
+,{"time":"14:53","usr":"marik_forex","txt":"Best of StockTwits: The not-so great $GOOG-a Mooga?: Facebook continued to slide one week after its IPOuch. But ... http://t.co/Pto7osDz","lbl":"Negative"}
+,{"time":"15:32","usr":"ValentFinancial","txt":"Apple and Google Lead Tech Titans on the Move http://t.co/eHxvNvAR $AAPL $GOOG $CSCO $MSFT $CMCSA #mkt #stocks","lbl":"Positive"}
+,{"time":"22:29","usr":"BigTicks","txt":"$GOOG News: IPO a \u0027missed opportunity\u0027 http://t.co/z79g8LPL #GOOG #missed #News","lbl":"Negative"}
+,{"time":"22:33","usr":"Sermario","txt":"Mobile browser wars set to begin $FB $GOOG","lbl":"Negative"}
+]

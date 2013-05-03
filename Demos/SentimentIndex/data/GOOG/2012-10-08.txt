@@ -1,0 +1,20 @@
+[
+{"time":"6:13","usr":"GoogleInvestor","txt":"Google Defies Gravity: 12 Consecutive Weeks of Gains! http://t.co/QX1LE3rp $GOOG","lbl":"Positive"}
+,{"time":"9:11","usr":"MarkNewtonCMT","txt":"@timothynick @Convertbond ty TN was more of a relative bullish $GOOG vs $AAPL call technically,but appreciate- AAPL tech target to buy $621","lbl":"Positive"}
+,{"time":"9:47","usr":"BPGAG","txt":"$aapl $goog Taking more Google shorts","lbl":"Negative"}
+,{"time":"10:10","usr":"JamarParris","txt":"@GoogleMaps is throwing more shade Apple\u0027s way. New \u0027More Than A Map\u0027 site showcases power of it\u0027s maps. $GOOG $AAPL http://t.co/OiZXYlaV","lbl":"Positive"}
+,{"time":"10:42","usr":"ChartLearning","txt":"I want to short $GOOG on a tiny bounce. Refrain from here since I want the best entry possible","lbl":"Negative"}
+,{"time":"10:43","usr":"aznboi27","txt":"RT @traderstewie: Starting to look like $GOOG is topping out now. Wouldn\u0027t be surprised to see it continue lower next few days","lbl":"Negative"}
+,{"time":"10:43","usr":"NorthmanTrader","txt":"@smartertrader @HenryPetzold I\u0027ll go long $AAPL at $627 for a trade 21 weekly EMA. With $GOOG now also down hard, tech is correcting.","lbl":"Negative"}
+,{"time":"10:44","usr":"z8angela","txt":"@MarkAlanT @SJosephBurns Nice short in $GOOG as it broke my rising pennant; but buy $AAPL ..","lbl":"Negative"}
+,{"time":"11:35","usr":"sandeepbhavsar","txt":"got some $goog calls based on hrly, looking for a bounce.","lbl":"Positive"}
+,{"time":"12:11","usr":"stockguy22","txt":"I see that $aapl $goog very weak today - but $vvus got some nice continuation over $19.50 , nice when gets over $20/$21again","lbl":"Negative"}
+,{"time":"12:42","usr":"SAI","txt":"Google TV (Sort Of) Catches Up To Apple TV With Its New Update $GOOG by @stevekovach http://t.co/rugBjoa9","lbl":"Positive"}
+,{"time":"12:43","usr":"ChartLearning","txt":"Could be wrong here but based on charts $AAPL $GOOG have a bit more upside before the close","lbl":"Positive"}
+,{"time":"13:41","usr":"BPGAG","txt":"$goog short it mo mo not today - be quick though","lbl":"Negative"}
+,{"time":"15:20","usr":"JRNavarro75","txt":"$GOOG RT @CNET: You can now make Google Play purchases on your Google TV http://t.co/8EH5hO3T","lbl":"Positive"}
+,{"time":"16:37","usr":"cnbcfastmoney","txt":"Google Better Than Apple for This Reason: Verrone http://t.co/wjgjNwa7 $AAPL $GOOG $XLV #StockMarket #StockPicks","lbl":"Positive"}
+,{"time":"16:37","usr":"RealCrystalBall","txt":"Google Better Than Apple for This Reason: Verrone http://t.co/Ii5Du9Qc $AAPL $GOOG $XLV #StockMarket #StockPicks #Apple #Stocks","lbl":"Positive"}
+,{"time":"16:38","usr":"Mark4124NH","txt":"RT @cnbcfastmoney: Google Better Than Apple for This Reason: Verrone http://t.co/wjgjNwa7 $AAPL $GOOG $XLV #StockMarket #StockPicks","lbl":"Positive"}
+,{"time":"23:57","usr":"cmedrano72","txt":"RT @MNYCx: Futures green + up. Looks like $SPY $GOOG $AAPL & Co will bounce tomorrow.","lbl":"Positive"}
+]

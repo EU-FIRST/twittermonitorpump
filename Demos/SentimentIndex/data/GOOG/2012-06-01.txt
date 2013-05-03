@@ -1,0 +1,11 @@
+[
+{"time":"7:42","usr":"brownreport","txt":"The bears are in town and so are our puts on $goog","lbl":"Negative"}
+,{"time":"7:46","usr":"isengupta","txt":"@RiskReversal Dan may be thinking he could have held on to the $GOOG June puts. But you have the July.","lbl":"Negative"}
+,{"time":"9:46","usr":"Gssound","txt":"@creditspread23 @bookingalpha that would be a $GOOG 580/585 call credit spread at .30, sorry late response...","lbl":"Positive"}
+,{"time":"10:58","usr":"wallstCS","txt":"Does This Spell BIG TROUBLE for Google Books? http://t.co/qn5HK8fq $GOOG #mkt #stocks","lbl":"Negative"}
+,{"time":"11:00","usr":"tradestoday","txt":"RT @wallstCS: Does This Spell BIG TROUBLE for Google Books? http://t.co/xkfNP7SI $GOOG #mkt #stocks $BKS","lbl":"Negative"}
+,{"time":"12:15","usr":"nithyadas","txt":"RT @DeirdreBolton: .@bokelley took on $GOOG in \u002707 & @AppNexus is the successful result. More on being innovator+boss at 1:10pmET #MoneyMoves @BloombergTV","lbl":"Positive"}
+,{"time":"12:18","usr":"dschorrnyc","txt":"$AAPL lows. $GOOG highs. huh.","lbl":"Positive"}
+,{"time":"13:24","usr":"Javerthl","txt":"@jimcramer Bought some $GOOG down here.","lbl":"Positive"}
+,{"time":"22:33","usr":"PurviRajani","txt":"$GRPN lockup just ended. Market cap barely above the $6B that the mighty $GOOG offered.","lbl":"Positive"}
+]

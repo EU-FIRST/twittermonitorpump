@@ -1,0 +1,13 @@
+[
+{"time":"10:49","usr":"ArtMatters2me","txt":"@GuyAdami Guy, do you think think expectations are too high for $GOOG today?","lbl":"Negative"}
+,{"time":"15:33","usr":"AnniDayTrades","txt":"$FFIV & $GOOG in anticipation back to earnings gap can\u0027t miss plays ala 1999 ?? \u0022How Big Can You Get? or how m... \u266B http://t.co/W4gx8L6z","lbl":"Positive"}
+,{"time":"16:15","usr":"keefriffards","txt":"RT @KeeneOnMarket: #Winning today in $GOOG $IBM $INTC and $IMAX not a bad day for the kid","lbl":"Positive"}
+,{"time":"17:49","usr":"$GOOG","txt":"$GOOG sell insiders from april, CEO Page Lawrence 500musd COFOUNDER Brin Sergey 469musd, i told you at 12 jan 12","lbl":"Negative"}
+,{"time":"17:50","usr":"$GOOG","txt":"So $GOOG loses 10% of its value while making $10B in 12 weeks? Isn\u0027t this a bounce play...!?","lbl":"Positive"}
+,{"time":"20:16","usr":"chamomilee","txt":"RT @AJInsight: $GOOG options cheap ahead of earnings: Buy Jan 635 put and call combined for $36 (5.5%), cheaper than GOOG\u0027s average 7.5% move next day $$","lbl":"Positive"}
+,{"time":"20:17","usr":"dan_weis","txt":"RT @bleekertech: Everyone\u0027s going to focus on $GOOG click fees... But here\u0027s the real focus: International growth was only 5% sequential","lbl":"Negative"}
+,{"time":"20:58","usr":"pnavarro88","txt":"watch out $goog tomorrow this levels will become critical in the next few days http://t.co/InafczGm","lbl":"Negative"}
+,{"time":"22:12","usr":"TrendRida","txt":"$GOOG shareholders should demand a dividend. That\u0027s the only way to stop Larry Page burning dollar bills...","lbl":"Negative"}
+,{"time":"23:27","usr":"anuppandey","txt":"#Google blows past $10B in #revenue for Q4, but misses Street estimates http://t.co/PFWCL00W via @zite $GOOG","lbl":"Negative"}
+,{"time":"23:32","usr":"tanujrocks","txt":"RT @LDrogen: the $GOOG miss most likely means $AAPL ate their lunch in mobile, as expected","lbl":"Negative"}
+]

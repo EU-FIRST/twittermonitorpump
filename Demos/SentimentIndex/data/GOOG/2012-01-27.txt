@@ -1,0 +1,17 @@
+[
+{"time":"1:57","usr":"$GOOG","txt":"Option Millionaires: BUDDIEE18: thanks guys!! re $GOOG -- right now i http://t.co/mVzrkITu","lbl":"Negative"}
+,{"time":"1:57","usr":"$GOOG","txt":"Option Millionaires: uranium-pinto-beans: I\u0027ll be looking for OTM $GOOG calls for http://t.co/ulYzPg02","lbl":"Positive"}
+,{"time":"1:58","usr":"$GOOG","txt":"uranium-pinto-beans: I\u0027ll be looking for OTM $GOOG calls for: uranium-pinto-beans http://t.co/m523AQ3k","lbl":"Positive"}
+,{"time":"10:44","usr":"amitskumar","txt":"RT @BloombergNews: Apple, Google face poaching ban lawsuit | http://t.co/bpm8qRHL $AAPL $GOOG","lbl":"Negative"}
+,{"time":"11:43","usr":"Tangletrade","txt":"$GOOG didn\u0027t work, but the $CAT Jan $110p lotto did...time to cash out of half (at least). Still have Feb 3 $110p","lbl":"Negative"}
+,{"time":"13:29","usr":"conorsen","txt":"You can have $FBOOK. I\u0027ll stick with $AAPL, $GOOG, $LNKD, and $Z.","lbl":"Positive"}
+,{"time":"13:30","usr":"IBDinvestors","txt":"Baidu earnings expected to jump 82%, often beats on revenue. http://t.co/jpmw1vrg Chinese web search service reports Monday. $BIDU $GOOG","lbl":"Positive"}
+,{"time":"13:30","usr":"jimcramer","txt":"RT @BloombergNews: Apple, Google face poaching ban lawsuit | http://t.co/cenKuNiX $AAPL $GOOG","lbl":"Negative"}
+,{"time":"14:21","usr":"TweetLeni","txt":"Cant trade facebook ipo without a chart. Like driving without seeing the road for me. Long $GOOG instead","lbl":"Positive"}
+,{"time":"15:14","usr":"AlohaTrades","txt":"$BIDU may be giving a little boost to $GOOG today, that and it bounced off its ma yesterday","lbl":"Positive"}
+,{"time":"15:14","usr":"bullseyestox","txt":"Internet stocks cannot be stopped today $LNKD, $GOOG, $SINA, $BIDU, $SOHU. Shorts are scrambling","lbl":"Positive"}
+,{"time":"15:43","usr":"BuyOnTheDip","txt":"@anthonybrown .... thx, painful at first, knew it would bounce. oversold stochastics FTW! $GOOG","lbl":"Positive"}
+,{"time":"15:45","usr":"DJHectik86","txt":"@jfahmy $GOOG showing up to the party day after like Larry David","lbl":"Positive"}
+,{"time":"15:47","usr":"CQNCTRADING","txt":"$GOOG Was down 16 on three days ago now even and + 8. Eat crow haters.","lbl":"Positive"}
+,{"time":"17:22","usr":"katetrades","txt":"$BIDU earnings will be interesting after the $GOOG miss. Might be the first time I trade options into earnings. Definitely no common.","lbl":"Negative"}
+]

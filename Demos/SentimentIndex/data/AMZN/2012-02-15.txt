@@ -1,0 +1,12 @@
+[
+{"time":"6:11","usr":"wallstCS","txt":"Amazon Prime Membership Lower Than Estimated http://t.co/HNcr35aE $AMZN","lbl":"Negative"}
+,{"time":"9:41","usr":"OptionTactician","txt":"Short $AMZN at 190.10 with 1% stop","lbl":"Negative"}
+,{"time":"10:50","usr":"Lowtown21","txt":"Im pulling a Bernanke move on my $AMZN long. Throwing more money at it hoping something sticks.","lbl":"Positive"}
+,{"time":"10:50","usr":"JeffReevesIP","txt":"3 stocks screaming short - $AMZN $CRM $LNKD - http://t.co/jWAF7Anh","lbl":"Negative"}
+,{"time":"12:41","usr":"MB30stocktweets","txt":"Thanks $AMZN for nothing. On to the next one or short you now?","lbl":"Negative"}
+,{"time":"13:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 186.33 -4.97 (-2.60%).","lbl":"Negative"}
+,{"time":"15:24","usr":"KeithMcCullough","txt":"Blood Bath and Beyond looks like Amazon today, ugly breakdown $BBBY $AMZN","lbl":"Negative"}
+,{"time":"15:24","usr":"RedDogT3Live","txt":"$AMZN- macro pattern still bearish-","lbl":"Negative"}
+,{"time":"15:28","usr":"DrDuru","txt":"Ugly move on $AMZN completely wiped out breakout move from Monday. Again, caution!","lbl":"Negative"}
+,{"time":"18:07","usr":"retail_sails","txt":"Amazon\u0027s Approach to #Advertising Might Work, But It\u0027s Not for Every #Retailer http://t.co/Yej6QOMN $AMZN","lbl":"Positive"}
+]

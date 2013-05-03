@@ -1,0 +1,5 @@
+[
+{"time":"4:40","usr":"optionspirate","txt":"Google drives Blind Guy to Taco Bell http://t.co/zVvNlKvr #hollywood #tmz #SourceFed $goog","lbl":"Positive"}
+,{"time":"10:30","usr":"equitiescom","txt":"The #tech industry teeters on the brink of #Yahoo #Facebook #Google and #Vringo Patent Wars: http://t.co/c5KGCyvU $FB $GOOG $VRNG $YHOO","lbl":"Negative"}
+,{"time":"10:30","usr":"EquitiesNetwork","txt":"The #tech industry teeters on the brink of #Yahoo #Facebook #Google and #Vringo Patent Wars: http://t.co/2sECbvJX $FB $GOOG $VRNG $YHOO","lbl":"Negative"}
+]

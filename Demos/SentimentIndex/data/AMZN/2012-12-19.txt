@@ -1,0 +1,10 @@
+[
+{"time":"7:20","usr":"buckandrews","txt":"Stocks moved watch this Bull strategy @crosshairtrader $AMZN JAN-19-13 275/250 COMBINATION (30 DAYS). #deckfolio http://t.co/P4BC2zrH","lbl":"Negative"}
+,{"time":"10:40","usr":"asyurei3","txt":"My current positions are $JPM $AMZN $GS $GOOG all short. I got short $GS and $GOOG a bit early they are underwater.","lbl":"Negative"}
+,{"time":"11:28","usr":"GCavaligos","txt":"RT @z8angela: Reversal/stalling action on high flyers: $GOOG $AMZN $REGN,. - REGN has flirted with support level 178 for a while. & now broke down.","lbl":"Negative"}
+,{"time":"12:24","usr":"businessinsider","txt":"This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/uNZky8d6","lbl":"Negative"}
+,{"time":"12:24","usr":"SAI","txt":"This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/6POva4Un","lbl":"Negative"}
+,{"time":"13:21","usr":"chartly","txt":"\u0022greenlight on break of downtrend...\u0022 \u0022@InderpreetBanga: $AMZN plan for the afternoon http://t.co/LYc1tqwh\u0022","lbl":"Positive"}
+,{"time":"13:23","usr":"khairais","txt":"RT @businessinsider: This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/uNZky8d6","lbl":"Negative"}
+,{"time":"19:55","usr":"CoryTV","txt":"Brian Marshall on why $AMZN\u0027s cloud could realy hurt $HPQ, $DELL and their ilk - http://t.co/D3SLm2fI","lbl":"Positive"}
+]

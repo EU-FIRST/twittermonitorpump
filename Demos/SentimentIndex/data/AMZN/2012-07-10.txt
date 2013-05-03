@@ -1,0 +1,8 @@
+[
+{"time":"8:36","usr":"Hephaestus7","txt":"$AMZN is a turning into a short very rapidly.","lbl":"Negative"}
+,{"time":"8:37","usr":"CAMAR024","txt":"sold the gap for $AMZN aswell","lbl":"Negative"}
+,{"time":"9:33","usr":"Gamer_Guild","txt":"$AMZN https://t.co/9LVlx3Pq -->> Another key trend baseline being tested!","lbl":"Negative"}
+,{"time":"12:00","usr":"DereckToker","txt":"Looks like the gap from June 28/29 was essentially filled on $AMZN, could be the final shake-out for some big upside","lbl":"Positive"}
+,{"time":"14:39","usr":"KeithMcCullough","txt":"$AMZN maybe the most interesting, long side - but I\u0027m in no rush","lbl":"Positive"}
+,{"time":"21:55","usr":"aznboi27","txt":"$AMZN broke upward trend lines, it bounced off the 218.20 area but new lows coming 212.80 http://t.co/TObcdiqd","lbl":"Negative"}
+]

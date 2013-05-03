@@ -1,0 +1,4 @@
+[
+{"time":"7:59","usr":"larryfooter","txt":"@cronked @keepitrealdude if $AMZN was valued the same as $AAPL or $GOOG, it would be a $50 stock #insanity","lbl":"Negative"}
+,{"time":"20:39","usr":"rrshasss","txt":"$AMZN Looking for a break above or below channel. Volume and RSI hinting down. http://t.co/D8tPR8rw","lbl":"Negative"}
+]

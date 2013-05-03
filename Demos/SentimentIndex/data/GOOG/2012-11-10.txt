@@ -1,0 +1,3 @@
+[
+{"time":"5:30","usr":"clafsm","txt":"RT @CNNMoney: Google\u0027s own \u0022transparency report\u0022 shows a sharp drop in traffic from China across all of Google\u0027s products. http://t.co/yfxohMJO $GOOG","lbl":"Negative"}
+]

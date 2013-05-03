@@ -1,0 +1,6 @@
+[
+{"time":"8:29","usr":"lluccipha","txt":"SAI: After Seven Months, The Latest Version Of Android Is Only On 10% Of Devices $GOOG by @stevekovach http://t.co/nrsMkk0Y","lbl":"Negative"}
+,{"time":"11:07","usr":"RickyBonMx","txt":"RT @SAI: The Real Thermonuclear War For Apple Against Android Isn\u0027t Going To Happen In The Court Room $AAPL $GOOG by @jyarow http://t.co/sWgpAHqB","lbl":"Negative"}
+,{"time":"13:05","usr":"_max_k","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"18:59","usr":"DonGarabedian","txt":"Nexus 7 Nightmare: The iPad mini http://t.co/0yZdfpar via @BloombergNews $GOOG & $MSFT tablets will die quickly if true! $AAPL rules again!!","lbl":"Negative"}
+]

@@ -1,0 +1,5 @@
+[
+{"time":"5:21","usr":"rmillg","txt":"RT @TheRomit: \u201CMicrosoft will make more money from Windows Phone than Google will ever hope to make from Android\u201D $msft $goog http://t.co/a4phUm0d","lbl":"Negative"}
+,{"time":"13:11","usr":"TraderMommy","txt":"RT @WallStJesus: $GOOG do or die w/ hammer at 50% retrace of b - c leg here and now. If violated, negates bullish 5-0 http://t.co/RYjgtXSo @tradermommy","lbl":"Negative"}
+,{"time":"15:12","usr":"helga_pena","txt":"RT @YahooFinance: #Google to face greater competition in 2013, says The Economist\u2019s Franklin http://t.co/ICgbOpWV (#DailyTicker video w/@AaronTask) $GOOG","lbl":"Negative"}
+]

@@ -1,0 +1,14 @@
+[
+{"time":"0:10","usr":"SeekingAlpha","txt":"Apple, Microsoft And Google: All Substantially Undervalued \u0027Strong Buys\u0027 http://t.co/PWmvcCfp $GOOG $MSFT $AAPL","lbl":"Positive"}
+,{"time":"7:02","usr":"mdbrenner","txt":"Google mobile apps: Banned in China? $GOOG http://t.co/pUXmKQPV","lbl":"Negative"}
+,{"time":"7:08","usr":"SirKartikPatel","txt":"Warren Buffet not planning on buying $FB, $AAPL or $GOOG. Dude you are loosing out. #ComeOn","lbl":"Negative"}
+,{"time":"8:54","usr":"USwwwStocks","txt":"$GOOG News: Google Inc (NASDAQ:GOOG) Violates Apple Inc\u0027s (NASDAQ:AAPL) Safari I http://t.co/PUwxZ3Ip #daytrading #usa #www #stocks","lbl":"Negative"}
+,{"time":"8:55","usr":"StkConfidential","txt":"Some leaders up early $AAPL, $PCLN, $GOOG, $DG, $NEU etc.but it remains to be seen if they can stay up given mkt conditions. $$","lbl":"Positive"}
+,{"time":"13:23","usr":"aztecs99","txt":"$goog --- nice outside day working here...bullish but needs confirm tomorrow","lbl":"Positive"}
+,{"time":"13:26","usr":"DarvasTrader","txt":"Nice day for $GOOG, but tough to get excited about a stock still stuck below the 50-day line.","lbl":"Negative"}
+,{"time":"13:29","usr":"MattRosoff","txt":"GOOGLE FOUND PARTLY GUILTY $GOOG $ORCL http://t.co/NmQJXBOh","lbl":"Negative"}
+,{"time":"13:54","usr":"FOSSpatents","txt":"RT @ibc_fn: The Jury Sides With Oracle, $ORCL; $GOOG Infringed Upon Java Patents - http://t.co/rM50xzkj","lbl":"Negative"}
+,{"time":"13:55","usr":"AKPalit","txt":"Early media reports suggesting that jury in #Google #Oracle trial is saying that Google infringed on #Java patents. $GOOG $ORCL","lbl":"Negative"}
+,{"time":"13:56","usr":"Gretyl","txt":"RT @ibc_fn: The Jury Sides With Oracle, $ORCL; $GOOG Infringed Upon Java Patents - http://t.co/rM50xzkj","lbl":"Negative"}
+,{"time":"19:50","usr":"loriexaggerates","txt":"So: is the web dead? @ericjackson argues for the decline of $GOOG, FB empires in 5 years. http://t.co/TAHKCfS2 [+]","lbl":"Negative"}
+]

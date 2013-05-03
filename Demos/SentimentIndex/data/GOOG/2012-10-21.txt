@@ -1,0 +1,9 @@
+[
+{"time":"7:39","usr":"bored2tears","txt":"The glass half-empty view of Google: http://t.co/1IwN0BsW $AAPL $GOOG #Andoid #mobile #tech #stocks","lbl":"Negative"}
+,{"time":"11:23","usr":"anupamdm","txt":"$GOOG finally let\u0027s Indian app developers sell apps on Android market. Million dreams taking off!","lbl":"Positive"}
+,{"time":"15:46","usr":"andrescardenal","txt":"Three Reasons to Buy Google After the Dip - $AAPL, $GOOG, $MSFT, $RIMM, $YHOO - Foolish Blogging Network: http://t.co/i012TdOQ","lbl":"Positive"}
+,{"time":"15:48","usr":"newmaniums","txt":"Only 1 millionth time this has been beaten into the ground... RT @Fibline What would Jesse Livermore say about $GOOG $AAPL? Just saying...","lbl":"Negative"}
+,{"time":"15:52","usr":"Colomesita","txt":"RT @andrescardenal: Three Reasons to Buy Google After the Dip - $AAPL, $GOOG, $MSFT, $RIMM, $YHOO - Foolish Blogging Network: http://t.co/i012TdOQ","lbl":"Positive"}
+,{"time":"18:50","usr":"matterhornbob","txt":"Thanks for all the comments and notes today....looking forward to a challenging week in $AAPL, $GOOG, $SPX...","lbl":"Negative"}
+,{"time":"21:18","usr":"dherman76","txt":"Pre-read to Sunday evening Twitter-stream. $GOOG and the driverless car. It\u0027s BIG for helping to close the loop. http://t.co/7DN7yN5N","lbl":"Positive"}
+]

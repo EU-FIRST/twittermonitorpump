@@ -1,0 +1,16 @@
+[
+{"time":"1:09","usr":"4toptrader","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/VAuH0F3d","lbl":"Positive"}
+,{"time":"6:46","usr":"fbaruffi","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/vgXR5DWs","lbl":"Positive"}
+,{"time":"6:49","usr":"sonyaa2","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/vgXR5DWs","lbl":"Positive"}
+,{"time":"7:36","usr":"jbeezy428","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/vgXR5DWs","lbl":"Positive"}
+,{"time":"7:38","usr":"RajivBhuva","txt":"RT @themotleyfool: Pigs fly, dogs & cats live together, and Amazon.com ($AMZN) goes bricks-and-mortar? Rumors of retail stores: http://t.co/YO0EOJry","lbl":"Positive"}
+,{"time":"9:01","usr":"dschorrnyc","txt":"Amazon.com Kindle Fire estimates raised at Pacific Crest. 14.9MM from 12.7MM. $AMZN","lbl":"Positive"}
+,{"time":"9:02","usr":"firstadopter","txt":"$AMZN announces Viacom video streaming deal","lbl":"Positive"}
+,{"time":"10:03","usr":"brunofms","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/vgXR5DWs","lbl":"Positive"}
+,{"time":"11:11","usr":"firstadopter","txt":"$AMZN margins will go even lower now on the company paying Viacom TV show streaming licensing fees for Prime subscribers","lbl":"Negative"}
+,{"time":"11:13","usr":"firstadopter","txt":"Going to call it. $AMZN will lose money in a qter sometime this year. What\u0027s a good P/E multiple on negative earnings? How does that work?","lbl":"Negative"}
+,{"time":"12:05","usr":"rechtsteiner","txt":"$AMZN surpasses $HMV as UK\u0027s top entertainment retailer. http://t.co/d4ihV1Ms via @TNW #ACW","lbl":"Positive"}
+,{"time":"14:31","usr":"LimitBuyer","txt":"Until the dip buyers stop buying, follow them! $AAPL, $AMZN, $BIDU","lbl":"Positive"}
+,{"time":"20:17","usr":"CapCube","txt":"\u201C@DavidSchawel: @howardlindzon Better 5yr hold: $FB at $100b or $AMZN at $85b?\u201D.-- Neither ! But $FB better profit potential, margins","lbl":"Negative"}
+,{"time":"20:33","usr":"CapCube","txt":"@DavidSchawel @howardlindzon Good pt. Howard. I am a wee bit bearish on $AMZN stock also, in case anyone couldn\u0027t tell ;-) but like the co.","lbl":"Negative"}
+]

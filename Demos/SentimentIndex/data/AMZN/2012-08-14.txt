@@ -1,0 +1,7 @@
+[
+{"time":"0:49","usr":"ypanjabi","txt":"Americans Spent $43.2B Online in Q2; mkt grew at 15%, $amzn 32%, $ebay 23% driven by mobile; http://t.co/zRJMDUta holidays should be fun!","lbl":"Positive"}
+,{"time":"6:05","usr":"wazne19","txt":"RT @StockTwits: Largest USA Tech Companies Earnings Plunge, But Apple Still Dominates http://t.co/4Z3fcxTN via @ospreyflyer $AAPL $QQQ $AMZN","lbl":"Negative"}
+,{"time":"8:32","usr":"paulwoll","txt":"Got for 2.14 $AMZN Aug 18 \u002712 $235 Calls.","lbl":"Positive"}
+,{"time":"8:34","usr":"44andrew","txt":"$amzn moving. I\u0027m long, stop 228","lbl":"Positive"}
+,{"time":"17:29","usr":"BigTicks","txt":"$AMZN News: Lansdowne Buys Google, Amazon in Second Quarter, Filing Shows http://t.co/vwXAcU4Q #Amazon #AMZN #buys","lbl":"Positive"}
+]

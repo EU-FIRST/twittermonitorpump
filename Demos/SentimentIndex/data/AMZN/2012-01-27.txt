@@ -1,0 +1,4 @@
+[
+{"time":"9:39","usr":"SunriseTrader","txt":"showing strength my screens $BIDU $AMZN $IBM","lbl":"Positive"}
+,{"time":"12:24","usr":"leopardtrader","txt":"RT @leopardtrader Adding to $AMZN (185.5) to my swing from $170. All stops to 179. $AAPL $SPX>> remove 40% 195","lbl":"Positive"}
+]

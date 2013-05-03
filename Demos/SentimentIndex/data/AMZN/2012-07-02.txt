@@ -1,0 +1,4 @@
+[
+{"time":"9:51","usr":"Crap_Trader","txt":"@strangleprofits The two in $CRM and $AMZN are real.... I learn best with real money at stake... adds the fear and greed emotions into mix","lbl":"Positive"}
+,{"time":"14:36","usr":"Japanesegunto","txt":"for .88 cents $AMZN 125 put.....","lbl":"Negative"}
+]

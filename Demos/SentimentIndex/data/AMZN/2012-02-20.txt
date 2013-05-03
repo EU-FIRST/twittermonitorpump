@@ -1,0 +1,4 @@
+[
+{"time":"9:27","usr":"SAI_Tools","txt":"Barnes & Noble Is About To Launch A Cheaper Nook Tablet To Match The Kindle Fire $BKS $AMZN by @stevekovach http://t.co/JB0k0rSR","lbl":"Negative"}
+,{"time":"19:02","usr":"ChinaNews24","txt":"RT @Phillip_Futures2012Apple\u0027s Legal Woes in China Offer Hope to Rivals http://t.co/ezu1TyuW $0334.HK $0992.HK $AAPL $AMZN $GOOG #Tr...","lbl":"Positive"}
+]

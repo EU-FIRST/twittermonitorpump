@@ -1,0 +1,4 @@
+[
+{"time":"9:28","usr":"RedDogT3Live","txt":"Real trigger for $AMZN short is a daily close below $170-$175- you can cheat a bit if we start breaking below $175- but it\u0027s tricky","lbl":"Negative"}
+,{"time":"14:36","usr":"ManiOhli","txt":"Option Millionaires: ronnies: $AMZN launch pad or maxi pad? move already http://t.co/NGJIiF40","lbl":"Positive"}
+]

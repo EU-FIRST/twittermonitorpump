@@ -1,0 +1,7 @@
+[
+{"time":"14:17","usr":"Qwovadis","txt":"Bad for $GOOG that ripped off Android from $AAPL years back. http://t.co/GsMUxTUG","lbl":"Negative"}
+,{"time":"17:36","usr":"Urbane_Gorilla","txt":"Will Apple now sue Google the Android operating system following Samsung\u0027s $1 billion patent defeat? - http://t.co/qZUaGokM $GOOG $AAPL","lbl":"Negative"}
+,{"time":"17:37","usr":"Urbane_Gorilla","txt":"Google just bought itself patent protection (Aug 2011) - CNET News - http://t.co/5WiZQeJl $GOOG $AAPL","lbl":"Positive"}
+,{"time":"17:38","usr":"Urbane_Gorilla","txt":"HTC Sues Apple Using Google Patents Bought Last Week as Battle Escalates - Bloomberg - http://t.co/nsTIvLzv ** $GOOG $AAPL","lbl":"Negative"}
+,{"time":"21:00","usr":"TheStreet","txt":"Apple, Google, Amazon, Microsoft: The New Four Horsemen of Wall Street http://t.co/WWL86AKe by @rsaintvilus $AAPL $GOOG AMZN $MSFT","lbl":"Positive"}
+]

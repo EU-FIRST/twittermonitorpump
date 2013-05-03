@@ -1,0 +1,4 @@
+[
+{"time":"8:37","usr":"omarjavaid","txt":"RT @SAI: Google\u0027s Answer To Apple\u0027s Siri Revealed! $GOOG $AAPL http://t.co/9njIXIIO","lbl":"Positive"}
+,{"time":"12:33","usr":"mikesouellette","txt":"RT @SAI: Google\u0027s Answer To Apple\u0027s Siri Revealed! $GOOG $AAPL http://t.co/9njIXIIO","lbl":"Positive"}
+]

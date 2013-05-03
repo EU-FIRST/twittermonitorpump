@@ -1,0 +1,4 @@
+[
+{"time":"9:37","usr":"halfDayTrader","txt":"$goog!!!....riding it now.","lbl":"Positive"}
+,{"time":"10:13","usr":"BruceDetterich","txt":"$AAPL lived (lives) on high margins. $GOOG popped that balloon. Can Apple survive in the world of commodity pricing? Started under Jobs.","lbl":"Positive"}
+]

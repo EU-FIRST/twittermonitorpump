@@ -1,0 +1,8 @@
+[
+{"time":"9:58","usr":"smendozag","txt":"My positions today $lulu $qihu $amzn","lbl":"Positive"}
+,{"time":"10:00","usr":"Jamtrades","txt":"$AMZN in $255C $2.55","lbl":"Positive"}
+,{"time":"12:23","usr":"LaramieDunlap","txt":"$AMZN 260 strike Calls catching huge volume. IV at 52wk low #longvol","lbl":"Positive"}
+,{"time":"14:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $CLF +77%, $MS +36%, $WAG +20%, $C -31%, $YHOO -20%, $AMZN -18% http://t.co/uBJyhJcD","lbl":"Negative"}
+,{"time":"16:32","usr":"AMZN_stock","txt":"$AMZN stock quote, Dec 3: 250.3291 -1.7209 (-0.68%).","lbl":"Negative"}
+,{"time":"23:27","usr":"jeffreyjkeith","txt":"\u201C@61point8: $AMZN ... Bearish engulfing pattern. Worth a short below 250 all the way to 242. http://t.co/QZj6ldUQ\u201D oh I like that one! Thx","lbl":"Negative"}
+]

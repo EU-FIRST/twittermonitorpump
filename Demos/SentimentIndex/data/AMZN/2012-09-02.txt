@@ -1,0 +1,5 @@
+[
+{"time":"2:09","usr":"AJohnKyriazis","txt":"RT @SeekingAlpha: Amazon Primed For A Big Drop As Growth Slows http://t.co/J5PrNzNA $AAPL $GOOG $BBY $BKS $TGT $WMT $AMZN $SSNLF.PK","lbl":"Negative"}
+,{"time":"11:26","usr":"halsilva","txt":"RT @andrescardenal: A Simple Idea for Exceptional Returns - $AMZN, $AAPL, $EBAY, $GOOG, $MELI - Foolish Blogging Network: http://t.co/KV ...","lbl":"Positive"}
+,{"time":"20:33","usr":"BigTicks","txt":"$AMZN News: Amazon Primed For A Big Drop As Growth Slows http://t.co/CH8FU77I #Amazon #AMZN #Drop","lbl":"Negative"}
+]

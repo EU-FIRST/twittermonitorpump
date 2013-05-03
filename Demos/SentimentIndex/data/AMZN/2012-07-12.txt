@@ -1,0 +1,8 @@
+[
+{"time":"2:37","usr":"djenryte","txt":"$AMZN _same_ day delivery. This is HUGE. Makes sense why they relented on collecting taxes. http://t.co/JHMiIW3J","lbl":"Positive"}
+,{"time":"6:00","usr":"LinkedInToday","txt":"Amazon caves to sales tax demands, but that might spell trouble for traditional retail businesses http://t.co/Xf3Ywc0J on @verge $AMZN","lbl":"Negative"}
+,{"time":"7:44","usr":"outlawz616","txt":"RT @firstadopter: $AMZN may delay next-generation Kindle shipments http://t.co/1ZyE4yTY","lbl":"Negative"}
+,{"time":"10:58","usr":"Kapitall","txt":"Rumor Mill: $AMZN Plans to Enter Smartphone Market #Kapitall http://t.co/WRq9Lp4w","lbl":"Positive"}
+,{"time":"12:14","usr":"tradingfloorcom","txt":"Amazon will be the Wal-Mart of the 21st century @petergarnry equity strategist @Saxobank $AMZN $WMT http://t.co/D6jNKISv","lbl":"Positive"}
+,{"time":"14:44","usr":"ketaanhmshah","txt":"@61point8 Peter THANKS A LOT man...$aapl and $amzn calls were awesome I bot some $aapl and $amzn calls and sold it @ 50%+ in last 3 hours","lbl":"Negative"}
+]

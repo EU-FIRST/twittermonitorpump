@@ -1,0 +1,18 @@
+[
+{"time":"7:11","usr":"tlmontana","txt":"$GOOG Price Target RAISED to 760 from 680 at CITI","lbl":"Positive"}
+,{"time":"8:33","usr":"berkutchitweet","txt":"added to $GOOG pos... again. Hopefully third time is the charm.","lbl":"Positive"}
+,{"time":"9:01","usr":"EvanMedeiros","txt":"$GOOG back in 656.31","lbl":"Positive"}
+,{"time":"10:04","usr":"Tangletrade","txt":"hedging my $GOOG Apr call spreads here with Mar 30 $660-650-645 skip strike put butterflies","lbl":"Negative"}
+,{"time":"11:51","usr":"srisri55","txt":"cleared all the positions.....including $AAPL $GOOG (nice that one). Holding 95% in cash. Let the things get cleared.","lbl":"Negative"}
+,{"time":"13:13","usr":"Phileo99","txt":"$ES_F filled friday`s gap 1392.5-ish, leaders still holding up well $AAPL $GOOG $YELP","lbl":"Positive"}
+,{"time":"13:44","usr":"TraderFlorida","txt":"$AAPL http://t.co/9LKI0GGG Along with $GOOG holding up well today POSTED VIDEO","lbl":"Positive"}
+,{"time":"13:45","usr":"Wallfish","txt":"RT @SAI: Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG by @Julie188 http://t.co/nWlu7pIR","lbl":"Negative"}
+,{"time":"13:46","usr":"jsyqa","txt":"RT @SAI: Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG by @Julie188 http://t.co/nWlu7pIR","lbl":"Negative"}
+,{"time":"14:33","usr":"OgFOMK","txt":"Google Play promptly reimbursed me for my problem with a Google Play movie. Just had to use the right Chanel $GOOG","lbl":"Negative"}
+,{"time":"14:35","usr":"MrDayer","txt":"few greens on my list today. $wfm $aapl $pkt $usb $goog","lbl":"Negative"}
+,{"time":"15:56","usr":"melcoollewis","txt":"RT @SAI: Brutal: Court Filings Reveal Asus\u0027s Best Android Tablet Only Had 2,000 Pre-Orders $GOOG by @stevekovach http://t.co/MsTD53f5","lbl":"Negative"}
+,{"time":"17:47","usr":"stockwatch12","txt":"$GOOG - Google Stock Analysis - 10day moving average is rising - http://t.co/DpSMOQQ0","lbl":"Positive"}
+,{"time":"17:48","usr":"Bargain_Bin","txt":"Google is Fairly Valued But Offers Growth http://t.co/TxZ8XwBu $GOOG","lbl":"Positive"}
+,{"time":"19:08","usr":"wallstCS","txt":"Is Google Finally Worried About Dropbox? http://t.co/a39rZywU $GOOG #mkt #stocks #trading","lbl":"Negative"}
+,{"time":"21:47","usr":"BullsEverywhere","txt":"$GOOG - next resistance is around $671, I would wait for a larger correction to get in. It maybe too late for this run.","lbl":"Negative"}
+]

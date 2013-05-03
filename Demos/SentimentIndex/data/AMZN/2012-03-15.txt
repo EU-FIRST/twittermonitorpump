@@ -1,0 +1,8 @@
+[
+{"time":"7:10","usr":"MariusFermi","txt":"$AAPL Been watching premkt trades, looked glum, now Apple is stroking 600 even $AMZN is floating in the green!","lbl":"Positive"}
+,{"time":"8:42","usr":"61point8","txt":"$AMZN: on track for a waterfall http://t.co/sqKeDeIW","lbl":"Negative"}
+,{"time":"14:57","usr":"ManijehM","txt":"@tradefast $AAPL P/E is so low for the stock with this fundamentals. look at $AMZN, and $PCLN they are more expensive than $AAPL","lbl":"Negative"}
+,{"time":"14:58","usr":"OptionsTrader31","txt":"$WYNN 130s $LVS 57.5s $NFLX 110s $FDX 95s $VMW 110s $CMI 130s $LULU 75s $AMZN 185s Few volatile names to watch tomorrow for cheap call specs","lbl":"Positive"}
+,{"time":"14:59","usr":"RoccoPendola","txt":"Make the short case for $AMZN, $CMG, $LULU, but DON\u0027T say they\u0027re \u0022overvalued.\u0022 http://t.co/heLIJ7CR","lbl":"Negative"}
+,{"time":"14:59","usr":"BlueFielder","txt":"$AMZN woosh","lbl":"Positive"}
+]

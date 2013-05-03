@@ -1,0 +1,6 @@
+[
+{"time":"7:01","usr":"ToddSullivan","txt":"Google-Motorola working on new flagship \u2018X Phone\u2019 to take on iPhone 5 http://t.co/e6TpcCON $GOOG $AAPL","lbl":"Positive"}
+,{"time":"8:36","usr":"tkuz4u","txt":"RT @SAI: Google And Motorola Are Working On A Top-Secret \u0027X Phone\u0027 To Beat The iPhone $GOOG http://t.co/Z5cHi7bv","lbl":"Positive"}
+,{"time":"10:59","usr":"RichardWilks","txt":"More reason to buy $goog as if any is needed. Did Motorola Mobility Only Cost #Google $1.5 Billion? http://t.co/qzgjyE7a via @zite","lbl":"Positive"}
+,{"time":"21:07","usr":"ChusnulUmami","txt":"Google Just Launched Another Killer App On iPhone $GOOG $AAPL by @stevekovach http://t.co/yVrUhzfp","lbl":"Positive"}
+]

@@ -1,0 +1,45 @@
+[
+{"time":"1:38","usr":"kindageeky","txt":"RT @SeekingAlpha: Confidence Is Waning http://t.co/LHHvDo96 $AMZN $SPY $STT $XRT $ZNGA $XLY","lbl":"Negative"}
+,{"time":"5:26","usr":"Nils1975","txt":"Bofa always behind the curve, ups $AMZN $ZNGA, cuts $CELG","lbl":"Positive"}
+,{"time":"5:29","usr":"HedgeyeRetail","txt":"Surprised not more $AMZN upgrades. Oh wait a minute...41 analysts, there\u0027s only 1 Sell.","lbl":"Positive"}
+,{"time":"6:39","usr":"bored2tears","txt":"BofA-Merrill, Benchmark, Nomura, SunTrust upgrade and/or raise targets on Amazon after #earnings. $AMZN +14.62% premarket at 224.65 #stocks","lbl":"Positive"}
+,{"time":"6:40","usr":"craigBrownTech","txt":"$AMZN flies in Q1, http://t.co/tcURpRya via @BloombergNews | #Cloud #tablet, AMZN is positioned amazing well","lbl":"Positive"}
+,{"time":"7:08","usr":"TraderFlorida","txt":"@NetHawkesworth no $AMZN wants to go higher","lbl":"Positive"}
+,{"time":"7:08","usr":"jamielissette","txt":"$amzn AMZN- GS upgrades to buy- $300 PT","lbl":"Positive"}
+,{"time":"7:09","usr":"Trending123","txt":"$AMZN Amazon upgraded to Buy from Neutral at Nomura","lbl":"Positive"}
+,{"time":"7:09","usr":"Trending123","txt":"$AMZN Amazon upgraded to Buy from Neutral at BofA/Merrill","lbl":"Positive"}
+,{"time":"7:29","usr":"Ktr8der","txt":"\u201C@ReformedBroker: Morgan upgrades $AMZN for \u0022clients who own time machines and can get long on 4/26\u0022\u201D///LMAO","lbl":"Positive"}
+,{"time":"8:03","usr":"boseyjones","txt":"Bears stuck on $AMZN valuation. The market has proven time & time again that it does not care.","lbl":"Positive"}
+,{"time":"8:08","usr":"KenShreve","txt":"$AMZN a broken stock before today -- about to become unbroken","lbl":"Positive"}
+,{"time":"8:15","usr":"spanishNY","txt":"RT @BloombergTV: Top Headlines: Spain Downgrade, $SBUX Down, Kindle Fire Drives http://t.co/eeVxHama http://t.co/RCQkSOZd $AMZN","lbl":"Positive"}
+,{"time":"8:25","usr":"YahooFinance","txt":"Amazon soars as digital sales boost margins http://t.co/SGXyqS9w $AMZN","lbl":"Positive"}
+,{"time":"8:25","usr":"peterhorvath","txt":"$AMZN up 35, calling it to tear past $AAPL point gain today. More interested in $WDC and $ZNGA bounce. $AMZN manipulation makes me nervous.","lbl":"Negative"}
+,{"time":"8:25","usr":"TraderJive","txt":"$AMZN $$ I love the analysts. This stock was left for dead w/ declining margins, now on a big beat the stock gets upgraded across the board.","lbl":"Positive"}
+,{"time":"8:33","usr":"SperlsT3Live","txt":"My T3Live Morning Call today http://t.co/pkFKXWAg Strong Batch of Earnings Send Future Higher $SPY $AMZN $EXPE $GLD","lbl":"Positive"}
+,{"time":"8:34","usr":"Lowtown21","txt":"all out $AMZN +39k, boo ya","lbl":"Negative"}
+,{"time":"8:45","usr":"brandonromanek","txt":"$AMZN is cheap even after this pop.","lbl":"Positive"}
+,{"time":"8:46","usr":"wsmco","txt":"Bought to cover $AMZN 175 puts at .01 for plus .94 /contract. but presently down about 4.00/contract in 220 calls sold.","lbl":"Positive"}
+,{"time":"9:10","usr":"Stock_trader808","txt":"$AMZN easy double on $220 puts. Thanks","lbl":"Negative"}
+,{"time":"9:11","usr":"sbmiller5","txt":"$amzn - making my hangover way more fun right now...","lbl":"Positive"}
+,{"time":"9:27","usr":"DontTakeLosses","txt":"RT @ivanhoff: $V and $MA at another all-time high on the back of strong online sales growth in $AMZN","lbl":"Positive"}
+,{"time":"9:28","usr":"nfellers","txt":"Wow $AMZN SURGING this morning. Up 14% on earnings.","lbl":"Positive"}
+,{"time":"9:50","usr":"61point8","txt":"$AMZN > Can\u0027t confirm the end of wave b. Can extend to 219. That\u0027s why I\u0027m not day-trading it. May calls. http://t.co/TH2YSczp","lbl":"Positive"}
+,{"time":"10:24","usr":"panda317","txt":"RT @stockhaven: $AMZN on pace for highest volume up day since October 2009 just a fyi","lbl":"Positive"}
+,{"time":"10:25","usr":"ManijehM","txt":"back in $AMZN puts","lbl":"Negative"}
+,{"time":"11:07","usr":"americos","txt":"I love you Amazon! $AMZN goes up 15%","lbl":"Positive"}
+,{"time":"11:26","usr":"TropicCapital_","txt":"$AMZN seeing more short covering than real buying","lbl":"Negative"}
+,{"time":"12:06","usr":"StockPicksPro","txt":"$AMZN - huge! Runaway gap.","lbl":"Positive"}
+,{"time":"12:36","usr":"ammmir","txt":"great call on an $AMZN call, doubled my money, yeeuh! but now gotta wait for a dip to get back in :|","lbl":"Positive"}
+,{"time":"13:03","usr":"thinkingtrades","txt":"RT @ManukStocks Short $AMZN, but i\u0027m the same that was Long on $CSTR --- lol","lbl":"Negative"}
+,{"time":"13:27","usr":"thinkingtrades","txt":"My kindle fire experience was the only reason I kept some $AMZN over the earnings. Usually don\u0027t keep anything over the earnings.","lbl":"Positive"}
+,{"time":"13:27","usr":"markbilly8","txt":"RT @jimcramer: Let\u0027s Not Go Crazy About Amazon\u0027s Earnings http://t.co/zPcXjRU4 by @marekfuchs $AMZN","lbl":"Negative"}
+,{"time":"13:50","usr":"ChrisONeill2","txt":"holding off on $amzn short, market is on the slow crawl to highs this year","lbl":"Positive"}
+,{"time":"14:26","usr":"MrTimRy","txt":"Locked-in some nice $$$ profs on $AMZN going into weekend, will buy more @ $210 on gap-fill.","lbl":"Positive"}
+,{"time":"15:07","usr":"akamai6","txt":"Sold some $amzn $ew $ko $jwn $wynn","lbl":"Negative"}
+,{"time":"15:47","usr":"VinayKumar979","txt":"RT @BUDDIEE18 $RAX - earnings May 7 - #2 Cloud Computing co. - #1 is $AMZN -- & u know this one turned out, no? http://t.co/ZPEVy4Pq","lbl":"Positive"}
+,{"time":"17:02","usr":"iamnafets","txt":"Good day for my present and former employers: $AMZN and $EXPE both up big today.","lbl":"Positive"}
+,{"time":"18:20","usr":"TheStreet","txt":"Let\u0027s Not Go Crazy About Amazon\u0027s Earnings http://t.co/lZcODQO7 by @marekfuchs $AMZN","lbl":"Negative"}
+,{"time":"19:57","usr":"v_stktrdr","txt":"nO, Cramer said too pricey:\u201C@vid_e: RT @jimcramer: @DemiReichart $AAPL\u0027s digesting a big move. It\u0027s fine. $AMZN will do the same next week.\u201D","lbl":"Positive"}
+,{"time":"19:59","usr":"v_stktrdr","txt":"RT @geckobird: It is just a matter of time before Amazon $AMZN has to charge sales tax everywhere. http://t.co/yoqLexLg via @reuters","lbl":"Negative"}
+,{"time":"23:50","usr":"rekko31","txt":"$AMZN chart from earnings beat today. Use as a roadmap to trade. http://t.co/HCisaww5","lbl":"Negative"}
+]

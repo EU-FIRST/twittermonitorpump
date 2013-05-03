@@ -1,0 +1,6 @@
+[
+{"time":"6:49","usr":"HTTOS","txt":"My last positions in $AMZN & $AAPL $89 & $96 respectively. If I\u0027d had held through all the crap wouldn\u0027t have to trade this summer. Nice.","lbl":"Positive"}
+,{"time":"7:13","usr":"scalamai","txt":"Why the Amazon Naysayers Should Be Scared - Businessweek http://t.co/oExycHWp $AMZN","lbl":"Positive"}
+,{"time":"19:03","usr":"big3mkt","txt":"$AMZN Amazon agrees on Texas sales tax - MarketWatch http://t.co/kHX2vXbl via @MarketWatch // Amazon loses advantage in Texas","lbl":"Negative"}
+,{"time":"19:04","usr":"v_stktrdr","txt":"RT @big3mkt: $AMZN Amazon agrees on Texas sales tax - MarketWatch http://t.co/kHX2vXbl via @MarketWatch // Amazon loses advantage in Texas","lbl":"Negative"}
+]

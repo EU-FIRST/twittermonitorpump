@@ -1,0 +1,13 @@
+[
+{"time":"10:26","usr":"go2sheth","txt":"RT @SAI: Android Tablet Sales Stink, And Google\u0027s Awkward Embrace Of Motorola Isn\u0027t Going To Help $GOOG by @mattlynley http://t.co/nvB4qMMo","lbl":"Negative"}
+,{"time":"10:27","usr":"beenswank","txt":"RT @SAI: Android Tablet Sales Stink, And Google\u0027s Awkward Embrace Of Motorola Isn\u0027t Going To Help $GOOG by @mattlynley http://t.co/2Q4IStrF","lbl":"Negative"}
+,{"time":"11:24","usr":"MogulAzam","txt":"RT @FierceBiotech: Roche getting entire workforce to use Google Apps http://t.co/wBoWGjJu $RHHBY $GOOG","lbl":"Positive"}
+,{"time":"11:25","usr":"MrHeardBusiness","txt":"RT @businessinsider: Android Tablet Sales Stink, And Google\u0027s Awkward Embrace Of Motorola Isn\u0027t Going To Help $GOOG by @mattlynley http://t.co/ghe4UcxD","lbl":"Negative"}
+,{"time":"12:30","usr":"_nat","txt":"RT @SAI: Google\u0027s Own \u0027About Page\u0027 Reveals How Far The Company Has Strayed From Its \u0027Core Principals\u0027 $GOOG by @mattlynley http://t.co/cQOFKudc","lbl":"Negative"}
+,{"time":"12:30","usr":"MassageBucks","txt":"RT @SAI: Google\u0027s Own \u0027About Page\u0027 Reveals How Far The Company Has Strayed From Its \u0027Core Principals\u0027 $GOOG by @mattlynley http://t.co/cQOFKudc","lbl":"Negative"}
+,{"time":"13:30","usr":"CanBirsay","txt":"RT @SAI: Here\u0027s How Facebook Is Bypassing Google For Mobile Apps $GOOG $FB by @MattRosoff http://t.co/c2I2AF8U","lbl":"Negative"}
+,{"time":"13:32","usr":"offtheroad","txt":"RT @SAI: Here\u0027s How Facebook Is Bypassing Google For Mobile Apps $GOOG $FB by @MattRosoff http://t.co/um1w2ECZ","lbl":"Negative"}
+,{"time":"14:48","usr":"terranovajoe","txt":"Holding Long $IBM $MCD $EMC $OXY $LQD vs the only short I have $GOOG","lbl":"Negative"}
+,{"time":"20:10","usr":"haplesswisdom","txt":"RT @SAI: Google Is Hiring Engineers To Test Its Self-Driving Cars $GOOG by @MattRosoff http://t.co/IK4rmZBe","lbl":"Positive"}
+,{"time":"20:10","usr":"chrishar00","txt":"RT @JackDamn: Facebook users spend 405 minutes/month on site. Google+ users? 3 minutes. http://t.co/TgZ2RDk4 $GOOG $FB","lbl":"Negative"}
+]

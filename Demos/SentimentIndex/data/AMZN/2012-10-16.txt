@@ -1,0 +1,27 @@
+[
+{"time":"8:26","usr":"biggercapital","txt":"@RoccoPendola gr8 post on $AAPL + $P IMO the big innovations are comg on the services side. $AMZN is in knee deep. Devices not enough","lbl":"Negative"}
+,{"time":"9:04","usr":"traderstewie","txt":"RT @ZorTrades: $AAPL $GOOG $AMZN $NFLX have yet to receive the rally memo","lbl":"Positive"}
+,{"time":"9:41","usr":"tulipmania1636","txt":"RT @ppprophet: SELL $AMZN The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
+,{"time":"10:51","usr":"emha705","txt":"RT @FoxBusiness: Amazon plans to hire more than 50,000 holiday workers this year and keep thousands on as full-time employees http://t.co/2Up2Pgan $AMZN","lbl":"Positive"}
+,{"time":"10:51","usr":"septcandy","txt":"RT @FoxBusiness: Amazon plans to hire more than 50,000 holiday workers this year and keep thousands on as full-time employees http://t.co/2Up2Pgan $AMZN","lbl":"Positive"}
+,{"time":"10:51","usr":"Swake183","txt":"Long $AAPL Nov cals and $AMZN","lbl":"Positive"}
+,{"time":"11:28","usr":"AllAccessNow","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/8hhlOvhv $AMZN","lbl":"Positive"}
+,{"time":"11:28","usr":"flipboardbiz","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
+,{"time":"11:28","usr":"Judith_Kirby","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
+,{"time":"11:28","usr":"roseravasio","txt":"\u201C@Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/t30v3UJS $AMZN\u201D. Wow.","lbl":"Positive"}
+,{"time":"11:36","usr":"iokijo","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
+,{"time":"11:36","usr":"fabianramirez52","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
+,{"time":"11:37","usr":"ArdavanH","txt":"#Apple\u2019s iPad Mini invitations are out. Watch for the lower end to go after Kindle\u2019s market. $AAPL $AMZN http://t.co/9CSyvJgo","lbl":"Negative"}
+,{"time":"11:59","usr":"xigi_holm","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
+,{"time":"12:01","usr":"wallstCS","txt":"Microsoft Makes Final Preparations to Enter Tablet War http://t.co/2MhplXsb $MSFT $AAPL $BKS $AMZN $GOOG $SPY $QQQ $DIA","lbl":"Negative"}
+,{"time":"12:28","usr":"angiesrealty","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
+,{"time":"12:29","usr":"IBeljan","txt":"Sold $AMZN at 1.43 profit. Upping my cash position to 60%.","lbl":"Negative"}
+,{"time":"13:36","usr":"tlmontana","txt":"RT @HarryWanger: @WatermanLXXIII @tlmontana And $AMZN looking really weak right here. <-- Went Neutral On AMZN Y\u0027day.. Lost 250 and held","lbl":"Negative"}
+,{"time":"13:37","usr":"WatermanLXXIII","txt":"@tlmontana @HarryWanger $AMZN, the worst from top ten of $NDX, i think... And remember that top 5 is ~ 60% of the index, which has 100 stcks","lbl":"Negative"}
+,{"time":"13:38","usr":"zabackj","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/UjrBQ2Gj $AMZN","lbl":"Positive"}
+,{"time":"14:30","usr":"GaVaHokie","txt":"@herbgreenberg It\u0027s going to be a mess considering multiple vendors on $AMZN. What\u0027s an acceptable price match?","lbl":"Negative"}
+,{"time":"14:31","usr":"Implosion1","txt":"One of these days, I\u0027m gonna write some naked $AMZN calls. No way is it really worth $250. #Enrazon","lbl":"Negative"}
+,{"time":"15:00","usr":"HarryWanger","txt":"$AMZN Nice sell off into close. Incredibly unimpressive day","lbl":"Negative"}
+,{"time":"17:31","usr":"JayBeckner","txt":"@bpgag Actually, the $AMZN Kindle is proven more popular with women, but the $AAPL iPad mini could change that.","lbl":"Negative"}
+,{"time":"18:55","usr":"antoniobarbudo","txt":"RT @SAI: These Amazing World Maps Show Where Apple\u0027s Beating Google, Amazon, And Microsoft $AAPL $GOOG $AMZN $MSFT http://t.co/iVa6jZyT","lbl":"Negative"}
+]

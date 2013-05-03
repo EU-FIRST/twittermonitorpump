@@ -1,0 +1,11 @@
+[
+{"time":"8:52","usr":"thefinancepress","txt":"$GOOG Facebook\u0027s Zuckerberg Admires Amazon, Apple, Google, WSJ Says: Facebook\u0027s Zuckerberg Admires Amazon, Appl... http://t.co/hU7xK4h7","lbl":"Positive"}
+,{"time":"14:02","usr":"TrendRida","txt":"\u0022This is what happens when you tell your entire staff that your salary depends on winning in social.\u0022 $GOOG http://t.co/mEIHtxHb","lbl":"Negative"}
+,{"time":"18:02","usr":"AlfredoNarvaez","txt":"RT @businessinsider: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/no4LjF1D","lbl":"Negative"}
+,{"time":"18:03","usr":"OgFOMK","txt":"\u0022@YahooFinance: FTC expands Google antitrust probe: source http://t.co/QJFiUOEZ\u0022 $$goog","lbl":"Negative"}
+,{"time":"18:05","usr":"iamironman4","txt":"RT @SAI: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/nKcLjxlu","lbl":"Negative"}
+,{"time":"20:04","usr":"Drawn_Closer","txt":"RT @businessinsider: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/ZVbM1wmb","lbl":"Negative"}
+,{"time":"20:04","usr":"stocklist21","txt":"$GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/6itoYDMf","lbl":"Positive"}
+,{"time":"20:13","usr":"jborrego","txt":"RT @businessinsider: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/iecOp0QM","lbl":"Negative"}
+,{"time":"20:13","usr":"OptionsTrader82","txt":"RT @stocklist21: $GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/DR18weZs","lbl":"Positive"}
+]

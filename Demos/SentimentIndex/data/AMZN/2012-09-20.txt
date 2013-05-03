@@ -1,0 +1,18 @@
+[
+{"time":"4:14","usr":"cordial","txt":"Weak online sales in the UK may effect $AMZN revenue this Q. http://t.co/XLeKRoas","lbl":"Negative"}
+,{"time":"10:40","usr":"RobertWeinstein","txt":"$WMT to stop selling $AMZN kindle products. Amazon falling","lbl":"Negative"}
+,{"time":"10:41","usr":"GEQSense","txt":"Within a nanosecond, that\u0027s 1 x 10^-9 seconds, $AMZN plunged like ... I\u0027m out of bad analogies. But it plunged. $$ haha","lbl":"Negative"}
+,{"time":"10:41","usr":"CapCube","txt":"$amzn breaking down a little ... 300 + P/E makes algos nervous ??","lbl":"Negative"}
+,{"time":"10:57","usr":"SAI","txt":"BII REPORT: Here\u0027 s How Amazon Is Creating A Huge Mobile Business $AMZN http://t.co/h4sD8NtH","lbl":"Positive"}
+,{"time":"10:57","usr":"JulioBautistaB","txt":"RT @YahooFinance: Reuters report: $WMT to stop selling $AMZN #Kindle products. Details to come.","lbl":"Negative"}
+,{"time":"10:58","usr":"takingstock614","txt":"Walmart to stop selling all $AMZN kindles. Lets see how it reacts.","lbl":"Negative"}
+,{"time":"11:06","usr":"Fuelnu","txt":"RT @YahooFinance: Reuters report: $WMT to stop selling $AMZN #Kindle products. Details to come.","lbl":"Negative"}
+,{"time":"11:06","usr":"badjerry","txt":"RT @businessinsider: BII REPORT: Here\u0027 s How Amazon Is Creating A Huge Mobile Business $AMZN http://t.co/dqEKhfoq","lbl":"Positive"}
+,{"time":"11:27","usr":"rechtsteiner","txt":"Boom! $WMT to stop selling $AMZN\u0027s Kindle lineup. http://t.co/RXiyLnGi The ecom game is officially on.","lbl":"Negative"}
+,{"time":"11:51","usr":"DaveCV100","txt":"RT @firstadopter: So $WMT and $TGT basically declaring war on $AMZN + $AAPL and $BKS declaring price war on ebooks w/AMZN. Game on!","lbl":"Negative"}
+,{"time":"11:52","usr":"TaintedAlpha","txt":"RT @firstadopter: So $WMT and $TGT basically declaring war on $AMZN + $AAPL and $BKS declaring price war on ebooks w/AMZN. Game on!","lbl":"Negative"}
+,{"time":"12:46","usr":"JustinPerez1057","txt":"@jimcramer $AMZN too hot here at 260?","lbl":"Negative"}
+,{"time":"13:59","usr":"bluser12","txt":"@smartertrader I meant that in the next hour or so. I\u0027m thinking all time highs next week. $AAPL $AMZN have had them already. $GOOG next.","lbl":"Negative"}
+,{"time":"18:43","usr":"RealDividendLab","txt":"RT @Lawndale1: http://t.co/s1sQgaoQ Sky signs exclusive movie deal with Warner Bros, beating Netflix and Lovefilm $TWX $NFLX $AMZN","lbl":"Negative"}
+,{"time":"18:44","usr":"TraderLantern","txt":"$AMZN - Walmart to stop selling Amazon\u2019s Kindle: http://t.co/5plZkPtM","lbl":"Negative"}
+]

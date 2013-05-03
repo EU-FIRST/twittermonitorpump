@@ -1,0 +1,39 @@
+[
+{"time":"0:51","usr":"gtotoy","txt":"RT @sspencer_smb all the long suffering Iphone users just got $GOOG maps back!! http://t.co/G56m814l $AAPL","lbl":"Positive"}
+,{"time":"4:31","usr":"ccastellano78","txt":"RT @WorldOfCEOs: It\u0027s here. Google Maps for iPhone. http://t.co/mjnztqXi Call us old-fashioned but we much preferred classic Apple version using $GOOG data","lbl":"Positive"}
+,{"time":"8:01","usr":"upsidetrader","txt":"$GOOG over yesterdays high and 50 dma in pre market, watch this one today","lbl":"Positive"}
+,{"time":"8:21","usr":"CNNMoneyTech","txt":"RT @LaMonicaBuzz: Huge shock. $GOOG\u0027s new iOS map is number one free app in $AAPL\u0027s App Store. Installing on my iPhone right now. Woo-hoo!","lbl":"Positive"}
+,{"time":"8:21","usr":"rightpi","txt":"RT @LaMonicaBuzz: Huge shock. $GOOG\u0027s new iOS map is number one free app in $AAPL\u0027s App Store. Installing on my iPhone right now. Woo-hoo!","lbl":"Positive"}
+,{"time":"8:39","usr":"Sangluccitrades","txt":"RT @Fitzstock2004: $aapl -7 and $goog +14 premarket","lbl":"Positive"}
+,{"time":"8:40","usr":"crichton18","txt":"RT @d_ramsden: Good to see $GOOG act like a visionary tech company & invest its cash rather than lazily send it back http://t.co/s20XGR38 $$","lbl":"Positive"}
+,{"time":"8:57","usr":"YoungMansMoney","txt":"RT @upsidetrader: $GOOG over yesterdays high and 50 dma in pre market, watch this one today","lbl":"Positive"}
+,{"time":"9:26","usr":"daytrader305","txt":"RT @z8angela: Now I\u0027m taking off for a while: don\u0027t buy at big gap ( like $GOOG); Be careful with shorting at big gap down ( $AAPL). Trade smart!","lbl":"Negative"}
+,{"time":"9:34","usr":"brentstromme","txt":"Google Maps Is Already The Number One App On iPhone $GOOG $AAPL by @stevekovach http://t.co/zHCTbOAP @businessinsider","lbl":"Positive"}
+,{"time":"9:34","usr":"ytaroda","txt":"RT @ScotFinnie: RT @richi: Google Maps for Apple iPhone 5 is really nice, say pundits ~ http://t.co/yGYKZrz9 ~ today\u0027s #ITBW by @richi $GOOG","lbl":"Positive"}
+,{"time":"10:12","usr":"TheAnlyst","txt":"RT @ReutersTV: Google maps now available as #iphone app. We compared $AAPL and $GOOG maps in this Sept. Street test. http://t.co/HRo7Jc0f","lbl":"Positive"}
+,{"time":"10:13","usr":"EvanMedeiros","txt":"short $AAPL and $GOOG here 534, 707.55 , risking a few pts on each","lbl":"Negative"}
+,{"time":"10:39","usr":"SAI_Tools","txt":"REVIEW: Google Hit A Home Run With Its iPhone Maps App $AAPL $GOOG by @jyarow http://t.co/Jz7LvasT","lbl":"Positive"}
+,{"time":"10:39","usr":"john_villegas","txt":"$GOOG JAN 13 705 CALL + 37% #trading","lbl":"Positive"}
+,{"time":"10:40","usr":"Sidman","txt":"RT @businessinsider: REVIEW: Google Hit A Home Run With Its iPhone Maps App $AAPL $GOOG by @jyarow http://t.co/uv00694T","lbl":"Positive"}
+,{"time":"10:55","usr":"pennystockguys","txt":"$GOOG - TECH STOCKS: Google Leads Tech Stocks Higher; Apple Slips http://t.co/tdIVZdsb","lbl":"Positive"}
+,{"time":"10:55","usr":"ADVFNplc","txt":"$GOOG - TECH STOCKS: Google Leads Tech Stocks Higher; Apple Slips http://t.co/PbGmivLc","lbl":"Positive"}
+,{"time":"10:55","usr":"LeonLau6","txt":"RT @businessinsider: Google Maps Is Already The Number One App On iPhone $GOOG $AAPL by @stevekovach http://t.co/0xspM5Gq","lbl":"Positive"}
+,{"time":"11:22","usr":"ryan_j415","txt":"RT @LaMonicaBuzz: Huge shock. $GOOG\u0027s new iOS map is number one free app in $AAPL\u0027s App Store. Installing on my iPhone right now. Woo-hoo!","lbl":"Positive"}
+,{"time":"11:42","usr":"danielngoodman","txt":"Google\u0027s Maps On The iPhone Are A Win For Everyone $GOOG $AAPL http://t.co/4T46VtM5","lbl":"Positive"}
+,{"time":"11:42","usr":"SAI","txt":"Google\u0027s Maps On The iPhone Are A Win For Everyone $GOOG $AAPL by @jyarow http://t.co/h1cRGS3X","lbl":"Positive"}
+,{"time":"12:09","usr":"racernic","txt":"intraday $goog setting lower highs","lbl":"Negative"}
+,{"time":"12:09","usr":"garrioharrison","txt":"RT @SAI: Google\u0027s Maps On The iPhone Are A Win For Everyone $GOOG $AAPL by @jyarow http://t.co/h1cRGS3X","lbl":"Positive"}
+,{"time":"12:34","usr":"theHUNGRY__BEAR","txt":"RT @ppprophet: SELL $GOOG The Market will Crash .... .#DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
+,{"time":"12:55","usr":"optionguru","txt":"@z8angela $goog can soar to $800 it is true http://t.co/X7JcLwnW","lbl":"Positive"}
+,{"time":"13:30","usr":"StockMarket411","txt":"5 reasons Google has its mojo back $goog http://t.co/9UA78m1c goog, google, google stock, news","lbl":"Positive"}
+,{"time":"13:30","usr":"StockMarket411","txt":"5 reasons why Google has its mojo back $goog http://t.co/iHWoo3vw goog, google, google stock, news","lbl":"Positive"}
+,{"time":"13:30","usr":"TomTomNguyen","txt":"$GOOG nice looking chart. http://t.co/6OC87S65","lbl":"Positive"}
+,{"time":"14:35","usr":"tradethembi","txt":"$GOOG 78 min resolved the short as expected and is moving back up per new 10 min signals. http://t.co/yIXdjZXS","lbl":"Positive"}
+,{"time":"15:17","usr":"treysdubya","txt":"$GOOG headed for red close -- $AAPL 520 coming soon as well...prob gap down there tomorrow.","lbl":"Negative"}
+,{"time":"15:36","usr":"lmarumahoko","txt":"Interesting take on the Maps Saga... \u0022Will Google Maps take a billion-dollar bite out of Apple? http://t.co/AUYu0bnS $AAPL $GOOG\u0022","lbl":"Positive"}
+,{"time":"15:59","usr":"jdells06","txt":"Schmidt saying $goog has won smart phone is like Chevy saying it has won the car war over Lexus bc they sold more Funny. $aapl","lbl":"Negative"}
+,{"time":"17:30","usr":"DCaptura","txt":"\u0022MT @ForbesTech: Google proves once again that it has the best maps. http://t.co/txWxumb5\u0022 And $AAPL forces $GOOG to add turn-by-turn iPhone","lbl":"Positive"}
+,{"time":"18:31","usr":"BoomerPJ","txt":"RT @MarketWatch: $GOOG and $AAPL were among the top trending tickers on Thursday http://t.co/59D6RTF2","lbl":"Positive"}
+,{"time":"18:34","usr":"JamesPhenom","txt":"Still holding $ALXA for daytrading, $REGN, and $GILD along with $GOOG. Carry along Plebs","lbl":"Positive"}
+,{"time":"21:41","usr":"MikeSmithMedia","txt":"RT @TheStreet: Google Maps Is Back! Sorry $AAPL http://t.co/apFG4Wp4 $GOOG via @GaryKrakow","lbl":"Positive"}
+]

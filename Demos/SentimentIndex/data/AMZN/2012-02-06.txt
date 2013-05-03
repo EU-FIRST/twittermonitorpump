@@ -1,0 +1,14 @@
+[
+{"time":"4:50","usr":"halifaxbroker","txt":"Top traded international #stocks in January - Apple $APPL, Amazon $AMZN, Bank of America $BAC, Iberdrola $IBE1 and Thq Inc. $THQI","lbl":"Positive"}
+,{"time":"8:28","usr":"ari_elul","txt":"WTF of the day RT \u201C@firstadopter: Report that $AMZN in process of launching a retail store: http://t.co/r5OdhoZ0\u201D","lbl":"Positive"}
+,{"time":"9:46","usr":"leopardtrader","txt":"Great $ neutral pairtrade setup selling $AAPL and buying $AMZN at the current levels $SPX","lbl":"Positive"}
+,{"time":"9:47","usr":"Kas_1","txt":"@HithaPrabhakar tax implications could be big for $AMZN","lbl":"Negative"}
+,{"time":"11:59","usr":"QUIKTDR","txt":"$AMZN 184.31 -3.37 consolidating around 50, 100 200 looks close to = buy if it can move out of tight range","lbl":"Positive"}
+,{"time":"14:04","usr":"MParekh","txt":"Full Circle: \u0022Amazon in the Process of Launching a Retail Store\u0022 http://t.co/d5HakjZo #Innovation #Internet $AMZN $$","lbl":"Positive"}
+,{"time":"14:07","usr":"hessepartners","txt":"Not needed. RT @MParekh Full Circle: \u0022Amazon in the Process of Launching a Retail Store\u0022 http://t.co/zsc08zga #Innovation #Internet $AMZN $$","lbl":"Negative"}
+,{"time":"15:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:47pm: 183.75 -3.93 (-2.09%).","lbl":"Negative"}
+,{"time":"15:02","usr":"outlawz616","txt":"The $AMZN refurbished Amazon Kindle Fire is almost like new because people tried it once and returned it. http://t.co/7Nk8ujMq","lbl":"Positive"}
+,{"time":"19:14","usr":"MG_Miller","txt":"Jeff Bezos lost $400 million on paper today as $AMZN dropped 2.4%. Media report company may be interested in entering mobile gaming.","lbl":"Negative"}
+,{"time":"22:37","usr":"zachlendon","txt":"@ahansen1 @cpuzder $AMZN can do lots of stuff with retail - here\u0027s a few thoughts (in a crappy overall post): http://t.co/9ZpWCAxR.","lbl":"Positive"}
+,{"time":"22:43","usr":"LAnzelone","txt":"RT @BloombergNews: Amazon taking its services offline | http://t.co/wrO5HUwk $AMZN","lbl":"Negative"}
+]

@@ -1,0 +1,10 @@
+[
+{"time":"0:21","usr":"markfuccio","txt":"$GOOG\u0027s wrong against $AAPL stems from Eric Schmidt on the board spying. Who thinks he violated his fiduciary duty to AAPL shareholders?","lbl":"Negative"}
+,{"time":"6:59","usr":"TxbetaZesty","txt":"LULH! MT @SAI @jyarow \u0022#SCOBLE: I\u0027m Still Not Exactly Sure What #Google+ Is Trying To Be $GOOG by @jyarow http://t.co/7H2GmDjZ \u0022","lbl":"Negative"}
+,{"time":"9:02","usr":"ADVFNplc","txt":"$GOOG - SUBSCRIBERS: Apple Asian Mass Production Plans Already Reported http://t.co/4ILnFZkY","lbl":"Positive"}
+,{"time":"9:17","usr":"macropterous","txt":"Dear $GOOG (@google), Why are you taking my iGoogle away? http://t.co/aXyIpWZR Please reconsider.","lbl":"Negative"}
+,{"time":"10:30","usr":"jlankinen","txt":"RT @SAI: SCOBLE: I\u0027m Still Not Exactly Sure What Google+ Is Trying To Be $GOOG by @jyarow http://t.co/1dOjoac3","lbl":"Negative"}
+,{"time":"13:39","usr":"OptionsTrader82","txt":"RT @USwwwStocks: $GOOG News: Google Retaliates by Removing Nexus from Play Store http://t.co/nBOzPSid #GOOG #From #Google","lbl":"Negative"}
+,{"time":"13:40","usr":"thefinancepress","txt":"$GOOG Google Retaliates by Removing Nexus from Play Store: Google Retaliates by Removing Nexus from Play Store ... http://t.co/DkR7rrzj","lbl":"Negative"}
+,{"time":"21:53","usr":"ValaAfshar","txt":"If it [Google] truly wants to emulate Apple, it should minimize confusion, not foster it. http://t.co/LiHggUux @alexia $GOOG","lbl":"Negative"}
+]

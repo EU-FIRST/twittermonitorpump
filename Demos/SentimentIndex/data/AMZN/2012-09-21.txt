@@ -1,0 +1,9 @@
+[
+{"time":"8:13","usr":"Mark4124NH","txt":"RT @takingstock614: Nice tone this morning across mrkts. $AAPL $GOOG $AMZN $FB $ERX $MLNX $GS $FAS $GRPN looking for upside here throug ...","lbl":"Positive"}
+,{"time":"10:20","usr":"DividendMaster","txt":"@jf40206 Do you really believe $120bln market cap $AMZN can justify 300+PE selling Kindles at a loss as its big growth driver? Seriously?","lbl":"Negative"}
+,{"time":"10:21","usr":"FloridaJayhawk","txt":"RT @DividendMaster: @jf40206 Do you really believe $120bln market cap $AMZN can justify 300+PE selling Kindles at a loss as its big grow ...","lbl":"Negative"}
+,{"time":"14:57","usr":"paulwoll","txt":"There goes $AMZN below 257....","lbl":"Negative"}
+,{"time":"14:57","usr":"fakeCNBC","txt":"$AMZN free money Friday short for next week.","lbl":"Negative"}
+,{"time":"15:43","usr":"RoccoPendola","txt":"$AMZN Prime is incredible. Once again - shipped yesterday, here today.","lbl":"Positive"}
+,{"time":"19:55","usr":"nolte88","txt":"$AMZN https://t.co/j3ZxaP5l trending down, lower highs, watching this breakout area as next spot to hold (or break).","lbl":"Negative"}
+]

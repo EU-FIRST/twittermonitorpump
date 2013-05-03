@@ -1,0 +1,4 @@
+[
+{"time":"6:19","usr":"ChrisLove","txt":"RT @SAI: A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0BhSBybK","lbl":"Negative"}
+,{"time":"14:49","usr":"thefinancepress","txt":"$GOOG http://t.co/Bp1PYzNq, Inc.(NASDAQ:AMZN) Ditches Google Maps for Nokia (NOK): http://t.co/Bp1PYzNq, Inc.(NAS... http://t.co/D7Bn2UBX","lbl":"Negative"}
+]

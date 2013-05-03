@@ -1,0 +1,4 @@
+[
+{"time":"11:25","usr":"catskillfishing","txt":"@BrianStutland Re: $QQQ DEC put spr--> Not sure I agree since $AAPL selloff due to locking in gains in \u002712. $GOOG & $AMZN RSI / TRIX look ok","lbl":"Positive"}
+,{"time":"11:27","usr":"catskillfishing","txt":"@RiskReversal $QQQ DEC put spr--> Not sure I agree since $AAPL selloff due to locking in gains in \u002712. $GOOG & $AMZN RSI / TRIX look ok.","lbl":"Positive"}
+]

@@ -1,0 +1,32 @@
+[
+{"time":"7:23","usr":"petergo99037185","txt":"$USD 79.64 - 0.05 $DAX is +0.81%, OIL +0.09 EURO +0.0015, YEN + 0.27 , $AAPL +3, $GOOG -1.35 , OIL just turn negative, need plus big","lbl":"Negative"}
+,{"time":"7:25","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Dragged into Infringement Battle By Microsoft ...: Google Inc. (NASDAQ:GOOG) Dr... http://t.co/9jOQKx85","lbl":"Negative"}
+,{"time":"8:23","usr":"BlueFielder","txt":"Watching $GooG this morning . Possible SHORT - Also $LuLu for a daytrade (bullish) - See nothing in $AAPL that says \u0027Go long \u0027 .... yet","lbl":"Negative"}
+,{"time":"8:24","usr":"abdogman","txt":"RT @BlueFielder: Watching $GooG this morning . Possible SHORT - Also $LuLu for a daytrade (bullish) - See nothing in $AAPL that says \u0027Go long \u0027 .... yet","lbl":"Negative"}
+,{"time":"8:51","usr":"RedDogT3Live","txt":"Done with $GOOG short. Purely tactical. Those on the vtf and on my radio got a play by play.","lbl":"Positive"}
+,{"time":"9:15","usr":"petergo99037185","txt":"$GOOG -7.84, $AAPL negative just now, expect worse...","lbl":"Negative"}
+,{"time":"9:16","usr":"BlueFielder","txt":"$GooG .... about to hit a hole near 735.40","lbl":"Negative"}
+,{"time":"9:30","usr":"jojaifra_","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
+,{"time":"9:30","usr":"irsbygod","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
+,{"time":"9:50","usr":"CreateCapital","txt":"Primary breakout in $GOOG is near 710","lbl":"Positive"}
+,{"time":"9:50","usr":"AnnaloveSamuel","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
+,{"time":"10:07","usr":"RIPng","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
+,{"time":"10:07","usr":"blackmarkt","txt":"trying a starter long in $GOOG around 730","lbl":"Positive"}
+,{"time":"10:26","usr":"Jonah168","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/ricYK0IE $GOOG","lbl":"Negative"}
+,{"time":"10:26","usr":"GOOGLE_INFOS","txt":"EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/PHpbjIFP $GOOG RT Reuters #Google","lbl":"Negative"}
+,{"time":"10:26","usr":"Bluechiptrend","txt":"Looking to add to my short $GOOG at $735.19 and stop at $737.56","lbl":"Negative"}
+,{"time":"10:26","usr":"bobinvienne","txt":"EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/8tRBJJV9 $GOOG","lbl":"Negative"}
+,{"time":"10:45","usr":"wesmodo","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/ricYK0IE $GOOG","lbl":"Negative"}
+,{"time":"10:45","usr":"mgreco84","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/5wwAkAXz $GOOG","lbl":"Negative"}
+,{"time":"10:46","usr":"petergo99037185","txt":"$AAPL SLEEPS, $GOOG -8, it\u0027s about earnings and court reversals, $spx=push.","lbl":"Negative"}
+,{"time":"11:10","usr":"bancadadeleao","txt":"RT @SAI_Tools: People Prefer Google Maps To Apple Maps By A 2-To-1 Ratio $AAPL $GOOG by @jyarow http://t.co/toxMmBti","lbl":"Positive"}
+,{"time":"11:41","usr":"DeidreZune","txt":"$GOOG being sold on fears of antitrust investigations to come in US and ongoing in EU. Still resilient -- down only 3-4% from highs","lbl":"Negative"}
+,{"time":"12:18","usr":"AkaFitzkes","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
+,{"time":"12:24","usr":"AkaFitzkes","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/ricYK0IE $GOOG","lbl":"Negative"}
+,{"time":"12:59","usr":"tuija","txt":"EU:n tietosuojav\u00E4ki \u00E4r\u00E4hti Googlelle \u201C@Karde: EU data protection authorities found legal problems http://t.co/E07kXrMy $GOOG\u201D","lbl":"Negative"}
+,{"time":"13:28","usr":"ankur_ram","txt":"RT @businessinsider: 9 Apple Mobile Features That Will Make You Want To Quit Android Forever $AAPL $GOOG by @_dtl http://t.co/93DOyd6j","lbl":"Negative"}
+,{"time":"14:10","usr":"yeahforeal","txt":"LOL: #FBI issues Android warning http://t.co/zMmtBv0c $GOOG < $AAPL","lbl":"Negative"}
+,{"time":"14:11","usr":"TraderPlanet","txt":"Google reports Thursday after the close. Is a retreat to $710 in the cards? $QQQ $EBAY $GOOG $INTC http://t.co/1layX0nS","lbl":"Negative"}
+,{"time":"16:35","usr":"TasnimeM","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/ricYK0IE $GOOG","lbl":"Negative"}
+,{"time":"22:40","usr":"TraderLantern","txt":"$VRNG They got it right in 2004, ringtones were the future, not web search. Should be a strong fight against $GOOG.","lbl":"Negative"}
+]

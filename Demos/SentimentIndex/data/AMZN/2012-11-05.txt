@@ -1,0 +1,6 @@
+[
+{"time":"7:33","usr":"TrueMarketAI","txt":"Is $AMZN losing its competitive advantage? Rivals are getting tougher vs the No. 1 online seller... http://t.co/vNfKpyXt - @TJReazor #Stocks","lbl":"Negative"}
+,{"time":"7:41","usr":"stevecole99","txt":"@biggercapital $AMZN have decided to bring #Kindle Fire HD to UK market now. I must say, I\u0027m tempted. See what Santa brings","lbl":"Positive"}
+,{"time":"10:39","usr":"tlmontana","txt":"$AMZN Looking Okay","lbl":"Positive"}
+,{"time":"12:50","usr":"TheStreet","txt":"Amazon Gets a New Vote of Confidence - http://t.co/rPrC1eJB by @agara2004 $AMZN $AAPL $FB","lbl":"Positive"}
+]

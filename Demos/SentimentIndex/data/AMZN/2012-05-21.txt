@@ -1,0 +1,6 @@
+[
+{"time":"10:14","usr":"srisri55","txt":"My Puts didn\u0027t work. Out this morning for loss. Flipped into $AAPL & $AMZN calls. Bot a tiny $NFLX as well.","lbl":"Positive"}
+,{"time":"14:23","usr":"BigE_007","txt":"@TraderFlorida /Es nor $AAPL NOR $PCLN NOR $AMZN nor $GOOG seem to have the volume to send us higher right?","lbl":"Negative"}
+,{"time":"14:24","usr":"bored2tears","txt":"UK\u0027s Waterstones snubs Nook, will sell Kindles, ebooks in-store. http://t.co/c6QOQxMR $AMZN +2.13%, $BKS +1.88% #retail #stocks","lbl":"Positive"}
+,{"time":"14:48","usr":"Stackola24_7","txt":"$AMZN http://t.co/RgZag40W *30-min* interesting spot here. Went into a sideways channel intraday just below resistance.","lbl":"Negative"}
+]

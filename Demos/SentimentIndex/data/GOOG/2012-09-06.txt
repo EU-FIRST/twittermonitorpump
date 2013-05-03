@@ -1,0 +1,26 @@
+[
+{"time":"7:19","usr":"joemccann","txt":"Samsung Galaxy S3 sells 20MM units in 100 days. Wow. http://t.co/jGCbnWM5 $AAPL $GOOG","lbl":"Positive"}
+,{"time":"8:37","usr":"Jamtrades","txt":"$GOOG is very strong this morning","lbl":"Positive"}
+,{"time":"9:05","usr":"BrianDeDonato","txt":"Couldn\u0027t stay away from $GOOG - http://t.co/2FADAtNv","lbl":"Positive"}
+,{"time":"9:06","usr":"takingstock614","txt":"$GOOG wow.. holding.","lbl":"Positive"}
+,{"time":"9:21","usr":"canadadan","txt":"Out $GOOG SepWk1 685 Calls +3.50 ..no be greedy today!!! in and out..","lbl":"Negative"}
+,{"time":"9:21","usr":"BrianDeDonato","txt":"Out of all $GOOG +$1.5k http://t.co/zPBMZs7v","lbl":"Negative"}
+,{"time":"11:10","usr":"johansetia077","txt":"RT @Jamtrades: in $GOOG $690C $2.45","lbl":"Positive"}
+,{"time":"11:11","usr":"HitTheBidRadio","txt":"what do you do when everything is where you thought they be sooner that you thought? $SINA $APOL $WLT $SNTA $GOOG all longs all still good","lbl":"Positive"}
+,{"time":"12:37","usr":"nxtmillionair40","txt":"@srisri55 $GOOG on the move again, watch it","lbl":"Positive"}
+,{"time":"12:37","usr":"swamptrade","txt":"$GOOG slowly going up. 700 soon!","lbl":"Positive"}
+,{"time":"12:37","usr":"SpeedSixx2","txt":"$GOOG impressive but today i made money on $AAPL short at the open then long from 673.50, lost on $BIDU short, overall solid green day","lbl":"Positive"}
+,{"time":"12:50","usr":"Liquid_Trader","txt":"Watching $goog climb to 700 is like watching JAWS rise up to eat the swimmer.","lbl":"Positive"}
+,{"time":"13:01","usr":"takingstock614","txt":"Sold some $GOOG as we\u0027re not close to 700","lbl":"Negative"}
+,{"time":"13:10","usr":"Fitzstock2004","txt":"694-695 u can add to $goog","lbl":"Positive"}
+,{"time":"13:26","usr":"jarsch","txt":"Consumers win in tablet battle. $AMZN doing great bringing more features at a low price. Like to see Fire compared to Nexus 7 $GOOG $AAPL","lbl":"Negative"}
+,{"time":"13:58","usr":"aznboi27","txt":"$GOOG - look at that beauty! It\u0027s going above 700+ soon http://t.co/xyGevo1Z","lbl":"Positive"}
+,{"time":"14:08","usr":"MNYCx","txt":"Out $GOOG W705 C\u0027s @ 1.00 from .70, $SPY dipper here scaring me.","lbl":"Negative"}
+,{"time":"14:29","usr":"Jamtrades","txt":"upon $700 break, $GOOG will be all over the news.","lbl":"Positive"}
+,{"time":"14:49","usr":"SPEQL8R","txt":"For those who did not follow me be4; I was bullish on $GOOG since 558 & $AAPL been long since July until few wks ago. Way extended","lbl":"Positive"}
+,{"time":"15:34","usr":"jejernig","txt":"Made a killing on $goog today. Loving this work from home on Thursday\u0027s","lbl":"Positive"}
+,{"time":"15:34","usr":"navedsayyad","txt":"RT @SAI: Watch This Google Wallet Guy And Startup Founder Tear Each Other Apart Over Mobile Payments $GOOG by @owenthomas http://t.co/Pi ...","lbl":"Negative"}
+,{"time":"17:36","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Google\u0027s Arora: CEO Page Is \u0027Fine\u0027 and \u0027Very Involved\u0027: Google\u0027s Arora: CEO Page Is \u0027Fine\u0027 and \u0027Very Invo... ...","lbl":"Positive"}
+,{"time":"19:30","usr":"jglmac","txt":"Commented on StockTwits: $GOOG idk enough about (as much as I should), but i think it\u0027ll touch 700 and people will b... http://t.co/jDgIiS05","lbl":"Positive"}
+,{"time":"20:30","usr":"bclund","txt":"My problem I never sign into Chrome, which is why I am just noticing the sync feature now. And what\u0027s up with this electricity thing? $GOOG","lbl":"Negative"}
+]

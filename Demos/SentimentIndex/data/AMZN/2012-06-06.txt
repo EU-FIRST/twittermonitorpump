@@ -1,0 +1,6 @@
+[
+{"time":"6:00","usr":"Benzinga","txt":"$AMZN PT Lowered from $250 to $245 at JP Morgan","lbl":"Negative"}
+,{"time":"8:40","usr":"ChartMoMo","txt":"short $amzn 215.60","lbl":"Negative"}
+,{"time":"9:44","usr":"StockAction","txt":"RT @ankypanky25: Forgot how good it feels to see so much green...$AMZN $BAC $CMG ...love my ABCs #stockaction","lbl":"Positive"}
+,{"time":"9:46","usr":"TraderFlorida","txt":"$AMZN continues higher since bouncing off 50 day this week","lbl":"Positive"}
+]

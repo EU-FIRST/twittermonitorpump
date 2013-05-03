@@ -1,0 +1,16 @@
+[
+{"time":"8:20","usr":"$AMZN","txt":"@jimcramer $AMZN - best technology for those of us selling wares thru our sites","lbl":"Positive"}
+,{"time":"10:31","usr":"ChartMoMo","txt":"@fitzstock2004 If you took my amzn trade 10pts ago you still don\u0027t need to reward yourself. 190 tgt $AMZN http://t.co/Vi3xPCj3","lbl":"Positive"}
+,{"time":"10:53","usr":"oktobernv","txt":"Up 23% on my $AMZN Feb $220 calls. Not selling.","lbl":"Positive"}
+,{"time":"10:53","usr":"Lowtown21","txt":"out rest of $AMZN weeklies, +700%","lbl":"Negative"}
+,{"time":"11:21","usr":"Exit_16W","txt":"$AMZN http://t.co/vG8mdH54 Super strong today, however has been rejected at this 50% retrace of the down move numerous times","lbl":"Positive"}
+,{"time":"11:21","usr":"dschorrnyc","txt":"$AMZN gettin jiggy wit it","lbl":"Positive"}
+,{"time":"11:53","usr":"BotTrading","txt":"$AMZN at highs of day","lbl":"Positive"}
+,{"time":"11:53","usr":"gtotoy","txt":"$AMZN Shoot the moon!","lbl":"Positive"}
+,{"time":"11:53","usr":"aztecs99","txt":"RT @gtotoy: $AMZN Shoot the moon! --- we did also!","lbl":"Positive"}
+,{"time":"12:58","usr":"wdhallco","txt":"RT @IBDinvestors: Stock market mixed early afternoon today. Nasdaq up a bit as Amazon and Apple gained. http://t.co/4R2d3Unt $AAPL $AMZN","lbl":"Positive"}
+,{"time":"13:57","usr":"TraderFlorida","txt":"$AMZN adding to this one since buying today - like the action / volume this time of day lod as my stop","lbl":"Positive"}
+,{"time":"15:14","usr":"Derek2534","txt":"I currently hold a weekly option on $AMZN for a strike on $195 for next week","lbl":"Positive"}
+,{"time":"23:13","usr":"rasoolr","txt":"$AMZN is all over the news this week. Mostly favourable coverage. http://t.co/1IVBtLoZ","lbl":"Positive"}
+,{"time":"23:21","usr":"DiscoverWallSt","txt":"jimmybob: $AMZN ~ $180 calls hit 4.65 from .42: jimmybob http://t.co/JuLfmXuz","lbl":"Positive"}
+]

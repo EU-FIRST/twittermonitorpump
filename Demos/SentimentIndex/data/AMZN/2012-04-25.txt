@@ -1,0 +1,7 @@
+[
+{"time":"9:14","usr":"ChartMoMo","txt":"it doesn\u0027t get better than today to build bearish positions in bearish stocks. $amzn $lulu $nflx","lbl":"Negative"}
+,{"time":"9:15","usr":"BUDDIEE18","txt":"RT @ChartMoMo: it doesn\u0027t get better than today to build bearish positions in bearish stocks. $amzn $lulu $nflx","lbl":"Negative"}
+,{"time":"15:51","usr":"ReutersInsider","txt":"U.S. Day Ahead: #Amazon $amzn has to amaze soon: Reuters Insider http://t.co/vcwmWRQm","lbl":"Positive"}
+,{"time":"18:05","usr":"GOODGREED","txt":"I probably will short $AMZN tomorrow into earnings, there is a good chance they can post a loss.","lbl":"Negative"}
+,{"time":"20:44","usr":"goycar999","txt":"$AAPL 616.78 (+56.50 +10.08%) $GOOG 608.65 (+7.38 +1.23%) $IBM 202.97 (+2.97 +1.49%) $AMZN 193.56 (+3.23 +1.70%) #Tecnol\u00F3gicas #WS","lbl":"Positive"}
+]

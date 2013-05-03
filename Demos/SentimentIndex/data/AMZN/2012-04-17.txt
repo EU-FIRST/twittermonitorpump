@@ -1,0 +1,6 @@
+[
+{"time":"8:48","usr":"ybfmiami","txt":"$AAPL mini IPad wld kill Kindle & $AMZN, not cannialize IPad sales. $AAPL shd buy $BKS 4 < $1B, turn some stores into Apple stores, end Nook","lbl":"Negative"}
+,{"time":"10:06","usr":"xALiVEx","txt":"$AMZN still grinding nhod ~ sweet","lbl":"Positive"}
+,{"time":"14:20","usr":"StockTwits","txt":"Amazon Showrooms Are Everywhere http://t.co/fSCHLiyQ via @Biggercapital $AMZN","lbl":"Positive"}
+,{"time":"19:18","usr":"RealDividendLab","txt":"RT @seeitmarket: NEW POST | The Technicals Behind Amazon\u2019s Bounce Higher: http://t.co/kugSqI7f by @andrewnyquist $$ $AMZN #stocks","lbl":"Positive"}
+]

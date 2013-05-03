@@ -1,0 +1,97 @@
+[
+{"time":"1:50","usr":"USwwwStocks","txt":"$AMZN News: Big Internet Companies Start New Lobby Group http://t.co/stmLjk19 #AMZN #companies #group","lbl":"Positive"}
+,{"time":"7:16","usr":"niked","txt":"RT @SAI: Apple Execs Are Starting To Feel Threatened By Amazon\u0027s App Store $AAPL $AMZN by @sfiegerman http://t.co/4TyM991W","lbl":"Positive"}
+,{"time":"8:08","usr":"bpilzner","txt":"@rob_forte Who you worried about? $FB $AMZN","lbl":"Negative"}
+,{"time":"9:03","usr":"patroneux","txt":"for $AMZN earnings, shorting a Strangle here weeklies, $255C/$190P net credit of $8950. $$","lbl":"Negative"}
+,{"time":"9:05","usr":"patroneux","txt":"i guess that\u0027s it for me today, in terms of positioning. got my shorts on $ES_F and $GC_F, $FB and my short strangle on $AMZN.","lbl":"Negative"}
+,{"time":"9:57","usr":"takingstock614","txt":"@tlmontana UPS $ FDX missed their eps. Wonder if that\u0027s an indication that $AMZN will miss too. Fewer packages to ship = no consumer!","lbl":"Negative"}
+,{"time":"14:25","usr":"ScottUdine","txt":"Another slew of earnings reports after the close..$AMZN $FB $SBUX $CERN $CYH and many others...Be careful both ways if you are involved!!","lbl":"Negative"}
+,{"time":"14:43","usr":"soho_xo","txt":"@patroneux Obviously ;) One doesn\u0027t profit by being stupid. Not playing $FB even with lockout although considered OTM strangle. Short $AMZN.","lbl":"Negative"}
+,{"time":"14:54","usr":"stock_monster_","txt":"$UPS miss = $AMZN miss","lbl":"Negative"}
+,{"time":"15:00","usr":"ACInvestorBlog","txt":"RT @Benzinga: $AMZN Reports Q2 EPS $0.01 vs $0.02 Est; Revenues $12.83B vs $12.89B Est","lbl":"Negative"}
+,{"time":"15:01","usr":"Street_Insider","txt":"$AMZN Q2 EPS 1c, misses by 1c, sales $12.83b, vs. cons. $12.89B; sees Q3 sales $12.8-$14.3B, vs. cons. $14.1B","lbl":"Negative"}
+,{"time":"15:01","usr":"Vconomics","txt":"$AMZN is one stock I will happily short before the next US recession. It will collapse under its own rich valuation.","lbl":"Negative"}
+,{"time":"15:01","usr":"SconsetCapital","txt":"RT @SellPuts: $AMZN just dropped 18 points in a print","lbl":"Negative"}
+,{"time":"15:02","usr":"danshep55","txt":"$amzn sees loss 350 mill .. yikes","lbl":"Negative"}
+,{"time":"15:02","usr":"BrianSozzi","txt":"Woooo ee Amazon. Thank you baby. \u0022Why I said to short Amazon into Earnings\u0022 http://t.co/7WfTL1x5 @benzinga $AMZN $$","lbl":"Negative"}
+,{"time":"15:02","usr":"DecodingWallSt","txt":"Woooo ee Amazon. Thank you baby. \u0022Why I said to short Amazon into Earnings\u0022 http://t.co/Zf2UtuQg @benzinga $AMZN $$","lbl":"Negative"}
+,{"time":"15:02","usr":"mketabchi","txt":"$amzn misses on top and bottom lines. #stockaction","lbl":"Negative"}
+,{"time":"15:03","usr":"ZacH1992TradeS","txt":"Imagine having puts in $CMG, then $AAPL, then $AMZN. Happy retirement.","lbl":"Negative"}
+,{"time":"15:03","usr":"alia1977","txt":"$AMZN Reports Q2 EPS $0.01 vs $0.02 Est; Revenues $12.83B vs $12.89B Est Missed it !!!!!!!!!!!","lbl":"Negative"}
+,{"time":"15:03","usr":"mketabchi","txt":"$amzn Giudes 3q down. #stockaction","lbl":"Negative"}
+,{"time":"15:05","usr":"stock_monster_","txt":"Boom $AMZN down 6% after hours LOL!!! What a joke. Facebook is next...couple minutes away","lbl":"Negative"}
+,{"time":"15:05","usr":"Alvari40","txt":"Very nice plung in $AMZN AH. Looks like I may be out of the short tomorrow is we dip below $200 (covered short).","lbl":"Negative"}
+,{"time":"15:08","usr":"robberick","txt":"ouch! RT @jbooton: Amazon -10% after hours following worse-than-expected 96% drop in 2Q profit http://t.co/v9WV8aHs $AMZN","lbl":"Negative"}
+,{"time":"15:08","usr":"NoNonsenseTrade","txt":"$AMZN reports 83% earnings drop ... falling After hours ...","lbl":"Negative"}
+,{"time":"15:09","usr":"jaymchugh","txt":"RT @JonahLupton: Amazon ($AMZN) misses earnings!! We\u0027re about to see what happens to companies trading at 100x earnings that miss estimates - VERY UGLY!!","lbl":"Negative"}
+,{"time":"15:09","usr":"crazyfasteddy","txt":"$AMZN misses; $FB beats; $LNKD up to bat...","lbl":"Negative"}
+,{"time":"15:14","usr":"StephenHelmholz","txt":"@LaMonicaBuzz $FB now down and $AMZN up!","lbl":"Positive"}
+,{"time":"15:19","usr":"MattCoatsworth","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:19","usr":"very_handsome","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:19","usr":"MikeCastelli20","txt":"RT @RonnieSpence: $AMZN = crushed","lbl":"Negative"}
+,{"time":"15:23","usr":"Grabcocque","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:23","usr":"F_E_Charles","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:23","usr":"Daryoush_Nejad","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:23","usr":"grangermdk","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:25","usr":"foolhardychica","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:25","usr":"andrew_rahm_74","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:25","usr":"sixfootdad","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:25","usr":"JdotPdot12","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:27","usr":"robhowe3","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:27","usr":"Kevin_Holloway","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:27","usr":"SurrealCivic","txt":"$AMZN sold $12.8B worth but only made $7M? What?","lbl":"Negative"}
+,{"time":"15:28","usr":"vasilmann","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:30","usr":"ajmcafe","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:30","usr":"Melkhatib87","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:30","usr":"jrtaff","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:30","usr":"btenbarge","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:34","usr":"StephyNow","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:34","usr":"supertsai","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:34","usr":"BrightWireInc","txt":"Dangdang CEO: \u0022Yes, our e-reader is an Amazon Kindle knock-off\u0022 http://t.co/69jKHtF0 $DANG $AMZN","lbl":"Negative"}
+,{"time":"15:37","usr":"damarzo","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:37","usr":"Hesiod2k11","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:38","usr":"MattRiley09","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:41","usr":"Sec2Bruin","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:42","usr":"jonnquinn","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:42","usr":"TedBleecker","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:42","usr":"Idris1605","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:45","usr":"VickyH101","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:45","usr":"josunamateus","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:45","usr":"minist","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:51","usr":"storageDiva","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:51","usr":"sdehan","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:51","usr":"The_Real_B_S","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:51","usr":"hhenros","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:56","usr":"Nikko1912","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"15:56","usr":"biggercapital","txt":"How much is $AMZN worth knowing it will generate $20 bil +++ of service revenues in a few years","lbl":"Positive"}
+,{"time":"15:56","usr":"amlvilla","txt":"RT @YahooFinance: Amazon revenue jumps, but forecast cautious http://t.co/nWgs0QOq $AMZN","lbl":"Positive"}
+,{"time":"16:02","usr":"AlxHarris","txt":"So $AMZN expensed $12.76 BILLION to only make $7 Million profit.... Either the most obvious tax evasion of all time or their employees are","lbl":"Negative"}
+,{"time":"16:02","usr":"gnychis","txt":"@ravenben right, and $AMZN went down 7% on initial reaction. Everyone was like \u0022ya FB! burn AMZN!\u0022 and then \u0022wait, what????\u0022","lbl":"Negative"}
+,{"time":"16:08","usr":"drilknur","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"16:08","usr":"SCM_tweets","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"16:09","usr":"EdCarson1","txt":"$AMZN pulling a $QCOM - missing on profit and sales AND warning on current quarter with shares now higher.","lbl":"Negative"}
+,{"time":"16:17","usr":"tomrotunno","txt":"+1. Don\u0027t look away because it changes FAST. RT @SconsetCapital: $AMZN up, $FB down. Love this game!!! :)","lbl":"Positive"}
+,{"time":"16:17","usr":"geoff_59","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"16:17","usr":"edwinbeall","txt":"RT @WSJ: Amazon reported second-quarter earnings fell 96%, even as revenue rose sharply. http://t.co/CYmgmWrH $AMZN","lbl":"Negative"}
+,{"time":"16:23","usr":"jetaimeb","txt":"Wait a minute $AMZN earnings down %96 and it is up in after hours and $FB meets expectation and is down substantially #upsidedown","lbl":"Negative"}
+,{"time":"16:31","usr":"cruthik3","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"16:32","usr":"techtrendtrader","txt":"@RedDogT3Live The bigger the losses, the higher $AMZN goes. Crazy.","lbl":"Positive"}
+,{"time":"16:33","usr":"alexanderywang","txt":"RT @firstadopter: $AMZN call: in terms of same-day [delivery] don\u0027t see a way to do it on a broad-scale economically","lbl":"Positive"}
+,{"time":"16:44","usr":"yodoukas","txt":"@stockpundits $AMZN trades higher despite the poor results. You can see the potential","lbl":"Positive"}
+,{"time":"16:44","usr":"BobUtsey","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"16:57","usr":"IcUrPoint","txt":"RT @WSJ: Amazon reported second-quarter earnings fell 96%, even as revenue rose sharply. http://t.co/qbztrv1I $AMZN","lbl":"Negative"}
+,{"time":"16:57","usr":"SeanWillett1","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"16:57","usr":"PhilipZachariah","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"17:14","usr":"stockmonkeymom","txt":"$AMZN-I don\u0027t get it.Crazy mult., RETAIL stock that misses est. yet is green...Wtf? I gotta stay long $AAPL, $SBUX, $BIDU.","lbl":"Positive"}
+,{"time":"17:31","usr":"jga05","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"17:33","usr":"imsneakee","txt":"RT @WSJ: Amazon reported second-quarter earnings fell 96%, even as revenue rose sharply. http://t.co/qbztrv1I $AMZN","lbl":"Negative"}
+,{"time":"17:51","usr":"aliweinstein","txt":"RT @WSJ: Amazon reported second-quarter earnings fell 96%, even as revenue rose sharply. http://t.co/qbztrv1I $AMZN","lbl":"Negative"}
+,{"time":"17:52","usr":"ubu369","txt":"\u3046\u3046\u3080 \u0022@WSJ: Amazon reported second-quarter earnings fell 96%, even as revenue rose sharply. http://t.co/Lgt5EJTM $AMZN\u0022","lbl":"Negative"}
+,{"time":"18:23","usr":"Bar_Cap","txt":"$AMZN misses earnings... big surprise there. Look for an entry point tomorrow.","lbl":"Negative"}
+,{"time":"18:55","usr":"ffalconi","txt":"RT @MarketWatch: Amazon is spending big for future revenue, but investors will continue to suffer along the way: http://t.co/4foaEa6C $AMZN","lbl":"Negative"}
+,{"time":"18:56","usr":"tahvildary","txt":"RT @MarketWatch: Amazon is spending big for future revenue, but investors will continue to suffer along the way: http://t.co/4foaEa6C $AMZN","lbl":"Negative"}
+,{"time":"19:56","usr":"RobHunt8","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"21:04","usr":"motobas","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"21:05","usr":"ECONgeek947","txt":"@ActionJackson85 After crap earnings & outlook from $cstr & $amzn we might see $nflx recover some Tom #WHATcompetition #oversold #PrimeMYass","lbl":"Negative"}
+,{"time":"23:32","usr":"Goodlett","txt":"Tho $AMZN sales rose 29% to a mild US$12.8B, it took a beating for posting loss due to warehouse automation robots http://t.co/tt1W7gkJ $BBY","lbl":"Negative"}
+]

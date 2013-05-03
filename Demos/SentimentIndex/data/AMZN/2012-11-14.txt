@@ -1,0 +1,6 @@
+[
+{"time":"2:51","usr":"USwwwStocks","txt":"$AMZN News: Analysis: Amazon faces new obstacles in fight for holiday dollars http://t.co/wNnt3dvP #Amazon #AMZN #Analysis","lbl":"Negative"}
+,{"time":"11:05","usr":"mnoltecpa","txt":"$AMZN https://t.co/o6bbhXVQ 5 minute. Tried and failed to hold the move over that descending trend. Busted below old lows it bounced off.","lbl":"Negative"}
+,{"time":"15:56","usr":"CapCube","txt":"The silver lining to all this is watching $AMZN bleed out ....","lbl":"Negative"}
+,{"time":"22:20","usr":"ihmvps","txt":"Bearish $AMZN Chart http://t.co/qIFHaYzu #stockcharts #amazon","lbl":"Negative"}
+]

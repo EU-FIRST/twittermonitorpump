@@ -1,0 +1,21 @@
+[
+{"time":"3:00","usr":"TheStreet","txt":"Is Google TV Doomed? Not Necessarily http://t.co/bkNQ8RJW by @MarekFuchs $GOOG","lbl":"Negative"}
+,{"time":"7:51","usr":"BUDDIEE18","txt":"RT @themaxpain: $GOOG ($609.15), 5/10/2012, current max pain strike price: $615.00. Put/Call ratio: 0.735. #GOOG","lbl":"Negative"}
+,{"time":"9:29","usr":"HomeHedgie","txt":"Sticking with $NQ_F long for a bit while $GOOG and $AAPL stay green.","lbl":"Positive"}
+,{"time":"10:43","usr":"lluccipha","txt":"SAI: THE GOOGLE INVESTOR: Maybe Samsung Is Ditching Google After All, Going After Apple Themselves $GOOG by @hleonard76 http://t.co/zblexNTm","lbl":"Negative"}
+,{"time":"10:43","usr":"asianchica22","txt":"RT @SAI: THE GOOGLE INVESTOR: Maybe Samsung Is Ditching Google After All, Going After Apple Themselves $GOOG by @hleonard76 http://t.co/oHv1RuIm","lbl":"Negative"}
+,{"time":"10:44","usr":"isaacada1","txt":"RT @SAI: THE GOOGLE INVESTOR: Maybe Samsung Is Ditching Google After All, Going After Apple Themselves $GOOG by @hleonard76 http://t.co/oHv1RuIm","lbl":"Negative"}
+,{"time":"10:44","usr":"DavidConklin21","txt":"Strange day today..dead cat bounce? i think so.$AAPL and $GOOG up the $QQQ down. Short $AAPL $573 risk $576. short $GOOG $614.50 risk $617","lbl":"Negative"}
+,{"time":"11:53","usr":"HCaballerosJr","txt":"RT @SAI: Check Out mSpot, Samsung\u0027s New Cloud Music Service That\u0027s Better Than iTunes Match $GOOG $AAPL by @officialKLS http://t.co/NHU56bUO","lbl":"Negative"}
+,{"time":"12:53","usr":"brandee","txt":"RT @SAI: Microsoft Just Blew Google Away In Social Search $MSFT $GOOG by @MattRosoff http://t.co/D2VLMMfg","lbl":"Negative"}
+,{"time":"12:54","usr":"Tech4Africa","txt":"@SAI Does $GOOG still have their eye on the ball? /cc @mattrosoff","lbl":"Negative"}
+,{"time":"12:54","usr":"IvanTheK","txt":"Microsoft Blue Screen of Death? RT @SullyCNBC: Big Bing Theory: $MSFT to make Bing changes.. its pretty cool & $GOOG can\u0027t do what its doing","lbl":"Negative"}
+,{"time":"13:18","usr":"BlueFielder","txt":"$GooG ... Solid run at R2 (616) here","lbl":"Positive"}
+,{"time":"13:20","usr":"OliWilly","txt":"RT @businessinsider: Microsoft Just Blew Google Away In Social Search $MSFT $GOOG by @MattRosoff http://t.co/8zRezz6n","lbl":"Negative"}
+,{"time":"13:56","usr":"MInvestmentsLLC","txt":"RT @CNNMoney: RT @DavidGoldmanCNN: Microsoft fires shot across Google\u0027s bow with new Bing social search http://t.co/cfPo80bf $MSFT $GOOG","lbl":"Negative"}
+,{"time":"19:24","usr":"kharise","txt":"RT @SAI: Google And Mozilla Should Quit Crying About Windows Tablets $GOOG $MSFT by @MattRosoff http://t.co/EzhKimoZ","lbl":"Negative"}
+,{"time":"20:07","usr":"peculator","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Negative"}
+,{"time":"20:07","usr":"azlancat","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Negative"}
+,{"time":"20:07","usr":"daevin1","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Negative"}
+,{"time":"20:54","usr":"_SimonUK_","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Negative"}
+]

@@ -1,0 +1,19 @@
+[
+{"time":"10:42","usr":"IBuyside","txt":"Recent co\u0027s w/ most insider buys: $WES, $TRIP, $TMW, $CPRX, $DWOG Recent co\u0027s w/ most insider sales: $AVGO, $CONN, $AWI, $GOOG, $PRGX","lbl":"Negative"}
+,{"time":"11:12","usr":"SAI_Tools","txt":"Proof That Google Is Beating Apple On The iPhone $GOOG $AAPL by @stevekovach http://t.co/OWiVLxIf","lbl":"Positive"}
+,{"time":"11:12","usr":"businessinsider","txt":"Proof That Google Is Beating Apple On The iPhone $GOOG $AAPL by @stevekovach http://t.co/L5v1cis0","lbl":"Positive"}
+,{"time":"11:12","usr":"SAI","txt":"Proof That Google Is Beating Apple On The iPhone $GOOG $AAPL by @stevekovach http://t.co/e3vHCLOO","lbl":"Positive"}
+,{"time":"11:30","usr":"berkutchitweet","txt":"Added to positions in $GOOG $BLK $EQIX this morning. Also holding $ISRG $MA. Stopped out of $CEO.","lbl":"Positive"}
+,{"time":"12:29","usr":"ChartMoMo","txt":"sold to open $goog 710 DEC puts 3.50 per contract","lbl":"Positive"}
+,{"time":"13:28","usr":"wallstCS","txt":"Is Google\u0027s Nexus 4 Too Popular? http://t.co/di16KpKe $GOOG #mkt #stocks #trading #investing","lbl":"Positive"}
+,{"time":"14:41","usr":"SAI","txt":"Google Maps For iPhone Downloaded 10 Million Times In Less Than 48 Hours $GOOG by @stevekovach http://t.co/YpX9mrIh","lbl":"Positive"}
+,{"time":"15:41","usr":"OnClose","txt":"@takingstock614 I\u0027m long $GOOG $NFLX","lbl":"Positive"}
+,{"time":"15:45","usr":"SAI","txt":"Google Just Launched Another Killer App On iPhone $GOOG $AAPL by @stevekovach http://t.co/dAewPq4L","lbl":"Positive"}
+,{"time":"16:01","usr":"Don_Gronald","txt":"My $GOOG calls are exploding right now!!!","lbl":"Positive"}
+,{"time":"16:02","usr":"sciencetrader","txt":"lost about 0.90 cents in $GOOG short- like I said wasn\u0027t taking overnight","lbl":"Positive"}
+,{"time":"16:28","usr":"GVGOZZ","txt":"RT @biggercapital: Sold $GOOG at the end of the day. Had bought a few weeks ago. No position. I buy falling knives and sell rockets","lbl":"Negative"}
+,{"time":"16:55","usr":"diegoromerosm","txt":"RT @SAI: The Most Popular Futurist On The Planet Will Help Google Develop The Next Big Thing $GOOG by @_dtl http://t.co/ZF1STIk7","lbl":"Positive"}
+,{"time":"17:40","usr":"rechtsteiner","txt":"RT @TxtInsight: $GOOG throwing LG under the bus re: Nexus 4 supply doesn\u0027t mark the beginning of a long-term relationship. #txtinsightmobile","lbl":"Negative"}
+,{"time":"18:44","usr":"SeekingAlpha","txt":"Scarce Supply Means Google\u0027s Nexus Is A Winner http://t.co/yECWTOHz $AAPL $EBAY $QCOM $GOOG","lbl":"Positive"}
+,{"time":"22:15","usr":"Jamtrades","txt":"When will $GOOG announce the sale of its Motorola Set Top Box unit? That will be huge for the stock too! Add that to the FTC ruling = HUGE!","lbl":"Positive"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"1:48","usr":"daveying99","txt":"Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. via @howardlindzon","lbl":"Positive"}
+,{"time":"8:44","usr":"oabianchi","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"9:57","usr":"SJosephBurns","txt":"$GOOG trying to make a run at the near term resistance but is being rejected so far.","lbl":"Positive"}
+,{"time":"10:30","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Google Fiber Isn\u0027t A Test, It\u0027s World Domination $GOOG by @hleonard76 http://t.co/CWMX1d3B","lbl":"Positive"}
+,{"time":"15:27","usr":"wallstCS","txt":"Tech Biz Replay: Google\u0027s New TRIUMPH, Facebook\u0027s New MISERIES http://t.co/Bxt39L0I $GOOG $SNCR $T $FB $S #mkt #stocks","lbl":"Positive"}
+]

@@ -1,0 +1,9 @@
+[
+{"time":"6:45","usr":"statsreal","txt":"@KeithMcCullough Keith, don\u0027t know your timeframe but are you staying w $amzn, doesn\u0027t seem to want to break down, stay transparent friend","lbl":"Positive"}
+,{"time":"11:05","usr":"emersongreg","txt":"How a @LinkedIn update leaked the news that AMAZON may be getting into original programming: http://t.co/9uVCNbm6 (cc @jpoggi) $AMZN","lbl":"Positive"}
+,{"time":"11:09","usr":"SperlsT3Live","txt":"if $amzn stays above 185 it will be an add at some point to get to 195","lbl":"Positive"}
+,{"time":"12:03","usr":"joshlarson","txt":"Hmm... Dad:\u0022Dear Josh, I\u0027ve studied your portfolio & determined you should sell all your $CMSCA & all of your $INTC, then buy 35 of $AMZN\u0022","lbl":"Positive"}
+,{"time":"12:58","usr":"HLIDK","txt":"RT @themotleyfool: Only 1 stock has the gargantuan reach to threaten Google\u0027s online ad dominance. Hello, Amazon ($AMZN): http://t.co/oS4UOAK5","lbl":"Positive"}
+,{"time":"21:05","usr":"NoDoji","txt":"$AMZN Daily Ichimoku: Bullish progress in to cloud today. Potential for bull cross but chikou coming into resistance. http://t.co/8OS6tZlW","lbl":"Positive"}
+,{"time":"21:32","usr":"jontalton","txt":"Arizona bookstore boycotts Amazon titles: http://t.co/vcv6gNJ7 via East Valley Tribune $AMZN","lbl":"Negative"}
+]

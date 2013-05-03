@@ -1,0 +1,7 @@
+[
+{"time":"14:09","usr":"chrishar00","txt":"RT @LizClaman: #Buffett says $AMZN a powerhouse, could affect lots of businesses... Munger: it\u0027s really terrible 4 most retailers","lbl":"Positive"}
+,{"time":"16:17","usr":"investment_blog","txt":"RT @LizClaman: #Buffett says $AMZN a powerhouse, could affect lots of businesses... Munger: it\u0027s really terrible 4 most retailers","lbl":"Positive"}
+,{"time":"21:33","usr":"MarketShot","txt":"$AMZN will continue to crush $NFLX since it offers the ability to \u0022rent\u0022 movies that aren\u0027t free. Genius move, I just rented \u0022Major League\u0022","lbl":"Positive"}
+,{"time":"21:37","usr":"AlexanderBVo","txt":"http://t.co/qtq5Grvn Verified $6.16 loss in $AMZN Import trades for May 4th","lbl":"Negative"}
+,{"time":"21:38","usr":"AlexanderBVo","txt":"http://t.co/JrxB5QwH Verified $502.97 loss in $AMZN Import trades for May 4th","lbl":"Negative"}
+]

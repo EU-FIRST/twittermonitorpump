@@ -1,0 +1,9 @@
+[
+{"time":"11:35","usr":"BuyOnTheDip","txt":"added one more $GOOG 575 Feb $CALL @ $10.00","lbl":"Positive"}
+,{"time":"12:23","usr":"SAI","txt":"This Fishy Report Says Android Tablets Are Eating Away At The iPad $AAPL $GOOG by @stevekovach http://t.co/Rwj00PYX","lbl":"Positive"}
+,{"time":"12:23","usr":"DanielLynchJr","txt":"RT @ElliotTurn: @arikuchinsky asks if \u0022Google+ is worth $100 Billion?\u0022 http://t.co/TfnnP786 If that\u0027s the case, I must up the $0 I give it in my $GOOG model","lbl":"Negative"}
+,{"time":"12:26","usr":"18thanwa","txt":"RT @StockTwits: $GOOG is Great, $AAPL is Magnificent... and ELEVEN Year Highs in The Nasdaq http://t.co/rtYlW8EM","lbl":"Positive"}
+,{"time":"13:09","usr":"StocialPicks","txt":"Pooja made a pick on Stocial. Long $GOOG at 570.86. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"15:04","usr":"macroQmicro","txt":"$GOOG October gap-up from 559 remains unfilled; now 567 perhaps it will have the courtesy to do so. http://t.co/r86AZk17 #WORDEN","lbl":"Negative"}
+,{"time":"20:57","usr":"macroaxis","txt":"Google Inc $GOOG A Little Down.: http://t.co/7pPCVoVm","lbl":"Negative"}
+]

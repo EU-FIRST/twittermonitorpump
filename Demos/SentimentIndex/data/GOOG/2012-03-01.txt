@@ -1,0 +1,8 @@
+[
+{"time":"10:58","usr":"wallstCS","txt":"Google Under Fire in the EU http://t.co/TqWJ5Mdf $GOOG #mkt #trading","lbl":"Negative"}
+,{"time":"11:00","usr":"DutchmenCapital","txt":"RT @wallstCS: Google Under Fire in the EU http://t.co/TqWJ5Mdf $GOOG #mkt #trading","lbl":"Negative"}
+,{"time":"12:11","usr":"EvolvingMedium","txt":"Apple, Google once again top Fortune \u0027s most admired list $goog - http://t.co/qNWWcFL3","lbl":"Positive"}
+,{"time":"13:11","usr":"hkouros","txt":"$GOOG potential double top at that 625 level","lbl":"Negative"}
+,{"time":"14:38","usr":"centerfieldadv","txt":"Biggie day for the piggies....$GOOG past 625. $JNK did not trade past the dividend.","lbl":"Negative"}
+,{"time":"18:51","usr":"walterid9","txt":"$GOOG made glasses that will be able to stream information to the wearer\u2019s eyeballs in real time. http://t.co/BI50NnYK","lbl":"Positive"}
+]

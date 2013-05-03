@@ -1,0 +1,14 @@
+[
+{"time":"3:10","usr":"HELELANY","txt":"RT @SAI: Apple Is Crushing Everyone In The Tablet Market -- So Who Will Be Number Two? $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/Bt2MM0lJ","lbl":"Negative"}
+,{"time":"8:00","usr":"RyanDetrick","txt":"http://t.co/sBo3uRgH @CNBCClosingBell Discusses $AMZN. Both guys like it and I agree.","lbl":"Positive"}
+,{"time":"10:43","usr":"biggercapital","txt":"@Lowtown21 Thanks. In $AMZN since 2001","lbl":"Positive"}
+,{"time":"12:19","usr":"PATMAN316","txt":"$LNKD, $AMZN, $ALXN, $CSTR, $MLNX, $CF,$KORS...all look good.","lbl":"Positive"}
+,{"time":"12:43","usr":"cnbcfastmoney","txt":"RT @CNBCMelloy: Amazon $AMZN stock doesn\u0027t like this Google Nexus Q. At lows of the day. $GOOG","lbl":"Negative"}
+,{"time":"12:44","usr":"optionmonster","txt":"RT @CNBCMelloy: Amazon $AMZN stock doesn\u0027t like this Google Nexus Q. At lows of the day. $GOOG","lbl":"Negative"}
+,{"time":"12:44","usr":"patroneux","txt":"$AMZN book value is $70... it should be trading at that..","lbl":"Negative"}
+,{"time":"12:59","usr":"Canadian88","txt":"RT @SAI: For A Change Of Pace Google Decides To Rip Off Amazon Instead Of Apple $GOOG $AMZN by @jyarow http://t.co/NtnTeSVZ","lbl":"Negative"}
+,{"time":"13:00","usr":"fin_bot1","txt":"RT@businessinsider For A Change Of Pace Google Decides To Rip Off Amazon Instead Of Apple $GOOG $AMZN by @jyarow http://t.co/mYOnPebl","lbl":"Negative"}
+,{"time":"13:00","usr":"fin_bot1","txt":"RT@SAI For A Change Of Pace Google Decides To Rip Off Amazon Instead Of Apple $GOOG $AMZN by @jyarow http://t.co/mYOnPebl","lbl":"Negative"}
+,{"time":"14:05","usr":"idea2go","txt":"$GOOG Nexus imitates $AMZN Kindle Fire. A year late and a feature short. They should innovate. Come out with a ChromePad to contribute!","lbl":"Positive"}
+,{"time":"14:40","usr":"wallstreetbabes","txt":"damn -1 $AMZN +.53$X","lbl":"Negative"}
+]

@@ -1,0 +1,17 @@
+[
+{"time":"4:47","usr":"germantrader71","txt":"Morgan Stanley resumes Google $GOOG with Equal Weight, Target $625, \u0022mobile monetization and competition concerns persist\u0022","lbl":"Negative"}
+,{"time":"7:06","usr":"blackberrystock","txt":"Stock Forum - lilvj replied to Stocks To Buy\u0027s discussion Google Inc. (NASDAQ:GOOG) - Larry Page CEO - $GOOG http://t.co/B4Hih1Ro","lbl":"Positive"}
+,{"time":"8:49","usr":"carolanne329","txt":"RT @CNNMoney: More than half of the world\u0027s smartphones run Android, but Google\u0027s still in trouble... http://t.co/F8ruWvCD? $GOOG $AAPL","lbl":"Negative"}
+,{"time":"9:35","usr":"Joe_Andrew","txt":"hm RT \u0022@CNNMoney: More than half of the world\u0027s smartphones run Android, but Google\u0027s still in trouble... http://t.co/Ss4lXyGL? $GOOG $AAPL\u0022","lbl":"Negative"}
+,{"time":"12:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 12:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"13:14","usr":"GMitakides","txt":"RT @businessinsider: To Do What Google Does In Maps, Apple Would Have To Hire 7,000 People $AAPL $GOOG by @nichcarlson http://t.co/DgGMIQUd","lbl":"Positive"}
+,{"time":"13:15","usr":"DoctorCara","txt":"RT @businessinsider: To Do What Google Does In Maps, Apple Would Have To Hire 7,000 People $AAPL $GOOG by @nichcarlson http://t.co/DgGMIQUd","lbl":"Positive"}
+,{"time":"13:36","usr":"USwwwStocks","txt":"$GOOG News: Google Seen Joining Tablet Fray Wednesday http://t.co/ibNNcZd7 #GOOG #Fray #Google","lbl":"Negative"}
+,{"time":"14:30","usr":"BigTicks","txt":"$GOOG News: Google Seen Joining Tablet Fray Wednesday http://t.co/SWOXeGVt #GOOG #Fray #Google","lbl":"Negative"}
+,{"time":"14:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 14:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"15:21","usr":"kngbn97","txt":"RT @SAI: Firefox For Android Is Here, But It\u0027s Not Better Than Chrome $GOOG by @officialKLS http://t.co/I2lU8u01","lbl":"Positive"}
+,{"time":"15:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 15:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"17:25","usr":"chrispycrunch","txt":"$RIM more formidable than $GOOG or $AAPL http://t.co/NTEgkRAA","lbl":"Negative"}
+,{"time":"17:26","usr":"SaintJayV","txt":"RT @SeekingAlpha: Billionaire Jim Simon\u0027s Top 5 Picks Paying Dividends http://t.co/MevkUsEG $AAPL $AMD $AZN $BMY $DELL $DRI $GOOG $GSK $HPQ $INTC","lbl":"Positive"}
+,{"time":"22:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 22:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+]

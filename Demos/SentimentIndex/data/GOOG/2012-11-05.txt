@@ -1,0 +1,14 @@
+[
+{"time":"1:40","usr":"phisher12","txt":"Vringo Vs. Google: Past And Future Infringement http://t.co/g07uwifR $GOOG $VRNG","lbl":"Negative"}
+,{"time":"7:45","usr":"BigTicks","txt":"$GOOG News: Google Inc & Rosetta Stone Inc Settle Lawsuit; Agree To Collaborate In Fight Against http://t.co/nBasUPkS #GOOG #Against #agree","lbl":"Negative"}
+,{"time":"10:39","usr":"GnomishMath","txt":"@bobs_tweet True, but $GOOG way to big of a beast to trade a clean lot at the moment & I don\u0027t like loose shares :( GL should you play it!","lbl":"Negative"}
+,{"time":"11:15","usr":"elliottwavelive","txt":"$GOOG down hard after a corrective 3 $$","lbl":"Negative"}
+,{"time":"12:49","usr":"TuckArthur","txt":"RT @SAI: Apple Probably Won\u0027t Approve A Google Maps App For iOS Anytime Soon $AAPL $GOOG by @meganrosedickey http://t.co/2SgFCGaU","lbl":"Negative"}
+,{"time":"12:50","usr":"johndavidadams","txt":"Horray $goog MT @TechCrunch Report: Google Maps For iOS Will Be Ready By End Of Year http://t.co/suQuHRSI","lbl":"Positive"}
+,{"time":"13:32","usr":"StockMarket411","txt":"Google slammed by disappointing earnings $goog http://t.co/PHL1UY1y goog, google, google stock, news","lbl":"Negative"}
+,{"time":"14:28","usr":"ppprophet","txt":"SELL $GOOG The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
+,{"time":"15:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG Sentiment decreases: -8% http://t.co/HYmEmFBp","lbl":"Negative"}
+,{"time":"20:57","usr":"TheTradersBias","txt":"$GOOG holding 675.00 support support #nasdaq","lbl":"Positive"}
+,{"time":"23:35","usr":"HCPG","txt":"Like the new gmail interface with being able to write email in same screen -- v cool. $GOOG","lbl":"Positive"}
+,{"time":"23:37","usr":"Lo_trading","txt":"RT @HCPG: Like the new gmail interface with being able to write email in same screen -- v cool. $GOOG","lbl":"Positive"}
+]

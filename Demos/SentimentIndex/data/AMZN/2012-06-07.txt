@@ -1,0 +1,6 @@
+[
+{"time":"8:48","usr":"Stock_trader808","txt":"Bubble is about to pop right now $AAPL $SPY $AMZN $V shorting every single one of them","lbl":"Negative"}
+,{"time":"9:19","usr":"wallstreetbabes","txt":"@profmlyadvocate @bkhobby $AMZN is acting up. Someone get a rope.","lbl":"Positive"}
+,{"time":"10:41","usr":"given2tweet","txt":"Started a position in $BBY today. 1) Stock cheap. 2) Founder sale could be + catalyst. 3) $AMZN will charge sales tax soon in CA &other","lbl":"Negative"}
+,{"time":"21:33","usr":"shomval","txt":"I just opened a LONG position on $AMZN at 218.8. Follow my trades on Simitrade | http://t.co/UlnSrd6A","lbl":"Positive"}
+]

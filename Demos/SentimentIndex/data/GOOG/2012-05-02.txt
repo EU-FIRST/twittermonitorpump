@@ -1,0 +1,15 @@
+[
+{"time":"0:08","usr":"Buddahfan","txt":"@fmanjoo My thing with $GOOG is this is just another example of $GOOG privacy invasion. I don\u0027t trust them & don\u0027t use their products","lbl":"Negative"}
+,{"time":"0:10","usr":"Buddahfan","txt":"@fmanjoo When you add it all together including $GOOG support of CISPA I don\u0027t understand how anyone can trust $GOOG period.","lbl":"Negative"}
+,{"time":"6:12","usr":"thefinancepress","txt":"$GOOG Why Barnes & Noble-Microsoft pact hurts Google: Why Barnes & Noble-Microsoft pact hurts Google CBS News -... http://t.co/Bikk0OVs","lbl":"Negative"}
+,{"time":"6:14","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Why Barnes & Noble-Microsoft pact hurts Google: Why Barnes & Noble-Microsoft pact hurts Google CBS News -... http://t.co/Bikk0OVs","lbl":"Negative"}
+,{"time":"7:58","usr":"sengineland","txt":"RT @cpuzder: $GOOG shifting to \u00223rd kind of thing\u0022 in search results http://t.co/rpfNI0P0 via @sengineland","lbl":"Positive"}
+,{"time":"10:34","usr":"EduardoCisneros","txt":"RT @SAI: The Biggest Data Point In Android\u0027s Favor Is A Total Crock $AAPL $GOOG by @jyarow http://t.co/wv0VtuFQ","lbl":"Negative"}
+,{"time":"13:37","usr":"brittpierpoint","txt":"Google is making a huge and annoying mistake http://t.co/E2ycYmti | via Wil Wheaton $GOOG","lbl":"Negative"}
+,{"time":"13:38","usr":"stkonlinetrader","txt":"http://t.co/cbfFdGVo Verified $251.02 loss in $GOOG Weekly call expire worthless","lbl":"Negative"}
+,{"time":"16:20","usr":"SeekingAlpha","txt":"Why Is Facebook A Buy And Google A Sell http://t.co/C4qYFoTz $GOOG $ZNGA $FB","lbl":"Negative"}
+,{"time":"18:59","usr":"MattRosoff","txt":"Yelp Said Something On Its Earnings Call Today That Should Scare The Heck Out Of Google $YELP $GOOG http://t.co/ivbUNSkG","lbl":"Negative"}
+,{"time":"18:59","usr":"businessinsider","txt":"Yelp Said Something On Its Earnings Call Today That Should Scare The Heck Out Of Google $YELP $GOOG by @MattRosoff http://t.co/tsT6SF6S","lbl":"Negative"}
+,{"time":"18:59","usr":"SAI","txt":"Yelp Said Something On Its Earnings Call Today That Should Scare The Heck Out Of Google $YELP $GOOG by @MattRosoff http://t.co/FyfzCgSa","lbl":"Negative"}
+,{"time":"23:00","usr":"dslevy","txt":"Why @foursquare is better positioned... RT @businessinsider: $YELP Said Something On Its Call That Shld Scare $GOOG http://t.co/ChcFm9yQ #in","lbl":"Negative"}
+]

@@ -1,0 +1,19 @@
+[
+{"time":"6:47","usr":"RichardLouden","txt":"RT @LukeRomyn: If you enjoyed BEYOND HADES you\u0027ll love its sequel, SLAVES OF VALHALLA: http://t.co/8MhL0KOp $AMZN #Kindle","lbl":"Positive"}
+,{"time":"7:32","usr":"LSilverspar","txt":"RT @1nvestor: \u201C@wsmco: $BBY planning to match online prices ($AMZN) this Holiday season\u201D < gonna be a big big war this season. Who suffers the most?","lbl":"Negative"}
+,{"time":"8:07","usr":"BusinessFirst7","txt":"RT @BergenCapital: Cyber terrorists attack $AMZN ? http://t.co/Vv35LKS2 keeps spitting back \u0022Http/1.1 Service Unavailable\u0022","lbl":"Negative"}
+,{"time":"8:08","usr":"SKSMediaSing","txt":"RT @BergenCapital: Cyber terrorists attack $AMZN ? http://t.co/Vv35LKS2 keeps spitting back \u0022Http/1.1 Service Unavailable\u0022","lbl":"Negative"}
+,{"time":"8:08","usr":"DividendMaster","txt":"@ComfortablySmug $AMZN might rally . Think how much $ they are making but inability to sell more monmey losing Kindles !","lbl":"Positive"}
+,{"time":"8:33","usr":"Lowtown21","txt":"$AMZN down 17 pts in 4 days, ouch.","lbl":"Negative"}
+,{"time":"9:07","usr":"SPEQL8R","txt":"$SPY and many stocks getting short term o.s. $AMZN groupies- don\u0027t overstay welcome, stock has resist around 50 d ema and needs work","lbl":"Negative"}
+,{"time":"11:20","usr":"firstadopter","txt":"@herbgreenberg B&H Photo/Newegg regularly beats $AMZN in pricing. Great service and selection too","lbl":"Negative"}
+,{"time":"12:09","usr":"BPGAG","txt":"$amzn They really put ads on their entry-level Kindle devices / didn\u0027t know that and don\u0027t like it","lbl":"Negative"}
+,{"time":"12:09","usr":"rsblades","txt":"RT Stopped out of runner @ $5.30 +$.40 Sticking to the rules ;-) @rsblades Long $AMZN Oct $240 Calls @ $4.90","lbl":"Positive"}
+,{"time":"13:06","usr":"otcSTOCKMONSTER","txt":"RT @TOP10STOCKS: The Battle between #BestBuy $BBY & #Amazon $AMZN heating up. $BBY to match online pricing.Daily $Stock Deals! http://t.co/FiwWvU3s #shopping","lbl":"Positive"}
+,{"time":"13:59","usr":"swissjohnny","txt":"RT @edwardnh: Amazon\u0027s Jeff Bezos Confirms Kindles Are Sold at Cost http://t.co/laWgA8Bf $AMZN","lbl":"Negative"}
+,{"time":"14:47","usr":"Bluechiptrend","txt":"I believe that it is ideal to take profits on 1/2 of the remaining trade at this time. $AMZN","lbl":"Negative"}
+,{"time":"16:18","usr":"ryanstewman","txt":"RT @BergenCapital: Cyber terrorists attack $AMZN ? http://t.co/Vv35LKS2 keeps spitting back \u0022Http/1.1 Service Unavailable\u0022","lbl":"Negative"}
+,{"time":"17:51","usr":"USwwwStocks","txt":"$AMZN News: Why Amazon can spend and grow forever http://t.co/yERDmO7D #AMZN #Amazon #Forever","lbl":"Positive"}
+,{"time":"21:14","usr":"WalkenTalken","txt":"Wow, I thought I lost this $AMZN video... Bearish http://t.co/BFyXoHq9","lbl":"Negative"}
+,{"time":"21:20","usr":"WalkenTalken","txt":"Ok, Take 2 of $AMZN Bearish Video. By the way, my short is from $259.30 not $249.30 http://t.co/viydeWOx","lbl":"Negative"}
+]

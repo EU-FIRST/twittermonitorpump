@@ -1,0 +1,4 @@
+[
+{"time":"2:03","usr":"wininstocks52","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/G3Llenmz","lbl":"Positive"}
+,{"time":"23:05","usr":"GeekofWallSt","txt":"$AMZN Still looking good to go higher; $MCD if it breaks $95, time to go; $LNKD looks good, just resting;$HD resting","lbl":"Positive"}
+]

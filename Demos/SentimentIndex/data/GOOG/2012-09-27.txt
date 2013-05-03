@@ -1,0 +1,37 @@
+[
+{"time":"6:48","usr":"USwwwStocks","txt":"$GOOG News: Biz Break: Apple continues to drag technology stocks lower http://t.co/NvCU92Gz #GOOG #Apple #Break","lbl":"Negative"}
+,{"time":"7:30","usr":"cimdog747","txt":"RT\u201C@nichcarlson: Executive losing patent war is tired of patent wars http://t.co/kUE7gF7D\u0022 Not surprising since $GOOG is in battle w/ $VRNG","lbl":"Negative"}
+,{"time":"7:33","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Back on Gaining Track, its Apps will not Support ...: Google Inc. (NASDAQ:GOOG)... http://t.co/Dtc0ovUh","lbl":"Positive"}
+,{"time":"7:35","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 90 shares \u2611","lbl":"Negative"}
+,{"time":"8:10","usr":"Retsialg","txt":"$GOOG is you can afford it \u2013 or try the option- moving up in premarket http://t.co/7wQnzBxq","lbl":"Positive"}
+,{"time":"8:29","usr":"Sangluccitrades","txt":"$GOOG pushing higher in the premarkets here. New all time highs today?","lbl":"Positive"}
+,{"time":"8:47","usr":"takingstock614","txt":"$GOOG trying so hard, im waiting for prev high at 764.89","lbl":"Positive"}
+,{"time":"8:47","usr":"NorthmanTrader","txt":"$GOOG is the kid everybody wants to show on their portfolio..may end up being a nice short..","lbl":"Negative"}
+,{"time":"8:47","usr":"Jamtrades","txt":"Watching $GOOG.... Break of HOD, and we can easily break All time high. Watch for this.","lbl":"Positive"}
+,{"time":"9:43","usr":"LaMonicaBuzz","txt":"No awkward teen years for Google. Happy 14th birthday, $GOOG. Your present? An all-time high stock price. Buzz video. http://t.co/4UC7rwyh","lbl":"Positive"}
+,{"time":"9:43","usr":"ChrisStuntz","txt":"in $GOOG SepWk4 760 C","lbl":"Positive"}
+,{"time":"10:00","usr":"JackCarey31","txt":"RT @LaMonicaBuzz: RT @LaMonicaBuzz: No awkward teen years for Google. Happy 14th birthday, $GOOG. Your present? An all-time high stock price. Buzz video. ...","lbl":"Positive"}
+,{"time":"10:01","usr":"racernic","txt":"@swamptrade maybe because my folwer count is misprint+actually is 280k.i tweeted earlier 2STOP selling $aapl 2buy $goog +opp trade is better","lbl":"Positive"}
+,{"time":"10:01","usr":"takingstock614","txt":"$GOOG been fading since gap up open. Could fill the gap down to 753.","lbl":"Negative"}
+,{"time":"10:22","usr":"nxtmillionair40","txt":"$GOOG try to held 760 for 1 1/2 hour today, fail to hold twice so short was the best solution for a trade, you can go long at 740 to 760","lbl":"Negative"}
+,{"time":"10:22","usr":"StockAction","txt":"RT @dbertauche: RT @dbertauche: $GOOG...flip it red in a positive tape... http://t.co/OcxHgDUr #Stockmarket #Stocks #StockAction","lbl":"Negative"}
+,{"time":"10:22","usr":"ChartMoMo","txt":"I have nothing against $goog altho $aapl and $pcln offer the better trade at these levels.","lbl":"Negative"}
+,{"time":"10:46","usr":"PuneetKohli_Biz","txt":"Why has $GOOG outperformed $AAPL over the last 3 weeks? GOOG can map oceans while AAPL can\u0027t map streets well - http://t.co/CAnVFnXD","lbl":"Positive"}
+,{"time":"10:46","usr":"BlueFielder","txt":"$GooG added to underwater 760 $CALLs @ 2.40","lbl":"Positive"}
+,{"time":"10:46","usr":"Nii_Ahene","txt":"RT @bleekertech: RT @bleekertech: $GOOG to launch $100 tablet? Some serious loss leader action if they do... I\u0027m skeptical: http://t.co/LacQVffW","lbl":"Negative"}
+,{"time":"11:58","usr":"thekeikoshow","txt":"Remember when I said- Long $AAPL Short $GOOG?...","lbl":"Negative"}
+,{"time":"11:58","usr":"stkonlinetrader","txt":"More fades on $GOOG. Will it crack 750s?","lbl":"Negative"}
+,{"time":"12:31","usr":"mustped","txt":"if $GOOG hits 764.51 today or tomorrow I will flip out","lbl":"Negative"}
+,{"time":"13:54","usr":"Abilene_Whale","txt":"Back in a $GOOG put. Unimpressed with today\u0027s move. Might get one last spike for qtr end tmrw, but I\u0027m willing to play downside again here.","lbl":"Negative"}
+,{"time":"13:55","usr":"Briefingcom","txt":"$GOOG: Google: GOOG with some notable weakness to the COMPQ as shares extend losses into marginally negative... http://t.co/uAFMYdu9","lbl":"Negative"}
+,{"time":"13:57","usr":"SiliconValley","txt":"By @obrien: Column: Apple and Google stock price explosion reflects their dominance: http://t.co/6hqsW4Lw $GOOG $AAPL via @mercnews","lbl":"Positive"}
+,{"time":"13:57","usr":"siliconbeat","txt":"By @obrien: Column: Apple and Google stock price explosion reflects their dominance: http://t.co/uyNgP7FD $GOOG $AAPL via @mercnews","lbl":"Positive"}
+,{"time":"14:36","usr":"chung55","txt":"@SJosephBurns $GOOG, R U going to roll your $GOOG 750s or let them execute tomorrow??? I\u0027m still hold the commons.","lbl":"Positive"}
+,{"time":"15:02","usr":"TradetheLeader1","txt":"Long 8 stocks $AAPL $GOOG $KORS $ONXX $PCYC $SLV $ZLC $PZZA","lbl":"Positive"}
+,{"time":"15:02","usr":"JustAGuy___","txt":"Uh yeah??? \u201C@investools: I love it when a flag comes together! $GOOG was an example of a bull flag hitting its target. http://t.co/cWWs1cNo\u201D","lbl":"Positive"}
+,{"time":"15:02","usr":"canadadan","txt":"Bot $GOOG Oct12 750 Calls when GOOG was at 755.63","lbl":"Positive"}
+,{"time":"15:41","usr":"JamarParris","txt":"Hmm CalDav or Exchange for Google Contacts. CalDav has the ability to sync > 3 emails that Google Sync lacks. $GOOG","lbl":"Negative"}
+,{"time":"17:02","usr":"kenjotto","txt":"Digestion for $GOOG today. Long Nov700/Sept745 call sprd. Regardless of EoD tmrw I will own Nov calls going into wknd","lbl":"Positive"}
+,{"time":"19:11","usr":"skipper_walker","txt":"@blakehounshell @tonyfratto @TheStalwart crazy that $goog makes a better car than $gm","lbl":"Positive"}
+,{"time":"21:25","usr":"BreezeTrading","txt":"$GOOG Short @ $764.89 worken well $STUDY","lbl":"Negative"}
+]

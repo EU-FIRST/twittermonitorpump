@@ -1,0 +1,11 @@
+[
+{"time":"1:12","usr":"the_real_bob_sa","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/yeM66wdW #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Negative"}
+,{"time":"1:15","usr":"Six6DC","txt":"RT @TheStreet: Motorola Mobility Hits Rough Patch http://t.co/5EczixLb by @ericjackson $MMI $AAPL $GOOG","lbl":"Negative"}
+,{"time":"11:25","usr":"bsvtwit","txt":"4hr charts of $APPL and $MSFT suggest another leg higher. $GOOG and $IBM indicating lower.#CL in a bullish triangle #VIX wants to pop higher","lbl":"Negative"}
+,{"time":"11:29","usr":"wallstCS","txt":"Analyst Insights: Google Stock Favorable, Citrix Shares Positive, F5 Stock a Buy http://t.co/IGkOKg0P $GOOG $CTSX $FFIV #mkt #stocks","lbl":"Positive"}
+,{"time":"12:49","usr":"BioTechReports","txt":"$YMI here comes the break out! Strong Buy - IMO $DNDN, $BAC, $WMT, $JPM, $C, $SIRI, $WFC, $GOOG, $AAPL","lbl":"Positive"}
+,{"time":"15:42","usr":"jcatcw","txt":"RT @Computerworld: RT @richi: 3 things Google Apps needs to fix... like, NOW http://t.co/AOdXR8f2 #tlv $GOOG [Insider: free reg. req.]","lbl":"Negative"}
+,{"time":"16:51","usr":"AJatBridgeGate","txt":"Nice $GOOG Bigger than Google+, MySpace isn\u2019t dead yet http://t.co/HGhwpglm","lbl":"Positive"}
+,{"time":"16:53","usr":"VanessaAlvarez1","txt":".@vambenepe Exactly what I was thinking, $GOOG lucky to have her, she brings all that enterprise, networking, virt knowledge","lbl":"Positive"}
+,{"time":"22:47","usr":"$GOOG","txt":"$GOOG is inclusive and wants to show Twitter/FCBK results in its search. Twitter & Facebook choose to exclude themselves -- prohibiting GOOG","lbl":"Negative"}
+]

@@ -1,0 +1,5 @@
+[
+{"time":"13:30","usr":"$GOOG","txt":"@AronPinson Will they bite at this valuation? Why not wait a few quarters and buy it on the cheap? $GOOG $RIMM","lbl":"Negative"}
+,{"time":"14:18","usr":"wallstCS","txt":"Apple Analyst Conservative, Google Shares Positive, eBay Estimates Strong http://t.co/sqxFA2ix $AAPL $GOOG $JPM $EBAY #mkt #stocks #trading","lbl":"Positive"}
+,{"time":"21:15","usr":"TraderFlorida","txt":"$GOOG http://t.co/r8ORhdRt Holding above this support line - earnings this Thursday","lbl":"Positive"}
+]

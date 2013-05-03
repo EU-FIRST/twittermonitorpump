@@ -1,0 +1,8 @@
+[
+{"time":"9:56","usr":"BV_Services","txt":"$AMZN Amazon Makes It Simple for Unity Developers to Add In-App Purchasing and Gam.. http://t.co/kpftRDRk","lbl":"Positive"}
+,{"time":"10:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:16am: 233.16 +3.45 (+1.50%).","lbl":"Positive"}
+,{"time":"10:32","usr":"LaMonicaBuzz","txt":"@TheReal_WCP $BBY $ODP (don\u0027t forget $SPLS) definitely hurting due to economy, $AMZN, $WMT, etc. They may survive but going to be tough.","lbl":"Negative"}
+,{"time":"11:08","usr":"Tony_BATtista","txt":"@panthersfan1234 Same. I did one of my first Jan spreads LIVE @tastytrade on Friday. Bought a bullish $AMZN call diagonal Dec/Jan up 100$","lbl":"Positive"}
+,{"time":"16:23","usr":"RSDTrading","txt":"EOD: Closed: Covered $OIL $CAT, New: Short $AMZN $SPY $XLI, Long $UUP $TLT","lbl":"Negative"}
+,{"time":"16:26","usr":"jamescallahan","txt":"$AMZN :)","lbl":"Positive"}
+]

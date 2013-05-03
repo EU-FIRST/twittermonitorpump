@@ -1,0 +1,9 @@
+[
+{"time":"2:30","usr":"traderwalton","txt":"$GOOG will stand the test of time against $FB. $GOOG is pure utility. $FB is for leisure.","lbl":"Positive"}
+,{"time":"12:24","usr":"WhizCheck6","txt":"Taking a look at weeklies on $goog $aapl $cmg nice split between implied and historical vol in all 3, looking to sell iron condors","lbl":"Negative"}
+,{"time":"15:03","usr":"BaselineAce","txt":"Tweeted 4/17 RT @BaselineAce $AAPL Apple\u0027s best days are behind it. Google, on the other hand, is JUST GETTING STARTED. $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:08","usr":"rentacoach1","txt":"RT @z8angela: RT @z8angela: My new post here: Bearish Reversal on SPX and GOOG along with AAPL Selloff Last Friday http://t.co/ArCHv7Ei - $AAPL $GOOG ...","lbl":"Negative"}
+,{"time":"19:50","usr":"nolte88","txt":"Published $GOOG estimate on Estimize: Expect big things on this report and going forward. Excited fo... http://t.co/aFOt2ekT","lbl":"Positive"}
+,{"time":"19:53","usr":"TMFBiggles","txt":"@onemikey @TMFJMo @adem_tahiri I stand by my prior assessments that wearable augmented reality tech is next, $GOOG is far ahead there.","lbl":"Positive"}
+,{"time":"21:57","usr":"DeidreZune","txt":"$GOOG Google makes first foray into credit business http://t.co/G6wGVAIE Financing ad-sales on $GOOG is another great idea. All upside","lbl":"Positive"}
+]

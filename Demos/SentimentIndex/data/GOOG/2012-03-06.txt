@@ -1,0 +1,11 @@
+[
+{"time":"8:19","usr":"EvolvingMedium","txt":"Google Raises Android App Size Cap to 4GB $goog - http://t.co/xZFQJATd","lbl":"Positive"}
+,{"time":"9:25","usr":"thefinancepress","txt":"$GOOG Judge In Patent Case: Google, Motorola Must Give Info To Apple: Judge In Patent Case: Google, Motorola Mu... http://t.co/tJwC5esg","lbl":"Negative"}
+,{"time":"10:14","usr":"GeoHGoogins","txt":"Bought #google $goog march 595 calls. call me a contrarian, going long today,stocks have come down well below 2 #standarddeviation","lbl":"Positive"}
+,{"time":"10:14","usr":"MarketsCJR","txt":"Short $GOOG $601","lbl":"Negative"}
+,{"time":"10:39","usr":"thinkingtrades","txt":"$GOOG is the most wretched stock to trade naked $calls and $puts on. Best to sell premium on it. This is my 2012 resolution.","lbl":"Negative"}
+,{"time":"14:11","usr":"itsjoshnorris","txt":"Google Creates Hub for Purchasing Android Apps, Entertainment in One Place - Bloomberg http://t.co/3LZLoHCk $AAPL $GOOG","lbl":"Positive"}
+,{"time":"15:08","usr":"MessingwithBest","txt":"\u0022@SAI: Google Just Killed The Android Market, Here\u0027s What You\u0027ll Get Instead $GOOG by @_dtl http://t.co/H5erk6Cw\u0022 @averagekid ya hearddd","lbl":"Positive"}
+,{"time":"15:09","usr":"thefinancepress","txt":"$GOOG Google Sold Its Clearwire Stake For $433.5 Million Loss: Google Sold Its Clearwire Stake For $433.5 Milli... http://t.co/lNXxOZ73","lbl":"Negative"}
+,{"time":"16:01","usr":"burakkucherii","txt":"RT @SAI: Google Just Killed The Android Market, Here\u0027s What You\u0027ll Get Instead $GOOG by @_dtl http://t.co/8SSSDUp7","lbl":"Positive"}
+]

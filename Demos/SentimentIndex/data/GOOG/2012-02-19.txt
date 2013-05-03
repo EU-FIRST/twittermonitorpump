@@ -1,0 +1,6 @@
+[
+{"time":"2:00","usr":"SeekingAlpha","txt":"Google Puts Remain An Attractive Short-Term Bearish Play http://t.co/0tEj5kOb $VXX $GOOG","lbl":"Negative"}
+,{"time":"2:09","usr":"brokerz_bearish","txt":"RT @SeekingAlpha - Google Puts Remain An Attractive Short-Term Bearish Play http://t.co/K9Y1Uu7M $VXX $GOOG","lbl":"Negative"}
+,{"time":"11:32","usr":"DrDuru","txt":"Google Puts Remain An Attractive Short-Term Bearish Play: http://t.co/nRKXbbSK $GOOG $VXX #options #puts","lbl":"Negative"}
+,{"time":"21:46","usr":"brainml","txt":"RT @kaz: Screw pie charts, these first 3 graphs speak volumes about the strength of $APPL $MSFT and $GOOG\u0027s biz: http://t.co/u2JzMV3j via @asymco","lbl":"Positive"}
+]

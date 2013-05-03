@@ -1,0 +1,7 @@
+[
+{"time":"10:07","usr":"LeeWinbush","txt":"RT @businessinsider: There\u0027s A Lot Of Evidence Amazon Will Drop A New Kindle Fire Any Day Now $AMZN by @stevekovach http://t.co/sXSUanOB","lbl":"Positive"}
+,{"time":"10:08","usr":"Lekozza","txt":"RT @businessinsider: There\u0027s A Lot Of Evidence Amazon Will Drop A New Kindle Fire Any Day Now $AMZN by @stevekovach http://t.co/sXSUanOB","lbl":"Positive"}
+,{"time":"13:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:47pm: 231.8302 -2.2298 (-0.95%).","lbl":"Negative"}
+,{"time":"18:45","usr":"saul42","txt":"Commented on: \u0022Amazon Bulls: An Extra 9.5% Or An Entry Of $201\u0022 http://t.co/PGQvtILc $AMZN","lbl":"Positive"}
+,{"time":"19:01","usr":"Lawndale1","txt":"Commented on: \u0022Amazon Bulls: An Extra 9.5% Or An Entry Of $201\u0022 http://t.co/GJjfbpSG $AMZN","lbl":"Positive"}
+]

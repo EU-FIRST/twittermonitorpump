@@ -1,0 +1,9 @@
+[
+{"time":"10:01","usr":"bluser12","txt":"Boom more lows $AMZN","lbl":"Negative"}
+,{"time":"10:12","usr":"RobertWeinstein","txt":"Is $AMZN discounting Kindle Fire HD a sign of desperation? $AAPL appears to maintain pricing power. If Kindle Fire was @ cost, now a loss??","lbl":"Negative"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:47am: 251.23 +3.46 (+1.40%).","lbl":"Positive"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:47am: 252.87 +5.10 (+2.06%).","lbl":"Positive"}
+,{"time":"12:35","usr":"DividendMaster","txt":"$AMZN rallying hard on news all MA orders will now include sales tax eliminating that advantage .","lbl":"Positive"}
+,{"time":"13:11","usr":"StockPlayer6","txt":"RT @z8angela: Double tops on $AAPL intraday chart as res was rejected. $AMZN may see weaker close. $PCLN bounced, then dropped. Good to sell into the rip.","lbl":"Negative"}
+,{"time":"17:36","usr":"popaihq","txt":"RT @retail_sails: Walmart Has An Aggressive Strategy To Do #eCommerce Right, And Amazon Should Watch Out http://t.co/vtKbbkFt $WMT $AMZN #retail","lbl":"Negative"}
+]

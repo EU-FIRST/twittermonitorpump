@@ -1,0 +1,8 @@
+[
+{"time":"11:11","usr":"Daniel_Aaron17","txt":"@LongVollllll Would like to see it down to 150-152 area. Should be lower but it always defies gravity like $AMZN. Shorted at $157 and $159","lbl":"Negative"}
+,{"time":"13:17","usr":"MomentumPtrsLLC","txt":"\u0022@MomentumPartnersLLC: $AMZN there is a chance of $357.50 but volume is light for that kind of move so far\u0022 sorry 257.50 lol","lbl":"Positive"}
+,{"time":"14:33","usr":"Fitzstock2004","txt":"@tpetrone22 u know the stock i like $amzn $pcln $ebay and $bac.......only stock i traded this afternoon was $bac weekly calls....GL","lbl":"Positive"}
+,{"time":"15:12","usr":"Corkviews","txt":"$AMZN nhods hehe","lbl":"Positive"}
+,{"time":"15:54","usr":"smendozag","txt":"Holding $sbux will expires worthless?, $fb ripping and keeping it, $lulu into earnings-speculation, $Qihu 1/4 remain , $amzn ripping-keeping","lbl":"Positive"}
+,{"time":"16:59","usr":"xtranger51","txt":"Stocks I want to LONG at some point: $BAC, $YHOO, $QCOM, EBAY, $AMZN and some speculative lol $AAPL","lbl":"Positive"}
+]

@@ -1,0 +1,24 @@
+[
+{"time":"2:25","usr":"smells_fargo","txt":"Amazon app check shop prices, ditch retailers http://t.co/2jbIy0P6 #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Positive"}
+,{"time":"6:36","usr":"LSilverspar","txt":"RT @Benzinga: $AMZN Downgraded to Equal-weight at Morgan Stanley","lbl":"Negative"}
+,{"time":"6:39","usr":"thenotablecalls","txt":"$AMZN - \u0027We would be buyers of the stk at levels closer to $150 (~1x 2012E Net Sales) or toward the end of the more challenging year ahead.\u0027","lbl":"Positive"}
+,{"time":"7:55","usr":"The_Domino","txt":"#StocksToWatch premarket...$NILE -25% after profit forecast misses...$NVDA -6% sales forecast misses...$AMZN -4% on downgrade by $MS $$","lbl":"Negative"}
+,{"time":"8:47","usr":"RogueStockTradr","txt":"Man $AMZN what a beatdown!! If it stays under 180 that POS is in trouble!","lbl":"Negative"}
+,{"time":"8:47","usr":"event_trader","txt":"Pre-market red: $ACOM -10.6%, $NILE -22.4%, $NVDA -7.2%, $MAR -1.2%, $AMZN -3%, $GLD -1.2%, $SLV -1.8%","lbl":"Negative"}
+,{"time":"8:48","usr":"firstadopter","txt":"Better more detailed summary of Morgan Stanley $AMZN downgrade here: http://t.co/yP8INamE","lbl":"Negative"}
+,{"time":"9:31","usr":"CapCube","txt":"Even @jimcramer now admitting $AMZN has issues, and is heading lower. His HF buds must now be loaded short.","lbl":"Negative"}
+,{"time":"9:31","usr":"DrDuru","txt":"Sold $AMZN Feb $180 puts. Ironically, I think that gain matched the entire gain from the long post-earnings play: http://t.co/fSWuHMy5","lbl":"Positive"}
+,{"time":"9:32","usr":"oktobernv","txt":"Let\u0027s see if $AMZN can hold $175 - I say no.","lbl":"Negative"}
+,{"time":"9:57","usr":"FrugalBenjamin","txt":"$AMZN - Unless we get 180+ back today, the 3+ year support for Amazon has broke! http://t.co/vGpPnTp9","lbl":"Negative"}
+,{"time":"9:58","usr":"statsreal","txt":"added to $amzn short 176.41, avg 184.40","lbl":"Negative"}
+,{"time":"11:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:16am: 176.40 -8.07 (-4.37%).","lbl":"Negative"}
+,{"time":"11:32","usr":"LDrogen","txt":"$AMZN is a dog, the market just doesn\u0027t like it here because it doesn\u0027t believe in Bezos\u0027 vision for mobile, neither do I","lbl":"Negative"}
+,{"time":"14:15","usr":"ACE52weekhigh","txt":"$AMZN now ripping so far +.26","lbl":"Positive"}
+,{"time":"14:50","usr":"HarrisStevenJ","txt":"$AMZN above 180 now... looking to see some green","lbl":"Positive"}
+,{"time":"14:50","usr":"izzie325","txt":"$AMZN......called it","lbl":"Positive"}
+,{"time":"14:51","usr":"dschorrnyc","txt":"$AMZN ripping","lbl":"Positive"}
+,{"time":"15:37","usr":"ACE52weekhigh","txt":"Sold my pos in $AMZN +1.10","lbl":"Negative"}
+,{"time":"16:13","usr":"Bytesfrombits","txt":"Amazon Grabs 14% of Tablet Market $AMZN #tablets #isuppli $AAPL #Apple #mobile #nook #tab http://t.co/eav1P4T8","lbl":"Positive"}
+,{"time":"16:16","usr":"UnicornsRule","txt":"RT @CNNMoney: RT @julpepitone: How the iPhone 4S boosted Amazon\u0027s Kindle Fire sales http://t.co/t9FKhi2i via @CNNMoneyTech $AAPL $AMZN","lbl":"Positive"}
+,{"time":"18:01","usr":"seeitmarket","txt":"RT @andrewnyquist: Amazon stock near very important long term uptrend support. See it. http://t.co/yD7y5zQH $AMZN $QQQ pub\u0027d on @seeitmarket","lbl":"Positive"}
+]

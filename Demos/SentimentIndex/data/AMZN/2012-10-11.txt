@@ -1,0 +1,8 @@
+[
+{"time":"0:15","usr":"TurboResearch","txt":"$EBay launches site redesign http://t.co/LmNK5QYl -> lol honestly,how do they even sell anything? Still looks pre-dotcom $AMZN miles ahead !","lbl":"Positive"}
+,{"time":"9:23","usr":"Dasan","txt":"$AMZN Kindle Paperwhite such a monster hit if you order one today, shipment estimated at 3rd week in November","lbl":"Positive"}
+,{"time":"9:55","usr":"traderstewie","txt":"$PCLN, pooping out big time lately. $AAPL, and $AMZN, behaving rather weak on a day like today.","lbl":"Negative"}
+,{"time":"11:04","usr":"takingstock614","txt":"Good afternoon... Step away for a bit and market sells off, key stocks like $AAPL $AMZN $PCLN all reverse negative. Not a healthy sign.","lbl":"Negative"}
+,{"time":"12:39","usr":"Hubon","txt":"@marktpirate1 We will see, short term $AMZN is a sell, looks like a double top, should retest break out around 228 http://t.co/xkvMJ3vI","lbl":"Negative"}
+,{"time":"14:29","usr":"DarvasTrader","txt":"$AMZN having a little trouble with the 50-day line right now. Keep an eye on how it closes out the week.","lbl":"Negative"}
+]

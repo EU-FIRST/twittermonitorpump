@@ -1,0 +1,9 @@
+[
+{"time":"6:15","usr":"themaxpain","txt":"$GOOG ($576.73), 7/18/2012, current max pain strike price: $575.00. Put/Call ratio: 0.778. #GOOG","lbl":"Negative"}
+,{"time":"8:46","usr":"takingstock614","txt":"Holding long $BIDU $AAPL $GOOG and short of $FOSL","lbl":"Positive"}
+,{"time":"11:50","usr":"nichcarlson","txt":"New Yahoo CEO Marissa Mayer\u0027s Audacious Goal: Beat Facebook And Google $FB $GOOG $YHOO http://t.co/xZJQ23tC","lbl":"Negative"}
+,{"time":"14:10","usr":"graeme_talbot","txt":"Cut $appl at 606, still long $goog. Getting long index if we a rally into close","lbl":"Positive"}
+,{"time":"16:11","usr":"bnkausik","txt":"@RolfeWinkler Crass title notwithstanding, $GOOG 40B ttm revenue, 33K employees, for 1.22M/emp. How did you get 1M/emp?","lbl":"Positive"}
+,{"time":"19:34","usr":"gegax","txt":"RT @Bill_Gross: Peter Thiel ACTUALLY said this, \u0022$Goog has $50B in cash & NO idea how to invest it effectively, prefers to get 0% interest from Bernanke.\u0022","lbl":"Negative"}
+,{"time":"22:15","usr":"mathys","txt":"RT @Bill_Gross: Peter Thiel ACTUALLY said this, \u0022$Goog has $50B in cash & NO idea how to invest it effectively, prefers to get 0% interest from Bernanke.\u0022","lbl":"Negative"}
+]

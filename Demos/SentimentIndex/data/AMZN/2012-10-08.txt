@@ -1,0 +1,8 @@
+[
+{"time":"8:28","usr":"HedgeyeRetail","txt":"RT @HedgeyeRetail: This a.m. we debated whether $AMZN would be hurt. Likely more in perception than reality. Dollar Stores on the pain list.","lbl":"Positive"}
+,{"time":"10:12","usr":"henrygambell","txt":"$AAPL is taking a beating - right on top of critical extensions. $UNG doing fine, stalking $AMZN for a buy http://t.co/v2cvJVYv","lbl":"Positive"}
+,{"time":"14:33","usr":"nolte88","txt":"$AMZN added long on break of $259 I wanted. TINY position. Tight leash b/c vol terrible. Will carry into tomorrow probably.","lbl":"Positive"}
+,{"time":"14:34","usr":"takingstock614","txt":"$AMZN stay with it. Chart looks fine. Still above 8/21dma\u0027s.","lbl":"Positive"}
+,{"time":"15:22","usr":"Stocks_Plus","txt":"$AAPL, $GOOG, $MSFT, $AMZN BUY Apple. SHORT Kass. http://t.co/SxIlVGos via @Stocks_Plus","lbl":"Positive"}
+,{"time":"20:38","usr":"br1ckz","txt":"Any are good w me \u201C@StockTwits:Who Will Be the First Trillion Dollar Company? http://t.co/ucMr4u4M via @howardlindzon $GOOG $AAPL $FB $AMZN\u201D","lbl":"Positive"}
+]

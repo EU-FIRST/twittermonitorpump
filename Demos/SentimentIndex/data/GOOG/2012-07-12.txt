@@ -1,0 +1,14 @@
+[
+{"time":"2:30","usr":"twit_ashutosh","txt":"RT @SeekingAlpha: Google Has 30% Upside, Oracle More Than 45% Upside http://t.co/wVz7JBEU $ORCL $GOOG","lbl":"Negative"}
+,{"time":"2:36","usr":"thefinancepress","txt":"$GOOG Google Has 30% Upside, Oracle More Than 45% Upside: Google Has 30% Upside, Oracle More Than 45% Upside Se... http://t.co/TSgDav7Q","lbl":"Positive"}
+,{"time":"5:57","usr":"newsonnbc","txt":"RT @CNNMoney: Google to pay $22.5 million fine for Safari privacy evasion. Details: http://t.co/bB0ihOiP $GOOG","lbl":"Negative"}
+,{"time":"5:57","usr":"ArmanddelCorral","txt":"RT @CNNMoney: Google to pay $22.5 million fine for Safari privacy evasion. Details: http://t.co/bB0ihOiP $GOOG","lbl":"Negative"}
+,{"time":"7:49","usr":"tkuz4u","txt":"Well, I say this every year & it\u0027s true more then ever:$GOOG is cheap. It\u0027s 1,2 or 3 in 5 hottest areas in tech. One of these days, boy-BOOM","lbl":"Positive"}
+,{"time":"9:32","usr":"TheLondonWhale","txt":"shorting $GOOG here, looks heavy, declining on increased volume, successive lower highs, potentially breaking down","lbl":"Negative"}
+,{"time":"10:58","usr":"Trefis","txt":"Google & Asus Making a Healthy Profit on the Nexus 7; iPad Mini Crucial for Apple http://t.co/ix0cFpmw by Trefis Team $AAPL $GOOG $YHOO","lbl":"Positive"}
+,{"time":"11:01","usr":"__Shashank","txt":"2 to @twitter? \u0022@JonErlichman: Google shareholder David Winters: it is \u0022the most important media company in world\u0022 $GOOG @BloombergTV #sv12\u0022","lbl":"Positive"}
+,{"time":"13:19","usr":"SAI","txt":"THE GOOGLE INVESTOR: Cable Companies Should Be Terrified Of Google Fiber $GOOG by @hleonard76 http://t.co/V1qLxWNd","lbl":"Positive"}
+,{"time":"13:20","usr":"flibustier3","txt":"RT @SAI: THE GOOGLE INVESTOR: Cable Companies Should Be Terrified Of Google Fiber $GOOG by @hleonard76 http://t.co/V1qLxWNd","lbl":"Positive"}
+,{"time":"14:41","usr":"SunnyVegas360","txt":"$AAPL $GOOG All the LONG been taken to the cleaner the past few days :-) Just hope $JPM and China Help you out tomorrow :-)","lbl":"Positive"}
+,{"time":"19:23","usr":"brianwomack","txt":"Google CEO Page\u0027s health \u0027much better,\u0027 Schmidt says. http://t.co/J1atyYGF $GOOG","lbl":"Positive"}
+]

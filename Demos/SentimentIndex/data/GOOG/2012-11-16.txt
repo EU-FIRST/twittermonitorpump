@@ -1,0 +1,20 @@
+[
+{"time":"8:32","usr":"scheplick","txt":"\u0022@firstadopter: $GOOG Android 90% smart-phone market-share in China http://t.co/m6xMzgxY\u0022","lbl":"Positive"}
+,{"time":"10:02","usr":"nexgennovak","txt":"$GOOG Retesting fibonacci support with strength to downside. http://t.co/zIevS3Ry","lbl":"Negative"}
+,{"time":"10:48","usr":"generalholding","txt":"RT @businessinsider: This Trend Is Very Worrisome For Apple $AAPL $GOOG by @hblodget http://t.co/AAh3oWyZ","lbl":"Negative"}
+,{"time":"11:22","usr":"jeffmc2011","txt":"@GuyAdami I think what is funny you don\u0027t even talk $GOOG on Fast Money and it is negative YTD. I can\u0027t believe AAPL drop","lbl":"Negative"}
+,{"time":"11:59","usr":"tradethembi","txt":"$GOOG came off yellw dot buys then new orange dot buy 644 and nearing target 648.09 http://t.co/EQhbPaWo","lbl":"Positive"}
+,{"time":"12:39","usr":"cooldaddy5x","txt":"$SPY $AAPL $GOOG would not want to be short over the weekend!","lbl":"Positive"}
+,{"time":"12:39","usr":"larryfooter","txt":"RT @Legacy_Trades: DIRECTIONAL BETS - New: First (1x) scales L: $AAPL Dec 550 calls @ 10 & L: $GOOG Dec 670 calls @ 7.50.","lbl":"Positive"}
+,{"time":"13:31","usr":"mercbizbreak","txt":"Judge seems OK with Google\u0027s FTC deal on privacy snafu with Apple\u0027s Safari browser, @BrandonBailey reports. $GOOG $AAPL http://t.co/pHDytnpf","lbl":"Positive"}
+,{"time":"13:33","usr":"jmover","txt":"it\u0027s bananas that @twitter search is so bad. I just tried to search for 3 people i know are on twitter but couldn\u0027t find them. had use $GOOG","lbl":"Positive"}
+,{"time":"14:34","usr":"JustinPulitzer","txt":"I preface this with saying I HATE $GOOG management, but the stock is looking attractive. OTM Put sale candidate on VOL spikes. #PriceMatters","lbl":"Positive"}
+,{"time":"14:36","usr":"denizarik","txt":"RT @SAI: This Trend Is Very Worrisome For Apple $AAPL $GOOG by @hblodget http://t.co/LDbzo1KK","lbl":"Negative"}
+,{"time":"16:15","usr":"MikeLangford","txt":"This is HUGE if true. RT @verge: Google and Dish Network are in talks to launch a wireless service, says WSJ http://t.co/qO27CsA6 $GOOG","lbl":"Positive"}
+,{"time":"16:15","usr":"DeidreZune","txt":"In this excitement, let\u0027s not overlook the fact that $GOOG closed DOWN 8cents. Can\u0027t boast of RED DOG POINTED NOSE HAMMER REVERSAL $AAPL can","lbl":"Negative"}
+,{"time":"17:18","usr":"Monster_Trader","txt":"RT @JWard_73: Just not a powerful positive reversal like 2/5/10 and 10/4/12. Set-ups lacking. Typical snap-back rally. $AAPL $GOOG $BIDU $LNKD $QQQ $SPY","lbl":"Negative"}
+,{"time":"17:22","usr":"dkentslc","txt":"MT: Beware the \u0022Great Unwashed Smartphone Buyers\u0022 #hblodget #cogent This Trend Is Very Worrisome For Apple $AAPL $GOOG http://t.co/47JF8rx6","lbl":"Negative"}
+,{"time":"19:02","usr":"Japanesegunto","txt":"$Goog at 648 while $AAPL at 528. This race $Goog beat $AAPL. Next one is how fast $AAPL is trying to Ketch up.....","lbl":"Positive"}
+,{"time":"19:04","usr":"PeteRuso","txt":"RT @Tradified: \u27A1 Insider Trading: $GOOG Brin Sergey Director SOLD 45000 shares \u2611","lbl":"Negative"}
+,{"time":"23:52","usr":"USwwwStocks","txt":"$GOOG News: Google, Dish Held Talks to Launch Wireless Service http://t.co/53vRL1mX #Dish #GOOG #Google","lbl":"Positive"}
+]

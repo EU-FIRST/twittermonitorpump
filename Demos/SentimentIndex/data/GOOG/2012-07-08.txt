@@ -1,0 +1,4 @@
+[
+{"time":"18:55","usr":"JchartUpdates","txt":"Potential Sell Setup in our Overall Market Breadth Momentum Indicator http://t.co/8blS4jYX $QQQ $SPX $SPY $DJI $AAPL $GOOG $IBM $SLB","lbl":"Negative"}
+,{"time":"18:58","usr":"jrmcoleman","txt":"RT @BluHorShoe: A move under the 5ema and I am back to shorting the $GOOG. I like the rejecion at the 200, over that im long http://t.co/mMoNlxKY #WORDEN","lbl":"Negative"}
+]

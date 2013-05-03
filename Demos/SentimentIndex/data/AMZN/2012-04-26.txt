@@ -1,0 +1,51 @@
+[
+{"time":"7:49","usr":"aznboi27","txt":"hrm... thinking about going upside on $AMZN and $CSTR","lbl":"Positive"}
+,{"time":"13:13","usr":"Mark_Lexus","txt":"entered $amzn 185/180/175 put flys","lbl":"Negative"}
+,{"time":"14:10","usr":"BichonLover","txt":"Glad I didn\u0027t get back into $AMZN. I don\u0027t go back for seconds.","lbl":"Negative"}
+,{"time":"15:29","usr":"61point8","txt":"I thought I saw $AMZN spike down to $185.","lbl":"Negative"}
+,{"time":"15:32","usr":"juliogarcia","txt":"Damn. Wrong on $amzn, up 5% after hours.","lbl":"Positive"}
+,{"time":"15:33","usr":"the_music_gal","txt":"Surprised by $amzn Congrats to whoever got it when it dropped right before the report.","lbl":"Negative"}
+,{"time":"15:33","usr":"JeffLayman","txt":"RT @CNBC: Earnings Alert: Amazon sees Q1 EPS of $0.28 vs. $0.07 est., Q1 Revs. of $13.2B vs. $12.9B est. $AMZN Quote: http://t.co/W03t75LO","lbl":"Positive"}
+,{"time":"15:35","usr":"nonamewbuou","txt":"$AMZN 1Q EPS $0.28, EST. $0.08, Rev. $13.18B vs $12.9B(EST.)","lbl":"Positive"}
+,{"time":"15:37","usr":"thinkingtrades","txt":"RT @Fitzstock2004 TF was long $amzn ............IN HIS \u0022OTHER ACCOUNT\u0022........lmao","lbl":"Positive"}
+,{"time":"15:37","usr":"lewisdtown2012","txt":"so Now all the long $AMZN and short $DECK traders will be tweeting loud and proud. sure, ok :)","lbl":"Positive"}
+,{"time":"15:37","usr":"sspencer_smb","txt":"i would like to see a pullback in $AMZN to 208ish but don\u0027t think its in the cards :( http://t.co/Y9viWwjG","lbl":"Positive"}
+,{"time":"15:41","usr":"1hvacguy","txt":"People been shorting $AMZN years when will you learn","lbl":"Positive"}
+,{"time":"15:41","usr":"JuiceMkts","txt":"$AMZN amazes me. No position. But the valuations are obsurd. I would short this name. I may do so in ah.....hmm","lbl":"Negative"}
+,{"time":"15:44","usr":"MattRosoff","txt":"LIVE: Amazon Reports A HUGE Beat, Stock Jumps 10% $AMZN http://t.co/5L011aSK","lbl":"Positive"}
+,{"time":"15:44","usr":"TrackingMarkets","txt":"another $800+ day. some crazy move in $AMZN today after hours!!","lbl":"Positive"}
+,{"time":"15:44","usr":"SAI","txt":"LIVE: Amazon Reports A HUGE Beat, Stock Jumps 10% $AMZN by @MattRosoff http://t.co/hjZWBadC","lbl":"Positive"}
+,{"time":"15:47","usr":"JuiceMkts","txt":"This got ridiculous. Short 300 shares of $AMZN at 217.63 #TimeStamped for you @KeithMcCullough","lbl":"Negative"}
+,{"time":"15:50","usr":"StockAction","txt":"RT @TheEmulator23: Kindle worked. it\u0027s Radioactive now. #stockaction $AMZN","lbl":"Positive"}
+,{"time":"15:53","usr":"MelvaLeblanc","txt":"$AMZN Get Paid Today $220+ Paid Daily, UsingTwitter Free To Start! Call/Text: 813**995**7678","lbl":"Positive"}
+,{"time":"15:56","usr":"graubart","txt":"I\u0027m glad that I just sit on my $AMZN stock. Love the biz & the co. Key part of my long-term portfolio","lbl":"Positive"}
+,{"time":"15:56","usr":"LillianConway1","txt":"$AMZN Hunting for a Legitimate Do business from home Postion with out selling anything?Require Meeting 781-353-0021","lbl":"Negative"}
+,{"time":"15:59","usr":"KenShreve","txt":"Positive response so far to earnings from $AMZN $WDC -- not so much so with $FIO, $SBUX $CSTR","lbl":"Positive"}
+,{"time":"16:00","usr":"ElsaWest1","txt":"$AMZN The mystery was just revealed. Try the revolutionary new take on a disgusting homeless \u0022hippie bum\u0022 here 888 374 0098","lbl":"Negative"}
+,{"time":"16:04","usr":"LaMonicaBuzz","txt":"RT @julpepitone: Amazon blows estimates away. Stock surges. http://t.co/EWv80MdQ via @CNNMoneyTech $AMZN","lbl":"Positive"}
+,{"time":"16:04","usr":"Commodity_Bull","txt":"$AMZN ROIC down to 12%","lbl":"Negative"}
+,{"time":"16:14","usr":"jonasQuinn23","txt":"Holy Molly $amzn up 26 bucks or better than 13.5% in the aftermarket. $AAPL. Apple should get that p/e of 140x","lbl":"Positive"}
+,{"time":"16:14","usr":"darealmanmib","txt":"RT @GOODGREED: $AMZN posted operating margins of 1.5%, that is something to be proud of...","lbl":"Positive"}
+,{"time":"16:17","usr":"moe00764","txt":"RT @CNNMoney: RT @julpepitone: Amazon blows estimates away. Stock surges. http://t.co/nl4QLB2k via @CNNMoneyTech $AMZN","lbl":"Positive"}
+,{"time":"16:17","usr":"CharlottePric13","txt":"$AMZN The mystery was simply revealed. Check out the revolutionary new take on a disgusting homeless \u0022hippie bum\u0022 here <888>.374.0098","lbl":"Negative"}
+,{"time":"16:20","usr":"whoiscgm","txt":"RT @firstadopter: #s aren\u0027t even that good on absolute basis, but yes $AMZN will squeeze short-term b/c everyone got too negative into print. I need a drink","lbl":"Negative"}
+,{"time":"16:26","usr":"justmegregory","txt":"Wow. Just got out of the dentist chair. Some happy $AMZN longs out there.","lbl":"Positive"}
+,{"time":"16:27","usr":"dianesilvakw","txt":"RT @CNNMoney: RT @julpepitone: Amazon blows estimates away. Stock surges. http://t.co/nl4QLB2k via @CNNMoneyTech $AMZN","lbl":"Positive"}
+,{"time":"16:27","usr":"CDMCapital","txt":"$AMZN who pays for 28 cents in earnings on a $200+ stock?.& expecting an operating loss next Q...call me old fashioned","lbl":"Negative"}
+,{"time":"16:35","usr":"morningErnest","txt":"Really interesting with AMZN this time because last 2 quarters for EPS bagged long-side investors. $AMZN","lbl":"Positive"}
+,{"time":"16:35","usr":"daytr8er1","txt":"$AMZN nice $223 AH.","lbl":"Positive"}
+,{"time":"16:53","usr":"joey_volpe","txt":"See! RT @zerohedge: $AMZN Surges On After-Tax Accounting Gimmick, Cash Burn, Collapsing Margins, Negative Guidance http://t.co/GNw4SiYC","lbl":"Positive"}
+,{"time":"17:04","usr":"MoonMagicGLD","txt":"How are the titans of tech selling off after beating the street and the fundamentally trash online retailer $AMZN is roaring after earnings?","lbl":"Positive"}
+,{"time":"17:18","usr":"TravisWobama","txt":"RT @CNBC: Earnings Alert: Amazon sees Q1 EPS of $0.28 vs. $0.07 est., Q1 Revs. of $13.2B vs. $12.9B est. $AMZN Quote: http://t.co/W03t75LO","lbl":"Positive"}
+,{"time":"17:19","usr":"BUDDIEE18","txt":"RT @61point8: To those who played the short side of $AMZN, my apologies.","lbl":"Positive"}
+,{"time":"17:34","usr":"thinkingtrades","txt":"RT @cselland RT @ldignan: New post: Amazon\u0027s Q1 stronger than expected; Is it the Kindle effect? http://t.co/suYDfWn5 $AMZN","lbl":"Positive"}
+,{"time":"17:34","usr":"EricInFishers","txt":"RT @CNBC: Earnings Alert: Amazon sees Q1 EPS of $0.28 vs. $0.07 est., Q1 Revs. of $13.2B vs. $12.9B est. $AMZN Quote: http://t.co/W03t75LO","lbl":"Positive"}
+,{"time":"17:35","usr":"magicaranya","txt":"RT @CNBC: Earnings Alert: Amazon sees Q1 EPS of $0.28 vs. $0.07 est., Q1 Revs. of $13.2B vs. $12.9B est. $AMZN Quote: http://t.co/W03t75LO","lbl":"Positive"}
+,{"time":"18:00","usr":"MichaelKrey","txt":"Yes, Amazon $AMZN still spending. But still raking it in as well. Q1 EPS way over views, stock up 13% after hours http://t.co/ARvipj5X","lbl":"Positive"}
+,{"time":"19:50","usr":"zoghedge","txt":"RT @CNBC: Earnings Alert: Amazon sees Q1 EPS of $0.28 vs. $0.07 est., Q1 Revs. of $13.2B vs. $12.9B est. $AMZN Quote: http://t.co/W03t75LO","lbl":"Positive"}
+,{"time":"21:13","usr":"Scruz83","txt":"RT @GOODGREED: $AMZN operating expenses are out of control, technology/content has doubled, COGS rising faster than Sales. Burning cash like no ones biz","lbl":"Negative"}
+,{"time":"21:13","usr":"Rob_Hager","txt":"Amazon\u0027s Stock Soars on Rapid Sales Growth http://t.co/9VRLzfYz $AMZN","lbl":"Positive"}
+,{"time":"22:36","usr":"LivingThankful","txt":"Tablet Competition Heats Up: Kindle Fire Captures more than Half of Android Tablet Market | http://t.co/N0TPIkw5 | $AMZN","lbl":"Positive"}
+,{"time":"22:41","usr":"GOODGREED","txt":"Things could be worse, we could have been long $MDRX #thingscouldbeworseforAMZNshorts $AMZN","lbl":"Negative"}
+,{"time":"22:42","usr":"bluser12","txt":"@stockhaven congrats on $AMZN :)","lbl":"Positive"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"4:07","usr":"lucfun","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"8:19","usr":"Mister_Curtis","txt":"#tech RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/iO7hpJb0","lbl":"Negative"}
+,{"time":"8:21","usr":"manxmidge","txt":"RT @GregoryScallan: RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/96SNOYpv","lbl":"Negative"}
+,{"time":"11:05","usr":"stocksonmymind8","txt":"$GOOG - Google Stock Analysis - CCI is bullish - http://t.co/Tg7ON3Ac","lbl":"Positive"}
+,{"time":"19:02","usr":"theoldfather","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+]

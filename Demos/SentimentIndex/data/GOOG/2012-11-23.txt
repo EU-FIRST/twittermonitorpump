@@ -1,0 +1,4 @@
+[
+{"time":"9:54","usr":"USwwwStocks","txt":"$GOOG News: Google Inc. (NASDAQ:GOOG) made a deliberate mistake, discovery of an Island http://t.co/L6Z4fewO #deliberate #discovery #GOOG","lbl":"Negative"}
+,{"time":"13:27","usr":"TheArmoTrader","txt":"Go Google! Actually caring about the consumer (unlike some other mega-cap Company named after a fruit) http://t.co/oZhVBXso $GOOG","lbl":"Positive"}
+]

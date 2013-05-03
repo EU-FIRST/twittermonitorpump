@@ -1,0 +1,74 @@
+[
+{"time":"7:36","usr":"BenCBanks","txt":"I must say. I am really excited for $amzn and $aapl earnings today. It feels like these earnings are earnings for the whole market $spy","lbl":"Positive"}
+,{"time":"7:37","usr":"baronkemah","txt":"@CAMAR024 I\u0027m thinking about playing calls on $AMZN into earnings, any thoughts? Also, want puts on $BA.","lbl":"Positive"}
+,{"time":"8:36","usr":"HarryWanger","txt":"$IP consumer packaging down sharply doesn\u0027t bode well for $AMZN this eve.","lbl":"Negative"}
+,{"time":"9:51","usr":"RiskReversal","txt":"Chart of the Day - $AAPL and $AMZN, Winners on Deck http://t.co/KGJ6cuii","lbl":"Positive"}
+,{"time":"14:51","usr":"WalterLiveOak","txt":"RT @KeithMcCullough: $AMZN finally looks much more washed out than $AAPL or $GOOG, fyi","lbl":"Negative"}
+,{"time":"15:05","usr":"studentoflife","txt":"RT @CNBC: EARNINGS ALERT: Amazon Q3 Revs. $13.81B vs. $13.92B \u2022 $AMZN QUOTE: http://t.co/W03ozvCE","lbl":"Negative"}
+,{"time":"15:05","usr":"Alfietrade","txt":"This is what happens when $amzn sells kindles at loss to compete with $aapl, you play suicide bomber you might blow up","lbl":"Negative"}
+,{"time":"15:05","usr":"surrept","txt":"$AAPL $AMZN $GOOG all missing would be horrible for the $QQQ. Later two so far. Can $AAPL save the market?","lbl":"Negative"}
+,{"time":"15:06","usr":"ESfuturestrader","txt":"RT @tlmontana: RT @mwonder74: @tlmontana amzn SHORT ? <--- Yes... I posted it Short $AMZN at 2:00pmish","lbl":"Negative"}
+,{"time":"15:06","usr":"hkouros","txt":"$amzn gap down","lbl":"Negative"}
+,{"time":"15:06","usr":"Vconomics","txt":"Pulled the trigger on $AMZN at $205.22","lbl":"Negative"}
+,{"time":"15:07","usr":"sallyshin","txt":"RT @CNBC: EARNINGS ALERT: Amazon Q3 loss of $0.23 ex-items vs. loss of $0.08 est. \u2022 $AMZN QUOTE: http://t.co/W03ozvCE","lbl":"Negative"}
+,{"time":"15:07","usr":"Tangletrade","txt":"whiff on $CSTR and $EXPE, but $AMZN looks good so far (knock on wood)","lbl":"Positive"}
+,{"time":"15:09","usr":"fakeCNBC","txt":"$AMZN to pay a dividend in FREE SHIPPING since they don\u0027t make any money.","lbl":"Negative"}
+,{"time":"15:10","usr":"Bluechiptrend","txt":"Oh My! $AMZN just got smoked!","lbl":"Negative"}
+,{"time":"15:10","usr":"woltz","txt":"So much for \u0022the consumer is alive\u0022 bit $AMZN","lbl":"Negative"}
+,{"time":"15:10","usr":"stockmaster","txt":"$amzn collecting sale tax in CA is killing them...People will go to Costco and buy TV and other big ticket items!","lbl":"Negative"}
+,{"time":"15:11","usr":"beckyhiu","txt":"RT @CNBC: EARNINGS ALERT: Amazon Q3 Revs. $13.81B vs. $13.92B \u2022 $AMZN QUOTE: http://t.co/W03ozvCE","lbl":"Negative"}
+,{"time":"15:11","usr":"DMacBoston","txt":"Has $AMZN ever not missed?","lbl":"Negative"}
+,{"time":"15:12","usr":"nicolasantarell","txt":"\u201C@BloombergTV: BREAKING: Amazon 3Q loss per share $0.60 on$0.37 LivingSocial loss; estimates were for loss of $0.08 $AMZN\u201D","lbl":"Negative"}
+,{"time":"15:12","usr":"FreshGrownApps","txt":"$AMZN reports quarterly loss of $274m on $13.81b in revenue. http://t.co/9vTiQFYo @WSJ","lbl":"Negative"}
+,{"time":"15:13","usr":"Pnjabig2","txt":"RT @MarketCurrents: Amazon (AMZN): Q3 EPS of -$0.23 misses by $0.15. Revenue of $13.81B (+27% Y/Y) misses by $90M. Shares... http://t.co/lhVaF7LI $AMZN","lbl":"Negative"}
+,{"time":"15:15","usr":"MonexTraders","txt":"RT @CNBC EARNINGS ALERT: Amazon Q3 loss of $0.23 ex-items vs. loss of $0.08 est. \u2022 $AMZN QUOTE: http://t.co/ma0fwxcI","lbl":"Negative"}
+,{"time":"15:17","usr":"Catwoman2011","txt":"RT @DeidreZune: By tomorrow, $AMZN will go green. $AMZN investors are most enthusiastic when $AMZN loses more money :)","lbl":"Negative"}
+,{"time":"15:17","usr":"LaMonicaBuzz","txt":"RT @StephenHelmholz: @LaMonicaBuzz $AMZN It will be higher before it\u0027s all over for today. Go figure.","lbl":"Positive"}
+,{"time":"15:20","usr":"Sumenn7063","txt":"My #Short #Strategy on $AMZN is #CORRECT","lbl":"Negative"}
+,{"time":"15:20","usr":"darjohn25","txt":"@RAEckart I have no clue how $amzn catches a bid in after hours considering they had negative margins. Their p/e makes absolutely no sense.","lbl":"Negative"}
+,{"time":"15:23","usr":"takingstock614","txt":"$AMZN just might be up tmrw.","lbl":"Positive"}
+,{"time":"15:23","usr":"MichaelComeau","txt":"BREAKING: $AMZN still doesn\u0027t care about what you think.","lbl":"Negative"}
+,{"time":"15:23","usr":"sharkbiotech","txt":"every Q $AMZN misses every Q $AMZN bounces hard off lows thats 8X in last 10 Qs. stock has doubled in that time frame","lbl":"Negative"}
+,{"time":"15:25","usr":"CAnderson6789","txt":"First $AMZN missed earnings, next $AAPL will. Follow it up with BO getting re-elected and here comes the fiscal cliff.","lbl":"Negative"}
+,{"time":"15:25","usr":"Implosion1","txt":"I guess KD must have shorted the hole in $AMZN.","lbl":"Negative"}
+,{"time":"15:25","usr":"2KnightsTrading","txt":"This is why you do not buy options in stocks like $AMZN on earnings day","lbl":"Negative"}
+,{"time":"15:27","usr":"Squishy_Rishi","txt":"seriously these bounces in $AMZN on pathetic earnings are getting old. One day reality needs to kick in on this stock..right?!","lbl":"Negative"}
+,{"time":"15:28","usr":"tlmontana","txt":"RT @Oprah_World: Every day holds the possibility of a miracle. - Elizabeth David <-- $AMZN Longs!","lbl":"Positive"}
+,{"time":"15:29","usr":"TraderJive","txt":"$AMZN going green after hours.","lbl":"Positive"}
+,{"time":"15:32","usr":"PeterMartin_IG","txt":"Amazon down 5% in post-market trading. $AMZN","lbl":"Negative"}
+,{"time":"15:32","usr":"TradingGuru","txt":"RT $QQQ -.0.50 on $AMZN HUGE MISS #Markets #Business #WallStreet #Finance #Daytrade #Investment #NextTrade #Stx #CNBC","lbl":"Negative"}
+,{"time":"15:32","usr":"1nvestor","txt":"30\u0022 in and the straddle sellers winning BIG time here in $AMZN","lbl":"Positive"}
+,{"time":"15:37","usr":"TradingGuru","txt":"RT $QQQ -.0.80 on $AMZN HUGE MISS #Markets #Business #WallStreet #Finance #Daytrade #Investment #NextTrade #Stx #CNBC","lbl":"Negative"}
+,{"time":"15:41","usr":"spanishNY","txt":"RT @FoxBusiness: Amazon\u2019s stock initially shrank by more than 9% after its disappointing quarterly report. More details here: http://t.co/gJNyquqr $AMZN","lbl":"Negative"}
+,{"time":"15:41","usr":"ninjaman1994","txt":"RT @FoxBusiness: Amazon\u2019s stock initially shrank by more than 9% after its disappointing quarterly report. More details here: http://t.co/gJNyquqr $AMZN","lbl":"Negative"}
+,{"time":"15:42","usr":"Huntercarren","txt":"RT @aarontask: Between $AMZN and $AAPL the \u0027Frankenstorm\u0027 might not wait until next week before slamming Wall Street. #Get2WorkMrChairman","lbl":"Negative"}
+,{"time":"15:46","usr":"iamspinner","txt":"Covered $AMZN 219 for +3 and change. Small gains amuse small minds.","lbl":"Negative"}
+,{"time":"15:53","usr":"XQuickFixX","txt":"@CrappyStockTips institutional buyers trying to defend that 200-220 gap on $AMZN don\u0027t think it will happen. key is 180-200 gap.","lbl":"Negative"}
+,{"time":"15:53","usr":"shabbirghewalla","txt":"RT @DividendMaster $AMZN margins in freefall even as rev growth slows = lights out . They will lose more $ to grow going forward","lbl":"Negative"}
+,{"time":"15:59","usr":"iStockAnalyst","txt":"Amazon (AMZN) Stock Down On Weak Results $AMZN: The internet retail giant disappoints in Q3.[More...] http://t.co/b8theCWs","lbl":"Negative"}
+,{"time":"15:59","usr":"TheStreet","txt":"RT @agara2004: My Tech Takeaway: $FB beats $GOOG on mobile outlook -- $AAPL beats $AMZN on tablet ecosystem headed into \u002713 @thestreet http://t.co/xSNfbVf8","lbl":"Negative"}
+,{"time":"16:02","usr":"davilarino","txt":"RT @MNYCx: $GOOG missed, $AMZN missed, $AAPL missed and your mom missed.","lbl":"Negative"}
+,{"time":"16:02","usr":"mytepe","txt":"RT @BloombergTV: BREAKING: Amazon sees 4Q sales $20.25 billion-$22.75 billion, previous outlook was $22.82 billion $AMZN","lbl":"Negative"}
+,{"time":"16:03","usr":"DallasTexxxas","txt":"$AAPL and $AMZN GREEN on misses! I guess the market had it right in the rundown!","lbl":"Positive"}
+,{"time":"16:03","usr":"ronellman","txt":"Both $AAPL and $AMZN up $20 from after earnings report lows. Uncanny!","lbl":"Negative"}
+,{"time":"16:10","usr":"CashBauer","txt":"RT @CNBC: EARNINGS ALERT: Amazon Q3 Revs. $13.81B vs. $13.92B \u2022 $AMZN QUOTE: http://t.co/gM2TZxhH","lbl":"Negative"}
+,{"time":"16:19","usr":"Qwovadis","txt":"$AMZN down 7% back up now only down 1% a SCREAMING buy here into their best season. http://t.co/pxi1SkqP","lbl":"Positive"}
+,{"time":"16:20","usr":"iBizNews21","txt":"RT @Reuters_Biz: Amazon CFO: Demand for new Kindle tablets and e-readers have been \u0027fantastic.\u0027 $AMZN","lbl":"Positive"}
+,{"time":"16:31","usr":"DallenCyrr","txt":"Why no attention to the fact that Amazon $AMZN is working hard to become the Largest Order Fulfillment Co. in the world? $AMZN Future!!!!","lbl":"Positive"}
+,{"time":"16:31","usr":"Novemurr","txt":"@racemicmixture @Kalendil Writing off this spread like $AMZN oughta write off LivingSocial.","lbl":"Negative"}
+,{"time":"16:31","usr":"CDMCapital","txt":"In relation to relative value $AMZN vs $AAPL, $AMZN is in the tech bubble Y2K arena.","lbl":"Negative"}
+,{"time":"16:48","usr":"Richardlevesque","txt":"\u0022@HedgefundPLAY: RT \u201C@BWhiteCPA: Amazon posts first net loss since 2003 http://t.co/gcIkXyA7\u201D $AMZN #fx\u0022","lbl":"Negative"}
+,{"time":"16:49","usr":"TradingGuru","txt":"RT $AMZN Post Q3 GAAP Loss of 60c Guides Q4 Sales Below http://t.co/ozHsidJY \u2026 #Markets #WallStreet #Finance #Daytrade #NextTrade #Stx #CNBC","lbl":"Negative"}
+,{"time":"17:14","usr":"techtrendtrader","txt":"$AMZN is so proud of their Kindle Fire tablets that they sell them at cost. They believe no one will pay more than cost for them!","lbl":"Negative"}
+,{"time":"17:35","usr":"CrappyStockTips","txt":"@XQuickFixX $AMZN is really bad. Wanna hop on the put bandwagon tomorrow.","lbl":"Negative"}
+,{"time":"18:01","usr":"FoustA","txt":"RT @jimcramer: Go listen to $AMZN conference call if you want a total waste of time....","lbl":"Negative"}
+,{"time":"18:01","usr":"mnkahn","txt":"@SlopeOfHope $AMZN was down 9% at one point after hours. And then there $AAPL.","lbl":"Negative"}
+,{"time":"18:02","usr":"captain9nyr","txt":"RT @jimcramer: Go listen to $AMZN conference call if you want a total waste of time....","lbl":"Negative"}
+,{"time":"18:25","usr":"rmarysel","txt":"RT @Richardgwolfe: It\u0027s bad when both $AAPL and $AMZN disappoint.","lbl":"Negative"}
+,{"time":"19:10","usr":"OkYouDrewMeHere","txt":"\u201C@nytimes: Amazon Reports Its First Quarterly Loss in Four Years http://t.co/medrkPPa\u0022 $AMZN shares on sale, maybe time to grab some. hmm.","lbl":"Positive"}
+,{"time":"22:09","usr":"cwstrawderman","txt":"RT @YahooFinance: Amazon reports big quarterly net loss and shares sink after hours http://t.co/c04kvaNf $AMZN","lbl":"Negative"}
+,{"time":"23:09","usr":"vctaskforce","txt":"RT @MarketWatch: Amazon reported a $274 million loss in Q3. Kindle Fire HD continues to be $AMZN best-selling product: http://t.co/rmEhZPVu","lbl":"Negative"}
+,{"time":"23:10","usr":"larryfooter","txt":"RT @Jesse_Livermore: So when exactly is $AMZN going to start making some money. Valuation on this thing is ridic.","lbl":"Negative"}
+,{"time":"23:12","usr":"Jesse_Livermore","txt":"I can understand people valuing $AMZN on free cash flow rather than earnings. P/FCF is about 50. But even that\u0027s ridiculous.","lbl":"Negative"}
+,{"time":"23:13","usr":"chapitomen","txt":"@petenajarian @jimcramer market is weak and is technically broken. $Aapl, $Amzn will also way on markets. GDP misses, possible selloff tom.","lbl":"Negative"}
+]

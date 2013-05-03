@@ -1,0 +1,56 @@
+[
+{"time":"3:37","usr":"johangradin","txt":"RT @rr_trades: $GOOG on bar 7 of daily SEQ ssu + forming daily 9-13-9 combo. http://t.co/mD1VO85K","lbl":"Negative"}
+,{"time":"7:52","usr":"kyleshoren","txt":"RT @Tangletrade: Now that $GOOG is rocketing higher, no one seems to care about the share restructure & fact shareholders have basic ...","lbl":"Positive"}
+,{"time":"7:53","usr":"edmundoTO","txt":"RT @SAI: ERIC SCHMIDT: Apple Should Have Stuck With Google Maps $GOOG $AAPL by @jyarow http://t.co/Mv9BeukF","lbl":"Positive"}
+,{"time":"7:54","usr":"AmriCarLoza","txt":"My equity not enough to buy $AAPL how many your balance sir? RT @SJosephBurns I am long $GOOG only going into this ... http://t.co/HqAVucXt","lbl":"Positive"}
+,{"time":"8:31","usr":"MNYCx","txt":"$GOOG unstoppable (for now), going for 755. Damn those W750 Calls since 730 yesterday AM, wow","lbl":"Positive"}
+,{"time":"8:44","usr":"kiwitrader24","txt":"$GOOG chart makes it look like music will stop any moment. Easy does it cowboy! http://t.co/vf0U8tae","lbl":"Negative"}
+,{"time":"8:53","usr":"NorthmanTrader","txt":"21 EMA for $GOOG is $709.55 = STRETCHED","lbl":"Negative"}
+,{"time":"8:53","usr":"LaMonicaBuzz","txt":"$FB down another 2%. But rumor has it the NFL replacement refs have ruled Facebook, and not $GOOG, as the current winner in mobile ad sales.","lbl":"Negative"}
+,{"time":"9:22","usr":"z8angela","txt":"Reminder: A blow off top like action on $GOOG is not meant for chasing, but for selling into this tip. Trade smart!","lbl":"Negative"}
+,{"time":"9:23","usr":"GdayToYou","txt":"When become better at trading one knows best trades made at open be confident in your trade. $GOOG 755 call strike entry 5.20 exit 11.00","lbl":"Positive"}
+,{"time":"9:37","usr":"SAI_Tools","txt":"There\u0027s A Nasty Bug That Can Reset Your Galaxy S III If You\u0027re Not Careful $GOOG by @stevekovach http://t.co/ci2KlgZZ","lbl":"Negative"}
+,{"time":"9:37","usr":"SAI","txt":"There\u0027s A Nasty Bug That Can Reset Your Galaxy S III If You\u0027re Not Careful $GOOG by @stevekovach http://t.co/2q6gUaJC","lbl":"Negative"}
+,{"time":"9:37","usr":"GEQSense","txt":"$GOOG just continues to tell everyone to #FTW. haha $760 retest coming.","lbl":"Positive"}
+,{"time":"9:53","usr":"SJosephBurns","txt":"I bought a $735 strike Sept 28 $GOOG weekly call option.","lbl":"Positive"}
+,{"time":"9:54","usr":"SJosephBurns","txt":"@TradetheLeader1 Rolling them to a closer strike, banking profits resetting delta exposure. $GOOG","lbl":"Positive"}
+,{"time":"10:11","usr":"littletigercs","txt":"RT @swamptrade: $GOOG keeps making new ATH. way outside upper BBs and daily RSI 83.75. Just like $AAPL back in April. A parabolic run!","lbl":"Negative"}
+,{"time":"10:11","usr":"jmullin9","txt":"Man o man. $goog is loving life","lbl":"Positive"}
+,{"time":"10:29","usr":"racernic","txt":"ok any1 left that hasn\u0027t upgraded $goog? we should be close to being done with the upgrade pops","lbl":"Negative"}
+,{"time":"10:30","usr":"abebut","txt":"Imho the $650 smartphones will saturate the market next year. The growth is in $400+,especially where the 5B less fortunate live $AAPL $GOOG","lbl":"Negative"}
+,{"time":"10:56","usr":"MarkAlanT","txt":"$GOOG has a history of strong surges followed by big sell offs. This could be one.","lbl":"Negative"}
+,{"time":"11:26","usr":"mitchelltsai","txt":"long $GOOG Weekly 765 Call 6.2 #MyStock","lbl":"Positive"}
+,{"time":"11:29","usr":"dantanner","txt":"Some Bullish Charts $GOOG $PCLN http://t.co/eh71iu7P","lbl":"Positive"}
+,{"time":"11:57","usr":"chewtonic","txt":"Bought $GOOG 745 strike weekly puts for $3...risking 300","lbl":"Negative"}
+,{"time":"12:16","usr":"tphedgegroup","txt":"$RIMM When you have cash, no debt, and a loyal following, you will always survive..True for $AAPL , true for $RIMM , true for $GOOG","lbl":"Positive"}
+,{"time":"12:44","usr":"JeffMacke","txt":"The \u0022window dressing\u0022 trade is swapping out $AAPL for $GOOG. Owning the former is lemming-ish, the latter required a call","lbl":"Positive"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"5 Reasons Not To Buy Google Here http://t.co/GSaWeVc1 $GOOG","lbl":"Negative"}
+,{"time":"13:00","usr":"SJosephBurns","txt":"@Dutchtrader01 I am still long, I rolled my call option to a $735 strike weekly. $GOOG","lbl":"Positive"}
+,{"time":"13:00","usr":"DaveCV100","txt":"RT @JeffMacke: The \u0022window dressing\u0022 trade is swapping out $AAPL for $GOOG. Owning the former is lemming-ish, the latter required a call","lbl":"Positive"}
+,{"time":"13:59","usr":"iTraderz","txt":"$GOOG in trouble here","lbl":"Negative"}
+,{"time":"14:00","usr":"MNYCx","txt":"$GOOG 754\u0027s so who had the ballz to short at 764-765? lolz: https://t.co/oBotj5qx","lbl":"Negative"}
+,{"time":"14:00","usr":"takingstock614","txt":"I like $AAPL and $GOOG to 800 by YE. Jan eps for $AAPL will be blockbuster again. You want to be in for that.","lbl":"Positive"}
+,{"time":"14:14","usr":"chewtonic","txt":"@deolsabh Look at $GOOG daily...ugly candle","lbl":"Negative"}
+,{"time":"14:14","usr":"WildcatTrader","txt":"$GOOG putting in a topping tail, inverted hammer on daily.","lbl":"Positive"}
+,{"time":"14:33","usr":"mmtul","txt":"Everyone who plowed into $GOOG (the last man standing) today is now underwater. Close will be interesting.","lbl":"Negative"}
+,{"time":"14:34","usr":"ChartProphet","txt":"Take your money out of stocks and gold NOW!!! $SPY $GLD $AAPL $FB $GOOG $MCD $CAT $JPM","lbl":"Negative"}
+,{"time":"14:34","usr":"Casseon","txt":"Selling weeklies here $GOOG, no need to wait til tomorrow.","lbl":"Negative"}
+,{"time":"14:55","usr":"MarkAlanT","txt":"@SJosephBurns No worries Steve! I\u0027ve seen you bank off $AAPL & $GOOG, $PCLN You\u0027ll get it back","lbl":"Negative"}
+,{"time":"14:56","usr":"takingstock614","txt":"$GOOG could see it\u0027s 8 around 728 and it\u0027s 21ma is around 703. So potential to fall is there. Just be careful. Long reversal bar today.","lbl":"Negative"}
+,{"time":"14:56","usr":"sciencetrader","txt":"$GOOG insider are selling into the close","lbl":"Negative"}
+,{"time":"15:22","usr":"DismantleFed","txt":"Big reversal in $GOOG. October 2007 is still fresh in memories. Ponzi Fraud Economies are just a push away from the #EpicCollapse","lbl":"Negative"}
+,{"time":"15:23","usr":"BsiflingTrades","txt":"Can\u0027t believe $GOOG closed red.. Wowza.. That 760 short turned out to not be that bad..!","lbl":"Negative"}
+,{"time":"16:12","usr":"tarhinitrade","txt":"$GOOG $AAPL ratio continued its rip higher today. called that shit out yest for all my subz aka on twitter. taking donations","lbl":"Negative"}
+,{"time":"16:13","usr":"NguyetHoang1","txt":"@ezwey Yes, seems like there\u0027s lots of interest in $Goog shorts","lbl":"Negative"}
+,{"time":"16:51","usr":"Mykhailo_Dolgin","txt":"RT @SAI: Google\u0027s Self-Driving Cars Are Now Legal In California $GOOG by @_dtl http://t.co/6pj4bqVu","lbl":"Positive"}
+,{"time":"16:51","usr":"joannekhtf","txt":"RT @RealCrystalBall: It\u0027s Time to Take Profits in Google: Tech Pro http://t.co/aBZgB4S7 $AAPL $GOOG $SINA $YHOO #StockMarket #StockPick ...","lbl":"Negative"}
+,{"time":"17:19","usr":"actionjack2000","txt":"@ChartLearning $GOOG has more run down in it...","lbl":"Negative"}
+,{"time":"17:21","usr":"deleveraged","txt":"$GOOG \u0027s Eric Schmidt seems to like the selling shares thing http://t.co/pvJDuPqr","lbl":"Negative"}
+,{"time":"17:21","usr":"PLJNS","txt":"$APPL should integrate @Foursquare to cross reference Yelp and to get academic buildings, workplaces, etc. I hear they don\u0027t like $GOOG too.","lbl":"Negative"}
+,{"time":"18:05","usr":"VirtualMarketer","txt":"#Google Overtakes GE as Fifth Most Valuable U.S. Company http://t.co/eICaIfz7 #Business #News via @techinbusiness @klaptrap $GOOG","lbl":"Positive"}
+,{"time":"18:11","usr":"AdmiralRoadCap","txt":"holding on to the $AAPL, and bought some $GOOG this afternoon before i left the house","lbl":"Positive"}
+,{"time":"19:48","usr":"USwwwStocks","txt":"$GOOG News: Etsy Bets Big on Google Shopping Ahead of Relaunch http://t.co/HstZsBTp #GOOG #Ahead #Bets","lbl":"Positive"}
+,{"time":"21:15","usr":"gordonbowman","txt":"Driverless Cars Get Green Light in California - http://t.co/zvX6fq9u - The next billion dollar market for Google? $GOOG","lbl":"Positive"}
+,{"time":"22:31","usr":"mitchelltsai","txt":"Worried about market tomorrow. Unloaded all equities, except $AAPL Oct 650 Call, $GOOG Oct 700 Call, Weekly 750 Call, $MGM Jan 11 Call","lbl":"Positive"}
+,{"time":"23:27","usr":"deeje","txt":"In the long run, $GOOG will suffer more than $AAPL in this maps transition.","lbl":"Negative"}
+]

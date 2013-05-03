@@ -1,0 +1,4 @@
+[
+{"time":"12:28","usr":"MikeVodicka","txt":"3 Stocks That Could Announce Special Dividends Soon. $LVS, $WMT, $SYK, $AMZN. RT. http://t.co/uEByinJz","lbl":"Positive"}
+,{"time":"19:16","usr":"beckleyworks","txt":"Report out saying e-reader sales will be down 36% y/y or more and $AMZN is UP .52 today? WTF. http://t.co/N0P6NKz9","lbl":"Positive"}
+]

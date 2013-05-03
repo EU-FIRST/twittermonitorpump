@@ -1,0 +1,5 @@
+[
+{"time":"10:20","usr":"ginaswo","txt":"RT @grassosteve: $AMZN = continues to be #MyEverythingGirl","lbl":"Positive"}
+,{"time":"11:01","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:46am: 228.81 -0.72 (-0.31%).","lbl":"Negative"}
+,{"time":"23:00","usr":"tangomega","txt":"RT @SAI: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/SfFFbyws","lbl":"Positive"}
+]

@@ -1,0 +1,14 @@
+[
+{"time":"1:45","usr":"BigTicks","txt":"$GOOG News: Google Reports Surging Government Requests to Purge Content http://t.co/4lmvzWGl http://t.co/GlGnAeWP","lbl":"Negative"}
+,{"time":"8:24","usr":"madtechman","txt":"RT @SAI: Only Three Smartphone Companies Are Profitable $AAPL $GOOG $MSFT by @jyarow http://t.co/GpraTyS6","lbl":"Positive"}
+,{"time":"9:48","usr":"mustped","txt":"if buyers come into $AAPL today I like $559.60 as target and for $GOOG $668.71 if the buyers come in. now wait for the setups to come to u","lbl":"Positive"}
+,{"time":"11:04","usr":"MMASSASSIN","txt":"AGRESSIVE buying long leg of $GOOG 645 pDS with a spread of .73 in mind -> http://t.co/fku2FMPS","lbl":"Positive"}
+,{"time":"11:05","usr":"MattKelmon","txt":"closed all $SPY short positions- (still long $VIX Dec 18 calls), added $GOOG Jan 600 calls at 64 and $AAPL jan 540 calls at 29.","lbl":"Positive"}
+,{"time":"11:56","usr":"StockMarket411","txt":"Google Nexus 4 sells out within an hour in US, UK $goog http://t.co/3DZisvXb goog, google, google stock, news","lbl":"Positive"}
+,{"time":"12:00","usr":"TheLondonWhale","txt":"taking 3.5% profit in short $GOOG, and $KCG","lbl":"Positive"}
+,{"time":"14:51","usr":"ACT_Lightning","txt":"RT @SAI: Only Three Smartphone Companies Are Profitable $AAPL $GOOG $MSFT by @jyarow http://t.co/lRxCoZ02","lbl":"Positive"}
+,{"time":"15:54","usr":"parklandtrader","txt":"@cnbcfastmoney @GuyAdami @RedDogT3Live $GOOG short is working.. vs $FB long..","lbl":"Negative"}
+,{"time":"17:36","usr":"SpecialPhysX","txt":"Dear $GOOG, #ANDROID, et al > yessss! So little need for actual TV now, it makes me SMILE. Android bringing the world home now! #1000gifts","lbl":"Positive"}
+,{"time":"17:37","usr":"ACInvestorBlog","txt":"George Soros 13F Shows New Stakes in $GRPN $GOOG $HD $KBH $MCP","lbl":"Positive"}
+,{"time":"22:18","usr":"AlexvanDillen","txt":"$GOOG Android now accounts for 72% of worldwide smartphone market http://t.co/29dVQSbR via @latimes","lbl":"Positive"}
+]

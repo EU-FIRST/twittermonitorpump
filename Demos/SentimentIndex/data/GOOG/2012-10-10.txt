@@ -1,0 +1,14 @@
+[
+{"time":"8:15","usr":"wallstCS","txt":"Google Investigated for Anti-Trust Violations and 4 Morning Hot Stocks Attracting Attention http://t.co/jItTYtRq $FB $GOOG $GRPN $TM $HELE","lbl":"Negative"}
+,{"time":"8:51","usr":"CAMAR024","txt":"sold $GOOG puts @ 6 dang- didn\u0027t think market rip was coming","lbl":"Negative"}
+,{"time":"8:51","usr":"newsagg","txt":"$GOOG this is a 38.2% pullback http://t.co/y0Mid3oQ","lbl":"Negative"}
+,{"time":"8:52","usr":"SJosephBurns","txt":"$GOOG had its 1st successful bounce off the 21 day ema.","lbl":"Positive"}
+,{"time":"9:57","usr":"yonsu18","txt":"@SJosephBurns thanks for the post on $GOOG was trading $AAPL but got in just after you on $GOOG wouldn\u0027t have without your post, thanks","lbl":"Positive"}
+,{"time":"12:30","usr":"BloombergWest","txt":"#Google could be going upscale with a new 10-inch tablet. @shim_richard gives us the details. http://t.co/N70ks5Io $GOOG #tech","lbl":"Positive"}
+,{"time":"13:07","usr":"launchticker","txt":"Sparrow reportedly talked to $fb before agreeing to $goog acquisition; deal less than $20M press reported http://t.co/McTRJcbK","lbl":"Positive"}
+,{"time":"13:09","usr":"BlueFielder","txt":"$GooG SOLD remainder of 750 $PUTS @ assorted $ here for just over plus 4.00 gain > http://t.co/UHrvGwoc","lbl":"Positive"}
+,{"time":"13:54","usr":"GGAA777","txt":"RT @SAI: Google\u0027s Next Smartphone Could Be Announced In A Few Weeks $GOOG by @stevekovach http://t.co/Lj0TZZoX","lbl":"Positive"}
+,{"time":"17:03","usr":"GeneSwan3","txt":"@Parabolicplease sounds like good news to me. Ceo states $vrng wouldnt be suing $goog if they didnt have a very solid case.","lbl":"Negative"}
+,{"time":"19:55","usr":"BGLyons","txt":"\u201C@SAI: Google Chairman: We\u0027ll Have A Billion Android Devices In A Year $GOOG by @owenthomas http://t.co/EdM8dYr4\u201D","lbl":"Positive"}
+,{"time":"19:58","usr":"GloCid1","txt":"\u201C@SAI: Google Chairman: We\u0027ll Have A Billion Android Devices In A Year $GOOG by @owenthomas http://t.co/Y2svEwIP\u201D - clash of Tech Titans","lbl":"Positive"}
+]

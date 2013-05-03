@@ -1,0 +1,29 @@
+[
+{"time":"0:17","usr":"pianistic","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"1:06","usr":"BobFarrigan","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"1:30","usr":"Inderes","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"1:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 01:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"2:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 02:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"3:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 03:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"3:31","usr":"brandstrat","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"5:09","usr":"Qwovadis","txt":"Commented on: \u0022New Headwinds Facing Google\u0022 http://t.co/yjaxqErX $GOOG","lbl":"Negative"}
+,{"time":"5:10","usr":"murphmarkd","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"6:13","usr":"lluccipha","txt":"SAI: Google Isn\u0027t Making Any Profit From Sales Of The New Nexus Tablet Right Now $GOOG by @sfiegerman http://t.co/xogqKpGG","lbl":"Negative"}
+,{"time":"6:13","usr":"TumonChief","txt":"RT @SAI: Google Isn\u0027t Making Any Profit From Sales Of The New Nexus Tablet Right Now $GOOG by @sfiegerman http://t.co/felrCAzg","lbl":"Negative"}
+,{"time":"6:13","usr":"procutwits","txt":"RT @SAI: Google Isn\u0027t Making Any Profit From Sales Of The New Nexus Tablet Right Now $GOOG by @sfiegerman http://t.co/felrCAzg","lbl":"Negative"}
+,{"time":"6:13","usr":"rcastle06","txt":"RT @SAI: Google Isn\u0027t Making Any Profit From Sales Of The New Nexus Tablet Right Now $GOOG by @sfiegerman http://t.co/felrCAzg","lbl":"Negative"}
+,{"time":"7:00","usr":"Colarusso42","txt":"Think $goog hardware play is a loser but loved voice recognition test. Anyone asked Siri about \u0022pygmy marmoset\u0022? $aapl http://t.co/WnqprZxz","lbl":"Negative"}
+,{"time":"10:09","usr":"stojeipatrze","txt":"RT @abebut: $GOOG Nexus 7 much faster than $AAPL iPad: 4 core CPU & 16 core GPU vs. iPad\u0027s only 2 core CPU and only 4 core GPU. Price $200 vs. $500","lbl":"Positive"}
+,{"time":"12:25","usr":"RedDogT3Live","txt":"@smartertrader @tlmontana I agree $GOOG has been one of the worst high beta names with $bidu. Guys had multiple chances to sell","lbl":"Negative"}
+,{"time":"13:00","usr":"racernic","txt":"$goog tablet might have a chance imo.dont think lined up2compete w/ipad(unless release mini ipad).many still want pads.goog will get a chunk","lbl":"Positive"}
+,{"time":"13:39","usr":"keepitrealdude","txt":"Why I have been short $GOOG http://t.co/i55Hh4mj","lbl":"Negative"}
+,{"time":"13:40","usr":"Vin_Noto","txt":"RT @keepitrealdude: Why I have been short $GOOG http://t.co/i55Hh4mj","lbl":"Negative"}
+,{"time":"14:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 14:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"14:30","usr":"ADVFNplc","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/evHeKNZU","lbl":"Positive"}
+,{"time":"15:23","usr":"N2RAG","txt":"RT @SAI: Android\u0027s Product Boss Told Us The Nexus 7 Tablet Is Already Selling Really Well $GOOG by @stevekovach http://t.co/6bVOXvKU","lbl":"Positive"}
+,{"time":"15:23","usr":"FreeMrktCptlst","txt":"Now I just feel sorry for $RIM\u2026$GOOG, take a good look at your future :)","lbl":"Negative"}
+,{"time":"16:32","usr":"2eux","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"17:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 17:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"19:56","usr":"dougsmithstpete","txt":"\u201C@timoreilly: \u0022Revenue per viewership-hour is now higher on YouTube than it is on cable television\u0022 #vidcon\u201D $goog @Sean_Davis","lbl":"Positive"}
+,{"time":"22:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 22:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+]

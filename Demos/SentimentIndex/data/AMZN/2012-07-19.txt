@@ -1,0 +1,7 @@
+[
+{"time":"10:05","usr":"madaznfootballr","txt":"All Tech on fire. $GOOG $PCLN $AMZN $AAPL $QQQ","lbl":"Positive"}
+,{"time":"13:35","usr":"MichaelComeau","txt":"$AMZN same day delivery just might be a game changer","lbl":"Positive"}
+,{"time":"14:41","usr":"corbett3000","txt":"@allnick Nope. Holding through it. I think $amzn\u0027s got room to run","lbl":"Positive"}
+,{"time":"14:42","usr":"KeithMcCullough","txt":"big day for $AMZN, but immediate-term TRADE overbought right here","lbl":"Positive"}
+,{"time":"21:42","usr":"Stockloo","txt":"#Amazon ($AMZN) to offer same day delivery by next year. This could drastically effect $Walmart ($WMT)","lbl":"Positive"}
+]

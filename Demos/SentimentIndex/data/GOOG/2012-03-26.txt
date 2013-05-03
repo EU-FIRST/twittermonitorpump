@@ -1,0 +1,14 @@
+[
+{"time":"8:53","usr":"danshep55","txt":"$semi\u0027s all taking lows guys.. $goog lows aswell .. dont fall in love with the mkt .. your strategy is your only friend","lbl":"Negative"}
+,{"time":"9:18","usr":"SJosephBurns","txt":"$GOOG & $AAPL acting weak in a strong market, that\u0027s different.","lbl":"Negative"}
+,{"time":"9:19","usr":"charliegodwin","txt":"@mfin Glad I left $AAPL alone, underperforming, for now. $GOOG hit $640 as well. Seems like a weird market. $PCLN defies gravity.","lbl":"Negative"}
+,{"time":"10:20","usr":"takingstock614","txt":"$GOOG taking a breather. Much higher prices to come.","lbl":"Positive"}
+,{"time":"13:11","usr":"coryjwatson","txt":"$GOOG 660 calls, 15.90 bring the cheddar","lbl":"Positive"}
+,{"time":"13:42","usr":"willyau","txt":"\u201C@SAI: Is It A Condom Or An Android Phone? $GOOG by @stevekovach http://t.co/7e38irVD\u201D Hilarious!","lbl":"Negative"}
+,{"time":"14:01","usr":"Borja_Guerrero","txt":"RT @businessinsider: Apple Is Preparing To Damage Google In China $AAPL $GOOG $BIDU by @jyarow http://t.co/eNSprQXf","lbl":"Negative"}
+,{"time":"14:02","usr":"iam_bukky","txt":"RT @SAI: Apple Is Preparing To Damage Google In China $AAPL $GOOG $BIDU by @jyarow http://t.co/CZ9msD7X","lbl":"Negative"}
+,{"time":"14:02","usr":"glorykingdom","txt":"RT @businessinsider: Apple Is Preparing To Damage Google In China $AAPL $GOOG $BIDU by @jyarow http://t.co/eNSprQXf","lbl":"Negative"}
+,{"time":"14:22","usr":"mark_holthaus","txt":"RT @businessinsider: Is It A Condom Or An Android Phone? $GOOG by @stevekovach http://t.co/fJNd6pVl","lbl":"Negative"}
+,{"time":"18:23","usr":"arhamid","txt":"\u201C@SAI: 9 Charts That Show The Amazing Growth Of Android $GOOG $AAPL http://t.co/yR3V0luj\u201D it\u0027s called the art of giving face","lbl":"Positive"}
+,{"time":"18:28","usr":"lluccipha","txt":"SAI: Google Chromebooks: Not Dead Yet! $GOOG $SNE by @MattRosoff http://t.co/hLpPps4K","lbl":"Positive"}
+]

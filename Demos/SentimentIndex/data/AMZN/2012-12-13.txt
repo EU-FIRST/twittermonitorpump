@@ -1,0 +1,5 @@
+[
+{"time":"4:33","usr":"chrislanmon","txt":"Now we know why $AMZN 3 major \u0022below cost\u0022 Kindle Fire promos past few weeks. Sales STINK! More 7\u0022 competition this yr - Nexus 7 & iPad Mini","lbl":"Negative"}
+,{"time":"8:01","usr":"lindastern","txt":"Apple concedes to Amazon: $AAPL and $AMZN went head to head on pricing in Europe, and Amazon won. http://t.co/Sn3myqCW","lbl":"Positive"}
+,{"time":"12:58","usr":"henlaub","txt":"RT @alistairmbarr: Retailers selling the same SKUs as Amazon $AMZN are in for an unhappy holiday - Jeff Jordan http://t.co/XJfxlWJt","lbl":"Negative"}
+]

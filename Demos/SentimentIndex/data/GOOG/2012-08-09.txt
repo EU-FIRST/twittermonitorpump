@@ -1,0 +1,13 @@
+[
+{"time":"8:44","usr":"DPDResearch","txt":"I like the new $GOOG finance layout. aesthetically pleasing.","lbl":"Positive"}
+,{"time":"10:08","usr":"NyczDav1d","txt":"RT @CNBC: Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple\u0027s Safari browser.","lbl":"Negative"}
+,{"time":"10:08","usr":"JetFlyFendii_15","txt":"RT @CNBC: Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple\u0027s Safari browser.","lbl":"Negative"}
+,{"time":"10:08","usr":"breezeeluv","txt":"RT @CNBC: Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple\u0027s Safari browser.","lbl":"Negative"}
+,{"time":"10:08","usr":"Cmds_Simba","txt":"RT @CNBC: Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple\u0027s Safari browser.","lbl":"Negative"}
+,{"time":"10:39","usr":"Daniel_Aaron17","txt":"$GOOG which we sold at $615 continues to trade well here at $644. While we booked profits early clearly, I would not be a buyer here. (1/2)","lbl":"Positive"}
+,{"time":"10:42","usr":"Daniel_Aaron17","txt":"$GOOG does not do a good job managing the cash on it\u0027s balance sheet and when the CEO is sick and we don\u0027t get the details, it only.. (1/2)","lbl":"Negative"}
+,{"time":"11:21","usr":"BAMinvestor","txt":"$GOOG model remains bearish and we would fade any further strength. Downside is about 16% w/ that fast-market retest level at 530","lbl":"Negative"}
+,{"time":"11:24","usr":"thefinancepress","txt":"$GOOG Google to Pay $22.5 Million to Settle FTC Privacy Charges: Google to Pay $22.5 Million to Settle FTC Priv... http://t.co/5m0dDvmo","lbl":"Negative"}
+,{"time":"12:52","usr":"LaramieDunlap","txt":"Ok here\u0027s the update: long $GOOG puts, AAPL putspread, ESU12 short at 1399.75. #tightstops","lbl":"Negative"}
+,{"time":"15:02","usr":"rcastle06","txt":"RT @SAI: We Knew Google Treated Its Employees Well, But This Is Something Beyond $GOOG by @_dtl http://t.co/RGRKVmzv","lbl":"Positive"}
+]

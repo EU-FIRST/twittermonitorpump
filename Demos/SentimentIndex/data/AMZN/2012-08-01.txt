@@ -1,0 +1,9 @@
+[
+{"time":"8:30","usr":"km201300","txt":"short $AMZN http://t.co/HUA3COa6 via @YahooFinance","lbl":"Negative"}
+,{"time":"9:02","usr":"km201300","txt":"@cnbcfastmoney --SHORT $AMZN--VERY BAD NEWS COMING-- GOING BELOW 220 SOON","lbl":"Negative"}
+,{"time":"9:03","usr":"km201300","txt":"SHORT $AMZN--COMING BELOW 220. BAD NEWS COMING http://t.co/NJgPHY3M via @YahooFinance","lbl":"Negative"}
+,{"time":"9:33","usr":"km201300","txt":"SHORT $AMZN--- THANK ME LATER http://t.co/HUA3COa6 via @YahooFinance","lbl":"Negative"}
+,{"time":"10:07","usr":"km201300","txt":"SHORT $AMZN-- BELOW 200 COMING http://t.co/HUA3COa6 via @YahooFinance","lbl":"Negative"}
+,{"time":"12:51","usr":"ToddSullivan","txt":"wow..$AMZN video can be streamed to my TV (w/$AAPL TV), and can pick up on any device where i left off...FREE w/prime membership.. amazing","lbl":"Positive"}
+,{"time":"14:24","usr":"CNNMoney","txt":"RT @FortuneMagazine: Amazon\u0027s retail bulldozer rumbles on http://t.co/hH0NqjUZ $AMZN","lbl":"Positive"}
+]

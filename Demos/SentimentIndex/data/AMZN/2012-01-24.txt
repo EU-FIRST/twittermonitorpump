@@ -1,0 +1,12 @@
+[
+{"time":"9:54","usr":"$AMZN","txt":"@TMTanalyst @gatorcapital You guys and \u0022Listerine-buying\u0022 2-day UPS shipping Prime addicts are crushing $AMZN operating margins!","lbl":"Negative"}
+,{"time":"12:00","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Fairly Up. Top 10 NASDAQ-100 Stocks with Most Analyst Upgrades: CTXS, W: http://t.co/yW5R3Ick","lbl":"Positive"}
+,{"time":"12:01","usr":"AMZN_stock","txt":"$AMZN real time quote, 12:01PM EST: 187.14 +1.05 (+0.56%).","lbl":"Positive"}
+,{"time":"13:45","usr":"andrea_cinti","txt":"RT @BloombergNews: Amazon Fire takes Android, leaves Google apps | http://t.co/d94z8R3h $AMZN $GOOG Google, te lo stanno a butt\u00E0 intarculo!","lbl":"Positive"}
+,{"time":"13:49","usr":"treysdubya","txt":"Boy am I glad I covered that $AMZN for lunch money yesterday! Ugh. Threw away 4-5 points easy. dumb.","lbl":"Positive"}
+,{"time":"16:46","usr":"lozaldinho","txt":"RT @BloombergNews: Amazon Fire takes Android, leaves Google apps | http://t.co/mKG2utSS $AMZN $GOOG","lbl":"Positive"}
+,{"time":"16:47","usr":"aspenheights100","txt":"RT @gtotoy: $AMZN sold 1/4 what I had +3.18 in AH\u0027s","lbl":"Negative"}
+,{"time":"17:54","usr":"DeadZones","txt":"I am sending back my Kindle Fire to Amazon b/c it still needs work to catch up to the iPad $AAPL $AMZN","lbl":"Negative"}
+,{"time":"17:54","usr":"jeffcohn","txt":"I am sending back my Kindle Fire to Amazon b/c it still needs work to catch up to the iPad $AAPL $AMZN","lbl":"Negative"}
+,{"time":"18:28","usr":"laurenahayes","txt":"RT @SAI: Tim Cook: I Looked At The iPad Sales Data Closely, And I Saw No Impact From The Kindle Fire $AAPL $AMZN by @jyarow http://t.co/U2YwMKQX","lbl":"Negative"}
+]

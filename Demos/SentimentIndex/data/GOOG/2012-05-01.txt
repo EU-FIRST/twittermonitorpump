@@ -1,0 +1,11 @@
+[
+{"time":"9:54","usr":"USwwwStocks","txt":"$GOOG News: Google: New AdMob, Mobile Focus Will Drive Stock Higher In 2013 http://t.co/RqyXVVBK #daytrading #usa #www #stocks","lbl":"Positive"}
+,{"time":"11:06","usr":"TheRomit","txt":"U.S. Department of the Interior ends up going Google for hosted e-mail http://t.co/rEKt8Uuc by @maryjofoley /Google wins by suing! $GOOG","lbl":"Positive"}
+,{"time":"11:58","usr":"ADVFNplc","txt":"$GOOG - ComScore: Samsung Remains Top Cellphone Maker, Google\u0027s Android Top Smartphone Platform http://t.co/X1xTz3o2","lbl":"Positive"}
+,{"time":"11:58","usr":"charlesrwa","txt":"$GOOG - ComScore: Samsung Remains Top Cellphone Maker, Google\u0027s Android Top Smartphone Platform http://t.co/zMcsgssg","lbl":"Positive"}
+,{"time":"13:19","usr":"SAI","txt":"THE GOOGLE INVESTOR: Investors Aren\u0027t Too Happy About This Weird Stock Split Plan $GOOG by @hleonard76 http://t.co/J2reiHn9","lbl":"Negative"}
+,{"time":"13:20","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Investors Aren\u0027t Too Happy About This Weird Stock Split Plan $GOOG by @hleonard76 http://t.co/fg4WnpEP","lbl":"Negative"}
+,{"time":"14:02","usr":"takingstock614","txt":"All the growth names look vulnerable here. $AAPL $GOOG $PCLN $CMG $NFLX $MA $AZO","lbl":"Negative"}
+,{"time":"14:50","usr":"BUDDIEE18","txt":"RT RT @lasertrader $AAPL rebalancing http://t.co/hzet9641 benefits $INTC, $MSFT, $GOOG, $ORCL http://t.co/rKRaQxiL via @YahooFinance","lbl":"Positive"}
+,{"time":"16:50","usr":"tigrs99","txt":"RT @SAI: Google\u0027s Soon-To-Be Phone Division (Motorola) Had Another Crappy Quarter $MMI $GOOG by @MattRosoff http://t.co/FZFLelmk","lbl":"Negative"}
+]
