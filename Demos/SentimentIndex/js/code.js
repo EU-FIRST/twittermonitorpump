@@ -501,73 +501,67 @@ function load(name) {
 	}).error(error);
 }
 
-// initialize buttons
-$(".btn,.close").focus(function() {
-	$(this)[0].blur(); // fixes FF focus bug
+$(document).ready(function() {
+
+	// initialize selection box
+	$("#entity").val("GOOG");
+
+	// initialize date pickers
+	$("#datepicker-from,#datepicker-to").datetimepicker({
+		pickTime: false
+	}).on("changeDate", function(e) {
+		var dateStart = $("#datepicker-from").data("datetimepicker").getDate().getTime();
+		var dateEnd = $("#datepicker-to").data("datetimepicker").getDate().getTime();
+		if (dateEnd < dateStart) { dateEnd = dateStart; }
+		dateStart = Math.max(MIN_DATE, Math.min(dateStart, MAX_DATE));
+		dateEnd = Math.max(MIN_DATE, Math.min(dateEnd, MAX_DATE));
+		chart.xAxis[0].setExtremes(dateStart, dateEnd);
+	});
+
+	// assign zoom button handlers
+	$("#zoom .btn").click(function() {
+		var action = $(this).attr("id");
+		var span;
+		var dateEnd = chart.xAxis[0].getExtremes().max;
+		if (action == "zoom-all") { chart.xAxis[0].setExtremes(MIN_DATE, MAX_DATE); return; }
+		else if (action == "zoom-1m") { span = 30 * DAY_SPAN; }
+		else if (action == "zoom-3m") { span = 90 * DAY_SPAN; }
+		else if (action == "zoom-6m") { span = 180 * DAY_SPAN; }
+		var dateStart = dateEnd - span;
+		if (dateStart < MIN_DATE) { dateEnd += (MIN_DATE - dateStart); dateStart += (MIN_DATE - dateStart); }
+		chart.xAxis[0].setExtremes(dateStart, dateEnd);
+	});
+
+	// assign upper-chart button handlers
+	$("#uchart .btn").click(function() {
+		showChartUpper($(this).attr("id"));
+	});
+
+	// assign lower-chart button handlers
+	$("#lchart .btn").click(function() {
+		var action = $(this).attr("id");
+		if (action == "lchart-count") { 
+			$("#lchart-ma button").addClass("disabled"); 
+		} else {
+			$("#lchart-ma button").removeClass("disabled"); 
+		}
+		showChartLower(action, getOption("#lchart-ma"));
+	});
+
+	// assign MA button handlers
+	$("#lchart-ma .btn").click(function() {
+		showChartLower(getOption("#lchart"), $(this).attr("id"));
+	});
+
+	// assign selection handler 
+	$("select").change(function() {
+		load(getSelection("#entity"));
+	});
+
+	// initialize
+	load("GOOG");
+
+	// perfectify
+	perfectify("modal");
+
 });
-
-// initialize selection box
-$("#entity").val("GOOG");
-
-// initialize date pickers
-$("#datepicker-from,#datepicker-to").datetimepicker({
-	pickTime: false
-}).on("changeDate", function(e) {
-	var dateStart = $("#datepicker-from").data("datetimepicker").getDate().getTime();
-	var dateEnd = $("#datepicker-to").data("datetimepicker").getDate().getTime();
-	if (dateEnd < dateStart) { dateEnd = dateStart; }
-	dateStart = Math.max(MIN_DATE, Math.min(dateStart, MAX_DATE));
-	dateEnd = Math.max(MIN_DATE, Math.min(dateEnd, MAX_DATE));
-	chart.xAxis[0].setExtremes(dateStart, dateEnd);
-});
-
-// assign zoom button handlers
-$("#zoom .btn").click(function() {
-	var action = $(this).attr("id");
-	var span;
-	var dateEnd = chart.xAxis[0].getExtremes().max;
-	if (action == "zoom-all") { chart.xAxis[0].setExtremes(MIN_DATE, MAX_DATE); return; }
-	else if (action == "zoom-1m") { span = 30 * DAY_SPAN; }
-	else if (action == "zoom-3m") { span = 90 * DAY_SPAN; }
-	else if (action == "zoom-6m") { span = 180 * DAY_SPAN; }
-	var dateStart = dateEnd - span;
-	if (dateStart < MIN_DATE) { dateEnd += (MIN_DATE - dateStart); dateStart += (MIN_DATE - dateStart); }
-	chart.xAxis[0].setExtremes(dateStart, dateEnd);
-});
-
-// assign upper-chart button handlers
-$("#uchart .btn").click(function() {
-	showChartUpper($(this).attr("id"));
-});
-
-// assign lower-chart button handlers
-$("#lchart .btn").click(function() {
-	var action = $(this).attr("id");
-	if (action == "lchart-count") { 
-		$("#lchart-ma button").addClass("disabled"); 
-	} else {
-		$("#lchart-ma button").removeClass("disabled"); 
-	}
-	showChartLower(action, getOption("#lchart-ma"));
-});
-
-// assign MA button handlers
-$("#lchart-ma .btn").click(function() {
-	showChartLower(getOption("#lchart"), $(this).attr("id"));
-});
-
-// assign selection handler 
-$("select").change(function() {
-	$(this)[0].blur(); // rmv ugly focus rectangle
-	load(getSelection("#entity"));
-});
-
-// reset modal pop-up window scrollbar
-$(".modal").on("hidden", function() { 
-	$(".modal").show(); // div needs to be visible for this to work
-	$(".modal-body").scrollTop(0); 
-	$(".modal").hide();
-});
-
-// initialize
-load("GOOG");
