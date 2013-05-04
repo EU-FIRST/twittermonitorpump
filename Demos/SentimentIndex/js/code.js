@@ -32,7 +32,6 @@ var IDX_COUNT
 
 function showTweets(time) {
 	if (!time) { return; }
-	$($("ul > li > a")[0]).tab("show");
 	$(".modal-header > h4").text("Tweets on " + Highcharts.dateFormat("%a, %b %e, %Y", time));
 	var stock = getSelection("#entity");
 	var date = Highcharts.dateFormat("%Y-%m-%d", time);
@@ -42,16 +41,23 @@ function showTweets(time) {
 			if (!html[data[i].lbl]) { html[data[i].lbl] = ""; }
 			html[data[i].lbl] += "<div class=\"item\"><span class=\"tweet-header\">" + htmlEncode(data[i].usr) + " at " + data[i].time + "</span> " + htmlEncode(data[i].txt) + "</div>";
 		}
-		var modalBody = $(".modal-body");
-		modalBody.empty().append("<h4 id=\"pos-tweets-title\">Positive tweets</h4>");
-		if (html["Positive"]) { modalBody.append(html["Positive"]); } else { modalBody.append("<div class=\"item\">No tweets to show.</div>"); }
-		modalBody.append("<h4 id=\"neg-tweets-title\">Negative tweets</h4>");
-		if (html["Negative"]) { modalBody.append(html["Negative"]); } else { modalBody.append("<div class=\"item\">No tweets to show.</div>"); }
-		$(".modal").show(); // needs to be visible to reset scrollbars and refresh scrollspy
-		modalBody.scrollspy("refresh").scrollTop(0); 
-		$(".modal").modal();
+		$("#pos-tweets").empty().append("<h4>Positive tweets</h4>");
+		if (html["Positive"]) { $("#pos-tweets").append(html["Positive"]); } else { $("#pos-tweets").append("<div class=\"item\">No tweets to show.</div>"); }
+		$("#neg-tweets").empty().append("<h4>Negative tweets</h4>");
+		if (html["Negative"]) { $("#neg-tweets").append(html["Negative"]); } else { $("#neg-tweets").append("<div class=\"item\">No tweets to show.</div>"); }
+		$(".modal").show(); // modal needs to be "visible" to reset scrollbars
+		// remember active tab
+		var tab = $("ul > li.active > a");
+		// reset scrollbars on all tabs
+		var tabs = $("ul > li > a");
+		for (var i = 0; i < tabs.length; i++) {
+			(tabs[i]).click(); // switch to tab
+			$(".modal-body").scrollTop(0).scrollLeft(0); // reset scrollbars
+		}
+		tab.click(); // switch back to active tab
+		$(".modal").modal(); // show pop-up
 	}).error(function() {
-		$(".modal-body").html("Oops, something went wrong. Please try to reload the page.");
+		$("#pos-tweets,#neg-tweets").html("Oops, something went wrong. Please try to reload the page.");
 		$(".modal").modal();
 	});
 }
@@ -563,11 +569,6 @@ $(document).ready(function() {
 	// assign selection handler 
 	$("select").change(function() {
 		load(getSelection("#entity"));
-	});
-
-	// make tabs in pop-up window work
-	$("ul > li > a").click(function() { 
-		$(this).tab("show"); 
 	});
 
 	// initialize
