@@ -32,16 +32,23 @@ var IDX_COUNT
 
 function showTweets(time) {
 	if (!time) { return; }
-	$(".modal-header > h3").text("Tweets on " + Highcharts.dateFormat("%a, %b %e, %Y", time));
+	$($("ul > li > a")[0]).tab("show");
+	$(".modal-header > h4").text("Tweets on " + Highcharts.dateFormat("%a, %b %e, %Y", time));
 	var stock = getSelection("#entity");
 	var date = Highcharts.dateFormat("%Y-%m-%d", time);
 	$.getJSON("data/" + stock + "/" + date + ".txt", function(data) {
-		var htmlBlocks = {};
+		var html = {};
 		for (var i in data) {
-			if (!htmlBlocks[data[i].lbl]) { htmlBlocks[data[i].lbl] = ""; }
-			htmlBlocks[data[i].lbl] += "<div class=\"tweet\"><span class=\"tweet-header\">" + htmlEncode(data[i].usr) + " at " + data[i].time + "</span> " + htmlEncode(data[i].txt) + "</div>";
+			if (!html[data[i].lbl]) { html[data[i].lbl] = ""; }
+			html[data[i].lbl] += "<div class=\"item\"><span class=\"tweet-header\">" + htmlEncode(data[i].usr) + " at " + data[i].time + "</span> " + htmlEncode(data[i].txt) + "</div>";
 		}
-		$(".modal-body").html("<h4>Positive tweets</h4>" + htmlBlocks["Positive"] + "<h4>Negative tweets</h4>" + htmlBlocks["Negative"]);
+		var modalBody = $(".modal-body");
+		modalBody.empty().append("<h4 id=\"pos-tweets-title\">Positive tweets</h4>");
+		if (html["Positive"]) { modalBody.append(html["Positive"]); } else { modalBody.append("<div class=\"item\">No tweets to show.</div>"); }
+		modalBody.append("<h4 id=\"neg-tweets-title\">Negative tweets</h4>");
+		if (html["Negative"]) { modalBody.append(html["Negative"]); } else { modalBody.append("<div class=\"item\">No tweets to show.</div>"); }
+		$(".modal").show(); // needs to be visible to reset scrollbars and refresh scrollspy
+		modalBody.scrollspy("refresh").scrollTop(0); 
 		$(".modal").modal();
 	}).error(function() {
 		$(".modal-body").html("Oops, something went wrong. Please try to reload the page.");
@@ -356,7 +363,7 @@ function load(name) {
 				decimals: 3,
 				yAxis: 5,
 				lineWidth: 1,
-				color: '#4572A7',
+				color: "#4572A7",
 				data: data.volatility,
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
@@ -372,7 +379,7 @@ function load(name) {
 				type: "area",
 				data: data.pos,
 				visible: true,
-				color: '#89A54E',
+				color: "#89A54E",
 				states: { hover: { lineWidth: 1 } },
 				marker: { symbol: "circle" },
 				pointStart: pointStart,
@@ -386,7 +393,7 @@ function load(name) {
 				type: "area",
 				data: asMult(data.neg, -1),
 				visible: true,
-				color: '#AA4643',
+				color: "#AA4643",
 				states: { hover: { lineWidth: 1 } },
 				marker: { symbol: "circle" },
 				pointStart: pointStart,
@@ -397,7 +404,7 @@ function load(name) {
 				decimals: 0,
 				yAxis: 2,
 				lineWidth: 1,
-				color: '#000',
+				color: "#000",
 				data: diff,
 				visible: true,
 				states: { hover: { lineWidth: 1 } },
@@ -410,7 +417,7 @@ function load(name) {
 				decimals: 2,
 				yAxis: 2,
 				lineWidth: 1,
-				color: '#000',
+				color: "#000",
 				data: asMult(MA(diff, 7), 3),
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
@@ -423,7 +430,7 @@ function load(name) {
 				decimals: 2,
 				yAxis: 2,
 				lineWidth: 1,
-				color: '#000',
+				color: "#000",
 				data: asMult(MA(diff, 14), 3),
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
@@ -436,7 +443,7 @@ function load(name) {
 				decimals: 2,
 				yAxis: 3,
 				lineWidth: 1,
-				color: '#AA4643',
+				color: "#AA4643",
 				data: pol, 
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
@@ -449,7 +456,7 @@ function load(name) {
 				decimals: 2,
 				yAxis: 3,
 				lineWidth: 1,
-				color: '#000',
+				color: "#000",
 				data: MA(pol, 7),
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
@@ -462,7 +469,7 @@ function load(name) {
 				decimals: 2,
 				yAxis: 3,
 				lineWidth: 1,
-				color: '#000',
+				color: "#000",
 				data: MA(pol, 14),
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
@@ -475,7 +482,7 @@ function load(name) {
 				decimals: 0,
 				yAxis: 4,
 				lineWidth: 1,
-				color: '#AA4643',
+				color: "#AA4643",
 				data: vol,
 				visible: false,
 				states: { hover: { lineWidth: 1 } },
@@ -558,10 +565,15 @@ $(document).ready(function() {
 		load(getSelection("#entity"));
 	});
 
+	// make tabs in pop-up window work
+	$("ul > li > a").click(function() { 
+		$(this).tab("show"); 
+	});
+
 	// initialize
 	load("GOOG");
 
 	// perfectify
-	perfectify("modal");
+	perfectify(pfy.btn | pfy.a);
 
 });

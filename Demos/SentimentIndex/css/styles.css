@@ -29,5 +29,7 @@ select { margin: 0; width: 180px; }
 
 .fixpos { margin-top: -2px; }
 
-.tweet { padding: 2px 0 5px 0; }
+.item { padding: 2px 0 5px 0; }
 .tweet-header { display: block; color: gray; }
+
+a:focus { outline: 0; }
