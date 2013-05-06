@@ -42,5 +42,22 @@ namespace TwitterMonitorDAL
             public string Term { get; set; }
             public double Weight { get; set; }
         }
+
+        public class SentimentTimelineDay
+        {
+            public DateTime Date { get; set; }
+            public int Positive { get; set; }
+            public int Negative { get; set; }
+            public int NeutralPositiveBiased { get; set; }
+            public int NeutralNegativeBiased { get; set; }
+        }
+        public class TweetSentiment
+        {
+            public long TweetId { get; set; }
+            public DateTime? Date { get; set; }
+            public string Text { get; set; }
+            public string UserName { get; set; }
+            public double SentimentScore { get; set; }
+        }
     }
 }

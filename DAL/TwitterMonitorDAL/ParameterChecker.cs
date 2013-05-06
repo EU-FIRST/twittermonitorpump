@@ -42,6 +42,37 @@ namespace TwitterMonitorDAL
                 HttpStatusCode.NotAcceptable);
         }
 
+        public static string Stock(string stock)
+        {
+            if (string.IsNullOrWhiteSpace(stock))
+                throw new WebFaultException<string>(
+                    string.Format("The stock parameter (stock symbol prefixed with $) is required to run this service"),
+                    HttpStatusCode.NotAcceptable
+                );
+
+            if (!stock.StartsWith("$"))
+                throw new WebFaultException<string>(
+                    string.Format("The specified stock ({0}) specifier is not valid as it is not prefixed with '$' as required by specification.", stock),
+                    HttpStatusCode.NotAcceptable
+                );
+            return stock.Substring(1);
+        }
+
+        public static string FirstWindowSize(string entity)
+        {
+            IEnumerable<EntityInfo> entities = AllEntities.Where(ent =>
+                ent.Entity.ToLower() == entity.ToLower()
+                );
+            if (entities.Any()) 
+                return entities.First().WindowSize;
+
+            throw new WebFaultException<string>(
+                string.Format("The specified entity ({0}) does not exist! " +
+                              "Use the provided services to check all available entities.",
+                              entity),
+                HttpStatusCode.NotAcceptable);
+        }
+
         public static string WindowSize(string windowSize)
         {
             WindowSizeParam ws;
@@ -77,11 +108,17 @@ namespace TwitterMonitorDAL
             return new TimeSpan((int) Math.Max(Math.Round(stepTimeSpan.TotalHours), 1), 0, 0);
         }
 
-        public static DateTime DateRound(DateTime dateTime)
+        public static DateTime DateRoundToHour(DateTime dateTime)
         {
             if (dateTime == DateTime.MinValue) 
                 dateTime = DateTime.Now;
             return DateTime.MinValue + new TimeSpan((int)(Math.Round((dateTime - DateTime.MinValue).TotalHours)), 0, 0);
+        }
+        public static DateTime DateRoundToDayLeaveMin(DateTime dateTime)
+        {
+            if (dateTime == DateTime.MinValue)
+                return dateTime;
+            return DateTime.MinValue + new TimeSpan((int)(Math.Round((dateTime - DateTime.MinValue).TotalDays)*24), 0, 0);
         }
 
         public static bool Boolean(bool groupedZeroPadding)
