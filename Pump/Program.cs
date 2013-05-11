@@ -81,6 +81,10 @@ namespace TwitterMonitorPump
             = LUtils.GetConfigValue("InputConnectionString");
         static string mInputSelectStatement
             = LUtils.GetConfigValue("InputSelectStatement");
+        static string mBinFileName 
+            = string.Format("state_{0:N}.bin", mTableId);
+        static string mBakFileName 
+            = mBinFileName + ".bak";
         static bool mRealtime
             = true;
 
@@ -240,9 +244,9 @@ namespace TwitterMonitorPump
         static void SaveState(long tweetId)
         {
             Console.WriteLine("Saving state ...");
-            if (File.Exists("state.bin.bak")) { File.Delete("state.bin.bak"); } // delete BAK file
-            if (File.Exists("state.bin")) { File.Copy("state.bin", "state.bin.bak"); } // rename state file to BAK
-            BinarySerializer bs = new BinarySerializer("state.bin", FileMode.Create);
+            if (File.Exists(mBakFileName)) { File.Delete(mBakFileName); } // delete BAK file
+            if (File.Exists(mBinFileName)) { File.Copy(mBinFileName, mBakFileName); } // rename state file to BAK
+            BinarySerializer bs = new BinarySerializer(mBinFileName, FileMode.Create);
             bs.WriteLong(tweetId); // last processed tweet ID
             mQueue.Save(bs); // state            
             bs.Close();
@@ -251,10 +255,10 @@ namespace TwitterMonitorPump
         static void InitState(out long lastId)
         {
             lastId = 0;
-            if (File.Exists("state.bin.bak"))
+            if (File.Exists(mBakFileName))
             {
                 Console.WriteLine("Restoring state ...");
-                BinarySerializer bs = new BinarySerializer("state.bin.bak", FileMode.Open);
+                BinarySerializer bs = new BinarySerializer(mBakFileName, FileMode.Open);
                 lastId = bs.ReadLong();
                 mQueue.Load(bs);
                 bs.Close();
@@ -263,8 +267,8 @@ namespace TwitterMonitorPump
 
         static void DeleteState()
         {
-            if (File.Exists("state.bin.bak")) { File.Delete("state.bin.bak"); }
-            if (File.Exists("state.bin")) { File.Delete("state.bin"); } 
+            if (File.Exists(mBakFileName)) { File.Delete(mBakFileName); }
+            if (File.Exists(mBinFileName)) { File.Delete(mBinFileName); } 
         }
 
         static void ExecSqlScript(string name)
