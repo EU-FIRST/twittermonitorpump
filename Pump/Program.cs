@@ -24,16 +24,16 @@ namespace TwitterMonitorPump
                 = new Queue<DateTime>();
             public IncrementalBowSpace mBowSpace
                 = Utils.CreateBowSpace();
-            public IncrementalKMeansClustering mClustering
-                = Utils.CreateClustering(Program.mClusterQualityThresh);
+            public IncrementalKMeansClustering mClustering;
 
-            public Queue(BinarySerializer reader) : this()
+            public Queue(BinarySerializer reader) : this(-1)
             {
                 Load(reader);
             }
 
-            public Queue()
+            public Queue(double clusterQualityThresh)
             {
+                mClustering = Utils.CreateClustering(clusterQualityThresh);
                 // *** for debugging only
                 mClustering.BowSpace = mBowSpace;
                 //mClustering.Logger.LocalLevel = Logger.Level.Trace;
@@ -55,24 +55,55 @@ namespace TwitterMonitorPump
             }
         }
 
+        class Task
+        {
+            public string mScope;
+            public int mStepSizeMinutes
+                = 60;
+            public int mWindowSizeMinutes
+                = 1440;
+            public Set<string> mTaggedWords
+                = new Set<string>();
+            public double mClusterQualityThresh
+                = 0.2;
+            public Queue mQueue;
+
+            public Task(string scope, int stepSizeMinutes, int windowSizeMinutes, IEnumerable<string> taggedWords, double clusterQualityThresh) 
+            {
+                mScope = scope;
+                mStepSizeMinutes = stepSizeMinutes;
+                mWindowSizeMinutes = windowSizeMinutes;
+                if (taggedWords != null) { mTaggedWords.AddRange(taggedWords.Select(x => x.ToUpper())); }
+                mClusterQualityThresh = clusterQualityThresh;
+                mQueue = new Queue(clusterQualityThresh);
+            }
+
+            public Guid TableId
+            {
+                // TODO: precompute this and use binary repr.
+                get 
+                { 
+                    return LUtils.GetStringHashCode128(string.Format("{0} {1} {2} {3}", mScope, mStepSizeMinutes, mWindowSizeMinutes, mClusterQualityThresh)); 
+                }
+            }
+        }
+
         static int mCommandTimeout
             = Convert.ToInt32(LUtils.GetConfigValue("CommandTimeout", "0"));
-        static string mTopic
-            = LUtils.GetConfigValue("Topic");
-        static int mStepSize
+        static int XmStepSize
             = Convert.ToInt32(LUtils.GetConfigValue("StepSizeMinutes", "60"));
-        static int mWindowSize
+        static int XmWindowSize
             = Convert.ToInt32(LUtils.GetConfigValue("WindowSizeMinutes", "1440"));
-        static Set<string> mTaggedWords
-            = new Set<string>(LUtils.GetConfigValue("TaggedWords", "").Split(',').Select(x => x.ToUpper()));
-        static double mClusterQualityThresh
+        //static Set<string> XmTaggedWords
+        //    = new Set<string>(LUtils.GetConfigValue("TaggedWords", "").Split(',').Select(x => x.ToUpper()));
+        static double XmClusterQualityThresh
             = Convert.ToDouble(LUtils.GetConfigValue("ClusterQualityThresh", "0.1"));
         static int mSleepSeconds
             = Convert.ToInt32(LUtils.GetConfigValue("SleepSeconds", "900"));
-        static string mOutputTableNameSuffix
+        static string XmOutputTableNameSuffix
             = LUtils.GetConfigValue("OutputTableNameSuffix", "");
-        static Guid mTableId
-            = LUtils.GetStringHashCode128(string.Format("{0} {1} {2}", mOutputTableNameSuffix, mWindowSize, mClusterQualityThresh));
+        static Guid XmTableId
+            = LUtils.GetStringHashCode128(string.Format("{0} {1} {2}", XmOutputTableNameSuffix, XmWindowSize, XmClusterQualityThresh));
         static int mSaveStateNumSteps
             = Convert.ToInt32(LUtils.GetConfigValue("SaveStateNumSteps", "10"));
         static string mOutputConnectionString
@@ -82,29 +113,24 @@ namespace TwitterMonitorPump
         static string mInputSelectStatement
             = LUtils.GetConfigValue("InputSelectStatement");
         static string mBinFileName 
-            = string.Format("state_{0:N}.bin", mTableId);
+            = string.Format("state_{0:N}.bin", XmTableId);
         static string mBakFileName 
             = mBinFileName + ".bak";
-        static bool mRealtime
-            = true;
 
-        static Queue mQueue
-            = new Queue();
-
-        static void GetTimeSlot(DateTime time, out DateTime timeStart, out DateTime timeEnd)
+        static void GetTimeSlot(DateTime time, int stepSize, out DateTime timeStart, out DateTime timeEnd)
         {
             double min = (time - DateTime.MinValue).TotalMinutes;
-            int n = (int)Math.Floor(min / (double)mStepSize);
-            TimeSpan timeOffset = new TimeSpan(0, n * mStepSize, 0);
+            int n = (int)Math.Floor(min / (double)stepSize);
+            TimeSpan timeOffset = new TimeSpan(0, n * stepSize, 0);
             timeStart = DateTime.MinValue + timeOffset;
-            timeEnd = timeStart + new TimeSpan(0, mStepSize, 0);
+            timeEnd = timeStart + new TimeSpan(0, stepSize, 0);
         }
 
-        static void UpdateBowSpace(int windowSize, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, out int numOutdated)
+        static void UpdateBowSpace(Task task, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, out int numOutdated)
         {
-            IncrementalBowSpace bowSpc = mQueue.mBowSpace;
-            Queue<DateTime> timeStamps = mQueue.mTimeStamps;
-            DateTime timeStart = timeEnd - new TimeSpan(0, windowSize, 0);
+            IncrementalBowSpace bowSpc = task.mQueue.mBowSpace;
+            Queue<DateTime> timeStamps = task.mQueue.mTimeStamps;
+            DateTime timeStart = timeEnd - new TimeSpan(0, task.mWindowSizeMinutes, 0);
             // add new tweets
             foreach (DateTime timeStamp in tweets.Select(x => x.First))
             {
@@ -129,14 +155,14 @@ namespace TwitterMonitorPump
             return new Guid(MD5.Create().ComputeHash(buffer.ToArray()));
         }
 
-        static int SwitchRecordState(DateTime timeStart, SqlConnection connection)
+        static int SwitchRecordState(DateTime timeStart, Guid tableId, SqlConnection connection)
         {
             string cmdTxt = LUtils.GetManifestResourceString(typeof(Program), "SwitchState.sql");
             using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
             {
                 using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
                 {
-                    Utils.AssignParamsToCommand(cmd, "StartTime", timeStart, "TableId", mTableId);
+                    Utils.AssignParamsToCommand(cmd, "StartTime", timeStart, "TableId", tableId);
                     cmd.CommandTimeout = mCommandTimeout;
                     int rowsAffected = cmd.ExecuteNonQuery();
                     tran.Commit();
@@ -145,17 +171,17 @@ namespace TwitterMonitorPump
             }
         }
 
-        static void ProcessTweets(DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
+        static void ProcessTweets(Task task, DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
         {
-            Console.WriteLine("Processing tweets {0} {1:yyyy-MM-dd HH:mm:ss}-{2:HH:mm:ss} ({3} tweets) ...", mTopic, timeStart, timeEnd, tweets.Count);
+            Console.WriteLine("Processing tweets {0} {1:yyyy-MM-dd HH:mm:ss}-{2:HH:mm:ss} ({3} tweets) ...", task.mScope, timeStart, timeEnd, tweets.Count);
             DataTable clustersTable = Utils.CreateClustersTable();
             DataTable termsTable = Utils.CreateTermsTable();
             // update BOW space
             int numOutdated;
-            UpdateBowSpace(mWindowSize, timeEnd, tweets, out numOutdated);
+            UpdateBowSpace(task, timeEnd, tweets, out numOutdated);
             // update clusters
-            IncrementalBowSpace bowSpc = mQueue.mBowSpace;
-            IncrementalKMeansClustering clustering = mQueue.mClustering;
+            IncrementalBowSpace bowSpc = task.mQueue.mBowSpace;
+            IncrementalKMeansClustering clustering = task.mQueue.mClustering;
             ArrayList<SparseVector<double>> bowsTf
                 = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
             ArrayList<SparseVector<double>> bowsTfIdf
@@ -166,7 +192,7 @@ namespace TwitterMonitorPump
             // check if time period already in DB and change state to 1
             using (SqlCommand checkExists = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Check.sql"), connection))
             {
-                Utils.AssignParamsToCommand(checkExists, "StartTime", timeStart, "TableId", mTableId); 
+                Utils.AssignParamsToCommand(checkExists, "StartTime", timeStart, "TableId", task.TableId); 
                 checkExists.CommandTimeout = mCommandTimeout;
                 if (checkExists.ExecuteScalar() != null) { state = 1; Console.WriteLine("Record state set to 1."); }
             }
@@ -187,7 +213,7 @@ namespace TwitterMonitorPump
                     ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
                 Guid clusterId = ComputeClusterId(timeStart, topicId);
                 clustersTable.Rows.Add(
-                    mTableId,
+                    task.TableId,
                     clusterId,
                     timeStart,
                     timeEnd,
@@ -207,9 +233,9 @@ namespace TwitterMonitorPump
                     bool hashtag = word.Contains("#");
                     bool stock = word.Contains("$");
                     bool nGram = word.Contains(" ");
-                    bool tagged = word.Split(' ').Count(x => mTaggedWords.Contains(x.ToUpper())) > 0;
+                    bool tagged = word.Split(' ').Count(x => task.mTaggedWords.Contains(x.ToUpper())) > 0;
                     termsTable.Rows.Add(
-                        mTableId,
+                        task.TableId,
                         clusterId,
                         LUtils.GetStringHashCode128(stem),
                         LUtils.Truncate(stem.ToUpper(), 140),
@@ -237,22 +263,22 @@ namespace TwitterMonitorPump
             if (state == 1)
             {
                 Console.WriteLine("Switching record states ...");
-                SwitchRecordState(timeStart, connection);
+                SwitchRecordState(timeStart, task.TableId, connection);
             }
         }
 
-        static void SaveState(long tweetId)
+        static void SaveState(long tweetId, Queue queue)
         {
             Console.WriteLine("Saving state ...");
             if (File.Exists(mBakFileName)) { File.Delete(mBakFileName); } // delete BAK file
             if (File.Exists(mBinFileName)) { File.Copy(mBinFileName, mBakFileName); } // rename state file to BAK
             BinarySerializer bs = new BinarySerializer(mBinFileName, FileMode.Create);
             bs.WriteLong(tweetId); // last processed tweet ID
-            mQueue.Save(bs); // state            
+            queue.Save(bs); // state            
             bs.Close();
         }
 
-        static void InitState(out long lastId)
+        static void InitState(out long lastId, Queue queue)
         {
             lastId = 0;
             if (File.Exists(mBakFileName))
@@ -260,7 +286,7 @@ namespace TwitterMonitorPump
                 Console.WriteLine("Restoring state ...");
                 BinarySerializer bs = new BinarySerializer(mBakFileName, FileMode.Open);
                 lastId = bs.ReadLong();
-                mQueue.Load(bs);
+                queue.Load(bs);
                 bs.Close();
             }
         }
@@ -271,7 +297,7 @@ namespace TwitterMonitorPump
             if (File.Exists(mBinFileName)) { File.Delete(mBinFileName); } 
         }
 
-        static void ExecSqlScript(string name)
+        static void ExecSqlScript(string name, params object[] cmdParams)
         {
             string sqlTxt = LUtils.GetManifestResourceString(typeof(Program), name);
             sqlTxt = Regex.Replace(sqlTxt, "^GO", "", RegexOptions.Multiline);
@@ -280,85 +306,88 @@ namespace TwitterMonitorPump
                 connection.Open();
                 using (SqlCommand cmd = new SqlCommand(sqlTxt, connection))
                 {
-                    Utils.AssignParamsToCommand(cmd, "TableId", mTableId);
+                    Utils.AssignParamsToCommand(cmd, cmdParams);
                     cmd.CommandTimeout = mCommandTimeout;
                     cmd.ExecuteNonQuery();
                 }
             }        
         }
 
+        static void ProcessTask(object objTask)
+        {
+            Task task = (Task)objTask;
+            int N = mSaveStateNumSteps;
+            int n = N;
+            Console.WriteLine("Cleaning up ...");
+            ExecSqlScript("Cleanup.sql", "TableId", task.TableId);
+            long lastId;
+            InitState(out lastId, task.mQueue);
+            if (lastId > 0) { n *= 2; }
+            ArrayList<Pair<DateTime, string>> tweets = new ArrayList<Pair<DateTime, string>>();
+            DateTime timeStart = DateTime.MinValue;
+            DateTime timeEnd = DateTime.MinValue;
+            using (SqlConnection output = new SqlConnection(mOutputConnectionString))
+            {
+                output.Open();
+                using (SqlConnection input = new SqlConnection(mInputConnectionString))
+                {
+                    input.Open();
+                    Console.WriteLine("Connected.");
+                    using (SqlCommand cmd = new SqlCommand(mInputSelectStatement, input))
+                    {
+                        cmd.CommandTimeout = mCommandTimeout;
+                        Utils.AssignParamsToCommand(cmd, "Id", lastId);
+                        SqlDataReader reader = cmd.ExecuteReader();
+                        Console.WriteLine("Executed SQL reader. Reading data ...");
+                        while (reader.Read())
+                        {
+                            long id = Utils.GetVal<long>(reader, "Id");
+                            string text = Utils.GetVal<string>(reader, "Text");
+                            text = HttpUtility.HtmlDecode(Utils.RemoveUrls(text)); // prepare tweet text                            
+                            DateTime timeStamp = Utils.GetVal<DateTime>(reader, "CreatedAt");
+                            DateTime tmpTimeStart, tmpTimeEnd;
+                            GetTimeSlot(timeStamp, task.mStepSizeMinutes, out tmpTimeStart, out tmpTimeEnd);
+                            if (tmpTimeStart != timeStart && timeStart != DateTime.MinValue)
+                            {
+                                if (tmpTimeStart < timeStart) // skip tweets with earlier time stamps
+                                {
+                                    Console.WriteLine("*** Tweet with earlier time stamp detected and skipped.");
+                                    continue;
+                                }
+                                ProcessTweets(task, timeStart, timeEnd, tweets, output);
+                                tweets.Clear();
+                                if (--n == 0) { n = N; SaveState(lastId, task.mQueue); }
+                            }
+                            timeStart = tmpTimeStart;
+                            timeEnd = tmpTimeEnd;
+                            tweets.Add(new Pair<DateTime, string>(timeStamp, text));
+                            lastId = id;
+                        }
+                        if (tweets.Count > 0)
+                        {
+                            ProcessTweets(task, timeStart, timeEnd, tweets, output);
+                            // this record is most likely incomplete; therefore don't save the state
+                        }
+                    }
+                }
+            }
+            // enqueue self
+            ThreadPool.QueueUserWorkItem(ProcessTask, task);
+        }
+
         static void Main(string[] args)
         {
             string param = args.Count() > 0 ? args[0].ToLower() : null;
+            Task task = new Task("GOOG", 60, 10080, "$GOOG,GOOG,GOOGLE".Split(','), 0.2);
             if (param == "init")
             {
                 Console.WriteLine("Initializing ...");
                 ExecSqlScript("CreateTables.sql");
-                ExecSqlScript("Initialize.sql");
+                ExecSqlScript("Initialize.sql", "TableId", task.TableId);
                 DeleteState();
             }
-            while (true) // main loop
-            {
-                int N = mSaveStateNumSteps;
-                int n = N;
-                Console.WriteLine("Cleaning up ...");
-                ExecSqlScript("Cleanup.sql");
-                long lastId;
-                InitState(out lastId);
-                if (lastId > 0) { n *= 2; }
-                ArrayList<Pair<DateTime, string>> tweets = new ArrayList<Pair<DateTime, string>>();
-                DateTime timeStart = DateTime.MinValue;
-                DateTime timeEnd = DateTime.MinValue;
-                using (SqlConnection output = new SqlConnection(mOutputConnectionString))
-                {
-                    output.Open();
-                    using (SqlConnection input = new SqlConnection(mInputConnectionString))
-                    {
-                        input.Open();
-                        Console.WriteLine("Connected.");
-                        using (SqlCommand cmd = new SqlCommand(mInputSelectStatement, input))
-                        {
-                            cmd.CommandTimeout = mCommandTimeout;
-                            Utils.AssignParamsToCommand(cmd, "Id", lastId);
-                            SqlDataReader reader = cmd.ExecuteReader();
-                            Console.WriteLine("Executed SQL reader. Reading data ...");
-                            while (reader.Read())
-                            {
-                                long id = Utils.GetVal<long>(reader, "Id");
-                                string text = Utils.GetVal<string>(reader, "Text");
-                                text = HttpUtility.HtmlDecode(Utils.RemoveUrls(text)); // prepare tweet text                            
-                                DateTime timeStamp = Utils.GetVal<DateTime>(reader, "CreatedAt");
-                                DateTime tmpTimeStart, tmpTimeEnd;
-                                GetTimeSlot(timeStamp, out tmpTimeStart, out tmpTimeEnd);
-                                if (tmpTimeStart != timeStart && timeStart != DateTime.MinValue)
-                                {
-                                    if (tmpTimeStart < timeStart) // skip tweets with earlier time stamps
-                                    { 
-                                        Console.WriteLine("*** Tweet with earlier time stamp detected and skipped.");
-                                        continue; 
-                                    } 
-                                    ProcessTweets(timeStart, timeEnd, tweets, output);
-                                    tweets.Clear();
-                                    if (--n == 0) { n = N; SaveState(lastId); }
-                                }
-                                timeStart = tmpTimeStart;
-                                timeEnd = tmpTimeEnd;
-                                tweets.Add(new Pair<DateTime, string>(timeStamp, text));
-                                lastId = id;
-                            }
-                            if (tweets.Count > 0)
-                            {
-                                ProcessTweets(timeStart, timeEnd, tweets, output);
-                                // this record is most likely incomplete; therefore don't save the state
-                            }
-                        }
-                    }                    
-                }
-                Console.WriteLine("All done.");
-                if (!mRealtime) { return; }
-                Console.WriteLine("Sleeping ...");
-                Thread.Sleep(mSleepSeconds * 1000);
-            } // while true
+            ThreadPool.QueueUserWorkItem(ProcessTask, task);
+            while (true) { Thread.Sleep(1000); }
         }
     }
 }
