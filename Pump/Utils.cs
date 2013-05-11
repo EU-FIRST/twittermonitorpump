@@ -54,6 +54,7 @@ namespace TwitterMonitorPump
         public static DataTable CreateClustersTable()
         {
             DataTable table = new DataTable();
+            table.Columns.Add("TableId", typeof(Guid));
             table.Columns.Add("Id", typeof(Guid));
             table.Columns.Add("StartTime", typeof(DateTime));
             table.Columns.Add("EndTime", typeof(DateTime));
@@ -66,6 +67,7 @@ namespace TwitterMonitorPump
         public static DataTable CreateTermsTable()
         {
             DataTable table = new DataTable();
+            table.Columns.Add("TableId", typeof(Guid));
             table.Columns.Add("ClusterId", typeof(Guid));
             table.Columns.Add("StemHash", typeof(Guid));
             table.Columns.Add("Stem", typeof(string));

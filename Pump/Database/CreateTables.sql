@@ -13,18 +13,20 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 CREATE TABLE [dbo].[Clusters](
+	[TableId] [uniqueidentifier] NOT NULL,
 	[Id] [uniqueidentifier] NOT NULL,
 	[StartTime] [datetime] NOT NULL,
 	[EndTime] [datetime] NOT NULL,
 	[Topic] [bigint] NOT NULL,
 	[NumDocs] [int] NOT NULL,
 	[RecordState] [int] NOT NULL
-	constraint UQ_Clusters unique (Id, RecordState) 
+	constraint UQ_Clusters unique (TableId, Id, RecordState) 
 ) ON [PRIMARY]
 
 GO
 
 CREATE TABLE [dbo].[Terms](
+	[TableId] [uniqueidentifier] NOT NULL,
 	[ClusterId] [uniqueidentifier] NOT NULL,
 	[StemHash] [uniqueidentifier] NOT NULL,
 	[Stem] [nvarchar](140) NOT NULL,	
@@ -39,7 +41,7 @@ CREATE TABLE [dbo].[Terms](
 	[Tagged] [bit] NOT NULL,
 	[StartTime] [datetime] NOT NULL,
 	[RecordState] [int] NOT NULL
-	constraint UQ_Terms unique (ClusterId, StemHash, RecordState)
+	constraint UQ_Terms unique (TableId, ClusterId, StemHash, RecordState)
 ) ON [PRIMARY]
 
 GO

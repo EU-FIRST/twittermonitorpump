@@ -75,6 +75,8 @@ namespace TwitterMonitorPump
             = LUtils.GetConfigValue("OutputTableNameSuffix", "");
         static string mTableSuffix
             = string.Format("_{0}_{1}_{2:0}", mOutputTableNameSuffix, MapWindowSize(mWindowSize), mClusterQualityThresh * 10000);
+        static Guid mTableId
+            = LUtils.GetStringHashCode128(string.Format("{0} {1} {2}", mOutputTableNameSuffix, mWindowSize, mClusterQualityThresh));
         static string mOutputTableNameTerms
             = "Terms" + mTableSuffix;
         static string mOutputTableNameClusters
@@ -143,16 +145,17 @@ namespace TwitterMonitorPump
         static int SwitchRecordState(DateTime timeStart, SqlConnection connection)
         {
             string cmdTxt = string.Format(@"
-                UPDATE {0} SET RecordState = 2 WHERE StartTime = @StartTime AND RecordState = 0
-                UPDATE {0} SET RecordState = 0 WHERE StartTime = @StartTime AND RecordState = 1
-                UPDATE {1} SET RecordState = 2 WHERE StartTime = @StartTime AND RecordState = 0
-                UPDATE {1} SET RecordState = 0 WHERE StartTime = @StartTime AND RecordState = 1
+                UPDATE {0} SET RecordState = 2 WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 0
+                UPDATE {0} SET RecordState = 0 WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 1
+                UPDATE {1} SET RecordState = 2 WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 0
+                UPDATE {1} SET RecordState = 0 WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 1
                 ", mOutputTableNameClusters, mOutputTableNameTerms);
             using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
             {
                 using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
                 {
-                    cmd.Parameters.Add(new SqlParameter("StartTime", timeStart));
+                    Utils.AssignParamsToCommand(cmd, "StartTime", timeStart, "TableId", mTableId);
+                    cmd.CommandTimeout = mCommandTimeout;
                     int rowsAffected = cmd.ExecuteNonQuery();
                     tran.Commit();
                     return rowsAffected;
@@ -176,13 +179,13 @@ namespace TwitterMonitorPump
             ArrayList<SparseVector<double>> bowsTfIdf
                 = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, /*cut=*/0, /*minWordFreq=*/1);
             bool useTf = bowSpc.Count < 5;
-            Console.WriteLine(bowSpc.Count);
             ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));            
             int state = 0;
             // check if time period already in DB and change state to 1
-            using (SqlCommand checkExists = new SqlCommand(string.Format("SELECT TOP 1 * FROM {0} WHERE StartTime = @StartTime AND RecordState = 0", mOutputTableNameClusters), connection))
+            using (SqlCommand checkExists = new SqlCommand(string.Format("SELECT TOP 1 * FROM {0} WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 0", mOutputTableNameClusters), connection))
             {
-                checkExists.Parameters.Add(new SqlParameter("StartTime", timeStart));
+                Utils.AssignParamsToCommand(checkExists, "StartTime", timeStart, "TableId", mTableId); 
+                checkExists.CommandTimeout = mCommandTimeout;
                 if (checkExists.ExecuteScalar() != null) { state = 1; Console.WriteLine("Record state set to 1."); }
             }
             // create topic-specific centroids
@@ -202,6 +205,7 @@ namespace TwitterMonitorPump
                     ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
                 Guid clusterId = ComputeClusterId(timeStart, topicId);
                 clustersTable.Rows.Add(
+                    mTableId,
                     clusterId,
                     timeStart,
                     timeEnd,
@@ -223,6 +227,7 @@ namespace TwitterMonitorPump
                     bool nGram = word.Contains(" ");
                     bool tagged = word.Split(' ').Count(x => mTaggedWords.Contains(x.ToUpper())) > 0;
                     termsTable.Rows.Add(
+                        mTableId,
                         clusterId,
                         LUtils.GetStringHashCode128(stem),
                         LUtils.Truncate(stem.ToUpper(), 140),
@@ -298,6 +303,7 @@ namespace TwitterMonitorPump
                 connection.Open();
                 using (SqlCommand cmd = new SqlCommand(sqlTxt, connection))
                 {
+                    cmd.CommandTimeout = mCommandTimeout;
                     cmd.ExecuteNonQuery();
                 }
             }
@@ -307,14 +313,16 @@ namespace TwitterMonitorPump
         {
             Console.WriteLine("Cleaning up ...");
             string cmdTxt = string.Format(@"
-                DELETE FROM {0} WHERE RecordState <> 0
-                DELETE FROM {1} WHERE RecordState <> 0
+                DELETE FROM {0} WHERE TableId = @TableId AND RecordState <> 0
+                DELETE FROM {1} WHERE TableId = @TableId AND RecordState <> 0
                 ", mOutputTableNameClusters, mOutputTableNameTerms);
             using (SqlConnection connection = new SqlConnection(mOutputConnectionString))
             {
                 connection.Open();
                 using (SqlCommand cmd = new SqlCommand(cmdTxt, connection))
                 {
+                    Utils.AssignParamsToCommand(cmd, "TableId", mTableId);
+                    cmd.CommandTimeout = mCommandTimeout;
                     return cmd.ExecuteNonQuery();
                 }
             }
@@ -349,7 +357,7 @@ namespace TwitterMonitorPump
                         using (SqlCommand cmd = new SqlCommand(mInputSelectStatement, input))
                         {
                             cmd.CommandTimeout = mCommandTimeout;
-                            cmd.Parameters.Add(new SqlParameter("Id", lastId));
+                            Utils.AssignParamsToCommand(cmd, "Id", lastId);
                             SqlDataReader reader = cmd.ExecuteReader();
                             Console.WriteLine("Executed SQL statement. Reading data ...");
                             while (reader.Read())
