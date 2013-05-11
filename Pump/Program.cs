@@ -2,18 +2,19 @@
 using System.Web;
 using System.Linq;
 using System.Collections.Generic;
-using System.Data.SqlClient;
 using System.Data;
+using System.Data.SqlClient;
 using System.Security.Cryptography;
 using System.IO;
 using System.Threading;
+using System.Text;
 using System.Text.RegularExpressions;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
+
 using LUtils
     = Latino.Utils;
-using System.Text;
 
 namespace TwitterMonitorPump
 {
@@ -73,13 +74,16 @@ namespace TwitterMonitorPump
             public string mStateBinFileName;
             public string mStateBakFileName;
 
-            public Task(string scope, int stepSizeMinutes, int windowSizeMinutes, IEnumerable<string> taggedWords, double clusterQualityThresh) 
+            public bool mRestart;
+
+            public Task(string scope, int stepSizeMinutes, int windowSizeMinutes, IEnumerable<string> taggedWords, double clusterQualityThresh, bool restart) 
             {
                 mScope = scope;
                 mStepSizeMinutes = stepSizeMinutes;
                 mWindowSizeMinutes = windowSizeMinutes;
                 if (taggedWords != null) { mTaggedWords.AddRange(taggedWords.Select(x => x.ToUpper())); }
                 mClusterQualityThresh = clusterQualityThresh;
+                mRestart = restart;                
                 mQueue = new Queue(clusterQualityThresh);
                 // table ID
                 ArrayList<byte> buffer = new ArrayList<byte>();
@@ -104,8 +108,6 @@ namespace TwitterMonitorPump
             = LUtils.GetConfigValue("OutputConnectionString");
         static string mInputConnectionString
             = LUtils.GetConfigValue("InputConnectionString");
-        static string mInputSelectStatement
-            = LUtils.GetConfigValue("InputSelectStatement");
 
         static void GetTimeSlot(DateTime time, int stepSize, out DateTime timeStart, out DateTime timeEnd)
         {
@@ -306,10 +308,19 @@ namespace TwitterMonitorPump
         static void ProcessTask(object objTask)
         {
             Task task = (Task)objTask;
+            if (task.mRestart)
+            {
+                Console.WriteLine("Initializing ...");
+                ExecSqlScript("Initialize.sql", "TableId", task.mTableId);
+                DeleteState(task);
+            }
+            else
+            {
+                Console.WriteLine("Continuing ...");
+                ExecSqlScript("Cleanup.sql", "TableId", task.mTableId);            
+            }
             int N = mSaveStateNumSteps;
             int n = N;
-            Console.WriteLine("Cleaning up ...");
-            ExecSqlScript("Cleanup.sql", "TableId", task.mTableId);
             long lastId;
             InitState(task, out lastId);
             if (lastId > 0) { n *= 2; }
@@ -323,7 +334,7 @@ namespace TwitterMonitorPump
                 {
                     input.Open();
                     Console.WriteLine("Connected.");
-                    using (SqlCommand cmd = new SqlCommand(mInputSelectStatement, input))
+                    using (SqlCommand cmd = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Read.sql"), input))
                     {
                         cmd.CommandTimeout = mCommandTimeout;
                         Utils.AssignParamsToCommand(cmd, "Id", lastId);
@@ -360,22 +371,16 @@ namespace TwitterMonitorPump
                         }
                     }
                 }
-            }
+            }            
             // enqueue self
+            task.mRestart = false;
             ThreadPool.QueueUserWorkItem(ProcessTask, task);
         }
 
         static void Main(string[] args)
         {
-            string param = args.Count() > 0 ? args[0].ToLower() : null;
-            Task task = new Task("GOOG", 60, 10080, "$GOOG,GOOG,GOOGLE".Split(','), 0.2);
-            if (param == "init")
-            {
-                Console.WriteLine("Initializing ...");
-                ExecSqlScript("CreateTables.sql");
-                ExecSqlScript("Initialize.sql", "TableId", task.mTableId);
-                DeleteState(task);
-            }
+            ExecSqlScript("CreateTables.sql");
+            Task task = new Task("GOOG", 60, 10080, "$GOOG,GOOG,GOOGLE".Split(','), 0.2, /*restart=*/false);
             ThreadPool.QueueUserWorkItem(ProcessTask, task);
             while (true) { Thread.Sleep(1000); }
         }

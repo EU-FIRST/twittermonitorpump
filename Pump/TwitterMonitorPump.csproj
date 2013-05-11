@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <EmbeddedResource Include="Database\Read.sql" />
     <EmbeddedResource Include="Database\Check.sql" />
     <EmbeddedResource Include="Database\SwitchState.sql" />
     <EmbeddedResource Include="Database\Initialize.sql" />

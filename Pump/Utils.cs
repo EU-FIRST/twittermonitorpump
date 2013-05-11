@@ -5,6 +5,7 @@ using System.Data;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
+
 using LUtils
     = Latino.Utils;
 
