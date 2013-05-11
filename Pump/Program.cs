@@ -77,10 +77,6 @@ namespace TwitterMonitorPump
             = string.Format("_{0}_{1}_{2:0}", mOutputTableNameSuffix, MapWindowSize(mWindowSize), mClusterQualityThresh * 10000);
         static Guid mTableId
             = LUtils.GetStringHashCode128(string.Format("{0} {1} {2}", mOutputTableNameSuffix, mWindowSize, mClusterQualityThresh));
-        static string mOutputTableNameTerms
-            = "Terms" + mTableSuffix;
-        static string mOutputTableNameClusters
-            = "Clusters" + mTableSuffix;
         static int mSaveStateNumSteps
             = Convert.ToInt32(LUtils.GetConfigValue("SaveStateNumSteps", "10"));
         static string mOutputConnectionString
@@ -144,12 +140,7 @@ namespace TwitterMonitorPump
 
         static int SwitchRecordState(DateTime timeStart, SqlConnection connection)
         {
-            string cmdTxt = string.Format(@"
-                UPDATE {0} SET RecordState = 2 WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 0
-                UPDATE {0} SET RecordState = 0 WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 1
-                UPDATE {1} SET RecordState = 2 WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 0
-                UPDATE {1} SET RecordState = 0 WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 1
-                ", mOutputTableNameClusters, mOutputTableNameTerms);
+            string cmdTxt = LUtils.GetManifestResourceString(typeof(Program), "SwitchState.sql");
             using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
             {
                 using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
@@ -182,7 +173,7 @@ namespace TwitterMonitorPump
             ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));            
             int state = 0;
             // check if time period already in DB and change state to 1
-            using (SqlCommand checkExists = new SqlCommand(string.Format("SELECT TOP 1 * FROM {0} WHERE TableId = @TableId AND StartTime = @StartTime AND RecordState = 0", mOutputTableNameClusters), connection))
+            using (SqlCommand checkExists = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Check.sql"), connection))
             {
                 Utils.AssignParamsToCommand(checkExists, "StartTime", timeStart, "TableId", mTableId); 
                 checkExists.CommandTimeout = mCommandTimeout;
@@ -247,9 +238,9 @@ namespace TwitterMonitorPump
             }
             SqlBulkCopy bulkCopy = new SqlBulkCopy(connection);
             bulkCopy.BulkCopyTimeout = mCommandTimeout;
-            bulkCopy.DestinationTableName = mOutputTableNameClusters;
+            bulkCopy.DestinationTableName = "Clusters";
             bulkCopy.WriteToServer(clustersTable);
-            bulkCopy.DestinationTableName = mOutputTableNameTerms;
+            bulkCopy.DestinationTableName = "Terms"; 
             bulkCopy.WriteToServer(termsTable);
             bulkCopy.Close();
             if (state == 1)
@@ -289,51 +280,41 @@ namespace TwitterMonitorPump
             if (File.Exists("state.bin")) { File.Delete("state.bin"); } 
         }
 
-        static void CreateTables()
+        static void ExecSqlScript(string name)
         {
-            Console.WriteLine("Creating tables ...");
-            string sqlTxt = LUtils.GetManifestResourceString(typeof(Program), "CreateTables.sql");
-            sqlTxt = sqlTxt.Replace("[Clusters]", "[" + mOutputTableNameClusters + "]");
-            sqlTxt = sqlTxt.Replace("[Terms]", "[" + mOutputTableNameTerms + "]");
-            sqlTxt = sqlTxt.Replace("UQ_Clusters", "UQ_" + mOutputTableNameClusters);
-            sqlTxt = sqlTxt.Replace("UQ_Terms", "UQ_" + mOutputTableNameTerms);
+            string sqlTxt = LUtils.GetManifestResourceString(typeof(Program), name);
             sqlTxt = Regex.Replace(sqlTxt, "^GO", "", RegexOptions.Multiline);
             using (SqlConnection connection = new SqlConnection(mOutputConnectionString))
             {
                 connection.Open();
                 using (SqlCommand cmd = new SqlCommand(sqlTxt, connection))
                 {
+                    Utils.AssignParamsToCommand(cmd, "TableId", mTableId);
                     cmd.CommandTimeout = mCommandTimeout;
                     cmd.ExecuteNonQuery();
                 }
-            }
+            }        
         }
 
-        static int Cleanup()
+        static void Cleanup()
         {
             Console.WriteLine("Cleaning up ...");
-            string cmdTxt = string.Format(@"
-                DELETE FROM {0} WHERE TableId = @TableId AND RecordState <> 0
-                DELETE FROM {1} WHERE TableId = @TableId AND RecordState <> 0
-                ", mOutputTableNameClusters, mOutputTableNameTerms);
-            using (SqlConnection connection = new SqlConnection(mOutputConnectionString))
-            {
-                connection.Open();
-                using (SqlCommand cmd = new SqlCommand(cmdTxt, connection))
-                {
-                    Utils.AssignParamsToCommand(cmd, "TableId", mTableId);
-                    cmd.CommandTimeout = mCommandTimeout;
-                    return cmd.ExecuteNonQuery();
-                }
-            }
+            ExecSqlScript("Cleanup.sql");
+        }
+
+        static void Initialize()
+        {
+            Console.WriteLine("Initializing ...");
+            ExecSqlScript("CreateTables.sql");
+            ExecSqlScript("Initialize.sql");
         }
 
         static void Main(string[] args)
         {
             string param = args.Count() > 0 ? args[0].ToLower() : null;
-            if (param == "create")
+            if (param == "init")
             {                
-                CreateTables();
+                Initialize();
                 DeleteState();
             }
             while (true) // main loop

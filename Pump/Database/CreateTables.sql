@@ -1,10 +1,9 @@
-﻿IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Clusters]') AND type in (N'U'))
-DROP TABLE [dbo].[Clusters]
-GO
+﻿-- CreateTables.sql
 
-IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Terms]') AND type in (N'U'))
-DROP TABLE [dbo].[Terms]
-GO
+-- Creates tables if they don't exist
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Clusters]') AND type in (N'U'))
+BEGIN 
 
 SET ANSI_NULLS ON
 GO
@@ -24,6 +23,11 @@ CREATE TABLE [dbo].[Clusters](
 ) ON [PRIMARY]
 
 GO
+
+END
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Terms]') AND type in (N'U'))
+BEGIN
 
 CREATE TABLE [dbo].[Terms](
 	[TableId] [uniqueidentifier] NOT NULL,
@@ -45,3 +49,5 @@ CREATE TABLE [dbo].[Terms](
 ) ON [PRIMARY]
 
 GO
+
+END
