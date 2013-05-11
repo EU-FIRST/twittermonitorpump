@@ -87,6 +87,8 @@ namespace TwitterMonitorPump
             = LUtils.GetConfigValue("InputConnectionString");
         static string mInputSelectStatement
             = LUtils.GetConfigValue("InputSelectStatement");
+        static bool mRealtime
+            = true;
 
         static Queue mQueue
             = new Queue();
@@ -160,7 +162,7 @@ namespace TwitterMonitorPump
 
         static void ProcessTweets(DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
         {
-            Console.WriteLine("Processing tweets {0:yyyy-MM-dd HH:mm:ss}-{1:HH:mm:ss} ({2} tweets) ...", timeStart, timeEnd, tweets.Count);
+            Console.WriteLine("Processing tweets {0} {1:yyyy-MM-dd HH:mm:ss}-{2:HH:mm:ss} ({3} tweets) ...", mTopic, timeStart, timeEnd, tweets.Count);
             DataTable clustersTable = Utils.CreateClustersTable();
             DataTable termsTable = Utils.CreateTermsTable();
             // update BOW space
@@ -172,7 +174,9 @@ namespace TwitterMonitorPump
             ArrayList<SparseVector<double>> bowsTf
                 = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TermFreq, /*normalizeVectors=*/false, /*cut=*/0, /*minWordFreq=*/1);
             ArrayList<SparseVector<double>> bowsTfIdf
-                = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, mBowWeightsCut, /*minWordFreq=*/1);
+                = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, /*cut=*/0, /*minWordFreq=*/1);
+            bool useTf = bowSpc.Count < 5;
+            Console.WriteLine(bowSpc.Count);
             ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));            
             int state = 0;
             // check if time period already in DB and change state to 1
@@ -193,7 +197,9 @@ namespace TwitterMonitorPump
                 ArrayList<SparseVector<double>> clusterBowsTfIdf
                     = new ArrayList<SparseVector<double>>(bowsTfIdf.Where((x, i) => items.Contains(i)));
                 SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.Sum);
-                SparseVector<double> centroidTfIdf = ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
+                SparseVector<double> centroidTfIdf = useTf ? // if there is less than 5 tweets in the BOW space, compute TF weights instead of TF-IDF
+                    ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.NrmL2) : 
+                    ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
                 Guid clusterId = ComputeClusterId(timeStart, topicId);
                 clustersTable.Rows.Add(
                     clusterId,
@@ -378,7 +384,8 @@ namespace TwitterMonitorPump
                         }
                     }                    
                 }
-                Console.WriteLine("All done. For now.");
+                Console.WriteLine("All done.");
+                if (!mRealtime) { return; }
                 Console.WriteLine("Sleeping ...");
                 Thread.Sleep(mSleepSeconds * 1000);
             } // while true
