@@ -13,6 +13,7 @@ using Latino.TextMining;
 using Latino.Model;
 using LUtils
     = Latino.Utils;
+using System.Text;
 
 namespace TwitterMonitorPump
 {
@@ -67,6 +68,10 @@ namespace TwitterMonitorPump
             public double mClusterQualityThresh
                 = 0.2;
             public Queue mQueue;
+            public Guid mTableId;
+
+            public string mStateBinFileName;
+            public string mStateBakFileName;
 
             public Task(string scope, int stepSizeMinutes, int windowSizeMinutes, IEnumerable<string> taggedWords, double clusterQualityThresh) 
             {
@@ -76,34 +81,23 @@ namespace TwitterMonitorPump
                 if (taggedWords != null) { mTaggedWords.AddRange(taggedWords.Select(x => x.ToUpper())); }
                 mClusterQualityThresh = clusterQualityThresh;
                 mQueue = new Queue(clusterQualityThresh);
-            }
-
-            public Guid TableId
-            {
-                // TODO: precompute this and use binary repr.
-                get 
-                { 
-                    return LUtils.GetStringHashCode128(string.Format("{0} {1} {2} {3}", mScope, mStepSizeMinutes, mWindowSizeMinutes, mClusterQualityThresh)); 
-                }
+                // table ID
+                ArrayList<byte> buffer = new ArrayList<byte>();
+                buffer.AddRange(Encoding.UTF8.GetBytes(mScope));
+                buffer.AddRange(BitConverter.GetBytes(mStepSizeMinutes));
+                buffer.AddRange(BitConverter.GetBytes(mWindowSizeMinutes));
+                buffer.AddRange(BitConverter.GetBytes(mClusterQualityThresh));
+                mTableId = new Guid(MD5.Create().ComputeHash(buffer.ToArray()));
+                // state file names
+                mStateBinFileName = string.Format("state_{0:N}.bin", mTableId);
+                mStateBakFileName = mStateBinFileName + ".bak";
             }
         }
 
         static int mCommandTimeout
             = Convert.ToInt32(LUtils.GetConfigValue("CommandTimeout", "0"));
-        static int XmStepSize
-            = Convert.ToInt32(LUtils.GetConfigValue("StepSizeMinutes", "60"));
-        static int XmWindowSize
-            = Convert.ToInt32(LUtils.GetConfigValue("WindowSizeMinutes", "1440"));
-        //static Set<string> XmTaggedWords
-        //    = new Set<string>(LUtils.GetConfigValue("TaggedWords", "").Split(',').Select(x => x.ToUpper()));
-        static double XmClusterQualityThresh
-            = Convert.ToDouble(LUtils.GetConfigValue("ClusterQualityThresh", "0.1"));
         static int mSleepSeconds
             = Convert.ToInt32(LUtils.GetConfigValue("SleepSeconds", "900"));
-        static string XmOutputTableNameSuffix
-            = LUtils.GetConfigValue("OutputTableNameSuffix", "");
-        static Guid XmTableId
-            = LUtils.GetStringHashCode128(string.Format("{0} {1} {2}", XmOutputTableNameSuffix, XmWindowSize, XmClusterQualityThresh));
         static int mSaveStateNumSteps
             = Convert.ToInt32(LUtils.GetConfigValue("SaveStateNumSteps", "10"));
         static string mOutputConnectionString
@@ -112,10 +106,6 @@ namespace TwitterMonitorPump
             = LUtils.GetConfigValue("InputConnectionString");
         static string mInputSelectStatement
             = LUtils.GetConfigValue("InputSelectStatement");
-        static string mBinFileName 
-            = string.Format("state_{0:N}.bin", XmTableId);
-        static string mBakFileName 
-            = mBinFileName + ".bak";
 
         static void GetTimeSlot(DateTime time, int stepSize, out DateTime timeStart, out DateTime timeEnd)
         {
@@ -192,7 +182,7 @@ namespace TwitterMonitorPump
             // check if time period already in DB and change state to 1
             using (SqlCommand checkExists = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Check.sql"), connection))
             {
-                Utils.AssignParamsToCommand(checkExists, "StartTime", timeStart, "TableId", task.TableId); 
+                Utils.AssignParamsToCommand(checkExists, "StartTime", timeStart, "TableId", task.mTableId); 
                 checkExists.CommandTimeout = mCommandTimeout;
                 if (checkExists.ExecuteScalar() != null) { state = 1; Console.WriteLine("Record state set to 1."); }
             }
@@ -213,7 +203,7 @@ namespace TwitterMonitorPump
                     ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
                 Guid clusterId = ComputeClusterId(timeStart, topicId);
                 clustersTable.Rows.Add(
-                    task.TableId,
+                    task.mTableId,
                     clusterId,
                     timeStart,
                     timeEnd,
@@ -235,7 +225,7 @@ namespace TwitterMonitorPump
                     bool nGram = word.Contains(" ");
                     bool tagged = word.Split(' ').Count(x => task.mTaggedWords.Contains(x.ToUpper())) > 0;
                     termsTable.Rows.Add(
-                        task.TableId,
+                        task.mTableId,
                         clusterId,
                         LUtils.GetStringHashCode128(stem),
                         LUtils.Truncate(stem.ToUpper(), 140),
@@ -263,38 +253,38 @@ namespace TwitterMonitorPump
             if (state == 1)
             {
                 Console.WriteLine("Switching record states ...");
-                SwitchRecordState(timeStart, task.TableId, connection);
+                SwitchRecordState(timeStart, task.mTableId, connection);
             }
         }
 
-        static void SaveState(long tweetId, Queue queue)
+        static void SaveState(Task task, long tweetId)
         {
             Console.WriteLine("Saving state ...");
-            if (File.Exists(mBakFileName)) { File.Delete(mBakFileName); } // delete BAK file
-            if (File.Exists(mBinFileName)) { File.Copy(mBinFileName, mBakFileName); } // rename state file to BAK
-            BinarySerializer bs = new BinarySerializer(mBinFileName, FileMode.Create);
+            if (File.Exists(task.mStateBakFileName)) { File.Delete(task.mStateBakFileName); } // delete BAK file
+            if (File.Exists(task.mStateBinFileName)) { File.Copy(task.mStateBinFileName, task.mStateBakFileName); } // rename state file to BAK
+            BinarySerializer bs = new BinarySerializer(task.mStateBinFileName, FileMode.Create);
             bs.WriteLong(tweetId); // last processed tweet ID
-            queue.Save(bs); // state            
+            task.mQueue.Save(bs); // state            
             bs.Close();
         }
 
-        static void InitState(out long lastId, Queue queue)
+        static void InitState(Task task, out long lastId)
         {
             lastId = 0;
-            if (File.Exists(mBakFileName))
+            if (File.Exists(task.mStateBakFileName))
             {
                 Console.WriteLine("Restoring state ...");
-                BinarySerializer bs = new BinarySerializer(mBakFileName, FileMode.Open);
+                BinarySerializer bs = new BinarySerializer(task.mStateBakFileName, FileMode.Open);
                 lastId = bs.ReadLong();
-                queue.Load(bs);
+                task.mQueue.Load(bs);
                 bs.Close();
             }
         }
 
-        static void DeleteState()
+        static void DeleteState(Task task)
         {
-            if (File.Exists(mBakFileName)) { File.Delete(mBakFileName); }
-            if (File.Exists(mBinFileName)) { File.Delete(mBinFileName); } 
+            if (File.Exists(task.mStateBakFileName)) { File.Delete(task.mStateBakFileName); }
+            if (File.Exists(task.mStateBinFileName)) { File.Delete(task.mStateBinFileName); } 
         }
 
         static void ExecSqlScript(string name, params object[] cmdParams)
@@ -319,9 +309,9 @@ namespace TwitterMonitorPump
             int N = mSaveStateNumSteps;
             int n = N;
             Console.WriteLine("Cleaning up ...");
-            ExecSqlScript("Cleanup.sql", "TableId", task.TableId);
+            ExecSqlScript("Cleanup.sql", "TableId", task.mTableId);
             long lastId;
-            InitState(out lastId, task.mQueue);
+            InitState(task, out lastId);
             if (lastId > 0) { n *= 2; }
             ArrayList<Pair<DateTime, string>> tweets = new ArrayList<Pair<DateTime, string>>();
             DateTime timeStart = DateTime.MinValue;
@@ -356,7 +346,7 @@ namespace TwitterMonitorPump
                                 }
                                 ProcessTweets(task, timeStart, timeEnd, tweets, output);
                                 tweets.Clear();
-                                if (--n == 0) { n = N; SaveState(lastId, task.mQueue); }
+                                if (--n == 0) { n = N; SaveState(task, lastId); }
                             }
                             timeStart = tmpTimeStart;
                             timeEnd = tmpTimeEnd;
@@ -383,8 +373,8 @@ namespace TwitterMonitorPump
             {
                 Console.WriteLine("Initializing ...");
                 ExecSqlScript("CreateTables.sql");
-                ExecSqlScript("Initialize.sql", "TableId", task.TableId);
-                DeleteState();
+                ExecSqlScript("Initialize.sql", "TableId", task.mTableId);
+                DeleteState(task);
             }
             ThreadPool.QueueUserWorkItem(ProcessTask, task);
             while (true) { Thread.Sleep(1000); }
