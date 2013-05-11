@@ -61,8 +61,6 @@ namespace TwitterMonitorPump
             = LUtils.GetConfigValue("Topic");
         static int mStepSize
             = Convert.ToInt32(LUtils.GetConfigValue("StepSizeMinutes", "60"));
-        static double mBowWeightsCut
-            = Convert.ToDouble(LUtils.GetConfigValue("BowWeightsCut", "0"));        
         static int mWindowSize
             = Convert.ToInt32(LUtils.GetConfigValue("WindowSizeMinutes", "1440"));
         static Set<string> mTaggedWords
@@ -73,8 +71,6 @@ namespace TwitterMonitorPump
             = Convert.ToInt32(LUtils.GetConfigValue("SleepSeconds", "900"));
         static string mOutputTableNameSuffix
             = LUtils.GetConfigValue("OutputTableNameSuffix", "");
-        static string mTableSuffix
-            = string.Format("_{0}_{1}_{2:0}", mOutputTableNameSuffix, MapWindowSize(mWindowSize), mClusterQualityThresh * 10000);
         static Guid mTableId
             = LUtils.GetStringHashCode128(string.Format("{0} {1} {2}", mOutputTableNameSuffix, mWindowSize, mClusterQualityThresh));
         static int mSaveStateNumSteps
@@ -90,15 +86,6 @@ namespace TwitterMonitorPump
 
         static Queue mQueue
             = new Queue();
-
-        static string MapWindowSize(int ws)
-        {
-            if (ws == 1440) { return "D"; }
-            else if (ws == 10080) { return "W"; }
-            else if (ws == 20160) { return "2W"; }
-            else if (ws == 43200) { return "M"; }  
-            else return ws.ToString();
-        }
 
         static void GetTimeSlot(DateTime time, out DateTime timeStart, out DateTime timeEnd)
         {
@@ -191,7 +178,7 @@ namespace TwitterMonitorPump
                 ArrayList<SparseVector<double>> clusterBowsTfIdf
                     = new ArrayList<SparseVector<double>>(bowsTfIdf.Where((x, i) => items.Contains(i)));
                 SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.Sum);
-                SparseVector<double> centroidTfIdf = useTf ? // if there is less than 5 tweets in the BOW space, compute TF weights instead of TF-IDF
+                SparseVector<double> centroidTfIdf = useTf ? // if there is less than 5 tweets in BOW space, compute TF weights instead of TF-IDF
                     ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.NrmL2) : 
                     ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
                 Guid clusterId = ComputeClusterId(timeStart, topicId);
@@ -296,32 +283,22 @@ namespace TwitterMonitorPump
             }        
         }
 
-        static void Cleanup()
-        {
-            Console.WriteLine("Cleaning up ...");
-            ExecSqlScript("Cleanup.sql");
-        }
-
-        static void Initialize()
-        {
-            Console.WriteLine("Initializing ...");
-            ExecSqlScript("CreateTables.sql");
-            ExecSqlScript("Initialize.sql");
-        }
-
         static void Main(string[] args)
         {
             string param = args.Count() > 0 ? args[0].ToLower() : null;
             if (param == "init")
-            {                
-                Initialize();
+            {
+                Console.WriteLine("Initializing ...");
+                ExecSqlScript("CreateTables.sql");
+                ExecSqlScript("Initialize.sql");
                 DeleteState();
             }
             while (true) // main loop
             {
                 int N = mSaveStateNumSteps;
                 int n = N;
-                Cleanup();
+                Console.WriteLine("Cleaning up ...");
+                ExecSqlScript("Cleanup.sql");
                 long lastId;
                 InitState(out lastId);
                 if (lastId > 0) { n *= 2; }
@@ -340,7 +317,7 @@ namespace TwitterMonitorPump
                             cmd.CommandTimeout = mCommandTimeout;
                             Utils.AssignParamsToCommand(cmd, "Id", lastId);
                             SqlDataReader reader = cmd.ExecuteReader();
-                            Console.WriteLine("Executed SQL statement. Reading data ...");
+                            Console.WriteLine("Executed SQL reader. Reading data ...");
                             while (reader.Read())
                             {
                                 long id = Utils.GetVal<long>(reader, "Id");
