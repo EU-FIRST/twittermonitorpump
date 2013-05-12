@@ -9,6 +9,7 @@ using System.IO;
 using System.Threading;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Diagnostics;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
@@ -379,6 +380,43 @@ namespace TwitterMonitorPump
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Concurrency config:");
+            Console.WriteLine();
+            int minWt, minCpt;
+            ThreadPool.GetMinThreads(out minWt, out minCpt);
+            int maxWt, maxCpt;
+            ThreadPool.GetMaxThreads(out maxWt, out maxCpt);
+            if (Utils.Config.MinWorkerThreads > -1)
+            {
+                ThreadPool.SetMinThreads(minWt = Utils.Config.MinWorkerThreads, minCpt);
+            }
+            if (Utils.Config.MaxWorkerThreads > -1)
+            {
+                ThreadPool.SetMaxThreads(maxWt = Utils.Config.MaxWorkerThreads, maxCpt);
+            }
+            Console.WriteLine("Min worker threads: {0}", minWt);
+            Console.WriteLine("Max worker threads: {0}", maxWt);
+            Console.WriteLine();
+            Console.WriteLine("Processor affinity:");
+            Console.WriteLine();
+            Process p = Process.GetCurrentProcess();
+            if (Utils.Config.ProcessorAffinity > 0) 
+            { 
+                p.ProcessorAffinity = (IntPtr)Utils.Config.ProcessorAffinity; 
+            }
+            ulong aff = (ulong)p.ProcessorAffinity;
+            for (int i = 1; i <= Environment.ProcessorCount; i++) 
+            {
+                if ((aff & 1) == 1) { Console.WriteLine("Core {0}: yes", i); }
+                else { Console.WriteLine("Core {0}: no", i); }
+                aff >>= 1;
+            }
+            Console.WriteLine();
+            Console.WriteLine("Press any key to continue ...");
+            Console.ReadKey(true);
+            Console.WriteLine();
+            Console.WriteLine("Queuing tasks ...");
+            Console.WriteLine();
             ExecSqlScript("CreateTables.sql");
             int windowSizeMinutes = Utils.Config.WindowSizeDays * 1440; 
             Task task1 = new Task("GOOG", Utils.Config.StepSizeMinutes, windowSizeMinutes, "$GOOG,GOOGLE".Split(','), 0.15, /*restart=*/true);

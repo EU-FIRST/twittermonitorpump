@@ -144,6 +144,12 @@ namespace TwitterMonitorPump
                 = Convert.ToInt32(LUtils.GetConfigValue("StepSizeMinutes", "60"));
             public static readonly int WindowSizeDays
                 = Convert.ToInt32(LUtils.GetConfigValue("WindowSizeDays", "7"));
+            public static readonly ulong ProcessorAffinity
+                = Convert.ToUInt64(LUtils.GetConfigValue("ProcessorAffinity", "0"));
+            public static readonly int MinWorkerThreads
+                = Convert.ToInt32(LUtils.GetConfigValue("MinWorkerThreads", "-1"));
+            public static readonly int MaxWorkerThreads
+                = Convert.ToInt32(LUtils.GetConfigValue("MaxWorkerThreads", "-1"));
         }
     }
 }
