@@ -339,7 +339,7 @@ namespace TwitterMonitorPump
                     using (SqlCommand cmd = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Read.sql"), input))
                     {
                         cmd.CommandTimeout = Utils.Config.CommandTimeout;
-                        Utils.AssignParamsToCommand(cmd, "Id", lastId, "QueryId", new Guid("FC3906D9-4E09-F0A4-7389-28E677360198")); // !!! hardcoded GUID
+                        Utils.AssignParamsToCommand(cmd, "Id", lastId, "IdStr", task.mScope); 
                         SqlDataReader reader = cmd.ExecuteReader();
                         Console.WriteLine("Executed SQL reader. Reading data ...");
                         while (reader.Read())
@@ -382,7 +382,7 @@ namespace TwitterMonitorPump
         static void Main(string[] args)
         {
             ExecSqlScript("CreateTables.sql");
-            Task task = new Task("GOOG", 60, 10080, "$GOOG,GOOG,GOOGLE".Split(','), 0.2, /*restart=*/false);
+            Task task = new Task("GOOG", 60, 10080, "$GOOG,GOOG,GOOGLE".Split(','), 0.2, /*restart=*/true);
             Task task2 = new Task("AAPL", 60, 10080, "$AAPL,AAPL,APPLE".Split(','), 0.2, /*restart=*/true);
             ThreadPool.QueueUserWorkItem(ProcessTask, task);
             ThreadPool.QueueUserWorkItem(ProcessTask, task2);

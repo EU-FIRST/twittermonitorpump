@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*==========================================================================;
+ *
+ *  (c) Sowa Labs. All rights reserved.
+ *
+ *  File:    Utils.cs
+ *  Desc:    Twitter Pump utils and config
+ *  Created: Feb-2013
+ *
+ *  Author:  Miha Grcar
+ *
+ ***************************************************************************/
+
+using System;
 using System.Data.SqlClient;
 using System.Text.RegularExpressions;
 using System.Data;
@@ -11,32 +23,15 @@ using LUtils
 
 namespace TwitterMonitorPump
 {
-    public class Utils
-    {
-        public static class Config
-        {
-            public static readonly TimeSpan SaveStateTimeDiff
-                = TimeSpan.Parse(LUtils.GetConfigValue("SaveStateTimeDiff", "10:00:00"));
-            public static readonly int CommandTimeout
-                = Convert.ToInt32(LUtils.GetConfigValue("CommandTimeout", "0"));
-            public static readonly string InputConnectionString
-                = LUtils.GetConfigValue("InputConnectionString");
-            public static readonly string OutputConnectionString
-                = LUtils.GetConfigValue("OutputConnectionString");
-        }
-
-        private static Regex mUrlRegex
-            = new Regex(@"http://\S*", RegexOptions.Compiled | RegexOptions.IgnoreCase);
-            
-        public static void AssignParamsToCommand(SqlCommand command, params object[] args)
-        {
-            for (int i = 0; i < args.Length; i += 2)
-            {
-                object val = args[i + 1];
-                SqlParameter param = new SqlParameter((string)args[i], val == null ? DBNull.Value : val);
-                command.Parameters.Add(param);
-            }
-        }
+    /* .-----------------------------------------------------------------------
+       |
+       |  Class Utils
+       |
+       '-----------------------------------------------------------------------
+    */
+    public static class Utils
+    {            
+        // Text mining utils
 
         public static IncrementalBowSpace CreateBowSpace()
         {
@@ -63,6 +58,16 @@ namespace TwitterMonitorPump
             clustering.QualThresh = qualThresh;
             return clustering;
         }
+
+        private static Regex mUrlRegex
+            = new Regex(@"http://\S*", RegexOptions.Compiled | RegexOptions.IgnoreCase);
+
+        public static string RemoveUrls(string tweet)
+        {
+            return mUrlRegex.Replace(tweet, "");
+        }
+
+        // Database utils
 
         public static DataTable CreateClustersTable()
         {
@@ -109,9 +114,32 @@ namespace TwitterMonitorPump
             return Cast<T>(reader.GetValue(reader.GetOrdinal(colName)));
         }
 
-        public static string RemoveUrls(string tweet)
+        public static void AssignParamsToCommand(SqlCommand command, params object[] args)
         {
-            return mUrlRegex.Replace(tweet, "");
+            for (int i = 0; i < args.Length; i += 2)
+            {
+                object val = args[i + 1];
+                SqlParameter param = new SqlParameter((string)args[i], val == null ? DBNull.Value : val);
+                command.Parameters.Add(param);
+            }
+        }
+
+        /* .-----------------------------------------------------------------------
+           |
+           |  Class Config
+           |
+           '-----------------------------------------------------------------------
+        */
+        public static class Config
+        {
+            public static readonly TimeSpan SaveStateTimeDiff
+                = TimeSpan.Parse(LUtils.GetConfigValue("SaveStateTimeDiff", "10:00:00"));
+            public static readonly int CommandTimeout
+                = Convert.ToInt32(LUtils.GetConfigValue("CommandTimeout", "0"));
+            public static readonly string InputConnectionString
+                = LUtils.GetConfigValue("InputConnectionString");
+            public static readonly string OutputConnectionString
+                = LUtils.GetConfigValue("OutputConnectionString");
         }
     }
 }
