@@ -151,17 +151,17 @@ namespace TwitterMonitorPump
             timeEnd = timeStart + new TimeSpan(0, stepSize, 0);
         }
 
-        static void UpdateBowSpace(Task task, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, out int numOutdated)
+        static void UpdateBowSpace(Task task, DateTime timeEnd, ArrayList<Tweet> tweets, out int numOutdated)
         {
             IncrementalBowSpace bowSpc = task.mQueue.mBowSpace;
             Queue<DateTime> timeStamps = task.mQueue.mTimeStamps;
             DateTime timeStart = timeEnd - new TimeSpan(0, task.mWindowSizeMinutes, 0);
             // add new tweets
-            foreach (DateTime timeStamp in tweets.Select(x => x.First))
+            foreach (DateTime timeStamp in tweets.Select(x => x.mCreatedAt))
             {
                 timeStamps.Enqueue(timeStamp);
             }
-            bowSpc.Enqueue(tweets.Select(x => x.Second));
+            bowSpc.Enqueue(tweets.Select(x => x.mText));
             // remove outdated tweets
             numOutdated = 0;
             while (timeStamps.Peek() < timeStart)
@@ -196,11 +196,12 @@ namespace TwitterMonitorPump
             }
         }
 
-        static void ProcessTweets(Task task, DateTime timeStart, DateTime timeEnd, ArrayList<Pair<DateTime, string>> tweets, SqlConnection connection)
+        static void ProcessTweets(Task task, DateTime timeStart, DateTime timeEnd, ArrayList<Tweet> tweets, SqlConnection connection)
         {
             Console.WriteLine("Processing tweets {0} {1:yyyy-MM-dd HH:mm:ss}-{2:HH:mm:ss} ({3} tweets) ...", task.mScope, timeStart, timeEnd, tweets.Count);
             DataTable clustersTable = Utils.CreateClustersTable();
             DataTable termsTable = Utils.CreateTermsTable();
+            DataTable tweetsTable = Utils.CreateTweetsTable();
             // update BOW space
             int numOutdated;
             UpdateBowSpace(task, timeEnd, tweets, out numOutdated);
@@ -263,6 +264,7 @@ namespace TwitterMonitorPump
                     termsTable.Rows.Add(
                         task.mTableId,
                         clusterId,
+                        timeStart,
                         LUtils.GetStringHashCode128(stem),
                         LUtils.Truncate(stem.ToUpper(), 140),
                         LUtils.Truncate(word.ToUpper(), 140),
@@ -274,18 +276,30 @@ namespace TwitterMonitorPump
                         stock,
                         nGram,
                         tagged,
+                        state
+                        );
+                }
+                foreach (Tweet tweet in tweets)
+                {
+                    tweetsTable.Rows.Add(
+                        task.mTableId,
+                        clusterId,
                         timeStart,
+                        tweet.mId,
                         state
                         );
                 }
             }
-            SqlBulkCopy bulkCopy = new SqlBulkCopy(connection);
-            bulkCopy.BulkCopyTimeout = Utils.Config.CommandTimeout;
-            bulkCopy.DestinationTableName = "Clusters";
-            bulkCopy.WriteToServer(clustersTable);
-            bulkCopy.DestinationTableName = "Terms"; 
-            bulkCopy.WriteToServer(termsTable);
-            bulkCopy.Close();
+            using (SqlBulkCopy bulkCopy = new SqlBulkCopy(connection))
+            {
+                bulkCopy.BulkCopyTimeout = Utils.Config.CommandTimeout;
+                bulkCopy.DestinationTableName = "Clusters";
+                bulkCopy.WriteToServer(clustersTable);
+                bulkCopy.DestinationTableName = "Terms";
+                bulkCopy.WriteToServer(termsTable);
+                bulkCopy.DestinationTableName = "Tweets";
+                bulkCopy.WriteToServer(tweetsTable);
+            }
             if (state == 1)
             {
                 Console.WriteLine("Switching record states ...");
@@ -309,6 +323,20 @@ namespace TwitterMonitorPump
             }        
         }
 
+        class Tweet
+        {
+            public long mId;
+            public string mText;
+            public DateTime mCreatedAt;
+
+            public Tweet(long id, string text, DateTime createdAt)
+            {
+                mId = id;
+                mText = text;
+                mCreatedAt = createdAt;
+            }
+        }
+
         static void ProcessTask(object objTask)
         {
             Task task = (Task)objTask;
@@ -325,7 +353,7 @@ namespace TwitterMonitorPump
             }
             long lastId;
             task.InitState(out lastId);
-            ArrayList<Pair<DateTime, string>> tweets = new ArrayList<Pair<DateTime, string>>();
+            ArrayList<Tweet> tweets = new ArrayList<Tweet>();
             DateTime timeStart = DateTime.MinValue;
             DateTime timeEnd = DateTime.MinValue;
             using (SqlConnection output = new SqlConnection(Utils.Config.OutputConnectionString))
@@ -362,7 +390,7 @@ namespace TwitterMonitorPump
                             }
                             timeStart = tmpTimeStart;
                             timeEnd = tmpTimeEnd;
-                            tweets.Add(new Pair<DateTime, string>(timeStamp, text));
+                            tweets.Add(new Tweet(id, text, timeStamp));
                             lastId = id;
                         }
                         if (tweets.Count > 0)
@@ -412,10 +440,8 @@ namespace TwitterMonitorPump
                 aff >>= 1;
             }
             Console.WriteLine();
-            Console.WriteLine("Press any key to continue ...");
+            Console.WriteLine("Press any key to start processing ...");
             Console.ReadKey(true);
-            Console.WriteLine();
-            Console.WriteLine("Queuing tasks ...");
             Console.WriteLine();
             ExecSqlScript("CreateTables.sql");
             int windowSizeMinutes = Utils.Config.WindowSizeDays * 1440; 

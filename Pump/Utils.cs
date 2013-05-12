@@ -87,6 +87,7 @@ namespace TwitterMonitorPump
             DataTable table = new DataTable();
             table.Columns.Add("TableId", typeof(Guid));
             table.Columns.Add("ClusterId", typeof(Guid));
+            table.Columns.Add("StartTime", typeof(DateTime));
             table.Columns.Add("StemHash", typeof(Guid));
             table.Columns.Add("Stem", typeof(string));
             table.Columns.Add("MostFrequentForm", typeof(string));
@@ -97,8 +98,18 @@ namespace TwitterMonitorPump
             table.Columns.Add("Hashtag", typeof(bool));
             table.Columns.Add("Stock", typeof(bool));
             table.Columns.Add("NGram", typeof(bool));
-            table.Columns.Add("Tagged", typeof(bool));
-            table.Columns.Add("EndTime", typeof(DateTime));
+            table.Columns.Add("Tagged", typeof(bool));            
+            table.Columns.Add("RecordState", typeof(int));
+            return table;
+        }
+
+        public static DataTable CreateTweetsTable()
+        {
+            DataTable table = new DataTable();
+            table.Columns.Add("TableId", typeof(Guid));
+            table.Columns.Add("ClusterId", typeof(Guid));
+            table.Columns.Add("StartTime", typeof(DateTime));
+            table.Columns.Add("TweetId", typeof(long));
             table.Columns.Add("RecordState", typeof(int));
             return table;
         }
