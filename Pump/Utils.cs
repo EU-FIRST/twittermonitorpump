@@ -13,6 +13,18 @@ namespace TwitterMonitorPump
 {
     public class Utils
     {
+        public static class Config
+        {
+            public static readonly TimeSpan SaveStateTimeDiff
+                = TimeSpan.Parse(LUtils.GetConfigValue("SaveStateTimeDiff", "10:00:00"));
+            public static readonly int CommandTimeout
+                = Convert.ToInt32(LUtils.GetConfigValue("CommandTimeout", "0"));
+            public static readonly string InputConnectionString
+                = LUtils.GetConfigValue("InputConnectionString");
+            public static readonly string OutputConnectionString
+                = LUtils.GetConfigValue("OutputConnectionString");
+        }
+
         private static Regex mUrlRegex
             = new Regex(@"http://\S*", RegexOptions.Compiled | RegexOptions.IgnoreCase);
             
