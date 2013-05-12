@@ -140,6 +140,10 @@ namespace TwitterMonitorPump
                 = LUtils.GetConfigValue("InputConnectionString");
             public static readonly string OutputConnectionString
                 = LUtils.GetConfigValue("OutputConnectionString");
+            public static readonly int StepSizeMinutes
+                = Convert.ToInt32(LUtils.GetConfigValue("StepSizeMinutes", "60"));
+            public static readonly int WindowSizeDays
+                = Convert.ToInt32(LUtils.GetConfigValue("WindowSizeDays", "7"));
         }
     }
 }

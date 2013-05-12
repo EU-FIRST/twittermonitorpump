@@ -60,14 +60,11 @@ namespace TwitterMonitorPump
         class Task
         {
             public string mScope;
-            public int mStepSizeMinutes
-                = 60;
-            public int mWindowSizeMinutes
-                = 1440;
+            public int mStepSizeMinutes;
+            public int mWindowSizeMinutes;
             public Set<string> mTaggedWords
                 = new Set<string>();
-            public double mClusterQualityThresh
-                = 0.2;
+            public double mClusterQualityThresh;
             public Queue mQueue;
             public Guid mTableId;
 
@@ -214,6 +211,7 @@ namespace TwitterMonitorPump
             ArrayList<SparseVector<double>> bowsTfIdf
                 = bowSpc.GetMostRecentBows(tweets.Count, WordWeightType.TfIdf, /*normalizeVectors=*/true, /*cut=*/0, /*minWordFreq=*/1);
             bool useTf = bowSpc.Count < 5;
+            //bool useTf = false; 
             ClusteringResult result = clustering.Cluster(numOutdated, new UnlabeledDataset<SparseVector<double>>(bowsTfIdf));            
             int state = 0;
             // check if time period already in DB and change state to 1
@@ -235,7 +233,7 @@ namespace TwitterMonitorPump
                 ArrayList<SparseVector<double>> clusterBowsTfIdf
                     = new ArrayList<SparseVector<double>>(bowsTfIdf.Where((x, i) => items.Contains(i)));
                 SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.Sum);
-                SparseVector<double> centroidTfIdf = useTf ? // if there is less than 5 tweets in BOW space, compute TF weights instead of TFIDF
+                SparseVector<double> centroidTfIdf = useTf ? // if less than 5 tweets in BOW space, compute TF weights instead of TFIDF
                     ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.NrmL2) : 
                     ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
                 Guid clusterId = ComputeClusterId(timeStart, topicId);
@@ -382,9 +380,10 @@ namespace TwitterMonitorPump
         static void Main(string[] args)
         {
             ExecSqlScript("CreateTables.sql");
-            Task task = new Task("GOOG", 60, 10080, "$GOOG,GOOG,GOOGLE".Split(','), 0.2, /*restart=*/true);
-            Task task2 = new Task("AAPL", 60, 10080, "$AAPL,AAPL,APPLE".Split(','), 0.2, /*restart=*/true);
-            ThreadPool.QueueUserWorkItem(ProcessTask, task);
+            int windowSizeMinutes = Utils.Config.WindowSizeDays * 1440; 
+            Task task1 = new Task("GOOG", Utils.Config.StepSizeMinutes, windowSizeMinutes, "$GOOG,GOOGLE".Split(','), 0.15, /*restart=*/true);
+            Task task2 = new Task("AAPL", Utils.Config.StepSizeMinutes, windowSizeMinutes, "$AAPL,APPLE".Split(','), 0.15, /*restart=*/true);
+            ThreadPool.QueueUserWorkItem(ProcessTask, task1);
             ThreadPool.QueueUserWorkItem(ProcessTask, task2);
             while (true) { Thread.Sleep(1000); }
         }
