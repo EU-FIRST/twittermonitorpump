@@ -110,6 +110,20 @@ namespace TwitterMonitorPump
             table.Columns.Add("ClusterId", typeof(Guid));
             table.Columns.Add("StartTime", typeof(DateTime));
             table.Columns.Add("TweetId", typeof(long));
+            table.Columns.Add("SentimentBasic", typeof(double));
+            table.Columns.Add("SentimentBasicPos", typeof(bool));
+            table.Columns.Add("SentimentBasicNeg", typeof(bool));
+            table.Columns.Add("SentimentBasicLowCfd", typeof(bool));
+            table.Columns.Add("SentimentBasicPosLowCfd", typeof(bool));
+            table.Columns.Add("SentimentBasicNegLowCfd", typeof(bool));
+            table.Columns.Add("Sentiment", typeof(double));
+            table.Columns.Add("SentimentPos", typeof(bool));
+            table.Columns.Add("SentimentNeg", typeof(bool));
+            table.Columns.Add("SentimentLowCfd", typeof(bool));
+            table.Columns.Add("SentimentPosLowCfd", typeof(bool));
+            table.Columns.Add("SentimentNegLowCfd", typeof(bool));
+            table.Columns.Add("Basic", typeof(bool));
+            table.Columns.Add("HandLabeled", typeof(bool));
             table.Columns.Add("RecordState", typeof(int));
             return table;
         }
@@ -161,6 +175,8 @@ namespace TwitterMonitorPump
                 = Convert.ToInt32(LUtils.GetConfigValue("MinWorkerThreads", "-1"));
             public static readonly int MaxWorkerThreads
                 = Convert.ToInt32(LUtils.GetConfigValue("MaxWorkerThreads", "-1"));
+            public static readonly double SentimentClassifierConfidenceThreshold
+                = Convert.ToDouble(LUtils.GetConfigValue("SentimentClassifierConfidenceThreshold", "0.2"));
         }
     }
 }

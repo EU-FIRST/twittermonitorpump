@@ -13,6 +13,7 @@ using System.Diagnostics;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
+using SentimentClassifier;
 
 using LUtils
     = Latino.Utils;
@@ -107,10 +108,11 @@ namespace TwitterMonitorPump
                     Console.WriteLine("Saving state ...");
                     if (File.Exists(mStateBakFileName)) { File.Delete(mStateBakFileName); } // delete BAK file
                     if (File.Exists(mStateBinFileName)) { File.Copy(mStateBinFileName, mStateBakFileName); } // rename state file to BAK
-                    BinarySerializer bs = new BinarySerializer(mStateBinFileName, FileMode.Create);
-                    bs.WriteLong(tweetId); // last processed tweet ID
-                    mQueue.Save(bs); // state            
-                    bs.Close();
+                    using (BinarySerializer bs = new BinarySerializer(mStateBinFileName, FileMode.Create))
+                    {
+                        bs.WriteLong(tweetId); // last processed tweet ID
+                        mQueue.Save(bs); // state            
+                    }
                     mLastSavedStateTime = mQueue.mTimeStamps.Last();
                 }
             }
@@ -121,10 +123,11 @@ namespace TwitterMonitorPump
                 if (File.Exists(mStateBakFileName))
                 {
                     Console.WriteLine("Restoring state ...");
-                    BinarySerializer bs = new BinarySerializer(mStateBakFileName, FileMode.Open);
-                    lastId = bs.ReadLong();
-                    mQueue.Load(bs);
-                    bs.Close();
+                    using (BinarySerializer bs = new BinarySerializer(mStateBakFileName, FileMode.Open))
+                    {
+                        lastId = bs.ReadLong();
+                        mQueue.Load(bs);
+                    }
                     mLastSavedStateTime = mQueue.mTimeStamps.Last();
                 }
             }
@@ -142,6 +145,9 @@ namespace TwitterMonitorPump
             }
         }
 
+        static ISentimentClassifier mBasicModel
+            = null;
+
         static void GetTimeSlot(DateTime time, int stepSize, out DateTime timeStart, out DateTime timeEnd)
         {
             double min = (time - DateTime.MinValue).TotalMinutes;
@@ -157,11 +163,11 @@ namespace TwitterMonitorPump
             Queue<DateTime> timeStamps = task.mQueue.mTimeStamps;
             DateTime timeStart = timeEnd - new TimeSpan(0, task.mWindowSizeMinutes, 0);
             // add new tweets
-            foreach (DateTime timeStamp in tweets.Select(x => x.mCreatedAt))
+            foreach (DateTime timeStamp in tweets.Select(x => x.CreatedAt))
             {
                 timeStamps.Enqueue(timeStamp);
             }
-            bowSpc.Enqueue(tweets.Select(x => x.mText));
+            bowSpc.Enqueue(tweets.Select(x => x.Text));
             // remove outdated tweets
             numOutdated = 0;
             while (timeStamps.Peek() < timeStart)
@@ -234,11 +240,44 @@ namespace TwitterMonitorPump
                     = new ArrayList<SparseVector<double>>(bowsTf.Where((x, i) => items.Contains(i)));
                 ArrayList<SparseVector<double>> clusterBowsTfIdf
                     = new ArrayList<SparseVector<double>>(bowsTfIdf.Where((x, i) => items.Contains(i)));
+                ArrayList<Tweet> clusterTweets
+                    = new ArrayList<Tweet>(tweets.Where((x, i) => items.Contains(i)));
                 SparseVector<double> sumBowsTf = ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.Sum);
                 SparseVector<double> centroidTfIdf = useTf ? // if less than 5 tweets in BOW space, compute TF weights instead of TFIDF
                     ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.NrmL2) : 
                     ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
                 Guid clusterId = ComputeClusterId(timeStart, topicId);
+                foreach (Tweet tweet in clusterTweets)
+                {
+                    double confThr = Utils.Config.SentimentClassifierConfidenceThreshold;
+                    double sentiment = mBasicModel.Classify(tweet.Text);
+                    bool isPos = sentiment > confThr;
+                    bool isNeg = sentiment < -confThr;
+                    bool isPosLowCfd = sentiment <= confThr && sentiment > 0;
+                    bool isNegLowCfd = sentiment >= -confThr && sentiment < 0;
+                    bool isLowCfd = sentiment >= -confThr && sentiment <= confThr;
+                    tweetsTable.Rows.Add(
+                        task.mTableId,
+                        clusterId,
+                        timeStart,
+                        tweet.Id,
+                        sentiment,
+                        isPos,
+                        isNeg,
+                        isLowCfd,
+                        isPosLowCfd,
+                        isNegLowCfd,
+                        sentiment,     // TODO: output from Sentiment SVC
+                        isPos,         // TODO: output from Sentiment SVC
+                        isNeg,         // TODO: output from Sentiment SVC
+                        isLowCfd,      // TODO: output from Sentiment SVC
+                        isPosLowCfd,   // TODO: output from Sentiment SVC
+                        isNegLowCfd,   // TODO: output from Sentiment SVC
+                        true,  // is basic? // TODO: false if Sentiment SVC available
+                        false, // is hand-labeled? // TODO: true if Sentiment SVC reports as hand-labeled
+                        state
+                        );
+                }
                 clustersTable.Rows.Add(
                     task.mTableId,
                     clusterId,
@@ -247,7 +286,7 @@ namespace TwitterMonitorPump
                     topicId, 
                     items.Count,
                     state
-                    );                
+                    );             
                 foreach (IdxDat<double> item in centroidTfIdf) 
                 {
                     Word wordObj = bowSpc.Words[item.Idx];
@@ -276,16 +315,6 @@ namespace TwitterMonitorPump
                         stock,
                         nGram,
                         tagged,
-                        state
-                        );
-                }
-                foreach (Tweet tweet in tweets)
-                {
-                    tweetsTable.Rows.Add(
-                        task.mTableId,
-                        clusterId,
-                        timeStart,
-                        tweet.mId,
                         state
                         );
                 }
@@ -323,17 +352,23 @@ namespace TwitterMonitorPump
             }        
         }
 
+        /* .-----------------------------------------------------------------------
+           |
+           |  Class Tweet
+           |
+           '-----------------------------------------------------------------------
+        */
         class Tweet
         {
-            public long mId;
-            public string mText;
-            public DateTime mCreatedAt;
+            public readonly long Id;
+            public readonly string Text;
+            public readonly DateTime CreatedAt;
 
             public Tweet(long id, string text, DateTime createdAt)
             {
-                mId = id;
-                mText = text;
-                mCreatedAt = createdAt;
+                Id = id;
+                Text = text;
+                CreatedAt = createdAt;
             }
         }
 
@@ -443,6 +478,11 @@ namespace TwitterMonitorPump
             Console.WriteLine("Press any key to start processing ...");
             Console.ReadKey(true);
             Console.WriteLine();
+            Console.WriteLine("Loading basic sentiment model ...");
+            using (BinarySerializer reader = new BinarySerializer(LUtils.GetManifestResourceStream(typeof(ISentimentClassifier), "BasicSentimentModel.bin")))
+            {
+                mBasicModel = new BasicSentimentClassifier(reader);
+            }
             ExecSqlScript("CreateTables.sql");
             int windowSizeMinutes = Utils.Config.WindowSizeDays * 1440; 
             Task task1 = new Task("GOOG", Utils.Config.StepSizeMinutes, windowSizeMinutes, "$GOOG,GOOGLE".Split(','), 0.15, /*restart=*/true);

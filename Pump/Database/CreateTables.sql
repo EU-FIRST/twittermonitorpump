@@ -60,6 +60,20 @@ CREATE TABLE [dbo].[Tweets](
 	[ClusterId] [uniqueidentifier] NOT NULL,
 	[StartTime] [datetime] NOT NULL,
 	[TweetId] [bigint] NOT NULL,
+	[SentimentBasic] [float] NOT NULL,
+	[SentimentBasicPos] [bit] NOT NULL,
+	[SentimentBasicNeg] [bit] NOT NULL,
+	[SentimentBasicLowCfd] [bit] NOT NULL,
+	[SentimentBasicPosLowCfd] [bit] NULL,
+	[SentimentBasicNegLowCfd] [bit] NULL,
+	[Sentiment] [float] NOT NULL,
+	[SentimentPos] [bit] NOT NULL,
+	[SentimentNeg] [bit] NOT NULL,
+	[SentimentLowCfd] [bit] NOT NULL,
+	[SentimentPosLowCfd] [bit] NULL,
+	[SentimentNegLowCfd] [bit] NULL,
+	[Basic] [bit] NOT NULL,
+	[HandLabeled] [bit] NOT NULL,
 	[RecordState] [int] NOT NULL
 	constraint UQ_Tweets unique (TableId, ClusterId, TweetId, RecordState)
 ) ON [PRIMARY]

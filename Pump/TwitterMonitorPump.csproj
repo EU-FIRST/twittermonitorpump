@@ -59,6 +59,10 @@
       <Project>{5B86AAD5-3FEA-487C-A518-4F846AF09E18}</Project>
       <Name>Latino</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\SentimentClassifier\SentimentClassifier\SentimentClassifier.csproj">
+      <Project>{918FD568-6922-4F9E-A67C-CF15292F48EF}</Project>
+      <Name>SentimentClassifier</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
