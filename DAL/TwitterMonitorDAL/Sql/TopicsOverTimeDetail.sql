@@ -31,6 +31,7 @@
                            FROM [AAPL_D_Clusters] Clusters
                           WHERE Clusters.StartTime >= @dateTimeStart AND
                                 Clusters.EndTime <= @dateTimeEnd
+                                and Clusters.RecordState = 0
                        GROUP BY Topic
                        ORDER BY Sum(NumDocs) DESC
                    ) AS Topic
@@ -42,7 +43,7 @@
                    DATEDIFF(hour, @dateTimeStart, StartTime)/@stepTimeSpan
          ) TopicsOverTime
          CROSS APPLY 
-		 (
+         (
             SELECT /*REM*/ TOP 5
                    --ADD   TOP /*#NumTermsPerTimeSlot*/
                    Min(MostFrequentForm) Term,
@@ -62,11 +63,12 @@
                      /*REM StockUnigram*/   OR @filterFlag/32%2=1 AND Terms.Hashtag = 0 AND Terms.Stock = 1 AND Terms.[User] = 0 AND Terms.NGram=0 
                      /*REM StockBigram*/    OR @filterFlag/64%2=1 AND Terms.Hashtag = 0 AND Terms.Stock = 1 AND Terms.[User] = 0 AND Terms.NGram=1 
                    )
+                    and Clusters.RecordState = 0 and Terms.RecordState = 0
           GROUP BY StemHash,
-		           DATEDIFF(hour, @dateTimeStart, Clusters.StartTime)/@stepTimeSpan
-		    HAVING DATEDIFF(hour, @dateTimeStart, Clusters.StartTime)/@stepTimeSpan = TopicsOverTime.TimeSlotGroup
+                   DATEDIFF(hour, @dateTimeStart, Clusters.StartTime)/@stepTimeSpan
+            HAVING DATEDIFF(hour, @dateTimeStart, Clusters.StartTime)/@stepTimeSpan = TopicsOverTime.TimeSlotGroup
           ORDER BY Sum(TFIDF) DESC
          ) AS Terms
 ORDER BY TopicsOverTime.TopicId,
          TopicsOverTime.TimeSlotGroup,
-		 Terms.Weight DESC
+         Terms.Weight DESC

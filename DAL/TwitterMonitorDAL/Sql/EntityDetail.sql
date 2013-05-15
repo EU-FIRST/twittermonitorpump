@@ -10,3 +10,4 @@
          Count(1) AS NumOfDataPoints,
 		 AVG(DateDiff(second, StartTime, EndTime)) AS TimeSpanResolutionSec
     FROM [AAPL_D_Clusters] Clusters
+	where Clusters.RecordState = 0

@@ -11,3 +11,5 @@ _ReSharper.*/
 target/
 classes/
 *.properties
+*.iml
+/DAL/TwitterMonitorDAL/Web.config

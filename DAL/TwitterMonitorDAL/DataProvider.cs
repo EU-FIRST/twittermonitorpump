@@ -38,7 +38,7 @@ namespace TwitterMonitorDAL
 
         public static List<T> GetData<T>(string sqlQueryResFile, object[] sqlParams = null, string connectionStringId = "default")
         {
-            string sql = GetManifestResourceString(sqlQueryResFile);
+            string sql = GetManifestResourceString(string.Format("Sql.{0}", sqlQueryResFile));
             using (var db = new DataContext(GetConnectionString(connectionStringId)))
             {
                 return db.ExecuteQuery<T>(sql, sqlParams ?? new object[] { }).ToList();
@@ -47,7 +47,7 @@ namespace TwitterMonitorDAL
 
         public static List<T> GetDataWithReplace<T>(string sqlQueryResFile, StringReplacer strRpl = null, object[] sqlParams = null, string connectionStringId = "default")
         {
-            string sql = GetManifestResourceString(sqlQueryResFile);
+            string sql = GetManifestResourceString(string.Format("Sql.{0}", sqlQueryResFile));
             if (strRpl != null) { sql = strRpl.PerformReplace(sql); }
 
             //File.AppendAllText(@"C:\Users\Matjaz\Desktop\SqlLog.sql", Environment.NewLine + "---------------------------------------------------------------------" + Environment.NewLine);
