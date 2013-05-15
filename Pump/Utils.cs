@@ -113,13 +113,13 @@ namespace TwitterMonitorPump
             table.Columns.Add("SentimentBasic", typeof(double));
             table.Columns.Add("SentimentBasicPos", typeof(bool));
             table.Columns.Add("SentimentBasicNeg", typeof(bool));
-            table.Columns.Add("SentimentBasicLowCfd", typeof(bool));
+            table.Columns.Add("SentimentBasicNeutral", typeof(bool));
             table.Columns.Add("SentimentBasicPosLowCfd", typeof(bool));
             table.Columns.Add("SentimentBasicNegLowCfd", typeof(bool));
             table.Columns.Add("Sentiment", typeof(double));
             table.Columns.Add("SentimentPos", typeof(bool));
             table.Columns.Add("SentimentNeg", typeof(bool));
-            table.Columns.Add("SentimentLowCfd", typeof(bool));
+            table.Columns.Add("SentimentNeutral", typeof(bool));
             table.Columns.Add("SentimentPosLowCfd", typeof(bool));
             table.Columns.Add("SentimentNegLowCfd", typeof(bool));
             table.Columns.Add("Basic", typeof(bool));

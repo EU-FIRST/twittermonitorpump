@@ -247,6 +247,11 @@ namespace TwitterMonitorPump
                     ModelUtils.ComputeCentroid(clusterBowsTf, CentroidType.NrmL2) : 
                     ModelUtils.ComputeCentroid(clusterBowsTfIdf, CentroidType.NrmL2);
                 Guid clusterId = ComputeClusterId(timeStart, topicId);
+                int numPos = 0;
+                int numNeg = 0;
+                int numPosLowCfd = 0;
+                int numNegLowCfd = 0;
+                int numNeutral = 0;
                 foreach (Tweet tweet in clusterTweets)
                 {
                     double confThr = Utils.Config.SentimentClassifierConfidenceThreshold;
@@ -255,7 +260,12 @@ namespace TwitterMonitorPump
                     bool isNeg = sentiment < -confThr;
                     bool isPosLowCfd = sentiment <= confThr && sentiment > 0;
                     bool isNegLowCfd = sentiment >= -confThr && sentiment < 0;
-                    bool isLowCfd = sentiment >= -confThr && sentiment <= confThr;
+                    bool isNeutral = sentiment >= -confThr && sentiment <= confThr;
+                    if (isPos) { numPos++; }
+                    if (isNeg) { numNeg++; }
+                    if (isPosLowCfd) { numPosLowCfd++; }
+                    if (isNegLowCfd) { numNegLowCfd++; }
+                    if (isNeutral) { numNeutral++; }
                     tweetsTable.Rows.Add(
                         task.mTableId,
                         clusterId,
@@ -264,13 +274,13 @@ namespace TwitterMonitorPump
                         sentiment,
                         isPos,
                         isNeg,
-                        isLowCfd,
+                        isNeutral,
                         isPosLowCfd,
                         isNegLowCfd,
                         sentiment,     // TODO: output from Sentiment SVC
                         isPos,         // TODO: output from Sentiment SVC
                         isNeg,         // TODO: output from Sentiment SVC
-                        isLowCfd,      // TODO: output from Sentiment SVC
+                        isNeutral,     // TODO: output from Sentiment SVC
                         isPosLowCfd,   // TODO: output from Sentiment SVC
                         isNegLowCfd,   // TODO: output from Sentiment SVC
                         true,  // is basic? // TODO: false if Sentiment SVC available
