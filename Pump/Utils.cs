@@ -78,6 +78,19 @@ namespace TwitterMonitorPump
             table.Columns.Add("EndTime", typeof(DateTime));
             table.Columns.Add("Topic", typeof(long));
             table.Columns.Add("NumDocs", typeof(int));
+            table.Columns.Add("SentimentBasicPos", typeof(int));
+            table.Columns.Add("SentimentBasicNeg", typeof(int));
+            table.Columns.Add("SentimentBasicNeutral", typeof(int));
+            table.Columns.Add("SentimentBasicPosLowCfd", typeof(int));
+            table.Columns.Add("SentimentBasicNegLowCfd", typeof(int));
+            table.Columns.Add("SentimentPos", typeof(int));
+            table.Columns.Add("SentimentNeg", typeof(int));
+            table.Columns.Add("SentimentNeutral", typeof(int));
+            table.Columns.Add("SentimentPosLowCfd", typeof(int));
+            table.Columns.Add("SentimentNegLowCfd", typeof(int));
+            table.Columns.Add("SentimentHandLabeledPos", typeof(int));
+            table.Columns.Add("SentimentHandLabeledNeg", typeof(int));
+            table.Columns.Add("SentimentHandLabeledNeutral", typeof(int));
             table.Columns.Add("RecordState", typeof(int));
             return table;        
         }

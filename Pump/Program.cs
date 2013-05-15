@@ -271,18 +271,20 @@ namespace TwitterMonitorPump
                         clusterId,
                         timeStart,
                         tweet.Id,
+                        // basic sentiment
                         sentiment,
                         isPos,
                         isNeg,
                         isNeutral,
                         isPosLowCfd,
                         isNegLowCfd,
-                        sentiment,     // TODO: output from Sentiment SVC
-                        isPos,         // TODO: output from Sentiment SVC
-                        isNeg,         // TODO: output from Sentiment SVC
-                        isNeutral,     // TODO: output from Sentiment SVC
-                        isPosLowCfd,   // TODO: output from Sentiment SVC
-                        isNegLowCfd,   // TODO: output from Sentiment SVC
+                        // sentiment from Sentiment SVC (TODO)
+                        sentiment,
+                        isPos,
+                        isNeg,
+                        isNeutral,
+                        isPosLowCfd,
+                        isNegLowCfd,
                         true,  // is basic? // TODO: false if Sentiment SVC available
                         false, // is hand-labeled? // TODO: true if Sentiment SVC reports as hand-labeled
                         state
@@ -295,6 +297,22 @@ namespace TwitterMonitorPump
                     timeEnd,
                     topicId, 
                     items.Count,
+                    // basic sentiment
+                    numPos,
+                    numNeg,
+                    numNeutral,
+                    numPosLowCfd,
+                    numNegLowCfd,
+                    // sentiment from Sentiment SVC (TODO)
+                    numPos,
+                    numNeg,
+                    numNeutral,
+                    numPosLowCfd,
+                    numNegLowCfd,
+                    // hand-labeled sentiment (TODO)
+                    0, // pos
+                    0, // neg 
+                    0, // neutral
                     state
                     );             
                 foreach (IdxDat<double> item in centroidTfIdf) 
