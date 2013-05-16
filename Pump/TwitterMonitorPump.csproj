@@ -52,6 +52,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config.cs" />
+    <Compile Include="State.cs" />
+    <Compile Include="Task.cs" />
+    <Compile Include="Tweet.cs" />
     <Compile Include="TwitterLemmatizer.cs">
     </Compile>
     <Compile Include="Program.cs" />
