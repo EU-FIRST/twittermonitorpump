@@ -16,6 +16,7 @@ using System.Web;
 using System.Data.SqlClient;
 using System.Threading;
 using System.Diagnostics;
+using System.Globalization;
 using Latino;
 
 using LUtils
@@ -131,6 +132,7 @@ namespace TwitterMonitorPump
 
         static void Main(string[] args)
         {
+            Utils.SetDefaultCulture(CultureInfo.InvariantCulture);
             Console.WriteLine("Concurrency config:");
             Console.WriteLine();
             int minWt, minCpt;

@@ -14,6 +14,8 @@ using System;
 using System.Data.SqlClient;
 using System.Text.RegularExpressions;
 using System.Data;
+using System.Reflection;
+using System.Globalization;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
@@ -176,6 +178,43 @@ namespace TwitterMonitorPump
                     cmd.ExecuteNonQuery();
                 }
             }
+        }
+
+        // Default culture hack
+
+        public static void SetDefaultCulture(CultureInfo culture)
+        {
+            Type type = typeof(CultureInfo);
+            try
+            {
+                type.InvokeMember("s_userDefaultCulture",
+                                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                                    null,
+                                    culture,
+                                    new object[] { culture });
+                type.InvokeMember("s_userDefaultUICulture",
+                                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                                    null,
+                                    culture,
+                                    new object[] { culture });
+                //Console.WriteLine("Success");
+            }
+            catch { }
+            try
+            {
+                type.InvokeMember("m_userDefaultCulture",
+                                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                                    null,
+                                    culture,
+                                    new object[] { culture });
+                type.InvokeMember("m_userDefaultUICulture",
+                                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                                    null,
+                                    culture,
+                                    new object[] { culture });
+                //Console.WriteLine("Success");
+            }
+            catch { }
         }
     }
 }
