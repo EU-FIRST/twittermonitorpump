@@ -37,6 +37,10 @@ CREATE TABLE [dbo].[Clusters](
 
 GO
 
+CREATE NONCLUSTERED INDEX [IDX_Clusters]
+ON [dbo].[Clusters] ([TableId],[StartTime],[RecordState])
+GO
+
 END
 
 IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Terms]') AND type in (N'U'))
@@ -62,6 +66,10 @@ CREATE TABLE [dbo].[Terms](
 ) ON [PRIMARY]
 
 GO
+
+CREATE NONCLUSTERED INDEX [IDX_Terms]
+ON [dbo].[Terms] ([TableId],[StartTime],[RecordState])
+GO 
 
 END
 
@@ -90,5 +98,11 @@ CREATE TABLE [dbo].[Tweets](
 	[RecordState] [int] NOT NULL
 	constraint UQ_Tweets unique (TableId, ClusterId, TweetId, RecordState)
 ) ON [PRIMARY]
+
+GO
+
+CREATE NONCLUSTERED INDEX [IDX_Tweets]
+ON [dbo].[Tweets] ([TableId],[StartTime],[RecordState])
+GO
 
 END

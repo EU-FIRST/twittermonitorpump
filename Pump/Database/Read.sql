@@ -7,5 +7,5 @@ SELECT t.Id, t.Text, t.CreatedAt FROM (
 	JOIN TweetToQuery ttq ON ttq.QueryId = q.Id
 	WHERE q.IdStr = @IdStr AND ttq.TweetId > @Id) foo
 JOIN Tweets t on t.Id = foo.TweetId
-WHERE t.CreatedAt >= @MinTweetTime
+WHERE t.CreatedAt >= @MinTweetTimestamp
 ORDER BY t.Id
