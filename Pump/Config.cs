@@ -51,5 +51,7 @@ namespace TwitterMonitorPump
             = Convert.ToDouble(LUtils.GetConfigValue("DefaultClusterQualityThreshold", "0.2"));
         public static readonly int DefaultMinTaskTimeMinutes
             = Convert.ToInt32(LUtils.GetConfigValue("DefaultMinTaskTimeMinutes", "5"));
+        public static readonly DateTime MinTweetTimestamp
+            = DateTime.Parse(LUtils.GetConfigValue("MinTweetTimestamp", "2000-01-01"));
     }
 }

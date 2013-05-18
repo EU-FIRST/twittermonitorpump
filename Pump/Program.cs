@@ -53,7 +53,6 @@ namespace TwitterMonitorPump
             {
                 if (now - task.LastRun < task.MinTaskTime) 
                 { 
-                    //Console.WriteLine(now - task.LastRun);
                     task.Restart = false;
                     new Thread(delegate() { // delayed queuing
                         Thread.Sleep(1000);
@@ -90,7 +89,7 @@ namespace TwitterMonitorPump
                     using (SqlCommand cmd = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Read.sql"), input))
                     {
                         cmd.CommandTimeout = Config.CommandTimeout;
-                        Utils.AssignParamsToCommand(cmd, "Id", lastId, "IdStr", task.Scope); 
+                        Utils.AssignParamsToCommand(cmd, "Id", lastId, "IdStr", task.Scope, "MinTweetTime", Config.MinTweetTimestamp); 
                         SqlDataReader reader = cmd.ExecuteReader();
                         task.WriteLine("Executed SQL reader. Reading data ...");
                         while (reader.Read())
