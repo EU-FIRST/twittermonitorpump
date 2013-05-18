@@ -39,8 +39,11 @@ namespace TwitterMonitorPump
         public readonly string Scope;
         public readonly int StepSizeMinutes;
         public readonly Guid TableId;
-        public bool Restart;
-
+        public readonly TimeSpan MinTaskTime;
+        public bool Restart;        
+        public DateTime LastRun
+            = DateTime.MinValue;
+        
         private int mWindowSizeMinutes;
         private Set<string> mTaggedWords
             = new Set<string>();
@@ -54,7 +57,7 @@ namespace TwitterMonitorPump
             = DateTime.MinValue;
 
         private static ISentimentClassifier mBasicModel
-            = null;
+            = null;        
 
         public static void Initialize()
         {
@@ -65,13 +68,14 @@ namespace TwitterMonitorPump
             }
         }
 
-        public Task(string scope, int stepSizeMinutes, int windowSizeMinutes, IEnumerable<string> taggedWords, double clusterQualityThresh, bool restart)
+        public Task(string scope, int stepSizeMinutes, int windowSizeMinutes, IEnumerable<string> taggedWords, double clusterQualityThresh, int minTaskTimeMinutes, bool restart)
         {
             Scope = scope;
             StepSizeMinutes = stepSizeMinutes;
             mWindowSizeMinutes = windowSizeMinutes;
             if (taggedWords != null) { mTaggedWords.AddRange(taggedWords.Select(x => x.ToUpper())); }
             mClusterQualityThresh = clusterQualityThresh;
+            MinTaskTime = new TimeSpan(0, minTaskTimeMinutes, 0);
             Restart = restart;
             mState = new State(clusterQualityThresh);
             // table ID

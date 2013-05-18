@@ -47,6 +47,12 @@ namespace TwitterMonitorPump
         {
             if (mShutdown) { return; } // check shutdown
             Task task = (Task)objTask;
+            DateTime now = DateTime.Now;
+            if (task.LastRun != DateTime.MinValue) // check if enough time between two runs
+            {
+                if (now - task.LastRun < task.MinTaskTime) { return; }
+            }
+            task.LastRun = now;
             if (task.Restart)
             {
                 task.WriteLine("Initializing ...");
@@ -183,7 +189,7 @@ namespace TwitterMonitorPump
                         bool restart = false;
                         if (taskSpecf.Length > 4) { restart = taskSpecf[4] == "restart"; }
                         Console.WriteLine("Enqueueing task \"{0}\" {1} {2} \"{3}\" restart={4}", scope, clusterQualityThresh, minTaskTime, taggedWords, restart);
-                        Task task = new Task(scope, Config.StepSizeMinutes, windowSizeMinutes, taggedWords.Split(','), clusterQualityThresh, restart);                        
+                        Task task = new Task(scope, Config.StepSizeMinutes, windowSizeMinutes, taggedWords.Split(','), clusterQualityThresh, minTaskTime, restart);                        
                         ThreadPool.QueueUserWorkItem(ProcessTask, task);
                     }
                 }
