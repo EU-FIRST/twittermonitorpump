@@ -45,5 +45,11 @@ namespace TwitterMonitorPump
             = Convert.ToInt32(LUtils.GetConfigValue("MaxWorkerThreads", "-1"));
         public static readonly double SentimentClassifierConfidenceThreshold
             = Convert.ToDouble(LUtils.GetConfigValue("SentimentClassifierConfidenceThreshold", "0.2"));
+        public static readonly string TasksFileName
+            = LUtils.GetConfigValue("TasksFileName", "Tasks.txt");
+        public static readonly double DefaultClusterQualityThreshold
+            = Convert.ToDouble(LUtils.GetConfigValue("DefaultClusterQualityThreshold", "0.15"));
+        public static readonly int DefaultMinTaskTimeMinutes
+            = Convert.ToInt32(LUtils.GetConfigValue("DefaultMinTaskTimeMinutes", "5"));
     }
 }

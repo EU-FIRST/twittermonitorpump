@@ -1,0 +1,2 @@
+﻿GOOG	0.15	10	$GOOG,GOOGLE	restart
+AAPL	0.15	10	$AAPL,APPLE	restart

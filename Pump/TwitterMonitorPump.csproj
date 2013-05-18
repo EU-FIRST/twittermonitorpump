@@ -80,6 +80,7 @@
     <EmbeddedResource Include="Database\Initialize.sql" />
     <EmbeddedResource Include="Database\Cleanup.sql" />
     <EmbeddedResource Include="Database\CreateTables.sql" />
+    <Content Include="Tasks.txt" />
     <Content Include="TODO.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

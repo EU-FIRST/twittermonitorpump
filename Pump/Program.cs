@@ -11,6 +11,7 @@
  ***************************************************************************/
 
 using System;
+using System.IO;
 using System.Web;
 using System.Data.SqlClient;
 using System.Threading;
@@ -30,6 +31,9 @@ namespace TwitterMonitorPump
     */
     class Program
     {
+        static bool mShutdown
+            = false;
+
         static void GetTimeSlot(DateTime time, int stepSize, out DateTime timeStart, out DateTime timeEnd)
         {
             double min = (time - DateTime.MinValue).TotalMinutes;
@@ -41,6 +45,7 @@ namespace TwitterMonitorPump
 
         static void ProcessTask(object objTask)
         {
+            if (mShutdown) { return; } // check shutdown
             Task task = (Task)objTask;
             if (task.Restart)
             {
@@ -50,7 +55,7 @@ namespace TwitterMonitorPump
             }
             else
             {
-                task.WriteLine("Continuing ...");
+                task.WriteLine("Resuming ...");
                 Utils.ExecSqlScript("Cleanup.sql", "TableId", task.TableId);            
             }
             long lastId;
@@ -94,6 +99,7 @@ namespace TwitterMonitorPump
                             timeEnd = tmpTimeEnd;
                             tweets.Add(new Tweet(id, text, timeStamp));
                             lastId = id;
+                            if (mShutdown) { return; } // check shutdown
                         }
                         if (tweets.Count > 0)
                         {
@@ -102,10 +108,19 @@ namespace TwitterMonitorPump
                         }
                     }
                 }
-            }            
+            }
             // enqueue self
             task.Restart = false;
             ThreadPool.QueueUserWorkItem(ProcessTask, task);
+        }
+
+        static int NumTasksRunning()
+        {
+            int maxThreads, foo;
+            ThreadPool.GetMaxThreads(out maxThreads, out foo);
+            int availThreads;
+            ThreadPool.GetAvailableThreads(out availThreads, out foo);
+            return maxThreads - availThreads;
         }
 
         static void Main(string[] args)
@@ -147,12 +162,42 @@ namespace TwitterMonitorPump
             Console.WriteLine();
             Task.Initialize(); // loads sentiment model
             Utils.ExecSqlScript("CreateTables.sql");
-            int windowSizeMinutes = Config.WindowSizeDays * 1440; 
-            Task task1 = new Task("GOOG", Config.StepSizeMinutes, windowSizeMinutes, "$GOOG,GOOGLE".Split(','), 0.15, /*restart=*/true);
-            Task task2 = new Task("AAPL", Config.StepSizeMinutes, windowSizeMinutes, "$AAPL,APPLE".Split(','), 0.15, /*restart=*/true);
-            ThreadPool.QueueUserWorkItem(ProcessTask, task1);
-            ThreadPool.QueueUserWorkItem(ProcessTask, task2);
-            while (true) { Thread.Sleep(1000); }
+            int windowSizeMinutes = Config.WindowSizeDays * 1440;
+            using (StreamReader tasksReader = new StreamReader(Config.TasksFileName))
+            {
+                Console.WriteLine("Reading tasks ...");
+                string line;
+                while ((line = tasksReader.ReadLine()) != null)
+                {
+                    line = line.Trim();
+                    if (!line.StartsWith("#"))
+                    {
+                        string[] taskSpecf = line.Split('\t');
+                        string scope = taskSpecf[0];
+                        double clusterQualityThresh = Config.DefaultClusterQualityThreshold;
+                        if (taskSpecf.Length > 1) { clusterQualityThresh = Convert.ToDouble(taskSpecf[1]); }
+                        int minTaskTime = Config.DefaultMinTaskTimeMinutes;
+                        if (taskSpecf.Length > 2) { minTaskTime = Convert.ToInt32(taskSpecf[2]); }
+                        string taggedWords = "";
+                        if (taskSpecf.Length > 3) { taggedWords = taskSpecf[3]; }
+                        bool restart = false;
+                        if (taskSpecf.Length > 4) { restart = taskSpecf[4] == "restart"; }
+                        Console.WriteLine("Enqueueing task \"{0}\" {1} {2} \"{3}\" restart={4}", scope, clusterQualityThresh, minTaskTime, taggedWords, restart);
+                        Task task = new Task(scope, Config.StepSizeMinutes, windowSizeMinutes, taggedWords.Split(','), clusterQualityThresh, restart);                        
+                        ThreadPool.QueueUserWorkItem(ProcessTask, task);
+                    }
+                }
+            }
+            Console.CancelKeyPress += delegate(object sender, ConsoleCancelEventArgs e) {
+                e.Cancel = true;
+                Console.WriteLine("*** Ctrl+C received. Shutting down gracefully. Please wait ...");
+                mShutdown = true;
+            };
+            while (!(mShutdown && NumTasksRunning() == 0)) 
+            { 
+                Thread.Sleep(1000); 
+            }
+            Console.WriteLine("Finished.");
         }
     }
 }
