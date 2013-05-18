@@ -51,7 +51,16 @@ namespace TwitterMonitorPump
             DateTime now = DateTime.Now;
             if (task.LastRun != DateTime.MinValue) // check if enough time between two runs
             {
-                if (now - task.LastRun < task.MinTaskTime) { return; }
+                if (now - task.LastRun < task.MinTaskTime) 
+                { 
+                    //Console.WriteLine(now - task.LastRun);
+                    task.Restart = false;
+                    new Thread(delegate() { // delayed queuing
+                        Thread.Sleep(1000);
+                        ThreadPool.QueueUserWorkItem(ProcessTask, task); 
+                    }).Start();
+                    return; 
+                }
             }
             task.LastRun = now;
             if (task.Restart)
@@ -63,6 +72,7 @@ namespace TwitterMonitorPump
             else
             {
                 task.WriteLine("Resuming ...");
+                task.WriteLine("Executing cleanup ...");
                 Utils.ExecSqlScript("Cleanup.sql", "TableId", task.TableId);            
             }
             long lastId;
@@ -116,9 +126,12 @@ namespace TwitterMonitorPump
                     }
                 }
             }
-            // enqueue self
             task.Restart = false;
-            ThreadPool.QueueUserWorkItem(ProcessTask, task);
+            new Thread(delegate() { // delayed queuing
+                Thread.Sleep(1000);
+                ThreadPool.QueueUserWorkItem(ProcessTask, task);
+            }).Start();
+            task.WriteLine("Done for now ...");
         }
 
         static int NumTasksRunning()
@@ -190,7 +203,7 @@ namespace TwitterMonitorPump
                         if (taskSpecf.Length > 3) { taggedWords = taskSpecf[3]; }
                         bool restart = false;
                         if (taskSpecf.Length > 4) { restart = taskSpecf[4] == "restart"; }
-                        Console.WriteLine("Enqueueing task \"{0}\" {1} {2} \"{3}\" restart={4}", scope, clusterQualityThresh, minTaskTime, taggedWords, restart);
+                        Console.WriteLine("Queuing task \"{0}\" {1} {2} \"{3}\" restart={4}", scope, clusterQualityThresh, minTaskTime, taggedWords, restart);
                         Task task = new Task(scope, Config.StepSizeMinutes, windowSizeMinutes, taggedWords.Split(','), clusterQualityThresh, minTaskTime, restart);                        
                         ThreadPool.QueueUserWorkItem(ProcessTask, task);
                     }
