@@ -46,7 +46,7 @@ namespace TwitterMonitorPump
             bowSpc.Tokenizer = tok;
             Set<string> stopWords = new Set<string>(StopWords.EnglishStopWords);
             // additional stop words
-            stopWords.AddRange("rt,can,will,must".Split(','));
+            stopWords.AddRange("rt,can,will,must,just,got".Split(','));
             stopWords.AddRange("im,youre,hes,shes,its,were,theyre,ive,youve,weve,theyve,youd,hed,theyd,youll,theyll,isnt,arent,wasnt,werent,hasnt,havent,hadnt,doesnt,dont,didnt,wont,wouldnt,shant,shouldnt,cant,couldnt,mustnt,lets,thats,whos,whats,heres,theres,whens,wheres,whys,hows,i,m,you,re,he,s,she,it,we,they,ve,d,ll,isn,t,aren,wasn,weren,hasn,haven,hadn,doesn,don,didn,won,wouldn,shan,shouldn,can,couldn,mustn,let,that,who,what,here,there,when,where,why,how".Split(','));
             stopWords.AddRange(Config.AdditionalStopWords.ToLower().Split(','));
             if (taskStopWords != null) { stopWords.AddRange(taskStopWords.Select(x => x.ToLower())); }
@@ -190,30 +190,30 @@ namespace TwitterMonitorPump
             try
             {
                 type.InvokeMember("s_userDefaultCulture",
-                                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
-                                    null,
-                                    culture,
-                                    new object[] { culture });
+                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                    null,
+                    culture,
+                    new object[] { culture });
                 type.InvokeMember("s_userDefaultUICulture",
-                                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
-                                    null,
-                                    culture,
-                                    new object[] { culture });
+                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                    null,
+                    culture,
+                    new object[] { culture });
                 //Console.WriteLine("Success");
             }
             catch { }
             try
             {
                 type.InvokeMember("m_userDefaultCulture",
-                                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
-                                    null,
-                                    culture,
-                                    new object[] { culture });
+                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                    null,
+                    culture,
+                    new object[] { culture });
                 type.InvokeMember("m_userDefaultUICulture",
-                                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
-                                    null,
-                                    culture,
-                                    new object[] { culture });
+                    BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                    null,
+                    culture,
+                    new object[] { culture });
                 //Console.WriteLine("Success");
             }
             catch { }
