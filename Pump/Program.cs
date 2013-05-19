@@ -198,12 +198,12 @@ namespace TwitterMonitorPump
                         if (taskSpecf.Length > 1) { clusterQualityThresh = Convert.ToDouble(taskSpecf[1]); }
                         int minTaskTime = Config.DefaultMinTaskTimeMinutes;
                         if (taskSpecf.Length > 2) { minTaskTime = Convert.ToInt32(taskSpecf[2]); }
-                        string taggedWords = "";
-                        if (taskSpecf.Length > 3) { taggedWords = taskSpecf[3]; }
+                        string stopWords = "";
+                        if (taskSpecf.Length > 3) { stopWords = taskSpecf[3]; }
                         bool restart = false;
                         if (taskSpecf.Length > 4) { restart = taskSpecf[4] == "restart"; }
-                        Console.WriteLine("Queuing task \"{0}\" {1} {2} \"{3}\" restart={4}", scope, clusterQualityThresh, minTaskTime, taggedWords, restart);
-                        Task task = new Task(scope, Config.StepSizeMinutes, windowSizeMinutes, taggedWords.Split(','), clusterQualityThresh, minTaskTime, restart);                        
+                        Console.WriteLine("Queuing task \"{0}\" {1} {2} \"{3}\" restart={4}", scope, clusterQualityThresh, minTaskTime, stopWords, restart);
+                        Task task = new Task(scope, Config.StepSizeMinutes, windowSizeMinutes, stopWords.Split(','), clusterQualityThresh, minTaskTime, restart);                        
                         ThreadPool.QueueUserWorkItem(ProcessTask, task);
                     }
                 }

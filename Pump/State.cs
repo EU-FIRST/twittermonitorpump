@@ -29,17 +29,17 @@ namespace TwitterMonitorPump
     {
         public Queue<DateTime> mTimeStamps
             = new Queue<DateTime>();
-        public IncrementalBowSpace mBowSpace
-            = Utils.CreateBowSpace();
+        public IncrementalBowSpace mBowSpace;
         public IncrementalKMeansClustering mClustering;
 
-        public State(BinarySerializer reader) : this(-1)
+        public State(BinarySerializer reader) : this(-1, null)
         {
             Load(reader);
         }
 
-        public State(double clusterQualityThresh)
+        public State(double clusterQualityThresh, IEnumerable<string> taskStopWords)
         {
+            mBowSpace = Utils.CreateBowSpace(taskStopWords);
             mClustering = Utils.CreateClustering(clusterQualityThresh);
             // *** for debugging only
             mClustering.BowSpace = mBowSpace;

@@ -55,5 +55,7 @@ namespace TwitterMonitorPump
             = DateTime.Parse(LUtils.GetConfigValue("MinTweetTimestamp", "2000-01-01"));
         public static readonly string TableId
             = LUtils.GetConfigValue("TableId", "");
+        public static readonly string AdditionalStopWords
+            = LUtils.GetConfigValue("AdditionalStopWords", "");
     }
 }

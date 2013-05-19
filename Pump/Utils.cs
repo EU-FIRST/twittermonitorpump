@@ -11,11 +11,13 @@
  ***************************************************************************/
 
 using System;
+using System.Linq;
 using System.Data.SqlClient;
 using System.Text.RegularExpressions;
 using System.Data;
 using System.Reflection;
 using System.Globalization;
+using System.Collections.Generic;
 using Latino;
 using Latino.TextMining;
 using Latino.Model;
@@ -35,7 +37,7 @@ namespace TwitterMonitorPump
     {            
         // Text mining utils
 
-        public static IncrementalBowSpace CreateBowSpace()
+        public static IncrementalBowSpace CreateBowSpace(IEnumerable<string> taskStopWords)
         {
             IncrementalBowSpace bowSpc = new IncrementalBowSpace();
             RegexTokenizer tok = new RegexTokenizer();
@@ -44,9 +46,10 @@ namespace TwitterMonitorPump
             bowSpc.Tokenizer = tok;
             Set<string> stopWords = new Set<string>(StopWords.EnglishStopWords);
             // additional stop words
-            stopWords.AddRange("can,will,must".Split(','));
+            stopWords.AddRange("rt,can,will,must".Split(','));
             stopWords.AddRange("im,youre,hes,shes,its,were,theyre,ive,youve,weve,theyve,youd,hed,theyd,youll,theyll,isnt,arent,wasnt,werent,hasnt,havent,hadnt,doesnt,dont,didnt,wont,wouldnt,shant,shouldnt,cant,couldnt,mustnt,lets,thats,whos,whats,heres,theres,whens,wheres,whys,hows,i,m,you,re,he,s,she,it,we,they,ve,d,ll,isn,t,aren,wasn,weren,hasn,haven,hadn,doesn,don,didn,won,wouldn,shan,shouldn,can,couldn,mustn,let,that,who,what,here,there,when,where,why,how".Split(','));
-            stopWords.Add("rt");
+            stopWords.AddRange(Config.AdditionalStopWords.ToLower().Split(','));
+            if (taskStopWords != null) { stopWords.AddRange(taskStopWords.Select(x => x.ToLower())); }
             bowSpc.Stemmer = new TwitterLemmatizer();
             bowSpc.StopWords = stopWords;
             bowSpc.MaxNGramLen = 2;
@@ -113,7 +116,6 @@ namespace TwitterMonitorPump
             table.Columns.Add("Hashtag", typeof(bool));
             table.Columns.Add("Stock", typeof(bool));
             table.Columns.Add("NGram", typeof(bool));
-            table.Columns.Add("Tagged", typeof(bool));            
             table.Columns.Add("RecordState", typeof(int));
             return table;
         }

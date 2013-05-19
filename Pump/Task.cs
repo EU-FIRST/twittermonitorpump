@@ -45,8 +45,6 @@ namespace TwitterMonitorPump
             = DateTime.MinValue;
         
         private int mWindowSizeMinutes;
-        private Set<string> mTaggedWords
-            = new Set<string>();
         private double mClusterQualityThresh;
         private State mState;        
 
@@ -68,16 +66,15 @@ namespace TwitterMonitorPump
             }
         }
 
-        public Task(string scope, int stepSizeMinutes, int windowSizeMinutes, IEnumerable<string> taggedWords, double clusterQualityThresh, int minTaskTimeMinutes, bool restart)
+        public Task(string scope, int stepSizeMinutes, int windowSizeMinutes, IEnumerable<string> stopWords, double clusterQualityThresh, int minTaskTimeMinutes, bool restart)
         {
             Scope = scope;
             StepSizeMinutes = stepSizeMinutes;
             mWindowSizeMinutes = windowSizeMinutes;
-            if (taggedWords != null) { mTaggedWords.AddRange(taggedWords.Select(x => x.ToUpper())); }
             mClusterQualityThresh = clusterQualityThresh;
             MinTaskTime = new TimeSpan(0, minTaskTimeMinutes, 0);
             Restart = restart;
-            mState = new State(clusterQualityThresh);
+            mState = new State(clusterQualityThresh, stopWords);
             // table ID
             ArrayList<byte> buffer = new ArrayList<byte>();
             buffer.AddRange(Encoding.UTF8.GetBytes(Scope));
@@ -308,7 +305,6 @@ namespace TwitterMonitorPump
                     bool hashtag = word.Contains("#");
                     bool stock = word.Contains("$");
                     bool nGram = word.Contains(" ");
-                    bool tagged = word.Split(' ').Count(x => mTaggedWords.Contains(x.ToUpper())) > 0;
                     termsTable.Rows.Add(
                         TableId,
                         clusterId,
@@ -323,7 +319,6 @@ namespace TwitterMonitorPump
                         hashtag,
                         stock,
                         nGram,
-                        tagged,
                         state
                         );
                 }
