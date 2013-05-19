@@ -8,7 +8,7 @@
 
 ====================================
 
-[ ] instead of including params into TableId, add TableIdentifierPrefix into App.config
+[x] instead of computing TableId out of params, add TableId setting into App.config
 [ ] instead of tagging words, apply them as stop words
 [ ] add general-purpose stop words into App.config (company, corporation, co...)
 [x] process data from a particular date (as set in App.config)

@@ -53,5 +53,7 @@ namespace TwitterMonitorPump
             = Convert.ToInt32(LUtils.GetConfigValue("DefaultMinTaskTimeMinutes", "5"));
         public static readonly DateTime MinTweetTimestamp
             = DateTime.Parse(LUtils.GetConfigValue("MinTweetTimestamp", "2000-01-01"));
+        public static readonly string TableId
+            = LUtils.GetConfigValue("TableId", "");
     }
 }

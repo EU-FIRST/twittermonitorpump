@@ -81,9 +81,7 @@ namespace TwitterMonitorPump
             // table ID
             ArrayList<byte> buffer = new ArrayList<byte>();
             buffer.AddRange(Encoding.UTF8.GetBytes(Scope));
-            buffer.AddRange(BitConverter.GetBytes(StepSizeMinutes));
-            buffer.AddRange(BitConverter.GetBytes(mWindowSizeMinutes));
-            buffer.AddRange(BitConverter.GetBytes(mClusterQualityThresh));
+            buffer.AddRange(Encoding.UTF8.GetBytes(Config.TableId));
             TableId = new Guid(MD5.Create().ComputeHash(buffer.ToArray()));
             // state file names
             mStateBinFileName = string.Format("state_{0:N}.bin", TableId);
