@@ -135,14 +135,14 @@ namespace TwitterMonitorPump
             }
         }
 
-        private int SwitchRecordState(DateTime timeStart, SqlConnection connection)
+        private int SwitchRecordState(DateTime timeEnd, SqlConnection connection)
         {
             string cmdTxt = LUtils.GetManifestResourceString(typeof(Program), "SwitchState.sql");
             using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
             {
                 using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
                 {
-                    Utils.AssignParamsToCommand(cmd, "StartTime", timeStart, "TableId", TableId);
+                    Utils.AssignParamsToCommand(cmd, "EndTime", timeEnd, "TableId", TableId);
                     cmd.CommandTimeout = Config.CommandTimeout;
                     int rowsAffected = cmd.ExecuteNonQuery();
                     tran.Commit();
@@ -172,10 +172,10 @@ namespace TwitterMonitorPump
             bowSpc.Dequeue(numOutdated);
         }
 
-        private static Guid ComputeClusterId(DateTime startTime, long topicId)
+        private static Guid ComputeClusterId(DateTime timeStart, long topicId)
         {
             ArrayList<byte> buffer = new ArrayList<byte>();
-            buffer.AddRange(BitConverter.GetBytes(startTime.ToBinary()));
+            buffer.AddRange(BitConverter.GetBytes(timeStart.ToBinary()));
             buffer.AddRange(BitConverter.GetBytes(topicId));
             return new Guid(MD5.Create().ComputeHash(buffer.ToArray()));
         }
@@ -203,7 +203,7 @@ namespace TwitterMonitorPump
             // check if time period already in DB and change state to 1
             using (SqlCommand checkExists = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Check.sql"), connection))
             {
-                Utils.AssignParamsToCommand(checkExists, "StartTime", timeStart, "TableId", TableId);
+                Utils.AssignParamsToCommand(checkExists, "EndTime", timeEnd, "TableId", TableId);
                 checkExists.CommandTimeout = Config.CommandTimeout;
                 if (checkExists.ExecuteScalar() != null) { state = 1; WriteLine("Record state set to 1."); }
             }
@@ -247,7 +247,7 @@ namespace TwitterMonitorPump
                     tweetsTable.Rows.Add(
                         TableId,
                         clusterId,
-                        timeStart,
+                        timeEnd,
                         tweet.Id,
                         // basic sentiment
                         sentiment,
@@ -308,7 +308,7 @@ namespace TwitterMonitorPump
                     termsTable.Rows.Add(
                         TableId,
                         clusterId,
-                        timeStart,
+                        timeEnd,
                         LUtils.GetStringHashCode128(stem),
                         LUtils.Truncate(stem.ToUpper(), 140),
                         LUtils.Truncate(word.ToUpper(), 140),
@@ -336,7 +336,7 @@ namespace TwitterMonitorPump
             if (state == 1)
             {
                 WriteLine("Switching record states ...");
-                SwitchRecordState(timeStart, connection);
+                SwitchRecordState(timeEnd, connection);
             }
         }
     }

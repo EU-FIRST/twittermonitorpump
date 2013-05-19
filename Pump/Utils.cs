@@ -105,7 +105,7 @@ namespace TwitterMonitorPump
             DataTable table = new DataTable();
             table.Columns.Add("TableId", typeof(Guid));
             table.Columns.Add("ClusterId", typeof(Guid));
-            table.Columns.Add("StartTime", typeof(DateTime));
+            table.Columns.Add("EndTime", typeof(DateTime));
             table.Columns.Add("StemHash", typeof(Guid));
             table.Columns.Add("Stem", typeof(string));
             table.Columns.Add("MostFrequentForm", typeof(string));
@@ -125,7 +125,7 @@ namespace TwitterMonitorPump
             DataTable table = new DataTable();
             table.Columns.Add("TableId", typeof(Guid));
             table.Columns.Add("ClusterId", typeof(Guid));
-            table.Columns.Add("StartTime", typeof(DateTime));
+            table.Columns.Add("EndTime", typeof(DateTime));
             table.Columns.Add("TweetId", typeof(long));
             table.Columns.Add("SentimentBasic", typeof(double));
             table.Columns.Add("SentimentBasicPos", typeof(bool));

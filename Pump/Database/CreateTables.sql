@@ -38,7 +38,7 @@ CREATE TABLE [dbo].[Clusters](
 GO
 
 CREATE NONCLUSTERED INDEX [IDX_Clusters]
-ON [dbo].[Clusters] ([TableId],[StartTime],[RecordState])
+ON [dbo].[Clusters] ([TableId],[EndTime],[RecordState])
 GO
 
 END
@@ -49,7 +49,7 @@ BEGIN
 CREATE TABLE [dbo].[Terms](
 	[TableId] [uniqueidentifier] NOT NULL,
 	[ClusterId] [uniqueidentifier] NOT NULL,
-	[StartTime] [datetime] NOT NULL,
+	[EndTime] [datetime] NOT NULL,
 	[StemHash] [uniqueidentifier] NOT NULL,
 	[Stem] [nvarchar](140) NOT NULL,	
 	[MostFrequentForm] [nvarchar](140) NOT NULL,
@@ -67,7 +67,7 @@ CREATE TABLE [dbo].[Terms](
 GO
 
 CREATE NONCLUSTERED INDEX [IDX_Terms]
-ON [dbo].[Terms] ([TableId],[StartTime],[RecordState])
+ON [dbo].[Terms] ([TableId],[EndTime],[RecordState])
 GO 
 
 END
@@ -78,7 +78,7 @@ BEGIN
 CREATE TABLE [dbo].[Tweets](
 	[TableId] [uniqueidentifier] NOT NULL,
 	[ClusterId] [uniqueidentifier] NOT NULL,
-	[StartTime] [datetime] NOT NULL,
+	[EndTime] [datetime] NOT NULL,
 	[TweetId] [bigint] NOT NULL,
 	[SentimentBasic] [float] NOT NULL,
 	[SentimentBasicPos] [bit] NOT NULL,
@@ -101,7 +101,7 @@ CREATE TABLE [dbo].[Tweets](
 GO
 
 CREATE NONCLUSTERED INDEX [IDX_Tweets]
-ON [dbo].[Tweets] ([TableId],[StartTime],[RecordState])
+ON [dbo].[Tweets] ([TableId],[EndTime],[RecordState])
 GO
 
 END
