@@ -130,7 +130,7 @@ namespace TwitterMonitorPump
                 Thread.Sleep(1000);
                 ThreadPool.QueueUserWorkItem(ProcessTask, task);
             }).Start();
-            task.WriteLine("Done for now ...");
+            task.WriteLine("Done for now.");
         }
 
         static int NumTasksRunning()
@@ -144,7 +144,7 @@ namespace TwitterMonitorPump
 
         static void Main(string[] args)
         {
-            Utils.SetDefaultCulture(CultureInfo.InvariantCulture);
+            LUtils.SetDefaultCulture(CultureInfo.InvariantCulture);
             Console.WriteLine("Concurrency config:");
             Console.WriteLine();
             int minWt, minCpt;
@@ -178,7 +178,7 @@ namespace TwitterMonitorPump
             }
             Console.WriteLine();
             Console.WriteLine("Press any key to start processing ...");
-            Console.ReadKey(true);
+            Console.ReadKey(/*intercept=*/true);
             Console.WriteLine();
             Task.Initialize(); // loads sentiment model
             Utils.ExecSqlScript("CreateTables.sql");
