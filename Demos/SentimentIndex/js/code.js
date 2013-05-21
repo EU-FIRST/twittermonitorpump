@@ -575,6 +575,6 @@ $(document).ready(function() {
 	load("GOOG");
 
 	// perfectify
-	perfectify(pfy.btn | pfy.a);
+	$(document).perfectify(pfy.btn | pfy.a);
 
 });
