@@ -1,6 +1,24 @@
 [
-{"time":"10:15","usr":"newsagg","txt":"$AMZN signs of weakness in the chart https://t.co/pWwns1Sa","lbl":"Negative"}
+{"time":"0:20","usr":"ScottThurm","txt":"RT @researchpuzzler $AMZN is trading at sixty times . . . its total profit since inception http://t.co/z4Ddl1gI","lbl":"Neutral"}
+,{"time":"10:15","usr":"kiwitrader24","txt":"Close $AMZN monthlies spreads sold yest for .20 gain. Not as well as $AAPL worked. I never seems to get the $AMZN short right.","lbl":"Neutral"}
+,{"time":"10:15","usr":"newsagg","txt":"$AMZN signs of weakness in the chart https://t.co/pWwns1Sa","lbl":"Negative"}
+,{"time":"12:22","usr":"YahooFinance","txt":"RT @michaelsantoli: The Fed\u0027s easy money is a useful drug that some companies use recreationally. Nothing new there. $AMZN http://t.co/HVkYzB17","lbl":"Neutral"}
+,{"time":"12:23","usr":"christinemohan","txt":"RT @PeterHimler: .@AndrewMason: We will not try to out-Amazon $AMZN. $GRPN is about curation. We\u0027ll show one TV, not 1000\u0027s of TVs. #Ignition2012","lbl":"Neutral"}
+,{"time":"13:04","usr":"biggercapital","txt":"$NFLX intends to completely run on AWS in the months to come. $AMZN","lbl":"Neutral"}
+,{"time":"13:49","usr":"LukeRomyn","txt":"DON\u0022T MISS OUT!!! Today\u0027s your last day to get BEYOND HADES and SLAVES OF VALHALLA for #FREE. http://t.co/wnEbaaBs $AMZN #Kindle","lbl":"Neutral"}
 ,{"time":"14:36","usr":"jfahmy","txt":"$PCLN back above its 200-day and $AMZN back above its 50-day, a good sign for Big Cap leadership.","lbl":"Positive"}
+,{"time":"14:36","usr":"LukeRomyn","txt":"LAST CHANCE!!! Slaves of Valhalla and Beyond Hades FREE!!! http://t.co/aMOqotMy $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"14:37","usr":"cw_nash","txt":"RT @LukeRomyn: DON\u0022T MISS OUT!!! Today\u0027s your last day to get BEYOND HADES and SLAVES OF VALHALLA for #FREE. http://t.co/wnEbaaBs $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"15:14","usr":"parklandtrader","txt":"@cnbcfastmoney @GuyAdami @RedDogT3Live End of month buying.. $FB $GOOG $PCLN $AMZN","lbl":"Neutral"}
+,{"time":"15:29","usr":"bmw_free","txt":"RT @LukeRomyn: LAST CHANCE!!! Slaves of Valhalla and Beyond Hades FREE!!! http://t.co/aMOqotMy $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"16:22","usr":"12Stocks","txt":"Top S&P100 #Stocks Trend $COST $GOOG $UTX $NSC $NKE $ORCL $LMT $BRK-B $AMZN $AAPL $PEP $GD $MMM $WAG $BMY $S @ http://t.co/kwX73og0","lbl":"Neutral"}
+,{"time":"16:23","usr":"SKSMediaCyprus","txt":"RT @CBOE: Active Nov weekly\u2019s @ CBOE; $HPQ $C $BAC $INTC $FB $AAPL $AMZN $FSLR $GOOG","lbl":"Neutral"}
 ,{"time":"17:17","usr":"jaruppert","txt":"$AMZN not startup, but certainly meets @highmtnventures criteria: disruptive, inevitable and efficient. Go long. http://t.co/rEAvSXiR","lbl":"Positive"}
+,{"time":"18:34","usr":"kpings","txt":"RT @TheStreet: Can Amazon Put Brick and Mortar Retail Back Together Again? http://t.co/QCeUJYJy $AMZN $AAPL $NFLX $SBUX Starring @charlierose","lbl":"Neutral"}
+,{"time":"18:35","usr":"jaytayag15","txt":"RT @SAI: The Only Tablets That Mattered In 2012 $AAPL $GOOG $AMZN by @_dtl http://t.co/egDPZ7Mc","lbl":"Neutral"}
+,{"time":"20:03","usr":"12Stocks","txt":"Top Nasdaq100 #Stocks Trend $COST $FSLR $MRVL $GOOG $QGEN $EBAY $SRCL $ADSK $ORCL $ROST $PCAR $ATVI $AMZN $BRCM @ http://t.co/TkOzDWLD","lbl":"Neutral"}
+,{"time":"20:04","usr":"dima767","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 11/28/12 {Video}\u0022 http://t.co/ooTcj5hG $AAPL $AMZN $GOOG $QQQ $SPY $XLF $XLY $XRT #stockaction","lbl":"Neutral"}
+,{"time":"20:05","usr":"12Stocks","txt":"Top S&P100 #Stocks Trend $COST $GOOG $NSC $UTX $NKE $ORCL $LMT $BRK-B $AMZN $AAPL $PEP $GD $WAG $MMM $BMY $S @ http://t.co/kwX73og0","lbl":"Neutral"}
+,{"time":"22:33","usr":"BenCBanks","txt":"Before I head off to bed, here is the Daily Analysis for anyone who missed it - http://t.co/pyPz9ENi $SPY $AAPL $GOOG $AMZN","lbl":"Neutral"}
 ,{"time":"22:33","usr":"bbolan1","txt":"LivingSocial lays off 500, bad news for $AMZN, suggests weak demand for coupons, so bad for $GRPN too.","lbl":"Negative"}
 ]

@@ -1,24 +1,42 @@
 [
 {"time":"3:49","usr":"thefinancepress","txt":"$GOOG EU Almunia: Expects Google Answers on Antitrust Probe by Early July: EU Almunia: Expects Google Answers o... http://t.co/rB6z46Xj","lbl":"Negative"}
+,{"time":"3:50","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG EU Almunia: Expects Google Answers on Antitrust Probe by Early July: EU Almunia: Expects Google Answers o... http://t.co/rB6z46Xj","lbl":"Neutral"}
 ,{"time":"3:56","usr":"kcassandra","txt":"RT @SAI: Google Snaps Up The Company That Made Microsoft Office Files Work On Android, iPhone $GOOG by @Julie188 http://t.co/mdLm2GSo","lbl":"Positive"}
 ,{"time":"7:25","usr":"thefinancepress","txt":"$GOOG India Court Summons Google, Facebook, Microsoft Executives Sept 22: India Court Summons Google, Facebook,... http://t.co/ZB5C2lco","lbl":"Negative"}
 ,{"time":"7:25","usr":"bret_jensen","txt":"Commented on: \u0022Apple Versus Google: The War Escalates\u0022 http://t.co/mF5lW3G7 $AAPL $GOOG $MMI $MSFT $NOK","lbl":"Negative"}
 ,{"time":"7:27","usr":"ADVFNplc","txt":"$GOOG - UPDATE: India Court Summons Google, Facebook, Microsoft Executives Sept 22 http://t.co/3VsfX1ON","lbl":"Negative"}
 ,{"time":"7:27","usr":"pennystockguys","txt":"$GOOG - UPDATE: India Court Summons Google, Facebook, Microsoft Executives Sept 22 http://t.co/4N2GcV9f","lbl":"Negative"}
+,{"time":"8:35","usr":"choffman1978","txt":"$siri getting ready to breaking out!!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"8:36","usr":"choffman1978","txt":"$fb breaking out!!!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"8:38","usr":"wallstCS","txt":"WWDC CHEAT SHEET: Everything to Expect from Apple\u0027s Main Event $AAPL $INTC $GOOG #mkt #stocks http://t.co/0c6pWb9I","lbl":"Neutral"}
 ,{"time":"8:38","usr":"TradeEducation","txt":"http://t.co/FDrbLRzj $68.60 profit in $GOOG Not bad for an overnight position on $GOOG Puts 6.8K Profits!","lbl":"Positive"}
+,{"time":"9:05","usr":"WallStJesus","txt":"\u2605Wall Street Breakfast: Must-Know News http://t.co/43HxBogl $FB $SPY $QQQ $AAPL $C $GOOG $IGT $LOGI $MHP $SSNLF.PK $TA $VIVHY.PK","lbl":"Neutral"}
+,{"time":"9:06","usr":"choffman1978","txt":"Wholesale inventories UP!!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"9:07","usr":"choffman1978","txt":"$bpax set sell limit high - $10+!!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
 ,{"time":"9:07","usr":"TradeEducation","txt":"http://t.co/0TUVqOT8 $530.00 profit in $GOOG Nice risk/reward ratio overnight trade on $GOOG 585 Put 126%","lbl":"Positive"}
 ,{"time":"9:37","usr":"Grafowebdesign","txt":"RT @SAI_Tools: Here\u0027s A Look At Google\u0027s New Simple, Elegant Chrome OS For Desktops $GOOG by @_dtl http://t.co/Gnrb3R4l","lbl":"Positive"}
 ,{"time":"9:37","usr":"TheErinRyan","txt":"RT @SAI_Tools: Here\u0027s A Look At Google\u0027s New Simple, Elegant Chrome OS For Desktops $GOOG by @_dtl http://t.co/Gnrb3R4l","lbl":"Positive"}
 ,{"time":"9:40","usr":"patroneux","txt":"$GOOG on beast mode. why? $GOOG rumored to buy $AKAM.","lbl":"Positive"}
+,{"time":"9:41","usr":"choffman1978","txt":"$kerx breaking out!!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp,#biotech","lbl":"Neutral"}
 ,{"time":"10:30","usr":"BanzaiTrader","txt":"@MockTrade I\u0027ve got a few $GOOG 575 puts that expire today. Will sell the last half hour.","lbl":"Negative"}
+,{"time":"10:31","usr":"piecykw","txt":"RT @aarontask: Apple TV Is \u201CIrrelevant,\u201D BTIG\u0027s Piecyk Says: iPhone Wars, iPad Key to Firm\u2019s Fate http://t.co/S5BZyzND $AAPL $GOOG $T $VZ #WWDC","lbl":"Neutral"}
+,{"time":"10:32","usr":"srisri55","txt":"Every stock on my screen including $AAPL & $GOOG are oscillating less than 1% except $FB which is up +4.5%. Every dog has its day!!!","lbl":"Neutral"}
 ,{"time":"12:06","usr":"thefinancepress","txt":"$GOOG Google Founders to be Questioned by FTC in Antitrust Probe -Bloomberg: Google Founders to be Questioned b... http://t.co/6VBRF3S1","lbl":"Negative"}
+,{"time":"12:10","usr":"SeekingAlpha","txt":"The Galaxy S 3 Supply Chain Winners http://t.co/tkV0jKBk $AAPL $ADNC $ARMH $BRCM $GLW $GOOG $INTC $MXIM $S $SIMG $STM $SWKS $T","lbl":"Neutral"}
 ,{"time":"12:10","usr":"Minyanville","txt":"Will #Siri exclude #Google results? 5 More Hot Apple Rumors $AAPL $BIDU $GOOG http://t.co/8BX4xllM","lbl":"Negative"}
 ,{"time":"12:47","usr":"CPACincIT","txt":"RT @SAI: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/rFkhqcTY","lbl":"Positive"}
 ,{"time":"12:47","usr":"fadjri","txt":"RT @businessinsider: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/Tmjt6lGz","lbl":"Positive"}
 ,{"time":"12:49","usr":"Stay_With_It","txt":"RT @SAI: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/rFkhqcTY","lbl":"Positive"}
 ,{"time":"13:20","usr":"StephanieW_SA","txt":"RT @SAI: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/rFkhqcTY","lbl":"Positive"}
+,{"time":"13:20","usr":"marccarter44","txt":"RT @SAI: APPLE VERSUS GOOGLE: Should You Buy A MacBook Air Or The New Chromebook? $AAPL $GOOG by @officialKLS http://t.co/0xWgYZ5D","lbl":"Neutral"}
 ,{"time":"14:11","usr":"thefinancepress","txt":"$GOOG Google founders to be questioned by FTC: report: Google founders to be questioned by FTC: report MarketWa... http://t.co/lfDpnhtF","lbl":"Negative"}
 ,{"time":"14:15","usr":"NoDoji","txt":"$GOOG nice","lbl":"Positive"}
 ,{"time":"14:15","usr":"michaelstencl","txt":"RT @businessinsider: Google Is Throwing Hundreds Of Scientists At These Life-Changing Research Projects $GOOG by @mattlynley http://t.co/Tmjt6lGz","lbl":"Positive"}
 ,{"time":"15:36","usr":"A_F","txt":"Dear $GOOG Chrome is for Tablets and Android is for phones... when will U figure that out?","lbl":"Negative"}
+,{"time":"15:40","usr":"SeekingAlpha","txt":"A Trader\u0027s Value Guide To http://t.co/dhiLlJzj http://t.co/fxGAblJd $FB $GOOG $OPEN $SOCL $WWWW $XOXO $ACOM","lbl":"Neutral"}
+,{"time":"15:42","usr":"MassyPower","txt":"RT @SeekingAlpha: A Trader\u0027s Value Guide To http://t.co/dhiLlJzj http://t.co/fxGAblJd $FB $GOOG $OPEN $SOCL $WWWW $XOXO $ACOM","lbl":"Neutral"}
+,{"time":"15:52","usr":"Qwovadis","txt":"Commented on: \u0022The Galaxy S 3 Supply Chain Winners\u0022 http://t.co/AzqjXC4J $SSNLF.PK $AAPL $ADNC $ARMH $BRCM $GLW $GOOG $INTC $MXIM","lbl":"Neutral"}
+,{"time":"18:36","usr":"JamesPhenom","txt":"Interesting both $AAPL and $GOOG closed at $580. Real interesting week ahead.","lbl":"Neutral"}
+,{"time":"18:44","usr":"robertlendvai","txt":"RT @amberturnau: Good luck to my boss @chrisbreikss presenting at #SMCV12. Here\u0027s his prezi> http://t.co/Wc185b2U @6s_marketing $GOOG","lbl":"Neutral"}
+,{"time":"18:51","usr":"gregnb","txt":"$AAPL http://t.co/eQB4tV5O $PCLN $CMG $AMZN $GOOG $MA - $APPL need more time/conviction above $580 for me to go long","lbl":"Neutral"}
 ]

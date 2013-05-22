@@ -1,5 +1,12 @@
 [
-{"time":"12:09","usr":"proactivetrader","txt":"$AMZN,182,charts=dog,fundamentals=dog,downgrades=dog, that does not stop index funds & etf buying, because they buy dogs,shorts buy to cover","lbl":"Negative"}
+{"time":"0:37","usr":"simplestockqtes","txt":"Someone just got a simple quote on $amzn @simplestockqtes http://t.co/NfEl9cj7","lbl":"Neutral"}
+,{"time":"8:25","usr":"ManiOhli","txt":"Option Millionaires: hanibal: $AMZN going to move today, 179.48 PM http://t.co/c2zHlxeR","lbl":"Neutral"}
+,{"time":"11:25","usr":"OptionPundit","txt":"If $AMZN, $AAPL, $PCLN, $FFIV could do it, why can\u0027t $MSFT, $ORCL, $INTC, $NTAP do it, I think those are next in line.","lbl":"Neutral"}
+,{"time":"12:09","usr":"proactivetrader","txt":"$AMZN,182,charts=dog,fundamentals=dog,downgrades=dog, that does not stop index funds & etf buying, because they buy dogs,shorts buy to cover","lbl":"Negative"}
+,{"time":"12:14","usr":"barronstechblog","txt":"Apple Sets March 7th Date for Special Event - Tech Trader Daily - Barron\u0027s $AAPL $RIMM $GOOG $MSFT $AMZN http://t.co/KYopHMZD","lbl":"Neutral"}
+,{"time":"15:08","usr":"katsu127","txt":"$AMZN new hod nice!!","lbl":"Neutral"}
+,{"time":"15:41","usr":"newsagg","txt":"$AMZN 10d 60m chart http://t.co/JJG1UXZP","lbl":"Neutral"}
 ,{"time":"15:42","usr":"berkutchitweet","txt":"@TraderFlorida $AMZN trendline clearing on 1/17 coincides with elevated volume and the first jump over the 50 this year.","lbl":"Positive"}
 ,{"time":"15:42","usr":"OptionRunners","txt":"$AMZN 185x weekly calls now at 1.60 up 18.5% since the alert...going for hod!","lbl":"Positive"}
+,{"time":"20:11","usr":"wallstCS","txt":"Services Sector Review: Good Day for Domino\u0027s, Office Depot\u0027s Strategy http://t.co/yRKqmFO9 $APOL $CECO $GOOG $AMZN $HSII $LOPE $MSFT $NFLX","lbl":"Neutral"}
 ]

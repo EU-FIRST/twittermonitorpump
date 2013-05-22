@@ -1,8 +1,23 @@
 [
-{"time":"10:55","usr":"pennyhendu","txt":"RT @optionsanimal: This is the last sigh of effort for $NOK, before they finally succumb to $AAPL and $GOOG. $RIMM will soon follow.","lbl":"Positive"}
+{"time":"2:34","usr":"giubento","txt":"RT @SAI: Google Has Used Shipping Containers To Build A Big Presence At The Democratic National Convention $GOOG by @owenthomas http://t ...","lbl":"Neutral"}
+,{"time":"2:47","usr":"planacreative","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $FB $ZNGA by @nichcarlson http://t.co/cVLFSUH3","lbl":"Neutral"}
+,{"time":"3:06","usr":"MycroftP","txt":"Commented on: \u0022Research In Motion Headed For New Lows?\u0022 http://t.co/XA6QCMXo $RIMM $AAPL $AMZN $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"6:21","usr":"rsaintvilus","txt":"Why Apple Is Checking Out Wal-Mart - TheStreet http://t.co/y5YMm56P via @TheStreet $AAPL $WMT $MCD $GOOG $AMZN $TGT $SBUX $EBAY $ODP","lbl":"Neutral"}
+,{"time":"6:31","usr":"RoccoPendola","txt":"RT @rsaintvilus: Why Apple Is Checking Out Wal-Mart - TheStreet http://t.co/y5YMm56P via @TheStreet $AAPL $WMT $MCD $GOOG $AMZN $TGT $SB ...","lbl":"Neutral"}
+,{"time":"10:55","usr":"pennyhendu","txt":"RT @optionsanimal: This is the last sigh of effort for $NOK, before they finally succumb to $AAPL and $GOOG. $RIMM will soon follow.","lbl":"Positive"}
+,{"time":"10:58","usr":"amargirma","txt":"RT @SAI: Nokia Should Have Just Made An Android Smartphone $GOOG $NOK $MSFT by @mattlynley http://t.co/IwbxHeOv","lbl":"Neutral"}
+,{"time":"13:36","usr":"barronstechblog","txt":"Motorola Unveils \u2018Droid Razr HD,\u2019 \u2018Razr Maxx HD,\u2019 \u2018Razr M\u2019 - Tech Trader Daily - Barron\u0027s $GOOG $AAPL $NOK $MSFT http://t.co/9d8WFpPl","lbl":"Neutral"}
 ,{"time":"13:41","usr":"Paint_Shield","txt":"#Motorola Razr HD and $NOK Lumia both look average and $GOOG and $MSFT need to cut and run. You\u0027ll never get in my hands, quit trying.","lbl":"Negative"}
+,{"time":"13:48","usr":"wallstCS","txt":"Facebook CEO PLEDGES Not to Sell and 4 Tech Titans on the Move http://t.co/xYj2uj4A $FB $AAPL $MSFT $GOOG $INTC #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"16:31","usr":"ADVFNplc","txt":"$GOOG - RadioShack, Leap Join Forces - Analyst Blog http://t.co/IPnKsYgK","lbl":"Neutral"}
 ,{"time":"16:33","usr":"steffen_graf","txt":"RT @SAI: CHART OF THE DAY: Google Is Activating 1.3 Million Android Devices On A Daily Basis $AAPL $GOOG by @jyarow http://t.co/p0jI4F5C","lbl":"Positive"}
+,{"time":"16:33","usr":"mightybarnski","txt":"RT @SAI: CHART OF THE DAY: Google Is Activating 1.3 Million Android Devices On A Daily Basis $AAPL $GOOG by @jyarow http://t.co/b43jqcuS","lbl":"Neutral"}
 ,{"time":"17:42","usr":"ps_sean","txt":"CHART OF THE DAY: Google Is Activating 1.3 Million Android Devices On A Daily Basis $AAPL $GOOG by @jyarow http://t.co/toRx1lIk","lbl":"Positive"}
 ,{"time":"17:50","usr":"SeekingAlpha","txt":"Could Vringo Be Apple\u0027s \u0027Thermonuclear\u0027 Option Against Google? http://t.co/zhRnOgdj $AAPL $GOOG $NOK $SSNLF.PK $VRNG","lbl":"Negative"}
+,{"time":"17:50","usr":"WallStJesus","txt":"\u2605Could Vringo Be Apple\u0027s \u0027Thermonuclear\u0027 Option Against Google? http://t.co/4cty29vo $AAPL $GOOG $NOK $SSNLF.PK $VRNG","lbl":"Neutral"}
+,{"time":"20:20","usr":"SeekingAlpha","txt":"Reviewers Love The Nokia Lumia, So Why Did The Stock Tank? http://t.co/wPeMOUmp $AAPL $GOOG $MSFT $QCOM $NOK","lbl":"Neutral"}
+,{"time":"20:26","usr":"bnkausik","txt":"@DebraWilliamson Will $FB take mobile share from $GOOG? http://t.co/PHP1rbBL","lbl":"Neutral"}
+,{"time":"23:49","usr":"USwwwStocks","txt":"$GOOG News: ETF Alternatives for Last Week\u0027s Hot Stocks http://t.co/6xQODo7w #GOOG #Alternatives #last","lbl":"Neutral"}
 ,{"time":"23:51","usr":"vurtzk","txt":"$GOOG if sellers on the deck, and loses 679, then sell with cover 673. http://t.co/27NL2f1M","lbl":"Negative"}
+,{"time":"23:52","usr":"jimfchow","txt":"RT @MarketWatch: Motorola announced 3 new smartphones from its RAZR line. RAZR M model will launch next week http://t.co/8rcMSn8f $GOOG","lbl":"Neutral"}
 ]

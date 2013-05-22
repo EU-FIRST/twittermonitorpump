@@ -1,6 +1,20 @@
 [
-{"time":"9:24","usr":"BanzaiTrader","txt":"I am positioned for a drop in $SPY, $GOOG, $PCLN, and $AMZN before August #OPEX","lbl":"Negative"}
+{"time":"7:03","usr":"mwaizman","txt":"Must-Know News http://t.co/DDmeozHQ $KCG $SPY $QQQ $AMTD $AMZN $APA $ASML $BX $EBAY $FB $GRPN $ING $JEF $$$","lbl":"Neutral"}
+,{"time":"9:07","usr":"LaMonicaBuzz","txt":"Best Buy finally lives up to name. But will LBO help? Buzz video http://t.co/azAQLrk9 & blog post http://t.co/0jFvpIIb $BBY $AMZN $AAPL $RSH","lbl":"Neutral"}
+,{"time":"9:24","usr":"BanzaiTrader","txt":"I am positioned for a drop in $SPY, $GOOG, $PCLN, and $AMZN before August #OPEX","lbl":"Negative"}
+,{"time":"9:29","usr":"lluccipha","txt":"SAI: eBay Is Testing A Same-Day Delivery Service, Beating Amazon To The Punch $AMZN $EBAY by @owenthomas http://t.co/OjlvLwH9","lbl":"Neutral"}
 ,{"time":"9:29","usr":"TSCG_","txt":"RT @businessinsider: eBay Is Testing A Same-Day Delivery Service, Beating Amazon To The Punch $AMZN $EBAY - @owenthomas http://t.co/ZVb3NQ72","lbl":"Negative"}
+,{"time":"10:11","usr":"AccountingCafe","txt":"RT @SeekingAlpha: Don\u0027t Get Pulled Into A Seductive Pre-Earnings Options Trap http://t.co/RLYdowDn $AMZN","lbl":"Neutral"}
+,{"time":"11:10","usr":"SeekingAlpha","txt":"http://t.co/w509NS70: Value Is Sometimes Not Where You Expect It To Be http://t.co/sezw4Ayd $AMZN $CYOU","lbl":"Neutral"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"Microsoft, The Boring Returns Killer http://t.co/zhv6G2H7 $AAPL $AMZN $GOOG $INTC $MSFT","lbl":"Neutral"}
 ,{"time":"14:07","usr":"SmartMoney","txt":"RT @jackhough: Why $AMZN probably isn\u0027t worth 200 times earnings: http://t.co/xgDPcMcs","lbl":"Negative"}
+,{"time":"15:09","usr":"nereidadin","txt":"What @howardlindzon had to say on @bloombergTV today. http://t.co/Ol74ibI4 $AMZN $GOOG $AAPL $STWIT","lbl":"Neutral"}
+,{"time":"16:03","usr":"gregnb","txt":"Gotta keep close eye on $amzn couldn\u0027t really get going hardly any buyers stepping up","lbl":"Neutral"}
+,{"time":"16:04","usr":"andrescardenal","txt":"This Disruptive Company is Firing on All Cylinders - $AMZN, $EBAY, $MELI - Foolish Blogging Network: http://t.co/xqwTU8NW","lbl":"Neutral"}
+,{"time":"17:19","usr":"Ramblin_Rebel13","txt":"@ZachShackleford Yep, the only this is that you have to get a $AMZN credit, instead of cash. I typically use 2 or 3 different places","lbl":"Neutral"}
+,{"time":"17:20","usr":"noodls_sTech","txt":"RT @noodls_sRetail: $AMZN Amazon Launches Textbook Rental http://t.co/KFlNOPmm","lbl":"Neutral"}
+,{"time":"17:20","usr":"ZachShackleford","txt":"@Ramblin_Rebel13 you can buy almost anything on $AMZN so it\u0027s attractive to a lot of people, except those that just want cash...","lbl":"Neutral"}
+,{"time":"18:50","usr":"dizzy_up","txt":"RT @SAI: Kleiner\u0027s Bing Gordon Is In A Tough Spot All Of A Sudden $AMZN $ZNGA by @owenthomas http://t.co/dr6IBp4z","lbl":"Neutral"}
 ,{"time":"18:51","usr":"KRKRK","txt":"RT @SAI: Amazon Has Gone To War With Zynga With Its Launch Of A Social Game, Living Classics $AMZN $ZNGA by @owenthomas http://t.co/0DBjX4My","lbl":"Negative"}
+,{"time":"22:02","usr":"Grazen","txt":"Amazon launches its own online game studio and first Facebook game http://t.co/LpjVgkjf $AMZN","lbl":"Neutral"}
 ]

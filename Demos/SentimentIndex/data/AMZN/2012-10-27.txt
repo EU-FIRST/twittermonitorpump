@@ -1,7 +1,17 @@
 [
-{"time":"1:39","usr":"HaiderAKhan88","txt":"RT @StockTwits: Why do investors prefer Amazon to Apple? http://t.co/J6ZwF9wZ via Reuters $AMZN $AAPL","lbl":"Positive"}
+{"time":"1:37","usr":"RobinHood1776","txt":"RT @MadMoneyOnCNBC: How Wall Street\u2019s Perception of Apple, Amazon Varies Greatly http://t.co/RJlsv7I5 $AAPL $AMZN #Earnings #CorporateLeaders #WallStreet","lbl":"Neutral"}
+,{"time":"1:39","usr":"HaiderAKhan88","txt":"RT @StockTwits: Why do investors prefer Amazon to Apple? http://t.co/J6ZwF9wZ via Reuters $AMZN $AAPL","lbl":"Positive"}
+,{"time":"1:53","usr":"marketmavenz","txt":"VIX - #Options Volatility Sonar: Thursday Recap http://t.co/5cyuy4SW $AAPL $AET $AMZN $CFX $CROX $EMN $EXPE $HAL $HAS http://t.co/7ysJwqDo","lbl":"Neutral"}
+,{"time":"7:59","usr":"biggercapital","txt":"Ur \u0022Kindle Paperwhite 3G, 6\u0022 H.\u0022 has shipped! 2nd in the family $AMZN expectd delivery for new purchases moves to 5 to 7 wks from 4 to 6","lbl":"Neutral"}
+,{"time":"8:04","usr":"srussolillo","txt":"Great story by @barronstechblog explaining \u0022The Apple-Amazon Stock-Price Conundrum\u0022 http://t.co/P7aThheG via @barronsonline $aapl $amzn","lbl":"Neutral"}
+,{"time":"8:11","usr":"Stocks_Plus","txt":"The Apple-Amazon Stock-Price Conundrum http://t.co/Jg2qRj7Y via @barronsonline $AAPL $AMZN via @Stocks_Plus","lbl":"Neutral"}
 ,{"time":"9:40","usr":"anoopvijaykumar","txt":"RT @SAI: AMAZON: We Had Our Best Day Of Kindle Fire HD Sales After Apple Announced The iPad Mini $AAPL $AMZN by @jyarow http://t.co/vkfX9WpM","lbl":"Positive"}
 ,{"time":"9:46","usr":"gsrobins","txt":"RT @SAI: AMAZON: We Had Our Best Day Of Kindle Fire HD Sales After Apple Announced The iPad Mini $AAPL $AMZN by @jyarow http://t.co/vkfX9WpM","lbl":"Negative"}
+,{"time":"13:03","usr":"tradefast","txt":"RT @DeidreZune: The Apple-Amazon Stock-Price Conundrum http://t.co/yyHX9d4K $AAPL $AMZN Insightful analysis","lbl":"Neutral"}
+,{"time":"13:52","usr":"microeconomia","txt":"RT @MarketCurrents: Why does Apple (AAPL) have a forward P/E of 10 while Amazon (AMZN) has a forward P/E of 100? Th... http://t.co/MEkEaBjw $AAPL $AMZN","lbl":"Neutral"}
 ,{"time":"13:56","usr":"XQuickFixX","txt":"I am looking at the $AMZN 2013 April 260 puts, to me late stage base failure/H&S should form next few months, with 50EMA as resistance","lbl":"Negative"}
 ,{"time":"13:57","usr":"HarryWanger","txt":"$AMZN Unless some incredibly negative news comes out this week, it will retest HOY soon. Analysts/press mostly positive after ER for boost","lbl":"Positive"}
+,{"time":"17:06","usr":"LukeRomyn","txt":"Battle the beasts of mythology in BEYOND HADES: http://t.co/h1NMfN7D $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"17:08","usr":"zzollann","txt":"RT @LukeRomyn: Battle the beasts of mythology in BEYOND HADES: http://t.co/h1NMfN7D $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"17:10","usr":"Guernseyevacuee","txt":"RT @LukeRomyn: Battle the beasts of mythology in BEYOND HADES: http://t.co/h1NMfN7D $AMZN #Kindle","lbl":"Neutral"}
 ]

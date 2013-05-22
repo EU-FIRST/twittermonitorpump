@@ -1,1 +1,9 @@
-[]
+[
+{"time":"9:00","usr":"SeekingAlpha","txt":"Stock Ranking According To Hedge Fund Investing (Part 4) http://t.co/xKXNHICq $SLB $WFC $COP $GOOG $AAPL $CVX $XOM $JPM $PFE $DIS","lbl":"Neutral"}
+,{"time":"9:35","usr":"JeffMacke","txt":"Anyone else catching a whiff of $MSFT emanating from the $GOOG campus? #Zune \u0022Google Music Is A Flop\u0022 http://t.co/EqmPk592 via @sai","lbl":"Neutral"}
+,{"time":"15:11","usr":"SconsetCapital","txt":"RT @nytimesbusiness: Disruptions: Google, Now in Privacy Debates, May Have Outgrown a Conscience http://t.co/6Q5SHyeo $GOOG","lbl":"Neutral"}
+,{"time":"21:52","usr":"hasegawahzjupk8","txt":"codywillard do you like money made in making apps or distributing them? (android market... $GOOG sha","lbl":"Neutral"}
+,{"time":"21:55","usr":"stockpicks64","txt":"$GOOG - Google Stock Analysis - price & sma crossover, #bull stock - http://t.co/R2dYEGht","lbl":"Neutral"}
+,{"time":"21:59","usr":"WallStJesus","txt":"\u2605 Where... http://t.co/FQaDaoty $AMZN $BA $COP $DNDN $GOOG $GRPN $HAL $HNT $HPQ $LUV $MRO $MSFT $OXY $PCL $RS $SBUX $SYY $TAP $WFC $ZUMZ","lbl":"Neutral"}
+,{"time":"22:17","usr":"MrBege1","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/lXqvpaWz #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+]

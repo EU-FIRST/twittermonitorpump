@@ -1,10 +1,21 @@
 [
 {"time":"7:47","usr":"BrolinWalters","txt":"@funsize921 @dabreels nerds. I bet $AAPLE announces a dividend instead. And a $99 iPad since their losing market share to $Amzn Kindle.","lbl":"Positive"}
+,{"time":"7:51","usr":"WilliamK82","txt":"RT @Trefis: Apple Could Come Out with a Tweener Tablet to Counter the Kindle Fire http://t.co/gOkcbzVI $AAPL $AMZN $MSFT","lbl":"Neutral"}
 ,{"time":"9:09","usr":"blackmarkt","txt":"$AMZN & $LNKD 2 momo stocks will relative strength","lbl":"Positive"}
 ,{"time":"9:55","usr":"OptionAlarm","txt":"$AMZN next is $186.50 and then $190 members still holding March calls.","lbl":"Positive"}
 ,{"time":"9:55","usr":"FrugalBenjamin","txt":"RT @OptionAlarm: $AMZN should really scream if it clears $184.60. Failed on first attempt.","lbl":"Positive"}
 ,{"time":"10:57","usr":"ACInvestorBlog","txt":"$AMZN buy point $185","lbl":"Positive"}
+,{"time":"11:37","usr":"justmegregory","txt":"@kiwitrader24 on $AMZN that was .. sorry","lbl":"Neutral"}
 ,{"time":"11:37","usr":"BUDDIEE18","txt":"$AMZN high in preparation for market sell-off on $AAPL to keep Nasdaq on an \u0022even\u0022 keel ...??","lbl":"Positive"}
 ,{"time":"12:22","usr":"RonnieSpence","txt":"flat $AMZN... looks like more up here.","lbl":"Positive"}
+,{"time":"12:23","usr":"Lawndale1","txt":"Is #Amazon getting into original TV? http://t.co/3hJQWoxF via @FortuneMagazine $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"13:33","usr":"barronstechblog","txt":"Apple: New iPad with \u2018Retina Display,\u2019 A5X Chip, 5MP Camera - Tech Trader Daily - $AAPL $AMZN $RIMM $GOOG $NVDA http://t.co/5hwvrKLq","lbl":"Neutral"}
+,{"time":"16:04","usr":"Metachronism","txt":"current portfolio pretty light now, just $OCZ and cash, not finding any good buys. Closed $AMZN $P $STEC puts this week","lbl":"Neutral"}
+,{"time":"16:12","usr":"cnbcfastmoney","txt":"New iPad Lifts Shares of Everything\u2014Except Apple http://t.co/K0KavQBn $AAPL $AMZN $BRCM $GOOG $NXPI $QCOM $T $TXN $VZ #Economy","lbl":"Neutral"}
+,{"time":"18:17","usr":"lazywisdom","txt":"NEW POST: Quick Take - Five Takeaways from Apple\u0027s new iPad Launch. http://t.co/0lV4oEy8 $MSFT $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"18:17","usr":"firstadopter","txt":"Went to my local Target last night, they had piles and piles of $AMZN Kindle Fires and b&w Kindles (>dozen) in the shelf. Number of iPads? 2","lbl":"Neutral"}
+,{"time":"18:19","usr":"kanecotw","txt":"RT @firstadopter: Went to my local Target last night, they had piles and piles of $AMZN Kindle Fires and b&w Kindles (>dozen) in the shelf. Number of iPads? 2","lbl":"Neutral"}
+,{"time":"18:21","usr":"ValentFinancial","txt":"Pandora Losing Advertisers http://t.co/gYuKESvB $P $SIRI $GOOG $AAPL $AMZN #mkt #trading","lbl":"Neutral"}
 ,{"time":"21:12","usr":"rekko31","txt":"$AMZN turning bullish? http://t.co/azFNkgo4","lbl":"Positive"}
+,{"time":"21:14","usr":"rjkeel","txt":"RT @cnbcfastmoney: What Names Are Inside Apple\u2019s New iPad? http://t.co/O3dPfioo $AAPL $AMZN $BRCM $OTVI $QCOM $SNE $T $VZ #StockMarket #StockPicks","lbl":"Neutral"}
 ]

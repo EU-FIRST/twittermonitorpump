@@ -1,3 +1,15 @@
 [
-{"time":"21:53","usr":"tk993","txt":"@daytrend area. $amzn doesn\u0027t have physical barriers to the amount of people shopping there.","lbl":"Positive"}
+{"time":"5:08","usr":"Printed_Palette","txt":"RT @bupbin: Fab\u0027s Five Rules For Killing It In E-Commerce (hint: it\u0027s all about rule no. 1) http://t.co/hWt6XVFZ h/t @fab @forbestech $AMZN","lbl":"Neutral"}
+,{"time":"9:49","usr":"Tekwani","txt":"Funny. \u201C@SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/1tsuzgPl\u201D","lbl":"Neutral"}
+,{"time":"9:50","usr":"juhotunkelo","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/VfWkEwt6","lbl":"Neutral"}
+,{"time":"9:51","usr":"zephead72","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/ACoFanXT","lbl":"Neutral"}
+,{"time":"10:39","usr":"Crocodilehat","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/mZrv3vh2","lbl":"Neutral"}
+,{"time":"12:01","usr":"thecatwhisperer","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/VfWkEwt6","lbl":"Neutral"}
+,{"time":"12:04","usr":"cgdesai","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/VfWkEwt6","lbl":"Neutral"}
+,{"time":"13:08","usr":"Xrayboy","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/7dplB7lw","lbl":"Neutral"}
+,{"time":"13:13","usr":"s1xcolors","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/VfWkEwt6","lbl":"Neutral"}
+,{"time":"15:08","usr":"Ypsilon2007","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/ljquu8j5","lbl":"Neutral"}
+,{"time":"17:25","usr":"rigby","txt":"RT @howardlindzon: Tech Trends amongst tenth graders ( a huge reach...) but interesting...Maybe Twitter or $amzn should be buying SnapChat http://t.co/EFjXOjC7","lbl":"Neutral"}
+,{"time":"21:44","usr":"startupnorth","txt":"RT @CantechLetter: Is Google using BufferBox as a Trojan Horse in a war against Amazon? http://t.co/n0Y9rIkx $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"21:53","usr":"tk993","txt":"@daytrend area. $amzn doesn\u0027t have physical barriers to the amount of people shopping there.","lbl":"Positive"}
 ]

@@ -1,20 +1,70 @@
 [
-{"time":"8:42","usr":"paulwoll","txt":"$GOOG Jul 27 \u002712 $620 Put w at 2.90.. willing to lose $90","lbl":"Negative"}
+{"time":"2:26","usr":"binaryoptionsjt","txt":"RT @mcilderman: All about #Apple and #3DPrinters http://t.co/WCzo3zjJ $AAPL $MSFT $DDD $GOOG #Google #tech #Mac #iPhone","lbl":"Neutral"}
+,{"time":"2:26","usr":"Mr_Punk_Rocker","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/a9V8i8Hq #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"6:03","usr":"I_am_funny_one","txt":"iPhones for Psychos http://t.co/gGDF4BQd #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"6:05","usr":"lady_gaga_oreil","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/oaGz9b0v #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"7:17","usr":"asuciu","txt":"RT @ToddSullivan: How Much is Your Gmail Account Worth? $GOOG http://t.co/a0DTG7YO","lbl":"Neutral"}
+,{"time":"7:22","usr":"tinatinjohnson","txt":"Google, Facebook & Amazon Quietly Forming Tech Lobbying Group? http://t.co/ojG10nDo cc @facebook @sewatch $FB $GOOG","lbl":"Neutral"}
+,{"time":"7:49","usr":"SpeedSixx2","txt":"Today on the radar $SPY, $AAPL, $GOOG, $AMZN $LNKD $GS, good luck to all","lbl":"Neutral"}
+,{"time":"8:14","usr":"tkuz4u","txt":"Jeff Bezos is Genious! No doubt about it! $Amzn is up on 1cent profit a share? & $GOOG & $AAPL on billions $ in profits go down?","lbl":"Negative"}
+,{"time":"8:34","usr":"thefinancepress","txt":"$GOOG O\u0027Brien: Microsoft and Google battle for influence in the policy shadows: O\u0027Brien: Microsoft and Google b... http://t.co/U9C1TIUb","lbl":"Neutral"}
+,{"time":"8:42","usr":"paulwoll","txt":"$GOOG Jul 27 \u002712 $620 Put w at 2.90.. willing to lose $90","lbl":"Negative"}
+,{"time":"8:42","usr":"tjtakes","txt":"@Ostock24 so i rather focus on the volatility complex and then focus on individual names like $goog or $aapl","lbl":"Neutral"}
+,{"time":"9:01","usr":"BigE_007","txt":"@BDBMoney HAHA No i will. $GOOG is/was my last play unless BigB unleashes the floodgates.","lbl":"Neutral"}
 ,{"time":"9:13","usr":"SPEQL8R","txt":"mo mo twitter traders finally glommed on $BIDU $GOOG; I been bullish GOOG since 558, mentioned it several times support levels. BIDU 3 days","lbl":"Positive"}
+,{"time":"9:13","usr":"choffman1978","txt":"Markets SURGE on Economic news!!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v,$att","lbl":"Neutral"}
+,{"time":"9:13","usr":"sssc","txt":"$GOOG: potential action point http://t.co/yF5Pj9GS","lbl":"Neutral"}
+,{"time":"9:31","usr":"DatBrownNative","txt":"RT @SAI: The Idea That Facebook Could Be The Next Google Is Now Officially Laughable $GOOG $FB by @nichcarlson http://t.co/xerwiKU9","lbl":"Neutral"}
+,{"time":"9:31","usr":"MissMbaakanyi","txt":"RT @businessinsider: The Idea That Facebook Could Be The Next Google Is Now Officially Laughable $GOOG $FB by @nichcarlson http://t.co/mdO8JRyU","lbl":"Neutral"}
+,{"time":"9:43","usr":"choffman1978","txt":"$NFLX making a nice move up!!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v,$att,$aapl","lbl":"Neutral"}
+,{"time":"9:43","usr":"choffman1978","txt":"$SIRI likely to hit $2.20 today!!!!!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v,$att,$tst","lbl":"Neutral"}
+,{"time":"9:57","usr":"choffman1978","txt":"$GMCR GREEN!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v,$att,$aapl,$gmcr,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"9:58","usr":"choffman1978","txt":"$SIRI $2.15 short squeeze level!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v,$att,$aapl","lbl":"Neutral"}
+,{"time":"9:58","usr":"dslevy","txt":"If $GOOG can spend its cash to build a kickass residential fiber network maybe $AAPL can build a kickass mobile network....","lbl":"Neutral"}
 ,{"time":"9:58","usr":"44andrew","txt":"selling some $goog out ahead of 625 just to book some for the weekend","lbl":"Negative"}
 ,{"time":"10:13","usr":"TraderFlorida","txt":"$GOOG clearing this next resistance / buy area today (nibbled a few long) http://t.co/0j9sx3Ia","lbl":"Positive"}
+,{"time":"10:14","usr":"choffman1978","txt":"Market shake careful #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v,$att,$aapl,$gmcr,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"10:14","usr":"choffman1978","txt":"$NBY RUNNING!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v,$att,$aapl,$gmcr,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"10:15","usr":"girigr8","txt":"RT @BloombergTV: Can Google\u0027s Nexus take a slice out of Amazon Kindle sales? http://t.co/QFMIRoJO $AMZN $GOOG","lbl":"Neutral"}
 ,{"time":"10:53","usr":"stkonlinetrader","txt":"$GOOG is my shining star, $625+","lbl":"Positive"}
+,{"time":"10:54","usr":"BethanyBSander","txt":"All about #Apple and #3DPrinters http://t.co/HlcI4Ix7 $AAPL $MSFT $DDD $GOOG #Google $AMZN #tech #Mac #iPhone #Ipad","lbl":"Neutral"}
 ,{"time":"11:14","usr":"SteveCaru","txt":"$goog breakout possible here. Long at $625. Stop loss right below 624. Full position.","lbl":"Positive"}
+,{"time":"11:17","usr":"barronstechblog","txt":"AUTH Soars 68%, Passes Apple Bid; Others May Approach, Says BWS - Tech Trader Daily - $AUTH $AAPL $GOOG $005930KS http://t.co/WHiGgLgi","lbl":"Neutral"}
+,{"time":"11:40","usr":"choffman1978","txt":"SiriusXM hits $2.16!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v,$att,$aapl,$gmcr,$wfc,$jpm","lbl":"Neutral"}
 ,{"time":"11:40","usr":"thefinancepress","txt":"$GOOG Google Failure Over Street View Data May Breach UK Accord: Google Failure Over Street View Data May Breac... http://t.co/DxC3Os0t","lbl":"Negative"}
+,{"time":"12:00","usr":"ssujkovic","txt":"RT @businessinsider: WHERE ARE THEY NOW: The First 20 Google Employees $GOOG by @shontelaylay http://t.co/qK1OJQXN","lbl":"Neutral"}
+,{"time":"12:01","usr":"choffman1978","txt":"$GMCR - any buyout offer will need to be high! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga,$gs,$bac,$c,$v","lbl":"Neutral"}
+,{"time":"12:01","usr":"toddstrade","txt":"$GOOG $PCLN $AMZN - leaders of the next wave.","lbl":"Neutral"}
 ,{"time":"12:23","usr":"alexanderywang","txt":"RT @businessinsider: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/kg76oTG4","lbl":"Negative"}
 ,{"time":"12:24","usr":"tkuz4u","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"12:24","usr":"AnthonysPeak","txt":"also buynhold investors havent made a dime last 5yrs. RT @toddstrade: @Lowtown21 $GOOG building a base under $650 for 2 years","lbl":"Neutral"}
+,{"time":"12:41","usr":"stocktwitsu","txt":"RT @jeremy_tOS Textbook example of triple top brkout, after support holds in $GOOG $STUDY http://t.co/F1TxxGJW","lbl":"Neutral"}
 ,{"time":"12:44","usr":"JimmyGreeves","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/HjK4TJLy","lbl":"Negative"}
+,{"time":"13:15","usr":"SAI","txt":"The Top 25 Most Common Words In iOS And Android App Titles $AAPL $GOOG by @officialKLS http://t.co/KpHXOYot","lbl":"Neutral"}
+,{"time":"13:15","usr":"SAI_Tools","txt":"The Top 25 Most Common Words In iOS And Android App Titles $AAPL $GOOG by @officialKLS http://t.co/xxN1d26o","lbl":"Neutral"}
+,{"time":"13:38","usr":"DarylT","txt":"@denniskneale $GOOG is Pulling my wire?","lbl":"Neutral"}
 ,{"time":"13:38","usr":"PGK87","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"13:41","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/30dEcQ8G","lbl":"Neutral"}
+,{"time":"13:41","usr":"jeremy_tOS","txt":"$GOOG really interesting article on google\u0027s business strategy http://t.co/Y0Kz96UO","lbl":"Neutral"}
+,{"time":"14:15","usr":"LucciNews","txt":"RT @Sangluccitrades: What a day man... 100% scalps on the weeklies left and right. $GOOG $AAPL $AMZN $BIDU","lbl":"Neutral"}
+,{"time":"14:17","usr":"thefinancepress","txt":"$GOOG Google Cites Fair Use, Public Benefit in Book-Scanning Case Motion -Bloomberg: Google Cites Fair Use, Pub... http://t.co/t6S1NUr2","lbl":"Neutral"}
+,{"time":"14:21","usr":"ExcelsiorRp_AA","txt":"RT @SAI: WHERE ARE THEY NOW: The First 20 Google Employees $GOOG by @shontelaylay http://t.co/4pwgvthf","lbl":"Neutral"}
 ,{"time":"14:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 185 shares \u2611","lbl":"Negative"}
 ,{"time":"14:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 29 shares \u2611","lbl":"Negative"}
 ,{"time":"14:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Page Lawrence Director BOUGHT 150000 shares \u2611","lbl":"Positive"}
+,{"time":"15:09","usr":"zerinSSL","txt":"RT @dkberman: Breaking: The Apple/Google War moves to fresh territory. Both are leading groups bidding for Kodak\u0027s patents. $AAPL $GOOG $EK","lbl":"Neutral"}
+,{"time":"15:09","usr":"davidmwessel","txt":"RT @dkberman: Breaking: The Apple/Google War moves to fresh territory. Both are leading groups bidding for Kodak\u0027s patents. $AAPL $GOOG $EK","lbl":"Neutral"}
+,{"time":"15:10","usr":"SAI","txt":"RT @dkberman: Breaking: The Apple/Google War moves to fresh territory. Both are leading groups bidding for Kodak\u0027s patents. $AAPL $GOOG $EK","lbl":"Neutral"}
+,{"time":"15:10","usr":"jyarow","txt":"RT @dkberman: Breaking: The Apple/Google War moves to fresh territory. Both are leading groups bidding for Kodak\u0027s patents. $AAPL $GOOG $EK","lbl":"Neutral"}
 ,{"time":"15:29","usr":"mikebuechele","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"15:30","usr":"MyParExcellence","txt":"RT @SAI: Apple And Google Are Bidding On Kodak\u0027s Patents $AAPL $GOOG by @jyarow http://t.co/ph5H1wrh","lbl":"Neutral"}
 ,{"time":"16:22","usr":"AJZell23","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"16:25","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Google Acknowledges Still Having Contested User Data http://t.co/Ls2zmzaq","lbl":"Neutral"}
+,{"time":"16:25","usr":"pennystockguys","txt":"$GOOG - UPDATE: Google Acknowledges Still Having Contested User Data http://t.co/AUm3PZHB","lbl":"Neutral"}
 ,{"time":"17:45","usr":"_Safeer007","txt":"\u0022@herbgreenberg: For the record: @credittrends (Ken Hackel) was on @cnbc awhile ago saying that $GOOG would be a better bet than $FB.\u0022","lbl":"Positive"}
+,{"time":"17:46","usr":"ryanmcraver","txt":"small win for chicago, motorola moving downtown $mot $goog http://t.co/EiCFZjVb","lbl":"Neutral"}
 ,{"time":"20:55","usr":"shyamdhulkhed","txt":"RT @SAI: Google Fiber Is The Most Disruptive Thing The Company\u0027s Done Since Gmail $GOOG by @MattRosoff http://t.co/noxnwVXo","lbl":"Negative"}
+,{"time":"21:00","usr":"corpusoptima","txt":"RT @thefinancepress: $GOOG Google Failure Over Street View Data May Breach UK Accord: ... http://t.co/gvC52G0F","lbl":"Neutral"}
+,{"time":"21:03","usr":"Mr_Punk_Rocker","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/bBsUhTMf #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"21:07","usr":"punk_army","txt":"Generally speaking this is how I make investment decisions. $$ $SPY $bidu $goog $JPM $ge $iwm #stocks http://t.co/jsWobxwC","lbl":"Neutral"}
 ]

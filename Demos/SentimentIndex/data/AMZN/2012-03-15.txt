@@ -1,8 +1,18 @@
 [
-{"time":"7:10","usr":"MariusFermi","txt":"$AAPL Been watching premkt trades, looked glum, now Apple is stroking 600 even $AMZN is floating in the green!","lbl":"Positive"}
+{"time":"7:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/49, $GS/19, $SPY/17, $CSCO/14, $BAC/6, $GLD/6, $USD/5, $AMZN/5, $YOKU/4. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"7:10","usr":"MariusFermi","txt":"$AAPL Been watching premkt trades, looked glum, now Apple is stroking 600 even $AMZN is floating in the green!","lbl":"Positive"}
 ,{"time":"8:42","usr":"61point8","txt":"$AMZN: on track for a waterfall http://t.co/sqKeDeIW","lbl":"Negative"}
+,{"time":"9:54","usr":"matt_townsend","txt":"A really good piece on ebook pricing and publishing from couple weeks ago http://t.co/zggZSjzx via @mobiledia $amzn $aapl","lbl":"Neutral"}
+,{"time":"11:11","usr":"SamAntar","txt":"RT @dpinsen: \u201C@SlopeOfHope: Moments of Truth $AMZN $OSTK http://t.co/VPogJSQF\u201D cc @SamAntar","lbl":"Neutral"}
+,{"time":"12:31","usr":"StockTwits","txt":"Thursday links: The Farm as our future. http://t.co/zmNwuInA via @abnormalreturns $IYT $CZR $AMZN $AAPL $YHOO $TLT $USO","lbl":"Neutral"}
 ,{"time":"14:57","usr":"ManijehM","txt":"@tradefast $AAPL P/E is so low for the stock with this fundamentals. look at $AMZN, and $PCLN they are more expensive than $AAPL","lbl":"Negative"}
 ,{"time":"14:58","usr":"OptionsTrader31","txt":"$WYNN 130s $LVS 57.5s $NFLX 110s $FDX 95s $VMW 110s $CMI 130s $LULU 75s $AMZN 185s Few volatile names to watch tomorrow for cheap call specs","lbl":"Positive"}
 ,{"time":"14:59","usr":"RoccoPendola","txt":"Make the short case for $AMZN, $CMG, $LULU, but DON\u0027T say they\u0027re \u0022overvalued.\u0022 http://t.co/heLIJ7CR","lbl":"Negative"}
 ,{"time":"14:59","usr":"BlueFielder","txt":"$AMZN woosh","lbl":"Positive"}
+,{"time":"17:25","usr":"CNNMoney","txt":"Amazon to offer $10 gift cards for $5 in a bid to boost interest in AmazonLocal, its daily deals site. http://t.co/0QyFnrSS $AMZN","lbl":"Neutral"}
+,{"time":"17:26","usr":"hak_a_tak","txt":"RT @CNNMoney: Amazon to offer $10 gift cards for $5 in a bid to boost interest in AmazonLocal, its daily deals site. http://t.co/0QyFnrSS $AMZN","lbl":"Neutral"}
+,{"time":"17:26","usr":"Audiofan2","txt":"RT @CNNMoney: Amazon to offer $10 gift cards for $5 in a bid to boost interest in AmazonLocal, its daily deals site. http://t.co/0QyFnrSS $AMZN","lbl":"Neutral"}
+,{"time":"17:27","usr":"chmijo","txt":"RT @CNNMoney: Amazon to offer $10 gift cards for $5 in a bid to boost interest in AmazonLocal, its daily deals site. http://t.co/0QyFnrSS $AMZN","lbl":"Neutral"}
+,{"time":"21:30","usr":"SeekingAlpha","txt":"Diablo 3 Release Date Announcement Is Just What Activision Blizzard Shares Need http://t.co/Ju4bSWYf $AMZN $EBAY $ATVI","lbl":"Neutral"}
+,{"time":"21:32","usr":"ThomasCasal","txt":"RT @CNNMoney: Amazon to offer $10 gift cards for $5 in a bid to boost interest in AmazonLocal, its daily deals site. http://t.co/0QyFnrSS $AMZN","lbl":"Neutral"}
 ]

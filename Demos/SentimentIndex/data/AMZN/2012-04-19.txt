@@ -1,6 +1,12 @@
 [
 {"time":"4:07","usr":"stocktsogo65","txt":"$AMZN - Amazon Stock Analysis - bullish stochastic crossover - http://t.co/NOcFzF77","lbl":"Positive"}
+,{"time":"4:14","usr":"bored2tears","txt":"Amazon Web Services launches online store selling pre-configured software for AWS Cloud. http://t.co/dMocCrLi $AMZN #SaaS #stocks","lbl":"Neutral"}
 ,{"time":"8:33","usr":"forexscreen","txt":"$AMZN - Amazon Stock Analysis - bullish stochastic crossover - http://t.co/Rve1eOgA","lbl":"Positive"}
 ,{"time":"11:00","usr":"SeekingAlpha","txt":"The Web 2.0 Bubble: Prepare For Collapse http://t.co/Lss4UnEc $AAPL $AMZN $EBAY $GOOG $GRPN $LNKD $P $YELP","lbl":"Negative"}
+,{"time":"12:59","usr":"marksigal","txt":"The Future Retail Wasteland (http://t.co/Zz99Sz6z) My take on how Retail must Reboot to Survive http://t.co/6K61nlpL $AAPL $BBY $AMZN","lbl":"Neutral"}
+,{"time":"13:01","usr":"StockMarketEnds","txt":"Anti Christ Zionist Amazon is Anti 99% #GEO $GEO #CXW $CXW #Amazon $AMZN #AMZN $GS #GS","lbl":"Neutral"}
+,{"time":"14:40","usr":"jonathan_shaw","txt":"RT @TMFInsideValue: \u0022$AMZN has metrics showing that a 0.1 second delay in page rendering translates into a 1% drop in customer activity.\u0022 http://t.co/H11PWEiI","lbl":"Neutral"}
+,{"time":"14:41","usr":"Mark_Lexus","txt":"next weeks earnings im watching: $NFLX (M) , $AAPL $PNRA (T) , $CAT (W) , $AMZN $BIDU $POT (H) ,","lbl":"Neutral"}
 ,{"time":"22:17","usr":"tradingwisely3","txt":"$AMZN - Amazon Stock Analysis - MFI is bearish and falling - http://t.co/Cxtw4JeX","lbl":"Negative"}
+,{"time":"22:19","usr":"ProlongWealth","txt":"$AMZN offers a $2 Amazon MP3 Store Credit for free via code \u0022MOMROCKS\u0022","lbl":"Neutral"}
 ]

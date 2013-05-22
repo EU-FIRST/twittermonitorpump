@@ -1,6 +1,13 @@
 [
-{"time":"15:04","usr":"launchticker","txt":"Iran to switch citizens to domestic internet network; $goog search & email to be blocked until \u0027further notice\u0027 http://t.co/oxdCJUj5","lbl":"Negative"}
+{"time":"7:59","usr":"larryfooter","txt":"@cronked @keepitrealdude if $AMZN was valued the same as $AAPL or $GOOG, it would be a $50 stock #insanity","lbl":"Neutral"}
+,{"time":"8:24","usr":"jonasQuinn23","txt":"RT @larryfooter: @cronked @keepitrealdude if $AMZN was valued the same as $AAPL or $GOOG, it would be a $50 stock #insanity","lbl":"Neutral"}
+,{"time":"8:30","usr":"StockTwits","txt":"Sunday links: $SPX dividends, transport weakness & aiming too high. http://t.co/z0F8RKLh via @abnormalreturns $IYT $FB $GOOG $MS","lbl":"Neutral"}
+,{"time":"11:24","usr":"pdm1010","txt":"RT @biggercapital: $AMZN going in different direction with the Fire HD. It now has 30% of Internet purchasing searches. $GOOG 17%. Media ...","lbl":"Neutral"}
+,{"time":"15:04","usr":"launchticker","txt":"Iran to switch citizens to domestic internet network; $goog search & email to be blocked until \u0027further notice\u0027 http://t.co/oxdCJUj5","lbl":"Negative"}
 ,{"time":"15:12","usr":"BigTicks","txt":"$GOOG News: Google Inc. (GOOG) Facing Big Fine in EU Antitrust Inquiry http://t.co/Zlvi33T9 #GOOG #AntiTrust #Facing","lbl":"Negative"}
+,{"time":"15:20","usr":"epak23","txt":"Google has a whopping 7,100 people working on Maps alone \u2013 http://t.co/TjpHEnuA via @BGR $GOOG $AAPL #ios6","lbl":"Neutral"}
 ,{"time":"15:26","usr":"Alex__Salomon","txt":"@UdallTechStrat @seeitmarket I agree. It will take a while (12-18 months, which is nothing and yet an eternity) but I agree. Huge for $GOOG.","lbl":"Positive"}
+,{"time":"20:05","usr":"DanBehringer221","txt":"STANDOFF: Apple wants another $707M from Samsung. Samsung wants a retrial. http://t.co/uLTkp1P6 $AAPL $SSNLF.PK $GOOG #trials #tech #mkt","lbl":"Neutral"}
 ,{"time":"20:28","usr":"kenjotto","txt":"My plan is to stick with winners $AAPL $GOOG $PCLN $IBM and benefits from #QE-infin $OAS $OIH $UPL","lbl":"Positive"}
+,{"time":"20:30","usr":"Volpinacci","txt":"$GOOG might need a rest http://t.co/FgeOGF9f","lbl":"Neutral"}
 ]

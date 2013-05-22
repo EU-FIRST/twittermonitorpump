@@ -1,13 +1,37 @@
 [
 {"time":"5:02","usr":"d_ramsden","txt":"$FB\u0027s phone & $GOOG\u0027s Motorola purchase are key events in tech. Integration is happening & both are legit leaders http://t.co/pjLTw5AM $$","lbl":"Positive"}
+,{"time":"5:04","usr":"mcilderman","txt":"RT @MikeTsangaris: Interesting article in American Banker on banks playing catch-up with employees switching from $RIMM to $GOOG & $AAPL. http://t.co/7lKyw8L0","lbl":"Neutral"}
+,{"time":"8:11","usr":"Loquemepasapor","txt":"RT @SeekingAlpha: Facebook Gravitates To Analysts\u0027 Average Of $28: But Which Valuation Is Right? http://t.co/JqwUvaLg $GOOG $FB","lbl":"Neutral"}
+,{"time":"8:13","usr":"wallstCS","txt":"Is Facebook Launching its Own Smartphone? http://t.co/4xaNQ0iD $AAPL $FB $GOOG #mkt #stocks #trading","lbl":"Neutral"}
 ,{"time":"8:13","usr":"gregnb","txt":"watching $GOOG if it starts off weak again on good selling volume like friday I\u0027ll be short again for quick trade only","lbl":"Negative"}
 ,{"time":"8:13","usr":"njnigh","txt":"Google\u2019s New Privacy Policy \u2013 The Counter Attack After Google Plus Failed to Make an Impact http://t.co/Vh9dOLOl $GOOG","lbl":"Negative"}
 ,{"time":"9:13","usr":"KarSun01","txt":"$GOOG joining the party","lbl":"Positive"}
+,{"time":"10:08","usr":"wallstCS","txt":"Facebook Smartphone: A Disaster Waiting to Happen? http://t.co/BzqJDC8F $FB $AAPL $GOOG $MMI $RIMM #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:08","usr":"marketmavenz","txt":"$GMCR RUNNING!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s http://t.co/r http://t.co/JZsg1sGP","lbl":"Neutral"}
 ,{"time":"10:10","usr":"AbrilGN","txt":"RT @SAI: THE GOOGLE INVESTOR: Here\u0027s How Google Can Beat Facebook $GOOG by @hleonard76 http://t.co/DNOwrIkO","lbl":"Positive"}
+,{"time":"11:01","usr":"LoneWatchmen","txt":"RT @wallstCS: Is Samsung\u0027s S3 Pulling An Apple? http://t.co/AVFXoLLo $AAPL $GOOG $VOD $NOK $RIMM #mkt #stocks","lbl":"Neutral"}
 ,{"time":"11:01","usr":"coryjwatson","txt":"$GOOG at lows, if it breaks 590, could have an aggressive move lower","lbl":"Negative"}
+,{"time":"11:22","usr":"barronstechblog","txt":"Apple: RBC Pounds Table, Outlines New Normal for iPhone Sales - Tech Trader Daily - $AAPL $GOOG $MSFT $NOK $RIMM http://t.co/F9F3uY29","lbl":"Neutral"}
+,{"time":"11:25","usr":"pattidomm","txt":"Stocks to Watch: http://t.co/x6UmFhuy $ANR $BTU $CAT $CHK $CLF $CNX $DAL $FB $GOOG $IBM $LCRY $LUV $TDY $UAL $VRTX $WLT #StockMarket","lbl":"Neutral"}
+,{"time":"11:25","usr":"coryjwatson","txt":"$GOOG trying to defend the 590 level","lbl":"Neutral"}
+,{"time":"12:34","usr":"choffman1978","txt":"$NGSX getting ready to run - news? #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"12:35","usr":"Minyanville","txt":"Why @todd_harrison believes this is the most important summer for the #market in years http://t.co/1nOVmXz2 $GOOG $FB","lbl":"Neutral"}
+,{"time":"12:35","usr":"ralphacosta","txt":"RT @SkuRun: \u201C@SAI: The Highest Paying Jobs At Google [RANKED] $GOOG by @mattlynley http://t.co/4gWrCSye\u201D UI, UX, then Marketing and at the top B2B sales","lbl":"Neutral"}
+,{"time":"12:35","usr":"ADGBanker","txt":"RT @Minyanville: Why @todd_harrison believes this is the most important summer for the #market in years http://t.co/1nOVmXz2 $GOOG $FB","lbl":"Neutral"}
+,{"time":"13:13","usr":"choffman1978","txt":"$GMCR running huge - Vue sales strong!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
 ,{"time":"13:14","usr":"Mfournierviens","txt":"short $FB and long $GOOG @lblabbz @gilliawg","lbl":"Positive"}
+,{"time":"13:15","usr":"srisri55","txt":"Self RT from 21st May @srisri55 I predict the bottom in $FB at the age of Zuckerburg, 28$. $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"14:07","usr":"SoutheastFund","txt":"@market $GOOG could beat $AAPL to $1000, especially if Apple loses institutional and hedge fund support.","lbl":"Positive"}
+,{"time":"14:07","usr":"thefinancepress","txt":"$GOOG Facebook Shares Fall Below $30 As Option Trading Begins: Facebook Shares Fall Below $30 As Option Trading... http://t.co/Ks9TcQqW","lbl":"Neutral"}
+,{"time":"14:10","usr":"TheRomit","txt":"Next step in Chrome OS journey http://t.co/DvCTtqNW $GOOG","lbl":"Neutral"}
+,{"time":"15:31","usr":"EricConsiglio","txt":"What the news is on the Greeks position and what people are saying. http://t.co/yQlCq84P $AAPL $PCLN $FB $CMG $BIDU $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"15:31","usr":"pennystockguys","txt":"$GOOG - RIMM Plans Another Restructuring - Analyst Blog http://t.co/3SovtdaK","lbl":"Neutral"}
+,{"time":"15:31","usr":"ADVFNplc","txt":"$GOOG - RIMM Plans Another Restructuring - Analyst Blog http://t.co/HNuQ8Fb3","lbl":"Neutral"}
+,{"time":"15:32","usr":"wallstCS","txt":"Facebook\u0027s Love Affair With App Developers http://t.co/qDm6YJ2f $GOOG $FB $YHOO #mkt #stocks","lbl":"Neutral"}
 ,{"time":"16:37","usr":"nickmacco","txt":"RT @dhh: (For the record, I think $FB is overvalued at $10/share. I\u0027d rather own $GOOG at same multiple, which would value $FB at ~$7).","lbl":"Positive"}
+,{"time":"16:46","usr":"NewPharo","txt":"RIM Could be a game changer with Microsoft or Google or Apple, imagine Blackberry & BBM on Windows 8 or Android or iOS $AAPL $MSFT $GOOG","lbl":"Neutral"}
 ,{"time":"18:54","usr":"tinatinjohnson","txt":"Overpriced and Underpowered: Why #Chromebook, #Chromebox Fail by Christina Warren http://t.co/z8nl8BKi via @mashable @film_girl $GOOG","lbl":"Negative"}
+,{"time":"18:59","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Form 4 Google Inc. For: May 29 Filed by: SCHMIDT ERIC E (10K) http://t.co/UKIxkwIQ #BIDU #Eric #Filed","lbl":"Neutral"}
+,{"time":"21:35","usr":"USwwwStocks","txt":"$GOOG News: Facebook Shares Close Under $30 As Option Trading Begins http://t.co/5gt8RnDb #GOOG #begins #close","lbl":"Neutral"}
 ,{"time":"21:39","usr":"larryfooter","txt":"I remain long $AAPL June 550 calls (working well), $GOOG June 615 calls (not working), $VIX June 23 puts (working well), plus index calls","lbl":"Positive"}
 ]

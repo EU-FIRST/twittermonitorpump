@@ -1,18 +1,41 @@
 [
 {"time":"0:02","usr":"thefinancepress","txt":"$GOOG Online music storage firm MP3tunes files for bankruptcy: Online music storage firm MP3tunes files for ban... http://t.co/S4WzOFt9","lbl":"Negative"}
 ,{"time":"0:04","usr":"rlbaldwinartist","txt":"RT @thefinancepress: $GOOG Online music storage firm MP3tunes files for bankruptcy: Online music storage firm MP3tunes files for ban... http://t.co/S4WzOFt9","lbl":"Negative"}
+,{"time":"0:04","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"0:06","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Online music storage firm MP3tunes files for bankruptcy: Online music storage firm MP3tunes files for ban... http://t.co/S4WzOFt9","lbl":"Neutral"}
+,{"time":"6:14","usr":"charlesrwa","txt":"$GOOG - UPDATE: Motorola/Microsoft, Apple/Samsung Win Time In Patents Cases http://t.co/cW0ujLOq","lbl":"Neutral"}
 ,{"time":"6:15","usr":"themaxpain","txt":"$GOOG ($613.66), 5/11/2012, current max pain strike price: $615.00. Put/Call ratio: 0.827. #GOOG","lbl":"Negative"}
+,{"time":"6:21","usr":"RyanMFierce","txt":"Google\u0027s Brin has waged war against Parkinson\u0027s, fortune has helped equip @Pfizer_news and @GSK in offensive http://t.co/XzadoZWS $GOOG","lbl":"Neutral"}
+,{"time":"7:18","usr":"BryanMortenson","txt":"$GOOG considers premium subscription based content on YouTube. http://t.co/fsNpwYPw $$","lbl":"Neutral"}
+,{"time":"7:18","usr":"FierceBiotech","txt":"Google\u0027s Brin allies with Pfizer and GSK in war on Parkinson\u0027s http://t.co/6Tlk8EPL $GOOG $GSK $PFE","lbl":"Neutral"}
+,{"time":"7:19","usr":"BioTechReports","txt":"$SIRI - Liberty Media buys more shares on open market - BUYOUT!.#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac","lbl":"Neutral"}
+,{"time":"7:20","usr":"kentkadim","txt":"RT @SAI: Apple Is Going To Ditch Google Maps And Use Its Own Map Service For The Next iPhone Software $AAPL $GOOG by @jyarow http://t.co/zdngPOhX","lbl":"Neutral"}
+,{"time":"8:22","usr":"MichaelComeau","txt":"@sspencer_smb Good point. Will be out wiht more later... $FB $GOOG","lbl":"Neutral"}
+,{"time":"8:23","usr":"Zenpenny1","txt":"RT @MichaelComeau: REWIND! 7 years ago headine: \u0022GOOGLE SLASHES IPO PRICE\u0022 $FB $GOOG #Facebook http://t.co/XmrholpI","lbl":"Neutral"}
 ,{"time":"8:25","usr":"Shaybod","txt":"RT @SAI: Apple Is Going To Ditch Google Maps And Use Its Own Map Service For The Next iPhone Software $AAPL $GOOG by @jyarow http://t.co/zdngPOhX","lbl":"Negative"}
+,{"time":"8:28","usr":"iTraderz","txt":"$$ here we go, looking for much lower prices today, still short $CMG $GOOG $AAPL and $MA","lbl":"Neutral"}
 ,{"time":"9:02","usr":"ADVFNplc","txt":"$GOOG - Potential Breakout Stock to Watch for 05/11/12: AVVC Issues News Release http://t.co/AvDAiL8N","lbl":"Positive"}
 ,{"time":"9:02","usr":"pennystockguys","txt":"$GOOG - Potential Breakout Stock to Watch for 05/11/12: AVVC Issues News Release http://t.co/mnjSdhwR","lbl":"Positive"}
 ,{"time":"9:02","usr":"charlesrwa","txt":"$GOOG - Potential Breakout Stock to Watch for 05/11/12: AVVC Issues News Release http://t.co/Jx3xkZdc","lbl":"Positive"}
+,{"time":"9:35","usr":"BioTechReports","txt":"$YMI - looks like $2 soon!!!! RUNNING!.#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn,$c,$jpm","lbl":"Neutral"}
 ,{"time":"9:42","usr":"Nathan161616","txt":"$AAPL,$GOOG,$PCLN all rocketing up. this market is ripping right now. $AAPL leading the charge of course other stocks follow","lbl":"Positive"}
+,{"time":"10:35","usr":"gstuto","txt":"RT @JonahLupton: Google IPO\u0027d in 2004 when Facebook was just starting, since then $GOOG is up 465%. I promise $FB won\u0027t perform that well over the next 8 yrs","lbl":"Neutral"}
+,{"time":"10:37","usr":"chrispycrunch","txt":"\u0022@asaunders: Developers speak: BlackBerry is making great progress http://t.co/L4uF77v6\u0022 $rimm $goog","lbl":"Neutral"}
+,{"time":"11:47","usr":"BioTechReports","txt":"$YMI - up 15% #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn","lbl":"Neutral"}
+,{"time":"11:47","usr":"BioTechReports","txt":"$BPAX breaking out!!!! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn","lbl":"Neutral"}
+,{"time":"11:49","usr":"BioTechReports","txt":"$YMI - up huge! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn,$csco,$ctic,$mrk,$jpm,$siri","lbl":"Neutral"}
 ,{"time":"13:04","usr":"BigTicks","txt":"$GOOG Stock News: Carriers may get tougher with smartphones http://t.co/f3IZlCe6 #GOOG #Carriers #News","lbl":"Negative"}
 ,{"time":"13:16","usr":"althafrahman","txt":"FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/gjqcm8ug $GOOG","lbl":"Negative"}
+,{"time":"13:27","usr":"jolivei1967","txt":"RT @FierceBiotech: Google\u0027s Brin allies with Pfizer and GSK in war on Parkinson\u0027s http://t.co/6Tlk8EPL $GOOG $GSK $PFE","lbl":"Neutral"}
 ,{"time":"14:53","usr":"iTraderz","txt":"$GOOG getting hit on volume","lbl":"Negative"}
+,{"time":"14:55","usr":"whatdoiknw99","txt":"RT @DeidreZune $GOOG should have focused on buying $NFLX and integrating w/ YouTube...redundant if u really want to talk about LT strategy","lbl":"Neutral"}
 ,{"time":"14:56","usr":"Bluechiptrend","txt":"over $10 in the money and IB kicks me out WTF! $GOOG","lbl":"Negative"}
 ,{"time":"14:58","usr":"thefinancepress","txt":"$GOOG Bing\u0027s Attack On Google Is Working!: Bing\u0027s Attack On Google Is Working! 24/7 Wall St. - 18 minutes ago ... http://t.co/LsXScJMo","lbl":"Negative"}
+,{"time":"17:14","usr":"SOSlist","txt":"RT @SAI: Google Could Be Helping The Government Spy $GOOG by @Julie188 http://t.co/3eI2Oq6W","lbl":"Neutral"}
 ,{"time":"17:16","usr":"aniqpirzada","txt":"RT @SAI: Apple Is Going To Ditch Google Maps And Use Its Own Map Service For The Next iPhone Software $AAPL $GOOG by @jyarow http://t.co/zdngPOhX","lbl":"Negative"}
+,{"time":"17:21","usr":"Qwovadis","txt":"Commented on: \u0022How To Invest In Social Media Without Buying Into Facebook IPO\u0022 http://t.co/PfUJMHV7 $FB $LNKD $MSFT $ZNGA $GOOG","lbl":"Neutral"}
+,{"time":"22:24","usr":"JchartUpdates","txt":"**SELL SIGNAL** in our Market Breadth Momentum Indicator Check it here http://t.co/5D5Q9A6y $QQQ $SPX $SPY $DJI $AAPL $GOOG $IBM $SLB","lbl":"Neutral"}
 ,{"time":"23:07","usr":"USwwwStocks","txt":"$GOOG News: Potential Breakout Stock to Watch for 05/11/12: AVVC Issues News Release http://t.co/YsdA5NpT #GOOG #051112 #AVVC","lbl":"Positive"}
 ,{"time":"23:10","usr":"JennyDisoza","txt":"RT @SAI: Apple Is Going To Ditch Google Maps And Use Its Own Map Service For The Next iPhone Software $AAPL $GOOG by @jyarow http://t.co/zdngPOhX","lbl":"Negative"}
+,{"time":"23:13","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Docs: Best Best Man\u0022: http://t.co/J3jltZuB @Forbes @Reuters_Biz @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
 ]

@@ -1,14 +1,50 @@
 [
-{"time":"8:40","usr":"Jskinvest","txt":"$GOOG Gap up today off of rising trend line. BUY. http://t.co/4pkOSTZw #WORDEN","lbl":"Positive"}
+{"time":"3:10","usr":"ShadiQishta","txt":"Amazon Is Hitting Google Where It Hurts $GOOG $AMZN http://t.co/DTH2SOIO via @minyanville","lbl":"Negative"}
+,{"time":"3:25","usr":"slangwise","txt":"Today @TradingDeck (Cue whistling theme) - The good, the bad and the ugly of the iPhone launch: http://t.co/VNCiUD4e $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"3:26","usr":"TradingDeck","txt":"The iPhone 5 launch -- The good, the bad and the ugly: http://t.co/0Hp3PiHb $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"3:28","usr":"BigTicks","txt":"$GOOG News: Yandex May Add Browser in Response to Google, Vedomosti Says http://t.co/AspLWTZU #GOOG #Browser #Google","lbl":"Neutral"}
+,{"time":"6:00","usr":"ToddSullivan","txt":"How Google Builds Its Maps\u2014and What It Means for the Future of Everything - Alexis C. Madrigal - The Atlantic http://t.co/MZc1aKRo $GOOG","lbl":"Neutral"}
+,{"time":"6:01","usr":"StocksFlow","txt":"10 Things You Need To Know This Morning $AAPL $GOOG $FB $YHOO by @nichcarlson http://t.co/d6pveGR4 -- SAI (@SAI) via via @StocksFlow","lbl":"Neutral"}
+,{"time":"6:01","usr":"LLG35","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $FB $YHOO by @nichcarlson http://t.co/ckoNafHd","lbl":"Neutral"}
+,{"time":"7:28","usr":"BigTicks","txt":"$GOOG News: Baidu: Blowout Q2 Will Send Stock Higher This Quarter http://t.co/eu0bteRi #GOOG #Baidu #Blowout","lbl":"Neutral"}
+,{"time":"8:39","usr":"choffman1978","txt":"$ACUR SURGING - headed back to $4!#cnbc,#msnbc,$aapl,$goog,$p,#money,#stocks,#markets,$kcg,$ctic,$dndn,$pfe,$jnj,$incy,$rxpc,$bmti,$bpax,","lbl":"Neutral"}
+,{"time":"8:40","usr":"Jskinvest","txt":"$GOOG Gap up today off of rising trend line. BUY. http://t.co/4pkOSTZw #WORDEN","lbl":"Positive"}
+,{"time":"8:40","usr":"choffman1978","txt":"$ACUR GETTING READY TO BREAK ABOVE $2! HUGE SHORT SQUEEZE #cnbc,#msnbc,$aapl,$goog,$p,#money,#stocks,#markets,$kcg,$ctic,$dndn,$pfe,$jnj","lbl":"Neutral"}
+,{"time":"8:40","usr":"wstranscript","txt":"Investing in Secular Technology Trends; MM Discusses $GOOG, $AMZN, $AAPL, $MSFT, $HPQ, $DELL - http://t.co/PTaOv9ws","lbl":"Neutral"}
+,{"time":"9:21","usr":"ADVFNplc","txt":"$GOOG - Facebook Further Taps Ad-Targeting Techniques http://t.co/yI6c0uOj","lbl":"Neutral"}
+,{"time":"9:21","usr":"pennystockguys","txt":"$GOOG - Facebook Further Taps Ad-Targeting Techniques http://t.co/Vb7qjxPR","lbl":"Neutral"}
 ,{"time":"9:25","usr":"AmriCarLoza","txt":"Amazing \u2192RT @SJosephBurns I sold my $GOOG $675 strike call that I bought yesterday for a 60% gain (cont) http://t.co/XVM0bI2h","lbl":"Positive"}
+,{"time":"10:20","usr":"MarketCurrents","txt":"Acer (ASIYF.PK) and Alibaba (ALBCF.PK) just cancelled a smartphone launch f... http://t.co/8PeUNEll $ASIYF.PK $ALBCF.PK $GOOG $BIDU","lbl":"Neutral"}
+,{"time":"10:20","usr":"SeekingAlpha","txt":"Cloud Providers Shun U.S. Server Giants http://t.co/L7Jj8d4v $AMZN $DELL $FB $GOOG $HPQ $IBM $INTC","lbl":"Neutral"}
+,{"time":"10:20","usr":"nichcarlson","txt":"In A Dramatic Power Play, Google Allegedly Forces An Android Parter To Cancel A Phone At The Very Last Minute $GOOG http://t.co/tvmT1gei","lbl":"Neutral"}
 ,{"time":"10:20","usr":"SAI","txt":"In A Dramatic Power Play, Google Allegedly Forces An Android Parter To Cancel A Phone At The Very Last Minute $GOOG http://t.co/L7hBJY2e","lbl":"Negative"}
 ,{"time":"10:56","usr":"FOSSpatents","txt":"RT @DeidreZune: $AAPL wins INJUNCTION against $GOOG\u0027s MMI phones in German court http://t.co/inoZpTQR Win involves rubber-banding patent","lbl":"Negative"}
+,{"time":"11:41","usr":"NiccoloMakaveli","txt":"RT @CreateCapital: $AAPL $GOOG $PCLN","lbl":"Neutral"}
 ,{"time":"11:42","usr":"RedDogT3Live","txt":"If ur active take some profits if u bought $goog yesterday. Macro/swing traders. Sit tight","lbl":"Negative"}
 ,{"time":"11:42","usr":"DeidreZune","txt":"BULLISH for stocks. Chase for performance on. All skeptics are going to be left on the platform as train pulls out. $SPY $AAPL $GOOG","lbl":"Positive"}
+,{"time":"11:43","usr":"pthegr8trades","txt":"$GOOG 1st trgt acquired sold 1/4 pos 700 calls at +70% profit","lbl":"Neutral"}
 ,{"time":"12:32","usr":"dtahiti","txt":"RT @SAI: In A Dramatic Power Play, Google Allegedly Forces An Android Parter To Cancel A Phone At The Very Last Minute $GOOG http://t.co ...","lbl":"Negative"}
+,{"time":"12:32","usr":"CorporateYoungs","txt":"I did not have any position in $GOOG or $AAPL. Those two are great but I\u0027m not far bhind at all on my $IBM, $WYNN, $LVS n $MA :-)","lbl":"Neutral"}
 ,{"time":"12:34","usr":"Fibonacciqueen","txt":"$GOOG support holding up, 721.49 still the target....see video from yesterday http://t.co/YDUA4h9w","lbl":"Positive"}
+,{"time":"12:51","usr":"mike_tweets","txt":"@mike_tweets - $PAY $GOOG $EBAY - here is the link I referred to in the last tweet... http://t.co/V1hz41Vo","lbl":"Neutral"}
+,{"time":"12:51","usr":"cardinal01","txt":"Higher than 2 is rare. MT @RolfeWinkler: $GOOG launches six degrees of Kevin Bacon search tool. Append \u0022bacon number\u0022 to any actor\u0027s name.","lbl":"Neutral"}
+,{"time":"12:51","usr":"lenmastrapa","txt":"RT @SAI: Watch This Short Film, Shot Entirely With Google Glass $GOOG by @_dtl http://t.co/14idzm0T","lbl":"Neutral"}
+,{"time":"13:16","usr":"ja_gallag","txt":"RT @RolfeWinkler: $GOOG launches six degrees of Kevin Bacon search tool. Append \u0022bacon number\u0022 to any actor\u0027s name.... \u0022Humphrey Bogart ...","lbl":"Neutral"}
+,{"time":"13:16","usr":"Mecoy","txt":"RT @RolfeWinkler: $GOOG launches six degrees of Kevin Bacon search tool. Append \u0022bacon number\u0022 to any actor\u0027s name.... \u0022Humphrey Bogart ...","lbl":"Neutral"}
+,{"time":"13:17","usr":"mattmack11","txt":"iPhone, ShmiPhone MT @RolfeWinkler: $GOOG launches six degrees of Kevin Bacon search tool. Append \u0022bacon number\u0022 to any actor\u0027s name","lbl":"Neutral"}
 ,{"time":"13:49","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) introduced another amazing tool to search: Google Inc (NASDAQ:GOOG) introduced a... http://t.co/ZQo7csp9","lbl":"Positive"}
+,{"time":"13:52","usr":"TheMarketMuse","txt":"Leaders posting strong gains: $AAPL, $GOOG, $CRM, $MA, $CF, $AMZN. PMs flying. Broad-based rally with impressive breakouts. &&","lbl":"Neutral"}
 ,{"time":"13:55","usr":"paulwoll","txt":"Add 2 $GOOG Sep 22 \u002712 $700 Puts for 5.40","lbl":"Negative"}
+,{"time":"14:39","usr":"samgustin","txt":"RT @LaMonicaBuzz: All-time highs for $AAPL & $AMZN. $GOOG back above $700 & approaching 52-week high. QE3 doesn\u0027t really help te ...","lbl":"Positive"}
+,{"time":"14:41","usr":"JSquatriglia","txt":"RT @LaMonicaBuzz: All-time highs for $AAPL & $AMZN. $GOOG back above $700 & approaching 52-week high. QE3 doesn\u0027t really help te ...","lbl":"Positive"}
+,{"time":"15:51","usr":"Logix_Data","txt":"Amazon Is Hitting Google Where It Hurts $GOOG $AMZN http://t.co/54TyIDU6 via @minyanville","lbl":"Negative"}
+,{"time":"15:51","usr":"TaraModel","txt":"RT @dschorrnyc: Apple Wins Preliminary Sales Ban on Motorola Phones and Tablets in Germany http://t.co/KCEN911r $AAPL $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"15:51","usr":"Behindthenumber","txt":"Check Out The Runway Through The Eyes Of Models Wearing Google Glasses $GOOG by @ericgplatt http://t.co/tjtVQ06A\u0022","lbl":"Neutral"}
+,{"time":"18:20","usr":"Saybrook71","txt":"RT @RolfeWinkler: $GOOG launches six degrees of Kevin Bacon search tool. Append \u0022bacon number\u0022 to any actor\u0027s name.... \u0022Humphrey Bogart ...","lbl":"Neutral"}
+,{"time":"18:27","usr":"launchticker","txt":"$goog adds 14 schools to Apps for Education incl UC Berkeley, Princeton, & Georgetown http://t.co/6dBfjG18","lbl":"Neutral"}
+,{"time":"18:35","usr":"RedDogT3Live","txt":"Here is the Q&A with Brittany Umar. Watch it on Demand. $spy $qqq $AAPL $goog http://t.co/riJHxzbp","lbl":"Neutral"}
+,{"time":"18:44","usr":"dneto1969","txt":"RT @RolfeWinkler: $GOOG launches six degrees of Kevin Bacon search tool. Append \u0022bacon number\u0022 to any actor\u0027s name.... \u0022Humphrey Bogart ...","lbl":"Neutral"}
 ,{"time":"22:18","usr":"redman59","txt":"I love $GOOG Chrome but sometimes it is that love & hate relationship with a psycho ex, can piss you off but when it works it\u0027s awesome","lbl":"Positive"}
 ,{"time":"22:19","usr":"dktbb","txt":"Why $goog has been so bullish? any foundamentals change? :S #investing","lbl":"Positive"}
+,{"time":"22:31","usr":"rjsanchez01","txt":"RT @thekeikoshow: About New Real-Time Trading Notification System & #WINNING this past week http://t.co/oNel90hO $AAPL $GOOG $BAC $C ...","lbl":"Neutral"}
 ]

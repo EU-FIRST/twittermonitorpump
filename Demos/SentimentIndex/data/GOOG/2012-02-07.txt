@@ -1,10 +1,21 @@
 [
 {"time":"3:43","usr":"fatnuts14","txt":"Alan sold 3531 shares of $GOOG at $609.44 in #WallStreetGame (http://t.co/7Zr7pxrz).","lbl":"Negative"}
+,{"time":"3:55","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+,{"time":"8:17","usr":"Burning_Minds","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $ZNGA $FB by @_dtl http://t.co/QVYcrL5b","lbl":"Neutral"}
 ,{"time":"8:23","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Bows To India Censor Pressure: Google Inc. (NASDAQ:GOOG) Bows To India Censor P... http://t.co/AbotYnSP","lbl":"Negative"}
 ,{"time":"9:38","usr":"jenazbananaz","txt":"RT @SeekingAlpha: Top Social Media Stock Picks By Legendary Fund Managers http://t.co/DX7N07aJ $GOOG $SINA $YHOO $LNKD $P $RENN","lbl":"Positive"}
 ,{"time":"9:39","usr":"ManiOhli","txt":"Option Millionaires: PipBoy: $GOOG 610 break today? http://t.co/QQx41G5c","lbl":"Negative"}
+,{"time":"9:40","usr":"SeekingAlpha","txt":"AOL: A Long-Term Value Play http://t.co/ArfNjktr $GOOG $YHOO $AOL","lbl":"Neutral"}
+,{"time":"9:42","usr":"OptionsTrader82","txt":"RT @ericjackson: New Post: Facebook\u0027s $100 Billion Valuation Unrealistic? - TheStreet http://t.co/tcIHgV5i via @TheStreet $FB $GOOG $AOL $ZNGA $LNKD $YHOO","lbl":"Neutral"}
 ,{"time":"11:00","usr":"Jamtrades","txt":"$GOOG on the way to going above the open. This could be nasty for anyone caught short... $AAPL $CSTR $$$","lbl":"Positive"}
+,{"time":"11:00","usr":"DJThistle","txt":"Verizon announces $199 Droid 4 for February 10: Verizon today announced that the next model in their ever... http://t.co/jsjMy8DI $GOOG","lbl":"Neutral"}
 ,{"time":"14:54","usr":"SAI_Tools","txt":"Google Just Crushed It With The New Chrome App For Android $GOOG by @stevekovach http://t.co/WDJX3WX6","lbl":"Positive"}
+,{"time":"14:54","usr":"SAI","txt":"Google Just Crushed It With The New Chrome App For Android $GOOG by @stevekovach http://t.co/mq12hBWv","lbl":"Neutral"}
 ,{"time":"14:54","usr":"flippnyc","txt":"RT @SAI: Google Just Crushed It With The New Chrome App For Android $GOOG by @stevekovach http://t.co/mq12hBWv","lbl":"Positive"}
+,{"time":"16:03","usr":"GoogleWolf","txt":"RT @SAI: Google Invited These People To A Super-Deluxe Resort Last Week To Talk About The Future $GOOG by @MattRosoff http://t.co/DQ9KLhPT","lbl":"Neutral"}
+,{"time":"16:07","usr":"barronstechblog","txt":"Yahoo! Chair Bostock Steps Down; Two Directors Named - Tech Trader Daily - Barron\u0027s $YHOO $GOOG $MSFT $YNDX http://t.co/CTZB7zfd","lbl":"Neutral"}
+,{"time":"16:12","usr":"ValaAfshar","txt":"How Much Do #Tech Companies Make Per Employee? [CHARTS] http://t.co/kusDkfki $AAPL $GOOG $MSFT $AMZN $LNKD #business","lbl":"Neutral"}
+,{"time":"17:26","usr":"petur","txt":"RT @SAI: Google Just Crushed It With The New Chrome App For Android $GOOG by @stevekovach http://t.co/mq12hBWv","lbl":"Neutral"}
 ,{"time":"19:47","usr":"WitkosRobinson","txt":"RT @SAI: Google Just Crushed It With The New Chrome App For Android $GOOG by @stevekovach http://t.co/mq12hBWv","lbl":"Positive"}
+,{"time":"19:48","usr":"ValaAfshar","txt":"Apple produces $1.35 million of revenue per employee - other #tech companies... http://t.co/wBECA7aB $AAPL $GOOG $MSFT","lbl":"Neutral"}
 ]

@@ -1,3 +1,7 @@
 [
-{"time":"16:50","usr":"TheArmigeri","txt":"$AMZN $GOOG & $MSFT should stop wasting their money in the tablet market. Stick to online platforms & operating systems. #TechCliff","lbl":"Negative"}
+{"time":"11:13","usr":"TMFJMo","txt":"@hblodget Your \u0022Casablanca\u0022 example is a great one. Shines light on what $AMZN\u0027s about, Bezos\u0027 philosophy, why they\u0027ll succeed. #loyalty","lbl":"Neutral"}
+,{"time":"16:42","usr":"grantalawson","txt":"RT @ReformedBroker: TECHNOLOGY \u0022GAME OF THRONES\u0022 MAP http://t.co/IcDeFW93 $GOOG $FB $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"16:48","usr":"Fitzstock2004","txt":"$aapl rep tells me, i can hook my imac mini to Samsung 27 inch 1080p from $amzn for $300, vs Thunderbolt @ $1k..I listened, but bot on $ebay","lbl":"Neutral"}
+,{"time":"16:50","usr":"TheArmigeri","txt":"$AMZN $GOOG & $MSFT should stop wasting their money in the tablet market. Stick to online platforms & operating systems. #TechCliff","lbl":"Negative"}
+,{"time":"18:44","usr":"DoubleDeuce","txt":"@briangraves $AMZN ?","lbl":"Neutral"}
 ]

@@ -1,13 +1,60 @@
 [
-{"time":"10:49","usr":"ArtMatters2me","txt":"@GuyAdami Guy, do you think think expectations are too high for $GOOG today?","lbl":"Negative"}
+{"time":"3:57","usr":"SA_GOOG","txt":"Will Google Beat Earnings Estimates Again? http://t.co/t4O2QCqF $AAPL $GOOG $RIMM $YHOO","lbl":"Neutral"}
+,{"time":"4:00","usr":"SeekingAlpha","txt":"Will Google Beat Earnings Estimates Again? http://t.co/irjkilHc $AAPL $GOOG $RIMM $YHOO","lbl":"Neutral"}
+,{"time":"4:29","usr":"BoilerRoomTweet","txt":"1/19/12 Earnings Announcements: Fairchild $FCS Flextronics $FLEX Google $GOOG Huntington $HBAN Intel $INTC","lbl":"Neutral"}
+,{"time":"4:32","usr":"m_achterberg","txt":"RT @barronstechblog: Kodak Files Chapter 11; Next Stage of Digital \u2018Transformation\u2019 - Tech Trader Daily- $EK $AAPL $SSNLF $HPQ $GOOG http://t.co/LhOZ0SEs","lbl":"Neutral"}
+,{"time":"8:44","usr":"STnet","txt":"Thursday Morning Breakfast Links | via @PointsnFigures http://t.co/uMxp67qX $GOOG $YHOO $ZC_F","lbl":"Neutral"}
+,{"time":"9:46","usr":"$GOOG","txt":"$GOOG technical analysis before earning http://t.co/YLxT9e21","lbl":"Neutral"}
+,{"time":"9:47","usr":"brokerz_bonds","txt":"RT @Mahmissa - RT @ReformedBroker: Oh yeah - earnings from $GOOG, $MSFT and $INTC in addition to imminent Philly Fed. In case you wer...","lbl":"Neutral"}
+,{"time":"9:47","usr":"brokerz_bonds","txt":"RT @ReformedBroker - Oh yeah - earnings from $GOOG, $MSFT and $INTC in addition to imminent Philly Fed. In case you were bored today","lbl":"Neutral"}
+,{"time":"9:47","usr":"$GOOG","txt":"RT @howardlindzon - RT @ReformedBroker Oh yeah - earnings from $GOOG, $MSFT and $INTC in addition to imminent Philly Fed. In case you...","lbl":"Neutral"}
+,{"time":"10:07","usr":"intelligentspec","txt":"Big tech earnings are back $GOOG tonight:) Hoping for a beat and more clarity from Larry so that I can trade it very soon!!","lbl":"Neutral"}
+,{"time":"10:07","usr":"wallstCS","txt":"Internet Companies Stage Unprecedented Online Protest http://t.co/DyQbClhd $EBAY $GOOG $LNKD $fbook #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:07","usr":"tradersplaybook","txt":"$FSL $GOOG $SPY Our thoughts: http://t.co/ZM360Gom","lbl":"Neutral"}
+,{"time":"10:25","usr":"behessel","txt":"RT @BloombergNews: Google protest of anti-piracy upends lobbying | http://t.co/iyuI5zLG $GOOG","lbl":"Neutral"}
+,{"time":"10:25","usr":"ArtMatters2me","txt":"@terranovajoe Joe, do you have any thoughts on how $GOOG might do today?","lbl":"Neutral"}
+,{"time":"10:25","usr":"KristenMParker","txt":"\u0022@BloombergNews: Google protest of anti-piracy upends lobbying | http://t.co/oqhx8f5c $GOOG\u0022","lbl":"Neutral"}
+,{"time":"10:26","usr":"BioTechReports","txt":"No stopping the $NFLX train....wow...up 6% $BAC, $C, $GOOG, $DNDN, $SIRI, $WMT, $AAPL","lbl":"Neutral"}
+,{"time":"10:49","usr":"ArtMatters2me","txt":"@GuyAdami Guy, do you think think expectations are too high for $GOOG today?","lbl":"Negative"}
+,{"time":"10:49","usr":"thefinancepress","txt":"$GOOG Yahoo Co-Founder Yang Resigns: Yahoo Co-Founder Yang Resigns http://t.co/u709H1nI - 16 minutes ago Yahoo!... http://t.co/MfDUHfth","lbl":"Neutral"}
+,{"time":"11:47","usr":"BioTechReports","txt":"$ACUR breaking out huge!!!!! $GOOG, $DNDN, $NFLX, $PFE, $CTIC, $BPAX, $BAC, $SIRI","lbl":"Neutral"}
+,{"time":"11:50","usr":"$IBM","txt":"@CNBCClosingBell full earnings analysis: $GOOG, $INTC, $IBM, $MSFT, $AXP out 4P ET. Maria i/v w Intel CFO Stacy Smith before conf call.","lbl":"Neutral"}
+,{"time":"11:53","usr":"BioTechReports","txt":"$ACUR close to $4 level - could break above $6 soon!IMO $BAC, $SIRI, $NFLX, $DNDN, $BPAX, $WFC, $GOOG","lbl":"Neutral"}
+,{"time":"13:48","usr":"lorelle_mwv","txt":"RT @SeekingAlpha: Cramer\u0027s Lightning Round - You Must Own MeadWestvaco (1/18/12) http://t.co/4I6IpJMK $MWV $HALO $COP $GOOG $YNDX","lbl":"Neutral"}
+,{"time":"13:57","usr":"Goodlett","txt":"$AMZN launch of #cloud [site] #search function is good for #AWS #EC2 customers, but bad for $GOOG & its app http://t.co/AOgSOBAT $MSFT $YHOO","lbl":"Negative"}
+,{"time":"13:57","usr":"ahkautan","txt":"Will $GOOG talk about smartphone growth? $QCOM $NXPI $BRCM $SWKS $ATML $CY @optionmonster @cnbcfastmoney @terranovajoe @stephenLweiss","lbl":"Neutral"}
+,{"time":"15:32","usr":"LDrogen","txt":"like $IBM and $GOOG into reports, think $INTC and $ISRG are vulnerable even with good numbers","lbl":"Neutral"}
 ,{"time":"15:33","usr":"AnniDayTrades","txt":"$FFIV & $GOOG in anticipation back to earnings gap can\u0027t miss plays ala 1999 ?? \u0022How Big Can You Get? or how m... \u266B http://t.co/W4gx8L6z","lbl":"Positive"}
 ,{"time":"16:15","usr":"keefriffards","txt":"RT @KeeneOnMarket: #Winning today in $GOOG $IBM $INTC and $IMAX not a bad day for the kid","lbl":"Positive"}
+,{"time":"16:15","usr":"angryspeculator","txt":"@ReformedBroker <---- nice call not calling much.. stay neutral and keep writing ur circus entertaining articles. $GOOG tags $AAPL $ISRG","lbl":"Neutral"}
+,{"time":"16:15","usr":"LTbioinvestor","txt":"RT @OptionsHawk Here are the Earnings Results $GOOG $IBM $AXP etc. http://t.co/9gGv7YhI // excellent summary Thx","lbl":"Neutral"}
+,{"time":"16:16","usr":"wallstCS","txt":"Microsoft Corp Earnings: Margins Keep Shrinking http://t.co/FdFl3u6E $SPY $MSFT $GOOG $NOVL $ORCL $IBM #stocks #mkt","lbl":"Neutral"}
+,{"time":"16:54","usr":"bored2tears","txt":"Moving late after #earnings: $AXP -1.86%, $COF -5.37%, $GOOG -8.11%, $IBM +2.76%, $INTC -0.23%, $MSF +2.31%, $SWKS +5.56%. #stocks","lbl":"Neutral"}
+,{"time":"16:54","usr":"alia1977","txt":"EARNINGS MOVERS: $MSFT, $INTC, $AXP and $IBM Beat Expectations, $GOOG, $COF Miss.","lbl":"Neutral"}
+,{"time":"16:54","usr":"$MSFT","txt":"Today\u0027s top business news $GOOG $MSFT $INTC $TRP $TRP.CA $EK $http://t.co/rbVvhPDq #kxl #eurozone #cdnecon #cdnpoli http://t.co/uxYOEIt5","lbl":"Neutral"}
+,{"time":"17:27","usr":"donttweetonme","txt":"RT @StockTwits: RT @techinsidr wonder where $FBOOK is going to get their est ~$9.2B revenue for 2012? Look no further than the online ad mkt $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"17:28","usr":"barronstechblog","txt":"GOOG Conf Call: Ad Format Changes Hit Cost-Per-Click - Tech Trader Daily- $GOOG $MSFT $YHOO $BIDU $AMZN $EBAY http://t.co/u2VBkMyj","lbl":"Neutral"}
+,{"time":"17:31","usr":"bbolan1","txt":"$GOOG, $IBM, $INTC. $MSFT here is a quick look at some key metrics for each. http://t.co/XCjDwW7C","lbl":"Neutral"}
 ,{"time":"17:49","usr":"$GOOG","txt":"$GOOG sell insiders from april, CEO Page Lawrence 500musd COFOUNDER Brin Sergey 469musd, i told you at 12 jan 12","lbl":"Negative"}
+,{"time":"17:49","usr":"$GOOG","txt":"We\u0027ll be live tomorrow morning looking at $GOOG post earnings Out of $AAPL One more day $USO http://t.co/678ki726","lbl":"Neutral"}
 ,{"time":"17:50","usr":"$GOOG","txt":"So $GOOG loses 10% of its value while making $10B in 12 weeks? Isn\u0027t this a bounce play...!?","lbl":"Positive"}
+,{"time":"17:51","usr":"$GOOG","txt":"\u0022@nottofy: In theory if you are not trading $GOOG you have lost money since 2008.\u0022 LMAOOO!! heck yeah! :P","lbl":"Neutral"}
+,{"time":"19:00","usr":"SeekingAlpha","txt":"Google Commerce Starts Off Year With Reorganization http://t.co/1ajkscn6 $AAPL $AMZN $EBAY $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"19:05","usr":"leopardtrader","txt":"Members/followers on Copper trade from $320 to book 30% here @$380 and move stp to BE. $FCX $GLD $GOOG $AUDCAD","lbl":"Neutral"}
+,{"time":"19:06","usr":"david_putnam","txt":"StockTwits broke the $INTC, $MSFT, & $GOOG earnings news 1+ min faster than Twitter today. Awesome StockTwtis Community! #irchat","lbl":"Neutral"}
 ,{"time":"20:16","usr":"chamomilee","txt":"RT @AJInsight: $GOOG options cheap ahead of earnings: Buy Jan 635 put and call combined for $36 (5.5%), cheaper than GOOG\u0027s average 7.5% move next day $$","lbl":"Positive"}
+,{"time":"20:16","usr":"upsidetrader","txt":"Actually $GOOG earnings weren\u0027t that bad, it was Jerry Yang joining the board that caused the panic","lbl":"Neutral"}
 ,{"time":"20:17","usr":"dan_weis","txt":"RT @bleekertech: Everyone\u0027s going to focus on $GOOG click fees... But here\u0027s the real focus: International growth was only 5% sequential","lbl":"Negative"}
+,{"time":"20:17","usr":"ConciseMag","txt":"RT @SAI: Are People Actually USING Google+? Don\u0027t Expect A Straight Answer From Google $GOOG by @MattRosoff http://t.co/r2ZrqkPg","lbl":"Neutral"}
 ,{"time":"20:58","usr":"pnavarro88","txt":"watch out $goog tomorrow this levels will become critical in the next few days http://t.co/InafczGm","lbl":"Negative"}
+,{"time":"21:06","usr":"lagoon","txt":"True! RT @SAI: Are People Actually USING Google+? Don\u0027t Expect A Straight Answer From Google $GOOG by @MattRosoff http://t.co/qoiVZLhK","lbl":"Neutral"}
+,{"time":"21:07","usr":"MNYCx","txt":"The $GOOG Yahoo message board is entertaining tonight: http://t.co/3rF2IGQN","lbl":"Neutral"}
 ,{"time":"22:12","usr":"TrendRida","txt":"$GOOG shareholders should demand a dividend. That\u0027s the only way to stop Larry Page burning dollar bills...","lbl":"Negative"}
+,{"time":"22:12","usr":"Fonepool","txt":"RT @bgurley: $AAPL > 2*$GOOG","lbl":"Neutral"}
+,{"time":"22:13","usr":"cnnn","txt":"RT @bgurley: $AAPL > 2*$GOOG","lbl":"Neutral"}
+,{"time":"22:14","usr":"hblodget","txt":"RT @bgurley: $AAPL > 2*$GOOG","lbl":"Neutral"}
 ,{"time":"23:27","usr":"anuppandey","txt":"#Google blows past $10B in #revenue for Q4, but misses Street estimates http://t.co/PFWCL00W via @zite $GOOG","lbl":"Negative"}
+,{"time":"23:27","usr":"leopardtrader","txt":"Shorted $GBPCAD 15700 stop 15760 initial tgt 15500 $SPX $GOOG","lbl":"Neutral"}
+,{"time":"23:27","usr":"sunayanasen","txt":"Finally Morgan Stanley is up there $MS RT @BloombergNews: Today\u2019s ten most important stocks | http://t.co/UA8RJewy $BAC $EK $GOOG","lbl":"Neutral"}
 ,{"time":"23:32","usr":"tanujrocks","txt":"RT @LDrogen: the $GOOG miss most likely means $AAPL ate their lunch in mobile, as expected","lbl":"Negative"}
 ]

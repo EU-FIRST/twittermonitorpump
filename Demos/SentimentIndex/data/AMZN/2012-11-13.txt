@@ -1,4 +1,16 @@
 [
-{"time":"10:19","usr":"Benzinga","txt":"$AAPL $AMZN $MSFT Microsoft Sales are Taking Off: http://t.co/96CqIFgH","lbl":"Positive"}
+{"time":"5:16","usr":"gfnnstock","txt":"$eght $whr $azpn $bmy $rgr $mic $hrs $ebay $dd $otex $cstr $pg $ll $vz $amzn http://t.co/k1mmIKiq","lbl":"Neutral"}
+,{"time":"7:56","usr":"DeVanDineen","txt":"@jimcramer $GOOG Chrome Laptop Price Cut $199/320GB. GOODorBAD for $MSFT $APPL $AMZN #Windows8 #Kindle","lbl":"Neutral"}
+,{"time":"7:56","usr":"eyeonequities","txt":"\u0022@SonaliVerma: Top-performing US stock funds http://t.co/lvwcIsfk $ZQQ.CA $QQC.CA $XQQ.CA $HXS.CA $ZUE.CA $CLU.CA $XSP.CA $AMZN $GOOG $MSFT\u0022","lbl":"Neutral"}
+,{"time":"9:13","usr":"JikoSakoy","txt":"RT @Dividend_Lover 3D Systems: Will #Apple Buy Into 3-D Printing? http://t.co/yMaDpnjv $AAPL $AMZN $GOOG $MSFT $DDD $SSYS #Mac","lbl":"Neutral"}
+,{"time":"9:16","usr":"danaknight1984","txt":"RT @LukeRomyn: Inject your Kindle with four shots of pure adrenaline: http://t.co/rQs8aaer $AMZN #bestsellers","lbl":"Neutral"}
+,{"time":"10:18","usr":"RolfeWinkler","txt":"Another threat to $GRPN margins as the company tries to emulate $AMZN -- announces free shipping/returns for \u0022Goods\u0022","lbl":"Neutral"}
+,{"time":"10:19","usr":"Benzinga","txt":"$AAPL $AMZN $MSFT Microsoft Sales are Taking Off: http://t.co/96CqIFgH","lbl":"Positive"}
+,{"time":"11:14","usr":"Minyanville","txt":"Tech News: Windows Executive Steven Sinofsky Unexpectedly Leaves Microsoft $MSFT $GOOG $AAPL $AMZN http://t.co/r4KeSgRw","lbl":"Neutral"}
 ,{"time":"11:57","usr":"tradethembi","txt":"Commented on StockTwits: put up the long side trade on $AMZN with target of 228.24 from entry of 226.33 , enjoy http://t.co/XlQKgWDu","lbl":"Positive"}
+,{"time":"12:40","usr":"XQuickFixX","txt":"Just awful @TomAspray: $AAPL $AMZN $SPY Will Santa Smile On Apple and Amazon? http://t.co/mIddSS8H","lbl":"Neutral"}
+,{"time":"15:22","usr":"NY_Places","txt":"Check out Best Buy: http://t.co/7dJQF7qM - RT @HithaPrabhakar $AMZN name check by Stephen Gillett Pres of Digital & Marketing of $BBY. S...","lbl":"Neutral"}
+,{"time":"15:22","usr":"GaVaHokie","txt":"RT @Commodity_Bull: $AMZN discounting Kindle Fire, from $159 to $129 http://t.co/O7mIl9Bh","lbl":"Neutral"}
+,{"time":"16:49","usr":"TenBaggers","txt":"The bet Best Buy cannot win: http://t.co/6nqq1Zge $BBY $AMZN","lbl":"Neutral"}
+,{"time":"19:56","usr":"USwwwStocks","txt":"$AMZN News: Best Buy sets long-term targets, aims for stable sales http://t.co/cix3lAmx #aims #AMZN #Best","lbl":"Neutral"}
 ]

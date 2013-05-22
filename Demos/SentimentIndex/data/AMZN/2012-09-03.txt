@@ -1,4 +1,11 @@
 [
-{"time":"12:22","usr":"TheArmyZeus","txt":"RT @SAI: The Great Tablet War Of 2012 $GOOG $AAPL $AMZN $MSFT by @owenthomas http://t.co/On7dNlR3","lbl":"Negative"}
+{"time":"6:28","usr":"BigTicks","txt":"$AMZN News: Electronics Retailers Fighting to Survive http://t.co/eCNah5h1 #AMZN #Electronics #Fighting","lbl":"Neutral"}
+,{"time":"12:22","usr":"TheArmyZeus","txt":"RT @SAI: The Great Tablet War Of 2012 $GOOG $AAPL $AMZN $MSFT by @owenthomas http://t.co/On7dNlR3","lbl":"Negative"}
+,{"time":"12:25","usr":"HorSAI_ebooks","txt":"The Great Tablet War Of 2012 $AAPL $AMZN $MSFT","lbl":"Neutral"}
+,{"time":"12:28","usr":"DeLuCa","txt":"RT @SAI: The Great Tablet War Of 2012 $GOOG $AAPL $AMZN $MSFT by @owenthomas http://t.co/On7dNlR3","lbl":"Neutral"}
+,{"time":"14:42","usr":"Gerhart2k","txt":"RT @SAI: The Great Tablet War Of 2012 $GOOG $AAPL $AMZN $MSFT by @owenthomas http://t.co/On7dNlR3","lbl":"Neutral"}
+,{"time":"14:49","usr":"pbkup","txt":"Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from @allabouttrends on Tuesday","lbl":"Neutral"}
+,{"time":"19:09","usr":"ECONgeek947","txt":"British $DTV Freesat partners w/ @Netflix http://t.co/l0aLTk57 $NFLX $AMZN $FSLR $CSTR @scalamai @thekeikoshow @KeithMcCullough @TechCrunch","lbl":"Neutral"}
 ,{"time":"19:12","usr":"ChartLearning","txt":"Preparing For The Market\u0027s Next Leg Up http://t.co/LEKti1NF $SPY $SPX $DIA $QQQ $AAPL $NYMO $NYA $AMZN $VIX $ACHN $DHI","lbl":"Positive"}
+,{"time":"19:17","usr":"ken75071","txt":"Best Buy: Should You Buy This 3 Ring Circus? http://t.co/fiHceIpk $AMZN $BBY","lbl":"Neutral"}
 ]

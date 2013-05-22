@@ -1,5 +1,12 @@
 [
 {"time":"3:42","usr":"rockwithjdt","txt":"RT @joshjames: RT @businessinsider: Here Is One Of Google\u0027s Self-Driving Cars On The Road $GOOG by @MattRosoff http://t.co/T5B3wAQE","lbl":"Positive"}
 ,{"time":"3:49","usr":"mongodb_news","txt":"RT @SAI: How Google Took $500 Million And Turned It Into $47 Million $GOOG $S by @Julie188 http://t.co/OTUrYVCz","lbl":"Negative"}
+,{"time":"3:53","usr":"Declan_Mullally","txt":"RT @businessinsider: Here Is One Of Google\u0027s Self-Driving Cars On The Road $GOOG by @MattRosoff http://t.co/I8u30Gfx","lbl":"Neutral"}
+,{"time":"4:08","usr":"tamerrashdan","txt":"RT @businessinsider: Here Is One Of Google\u0027s Self-Driving Cars On The Road $GOOG by @MattRosoff http://t.co/I8u30Gfx","lbl":"Neutral"}
+,{"time":"12:58","usr":"ABtrader","txt":"Anyone else notice how ads on $GOOG search results are getting lighter & lighter in background? Makes u think they\u0027re search results instead","lbl":"Neutral"}
+,{"time":"13:28","usr":"JoshNursing","txt":"\u201C@androidcentral: Live from Mobile World Congress! http://t.co/YrPHyNoY #android\u201D $AAPL $GOOG $ARMH","lbl":"Neutral"}
 ,{"time":"13:31","usr":"4toptrader","txt":"@telcochris $GOOG price & sma crossover, #bull stock http://t.co/TbJL55Tr","lbl":"Positive"}
+,{"time":"22:08","usr":"dog_barker","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/dzQbedA0","lbl":"Neutral"}
+,{"time":"22:34","usr":"DJThistle","txt":"Samsung Mobile Twitter outs the Galaxy Beam. the smartphone with a projector: Samsung Mobile just arrived... http://t.co/1vZKTxku $GOOG","lbl":"Neutral"}
+,{"time":"22:43","usr":"iamsassyk1","txt":"Three Australian Ex-Googlers Are Re-Imagining The Future Of Email With Fluent.io $GOOG by @_dtl http://t.co/OTkFPPQP","lbl":"Neutral"}
 ]

@@ -1,10 +1,28 @@
 [
-{"time":"4:14","usr":"paparellabhecl7","txt":"Xiphos_Trading if the nazzy runs like that I am hitching a ride with $GOOG for the ride up","lbl":"Positive"}
+{"time":"3:46","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"3:55","usr":"optionspunk","txt":"iPhones for Psychos http://t.co/90VzEHJ3 #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"4:14","usr":"paparellabhecl7","txt":"Xiphos_Trading if the nazzy runs like that I am hitching a ride with $GOOG for the ride up","lbl":"Positive"}
+,{"time":"6:37","usr":"d_ramsden","txt":"Why assume that lingering ads for iPad2 are accidental? Why would $AAPL not push both? http://t.co/jPiFyoP7 $AMZN $GOOG $$","lbl":"Neutral"}
+,{"time":"6:38","usr":"J0eK0","txt":"RT @businessinsider: Google Just Gave A Bunch Of Money To A Guy Who Hacked Chrome $GOOG by @_dtl http://t.co/P8TsbtGD","lbl":"Neutral"}
+,{"time":"6:39","usr":"TetsuwanA","txt":"RT @businessinsider: Google Just Gave A Bunch Of Money To A Guy Who Hacked Chrome $GOOG by @_dtl http://t.co/P8TsbtGD","lbl":"Neutral"}
+,{"time":"9:00","usr":"SeekingAlpha","txt":"SiriusXM - Waves Ahead Of Other Media Companies http://t.co/Vg3C1v9z $AAPL $CBS $CCU $CMLS $DISH $ETM $GOOG $RIMM $TWX $P","lbl":"Neutral"}
 ,{"time":"9:06","usr":"MichaelComeau","txt":"More Proof $GOOG Android tablets are a joke http://t.co/3N6900kB","lbl":"Negative"}
+,{"time":"10:04","usr":"samybomb","txt":"RT @SAI: This Is Big: Apple Is Using Its Own Maps In iPhoto For iOS $AAPL $GOOG by @jyarow http://t.co/2YbJ959f","lbl":"Neutral"}
+,{"time":"10:04","usr":"rgriguts","txt":"RT @SAI: This Is Big: Apple Is Using Its Own Maps In iPhoto For iOS $AAPL $GOOG by @jyarow http://t.co/2YbJ959f","lbl":"Neutral"}
+,{"time":"10:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/131, $SPY/83, $MCD/51, $AIG/47, $SBUX/28, $DNDN/28, $GOOG/27, $IPSU/22. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"10:05","usr":"PurviRajani","txt":"RT @SAI: This Is Big: Apple Is Using Its Own Maps In iPhoto For iOS $AAPL $GOOG by @jyarow http://t.co/eIfJ2ULX","lbl":"Neutral"}
 ,{"time":"11:08","usr":"MichaelComeau","txt":"$GOOG Android Tablet is Far Weaker Than You Think $AAPL #iPad http://t.co/LLykIU5F","lbl":"Negative"}
+,{"time":"11:08","usr":"newsagg","txt":"RT @barronstechblog: Apple: Samsung, Others Fear 8-In. iPad, Says DigiTimes - Tech Trader Daily - $AAPL $005930KS $GOOG $AMZN $RIMM http://t.co/lidBKPs2","lbl":"Neutral"}
+,{"time":"12:00","usr":"WallStWatchDog","txt":"Top Insider Sales for the Week Ending Mar 2nd, 2012 http://t.co/JVK5grMi $GOOG $JBHT $SIRI $AXP $CTL $ETN $FIS $TIF #stocks","lbl":"Neutral"}
 ,{"time":"12:04","usr":"ppearlman","txt":"RT @ShortSqueeze $GOOG hitting low of day while $AAPL and others hitting high of day","lbl":"Negative"}
+,{"time":"12:57","usr":"DrewVincent","txt":"RT @SAI: How To Delete Your Google Search History In Firefox $GOOG by @_dtl http://t.co/aM5u8dzU","lbl":"Neutral"}
+,{"time":"12:58","usr":"TheWallStBull","txt":"RT @businessinsider: How To Delete Your Google Search History In Firefox $GOOG by @_dtl http://t.co/QVaPivjK","lbl":"Neutral"}
+,{"time":"12:58","usr":"lluccipha","txt":"SAI: How To Delete Your Google Search History In Firefox $GOOG by @_dtl http://t.co/CxRZ9zDR","lbl":"Neutral"}
 ,{"time":"14:10","usr":"netgarden","txt":"@daringfireball begs the question of when does $GOOG capitulate - SEE: Is Andy Rubin doubling-down on a losing hand? http://t.co/LqiEjVLC","lbl":"Negative"}
+,{"time":"14:14","usr":"DevinJSize","txt":"@LaMonicaBuzz $NDAQ I think it\u0027s going to want to compete with $GOOG #Stocks #NYSE #FacebookIPO","lbl":"Neutral"}
 ,{"time":"14:15","usr":"wallstCS","txt":"Dell, Apple Inc, Ford Motor, Google Shares in High Trading Demand Mar 8th http://t.co/HNGkwaBC $DELL $AAPL $F $GOOG #mkt #stocks","lbl":"Positive"}
+,{"time":"14:17","usr":"DJThistle","txt":"Samsung and Rovio set to demo Angry Birds Space at SXSW: If you\u0027ve been following Samsung and Rovio on Yo... http://t.co/nL7isK03 $GOOG","lbl":"Neutral"}
 ,{"time":"15:39","usr":"BUDDIEE18","txt":"@JerTignes ALREADY priced in. move on to OTHER plays like beaten up $GOOG ...it\u0027s DEAD money right now in $AAPL","lbl":"Positive"}
 ,{"time":"17:23","usr":"wallstCS","txt":"8 Hot Stocks: http://t.co/n6iiysvw $GMCR $SBUX $TXN $GOOG $TWC $ARO $SWHC $AUMZ","lbl":"Positive"}
+,{"time":"21:18","usr":"BigTicks","txt":"$RENN \u2013 Renren Inc up 7% afeter hours as earnings come in at high end of guidance http://t.co/Pt16eztz $DANG $BIDU $SINA $GOOG","lbl":"Neutral"}
 ]

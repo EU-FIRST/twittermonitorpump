@@ -1,1 +1,4 @@
-[]
+[
+{"time":"10:42","usr":"rrshasss","txt":"Last week $AMZN Open Interest - picture of where closed #STUDY http://t.co/emQC95yL","lbl":"Neutral"}
+,{"time":"20:33","usr":"kurtgrela","txt":"RT @ChetanChawla: Netflix $NFLX at 100 Times Profit Means Tough Sale: Real M&A. Only $AMZN has higher ratio (145) amongst S & P 500 http://t.co/ghNNVZmw","lbl":"Neutral"}
+]

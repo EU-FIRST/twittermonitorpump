@@ -1,8 +1,19 @@
 [
 {"time":"7:33","usr":"BenCBanks","txt":"@T3LivePete what signifies a \u0022accumulation day\u0022 for you? Just a solid bounce of high volume of support? $amzn $cat","lbl":"Positive"}
+,{"time":"7:45","usr":"TheStreet","txt":"Amazon Continues to Answer Critics, But... - TheStreet http://t.co/9Iislpuh $AMZN by The Saint @rsaintvilus","lbl":"Neutral"}
 ,{"time":"8:57","usr":"Ben270","txt":"$AMZN & $AAPL not to impressive this AM so far","lbl":"Negative"}
+,{"time":"9:37","usr":"wallstCS","txt":"What Does the Tax Man Want From Starbucks, Google, and Amazon? http://t.co/wwawI6mp $SBUX $GOOG $AMZN #stocks","lbl":"Neutral"}
+,{"time":"10:34","usr":"barronstechblog","txt":"NFLX: What Does Carl Icahn See? Asks Jefferies - Tech Trader Daily - Barron\u0027s $NFLX $MSFT $AMZN $CSTR http://t.co/Zyrz7yDa","lbl":"Neutral"}
 ,{"time":"10:36","usr":"dantanner","txt":"The whole market is soggy from the Sandy disaster. You can see this sentiment in the trading $AAPL $GOOG $PCLN $AMZN","lbl":"Negative"}
+,{"time":"10:37","usr":"rechtsteiner","txt":"Pretty surprised $AMZN\u0027s first game, Air Patriots, is hitting iOS, Android and Kindle stores simultaneously. http://t.co/QvWfthBq","lbl":"Neutral"}
+,{"time":"11:31","usr":"wallstCS","txt":"Apple: An October to Remember or Forget? http://t.co/D9jYSTmq $AAPL $MSFT $AMZN $GOOG $XLK $DIA $SPY $QQQ","lbl":"Neutral"}
 ,{"time":"14:20","usr":"AlphaClone","txt":"@riskonriskoff Yes, looks like $AAPL, $AMZN, $PCLN, $GMCR are biggest winners YTD on weighted return basis for that clone","lbl":"Positive"}
 ,{"time":"14:21","usr":"edward_test","txt":"Very strong buy: ***HUGE!*** $AAPL $AMZN $BAC $C $CMCSA $DIA $FAS $GOOG $GS $IWM $IYT $JPM $NFLX $QLD $QQQ $SPY","lbl":"Positive"}
 ,{"time":"14:21","usr":"edward_test","txt":"Very strong buy: $AAPL $AMZN $BAC $C $CMCSA $DIA $FAS $GOOG $GS $IWM $IYT $JPM","lbl":"Positive"}
+,{"time":"16:00","usr":"Tangletrade","txt":"I wish $AMZN would buy $LNKD so I only have to abhor the valuation of one rather than both.","lbl":"Neutral"}
+,{"time":"17:15","usr":"TaintedAlpha","txt":"RT @bwolf_: $AMZN, YTD stock comp up 50%, revs up 30%, EBIT down 55%. how is this an incentive if it increases no matter performance of biz??? #robbery","lbl":"Neutral"}
+,{"time":"17:16","usr":"barronstechblog","txt":"RLOC Rising: Q3 Beats, Surprise Profit, Q4 Rev View Beats - Tech Trader Daily - Barron\u0027s $RLOC $GRPN $AMZN $GOOG http://t.co/8ShRnjUC","lbl":"Neutral"}
+,{"time":"18:38","usr":"kurtgrela","txt":"RT @barronstechblog: NFLX: What Does Carl Icahn See? Asks Needham; A Sale, Says Barclays - Tech Trader Daily - $NFLX $AMZN $MSFT $CSTR http://t.co/Zyrz7yDa","lbl":"Neutral"}
+,{"time":"20:46","usr":"carlboutet","txt":"RT @RetailProphet: RT @Michael_MBA: Why @Sears Is Going All-In On @Hadoop http://t.co/ZbEHyhtF $SHLD $AMZN #retail #data","lbl":"Neutral"}
+,{"time":"20:51","usr":"USwwwStocks","txt":"$AMZN News: Apple Inc. (AAPL) v. http://t.co/mcOt5byj Inc. (AMZN) Over \u0027App Store\u0027 http://t.co/lmcwCh79 #amp39App #AAPL #Amazoncom","lbl":"Neutral"}
 ]

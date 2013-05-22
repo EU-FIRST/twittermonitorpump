@@ -1,5 +1,12 @@
 [
-{"time":"10:15","usr":"trruullyy","txt":"RT @themotleyfool: Sales rise, profits shrink -- and that\u0027s a good thing? For http://t.co/cGlG3DSK ($AMZN), maybe so. Here\u0027s why: http://t.co/8rCCvTfR","lbl":"Positive"}
+{"time":"6:58","usr":"tlmontana","txt":"\u201C@FortuneMagazine: The secrets behind #Amazon\u0027s recommendation engine http://t.co/dmshOYek\u201D. $AMZN","lbl":"Neutral"}
+,{"time":"8:02","usr":"KidDynamiteBlog","txt":"my qualitative numbers-free post on $AMZN: http://t.co/ilCUzLSc","lbl":"Neutral"}
+,{"time":"9:13","usr":"Hephaestus7","txt":"$AMZN LOD","lbl":"Neutral"}
+,{"time":"10:15","usr":"trruullyy","txt":"RT @themotleyfool: Sales rise, profits shrink -- and that\u0027s a good thing? For http://t.co/cGlG3DSK ($AMZN), maybe so. Here\u0027s why: http://t.co/8rCCvTfR","lbl":"Positive"}
+,{"time":"10:16","usr":"wallstCS","txt":"Calpine Corp. Estimates RAISED and 4 Stock Analyses Making Market Waves http://t.co/W22jtwmh $HOG $PETM $AMZN $CPN $SLXP #mkt #stocks","lbl":"Neutral"}
 ,{"time":"11:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:17pm: 235.04 -2.28 (-0.96%).","lbl":"Negative"}
 ,{"time":"12:34","usr":"ChartMoMo","txt":"Oppenheimer\u0027s price target of $250 \u2192 $260 on $amzn gives them a nice build on the trade they really want to take.","lbl":"Positive"}
+,{"time":"12:35","usr":"BikiniAnalytics","txt":"Active Power Pennant Resolution Likely \u2013 $ACPW http://t.co/UlZp50xV $ACPW $AMZN $CRM $FFIV $ORCL $VMW","lbl":"Neutral"}
+,{"time":"12:35","usr":"patrickgayner","txt":"RT @BikiniAnalytics: Active Power Pennant Resolution Likely \u2013 $ACPW http://t.co/UlZp50xV $ACPW $AMZN $CRM $FFIV $ORCL $VMW","lbl":"Neutral"}
+,{"time":"14:15","usr":"Dividend_Lover","txt":"All about #Apple and #3DPrinters http://t.co/9sjN0ljc $AAPL $MSFT $DDD $GOOG #Google $AMZN #tech #Mac #iPhone #Ipad","lbl":"Neutral"}
 ]

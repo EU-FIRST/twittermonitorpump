@@ -1,5 +1,19 @@
 [
 {"time":"7:32","usr":"TraderLantern","txt":"RT @WolfpackInvest: RT $VRNG vs $GOOG patent war full report http://t.co/ZUiQnLqz <<< opinions on this?","lbl":"Negative"}
+,{"time":"11:30","usr":"smossibilities","txt":"RT @StockTwits: wow!... YouTube\u0027s Top 1,000 Channels Reveal An Industry Taking Shape http://t.co/gSs2uhyC via RWW $GOOG","lbl":"Neutral"}
+,{"time":"11:37","usr":"justinwalters67","txt":"RT @StockTwits: wow!... YouTube\u0027s Top 1,000 Channels Reveal An Industry Taking Shape http://t.co/gSs2uhyC via RWW $GOOG","lbl":"Neutral"}
 ,{"time":"11:44","usr":"rmeziani","txt":"RT @StockTwits: wow!... YouTube\u0027s Top 1,000 Channels Reveal An Industry Taking Shape http://t.co/gSs2uhyC via RWW $GOOG","lbl":"Positive"}
+,{"time":"11:46","usr":"TechInsiderco","txt":"Facebook\u2019s Having Some Issues With Twitter Cross-Posting, But Nobody Cares. For Reasons.: As The N... http://t.co/qrAKCPsw #Google $GOOG","lbl":"Neutral"}
+,{"time":"16:03","usr":"flamark_915","txt":"RT @SAI: FINALLY: Proof That Google Is Hard At Work On An iPhone Maps App $GOOG $AAPL by @officialKLS http://t.co/K2b5stj6","lbl":"Neutral"}
+,{"time":"16:05","usr":"BeccaBilekChee","txt":"RT @SAI: FINALLY: Proof That Google Is Hard At Work On An iPhone Maps App $GOOG $AAPL by @officialKLS http://t.co/FksTE5GI","lbl":"Neutral"}
+,{"time":"16:06","usr":"steoreilly","txt":"RT @msfd: thank god \u201C@SAI: FINALLY: Proof That Google Is Hard At Work On An iPhone Maps App $GOOG $AAPL by @officialKLS http://t.co/5II7Zfly\u201D","lbl":"Neutral"}
+,{"time":"16:07","usr":"ajsamuelson","txt":"RT @SAI: FINALLY: Proof That Google Is Hard At Work On An iPhone Maps App $GOOG $AAPL by @officialKLS http://t.co/zDYCYMp8","lbl":"Neutral"}
+,{"time":"19:00","usr":"TheStreet","txt":"Here\u0027s Apple\u0027s Next Hit Product http://t.co/kvHl4cXb by @Commodity_Bull $AAPL $AMZN $GOOG $AUO","lbl":"Neutral"}
+,{"time":"19:01","usr":"RealCrystalBall","txt":"Here\u0027s Apple\u0027s Next Hit Product http://t.co/7KSB75k6 by @Commodity_Bull $AAPL $AMZN $GOOG $AUO #Apple #Stocks","lbl":"Neutral"}
+,{"time":"19:02","usr":"InSciTech","txt":"RT @SAI: FINALLY: Proof That Google Is Hard At Work On An iPhone Maps App $GOOG $AAPL by @officialKLS http://t.co/FksTE5GI","lbl":"Neutral"}
+,{"time":"19:04","usr":"stubbybrown","txt":"Avoiding Facebook Fate Is Twitter CFO Goal on Way to IPO http://t.co/GKE16HNj $FB $GOOG","lbl":"Neutral"}
+,{"time":"21:24","usr":"smlpublicmedia","txt":"Google celebrates anniversary of Winsor McCay\u2019s cartoon as interactive doodle http://t.co/rD1nJ5A6 #ixd #illustration #us $GOOG Google ...","lbl":"Neutral"}
+,{"time":"21:24","usr":"keefriffards","txt":"RT @rrshasss: October expiration $GOOG $AAPL $PCLN http://t.co/Fxre1Gti @chessNwine @RedDogT3Live @1nvestor","lbl":"Neutral"}
+,{"time":"21:31","usr":"Opinterest","txt":"Why can\u0027t we have $GOOG Android-based operating system for PCs as true competitor to $MSFT Windows?","lbl":"Neutral"}
 ,{"time":"21:33","usr":"Opinterest","txt":"Android has shown what it can do in portable mobile (tablet & smartphone), they why can\u0027t $GOOG disrupt $MSFT in its core business?","lbl":"Negative"}
 ]

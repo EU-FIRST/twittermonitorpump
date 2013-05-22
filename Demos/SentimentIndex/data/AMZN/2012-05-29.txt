@@ -1,8 +1,20 @@
 [
 {"time":"9:10","usr":"cardinalrose","txt":"$EBAY + $AMZN are only 3.4% of US Adj. Retail Sales ... talk about an enormous market! #morganstanley #greatstat","lbl":"Positive"}
 ,{"time":"9:13","usr":"BlueFielder","txt":"$AMZn in wkly 215 $CALLs @ avg 3.25 ish","lbl":"Positive"}
+,{"time":"9:14","usr":"houram","txt":"$AMZN wants to see 218 today, that\u0027s my swing target","lbl":"Neutral"}
 ,{"time":"10:10","usr":"dhakkan_d","txt":"I am still short $AMZN .. bought june 210 puts","lbl":"Negative"}
+,{"time":"11:02","usr":"rechtsteiner","txt":"Can B\u0131g Data Fix Book Marketing? http://t.co/OaSCsKqe Not until $AMZN & $BKS reading data is part of the equation. http://t.co/AiwETKVh","lbl":"Neutral"}
+,{"time":"11:21","usr":"newsagg","txt":"$AMZN is going to 196, it will just require patience","lbl":"Neutral"}
+,{"time":"12:01","usr":"wsmco","txt":"DJWire: $AMZN instant video now available on $MSFT Xbox Live","lbl":"Neutral"}
+,{"time":"12:03","usr":"tblizzard","txt":"$AMZN announces new XBox 360 app. Look out $NFLX. Just a matter of time before they are in all the devices.","lbl":"Neutral"}
+,{"time":"12:04","usr":"ToddSullivan","txt":"RT @wsmco: DJWire: $AMZN instant video now available on $MSFT Xbox Live","lbl":"Neutral"}
+,{"time":"12:04","usr":"Harnek","txt":"RT @wsmco: DJWire: $AMZN instant video now available on $MSFT Xbox Live","lbl":"Neutral"}
 ,{"time":"13:13","usr":"MeetyPie","txt":"Plus, $AMZN overstates its catalog: http://t.co/vAYe4rlD","lbl":"Negative"}
 ,{"time":"14:07","usr":"alamarashi","txt":"RT @KeithMcCullough: That\u0027s why I am net long, buying the bigger US Consumption names on red $SBUX $AAPL $AMZN","lbl":"Positive"}
+,{"time":"16:37","usr":"cnbcfastmoney","txt":"Strategic Review No Reason to Buy RIM: Pros http://t.co/tJYRpnDC $AMZN $FB $RIMM #StockPicks","lbl":"Neutral"}
 ,{"time":"16:48","usr":"stephenmedawar","txt":"@davemcclure @dhh @cdixon I know it\u0027s different models, but what\u0027s crazier? $AMZN ($96.75B valuation, 173 P/E) or $FB ($80B val, 92 P/E)","lbl":"Negative"}
+,{"time":"18:54","usr":"arjunram","txt":"@mikeyavo $AMZN < FAB ?","lbl":"Neutral"}
+,{"time":"18:59","usr":"StockStandOff","txt":"$AMZN vs $EBAY: A Nice Start To The Week http://t.co/JTxpZ5IQ #AMZN #EBAY #nice","lbl":"Neutral"}
+,{"time":"21:34","usr":"USwwwStocks","txt":"$AMZN News: Ocado Tackles Tesco With 3-D Gaming Technology in Grocer: Retail http://t.co/vx6n5yxd #AMZN #gaming #Grocer","lbl":"Neutral"}
+,{"time":"21:37","usr":"vjtweet","txt":"$LQDT http://t.co/1jRqp5Fg I can also bet on $AMZN or $EBAY could buy this one out... regardless great chart","lbl":"Neutral"}
 ]

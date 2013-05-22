@@ -1,14 +1,42 @@
 [
-{"time":"11:22","usr":"Mark_Lexus","txt":"order in for $GOOG credit put spreads","lbl":"Negative"}
+{"time":"3:42","usr":"StockLantern","txt":"RT @cnbcfastmoney: Facebook States Mission to Connect World\u2026 Except China http://t.co/Ja9K7DPd $GOOG $RENN $SINA #PoliticsGovernment #MarkZuckerberg","lbl":"Neutral"}
+,{"time":"8:04","usr":"MrStreetSweeper","txt":"otorola Wins Injunction Against MApple\u2019s iCloud In Germany http://t.co/eo7bcq7J $MMI $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"8:06","usr":"DaisyGeddes","txt":"RT @TMFInsideValue: Looks like Google ($GOOG) clears about 4x in sales what #Facebook does per user. FB will need to close the gap to justify its valuation.","lbl":"Neutral"}
+,{"time":"8:06","usr":"AmericanEtrader","txt":"$SOHU Fourth Quarter Earnings Sneak Peek - Yahoo! Finance http://t.co/yE0uuGjg $BIDU $RENN $SINA $YOKU $SPY $QQQ $GOOG $NFLX $ZNGA $AAPL","lbl":"Neutral"}
+,{"time":"8:10","usr":"stocial","txt":"60 minute Trending Social Volume: $THLD/24, $AAPL/14, $SPY/9, $GILD/8, $BEAM/7, $AMZN/6, $GOOG/5, $F/5, $GLD/5. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"9:38","usr":"61point8","txt":"Sold 1/2 of my $GOOG long.","lbl":"Neutral"}
+,{"time":"9:40","usr":"iBizNews21","txt":"RT @FoxBusiness: European regulators have asked #Google to halt the introduction of its new privacy policy http://t.co/8vXNTDv5 $GOOG","lbl":"Neutral"}
+,{"time":"10:33","usr":"CameronKaine","txt":"Commented on: \u0022Why Cisco And Microsoft Are No Longer Technology Companies\u0022 http://t.co/owflLtNg $AAPL $MSFT $AMZN $CSCO $GOOG","lbl":"Neutral"}
+,{"time":"10:34","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Bringing Docs Access Offline: Google Inc. (NASDAQ:GOOG) Bringing Docs Access Of... http://t.co/7e5wxVMk","lbl":"Neutral"}
+,{"time":"10:35","usr":"bingobaa","txt":"RT @SAI: Here\u0027s How You Can Get Google Wallet On Your Galaxy Nexus $GOOG by @stevekovach http://t.co/SnwKjaUY","lbl":"Neutral"}
+,{"time":"10:37","usr":"jayskapadia","txt":"RT @LaMonicaBuzz: Who does $FB think are its biggest rivals? Facebook lists $GOOG $MSFT and Twitter as \u0022significant competition\u0022 in IPO filing.","lbl":"Neutral"}
+,{"time":"11:22","usr":"Mark_Lexus","txt":"order in for $GOOG credit put spreads","lbl":"Negative"}
+,{"time":"11:23","usr":"effetea","txt":"RT @ritholtz: Kaminsky: At $FB valuations, $GOOG = $850/sh, $AAPL = $1250/sh $$","lbl":"Neutral"}
+,{"time":"11:25","usr":"alanjamesboyce","txt":"RT @businessinsider: These Are The Top Googlers In Silicon Valley Right Now $GOOG by @mattlynley http://t.co/m9DiNcBH","lbl":"Neutral"}
+,{"time":"12:16","usr":"top_market_news","txt":"Google X research facility and its secret projects http://t.co/gszbjC83 #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
 ,{"time":"12:17","usr":"Thevolplay","txt":"Riding $goog, $cvi, & $lulu up. Paralyzed for next trades. Not used to all these up days. Not feeling tyre tides turn yet. Adjusting.","lbl":"Positive"}
 ,{"time":"13:09","usr":"ystocks","txt":"there goes $GOOG, pushing thru highs of the day, $600 today? I hope so! :-)","lbl":"Positive"}
+,{"time":"13:49","usr":"DannyBoitanni","txt":"10 Things in Tech You Need To Know This Morning (03.Feb.2012) $ZNGA $AAPL $AMZN $GOOG $FB $MSFT #li http://t.co/Fp1hxwV5","lbl":"Neutral"}
 ,{"time":"14:17","usr":"DanielLynchJr","txt":"RT @KeithMcCullough \u0022Google looks nasty\u0022 January 27th Google in 570s #timestamp $GOOG","lbl":"Positive"}
 ,{"time":"14:18","usr":"houstonloves","txt":"RT @passiveharry: $GOOG has a terrible quarter and runs $30. $AAPL has a blowout and runs not too much. Go figure.","lbl":"Negative"}
 ,{"time":"14:56","usr":"drewmethey","txt":"@Alex2111 Once $goog clears 600 it will rocket higher. Momentum and stochastics about to go positive...","lbl":"Positive"}
+,{"time":"14:58","usr":"BlueFielder","txt":"$GooG... still could go hard either way now","lbl":"Neutral"}
 ,{"time":"15:38","usr":"thinkingtrades","txt":"RT @BlueFielder $GooG... that makes 4 Fridays in a row I made that same trade and won. Short the $CALL s /PIN","lbl":"Positive"}
 ,{"time":"15:40","usr":"sradick","txt":"RT @ValaAfshar: The U.S. government has settled on Google\u2019s Android platform for secure phones http://t.co/TtHdbQ2w #IT #CIO $GOOG #Gov20","lbl":"Positive"}
+,{"time":"15:40","usr":"jpu19","txt":"$GOOG 595,3 1,74% (mantiene la 100MA 589,85)y $AMZN 2,86% extienden rebote","lbl":"Neutral"}
+,{"time":"15:40","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/49, $SPY/49, $OCZ/43, $THLD/36, $GLD/30, $MU/29, $GOOG/27, $CAT/25. http://t.co/DHnV02ws","lbl":"Neutral"}
 ,{"time":"16:03","usr":"Alatorre","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/cxkJWrPi","lbl":"Positive"}
+,{"time":"16:03","usr":"zunaid","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/Y4pHDRse","lbl":"Neutral"}
+,{"time":"16:03","usr":"iamBOSTONSCOTT","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/cxkJWrPi","lbl":"Neutral"}
 ,{"time":"16:59","usr":"pedrowm","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/cxkJWrPi","lbl":"Positive"}
+,{"time":"17:01","usr":"riorivera","txt":"RT @businessinsider: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/LHjaIZD2","lbl":"Neutral"}
+,{"time":"17:01","usr":"jastr","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/cxkJWrPi","lbl":"Neutral"}
+,{"time":"17:02","usr":"jcr4522","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/cxkJWrPi","lbl":"Neutral"}
+,{"time":"18:41","usr":"PatrickSeitz","txt":"RT @MichaelKrey: The Netflix $NFLX original content era starts Mon. w/debut of \u0022Lilyhammer\u0022; ready to take on HBO, Starz...and $GOOG, Hulu...","lbl":"Neutral"}
+,{"time":"18:43","usr":"imranhossainn","txt":"@BaselineAce @jimt right, its the election year, what can you do if the fed doesnt want the market to go down..get aboard $SPY $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"18:49","usr":"Peter_Vasey","txt":"RT @SAI: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/5FLcQtGd","lbl":"Neutral"}
 ,{"time":"21:00","usr":"the_cudder","txt":"RT @businessinsider: For The First Time Ever, Smartphones Are Outselling PCs $MSFT $AAPL $GOOG by @MattRosoff http://t.co/hc1diZw1","lbl":"Positive"}
 ,{"time":"21:08","usr":"stockpicks64","txt":"$GOOG - Google Stock Analysis - stock gap up, #bull signal - http://t.co/R2dYEGht","lbl":"Positive"}
+,{"time":"21:13","usr":"best_n_korea","txt":"Google X research facility and its secret projects http://t.co/9dNhWuAl #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"21:14","usr":"BradBennett","txt":"$GOOG vs $AAPL market value: Apple\u0027s value is 2X http://t.co/BiWyj7vK #x","lbl":"Neutral"}
 ]

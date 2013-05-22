@@ -1,10 +1,19 @@
 [
-{"time":"7:55","usr":"firstadopter","txt":"I may have to write an in-depth article soon to explain why I\u0027m so sure $AMZN will fail so miserably to enlighten everyone. So be it","lbl":"Negative"}
+{"time":"4:14","usr":"Nils1975","txt":"$GOOG Asustek co-brand 7-inch tablet PC to debut as early as May http://t.co/CEiEfQbS -->pricing $199-249 ~ $AMZN Kindle Fire & $BKN Nook","lbl":"Neutral"}
+,{"time":"7:54","usr":"firstadopter","txt":"100% clear as day to me $AMZN fail miserably w/tablet strategy this year. From $AAPL $GOOG competition to borked OS issues to shoddy product","lbl":"Negative"}
+,{"time":"7:55","usr":"firstadopter","txt":"I may have to write an in-depth article soon to explain why I\u0027m so sure $AMZN will fail so miserably to enlighten everyone. So be it","lbl":"Negative"}
+,{"time":"7:56","usr":"CapitalOverlook","txt":"Apple Trickery, New iPad Is Really iPad 2S (what that means iPad growth) http://t.co/yfXQK2M4 $AAPL $GOOG $AMZN $SPY $STUDY $QQQ","lbl":"Neutral"}
+,{"time":"7:57","usr":"Kas_1","txt":"@firstadopter LOL! Got to leave a little hope in there for them..$AMZN","lbl":"Neutral"}
+,{"time":"10:43","usr":"BioTechReports","txt":"BioSante Pharma($BPAX) breaking out on huge volume!!!!! #cnbc,#msnbc,#nyse,#wsj,$gs,$goog,$bac,$v,$f,$siri,$amzn","lbl":"Neutral"}
 ,{"time":"11:58","usr":"Vconomics","txt":"Warned anyone trading $AMZN last night. No one should be suprised by this move today.","lbl":"Negative"}
 ,{"time":"11:58","usr":"calebwalker","txt":"New 165/160 put spreads in $AMZN for .58","lbl":"Negative"}
 ,{"time":"11:59","usr":"firstadopter","txt":"$MSFT cuts cloud services pricing 12-50% after $AMZN cut prices earlier this week. Lower margins for EVERYONE! http://t.co/U1jPeUAu","lbl":"Negative"}
 ,{"time":"13:18","usr":"iStockAnalyst","txt":"3 Reasons Why Investors Should Stay Away From Netflix $AAPL $AMZN $CCT $CMCSA $DVR $LCAPA $MXM $NFLX $TIVO $TWX:... http://t.co/yWCPvtVY","lbl":"Negative"}
+,{"time":"13:22","usr":"mspzoom","txt":"RT @iStockAnalyst: 3 Reasons Why Investors Should Stay Away From Netflix $AAPL $AMZN $CCT $CMCSA $DVR $LCAPA $MXM $NFLX $TIVO $TWX:... http://t.co/yWCPvtVY","lbl":"Neutral"}
 ,{"time":"14:00","usr":"ShortStockPicks","txt":"#StockMarket #NASDAQ100 #Drops: $GMCR -15.5%, $CTRP -2.8%, $WYNN -1.9%, $WCRX -1.6%, $EXPE -1.5%, $AMZN -1.5%, $DELL -1.3%, $VOD -1.3%","lbl":"Negative"}
+,{"time":"14:01","usr":"ShortStockPicks","txt":"#StockMarket #SP500 #Drops: $PLL -3.0%, $HPQ -1.9%, $WYNN -1.9%, $HES -1.7%, $CCL -1.6%, $MSI -1.5%, $EXPE -1.5%, $AMZN -1.5%, $JCP -1.4%","lbl":"Neutral"}
+,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:46pm: 185.20 -2.44 (-1.30%).","lbl":"Neutral"}
 ,{"time":"15:20","usr":"SeekingAlpha","txt":"Utility Supercomputing: Amazon Markets The Cloud http://t.co/fWnEqMFq $GOOG $RAX $AMZN","lbl":"Positive"}
 ,{"time":"16:17","usr":"chrishar00","txt":"Another great day trading $AMZN, $GMCR and locking swing profits in $IWM and $ABT. Holding some hedged $AMZN, but pretty light here...","lbl":"Positive"}
+,{"time":"18:00","usr":"SeekingAlpha","txt":"Is Recent Jobs Growth Already Priced Into The Market? http://t.co/kivUjB28 $AMZN $BMY $CAT $F $HNZ $INTC $SJM","lbl":"Neutral"}
 ]

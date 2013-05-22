@@ -1,6 +1,13 @@
 [
-{"time":"12:37","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Moderately Up, Gained over 3%. Analysis: A sobering look at Facebook: http://t.co/H4klAbZ8","lbl":"Positive"}
+{"time":"5:04","usr":"millevazion","txt":"RT @adamnash: Apple ($AAPL) is now at the point where they could acquire Amazon ($AMZN) \u2026 for cash. #YouKnowWhatsCool100BDollars","lbl":"Neutral"}
+,{"time":"11:11","usr":"schwartzonomics","txt":"Great article. Im amazed $FB might IPO above $AMZN mcap RT @JeffreyMatthews: Is Facebook Killing Google? No, But... http://t.co/4gZQK2P9","lbl":"Neutral"}
+,{"time":"11:14","usr":"hnshah","txt":"RT @adamnash: Apple ($AAPL) is now at the point where they could acquire Amazon ($AMZN) \u2026 for cash. #YouKnowWhatsCool100BDollars","lbl":"Neutral"}
+,{"time":"11:14","usr":"markhazlett","txt":"RT @adamnash: Apple ($AAPL) is now at the point where they could acquire Amazon ($AMZN) \u2026 for cash. #YouKnowWhatsCool100BDollars","lbl":"Neutral"}
+,{"time":"12:27","usr":"discoversudhir","txt":"RT @adamnash: Apple ($AAPL) is now at the point where they could acquire Amazon ($AMZN) \u2026 for cash. #YouKnowWhatsCool100BDollars","lbl":"Neutral"}
+,{"time":"12:37","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Moderately Up, Gained over 3%. Analysis: A sobering look at Facebook: http://t.co/H4klAbZ8","lbl":"Positive"}
 ,{"time":"12:45","usr":"firstadopter","txt":"\u0022carrying too much inventory..vendors financing its growth.. $AMZN IS THROWING OFF low-quality cash flow\u0022 http://t.co/OIVt6N4V","lbl":"Negative"}
 ,{"time":"14:32","usr":"karmadude","txt":"RT @adamnash: Apple ($AAPL) is now at the point where they could acquire Amazon ($AMZN) \u2026 for cash. #YouKnowWhatsCool100BDollars","lbl":"Positive"}
+,{"time":"14:39","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AMZN $AAPL @simplestockqtes http://t.co/PMacVvcW","lbl":"Neutral"}
 ,{"time":"14:40","usr":"1nvestor","txt":"@CapCube possible yes. It is in the list though and needs some work to improve that. $AMZN","lbl":"Negative"}
+,{"time":"22:17","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Moderately Up, Gained over 3%. New sports collectibles store offers sought-after memorabili: http://t.co/iw3EBs10","lbl":"Neutral"}
 ]

@@ -1,9 +1,48 @@
 [
-{"time":"9:09","usr":"roberee","txt":"$AAPL $GOOG looking promising again","lbl":"Positive"}
+{"time":"3:54","usr":"greg_guzman","txt":"RT @SAI: While Google\u0027s Ad Rates Are Dropping, Facebook Can\u0027t Keep Up With Demand $FB $GOOG by @MattRosoff http://t.co/J8OyxKk1","lbl":"Neutral"}
+,{"time":"4:09","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Google Inc founder Larry Page in court for smartphone patents and copyright ...: Google Inc founder Larry... http://t.co/8VAk5Arn","lbl":"Neutral"}
+,{"time":"7:07","usr":"PhilKomarny","txt":"RT @ValaAfshar: It\u0027s true: iPads are starting to replace business PCs http://t.co/FclK1lEz $AAPL $GOOG #CIO #IT","lbl":"Neutral"}
+,{"time":"7:07","usr":"tlmontana","txt":"RT @StocialTrends: 60 minute Trending Social Volume: $BAC/110, $MS/85, $AAPL/39, $MSFT/23, $SPY/19, $LNKD/18, $VZ/16, $GOOG/12. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"7:10","usr":"Corinna_F","txt":"@Fxflow sounds like an opportunity for $GOOG wallet.","lbl":"Neutral"}
+,{"time":"7:17","usr":"BigTicks","txt":"$GOOG News: Social Media Security Deals Spur Radware Rally: Israel Overnight http://t.co/uRr8wLi9 #stocks #NYSE #NASDAQ #trading","lbl":"Neutral"}
+,{"time":"8:31","usr":"jimbinder","txt":"A very good read. RT @conorsen: Me at @minyanville: We Are All Futurists Now http://t.co/AUXUOsNz $IBM $GOOG","lbl":"Neutral"}
+,{"time":"8:32","usr":"Minyanville","txt":"RT @conorsen: Me at @minyanville: We Are All Futurists Now http://t.co/L1lRFwG4 $IBM $GOOG","lbl":"Neutral"}
+,{"time":"8:33","usr":"kevindepew","txt":"RT @conorsen: Me at @minyanville: We Are All Futurists Now http://t.co/L1lRFwG4 $IBM $GOOG","lbl":"Neutral"}
+,{"time":"9:09","usr":"roberee","txt":"$AAPL $GOOG looking promising again","lbl":"Positive"}
+,{"time":"9:12","usr":"DJThistle","txt":"T-Mobile lists $199 HTC One S for April 25 debut: T-Mobile has officially given us the pricing and launch... http://t.co/KtpinnvC $GOOG","lbl":"Neutral"}
+,{"time":"9:13","usr":"optionspirate","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/siQt9yrK","lbl":"Neutral"}
+,{"time":"9:17","usr":"BigTicks","txt":"$GOOG News: New Share Class Gives Google Founders Tighter Control http://t.co/yaRxocIn #stocks #NYSE #NASDAQ #trading","lbl":"Neutral"}
+,{"time":"9:47","usr":"seankipp","txt":"RT @businessinsider: WATCH OUT: There\u0027s A Fake Instagram App For Android That Can Read Your Text Messages $GOOG $FB by @stevekovach http://t.co/i5bFCzlb","lbl":"Neutral"}
+,{"time":"9:48","usr":"Tradingcol","txt":"RT @SeekingAlpha: Sprint Ready To Break $4 In 2013 http://t.co/uA97XqXS $GOOG $T $VZ $S","lbl":"Neutral"}
+,{"time":"9:50","usr":"SeekingAlpha","txt":"Embracing The Dual Class Stock Structure http://t.co/vuOL4P40 $F $GM $TCK $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"9:52","usr":"JScottColor","txt":"RT @SAI: WATCH OUT: There\u0027s A Fake Instagram App For Android That Can Read Your Text Messages $GOOG $FB by @stevekovach http://t.co/vA5dQBzS","lbl":"Neutral"}
+,{"time":"10:50","usr":"BioTechReports","txt":"Dendreon($DNDN) up huge on buyout rumors....here comes $10! #cnbc,#msnbc,#nyse,#wsj,$c,$gs,$goog,$aapl,$dndn,$pfe,$jnj,$v,$f,$amgn","lbl":"Neutral"}
+,{"time":"10:53","usr":"benny_the_dogs","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/ogRAgUIc #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"10:55","usr":"TheSaaSGuy","txt":"$GOOG improving exact match and phrase match in #AdWords #in May. #SEM http://t.co/YKgc2e8g","lbl":"Neutral"}
+,{"time":"11:00","usr":"SeekingAlpha","txt":"The Web 2.0 Bubble: Prepare For Collapse http://t.co/Lss4UnEc $AAPL $AMZN $EBAY $GOOG $GRPN $LNKD $P $YELP","lbl":"Negative"}
+,{"time":"11:55","usr":"mobilereality","txt":"RT @SAI: Twitter Has Big Company Problems (Without The Benefits Of Being A Big Company) $GOOG by @nichcarlson http://t.co/KtGUCJPa","lbl":"Neutral"}
+,{"time":"11:56","usr":"wallstCS","txt":"Will Google Double Mobile Web Speeds? http://t.co/TrncJ31R $T $VZ $S $GOOG $AKAM $MSFT $ERIC #mkt","lbl":"Neutral"}
+,{"time":"11:56","usr":"BreeAea","txt":"RT @businessinsider: Twitter Has Big Company Problems (Without The Benefits Of Being A Big Company) $GOOG by @nichcarlson http://t.co/u14jhGoD","lbl":"Neutral"}
+,{"time":"11:57","usr":"NiallHarbison","txt":"RT @SAI: Twitter Has Big Company Problems (Without The Benefits Of Being A Big Company) $GOOG by @nichcarlson http://t.co/KtGUCJPa","lbl":"Neutral"}
 ,{"time":"13:00","usr":"SeekingAlpha","txt":"How Facebook And These 4 Stocks Could Lead The Market In May http://t.co/WY9u7Tmi $BIDU $DANG $GOOG $RENN $FB","lbl":"Positive"}
 ,{"time":"13:02","usr":"MUCKBEARPIG1","txt":"ok long $goog apr 24th 605-10-15 butterfly for 1.05, long $ffiv 135-130 put spread for 1.55","lbl":"Positive"}
+,{"time":"13:50","usr":"rmlargent","txt":"Gmail put the April @hillsdale Imprimis in my spam folder...$GOOG supports statism.","lbl":"Neutral"}
+,{"time":"13:50","usr":"DrDuru","txt":"$GOOG bounce off $600...again...at the intra-day lows.","lbl":"Neutral"}
+,{"time":"13:51","usr":"gigabarb","txt":"RT @themotleyfool: Steve Jobs infamously declared war on Google\u0027s ($GOOG) Android. But new $AAPL CEO Tim Cook might call a cease-fire: http://t.co/FoIeciJ7","lbl":"Neutral"}
 ,{"time":"14:40","usr":"ronellman","txt":"$GOOG exploring area below 600.","lbl":"Negative"}
 ,{"time":"14:42","usr":"berkutchitweet","txt":"$GOOG breaking.","lbl":"Negative"}
+,{"time":"16:06","usr":"Forex_Info_T","txt":"RT @currensee: RT @barronstechblog: Microsoft FYQ3 Revenue, EPS Beat - Tech Trader Daily - Barron\u0027s $MSFT $ORCL $DELL $HPQ $GOOG $AAPL...","lbl":"Neutral"}
+,{"time":"16:07","usr":"BenCBanks","txt":"@stockguy22 I did a chart on $GOOG, is it accurate? And plausible? http://t.co/7i9a63be","lbl":"Neutral"}
+,{"time":"16:08","usr":"Robo_trader","txt":"Google X research facility and its secret projects http://t.co/Yepz94Tl #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"16:10","usr":"racernic","txt":"@cnbcfastmoney i put a quest all day: WHEN $GOOG split+ how will affect current option spreads give that split is into 2diff tickers?","lbl":"Neutral"}
+,{"time":"17:29","usr":"texcompras35","txt":"RT @businessinsider: Actually, You Don\u0027t Need An iPhone 4S To Get The Best Siri Features $AAPL $GOOG by @KamailaSanders http://t.co/2afBQ0Ke","lbl":"Neutral"}
+,{"time":"17:31","usr":"businessinsider","txt":"Google M&A Chief: Pinterest Is \u0027Extraordinary,\u0027 Could Solve One Of Our Biggest Problems $GOOG by @mattlynley http://t.co/5pQcPllG","lbl":"Neutral"}
+,{"time":"17:31","usr":"SAI","txt":"Google M&A Chief: Pinterest Is \u0027Extraordinary,\u0027 Could Solve One Of Our Biggest Problems $GOOG by @mattlynley http://t.co/pSvQVQ09","lbl":"Neutral"}
+,{"time":"17:32","usr":"HSchmidt_Social","txt":"RT @SAI: Google M&A Chief: Pinterest Is \u0027Extraordinary,\u0027 Could Solve One Of Our Biggest Problems $GOOG by @mattlynley http://t.co/bNw91E5d","lbl":"Neutral"}
 ,{"time":"19:17","usr":"BigTicks","txt":"$GOOG News: Oracle Lawsuit Against Google, Apple-Samsung Talks http://t.co/zK0Ktc2j #stocks #NYSE #NASDAQ #trading","lbl":"Negative"}
+,{"time":"19:17","usr":"iCwing","txt":"RT @businessinsider: Google M&A Chief: Pinterest Is \u0027Extraordinary,\u0027 Could Solve One Of Our Biggest Problems $GOOG by @mattlynley http://t.co/5pQcPllG","lbl":"Neutral"}
+,{"time":"19:22","usr":"RobinHood1776","txt":"RT @themotleyfool: Steve Jobs infamously declared war on Google\u0027s ($GOOG) Android. But new $AAPL CEO Tim Cook might call a cease-fire: http://t.co/FoIeciJ7","lbl":"Neutral"}
 ,{"time":"19:34","usr":"StockCats","txt":"think about it... I haven\u0027t seen a $GOOG ad in over a year - banner ads? ROFL, never see them either...","lbl":"Negative"}
+,{"time":"22:16","usr":"xiaohanzhu","txt":"RT @businessinsider: Google M&A Chief: Pinterest Is \u0027Extraordinary,\u0027 Could Solve One Of Our Biggest Problems $GOOG by @mattlynley http://t.co/5pQcPllG","lbl":"Neutral"}
+,{"time":"22:20","usr":"jaygreene","txt":"RT @businessinsider: Google M&A Chief: Pinterest Is \u0027Extraordinary,\u0027 Could Solve One Of Our Biggest Problems $GOOG by @mattlynley http://t.co/5pQcPllG","lbl":"Neutral"}
 ]

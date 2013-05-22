@@ -1,4 +1,16 @@
 [
 {"time":"6:19","usr":"ChrisLove","txt":"RT @SAI: A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0BhSBybK","lbl":"Negative"}
+,{"time":"6:26","usr":"thefinancepress","txt":"$GOOG TripAdvisor: The Worst Is Behind The Company: TripAdvisor: The Worst Is Behind The Company Seeking Alpha ... http://t.co/D0d7DueS","lbl":"Neutral"}
+,{"time":"6:26","usr":"WhysEye","txt":"Here\u0027s a good job for $AAPL or $GOOG or $T or somebody -- get my house all plugged into Web. 130 million housing units * $1K = $130 BIL","lbl":"Neutral"}
+,{"time":"10:22","usr":"amargirma","txt":"RT @SAI: Google May Add 3G Wireless To Its 7-Inch Nexus Tablet $GOOG by @owenthomas http://t.co/LFOORB9G","lbl":"Neutral"}
+,{"time":"10:23","usr":"firstadopter","txt":"$GOOG rumored to come out with a 3G Nexus 7 tablet in October http://t.co/In7hlBr9","lbl":"Neutral"}
+,{"time":"10:23","usr":"georgealb","txt":"iPhone 5 Release: Cascading Ramifications http://t.co/g3fDedIq $GOOG $MSFT $NOK $S $VZ $T $AAPL $SSNLF.PK","lbl":"Neutral"}
+,{"time":"10:23","usr":"RichardAmey","txt":"Google Management Discusses Q1 2012 Results - Earnings Call Transcript http://t.co/U37HVmw1 $GOOG","lbl":"Neutral"}
+,{"time":"12:20","usr":"Jcpafonso","txt":"RT @ACInvestorBlog: $IDCC The IP Battles Of Giants And Trolls http://t.co/M7ePapek $AAPL $INTC $MSFT $VRNG $VHC $AOL $GOOG $FB","lbl":"Neutral"}
+,{"time":"12:22","usr":"TheArmyZeus","txt":"RT @SAI: The Great Tablet War Of 2012 $GOOG $AAPL $AMZN $MSFT by @owenthomas http://t.co/On7dNlR3","lbl":"Negative"}
+,{"time":"12:28","usr":"DeLuCa","txt":"RT @SAI: The Great Tablet War Of 2012 $GOOG $AAPL $AMZN $MSFT by @owenthomas http://t.co/On7dNlR3","lbl":"Neutral"}
+,{"time":"14:42","usr":"Gerhart2k","txt":"RT @SAI: The Great Tablet War Of 2012 $GOOG $AAPL $AMZN $MSFT by @owenthomas http://t.co/On7dNlR3","lbl":"Neutral"}
+,{"time":"14:47","usr":"500friends","txt":"Surprised to learn that $FB\u0027s sales expense (excluding stock-based comp?) exceeds that of r&d. Ratio similar to $GOOG","lbl":"Neutral"}
 ,{"time":"14:49","usr":"thefinancepress","txt":"$GOOG http://t.co/Bp1PYzNq, Inc.(NASDAQ:AMZN) Ditches Google Maps for Nokia (NOK): http://t.co/Bp1PYzNq, Inc.(NAS... http://t.co/D7Bn2UBX","lbl":"Negative"}
+,{"time":"19:17","usr":"Intel_Risk","txt":"I like mature firms with low p/e multiples and stable revenue: $WMT, $FTS, $GOOG, $APPL etc. Invest in defensive stocks. Not Growth.","lbl":"Neutral"}
 ]

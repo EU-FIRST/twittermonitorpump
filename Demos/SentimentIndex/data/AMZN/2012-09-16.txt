@@ -1,1 +1,4 @@
-[]
+[
+{"time":"3:11","usr":"infovestment","txt":"Apple - iPhone 1st batch sold out...or maybe not http://t.co/MmJCrRa3 $AAPL $GOOG $AMZN, $MSFT $$ #MKT","lbl":"Neutral"}
+,{"time":"8:36","usr":"etfguide","txt":"Fund Mgrs are Chasing Returns, Should You Copy Them? #HFT #mutualfunds #ETF $SPY $AAPL $AMZN $IBB $$ http://t.co/TRkuSRsn","lbl":"Neutral"}
+]

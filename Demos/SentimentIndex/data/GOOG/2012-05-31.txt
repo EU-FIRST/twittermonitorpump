@@ -1,15 +1,35 @@
 [
-{"time":"7:30","usr":"RainerGrossmann","txt":"#Google\u2019s Schmidt Said to Be Slated for #FTC #Antitrust Deposition http://t.co/0Je0tVkG Bloomberg $GOOG","lbl":"Negative"}
+{"time":"0:42","usr":"thrillchasa","txt":"RT @SeekingAlpha: $12 Billion Hedge Fund\u0027s Q1 Stock Picks http://t.co/beJwsLiN $AAPL $LYB $MA $CSCO $GOOG","lbl":"Neutral"}
+,{"time":"0:47","usr":"ckerwick","txt":"RT @doubleclick: Hear @kutrunkel from @VivaKiNerveCntr talk about adv tech at #DoubleClick Insights even. Register: http://t.co/eDmFVkrJ #DclckInsights $GOOG","lbl":"Neutral"}
+,{"time":"0:53","usr":"top_stock_news","txt":"Google X research facility and its secret projects http://t.co/PPaMQFfn #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"0:53","usr":"davidjaxon","txt":"Mary Meeker\u0027s 2012 Web Trends asserts that online ad rates are growing; doesn\u0027t address decline decline to mobile. $FB $GOOG","lbl":"Neutral"}
+,{"time":"7:22","usr":"choffman1978","txt":"$AEZS up 12% premarket on published article! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"7:26","usr":"choffman1978","txt":"$AEZS up 12% premarket on published article! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s,","lbl":"Neutral"}
+,{"time":"7:30","usr":"choffman1978","txt":"$KERX breaking out permarket! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"7:30","usr":"RainerGrossmann","txt":"#Google\u2019s Schmidt Said to Be Slated for #FTC #Antitrust Deposition http://t.co/0Je0tVkG Bloomberg $GOOG","lbl":"Negative"}
 ,{"time":"8:45","usr":"RedDogT3Live","txt":"$GOOG continues lower","lbl":"Negative"}
 ,{"time":"8:45","usr":"BlueFielder","txt":"Getting the tar kicked out of me - $GooG","lbl":"Negative"}
+,{"time":"9:17","usr":"z8angela","txt":"@iTraderz Great! have $AAPL ss position from yesterday high 578 area. It may follow other tech leaders\u0027 action $GOOG $PCLN $FFIV $CRM etc.","lbl":"Neutral"}
 ,{"time":"9:20","usr":"JerTignes","txt":"\u201C@berkmh: $AAPL meet $GOOG. once again.\u201D in this race, notice today $goog is sticking@581,5, resistance...","lbl":"Negative"}
+,{"time":"9:22","usr":"thehourwt0","txt":"THE GOOGLE INVESTOR: Google Rolling Out Local Tools, Includes Zagat Acquisition $GOOG by @hleonard76 http://t.co/PaCl8n24","lbl":"Neutral"}
 ,{"time":"9:22","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Diller Beats Google With World\u0027s Best Web Stock: Riskless Return http://t.co/c1XDCjNy #BIDU #Beats #Best","lbl":"Negative"}
+,{"time":"10:17","usr":"randy_cass","txt":"$AAPL +1, $FB -1 $GOOG 0 RT @FlatlanderS0A: @randy_cass @BNN_TV Short $FB Long $AAPL","lbl":"Neutral"}
+,{"time":"10:17","usr":"arjunram","txt":"@sylvaingrande Do you believe self serve works in India? Prior attempts have fallen flat.. $GOOG has resorted to offline mailing. Thoughts?","lbl":"Neutral"}
+,{"time":"10:21","usr":"Exit_16W","txt":"$GOOG http://t.co/3NOJL1UX 30 min - watching here today as it holds support at 579.85","lbl":"Neutral"}
+,{"time":"10:48","usr":"choffman1978","txt":"$CORT RUNNING HUGE! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"10:49","usr":"choffman1978","txt":"$CORT resistance at 4.07 once break huge run!! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"10:49","usr":"thaitony","txt":"@lylmichelley probably correlated to Zuckerberg\u0027s popularity.jk. No clue: overhyped, overvalued, fut. revenue stream, its no $APPL or $GOOG","lbl":"Neutral"}
 ,{"time":"10:50","usr":"MockTrade","txt":"$AAPL possibly going to cause problems 4 Nazz bears so putting profit stop in on 1/4 $GOOG Sept Puts; still trgting $563ish on rest","lbl":"Negative"}
 ,{"time":"12:08","usr":"UdallTechStrat","txt":"$goog I think the Zagat infuses into mobile is a net positive. http://t.co/kRkxBsqc","lbl":"Positive"}
+,{"time":"12:08","usr":"choffman1978","txt":"$S turning HIGHER! SQUEEZE!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
 ,{"time":"12:57","usr":"562951413","txt":"All the $AAPL iPhone services I use (mail, music, maps, voice, text, and search) are all run by $GOOG. Guess I already have a Google phone.","lbl":"Positive"}
+,{"time":"12:57","usr":"choffman1978","txt":"$AEZS up 19% HIGHER! SQUEEZE!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"14:06","usr":"Qwovadis","txt":"Commented on: \u0022Facebook Shares Still Not Attractive Enough\u0022 http://t.co/wfs9wIwB $FB $GOOG","lbl":"Neutral"}
 ,{"time":"14:12","usr":"pennystockguys","txt":"$GOOG - UPDATE: FTC May File Concerns With ITC On Key Standards Patents http://t.co/CjAhpANn","lbl":"Negative"}
 ,{"time":"14:12","usr":"ADVFNplc","txt":"$GOOG - UPDATE: FTC May File Concerns With ITC On Key Standards Patents http://t.co/P2vW8bux","lbl":"Negative"}
+,{"time":"14:12","usr":"ericjackson","txt":"New Post: Why Apple Is Smart to Double Down on Siri - Forbes http://t.co/19dNGvqj $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"14:43","usr":"prosperousguy","txt":"$GOOG Ass Crack bottom alert on GOOG!!! Buy Buy http://t.co/dWWaRVNJ #WORDEN","lbl":"Positive"}
+,{"time":"14:44","usr":"ankypanky25","txt":"RT @wallstCS: Tech Titans on the Move: Apple\u0027s NEW Market, Microsoft Gets Dirty http://t.co/7oeE2hRN $AAPL $LEAP $GOOG $MSFT $INTC #mkt #stocks","lbl":"Neutral"}
 ,{"time":"14:47","usr":"LouiV","txt":"Do No Evil \u201C@SAI Google Could Make $250Million A Year By Sneaking More Paid Ads Into Search Results $GOOG by @Julie188 http://t.co/GBYWqXLd\u201D","lbl":"Positive"}
 ,{"time":"16:08","usr":"Buddahfan","txt":"@ZDNet -The judge got the word from the DOJ. Don\u0027t mess with one of #Obama\u0027s largest donors i.e. $GOOG","lbl":"Positive"}
 ,{"time":"16:08","usr":"lluccipha","txt":"SAI: RANT: Let\u0027s Just Admit That Google Is Evil Now, Okay? $GOOG by @owenthomas http://t.co/mWPK0f4v","lbl":"Negative"}
@@ -17,7 +37,17 @@
 ,{"time":"16:09","usr":"schachin","txt":"RT @SAI: RANT Let\u0027s Just Admit That Google Is Evil Now, Okay? $GOOG by @owenthomas http://t.co/TgyR1NIq > look up nstic if u want more proof","lbl":"Negative"}
 ,{"time":"17:01","usr":"reginad","txt":"RT @SAI: RANT: Let\u0027s Just Admit That Google Is Evil Now, Okay? $GOOG by @owenthomas http://t.co/AH46LZsq","lbl":"Negative"}
 ,{"time":"17:03","usr":"stevejspencer","txt":"RT @SAI: JUDGE: Dear Oracle, You\u0027re Not Getting A Dime From Google Over Android $ORCL $GOOG by @Julie188 http://t.co/c1NoN6I6","lbl":"Positive"}
+,{"time":"17:05","usr":"WallStJesus","txt":"\u2605Thursday\u0027s Tech Recap http://t.co/Aavs1Fkq $AAPL $AONE $CIEN $ETAK $FB $FCEL $FTE $GIB $GOOG $INTC $KITD $MMI $MSFT $MSPD $MVIS","lbl":"Neutral"}
 ,{"time":"18:13","usr":"TheAmazingRate","txt":"RT @cnnmoney: Judge deals deathblow to Oracle in Google fight http://t.co/NhS6Y0M3 $ORCL $GOOG","lbl":"Positive"}
 ,{"time":"18:14","usr":"mmibooks","txt":"RT @BloombergTV: You\u0027ve heard of .com -- but get ready for .google. Tech titan applies for its own top level domains: http://t.co/bi9YPoFj $GOOG","lbl":"Positive"}
+,{"time":"18:15","usr":"amandad214","txt":"RT @BloombergTV: You\u0027ve heard of .com -- but get ready for .google. Tech titan applies for its own top level domains: http://t.co/bi9YPoFj $GOOG","lbl":"Neutral"}
 ,{"time":"18:15","usr":"ericjackson","txt":"very interesting and fair $GOOG \u201C@counternotions: \u0022Why I left Google\u0022 http://t.co/dGpkO2ae (The engineer\u0027s POV.)\u201D","lbl":"Negative"}
+,{"time":"19:16","usr":"TheSSEC","txt":"RT @CNNMoney: Google applies for .lol Web domain, says it wants \u0022domains we think have interesting and creative potential\u0022 http://t.co/qLwg6hBz $GOOG","lbl":"Neutral"}
+,{"time":"19:17","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Docs: Best Best Man\u0022: http://t.co/J3jgWptH @googlejapan @GoogleLatam @googleresearch @google [follow @Viddy]","lbl":"Neutral"}
+,{"time":"19:19","usr":"TraderKos","txt":"$GOOG search engine results will be influenced by how much retailers and advertisers pay http://t.co/nmU7fhI9 $$","lbl":"Neutral"}
+,{"time":"19:20","usr":"h_o_v","txt":"RT @CNNMoney: Google applies for .lol Web domain, says it wants \u0022domains we think have interesting and creative potential\u0022 http://t.co/qLwg6hBz $GOOG","lbl":"Neutral"}
+,{"time":"23:08","usr":"USwwwStocks","txt":"$GOOG News: House takes up veterans funding bill http://t.co/4drtzktP #GOOG #bill #funding","lbl":"Neutral"}
+,{"time":"23:11","usr":"reegstarr","txt":".wtf dibs. RT @CNNMoney: Google applies for .lol Web domain, says it wants \u0022domains we think have interesting and creative potential\u0022 $GOOG","lbl":"Neutral"}
+,{"time":"23:15","usr":"Abmuku","txt":"Get New Hot Social Media News First! Get Abmuku Mobile, Tech Analysis and More at http://t.co/w7Ocbix4 $FB $P $GOOG","lbl":"Neutral"}
+,{"time":"23:28","usr":"kiriehlise","txt":"RT @BloombergTV: You\u0027ve heard of .com -- but get ready for .google. Tech titan applies for its own top level domains: http://t.co/bi9YPoFj $GOOG","lbl":"Neutral"}
 ]

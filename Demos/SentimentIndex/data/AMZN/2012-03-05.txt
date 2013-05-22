@@ -1,10 +1,20 @@
 [
-{"time":"9:13","usr":"out2late","txt":"RT @SAI: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG by @hblodget http://t.co/MzG55bxI","lbl":"Positive"}
+{"time":"8:09","usr":"CapitalOverlook","txt":"Facebook\u0027s Unprofitable Obsession http://t.co/nzg7oj0D $AMZN $GOOG $FB $AAPL $QQQ $SPY $STUDY $DIA","lbl":"Neutral"}
+,{"time":"9:13","usr":"out2late","txt":"RT @SAI: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG by @hblodget http://t.co/MzG55bxI","lbl":"Positive"}
+,{"time":"9:14","usr":"rechtsteiner","txt":"Is $AMZN\u0027s olive branch delivering original ebooks / singles to 3rd-party retailers ($BAMM, $BKS)? http://t.co/Pq6sWbYP","lbl":"Neutral"}
+,{"time":"9:22","usr":"pajacksonusa","txt":"Jeff Bezos owes much of his success to his ability to look beyond the short-term view of things http://t.co/5rMx4mCd $AMZN","lbl":"Neutral"}
 ,{"time":"10:33","usr":"mstrades","txt":"long $AMZN 185 weekly calls 0.86","lbl":"Positive"}
+,{"time":"10:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/115, $SPY/88, $AIG/29, $KERX/27, $IBM/26, $FCX/26, $AMZN/22, $AEZS/20. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"10:36","usr":"WallStJesus","txt":"\u2605 Risks, Rewards In Zynga\u0027s Z-Cloud http://t.co/Jr8PgeMh $CTXS $AMZN $ZNGA","lbl":"Neutral"}
 ,{"time":"11:52","usr":"JFP","txt":"RT @hblodget: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG http://t.co/kNV5agXB","lbl":"Positive"}
+,{"time":"11:52","usr":"leowise","txt":"Just occurred to me, $AAPL should buyout $AMZN Kindle biz, then partner with $AMZN to sell \u0022low end\u0022 iPads! Possible?","lbl":"Neutral"}
+,{"time":"11:55","usr":"MustangStocks","txt":"RT @stockguy22: overall i doubt a privacy probe would be too bad for $AAPL .. worry more about $GOOG #facebook $AMZN privacy- So much Info they all collect","lbl":"Neutral"}
+,{"time":"13:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/182, $SPY/43, $IWM/20, $AMZN/17, $JOEZ/16, $IBM/15, $KERX/15, $BIDU/14. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"13:08","usr":"RaginCajun","txt":"Like $MCP, $POT, $AMZN, & $JOEZ. Bot all them this morning","lbl":"Positive"}
 ,{"time":"13:08","usr":"WallStJesus","txt":"\u2605 RT @RaginCajun: Like $MCP, $POT, $AMZN, & $JOEZ. Bot all them this morning","lbl":"Positive"}
 ,{"time":"13:09","usr":"1nvestor","txt":"Stocks holding up well and/or green: $AMZN $IBM $V $XOM $ORCL $FIRE $SBUX","lbl":"Positive"}
+,{"time":"16:56","usr":"Tradesight","txt":"#Trading calls recap for Monday, big day in $AAPL $AMZN $FSLR $LULU, read here: http://t.co/BvlH3glh #stocks #markets","lbl":"Neutral"}
 ,{"time":"17:15","usr":"nottora2","txt":"RT @SAI: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG by @hblodget http://t.co/MzG55bxI","lbl":"Positive"}
 ,{"time":"20:41","usr":"teagardenparty","txt":"@RedDogT3Live Are you just impatient $amzn or you don\u0027t think it will go. Long 180 April puts","lbl":"Negative"}
+,{"time":"20:55","usr":"danconway","txt":"Going to be stuck in airplane for 5 hours? Now 160 million passengers can go shopping. Smart of $DAL and $AMZN. http://t.co/QAvEsAv3","lbl":"Neutral"}
 ]

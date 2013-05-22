@@ -1,3 +1,12 @@
 [
-{"time":"15:30","usr":"ttcycler","txt":"RT @SAI: More Sneaky Business From Google: It Bypasses Internet Explorer Privacy Settings, Too $MSFT $GOOG by @MattRosoff http://t.co/mlPq4xaN","lbl":"Negative"}
+{"time":"12:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/24, $SPY/7, $GOOG/6, $MSFT/4, $WMT/4, $BAC/3, $PSLV/3, $ZNGA/3, $RENN/3. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"12:10","usr":"JJZunin","txt":"RT @TheStreet: 6 Stocks Funds Love for 2012 http://t.co/jC2soiSp by @stockpickr $PFE $GOOG","lbl":"Neutral"}
+,{"time":"15:30","usr":"ttcycler","txt":"RT @SAI: More Sneaky Business From Google: It Bypasses Internet Explorer Privacy Settings, Too $MSFT $GOOG by @MattRosoff http://t.co/mlPq4xaN","lbl":"Negative"}
+,{"time":"15:31","usr":"BioRumUp","txt":"Just got a new iPhone baby! I\u0027m using my neighbors wifi to trade from my mom\u0027s basement! BOOOOOOM!!!! $ngsx $bpax $jnj $pfe #cnbc #cnn $goog","lbl":"Neutral"}
+,{"time":"15:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/31, $GOOG/10, $MSFT/9, $SPY/8, $EBAY/7, $BAC/5, $WYNN/4, $GME/4, $AMZN/4. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"15:52","usr":"gaelanlove","txt":"RT @SAI: More Sneaky Business From Google: It Bypasses Internet Explorer Privacy Settings, Too $MSFT $GOOG by @MattRosoff http://t.co/mlPq4xaN","lbl":"Neutral"}
+,{"time":"19:02","usr":"ChinaNews24","txt":"RT @Phillip_Futures2012Apple\u0027s Legal Woes in China Offer Hope to Rivals http://t.co/ezu1TyuW $0334.HK $0992.HK $AAPL $AMZN $GOOG #Tr...","lbl":"Positive"}
+,{"time":"19:05","usr":"StocialTrends","txt":"Daily Trending Social Volume: $AAPL/298, $SPY/91, $GOOG/69, $MSFT/51, $AMZN/41, $GS/40, $BAC/39, $GLD/35. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"19:15","usr":"benny_the_dogs","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/qdkP00Rt #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"19:30","usr":"TheStreet","txt":"5 Start-Ups Big Tech Is Eyeing in 2012 http://t.co/tWh4lDiT by @ozoran $GOOG $INTC","lbl":"Neutral"}
 ]

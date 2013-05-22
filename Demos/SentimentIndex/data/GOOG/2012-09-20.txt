@@ -1,16 +1,62 @@
 [
-{"time":"7:25","usr":"kcnickerson","txt":"Forget iOS and Android - China going to Firefox Mobile OS - http://t.co/c3L0UMq5 #mozilla #ios #android $goog $appl #os #html5","lbl":"Negative"}
+{"time":"3:20","usr":"Maqboolfida","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"3:23","usr":"apple_developer","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"4:15","usr":"silverjet2","txt":"$GOOG and $AMZN seen as potential suitors in possible acquisition of $P to counter $AAPL foray into this arena.","lbl":"Neutral"}
+,{"time":"7:24","usr":"ruthcoxeter","txt":"@billmaris of $GOOG ventures on CNBC: \u0022We\u0027re looking for entrepreneurs who want to change the world for the better.\u0022","lbl":"Neutral"}
+,{"time":"7:25","usr":"kcnickerson","txt":"Forget iOS and Android - China going to Firefox Mobile OS - http://t.co/c3L0UMq5 #mozilla #ios #android $goog $appl #os #html5","lbl":"Negative"}
+,{"time":"7:26","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 9.20.2012 http://t.co/s6lYb8kN","lbl":"Neutral"}
+,{"time":"7:26","usr":"dlcmh","txt":"Options open interest updated for $AAPL, $AGQ, $AMZN, $GOOG, $SPY http://t.co/u0H59MwG","lbl":"Neutral"}
+,{"time":"8:25","usr":"choffman1978","txt":"$AEZS Surging on news of AEZS120 prostate cancer news! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$bpax,$kerx,$rxpc,$unh,$gs,$aapl,$goog","lbl":"Neutral"}
+,{"time":"8:25","usr":"jknapp45","txt":"Failure is a feature: how Google stays sharp gobbling up startups http://t.co/krP3olNt via @verge $GOOG","lbl":"Neutral"}
 ,{"time":"8:26","usr":"takingstock614","txt":"I\u0027d be a buyer of any dip in $AAPL $GOOG $LNKD","lbl":"Positive"}
 ,{"time":"8:56","usr":"ADVFNplc","txt":"$GOOG - Unwired Planet Files Patent-Infringement Claims .vs Apple, Google http://t.co/bh5zmjTe","lbl":"Negative"}
 ,{"time":"8:56","usr":"mitchelltsai","txt":"long $AAPL Weekly 700 Call 2.14 2.05, $GOOG Weekly 725 Call 2.25 2.05 #MyStock","lbl":"Positive"}
 ,{"time":"8:56","usr":"BRHook","txt":"-- After losing display ad lead to Facebook, Google is back on top: http://t.co/3kTnQE8k @gigaom @kheussner @facebook @google $FB $GOOG #ads","lbl":"Positive"}
 ,{"time":"8:57","usr":"ClickBlip","txt":"-- Google is back on top after losing display ad lead to Facebook: http://t.co/GSgN5IYN @gigaom @kheussner @facebook @google $FB $GOOG #ads","lbl":"Positive"}
+,{"time":"9:50","usr":"__Shashank","txt":"free tools-AWS,skype, $Goog app,twitter, $Lnkd, n $FB\u2019s APIs have made #startup booting far easier but selling remain mission? #MADEFestival","lbl":"Neutral"}
+,{"time":"9:51","usr":"choffman1978","txt":"$NGSX up 30% - HUGE SQUEEZE! NEWS?! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$bpax,$kerx,$rxpc,$unh,$gs,$aapl,$goog,$vvus,$ptie","lbl":"Neutral"}
+,{"time":"9:51","usr":"IPL_Update","txt":"free tools-AWS,skype, $Goog app,twitter, $Lnkd, n $FB\u2019s APIs have made #startup booting far easier but selling remain mission? #MADEFestival","lbl":"Neutral"}
+,{"time":"9:52","usr":"choffman1978","txt":"$AEZS Surging on news of AEZS120 prostate cancer news!! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$bpax,$kerx,$rxpc,$unh,$gs,$aapl,$goog","lbl":"Neutral"}
+,{"time":"10:58","usr":"louisberyl","txt":"I love AAPL but I\u0027ll take the other side of this trade. RT @peteryared $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"11:26","usr":"numberonetell","txt":"%$)* I got stopped out of $GOOG on a false break down, at least it\u0027s false so far.","lbl":"Neutral"}
+,{"time":"11:27","usr":"hil__","txt":"RT @businessinsider: Google Exec: Here\u0027s How To Get Google Maps On Your iPhone $AAPL $GOOG by @officialKLS http://t.co/u0czVsmU","lbl":"Neutral"}
+,{"time":"11:51","usr":"Goodlett","txt":"via @BrendanPFerrara - for what its worth, $FB charging @Fab US$700k/day for logout page advert http://t.co/evRaIsk2 $GOOG $AOL $NYT $WPO","lbl":"Neutral"}
 ,{"time":"11:52","usr":"launchticker","txt":"$fb drops from 2nd to 5th in Aug for online video; down 10% to 47.7M while $goog dropped 4.3% to 150.2M http://t.co/sthUQPLC","lbl":"Negative"}
+,{"time":"12:16","usr":"ericjackson","txt":"New Post: Ignore the Histrionic Valley Tech Bloggers When It Comes To Yahoo! - Forbes http://t.co/YNMxxHhg $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"12:17","usr":"DeidreZune","txt":"On a modestly down day, u r getting the DIP u wished for. So, what r u doing? What r u buying? Or simply twiddling thumbs? $AAPL $FB $GOOG","lbl":"Neutral"}
+,{"time":"12:47","usr":"nototter","txt":"RT @YahooFinance: $AAPL, in scrapping $GOOG maps, puts its interests ahead of customers: @hblodget http://t.co/4lXLw4W3","lbl":"Neutral"}
 ,{"time":"12:47","usr":"HedgeFundPimp","txt":"This Apple $AAPL <-> Google $GOOG war is shaping up to be so much fun. Facebook $FB teaming up with Apple is very interesting for Google...","lbl":"Negative"}
 ,{"time":"13:23","usr":"TradeIdeasQuant","txt":"$GOOG New 52 Week High - Crossed daily highs resistance.","lbl":"Positive"}
 ,{"time":"13:24","usr":"VinnySali","txt":"$GE Green, $GOOG Green","lbl":"Positive"}
 ,{"time":"13:24","usr":"SaanpaurSeedi","txt":"$GOOG set to take \u0022triple crown\u0022 of online advertising by taking the top spot in Web-search ads, mobile ads & display ads (to overtake $FB)","lbl":"Positive"}
 ,{"time":"13:59","usr":"CNNMoneyTech","txt":"RT @LaMonicaBuzz: Another new 52-week high for $GOOG. Approaching $730. Larry Page must be super super super duper excited. By the way, ...","lbl":"Positive"}
+,{"time":"13:59","usr":"bluser12","txt":"@smartertrader I meant that in the next hour or so. I\u0027m thinking all time highs next week. $AAPL $AMZN have had them already. $GOOG next.","lbl":"Positive"}
 ,{"time":"14:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG Sentiment decreases: -24% http://t.co/HYmEmFBp","lbl":"Negative"}
+,{"time":"14:00","usr":"swamptrade","txt":"$GOOG 730","lbl":"Neutral"}
+,{"time":"14:31","usr":"businessinsider","txt":"11 Apps That Fix The Public Transportation Problem In Apple Maps $AAPL $GOOG by @officialKLS http://t.co/lkRZUfuq","lbl":"Neutral"}
+,{"time":"14:31","usr":"SAI_Tools","txt":"11 Apps That Fix The Public Transportation Problem In Apple Maps $AAPL $GOOG by @officialKLS http://t.co/J4YQoqz4","lbl":"Neutral"}
+,{"time":"14:31","usr":"SAI","txt":"11 Apps That Fix The Public Transportation Problem In Apple Maps $AAPL $GOOG by @officialKLS http://t.co/TwgXp2bW","lbl":"Neutral"}
 ,{"time":"14:31","usr":"MNYCx","txt":"RT @RedDogT3Live: $goog blowing the doors off the shorts. Historic highs are $747.","lbl":"Positive"}
+,{"time":"15:06","usr":"KirkMichie","txt":"RT @businessinsider: 11 Apps That Fix The Public Transportation Problem In Apple Maps $AAPL $GOOG by @officialKLS http://t.co/lkRZUfuq","lbl":"Neutral"}
+,{"time":"15:06","usr":"OptionPit","txt":"A Look Back At $GOOG | Option Pit http://t.co/SlgT9gBN $VIX $VXGOG","lbl":"Neutral"}
+,{"time":"15:08","usr":"DeidreZune","txt":"$AAPL iOS 6 download peaks at more than 15 percent of Web traffic.Remains at that level. $GOOG\u0027s JellyBean achieved 1.5pc adoptn in 2 months","lbl":"Neutral"}
+,{"time":"15:11","usr":"PwrEngineering","txt":"@bechtel talks to @lindsayemorris about the #solar industry & the Ivanpah project http://t.co/41zZVS9W $GOOG $PCG @SoCalEdison $NRG #SPICon","lbl":"Neutral"}
+,{"time":"16:02","usr":"HiRisk808","txt":"RT @thetellblog: Why iOS 6 may leave some iPhone 5 buyers lost: Maps, YouTube $goog $aapl #iphone #android http://t.co/VQDXBApR","lbl":"Neutral"}
+,{"time":"16:02","usr":"SAI_Tools","txt":"Report: Google Is Waiting For Apple To Approve A New Google Maps App For iPhone $AAPL $GOOG by @stevekovach http://t.co/uV9xFuCk","lbl":"Neutral"}
+,{"time":"16:02","usr":"businessinsider","txt":"Report: Google Is Waiting For Apple To Approve A New Google Maps App For iPhone $AAPL $GOOG by @stevekovach http://t.co/Us3uWXZw","lbl":"Neutral"}
+,{"time":"16:02","usr":"SAI","txt":"Report: Google Is Waiting For Apple To Approve A New Google Maps App For iPhone $AAPL $GOOG by @stevekovach http://t.co/mNBuwCyd","lbl":"Neutral"}
+,{"time":"16:22","usr":"blacksopt","txt":"RT @businessinsider: Apple Responds To The Maps Backlash: \u0027We Are Just Getting Started With It\u0027 $AAPL $GOOG by @jyarow http://t.co/QSJynri7","lbl":"Neutral"}
+,{"time":"16:24","usr":"MelissaLevick","txt":"RT @SAI: Google Exec: Here\u0027s How To Get Google Maps On Your iPhone $AAPL $GOOG by @officialKLS http://t.co/Y0tfB8ID","lbl":"Neutral"}
+,{"time":"16:24","usr":"SMN_Australia","txt":"\u201C@SAI: Apple Responds To The Maps Backlash: \u0027We Are Just Getting Started With It\u0027 $AAPL $GOOG by @jyarow http://t.co/FCutPjh6\u201D","lbl":"Neutral"}
+,{"time":"16:24","usr":"JohanHakon","txt":"RT @thetellblog: Why iOS 6 may leave some iPhone 5 buyers lost: Maps, YouTube $goog $aapl #iphone #android http://t.co/VQDXBApR","lbl":"Neutral"}
+,{"time":"17:14","usr":"maxpelle","txt":"RT @SAI: Report: Google Is Waiting For Apple To Approve A New Google Maps App For iPhone $AAPL $GOOG by @stevekovach http://t.co/mNBuwCyd","lbl":"Neutral"}
+,{"time":"17:14","usr":"nikeshdoshi","txt":"RT @SAI: Report: Google Is Waiting For Apple To Approve A New Google Maps App For iPhone $AAPL $GOOG by @stevekovach http://t.co/LiSmqLYd","lbl":"Neutral"}
+,{"time":"17:15","usr":"pennystockguys","txt":"$GOOG - Apple: Working to Make Customer Experience With New Map Service \u0027Even Better\u0027 http://t.co/v7e9OojS","lbl":"Neutral"}
+,{"time":"17:15","usr":"ADVFNplc","txt":"$GOOG - Apple: Working to Make Customer Experience With New Map Service \u0027Even Better\u0027 http://t.co/hZewuxRU","lbl":"Neutral"}
+,{"time":"18:44","usr":"bjorntopel","txt":"Seriously Apple, what\u0027s up with the Maps!? $AAPL $GOOG #NIH","lbl":"Neutral"}
+,{"time":"18:47","usr":"DPolitical","txt":"$GOOG - Cantor Fitzgerald Starts Stock Coverage on Google #GOOG http://t.co/LjiUNDds","lbl":"Neutral"}
+,{"time":"21:49","usr":"investlite","txt":"Trading Plan for Friday, 9/21: http://t.co/ifryi7fP $GCI $FDP $GOOG $SBUX $ORLY $STX $WFC $AMZN $LULU","lbl":"Neutral"}
+,{"time":"21:52","usr":"DeidreZune","txt":"VC on y $AAPL had to do Maps RT @bgurley Post I wrote in 2009 explaining y Apple was forced to do their own maps http://t.co/ecGAJicW $GOOG","lbl":"Neutral"}
+,{"time":"21:53","usr":"22OTM","txt":"$aapl $goog battle continues with iOS 6 maps... http://t.co/77zlvfhl","lbl":"Neutral"}
+,{"time":"21:58","usr":"juancege","txt":"RT @PwrEngineering: @bechtel talks to @lindsayemorris about the #solar industry & the Ivanpah project http://t.co/41zZVS9W $GOOG $PC ...","lbl":"Neutral"}
 ]

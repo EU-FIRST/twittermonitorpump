@@ -1,1 +1,4 @@
-[]
+[
+{"time":"7:23","usr":"chenchow","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"12:40","usr":"SeekingAlpha","txt":"Bashing Facebook For All The Wrong Reasons http://t.co/24rhsDVD $AMZN $GOOG $FB","lbl":"Neutral"}
+]

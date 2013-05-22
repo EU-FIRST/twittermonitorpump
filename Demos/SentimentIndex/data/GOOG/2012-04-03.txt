@@ -1,13 +1,50 @@
 [
-{"time":"0:50","usr":"Royal_Arse","txt":"Changed their name from Oingo to Applied Semantics to what became AdWords/AdSense aka 97% of $67Bil in revenue for $GOOG since 01","lbl":"Positive"}
+{"time":"0:45","usr":"ZisblU4U","txt":"$GOOG #marketing .. something for you to #play around with . from #my design specs to yours ?? http://t.co/DhC2qeVK","lbl":"Neutral"}
+,{"time":"0:45","usr":"ZisblU4U","txt":"$GOOG #marketing .. something for you to #play around with . brand-strategy-tactic-openSesame.jpg http://t.co/DhC2qeVK","lbl":"Neutral"}
+,{"time":"0:46","usr":"ZisblU4U","txt":"dose the interWEB=Z REALLY make me look phat ?? $GOOG #marketing .. something for you to #play around with . http://t.co/DhC2qeVK","lbl":"Neutral"}
+,{"time":"0:50","usr":"Royal_Arse","txt":"Changed their name from Oingo to Applied Semantics to what became AdWords/AdSense aka 97% of $67Bil in revenue for $GOOG since 01","lbl":"Positive"}
+,{"time":"5:38","usr":"Napaceni","txt":"RT @SAI_Tools: SHOCKING: 68% Of US Android Owners Never Use Wi-Fi $GOOG $AAPL by @_dtl http://t.co/KmHlPY9z","lbl":"Neutral"}
+,{"time":"5:39","usr":"Uzair_Batavia","txt":"RT @SAI: SHOCKING: 68% Of US Android Owners Never Use Wi-Fi $GOOG $AAPL by @_dtl http://t.co/HV6d3TFF","lbl":"Neutral"}
 ,{"time":"7:09","usr":"bpeck","txt":"With TxVia acq., $GOOG still pushing on Wallet post defections.. http://t.co/XKD9TxgP","lbl":"Positive"}
 ,{"time":"7:12","usr":"AimHighProfits","txt":"$VRNG Good News?: Oracle ($ORCL) and Google ($GOOG) have reached an \u0022irreconcilable impasse\u0022 in settlement negotiations","lbl":"Negative"}
 ,{"time":"7:12","usr":"trader_trend","txt":"$TRIP joins $EXPE in filing anti-trust complaint to EU against $GOOG http://t.co/BpHPsU0Y","lbl":"Negative"}
+,{"time":"8:32","usr":"mikecardascia","txt":"RT @WallStWatchDog: Jim Cramer\u0027s Stock Calls for Apr 2nd http://t.co/7PqJ78K9 $ARLP $CERN $CSCO $GOOG $APC $BNNY $IMAX $MGA $RHT $TWI","lbl":"Neutral"}
+,{"time":"8:32","usr":"mikecardascia","txt":"RT @wallstCS: The Other Side of Foxconn\u0027s Labor Investigation http://t.co/d4LcIjDf $AAPL $AMZN $HPQ $DELL $GOOG","lbl":"Neutral"}
 ,{"time":"8:32","usr":"mikecardascia","txt":"RT @wallstCS: Wall Street Brief: Microsoft and Apple Whine, Oracle and Google Stuck in the Mud http://t.co/spHF9M8A $MMI $MSFT $GOOG $AAPL $ORCL","lbl":"Negative"}
+,{"time":"8:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/224, $SPY/34, $GRPN/20, $NFLX/14, $MAPP/12, $GOOG/12, $AMZN/12, $F/10. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"9:10","usr":"thefinancepress","txt":"$GOOG Google Inc. To Buy Payment Processing Firm: Google Inc. To Buy Payment Processing Firm StocksandShares.TV... http://t.co/3q15Wain","lbl":"Neutral"}
+,{"time":"9:10","usr":"SeekingAlpha","txt":"Buy Vringo To Get Something For Nothing? http://t.co/KrBecHag $AOL $GOOG $IACI $TGT $YHOO $P $VRNG $GCI","lbl":"Neutral"}
 ,{"time":"10:14","usr":"nullempire","txt":"$AAPL is getting close to $GOOG","lbl":"Negative"}
 ,{"time":"10:15","usr":"BrianSHall","txt":"RT @TrendRida: Android so good it doesnt even have to make Google any money! Ever! $GOOG via: @brianshall","lbl":"Positive"}
+,{"time":"10:46","usr":"mzayfert","txt":"RT @SAI: Instagram For Android Is Finally Here $GOOG by @_dtl http://t.co/tdbQTTup","lbl":"Neutral"}
+,{"time":"10:47","usr":"lenmastrapa","txt":"RT @SAI: Instagram For Android Is Finally Here $GOOG by @_dtl http://t.co/tdbQTTup","lbl":"Neutral"}
+,{"time":"10:47","usr":"punksgt","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/VR6EEtpT #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"10:47","usr":"worldofchris","txt":"RT @SAI: Instagram For Android Is Finally Here $GOOG by @_dtl http://t.co/tdbQTTup","lbl":"Neutral"}
+,{"time":"11:06","usr":"LeeClausen","txt":"RT @JBoorstin: #Facebook revenue to hit $6.7B this year, $11.2B in 2013, according to Arcstone\u0027s Brukstern, in line w $GOOG\u0027s growth 6.5 yrs ago.","lbl":"Neutral"}
 ,{"time":"11:07","usr":"techwealth","txt":"I uploaded a @YouTube video http://t.co/cvk2xidI Made $1,100 Shorting $goog Options \u0022Day-Trade\u0022","lbl":"Negative"}
+,{"time":"11:07","usr":"barronstechblog","txt":"MMI: EU Looking into Patent Practices, Says WSJ - Tech Trader Daily - Barron\u0027s $MMI $GOOG $MSFT $NOK $AAPL http://t.co/Kghm2kwK","lbl":"Neutral"}
+,{"time":"11:10","usr":"mr_harhar","txt":"RT @JBoorstin: #Facebook revenue to hit $6.7B this year, $11.2B in 2013, according to Arcstone\u0027s Brukstern, in line w $GOOG\u0027s growth 6.5 yrs ago.","lbl":"Neutral"}
+,{"time":"11:29","usr":"OptionsProfits","txt":"RT @Fibonacciqueen: If this $GOOG setup plays out fully, target 1 is 631.27 http://t.co/XRM360C3","lbl":"Neutral"}
+,{"time":"11:29","usr":"nickcooper91","txt":"RT @JBoorstin: #Facebook revenue to hit $6.7B this year, $11.2B in 2013, according to Arcstone\u0027s Brukstern, in line w $GOOG\u0027s growth 6.5 yrs ago.","lbl":"Neutral"}
+,{"time":"11:29","usr":"OlafurRobert","txt":"RT @SAI: RIM Gives In, Admits That Business Users Want iPhones And Androids $RIMM $AAPL $GOOG by @Julie188 http://t.co/br8aCwcA","lbl":"Neutral"}
+,{"time":"11:30","usr":"DJThistle","txt":"Instagram v1.0 now live on the Google Play Store: Here\u0027s a quick note to let you all know that Instagram i... http://t.co/8OtuHaFG $GOOG","lbl":"Neutral"}
+,{"time":"11:59","usr":"DeepSangha","txt":"RT @JBoorstin: #Facebook revenue to hit $6.7B this year, $11.2B in 2013, according to Arcstone\u0027s Brukstern, in line w $GOOG\u0027s growth 6.5 yrs ago.","lbl":"Neutral"}
+,{"time":"12:00","usr":"marvin_is_joe","txt":"RT @SAI: RIM Gives In, Admits That Business Users Want iPhones And Androids $RIMM $AAPL $GOOG by @Julie188 http://t.co/br8aCwcA","lbl":"Neutral"}
+,{"time":"12:01","usr":"firstadopter","txt":"Smart-phone market share point shift Nov11 to Feb12: $GOOG +3.2 $AAPL +1.5 $RIMM -3.2 $MSFT -1.3 $NOK 0 http://t.co/2mYw73NV","lbl":"Neutral"}
 ,{"time":"12:37","usr":"kngbn97","txt":"RT @SAI: This Could Be Google\u0027s Official Answer To The iPad $GOOG by @_dtl http://t.co/sZvljRIE","lbl":"Positive"}
+,{"time":"12:38","usr":"la_buena_pipa","txt":"RT @SAI: Instagram For Android Is Finally Here $GOOG by @_dtl http://t.co/tdbQTTup","lbl":"Neutral"}
+,{"time":"12:41","usr":"reachvinesh","txt":"RT @JBoorstin: #Facebook revenue to hit $6.7B this year, $11.2B in 2013, according to Arcstone\u0027s Brukstern, in line w $GOOG\u0027s growth 6.5 yrs ago.","lbl":"Neutral"}
+,{"time":"12:45","usr":"stockusa","txt":"With Real-Time Traffic Data Google Maps Gives You More Reliable Travel Times http://t.co/JgwZ2KeT via @trefis $GOOG","lbl":"Neutral"}
+,{"time":"13:38","usr":"NishitChokshi","txt":"RT @JBoorstin: #Facebook revenue to hit $6.7B this year, $11.2B in 2013, according to Arcstone\u0027s Brukstern, in line w $GOOG\u0027s growth 6.5 yrs ago.","lbl":"Neutral"}
+,{"time":"13:39","usr":"ajitkmenon","txt":"\u0022@SAI: RIM Gives In, Admits That Business Users Want iPhones And Androids $RIMM $AAPL $GOOG by @Julie188 http://t.co/PQt83rU0\u0022","lbl":"Neutral"}
+,{"time":"14:50","usr":"setatakahashi","txt":"RT @howardlindzon: Instagram for android must have launched. Ton of new followers. Welcome $goog","lbl":"Neutral"}
+,{"time":"16:52","usr":"thefinancepress","txt":"$GOOG Facebook Files Counterclaims Against Yahoo: Facebook Files Counterclaims Against Yahoo BusinessWeek - 2 h... http://t.co/SD7cXxet","lbl":"Neutral"}
+,{"time":"16:52","usr":"MrBege1","txt":"Google X research facility and its secret projects http://t.co/0dwPEbGM #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"19:05","usr":"QuickPlayMedia","txt":"For every $1 $AAPL\u0027s App Store makes $AMZN\u0027s brings in $0.89 cents per active user, while $GooG\u0027s earns $0.23 cents http://t.co/SsdEEDZj","lbl":"Neutral"}
+,{"time":"19:05","usr":"MrBege1","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/5rW3pIvS #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"19:06","usr":"swyx","txt":"RT @ReformedBroker: RT @adamfeuerstein: The story I wrote on $GOOG\u0027s launch in October 1999. Funny to read this now. --> http://t.co/szBW696c","lbl":"Neutral"}
+,{"time":"19:07","usr":"TrendRida","txt":"Munster thinks its a 2 horse race betw $AAPL & Samsung. Gotta think that Samsung will b distracted by $GOOG $MMI plans.","lbl":"Neutral"}
 ,{"time":"20:42","usr":"mkonda","txt":"RT @runako: $GOOG revenue is about half Hollywood\u0027s total global revenue.","lbl":"Positive"}
+,{"time":"20:46","usr":"stockhaven","txt":"Stockhaven\u0027s classroom 4/3/12 http://t.co/2dqMDeOx via @stockhaven $FROG $SEFE $ALZM $GOOG #study","lbl":"Neutral"}
 ,{"time":"20:49","usr":"TrendRida","txt":"@JoshPritchard @Aapl_pain $GOOG is fundamentally mis-understood because they want to b a tech company but is really just an ad company.","lbl":"Negative"}
 ]

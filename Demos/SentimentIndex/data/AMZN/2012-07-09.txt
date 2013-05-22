@@ -1,7 +1,19 @@
 [
-{"time":"8:48","usr":"z8angela","txt":"Plenty warnings this am w/ bearish gaps on \u0022the Best-looking\u0022 charts: $MA $V $LNKD $AMZN. Which are next ones? Trade smart. - short $SPY $MA","lbl":"Negative"}
+{"time":"0:23","usr":"jeffreyjkeith","txt":"Great article: http://t.co/RMcCxvZ5 $AAPL $GOOG $MSFT $AMZN #NAPALM","lbl":"Neutral"}
+,{"time":"0:26","usr":"fkmails","txt":"RT @SAI: Report: New Kindle Fire Tablet With A Better Screen Launching Soon $AMZN by @stevekovach http://t.co/IAYcZxny","lbl":"Neutral"}
+,{"time":"7:32","usr":"BryanMortenson","txt":"$AMZN: Amazon now to release Kindle Fire 2 at end of Q3 2012 per AllThingD. $$","lbl":"Neutral"}
+,{"time":"8:48","usr":"z8angela","txt":"Plenty warnings this am w/ bearish gaps on \u0022the Best-looking\u0022 charts: $MA $V $LNKD $AMZN. Which are next ones? Trade smart. - short $SPY $MA","lbl":"Negative"}
 ,{"time":"8:48","usr":"rjosef","txt":"RT @TrendRida: Munster was a little lazy on his baby iPad estimates. $AMZN sold 6M Fires last Christmas Q. $AAPL http://t.co/qnB4aFsu","lbl":"Positive"}
 ,{"time":"8:49","usr":"iTraderz","txt":"RT @z8angela: Plenty warnings this am w/ bearish gaps on \u0022the Best-looking\u0022 charts: $MA $V $LNKD $AMZN. Which are next ones? Trade smart. - short $SPY $MA","lbl":"Negative"}
+,{"time":"9:44","usr":"StockNewsHub","txt":"$AMZN http://t.co/Ilkec0Ba Inc News: Exclusive: Amazon to take on Brazil\u0027s ecommerce jungle http://t.co/6g16kck6","lbl":"Neutral"}
+,{"time":"10:55","usr":"EricDutram","txt":"@bbolan1 @TraceyRyniec Can someone explain to me why $AMZN is even attempting to make a phone??","lbl":"Neutral"}
 ,{"time":"10:58","usr":"investorsmosaic","txt":"Our portfolio heading into the week: $RHT $RAX $ED $SO $CTL $WIN $PEP $SJM $RRC $HEK and short $AMZN and $SPY. 40% net exposure.","lbl":"Negative"}
+,{"time":"13:20","usr":"SeekingAlpha","txt":"Did Activision Score A Blockbuster With The Walking Dead Video Game Rights? http://t.co/BLe77UWk $AMCX $DISH $ATVI $AMZN $DISCA","lbl":"Neutral"}
 ,{"time":"14:32","usr":"morganefitz","txt":"New : $AMZN,, Long Swing Trade S8, 10% $AMZN,, New Long Entry S8, 10%. 29 Shares @ 224.38 Stop ... Read more at http://t.co/nIkWUA7B","lbl":"Positive"}
+,{"time":"16:10","usr":"SeekingAlpha","txt":"Investing In The Video Game Sector In 2013 http://t.co/X5qvfRfh $AMZN $ATVI $EA $GME $KNM $MSFT $SNE $THQI $TTWO $ZNGA","lbl":"Neutral"}
+,{"time":"17:04","usr":"busterstacks","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 07/09/12 {Video}\u0022 http://t.co/o15Jt0y7 $AAPL $AMZN $GNC $IBB $IWM $JRCC $PCX $QQQ $SPY $TLT $UUP","lbl":"Neutral"}
+,{"time":"21:30","usr":"netgarden","txt":"Co-opetition, the Amazon Way (XLNT piece in FT on $AMZN platform strategy) http://t.co/gIgVbDjZ","lbl":"Neutral"}
+,{"time":"21:30","usr":"marksigal","txt":"Co-opetition, the Amazon Way (XLNT piece in FT on $AMZN platform strategy) http://t.co/loRDxra3","lbl":"Neutral"}
+,{"time":"21:30","usr":"lazywisdom","txt":"Co-opetition, the Amazon Way (XLNT piece in FT on $AMZN platform strategy) http://t.co/HRaGKIyt","lbl":"Neutral"}
+,{"time":"21:30","usr":"unicornlabs","txt":"Co-opetition, the Amazon Way (XLNT piece in FT on $AMZN platform strategy) http://t.co/nSkn6Vey http://t.co/1l74LcEk","lbl":"Neutral"}
 ]

@@ -1,10 +1,25 @@
 [
 {"time":"0:31","usr":"StocksMD","txt":"RT @bramsal: $FB new facebook IPO could push tech higher. Looking at some key players like $LNKD $ORCL $AAPL $GOOG $AMZN","lbl":"Positive"}
+,{"time":"5:27","usr":"petercalka","txt":"Commented on: \u0022Analyzing Amazon\u0027s Q4 Results - Third Party In the Spotlight\u0022 http://t.co/GLKeuJRR $AMZN","lbl":"Neutral"}
+,{"time":"5:56","usr":"CameronKaine","txt":"Commented on: \u0022Amazon: Determined To Continue Its Assault On Apple\u0022 http://t.co/hu7yIftZ $AAPL $AMZN $BBY $GOOG $MSFT $NFLX $RIMM","lbl":"Neutral"}
+,{"time":"8:22","usr":"florencelowe","txt":"LivingSocial\u0027s Awkward Revelation http://t.co/pwOV1bE0 #WSJ #dailydeals #livingsocial $GRPN $AMZN","lbl":"Neutral"}
 ,{"time":"9:13","usr":"Chris_W_Jones","txt":"RT @rtrswalibarr: LivingSocial lost over half a billion dollars last year - so says Amazon $AMZN in its 10K http://t.co/n9ANcOYO","lbl":"Negative"}
+,{"time":"9:13","usr":"chrisdavison","txt":"RT @businessinsider: LivingSocial Lost $558 Million In 2011 $AMZN $GRPN by @KTLincoln http://t.co/lGh9Hm2F","lbl":"Neutral"}
 ,{"time":"9:39","usr":"taddpole","txt":"stopped out other 3/10 $AMZN from yesterday at 177.35 (0.84 gain) - still holding long term (1/3 size) from 181.75","lbl":"Negative"}
+,{"time":"9:41","usr":"LuluStockPixX","txt":"Also take a look at Stocks on Radar for more stocks in play: $PRXL $MDVN $STX $CHRW $JDAS $AMZN $AMLN $GGC $RLD $SFLY bit.ly/zZxC99","lbl":"Neutral"}
+,{"time":"10:20","usr":"TheAcsMan","txt":"Lack of resolve. Despite $AMZN straddle, failed to do trades on $GMCR & $MA. There\u0027s always next quarter. http://t.co/UPNblZqW #stockaction","lbl":"Neutral"}
+,{"time":"10:21","usr":"PFCAcsMan","txt":"Lack of resolve. Despite $AMZN straddle, failed to pull trades on $GMCR & $MA. There\u0027s always next quarter. http://t.co/7pbkenB8","lbl":"Neutral"}
+,{"time":"10:21","usr":"OTPBook","txt":"Lack of resolve. Despite $AMZN straddle, failed to pull trades on $GMCR & $MA. There\u0027s always next quarter. http://t.co/JmvXafDK","lbl":"Neutral"}
+,{"time":"11:03","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:48am: 177.24 -2.22 (-1.24%).","lbl":"Neutral"}
 ,{"time":"11:40","usr":"SeekingAlpha","txt":"5 Buys And 1 Sell To Beat The S&P http://t.co/RUUXUky8 $AMZN $BSX $MSFT $RIMM $TXN $XOM","lbl":"Positive"}
 ,{"time":"12:11","usr":"jokru","txt":"RT @asymco: The difference in pricing btwn $AMZN and $AAPL is that one is seen as a monopoly and the other as a commodity. Trouble is they are reversed.","lbl":"Positive"}
+,{"time":"12:11","usr":"retail_sails","txt":"And #FDI is Just Beginning...Amazon Enters India #Retail Market With Junglee Shopping Service http://t.co/95JimTel $AMZN","lbl":"Neutral"}
+,{"time":"12:13","usr":"wpbasti","txt":"RT @asymco: The difference in pricing btwn $AMZN and $AAPL is that one is seen as a monopoly and the other as a commodity. Trouble is they are reversed.","lbl":"Neutral"}
 ,{"time":"12:13","usr":"robertt627","txt":"RT @BrianSozzi: @retailxpert: I think that Amazon swoon is much deserved. They are fundamentally misfiring on margins and communicating to Street. $AMZN","lbl":"Negative"}
+,{"time":"15:01","usr":"StocksMD","txt":"Wouldn\u0027t be surprised with $AMZN squeeze given everyone and their mom are short on twitter","lbl":"Neutral"}
 ,{"time":"15:02","usr":"Mainelydistress","txt":"looking at Feb 18 170-180 call spread $amzn for 6.80..","lbl":"Positive"}
 ,{"time":"15:46","usr":"MrSteveLee","txt":"@Trending123 I probably would have sold $amzn on the open if I hadn\u0027t talked with you..lol.","lbl":"Negative"}
+,{"time":"15:50","usr":"SeekingAlpha","txt":"Bidu: The Cheapest Growth Stock In The Market http://t.co/T1cGqgJm $AAPL $AMZN $CMG $YUM $NKE $BIDU","lbl":"Neutral"}
+,{"time":"15:50","usr":"SeekingAlpha","txt":"Fundamental Headwinds Could Spell Game Over For GameStop http://t.co/gGa9Uoo9 $ATVI $WMT $BBY $SNE $NTDOY.PK $AMZN $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"20:22","usr":"TradersHuddle","txt":"Shopping For A Deal $XRT, $AMZN, $TGT, $AMZN, $PCLN, $CVS, $SVU http://t.co/yNglEwsw","lbl":"Neutral"}
 ]

@@ -1,7 +1,17 @@
 [
-{"time":"5:29","usr":"BigTicks","txt":"$AMZN News: Apple Inc \u0027working on smaller, cheaper iPad\u0027 to compete with Google Inc\u0027s \u2026 http://t.co/lksyjx6T #iPad #AMZN #Apple","lbl":"Negative"}
+{"time":"5:13","usr":"bored2tears","txt":"As tablet race heats up, Apple may introduce smaller #iPad. http://t.co/X4mQaa6I $AMZN $AAPL $GOOG $MSFT #stocks #tech","lbl":"Neutral"}
+,{"time":"5:29","usr":"BigTicks","txt":"$AMZN News: Apple Inc \u0027working on smaller, cheaper iPad\u0027 to compete with Google Inc\u0027s \u2026 http://t.co/lksyjx6T #iPad #AMZN #Apple","lbl":"Negative"}
 ,{"time":"9:26","usr":"JohnWaggoner","txt":"RT @StockTwits: RT @MichaelComeau Positive take on $GOOG Nexus 7. $AMZN Kindle Fire in trouble: http://t.co/4YZRjgOG","lbl":"Negative"}
 ,{"time":"9:28","usr":"FairOaksTrader","txt":"RT @StockTwits: RT @MichaelComeau Positive take on $GOOG Nexus 7. $AMZN Kindle Fire in trouble: http://t.co/4YZRjgOG","lbl":"Negative"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"Where\u0027d Groupon\u0027s Growth Go? http://t.co/YUxNBHfQ $AMZN $GOOG $GRPN","lbl":"Neutral"}
+,{"time":"10:39","usr":"ericjackson","txt":"New Post: The Most Under-rated Key to Long-Term Career Success: Staying Power - Forbes http://t.co/myOwbzjB $MSFT $SBUX $AAPL $YHOO $AMZN","lbl":"Neutral"}
+,{"time":"11:06","usr":"SJosephBurns","txt":"@smallstocktradr I reviewed your book on $AMZN Thanks for sharing. http://t.co/mdYVjNRe","lbl":"Neutral"}
+,{"time":"12:01","usr":"ThePennyPlayer","txt":"$AAPL took 5.60\u0027s and sold at 6.00. Last hour today should be really nice imo. $GS $AMZN still on watch, $GOOG off of watch, no action.","lbl":"Neutral"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:47pm: 214.68 -3.71 (-1.70%).","lbl":"Neutral"}
 ,{"time":"13:39","usr":"Turtletrader59","txt":"Re-Short $amzn .....$spx $spy","lbl":"Positive"}
 ,{"time":"21:22","usr":"paulwoll","txt":"RT @sssc: $AMZN http://t.co/Zz8L61FV potential action point. if it breaks the rising tl & they show up to get short, so will i.","lbl":"Negative"}
+,{"time":"21:58","usr":"Keitha_Rozon","txt":"RT @ThePennyPlayer: Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"21:58","usr":"Greta_Mency","txt":"RT @ThePennyPlayer: Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"21:58","usr":"Roberto_Valakas","txt":"RT @ThePennyPlayer: Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"21:58","usr":"Leeanna_Collora","txt":"RT @ThePennyPlayer: Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
 ]

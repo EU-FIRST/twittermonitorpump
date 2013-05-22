@@ -1,6 +1,18 @@
 [
-{"time":"8:06","usr":"tekgik","txt":"\u201C@SAI: If These Apps Are The Best Android Has To Offer, Google Has A Big Problem $GOOG by @officialKLS http://t.co/s04R3hqx\u201D","lbl":"Negative"}
+{"time":"1:54","usr":"researchpuzzler","txt":"the battle royale among the tech (if that\u0027s the right word) giants http://t.co/mGAnkujf $AAPL $GOOG $FB $AMZN","lbl":"Neutral"}
+,{"time":"8:06","usr":"tekgik","txt":"\u201C@SAI: If These Apps Are The Best Android Has To Offer, Google Has A Big Problem $GOOG by @officialKLS http://t.co/s04R3hqx\u201D","lbl":"Negative"}
+,{"time":"8:12","usr":"milly09","txt":"\u0022@SAI: Even Google Hasn\u0027t Completely Ditched Microsoft Office For Google Apps $GOOG $MSFT by @Julie188 http://t.co/zMbLMjxD\u0022 : You Suprised?","lbl":"Neutral"}
 ,{"time":"8:15","usr":"StockMarket411","txt":"Google Will Face Greater Competition in 2013: The Economist\u2019s Daniel Franklin $goog http://t.co/e16R9Iag goog, google, google stock, news","lbl":"Negative"}
+,{"time":"10:15","usr":"researchpuzzler","txt":"why have the dominant firms -- $AAPL $GOOG $FB $AMZN -- had declining estimates? http://t.co/mGAnkujf","lbl":"Negative"}
+,{"time":"11:28","usr":"jaruppert","txt":"Personal trading: out with $NOK, in with $INTC. Waiting for $GOOG \u0022X\u0022 phone with Intel chip. #2013picks","lbl":"Neutral"}
 ,{"time":"12:52","usr":"tradethembi","txt":"$GOOG has been all buys this morning ,sometimes it goes just that easy. http://t.co/3BBlf1PR","lbl":"Positive"}
+,{"time":"12:54","usr":"wilkos","txt":"RT @SAI: YouTube Kills Billions of Video Views Faked By Music Industry $GOOG http://t.co/LkZ55fea","lbl":"Neutral"}
 ,{"time":"15:41","usr":"PhilOttewell","txt":"Android Is Dead - Part 4: New Contender Windows Phone 8 http://t.co/YyWut5T2 $MSFT $RIMM $AAPL $GOOG","lbl":"Negative"}
+,{"time":"15:42","usr":"DryGreenMachine","txt":"#ThisIsNOTaSteamer http://t.co/OtsnP2ij #brighton #saline $grpn $t $bac $goog $fb $aapl $cvs $ge $amcx $rl $cmcsa $dtv http://t.co/bllyLY7T","lbl":"Neutral"}
+,{"time":"16:43","usr":"marianhaus","txt":"How Tablet Sales Have Exploded, And Where The Next Wave Of Growth Will Come From http://t.co/1DLob31c $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:46","usr":"MoolahMitch","txt":"RT @SeekingAlpha Research In Motion\u0027s BlackBerry 10 Will Serve Its Intended Purpose http://t.co/EzM84faH $AAPL $GOOG $VZ $RIMM","lbl":"Neutral"}
+,{"time":"16:57","usr":"YazeedSobaih","txt":"Facebook needs to do this next, gj @Google RT @SAI: YouTube Kills Billions of Video Views Faked By Music Industry $GOOG http://t.co/S4lbdmVp","lbl":"Neutral"}
+,{"time":"19:49","usr":"rsaintvilus","txt":"Facebook: Target Raised To $33, Time To Buy - $AAPL, $FB, $GOOG - Foolish Blogging Network: http://t.co/wmuqzIHE via @themotleyfool","lbl":"Neutral"}
+,{"time":"19:50","usr":"rsaintvilus","txt":"Why an Amazon Smartphone Will Finally Ring in 2013 - $AMZN, $AAPL, $GOOG, $MSFT, $VZ - http://t.co/ZLjac78I via @themotleyfool","lbl":"Neutral"}
+,{"time":"19:51","usr":"rsaintvilus","txt":"Microsoft Investors: Still Carrying Dead Weight - $AAPL, $GOOG, $MSFT - http://t.co/QgIIgKKx via @themotleyfool","lbl":"Neutral"}
 ]

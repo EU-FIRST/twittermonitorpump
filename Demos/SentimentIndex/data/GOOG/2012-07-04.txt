@@ -1,10 +1,21 @@
 [
 {"time":"0:21","usr":"markfuccio","txt":"$GOOG\u0027s wrong against $AAPL stems from Eric Schmidt on the board spying. Who thinks he violated his fiduciary duty to AAPL shareholders?","lbl":"Negative"}
+,{"time":"0:29","usr":"markfuccio","txt":"$MSFT\u0027s Shaw makes fun of killed $GOOG products. Frank, what about your bigger failures Win ME, Zune, Win CE, Playforsure, Win Vista, others","lbl":"Neutral"}
+,{"time":"0:39","usr":"tinatinjohnson","txt":"A new era in #tech investing - Outside the Box. @MarketWatch http://t.co/TROmbf7S #Acquisition #Merger #Technology $APPL $GOOG","lbl":"Neutral"}
+,{"time":"0:54","usr":"thebai","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"6:59","usr":"TxbetaZesty","txt":"LULH! MT @SAI @jyarow \u0022#SCOBLE: I\u0027m Still Not Exactly Sure What #Google+ Is Trying To Be $GOOG by @jyarow http://t.co/7H2GmDjZ \u0022","lbl":"Negative"}
+,{"time":"7:00","usr":"SeekingAlpha","txt":"Nokia To Google: Time To Pay The Bill http://t.co/25XtXkFR $AAPL $GOOG $MSFT $NOK","lbl":"Neutral"}
 ,{"time":"9:02","usr":"ADVFNplc","txt":"$GOOG - SUBSCRIBERS: Apple Asian Mass Production Plans Already Reported http://t.co/4ILnFZkY","lbl":"Positive"}
+,{"time":"9:10","usr":"stock_pandit","txt":"Notable Large-Cap Insider Selling Last Week $AFL $BMY $CA $GOOG $IT $RTN $SYK http://t.co/Irc6cEgv","lbl":"Neutral"}
 ,{"time":"9:17","usr":"macropterous","txt":"Dear $GOOG (@google), Why are you taking my iGoogle away? http://t.co/aXyIpWZR Please reconsider.","lbl":"Negative"}
+,{"time":"9:25","usr":"SAI","txt":"Now The Wall Street Journal Is Also Reporting Apple Is Going To Release A Smaller iPad $AAPL $AMZN $GOOG by @jyarow http://t.co/98mPKzf5","lbl":"Neutral"}
+,{"time":"10:15","usr":"biggercapital","txt":"They just startg to figure out importance of $EBAY RT @SAI How $AAPL Could Team Up With $AMZN To Put Pressure On $GOOG http://t.co/tIYazj3E","lbl":"Negative"}
 ,{"time":"10:30","usr":"jlankinen","txt":"RT @SAI: SCOBLE: I\u0027m Still Not Exactly Sure What Google+ Is Trying To Be $GOOG by @jyarow http://t.co/1dOjoac3","lbl":"Negative"}
+,{"time":"13:36","usr":"USwwwStocks","txt":"$GOOG News: Google Retaliates by Removing Nexus from Play Store http://t.co/nBOzPSid #GOOG #From #Google","lbl":"Neutral"}
+,{"time":"13:37","usr":"gregnb","txt":"$AAPL http://t.co/nJZ3yGre $PCLN $CMG $AMZN $GOOG $MA $V $IBM $LNKD - Volume is key, but only price pays. Holiday trading","lbl":"Neutral"}
 ,{"time":"13:39","usr":"OptionsTrader82","txt":"RT @USwwwStocks: $GOOG News: Google Retaliates by Removing Nexus from Play Store http://t.co/nBOzPSid #GOOG #From #Google","lbl":"Negative"}
 ,{"time":"13:40","usr":"thefinancepress","txt":"$GOOG Google Retaliates by Removing Nexus from Play Store: Google Retaliates by Removing Nexus from Play Store ... http://t.co/DkR7rrzj","lbl":"Negative"}
 ,{"time":"21:53","usr":"ValaAfshar","txt":"If it [Google] truly wants to emulate Apple, it should minimize confusion, not foster it. http://t.co/LiHggUux @alexia $GOOG","lbl":"Negative"}
+,{"time":"21:53","usr":"ebonstorm","txt":"RT @ValaAfshar: If it [Google] truly wants to emulate Apple, it should minimize confusion, not foster it. http://t.co/LiHggUux @alexia $GOOG","lbl":"Neutral"}
+,{"time":"22:30","usr":"BigTicks","txt":"$GOOG News: Apple Said To Plan Smaller iPad To Vie With Google Nexus http://t.co/shTlrAZN #GOOG #iPad #Apple","lbl":"Neutral"}
 ]

@@ -1,4 +1,14 @@
 [
-{"time":"6:57","usr":"wadeblack","txt":"New $GOOG Nexus 7 = sell $AAPL. Nice device, easy unboxing, syncs immediately w my Android apps. Nest is only app not working @davidlwarner","lbl":"Positive"}
+{"time":"6:46","usr":"ToddSullivan","txt":"Getting more out of Google Chrome http://t.co/hkB3UOdj $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"6:57","usr":"wadeblack","txt":"New $GOOG Nexus 7 = sell $AAPL. Nice device, easy unboxing, syncs immediately w my Android apps. Nest is only app not working @davidlwarner","lbl":"Positive"}
+,{"time":"9:03","usr":"ice4449","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT by @mattlynley http://t.co/VcxNf1kY","lbl":"Neutral"}
+,{"time":"9:08","usr":"nereidadin","txt":"Great list today \u201C@abnormalreturns: Saturday links: what not to do and the challenge of making new friends. http://t.co/m3UQhpFd $GOOG","lbl":"Neutral"}
+,{"time":"9:23","usr":"TheLPE","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT by @mattlynley http://t.co/VcxNf1kY","lbl":"Neutral"}
+,{"time":"11:33","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Google Aligns Itself With The Celebrations of Ramadan: Google Aligns Itself With The Celebrations of Rama... http://t.co/v8YAYQnE","lbl":"Neutral"}
+,{"time":"11:34","usr":"tradingview","txt":"$GOOG chart published by kotsosgiannis: http://t.co/9nLVsSRY. Google daily chart.","lbl":"Neutral"}
+,{"time":"11:36","usr":"kingofalbions","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT http://t.co/ZniUQ4s1","lbl":"Neutral"}
+,{"time":"12:01","usr":"quantprof","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT by @mattlynley http://t.co/VcxNf1kY","lbl":"Neutral"}
 ,{"time":"16:36","usr":"Vconomics","txt":"Several retailers are sold out of Google\u2018s new Nexus 7 tablet. Even $GOOG\u0027s own online store only has the cheaper 8-GB version.","lbl":"Positive"}
+,{"time":"16:43","usr":"CashGap","txt":"Android is obviously a stolen product, but Google argues that\u0027s OK because it benefits the Chinese http://t.co/P8EKBJ1M #iOS $GOOG","lbl":"Neutral"}
+,{"time":"16:47","usr":"LukezicD","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT by @mattlynley http://t.co/VcxNf1kY","lbl":"Neutral"}
 ]

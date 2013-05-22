@@ -1,17 +1,34 @@
 [
-{"time":"7:06","usr":"Mahmoud_Hamouda","txt":"RT @SAI: Googler Urges Boycott Of Amazon Over Pricing $GOOG $AMZN by @nichcarlson http://t.co/3vMLF1uR","lbl":"Negative"}
+{"time":"1:51","usr":"Katherinemenlo","txt":"@TheStreet @RobertWeinstein first time ever I ordered from http://t.co/0Z6DIoEc vs. amazon b/c target pricing was more aggressive $AMZN $TGT","lbl":"Neutral"}
+,{"time":"2:29","usr":"MarNovO","txt":"Maybe when $AMZN buys $SLED3, Saraiva will finally deliver its products accurately and timely (or maybe not): http://t.co/3dppYLtW","lbl":"Neutral"}
+,{"time":"7:06","usr":"GinaEnriquez","txt":"RT @TheStreet: Analyzing the Retail Stock Bubble - http://t.co/37czRBt8 by @Suttmeier $AMZN $COST $DG","lbl":"Neutral"}
+,{"time":"7:06","usr":"Mahmoud_Hamouda","txt":"RT @SAI: Googler Urges Boycott Of Amazon Over Pricing $GOOG $AMZN by @nichcarlson http://t.co/3vMLF1uR","lbl":"Negative"}
 ,{"time":"7:06","usr":"LivingThankful","txt":"RT @businessinsider: Googler Urges Boycott Of Amazon Over Pricing $GOOG $AMZN by @nichcarlson http://t.co/T95WH8CF","lbl":"Negative"}
+,{"time":"7:32","usr":"TheStreet","txt":"6 Tech Toys Better Than What Apple Sells - http://t.co/P4vCLMOh by @Notteham $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"7:32","usr":"RealCrystalBall","txt":"6 Tech Toys Better Than What Apple Sells - http://t.co/FVLsdUcT by @Notteham $AAPL $AMZN #Apple #Stocks","lbl":"Neutral"}
+,{"time":"8:10","usr":"SeekingAlpha","txt":"3 Investment Ideas For The Perfect Portfolio http://t.co/UZLXiV0B $AAPL $AMZN $ENOC $KO $SBUX $SZYM $VXX $XIV","lbl":"Neutral"}
 ,{"time":"9:40","usr":"MarketCurrents","txt":"Amazon (AMZN) roundup: 1) Bloomberg reports Amazon is in talks to buy Brazilian bookseller Sara... http://t.co/d5LtRMKY $AMZN $MELI","lbl":"Positive"}
+,{"time":"9:42","usr":"craigstrispot","txt":"RT @LukeRomyn: The Prometheus Wars books 1 and 2 will leave you gasping: http://t.co/T4fCCphE $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"9:42","usr":"mothersitting","txt":"RT @LukeRomyn: The Prometheus Wars books 1 and 2 will leave you gasping: http://t.co/T4fCCphE $AMZN #Kindle","lbl":"Neutral"}
 ,{"time":"10:43","usr":"askchrishetrade","txt":"$AMZN 245x weekly calls that we got our followers and subscribers in are workin out well. Bear trap from the other day in full effect. $$","lbl":"Positive"}
 ,{"time":"10:44","usr":"srisri55","txt":"who gave steroids to $AMZN on such a down day?","lbl":"Positive"}
 ,{"time":"10:46","usr":"Jamtrades","txt":"waiting on another opp on $AMZN","lbl":"Positive"}
 ,{"time":"11:38","usr":"HarryWanger","txt":"$AMZN Look at this move on $GOOG miss. Watch what happens when $AMZN misses. Ugly","lbl":"Negative"}
 ,{"time":"12:13","usr":"BarryAAnderson","txt":"out of those $AMZN puts +15%. lucky","lbl":"Positive"}
+,{"time":"12:26","usr":"srisri55","txt":"If $GOOG is the leader, market follow it. Expect $AAPL $AMZN & all others incomplete earning reports, any minute now.","lbl":"Neutral"}
+,{"time":"12:26","usr":"DeidreZune","txt":"Pick your spots very carefully. Be patient. There are always #WINNERS #LOSERS Discriminate. $AAPL $GOOG $MA $V $EBAY $AMZN","lbl":"Neutral"}
 ,{"time":"12:30","usr":"HarryWanger","txt":"$AMZN Lots of money left up there at that 50 dma. Going long based on big boys need to get there money back up there or close to it.","lbl":"Positive"}
+,{"time":"12:34","usr":"GrantdeBruin82","txt":"RT @barronsonline: Google Hammered as Q3 Disappoints in Premature Release, Shares Halted http://t.co/EAd4aYlH $GOOG $RRD $BBY $AMZN","lbl":"Neutral"}
 ,{"time":"12:34","usr":"wallstCS","txt":"Book Wars: These Retail Giants Are Joining Forces Against Amazon http://t.co/7oKaCk0K $AMZN $BKS $TGT $AAPL $WMT #mkt #stocks","lbl":"Negative"}
+,{"time":"12:50","usr":"Rheetta","txt":"RT @DeidreZune Pick your spots very carefully. Be patient. There are always #WINNERS #LOSERS Discriminate. $AAPL $GOOG $MA $V $EBAY $AMZN","lbl":"Neutral"}
 ,{"time":"13:00","usr":"AnnJessicaLien","txt":"RT @barronsonline: Google Hammered as Q3 Disappoints in Premature Release, Shares Halted http://t.co/EAd4aYlH $GOOG $RRD $BBY $AMZN","lbl":"Negative"}
+,{"time":"13:48","usr":"PaulaMarttila","txt":"You said schools & education? I say $amzn: Intros Whispercast, Kindle mgt for orgs & schools http://t.co/ZwWpQsqe /@launchticker #respect","lbl":"Neutral"}
 ,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:47pm: 243.94 -3.55 (-1.43%).","lbl":"Negative"}
 ,{"time":"14:02","usr":"JMFJR","txt":"Are there 2 more over-valued stocks than $AMZN & $LNKD? #AMZN #LNKD look out below?","lbl":"Negative"}
+,{"time":"15:02","usr":"AMZN_stock","txt":"$AMZN stock quote, Oct 18: 245.18 -2.31 (-0.93%).","lbl":"Neutral"}
 ,{"time":"15:38","usr":"CapCube","txt":"$AMZN - Your Time is Gonna Come ... http://t.co/sl1V7oLK","lbl":"Positive"}
+,{"time":"15:51","usr":"Minyanville","txt":"Are Small Businesses Turning Away From Google? $GOOG $AMZN $APOL $MSFT $FB http://t.co/bHGwGrGg","lbl":"Neutral"}
+,{"time":"18:06","usr":"1CharlesH","txt":"But by $? MT @nancychowmein: wow- @dominos by transactions is 3rd largest #ecommerce co in USA, behind only $AAPL & $AMZN; 1mil orders/week!","lbl":"Neutral"}
 ,{"time":"19:34","usr":"AlexRowney","txt":"lots of poor earning reports in the tech sector today $msft, $amd, $goog. Time for the tech bubble to burst? $amzn, $crm","lbl":"Negative"}
+,{"time":"21:59","usr":"pitdesi","txt":"So binders on $AMZN are getting a lot of reviews... http://t.co/hHkUK9uY","lbl":"Neutral"}
 ]

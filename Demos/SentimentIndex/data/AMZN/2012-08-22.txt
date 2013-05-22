@@ -1,12 +1,22 @@
 [
 {"time":"5:40","usr":"MarketCurrents","txt":"Amazon (AMZN) launches the India Kindle Store on its website with over one million titles priced in r... http://t.co/RPLP6NeI $AMZN","lbl":"Positive"}
 ,{"time":"5:50","usr":"SeekingAlpha","txt":"Same-Day Delivery Could Make Amazon Even Bigger http://t.co/R4Fy4nRb $BKS $EBAY $FB $TGT $WMT $AMZN","lbl":"Positive"}
+,{"time":"8:14","usr":"RoccoPendola","txt":"Best Buy\u0027s Curious and Controversial CEO Move - TheStreet http://t.co/vnqz6WCK via @TheStreet $BBY $SBUX $YHOO $AAPL $AMZN","lbl":"Neutral"}
 ,{"time":"8:16","usr":"Daniel_Aaron17","txt":"$SPY futures down mildly to 1408. Remain short $GOOG and $AMZN going into the open. Long $VXX up 2.3 pct premarket.","lbl":"Negative"}
 ,{"time":"9:02","usr":"AlbertS_NY","txt":"While everyone has been talking $aapl & $fb, $amzn is slowly and quietly approaching a new all time high... #bezosbeast","lbl":"Positive"}
+,{"time":"9:03","usr":"AmyDrenCA","txt":"RT @scotwingo: Cool new @Amazon beta - ask a friend. I needed this feature today and BOOM - I swear that $AMZN are mind readers! http://t.co/pSYDATQr","lbl":"Neutral"}
+,{"time":"9:58","usr":"SPEQL8R","txt":"$AAPL doing better than I thot>660 next resist 665 ish. Am not interested. But as goes $AAPL $GOOG $AMZN so goes mkt- since mgrs want these","lbl":"Neutral"}
 ,{"time":"11:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:17pm: 241.27 +1.82 (+0.76%).","lbl":"Positive"}
+,{"time":"11:38","usr":"DhanyaTweets","txt":"India\u0027s $450 billion retail market calling? $AMZN opens India Kindle store. $KKD\u0027s Indian partner to spend $13.5 mln to set up stores","lbl":"Neutral"}
 ,{"time":"12:45","usr":"Msanchez261","txt":"RT @CAMAR024: still long $AMZN 245 calls\u2026..itll go ITM this week I\u0027m telling ya","lbl":"Positive"}
 ,{"time":"12:46","usr":"RedDogT3Live","txt":"On a \u0022down/bearish\u0022 day. $goog $AAPL and $amzn Don\u0027t seem to care. There is always action","lbl":"Positive"}
 ,{"time":"13:55","usr":"AnniDayTrades","txt":"$AMZN from 241.50 still see clarity to about 245-246 peel and add pullbacks if necessary","lbl":"Positive"}
+,{"time":"14:33","usr":"businessinsider","txt":"Why Amazon Should Buy Zynga $ZNGA $AMZN by @mattlynley http://t.co/xISfQj9V","lbl":"Neutral"}
+,{"time":"14:33","usr":"SAI","txt":"Why Amazon Should Buy Zynga $ZNGA $AMZN by @mattlynley http://t.co/cnnrx8y1","lbl":"Neutral"}
 ,{"time":"15:28","usr":"DellBurks","txt":"RT @tlmontana: Short: $SPY $FB $PCLN Long: $AAPL $TFM $GLD $CSCO $KORS $AMZN $LNKD","lbl":"Positive"}
+,{"time":"15:28","usr":"wallstCS","txt":"Consumer Business Rewind: Amazon Kindle Goes To INDIA, Chrysler\u0027s 300 Sedan BEATS Rivals http://t.co/tcVzIinc $AMZN $BBY $F $GM #mkt #stocks","lbl":"Neutral"}
+,{"time":"17:44","usr":"iamnotthelotus","txt":"RT @RachelILowrey: Cool! RT @FierceBiotech Amazon targets #pharma R&D, others with new #cloud storage http://t.co/Jhxw4Zji $AMZN $GOOG #BigData","lbl":"Neutral"}
+,{"time":"19:35","usr":"AndreCAndrade","txt":"Sera?? RT @SAI: Why Amazon Should Buy Zynga $ZNGA $AMZN by @mattlynley http://t.co/dUfylTMw","lbl":"Neutral"}
+,{"time":"22:52","usr":"BrianDeDonato","txt":"VCHEDGE Trade Plan for Thursday, August 23, 2012 http://t.co/iRZrVOar $AAPL $GOOG $AMZN","lbl":"Neutral"}
 ,{"time":"23:05","usr":"atomicpoet","txt":"Facebook is not the only company who\u0027s found value in being a platform. Look at Amazon too. Amazon has amazing APIs. $FB $AMZN","lbl":"Positive"}
 ]

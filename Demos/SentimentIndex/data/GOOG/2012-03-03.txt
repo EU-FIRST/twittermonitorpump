@@ -1,4 +1,13 @@
 [
 {"time":"8:37","usr":"omarjavaid","txt":"RT @SAI: Google\u0027s Answer To Apple\u0027s Siri Revealed! $GOOG $AAPL http://t.co/9njIXIIO","lbl":"Positive"}
+,{"time":"8:37","usr":"bpeck","txt":"$GOOG - The latest CoRise M&A report is now up on our site - check out some of the trends / multiples... http://t.co/peGWIrCe","lbl":"Neutral"}
+,{"time":"8:40","usr":"hanskoning","txt":"RT @SAI: Google\u0027s Answer To Apple\u0027s Siri Revealed! $GOOG $AAPL http://t.co/pfHnRC6z","lbl":"Neutral"}
+,{"time":"8:41","usr":"RichardWilks","txt":"$appl v $goog the battle rages on RT @RWW: #Yelp, #Twitter & #Apple\u0027s Anti-#Google Coalition http://t.co/9vR2kzLV","lbl":"Neutral"}
 ,{"time":"12:33","usr":"mikesouellette","txt":"RT @SAI: Google\u0027s Answer To Apple\u0027s Siri Revealed! $GOOG $AAPL http://t.co/9njIXIIO","lbl":"Positive"}
+,{"time":"12:41","usr":"ratenookami","txt":"RT @businessinsider: ANDREESSEN: Sending Our Gadget-Making Jobs To China Is Good For Us $AAPL $GOOG by @nichcarlson http://t.co/fOgxi96s","lbl":"Neutral"}
+,{"time":"12:44","usr":"jtehrani","txt":"RT @SAI: ANDREESSEN: Sending Our Gadget-Making Jobs To China Is Good For Us $AAPL $GOOG by @nichcarlson http://t.co/OUlgOP8b","lbl":"Neutral"}
+,{"time":"12:50","usr":"party_man2012","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/7O9IuTD3 #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"21:35","usr":"chrispycrunch","txt":"Rumor: iPad 3 pricing to match current lineup http://t.co/JnEfXGCF $AAPL $RIMM $GOOG","lbl":"Neutral"}
+,{"time":"22:27","usr":"benny_the_dogs","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/qdkP00Rt #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"22:41","usr":"donaldtw4","txt":"http://t.co/3UDeIQMt $RIMM Playbook now the best low-cost tablet $AMZN $GOOG","lbl":"Neutral"}
 ]

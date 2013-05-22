@@ -1,10 +1,21 @@
 [
-{"time":"7:53","usr":"KingsmenMedia","txt":"RT @SAI: Apple And Amazon Fix The Security Holes That Caused Wired Editor\u0027s Epic Hacking $AAPL $AMZN by @stevekovach http://t.co/bf9R6tc9","lbl":"Positive"}
+{"time":"5:33","usr":"SiAlpha","txt":"Social gaming gets crowded with Amazon $AMZN getting into the space with the launch of Living Classics http://t.co/ZMKt0I71","lbl":"Neutral"}
+,{"time":"7:53","usr":"KingsmenMedia","txt":"RT @SAI: Apple And Amazon Fix The Security Holes That Caused Wired Editor\u0027s Epic Hacking $AAPL $AMZN by @stevekovach http://t.co/bf9R6tc9","lbl":"Positive"}
+,{"time":"7:55","usr":"maltiq","txt":"RT @SAI: Apple And Amazon Fix The Security Holes That Caused Wired Editor\u0027s Epic Hacking $AAPL $AMZN by @stevekovach http://t.co/bf9R6tc9","lbl":"Neutral"}
+,{"time":"7:56","usr":"ricketzz","txt":"RT @YahooFinance: EBay moves into Amazon Prime territory http://t.co/HGkELauY $EBAY $AMZN","lbl":"Neutral"}
 ,{"time":"9:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:46am: 235.54 -1.02 (-0.43%).","lbl":"Negative"}
+,{"time":"10:16","usr":"RedDogT3Live","txt":"Late morning note: Market takes gap down in stride http://t.co/am5BVl6i $SPY $PCLN $AAPL $AMZN $GMCR @T3Live","lbl":"Neutral"}
 ,{"time":"11:51","usr":"trendcetera","txt":"RT @SAI: Apple And Amazon Fix The Security Holes That Caused Wired Editor\u0027s Epic Hacking $AAPL $AMZN by @stevekovach http://t.co/bf9R6tc9","lbl":"Positive"}
 ,{"time":"12:50","usr":"fin_bot1","txt":"RT@SAI Amazon Is Hiring Experts To Acquire A Big Pile Of Patents $AMZN http://t.co/Jh8ToBeR","lbl":"Positive"}
 ,{"time":"13:57","usr":"S_KimaniM","txt":"RT @SmartMoney: Time to sell Amazon stock? It reported 96% drop in 2Q earnings, said it would lose money in 3rd quarter. http://t.co/Bq6xftUU $AMZN","lbl":"Negative"}
+,{"time":"13:58","usr":"DavidZie","txt":"$AMZN $UTC $ISIL Curiosity On Mars: Give Credit To http://t.co/YIpxeb1m, Aeroflex, Too - http://t.co/SKWDgUTM","lbl":"Neutral"}
 ,{"time":"14:28","usr":"Dannyn92","txt":"RT @SmartMoney: Time to sell Amazon stock? It reported 96% drop in 2Q earnings, said it would lose money in 3rd quarter. http://t.co/Bq6xftUU $AMZN","lbl":"Negative"}
+,{"time":"14:39","usr":"TenBaggers","txt":"eBay is now on a collision course with Amazon: http://t.co/49s8jcbI $EBAY $AMZN","lbl":"Neutral"}
+,{"time":"15:34","usr":"SAI","txt":"CHART OF THE DAY: Even At $21, Facebook Is Still Overpriced $FB $AMZN $LNKD $AAPL $GOOG by @jyarow http://t.co/LCU8OqTP","lbl":"Neutral"}
+,{"time":"15:35","usr":"ernieschell","txt":"RT @SAI: CHART OF THE DAY: Even At $21, Facebook Is Still Overpriced $FB $AMZN $LNKD $AAPL $GOOG by @jyarow http://t.co/LCU8OqTP","lbl":"Neutral"}
 ,{"time":"16:48","usr":"jusprag24","txt":"RT @JohnEarlBurnett: Why A Mini iPad Will Kill The Kindle http://t.co/fdtZL19h $AAPL $AMZN $$","lbl":"Negative"}
+,{"time":"16:50","usr":"Sentimentcharts","txt":"RT @valuewalk: S&P 500 Dividend Payments Reach a 13 Year High http://t.co/qzHgQn1C $XOM $SPY $GME $DELL $GOOG $AMZN $AAPL","lbl":"Neutral"}
 ,{"time":"16:52","usr":"1800Stocks","txt":"RT @CNNMoney: RT @julpepitone: Hack of @Mat Honan forces Apple & Amazon to change security policies http://t.co/RwSFoohB via @CNNMoneyTech $AAPL $AMZN","lbl":"Negative"}
+,{"time":"18:42","usr":"juanFNDZ","txt":"RT @CNNMoney: RT @julpepitone: Hack of @Mat Honan forces Apple & Amazon to change security policies http://t.co/RwSFoohB via @CNNMoneyTech $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"20:40","usr":"bored2tears","txt":"Man orders TV on Amazon, receives Sig Sauer semi-automatic assault rifle instead. http://t.co/AChJW4At $AMZN","lbl":"Neutral"}
 ]

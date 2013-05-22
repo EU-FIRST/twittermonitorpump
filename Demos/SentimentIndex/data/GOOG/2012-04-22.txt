@@ -1,7 +1,14 @@
 [
 {"time":"4:07","usr":"lucfun","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"4:19","usr":"benny_the_dogs","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/HlwBc63T #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"4:25","usr":"leopardtrader","txt":"Weekly precise range levels for 30+ Forex pairs, $CRUDE, $GOLD, $GS, $AAPL, $NFLX, $AMZN, $CAT, $GOOG updated http://t.co/KKcExeWE $EURUSD","lbl":"Neutral"}
+,{"time":"8:14","usr":"punksgt","txt":"Google X research facility and its secret projects http://t.co/yYcFgxi6 #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
 ,{"time":"8:19","usr":"Mister_Curtis","txt":"#tech RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/iO7hpJb0","lbl":"Negative"}
 ,{"time":"8:21","usr":"manxmidge","txt":"RT @GregoryScallan: RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/96SNOYpv","lbl":"Negative"}
 ,{"time":"11:05","usr":"stocksonmymind8","txt":"$GOOG - Google Stock Analysis - CCI is bullish - http://t.co/Tg7ON3Ac","lbl":"Positive"}
+,{"time":"11:08","usr":"afilonov","txt":"Commented on: \u0022Can Anything Scare This Bull?\u0022 http://t.co/A96ujooY $EU $DSW $ARMH $GOOG $EWP","lbl":"Neutral"}
+,{"time":"15:00","usr":"mhowington","txt":"RT @ArlenWms: RT @I_am_funny_one: Google X research facility and its secret projects http://t.co/KU8Rn8mn #video $goog $aapl $sne $gm $f #wagb","lbl":"Neutral"}
+,{"time":"15:07","usr":"angry_veteran","txt":"Ever wonder how the iPhone works? $aapl $goog $vz $T #iphone http://t.co/NyMip4FX","lbl":"Neutral"}
+,{"time":"18:51","usr":"bluser12","txt":"RT @patroneux: Stocks I\u0027m looking at for tomorrow: $IR $UA $AAPL $GOOG $QQQ $SPY $STD $FXE $FXY $UNG $TLT $TBT $NFLX $XRX","lbl":"Neutral"}
 ,{"time":"19:02","usr":"theoldfather","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
 ]

@@ -1,7 +1,17 @@
 [
 {"time":"3:34","usr":"USwwwStocks","txt":"$AMZN News: http://t.co/mcOt5byj Closes In On Its Endgame As Sales Taxes Loom http://t.co/pKasaqDT #AMZN #Amazoncom #closes","lbl":"Negative"}
 ,{"time":"3:34","usr":"USwwwStocks","txt":"$AMZN News: http://t.co/mcOt5byj Closes In On Its Endgame As Sales Taxes Loom http://t.co/xJEyAkat #AMZN #Amazoncom #closes","lbl":"Negative"}
+,{"time":"7:59","usr":"RoccoPendola","txt":"America\u0027s Top 100 Retailers: Competitors and Trend-Setters - TheStreet http://t.co/T4VuEzvc via @TheStreet #retail $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"8:38","usr":"wallstCS","txt":"Groupon CEO ROLLS UP Sleeves and 3 Must-See Hot Morning Stocks http://t.co/p3UMCF7G $YHOO $AAPL $AMZN $GRPN #mkt #stocks","lbl":"Neutral"}
 ,{"time":"8:40","usr":"TweetLeni","txt":"A nice morning $Still short $AMZN $EBAY $CRM","lbl":"Negative"}
+,{"time":"10:00","usr":"SeekingAlpha","txt":"Is Inflation Returning? http://t.co/lnOg6jJU $AGNC $AMZN $AVB $BP $CAG $COP $CPI $CVX $DLTR $DRI $DUK $EAT $ED $EQR $F $GIS $GLD","lbl":"Neutral"}
+,{"time":"10:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:46am: 214.34 -1.67 (-0.77%).","lbl":"Neutral"}
+,{"time":"10:02","usr":"RetailRobWilson","txt":"Top 10 Update... current long/short recs include $ARO/$ANF, $FDO/$AMZN, $UA/$URBN, $TGT/$M, $RT/$MCD. See pic. http://t.co/onNWBHZE","lbl":"Neutral"}
 ,{"time":"11:13","usr":"Power0v5","txt":"It\u0027s a good day to have $AMZN stock in your portfolio... #OntoBigThings","lbl":"Positive"}
+,{"time":"11:16","usr":"BrianStengel","txt":"Ellenbogen: Four platform companies today- $AMZN, $GOOG, $AAPL, $FB. $MSFT wants to be but they are way behind. #FortuneTech","lbl":"Neutral"}
+,{"time":"12:52","usr":"StockStandOff","txt":"$AMZN vs $EBAY: eBay Fashion Collaborates with Seven Leading Designers on the eBay Holiday Collective; Unwraps Original, Limited-Edition Gi","lbl":"Neutral"}
+,{"time":"14:30","usr":"wallstCS","txt":"Are Amazon And Its Tablet In Trouble? http://t.co/fnLQMpEx $AAPL $TGT $AMZN $GOOG #mkt #stocks #trading #investings","lbl":"Neutral"}
+,{"time":"14:32","usr":"fpbadnewz","txt":"RT \u0022@CNBCtopStories: Mayer Outlines Plans to Revive Yahoo http://t.co/kgHKv3IA $AMZN $CCO $CCU $CMCSA $FB $GOOG $MSFT $NWS.A $NWSA $YHOO\u0022","lbl":"Neutral"}
+,{"time":"15:51","usr":"wallstCS","txt":"Tech Business Roundup: Microsoft Promises A GLITCH Fix, Yahoo STUNS The Tech World http://t.co/MsuMpd4P $MSFT $YHOO $GOOG $AMZN #mkt","lbl":"Neutral"}
 ,{"time":"18:02","usr":"tetela_s","txt":"RT @tradingfloorcom: Amazon will be the Wal-Mart of the 21st century @petergarnry equity strategist @Saxobank $AMZN $WMT http://t.co/D6jNKISv","lbl":"Positive"}
 ]

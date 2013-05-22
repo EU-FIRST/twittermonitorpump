@@ -1,5 +1,6 @@
 [
-{"time":"15:56","usr":"vid_e","txt":"@leopardtrader go away and go troll $amzn, now that\u0027s a stock you can short!","lbl":"Negative"}
+{"time":"4:58","usr":"UmarAlam","txt":"RT @wallstCS: Google Switches Focus Away from This Failing Business http://t.co/AsPwfRx2 $GOOG $BKS $AMZN #stocks #mkt #trading","lbl":"Neutral"}
+,{"time":"15:56","usr":"vid_e","txt":"@leopardtrader go away and go troll $amzn, now that\u0027s a stock you can short!","lbl":"Negative"}
 ,{"time":"16:03","usr":"ValaAfshar","txt":"Are Apple and Amazon destroying the job market? http://t.co/zy9aOVBb @SAI $AAPL $AMZN","lbl":"Negative"}
 ,{"time":"16:47","usr":"dontgiveup9","txt":"$AMZN - Amazon Stock Analysis - 5day ema crossdown - http://t.co/Ynplx5nH","lbl":"Negative"}
 ]

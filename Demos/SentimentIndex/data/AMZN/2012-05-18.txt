@@ -1,8 +1,27 @@
 [
-{"time":"8:14","usr":"newsagg","txt":"RT @DrDuru: http://t.co/ry3ESMNf Triggers Signal To Short - But Do Not Pull The Trigger Yet: http://t.co/MYmEofzg $AMZN","lbl":"Negative"}
+{"time":"0:55","usr":"StockStandOff","txt":"$AMZN vs $EBAY: How Microsoft-Nook Deal Would Hurt Amazon? http://t.co/JaLp0ox8 #AMZN #Amazon #Deal","lbl":"Neutral"}
+,{"time":"6:11","usr":"StockMarketEnds","txt":"Anti Christ Zionists WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Editor #Writer #Solar #Fitness #Educator #Computer","lbl":"Neutral"}
+,{"time":"6:12","usr":"StockMarketEnds","txt":".......This is called justice of the Anti Christ Zionists, AntiChrist UK Government & US Judges $CXW $GEO $IBM $AMZN $MSFT $WFC","lbl":"Neutral"}
+,{"time":"6:15","usr":"themaxpain","txt":"$AMZN ($218.36), 5/18/2012, current max pain strike price: $210.00. Put/Call ratio: 1.364. #AMZN","lbl":"Neutral"}
+,{"time":"8:14","usr":"newsagg","txt":"RT @DrDuru: http://t.co/ry3ESMNf Triggers Signal To Short - But Do Not Pull The Trigger Yet: http://t.co/MYmEofzg $AMZN","lbl":"Negative"}
+,{"time":"8:14","usr":"lluccipha","txt":"SAI: RUMOR: Amazon Will Launch A 10-Inch Kindle Fire, But Not An 8-Inch Model $AMZN by @stevekovach http://t.co/wZfkCkym","lbl":"Neutral"}
+,{"time":"8:55","usr":"kstockguy","txt":"$amzn into the gap. very few stocks hold the gap\u0027s. even might $aapl cant hold gaps. 185 to 195 looms.","lbl":"Neutral"}
+,{"time":"9:32","usr":"drewmccormack","txt":"RT @Lessien: $FB\u0027s market cap on open will be slightly higher than $AMZN. Think about that.","lbl":"Neutral"}
 ,{"time":"10:38","usr":"chicagosean","txt":"Rolled long $AMZN Jun 220 put down to 215 for a $2.50 credit. Long against 205 short. Reducing risk.","lbl":"Positive"}
 ,{"time":"10:40","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:25am: 216.15 -2.21 (-1.01%).","lbl":"Negative"}
+,{"time":"11:11","usr":"DarkMat11","txt":"RT @pdparticle: Wow! Facebook\u0027s market cap is higher than Amazon\u0027s right now. $104 billion vs. 96.5 billion $FB $AMZN","lbl":"Neutral"}
 ,{"time":"12:12","usr":"jimcollins","txt":"RT @StockTwits: In other news, $AMZN is dominating its segment of the Social Heatmap http://t.co/4NG1DI0g as it trades into earnings gap.","lbl":"Positive"}
 ,{"time":"14:15","usr":"frank_world","txt":"@TraderFlorida you think $AMZN is a good short here","lbl":"Negative"}
 ,{"time":"14:40","usr":"nicholas_yee","txt":"Dead wrong on my $FB call, maybe investors are finally learning! Hopefully now $AMZN will drop by 90% and $AAPL will jump to $1000!","lbl":"Negative"}
+,{"time":"19:44","usr":"skernalsanders","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"19:46","usr":"ryanprociuk","txt":"@upsidetrader The $AMZN IPO didn\u0027t light the world on fire either","lbl":"Neutral"}
+,{"time":"19:47","usr":"heif","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"19:48","usr":"dquayle","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"21:10","usr":"lucasdickey","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"21:10","usr":"louden_99","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"21:11","usr":"pdparticle","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"21:12","usr":"Givoanna","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"23:15","usr":"joevaccaro","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"23:21","usr":"mjUX","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"23:25","usr":"DanByDay","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
 ]

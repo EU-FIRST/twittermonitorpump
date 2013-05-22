@@ -1,11 +1,18 @@
 [
-{"time":"8:40","usr":"TraderNewburgh","txt":"$AAPL - broke descending trend line; $NKE - watch if it reclaims 50 day; $AMZN - breaking descending trend line; $UA - watch 50 day;","lbl":"Negative"}
+{"time":"4:15","usr":"sotek","txt":"\u0022Amazon is so serious about its next big thing that it hired three women to do nothing but try on size 8 shoes for its Web reviews.\u0022 $AMZN","lbl":"Neutral"}
+,{"time":"7:49","usr":"lindseycbell","txt":"RT @t3live_com: RT @RedDogT3Live @lindseycbell joins me for the Morning Call Express LIVE http://t.co/WMjCUB3v $SPY $AAPL $AMZN $JPM $AXP","lbl":"Neutral"}
+,{"time":"7:50","usr":"oktobernv","txt":"RT @firstadopter: E Ink Holdings $AMZN largest supplier of e-reader displays posts -47% y/y March sales http://t.co/82KZi8iX","lbl":"Neutral"}
+,{"time":"8:40","usr":"TraderNewburgh","txt":"$AAPL - broke descending trend line; $NKE - watch if it reclaims 50 day; $AMZN - breaking descending trend line; $UA - watch 50 day;","lbl":"Negative"}
 ,{"time":"8:48","usr":"newsagg","txt":"$AMZN slope change of 10d60m and TTM_LRC shows down http://t.co/kvzv265p","lbl":"Negative"}
+,{"time":"8:48","usr":"LiftCharts","txt":"RT @newsagg: $AMZN slope change of 10d60m and TTM_LRC shows down http://t.co/kvzv265p","lbl":"Neutral"}
 ,{"time":"9:33","usr":"LeveragedATM","txt":"RT @biggercapital: $AMZN Prime turning into a must have","lbl":"Positive"}
 ,{"time":"9:33","usr":"DividendMaster","txt":"mark my words . their is a quarterly result coming from $AMZN that will make the $NFLX plunge look like an odd lot after longs jaws hit desk","lbl":"Negative"}
 ,{"time":"11:55","usr":"BlueFielder","txt":"$AMZN ... more better","lbl":"Positive"}
 ,{"time":"12:55","usr":"aznboi27","txt":"here we go $AMZN, let\u0027s go","lbl":"Positive"}
 ,{"time":"13:20","usr":"aznboi27","txt":"getting ready to exit $AMZN for loss.. they don\u0027t want to let this one go","lbl":"Negative"}
 ,{"time":"13:58","usr":"zeestorm","txt":"$AMZN well there\u0027s the drop to 227 that I was expecting >.> should\u0027ve held out.. oh well stops are there for a reason","lbl":"Negative"}
+,{"time":"17:08","usr":"hedgefundinvest","txt":"RT @hblodget: It should now be crystal clear to all that Wall Street has no f\u0027ing idea how to assess and monitor risk. // Or value $AMZN","lbl":"Neutral"}
 ,{"time":"17:09","usr":"kjrose","txt":"@hedgefundinvest @hblodget Still on the $AMZN kick, eh? What\u0027s the P/E on that now?","lbl":"Negative"}
+,{"time":"20:07","usr":"TraderNewburgh","txt":"$SPY http://t.co/NyI9Sbb0 stock setups part I (VIDEO) $AAPL $GOOG $FXE $GLD $AMZN $ULTA","lbl":"Neutral"}
+,{"time":"20:52","usr":"tradetheROCK","txt":"\u201C@firstadopter: April U.S. videogame sales -42% y/y http://t.co/Ivj7Umvo $GME $AMZN $BBY\u201D wow..","lbl":"Neutral"}
 ]

@@ -1,7 +1,15 @@
 [
 {"time":"0:49","usr":"ypanjabi","txt":"Americans Spent $43.2B Online in Q2; mkt grew at 15%, $amzn 32%, $ebay 23% driven by mobile; http://t.co/zRJMDUta holidays should be fun!","lbl":"Positive"}
 ,{"time":"6:05","usr":"wazne19","txt":"RT @StockTwits: Largest USA Tech Companies Earnings Plunge, But Apple Still Dominates http://t.co/4Z3fcxTN via @ospreyflyer $AAPL $QQQ $AMZN","lbl":"Negative"}
+,{"time":"7:38","usr":"Retail_Guru","txt":"US July #retail sales even stronger excluding dip in gasoline prices. Sporting goods, furniture & internet sales highlights $WSM $BBBY $AMZN","lbl":"Neutral"}
 ,{"time":"8:32","usr":"paulwoll","txt":"Got for 2.14 $AMZN Aug 18 \u002712 $235 Calls.","lbl":"Positive"}
 ,{"time":"8:34","usr":"44andrew","txt":"$amzn moving. I\u0027m long, stop 228","lbl":"Positive"}
+,{"time":"9:07","usr":"stevenpdennis","txt":"RT @Retail_Guru: Mobile commerce talk quickly becoming mainstream. 15% of $EL comment sales from mobiles. Astounding 67% of MAC web sales from mobiles $AMZN","lbl":"Neutral"}
+,{"time":"11:28","usr":"BrightWireInc","txt":"iSuppli\u0027s report on global tablet sales in 2Q 2012 has Apple ahead of Samsung, by a long shot http://t.co/bJGy6yqP $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"13:08","usr":"infovestment","txt":"MIcrosoft - Surface Tablet to hit the street on OCT 26 for 199 USD http://t.co/uu5BbUJh $MSFT $AAPL $AMZN $$ #MKT","lbl":"Neutral"}
 ,{"time":"17:29","usr":"BigTicks","txt":"$AMZN News: Lansdowne Buys Google, Amazon in Second Quarter, Filing Shows http://t.co/vwXAcU4Q #Amazon #AMZN #buys","lbl":"Positive"}
+,{"time":"17:33","usr":"TheStreet","txt":"Market Preview: Smart Money Skeptics http://t.co/AguwT37d $CSCO $TGT $AMZN $JDSU $SPX $DJI","lbl":"Neutral"}
+,{"time":"17:33","usr":"jimcramer","txt":"Market Preview: Smart Money Skeptics http://t.co/ju3n4aDG $CSCO $TGT $AMZN $JDSU $SPX $DJI","lbl":"Neutral"}
+,{"time":"17:35","usr":"AllowanceTree","txt":"RT @jimcramer: Market Preview: Smart Money Skeptics http://t.co/ju3n4aDG $CSCO $TGT $AMZN $JDSU $SPX $DJI","lbl":"Neutral"}
+,{"time":"19:11","usr":"ECONgeek947","txt":"$NFLX Netflix Advances After Bank of America Recommends Shares http://t.co/RqIqzSwx via @BloombergNews $CSTR $VZ $AMZN $AAPL $GOOG $CMCSA","lbl":"Neutral"}
 ]

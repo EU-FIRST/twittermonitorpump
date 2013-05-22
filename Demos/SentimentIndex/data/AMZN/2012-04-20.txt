@@ -1,3 +1,8 @@
 [
 {"time":"15:40","usr":"pymcom","txt":"RT @Benzinga $AMZN Kindle Touch 3G Starts Shipping to Customers in Over 175 Countries, Seven Days Early; Says Orders Exceeded Expectations","lbl":"Positive"}
+,{"time":"16:58","usr":"tlmontana","txt":"RT @pattidomm: Earnings to Watch: AAPL, XOM & More http://t.co/BxyXxJe3 $AAPL $AMD $AMZN $BA $CAT $CVX $NFLX $RDS\u0027A $RDS\u0027B $RDS.A $SNDK $TXN $XOM","lbl":"Neutral"}
+,{"time":"16:59","usr":"J_Beristain","txt":"RT @bespokeinvest: Here are the key stocks reporting earnings next week: http://t.co/vNYtHrUJ $AAPL $CAT $BA $AMZN $XOM $$","lbl":"Neutral"}
+,{"time":"17:00","usr":"ACInvestorBlog","txt":"Top 6 stocks ideas for next week http://t.co/mjs2s7gJ $AMZN $DNDN $FSLR $MSFT $TWER $UA","lbl":"Neutral"}
+,{"time":"18:58","usr":"DuxDidWhat","txt":"RT @MadMoneyOnCNBC: Cramer\u2019s... http://t.co/JThxAfRA $AAPL $AMZN $BA $CAT $CELG $CLF $COP $DECK $IP $MMM $NFLX $PG $PNRA $T $TXN $VFC $VZ $WYN $XOM $ZNGA","lbl":"Neutral"}
+,{"time":"20:35","usr":"StockMarketEnds","txt":"Anti Christ Zionist Wells Fargo, American Express & CapitalOne are Anti 99% $CXW #AXP #COF $GEO #WFC $WFC $AXP $COF #CXW #GEO $GS #GS $AMZN","lbl":"Neutral"}
 ]

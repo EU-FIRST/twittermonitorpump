@@ -1,5 +1,16 @@
 [
-{"time":"6:33","usr":"stocksguru8","txt":"$AMZN - Amazon Stock Analysis - bearish stochastic crossdown - http://t.co/YL4s4uCL","lbl":"Negative"}
+{"time":"3:58","usr":"modTrader","txt":"RT @RoccoPendola: Commented on: \u0022Why I Am A Long-Term Apple Bear\u0022 http://t.co/4OXh7voX $AMZN $GOOG $INTC $MSFT $NOK $SNE $AAPL","lbl":"Neutral"}
+,{"time":"6:33","usr":"stocksguru8","txt":"$AMZN - Amazon Stock Analysis - bearish stochastic crossdown - http://t.co/YL4s4uCL","lbl":"Negative"}
+,{"time":"8:10","usr":"wallstCS","txt":"Should Apple Investors Be Nervous About Stock Performance? http://t.co/GwA74DBC $AAPL $GOOG $AMZN $VZ","lbl":"Neutral"}
+,{"time":"8:10","usr":"stock_pandit","txt":"Top 10 Stocks With Increasing Profit Margins http://t.co/M3397NJE $ACFN $AKRX $ALXN $AZPN $HF $MIND $MKTX $POZN $RBN $SLXP $TTM $JPM $AMZN","lbl":"Neutral"}
+,{"time":"10:00","usr":"tara_south","txt":"10 Things You Need To Know This Morning $FB $GOOG $AMZN $AAPL $MSFT by @_dtl http://t.co/4hIIrI5P #in","lbl":"Neutral"}
+,{"time":"11:30","usr":"SeekingAlpha","txt":"Surviving The Netflix Implosion: What\u0027s Next? http://t.co/diSeV03g $AAPL $AMZN $CMCSA $DISH $P $NFLX","lbl":"Neutral"}
+,{"time":"13:20","usr":"SeekingAlpha","txt":"Hewlett-Packard Could Sink In 2013 Without New PC Innovations http://t.co/t3umxhll $AMZN $DELL $EBAY $GOOG $T $HPQ $LNVGY.PK","lbl":"Neutral"}
+,{"time":"13:23","usr":"Fuelnu","txt":"RT @SeekingAlpha: Hewlett-Packard Could Sink In 2013 Without New PC Innovations http://t.co/t3umxhll $AMZN $DELL $EBAY $GOOG $T $HPQ $LNVGY.PK","lbl":"Neutral"}
+,{"time":"13:24","usr":"_ChrisVersace","txt":"Despite the pullback, Still A No Go on Netflix http://t.co/v3QRbDQZ $NFLX $AAPL $GOOG $CMCSA $VZ $TWC $CSTR $AMZN $FB","lbl":"Neutral"}
+,{"time":"15:16","usr":"Grazen","txt":"Why trailblazing Amazon should take on the publishing establishment $AMZN http://t.co/pqxY3s3K","lbl":"Neutral"}
 ,{"time":"16:27","usr":"iminbeastmode","txt":"RT @firstadopter: How many iPhones and iPads did $AMZN sell directly? 0 and 0. Every dollar spent on iPhone and iPad is a dollar not spent on Amazon","lbl":"Negative"}
 ,{"time":"23:18","usr":"wulu4","txt":"$AMZN - Amazon Stock Analysis - price & ema crossover, #bull stock - http://t.co/WSzipGi7","lbl":"Positive"}
+,{"time":"23:30","usr":"SeekingAlpha","txt":"RadioShack: Beware Of The \u0027Value\u0027 Trap http://t.co/fqjhUSVz $AMZN $BBY $RSH","lbl":"Neutral"}
+,{"time":"23:33","usr":"TheEmulator23","txt":"\u201C@SeekingAlpha: RadioShack: Beware Of The \u0027Value\u0027 Trap http://t.co/8lFjDtgx $AMZN $BBY $RSH\u201D RT They will not exist as a whole very soon.","lbl":"Neutral"}
 ]

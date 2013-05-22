@@ -1,13 +1,38 @@
 [
-{"time":"9:08","usr":"NorthmanTrader","txt":"sold the $SLV and $GLD calls for nice profit. BAck into $GOOG and some $AAPL. Added $IWM calls via Dec exp.","lbl":"Positive"}
+{"time":"7:33","usr":"ocsta7","txt":"so wat i have open $GOOG long iron condor $BAC long iron butterfly $SPY bear call vertical which is a repair for my bull call vertical","lbl":"Neutral"}
+,{"time":"8:35","usr":"NickInman_","txt":"Watch Me Trade Nasdaq Futures http://t.co/ii8qewHp $NQ_F $QQQ $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"8:36","usr":"StockMarket411","txt":"The Zacks Analyst Blog Highlights: Apple, Google, Schlumberger, Total and Royal Dutch Shell $goog http://t.co/XeXtuHjY goog, google, goog...","lbl":"Neutral"}
+,{"time":"9:08","usr":"NorthmanTrader","txt":"sold the $SLV and $GLD calls for nice profit. BAck into $GOOG and some $AAPL. Added $IWM calls via Dec exp.","lbl":"Positive"}
 ,{"time":"9:08","usr":"nolte88","txt":"$GOOG https://t.co/6pRMMrI1 5 MINUTE. One perspective. Small positioin at $678 added. Another market fade looks worrisome though.","lbl":"Positive"}
+,{"time":"9:53","usr":"RabbiWolbeJr","txt":"@Magyer Uncle Joe, why wouldn\u0027t $goog charge for Android os? $5\u00D71.3m devices daily = $2.3B in annual revenue. #FoolishQuestion","lbl":"Neutral"}
 ,{"time":"10:38","usr":"nexgennovak","txt":"$GOOG Update on short opportunity heading towards first target area http://t.co/UxscRhVE","lbl":"Negative"}
 ,{"time":"11:50","usr":"iStockAnalyst","txt":"Sector Detector: Stocks Can\u0027t Overcome Weak Quarterly Reports $AAPL $AMD $BAC $CAT $CERN $DIS $FFIV $GE $GOOG $H... http://t.co/Tk9gyugQ","lbl":"Negative"}
+,{"time":"11:51","usr":"USwwwStocks","txt":"$GOOG News: Google Inc. (NASDAQ:GOOG) and two other giants fix serious email security ... http://t.co/WMcvL5DQ #GOOG #EMAIL #Giants","lbl":"Neutral"}
+,{"time":"11:52","usr":"Carina_Lermon","txt":"Flipboard for Android gains audio, lets us tune into SoundCloud ... #Android $GOOG http://t.co/2Z2lGGxo","lbl":"Neutral"}
+,{"time":"13:20","usr":"littletigercs","txt":"$GOOG -$690 c and $660 p. on watch list.","lbl":"Neutral"}
+,{"time":"14:14","usr":"daytrend","txt":"The addition of mobile >> the shift to mobile. $GOOG $MSFT $AAPL","lbl":"Neutral"}
 ,{"time":"14:18","usr":"KeithMcCullough","txt":"$GOOG looks scarier than $AAPL on the downside, not sure why - but next support is $638","lbl":"Negative"}
+,{"time":"14:20","usr":"SeekingAlpha","txt":"Facebook: Dan Niles Now Long After Covering His Short Position http://t.co/BpfM0nMy $AMZN $EBAY $GOOG $LGF $MSFT $YHOO $FB","lbl":"Neutral"}
+,{"time":"14:51","usr":"WalterLiveOak","txt":"RT @KeithMcCullough: $AMZN finally looks much more washed out than $AAPL or $GOOG, fyi","lbl":"Positive"}
+,{"time":"14:53","usr":"ITMS","txt":"He Makes The Trade: $AAPL, $GOOG, $IYT, $SPY, Dollar http://t.co/AOYLZ5c3","lbl":"Neutral"}
 ,{"time":"14:53","usr":"Alex__Salomon","txt":"Tons to say abt $FIO earnings call, but the $GOOG oppty. is nicest recognizable news. @axiosadvisors @UdallTechStrat I\u0027ll accumulate as ever","lbl":"Positive"}
+,{"time":"15:05","usr":"surrept","txt":"$AAPL $AMZN $GOOG all missing would be horrible for the $QQQ. Later two so far. Can $AAPL save the market?","lbl":"Negative"}
+,{"time":"15:07","usr":"GVGOZZ","txt":"RT @traderstewie: First $GOOG, now $AMZN. What will the $AAPL-miester do??!","lbl":"Neutral"}
+,{"time":"15:20","usr":"SPEQL8R","txt":"e.g of what I mean would be $GOOG in June July it tested 558 like so many times, did a W bottom, broke out and did not look back for months","lbl":"Neutral"}
 ,{"time":"15:46","usr":"Equitykingkong","txt":"$GOOG: long a feeler @ 667.25","lbl":"Positive"}
+,{"time":"15:46","usr":"Prospectus","txt":"@thinkingtrades I agree that $GOOG was a bunch of asshats though","lbl":"Neutral"}
 ,{"time":"15:46","usr":"61point8","txt":"$GOOG down in sympathy. Buy it tomorrow near $656 in anticipation of a bounce into month end.","lbl":"Positive"}
+,{"time":"15:53","usr":"ToddSullivan","txt":"Shit Android fanatics say http://t.co/pxUzf88R $GOOG","lbl":"Neutral"}
 ,{"time":"15:53","usr":"racernic","txt":"had hoped that $GOOG would be down 2moro in sympathy2 $AAPL (not they have anything 2do w/each other) but looks like both recovering well.","lbl":"Positive"}
+,{"time":"15:59","usr":"TheStreet","txt":"RT @agara2004: My Tech Takeaway: $FB beats $GOOG on mobile outlook -- $AAPL beats $AMZN on tablet ecosystem headed into \u002713 @thestreet http://t.co/xSNfbVf8","lbl":"Negative"}
+,{"time":"16:02","usr":"davilarino","txt":"RT @MNYCx: $GOOG missed, $AMZN missed, $AAPL missed and your mom missed.","lbl":"Negative"}
 ,{"time":"16:20","usr":"pennystockguys","txt":"$GOOG - UPDATE: http://t.co/zInUQXF7 Posts Rare Loss as Expenses Mount http://t.co/CGVEeLsP","lbl":"Negative"}
+,{"time":"16:31","usr":"barronstechblog","txt":"AAPL: iPhone 5 Weighs on Profit View; Being \u2018Aggressive\u2019 with iPad Mini - Tech Trader Daily - $AAPL $GOOG $AMZN $MSFT http://t.co/cudG1waU","lbl":"Neutral"}
+,{"time":"17:36","usr":"pennystockguys","txt":"$GOOG - 3rd UPDATE: http://t.co/zInUQXF7 Posts Rare Loss as Expenses Mount http://t.co/Qa75UPtx","lbl":"Neutral"}
+,{"time":"17:36","usr":"ADVFNplc","txt":"$GOOG - 3rd UPDATE: http://t.co/ZDuOUPDa Posts Rare Loss as Expenses Mount http://t.co/cMnSfm1J","lbl":"Neutral"}
+,{"time":"19:12","usr":"DDianaDD","txt":"RT @TechCrunch: Google\u0027s Research Shows Tablets Are For Games And Email, Mostly Used On Couch & In Bed http://t.co/6BoSk5BC $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"19:16","usr":"rhbinvest","txt":"MEANWHILE, A Mathematician Hacked Into Google Because He Thought It Was Part Of A Job Interview | $GOOG #in #NASDAQ http://t.co/AvDaKWGh","lbl":"Neutral"}
+,{"time":"20:33","usr":"NewStocksTrader","txt":"RT @BloombergTV: Must-See: Confused by $AAPL $MSFT and $GOOG\u0027s tech triangle? It\u0027s all explained by a ring, the \u0022Rocky\u0022 ring: http://t.co/HGoTrTd9","lbl":"Neutral"}
+,{"time":"22:08","usr":"rrshasss","txt":"If Only Pinning $AAPL Maps Worked Like Option Pinning $AAPL $AMZN $GOOG $CMG $PCLN $FFIV $WYNN @RedDogT3Live@chessNwine http://t.co/ZXLtTgaC","lbl":"Neutral"}
 ,{"time":"22:09","usr":"shakagenghis","txt":"When tech companies are too big to fail $aapl $goog their stocks get halted on bad news. is that red blooded capitalism?","lbl":"Negative"}
 ]

@@ -1,1 +1,7 @@
-[]
+[
+{"time":"9:02","usr":"top_market_news","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/gtxbjXXC #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"9:02","usr":"josephjpeters","txt":"$GOOG has people coming to their site with an intent on finding an answer (and clicking on links).","lbl":"Neutral"}
+,{"time":"9:20","usr":"sanalejandr0","txt":"RT @SAI: Apple Thinks Its iPhone Patents Are Worth 3X As Much As Microsoft\u0027s $AAPL $GOOG $MSFT by @jyarow http://t.co/Eq4BJn0L","lbl":"Neutral"}
+,{"time":"9:30","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) Squeezing Copyright Violators, Excluding YouTube: Google Inc. (GOOG) Squeezing Copyrig... http://t.co/b97GAc8Q","lbl":"Neutral"}
+,{"time":"17:12","usr":"ninja_trades","txt":"Google X research facility and its secret projects http://t.co/mljFVxws #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+]

@@ -1,3 +1,8 @@
 [
-{"time":"11:32","usr":"esoap","txt":"RT @TrendRida: New Post: Google and Amazon - The Non Monopoly Monopolies http://t.co/WKFZhzCD $GOOG $AMZN $AAPL","lbl":"Positive"}
+{"time":"7:15","usr":"abonel","txt":"What Amazon\u0027s ebook strategy means $AMZN http://t.co/68TL1tuO","lbl":"Neutral"}
+,{"time":"11:32","usr":"esoap","txt":"RT @TrendRida: New Post: Google and Amazon - The Non Monopoly Monopolies http://t.co/WKFZhzCD $GOOG $AMZN $AAPL","lbl":"Positive"}
+,{"time":"11:35","usr":"edwardrooster","txt":"RT @biggercapital: Best analysis about $AMZN in ages by Greenlea Lane Capital - 1Q12 Letter. If you can get your hand on it. Cant distribute. cc @tarasjdt","lbl":"Neutral"}
+,{"time":"17:37","usr":"BT24_7","txt":"$AMZN http://t.co/0mTUaaUW $AMZN short term 3C trading signals $$","lbl":"Neutral"}
+,{"time":"23:20","usr":"Michael_MBA","txt":"MT @bernadettebaum: Wanted at @BestBuy: An outsider with gumption http://t.co/pOqpqVs7 $BBY $WMT $AMZN #retail","lbl":"Neutral"}
+,{"time":"23:30","usr":"SeekingAlpha","txt":"BestBuy: New CEO Has A Daunting Task Ahead http://t.co/jXot5qIm $AMZN $RSH $WMT $BBY","lbl":"Neutral"}
 ]

@@ -1,20 +1,47 @@
 [
-{"time":"7:47","usr":"herbgreenberg","txt":"RT @KidDynamiteBlog: Commented on StockTwits: this is $MSFT\u0027s salvo in the war against $AMZN and $AAPL... wither: $GOOG? http://t.co/Ph3sgxxY","lbl":"Negative"}
+{"time":"1:18","usr":"simplestockqtes","txt":"Someone just got a simple quote on $amzn @simplestockqtes http://t.co/NfEl9cj7","lbl":"Neutral"}
+,{"time":"5:50","usr":"manasganguly","txt":"RT @businessinsider: Microsoft Is Investing $300 Million In Barnes &Noble! $AMZN $AAPL $BKS $MSFT by @jyarow http://t.co/VAavjk27","lbl":"Neutral"}
+,{"time":"5:50","usr":"fin_bot1","txt":"RT@businessinsider Microsoft Is Investing $300 Million In Barnes &Noble! $AMZN $AAPL $BKS $MSFT by @jyarow http://t.co/16KwB1AR","lbl":"Neutral"}
+,{"time":"5:50","usr":"fin_bot1","txt":"RT@SAI Microsoft Is Investing $300 Million In Barnes &Noble! $AMZN $AAPL $BKS $MSFT by @jyarow http://t.co/16KwB1AR","lbl":"Neutral"}
+,{"time":"5:52","usr":"notchristophe","txt":"RT @themoneygame: Microsoft Is Investing $300 Million In Barnes &Noble! $AMZN $AAPL $BKS $MSFT by @jyarow http://t.co/EZOykb18","lbl":"Neutral"}
+,{"time":"6:46","usr":"Tanetha2003MBA","txt":"RT @SeekingAlpha: Trading Strategies For Apple And Amazon Investors http://t.co/v07X5GAw $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"6:48","usr":"DanielSteeves","txt":"\u201C@SAI 10 Things You Need To Know This Morning $MSFT $AAPL $BKS $GOOG $AMZN by @jyarow http://t.co/zO9Chrjm\u201D","lbl":"Neutral"}
+,{"time":"6:48","usr":"david_zeman","txt":"RT @businessinsider: Microsoft Is Investing $300 Million In Barnes &Noble! $AMZN $AAPL $BKS $MSFT by @jyarow http://t.co/VAavjk27","lbl":"Neutral"}
+,{"time":"7:46","usr":"StockMarketEnds","txt":"Anti Christ Zionist Amazon is Anti 99% $GEO $CXW #Tickets #Earth #UN #Travels #Math #HR #Tech #Health #NGO $AMZN $GS #GS #Chemist #Musician","lbl":"Neutral"}
+,{"time":"7:47","usr":"herbgreenberg","txt":"RT @KidDynamiteBlog: Commented on StockTwits: this is $MSFT\u0027s salvo in the war against $AMZN and $AAPL... wither: $GOOG? http://t.co/Ph3sgxxY","lbl":"Negative"}
 ,{"time":"7:48","usr":"threadyblock","txt":"RT @ReformedBroker: $AMZN has almost doubled employee headcount in the last year 65,600 people, up from 37,900. Massing for war, yo.","lbl":"Positive"}
+,{"time":"7:49","usr":"STnet","txt":"Hot Links: Storylines | via @ReformedBroker http://t.co/vLNSVV7A $AAPL $AMZN","lbl":"Neutral"}
 ,{"time":"8:38","usr":"TraderNewburgh","txt":"$AMZN poised to break higher","lbl":"Positive"}
 ,{"time":"8:39","usr":"optioncommander","txt":"stalking $AMZN weekly $210 puts -7.84%, .45 x .48: http://t.co/DzzkhD5t, waiting for confirmation, will sell w/ a 15% loss","lbl":"Negative"}
+,{"time":"8:39","usr":"TraderNewburgh","txt":"$AMZN has the volume","lbl":"Neutral"}
 ,{"time":"9:27","usr":"DPolitical","txt":"$AMZN - Oppenheimer Boosts Price Target on http://t.co/ef3LTYR9 #AMZN http://t.co/p75NZaw3","lbl":"Positive"}
+,{"time":"9:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:17am: 227.26 +0.41 (+0.18%).","lbl":"Neutral"}
+,{"time":"10:23","usr":"Goodlett","txt":"#Forrestor Research saying #tablet market to grow from 56M to 375M units by 2016 w/$AAPL $MSFT $GOOG $AMZN getting most http://t.co/2tlfoF4I","lbl":"Neutral"}
 ,{"time":"10:24","usr":"MNYCx","txt":"$AMZN 230\u0027s calling","lbl":"Positive"}
 ,{"time":"10:24","usr":"61point8","txt":"$AMZN > I suspect some resistance will be encountered between 231 and 232, the area that was sold into in pre-market on Friday.","lbl":"Negative"}
-,{"time":"10:52","usr":"MNYCx","txt":"$AMZN 232\u0027s nice break out","lbl":"Positive"}
 ,{"time":"10:52","usr":"ACE52weekhigh","txt":"$AMZN on a tear...scalp in effect","lbl":"Negative"}
+,{"time":"10:52","usr":"MNYCx","txt":"$AMZN 232\u0027s nice break out","lbl":"Positive"}
 ,{"time":"10:53","usr":"ryanjhodges","txt":"$AMZN just delist it.","lbl":"Negative"}
 ,{"time":"11:13","usr":"StkConfidential","txt":"$AMZN following through on last week\u0027s strong earnings. $$","lbl":"Negative"}
 ,{"time":"11:16","usr":"stockguy22","txt":"$AAPL cult been good to me for a while now .. but this $AMZN cult & the state taxes problems keeping me on sidelines for now @CapCube","lbl":"Negative"}
 ,{"time":"11:18","usr":"CapCube","txt":"@stockguy22 $AAPL at least makes sense. Great earnings, cash flow, cash. They will make $50 +, $AMZN if lucky will earn $1-1.50 full year.","lbl":"Negative"}
 ,{"time":"11:46","usr":"thinkingtrades","txt":"RT @sspencer_smb let the pain begin. $amzn. long. - u have any short term target? Think at least 240 before any rest","lbl":"Positive"}
+,{"time":"11:47","usr":"wallstCS","txt":"Barnes & Noble and Microsoft Still Have an Uphill Battle http://t.co/PESXe2q8 $BKS $MSFT $AAPL $AMZN $GOOG $SCOR","lbl":"Neutral"}
 ,{"time":"11:48","usr":"Equitykingkong","txt":"$AMZN: starting to sell short here @ 233.80 and up for a trade","lbl":"Negative"}
+,{"time":"12:37","usr":"abnormalreturns","txt":"Monday links: an unexpected recovery, the new e-book wars and three rules for entrepreneurs. http://t.co/Zjo4LpMN $AAPL $AMZN $MSFT $BKS","lbl":"Neutral"}
+,{"time":"14:00","usr":"iBizNews21","txt":"RT @msnbc_business: Ebook news: Microsoft-Nook deal is a \u0027game changer\u0027 http://t.co/DhB0Such $MSFT $BKS $AMZN","lbl":"Neutral"}
+,{"time":"14:04","usr":"howardlindzon","txt":"RT @StockTwits: Monday links: an unexpected recovery. http://t.co/sMUbMBzd via @abnormalreturns $AAPL $AMZN $MSFT $BKS","lbl":"Neutral"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/112, $SPY/55, $BKS/33, $MSFT/32, $GOOG/27, $AMZN/22, $NFLX/18, $IWM/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:42","usr":"Dan_Dicker","txt":"got Caro\u0027s last of the LBJ series from $AMZN today - my summer reading is here! #realbooks http://t.co/59bQgACS","lbl":"Neutral"}
+,{"time":"15:19","usr":"jlferrer","txt":"RT @SAI: An NYU Professor Conducted An Experiment And Lost $1200 To Amazon When It Went Awry $AMZN by @Julie188 http://t.co/ENJai8za","lbl":"Neutral"}
+,{"time":"16:21","usr":"barronsonline","txt":"Why eBay stock will likely be bid higher http://t.co/0R64XcQs via @barronsonline $EBAY $YHOO $AMZN","lbl":"Neutral"}
+,{"time":"16:21","usr":"azabuallen","txt":"Commented on: \u0022Amazon.com, The 10-Q Surprises\u0022 http://t.co/7YfVjy4e $AMZN","lbl":"Neutral"}
+,{"time":"17:54","usr":"BarryAAnderson","txt":"a look at my trades today... still holding 3 contracts short from 2730.25 with stop at 2727.25 +3 locked in $NQ_F $AMZN http://t.co/JfPwnpYE","lbl":"Neutral"}
 ,{"time":"19:47","usr":"MsAbulhawa","txt":"RT @themotleyfool: Who had better earnings -- Apple or Amazon? http://t.co/8exiYUKg $AAPL $AMZN","lbl":"Positive"}
+,{"time":"19:50","usr":"SeekingAlpha","txt":"A Fallacy Of Modern Retail Investing http://t.co/P1DwWQi2 $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"20:00","usr":"SeekingAlpha","txt":"Barnes & Noble - Speculative Buy After Strategic Partnership With Microsoft http://t.co/F4LTRNhg $AMZN $MSFT $RIMM $BKS","lbl":"Neutral"}
 ,{"time":"22:58","usr":"stock_pandit","txt":"Top 10 Stocks With Strong Balance Sheet http://t.co/y20AUW8V $ACTG $CALX $CPIX $DUSA $EXTR $FSII $GLF $PDFS $SNTS $VELT $BAC $JBLU $AMZN","lbl":"Positive"}
 ,{"time":"23:05","usr":"likestocks13","txt":"$AMZN - Amazon Stock Analysis - volume up over 5% - http://t.co/nb4WxrNb","lbl":"Positive"}
+,{"time":"23:09","usr":"StockMarketEnds","txt":"Anti Christ Zionist Microsoft, Amazon & IBM are Anti 99% $GS $GEO $IBM $CXW $MSFT $AMZN #GS #IBM #Economist #Artist #Writer #Coach #Civil","lbl":"Neutral"}
+,{"time":"23:11","usr":"StockMarketEnds","txt":"Anti Christ Zionist Amazon is Anti 99% $GEO $CXW #Tickets #Earth #Travels #Math #HR #Tech #Health #NGO $AMZN $GS #GS #Chemist #Musician","lbl":"Neutral"}
 ]

@@ -1,11 +1,18 @@
 [
 {"time":"6:41","usr":"IN_0_V8","txt":"F.T.C. Staff Prepares Antitrust Case Against #Google Over Search - http://t.co/pjCdTuyz - $GOOG http://t.co/m8hLbea2","lbl":"Negative"}
+,{"time":"6:43","usr":"tlmontana","txt":"\u201C@counternotions: Steve Jobs said, in the mobile era, people won\u2019t be searching as much. Google laughed. http://t.co/1FdYzt6u\u201D $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"6:48","usr":"shinobi_brian","txt":"RT @tlmontana: \u201C@counternotions: Steve Jobs said, in the mobile era, people won\u2019t be searching as much. Google laughed. http://t.co/1FdYzt6u\u201D $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"8:51","usr":"likeweareyoung","txt":"Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/wZwGrHsl","lbl":"Negative"}
 ,{"time":"8:51","usr":"marvintumbo","txt":"RT @businessinsider: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/P1XmsVgX","lbl":"Negative"}
 ,{"time":"8:55","usr":"AveHurley","txt":"RT @bi_politics: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/nTptRiIU","lbl":"Negative"}
 ,{"time":"8:56","usr":"tudalex","txt":"RT @SAI: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/G6zhsMoY","lbl":"Negative"}
 ,{"time":"11:35","usr":"fabiandlr","txt":"RT @SAI: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/FX88g5mC","lbl":"Negative"}
+,{"time":"11:36","usr":"shopbuyenjoy","txt":"Check out the Google Nexus 7 http://t.co/LojNzdNe Holiday Gift Idea #shoptober #blackfriday #ssb $GOOG #christmas #halloween #giveagift #fb","lbl":"Neutral"}
 ,{"time":"11:39","usr":"HobiBola","txt":"RT @SAI: Amazon And Apple Don\u0027t Need The Government\u0027s Help Destroying Google $GOOG $MSFT $AAPL by @owenthomas http://t.co/FX88g5mC","lbl":"Negative"}
+,{"time":"11:40","usr":"SeekingAlpha","txt":"Amazon Earnings Preview: Q3 May Be Good, But Guidance Will Disappoint http://t.co/cIyq8QQ3 $BBY $COST $GOOG $WMT $AMZN","lbl":"Neutral"}
+,{"time":"16:06","usr":"jblukin","txt":"The future of Google: http://t.co/UNmbr5Lf via @thetechblock $GOOG","lbl":"Neutral"}
+,{"time":"21:40","usr":"OspreyFlyer","txt":"Big Tech Market Cap Entering Earnings Season: Apple Larger Than Microsoft & Google Combined! http://t.co/hESdMhVb $XLK $AAPL $MSFT $GOOG","lbl":"Neutral"}
 ,{"time":"21:50","usr":"Mac42az","txt":"RT @dmackdaddy: Microsoft Will Lose a War With Apple; So Will Google http://t.co/4tSZMK0L by @RoccoPendola via @TheStreet MSFT $GOOG $AAPL","lbl":"Negative"}
+,{"time":"21:54","usr":"stockwolfyee","txt":"RT @Williamj54: $KORS looks impressive with 3 wks of tight closes on a wkly basis given market conditions. If like $GOOG in 04\u0027/05\u0027, it could correct more.","lbl":"Neutral"}
 ,{"time":"21:54","usr":"ronin245","txt":"#aclfestlive $GOOG is really flexing muscle here with Youtube , showing $FB how its done in RT","lbl":"Positive"}
 ]

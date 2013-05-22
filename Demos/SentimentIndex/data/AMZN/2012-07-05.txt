@@ -1,5 +1,21 @@
 [
-{"time":"10:20","usr":"ginaswo","txt":"RT @grassosteve: $AMZN = continues to be #MyEverythingGirl","lbl":"Positive"}
+{"time":"9:24","usr":"wallstCS","txt":"EARLY BUZZERS: Target and Macy\u0027s Dip on Sales, Apple Gearing Up for iPad-Mini http://t.co/UOtOg7xH $TGT $M $AAPL $GOOG $AMZN $BKE","lbl":"Neutral"}
+,{"time":"9:45","usr":"Qwovadis","txt":"Commented on: \u0022Google Enters The Tablet War By Attacking ... Amazon\u0022 http://t.co/86KF6ccN $GOOG $AAPL $AMZN $BKS $INTC $MSFT $S $T","lbl":"Neutral"}
+,{"time":"10:17","usr":"rameshsethu","txt":"RT @retail_sails: Amazon makes play for greater influence over in-store shoppers http://t.co/Pn5PmZLU $AMZN #retail","lbl":"Neutral"}
+,{"time":"10:20","usr":"ginaswo","txt":"RT @grassosteve: $AMZN = continues to be #MyEverythingGirl","lbl":"Positive"}
 ,{"time":"11:01","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:46am: 228.81 -0.72 (-0.31%).","lbl":"Negative"}
+,{"time":"11:47","usr":"RealDividendLab","txt":"RT @mcilderman: Will #Apple Sell 3D Printers http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google $DDD $SSYS #Mac #stocks #investing","lbl":"Neutral"}
+,{"time":"11:47","usr":"RealDividendLab","txt":"RT @mcilderman: Is #Apple Gonna Buy into #3DPrinting ? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google $DDD #Mac #stocks #investing","lbl":"Neutral"}
+,{"time":"11:47","usr":"Hephaestus7","txt":"RT @barronstechblog: AMZN: New Kindle Fire to Defray GOOG, iPad \u2018Mini\u2019 Competition, Says Topeka - Tech Trader Daily- $AMZN $AAPL $GOOG $MSFT http://t.co/KcGJROv4","lbl":"Neutral"}
+,{"time":"14:43","usr":"Grant_Case","txt":"@Hedge_FundGirl to be fair $AMZN collecting emails for Amazon Local, $GRPN knock off w voucher. Biz need scale and MP3 cheap way to do it.","lbl":"Neutral"}
+,{"time":"19:07","usr":"HamzeiAnalytics","txt":"our next @CBOE Blog article deals with #Volatility #Arbitrage and goes over an actual trade we had in $AMZN ahead of its earnings report.","lbl":"Neutral"}
+,{"time":"19:15","usr":"freemarketvideo","txt":"RT @HamzeiAnalytics: our next @CBOE Blog article deals with #Volatility #Arbitrage and goes over an actual trade we had in $AMZN ahead of its earnings report.","lbl":"Neutral"}
+,{"time":"19:16","usr":"marketHEIST","txt":"RT @HamzeiAnalytics: our next @CBOE Blog article deals with #Volatility #Arbitrage and goes over an actual trade we had in $AMZN ahead of its earnings report.","lbl":"Neutral"}
+,{"time":"21:23","usr":"turleymuller","txt":"Amazon Said to Plan Smartphone to Vie With Apple $AMZN $AAPL http://t.co/h6AJTWKR","lbl":"Neutral"}
+,{"time":"21:27","usr":"NYCsouthpaw1","txt":"@terranovajoe why would a bookstore sell a phone? $amzn $aapl?","lbl":"Neutral"}
+,{"time":"21:30","usr":"AngieMiles","txt":"RT @terranovajoe: $AMZN coming out w it\u0027s own smartphone to compete w $GOOG & $AAPL","lbl":"Neutral"}
+,{"time":"23:00","usr":"electricspeech","txt":"RT @SAI: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/SfFFbyws","lbl":"Neutral"}
 ,{"time":"23:00","usr":"tangomega","txt":"RT @SAI: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/SfFFbyws","lbl":"Positive"}
+,{"time":"23:00","usr":"howardlindzon","txt":"RT @biggercapital: Interesting post by @fredwilson Wondering abt implication for 10 inch form factorMy New Nexus 7\u0022 - http://t.co/JxFH6mzz $aapl $amzn $goog","lbl":"Neutral"}
+,{"time":"23:03","usr":"Brennan_Earley","txt":"RT @businessinsider: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/lcmayjtG","lbl":"Neutral"}
 ]

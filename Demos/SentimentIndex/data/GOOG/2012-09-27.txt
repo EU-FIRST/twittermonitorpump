@@ -1,15 +1,36 @@
 [
-{"time":"6:48","usr":"USwwwStocks","txt":"$GOOG News: Biz Break: Apple continues to drag technology stocks lower http://t.co/NvCU92Gz #GOOG #Apple #Break","lbl":"Negative"}
+{"time":"1:58","usr":"ScottMartindale","txt":"Sector Detector: Investors Watch Romney\u2019s Hunt for Red October | Sabrient Systems http://t.co/0rVff1Dr #ETF $SPY $VIX $IYW $IYF $GOOG $GS","lbl":"Neutral"}
+,{"time":"2:04","usr":"zobnov","txt":"RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 $AOL: +120.34%","lbl":"Neutral"}
+,{"time":"2:12","usr":"NokWebDev","txt":"RT @StocksMD: RT @thurberdog: Nokia Cashes in on Apple Map Embarrassment - Tech Europe - WSJ http://t.co/VKLMe781 via @WSJ $NOK $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"5:11","usr":"pennystockguys","txt":"$GOOG - EU to Decide on Microsoft Antitrust Case http://t.co/UDQEe9rG","lbl":"Neutral"}
+,{"time":"5:11","usr":"ADVFNplc","txt":"$GOOG - EU to Decide on Microsoft Antitrust Case http://t.co/IgaNNVGG","lbl":"Neutral"}
+,{"time":"6:47","usr":"latsyrclau","txt":"$GOOG $AAPL #frenemies \u0022Google\u0027s Eric Schmidt Talks Apple Partnership, Samsung, and Patent Problems\u0022 http://t.co/OT80hvuo","lbl":"Neutral"}
+,{"time":"6:48","usr":"USwwwStocks","txt":"$GOOG News: Biz Break: Apple continues to drag technology stocks lower http://t.co/NvCU92Gz #GOOG #Apple #Break","lbl":"Negative"}
+,{"time":"6:51","usr":"thehuss","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $YHOO $GOOG $AAPL by @nichcarlson http://t.co/xfh6ihPl","lbl":"Neutral"}
+,{"time":"6:52","usr":"rsaintvilus","txt":"Why RIM is Dead and Done - $AMZN, $AAPL, $GOOG, $MSFT, $RIMM - Foolish Blogging Network: http://t.co/kXN5khtt via @themotleyfool","lbl":"Neutral"}
 ,{"time":"7:30","usr":"cimdog747","txt":"RT\u201C@nichcarlson: Executive losing patent war is tired of patent wars http://t.co/kUE7gF7D\u0022 Not surprising since $GOOG is in battle w/ $VRNG","lbl":"Negative"}
+,{"time":"7:31","usr":"TheStreet","txt":"Facebook, Pandora, Twitter Make Election 2012 Pitch http://t.co/8iX3FlOi $FB $P $GOOG $YHOO $TWX $CBS","lbl":"Neutral"}
 ,{"time":"7:33","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Back on Gaining Track, its Apps will not Support ...: Google Inc. (NASDAQ:GOOG)... http://t.co/Dtc0ovUh","lbl":"Positive"}
 ,{"time":"7:35","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 90 shares \u2611","lbl":"Negative"}
 ,{"time":"8:10","usr":"Retsialg","txt":"$GOOG is you can afford it \u2013 or try the option- moving up in premarket http://t.co/7wQnzBxq","lbl":"Positive"}
+,{"time":"8:10","usr":"noblin_","txt":"SAI: As The iPad Mini Looms, Google May Launch A New Tablet That Costs Just $99 $GOOG by @stevekovach http://t.co/z3rhKUNN","lbl":"Neutral"}
+,{"time":"8:10","usr":"gjgeiger","txt":"Wall Street Breakfast: Must-Know News http://t.co/0m9wRSOT $PG $SPY $QQQ $AAPL $AON $CEO $CVX $DRI $F $FIATY.PK $GM $GOOG $INTC","lbl":"Neutral"}
+,{"time":"8:11","usr":"ryspeers","txt":"RT @SAI: RT @SAI: As The iPad Mini Looms, Google May Launch A New Tablet That Costs Just $99 $GOOG by @stevekovach http://t.co/um9Tsgd5","lbl":"Neutral"}
+,{"time":"8:28","usr":"Dec1968","txt":"RT @SAI: RT @SAI: As The iPad Mini Looms, Google May Launch A New Tablet That Costs Just $99 $GOOG by @stevekovach http://t.co/um9Tsgd5","lbl":"Neutral"}
+,{"time":"8:29","usr":"BUDDIEE18","txt":"RT @HFTAlert: RT @HFTAlert: longer term $spy accumulator shows positive divergence since the decline from the highs $aapl $goog http://t.co/RVBf7ux6","lbl":"Neutral"}
 ,{"time":"8:29","usr":"Sangluccitrades","txt":"$GOOG pushing higher in the premarkets here. New all time highs today?","lbl":"Positive"}
 ,{"time":"8:47","usr":"takingstock614","txt":"$GOOG trying so hard, im waiting for prev high at 764.89","lbl":"Positive"}
 ,{"time":"8:47","usr":"NorthmanTrader","txt":"$GOOG is the kid everybody wants to show on their portfolio..may end up being a nice short..","lbl":"Negative"}
+,{"time":"8:47","usr":"rhbinvest","txt":"As The iPad Mini Looms, Google May Launch A New Tablet That Costs Just USD99 | #in $GOOG #NASDAQ http://t.co/dLFSTqPd","lbl":"Neutral"}
 ,{"time":"8:47","usr":"Jamtrades","txt":"Watching $GOOG.... Break of HOD, and we can easily break All time high. Watch for this.","lbl":"Positive"}
+,{"time":"9:01","usr":"VistoBoy","txt":"Bad piggies \u201C@businessinsider: The Creators Of Angry Birds Just Put Out A Brand New Game $AAPL $GOOG by @_dtl http://t.co/taIfb1co\u201D","lbl":"Neutral"}
+,{"time":"9:17","usr":"abd_lv","txt":"RT @SAI: RT @SAI: As The iPad Mini Looms, Google May Launch A New Tablet That Costs Just $99 $GOOG by @stevekovach http://t.co/um9Tsgd5","lbl":"Neutral"}
+,{"time":"9:18","usr":"j2sheck","txt":"Been a pretty different week for $AAPL and $GOOG http://t.co/UeVtjZJX","lbl":"Neutral"}
+,{"time":"9:18","usr":"MarkAlanT","txt":"$SPX holding up well, despite horrible GDP and Durable Goods reports. Gap filling for now in $GOOG $AAPL $BIDU.","lbl":"Neutral"}
 ,{"time":"9:43","usr":"LaMonicaBuzz","txt":"No awkward teen years for Google. Happy 14th birthday, $GOOG. Your present? An all-time high stock price. Buzz video. http://t.co/4UC7rwyh","lbl":"Positive"}
 ,{"time":"9:43","usr":"ChrisStuntz","txt":"in $GOOG SepWk4 760 C","lbl":"Positive"}
+,{"time":"9:43","usr":"vnsidhaarth","txt":"RT @SAI: RT @SAI: The Creators Of Angry Birds Just Put Out A Brand New Game $AAPL $GOOG by @_dtl http://t.co/53VajBO0","lbl":"Neutral"}
+,{"time":"9:43","usr":"jumatil","txt":"Science Fiction Investing, Part 1 http://t.co/LNuPzYUU $AAPL $ATVI $GOOG $INTC $MSFT","lbl":"Neutral"}
 ,{"time":"10:00","usr":"JackCarey31","txt":"RT @LaMonicaBuzz: RT @LaMonicaBuzz: No awkward teen years for Google. Happy 14th birthday, $GOOG. Your present? An all-time high stock price. Buzz video. ...","lbl":"Positive"}
 ,{"time":"10:01","usr":"racernic","txt":"@swamptrade maybe because my folwer count is misprint+actually is 280k.i tweeted earlier 2STOP selling $aapl 2buy $goog +opp trade is better","lbl":"Positive"}
 ,{"time":"10:01","usr":"takingstock614","txt":"$GOOG been fading since gap up open. Could fill the gap down to 753.","lbl":"Negative"}
@@ -19,19 +40,44 @@
 ,{"time":"10:46","usr":"PuneetKohli_Biz","txt":"Why has $GOOG outperformed $AAPL over the last 3 weeks? GOOG can map oceans while AAPL can\u0027t map streets well - http://t.co/CAnVFnXD","lbl":"Positive"}
 ,{"time":"10:46","usr":"BlueFielder","txt":"$GooG added to underwater 760 $CALLs @ 2.40","lbl":"Positive"}
 ,{"time":"10:46","usr":"Nii_Ahene","txt":"RT @bleekertech: RT @bleekertech: $GOOG to launch $100 tablet? Some serious loss leader action if they do... I\u0027m skeptical: http://t.co/LacQVffW","lbl":"Negative"}
+,{"time":"11:21","usr":"tamoem","txt":"@jonnajarian @petenajarian sure seems like $GOOG $AAPL has turned into a pair trade this week, your thoughts","lbl":"Neutral"}
+,{"time":"11:22","usr":"DiamantisK1","txt":"RT @SAI: RT @SAI: The Creators Of Angry Birds Just Put Out A Brand New Game $AAPL $GOOG by @_dtl http://t.co/53VajBO0","lbl":"Neutral"}
+,{"time":"11:25","usr":"dwhiteshines","txt":"Wall Street Breakfast: Must-Know News http://t.co/vwCC8XOI $PG $SPY $QQQ $AAPL $AON $CEO $CVX $DRI $F $FIATY.PK $GM $GOOG $INTC","lbl":"Neutral"}
+,{"time":"11:25","usr":"apocketfullofdz","txt":"Wall Street Breakfast: Must-Know News http://t.co/QDAt0ehC $PG $SPY $QQQ $AAPL $AON $CEO $CVX $DRI $F $FIATY.PK $GM $GOOG $INTC","lbl":"Neutral"}
 ,{"time":"11:58","usr":"thekeikoshow","txt":"Remember when I said- Long $AAPL Short $GOOG?...","lbl":"Negative"}
 ,{"time":"11:58","usr":"stkonlinetrader","txt":"More fades on $GOOG. Will it crack 750s?","lbl":"Negative"}
+,{"time":"11:59","usr":"sspencer_smb","txt":"$aapl continues to play catch up w/ $GOOG. now 18 off the low. G is 10 off the high in a strong tape... http://t.co/Y5AVxlRD","lbl":"Neutral"}
+,{"time":"11:59","usr":"ep_capital","txt":"$GOOG a notable $NQ_F laggard @ midday","lbl":"Neutral"}
+,{"time":"12:30","usr":"erikahlin","txt":"RT @SAI: RT @SAI: Now That There Is A Video Of Eric Schmidt Dancing \u0027Gangnam Style\u0027 Can We All Stop? $GOOG by @nichcarlson http://t.co/HAhIMLst","lbl":"Neutral"}
 ,{"time":"12:31","usr":"mustped","txt":"if $GOOG hits 764.51 today or tomorrow I will flip out","lbl":"Negative"}
+,{"time":"12:31","usr":"Paid2Trade","txt":"RT @rsaintvilus: RT @rsaintvilus: Why RIM is Dead and Done - $AMZN, $AAPL, $GOOG, $MSFT, $RIMM - Foolish Blogging Network: http://t.co/kXN5khtt via @them ...","lbl":"Neutral"}
+,{"time":"13:08","usr":"BSerjeantson","txt":"Transit directions field test: #Apple Maps vs. #Google #Maps (via @cnetnews)- http://t.co/UnzYXP4D $aapl $goog","lbl":"Neutral"}
+,{"time":"13:10","usr":"5haunak","txt":"RT @SAI: As The iPad Mini Looms, Google May Launch A New Tablet That Costs Just $99 $GOOG by @stevekovach http://t.co/BXIZEpcx","lbl":"Neutral"}
+,{"time":"13:10","usr":"SeekingAlpha","txt":"Amazon Pulling Away From The Station http://t.co/hoFe1s1y $EBAY $FB $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"13:10","usr":"WhizCheck6","txt":"Up $18k today, $3k in 2 days on $VIX, GDP/durable goods train wreck Top Gun Options Market SITREP http://t.co/IAOOmfy6 $aapl $goog $nke $gld","lbl":"Neutral"}
 ,{"time":"13:54","usr":"Abilene_Whale","txt":"Back in a $GOOG put. Unimpressed with today\u0027s move. Might get one last spike for qtr end tmrw, but I\u0027m willing to play downside again here.","lbl":"Negative"}
 ,{"time":"13:55","usr":"Briefingcom","txt":"$GOOG: Google: GOOG with some notable weakness to the COMPQ as shares extend losses into marginally negative... http://t.co/uAFMYdu9","lbl":"Negative"}
 ,{"time":"13:57","usr":"SiliconValley","txt":"By @obrien: Column: Apple and Google stock price explosion reflects their dominance: http://t.co/6hqsW4Lw $GOOG $AAPL via @mercnews","lbl":"Positive"}
 ,{"time":"13:57","usr":"siliconbeat","txt":"By @obrien: Column: Apple and Google stock price explosion reflects their dominance: http://t.co/uyNgP7FD $GOOG $AAPL via @mercnews","lbl":"Positive"}
+,{"time":"14:35","usr":"vid_e","txt":"Gap up eod for the market? $aapl $qqq $goog $pcln","lbl":"Neutral"}
 ,{"time":"14:36","usr":"chung55","txt":"@SJosephBurns $GOOG, R U going to roll your $GOOG 750s or let them execute tomorrow??? I\u0027m still hold the commons.","lbl":"Positive"}
+,{"time":"14:37","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/XXXntETy","lbl":"Neutral"}
+,{"time":"14:37","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/yyIpHrol","lbl":"Neutral"}
+,{"time":"15:02","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/oaQWow7J","lbl":"Neutral"}
 ,{"time":"15:02","usr":"TradetheLeader1","txt":"Long 8 stocks $AAPL $GOOG $KORS $ONXX $PCYC $SLV $ZLC $PZZA","lbl":"Positive"}
 ,{"time":"15:02","usr":"JustAGuy___","txt":"Uh yeah??? \u201C@investools: I love it when a flag comes together! $GOOG was an example of a bull flag hitting its target. http://t.co/cWWs1cNo\u201D","lbl":"Positive"}
 ,{"time":"15:02","usr":"canadadan","txt":"Bot $GOOG Oct12 750 Calls when GOOG was at 755.63","lbl":"Positive"}
+,{"time":"15:40","usr":"New_Phone_Store","txt":"Vringo Responds To Google\u0027s Motion For Summary Judgment http://t.co/Y0fE1x6l $GOOG $VRNG #VRNG Google #GOOG","lbl":"Neutral"}
 ,{"time":"15:41","usr":"JamarParris","txt":"Hmm CalDav or Exchange for Google Contacts. CalDav has the ability to sync > 3 emails that Google Sync lacks. $GOOG","lbl":"Negative"}
+,{"time":"15:43","usr":"casualanalysis","txt":"@CNBC saying $RIMM hoping holiday is a boost. A Blackberry would be SUCH a disappointing gift. Most would rather have coal. $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:56","usr":"iab1973","txt":"$goog","lbl":"Neutral"}
+,{"time":"16:58","usr":"RinehartMaria","txt":"Rising Volume (Caution) Daily Update and Daily Stock Analysis $GOOG, $AAPL, $Dollar http://t.co/JEFcsEAM http://t.co/CskvN4hu","lbl":"Neutral"}
+,{"time":"17:00","usr":"TheStreet","txt":"3 Stocks I Saw on TV, September 27 $TCK $FCX $CMG $MCD $MSFT $GOOG $AAPL http://t.co/n9f2nIDR by @DanFitzpatrick","lbl":"Neutral"}
 ,{"time":"17:02","usr":"kenjotto","txt":"Digestion for $GOOG today. Long Nov700/Sept745 call sprd. Regardless of EoD tmrw I will own Nov calls going into wknd","lbl":"Positive"}
+,{"time":"19:04","usr":"martinjdudley","txt":"@zerosum24 can you take an updated look at $GOOG ?","lbl":"Neutral"}
 ,{"time":"19:11","usr":"skipper_walker","txt":"@blakehounshell @tonyfratto @TheStalwart crazy that $goog makes a better car than $gm","lbl":"Positive"}
+,{"time":"19:11","usr":"mercenaryjack","txt":"Awesome piece on what goes into Google maps - indicates huge scale of Apple\u0027s challenge http://t.co/29yU38T4 $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"21:25","usr":"BreezeTrading","txt":"$GOOG Short @ $764.89 worken well $STUDY","lbl":"Negative"}
+,{"time":"21:29","usr":"VolShort","txt":"RT @mercenaryjack: RT @mercenaryjack: Awesome piece on what goes into Google maps - indicates huge scale of Apple\u0027s challenge http://t.co/29yU38T4 $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"21:37","usr":"KeeneOnMarket","txt":"Get the Key Levels for Trading $AAPL and $GOOG for the last day of the Quarter http://t.co/Cy5e15YX","lbl":"Neutral"}
 ]

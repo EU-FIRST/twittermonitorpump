@@ -1,6 +1,12 @@
 [
 {"time":"2:00","usr":"SeekingAlpha","txt":"Google Puts Remain An Attractive Short-Term Bearish Play http://t.co/0tEj5kOb $VXX $GOOG","lbl":"Negative"}
+,{"time":"2:00","usr":"SeekingAlpha","txt":"What To Expect From HTC At Mobile World Congress http://t.co/b4yLX7kv $GOOG $INTC","lbl":"Neutral"}
+,{"time":"2:01","usr":"tld70","txt":"RT @SAI: HOW TO: Block Google (And Everybody) From Tracking Which Sites You Visit On Your iPhone $AAPL $GOOG by @MattRosoff http://t.co/bKV7escX","lbl":"Neutral"}
 ,{"time":"2:09","usr":"brokerz_bearish","txt":"RT @SeekingAlpha - Google Puts Remain An Attractive Short-Term Bearish Play http://t.co/K9Y1Uu7M $VXX $GOOG","lbl":"Negative"}
 ,{"time":"11:32","usr":"DrDuru","txt":"Google Puts Remain An Attractive Short-Term Bearish Play: http://t.co/nRKXbbSK $GOOG $VXX #options #puts","lbl":"Negative"}
+,{"time":"11:56","usr":"ZisblU4U","txt":"#peace . from $goog news : http://t.co/f31ufwaa","lbl":"Neutral"}
+,{"time":"21:32","usr":"gandolfopjgtbp6","txt":"If you\u0027re following $GOOG Googlegate (Iphone tacking) - follow and read jonathanmayer","lbl":"Neutral"}
+,{"time":"21:32","usr":"optionspirate","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/pqwUln64 #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
 ,{"time":"21:46","usr":"brainml","txt":"RT @kaz: Screw pie charts, these first 3 graphs speak volumes about the strength of $APPL $MSFT and $GOOG\u0027s biz: http://t.co/u2JzMV3j via @asymco","lbl":"Positive"}
+,{"time":"22:00","usr":"DavidBentley_FA","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/lTIRW6Xu #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
 ]

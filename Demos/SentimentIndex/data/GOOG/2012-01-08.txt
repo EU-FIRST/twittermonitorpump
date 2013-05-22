@@ -1,6 +1,14 @@
 [
 {"time":"1:18","usr":"thefinancepress","txt":"$GOOG Did Google Buy A Lemon? Motorola Mobility Whiffs Q4: Did Google Buy A Lemon? Motorola Mobility Whiffs Q4 ... http://t.co/EL5oHv9p","lbl":"Negative"}
+,{"time":"1:23","usr":"Goodlett","txt":"$GRPN #Groupon releases smart double edge sword - merchant sentiment analysis tool showing deal like/dislike http://t.co/HT4ujRrk $GOOG","lbl":"Neutral"}
+,{"time":"1:28","usr":"Goodlett","txt":"SaaS #CRM startup @Nimble closes US$1M round from $GOOG/@mcuban on its smart mashup #social CRM tool http://t.co/j5Q324bb $CRM $ORCL $SAP","lbl":"Neutral"}
 ,{"time":"10:23","usr":"Goodlett","txt":"With $MMI eaking out small profit on $GOOG #Android devices and #HTC down 26%, #Samsung nails #1 spot http://t.co/9cXpSuFj $MSFT $AAPL","lbl":"Negative"}
+,{"time":"10:34","usr":"RoccoPendola","txt":"Commented on: \u00223 Stocks To Buy Because Of Apple\u0027s Dominance\u0022 http://t.co/Rtn8X6E7 $INTC $DELL $HPQ $AMZN $GOOG $NOK $AAPL","lbl":"Neutral"}
+,{"time":"10:40","usr":"BradBennett","txt":"Why Android updates are a mess: it\u0027s the business model - http://t.co/rs3665MX @edbott. $GOOG #CoIT #IT #CIO via @ValaAfshar #x","lbl":"Neutral"}
+,{"time":"16:26","usr":"dparent","txt":"@TraderFlorida what\u0027s your take on $GOOG ?? And Happy New Year","lbl":"Neutral"}
+,{"time":"16:38","usr":"simplemanabc","txt":"RT @StockTwits: 2011: The Year Google & Bing Took Away From SEOs & Publishrs http://t.co/POZpSLtC via Search Engine Land $MSFT $GOOG $DMD $AOL","lbl":"Neutral"}
+,{"time":"16:58","usr":"valuewalk","txt":"San Francisco: Creating the Jobs of the Future, Today [INFOGRAPHIC] http://t.co/zHCkV5a9 $GRPN $GOOG $QQQ","lbl":"Neutral"}
 ,{"time":"20:40","usr":"TraderGoalieOne","txt":"$GOOG Nice Shooting Star on overbought weekly chart. MUST SHORT an open below 649.79 because that will leave an Island Top. VERY BEARISH.","lbl":"Negative"}
 ,{"time":"20:43","usr":"VolcadoDePila","txt":"@Circa Must consider $GOOG and Samsung performance, which has been really good lately...","lbl":"Positive"}
+,{"time":"20:46","usr":"SAI_Tools","txt":"An Android-Powered TV? Yup, Lenovo Has It $GOOG by @stevekovach http://t.co/d3qP3bgC","lbl":"Neutral"}
 ]

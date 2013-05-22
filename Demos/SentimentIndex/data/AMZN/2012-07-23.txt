@@ -1,8 +1,22 @@
 [
-{"time":"8:45","usr":"DividendMaster","txt":"I begin to believe a serious miss at $AMZN with a $CMG style plunge may be catalyst for a massive broad market plunge","lbl":"Negative"}
+{"time":"6:08","usr":"traderblast","txt":"RT @bclund: \u0027Your Trade Ideas For 7-23-12\u0022 - New blog post. http://t.co/6bXR0lpe $AMZN $BWS $FRO $GMCR $MCP $NFLX $PAAS $SHOO $SIMO $SNCR $VVUS","lbl":"Neutral"}
+,{"time":"8:03","usr":"Mktgeistcom","txt":"RT @StockTwits: Your Trade Ideas For 7-23-12 http://t.co/XZsy87GP via @bclund $AMZN $BWS $FRO $GMCR $MCP","lbl":"Neutral"}
+,{"time":"8:03","usr":"ValaAfshar","txt":"Great piece by Reuters on Amazon\u0027s mobile ambitions. http://t.co/XPD7SNW9 HT @om $AMZN $GOOG $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"8:05","usr":"Lawndale1","txt":"http://t.co/EZ88Jwng Trusted Reviews: LoveFilm Well Ahead of Netflix in UK Video Streaming $NFLX $AMZN","lbl":"Neutral"}
+,{"time":"8:05","usr":"businessinsider","txt":"Amazon Is Going To Release \u0027Five Or Six Tablet SKUs\u0027, Says Staples President $AMZN by @jyarow http://t.co/SL83eUaf","lbl":"Neutral"}
+,{"time":"8:45","usr":"DividendMaster","txt":"I begin to believe a serious miss at $AMZN with a $CMG style plunge may be catalyst for a massive broad market plunge","lbl":"Negative"}
+,{"time":"9:39","usr":"khairais","txt":"RT @businessinsider: Amazon Is Going To Release \u0027Five Or Six Tablet SKUs\u0027, Says Staples President $AMZN by @jyarow http://t.co/SL83eUaf","lbl":"Neutral"}
+,{"time":"10:10","usr":"sdkstl","txt":"Amazon tried different sizes, form factors for Kindle ereader; doing the same for mobile devices, tablets http://t.co/NyCPt78o $amzn","lbl":"Neutral"}
 ,{"time":"10:11","usr":"takingstock614","txt":"Looking to short $AMZN based of 15min. I\u0027ll give it time but I think it moves lower here.","lbl":"Negative"}
 ,{"time":"11:00","usr":"joseisaac85","txt":"RT @firstadopter: $GS analyst lowers $AMZN 2012 Kindle e-reader forecast to -50% y/y vs. +17% y/y prior. Ridiculous it took them this long to admit reality","lbl":"Negative"}
+,{"time":"11:00","usr":"sharonmoshavi","txt":"RT @ampressman: Will common sense prevail? DOJ knocks down objections to ebook settlement $AMZN http://t.co/eJYSwjqY","lbl":"Neutral"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $C +41%, $ETN +31%, $AAPL +23%, $AMZN -20%, $MCD -19%, $GS -19% http://t.co/uBJyhJcD","lbl":"Neutral"}
 ,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:47pm: 223.05 -5.24 (-2.30%).","lbl":"Negative"}
+,{"time":"12:03","usr":"launchticker","txt":"$amzn launching Career Choice Program to help fulfillment center employees find better, higher paying jobs http://t.co/3wuJTSF7","lbl":"Neutral"}
 ,{"time":"13:50","usr":"xkneelb4mex","txt":"$amzn is helping employees train for another job http://t.co/cm1Diutk i like amazon a lot more.","lbl":"Positive"}
+,{"time":"13:54","usr":"Brysapp","txt":"Will Earnings Take the Spotlight From Europe? http://t.co/fQbSMsit $AAPL $AMZN $TXN $NFLX $XOM","lbl":"Neutral"}
+,{"time":"13:54","usr":"wallstCS","txt":"Nexus 7 Is A HIT, But Google Isn\u0027t Prepared http://t.co/j9KJBOLj $GOOG $GME $SPLS $AMZN $AAPL #mkt #stocks","lbl":"Neutral"}
 ,{"time":"13:54","usr":"firstadopter","txt":"RT @TechCrunch $GOOG Nexus 7 Is Already Posting \u0027Impressive Usage Figures,\u0027 Could Catch Up With $AMZN Kindle Fire soon http://t.co/tmt8GvRU","lbl":"Negative"}
+,{"time":"14:46","usr":"benny_the_dogs","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/HlwwEw2Z #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"16:01","usr":"wallstCS","txt":"Tech Business Roundup: Research in Motion Gets INVESTMENT, AT&T Settles With UNION http://t.co/JJl9nLaZ $RIMM $AMZN $VRNG $T #mkt","lbl":"Neutral"}
 ]

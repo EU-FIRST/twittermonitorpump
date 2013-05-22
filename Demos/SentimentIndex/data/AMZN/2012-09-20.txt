@@ -1,18 +1,33 @@
 [
-{"time":"4:14","usr":"cordial","txt":"Weak online sales in the UK may effect $AMZN revenue this Q. http://t.co/XLeKRoas","lbl":"Negative"}
+{"time":"3:20","usr":"Maqboolfida","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"3:23","usr":"apple_developer","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"4:14","usr":"cordial","txt":"Weak online sales in the UK may effect $AMZN revenue this Q. http://t.co/XLeKRoas","lbl":"Negative"}
+,{"time":"4:15","usr":"silverjet2","txt":"$GOOG and $AMZN seen as potential suitors in possible acquisition of $P to counter $AAPL foray into this arena.","lbl":"Neutral"}
+,{"time":"7:26","usr":"dlcmh","txt":"Options open interest updated for $AAPL, $AGQ, $AMZN, $GOOG, $SPY http://t.co/u0H59MwG","lbl":"Neutral"}
+,{"time":"8:20","usr":"Lawndale1","txt":"http://t.co/IejX2sAS Gizmodo: Sky Bags Warner Brothers In Streaming Movie War With Netflix and LoveFilm $TWX $NFLX $AMZN","lbl":"Neutral"}
 ,{"time":"10:40","usr":"RobertWeinstein","txt":"$WMT to stop selling $AMZN kindle products. Amazon falling","lbl":"Negative"}
 ,{"time":"10:41","usr":"GEQSense","txt":"Within a nanosecond, that\u0027s 1 x 10^-9 seconds, $AMZN plunged like ... I\u0027m out of bad analogies. But it plunged. $$ haha","lbl":"Negative"}
+,{"time":"10:41","usr":"CashRocket","txt":"$AMZN for @paulwoll: COULD be correct, but acc. to this chart, nothing out of the ordinary.. http://t.co/IkjVqIQA #WORDEN","lbl":"Neutral"}
 ,{"time":"10:41","usr":"CapCube","txt":"$amzn breaking down a little ... 300 + P/E makes algos nervous ??","lbl":"Negative"}
 ,{"time":"10:57","usr":"SAI","txt":"BII REPORT: Here\u0027 s How Amazon Is Creating A Huge Mobile Business $AMZN http://t.co/h4sD8NtH","lbl":"Positive"}
 ,{"time":"10:57","usr":"JulioBautistaB","txt":"RT @YahooFinance: Reuters report: $WMT to stop selling $AMZN #Kindle products. Details to come.","lbl":"Negative"}
 ,{"time":"10:58","usr":"takingstock614","txt":"Walmart to stop selling all $AMZN kindles. Lets see how it reacts.","lbl":"Negative"}
+,{"time":"10:58","usr":"louisberyl","txt":"I love AAPL but I\u0027ll take the other side of this trade. RT @peteryared $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
 ,{"time":"11:06","usr":"Fuelnu","txt":"RT @YahooFinance: Reuters report: $WMT to stop selling $AMZN #Kindle products. Details to come.","lbl":"Negative"}
+,{"time":"11:06","usr":"CashRocket","txt":"@paulwoll nice, once again, hope you win, I don\u0027t deal much with $GMCR or $AMZN these days :)","lbl":"Neutral"}
+,{"time":"11:06","usr":"GMSLocal","txt":"RT @businessinsider: BII REPORT: Here\u0027 s How Amazon Is Creating A Huge Mobile Business $AMZN http://t.co/dqEKhfoq","lbl":"Neutral"}
 ,{"time":"11:06","usr":"badjerry","txt":"RT @businessinsider: BII REPORT: Here\u0027 s How Amazon Is Creating A Huge Mobile Business $AMZN http://t.co/dqEKhfoq","lbl":"Positive"}
 ,{"time":"11:27","usr":"rechtsteiner","txt":"Boom! $WMT to stop selling $AMZN\u0027s Kindle lineup. http://t.co/RXiyLnGi The ecom game is officially on.","lbl":"Negative"}
+,{"time":"11:27","usr":"webguild","txt":"Wal-mart $WMT stops selling $AMZN Kindle http://t.co/YdkfcBQo","lbl":"Neutral"}
 ,{"time":"11:51","usr":"DaveCV100","txt":"RT @firstadopter: So $WMT and $TGT basically declaring war on $AMZN + $AAPL and $BKS declaring price war on ebooks w/AMZN. Game on!","lbl":"Negative"}
 ,{"time":"11:52","usr":"TaintedAlpha","txt":"RT @firstadopter: So $WMT and $TGT basically declaring war on $AMZN + $AAPL and $BKS declaring price war on ebooks w/AMZN. Game on!","lbl":"Negative"}
+,{"time":"12:16","usr":"LOUISFANUCCHIIV","txt":"RT @jimcramer: How to trade $AMZN, other stocks, ETFs - http://t.co/fMjrf3T1 by @RobertWeinstein","lbl":"Neutral"}
+,{"time":"12:17","usr":"RealCrystalBall","txt":"How to trade $AMZN, other stocks, ETFs - http://t.co/WFVZtZaH by @RobertWeinstein #Stocks #Apple","lbl":"Neutral"}
 ,{"time":"12:46","usr":"JustinPerez1057","txt":"@jimcramer $AMZN too hot here at 260?","lbl":"Negative"}
+,{"time":"12:46","usr":"Paid2Trade","txt":"Oversold List Shows Market at Tipping Point - TheStreet http://t.co/JIJuBwBW via @TheStreet $SPY $IWM $TZA $SDS $FAZ $SO $AMZN $NFLX $CROX","lbl":"Neutral"}
+,{"time":"13:23","usr":"RoccoPendola","txt":"Of all of the stocks out there, $P is easily most misunderstood by practically everybody. $AMZN #2. With $P though, there\u0027s true ignorance.","lbl":"Neutral"}
 ,{"time":"13:59","usr":"bluser12","txt":"@smartertrader I meant that in the next hour or so. I\u0027m thinking all time highs next week. $AAPL $AMZN have had them already. $GOOG next.","lbl":"Negative"}
 ,{"time":"18:43","usr":"RealDividendLab","txt":"RT @Lawndale1: http://t.co/s1sQgaoQ Sky signs exclusive movie deal with Warner Bros, beating Netflix and Lovefilm $TWX $NFLX $AMZN","lbl":"Negative"}
 ,{"time":"18:44","usr":"TraderLantern","txt":"$AMZN - Walmart to stop selling Amazon\u2019s Kindle: http://t.co/5plZkPtM","lbl":"Negative"}
+,{"time":"21:49","usr":"investlite","txt":"Trading Plan for Friday, 9/21: http://t.co/ifryi7fP $GCI $FDP $GOOG $SBUX $ORLY $STX $WFC $AMZN $LULU","lbl":"Neutral"}
 ]

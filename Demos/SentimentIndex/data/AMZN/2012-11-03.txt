@@ -1,3 +1,5 @@
 [
-{"time":"17:16","usr":"JinChang44","txt":"@philiped @JinChang44 What big hedge funds/WS Greedies have been stuck with $AMZN? They must keep it afloat till suckers come.Manipulation","lbl":"Negative"}
+{"time":"17:03","usr":"JT_McGee","txt":"Not an $AMZN shareholder but you can\u0027t discuss the P/E w/o talking about op leverage, noncapitalized expenses, competition.","lbl":"Neutral"}
+,{"time":"17:08","usr":"yudejavu","txt":"RT @StockTwits: Saturday links: the patent bubble and encroaching wildlife. http://t.co/bab4xq5l via @abnormalreturns $VRNG $AMZN $AIG $BRKB\u0022","lbl":"Neutral"}
+,{"time":"17:16","usr":"JinChang44","txt":"@philiped @JinChang44 What big hedge funds/WS Greedies have been stuck with $AMZN? They must keep it afloat till suckers come.Manipulation","lbl":"Negative"}
 ]

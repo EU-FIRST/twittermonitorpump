@@ -1,15 +1,23 @@
 [
 {"time":"2:12","usr":"StockMarketEnds","txt":"Microsoft & Amazon are Puppets of Anti Christ Zionists $MSFT $AMZN #MSFT #AMZN $GEO #GEO $CXW #CXW #GS $GS","lbl":"Negative"}
+,{"time":"3:30","usr":"SeekingAlpha","txt":"Yelp And Angie\u0027s List: The Paradox Of The Local Review Listing Service http://t.co/grK4XoUY $AMZN $GOOG $GRPN $OPEN $YELP $ANGI","lbl":"Neutral"}
 ,{"time":"6:41","usr":"thenotablecalls","txt":"$AMZN - Merrill d/g to Neutral, sees protracted investment cycle vs. Street estimates.","lbl":"Negative"}
 ,{"time":"6:42","usr":"thenotablecalls","txt":"$AMZN - Digital media competition from AAPL & GOOG will keep valuation multiple in check. - MLCO","lbl":"Negative"}
+,{"time":"6:42","usr":"StockMarketEnds","txt":"Microsoft & Amazon are Puppets of Anti Christ Zionists Zionists $MSFT $AMZN #MSFT #AMZN $GEO #GEO $CXW #CXW #GS $GS #Vista #Windows #Tools","lbl":"Neutral"}
 ,{"time":"6:42","usr":"thenotablecalls","txt":"$AMZN - Guidance is a risk: Expect 2Q rev/EPS guide below Street, MLCO says. Sees $0.27 vs Street $0.49.","lbl":"Negative"}
 ,{"time":"8:05","usr":"SeanNishimura","txt":"RT @wallstCS: Here\u0027s What Google Can Learn From Amazon http://t.co/KBU6hteu $AAPL $GOOG $MSFT $AMZN #mkt #stocks","lbl":"Positive"}
+,{"time":"10:23","usr":"CBOE_TV","txt":"In the Money: @Angiemiles reports on: $GRPN, $AMZN< $AVP & in an interview with Scott Bauer: $RIO, $RIMM & $XLF. $$ http://t.co/VycU1r8G","lbl":"Neutral"}
 ,{"time":"10:31","usr":"newsagg","txt":"$AMZN I\u0027d like to see 196.45 natural bounce point 60m Ichimoku and am short weekly 200 calls http://t.co/DY22RlCy","lbl":"Negative"}
 ,{"time":"11:15","usr":"StockMarketEnds","txt":"Microsoft & Amazon are Puppets of Anti Christ Zionists Zionists $MSFT $AMZN $GEO $CXW $GS #MSFT #AMZN #GEO #CXW #GS","lbl":"Negative"}
+,{"time":"11:18","usr":"jbagge","txt":"$AMZN the 197.60 level is trading perfect intra day over the last 2 weeks @traderstewie","lbl":"Neutral"}
 ,{"time":"11:21","usr":"RonanJDaly","txt":"\u201C@jimcramer: Amazon Shares Dip on Downgrade http://t.co/BnAymMPS $AMZN $GOOG\u201D just wrote an article on this! Breaks emh shouldn\u0027t happen","lbl":"Negative"}
 ,{"time":"11:25","usr":"DismalOperator","txt":"$AMZN still red here on a down tape, let\u0027s see how it reacts to 190-195","lbl":"Negative"}
+,{"time":"12:17","usr":"ShortStockPicks","txt":"#StockMarket #NASDAQ100 #Drops: $AMZN -2.0%, $RIMM -1.9%, $LLTC -1.6%, $FSLR -1.3%, $BRCM -1.2%, $NFLX -1.1%, $GOLD -1.0%, $ALTR -1.0%","lbl":"Neutral"}
 ,{"time":"12:26","usr":"hamptonus","txt":"I\u0027ve got a small short on $AMZN and some July puts. $AMZN will digest this BofA downgrade and power higher. My big entry is at $215.","lbl":"Negative"}
 ,{"time":"13:22","usr":"iapplebubble","txt":"Investors are selling their weak positions like $RIMM, $AMZN, $GRPN, $ZNGA, $NOK to buy $AAPL","lbl":"Negative"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/100, $SPY/41, $GOOG/38, $NYX/32, $VRNG/27, $GRPN/26, $GS/18, $AMZN/17. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"15:10","usr":"SeekingAlpha","txt":"4 ETFs For The Second Quarter http://t.co/ZFv6kjx1 $AAPL $IHF $AMZN $UGA $FDN $XLK $GOOG","lbl":"Neutral"}
+,{"time":"17:35","usr":"Moneyblasian","txt":"RT @StockTwits: $WMT, which gets 2% of its U.S. sales online, aims to bolster its technical capabilities to compete with $AMZN http://t.co/OKLMnHC7","lbl":"Neutral"}
 ,{"time":"19:19","usr":"BEFREEinFL","txt":"RT @StockTwits: $WMT, which gets 2% of its U.S. sales online, aims to bolster its technical capabilities to compete with $AMZN http://t.co/OKLMnHC7","lbl":"Negative"}
 ,{"time":"19:25","usr":"stock_pandit","txt":"Best Stocks For LongTerm Investments http://t.co/0t0tqpRI #stocks #trading #investing #retirement #dividend $VZ $AMZN $AAPL $YHOO","lbl":"Positive"}
 ]

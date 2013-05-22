@@ -1,1 +1,5 @@
-[]
+[
+{"time":"14:43","usr":"MergerArbitrage","txt":"Other stocks I don\u0027t like that we own, because of their \u0022take over the world\u0022 potential: $GOOG $APPL $AMZN and.... $MSFT (just saying).","lbl":"Neutral"}
+,{"time":"18:12","usr":"CashRocket","txt":"@OptionsHawk Joe, would you consider Feb strangles on $AMZN reas. priced? thinking they beat *expectations*, want to play a surprise qtr..","lbl":"Neutral"}
+,{"time":"18:12","usr":"buzzonabudget","txt":"RT @ebcapital: Commented on: \u0022Apple TV Is Almost Ready For Prime Time\u0022 http://t.co/35QfsNXt $AMZN $NUAN $BRCM $GOOG $MSFT $AAPL","lbl":"Neutral"}
+]

@@ -1,7 +1,15 @@
 [
 {"time":"3:10","usr":"HELELANY","txt":"RT @SAI: Apple Is Crushing Everyone In The Tablet Market -- So Who Will Be Number Two? $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/Bt2MM0lJ","lbl":"Negative"}
+,{"time":"3:20","usr":"SeekingAlpha","txt":"Do You Buy The Rumor? How \u0027Best Buy\u0027 Buyout News Can Benefit \u0027Best Buy\u0027 Bears http://t.co/5NiogxwR $AMZN $COST $RSH $TGT $WMT","lbl":"Neutral"}
+,{"time":"8:00","usr":"SeekingAlpha","txt":"A Microsoft Promotion Might Hit http://t.co/NHzcEPqH\u0027s Media Revenues http://t.co/IpFByUct $BBY $BKS $GME $GOOG $MSFT $AMZN","lbl":"Neutral"}
+,{"time":"8:00","usr":"firstadopter","txt":"Goldman out with a big report this morning saying $AMZN is to Walmart what Walmart was to the Grocers","lbl":"Neutral"}
 ,{"time":"8:00","usr":"RyanDetrick","txt":"http://t.co/sBo3uRgH @CNBCClosingBell Discusses $AMZN. Both guys like it and I agree.","lbl":"Positive"}
+,{"time":"8:01","usr":"alexanderywang","txt":"RT @firstadopter: Goldman out with a big report this morning saying $AMZN is to Walmart what Walmart was to the Grocers","lbl":"Neutral"}
+,{"time":"10:01","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:46am: 225.78 +0.17 (+0.08%).","lbl":"Neutral"}
 ,{"time":"10:43","usr":"biggercapital","txt":"@Lowtown21 Thanks. In $AMZN since 2001","lbl":"Positive"}
+,{"time":"10:46","usr":"Sell_Theta","txt":"Now that the $CF spreads have been taken care of, pricing out $AMZN spread adjustments","lbl":"Neutral"}
+,{"time":"11:55","usr":"wallstCS","txt":"Will Google\u0027s NEXT BIG THING Be an iPad KILLER? http://t.co/tXTuW0Xc $GOOG $AAPL $NVDA $MSFT $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"12:19","usr":"Kapitall","txt":"Technology Stocks: How Effective is your Advertising? #Kapitall: http://t.co/Cz16SKWY $MSFT $GOOG $AMZN $AAPL $IBM $EXPE $EBAY $DELL $HPQ","lbl":"Neutral"}
 ,{"time":"12:19","usr":"PATMAN316","txt":"$LNKD, $AMZN, $ALXN, $CSTR, $MLNX, $CF,$KORS...all look good.","lbl":"Positive"}
 ,{"time":"12:43","usr":"cnbcfastmoney","txt":"RT @CNBCMelloy: Amazon $AMZN stock doesn\u0027t like this Google Nexus Q. At lows of the day. $GOOG","lbl":"Negative"}
 ,{"time":"12:44","usr":"optionmonster","txt":"RT @CNBCMelloy: Amazon $AMZN stock doesn\u0027t like this Google Nexus Q. At lows of the day. $GOOG","lbl":"Negative"}
@@ -10,5 +18,9 @@
 ,{"time":"13:00","usr":"fin_bot1","txt":"RT@businessinsider For A Change Of Pace Google Decides To Rip Off Amazon Instead Of Apple $GOOG $AMZN by @jyarow http://t.co/mYOnPebl","lbl":"Negative"}
 ,{"time":"13:00","usr":"fin_bot1","txt":"RT@SAI For A Change Of Pace Google Decides To Rip Off Amazon Instead Of Apple $GOOG $AMZN by @jyarow http://t.co/mYOnPebl","lbl":"Negative"}
 ,{"time":"14:05","usr":"idea2go","txt":"$GOOG Nexus imitates $AMZN Kindle Fire. A year late and a feature short. They should innovate. Come out with a ChromePad to contribute!","lbl":"Positive"}
+,{"time":"14:08","usr":"idea2go","txt":"But seriously $GOOG #nexus, it will win or lose on their add on services vs $AMZN prime. Video content, media, etc.","lbl":"Neutral"}
 ,{"time":"14:40","usr":"wallstreetbabes","txt":"damn -1 $AMZN +.53$X","lbl":"Negative"}
+,{"time":"14:40","usr":"samstockstill","txt":"RT @YahooFinance: Google unveils tablet to take on Apple, Amazon http://t.co/ZndvTXli $GOOG $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"16:12","usr":"rechtsteiner","txt":"Unbridled $GOOG Nexus Tablet optimism when no native Android tabs have sold exceptionally well. Hmm ($AMZN, $BKS). http://t.co/0sObwT4t","lbl":"Neutral"}
+,{"time":"19:17","usr":"Hephaestus7","txt":"National Federation of the Blind Files Complaint Against State Department - MarketWatch http://t.co/dnRS3f1x #Kindle $AMZN","lbl":"Neutral"}
 ]

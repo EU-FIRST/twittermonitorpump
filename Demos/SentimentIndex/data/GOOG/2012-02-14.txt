@@ -1,12 +1,38 @@
 [
-{"time":"7:05","usr":"gparadelo","txt":"Google got approval to acquire Motorola, from US & European Commission - $GOOG","lbl":"Positive"}
+{"time":"6:59","usr":"moulyg","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"7:05","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/49, $GS/9, $MSFT/5, $GLD/5, $AMZN/5, $GT/5, $GOOG/4, $C/4, $XOM/3, $BAC/3. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"7:05","usr":"gparadelo","txt":"Google got approval to acquire Motorola, from US & European Commission - $GOOG","lbl":"Positive"}
+,{"time":"8:58","usr":"ADXGuy","txt":"@traderdigs Shorts. nothing yet per se... Take a look at $NFLX. Watching $GOOG here at the gap.. need to run some scans..","lbl":"Neutral"}
+,{"time":"9:05","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/92, $SPY/48, $KORS/42, $IDIX/38, $BAC/21, $GOOG/18, $RAX/15, $PFE/13. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"9:05","usr":"rechtsteiner","txt":"$GCI\u0027s USA Today illustrates just how dominating $AMZN\u0027s Fire is in the $GOOG Android arena. http://t.co/KmDgbQLo #ACW","lbl":"Neutral"}
+,{"time":"9:08","usr":"DJThistle","txt":"Quadrant Benchmark Updated to v2.0 with ICS Support: Typically, performance benchmarks are used as braggin... http://t.co/ezZOVvXW $GOOG","lbl":"Neutral"}
 ,{"time":"9:26","usr":"DesMuzi","txt":"RT @BloombergNews: Google wins U.S. nod to buy Motorola Mobility | http://t.co/Yt92oOPu $GOOG","lbl":"Positive"}
 ,{"time":"9:26","usr":"kgcanes","txt":"RT @BloombergNews: Google wins U.S. nod to buy Motorola Mobility | http://t.co/Yt92oOPu $GOOG","lbl":"Positive"}
 ,{"time":"10:00","usr":"Convertbond","txt":"A cool 280% move higher and Google $GOOG catches Apple $AAPL in market capitalization","lbl":"Positive"}
+,{"time":"10:00","usr":"citypolis","txt":"RT @Convertbond: A cool 280% move higher and Google $GOOG catches Apple $AAPL in market capitalization","lbl":"Neutral"}
 ,{"time":"10:01","usr":"TradeDesk_Steve","txt":"RT @Convertbond: Then its a no brainer just buy Google - A cool 280% move higher and Google $GOOG catches Apple $AAPL in market cap","lbl":"Positive"}
 ,{"time":"10:39","usr":"Sqwii","txt":"$GOOG target for next 1 month is 450s based on a bearish pattern ,, if possible short it or get puts","lbl":"Negative"}
+,{"time":"10:43","usr":"QQQQInvestment","txt":"if you prefer higher odds model predict 88% chance that emini close under 1346 #forecast_spx #emws #spy $spx $aapl $goog $msft","lbl":"Neutral"}
+,{"time":"11:33","usr":"BUDDIEE18","txt":"on deck $GOOG $PCLN $OPEN $SODA $RENN $DANG $ZAGG $FAZ","lbl":"Neutral"}
+,{"time":"11:35","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/148, $SPY/95, $ZNGA/37, $GOOG/31, $ENER/30, $NFLX/25, $KORS/24, $AMZN/23. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"11:35","usr":"thefinancepress","txt":"$GOOG Google Shares Now Covered by Analysts at Capstone Investments. (GOOG): Google Shares Now Covered by Analy... http://t.co/a8miyqxO","lbl":"Neutral"}
 ,{"time":"12:32","usr":"go2sheth","txt":"RT @SAI: THE GOOGLE INVESTOR: Is There A Google TV Subscription Service In The Works? $GOOG by @hleonard76 http://t.co/Fq5EPwZ7","lbl":"Positive"}
+,{"time":"12:32","usr":"MrJoeSterne","txt":"RT @businessinsider: The 19 Hottest Power Couples In Tech $GOOG by @shontelaylay http://t.co/x4NUF78q","lbl":"Neutral"}
+,{"time":"12:33","usr":"lluccipha","txt":"SAI: THE GOOGLE INVESTOR: Is There A Google TV Subscription Service In The Works? $GOOG by @hleonard76 http://t.co/zJOTLgTN","lbl":"Neutral"}
+,{"time":"12:33","usr":"beeforsty","txt":"RT @SAI: THE GOOGLE INVESTOR: Is There A Google TV Subscription Service In The Works? $GOOG by @hleonard76 http://t.co/L084IUWY","lbl":"Neutral"}
+,{"time":"13:37","usr":"LearnBonds","txt":"Daily Reads: Should Apple Behave like a Hedge Fund? http://t.co/oLmq6Cxv $AAPL $GOOG $MSFT $NPK","lbl":"Neutral"}
+,{"time":"13:40","usr":"SeekingAlpha","txt":"Apple Euphoria Peaks - Time For Caution? http://t.co/l61MafSo $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:30","usr":"SeekingAlpha","txt":"Baidu, Inflation, European Union And Protection http://t.co/JcNyQj6m $GOOG $SINA $SOHU $BIDU","lbl":"Neutral"}
 ,{"time":"15:00","usr":"SeekingAlpha","txt":"Apple Takes On Samsung, Android, And Google http://t.co/thYfCopP $SSNLF.PK $MSFT $GOOG $AAPL","lbl":"Negative"}
 ,{"time":"15:10","usr":"TheStreet","txt":"6 Winning Stocks for Awards Season http://t.co/fmBZXuzh by @stockpickr $CBS $GOOG","lbl":"Positive"}
+,{"time":"15:10","usr":"SeekingAlpha","txt":"The Number Of Mobile Devices Will Exceed World\u0027s Population By The End Of 2012 http://t.co/sTLc35RX $AAPL $MSFT $NOK $GOOG $RIMM","lbl":"Neutral"}
+,{"time":"15:35","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/179, $AMZN/148, $SPY/89, $NFLX/50, $ZNGA/47, $TVIX/36, $YHOO/31, $GOOG/20. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"15:35","usr":"JeremyKissel","txt":"Inside Google\u0027s bet on \u0027consumerization\u0027 - Big Tech - Fortune Tech http://t.co/NMOGR0Dh $GOOG","lbl":"Neutral"}
+,{"time":"16:02","usr":"radicall77","txt":"RT @SullyCNBC: 13F filing-a-palooza at the ready. Just went thru Tiger Mgmt. Largest hldgs as of 12/31: $AAPL, $GOOG, $PCLN, $LBTYA (Liberty Global)","lbl":"Neutral"}
+,{"time":"16:05","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/296, $SPY/123, $AMZN/76, $ZNGA/50, $TVIX/45, $NFLX/28, $GOOG/23, $YHOO/21. http://t.co/DHnV02ws","lbl":"Neutral"}
 ,{"time":"16:51","usr":"EvansIPLaw","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"17:44","usr":"thefinancepress","txt":"$GOOG Tech Stocks Retreat With Broader Markets (XLK, AAPL, RAX, ZNGA, MU, DELL, GOOG ...: Tech Stocks Retreat W... http://t.co/mScXXlqX","lbl":"Neutral"}
+,{"time":"19:05","usr":"stocial","txt":"Daily Trending Social Volume: $AAPL/1605, $SPY/767, $ZNGA/551, $AMZN/327, $GOOG/288, $YHOO/224, $KORS/219. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"19:05","usr":"best_of_iran","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/G5wBfH8M #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"19:09","usr":"rayhksyz5","txt":"herbgreenberg $MMI brings $goog the deepest, widest smart phone IP portfolio inexistence","lbl":"Neutral"}
 ]

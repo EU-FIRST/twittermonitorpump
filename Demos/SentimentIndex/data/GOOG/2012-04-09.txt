@@ -1,18 +1,43 @@
 [
-{"time":"0:22","usr":"nareshkumargs","txt":"RT @bored2tears: German courts at epicenter of #patent battles among #tech rivals. http://t.co/3WjomDOG $AAPL $GOOG $MSFT $NOK #law #stocks","lbl":"Negative"}
+{"time":"0:17","usr":"dog_barker","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/UvmuHJdT #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"0:21","usr":"bored2tears","txt":"German courts at epicenter of #patent battles among #tech rivals. http://t.co/3WjomDOG $AAPL $GOOG $MSFT $NOK #law #stocks","lbl":"Neutral"}
+,{"time":"0:22","usr":"nareshkumargs","txt":"RT @bored2tears: German courts at epicenter of #patent battles among #tech rivals. http://t.co/3WjomDOG $AAPL $GOOG $MSFT $NOK #law #stocks","lbl":"Negative"}
 ,{"time":"0:30","usr":"IT_Voyager","txt":"#stocks When I look at the 2 yr charts for $CMG $PCLN $GOOG $AAPL $LNKD $QQQ - I cringe at the apocalyptic tsunami I see forming","lbl":"Negative"}
+,{"time":"7:07","usr":"wallstCS","txt":"Here\u0027s Why Google Delayed the Launch of Its New Tablet http://t.co/FqwDc0yw $GOOG $AMZN $NVDA $AAPL #tech #android","lbl":"Negative"}
+,{"time":"7:10","usr":"SeekingAlpha","txt":"The Nokia Lumia 900: AT&T Is The Phone\u0027s Only Downside http://t.co/GC7PJVuX $AAPL $GOOG $MSFT $T $NOK","lbl":"Neutral"}
+,{"time":"7:10","usr":"whimzikeys","txt":"RT @MMHomegamer: Checking out \u0022MM Gameplan: Earnings to Watch...\u0022 on MMHG: http://t.co/AuF4xLFp | $AA $CAT $GOOG $JPM $SVU $TITN $URI $WFC","lbl":"Neutral"}
+,{"time":"7:12","usr":"Goodlett","txt":"@Hblodget u + ur staff need to sharpen pencils as u were off by US$800M - $MSFT buys 800 $AOL patents for US$1B http://t.co/R2GFPL3O $GOOG","lbl":"Neutral"}
 ,{"time":"8:51","usr":"Dmottco","txt":"@aztecs99 Huge premium on $goog no?","lbl":"Positive"}
+,{"time":"8:54","usr":"pike_puk","txt":"RT @SeekingAlpha: The Nokia Lumia 900: AT&T Is The Phone\u0027s Only Downside http://t.co/GC7PJVuX $AAPL $GOOG $MSFT $T $NOK","lbl":"Neutral"}
 ,{"time":"8:56","usr":"franki1","txt":"RT @SAI: Here\u0027s Where Google Gets All Of Its Rock Star Talent $GOOG by @mattlynley http://t.co/RJfwF9EM","lbl":"Positive"}
+,{"time":"9:46","usr":"OliverBone","txt":"$aapl is ahead of $goog - is apple over valued?","lbl":"Neutral"}
+,{"time":"9:46","usr":"WhizCheck6","txt":"Advanced $NFLX Straddle Trade Alert | Top Gun Options http://t.co/obZxw3e5 $vix $vxx $goog $aapl","lbl":"Neutral"}
 ,{"time":"9:47","usr":"FanToPro","txt":"RT @SAI: Here\u0027s Where Google Gets All Of Its Rock Star Talent $GOOG by @mattlynley http://t.co/K0sAYQfa","lbl":"Positive"}
+,{"time":"10:45","usr":"petachung","txt":"RT @Jason: Aol sells patents to $msft, stock up 44%! Why didn\u0027t $yhoo just sell their patents to @facebook or $goog? http://t.co/e9Oq9ci1","lbl":"Neutral"}
+,{"time":"10:46","usr":"TCorp","txt":"RT @Jason: Aol sells patents to $msft, stock up 44%! Why didn\u0027t $yhoo just sell their patents to @facebook or $goog? http://t.co/e9Oq9ci1","lbl":"Neutral"}
+,{"time":"10:46","usr":"monterotrans","txt":"RT @Jason: Aol sells patents to $msft, stock up 44%! Why didn\u0027t $yhoo just sell their patents to @facebook or $goog? http://t.co/e9Oq9ci1","lbl":"Neutral"}
 ,{"time":"12:21","usr":"LDrogen","txt":"$GOOG would be smart to buy Pinterest as well, visual search which Google does very poorly","lbl":"Negative"}
 ,{"time":"12:26","usr":"tyrgr","txt":"Here\u0027s Where Google Gets All Of Its Rock Star Talent $GOOG by @mattlynley http://t.co/1byupUgd","lbl":"Positive"}
+,{"time":"13:20","usr":"SeekingAlpha","txt":"Microsoft Cashing In On Another Mobile Phone Giant http://t.co/OcYtSrFN $AAPL $GOOG $NOK $T $MSFT","lbl":"Neutral"}
 ,{"time":"13:20","usr":"josephjpeters","txt":"RT @Sermario: Damn $GOOG got beat to the punch here...instagram would\u0027ve been a fabulous acquisition for them $FB","lbl":"Negative"}
 ,{"time":"13:20","usr":"Lowtown21","txt":"$GOOG & $BIDU looking to run together","lbl":"Positive"}
 ,{"time":"13:21","usr":"josephjpeters","txt":"\u201C@Sermario: Damn $GOOG got beat to the punch here...instagram would\u0027ve been a fabulous acquisition for them $FB\u201D Huge rivalry.","lbl":"Negative"}
+,{"time":"14:07","usr":"thefinancepress","txt":"$GOOG Project Glass: Impact on Google Stock: Project Glass: Impact on Google Stock http://t.co/8Fz9uk9u - 13 min... http://t.co/VSI7h74P","lbl":"Neutral"}
 ,{"time":"14:07","usr":"fmorgan2k9","txt":"RT @fromedome: Why FB Instagram deal is brilliant: http://t.co/zhD5tDeV Pick up great product; knock out huge threat; get help competing w/ $AAPL & $GOOG.","lbl":"Negative"}
+,{"time":"14:09","usr":"SEBillionair","txt":"RT @LaMonicaBuzz: So would now be a good time for $GOOG to spin-off Picasa to unlock its hidden value? $FB #instagram","lbl":"Neutral"}
 ,{"time":"14:09","usr":"miss_lynsey","txt":"RT @fromedome: Why FB Instagram deal is brilliant: http://t.co/zhD5tDeV Pick up great product; knock out huge threat; get help competing w/ $AAPL & $GOOG.","lbl":"Negative"}
 ,{"time":"14:57","usr":"nkgl","txt":"How Did Google Miss Its Chance To Buy Instagram? $GOOG by @MattRosoff http://t.co/CLS2D5Gi","lbl":"Negative"}
 ,{"time":"14:57","usr":"Alison_Lamb","txt":"RT@MattRosoff: How Did Google Miss Its Chance To Buy Instagram? $GOOG http://t.co/yCYmSoFN #social #digital","lbl":"Negative"}
+,{"time":"14:58","usr":"MarcHochstein","txt":"Google\u0027s High-Tech Specs Augur a New Vision for Banking. A new @BankThink post by @WolfeWriter #ProjectGlass $GOOG http://t.co/LuNC0H3g","lbl":"Neutral"}
 ,{"time":"14:58","usr":"akumar2461","txt":"RT @SAI: How Did Google Miss Its Chance To Buy Instagram? $GOOG by @MattRosoff http://t.co/1PnyNuZ6","lbl":"Negative"}
+,{"time":"15:37","usr":"srisri55","txt":"Couple of years back RIMM started going opposite direction to $AAPL forever Couple of days back $GOOG started in opposite direction to $AAPL","lbl":"Neutral"}
 ,{"time":"15:39","usr":"thefinancepress","txt":"$GOOG How Did Google Miss Its Chance To Buy Instagram? (GOOG): How Did Google Miss Its Chance To Buy Instagram?... http://t.co/eJV8f7JV","lbl":"Negative"}
+,{"time":"15:42","usr":"DJThistle","txt":"Office Depot lists 8GB Samsung Galaxy Tab 2 (10.1) at $399: Office Depot appears to be the first retail c... http://t.co/3fadr7nx $GOOG","lbl":"Neutral"}
+,{"time":"17:16","usr":"CoreyCicero","txt":"$AA Kicks off #EarningsSeason after the Bell Tomorrow. #OldWallStreetBellWeather #Boring. Should pick up in a week or so. $GOOG Thurs night","lbl":"Neutral"}
+,{"time":"17:30","usr":"LPLongo","txt":"Commented on StockTwits: I don\u0027t want my life to revolve around $GOOG or $AAPL. I use $YELP on my droid all the time... http://t.co/OD6cN5cK","lbl":"Neutral"}
+,{"time":"17:34","usr":"sharkfoot","txt":"RT @cnbcfastmoney: Facebook Acquisition Does Not Put Shutterfly in Play: Pro Trader http://t.co/LRn1etFb $GOOG $SFLY $YELP #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"20:32","usr":"pavacadabra","txt":"RT @fromedome: Why FB Instagram deal is brilliant: http://t.co/zhD5tDeV Pick up great product; knock out huge threat; get help competing w/ $AAPL & $GOOG.","lbl":"Neutral"}
+,{"time":"20:38","usr":"Goodlett","txt":"In case you\u0027ve been under a rock and missed it - #Instagram went for US$1B to Facebook http://t.co/zf7P8i9v $GOOG $YHOO $AOL $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"20:47","usr":"stockmarketvide","txt":"Stock Of The Day Video: $GOOG - April 9, 2012: http://t.co/p3OspUTC via @youtube","lbl":"Neutral"}
+,{"time":"20:54","usr":"st_swing","txt":"ShadowTraderPro Swing Trader 04.10.12 $FDX $AMZN $GOOG $IBM #stocks http://t.co/I5fU2tHz","lbl":"Neutral"}
 ]

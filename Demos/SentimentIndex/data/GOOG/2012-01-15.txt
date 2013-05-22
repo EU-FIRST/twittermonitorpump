@@ -1,8 +1,20 @@
 [
-{"time":"1:28","usr":"Nortroll","txt":"Reading $goog 10k. Remarkable company and financials. Still can\u0027t stand the phonies who started it.","lbl":"Positive"}
+{"time":"1:27","usr":"NiueNews1","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"1:28","usr":"Nortroll","txt":"Reading $goog 10k. Remarkable company and financials. Still can\u0027t stand the phonies who started it.","lbl":"Positive"}
 ,{"time":"1:36","usr":"howardlindzon","txt":"OH man....really not liking being forced into new gmail design...not happy and lost so far ... $goog","lbl":"Negative"}
 ,{"time":"7:09","usr":"macroaxis","txt":"Google Inc $GOOG Slightly Dropping. Google Appoints Former VMware CEO To Board: http://t.co/LhhBKazM","lbl":"Negative"}
+,{"time":"7:09","usr":"thefinancepress","txt":"$GOOG Google Appoints Former VMware CEO To Board: Google Appoints Former VMware CEO To Board IT Business Net - ... http://t.co/wwQTty4Z","lbl":"Neutral"}
 ,{"time":"7:38","usr":"bored2tears","txt":"Rupert Murdoch takes to Twitter to blast Google, Obama on piracy. http://t.co/j7HnlFDz $GOOG $NWSA #media #PIPA #SOPA","lbl":"Negative"}
 ,{"time":"7:39","usr":"PanosM_GR","txt":"RT @businessinsider: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/no4LjF1D","lbl":"Negative"}
+,{"time":"10:33","usr":"howardlindzon","txt":"Sage Weekly Letter | via @StockSage1 http://t.co/nbA2roy6 $FDX $GOOG $HD $INTC $LEN $SPY $SPX $XLF $XLV","lbl":"Neutral"}
+,{"time":"10:33","usr":"leopardtrader","txt":"FACT: Trend following systems produce mediocre performance over time. B/cos markets trend only ~ 20% of the time. $EURUSD $SPX $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"10:35","usr":"leopardtrader","txt":"FACT: If trend following system works..majority will be rich ! But Majority are losers ?? Why??? $GOOG $AUDUSD $GOOG $SPY $AAPL","lbl":"Neutral"}
+,{"time":"10:39","usr":"leopardtrader","txt":"FACT: Stop loss is only useful for accidental deaths. It doesnt save anyone from losses. Instead increases it. $EURUSD $GOOG $SPY $AAPL","lbl":"Neutral"}
+,{"time":"12:43","usr":"stocktwits_suck","txt":"Siri Romance http://t.co/aFOZZW5x #love #technology #iPhone $aapl $goog #iphone #ipad #siri","lbl":"Neutral"}
+,{"time":"12:47","usr":"mkarolian","txt":"RT @businessinsider: More Than 1,000 Man-Years Have Gone Into Developing Google Search $GOOG by @_dtl http://t.co/hrFE5vYz","lbl":"Neutral"}
+,{"time":"16:14","usr":"stephenxl5","txt":"RT @themotleyfool: Google and GE are 2 of the companies reporting this week. Here\u0027s what\u0027s on tap: http://t.co/nxDkpjOd $GOOG $GE","lbl":"Neutral"}
+,{"time":"16:34","usr":"party_man2012","txt":"iPhones for Psychos http://t.co/hnJp0bq6 #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
 ,{"time":"21:31","usr":"BreezeTrading","txt":"$GOOG Acting well only down $50 per share. Hold you\u0027re winners. $STUDY","lbl":"Positive"}
+,{"time":"21:50","usr":"azahn123","txt":"RT @businessinsider: More Than 1,000 Man-Years Have Gone Into Developing Google Search $GOOG by @_dtl http://t.co/BI0FkU6F","lbl":"Neutral"}
+,{"time":"21:54","usr":"optioncommander","txt":"Business Insider - Reddit Co-Founder Alexis Ohanian On SOPA: \u0027It\u0027s Going To Break The Internet\u0027 http://t.co/MzoWeOXw $GOOG","lbl":"Neutral"}
 ]

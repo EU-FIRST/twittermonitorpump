@@ -1,16 +1,27 @@
 [
-{"time":"7:23","usr":"petergo99037185","txt":"$USD 79.64 - 0.05 $DAX is +0.81%, OIL +0.09 EURO +0.0015, YEN + 0.27 , $AAPL +3, $GOOG -1.35 , OIL just turn negative, need plus big","lbl":"Negative"}
+{"time":"1:37","usr":"wordpressprgmr","txt":"Big story here: Vringo http://t.co/nljAkReU $VRNG $GOOG","lbl":"Neutral"}
+,{"time":"1:37","usr":"castillb1776","txt":"RT @Williamj54: Stocks hanging tough for now, $GOOG, $EBAY, $KORS, $CRM, $MA, $V. These are ones to watch if/when correction ends. They\u0027re holding up best.","lbl":"Neutral"}
+,{"time":"1:45","usr":"TheStreet","txt":"Can Amazon Keep Defying Gravity? http://t.co/snO5JNrB by @rsaintvilus $AMZN $AAPL $GOOG $WMT $MSFT","lbl":"Neutral"}
+,{"time":"1:55","usr":"alexmerax","txt":"RT @SeekingAlpha: What An iPad Mini Really Means For PC Sales http://t.co/KkrY9z3X $AAPL $AMD $AMZN $GOOG $INTC $NVDA $MSFT","lbl":"Neutral"}
+,{"time":"7:23","usr":"petergo99037185","txt":"$USD 79.64 - 0.05 $DAX is +0.81%, OIL +0.09 EURO +0.0015, YEN + 0.27 , $AAPL +3, $GOOG -1.35 , OIL just turn negative, need plus big","lbl":"Negative"}
 ,{"time":"7:25","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Dragged into Infringement Battle By Microsoft ...: Google Inc. (NASDAQ:GOOG) Dr... http://t.co/9jOQKx85","lbl":"Negative"}
+,{"time":"7:27","usr":"vid_e","txt":"$goog option pricing seem to expect 60-80 points movement. Not playing","lbl":"Neutral"}
 ,{"time":"8:23","usr":"BlueFielder","txt":"Watching $GooG this morning . Possible SHORT - Also $LuLu for a daytrade (bullish) - See nothing in $AAPL that says \u0027Go long \u0027 .... yet","lbl":"Negative"}
 ,{"time":"8:24","usr":"abdogman","txt":"RT @BlueFielder: Watching $GooG this morning . Possible SHORT - Also $LuLu for a daytrade (bullish) - See nothing in $AAPL that says \u0027Go long \u0027 .... yet","lbl":"Negative"}
 ,{"time":"8:51","usr":"RedDogT3Live","txt":"Done with $GOOG short. Purely tactical. Those on the vtf and on my radio got a play by play.","lbl":"Positive"}
+,{"time":"8:51","usr":"z8angela","txt":"My post: Market Remains Weak Along with Financial Sell-off led by $JPM http://t.co/pEjAqLxr - Rotation, #correction ... $AAPL $GOOG $BIDU","lbl":"Neutral"}
+,{"time":"8:51","usr":"mikethebbop","txt":"Gets us closer to some real numbers on $GOOG app business: http://t.co/kLZjz3Gb","lbl":"Neutral"}
 ,{"time":"9:15","usr":"petergo99037185","txt":"$GOOG -7.84, $AAPL negative just now, expect worse...","lbl":"Negative"}
 ,{"time":"9:16","usr":"BlueFielder","txt":"$GooG .... about to hit a hole near 735.40","lbl":"Negative"}
+,{"time":"9:16","usr":"jiazhi_","txt":"RT @HFTAlert: VERY LARGE HFT running stops and limits. half of this bar will reverse.. $spy $vxx $aapl $goog http://t.co/KsofGVDP","lbl":"Neutral"}
+,{"time":"9:16","usr":"llabtoofootball","txt":"RT @HFTAlert: VERY LARGE HFT running stops and limits. half of this bar will reverse.. $spy $vxx $aapl $goog http://t.co/KsofGVDP","lbl":"Neutral"}
+,{"time":"9:30","usr":"jamestitcomb","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Neutral"}
 ,{"time":"9:30","usr":"jojaifra_","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
 ,{"time":"9:30","usr":"irsbygod","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
 ,{"time":"9:50","usr":"CreateCapital","txt":"Primary breakout in $GOOG is near 710","lbl":"Positive"}
 ,{"time":"9:50","usr":"AnnaloveSamuel","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
 ,{"time":"10:07","usr":"RIPng","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
+,{"time":"10:07","usr":"OptionsProfits","txt":"RT @davidspeltier: My colleague Jill Malandrino @optionsprofits will be discussing this $AAPL vs. $GOOG story live tonight on NBR @bizrpt http://t.co/ov4TSeCD","lbl":"Neutral"}
 ,{"time":"10:07","usr":"blackmarkt","txt":"trying a starter long in $GOOG around 730","lbl":"Positive"}
 ,{"time":"10:26","usr":"Jonah168","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/ricYK0IE $GOOG","lbl":"Negative"}
 ,{"time":"10:26","usr":"GOOGLE_INFOS","txt":"EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/PHpbjIFP $GOOG RT Reuters #Google","lbl":"Negative"}
@@ -20,13 +31,42 @@
 ,{"time":"10:45","usr":"mgreco84","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/5wwAkAXz $GOOG","lbl":"Negative"}
 ,{"time":"10:46","usr":"petergo99037185","txt":"$AAPL SLEEPS, $GOOG -8, it\u0027s about earnings and court reversals, $spx=push.","lbl":"Negative"}
 ,{"time":"11:10","usr":"bancadadeleao","txt":"RT @SAI_Tools: People Prefer Google Maps To Apple Maps By A 2-To-1 Ratio $AAPL $GOOG by @jyarow http://t.co/toxMmBti","lbl":"Positive"}
+,{"time":"11:11","usr":"Carina_Lermon","txt":"Nikon \u0027s New Android -Based Coolpix Shares Photos Like a ... #Android $GOOG http://t.co/FRQhAwQX","lbl":"Neutral"}
+,{"time":"11:12","usr":"traderstewie","txt":"now, all we need is $GOOG, AAPL and $AMZN to go green. is that too much to ask??! lol","lbl":"Neutral"}
 ,{"time":"11:41","usr":"DeidreZune","txt":"$GOOG being sold on fears of antitrust investigations to come in US and ongoing in EU. Still resilient -- down only 3-4% from highs","lbl":"Negative"}
+,{"time":"11:43","usr":"wallstCS","txt":"Google Third Quarter Earnings Sneak Peek http://t.co/zBqK84Sa $GOOG #stocks #mkt","lbl":"Neutral"}
+,{"time":"11:43","usr":"tlmontana","txt":"@businessinsider @meganrosedickey Interesting Point On Consumer Search vs. APP Usage. Will need to do some research on this. Thanks. $GOOG","lbl":"Neutral"}
 ,{"time":"12:18","usr":"AkaFitzkes","txt":"RT @Reuters: EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG","lbl":"Negative"}
+,{"time":"12:20","usr":"peter_gibbons","txt":"A Chart for Nervous $GOOG Longs: http://t.co/QwVDtjEj $MSFT","lbl":"Neutral"}
+,{"time":"12:20","usr":"taylorseo_com","txt":"RT @SAI: Here Are The Huge Questions Google Has To Answer This Week $GOOG by @meganrosedickey http://t.co/b9DmdPvw","lbl":"Neutral"}
 ,{"time":"12:24","usr":"AkaFitzkes","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/ricYK0IE $GOOG","lbl":"Negative"}
 ,{"time":"12:59","usr":"tuija","txt":"EU:n tietosuojav\u00E4ki \u00E4r\u00E4hti Googlelle \u201C@Karde: EU data protection authorities found legal problems http://t.co/E07kXrMy $GOOG\u201D","lbl":"Negative"}
+,{"time":"13:26","usr":"RtrsTechquity","txt":"$AAPL could shine after next week\u0027s announcement, plus news on $GOOG, $AMZN on debut edition of Reuters Techquity: http://t.co/ELcVrClO","lbl":"Neutral"}
 ,{"time":"13:28","usr":"ankur_ram","txt":"RT @businessinsider: 9 Apple Mobile Features That Will Make You Want To Quit Android Forever $AAPL $GOOG by @_dtl http://t.co/93DOyd6j","lbl":"Negative"}
+,{"time":"14:07","usr":"Affiliate_Gems","txt":"RT @SAI: Marissa Mayer Is Close To Landing Her First Big-Name Hire From Google $YHOO $GOOG by @jyarow http://t.co/Z3bUd5Th","lbl":"Neutral"}
+,{"time":"14:07","usr":"DeidreZune","txt":"Maps Will Not Save Nokia From Bankruptcy http://t.co/3bCZ0wxr $NOK $MSFT $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"14:10","usr":"yeahforeal","txt":"LOL: #FBI issues Android warning http://t.co/zMmtBv0c $GOOG < $AAPL","lbl":"Negative"}
 ,{"time":"14:11","usr":"TraderPlanet","txt":"Google reports Thursday after the close. Is a retreat to $710 in the cards? $QQQ $EBAY $GOOG $INTC http://t.co/1layX0nS","lbl":"Negative"}
+,{"time":"14:39","usr":"kevinbantz","txt":"$ERY, $IBM, $COST, $AAPL, $AMZN, $GOOG, $CHK, $INTC, $MSFT, $ZB_F, $ZS_F, $ZC_F, $ZW_F, $GC_C, $SI_F, $NG_F, $CL_F, $CMG","lbl":"Neutral"}
+,{"time":"14:40","usr":"RDeanon","txt":"RT @njspence: Google Vs. Vringo: Why I Think A Settlement Is In The Cards http://t.co/HNsOET6J $VRNG $GOOG","lbl":"Neutral"}
+,{"time":"15:07","usr":"kaydenh","txt":"@loebben @au_smcedu Not bad! They\u0027re going to have to do something to win me back after Drive defaults 5GB free #cashonhand $GOOG","lbl":"Neutral"}
+,{"time":"15:39","usr":"MrButchRadio","txt":"RT @CourtneyDonohoe: BMO\u0027s List of stocks that perform in range-bound market: $AAPL, $CSCO, $GOOG, $SLB, $VZ as mentioned by @TheOneDave @MrButchRadio @pimmfox","lbl":"Neutral"}
+,{"time":"15:42","usr":"ombra_lupo","txt":"RT @SAI: Meet The Man Now In Charge Of Siri: Bill Stasior $AAPL $AMZN $GOOG by @owenthomas http://t.co/HMDGXJvO","lbl":"Neutral"}
 ,{"time":"16:35","usr":"TasnimeM","txt":"RT @Reuters: EU data protection authorities have found legal problems with Google\u0027s privacy policy http://t.co/ricYK0IE $GOOG","lbl":"Negative"}
+,{"time":"16:35","usr":"Edgecliffe","txt":"RT @JonErlichman: Yahoo hires Google\u0027s Henrique De Castro as its Chief Operating Officer $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"16:36","usr":"simonhoupt","txt":"RT @JonErlichman: Yahoo hires Google\u0027s Henrique De Castro as its Chief Operating Officer $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"16:36","usr":"wallstCS","txt":"Here\u0027s Apple\u0027s Latest Plan To Fix Siri http://t.co/GNwKbbvk $AAPL $AMZN $ORCL $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"17:19","usr":"nottora2","txt":"RT @businessinsider: Meet The Man Now In Charge Of Siri: Bill Stasior $AAPL $AMZN $GOOG by @owenthomas http://t.co/tBu9iSbT","lbl":"Neutral"}
+,{"time":"17:21","usr":"pennystockguys","txt":"$GOOG - Yahoo Hires Google Sales Executive De Castro as Operating Chief http://t.co/tLDwzuYB","lbl":"Neutral"}
+,{"time":"17:21","usr":"ADVFNplc","txt":"$GOOG - Yahoo Hires Google Sales Executive De Castro as Operating Chief http://t.co/VQ9FKCmw","lbl":"Neutral"}
+,{"time":"17:21","usr":"nottora2","txt":"RT @businessinsider: Marissa Mayer Hires A Top Googler As Yahoo\u0027s COO $YHOO $GOOG by @owenthomas http://t.co/osGaShS6","lbl":"Neutral"}
+,{"time":"18:25","usr":"newsagg","txt":"$GOOG earnings will not include ad revenue from elections which is now really picking up on videos watched by youths","lbl":"Neutral"}
+,{"time":"18:29","usr":"businessinsider","txt":"Congressman Blasts FTC For Going After Google $GOOG by @owenthomas http://t.co/quoXbCXA","lbl":"Neutral"}
+,{"time":"18:29","usr":"bi_politics","txt":"Congressman Blasts FTC For Going After Google $GOOG by @owenthomas http://t.co/vQvEtMaa","lbl":"Neutral"}
+,{"time":"19:55","usr":"KeeneOnMarket","txt":"Get the $ES $AAPL and $GOOG Video Recap for #Trading 10.15.2012 http://t.co/5ULr9xcE","lbl":"Neutral"}
+,{"time":"19:56","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 10.16.2012 http://t.co/0zQWAX3G","lbl":"Neutral"}
+,{"time":"22:39","usr":"TraderLantern","txt":"Maybe no one told them about the daunting $0.1 mil quarterly revenue that $VRNG does? That should throw them off those highs. $GOOG","lbl":"Neutral"}
+,{"time":"22:40","usr":"TheStreet","txt":"3 Stocks I Saw on TV, October 15 $AMZN $BTU $WLT $KOL $GOOG $ANR $AAPL http://t.co/HWFZ2uKT by @DanFitzpatrick","lbl":"Neutral"}
+,{"time":"22:40","usr":"RealCrystalBall","txt":"3 Stocks I Saw on TV, October 15 $AMZN $BTU $WLT $KOL $GOOG $ANR $AAPL http://t.co/wl1KEi7O by @DanFitzpatrick #Stocks","lbl":"Neutral"}
 ,{"time":"22:40","usr":"TraderLantern","txt":"$VRNG They got it right in 2004, ringtones were the future, not web search. Should be a strong fight against $GOOG.","lbl":"Negative"}
 ]

@@ -1,8 +1,19 @@
 [
 {"time":"1:19","usr":"guttrader","txt":"$AAPL, $GS, $GOOG, $BIDU, $NFLX, $IBM, $CAT, $AMZN, $FFIV, $JCP, $IOC, $ARNA, $LVS if u love these stocks join us http://t.co/qk5n1zBP","lbl":"Positive"}
 ,{"time":"7:43","usr":"DetailsR4Devils","txt":"$AMZN: Amazon\u0027s China Kindle launch delayed by cloud hold-up, Morning Whistle say","lbl":"Negative"}
+,{"time":"9:07","usr":"CEP_Observer","txt":"@firstadopter Only brick and mortar stores that are matching $AMZN are $M and $GPS The rest are running at half that rate.","lbl":"Neutral"}
 ,{"time":"10:36","usr":"MBarbaTBR","txt":"Another interesting stat: 21% of kids would want an e-reader, but only 19% would want a Kindle Fire; should that be concerning for $AMZN?","lbl":"Negative"}
+,{"time":"10:36","usr":"investorsmosaic","txt":"#Pinterest board updated. $DE $WMT $TGT $AMZN #Egypt http://t.co/tSoRPKK2","lbl":"Neutral"}
+,{"time":"11:24","usr":"Empaxis","txt":"RT @businessinsider: The Biggest Tech Flops Of 2012 $RIMM $AAPL $AMZN $GOOG $FB $YHOO $ZNGA by @jyarow http://t.co/8oMct8Pw","lbl":"Negative"}
 ,{"time":"12:14","usr":"Stuey_B","txt":"RT @SAI: The Biggest Tech Flops Of 2012 $RIMM $AAPL $AMZN $GOOG $FB $YHOO $ZNGA by @jyarow http://t.co/m2JawW4T","lbl":"Negative"}
+,{"time":"13:24","usr":"jamescallahan","txt":"$AMZN @ $236.18... again and again and again... :)","lbl":"Neutral"}
+,{"time":"14:14","usr":"Adam80326133","txt":"Don\u0027t Flock To Retailers This Holiday Season http://t.co/Yh87Tp8C $AMZN $BBY $JCP $M $SHLD $TGT $WMT $RTH $XRT $PMR","lbl":"Neutral"}
+,{"time":"14:15","usr":"TraderDR","txt":"@TrendRida guy was dead-on, loss leader garbage removes all incentive to innovation or improve anything, thanks $AMZN and $GOOG","lbl":"Neutral"}
+,{"time":"14:15","usr":"TrendRida","txt":"Love this comment by a dude named biodam \u0022$GOOG and $AMZN should be penalized for messing with Moore\u0027s law.\u0022 http://t.co/gNy3GxV0","lbl":"Neutral"}
+,{"time":"15:16","usr":"biggercapital","txt":"Did ok so far RT @ericjackson: Revisiting the Top 2012 Twitter Stock and Market Picks Forbes http://t.co/lV565NEp $AMZN $GRPN $AAPL","lbl":"Neutral"}
 ,{"time":"15:18","usr":"lfburch","txt":"@retail_sails $BBY $amzn has no service, except returns","lbl":"Negative"}
+,{"time":"16:14","usr":"MarketCurrents","txt":"After pegging Y/Y growth at 16% for the first 18 days of November, comScore thinks U.S. e-comme... http://t.co/iIxITj2T $AMZN $EBAY","lbl":"Neutral"}
 ,{"time":"16:22","usr":"marketmodel","txt":"@KeithMcCullough I just like watching it unfold w u short $amzn against the crowd. #contrarian","lbl":"Negative"}
+,{"time":"19:18","usr":"dima767","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 11/21/12 {Video}\u0022 http://t.co/rKa9CRho $AAPL $AMZN $GME $QQQ $SPY $XLF $XLY #stockaction HAPPY THANKSGIVING!","lbl":"Neutral"}
+,{"time":"19:22","usr":"fbonacci","txt":"$AMZN + $BBY + interactive destination showrooms. Like product experience? Tap order screen wall & buy thru $AMZN acct. ~ what am I missing?","lbl":"Neutral"}
 ]

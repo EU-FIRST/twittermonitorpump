@@ -1,5 +1,19 @@
 [
-{"time":"10:56","usr":"Fitzstock2004","txt":"$amzn, $expe, $fb, $mnst all still green.......NOTED,,,as when $spx catches a bid(next week), THESE COULD LEAD","lbl":"Positive"}
+{"time":"3:40","usr":"Retail_Guru","txt":"Clearly macros key, but just as important to capture changes in how we\u0027re shopping & what for $$ $AMZN $AAPL $JWN #luxe $LTD #Zara #H&M","lbl":"Neutral"}
+,{"time":"7:02","usr":"StockMarketEnds","txt":"Anti Christ Zionists WellsFargo, IBM & Amazon are Anti 99% $AMZN #Economist #Reporter #Actor #Clinical #Biologist #HR #Chemist #Loan #Writer","lbl":"Neutral"}
+,{"time":"8:39","usr":"mcilderman","txt":"Is #Apple Gonna Buy into #3DPrinting ?http://t.co/WCzo3zjJ $AAPL $AMZN #amazon $MSFT $GOOG #Mac #3dp #reprap @andersen","lbl":"Neutral"}
+,{"time":"8:39","usr":"RoccoPendola","txt":"RT @mcilderman: Is #Apple Gonna Buy into #3DPrinting ?http://t.co/WCzo3zjJ $AAPL $AMZN #amazon $MSFT $GOOG #Mac #3dp #reprap @andersen","lbl":"Neutral"}
+,{"time":"9:23","usr":"wallstCS","txt":"Can Bed Bath & Beyond Take On Amazon? http://t.co/WhqiDpnd $BBBY $CPWM $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:01","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:46am: 224.27 +1.25 (+0.56%).","lbl":"Neutral"}
+,{"time":"10:52","usr":"AccountingCafe","txt":"RT @SeekingAlpha: Facebook Will Succeed Because Of Web 3.0 http://t.co/1lLDus0z $AAPL $AMZN $AOL $MSFT $RIMM $YHOO $FB","lbl":"Neutral"}
+,{"time":"10:56","usr":"Fitzstock2004","txt":"$amzn, $expe, $fb, $mnst all still green.......NOTED,,,as when $spx catches a bid(next week), THESE COULD LEAD","lbl":"Positive"}
+,{"time":"11:04","usr":"wallstCS","txt":"Pier 1 SLATED to Outlast Bed, Bath & Beyond and More Analyst Alerts http://t.co/a8wxWtCo $BBBY $PIR $AMZN $CELG #mkt #stocks","lbl":"Neutral"}
 ,{"time":"12:36","usr":"Hephaestus7","txt":"$AMZN is holding up relatively well, considering today\u0027s market rout.","lbl":"Positive"}
+,{"time":"14:08","usr":"mcilderman","txt":"Will #Apple Buy into 3D Printing http://t.co/WCzo3zjJ $AAPL $AMZN #Amazon $MSFT $GOOG #google #Mac #iPhone #tech","lbl":"Neutral"}
+,{"time":"14:11","usr":"mithuhassan","txt":"RT @mcilderman: Will #Apple Buy into 3D Printing http://t.co/WCzo3zjJ $AAPL $AMZN #Amazon $MSFT $GOOG #google #Mac #iPhone #tech","lbl":"Neutral"}
+,{"time":"14:54","usr":"DhanyaTweets","txt":"Best Buy vows to slim down, tackle \u0027showrooming\u0027 http://t.co/9wP9hcgj via @reuters $BBY $WMT $AMZN","lbl":"Neutral"}
 ,{"time":"14:56","usr":"wallstCS","txt":"Tech Business Roundup: Apple ADDS Features for Chinese Users, Amazon\u0027s GRAND SCHEME http://t.co/jdkIgU48 $CY $RMTR $AAPL $CHL $AMZN #stocks","lbl":"Positive"}
+,{"time":"16:20","usr":"SeekingAlpha","txt":"Microsoft\u0027s Surface: Potential Winners And Losers http://t.co/TeCqID6g $AAPL $AMZN $DELL $RIMM $MSFT","lbl":"Neutral"}
+,{"time":"16:25","usr":"seirerwskmuz1","txt":"Anti Christ Zionist WellsFargo, Amazon & Microsoft are Anti 99% $CXW $GEO $WFC $AMZN $MSFT $GS Fitne","lbl":"Neutral"}
+,{"time":"18:09","usr":"RevampYourMind1","txt":"RT @mcilderman: Will #Apple Buy into #3DPrinting? http://t.co/WCzo3zjJ $AAPL $AMZN #Amazon $MSFT $GOOG #technology #investing","lbl":"Neutral"}
 ]

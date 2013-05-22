@@ -1,13 +1,63 @@
 [
 {"time":"3:24","usr":"boonspoon","txt":"RT @MattRosoff: No Love For Google At The Crunchies This Year $GOOG http://t.co/AxbERNXP","lbl":"Negative"}
+,{"time":"3:32","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+,{"time":"3:44","usr":"barronstechblog","txt":"Sony CEO Stringer Replaced by Consumer Vet Hirai - Tech Trader Daily - $SNE $6758JP $AAPL $GOOG $ERTS $MSFT http://t.co/PPrzunni","lbl":"Neutral"}
 ,{"time":"6:44","usr":"Karanja_Anthony","txt":"RT @SAI: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/abxuFKuG","lbl":"Negative"}
+,{"time":"6:45","usr":"pors","txt":"RT @SAI: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/abxuFKuG","lbl":"Neutral"}
+,{"time":"6:45","usr":"TheSkov","txt":"@abrah07 RT SAI Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/dZKJ3Or7","lbl":"Neutral"}
+,{"time":"6:45","usr":"SimplyAyeproh","txt":"RT @SAI_Tools: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/D0M1KJZz","lbl":"Neutral"}
+,{"time":"7:23","usr":"bridgdef","txt":"RT @SAI: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/abxuFKuG","lbl":"Neutral"}
+,{"time":"7:23","usr":"AdamDionne","txt":"RT @SAI: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/abxuFKuG","lbl":"Neutral"}
+,{"time":"8:02","usr":"DigiDoc55","txt":"RT @SAI: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/abxuFKuG","lbl":"Neutral"}
+,{"time":"8:04","usr":"Shawamzk","txt":"RT @SAI: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/abxuFKuG","lbl":"Neutral"}
+,{"time":"8:27","usr":"julpepitone","txt":"RT @LaMonicaBuzz: Uh-oh. Seen on $YHOO Finance page for microcap cosmetics maker $FACE. \u0022People viewing FACE also viewed: $GOOG $AAPL.\u0022 $FACE is NOT Facebook!","lbl":"Neutral"}
+,{"time":"8:27","usr":"RedDogT3Live","txt":"Morning Call Express: Markets Start February With a Bang [VIDEO] http://t.co/qnjQaihM @RedDogT3Live @adsteel $AMZN $AAPL $GOOG $GRPN","lbl":"Neutral"}
 ,{"time":"9:01","usr":"wallstCS","txt":"Google Responds to Congressional Concerns Over Privacy Policy Revisions http://t.co/rIBRdxaS $GOOG #mkt #stocks #trading","lbl":"Negative"}
+,{"time":"9:45","usr":"Mark_Lexus","txt":"@CNBCOptions still waiting for mike to talk what he did with the $GOOG put credit spread for march","lbl":"Neutral"}
+,{"time":"9:45","usr":"shahjahanw","txt":"$GOOG,$AAPL,$BAC,$MSFT $GS stock market test","lbl":"Neutral"}
+,{"time":"10:54","usr":"CameronKaine","txt":"Commented on: \u0022Google Is In No Danger Of Being Dethroned\u0022 http://t.co/usHeFK06 $AAPL $AMZN $MSFT $GOOG","lbl":"Positive"}
+,{"time":"10:56","usr":"DanielLynchJr","txt":"RT @SAI: Choose Your Phone Wisely: Android Users Are More Likely To Have Sex On The First Date $GOOG by @_dtl http://t.co/abxuFKuG","lbl":"Neutral"}
+,{"time":"11:56","usr":"TheRealXMoney","txt":"@jimcramer See a pattern. People are go to $AAPL for #iPhone4S #iPad2 not $GOOG, less shopping on $AMZN. Save on gas $XOM. No $CMG or $LVS.","lbl":"Negative"}
+,{"time":"11:58","usr":"BloombergTV","txt":"RT @DeirdreBolton: $FB IPO filing watch on #MoneyMoves IanSigalow #VC Greycroft: $FB has to find way to \u0022tax\u0022 user traffic,as $GOOG did. 1pmET @BloombergTV","lbl":"Neutral"}
+,{"time":"11:58","usr":"tjjones425","txt":"RT @DeirdreBolton: $FB IPO filing watch on #MoneyMoves IanSigalow #VC Greycroft: $FB has to find way to \u0022tax\u0022 user traffic,as $GOOG did. 1pmET @BloombergTV","lbl":"Neutral"}
+,{"time":"11:59","usr":"lluccipha","txt":"SAI: Here Are The Best Smartphones You Can Buy This Month $GOOG $AAPL $T $VZ by @stevekovach http://t.co/VBAlMuwE","lbl":"Neutral"}
 ,{"time":"12:45","usr":"dschorrnyc","txt":"Saw a full pg in NYT - Microsoft Slams Google Privacy Changes -http://twb.io/w49Bjd $MSFT $GOOG","lbl":"Negative"}
 ,{"time":"12:46","usr":"dschorrnyc","txt":"Google + has reportedly passed 100 million users huh? It\u0027s not nothing anymore. $GOOG","lbl":"Positive"}
 ,{"time":"13:52","usr":"jonasQuinn23","txt":"RT @Catwoman2011: Why am I NOT buying into Facebook IPO? Same reason I avoid $GOOG & $MSFT\u2014CEOs are/were thieves. Stay Hungry. Stay Foolish. $AAPL =^.^=","lbl":"Negative"}
+,{"time":"13:54","usr":"thefinancepress","txt":"$GOOG Facebook Valuation Alerts!!! (MS, GS, GOOG, GSVC): Facebook Valuation Alerts!!! (MS, GS, GOOG, GSVC) 24/7... http://t.co/dHpQC7nl","lbl":"Neutral"}
+,{"time":"13:54","usr":"DJThistle","txt":"US Cellular Announces 4G LTE Network: US Cellular, the carrier with the highest call quality and network s... http://t.co/9Yn3Qwm4 $GOOG","lbl":"Neutral"}
 ,{"time":"14:56","usr":"thetradedotcom","txt":"@jonfortt I think you need to take the position that $GOOG is also undervalued... at sub $150B net of cash","lbl":"Positive"}
 ,{"time":"14:58","usr":"thetradedotcom","txt":"@jonfortt point on growth of $FB is fair, but look at $GOOG\u0027s core biz growth, plus 2012+ rev potential of Android, Chrome, Youtube, Plus","lbl":"Positive"}
+,{"time":"15:31","usr":"thefinancepress","txt":"$GOOG AOL CEO: Facebook Listing Will Help Marketplace -Fox Business: AOL CEO: Facebook Listing Will Help Market... http://t.co/RFS25iLh","lbl":"Neutral"}
+,{"time":"15:32","usr":"MarketBeat","txt":"http://t.co/XJtgInk0 Facebook IPO: Should You Invest In It? @wsj #marketbeat #facebookIPO $$ $SPY $GOOG","lbl":"Neutral"}
+,{"time":"15:32","usr":"TAG_UR_PREGNANT","txt":"RT @BuyOnTheDip: offering 1/2 out $GOOG puts ... 35%+ gain","lbl":"Neutral"}
+,{"time":"16:58","usr":"ipowatch","txt":"$5 Billion dollar $Facebook IPO will be the biggest since $GOOG $FB","lbl":"Neutral"}
+,{"time":"17:00","usr":"fin_bot1","txt":"RT@ipowatch $5 Billion dollar $Facebook IPO will be the biggest since $GOOG $FB","lbl":"Neutral"}
+,{"time":"17:00","usr":"itbot1","txt":"RT@ipowatch $5 Billion dollar $Facebook IPO will be the biggest since $GOOG $FB","lbl":"Neutral"}
 ,{"time":"17:30","usr":"MatthewRiccardi","txt":"RT @tradefast: sorry folks, when i want to research a product, i go directly to $GOOG - $FB is for kids, their mommies and ego maniacs with photo albums","lbl":"Positive"}
 ,{"time":"17:31","usr":"Mark_Lexus","txt":"RT @tradefast: sorry folks, when i want to research a product, i go directly to $GOOG - $FB is for kids, their mommies and ego maniacs with photo albums","lbl":"Positive"}
+,{"time":"17:32","usr":"lauramandaro","txt":"$FB pg. 14 lists int\u0027l \u0022Facebooks\u0022 - Cyworld in Korea, $goog\u0027s Orkut in Brazil, vKontakte in Russia. Also $RENN http://t.co/XsJ8GKmR","lbl":"Neutral"}
 ,{"time":"17:32","usr":"MatthewRiccardi","txt":"Long $GM $HIG $GOOG","lbl":"Positive"}
+,{"time":"17:44","usr":"kalliagk","txt":"RT @BloombergNews: Facebook\u2019s IPO shares may be five times as expensive as Google | http://t.co/dS6k4Dnz $FB $GOOG","lbl":"Neutral"}
+,{"time":"17:44","usr":"klausfeldam","txt":"RT @BloombergNews: Facebook\u2019s IPO shares may be five times as expensive as Google | http://t.co/dS6k4Dnz $FB $GOOG","lbl":"Neutral"}
+,{"time":"17:45","usr":"dscribe","txt":"RT @BloombergNews: Facebook\u2019s IPO shares may be five times as expensive as Google | http://t.co/dS6k4Dnz $FB $GOOG","lbl":"Neutral"}
+,{"time":"17:45","usr":"DanielPReilly","txt":"RT @BloombergNews: Facebook\u2019s IPO shares may be five times as expensive as Google | http://t.co/dS6k4Dnz $FB $GOOG","lbl":"Neutral"}
+,{"time":"18:06","usr":"mtsangg","txt":"Wow. RT @BloombergNews: Facebook\u2019s IPO shares may be five times as expensive as Google | http://t.co/cfAuvrbL $FB $GOOG","lbl":"Neutral"}
+,{"time":"18:06","usr":"Weemba","txt":"RT @marketwatch: Facebook tops Google as the biggest U.S. Internet IPO in history http://t.co/Rf8F5zh0 $FB $GOOG","lbl":"Neutral"}
+,{"time":"18:06","usr":"Joseph_Egege","txt":"RT @MarketWatch: Facebook tops Google as the biggest U.S. Internet IPO in history http://t.co/WTZ2bYRa $FB $GOOG","lbl":"Neutral"}
+,{"time":"18:06","usr":"OliDobbs","txt":"RT @MarketWatch: Facebook tops Google as the biggest U.S. Internet IPO in history http://t.co/WTZ2bYRa $FB $GOOG","lbl":"Neutral"}
+,{"time":"18:21","usr":"mediasentiment","txt":"$GOOG vs $FB in numbers http://t.co/XGsUku8d","lbl":"Neutral"}
+,{"time":"18:21","usr":"tvan76","txt":"RT @MarketWatch: Facebook tops Google as the biggest U.S. Internet IPO in history http://t.co/WTZ2bYRa $FB $GOOG","lbl":"Neutral"}
+,{"time":"18:22","usr":"bbkerv","txt":"RT @MarketWatch: Facebook tops Google as the biggest U.S. Internet IPO in history http://t.co/WTZ2bYRa $FB $GOOG","lbl":"Neutral"}
+,{"time":"18:22","usr":"PanaPao13","txt":"Cash/ST Investments $FB ($1.5/$2.3BN) $GOOG ($9.4/$35BN) $AAPL ($2.9/$23BN) #fb #facebook #ipo","lbl":"Neutral"}
+,{"time":"18:55","usr":"thetellblog","txt":"5 favorite Facebook \u0027risk factors\u0027 $GOOG $MSFT $FB http://t.co/MIRHVHBZ","lbl":"Neutral"}
+,{"time":"18:56","usr":"FransLiando","txt":"buy it! RT @BloombergNews: Facebook\u2019s IPO shares may be five times as expensive as Google | http://t.co/C6F9SptK $FB $GOOG","lbl":"Neutral"}
+,{"time":"19:02","usr":"nsadofsky","txt":"RT @MarketWatch: Facebook tops Google as the biggest U.S. Internet IPO in history http://t.co/WTZ2bYRa $FB $GOOG","lbl":"Neutral"}
+,{"time":"20:15","usr":"andrew_goodman","txt":"Roughly, FB\u0027s ad revenue is roughly where $GOOG\u0027s was at the end of 2003. Not yet an advertising powerhouse. http://t.co/KwNQgVIZ","lbl":"Neutral"}
+,{"time":"20:18","usr":"murphmarkd","txt":"RT @RolfeWinkler: $FB, $ZNGA, $GRPN, $GOOG, et al all with super voting shares that give near total control to execs. Will be a fight when growh slows....","lbl":"Neutral"}
+,{"time":"20:18","usr":"googlytime","txt":"Playbook for tackling the Super Bowl with Google #google $GOOG http://t.co/unhIOwpL","lbl":"Neutral"}
+,{"time":"22:04","usr":"kimiklink","txt":"RT @MarketWatch: Facebook tops Google as the biggest U.S. Internet IPO in history http://t.co/WTZ2bYRa $FB $GOOG","lbl":"Neutral"}
+,{"time":"22:04","usr":"ginoxiao","txt":"RT @bcwtang: I agree $FB will be the King of eCommerce for Virtual Goods, but $GOOG and $AMZN will always be the Kings of eCommerce for Tangible Goods.","lbl":"Positive"}
+,{"time":"22:07","usr":"ruizhu0329","txt":"RT @bcwtang: I agree $FB will be the King of eCommerce for Virtual Goods, but $GOOG and $AMZN will always be the Kings of eCommerce for Tangible Goods.","lbl":"Neutral"}
+,{"time":"22:10","usr":"TheStreet","txt":"Facebook IPO: Google 2.0? http://t.co/50HidvdL by @ozoran $GOOG","lbl":"Neutral"}
 ]

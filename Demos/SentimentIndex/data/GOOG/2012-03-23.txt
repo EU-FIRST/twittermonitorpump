@@ -1,9 +1,23 @@
 [
-{"time":"9:05","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: Autom8: $GOOG, can\u0027t resist shorting premium on the $645(w) puts http://t.co/zkREHSWn","lbl":"Negative"}
+{"time":"5:39","usr":"TaranTopan","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $FB $YHOO $AAPL by @_dtl http://t.co/BuLmS9v0","lbl":"Neutral"}
+,{"time":"5:43","usr":"lluccipha","txt":"SAI: 10 Things You Need To Know This Morning $GOOG $FB $YHOO $AAPL by @_dtl http://t.co/RxChb5U7","lbl":"Neutral"}
+,{"time":"5:44","usr":"EvolvingMedium","txt":"Ratings Firm Puts Facebook On Par With Tech Titans $goog - http://t.co/3dh8n9L2","lbl":"Neutral"}
+,{"time":"5:48","usr":"markdante1","txt":"10 Things You Need To Know This Morning $GOOG $FB $YHOO $AAPL by @_dtl http://t.co/WzzZ33oI rt @SAI","lbl":"Neutral"}
+,{"time":"8:33","usr":"BioTechReports","txt":"$ACUR breaking out! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$chtp,$vvus,$gs,$goog,$bac,$f,$c,$v","lbl":"Neutral"}
+,{"time":"8:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/83, $TVIX/72, $BAC/33, $SPY/33, $KBH/23, $LGF/17, $GOOG/16, $ZNGA/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"9:05","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: Autom8: $GOOG, can\u0027t resist shorting premium on the $645(w) puts http://t.co/zkREHSWn","lbl":"Negative"}
+,{"time":"9:08","usr":"SJosephBurns","txt":"There is always something trending in price, my job as a trader is to find that trend & ride it until it ends. $AAPL $PCLN $GOOG","lbl":"Neutral"}
+,{"time":"9:49","usr":"TrendRida","txt":"@Commodity_Bull @roberee @rotholtz Yea, I gave it a +1 b4 I read the entire article. $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"10:26","usr":"tjtakes","txt":"$goog 646.90 running","lbl":"Positive"}
+,{"time":"10:26","usr":"Vconomics","txt":"RT @InvestorHerald: $GOOG aint a short or a long right now, wait your turn. http://t.co/5MwwpHNc #WORDEN","lbl":"Neutral"}
+,{"time":"11:23","usr":"ZisblU4U","txt":"en guarde .. normally i would address you as $GooG .. #hmm . \u0022let\u0027s chat.\u0022 http://t.co/j1WdfdqD","lbl":"Neutral"}
 ,{"time":"12:41","usr":"ActAccordingly","txt":"Search no more? $GOOG\u0027s secular issues have been well documented. \u0022The case against google\u0022, really thought provoking http://t.co/hddNlArQ","lbl":"Negative"}
+,{"time":"12:46","usr":"kgvenky","txt":"RT @SAI: 10 LinkedIn Charts That Show How Google Is Different Than The Rest Of The Tech Industry $GOOG by @mattlynley http://t.co/jPdpC3zV","lbl":"Neutral"}
 ,{"time":"12:46","usr":"EvolvingMedium","txt":"Google Inc (GOOG) Faces Privacy Battle From Former Employees $goog - http://t.co/T8QVLhlh","lbl":"Negative"}
 ,{"time":"14:12","usr":"sciencetrader","txt":"@KeithMcCullough Simple people who missed the rip in $aapl, $pcln, $goog-are buying to join","lbl":"Positive"}
+,{"time":"15:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/98, $SPY/45, $TVIX/33, $AOL/22, $KBH/19, $GOOG/17, $RIMM/14, $QQQ/13. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"15:35","usr":"wallstCS","txt":"Does Dell Dare to Take On Apple? http://t.co/nfI99HlT $DELL $MSFT $GOOG $AAPL $HPQ $NOK #mkt #trading #stocks","lbl":"Neutral"}
 ,{"time":"19:30","usr":"lazywisdom","txt":"RANDOM QUESTION: When was the last time $GOOG made something BETTER than the alternatives, as opposed to merely FREE?","lbl":"Negative"}
+,{"time":"19:33","usr":"EvolvingMedium","txt":"Gadgets Oracle \u0027s Anti-Android Java Lawsuit Likely to be Settled For Under $100 ... $goog - http://t.co/gFxv5Kbz","lbl":"Neutral"}
 ,{"time":"19:52","usr":"TrendRida","txt":"@netgarden $goog is a flawed biz. It uses free as a crutch to ship incomplete / half azz products.","lbl":"Negative"}
 ]

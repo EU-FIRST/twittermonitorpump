@@ -1,7 +1,15 @@
 [
-{"time":"9:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 09:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+{"time":"7:43","usr":"MertTo","txt":"+1 @SVAndroid: Amazon $AMZN Appstore could open in Europe this Summer... http://t.co/CTcGl8dW #in","lbl":"Neutral"}
+,{"time":"8:36","usr":"LivingThankful","txt":"eyes on market.. $AAPL $GOOG $PCLN $AMZN $GLD #options","lbl":"Neutral"}
+,{"time":"9:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 09:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+,{"time":"10:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:16am: 216.70 +0.20 (+0.09%).","lbl":"Neutral"}
+,{"time":"11:04","usr":"MatchesMalone","txt":"RT @BI_Enterprise: Amazon\u0027s Cloud Is So Big It Would Take You 37,000 Years To Count All The Files It Holds $AMZN by @Julie188 http://t.co/VxRGfvXm","lbl":"Neutral"}
+,{"time":"11:04","usr":"RobertHMWS","txt":"Amazon\u0027s Cloud Is So Big It Would Take You 37,000 Years To Count All The Files It Holds $AMZN by @Julie188 http://t.co/Q1fHwj8a #IN","lbl":"Neutral"}
 ,{"time":"11:04","usr":"nirajshah","txt":"RT @SAI: Amazon\u0027s Cloud Is So Big It Would Take You 37,000 Years To Count All The Files It Holds $AMZN by @Julie188 http://t.co/wPojCW1V","lbl":"Positive"}
+,{"time":"11:56","usr":"kngbn97","txt":"RT @SAI: Amazon\u0027s Cloud Is So Big It Would Take You 37,000 Years To Count All The Files It Holds $AMZN by @Julie188 http://t.co/wPojCW1V","lbl":"Neutral"}
+,{"time":"11:59","usr":"StockMarketEnds","txt":"Anti Christ Zionists WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Economist #Reporter #Actor #Chemist #Loan #Writer","lbl":"Neutral"}
 ,{"time":"13:40","usr":"SeekingAlpha","txt":"Amazon And LinkedIn Are Safe Ideas For Losing Money http://t.co/akg2cAtY $FB $GOOG $GRPN $LNKD $ZNGA $MSFT $AMZN","lbl":"Negative"}
+,{"time":"14:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:16pm: 217.19 +0.69 (+0.32%).","lbl":"Neutral"}
 ,{"time":"20:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 20:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
 ,{"time":"20:38","usr":"anupartha","txt":"RT @BI_Enterprise: Amazon\u0027s Cloud Is So Big It Would Take You 37,000 Years To Count All The Files It Holds $AMZN by @Julie188 http://t.co/VxRGfvXm","lbl":"Positive"}
 ]

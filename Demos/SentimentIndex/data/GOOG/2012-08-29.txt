@@ -1,22 +1,66 @@
 [
-{"time":"5:28","usr":"salothman1","txt":"RT @RedDogT3Live: I enter today long $AAPL $GOOG $lnkd $FB and short $spy for those who are not Members of my VTF. Out of $gld and $slv for now","lbl":"Positive"}
+{"time":"0:00","usr":"zohaibhassan","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"2:09","usr":"jknapp45","txt":"@kaifulee Slams @CitronResearch Report, Calls It Amateur in Chinese Internet market http://t.co/6AJyRZL7 $SOHU $BIDU $QIHU $GOOG","lbl":"Neutral"}
+,{"time":"2:12","usr":"ojilles","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"2:18","usr":"jirizavadil","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"5:28","usr":"salothman1","txt":"RT @RedDogT3Live: I enter today long $AAPL $GOOG $lnkd $FB and short $spy for those who are not Members of my VTF. Out of $gld and $slv for now","lbl":"Positive"}
+,{"time":"5:40","usr":"keithacrawford","txt":"RT @SeekingAlpha: Facebook Continues To Be Overvalued, 30% Downside Risk http://t.co/ftdevNDM $BIDU $GOOG $FB","lbl":"Neutral"}
+,{"time":"7:36","usr":"JamarParris","txt":"While I\u0027d be disappointed, I wouldn\u0027t be surprised if Apple released the new iPhone without NFC. @googlewallet is still US only. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"7:37","usr":"w7cook","txt":"When Art Informs Science: Three Of Facebook\u0027s Optimal Revenue Plays http://t.co/Uczr5jAy $LNKD $MSFT $YHOO $GOOG $FB","lbl":"Neutral"}
+,{"time":"7:38","usr":"MobilitySoup","txt":"RT @sai: 10 Things You Need To Know This Morning $AAPL $ZNGA $GOOG by @stevekovach http://t.co/bNW1Yp7G","lbl":"Neutral"}
 ,{"time":"8:40","usr":"Boss_Vos","txt":"$GOOG 52 week high break","lbl":"Positive"}
 ,{"time":"8:40","usr":"RedDogT3Live","txt":"$goog highs of the year. Added and then trimmed some above $682. Will trail the rest","lbl":"Positive"}
+,{"time":"8:40","usr":"demonotes","txt":"i think $GOOG stock sharesdsa","lbl":"Neutral"}
+,{"time":"8:41","usr":"swamptrade","txt":"$GOOG $PCLN acting well this morning","lbl":"Neutral"}
+,{"time":"8:51","usr":"tradermays","txt":"machine gun out taking 3/4 profits $GOOG calls (+55%) $AMZN c (+25%) $LNKD c (+35%) $SBUX c (+15%) $JCP c (+45%)","lbl":"Positive"}
 ,{"time":"8:51","usr":"tlmontana","txt":"RT @supersainick: @tlmontana short $GOOG at $683.92, looking for a quick trade! <-- Good Luck Sweetie!","lbl":"Negative"}
 ,{"time":"8:52","usr":"MDVigil1967","txt":"@aztecs99 $GOOG!!! Love it. Took that ride, and it paid out. Thanks Bob!!!","lbl":"Positive"}
+,{"time":"8:52","usr":"Jamtrades","txt":"@seldomawake Thanks for pointing that out. I am $STUDY(ing) $GOOG","lbl":"Neutral"}
 ,{"time":"9:15","usr":"aztecs99","txt":"$GOOG - multi year high for the goog","lbl":"Positive"}
+,{"time":"9:15","usr":"WhizCheck6","txt":"Up over 65% in 2 days $CMG iron condor - -15 Aug-31-12 280/285/305/310 iron condor @ 0.375 http://t.co/RKKDz5G2 $goog $aapl $vix $yelp $tfm","lbl":"Neutral"}
 ,{"time":"9:16","usr":"boogidown","txt":"$AAPL position profitable now, $GOOG rentals +6 \u0022lord a mercy\u0022 - wow!!!","lbl":"Positive"}
+,{"time":"9:16","usr":"Huff_B","txt":"RT @KidDynamiteBlog: The Latest Chapter in Vringo and Google\u2019s He Said / She Said | Kid Dynamite\u0027s World http://t.co/slNwAA0G $VRNG $GOOG","lbl":"Neutral"}
 ,{"time":"9:31","usr":"ChrisStuntz","txt":"$GOOG next resistance R2 Pivot @ 693.06","lbl":"Negative"}
+,{"time":"9:31","usr":"chessNwine","txt":"GREAT WORK by @a_bh_a with his #BreakingBad recap now on page 1 for $GOOG search. Beating out recaps by @Grantland33 & @BreakingBad_AMC","lbl":"Neutral"}
 ,{"time":"9:33","usr":"BuyWrites","txt":"@z8angela you bought calls? i thought that the $AAPL verdict would be a big negative for $GOOG","lbl":"Positive"}
 ,{"time":"10:06","usr":"rechtsteiner","txt":"A Medfield phone? Mass market consumers simply don\u0027t care. $GOOG, $INTC are missing it here. http://t.co/YQQQbmU2","lbl":"Negative"}
+,{"time":"10:07","usr":"SumZero","txt":"$CHL Is About to Add Fuel to the SmartPhone Revolution in China http://t.co/HVHOCVVM $AAPL $QCOM $GOOG $CHU $CHA","lbl":"Neutral"}
+,{"time":"10:43","usr":"mesak1","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $ZNGA $GOOG by @stevekovach http://t.co/d7YdkQPv","lbl":"Neutral"}
 ,{"time":"11:29","usr":"Fitzstock2004","txt":"$GOOG IS a bull flag, or cup n handle, or in my world a \u0022W V\u0022 pattern (opposite of \u0022MA\u0022)-ALL BULLISH http://t.co/T46EdQ7L","lbl":"Positive"}
+,{"time":"11:31","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Google Inc. (GOOG) Equips Google+ with Enterprise Social Networking Features: Google Inc. (GOOG) Equips G... ...","lbl":"Neutral"}
 ,{"time":"12:12","usr":"TheOxenGroup","txt":"$GOOG daytrade over 684 looks solid for a quick 1-2% scalp.","lbl":"Positive"}
+,{"time":"12:12","usr":"smartertrader","txt":"RT @Fitzstock2004: if you are up $10k on $goog today......just send me a check for $1k and we will call it even :)","lbl":"Neutral"}
+,{"time":"12:12","usr":"yashgks","txt":"$goog ath","lbl":"Neutral"}
+,{"time":"12:12","usr":"Jamtrades","txt":"in $GOOG $690C $2.30","lbl":"Neutral"}
 ,{"time":"12:39","usr":"MMASSASSIN","txt":"covering $GOOG 585 weekly calls at 5.00-.10 BIG LOSS but holding 590 long leg. and locking in much smaller p-> http://t.co/fku2FMPS","lbl":"Positive"}
 ,{"time":"12:39","usr":"takingstock614","txt":"$GOOG still has room here.","lbl":"Positive"}
+,{"time":"12:40","usr":"HawkinsTroy","txt":"RT @Fitzstock2004: if you are up $10k on $goog today......just send me a check for $1k and we will call it even :)","lbl":"Neutral"}
+,{"time":"12:42","usr":"stockguy22","txt":"i didn\u0027t do the $GOOG options play with them this week - and even went smaller this week on $AAPL then i usually do with 2/3 sizing","lbl":"Neutral"}
+,{"time":"12:59","usr":"SlayterDev","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"12:59","usr":"slimtrades","txt":"My $GOOG 690\u0027s are becoming quite the hot commodity.","lbl":"Neutral"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"A 1-Day Snapshot Of Firms Related To The Apple-Samsung Electronics Case http://t.co/i36FbvTV $GOOG $MSFT $NOK $RIMM $AAPL","lbl":"Neutral"}
+,{"time":"13:28","usr":"rafitax","txt":"$GOOG Nice pull-back to 660$ Resistance ---> Support and now breakin 680 Resistance... http://t.co/8w0deSCk","lbl":"Neutral"}
 ,{"time":"13:29","usr":"ChrisStuntz","txt":"back in $GOOG W 690 C; also added $AAPL W 675 C","lbl":"Positive"}
+,{"time":"13:29","usr":"BigTicks","txt":"$GOOG News: Price Volume Leaders for Wednesday, August 29th: AAPL, GOOG, INTC, BIDU \u2026 http://t.co/7S4AYu7t #AAPL #BIDU #GOOG","lbl":"Neutral"}
+,{"time":"14:02","usr":"LTommy256","txt":"\u201C@SconsetCapital: RT @Katie_Roof: Bet $GRPN wishes they took that $6 billion from $GOOG...\u201D Imagine if it were in stock!","lbl":"Neutral"}
+,{"time":"14:03","usr":"mikecardascia","txt":"RT @wallstCS: Google TESTING ESN Features and 4 Tech Titans on the Move http://t.co/acC8F8of $FB $AAPL $MSFT $GOOG $INTC #mkt #stocks #t ...","lbl":"Neutral"}
+,{"time":"14:04","usr":"thefinancepress","txt":"$GOOG Samsung Unveils Pen-Equipped Phone to Keep Lead on Apple: Samsung Unveils Pen-Equipped Phone to Keep Lead... http://t.co/tpH6nRqW","lbl":"Neutral"}
+,{"time":"14:06","usr":"wallstCS","txt":"Google REALLY Wants You to Buy This Product http://t.co/zrTQrVt0 $GOOG $AAPL $AMZN #mkt #stocks #trading #investing","lbl":"Neutral"}
 ,{"time":"14:41","usr":"takingstock614","txt":"Still holding $GOOG","lbl":"Positive"}
+,{"time":"14:42","usr":"launchticker","txt":"$goog acknowledges people losing saved passwords in Chrome iOS app/synced devices; data to be restored w/in a few hrs http://t.co/MXrHRCpD","lbl":"Neutral"}
+,{"time":"14:43","usr":"wallstCS","txt":"Here\u0027s Why HTC is Not Scared of BULLY Apple http://t.co/cavrqqge $SSNLF $AAPL $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:22","usr":"Blomli07","txt":"Should Nokia Investors Get Excited About Apple\u0027s Legal Victory Against Samsung? http://t.co/y5Zebqjp $AAPL $GOOG $MSFT $T $NOK","lbl":"Neutral"}
 ,{"time":"15:26","usr":"Clintoris73","txt":"@Jamtrades Nice calls on $GOOG and $PCLN.. Caught Goog but left a lot on the table... Good problem to have","lbl":"Positive"}
+,{"time":"15:29","usr":"vid_e","txt":"@Fitzstock2004 took .5 loss on $aapl but +2 on $goog, should have listened to you on aapl huh :(","lbl":"Neutral"}
+,{"time":"15:30","usr":"dlehman","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"16:52","usr":"OptionPit","txt":"$VIX is Super Expensive | Option Pit http://t.co/2nZUUPWO $SPX $GOOG $SPY","lbl":"Neutral"}
+,{"time":"16:53","usr":"khitrenovich","txt":"RT @m_cof: Google buys newspaper ad to show print ads don\u0027t work: http://t.co/YEyyIgbM $GOOG #offline","lbl":"Neutral"}
+,{"time":"16:53","usr":"jefffocker","txt":"@KeeneOnMarket how\u0027s $GOOG short call spread doing?","lbl":"Neutral"}
+,{"time":"16:53","usr":"launchticker","txt":"$goog reportedly wants to sell Motorola Mobility unit (Home Business) that makes set-top boxes http://t.co/tCCuBPkd","lbl":"Neutral"}
+,{"time":"19:08","usr":"AbyVarma","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
 ,{"time":"19:09","usr":"aznboi27","txt":"$GOOG - can you say BTFD? this market leader is headed higher, look at that pickup in volume http://t.co/UHnhtyOn","lbl":"Positive"}
 ,{"time":"19:10","usr":"swamptrade","txt":"Bulls not finished yet http://t.co/NeFBIlsi $SPY $SPX $VIX $VXX $UVXY $AAPL $GOOG","lbl":"Positive"}
 ,{"time":"19:15","usr":"sciencetrader","txt":"insider selling: $GOOG Schmidt sells 53,193 shares on 8/27 for $35,892,100.00","lbl":"Negative"}
+,{"time":"22:14","usr":"elliottwavems","txt":"Why The Apple vs Samsung Decision Is Dangerous For Consumers! http://t.co/h5m968PM $AAPL $GOOG $SPY $NDX $MSFT","lbl":"Neutral"}
+,{"time":"22:22","usr":"ScottyJK6","txt":"$GOOG and $AMZN one breaking out today and the other coiling imho. Holding both","lbl":"Positive"}
 ]

@@ -1,23 +1,64 @@
 [
 {"time":"6:56","usr":"researchpuzzler","txt":"typically great @asymco charts ~ Android slows sequentially http://t.co/Wo617d7p $GOOG $AAPL","lbl":"Negative"}
+,{"time":"6:57","usr":"StockStandOff","txt":"$GOOG vs $BIDU: http://t.co/sIsZ3t2F (CRM) Paying $689M For Social Enterprise Technology Buddy Media http://t.co/axE85GaQ #689M #BIDU #Buddy","lbl":"Neutral"}
+,{"time":"7:04","usr":"dlcmh","txt":"Options open interest, IV, delta and price snapshots updated Monday, Jun 04, 2012 for $GOOG http://t.co/Gsg5SB7Y","lbl":"Neutral"}
+,{"time":"8:37","usr":"scalamai","txt":"@Pinterest Is Hiring Up And It\u0027s Targeting Facebook Execs And Googlers http://t.co/OaNAcsk5 via @sai #startups $FB $GOOG","lbl":"Neutral"}
 ,{"time":"8:37","usr":"Equitykingkong","txt":"$GOOG: sold @ 577.36-95 for +7.50pts....flat now","lbl":"Negative"}
 ,{"time":"8:37","usr":"aztecs99","txt":"nice rip higher on $GOOG and $PCLN","lbl":"Positive"}
+,{"time":"8:38","usr":"TOMASRAMIREZV","txt":"RT @choffman1978: $AEZS and $KERX about to turn green!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$gmcr","lbl":"Neutral"}
+,{"time":"9:15","usr":"choffman1978","txt":"$SIRI - running on buyout rumors.#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$gmcr","lbl":"Neutral"}
+,{"time":"9:17","usr":"Jose_Nevado","txt":"\u201C@businessinsider: I Spent A Week In Spain And Almost No One Was Using An iPhone $GOOG $AAPL by @stevekovach\u201D give me a brake","lbl":"Neutral"}
 ,{"time":"9:17","usr":"choffman1978","txt":"Markets turn higher on likelyhood of FED EASING!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$gmcr","lbl":"Positive"}
+,{"time":"9:18","usr":"SAI","txt":"Finally! Instapaper Is On Android $GOOG by @officialKLS http://t.co/xuABFm3m","lbl":"Neutral"}
 ,{"time":"9:50","usr":"Optum3TV","txt":"#SocialMedia is the past...Next Wave in Hot Stocks are around Web TV: http://t.co/eGMXz4qa #finance $goog","lbl":"Positive"}
 ,{"time":"9:50","usr":"AdmiralMarketsA","txt":"#business Android\u0027s User Growth Has Slowed To Its Lowest Rate Since 2009 $AAPL $GOOG by @sfiegerman http://t.co/in2ZWRq0","lbl":"Negative"}
 ,{"time":"9:50","usr":"seguetech","txt":"RT @SAI: Android\u0027s User Growth Has Slowed To Its Lowest Rate Since 2009 $AAPL $GOOG by @sfiegerman http://t.co/wtmk5WJj","lbl":"Negative"}
 ,{"time":"10:22","usr":"ChainGangsta","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"10:22","usr":"btorres83","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Neutral"}
+,{"time":"10:22","usr":"vickycg","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Neutral"}
+,{"time":"10:22","usr":"WhitewaterAxiom","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Neutral"}
 ,{"time":"10:33","usr":"JamesOGolden","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"10:33","usr":"ReRe_Red","txt":"Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/GhVgmPTx $GOOG","lbl":"Neutral"}
+,{"time":"10:33","usr":"edwinbeall","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/3k9wBUsS $GOOG","lbl":"Neutral"}
+,{"time":"10:33","usr":"MInvestmentsLLC","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Neutral"}
 ,{"time":"10:56","usr":"AmandaLynnJudge","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"10:57","usr":"DontTakeLosses","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Neutral"}
+,{"time":"10:57","usr":"erictartanson","txt":"Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/10mgDMLf $GOOG","lbl":"Neutral"}
+,{"time":"10:58","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Weighing The Week Ahead: Bernanke\u0027s Next Move? http://t.co/bFWcMpWs #BIDU #Ahead #Bernankes","lbl":"Neutral"}
 ,{"time":"11:33","usr":"Munevver_Nizam","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
+,{"time":"11:33","usr":"SgtNickBrody","txt":"@bgurley Didn\u0027t $GOOG as well?","lbl":"Neutral"}
+,{"time":"11:34","usr":"ProfessorNdofor","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Neutral"}
 ,{"time":"12:21","usr":"mack_mike","txt":"\u201C@WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/OMjFPQdn $GOOG\u201D","lbl":"Positive"}
+,{"time":"12:21","usr":"ServantMG","txt":"RT @SAI: Google Buys Startup KikScore Just To Shut It Down $GOOG by @Julie188 http://t.co/iKRV1MVL","lbl":"Neutral"}
+,{"time":"12:21","usr":"AlexWatsTheBiz","txt":"RT @SAI: Google Buys Startup KikScore Just To Shut It Down $GOOG by @Julie188 http://t.co/iKRV1MVL","lbl":"Neutral"}
+,{"time":"12:22","usr":"tw_top_1z1fjsi","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Neutral"}
+,{"time":"12:54","usr":"choffman1978","txt":"Corn and Beans moving higher on drought fears!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$gmcr","lbl":"Neutral"}
+,{"time":"12:54","usr":"RhythmFootPrint","txt":"RT @SAI: Google Buys Startup KikScore Just To Shut It Down $GOOG by @Julie188 http://t.co/iKRV1MVL","lbl":"Neutral"}
+,{"time":"12:55","usr":"Goodlett","txt":"Content display just not enough as #engagement/post #click actions rule the day w/$FB http://t.co/WWsHjUzk $GOOG $YHOO $AOL via @BrianSolis","lbl":"Neutral"}
+,{"time":"13:35","usr":"USwwwStocks","txt":"$GOOG News: RIM (Blackberry) In More Trouble http://t.co/8ND9ukoQ #GOOG #BlackBerry #more","lbl":"Neutral"}
+,{"time":"13:36","usr":"choffman1978","txt":"$GMCR running on $SBUX rumors #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$gmcr,$wmt,$wfc,$wmt,$s","lbl":"Neutral"}
 ,{"time":"14:19","usr":"AceChaudhry","txt":"RT @WSJ: Google is planning its largest-ever assault on the $20 billion local-ad market. http://t.co/i7zFNJN5 $GOOG","lbl":"Positive"}
 ,{"time":"14:19","usr":"KeithMcCullough","txt":"$CSCO $PCLN and $GOOG all green, but all bearish on my TRADE and TREND durations","lbl":"Negative"}
 ,{"time":"15:05","usr":"HSBASymposium","txt":"Sergey Brin\u0027s Team Working On Secret Projects Is Much Bigger Than We Imagined $GOOG http://t.co/Gi7f19zw RT @businessinsider","lbl":"Positive"}
 ,{"time":"15:06","usr":"daliborviko","txt":"RT @businessinsider: Sergey Brin\u0027s Team Working On Secret Projects Is Much Bigger Than We Imagined $GOOG by @mattlynley http://t.co/xuNmDgko","lbl":"Positive"}
+,{"time":"15:07","usr":"MrTimRy","txt":"Chatter has been positive for $VRNG--It\u0027s ultimately not worth $GOOG to go to trial, so they\u0027ll just cut\u0027em a big fat juicy check instead.","lbl":"Neutral"}
 ,{"time":"15:08","usr":"wallstCS","txt":"Mergers and Acquisitions Recap: Google Gets a KICK, NetApp CHATTER http://t.co/G0AnrZfD $GOOG $LH $MTOX $NTAP $ORCL $CSCO #mkt #stocks","lbl":"Negative"}
 ,{"time":"15:57","usr":"PerforM84697233","txt":"Option Millionaires: ozz collins: $GOOG 565 puts at 4.60 now. weeeeeeeeeeeeeee http://t.co/jxoluUeq","lbl":"Negative"}
+,{"time":"16:05","usr":"KatrinaChan","txt":"Interesting. I\u0027ve had a Meebo account for yrs, but don\u0027t know their current biz model -- Google Acquires Meebo: http://t.co/XIDzyZCE $GOOG","lbl":"Neutral"}
+,{"time":"16:06","usr":"pattidomm","txt":"Stocks to Watch: SBUX, GOOG, AMZN & More http://t.co/uXVc2XYI $AMZN $DG $EA $GOOG $HON $KND $MTN $SBUX #InvestmentStrategy","lbl":"Neutral"}
+,{"time":"17:02","usr":"AdmiralMarketsA","txt":"#business So What You\u0027re Saying Is Groupon Should Have Taken The Google Deal $GRPN $GOOG by @owenthomas http://t.co/NAFRWl5l","lbl":"Neutral"}
+,{"time":"17:04","usr":"TalaatRefaat","txt":"Google (GOOG) is acquiring Meebo, a developer of toolbars used by web publishers to push content to... http://t.co/RWrr2AFD $GOOG","lbl":"Neutral"}
+,{"time":"17:05","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/q7A4cQxp","lbl":"Neutral"}
+,{"time":"17:05","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/ir0IcCNT","lbl":"Neutral"}
+,{"time":"18:04","usr":"DabizLegend","txt":"RT @BloombergTV: #Google is buying social messaging site Meebo -- but no word yet on just how much the tech titan is paying http://t.co/MWd4iXHL $GOOG","lbl":"Neutral"}
+,{"time":"18:04","usr":"StocialTrends","txt":"Daily Trending Social Volume: $AAPL/1054, $FB/977, $SPY/797, $GOOG/454, $SBUX/231, $MSFT/226, $RIMM/223. http://t.co/9ch10Jtd","lbl":"Neutral"}
+,{"time":"18:05","usr":"DavidClinchNews","txt":"RT @BloombergTV: #Google is buying social messaging site Meebo -- but no word yet on just how much the tech titan is paying http://t.co/MWd4iXHL $GOOG","lbl":"Neutral"}
+,{"time":"19:33","usr":"tylerkarlen","txt":"Interesting take: \u0022So What You\u0027re Saying Is Groupon Should Have Taken The Google Deal\u0022 $GRPN $GOOG by @owenthomas http://t.co/sSet4BxQ\u0022","lbl":"Neutral"}
 ,{"time":"19:36","usr":"patroneux","txt":"If we have a massive rally, expect financials to lead it followed by industrials and/or tech. $C $GS $CAT $AAPL $GOOG $FFIV","lbl":"Positive"}
+,{"time":"19:37","usr":"agendabursatil","txt":"$GOOG support $560 http://t.co/eh3CGk7e","lbl":"Neutral"}
+,{"time":"19:38","usr":"ryanmcraver","txt":"This will all change as Galaxy III is released $goog http://t.co/p09Qc0yh","lbl":"Neutral"}
 ,{"time":"22:19","usr":"mifarrell","txt":"Google AdSense Creator: Why I Would Not Start A New Company Inside Google $GOOG by @jyarow http://t.co/MUgd4c6q","lbl":"Negative"}
+,{"time":"22:32","usr":"ntfri","txt":"Some good stock for tomorrow $SO $CMSA $COST $BMY $JNJ $WMT $T $MRK $AEP $EXC and $AMZN, $GOOG, $MSFT, $INTC and $APPL may move higher","lbl":"Positive"}
+,{"time":"23:07","usr":"ericfrost","txt":"RT @Abmuku: Google Buys Meebo, Will It Help Google+ Get More Traction? http://t.co/D1LXVGo1 $GOOG","lbl":"Neutral"}
 ,{"time":"23:07","usr":"USwwwStocks","txt":"$GOOG News: 5 Stocks Hedge Funds Are Buying Like Crazy http://t.co/RcwQHE06 #GOOG #Buying #crazy","lbl":"Positive"}
 ]

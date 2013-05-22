@@ -1,5 +1,8 @@
 [
-{"time":"12:15","usr":"Johnboy23233","txt":"RT @firstadopter: Sony Playstation network switches from $AMZN web services to $RAX for some services after security breach last year: http://t.co/Si63zzx7","lbl":"Negative"}
+{"time":"0:11","usr":"Andrewkfb","txt":"RT @businessinsider: The Cloud Is Changing Your Life: Here\u0027s What You Need To Know $AMZN by @Julie188 http://t.co/xwYXBH9W","lbl":"Neutral"}
+,{"time":"0:52","usr":"rpmmicro","txt":"RT @wallstCS: Services Sector Review: Google Wallet, Cereal Sees Q1 Decline http://t.co/YdKSSDqc $AAPL $AMZN $GOOG $MCD $MHS $TRP $TXN $WMT","lbl":"Neutral"}
+,{"time":"1:00","usr":"JasonDrewHann","txt":"RT @businessinsider: The Cloud Is Changing Your Life: Here\u0027s What You Need To Know $AMZN by @Julie188 http://t.co/VD3DPB0B","lbl":"Neutral"}
+,{"time":"12:15","usr":"Johnboy23233","txt":"RT @firstadopter: Sony Playstation network switches from $AMZN web services to $RAX for some services after security breach last year: http://t.co/Si63zzx7","lbl":"Negative"}
 ,{"time":"19:22","usr":"TrendRida","txt":"Just turned $AMZN 1-Click off. That thing is dangerous...","lbl":"Negative"}
 ,{"time":"19:27","usr":"MarketShot","txt":"I\u0027m sayin RT @TrendRida: Just turned $AMZN 1-Click off. That thing is dangerous...","lbl":"Negative"}
 ]

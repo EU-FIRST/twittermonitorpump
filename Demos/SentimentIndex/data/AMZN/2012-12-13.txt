@@ -1,5 +1,13 @@
 [
 {"time":"4:33","usr":"chrislanmon","txt":"Now we know why $AMZN 3 major \u0022below cost\u0022 Kindle Fire promos past few weeks. Sales STINK! More 7\u0022 competition this yr - Nexus 7 & iPad Mini","lbl":"Negative"}
+,{"time":"7:05","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $GOOG $AMZN $DISH $AAPL http://t.co/S2e4SvN3","lbl":"Neutral"}
+,{"time":"7:05","usr":"SAI","txt":"10 Things You Need To Know This Morning $GOOG $AMZN $DISH $AAPL by @nichcarlson http://t.co/48PWU0CX","lbl":"Neutral"}
 ,{"time":"8:01","usr":"lindastern","txt":"Apple concedes to Amazon: $AAPL and $AMZN went head to head on pricing in Europe, and Amazon won. http://t.co/Sn3myqCW","lbl":"Positive"}
+,{"time":"9:44","usr":"aznboi27","txt":"all out $AMZN $SPY calls","lbl":"Neutral"}
+,{"time":"11:23","usr":"mkarias1","txt":"$AMZN stuck in $255-245 range since 11/29. $248 is key support.","lbl":"Neutral"}
 ,{"time":"12:58","usr":"henlaub","txt":"RT @alistairmbarr: Retailers selling the same SKUs as Amazon $AMZN are in for an unhappy holiday - Jeff Jordan http://t.co/XJfxlWJt","lbl":"Negative"}
+,{"time":"14:05","usr":"stkbullgod","txt":"RT @given2tweet: $AMZN is probably going to start offering a share to customers that spend over $250; why not, they can pro forma it out like w/ employees.","lbl":"Neutral"}
+,{"time":"15:16","usr":"sdishman2","txt":"$AAPL recent spike in cap ex. versus $GOOG $AMZN $MSFT $INTC and #Samsung http://t.co/vbNlxK33 What on, that\u0027s anyone\u0027s guess","lbl":"Neutral"}
+,{"time":"16:40","usr":"SAI","txt":"CHART OF THE DAY: The Death Of The E-Book Reader $AMZN by @jyarow http://t.co/oOzHuZr1","lbl":"Neutral"}
+,{"time":"21:48","usr":"BenCBanks","txt":"VERY extensive DAILY ANALYSIS today -- http://t.co/ZURr2ECV $SPY $AAPL $GOOG $AMZN $BAC $NFLX $FB $HAL and more","lbl":"Neutral"}
 ]

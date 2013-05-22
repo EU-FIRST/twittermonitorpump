@@ -1,8 +1,20 @@
 [
-{"time":"9:16","usr":"aznboi27","txt":"$AMZN puts looks nice","lbl":"Negative"}
+{"time":"0:09","usr":"joshblings","txt":"RT @investlite: Charts Posted: http://t.co/dycjvy3Z $aapl $adbe $amzn $azo $bac $bbby $beam $bidu $biib $de $lvs $nov $orly $qcom $orex $spy $vz $yum","lbl":"Neutral"}
+,{"time":"0:26","usr":"USwwwStocks","txt":"$AMZN Stock News: Why We Added A Revitalized Adobe To Our Portfolio http://t.co/aIdpqVXn #AMZN #Added #Adobe","lbl":"Neutral"}
+,{"time":"7:26","usr":"noodls_sRetail","txt":"$AMZN Amazon Web Services Launches Dynamic Content Support in Amazon... http://t.co/xJ4dfuFL","lbl":"Neutral"}
+,{"time":"9:16","usr":"aznboi27","txt":"$AMZN puts looks nice","lbl":"Negative"}
 ,{"time":"9:16","usr":"BUDDIEE18","txt":"RT @aznboi27: $AMZN puts looks nice","lbl":"Negative"}
 ,{"time":"10:05","usr":"64turok","txt":"i think i made like 70% $orly $yum $amzn","lbl":"Positive"}
-,{"time":"10:07","usr":"acornwealth","txt":"Any push up in $AMZN and I\u0027ll be getting in those puts 210\u0027s looking for the fib levels 226.00 would be ideal","lbl":"Negative"}
 ,{"time":"10:07","usr":"TradesWell","txt":"Any push up in $AMZN and I\u0027ll be getting in those puts 210\u0027s looking for the fib levels 226.00 would be ideal","lbl":"Negative"}
+,{"time":"10:07","usr":"acornwealth","txt":"Any push up in $AMZN and I\u0027ll be getting in those puts 210\u0027s looking for the fib levels 226.00 would be ideal","lbl":"Negative"}
+,{"time":"13:35","usr":"jessicawohl","txt":"From @tweetsfromnivi: #Amazon aims to launch front-lit Kindle in July, source says http://t.co/hKG7hc1N $AMZN","lbl":"Neutral"}
+,{"time":"13:35","usr":"TriniMeche","txt":"@Ally_Flo_G RT @peterlauria3: Amazon aims to launch front-lit Kindle in July..http://po.st/Is1iiw $AMZN","lbl":"Neutral"}
+,{"time":"13:35","usr":"claudiaparsons","txt":"RT @peterlauria3: Amazon aims to launch front-lit Kindle in July..http://reut.rs/Je8Yhq $AMZN","lbl":"Neutral"}
+,{"time":"14:00","usr":"iamhernan","txt":"RT @CNBC: News Alert: Amazon aims to launch front-lit Kindle in July: Story: http://t.co/9Hp1kBIl $AMZN","lbl":"Neutral"}
 ,{"time":"15:16","usr":"kylelenk","txt":"@patroneux love seeing articles \u0022$GRPN Demolishes earnings estimates\u0022 Staying away from all high hyped stocks $AMZN, $NFLC, $LULU etc.","lbl":"Negative"}
+,{"time":"15:23","usr":"DAD7519","txt":"@jimcramer I wonder if $GRPN will talk about how more relevant $AMZN\u0027s \u0022daily deals\u0022 are than theres. It\u0027s not even close.","lbl":"Neutral"}
+,{"time":"16:40","usr":"j_gzlz","txt":"RT @NASDAQ: NASDAQ-100 AHI at 2590.68 (up 0.02%) movers: $TEVA, $AMZN, $SYMC, $VRTX, $AAPL http://t.co/XcEqAFTv #nasdaq","lbl":"Neutral"}
+,{"time":"16:41","usr":"bbtradingschool","txt":"RT @NASDAQ: NASDAQ-100 AHI at 2590.68 (up 0.02%) movers: $TEVA, $AMZN, $SYMC, $VRTX, $AAPL http://t.co/XcEqAFTv #nasdaq","lbl":"Neutral"}
+,{"time":"16:44","usr":"afigrids","txt":"RT @peterlauria3: Amazon aims to launch front-lit Kindle in July..http://reut.rs/Je8Yhq $AMZN","lbl":"Neutral"}
+,{"time":"16:46","usr":"RealDividendLab","txt":"RT @DividendMaster: and $RIMM goes green as long-shorts dump $AAPL $PCLN $AMZN and cover shorts in $RIMM $ZNGA $SNE #DELEVERAGING!","lbl":"Neutral"}
 ]

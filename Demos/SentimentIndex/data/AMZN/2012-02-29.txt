@@ -1,8 +1,18 @@
 [
-{"time":"12:57","usr":"MrSteveLee","txt":"@61point8 $amzn is a dog man unless it gets over $200, no momentum.","lbl":"Negative"}
+{"time":"0:07","usr":"investlite","txt":"Charts and watch list for wednesday posted: http://t.co/yDqK59Xx $GOOG $BIDU $AMZN $LTD $LVS $NFLX $OPEN $SHLD $UA $WFC","lbl":"Neutral"}
+,{"time":"8:57","usr":"23aloha","txt":"RT @LTbioinvestor: some stocks to watch today : $GOL $GFA $SGMO $CYCC $CERS $SIGM $TQNT $MU $AMZN $ALU $RENN $MOBI $DANG $JRCC $ECA","lbl":"Neutral"}
+,{"time":"9:54","usr":"newsagg","txt":"$AMZN the 60m chikou works! http://t.co/us2XPbWR","lbl":"Neutral"}
+,{"time":"11:15","usr":"acoffeewith","txt":"Small publisher deals can get done w/ $AMZN, it just takes a 4-5 months. http://t.co/Mj0bD8ny","lbl":"Neutral"}
+,{"time":"12:57","usr":"MrSteveLee","txt":"@61point8 $amzn is a dog man unless it gets over $200, no momentum.","lbl":"Negative"}
+,{"time":"14:36","usr":"CapCube","txt":"$AMZN this guy is absolutely right about amzn fcf, valuation. @mandycnbc @herbgreenberg you cannot be taking the other side of that !","lbl":"Neutral"}
 ,{"time":"14:36","usr":"billgunderson","txt":"@herbgreenberg Herb, I have been calling $AMZN PE ratio ridiculous for a long time. http://t.co/23M1tc4X Lookout Below!","lbl":"Negative"}
 ,{"time":"14:39","usr":"pattidomm","txt":"Why Amazon Stock Should Fall 50 Percent: Greenberg http://t.co/JyGSJSeo $AMZN #Accounting #Earnings #Investing #InvestmentStrategy #NYSE","lbl":"Negative"}
+,{"time":"15:46","usr":"mike_tweets","txt":"@hblodget @cnbc @jimcramer - It sounds like your $AMZN call in year 2000.","lbl":"Neutral"}
+,{"time":"15:47","usr":"raremetaltrader","txt":"RT @SeekingAlpha: Will Amazon Ever Be Profitable? http://t.co/2BiMMlUW $AAPL $EBAY $GOOG $AMZN","lbl":"Negative"}
+,{"time":"15:48","usr":"hblodget","txt":"Nope. No more price targets. But Apple $1k in few years just isn\u0027t outlandish RT @mike_tweets: @jimcramer - It sounds like your $AMZN call","lbl":"Neutral"}
 ,{"time":"17:58","usr":"lluccipha","txt":"SAI: Amazon Appears To Be Inflating The List Prices Of Some Discounted Items $AMZN by @nattgarun http://t.co/lCvE2cF0","lbl":"Negative"}
 ,{"time":"18:04","usr":"joey_volpe","txt":"End is hilarious RT @SAI: Amazon Appears To Be Inflating The List Prices Of Some Discounted Items $AMZN by @nattgarun http://t.co/vh6JDHXm","lbl":"Negative"}
 ,{"time":"18:05","usr":"brokerz_bearish","txt":"RT @naufalsanaullah - @firstadopter bearish, i\u005C\u0027ve been an $amzn chart bear since mid nov","lbl":"Negative"}
+,{"time":"22:51","usr":"mikejmonahan","txt":"RT @SeekingAlpha: Paradigm Shift In Online Digital Goods Retailing http://t.co/SiXEya35 $AAPL $GOOG $MSFT $AMZN","lbl":"Neutral"}
+,{"time":"23:07","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AMZN $AAPL @simplestockqtes http://t.co/PMacVvcW","lbl":"Neutral"}
 ]

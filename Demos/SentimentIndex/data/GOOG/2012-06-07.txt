@@ -2,22 +2,48 @@
 {"time":"2:08","usr":"tkuz4u","txt":"Twitter is made for Mobile! $GOOG just BUY IT! $FB will never figure it out! Let FB control desktop social! Like yhoo did Portals! So what?","lbl":"Positive"}
 ,{"time":"2:10","usr":"tkuz4u","txt":"If $GOOG Doesn\u2019t buy Twitter then Apple won war of mobile/platforms!","lbl":"Negative"}
 ,{"time":"2:22","usr":"tkuz4u","txt":"Next year $GOOG = search+android+ Chrome+maps+ you tube + TWITTER! = market cap $500 billion? King of desktop & mobile?","lbl":"Positive"}
+,{"time":"2:30","usr":"BigTicks","txt":"$GOOG News: Nokia Seeks to Build on AT&T Deal in North America Comeback Plan http://t.co/bWxpeX1t #GOOG #America #ATampT","lbl":"Neutral"}
 ,{"time":"7:34","usr":"twit_withman","txt":"RT @SAI: Wow, North American Ad Spending On Mobile Remains Hilariously Tiny $GOOG by @nichcarlson http://t.co/SP3zmT3O","lbl":"Negative"}
 ,{"time":"7:35","usr":"RussGoPackGo","txt":"RT @SAI: Wow, North American Ad Spending On Mobile Remains Hilariously Tiny $GOOG by @nichcarlson http://t.co/SP3zmT3O","lbl":"Negative"}
 ,{"time":"7:35","usr":"michaelbayler","txt":"Hilariously? @BI_Advertising: Wow, American Ad Spending On Mobile Remains Hilariously Tiny $GOOG by @nichcarlson http://t.co/jL9tYnqa #in","lbl":"Negative"}
+,{"time":"7:35","usr":"Leo23","txt":"RT @SAI: Wow, North American Ad Spending On Mobile Remains Hilariously Tiny $GOOG by @nichcarlson http://t.co/SP3zmT3O","lbl":"Neutral"}
+,{"time":"8:48","usr":"SAI","txt":"THE STATE OF ONLINE ADVERTISING $GOOG $YHOO $AOL $FB $LNKD $MSFT $IACI by @nichcarlson http://t.co/o9wlG6Tx","lbl":"Neutral"}
+,{"time":"8:48","usr":"businessinsider","txt":"THE STATE OF ONLINE ADVERTISING $GOOG $YHOO $AOL $FB $LNKD $MSFT $IACI by @nichcarlson http://t.co/DgcC8R3D","lbl":"Neutral"}
+,{"time":"8:48","usr":"nichcarlson","txt":"THE STATE OF ONLINE ADVERTISING $GOOG $YHOO $AOL $FB $LNKD $MSFT $IACI http://t.co/L8pGqxnE","lbl":"Neutral"}
 ,{"time":"9:18","usr":"nickroshon","txt":"RT @SAI: In Another Blow To Google, Apple Plans To Add Baidu For Search In China $AAPL $GOOG $BIDU http://t.co/JR5mLO1o","lbl":"Negative"}
 ,{"time":"9:18","usr":"gigabarb","txt":"RT @SAI: In Another Blow To Google, Apple Plans To Add Baidu For Search In China $AAPL $GOOG $BIDU http://t.co/VVZGXmyw","lbl":"Negative"}
 ,{"time":"9:19","usr":"berkutchitweet","txt":"short $GOOG","lbl":"Negative"}
+,{"time":"9:49","usr":"barronstechblog","txt":"Google: Don\u2019t Sweat iPhone Jitters, Says Piper - Tech Trader Daily - Barron\u0027s $GOOG $AAPL $RIMM $NOK $MSFT http://t.co/kMGoDyst","lbl":"Neutral"}
 ,{"time":"9:50","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Google Is Waging War On Microsoft Office $GOOG by @hleonard76 http://t.co/LVYb7ffn","lbl":"Negative"}
 ,{"time":"9:51","usr":"Sandman7591","txt":"$GOOG ugly action next quarter is going to be interesting.........interesting in the Chinese sense","lbl":"Negative"}
 ,{"time":"9:51","usr":"vfiorg","txt":"RT @SAI: In Another Blow To Google, Apple Plans To Add Baidu For Search In China $AAPL $GOOG $BIDU http://t.co/VVZGXmyw","lbl":"Negative"}
+,{"time":"10:39","usr":"jim_gruhn","txt":"RT @SAI: THE GOOGLE INVESTOR: Google Is Waging War On Microsoft Office $GOOG by @hleonard76 http://t.co/QwIRZcWs","lbl":"Neutral"}
+,{"time":"10:42","usr":"LaMonicaBuzz","txt":"Best Buy market valuation now approaching the $6B level. Maybe $GOOG should buy $BBY and turn into Google Stores. Just kidding! $AAPL $GRPN","lbl":"Neutral"}
+,{"time":"10:43","usr":"DepletedO2","txt":"RT @LaMonicaBuzz: Best Buy market valuation now approaching the $6B level. Maybe $GOOG should buy $BBY and turn into Google Stores. Just kidding! $AAPL $GRPN","lbl":"Neutral"}
 ,{"time":"11:11","usr":"biztag","txt":"RT @SAI: More Proof That Apple Is Crushing Android In The Platform War $AAPL $GOOG by @jyarow http://t.co/QUWfFBep","lbl":"Negative"}
 ,{"time":"11:12","usr":"michaelbruck","txt":"RT @SAI: More Proof That Apple Is Crushing Android In The Platform War $AAPL $GOOG by @jyarow http://t.co/QUWfFBep","lbl":"Negative"}
+,{"time":"11:44","usr":"ZeroSum11","txt":"@AtDavidThomas $random. I think it\u0027s supposed to be for stocks, like $aapl and $goog","lbl":"Neutral"}
 ,{"time":"11:46","usr":"optioncommander","txt":"RT \u200F@businessinsider More Proof That Apple Is Crushing Android In The Platform War http://t.co/joWDMBu6 > $AAPL $GOOG","lbl":"Negative"}
 ,{"time":"11:47","usr":"ThembeK","txt":"RT @businessinsider: More Proof That Apple Is Crushing Android In The Platform War $AAPL $GOOG by @jyarow http://t.co/QF2ebtfz","lbl":"Negative"}
+,{"time":"12:32","usr":"STnet","txt":"Thursday links: lacking silver bullets | via @abnormalreturns http://t.co/lsCp4yuu $GLD $LULU $FB $GOOG","lbl":"Neutral"}
+,{"time":"12:34","usr":"wallstCS","txt":"Is Apple Starting A New Love Affair in China? http://t.co/my4fERwA $AAPL $BIDU $GOOG $SINA #mkt #stocks","lbl":"Neutral"}
+,{"time":"12:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/137, $SPY/56, $GOOG/47, $FB/35, $LULU/27, $GLD/27, $RIMM/23, $BBY/23. http://t.co/9ch10Jtd","lbl":"Neutral"}
+,{"time":"13:13","usr":"alvisefranz","txt":"\u201C@businessinsider: Why Do You Need A New Computer Instead Of An iPad? $AAPL $MSFT $GOOG by @jyarow http://t.co/YSwKqvEt\u201D @bismarx ??","lbl":"Neutral"}
+,{"time":"13:14","usr":"bhavana_r_","txt":"RT @SAI: Turn Your iPhone Into A Laptop Using The Clambook $GOOG $AAPL by @_dtl http://t.co/RXImytO5","lbl":"Neutral"}
+,{"time":"13:15","usr":"choffman1978","txt":"$GMCR - Starbucks to start selling K-Cups in stores June 2nd($SBUX)!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb","lbl":"Neutral"}
 ,{"time":"13:51","usr":"alexcalic","txt":"This falls under the \u0022why did it take $GOOG so long to do this\u0022 category- AdWords + AdMob = solving mobile ad $$ gap: http://t.co/9peBdZPz","lbl":"Negative"}
+,{"time":"13:51","usr":"Benzinga","txt":"$ACOM $GOOG A Trader\u0027s Guide to http://t.co/Tz0clH2U: http://t.co/gGh5HOsV","lbl":"Neutral"}
+,{"time":"13:51","usr":"choffman1978","txt":"$KERX could break out huge soon!!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"13:52","usr":"choffman1978","txt":"$S(Sprint) breaking out on iPhone news!!!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"14:29","usr":"BigTicks","txt":"$GOOG News: Google moves into Amazon\u0027s territory with customer service effort http://t.co/dUkoAuQt #GOOG #Amazons #customer","lbl":"Neutral"}
 ,{"time":"14:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 14:30 EST have been positive. Watch the real-time indicator graph at http://t.co/c4rm8WGR","lbl":"Positive"}
 ,{"time":"15:52","usr":"BilliamPoole","txt":"@WSJ Why not just wait for the private markets to come up with a solution? Google\u0027s just a few years away. #googlecar $Goog","lbl":"Positive"}
+,{"time":"15:53","usr":"dayvidrice","txt":"RT @SAI: Why Do You Need A New Computer Instead Of An iPad? $AAPL $MSFT $GOOG by @jyarow http://t.co/Y3CZqEm5","lbl":"Neutral"}
 ,{"time":"17:54","usr":"61point8","txt":"@harmongreg Greg, one thing came to mind is $GOOG. My forecast calls for $520. A reversal in $BIDU will trigger the next down leg in $GOOG.","lbl":"Negative"}
+,{"time":"17:56","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://www.simplestockquotes.com/goog","lbl":"Neutral"}
+,{"time":"18:03","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://uk.advfn.com/news/EDGAR/2012/article/52698631?xref=newsalerttweet","lbl":"Neutral"}
+,{"time":"18:03","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://ih.advfn.com/p.php?pid=nmona&article=52698631&xref=newsalerttweet","lbl":"Neutral"}
 ,{"time":"21:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 21:30 EST have been positive. Watch the real-time indicator graph at http://t.co/c4rm8WGR","lbl":"Positive"}
+,{"time":"21:31","usr":"BenCBanks","txt":"NEW POLL posted! Technical vs. fundamental analysis - which do you use more? http://t.co/D9yDjhw0 $SPY $SPX $SDS $DJIA $AAPL DIA $GOOG","lbl":"Neutral"}
+,{"time":"21:34","usr":"vsistla","txt":"Horizontally integrated platforms w multiple OEMs always have challenges over vertically integrated $AAPL stack! $GOOG http://t.co/nOtrRI63","lbl":"Neutral"}
 ]

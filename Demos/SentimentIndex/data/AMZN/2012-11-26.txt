@@ -1,17 +1,53 @@
 [
 {"time":"0:31","usr":"SwatOptions","txt":"\u0022 $AMZN - great action past week and next resistance @ 243.2$ MA50 - it has room to break and enter 250\u0027s area \u0022 http://t.co/XCSIZP1f","lbl":"Positive"}
+,{"time":"0:32","usr":"jessebeing","txt":"CONSUME UNTIL YOU ARE CONSUMED. \u0022@TheStreet: Holiday Shopping Season Off to Record Start http://t.co/m61vWKob $TGT $AMZN\u0022","lbl":"Neutral"}
+,{"time":"0:42","usr":"VCEIPO","txt":"RT @lsfox: AAPL: \u201C@StockTwits: Apple\u0027s iPad led Thanksgiving & Black Friday online buying http://t.co/qXx6bdAe via @CNNMoney $AAPL $AMZN $GOOG\u201D","lbl":"Neutral"}
+,{"time":"6:56","usr":"DEMOGETS","txt":"$AAPL , $AMZN , $ISRG , $MA , $PCLN Keeping an eye on these for this week !","lbl":"Neutral"}
+,{"time":"7:52","usr":"toonkerssemaker","txt":"Dividend Desire: Will 3-D Printing Make Hasbro A Model Of Failure? http://t.co/C4OUzivn $AAPL $AMZN $DIS $MAT $MSFT $HAS","lbl":"Neutral"}
+,{"time":"7:55","usr":"DavidSimonTwin","txt":"$BBY - Cannot effectively compete with $AMZN. No one will be taking this private even at $20.00. http://t.co/nYJgfnVJ","lbl":"Neutral"}
+,{"time":"8:45","usr":"ProTraderMike","txt":"here are some stocks to watch that are holiday related - like $EBAY and $AMZN - $NSIT $BIDZ $LIVE $IACI $VVTV $MALL $FLWS $NILE $DSCM","lbl":"Neutral"}
 ,{"time":"9:17","usr":"SKSMediaLDN","txt":"RT @tradefast: $AMZN debt deal - 3 tranches - should price at 50-100bps over treasuries = cheap cost of capital, in the long run...","lbl":"Positive"}
+,{"time":"9:17","usr":"freerepublic","txt":"3D Systems: Will Apple Buy Into 3-D Printing? http://t.co/g3BQfyRs $AAPL $AMZN $GOOG $MSFT $RIMM $DDD","lbl":"Neutral"}
+,{"time":"9:17","usr":"sandeepbhavsar","txt":"RT @toddsalamone: http://t.co/NkNNiDj7 ISE announces March 18, 2013 launch date of mini options $AAPL $AMZN $GLD $GOOG $SPY","lbl":"Neutral"}
 ,{"time":"9:40","usr":"mikewhitmore","txt":"Amazon Is Bribing Its Prime Customers To Slow Their Shipments $AMZN by @owenthomas http://t.co/kNeIsMgZ","lbl":"Negative"}
+,{"time":"10:03","usr":"wallstCS","txt":"Flowers Deemed Potential Suitor for Hostess and 3 Morning Hot Stocks Turning Heads http://t.co/WSu4nwTg $AMZN $FLO $GM $SHLD #mkt","lbl":"Neutral"}
+,{"time":"10:05","usr":"CoryTV","txt":"$AMZN has spent $5.3 BILLION in the last five year in capital ex.","lbl":"Neutral"}
+,{"time":"10:18","usr":"CBOE","txt":"Actives on open @ CBOE: $C $AAPL $HPQ $VVUS $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"10:18","usr":"joshdrose1","txt":"RT @JonErlichman: Moody\u0027s says Amazon is raising $2.5B via the bond market...this would be $AMZN first U.S. debt sale since \u002799, when it raised $1.25B","lbl":"Neutral"}
 ,{"time":"10:27","usr":"wilkos","txt":"RT @SAI: Amazon Is Bribing Its Prime Customers To Slow Their Shipments $AMZN by @owenthomas http://t.co/u9Gefoww","lbl":"Negative"}
+,{"time":"10:27","usr":"Quexistence","txt":"RT @LukeRomyn: SLAVES OF VALHALLA is #FREE on #KINDLE!!! http://t.co/KEiJknDy $AMZN #freebookpromo","lbl":"Neutral"}
 ,{"time":"10:28","usr":"aztecs99","txt":"$AMZN strong here - we got in that one friday","lbl":"Positive"}
+,{"time":"10:52","usr":"LCDCorpBonds","txt":"HG bonds: Amazon seeks benchmark funds for debt-free balance sheet after best online sales Black Friday ever $http://ow.ly/fzZDl $AMZN","lbl":"Neutral"}
+,{"time":"10:54","usr":"XeekWild","txt":"RT @businessinsider: REVIEW: Amazon\u0027s New Big-Screen Kindle Fire HD $AMZN by @stevekovach http://t.co/cb41bzcH","lbl":"Neutral"}
+,{"time":"11:14","usr":"ForTraders","txt":"#Amazon.com Tapping Bond Market With Three-Part Offering http://t.co/FIhG576r $AMZN","lbl":"Neutral"}
 ,{"time":"11:14","usr":"NormCycles","txt":"$AAPL $AMZN $APKT $DDD $EXPE & $FB all strong in declined broader market today...on my list","lbl":"Positive"}
+,{"time":"11:35","usr":"yoelbarak","txt":"RT @BergenCapital: What is more insulting...? Buying my wife a new BB with OS10 or a $MSFT Surface for Christmas? $RIMM $AAPL $MSFT $AMZN","lbl":"Neutral"}
+,{"time":"11:59","usr":"MicroFundy","txt":"Kindle Fire $129 - http://t.co/ueYdXuJr $AMZN","lbl":"Neutral"}
 ,{"time":"12:00","usr":"Futures_Addict","txt":"Cyber monday and $AMZN on the lows.","lbl":"Negative"}
+,{"time":"12:32","usr":"1nvestor","txt":"some stocks holding up ok: $MON $POT $SNDK $FIRE $FTNT $INTC $X $CRUS $LNKD $AMZN","lbl":"Neutral"}
+,{"time":"13:02","usr":"MarketCurrents","txt":"Amazon (AMZN +0.4%) roundup: 1) The NYT\u0027s David Streitfeld observes Amazon has become more conservati... http://t.co/X0Wa0k5a $AMZN","lbl":"Neutral"}
 ,{"time":"13:02","usr":"AllMoneyinAmeri","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Negative"}
+,{"time":"13:03","usr":"jar7538","txt":"RT @LukeRomyn: SLAVES OF VALHALLA is finally #FREE on #Kindle... and so is BEYOND HADES!!! http://t.co/VjXw5ZDg $AMZN #freebooks","lbl":"Neutral"}
 ,{"time":"13:35","usr":"ACInvestorBlog","txt":"$AMZN S&P Affirms Amazon at AA-; Outlook Stable","lbl":"Positive"}
 ,{"time":"13:36","usr":"RicardoN2012","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Negative"}
 ,{"time":"14:02","usr":"Maxfield_R","txt":"RT @Commodity_Bull: I have no problem with Moody\u0027s rating $AMZN debt at Baa1, but S&P giving it AA-? C\u0027mon mannnnnnnn","lbl":"Negative"}
+,{"time":"14:02","usr":"DividendMaster","txt":"@cate_long @ExCAGovMoonbeam $AMZN will never repay any debt it takes out . Absolutely greatest #PerfectPonzi of all time","lbl":"Neutral"}
+,{"time":"14:35","usr":"DAHodgkins","txt":"RT @LukeRomyn: Get Slaves of Valhalla and Beyond Hades #FREE!!! http://t.co/22CLVaKI #Kindle $AMZN","lbl":"Neutral"}
 ,{"time":"14:39","usr":"Corkviews","txt":"$AMZN boom","lbl":"Positive"}
+,{"time":"15:02","usr":"Det_JohnDrake","txt":"RT @LukeRomyn: Get Slaves of Valhalla and Beyond Hades #FREE!!! http://t.co/22CLVaKI #Kindle $AMZN","lbl":"Neutral"}
 ,{"time":"15:02","usr":"MarkAlanT","txt":"$AMZN took some profits on daily options @244","lbl":"Positive"}
 ,{"time":"15:04","usr":"KeithMcCullough","txt":"Amazon $AMZN is my wrong of the day; still bearish TREND; thought it would fail today and didnt","lbl":"Negative"}
+,{"time":"15:29","usr":"BijouMind","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Negative"}
 ,{"time":"15:29","usr":"PeterMartin_IG","txt":"They don\u0027t call it CyberMonday for nothing. Retailers down in general, but $AMZN +1.4%, $AAPL +3% and $EBAY +5.4%. Ebay says sales up 57%","lbl":"Positive"}
+,{"time":"15:30","usr":"RobeH2","txt":"RT @McSwainandBeck: RT @lukeromyn: SLAVES OF VALHALLA is finally #FREE on #Kindle... and so is BEYOND HADES!!! http://t.co/xL8ar2Qa $AMZN #freebooks","lbl":"Neutral"}
+,{"time":"15:55","usr":"genevate","txt":"RT @howardlindzon: The StockTwits Social Heatmap is a good place to look EVERYDAY for the big and little pictures http://t.co/8REKPBga $AMZN $EBAY $BBY","lbl":"Neutral"}
+,{"time":"15:55","usr":"SeekingAlpha","txt":"Strange Case Of Best Buy: Dilemma Of Investing And Avoiding http://t.co/MBuS68gy $AAPL $AMZN $EBAY $GME $TGT $WMT $BBY","lbl":"Neutral"}
+,{"time":"16:36","usr":"JamieMK","txt":"RT @SAI: Why Amazon Is Borrowing $3 Billion $AMZN by @owenthomas http://t.co/1MR7vMga","lbl":"Neutral"}
+,{"time":"17:33","usr":"CoryTV","txt":"Cyber Monday at http://t.co/m0p6KwPJ\u0027s 1.2m sq ft Phoenix fulfillment center $AMZN @ http://t.co/m0p6KwPJ http://t.co/2iPfr0SX","lbl":"Neutral"}
+,{"time":"18:07","usr":"marchuq","txt":"RT @SAI: Why Amazon Is Borrowing $3 Billion $AMZN by @owenthomas http://t.co/1MR7vMga","lbl":"Neutral"}
+,{"time":"18:09","usr":"SKSMediaUK","txt":"RT @BloombergTV: Miss the market day? Here are BTV\u0027s top ten stocks of the day http://t.co/UtS6D1Id $RIMM $CS $YHOO $KCG $AMZN $HNZ $UNH $DWA $FB $AAPL","lbl":"Neutral"}
+,{"time":"20:12","usr":"caruso_TC","txt":"@Convertbond does $AMZN have liquidity issues? Or just want cushion","lbl":"Neutral"}
+,{"time":"20:18","usr":"john_frankel","txt":"For year to September 2012: net profit of $MSFT + $GOOG + $EBAY + $YHOO + $FB + $AMZN = $AAPL - $7,000,000,000 http://t.co/sPeqnCBH amazing","lbl":"Neutral"}
+,{"time":"22:30","usr":"gfnnstock","txt":"$ebay $amzn $vz $dd $otex $pg $mic $whr $bmy Equities Research: Quarterly Operational Cash Flow Increases & Declin... http://t.co/k1mmIKiq","lbl":"Neutral"}
+,{"time":"22:35","usr":"ReformedBroker","txt":"This is why asset purchases don\u0027t stimulate the economy, all you\u0027re doing is flooding the already-flooded. See: $AMZN selling bonds for fun.","lbl":"Neutral"}
 ]

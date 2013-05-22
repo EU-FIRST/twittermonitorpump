@@ -1,12 +1,37 @@
 [
 {"time":"3:48","usr":"vid_e","txt":"If I have to guess, market will be super green today $aapl $goog $spy $qqq $amzn $pcln","lbl":"Positive"}
+,{"time":"3:53","usr":"pelias01","txt":"The Post-Hurricane and Pre-Election Financial Markets $INX $AAPL $AMZN $GOOG $GS http://t.co/SSGRHQSz via @minyanville","lbl":"Neutral"}
 ,{"time":"3:56","usr":"flipboardbiz","txt":"RT @TheStreet: $AMZN Regaining Confidence - http://t.co/8PVXD0ds by @agara2004 $AAPL $FB","lbl":"Positive"}
+,{"time":"7:37","usr":"yianniak","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AMZN $MSFT $FB $AOL $YHOO by @nichcarlson http://t.co/URKQqykZ","lbl":"Neutral"}
+,{"time":"7:46","usr":"ToddSullivan","txt":"Black Friday Shopping Guide http://t.co/eOHaCBwY $AMZN $GPS $WMT","lbl":"Neutral"}
+,{"time":"8:59","usr":"graubart","txt":"Interesting - Amazon now offering monthly option ($7.99) for Prime - in time for holiday season http://t.co/h9UCnAJP $AMZN #GetEmHooked","lbl":"Neutral"}
 ,{"time":"9:33","usr":"dianapetras","txt":"RT @businessinsider: Amazon Just Took A Big Swipe At Hulu And Netflix $AMZN $NFLX by @officialKLS http://t.co/Bqqrpdst","lbl":"Positive"}
+,{"time":"9:35","usr":"LukeRomyn","txt":"Love your #Kindle? You\u0027ll love it even more with these incredible novels! http://t.co/oh4eTr0f $AMZN #bestsellers","lbl":"Neutral"}
+,{"time":"9:36","usr":"flexatwork","txt":"RT @SAI: Amazon Just Took A Big Swipe At Hulu And Netflix $AMZN $NFLX by @officialKLS http://t.co/3Ya7G3R2","lbl":"Neutral"}
+,{"time":"10:04","usr":"InmanBillTST","txt":"Great piece from the Digital Skeptic: Sandy shows where web is weak - TheStreet http://t.co/t7Wfn83n $VZ $T $S $AMZN $GOOG","lbl":"Neutral"}
 ,{"time":"10:42","usr":"BlueFielder","txt":"$AMZN Ripe to run","lbl":"Positive"}
+,{"time":"10:43","usr":"ExBliss","txt":"RT @businessinsider: Microsoft Is Working On Its Own Smaller Tablet \u2014 A 7-Inch Xbox Surface $MSFT $AAPL $GOOG $AMZN by @jyarow http://t.co/4lqaysZ6","lbl":"Neutral"}
 ,{"time":"10:44","usr":"BlacknGoldFool","txt":"@kem312 $AMZN \u0027s P/E is certainly in space. (Read: \u0022Innnn Sppaaaccee\u0022)","lbl":"Negative"}
+,{"time":"11:24","usr":"deepeshalways","txt":"RT @SAI: Microsoft Is Working On Its Own Smaller Tablet \u2014 A 7-Inch Xbox Surface $MSFT $AAPL $GOOG $AMZN by @jyarow http://t.co/ndUPEc7M","lbl":"Neutral"}
+,{"time":"11:26","usr":"mohlat","txt":"RT @SAI: Microsoft Is Working On Its Own Smaller Tablet \u2014 A 7-Inch Xbox Surface $MSFT $AAPL $GOOG $AMZN by @jyarow http://t.co/ndUPEc7M","lbl":"Neutral"}
+,{"time":"12:12","usr":"StkConfidential","txt":"Lots more leaders moving as the market sees an end to the presidential race: $DVA, $WXS, $QIHU, $HAIN, $ISRG, $GOLD, $CERN, $AMZN etc. $$","lbl":"Neutral"}
+,{"time":"12:14","usr":"m_terenziani","txt":"RT @businessinsider: Microsoft Is Working On Its Own Smaller Tablet \u2014 A 7-Inch Xbox Surface $MSFT $AAPL $GOOG $AMZN by @jyarow http://t.co/4lqaysZ6","lbl":"Neutral"}
+,{"time":"12:14","usr":"DNev47","txt":"RT @StkConfidential: Lots more leaders moving as the market sees an end to the presidential race: $DVA, $WXS, $QIHU, $HAIN, $ISRG, $GOLD, $CERN, $AMZN etc. $$","lbl":"Neutral"}
+,{"time":"12:15","usr":"barronstechblog","txt":"MSFT: Here Comes Xbox Tablet, Says TheVerge - Tech Trader Daily - $MSFT $ARMH $INTC $AAPL $AMZN $GOOG $005930KS http://t.co/Q4SISkZv","lbl":"Neutral"}
 ,{"time":"12:54","usr":"aten","txt":"RT @rakeshlobster: Great move by $AMZN. Monthly Prime for $8. http://t.co/kiyim3Xw Sign up for December and use it to send gifts. http://t.co/py0HLzLv","lbl":"Positive"}
+,{"time":"12:54","usr":"HedgeyeRetail","txt":"China RT @JScolnic: Got a basketball hoop from $AMZN for $90,it retails for $190. Shipped free. Where is the profit @HedgeyeRetail","lbl":"Neutral"}
 ,{"time":"13:15","usr":"tlmontana","txt":"RT @HarryWanger: @tlmontana Daily chart showing right shoulder of H&S shaping up nicely. If forms, could see a nice drop soon. <-- $AMZN","lbl":"Negative"}
+,{"time":"13:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 236.63 +2.30 (+0.98%).","lbl":"Neutral"}
+,{"time":"13:55","usr":"j_holliman","txt":"RT @SconsetCapital: Netflix killer. RT @julpepitone: Amazon testing $8 per month price for Prime streaming http://t.co/I6oKq627 via @CNNMoneyTech $AMZN $NFLX $$","lbl":"Neutral"}
+,{"time":"14:19","usr":"BrianSozzi","txt":"RT @LaMonicaBuzz: Do 2 wrong office supply chains make a right? $ODP $OMX sales not great but both surging on M&A rumors. $SPLS up too on $AMZN locker deal.","lbl":"Neutral"}
+,{"time":"14:52","usr":"mdlevinson","txt":"The $AMZN monthly Prime test seems to be positioned vs. $NFLX & Hulu. Is streaming really a Prime sub driver? http://t.co/HwVFRnud","lbl":"Neutral"}
+,{"time":"15:30","usr":"BloombergWest","txt":"#Amazon Prime challenges #Netflix with a new $7.99 per month plan. http://t.co/ooNtA2WS $AMZN $NFLX #tech","lbl":"Neutral"}
+,{"time":"15:31","usr":"DNev47","txt":"$$ AMD Leaked Roadmap Analysis: Prices, Margins And Competitiveness http://t.co/ezLHauNB $AMZN $INTC $NVDA $AMD","lbl":"Neutral"}
+,{"time":"16:14","usr":"juhavitikka","txt":"RT @businessinsider: Why I Hate E-Books $AMZN $BKS $AAPL $GOOG by @_dtl http://t.co/upJALK2L","lbl":"Neutral"}
 ,{"time":"16:16","usr":"Urbane_Gorilla","txt":"Exclusive - Amazon to win e-book tussle with Apple http://t.co/z3w6G9ks via @reuters $AMZN $AAPL","lbl":"Positive"}
+,{"time":"16:16","usr":"ChartLines","txt":"RT @Minyanville: What Your Food and Social Media Preferences Reveal About How You\u0027ll Vote $AMZN $FB $BLMN $CBRL $GOOG http://t.co/Vbb8pyvo","lbl":"Neutral"}
 ,{"time":"17:03","usr":"Commodity_Bull","txt":"RT @firstadopter: $RAX call: Yes having conversation with AWS customers who compete with AMZN, opportunity for competitive wins away from $AMZN","lbl":"Negative"}
+,{"time":"17:07","usr":"kurtgrela","txt":"Netflix RT \u201C@DeVanDineen: @biggercapital $AMZN & $NFLX competition coming. Redbox Instant on the way and I like what I see! Thoughts?\u201D","lbl":"Neutral"}
 ,{"time":"17:08","usr":"wallstCS","txt":"Google Loses, Zillow Tanks, and Amazon Wins: Market Recap http://t.co/dozoJIvE $VRNG $GOOG $AAPL $AMZN $Z #stocks","lbl":"Positive"}
+,{"time":"19:53","usr":"NextDayTrade","txt":"Wednesday: $AMZN, $FFIV, $AAPL, $AOL, $VMW, $CTXS, $GS","lbl":"Neutral"}
 ]

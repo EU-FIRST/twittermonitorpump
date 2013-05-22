@@ -1,3 +1,8 @@
 [
 {"time":"5:10","usr":"EdsonDefreitas1","txt":"Best of StockTwits: The not-so great $GOOG-a Mooga? - The Buzz ...: He was responding to one of my usual sarcast... http://t.co/wLM2RLMw","lbl":"Negative"}
+,{"time":"11:54","usr":"vietlytangle","txt":"RT @WhizCheck6: Primary Trade Alert on $AAPL, Weekly Bull Put Spread: http://t.co/zfDnsURU via @youtube $goog $amzn $nflx $pcln","lbl":"Neutral"}
+,{"time":"11:57","usr":"njnigh","txt":"RT @dashburst: Now Gmail is sending ads to you (kind of) http://t.co/Eec7nguO $GOOG","lbl":"Neutral"}
+,{"time":"12:01","usr":"shaisole","txt":"If $FB is not growing revenues fast enough because of Smartphones increasing mobile surfing, what is the implication on the $GOOG model?","lbl":"Neutral"}
+,{"time":"12:10","usr":"Minyanville","txt":"#JobHunting? Marketing tactics can help people find work right out of college http://t.co/VXyO9HwL @sterlingwong $LNKD $GOOG $FB","lbl":"Neutral"}
+,{"time":"18:28","usr":"stockscommentar","txt":"Best stocks for swing trading today - ($GOOG, $CRM, $NKE): Daily stock video uses technical analysis and our pro... ht http://t.co/R1f7b5up","lbl":"Neutral"}
 ]

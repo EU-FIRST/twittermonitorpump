@@ -1,6 +1,17 @@
 [
-{"time":"10:07","usr":"leopardtrader","txt":"Taking 25% off $AMZN long from avg 169. We still head to $260. all stops now to 170. $SPX","lbl":"Positive"}
+{"time":"8:45","usr":"OTPBook","txt":"You always knew it twas true. \u0022Life\u0027s Not Fair.\u0022 Woody Allen summed it up best. $AMZN #QusayHussein and Jed Clampett http://t.co/soTZHttV","lbl":"Neutral"}
+,{"time":"8:45","usr":"OptiontoProfit","txt":"You always knew it twas true. \u0022Life\u0027s Not Fair.\u0022 Woody Allen summed it up best. $AMZN #QusayHussein and Jed Clampett http://t.co/ZXBctgUu","lbl":"Neutral"}
+,{"time":"8:45","usr":"PFCAcsMan","txt":"You always knew it twas true. \u0022Life\u0027s Not Fair.\u0022 Woody Allen summed it up best. $AMZN #QusayHussein and Jed Clampett http://t.co/G3KRenlR","lbl":"Neutral"}
+,{"time":"10:07","usr":"leopardtrader","txt":"Taking 25% off $AMZN long from avg 169. We still head to $260. all stops now to 170. $SPX","lbl":"Positive"}
+,{"time":"10:49","usr":"ValaAfshar","txt":"Apple isn\u0027t the only disruptor: how Amazon is killing publishers http://t.co/m2neMSXp $AAPL $AMZN #tech #innovation","lbl":"Neutral"}
 ,{"time":"11:50","usr":"TRADER1970","txt":"$AMZN &$RIG still flying looking for a re-entry in $X","lbl":"Positive"}
+,{"time":"13:55","usr":"gwestr","txt":"DynamoDB, eh? #nosql $AMZN http://t.co/k2nxRGDp","lbl":"Neutral"}
+,{"time":"13:57","usr":"Goodlett","txt":"$AMZN launch of #cloud [site] #search function is good for #AWS #EC2 customers, but bad for $GOOG & its app http://t.co/AOgSOBAT $MSFT $YHOO","lbl":"Neutral"}
+,{"time":"15:31","usr":"AMZN_stock","txt":"$AMZN real time quote, 3:31PM EST: 194.64 +5.20 (+2.74%).","lbl":"Neutral"}
 ,{"time":"15:32","usr":"PennyLaneLuv","txt":"$AMZN has been mistreated in the past. this is the best place to shop for everything online. Hope it soars........","lbl":"Positive"}
 ,{"time":"16:54","usr":"sixpackattack","txt":"@jdominick68 I feel you. I was going to buy $AMZN at 176, but hoped it\u0027d drop a little more. I\u0027m kicking myself right now.","lbl":"Positive"}
+,{"time":"17:28","usr":"barronstechblog","txt":"GOOG Conf Call: Ad Format Changes Hit Cost-Per-Click - Tech Trader Daily- $GOOG $MSFT $YHOO $BIDU $AMZN $EBAY http://t.co/u2VBkMyj","lbl":"Neutral"}
+,{"time":"17:31","usr":"AMZN_stock","txt":"$AMZN after hours quote, 5:15PM EST: 191.76 -2.69 (-1.38%).","lbl":"Neutral"}
+,{"time":"19:00","usr":"SeekingAlpha","txt":"Google Commerce Starts Off Year With Reorganization http://t.co/1ajkscn6 $AAPL $AMZN $EBAY $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"21:08","usr":"funtrading12","txt":"$AMZN - Amazon Stock Analysis - - http://t.co/UAlCqnJU","lbl":"Neutral"}
 ]

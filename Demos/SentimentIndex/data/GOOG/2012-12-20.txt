@@ -1,10 +1,24 @@
 [
-{"time":"8:02","usr":"mrmojorisin320","txt":"RT @businessinsider: Google Just Got Another $2.35 Billion To Play With, Thanks To Sale Motorla Set-Top Business $GOOG $ARRS http://t.co/XiaDCsmF","lbl":"Positive"}
+{"time":"6:35","usr":"CNBCeFinans","txt":"Google\u2019dan 2,35 milyar $\u0027l\u0131k sat\u0131\u015F http://t.co/GgduGacP #teknoloji #\u015Firketler $GOOG","lbl":"Neutral"}
+,{"time":"8:02","usr":"mrmojorisin320","txt":"RT @businessinsider: Google Just Got Another $2.35 Billion To Play With, Thanks To Sale Motorla Set-Top Business $GOOG $ARRS http://t.co/XiaDCsmF","lbl":"Positive"}
+,{"time":"8:03","usr":"KaitlynSakey","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $SSNLF $GOOG $FB by @nichcarlson http://t.co/j98kqx2s","lbl":"Neutral"}
 ,{"time":"8:04","usr":"noufji","txt":"RT @SAI: Google Just Got Another $2.35 Billion To Play With, Thanks To Sale Motorla Set-Top Business $GOOG $ARRS http://t.co/IRFSqvTJ","lbl":"Positive"}
+,{"time":"9:24","usr":"curlyheadRED","txt":"RT @SeekingAlpha: Android Is Dead, Part 3: The Numbers http://t.co/0U9ZSPb9 $AAPL $MSFT $RIMM $GOOG","lbl":"Neutral"}
 ,{"time":"9:25","usr":"Clearwaterfunds","txt":"Not sure what is more painful, short $GOOG or short $EUR/USD. tales from the pain trade..","lbl":"Positive"}
-,{"time":"10:06","usr":"ChartMoMo","txt":"bot to close $goog DEC 705 puts. +.85 per contract","lbl":"Negative"}
 ,{"time":"10:06","usr":"lagordon417","txt":"Hopped back in long $WDC yesterday, continues to act strong. Still long $GOOG and $EBAY as well.","lbl":"Positive"}
+,{"time":"10:06","usr":"ChartMoMo","txt":"bot to close $goog DEC 705 puts. +.85 per contract","lbl":"Negative"}
+,{"time":"11:01","usr":"HFTAlert","txt":"Longer term $aapl Accumulators updated, see: http://t.co/GRjqZ7yG $spy $goog","lbl":"Neutral"}
+,{"time":"11:02","usr":"barronstechblog","txt":"Apple\u2019s Siri Slightly Better Than Google \u2018Now,\u2019 Says Piper - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $YELP $OPEN http://t.co/Q64zZQ5G","lbl":"Neutral"}
 ,{"time":"11:02","usr":"MogulAzam","txt":"RT @barronstechblog: Apple\u2019s Siri Slightly Better Than Google \u2018Now,\u2019 Says Piper Barron\u0027s $AAPL $GOOG $YELP $OPEN http://t.co/2aCYI5qs","lbl":"Negative"}
 ,{"time":"12:23","usr":"GetBizDC","txt":"RT @SAI: These Are Companies Behind Apple\u0027s Attempt To Kill Google $AAPL $GOOG $YELP by @jyarow http://t.co/3CmDBQEn","lbl":"Negative"}
+,{"time":"13:26","usr":"JesseDraper","txt":"RT @businessinsider: Our Favorite Gadgets Of 2012 $AAPL $GOOG $AMZN $IRBT $NTDOY by @_dtl http://t.co/02lLTVKD","lbl":"Neutral"}
+,{"time":"13:27","usr":"ABrute","txt":"RT @businessinsider: Our Favorite Gadgets Of 2012 $AAPL $GOOG $AMZN $IRBT $NTDOY by @_dtl http://t.co/02lLTVKD","lbl":"Neutral"}
+,{"time":"13:28","usr":"2pogi4u","txt":"RT @SAI: Our Favorite Gadgets Of 2012 $AAPL $GOOG $AMZN $IRBT $NTDOY by @_dtl http://t.co/A0AeQJaU","lbl":"Neutral"}
+,{"time":"14:20","usr":"clulisa","txt":"RT @SAI: Our Favorite Gadgets Of 2012 $AAPL $GOOG $AMZN $IRBT $NTDOY by @_dtl http://t.co/A0AeQJaU","lbl":"Neutral"}
+,{"time":"15:25","usr":"Kleptocratia","txt":"@MariaBartiromo is crazy, loses control again. $SPY $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"15:30","usr":"themoneysquare","txt":"$ES A close abv. 1360.50 is a nice sign for the #Bulls. imho $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"16:58","usr":"Carina_Lermon","txt":"7 Android trends that need to end in 2012 - Computerworld (blog) #Android $Goog http://t.co/FcwouwHT","lbl":"Neutral"}
+,{"time":"19:15","usr":"StevenSavage","txt":"RT @SAI: Quora Just Launched A Major Salvo At Google With Its Plan To Become The Internet\u0027s \u0027Library Of Alexandria\u0027 $GOOG http://t.co/ihtXDdSo","lbl":"Neutral"}
 ,{"time":"19:15","usr":"FanToPro","txt":"RT @SAI: Quora Just Launched A Major Salvo At Google With Its Plan To Become The Internet\u0027s \u0027Library Of Alexandria\u0027 $GOOG http://t.co/ihtXDdSo","lbl":"Negative"}
+,{"time":"21:08","usr":"andru08","txt":"RT @businessinsider: Quora Just Launched A Major Salvo At Google With Its Plan To Become The Internet\u0027s \u0027Library Of Alexandria\u0027 $GOOG http://t.co/ngimVCcj","lbl":"Neutral"}
 ]

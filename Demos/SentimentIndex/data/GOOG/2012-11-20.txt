@@ -1,10 +1,34 @@
 [
 {"time":"3:23","usr":"JustinPulitzer","txt":"Android 4.2 called \u2018one of the most bug-ridden releases since Honeycomb\u2019 http://t.co/jFP5Wy2x $AAPL $GOOG","lbl":"Negative"}
+,{"time":"3:32","usr":"tollilf","txt":"RT @howardlindzon: I dont give a rat\u0027s ass about owning a Tesla, but I am totally in to ElonMusk\u0027s idea of a hyperloop http://t.co/xiol5Oyz $tsla $goog","lbl":"Neutral"}
+,{"time":"3:33","usr":"StocksForiOS","txt":"\u201C@MacRumors: Google to Take on Apple with Open AirPlay Alternative http://t.co/W6WhxeuJ\u201D $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"8:17","usr":"hannahajjar","txt":"#Google Takes Another Step Toward Putting Self-Driving #Cars On Your #Highway http://t.co/QDUH7goH $GOOG #innovation #technology","lbl":"Positive"}
+,{"time":"8:17","usr":"hellosamyoo","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AAPL $HTC $YHOO $AMZN $MSFT by @nichcarlson http://t.co/agDSAlhC","lbl":"Neutral"}
+,{"time":"8:17","usr":"Nextstevejob","txt":"Google Takes Another Step Toward Putting Self-Driving Cars On Your Highway $GOOG by @nichcarlson http://t.co/37BqDwFN","lbl":"Neutral"}
 ,{"time":"8:20","usr":"pankajsaharan","txt":"RT @SAI: Google Takes Another Step Toward Putting Self-Driving Cars On Your Highway $GOOG by @nichcarlson http://t.co/4xHhgCNH","lbl":"Positive"}
+,{"time":"9:07","usr":"RDeanon","txt":"Google: Adwords Thanks You $VRNG $GOOG http://t.co/sUIoI3qL","lbl":"Neutral"}
+,{"time":"9:09","usr":"Auspicious92","txt":"RT @SAI: Google Takes Another Step Toward Putting Self-Driving Cars On Your Highway $GOOG by @nichcarlson http://t.co/4xHhgCNH","lbl":"Neutral"}
 ,{"time":"9:12","usr":"rechtsteiner","txt":"$GOOG\u0027s opp to make their AirPlay a serious platform is to build it into YouTube. Enable the content creators.","lbl":"Positive"}
 ,{"time":"9:17","usr":"rogerserra","txt":"RT @SAI: Google Takes Another Step Toward Putting Self-Driving Cars On Your Highway $GOOG by @nichcarlson http://t.co/zrH6HUlQ","lbl":"Positive"}
 ,{"time":"9:54","usr":"sahilgupta538","txt":"Google Takes Another Step Toward Putting Self-Driving Cars On Your Highway $GOOG by @nichcarlson http://t.co/RYNL2mAD","lbl":"Positive"}
 ,{"time":"9:55","usr":"BlueFielder","txt":"$GooG Sold 1/3 of wkly 665 $CALLs @ 9.20 for plus 3.20 http://t.co/6bE7DrZc","lbl":"Negative"}
+,{"time":"10:31","usr":"stockticks","txt":"$GOOG News: Desi thusftware product company takes global tech giants head-on - #stocknews http://t.co/RpLmGn65 #USInternetStocks","lbl":"Neutral"}
+,{"time":"10:32","usr":"launchticker","txt":"$goog hires Ron Medford (National Highway Traffic Safety Administration) as Director of Safety for Self-Driving Cars http://t.co/e3YzbEzZ","lbl":"Neutral"}
+,{"time":"11:56","usr":"fibstalker","txt":"Trading plan for $AAPL: https://t.co/rzDJDvjF Same happened to $GOOG in the past. #stock #setup $SPY $QQQ","lbl":"Neutral"}
+,{"time":"11:57","usr":"choffman1978","txt":"$AEZS SURGING NEARLY 15% WOW #cnbc,#msnbc,#nyse,#wsj,$p,$soda,$sbux,$cbou,$gs,$goog,$aapl,$dndn,$ctic,$kerx,$bmti,$pfe,$jnj","lbl":"Neutral"}
+,{"time":"11:57","usr":"MNYCx","txt":"@beanuts33 yes but $GOOG changed it\u0027s TV UI recently as well as the voice search (Siri like) and looks a lot like what Apple would do.","lbl":"Neutral"}
+,{"time":"13:09","usr":"marketminute","txt":"MMMdaily ? Would $SPY con\u0027t 2 lead or $AAPL $GOOG run out of gas & drag? $QQQ 63.50 break &more downside 2 come$$","lbl":"Neutral"}
+,{"time":"13:11","usr":"gabrioni","txt":"@marketminute $AAPL needs to go above 585 and $GOOG at 690 to confirm turn around #kapitall","lbl":"Neutral"}
+,{"time":"14:06","usr":"bajatedeminube","txt":"RT @SAI: Brutal Chart For Microsoft: All The Kids Want iPads, Almost None Want The Surface $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/B9oav3MH","lbl":"Neutral"}
+,{"time":"14:07","usr":"jhuebener","txt":"RT @businessinsider: Brutal Chart For Microsoft: All The Kids Want iPads, Almost None Want The Surface $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/cRIe8S4w","lbl":"Neutral"}
+,{"time":"14:08","usr":"pajamas320","txt":"RT @PrivCo: Other #VC backers of @meraki, in addition to @Sequoia_Capital: @Google $GOOG @felicisventures #NorthgateCap #DAGVenture http://t.co/D3AayxZo","lbl":"Neutral"}
+,{"time":"14:10","usr":"barronstechblog","txt":"AAPL: Piper Sees Faster Product Cycles, Topeka Argues Sell-Off \u2018Insane\u2019 - Tech Trader Daily - $AAPL $GOOG $MSFT $RIMM http://t.co/g5cjAm7Z","lbl":"Neutral"}
+,{"time":"15:05","usr":"buckandrews","txt":"RT @TechInsiderco: Ahead Of ITU Summit, Google Wants You To Help Preserve A Free And Open Internet With New Campaign:... http://t.co/vTvcYIQx #Google $GOOG","lbl":"Neutral"}
+,{"time":"15:05","usr":"slimtrades","txt":"$GOOG $AAPL FTC http://t.co/5ml1MrVn","lbl":"Neutral"}
+,{"time":"15:06","usr":"slimtrades","txt":"$GOOG \u0022\u201CA consent decree will be weak, it won\u2019t really make Google do anything.\u201D http://t.co/5ml1MrVn","lbl":"Neutral"}
+,{"time":"16:22","usr":"theoharism","txt":"Samsung beating Apple TV in Kids Want Lists. Just don\u0027t mention the iPads... $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/ZwKOHM0g","lbl":"Neutral"}
+,{"time":"17:47","usr":"sssc","txt":"i find it confusing 2 try & track/ trade 100s of potential candidatas. $AAPL $PCLN $GOOG etc provide ample opportunity 2 make $$","lbl":"Neutral"}
+,{"time":"17:52","usr":"USwwwStocks","txt":"$GOOG News: U.S. Said to Waver on Antitrust Case Against Google http://t.co/MzDw12Iw #against #antitrust #Case","lbl":"Neutral"}
+,{"time":"17:53","usr":"pjpuglia","txt":"RT @SAI: Brutal Chart For Microsoft: All The Kids Want iPads, Almost None Want The Surface $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/B9oav3MH","lbl":"Neutral"}
 ,{"time":"20:42","usr":"ADVFNplc","txt":"$GOOG - Pivotal Microsoft-Motorola Mobility Patent Case Now in Judge\u0027s Hands http://t.co/DtEWFJs2","lbl":"Negative"}
 ]

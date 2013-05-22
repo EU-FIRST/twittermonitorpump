@@ -1,3 +1,16 @@
 [
-{"time":"14:30","usr":"morganefitz","txt":"New : $AMZN,, Long Swing Trade S8, 10% $AMZN,, New Long Entry S8, 10%. 29 Shares @ 214.07 Stop ... Read more at http://t.co/mDW0gGfM","lbl":"Positive"}
+{"time":"5:14","usr":"StockMarketEnds","txt":"Anti Christ Zionists WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Editor #Writer #Solar #Fitness #Educator #Computer","lbl":"Neutral"}
+,{"time":"5:16","usr":"StockMarketEnds","txt":".......This is called justice of the Anti Christ Zionists, AntiChrist UK Government & US Judges $CXW $GEO $IBM $AMZN $MSFT $ORCL $T $WFC $GS","lbl":"Neutral"}
+,{"time":"11:00","usr":"LinkedInToday","txt":"Apple, Google and Amazon want their own domains http://t.co/bqrR6uOf on @CNET $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"11:00","usr":"ANDagency","txt":".coms are out? RT @linkedintoday: Apple, Google and Amazon want their own domains http://t.co/7ej9PgAd on @CNET $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"13:24","usr":"sbmiller5","txt":"@dherman76 $amzn","lbl":"Neutral"}
+,{"time":"14:30","usr":"morganefitz","txt":"New : $AMZN,, Long Swing Trade S8, 10% $AMZN,, New Long Entry S8, 10%. 29 Shares @ 214.07 Stop ... Read more at http://t.co/mDW0gGfM","lbl":"Positive"}
+,{"time":"16:29","usr":"investorsmosaic","txt":"What We Learned About the E-Commerce Industry Today. $amzn $bby $wmt $spls $shld $rsh $tgt #ecommerce http://t.co/w1wmBCfX","lbl":"Neutral"}
+,{"time":"19:08","usr":"shardy12","txt":"RT @jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022","lbl":"Neutral"}
+,{"time":"19:08","usr":"biggercapital","txt":"RT @jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022","lbl":"Neutral"}
+,{"time":"19:09","usr":"mcguirejoseph","txt":"RT @jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022","lbl":"Neutral"}
+,{"time":"19:09","usr":"SkepticalMadman","txt":"RT @jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022","lbl":"Neutral"}
+,{"time":"20:22","usr":"alex__fishler","txt":"\u201C@jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022\u201D people love their mommy porn","lbl":"Neutral"}
+,{"time":"20:25","usr":"victorlopezg","txt":"@gmlopezg mir\u00E1: \u0022@jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022\u0022","lbl":"Neutral"}
+,{"time":"20:27","usr":"broukhim","txt":"RT @jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022","lbl":"Neutral"}
 ]

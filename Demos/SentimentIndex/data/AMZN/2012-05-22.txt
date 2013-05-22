@@ -1,7 +1,18 @@
 [
-{"time":"9:37","usr":"GrayCalTrading","txt":"still holding $AMZN. may look to add a few soon","lbl":"Positive"}
+{"time":"0:53","usr":"cedricjanssens","txt":"\u201C@SAI: EXCLUSIVE: #Amazon CTO Tells Us How It Built Its #Cloud Business Into The Best In Business $AMZN by @Julie188 http://t.co/SE9883CM\u201D","lbl":"Neutral"}
+,{"time":"1:28","usr":"BigTicks","txt":"$AMZN News: Can Best Buy\u0027s Earnings Report Even Matter? (BBY, RSH, AMZN) http://t.co/YA8UCqKl #AMZN #Best #buys","lbl":"Neutral"}
+,{"time":"5:59","usr":"abnormalreturns","txt":"Tuesday 7atSeven: a push-pull market, taking on esoteric risks and the $FB blame game. http://t.co/SIAAv6bA $AAPL $NDAQ $AMZN","lbl":"Neutral"}
+,{"time":"6:01","usr":"amh381","txt":"RT @Phillip_Futures: Your First Trade for Tuesday http://t.co/XziBmBzZ $AMZN $CME $EMC $ORCL #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"7:38","usr":"STnet","txt":"Tuesday 7atSeven: esoteric risks | via @abnormalreturns http://t.co/yrOD2klR $AAPL $FB $AMZN $NDAQ","lbl":"Neutral"}
+,{"time":"9:37","usr":"GrayCalTrading","txt":"still holding $AMZN. may look to add a few soon","lbl":"Positive"}
+,{"time":"10:09","usr":"CurttS","txt":"RT @CNNMoney: RT @LaMonicaBuzz: Best Buy in leaderless limbo. Sales still abysmal as $BBY struggles against $AMZN. Buzz video. http://t.co/0ZP3aYq4","lbl":"Neutral"}
 ,{"time":"10:36","usr":"toddsalamone","txt":"$shw $bbby $azo $crus $lnkd $amzn $bwld $gps $veco $orly Hot stocks in \u002712 with more put buying than call buying past month #call #put","lbl":"Positive"}
 ,{"time":"10:36","usr":"srisri55","txt":"When there is strength in market I buy $AAPL calls. When there is weakness, I am happy shorting via puts names like $BIDU $CRM $AMZN","lbl":"Negative"}
+,{"time":"11:11","usr":"SellPuts","txt":"RT @BUDDIEE18: find out how $AAPL $GOOG $AMZN $PCLN trade @SellPuts 0$ room. http://t.co/EfwgLsvI","lbl":"Neutral"}
 ,{"time":"14:24","usr":"ryanjhodges","txt":"$AMZN world class prop job here at $215? stock is worth $40.","lbl":"Negative"}
 ,{"time":"15:07","usr":"PerforM84697233","txt":"Option Millionaires: madrose1: $AMZN 214\u0027s down 3 , knew it http://t.co/CGRuU87N","lbl":"Negative"}
+,{"time":"15:12","usr":"dstjohn","txt":"Good to see the market is figuring out $FB was overvalued. No way it is worth as much as $AMZN and half of $GOOG","lbl":"Neutral"}
+,{"time":"15:54","usr":"WhizCheck6","txt":"$aapl Support and Resistance by Hubert Senters - Wealth Creation Investing http://t.co/dxiqLiFz via @WhizCheck6 $goog $amzn $fb","lbl":"Neutral"}
+,{"time":"19:36","usr":"TAtrader22","txt":"$AMZN clear levels to work against for tomorrow long or short...your money you decide http://t.co/dDB22edM","lbl":"Neutral"}
+,{"time":"21:58","usr":"StockMarketEnds","txt":"Anti Christ Zionists WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Editor #Writer #Solar #Fitness #Educator #Computer","lbl":"Neutral"}
 ]

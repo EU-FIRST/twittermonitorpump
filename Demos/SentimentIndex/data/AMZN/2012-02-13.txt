@@ -3,14 +3,26 @@
 ,{"time":"9:25","usr":"RogueStockTradr","txt":"Oh man Cramer is RTing about the tech sector being extremely overbought, $AAPL $AMZN $GOOG should go up 5% this week!!!","lbl":"Negative"}
 ,{"time":"9:27","usr":"optioncommander","txt":"Options on watch for moves: $GMCR +1.64% $DNDN +1.71% $FCX +1.58% $MCP +1.2% $AAPL +1.15% (499.09!!) $AMZN +0.89% $NFLX +0.7%","lbl":"Positive"}
 ,{"time":"10:09","usr":"Stockalertj","txt":"$AMZN finally broke $188 first target $189.70 then it\u0027s clear shot to $195.00","lbl":"Positive"}
+,{"time":"10:09","usr":"Arnuminous","txt":"$AMZN getting close to breaking HOD","lbl":"Neutral"}
 ,{"time":"10:49","usr":"Robbcarpdm","txt":"$amzn I took my money not enough steam to 190 this time","lbl":"Negative"}
+,{"time":"10:50","usr":"AronPinson","txt":"@firstadopter Did you know you can share $AMZN prime with up to 4 family members / coworkers? #Margins #FreeShipping http://t.co/SV0RsUto","lbl":"Neutral"}
+,{"time":"10:53","usr":"AronPinson","txt":"So one Prime membership ($79) can get you & 4 of your friends free streaming movies, & free shipping on orders. http://t.co/SV0RsUto $AMZN","lbl":"Neutral"}
+,{"time":"11:26","usr":"MB30stocktweets","txt":"We\u0027re filling this gap on $AMZN","lbl":"Neutral"}
+,{"time":"11:26","usr":"Yield_Juicer","txt":"RT @SeekingAlpha: Ken Fisher Picks: J&J, Amazon, Oracle, BASF http://t.co/7rr6lrpC $AMZN $JNJ $ORCL $BASFY.PK","lbl":"Neutral"}
+,{"time":"11:27","usr":"tagthatstock","txt":"imho, $amzn should buy $away $26, because at least ebay offers nice vaction choices. and if you have $ YOU ACTUALLY GO ON VACATION PRIVATELY","lbl":"Neutral"}
 ,{"time":"12:03","usr":"DeeBeeFunky","txt":"$AMZN must stand for Amazing! (^_^ ) Daebak!","lbl":"Positive"}
 ,{"time":"12:04","usr":"adatherton","txt":"#daytrading Gold all over the place, DAX not back to pre-Greek worry level. DJIA and FTSE okay. $AMZN beating $AAPL and $GOOG","lbl":"Positive"}
+,{"time":"12:05","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/277, $AMZN/48, $SPY/44, $PCLN/27, $GOOG/25, $ROYL/21, $BAC/21, $BDCO/17. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:20","usr":"SeekingAlpha","txt":"Turning $100,000 Into Half A Million, Part IV http://t.co/M4EUcije $AAPL $RL $AMZN $NFLX $P","lbl":"Neutral"}
+,{"time":"13:22","usr":"BS_Whistler","txt":"RT @SeekingAlpha: Turning $100,000 Into Half A Million, Part IV http://t.co/M4EUcije $AAPL $RL $AMZN $NFLX $P","lbl":"Neutral"}
 ,{"time":"14:27","usr":"nxtmillionair40","txt":"23k contracted trade $AMZN weekly 180-200 calls today","lbl":"Positive"}
 ,{"time":"14:27","usr":"nxtmillionair40","txt":"@tom6sigma that\u0027s why i prefer $AMZN :)","lbl":"Positive"}
 ,{"time":"15:07","usr":"vjland","txt":"i expect market would probably fade, but it appears unlikely... hmmm. keeping my longs $amzn $sina $xle no add at this time.","lbl":"Positive"}
 ,{"time":"15:08","usr":"coppertrades","txt":"@Arnuminous Profit $AMZN $AAPL calls (2 runs each today)but under on $NFLX calls should have played puts like @coppertrades told me to/wink","lbl":"Positive"}
 ,{"time":"15:09","usr":"trader_paradise","txt":"$AMZN 190 calls up 150% intraday","lbl":"Positive"}
+,{"time":"15:10","usr":"Matt_SF","txt":"@Dasan don\u0027t really see any reason to hate on $AMZN. might be a few others i\u0027d pick at this time tho.","lbl":"Neutral"}
 ,{"time":"15:40","usr":"swamptrade","txt":"$AMZN filled the pre-earning gap. Short it!","lbl":"Negative"}
 ,{"time":"15:45","usr":"vjland","txt":"still have some $amzn feb 185c in hands, exit at 196, wait.","lbl":"Positive"}
+,{"time":"18:59","usr":"wallstCS","txt":"iPad Crushes Competition in Customer Satisfaction http://t.co/ZWZEdQaT $AAPL $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"23:49","usr":"ZachShackleford","txt":"@gtotoy @OptionTactician don\u0027t forget about trading $AMZN on your phone while getting yelled at by an old lady in court lol","lbl":"Neutral"}
 ]

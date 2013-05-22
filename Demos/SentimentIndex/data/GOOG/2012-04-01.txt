@@ -1,4 +1,11 @@
 [
-{"time":"4:43","usr":"noremacc","txt":"A New Patent-Infringement Lawsuit Could Totally Demolish Google\u0027s Stock $GOOG by @hblodget http://t.co/4ObEFDYD #in","lbl":"Negative"}
+{"time":"4:20","usr":"SeekingAlpha","txt":"Sirius XM: Competing With Apple And Google? http://t.co/5ZFdSOah $AAPL $GOOG $SIRI","lbl":"Neutral"}
+,{"time":"4:43","usr":"noremacc","txt":"A New Patent-Infringement Lawsuit Could Totally Demolish Google\u0027s Stock $GOOG by @hblodget http://t.co/4ObEFDYD #in","lbl":"Negative"}
+,{"time":"5:11","usr":"optionspunk","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/hwjNdP7Q #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
 ,{"time":"11:51","usr":"Johanstael","txt":"RT @SAI: Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG by @Julie188 http://t.co/nWlu7pIR","lbl":"Negative"}
+,{"time":"16:43","usr":"adamfeuerstein","txt":"Circa 1999. Piece of Silicon Valley history. http://t.co/N1vsflTK $GOOG","lbl":"Neutral"}
+,{"time":"16:43","usr":"ValaAfshar","txt":"The Entrepreneurial Failure of Research in Motion http://t.co/Q3laQLXc @ForbesTech $RIMM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:47","usr":"natesadeghi","txt":"RT @adamfeuerstein: Circa 1999. Piece of Silicon Valley history. http://t.co/N1vsflTK $GOOG","lbl":"Neutral"}
+,{"time":"21:01","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Google Maps 8-bit for NES\u0022: http://t.co/T7iGAaC9 @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
+,{"time":"21:17","usr":"ganaxicapital","txt":"Commented on: \u0022Top Social Media Stock Picks By The World\u0027s Largest Fund Managers\u0022 http://t.co/V7jPjQJb $ANGI $GOOG $GRPN $LNKD $NTES","lbl":"Neutral"}
 ]

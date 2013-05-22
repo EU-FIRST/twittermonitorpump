@@ -1,7 +1,23 @@
 [
-{"time":"6:31","usr":"DepletedO2","txt":"When deficits start calling - $GOOG $SBUX $AMZN to face UK lawmakers over tax http://t.co/f3mnFT58","lbl":"Negative"}
+{"time":"6:01","usr":"stockticks","txt":"$AMZN News: 2012 Pre-Black Friday Deals and Sales \u2013 Best Amazon Lightning Deals vs. Best \u2026 -... http://t.co/vR2p9L81 #USInternetStocks","lbl":"Neutral"}
+,{"time":"6:05","usr":"inflector","txt":"I think it\u0027s $AMZN review irony day. Up vote the best book reviews as \u0022helpful\u0022 and the worst as not. Expose the facade of review","lbl":"Neutral"}
+,{"time":"6:31","usr":"DepletedO2","txt":"When deficits start calling - $GOOG $SBUX $AMZN to face UK lawmakers over tax http://t.co/f3mnFT58","lbl":"Negative"}
+,{"time":"8:41","usr":"scalextremeinc","txt":"$AMZN CTO: Expanding the #cloud \u2013 introducing the Asia Pacific (Sydney) Region http://t.co/OZ0hkv0B","lbl":"Neutral"}
+,{"time":"9:32","usr":"LimitBuyer","txt":"Watching: $SPY, $AAPL, $GLD, $ESRX, $AMZN amongst others. I\u0027m guessing there will be some great setups forming this week - I\u0027m ready!","lbl":"Neutral"}
+,{"time":"10:15","usr":"RenaTrader","txt":"RT @DanZanger: CASH IS KING - My motto for over 13 years when markets act like this :) $SPX $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"11:02","usr":"bilaterlmnopoly","txt":"$SBUX $AMZN $GOOG to face questioning in UK over tax strategies http://t.co/jYEk9EMl","lbl":"Neutral"}
+,{"time":"11:04","usr":"MoneyShows","txt":"$AAPL $AMZN $SPY Will Santa Smile On Apple and Amazon? http://t.co/6aGiIABr","lbl":"Neutral"}
+,{"time":"12:04","usr":"LizMani","txt":"RT @SAI: Microsoft Is Beating Google For Big Cloud Deals Because It\u0027s Hungrier $MSFT $GOOG $AMZN $TM by @Julie188 http://t.co/g0haKY1J","lbl":"Neutral"}
+,{"time":"12:05","usr":"wallstCS","txt":"Are These Top Tech Companies Too Big to Fail? http://t.co/PEvRuSp3 $GOOG $AAPL $AMZN $FB $MSFT #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"13:17","usr":"margaretmpd","txt":"RT @SAI: Microsoft Is Beating Google For Big Cloud Deals Because It\u0027s Hungrier $MSFT $GOOG $AMZN $TM by @Julie188 http://t.co/g0haKY1J","lbl":"Neutral"}
 ,{"time":"13:53","usr":"pburelli","txt":"RT @CNNMoney: How four companies took over the Internet http://t.co/wUM5bz9r $AAPL, $GOOG, $FB, $AMZN","lbl":"Positive"}
 ,{"time":"13:53","usr":"pedrorolandaba2","txt":"RT @CNBCnow: Amazon received a $252 million demand from the French tax authorities for back taxes, interest and more. (via Reuters) $AMZN","lbl":"Negative"}
+,{"time":"14:47","usr":"wealthyinvest","txt":"America Stop Whining, The #Economy Is Recovering http://t.co/ieX4whWP $AAPL $AMZN $BAC $F","lbl":"Neutral"}
+,{"time":"15:28","usr":"CNNMoney","txt":"How 4 tech companies took over the internet. http://t.co/4r79I37e $AAPL $AMZN $FB $GOOG","lbl":"Neutral"}
+,{"time":"15:29","usr":"GOTGA","txt":"RT @CNNMoney: How 4 tech companies took over the internet. http://t.co/4r79I37e $AAPL $AMZN $FB $GOOG","lbl":"Neutral"}
+,{"time":"16:07","usr":"TMFBreaking","txt":"U.K. scrutinizes the taxes paid by $SBUX, $GOOG, $AMZN. http://t.co/spa8GdFN","lbl":"Neutral"}
 ,{"time":"16:08","usr":"YahooFinance","txt":"UK lawmakers slam #Starbucks, #Amazon and #Google on #tax (via @Reuters) $SBUX $AMZN $GOOG http://t.co/MTlOpVl9","lbl":"Negative"}
+,{"time":"18:06","usr":"MichaelKrey","txt":"Zev Laderman knew his cloud biz would work well with Amazon\u0027s. The trick was convincing $AMZN. http://t.co/YwO4Vllf","lbl":"Neutral"}
 ,{"time":"20:42","usr":"m168angels","txt":"Amazon Faces $252 Million Fine In France Over Taxes, Prepares To Legally Challenge The Accusation $AMZN http://t.co/44Gc1jDT via @TechCrunch","lbl":"Negative"}
+,{"time":"20:49","usr":"Lawndale1","txt":"http://t.co/2SyCPYE1 Mediaweek: Sky shuts out Netflix and LoveFilm with deal for Universal films $MFLX $AMZN","lbl":"Neutral"}
 ]

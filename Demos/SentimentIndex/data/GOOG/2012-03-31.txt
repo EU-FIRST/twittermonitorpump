@@ -1,9 +1,16 @@
 [
 {"time":"7:00","usr":"randallh","txt":"\u201C@spelton: I\u0027m sick to death of Android | ZDNet http://t.co/XTUOVT3U (via Instapaper)\u201D $GOOG inept at updates?","lbl":"Negative"}
+,{"time":"7:24","usr":"OgFOMK","txt":"$goog $amzn $aapl Why Amazon can\u0027t win the tablet war with Google http://t.co/YpPMjRQD","lbl":"Positive"}
 ,{"time":"7:24","usr":"Grant_Case","txt":"Why Google Might Be Going to $0 http://t.co/YWWAE3RW via @techcrunch @djacome $VRNG $GOOG - Interesting patent case coming to AdSense","lbl":"Negative"}
+,{"time":"7:32","usr":"SAI_Tools","txt":"It Looks Like Google\u0027s First \u0027Nexus Tablet\u0027 Could Launch Very Soon $GOOG by @stevekovach http://t.co/zPjZiwrR","lbl":"Neutral"}
+,{"time":"8:53","usr":"wawam","txt":"RT @JoshNursing: BlackBerry maker RIM abandons battle with iPhone and Android http://t.co/YKI1czWs via @zite $RIMM $AAPL $GOOG $ARMH","lbl":"Neutral"}
 ,{"time":"8:53","usr":"macko71","txt":"RT @SAI: JAMES ALTUCHER: A New Patent-Infringement Lawsuit Could Totally Demolish Google\u0027s Stock $GOOG by @hblodget http://t.co/1QfU0Tmn","lbl":"Negative"}
 ,{"time":"8:58","usr":"dschorrnyc","txt":"Ugh. More patent BS. Why Google Might Be Going to $0 http://t.co/dILVdYKG $GOOG","lbl":"Negative"}
 ,{"time":"9:00","usr":"elgrom","txt":"RT @SAI: JAMES ALTUCHER: A New Patent-Infringement Lawsuit Could Totally Demolish Google\u0027s Stock $GOOG by @hblodget http://t.co/1QfU0Tmn","lbl":"Negative"}
 ,{"time":"12:27","usr":"ZisblU4U","txt":"the $goog marketing platform is a #virus by #definition . nit needs to be eradicated . if not Congressionally ? then in the #marketplace .","lbl":"Negative"}
+,{"time":"12:45","usr":"Goodlett","txt":"Well done execution @PlexAppp on $MSFT, plus discuss on delta of $AAPL and $GOOG #Android dev environments for ur app http://t.co/y0oNvJfT","lbl":"Neutral"}
 ,{"time":"18:54","usr":"OptionsTrader82","txt":"5 More Tech Stocks That Are Making Me Rich $RAX $RVBD http://t.co/QS5VW2ip $GOOG $AAPL","lbl":"Positive"}
+,{"time":"18:54","usr":"OptionsTrader82","txt":"$GOOG Is Google Better Off Killing Android? http://t.co/KfqIeSbz $AAPL","lbl":"Neutral"}
+,{"time":"18:55","usr":"OptionsTrader82","txt":"Why Steve Jobs Can Rest Easy $AAPL $GOOG http://t.co/HXKrr0WW","lbl":"Neutral"}
+,{"time":"19:04","usr":"ValaAfshar","txt":"Is Technology A Zero-Sum Game? http://t.co/SQXHbEPe by @ashkan $AAPL $GOOG $MSFT #CIO #Tech","lbl":"Neutral"}
 ]

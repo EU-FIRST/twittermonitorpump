@@ -1,13 +1,38 @@
 [
-{"time":"10:26","usr":"go2sheth","txt":"RT @SAI: Android Tablet Sales Stink, And Google\u0027s Awkward Embrace Of Motorola Isn\u0027t Going To Help $GOOG by @mattlynley http://t.co/nvB4qMMo","lbl":"Negative"}
+{"time":"7:13","usr":"lluccipha","txt":"SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $T by @_dtl http://t.co/Cwr3xHfT","lbl":"Neutral"}
+,{"time":"7:18","usr":"BradBennett","txt":"U.S. Air Force command will replace paper manuals with 18,000 #Apple iPads... http://t.co/JoSS4Ujo #IT #CIO #CoIT #Gov20 $AAPL $GOOG #x","lbl":"Neutral"}
+,{"time":"7:22","usr":"nansykoulouri","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $T by @_dtl http://t.co/36HeGgqn","lbl":"Neutral"}
+,{"time":"7:23","usr":"best_n_korea","txt":"Generally speaking this is how I make investment decisions. $$ $SPY $bidu $goog $JPM $ge $iwm #stocks http://t.co/46lRymy8","lbl":"Neutral"}
+,{"time":"9:26","usr":"McCannToday","txt":"RT @SAI: Meet The Lawyer/Consultant Google Is Putting In Charge Of It\u0027s $12.5 Billion Dead Elephant $GOOG by @mattlynley http://t.co/b8FcmsxO","lbl":"Neutral"}
+,{"time":"9:28","usr":"carmelsurfer","txt":"@tomer777 $GOOG has been going sideways for 5 months, its under its 50ma & possible big H&S, risk/reward was right, 620 line in sand","lbl":"Neutral"}
+,{"time":"10:25","usr":"MJMIPAttorneys","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $T by @_dtl http://t.co/36HeGgqn","lbl":"Neutral"}
+,{"time":"10:26","usr":"go2sheth","txt":"RT @SAI: Android Tablet Sales Stink, And Google\u0027s Awkward Embrace Of Motorola Isn\u0027t Going To Help $GOOG by @mattlynley http://t.co/nvB4qMMo","lbl":"Negative"}
+,{"time":"10:26","usr":"BiotechMd","txt":"I\u0027d be lost w/o them RT @FierceBiotech: Roche getting entire workforce to use Google Apps http://t.co/oQZvUdHD $RHHBY $GOOG","lbl":"Neutral"}
 ,{"time":"10:27","usr":"beenswank","txt":"RT @SAI: Android Tablet Sales Stink, And Google\u0027s Awkward Embrace Of Motorola Isn\u0027t Going To Help $GOOG by @mattlynley http://t.co/2Q4IStrF","lbl":"Negative"}
 ,{"time":"11:24","usr":"MogulAzam","txt":"RT @FierceBiotech: Roche getting entire workforce to use Google Apps http://t.co/wBoWGjJu $RHHBY $GOOG","lbl":"Positive"}
 ,{"time":"11:25","usr":"MrHeardBusiness","txt":"RT @businessinsider: Android Tablet Sales Stink, And Google\u0027s Awkward Embrace Of Motorola Isn\u0027t Going To Help $GOOG by @mattlynley http://t.co/ghe4UcxD","lbl":"Negative"}
+,{"time":"11:25","usr":"i_am_ninja_cat","txt":"Google X research facility and its secret projects http://t.co/eP6ZETOG #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"11:25","usr":"thefinancepress","txt":"$GOOG Credit-Card Companies Sign Up With Mobile-Payments Venture: Credit-Card Companies Sign Up With Mobile-Pay... http://t.co/VWxk4Vjf","lbl":"Neutral"}
+,{"time":"12:28","usr":"lluccipha","txt":"SAI: Google\u0027s Own \u0027About Page\u0027 Reveals How Far The Company Has Strayed From Its \u0027Core Principals\u0027 $GOOG by @mattlynley http://t.co/zwFjCjLM","lbl":"Neutral"}
 ,{"time":"12:30","usr":"_nat","txt":"RT @SAI: Google\u0027s Own \u0027About Page\u0027 Reveals How Far The Company Has Strayed From Its \u0027Core Principals\u0027 $GOOG by @mattlynley http://t.co/cQOFKudc","lbl":"Negative"}
 ,{"time":"12:30","usr":"MassageBucks","txt":"RT @SAI: Google\u0027s Own \u0027About Page\u0027 Reveals How Far The Company Has Strayed From Its \u0027Core Principals\u0027 $GOOG by @mattlynley http://t.co/cQOFKudc","lbl":"Negative"}
+,{"time":"12:32","usr":"Gearheadgal","txt":"RT @businessinsider Google\u0027s Own \u0027About Page\u0027 Reveals How Far The Company Has Strayed From Its \u0027Core Principals\u0027 $GOOG http://t.co/USN7mqKo","lbl":"Neutral"}
 ,{"time":"13:30","usr":"CanBirsay","txt":"RT @SAI: Here\u0027s How Facebook Is Bypassing Google For Mobile Apps $GOOG $FB by @MattRosoff http://t.co/c2I2AF8U","lbl":"Negative"}
 ,{"time":"13:32","usr":"offtheroad","txt":"RT @SAI: Here\u0027s How Facebook Is Bypassing Google For Mobile Apps $GOOG $FB by @MattRosoff http://t.co/um1w2ECZ","lbl":"Negative"}
+,{"time":"13:33","usr":"simonrussell77","txt":"RT @SAI: Here\u0027s How Facebook Is Bypassing Google For Mobile Apps $GOOG $FB by @MattRosoff http://t.co/c2I2AF8U","lbl":"Neutral"}
+,{"time":"14:40","usr":"RoccoPendola","txt":"Commented on: \u0022MBAs, Gimmicks and Apple\u0027s Culture\u0022 http://t.co/RjcWED9B $AMZN $DELL $FB $GOOG $MSFT $NFLX $AAPL","lbl":"Neutral"}
 ,{"time":"14:48","usr":"terranovajoe","txt":"Holding Long $IBM $MCD $EMC $OXY $LQD vs the only short I have $GOOG","lbl":"Negative"}
+,{"time":"14:55","usr":"barronstechblog","txt":"Nokia: Small Steps to Turnaround at MWC, Says Wells - Tech Trader Daily - Barron\u0027s $NOK $MSFT $RIMM $AAPL $GOOG http://t.co/D9Ygbwjc","lbl":"Neutral"}
+,{"time":"16:33","usr":"whataboutbob","txt":"RT @businessinsider: 17 Brand Spanking New Smartphones And Tablets You Need To Know About $GOOG $NOK by @nattgarun http://t.co/oWhwaKZY","lbl":"Neutral"}
+,{"time":"16:33","usr":"AntonioReyX360","txt":"@SAI @nattgarun what ? 17 brand new Chinese children are being spanked for not stealing samsungs new smartphone tech for apple ? $GOOG $NOK","lbl":"Neutral"}
+,{"time":"16:34","usr":"stockticks","txt":"$PCLN - Up 5.5% After Hours on Q4 and Year End 2011 Earnings Beat $PCLN - Up 5.5% http://t.co/NptEGytK $GOOG $CTRP $EXPE","lbl":"Neutral"}
+,{"time":"16:35","usr":"cj_barbee","txt":"RT @businessinsider: 17 Brand Spanking New Smartphones And Tablets You Need To Know About $GOOG $NOK by @nattgarun http://t.co/oWhwaKZY","lbl":"Neutral"}
+,{"time":"18:39","usr":"OpWallStreet","txt":"RT @TorianBrown: Techdirt post about SOPA censored from Google results due to bogus DMCA complain $goog http://t.co/o7Ev9maJ","lbl":"Neutral"}
+,{"time":"18:39","usr":"jobelenus","txt":"RT @TorianBrown: Techdirt post about SOPA censored from Google results due to bogus DMCA complain $goog http://t.co/o7Ev9maJ","lbl":"Neutral"}
+,{"time":"18:39","usr":"vruz","txt":"RT @SAI: One Of Microsoft\u0027s Original Windows Phone Partners Is Running To Android $MSFT $GOOG by @MattRosoff http://t.co/uWxagWhV","lbl":"Neutral"}
+,{"time":"18:39","usr":"christiansurchi","txt":"RT @SAI: One Of Microsoft\u0027s Original Windows Phone Partners Is Running To Android $MSFT $GOOG by @MattRosoff http://t.co/uWxagWhV","lbl":"Neutral"}
 ,{"time":"20:10","usr":"haplesswisdom","txt":"RT @SAI: Google Is Hiring Engineers To Test Its Self-Driving Cars $GOOG by @MattRosoff http://t.co/IK4rmZBe","lbl":"Positive"}
+,{"time":"20:10","usr":"Bluchipstockpix","txt":"RT @JackDamn: Facebook users spend 405 minutes/month on site. Google+ users? 3 minutes. http://t.co/TgZ2RDk4 $GOOG $FB","lbl":"Neutral"}
 ,{"time":"20:10","usr":"chrishar00","txt":"RT @JackDamn: Facebook users spend 405 minutes/month on site. Google+ users? 3 minutes. http://t.co/TgZ2RDk4 $GOOG $FB","lbl":"Negative"}
+,{"time":"20:13","usr":"bruceallinson","txt":"RT @SAI: Google Is Hiring Engineers To Test Its Self-Driving Cars $GOOG by @MattRosoff http://t.co/IK4rmZBe","lbl":"Neutral"}
 ]

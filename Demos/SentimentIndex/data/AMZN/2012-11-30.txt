@@ -1,6 +1,19 @@
 [
-{"time":"8:43","usr":"STL_Trader22","txt":"$AMZN still pretty extended, very shortable from 252","lbl":"Negative"}
+{"time":"8:38","usr":"LittleBigFilmCo","txt":"RT @LukeRomyn: Escape into imagination with these four incredible thrillers: http://t.co/9hKT6gyX $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"8:43","usr":"STL_Trader22","txt":"$AMZN still pretty extended, very shortable from 252","lbl":"Negative"}
 ,{"time":"8:43","usr":"Mr_Abundance","txt":"RT @BenCBanks: I wouldn\u0027t be the one buying at these levels. Though someone has to if you want to make money. Don\u0027t let it be you. $spy $goog $amzn","lbl":"Negative"}
+,{"time":"9:49","usr":"kennethkowal","txt":"RT @SAI: The Massive Scale Of Amazon\u0027s Distribution Operations, Revealed Through Startling Images $AMZN by @meganrosedickey http://t.co/GAJHS8OE","lbl":"Neutral"}
+,{"time":"10:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:16am: 249.65 -1.62 (-0.64%).","lbl":"Neutral"}
+,{"time":"11:25","usr":"firstadopter","txt":"So $GOOG cutting cloud pricing 30%+ and $AMZN cutting cloud pricing 24-27% this week is good for $RAX right? right? #sarcasm","lbl":"Neutral"}
+,{"time":"12:27","usr":"SeekingAlpha","txt":"Another Distant Mirror: Amazon 2012 Vs. Cisco 2000 http://t.co/rqd4ja0C $AAPL $CSCO $WMT $AMZN","lbl":"Neutral"}
+,{"time":"12:27","usr":"BioFares","txt":"RT @SeekingAlpha: Another Distant Mirror: Amazon 2012 Vs. Cisco 2000 http://t.co/rqd4ja0C $AAPL $CSCO $WMT $AMZN","lbl":"Neutral"}
+,{"time":"13:32","usr":"ZeroSkewl","txt":"RT @SeekingAlpha How Much Profit Will Amazon Eventually Make? http://t.co/mvvRqxcb $AMZN","lbl":"Neutral"}
+,{"time":"14:00","usr":"scalextremeinc","txt":"$AMZN CTO: Back-to-Basics Weekend Reading - Sparse Partitions http://t.co/MAuZnbgr","lbl":"Neutral"}
+,{"time":"14:40","usr":"CharlieHappenin","txt":"RT @LukeRomyn: Rock your #Kindle with Books 1 and 2 of The Prometheus Wars saga: http://t.co/973qd7QK $AMZN #bestseller","lbl":"Neutral"}
+,{"time":"15:23","usr":"MariettaXpress","txt":"Google Is Going On An Acquisition Spree To Compete With Amazon $GOOG $AMZN by @owenthomas http://t.co/bMv3w4uU","lbl":"Neutral"}
 ,{"time":"15:52","usr":"swamptrade","txt":"$GOOG $AMZN $FB HOD","lbl":"Positive"}
+,{"time":"16:26","usr":"etrade","txt":"Get the outlook on $AMZN and see what\u2019s impacting its stock price at E*TRADE http://t.co/lb76fkGe","lbl":"Neutral"}
+,{"time":"17:51","usr":"USwwwStocks","txt":"$AMZN News: South America vs. http://t.co/mcOt5byj? Brazil, Parue take Internet giant http://t.co/bNKoW6oX #Amazoncom #America #AMZN","lbl":"Neutral"}
+,{"time":"17:54","usr":"rocco_thestreet","txt":"Watson $CVX Bezos $AMZN Schultz $SBUX Doyle $DPZ Excited entrepreneurs like my friend @manojrao The best CEOs! http://t.co/qjbelOn9","lbl":"Neutral"}
 ,{"time":"22:14","usr":"sciencetrader","txt":"best stock to watch is $AMZN if isn\u0027t stopped near 265 it may keep going and don\u0027t know where it will stop, maybe next $EBAY","lbl":"Positive"}
 ]

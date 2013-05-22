@@ -1,4 +1,35 @@
 [
-{"time":"8:45","usr":"takingstock614","txt":"$AMZN back above 260 okay.","lbl":"Positive"}
+{"time":"6:07","usr":"tkuz4u","txt":"RT @StockTwits: $AAPL Market Cap ($700B) > $GOOG + $MSFT + $AMZN + $FB ($655B) ht @djpad & @lubjo81","lbl":"Neutral"}
+,{"time":"6:09","usr":"Phoenixx138","txt":"Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from @allabouttrends on Tuesday.","lbl":"Neutral"}
+,{"time":"6:11","usr":"mohamed_ahed","txt":"RT @StockTwits $AAPL Market Cap ($700B) > $GOOG + $MSFT + $AMZN + $FB ($655B) ht @djpad & @lubjo81","lbl":"Neutral"}
+,{"time":"6:50","usr":"maks_kp","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:50","usr":"vineetter","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:51","usr":"jefreybulla","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"7:26","usr":"CarthicKamesh","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"7:26","usr":"severinhacker","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"7:26","usr":"atkachenka","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"7:27","usr":"qerive","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"8:04","usr":"sachinagarwal","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"8:04","usr":"arielisaac","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"8:06","usr":"juha_tauriainen","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"8:42","usr":"trackmanish","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"8:45","usr":"takingstock614","txt":"$AMZN back above 260 okay.","lbl":"Positive"}
+,{"time":"9:16","usr":"alexsauceda","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"9:17","usr":"newsagg","txt":"$AAP< $LULU $GOOG $AMZN all looking to grind to top of 10d60m linreg100 http://t.co/hq2tYgvJ","lbl":"Neutral"}
+,{"time":"9:58","usr":"lucyk","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"9:59","usr":"seeminglee","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"10:51","usr":"santoshn","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"10:52","usr":"ioannispl","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"10:54","usr":"henrygambell","txt":"Markets a little soft/sideways, no real conviction yet. Holding $UNG - Following $FXE $AMZN $GOOG http://t.co/CVISTJBG","lbl":"Neutral"}
+,{"time":"10:56","usr":"SameerSoman","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"12:00","usr":"jwhat","txt":"RT @SAI: Here\u0027s Why It\u0027s Silly To Opt Out Of Amazon Ads On Your Kindle $AMZN by @_dtl http://t.co/H3EMNTQ1","lbl":"Neutral"}
+,{"time":"12:03","usr":"ektorf","txt":"RT @SAI: Here\u0027s Why It\u0027s Silly To Opt Out Of Amazon Ads On Your Kindle $AMZN by @_dtl http://t.co/H3EMNTQ1","lbl":"Neutral"}
+,{"time":"13:02","usr":"gauravparmarr","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"13:03","usr":"ROCIOYAGO","txt":"RT @businessinsider: Four Easy Ways To Simplify Your Tech Life $AAPL $GOOG $NFLX $AMZN by @_dtl http://t.co/6XsJEDr8","lbl":"Neutral"}
+,{"time":"13:08","usr":"TheLioncom","txt":"Momo breakout stocks $FB Facebook $GOOG Google $AAPL Apple $LNKD $ZNGA $PPHM $THLD $BIDU $AMZN Amazon $EBAY trade em! http://t.co/u5Ktf7He","lbl":"Neutral"}
+,{"time":"14:37","usr":"hittrading","txt":"#APPLE worth more than other big 4 combined: $AAPL Market Cap ($700B) > $GOOG + $MSFT + $AMZN + $FB ($655B) via StockTwits","lbl":"Neutral"}
+,{"time":"14:37","usr":"ShimmerSEO","txt":"#APPLE worth more than other big 4 combined: $AAPL Market Cap ($700B) > $GOOG + $MSFT + $AMZN + $FB ($655B) via StockTwits","lbl":"Neutral"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"Creating An Investing Strategy And Sticking With It http://t.co/pWMbSGvq $AMZN $KO $WMT","lbl":"Neutral"}
+,{"time":"16:27","usr":"kenjotto","txt":"$AMZN This was a stupid entry, but I may get lucky. Earnings in a month may help- http://t.co/95LyLiTS [ http://t.co/L2pPgKmA ] #stockcharts","lbl":"Neutral"}
 ,{"time":"19:52","usr":"ChristianMRicci","txt":"It looks like Amazon achieved what they set out to accomplish. They figured out how to sell fashion. Bye Endless. $AMZN http://t.co/VUpGnAjL","lbl":"Positive"}
 ]

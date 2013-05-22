@@ -1,9 +1,37 @@
 [
-{"time":"11:35","usr":"BuyOnTheDip","txt":"added one more $GOOG 575 Feb $CALL @ $10.00","lbl":"Positive"}
+{"time":"0:11","usr":"thekeikoshow","txt":"Currently holding $ATI $BAC $NG $SBUX (hedging w/$FAS) and getting killed on $GOOG","lbl":"Neutral"}
+,{"time":"7:23","usr":"dzdock","txt":"RT @businessinsider: Stop What You\u0027re Doing, And Go See What Google Thinks It Knows About You $GOOG by @jyarow http://t.co/chw34wUX","lbl":"Neutral"}
+,{"time":"7:23","usr":"marinamendez","txt":"10 Things You Need To Know This Morning $AAPL $MSFT $GOOG by @_dtl http://t.co/n4tKVlqq","lbl":"Neutral"}
+,{"time":"7:30","usr":"ggarrisonj09","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $MSFT $GOOG by @_dtl http://t.co/oFX2bEKE","lbl":"Neutral"}
+,{"time":"7:31","usr":"kcassandra","txt":"RT @SAI: Google Is Changing Its Privacy Policy To Share Your Data Between Its Services $GOOG by @MattRosoff http://t.co/uYrXH4BX","lbl":"Neutral"}
+,{"time":"9:18","usr":"wallstCS","txt":"Wall Street Brief: Greece Again, Nokia and Netflix Earnings http://t.co/kJPMMUsX $AAPL $GOOG $NFLX $MMI $NOK $TBT $TLT #mkt","lbl":"Neutral"}
+,{"time":"9:18","usr":"rhbinvest","txt":"#Foursquare Is Poaching Talent Like Crazy From #Google $GOOG | #NASDAQ http://t.co/ffTKJiM7","lbl":"Neutral"}
+,{"time":"9:18","usr":"lluccipha","txt":"SAI: Foursquare Is Poaching Talent Like Crazy From Google $GOOG by @mattlynley http://t.co/fOHOTxGD","lbl":"Neutral"}
+,{"time":"9:54","usr":"Brendan_Henry","txt":"Selling strangles at 1 std deviation on earnings rpts for big tech NOT working $GOOG, $AAPL, $NFLX.","lbl":"Neutral"}
+,{"time":"9:54","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) To Begin Weather Warnings: Google Inc. (NASDAQ:GOOG) To Begin Weather Warnings ... http://t.co/IT543ysN","lbl":"Neutral"}
+,{"time":"10:30","usr":"parklandtrader","txt":"@GuyAdami @cnbcfastmoney Any interest in $GOOG at this 560-570 level??","lbl":"Neutral"}
+,{"time":"10:30","usr":"YW_MF","txt":"$amzn $goog $nflx $aapl $bac $gs $c $jpm ----","lbl":"Neutral"}
+,{"time":"10:30","usr":"Number4Six","txt":"RT @SAI: Gmail\u0027s Iconic Logo Was Thrown Together The Night Before It Debuted $GOOG by @hamburger http://t.co/PrVQS18M","lbl":"Neutral"}
+,{"time":"10:30","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Giving Chromebooks Away In US: Google Inc. (NASDAQ:GOOG) Giving Chromebooks Awa... http://t.co/iyD6dlMO","lbl":"Neutral"}
+,{"time":"11:34","usr":"wallstdaily","txt":"\u201CMade in America\u201D Means Nothing to Apple Investors: http://t.co/SF9cFVFu $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"11:35","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/39, $SPY/29, $NFLX/18, $JCP/16, $T/14, $CAT/13, $GOOG/10, $GLD/10. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"11:35","usr":"BrianSHall","txt":"Google users are like crack whores. ($GOOG) http://t.co/ODuPtF9D","lbl":"Neutral"}
+,{"time":"11:35","usr":"BuyOnTheDip","txt":"added one more $GOOG 575 Feb $CALL @ $10.00","lbl":"Positive"}
 ,{"time":"12:23","usr":"SAI","txt":"This Fishy Report Says Android Tablets Are Eating Away At The iPad $AAPL $GOOG by @stevekovach http://t.co/Rwj00PYX","lbl":"Positive"}
 ,{"time":"12:23","usr":"DanielLynchJr","txt":"RT @ElliotTurn: @arikuchinsky asks if \u0022Google+ is worth $100 Billion?\u0022 http://t.co/TfnnP786 If that\u0027s the case, I must up the $0 I give it in my $GOOG model","lbl":"Negative"}
+,{"time":"12:25","usr":"optionspirate","txt":"iPhones for Psychos http://t.co/Q4LCz919 #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
 ,{"time":"12:26","usr":"18thanwa","txt":"RT @StockTwits: $GOOG is Great, $AAPL is Magnificent... and ELEVEN Year Highs in The Nasdaq http://t.co/rtYlW8EM","lbl":"Positive"}
 ,{"time":"13:09","usr":"StocialPicks","txt":"Pooja made a pick on Stocial. Long $GOOG at 570.86. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"13:15","usr":"limejive","txt":"Google - Changes to Google Privacy Policy, Terms of Service - $GOOG #sjPrivacy Principles http://t.co/BB6RUKad","lbl":"Neutral"}
+,{"time":"13:17","usr":"wallstCS","txt":"http://t.co/gHRWI5iz Inc. Fourth Quarter Earnings Sneak Peek http://t.co/JHC60y4S $SPY $AMZN $EBAY $WMT $OSTK $GOOG $BKS $COST #stocks #mkt","lbl":"Neutral"}
+,{"time":"13:17","usr":"limejive","txt":"Google Terms of Service \u2013 Change in effect Mar 1 2012 -- #sjTOS $GOOG http://t.co/jn9Pitzl","lbl":"Neutral"}
 ,{"time":"15:04","usr":"macroQmicro","txt":"$GOOG October gap-up from 559 remains unfilled; now 567 perhaps it will have the courtesy to do so. http://t.co/r86AZk17 #WORDEN","lbl":"Negative"}
+,{"time":"15:42","usr":"ubervgeek","txt":"@terranovajoe $GOOG getting closer to the ref point 562.50 you guys talked about","lbl":"Neutral"}
+,{"time":"16:50","usr":"SeekingAlpha","txt":"Will The New CEO Of Research In Motion Strike Fear Into Apple, Google And Microsoft? http://t.co/xbK0lgge $AAPL $GOOG $MSFT $NOK","lbl":"Neutral"}
+,{"time":"16:51","usr":"TrendRida","txt":"RT @howardlindzon: NEW Blog Post - http://t.co/GcU0Owe1 Google is Great..Apple is Magificent.The Nasdaq is at 11 year Highs $AAPL $goog $qqq","lbl":"Neutral"}
+,{"time":"18:35","usr":"stocial","txt":"60 minute Trending Social Volume: $SBUX/16, $AAPL/16, $NFLX/12, $RIG/9, $SPY/7, $XOM/5, $T/4, $GOOG/4, $JNPR/4. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"18:36","usr":"badgerdigital","txt":"Oh, so that\u0027s why they take up 80% of the page.. >> RT @SAI: Google: \u0022Ads Are Just More Answers\u0022 $GOOG by @MattRosoff http://t.co/J62fTXkS\u201D","lbl":"Neutral"}
+,{"time":"18:38","usr":"1nvestor","txt":"$GOOG is now set up for a Spread DB B/D on the 568 print today - on the PnF chart. 560 is the Asc TR below, the target.","lbl":"Neutral"}
 ,{"time":"20:57","usr":"macroaxis","txt":"Google Inc $GOOG A Little Down.: http://t.co/7pPCVoVm","lbl":"Negative"}
+,{"time":"20:59","usr":"top_stock_news","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/EfWjSGym #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
 ]

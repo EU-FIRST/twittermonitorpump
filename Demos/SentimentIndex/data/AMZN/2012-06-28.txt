@@ -1,11 +1,23 @@
 [
-{"time":"1:08","usr":"jaystox","txt":"$GOOG tablet probably hurts $AMZN more than $AAPL.","lbl":"Negative"}
+{"time":"1:07","usr":"jaystox","txt":"So $GOOG decided to make a POS tablet just like $AMZN and $RIMM to compete with NON-POS devices from $AAPL. Why not make a good one????","lbl":"Neutral"}
+,{"time":"1:08","usr":"jaystox","txt":"$GOOG tablet probably hurts $AMZN more than $AAPL.","lbl":"Negative"}
+,{"time":"2:00","usr":"SeekingAlpha","txt":"Tablet War: Winners, Losers, And Implications To Your Portfolio http://t.co/2GuskQmp $AAPL $AMZN $BKS $MSFT $GOOG","lbl":"Neutral"}
 ,{"time":"8:37","usr":"daytradingradio","txt":"$AMZN pushing the lows of the day","lbl":"Negative"}
 ,{"time":"8:41","usr":"Alvari40","txt":"Out of overnight $AMZN short @ BE","lbl":"Positive"}
+,{"time":"8:44","usr":"barronstechblog","txt":"This Morning: More Pain for Drive Makers, Nexus Goes up Against Kindle - Tech Trader Daily- $STX $WDC $GOOG $AMZN $QCOM http://t.co/5kHDH3RA","lbl":"Neutral"}
 ,{"time":"9:17","usr":"Minyanville","txt":"Google\u0027s Nexus 7 is competing with the Nook and Kindle, not the #iPad http://t.co/taF348x3 $GOOG $AMZN $AAPL $BKS @michaelcomeau","lbl":"Negative"}
+,{"time":"9:18","usr":"AlphaVN","txt":"Equinix\u0027s stock running slightly ahead of their business $EQIX $VMW $MSFT $AMZN http://t.co/xzbrpqY1","lbl":"Neutral"}
 ,{"time":"9:22","usr":"abebut","txt":"@MichaelComeau still, $AMZN Fire doesn\u0027t work to full potential unless you register and run it with Google account, ... http://t.co/wIJVPn99","lbl":"Negative"}
+,{"time":"10:10","usr":"retail_sails","txt":"Amazon skates into action-sports business http://t.co/TUXn61Go $AMZN #retail","lbl":"Neutral"}
+,{"time":"11:27","usr":"stuffandplayx","txt":"RT @barronsonline: Google: Street Skeptical \u2018Nexus 7\u2032 to Turn Android Tablet Tide Against Apple http://t.co/GcACy6lR $GOOG $AAPL $AMZN $MSFT $HPQ $NVDA #ipad","lbl":"Neutral"}
 ,{"time":"12:54","usr":"BayesTrader","txt":"CALL $AMZN Price:219.71 P:855 T:7d 13:54 EDT #stocks $$","lbl":"Positive"}
 ,{"time":"13:00","usr":"danielhsqr","txt":"$GOOG going after $AMZN AWS with Google Compute Engine, another pt for @firstadopter ?","lbl":"Negative"}
 ,{"time":"13:40","usr":"Jamtrades","txt":"RT @douglaskloeker just for fun @Jamtrades just loaded up on some $AMZN 225 calls --- it\u0027s been hit hardest so far today //Watching","lbl":"Positive"}
+,{"time":"16:31","usr":"travid","txt":"RT @samestrin \u201CGoogle launches EC2 rival Compute Engine\u201D http://t.co/iSUS3z8Z #cloud #computing $goog $amzn #startup-tools","lbl":"Neutral"}
+,{"time":"16:33","usr":"Kilheure","txt":"RT @businessinsider: Google Just Declared War On These 12 Products $GOOG $MSFT $AAPL $AMZN $FB by @mwmoretti http://t.co/kW1xu4Eb","lbl":"Neutral"}
+,{"time":"16:33","usr":"HindlesKitchen","txt":"RT @Minyanville: Retailers: Amazon Is Using Your Store as a Showroom and There\u0027s Nothing You Can Do About It http://t.co/u3oe4CSp @vincenttrivett $AMZN $BBY","lbl":"Neutral"}
+,{"time":"17:08","usr":"JonErlichman","txt":"Brian Blair tells @emilychangtv he thinks RIM could cut a deal to sell some of the biz to Amazon $RIMM $AMZN","lbl":"Neutral"}
+,{"time":"18:20","usr":"SeekingAlpha","txt":"Did iPad Just Become Google\u0027s Collateral Damage? http://t.co/k7ycUztx $AAPL $AMZN $MSFT $NOK $GOOG","lbl":"Neutral"}
+,{"time":"18:21","usr":"chuckc44","txt":"RT @SeekingAlpha: HP Will Tumble On Increased Sector Pressures http://t.co/zO4n2cIj $AAPL $AMZN $IBM $NWS $HPQ","lbl":"Neutral"}
 ,{"time":"22:26","usr":"CubbieBears","txt":"$AMZN held 50 day in all the mess","lbl":"Negative"}
 ]

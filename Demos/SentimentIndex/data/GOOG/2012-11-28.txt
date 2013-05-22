@@ -1,17 +1,56 @@
 [
-{"time":"6:46","usr":"BigTicks","txt":"$GOOG News: Google Inc (GOOG)\u0027s Nexus Ramp Starting Slowly: Pacific Crest http://t.co/wnqxJ0wU http://t.co/GlGnAeWP","lbl":"Negative"}
+{"time":"0:18","usr":"dewsdestiny","txt":"\u00AB@Forbes Apple and Google: Why current market share results don\u0027t matter yet http://t.co/fi2RvhoF $AAPL $GOOG\u00BB","lbl":"Neutral"}
+,{"time":"0:18","usr":"AlbertS_NY","txt":"Fiscal Cliff Is More Hype Than Hazard - http://t.co/tWaDlK2u http://t.co/dRfPTNSw via @WSJ $spy $aapl $es_f $goog","lbl":"Neutral"}
+,{"time":"6:26","usr":"labboudles","txt":"Opinion from Jack Shafer: Fake press releases are a public service http://t.co/uPpGqRbj $GOOG","lbl":"Neutral"}
+,{"time":"6:45","usr":"TheStreet","txt":"Apple, Research In Motion, Facebook: Tech Winners & Losers http://t.co/UYfLJ8EQ by @Commodity_Bull $AAPL $GOOG $RIMM","lbl":"Neutral"}
+,{"time":"6:46","usr":"BigTicks","txt":"$GOOG News: Google Inc (GOOG)\u0027s Nexus Ramp Starting Slowly: Pacific Crest http://t.co/wnqxJ0wU http://t.co/GlGnAeWP","lbl":"Negative"}
 ,{"time":"7:56","usr":"abangrombay","txt":"RT @jimcramer: RT @StephanHeibel: how about AAPL / Samsung a duopoly in Smartphones and Tablets? And they succeed! No $MSFT/, no $GOOG. j-funny, wrong","lbl":"Negative"}
+,{"time":"7:57","usr":"SPEQL8R","txt":"$SPY (139.5 ish) gap fill, $VIX $GOOG $AAPL$TOL $UNP $V $MA $GS $JPM mentioned all levels be4; so won\u0027t repeat em. watch these stocks","lbl":"Neutral"}
+,{"time":"7:57","usr":"ebankinggirl","txt":"RT @SAI: 10 Things You Need To Know This Morning $GRPN $AAPL $MSFT $GOOG by @stevekovach http://t.co/ZkkaFEk6","lbl":"Neutral"}
+,{"time":"9:00","usr":"CashBauer","txt":"\u0022A Good $CARB for Your Financial Diet? $GOOG $AAPL\u0022 http://t.co/y5BLFuQt","lbl":"Neutral"}
+,{"time":"9:01","usr":"jchristie60","txt":"RT @jimcramer: Glad Williamson is out at $AAPL. Maybe he secretly worked for $GOOG/Samsung. He did more for them than anyone else i know","lbl":"Neutral"}
+,{"time":"9:02","usr":"burnett139","txt":"@RedDogT3Live do u have a plan/stop on $goog, yet?","lbl":"Neutral"}
+,{"time":"9:45","usr":"Alfietrade","txt":"yesterday felt very choppy, felt like longs wanted out. so now we\u0027ll need to see if new buyers will take over the baton $aapl $goog","lbl":"Neutral"}
+,{"time":"9:46","usr":"racernic","txt":"wow did u see the whip in $GOOG?","lbl":"Neutral"}
 ,{"time":"9:46","usr":"NorthmanTrader","txt":"nasty dump in $GOOG now. I guess no stock or action can be trusted in this market..","lbl":"Negative"}
 ,{"time":"10:15","usr":"Tangletrade","txt":"long some Nov 30 $GOOG $670-685-695 skip strike call bflys for 4.20","lbl":"Positive"}
+,{"time":"10:29","usr":"NorthmanTrader","txt":"if you followed me on all the $GOOG trades i posted you are smiling right now...","lbl":"Neutral"}
+,{"time":"10:30","usr":"z8angela","txt":"@mhigg30247 I got out w/ some loss, #HFT got it down to 664 b4 seeing 675+. $GOOG may re test recent high 680. Will watch& play accordingly.","lbl":"Neutral"}
+,{"time":"10:31","usr":"pennystockguys","txt":"$GOOG - Corning Raises LCD Sales Estimate - Analyst Blog http://t.co/TAf6gzbl","lbl":"Neutral"}
+,{"time":"10:48","usr":"MarketCurrents","txt":"Larry Page met with FTC officials yesterday in an effort to settle the agency\u0027s long-running antitrus... http://t.co/4VbR7UaS $GOOG","lbl":"Neutral"}
 ,{"time":"10:48","usr":"takingstock614","txt":"Back in small wkly $GOOG calls.","lbl":"Positive"}
 ,{"time":"10:48","usr":"pdmclean","txt":"RT @SAI: Here\u0027s Why Google Wallet Hasn\u0027t Been Successful $AAPL $GOOG by @meganrosedickey http://t.co/TUs9HNrV","lbl":"Negative"}
 ,{"time":"11:19","usr":"TechInsiderco","txt":"#StuffMicrosoftSays: \u201CDon\u2019t Get Scroogled\u201D, Launches Holiday Bing Campaign: Microsoft just launche... http://t.co/fV7v1IAA #Google $GOOG","lbl":"Negative"}
+,{"time":"11:19","usr":"Sangluccitrades","txt":"Here\u0027s your $GOOG 680","lbl":"Neutral"}
 ,{"time":"11:20","usr":"takingstock614","txt":"$GOOG wow! This one could see 685-690 quickly.","lbl":"Positive"}
+,{"time":"11:51","usr":"SAI_Tools","txt":"Even If You Order Now, You Probably Won\u0027t Get Google\u0027s Nexus 4 By Christmas $GOOG by @_dtl http://t.co/e6UhNtYN","lbl":"Neutral"}
 ,{"time":"11:51","usr":"SAI","txt":"Even If You Order Now, You Probably Won\u0027t Get Google\u0027s Nexus 4 By Christmas $GOOG by @_dtl http://t.co/JiZTK2ks","lbl":"Negative"}
 ,{"time":"11:51","usr":"stockpickexpert","txt":"$GOOG looks good... Some short-term selling pressure here at resistance...Price target of 687.42 to the upside...","lbl":"Positive"}
+,{"time":"12:23","usr":"KeithBanta1956","txt":"RT @HFTAlert: NEWS ALGOS TOTALLY IN CHARGE TODAY. GOOD LUCK HUMAN. $spy $vxx $aapl $goog http://t.co/bCWzAApT","lbl":"Neutral"}
+,{"time":"13:06","usr":"pennystockguys","txt":"$GOOG - Harris Poll Evaluates Amazon, Nordstrom, L.L. Bean, Zappos and Others In \u00222012 Harris Poll Shopper http://t.co/6AZuhhf5","lbl":"Neutral"}
+,{"time":"13:06","usr":"ADVFNplc","txt":"$GOOG - Harris Poll Evaluates Amazon, Nordstrom, L.L. Bean, Zappos and Others In \u00222012 Harris Poll Shopper http://t.co/Q3DW9Uva","lbl":"Neutral"}
+,{"time":"13:47","usr":"Minyanville","txt":"Microsoft Sells 40 Million Copies of Windows 8 in First Month $MSFT $AAPL $INTC $GOOG http://t.co/dx7SlaJ0","lbl":"Neutral"}
+,{"time":"13:49","usr":"CosmUnity","txt":"RT @Minyanville: Microsoft Sells 40 Million Copies of Windows 8 in First Month $MSFT $AAPL $INTC $GOOG http://t.co/dx7SlaJ0","lbl":"Neutral"}
+,{"time":"14:56","usr":"stockguy22","txt":"wow $GOOG tested $680+ briefly","lbl":"Neutral"}
+,{"time":"14:58","usr":"DCarsonCPA_NYC","txt":"RT @MarketWatch: Google generated $20.8 billion in worldwide ad revenue during the first six months of 2012 http://t.co/C3LBGU4Q $GOOG","lbl":"Neutral"}
+,{"time":"15:14","usr":"tjmoynihan","txt":"New post: Apple Can\u0027t Hold a Tune http://t.co/T6FlFtay $AAPL $P $GOOG $SIRI","lbl":"Neutral"}
+,{"time":"15:14","usr":"srisri55","txt":"Also added $GOOG 685 weeklies for 2.55","lbl":"Neutral"}
+,{"time":"15:14","usr":"parklandtrader","txt":"@cnbcfastmoney @GuyAdami @RedDogT3Live End of month buying.. $FB $GOOG $PCLN $AMZN","lbl":"Neutral"}
 ,{"time":"15:29","usr":"JBling13","txt":"@Fitzstock2004 what a perfect call when $PCLN was still under 650, didn\u0027t play it although doing good on $GOOG. Everything hitting HOD sweet","lbl":"Positive"}
 ,{"time":"15:30","usr":"nxtmillionair40","txt":"@tradefast im actually opposite on them, i like $AAPL longer term but for short term, i like the momentum in $GOOG, maybe less ppl shortn it","lbl":"Positive"}
 ,{"time":"15:53","usr":"JBling13","txt":"out $GOOG $685 calls @ 4.00 from 2.05 entry, gonna play again tomorrow if GDP data good","lbl":"Negative"}
+,{"time":"15:55","usr":"zeb","txt":"Google partners w/ veterans orgs to create VetNet; $goog+ hub for career training & job opportunties ... http://t.co/EOrlpvZA","lbl":"Neutral"}
+,{"time":"15:55","usr":"pennystockguys","txt":"$GOOG - Microsoft CEO: Push Into Tablets Maybe Should Have Happened Sooner http://t.co/bMZffvGl","lbl":"Neutral"}
+,{"time":"16:22","usr":"12Stocks","txt":"Top S&P100 #Stocks Trend $COST $GOOG $UTX $NSC $NKE $ORCL $LMT $BRK-B $AMZN $AAPL $PEP $GD $MMM $WAG $BMY $S @ http://t.co/kwX73og0","lbl":"Neutral"}
+,{"time":"16:22","usr":"reuvenohr","txt":"\u0022@howardlindzon: \u0022@stevenplace: if you made money off my $GOOG or $FSLR calls this week, here\u0027s my charity of choice: http://t.co/AtMNHdkS\u0022\u0022","lbl":"Neutral"}
+,{"time":"16:23","usr":"SKSMediaCyprus","txt":"RT @CBOE: Active Nov weekly\u2019s @ CBOE; $HPQ $C $BAC $INTC $FB $AAPL $AMZN $FSLR $GOOG","lbl":"Neutral"}
+,{"time":"17:15","usr":"day_traders","txt":"$GOOG - TECH STOCKS: Groupon Leads Tech Gains; Workday Also Rises http://t.co/SSsGZTM8","lbl":"Neutral"}
 ,{"time":"17:16","usr":"AlephBlog","txt":"Google Has Officially Eaten the Newspaper Industry http://t.co/TGqEWK7T $GOOG now has more advertising revenue than all print media $$","lbl":"Positive"}
 ,{"time":"18:33","usr":"Jamtrades","txt":"Commented on StockTwits: it was momentum and technicals. $GOOG just kepy making higher highs, and the news was cool ... http://t.co/peyfnCe4","lbl":"Positive"}
+,{"time":"18:35","usr":"jaytayag15","txt":"RT @SAI: The Only Tablets That Mattered In 2012 $AAPL $GOOG $AMZN by @_dtl http://t.co/egDPZ7Mc","lbl":"Neutral"}
+,{"time":"20:03","usr":"12Stocks","txt":"Top Nasdaq100 #Stocks Trend $COST $FSLR $MRVL $GOOG $QGEN $EBAY $SRCL $ADSK $ORCL $ROST $PCAR $ATVI $AMZN $BRCM @ http://t.co/TkOzDWLD","lbl":"Neutral"}
+,{"time":"20:04","usr":"dima767","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 11/28/12 {Video}\u0022 http://t.co/ooTcj5hG $AAPL $AMZN $GOOG $QQQ $SPY $XLF $XLY $XRT #stockaction","lbl":"Neutral"}
+,{"time":"20:05","usr":"12Stocks","txt":"Top S&P100 #Stocks Trend $COST $GOOG $NSC $UTX $NKE $ORCL $LMT $BRK-B $AMZN $AAPL $PEP $GD $WAG $MMM $BMY $S @ http://t.co/kwX73og0","lbl":"Neutral"}
+,{"time":"22:24","usr":"Wealthfront","txt":"What we need is machines with ethics, says @GaryMarcus. http://t.co/shJpTLh8 $GOOG Read more: http://t.co/P8LBLCtC","lbl":"Neutral"}
+,{"time":"22:33","usr":"BenCBanks","txt":"Before I head off to bed, here is the Daily Analysis for anyone who missed it - http://t.co/pyPz9ENi $SPY $AAPL $GOOG $AMZN","lbl":"Neutral"}
 ]

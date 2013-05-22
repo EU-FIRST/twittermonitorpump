@@ -1,6 +1,17 @@
 [
-{"time":"8:28","usr":"tlmontana","txt":"RT @techinsidr: Netflix CEO Slams Amazon Prime Video: \u0027A confusing mess\u0027 http://t.co/3Vr48PoI via @CNET $AMZN $NFLX","lbl":"Negative"}
+{"time":"2:17","usr":"ChrisMole1","txt":"Cloud Computing Technology - Investment Strategy: IBM, Microsoft, Intel, Oracle, Amazon http://t.co/A6uP0So7 $AMZN $IBM $INTC","lbl":"Neutral"}
+,{"time":"5:11","usr":"gspeterson","txt":"RT @JeffMacke: Biz models get old and die. RadioShack\u0027s problem is obsolescence, not ppl buying batteries and speaker wire at $AMZN http://t.co/feZ849ss","lbl":"Neutral"}
+,{"time":"5:17","usr":"bernardlunn","txt":"$linkd seems like $amzn - gr8 company, flawless execution, crazy valuation - will probably always be crazy valuation","lbl":"Neutral"}
+,{"time":"6:52","usr":"rsaintvilus","txt":"Why RIM is Dead and Done - $AMZN, $AAPL, $GOOG, $MSFT, $RIMM - Foolish Blogging Network: http://t.co/kXN5khtt via @themotleyfool","lbl":"Neutral"}
+,{"time":"8:28","usr":"tlmontana","txt":"RT @techinsidr: Netflix CEO Slams Amazon Prime Video: \u0027A confusing mess\u0027 http://t.co/3Vr48PoI via @CNET $AMZN $NFLX","lbl":"Negative"}
 ,{"time":"9:01","usr":"BasinStRecords","txt":"11/3/08 A saved $20K buys $AMZN. B has $20K buys new car. Today: A has $120K $AMZN. B has 4 yr old car worth $10K...","lbl":"Positive"}
+,{"time":"9:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:46am: 252.95 +3.28 (+1.31%).","lbl":"Neutral"}
 ,{"time":"9:02","usr":"CAMAR024","txt":"in $AMZN 255 calls this week. lotto play for tomorrow grabbing early . flag on the 15min","lbl":"Positive"}
 ,{"time":"9:17","usr":"takingstock614","txt":"$AMZN really pushing now. 10min chart had really nice flag.","lbl":"Positive"}
+,{"time":"10:01","usr":"firstadopter","txt":"$AMZN going into small business loan lending business. 13% interest rates: http://t.co/CMirSiK8","lbl":"Neutral"}
+,{"time":"12:30","usr":"jaredMermey","txt":"Bezos (-14.5) Dorsey $$ $AMZN $SQUARE http://t.co/o2JIsWhP","lbl":"Neutral"}
+,{"time":"12:31","usr":"Paid2Trade","txt":"RT @rsaintvilus: RT @rsaintvilus: Why RIM is Dead and Done - $AMZN, $AAPL, $GOOG, $MSFT, $RIMM - Foolish Blogging Network: http://t.co/kXN5khtt via @them ...","lbl":"Neutral"}
+,{"time":"13:10","usr":"SeekingAlpha","txt":"Amazon Pulling Away From The Station http://t.co/hoFe1s1y $EBAY $FB $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"15:42","usr":"JamarParris","txt":"Not surprising...at all. RT @TechCrunch: Amazon Could Be Working On A Square Competitor http://t.co/Df9yAcSU by @leenarao $AMZN","lbl":"Neutral"}
+,{"time":"19:12","usr":"J1Clyde","txt":"RT @TenBaggers: RT @TenBaggers: Why Netflix should worry about Amazon: http://t.co/95uZhiib $NFLX $AMZN","lbl":"Neutral"}
 ]

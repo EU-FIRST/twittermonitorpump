@@ -1,14 +1,41 @@
 [
-{"time":"7:56","usr":"GrandSupercycle","txt":"As mentioned Oct 15: $GOOG day / week / month charts are overextended & significant correction expected - #goog #google #nasdaq #stocks","lbl":"Negative"}
+{"time":"0:01","usr":"RDeanon","txt":"http://t.co/tNV4aHiK $AOL $GOOG $MSFT $RIMM $VHC $VRNG From 2010 to July 4, 2011 VirnetX stock rose from around $3/share to over $38/share","lbl":"Neutral"}
+,{"time":"0:02","usr":"RDeanon","txt":"Vringo: How Mark Cuban\u0027s Large Patent Hedge Bet Could Make A Bundle http://t.co/tNV4aHiK $AOL $GOOG $MSFT $RIMM $VHC $VRNG","lbl":"Neutral"}
+,{"time":"6:20","usr":"TraderArtblog","txt":"RT @businessinsider: Microsoft Is Secretly Testing It\u0027s Own Smartphone $MSFT $AAPL $GOOG $NOK http://t.co/Xa2l6Bmk","lbl":"Neutral"}
+,{"time":"6:20","usr":"Jack_Aspden","txt":"RT @SAI: Microsoft Is Secretly Testing It\u0027s Own Smartphone $MSFT $AAPL $GOOG $NOK http://t.co/fXkBd8tG","lbl":"Neutral"}
+,{"time":"6:22","usr":"jjins","txt":"RT @SAI: Microsoft Is Secretly Testing It\u0027s Own Smartphone $MSFT $AAPL $GOOG $NOK http://t.co/fXkBd8tG","lbl":"Neutral"}
+,{"time":"7:56","usr":"Danurigom","txt":"RT @SAI: Microsoft Is Secretly Testing It\u0027s Own Smartphone $MSFT $AAPL $GOOG $NOK http://t.co/fXkBd8tG","lbl":"Neutral"}
+,{"time":"7:56","usr":"GrandSupercycle","txt":"As mentioned Oct 15: $GOOG day / week / month charts are overextended & significant correction expected - #goog #google #nasdaq #stocks","lbl":"Negative"}
+,{"time":"7:58","usr":"anthonyc3004","txt":"RT @businessinsider: Microsoft Is Secretly Testing It\u0027s Own Smartphone $MSFT $AAPL $GOOG $NOK http://t.co/Xa2l6Bmk","lbl":"Neutral"}
 ,{"time":"9:01","usr":"SuzyQJaco","txt":"$GG calls have time january bought $GOOG calls targeting 720 (Dec)","lbl":"Positive"}
+,{"time":"9:35","usr":"wsmco","txt":"@ChartMoMo you belong in the club. Great $GOOG trade by you.","lbl":"Neutral"}
+,{"time":"9:35","usr":"ArtShop_news","txt":"RT @InvestopediaMkt: #Apple Sends Execs Packing http://t.co/Gtji1FMP #stocks #finance #markets $AAPL #GPS #GAP $GPS #microsoft $MSFT #Google $GOOG","lbl":"Neutral"}
 ,{"time":"10:15","usr":"SupFreshItsHrTn","txt":"$VRNG @jalutcher and his hedge fund buds front run suckers everywhere on a shitty ringtone business w/ stupid dreams of beating $GOOG","lbl":"Positive"}
+,{"time":"10:16","usr":"onlineIDtech","txt":"RT @merket: Watching $VRNG fall off a cliff while the jury deliberates the outcome of $GOOG vs $VRNG patent-troll case\u2026 / $goog =thief","lbl":"Neutral"}
 ,{"time":"10:18","usr":"just4girls1","txt":"RT @QuantRec: $VRNG $GOOG update from edvacourt on jury questions Friday Nov 2nd positive. http://t.co/hHJM1iqk","lbl":"Positive"}
 ,{"time":"10:19","usr":"philoutweet4u","txt":"$VRNG is right and $GOOG infringed patents deliberately and the jury will agree! Can\u0027t wait for the final verdict! $10 pps soon!","lbl":"Negative"}
+,{"time":"11:00","usr":"phoenixy","txt":"RT @SAI: It\u0027s Official: Apple Is Just A Niche Player In Smartphones Now $AAPL $GOOG by @jyarow http://t.co/hiWmby7D","lbl":"Neutral"}
+,{"time":"11:00","usr":"KevinMHughes","txt":"Interesting RT @businessinsider: It\u0027s Official: Apple Is Just A Niche Player In Smartphones Now $AAPL $GOOG by @jyarow http://t.co/e9RGkZLf","lbl":"Neutral"}
 ,{"time":"11:00","usr":"rakstrdr","txt":"@tradejas or it could be that most have decided favorably for $VRNG but there is one holdout favoring $GOOG trying to change everyone\u0027s mind","lbl":"Positive"}
+,{"time":"11:01","usr":"kevingibbon","txt":"Wow. \u201C@SAI: It\u0027s Official: Apple Is Just A Niche Player In Smartphones Now $AAPL $GOOG by @jyarow http://t.co/IEOGDtwr\u201D","lbl":"Neutral"}
 ,{"time":"11:47","usr":"choffman1978","txt":"$CORT rallying back after failed bear raid! Q4 will be amazing!#cnbc,#msnbc,#nyse,#wjs,$p,$s,$bac,$gs,$goog,$sbux,$aapl,$lmca,$dndn,$ctic,","lbl":"Positive"}
+,{"time":"11:47","usr":"paulwoll","txt":"$SIRI sweet chart. :) Still love this play long. Great story. Long term I see value for $msft $goog $amzn $aapl if they bought them out.","lbl":"Neutral"}
+,{"time":"12:36","usr":"mkarimawan","txt":"RT @SAI: Google\u0027s Latest Attempt At An iPad-Killer Has A Great Screen, But Weak Software $AAPL $GOOG by @jyarow http://t.co/I9a7H5VZ","lbl":"Neutral"}
+,{"time":"12:36","usr":"singhnavjeet","txt":"RT @SAI: Google\u0027s Latest Attempt At An iPad-Killer Has A Great Screen, But Weak Software $AAPL $GOOG by @jyarow http://t.co/I9a7H5VZ","lbl":"Neutral"}
 ,{"time":"12:37","usr":"StockMarket411","txt":"Google Stock Hit by Botched Release and Disappointing Earnings $goog http://t.co/bL0KoO5R goog, google, google stock, news","lbl":"Negative"}
+,{"time":"13:32","usr":"wallstCS","txt":"Apple Garners Smaller Crowd and 2 Tech Titans on the Move http://t.co/e8L8Ztg5 $AAPL $GOOG $INTC #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"13:34","usr":"shaneforbes","txt":"Woulda, coulda, shoulda. Didn\u0027t $GOOG offer to buy $GRPN for $6 B or so? $GRPN continues its trajectory into ignominy. #below_4","lbl":"Neutral"}
 ,{"time":"13:35","usr":"ChartMoMo","txt":"bot to cover $goog Nov700 (7) calls. +.80 per contract.","lbl":"Positive"}
+,{"time":"14:27","usr":"OptionAlarm","txt":"$AAPL is done. Now we need $AMZN and $GOOG to flush out too.","lbl":"Negative"}
+,{"time":"14:29","usr":"Squirkler","txt":"@onlineIDtech $GOOG steals patients? And $VRNG makes patients?!?!","lbl":"Neutral"}
+,{"time":"15:05","usr":"rakeshlobster","txt":"$GRPN 1 year results are in: -88% from 52 wk high, -85% from first day close, -81% from offer price, -58% from $GOOG offer","lbl":"Neutral"}
+,{"time":"15:05","usr":"TMFBiggles","txt":"RT @rakeshlobster: $GRPN 1 year results are in: -88% from 52 wk high, -85% from first day close, -81% from offer price, -58% from $GOOG offer","lbl":"Neutral"}
+,{"time":"15:05","usr":"tim","txt":"RT @rakeshlobster: $GRPN 1 year results are in: -88% from 52 wk high, -85% from first day close, -81% from offer price, -58% from $GOOG offer","lbl":"Neutral"}
 ,{"time":"17:23","usr":"ADVFNplc","txt":"$GOOG - Google in Dispute With French Tax Authorities http://t.co/5L7RGDVi","lbl":"Negative"}
+,{"time":"17:23","usr":"trader_trend","txt":"Android on 75% http://t.co/QCbAs216 of smartphones in Q3 $GOOG","lbl":"Neutral"}
 ,{"time":"17:24","usr":"StockMarket411","txt":"Google delivers 3Q letdown early, stock plummets $goog http://t.co/PNZ5YcKu goog, google, google stock, news","lbl":"Negative"}
+,{"time":"17:24","usr":"TechInsiderco","txt":"It\u2019s Alive! Google\u2019s iOS Search App Shows Hints Of Self-Awareness: It may not have a cool name lik... http://t.co/0l63dlAw #Google $GOOG","lbl":"Neutral"}
+,{"time":"21:39","usr":"thefinancepress","txt":"$GOOG Google\u0027s Android software in 3 out of 4 smartphones: Google\u0027s Android software in 3 out of 4 smartphones ... http://t.co/Rk5O9qcH","lbl":"Neutral"}
+,{"time":"21:48","usr":"Carina_Lermon","txt":"Google\u0027s Android software in 3 out of 4 smartphones - Globe and Mail #Android $Goog http://t.co/UaR5glUI","lbl":"Neutral"}
 ,{"time":"21:58","usr":"larryfooter","txt":"@ParHedge @CapCube to be honest, I like $GOOG much more than $AAPL ... but I agree 100% that it\u0027s very cheap here and has good growth","lbl":"Positive"}
 ]

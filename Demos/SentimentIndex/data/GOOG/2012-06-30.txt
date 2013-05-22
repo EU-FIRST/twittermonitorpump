@@ -1,10 +1,36 @@
 [
-{"time":"2:13","usr":"vperrin","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+{"time":"2:09","usr":"StuartMcIntyre","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"2:13","usr":"vperrin","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"2:15","usr":"andrewchen","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"2:17","usr":"nofud","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"3:01","usr":"yusufazoz","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"3:04","usr":"Jameslfc19","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
 ,{"time":"3:05","usr":"thefinancepress","txt":"$GOOG Apple scores second courtroom win vs Samsung: Apple scores second courtroom win vs Samsung CNB... http://t.co/vIH8V4kb","lbl":"Negative"}
+,{"time":"3:05","usr":"ebzlo","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"4:38","usr":"marclipsitz","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"4:40","usr":"ralfvdz","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"4:41","usr":"aklen","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"4:42","usr":"momo_chen","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"5:46","usr":"threadyblock","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"5:47","usr":"mcilderman","txt":"Will #Apple Sell 3D Printers http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google $DDD #Mac #stocks @bitrebels","lbl":"Neutral"}
+,{"time":"5:52","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwlheZfu","lbl":"Neutral"}
+,{"time":"5:56","usr":"DavidSven","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"7:39","usr":"Troller04","txt":"$goog kicker","lbl":"Positive"}
+,{"time":"7:46","usr":"LTommy256","txt":"That\u0027s what I\u0027m talking about--coupons! RT @mdudas: Google\u0027s \u0022Save to Wallet\u0022 API http://t.co/CL4ThM9j $GOOG $EBAY @Square #Foursquare","lbl":"Neutral"}
 ,{"time":"9:18","usr":"pennystockguys","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/Z8VA0KhE","lbl":"Positive"}
+,{"time":"9:18","usr":"ADVFNplc","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/S6pvMqqq","lbl":"Neutral"}
+,{"time":"9:18","usr":"zachvat","txt":"RT @maczter: The iPhone\u2019s Effect on the Phone Industry (Daring Fireball) http://t.co/GAALJuMT $AAPL $GOOG $MSFT $RIMM $NOK $$","lbl":"Neutral"}
+,{"time":"9:19","usr":"thefinancepress","txt":"$GOOG Global Online Video Sharing Industry: Global Online Video Sharing Industry http://t.co/2A8YIvg8 (blog) - 3... http://t.co/oZY7y5xM","lbl":"Neutral"}
+,{"time":"10:44","usr":"steadicat","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"10:49","usr":"arjunsethi","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"10:51","usr":"globaldigerati","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"10:52","usr":"RealSlim123","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"13:08","usr":"flottwell","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"13:13","usr":"lytol","txt":"$GOOG http://t.co/vWxEmrVz","lbl":"Neutral"}
 ,{"time":"13:17","usr":"RainerGrossmann","txt":"#Google vs everyone: an epic war on many fronts http://t.co/J4shrFoW http://t.co/hARUbzue via @geoffmanne #antitrust $GOOG","lbl":"Negative"}
+,{"time":"15:38","usr":"sympmarc","txt":"Apple Stock vs Google Stock Since The Launch Of The iPhone http://t.co/63WUtOz6 $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"15:39","usr":"DenisRykov","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"20:03","usr":"JonFoulkes","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"20:16","usr":"wallstCS","txt":"Apple\u0027s Litigious SWORD and 2 More Top Tech Stories on Saturday http://t.co/iKeWUqd1 $AAPL $ATVI $EA $GOOG $YHOO #stocks","lbl":"Neutral"}
+,{"time":"20:17","usr":"alia1977","txt":"RT @wallstCS: Apple\u0027s Litigious SWORD and 2 More Top Tech Stories on Saturday http://t.co/iKeWUqd1 $AAPL $ATVI $EA $GOOG $YHOO #stocks","lbl":"Neutral"}
 ]

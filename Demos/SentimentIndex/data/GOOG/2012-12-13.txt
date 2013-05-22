@@ -1,17 +1,46 @@
 [
 {"time":"0:51","usr":"gtotoy","txt":"RT @sspencer_smb all the long suffering Iphone users just got $GOOG maps back!! http://t.co/G56m814l $AAPL","lbl":"Positive"}
+,{"time":"0:51","usr":"thefinancepress","txt":"$GOOG Google Releases Map App for iPhone - http://t.co/wJQ1jue1: Google Releases Map App for iPhone ... http://t.co/UBeedKj1","lbl":"Neutral"}
+,{"time":"0:54","usr":"R_Rye","txt":"$GOOG maps are back on the iPhone!","lbl":"Neutral"}
 ,{"time":"4:31","usr":"ccastellano78","txt":"RT @WorldOfCEOs: It\u0027s here. Google Maps for iPhone. http://t.co/mjnztqXi Call us old-fashioned but we much preferred classic Apple version using $GOOG data","lbl":"Positive"}
+,{"time":"4:40","usr":"andyvin11","txt":"RT @mcilderman #Invest In Artificial Intelligence http://t.co/WsZU6NV1 $FB $GOOG $IBM $MSFT $NUAN $AAPL #apple #google #tech","lbl":"Neutral"}
+,{"time":"7:04","usr":"TradingDeck","txt":"6 gut checks before the stock market\u0027s opening bell: http://t.co/U6U5F5VD $NTK $GOOG $BRK.A @slangwise","lbl":"Neutral"}
+,{"time":"7:05","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $GOOG $AMZN $DISH $AAPL http://t.co/S2e4SvN3","lbl":"Neutral"}
+,{"time":"7:05","usr":"SAI","txt":"10 Things You Need To Know This Morning $GOOG $AMZN $DISH $AAPL by @nichcarlson http://t.co/48PWU0CX","lbl":"Neutral"}
 ,{"time":"8:01","usr":"upsidetrader","txt":"$GOOG over yesterdays high and 50 dma in pre market, watch this one today","lbl":"Positive"}
+,{"time":"8:02","usr":"jmullin9","txt":"$goog up here on maps, strange? dont see anything else","lbl":"Neutral"}
 ,{"time":"8:21","usr":"CNNMoneyTech","txt":"RT @LaMonicaBuzz: Huge shock. $GOOG\u0027s new iOS map is number one free app in $AAPL\u0027s App Store. Installing on my iPhone right now. Woo-hoo!","lbl":"Positive"}
+,{"time":"8:21","usr":"netster23","txt":"RT @SAI: This YouTube Star Is In The Middle Of A Very Ugly, Public Fight With His Studio $GOOG by @meganrosedickey http://t.co/vgiqarAN","lbl":"Neutral"}
 ,{"time":"8:21","usr":"rightpi","txt":"RT @LaMonicaBuzz: Huge shock. $GOOG\u0027s new iOS map is number one free app in $AAPL\u0027s App Store. Installing on my iPhone right now. Woo-hoo!","lbl":"Positive"}
+,{"time":"8:29","usr":"DarinZanyarGirl","txt":"RT @mcilderman #Invest In Artificial Intelligence http://t.co/uFy00P17 $FB $GOOG $IBM $MSFT $NUAN $AAPL #apple #google #tech","lbl":"Neutral"}
+,{"time":"8:29","usr":"Ktr8der","txt":"I should have mentioned McNamee\u0027s $FB call in this amusing video as well. $AAPL $GOOG $MSFT $YHOO #MyBad http://t.co/ragz7fPY","lbl":"Neutral"}
+,{"time":"8:30","usr":"rajatagr","txt":"Heights of link baiting! \u201C@SAI: How To Get Google Maps On Your iPhone $AAPL $GOOG by @jyarow http://t.co/16R9JZnH\u201D","lbl":"Neutral"}
 ,{"time":"8:39","usr":"Sangluccitrades","txt":"RT @Fitzstock2004: $aapl -7 and $goog +14 premarket","lbl":"Positive"}
+,{"time":"8:40","usr":"gpalacios","txt":"RT @SAI: How To Get Google Maps On Your iPhone $AAPL $GOOG by @jyarow http://t.co/einwkqWm","lbl":"Neutral"}
 ,{"time":"8:40","usr":"crichton18","txt":"RT @d_ramsden: Good to see $GOOG act like a visionary tech company & invest its cash rather than lazily send it back http://t.co/s20XGR38 $$","lbl":"Positive"}
 ,{"time":"8:57","usr":"YoungMansMoney","txt":"RT @upsidetrader: $GOOG over yesterdays high and 50 dma in pre market, watch this one today","lbl":"Positive"}
+,{"time":"8:58","usr":"RogueStockTradr","txt":"$GOOG just ripping it up PM... SICK! Must be because my N7 tablet comes this afternoon! Congrats to those who caught the move","lbl":"Neutral"}
+,{"time":"8:58","usr":"TradingGuru","txt":"$AAPL iOS 6 finally gets $GOOG Maps App http://t.co/VORumvNn \u2026 \u2026 #Markets #WallStreet #Finance #Daytrade #NextTrade #CNBC #Stocks #Mkt #Stx","lbl":"Neutral"}
+,{"time":"9:10","usr":"chartly","txt":"\u0022@Learnstocks101: $GOOG daily chart http://t.co/dHLtZbxI\u0022","lbl":"Neutral"}
+,{"time":"9:10","usr":"BusinessProUS","txt":"RT @businessinsider: How To Get Google Maps On Your iPhone $AAPL $GOOG by @jyarow http://t.co/xtP098Qh","lbl":"Neutral"}
+,{"time":"9:11","usr":"Jcpafonso","txt":"RT @ACInvestorBlog: Pre-market movers $CLWR $CSPI $PHMD $AMRN $RFMD $SNTA $SRPT $GOOG $INCY $CIEN $TELK $AUO $SAM $BBY","lbl":"Neutral"}
 ,{"time":"9:26","usr":"daytrader305","txt":"RT @z8angela: Now I\u0027m taking off for a while: don\u0027t buy at big gap ( like $GOOG); Be careful with shorting at big gap down ( $AAPL). Trade smart!","lbl":"Negative"}
+,{"time":"9:26","usr":"pthegr8trades","txt":"$GOOG update; 60min trgt (prvious tweet) very likely. some symmetry targets : http://t.co/yQau6LXp","lbl":"Neutral"}
+,{"time":"9:26","usr":"KingKong_Trader","txt":"Watchlist $CVS (possible GAP GO) $BBY $LLY $GOOG $AAPL $CIEN","lbl":"Neutral"}
 ,{"time":"9:34","usr":"brentstromme","txt":"Google Maps Is Already The Number One App On iPhone $GOOG $AAPL by @stevekovach http://t.co/zHCTbOAP @businessinsider","lbl":"Positive"}
 ,{"time":"9:34","usr":"ytaroda","txt":"RT @ScotFinnie: RT @richi: Google Maps for Apple iPhone 5 is really nice, say pundits ~ http://t.co/yGYKZrz9 ~ today\u0027s #ITBW by @richi $GOOG","lbl":"Positive"}
+,{"time":"9:34","usr":"JoeTierney","txt":"RT @SAI: Google Maps Is Already The Number One App On iPhone $GOOG $AAPL by @stevekovach http://t.co/uV6zK1mV","lbl":"Neutral"}
+,{"time":"9:44","usr":"Carina_Lermon","txt":"Android beating Apple in mobile war: chairman - StarPhoenix #Android $Goog http://t.co/KTD9vuYd","lbl":"Neutral"}
+,{"time":"9:44","usr":"Brysapp","txt":"$GOOG nearing gap fill","lbl":"Neutral"}
+,{"time":"9:54","usr":"USwwwStocks","txt":"$GOOG News: Google Inc NASDAQ:GOOG is NOT a Tax Cheat http://t.co/vdDlIsj2 #Cheat #GOOG #Google","lbl":"Neutral"}
+,{"time":"9:54","usr":"parklandtrader","txt":"@cnbcfastmoney @GuyAdami @RedDogT3Live $GOOG needs to hold 705..","lbl":"Neutral"}
+,{"time":"9:55","usr":"khairais","txt":"RT @LaMonicaBuzz: Huge shock. $GOOG\u0027s new iOS map is number one free app in $AAPL\u0027s App Store. Installing on my iPhone right now. Woo-hoo!","lbl":"Neutral"}
 ,{"time":"10:12","usr":"TheAnlyst","txt":"RT @ReutersTV: Google maps now available as #iphone app. We compared $AAPL and $GOOG maps in this Sept. Street test. http://t.co/HRo7Jc0f","lbl":"Positive"}
+,{"time":"10:12","usr":"junkieonwallst","txt":"Out $GOOG weeklys, Banked!","lbl":"Neutral"}
 ,{"time":"10:13","usr":"EvanMedeiros","txt":"short $AAPL and $GOOG here 534, 707.55 , risking a few pts on each","lbl":"Negative"}
+,{"time":"10:26","usr":"DeirdreBolton","txt":"RT @lfurniss: It\u0027s a Christmas miracle! #Google Maps has come to the #iPad, #iPhone. http://t.co/Tcz6JAv9 $GOOG #tech","lbl":"Neutral"}
+,{"time":"10:26","usr":"StockTwits","txt":"With 1.2 trillion total searches, Here\u0027s what the world searched for in 2012 on Google http://t.co/EQWu134s $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:26","usr":"AreebArizzel","txt":"RT @YahooFinance: #Google Maps makes its way back to the iPhone (via @Reuters) $GOOG $AAPL http://t.co/HypxN7PS","lbl":"Neutral"}
 ,{"time":"10:39","usr":"SAI_Tools","txt":"REVIEW: Google Hit A Home Run With Its iPhone Maps App $AAPL $GOOG by @jyarow http://t.co/Jz7LvasT","lbl":"Positive"}
 ,{"time":"10:39","usr":"john_villegas","txt":"$GOOG JAN 13 705 CALL + 37% #trading","lbl":"Positive"}
 ,{"time":"10:40","usr":"Sidman","txt":"RT @businessinsider: REVIEW: Google Hit A Home Run With Its iPhone Maps App $AAPL $GOOG by @jyarow http://t.co/uv00694T","lbl":"Positive"}
@@ -19,21 +48,45 @@
 ,{"time":"10:55","usr":"ADVFNplc","txt":"$GOOG - TECH STOCKS: Google Leads Tech Stocks Higher; Apple Slips http://t.co/PbGmivLc","lbl":"Positive"}
 ,{"time":"10:55","usr":"LeonLau6","txt":"RT @businessinsider: Google Maps Is Already The Number One App On iPhone $GOOG $AAPL by @stevekovach http://t.co/0xspM5Gq","lbl":"Positive"}
 ,{"time":"11:22","usr":"ryan_j415","txt":"RT @LaMonicaBuzz: Huge shock. $GOOG\u0027s new iOS map is number one free app in $AAPL\u0027s App Store. Installing on my iPhone right now. Woo-hoo!","lbl":"Positive"}
+,{"time":"11:23","usr":"fabio_sebastian","txt":"RT @YahooFinance: #Google Maps makes its way back to the iPhone (via @Reuters) $GOOG $AAPL http://t.co/HypxN7PS","lbl":"Neutral"}
+,{"time":"11:42","usr":"businessinsider","txt":"Google\u0027s Maps On The iPhone Are A Win For Everyone $GOOG $AAPL by @jyarow http://t.co/DHmHA8an","lbl":"Neutral"}
 ,{"time":"11:42","usr":"danielngoodman","txt":"Google\u0027s Maps On The iPhone Are A Win For Everyone $GOOG $AAPL http://t.co/4T46VtM5","lbl":"Positive"}
 ,{"time":"11:42","usr":"SAI","txt":"Google\u0027s Maps On The iPhone Are A Win For Everyone $GOOG $AAPL by @jyarow http://t.co/h1cRGS3X","lbl":"Positive"}
 ,{"time":"12:09","usr":"racernic","txt":"intraday $goog setting lower highs","lbl":"Negative"}
+,{"time":"12:09","usr":"marketjunkee","txt":"@jimcramer @terranovajoe @optionmonster No brainer trd Lng $AAPL @12 P/E shrt $GOOG @22 P/E Mkt giving Android 2 much credit Motorola\u0027s dead","lbl":"Neutral"}
 ,{"time":"12:09","usr":"garrioharrison","txt":"RT @SAI: Google\u0027s Maps On The iPhone Are A Win For Everyone $GOOG $AAPL by @jyarow http://t.co/h1cRGS3X","lbl":"Positive"}
 ,{"time":"12:34","usr":"theHUNGRY__BEAR","txt":"RT @ppprophet: SELL $GOOG The Market will Crash .... .#DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
+,{"time":"12:34","usr":"jhollak","txt":"RT @SAI: Google Maps Is Already The Number One App On iPhone $GOOG $AAPL by @stevekovach http://t.co/uV6zK1mV","lbl":"Neutral"}
+,{"time":"12:34","usr":"abnormalreturns","txt":"Thursday links: mitigating emotions, the rise of developed markets and the best time to exercise. http://t.co/pkHybjcQ $EFA $AAPL $GOOG $S","lbl":"Neutral"}
 ,{"time":"12:55","usr":"optionguru","txt":"@z8angela $goog can soar to $800 it is true http://t.co/X7JcLwnW","lbl":"Positive"}
+,{"time":"12:56","usr":"DanteDiMauro","txt":"Google Maps returns to the iPhone: http://t.co/p4d69NVV $GOOG\u201D","lbl":"Neutral"}
 ,{"time":"13:30","usr":"StockMarket411","txt":"5 reasons Google has its mojo back $goog http://t.co/9UA78m1c goog, google, google stock, news","lbl":"Positive"}
 ,{"time":"13:30","usr":"StockMarket411","txt":"5 reasons why Google has its mojo back $goog http://t.co/iHWoo3vw goog, google, google stock, news","lbl":"Positive"}
 ,{"time":"13:30","usr":"TomTomNguyen","txt":"$GOOG nice looking chart. http://t.co/6OC87S65","lbl":"Positive"}
+,{"time":"14:05","usr":"ADVFNplc","txt":"$GOOG - MARKET SNAPSHOT: U.S. Stocks Fall After Boehner Cliff Comments http://t.co/beXrlO8g","lbl":"Neutral"}
 ,{"time":"14:35","usr":"tradethembi","txt":"$GOOG 78 min resolved the short as expected and is moving back up per new 10 min signals. http://t.co/yIXdjZXS","lbl":"Positive"}
+,{"time":"14:36","usr":"Amounii","txt":"\u0022@BloombergTV: #FastFact Google Street View has photos covering 5 million miles of road $GOOG\u0022","lbl":"Neutral"}
+,{"time":"14:36","usr":"blackmarkt","txt":"scale most $GOOG at 704 +4","lbl":"Neutral"}
+,{"time":"15:16","usr":"sdishman2","txt":"$AAPL recent spike in cap ex. versus $GOOG $AMZN $MSFT $INTC and #Samsung http://t.co/vbNlxK33 What on, that\u0027s anyone\u0027s guess","lbl":"Neutral"}
+,{"time":"15:16","usr":"fouriewh","txt":"RT @ilirshkurti: Love, LOVE, the $GOOG Maps App on my $AAPL iPhone.","lbl":"Neutral"}
 ,{"time":"15:17","usr":"treysdubya","txt":"$GOOG headed for red close -- $AAPL 520 coming soon as well...prob gap down there tomorrow.","lbl":"Negative"}
+,{"time":"15:36","usr":"mywickedtwin","txt":"Check the wayback: Google Maps sucked initially, too: \u201C@TheStreet: $GOOG Maps Out Apple Is Lost http://t.co/cCXbWYDV $AAPL\u0022 @WallandBroad","lbl":"Neutral"}
+,{"time":"15:36","usr":"Vtechp","txt":"RT @MarketWatchPF: Will Google Maps take a billion-dollar bite out of Apple? http://t.co/BoPy53cl $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"15:36","usr":"lmarumahoko","txt":"Interesting take on the Maps Saga... \u0022Will Google Maps take a billion-dollar bite out of Apple? http://t.co/AUYu0bnS $AAPL $GOOG\u0022","lbl":"Positive"}
+,{"time":"15:58","usr":"RaginCajun","txt":"@Sangluccitrades what about $GOOG?","lbl":"Neutral"}
+,{"time":"15:59","usr":"TwoSmuth","txt":"Thanks, Indeud. Please vote RT @RaginCajun: Timely $GOOG buy @TwoSmuth. Dont forget to VOTE RAUL3: http://t.co/Q3BDO9iF","lbl":"Neutral"}
 ,{"time":"15:59","usr":"jdells06","txt":"Schmidt saying $goog has won smart phone is like Chevy saying it has won the car war over Lexus bc they sold more Funny. $aapl","lbl":"Negative"}
+,{"time":"16:39","usr":"TheAnlyst","txt":"RT @BloombergTV: Miss the market day? Fret not. Here are today\u0027s top ten stocks http://t.co/nTUXErL3 $ADBE $PSX $BCS $MET $RIMM $GOOG $CVS $SCTY $UBS $CLWR","lbl":"Neutral"}
 ,{"time":"17:30","usr":"DCaptura","txt":"\u0022MT @ForbesTech: Google proves once again that it has the best maps. http://t.co/txWxumb5\u0022 And $AAPL forces $GOOG to add turn-by-turn iPhone","lbl":"Positive"}
+,{"time":"17:32","usr":"lenderzlist","txt":"RT @CNNMoney: Google Maps: Is the iPhone version actually better than Android? http://t.co/C7DitG9K $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"17:34","usr":"NECNbiz","txt":"Apple letting iPhone users replace whacky Apple Maps with Google? @YankeeGroup\u0027s @CDHowe: $AAPL won, $GOOG caved @PeterHoweNECN 6:30/8:30","lbl":"Neutral"}
 ,{"time":"18:31","usr":"BoomerPJ","txt":"RT @MarketWatch: $GOOG and $AAPL were among the top trending tickers on Thursday http://t.co/59D6RTF2","lbl":"Positive"}
+,{"time":"18:31","usr":"jscottpage","txt":"RT @gordonbowman: Immediate home screenage... Google Maps for iOS Review: Maps Done Right http://t.co/3HgUqE6i $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"18:34","usr":"JamesPhenom","txt":"Still holding $ALXA for daytrading, $REGN, and $GILD along with $GOOG. Carry along Plebs","lbl":"Positive"}
+,{"time":"20:02","usr":"hmdrza92","txt":"RT @CNNMoney: Google claims its iPhone app is better than its native Android maps. We tested the claim. http://t.co/I7ARlFXP $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"20:02","usr":"TrueMarketAI","txt":"Google claims its iPhone app is better than its native Android maps. We tested the claim. http://t.co/xLINOIZW $GOOG $AAPL $AAPL #Stocks","lbl":"Neutral"}
+,{"time":"20:03","usr":"ReSinanian","txt":"RT @CNNMoney: Google claims its iPhone app is better than its native Android maps. We tested the claim. http://t.co/I7ARlFXP $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"21:41","usr":"MikeSmithMedia","txt":"RT @TheStreet: Google Maps Is Back! Sorry $AAPL http://t.co/apFG4Wp4 $GOOG via @GaryKrakow","lbl":"Positive"}
+,{"time":"21:43","usr":"gregc446","txt":"RT @z8angela: \u201C@SJosephBurns: A recap of the trading week. https://t.co/IsipT74O $AAPL $GOOG\u201D - Wild! We have to focus when trading as option traders.","lbl":"Neutral"}
+,{"time":"21:48","usr":"BenCBanks","txt":"VERY extensive DAILY ANALYSIS today -- http://t.co/ZURr2ECV $SPY $AAPL $GOOG $AMZN $BAC $NFLX $FB $HAL and more","lbl":"Neutral"}
 ]

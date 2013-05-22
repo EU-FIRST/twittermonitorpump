@@ -1,20 +1,46 @@
 [
-{"time":"8:43","usr":"NoDoji","txt":"Looking to sell some $GOOG $650 calls soon against my long $645s. Asking $7","lbl":"Negative"}
+{"time":"0:46","usr":"investlite","txt":"For Tuesday 3/27 - http://t.co/wPUBsItt $ZAGG $ADBE $XOM $BBBY $MOS $NFLX $VMW $BRCM $GOOG $BAC $AZO $MCP $SINA","lbl":"Neutral"}
+,{"time":"5:49","usr":"d_ramsden","txt":"Only handful of Siri features actually used. Reflection on product, consumers, long-tail, popular tech? http://t.co/hOVvp87h $AAPL $GOOG $$","lbl":"Neutral"}
+,{"time":"5:59","usr":"SAI","txt":"10 Things You Need To Know This Morning $MSFT $GOOG $FB $AAPL $YHOO by @_dtl http://t.co/F1Q6JRpg","lbl":"Neutral"}
+,{"time":"6:00","usr":"Nycfazel","txt":"RT @SAI: 10 Things You Need To Know This Morning $MSFT $GOOG $FB $AAPL $YHOO by @_dtl http://t.co/F1Q6JRpg","lbl":"Neutral"}
+,{"time":"8:01","usr":"suhnylla","txt":"RT @SeekingAlpha: Importance Of The Business Model http://t.co/idRRInOB $BVSN $FSLR $JIVE $PHG $USHS $CRM $GOOG $JKS $SNE $YGE $STP $TSL $MSFT $IBM","lbl":"Neutral"}
+,{"time":"8:43","usr":"lluccipha","txt":"SAI: Amazon Is Going To Step Up Its Assault On The iPad This Year With Three More Kindle Fires $AMZN $GOOG $AAPL by ... http://t.co/Yo4F15Hz","lbl":"Neutral"}
+,{"time":"8:43","usr":"NoDoji","txt":"Looking to sell some $GOOG $650 calls soon against my long $645s. Asking $7","lbl":"Negative"}
+,{"time":"8:44","usr":"barronstechblog","txt":"AAPL: ThinkEquity Ups Target to $700; \u2018Hot\u2019 iPad No Big Deal - Tech Trader Daily - $AAPL $RIMM $AMZN $MSFT $GOOG http://t.co/TNxZXRum","lbl":"Neutral"}
 ,{"time":"9:13","usr":"StephenStull","txt":"#Finally $GOOG Boom.","lbl":"Positive"}
 ,{"time":"9:14","usr":"berkutchitweet","txt":"$GOOG added to my long here.","lbl":"Positive"}
 ,{"time":"9:16","usr":"StkConfidential","txt":"Others perking up $BIDU, $GOOG, $PNRA, $CF, $AZO, $LVS, $TSCO, $TFM, $UBNT, $NTES etc. $$","lbl":"Positive"}
+,{"time":"9:51","usr":"MockTrade","txt":"$ES_F & $TF_F seem to b trying to roll but once again TECH/NQ $AAPL, $GOOG, $BIDU holding things up & holding the 2012 norm; ES 3pt range","lbl":"Neutral"}
+,{"time":"9:52","usr":"robertonatale","txt":"RT @SAI: Amazon Is Going To Step Up Its Assault On The iPad This Year With Three More Kindle Fires $AMZN $GOOG $AAPL by @jyarow http://t.co/bUJyh2Wp","lbl":"Neutral"}
 ,{"time":"11:27","usr":"EkaruIT","txt":"RT @SAI: Google\u0027s Dropbox Killer Is Coming In April $GOOG by @MattRosoff http://t.co/UV278xvI","lbl":"Positive"}
+,{"time":"11:28","usr":"lluccipha","txt":"SAI: Google\u0027s Dropbox Killer Is Coming In April $GOOG by @MattRosoff http://t.co/0QQPLBjb","lbl":"Neutral"}
+,{"time":"11:52","usr":"DavidBentley_FA","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/rVKmKp4y #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"11:54","usr":"lazywisdom","txt":"The evolution of http://t.co/7SAUb7jU is a case of \u0022bolting on more stuff\u0022 vs. re-thinking what search, discover & connect can be. $GOOG","lbl":"Neutral"}
+,{"time":"11:54","usr":"marksigal","txt":"The evolution of http://t.co/eYDytavV is a case of \u0022bolting on more stuff\u0022 vs. re-thinking what search, discover & connect can be. $GOOG","lbl":"Neutral"}
+,{"time":"11:54","usr":"netgarden","txt":"The evolution of http://t.co/sHV0RkXX is a case of \u0022bolting on more stuff\u0022 vs. re-thinking what search, discover & connect can be. $GOOG","lbl":"Neutral"}
 ,{"time":"12:27","usr":"MattRosoff","txt":"Forget Evil. When\u0027s The Last Time Google Blew You Away? $GOOG http://t.co/Fotl5Kq1","lbl":"Negative"}
+,{"time":"12:27","usr":"SAI","txt":"Forget Evil. When\u0027s The Last Time Google Blew You Away? $GOOG by @MattRosoff http://t.co/T0NVt5Zu","lbl":"Neutral"}
 ,{"time":"12:28","usr":"lluccipha","txt":"SAI: Check Out How Messy And Confusing http://t.co/YAs3LZB5 Has Become $GOOG by @jyarow http://t.co/jIjzDHvc","lbl":"Positive"}
 ,{"time":"12:51","usr":"thefinancepress","txt":"$GOOG Forget Evil. When\u0027s The Last Time Google Blew You Away? (GOOG): Forget Evil. When\u0027s The Last Time Google ... http://t.co/ULgbLnM2","lbl":"Negative"}
 ,{"time":"12:55","usr":"kcbill","txt":"$GOOG you are blessed and have been released to run free....go free young man go free","lbl":"Positive"}
 ,{"time":"13:23","usr":"brendanpramjee","txt":"RT @SAI: THE GOOGLE INVESTOR: Google\u0027s Problems In China Just Got Worse $GOOG by @hleonard76 http://t.co/8p3eoZoS","lbl":"Negative"}
 ,{"time":"13:26","usr":"TraderFlorida","txt":"$AAPL $ISRG $GOOG these market leaders are holding up well - look to want to head higher","lbl":"Positive"}
 ,{"time":"13:26","usr":"BUDDIEE18","txt":"RT @TraderFlorida: $AAPL $ISRG $GOOG these market leaders are holding up well - look to want to head higher","lbl":"Positive"}
+,{"time":"14:05","usr":"SethElliott","txt":"RT @atul: AllThingsD: Looking For Work? Facebook Wants Salesmen, Google Wants Product People - http://t.co/mF0s5vuP $FB $GOOG","lbl":"Neutral"}
 ,{"time":"14:05","usr":"chewelahboy","txt":"THE GOOGLE INVESTOR: Google\u0027s Problems In China Just Got Worse http://t.co/lDkaA1EZ via @sai $GOOG $AAPL :)","lbl":"Negative"}
+,{"time":"14:27","usr":"MiWindowsPhone","txt":"RT @SAI: Don\u0027t Look Now, But Microsoft Is Winning The War For The Living Room $MSFT $AAPL $GOOG by @MattRosoff http://t.co/9WTat1Ws","lbl":"Neutral"}
+,{"time":"14:27","usr":"xavierjolas","txt":"RT @SAI: Don\u0027t Look Now, But Microsoft Is Winning The War For The Living Room $MSFT $AAPL $GOOG by @MattRosoff http://t.co/9WTat1Ws","lbl":"Neutral"}
 ,{"time":"14:28","usr":"GarethSoloway","txt":"Master levels on $SBUX and $GOOG working perfectly.","lbl":"Positive"}
+,{"time":"14:54","usr":"LillyHammah","txt":"RT @businessinsider: 11 Apps I Use Every Single Day (And You Should Too!) $AAPL $GOOG by @stevekovach http://t.co/AvGkaKwu","lbl":"Neutral"}
+,{"time":"14:55","usr":"thefinancepress","txt":"$GOOG AT&T Debuts Windows Phone: AT&T Debuts Windows Phone http://t.co/u709H1nI - 10 minutes ago The second-lar... http://t.co/AjX5VJeT","lbl":"Neutral"}
 ,{"time":"15:51","usr":"ZisblU4U","txt":"fuck off $goog .","lbl":"Negative"}
+,{"time":"15:56","usr":"thefinancepress","txt":"$GOOG Millennial Media IPO drawing strong buzz: Millennial Media IPO drawing strong buzz MarketWatch - 15 minut... http://t.co/8ZTRwucZ","lbl":"Neutral"}
+,{"time":"15:58","usr":"wallstCS","txt":"How Will Google and Microsoft Make the Web Faster? http://t.co/uqtofL32 $MSFT $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"16:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/70, $UEC/28, $GOOG/23, $SPY/23, $MSFT/17, $BAC/10, $ARRS/9, $PVH/8. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"16:35","usr":"ZaidKarus","txt":"RT @CNBC: Citi raises target on Google to $750, says underperforming S&P. (h/t @pattidomm) $GOOG","lbl":"Positive"}
 ,{"time":"16:36","usr":"srisri55","txt":"Damn... that last minute sell-off. I got tons of $GOOG calls. CITI raising PT 750$ was very much needed. Hoping this gaps up in the morning.","lbl":"Positive"}
 ,{"time":"16:37","usr":"Boozillo","txt":"RT @CNBC: Citi raises target on Google to $750, says underperforming S&P. (h/t @pattidomm) $GOOG","lbl":"Positive"}
+,{"time":"18:00","usr":"ValaAfshar","txt":"Google\u0027s building a web of #social network-centric services that will catch users\u0027 traffic http://t.co/fTKSPF50 $GOOG $FB","lbl":"Neutral"}
+,{"time":"20:57","usr":"itsjoshnorris","txt":"RT @wallstCS: Tech Business Roundup: Netflix Double-Take, Big Amazon Kindle News http://t.co/yQTfEhcW $SYMC $NFLX $AMZN $GOOG $YELP #mkt","lbl":"Neutral"}
+,{"time":"21:07","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Google+: Hanging Out Made Easy\u0022: http://t.co/gOGhwyPY @CNBC @GoogleRetail","lbl":"Neutral"}
 ]

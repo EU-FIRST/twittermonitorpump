@@ -1,5 +1,14 @@
 [
-{"time":"10:39","usr":"Arnuminous","txt":"$AMZN at the bottom of the 5-day trading range. As long as it doesn\u0027t break down through 233.50 into the gap, it could bounce nicely.","lbl":"Positive"}
+{"time":"1:35","usr":"__daz__","txt":"RT @SAI: CHART OF THE DAY: Even At $21, Facebook Is Still Overpriced $FB $AMZN $LNKD $AAPL $GOOG by @jyarow http://t.co/LCU8OqTP","lbl":"Neutral"}
+,{"time":"1:39","usr":"imakesweetrips","txt":"$AMZN hammers another nail in the coffin for brick and mortar: http://t.co/2SiHIT72 $BBY $WMT $RSH $COST","lbl":"Neutral"}
+,{"time":"10:39","usr":"Arnuminous","txt":"$AMZN at the bottom of the 5-day trading range. As long as it doesn\u0027t break down through 233.50 into the gap, it could bounce nicely.","lbl":"Positive"}
+,{"time":"11:27","usr":"thurberdog","txt":"$AMZN Amazon\u0027s Lockers Move Frontlines of Retail War to Back of 7-Eleven | Wired Business | http://t.co/NYfuQkqy http://t.co/49voktc8","lbl":"Neutral"}
 ,{"time":"12:42","usr":"Lowtown21","txt":"$AMZN moving up, being patient with this one.","lbl":"Positive"}
+,{"time":"13:52","usr":"pauldryden","txt":"Deconstructing Amazon\u0027s Feedback Loop. New series starts here: http://t.co/JuotiAw2 #understandingamazon $AMZN","lbl":"Neutral"}
 ,{"time":"15:02","usr":"AMZN_stock","txt":"$AMZN stock quote, Aug 9: 233.97 -0.41 (-0.17%).","lbl":"Negative"}
+,{"time":"16:59","usr":"steelsjh","txt":"RT @andrewrsorkin: Cautionary Tale: @mat on @SquawkCNBC Friday.His entire life was hacked - Iphone, laptop, gmail all wiped! $AAPL $AMZN http://t.co/a9Zw9hTd","lbl":"Neutral"}
+,{"time":"16:59","usr":"SteveMurrayM4","txt":"RT @andrewrsorkin: Cautionary Tale: @mat on @SquawkCNBC Friday.His entire life was hacked - Iphone, laptop, gmail all wiped! $AAPL $AMZN http://t.co/a9Zw9hTd","lbl":"Neutral"}
+,{"time":"17:00","usr":"wonzekgroup","txt":"RT @andrewrsorkin: Cautionary Tale: @mat on @SquawkCNBC Friday.His entire life was hacked - Iphone, laptop, gmail all wiped! $AAPL $AMZN http://t.co/a9Zw9hTd","lbl":"Neutral"}
+,{"time":"17:02","usr":"forealmstafford","txt":"RT @andrewrsorkin: Cautionary Tale: @mat on @SquawkCNBC Friday.His entire life was hacked - Iphone, laptop, gmail all wiped! $AAPL $AMZN http://t.co/a9Zw9hTd","lbl":"Neutral"}
+,{"time":"20:12","usr":"choochick","txt":"RT @andrewrsorkin: Cautionary Tale: @mat on @SquawkCNBC Friday.His entire life was hacked - Iphone, laptop, gmail all wiped! $AAPL $AMZN http://t.co/a9Zw9hTd","lbl":"Neutral"}
 ]

@@ -1,16 +1,45 @@
 [
-{"time":"6:32","usr":"max_charieff","txt":"RT @SAI: Twitter Just Partnered With The Google\u0027s Huge Russian Competitor $GOOG by @_dtl http://t.co/2o9miQto","lbl":"Negative"}
+{"time":"4:06","usr":"thefinancepress","txt":"$GOOG The Enemy Of My Enemy Is My Friend: The Enemy Of My Enemy Is My Friend TechCrunch - 30 minutes ago Micro... http://t.co/kNRBY8ME","lbl":"Neutral"}
+,{"time":"4:08","usr":"optionspirate","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/pqwUln64 #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"6:32","usr":"max_charieff","txt":"RT @SAI: Twitter Just Partnered With The Google\u0027s Huge Russian Competitor $GOOG by @_dtl http://t.co/2o9miQto","lbl":"Negative"}
+,{"time":"6:33","usr":"neilhitchcock","txt":"RT @SAI: Three Australian Ex-Googlers Are Re-Imagining The Future Of Email With Fluent.io $GOOG by @_dtl http://t.co/c79UYs6i","lbl":"Neutral"}
+,{"time":"6:35","usr":"JayMcKenzie333","txt":"RT @SAI: Three Australian Ex-Googlers Are Re-Imagining The Future Of Email With Fluent.io $GOOG by @_dtl http://t.co/c79UYs6i","lbl":"Neutral"}
+,{"time":"6:39","usr":"napiermike","txt":"\u0022@SAI: Three Australian Ex-Googlers Are Re-Imagining The Future Of Email With Fluent.io $GOOG by @_dtl http://t.co/3vai4xm3\u0022 @ben_wise","lbl":"Neutral"}
 ,{"time":"8:41","usr":"pieshubha","txt":"RT @SAI: Twitter Just Partnered With The Google\u0027s Huge Russian Competitor $GOOG by @_dtl http://t.co/2o9miQto","lbl":"Negative"}
 ,{"time":"9:53","usr":"TweetLeni","txt":"Took profits of additional shares in $GOOG entered at 605 last week sold here at 613. Keeping core long position","lbl":"Positive"}
 ,{"time":"9:53","usr":"bombs3140","txt":"RT @FoxBusiness: The London Stock Exchange Group will provide real-time market data on #Google Finance http://t.co/g4qDUlxU $GOOG","lbl":"Positive"}
+,{"time":"9:55","usr":"ChrisRossini","txt":"RT @FoxBusiness: The London Stock Exchange Group will provide real-time market data on #Google Finance http://t.co/g4qDUlxU $GOOG","lbl":"Neutral"}
 ,{"time":"9:55","usr":"TweetLeni","txt":"Finally in the green on $GOOG core long @Pete_Romano Patience","lbl":"Positive"}
+,{"time":"10:22","usr":"DJThistle","txt":"U.S. Cellular gets the Samsung Galaxy S II: U.S. Cellular has become the latest carrier to announce the S... http://t.co/dnb9FCO4 $GOOG","lbl":"Neutral"}
+,{"time":"10:22","usr":"DJThistle","txt":"Samsung to announce Galaxy S III on March 15?: Samsung made it clear that there will be no sign of the Gal... http://t.co/jEu7giWt $GOOG","lbl":"Neutral"}
+,{"time":"10:24","usr":"iStockAnalyst","txt":"Smartphone Battle: Will Samsung Galaxy S3 Outshine Apple (AAPL) iPhone 5? $AAPL $GOOG: Samsung is expected to la... http://t.co/8nhwaMLB","lbl":"Neutral"}
 ,{"time":"11:04","usr":"dschorrnyc","txt":"$GOOG flagging on the daily & the 1-month. Going higher. Thrilled that this is a top 3 position for me.","lbl":"Positive"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/135, $SPY/57, $GLD/52, $GOOG/43, $GS/27, $AMZN/21, $WMT/20, $CF/20. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:05","usr":"screwyourdayjob","txt":"Ever wonder how the iPhone works? $aapl $goog $vz $T #iphone http://t.co/dOpea6K7","lbl":"Neutral"}
+,{"time":"11:49","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+,{"time":"11:52","usr":"EUTICnews","txt":"\u0022@SeekingAlpha: Will Apple Announce A Dividend This Week? http://t.co/IUPfxRAy $AAPL $GOOG $MMI\u0022","lbl":"Neutral"}
 ,{"time":"12:23","usr":"Games4Health","txt":"RT @MikeGordonRyan: RT @FiercePharma RT @FierceBiotech: Google software could aid drug design http://t.co/uj2CMjdz $GOOG #biotechGoogle","lbl":"Positive"}
+,{"time":"12:23","usr":"GrowthStage","txt":"RT @MikeGordonRyan: RT @FiercePharma RT @FierceBiotech: Google software could aid drug design http://t.co/uj2CMjdz $GOOG #biotechGoogle","lbl":"Neutral"}
+,{"time":"12:23","usr":"HealthcareGames","txt":"RT @MikeGordonRyan: RT @FiercePharma RT @FierceBiotech: Google software could aid drug design http://t.co/uj2CMjdz $GOOG #biotechGoogle","lbl":"Neutral"}
+,{"time":"12:23","usr":"HealthTsunami","txt":"RT @MikeGordonRyan: RT @FiercePharma RT @FierceBiotech: Google software could aid drug design http://t.co/uj2CMjdz $GOOG #biotechGoogle","lbl":"Neutral"}
 ,{"time":"13:15","usr":"rechtsteiner","txt":"DeNA storms into South Korean market with $GOOG Android support. $AAPL iOS on the way. http://t.co/Y9XKcbAG","lbl":"Positive"}
+,{"time":"13:17","usr":"ZeerakW","txt":"RT @SAI: Watch Microsoft Make Fun Of Google Apps In This Video $GOOG $MSFT by @MattRosoff http://t.co/TLyOnAgv","lbl":"Neutral"}
 ,{"time":"13:17","usr":"redstormstocks","txt":"Nice little move higher in $GOOG, I\u0027m bullish for the long-term: http://t.co/vEaP9FHI","lbl":"Positive"}
 ,{"time":"14:22","usr":"robertlendvai","txt":"10 Reasons Why Google+ Will Dominate http://t.co/XK6Nv8b7 via our team at @6S_marketing $GOOG","lbl":"Positive"}
+,{"time":"14:24","usr":"Yousraalmadani","txt":"RT @SAI: Google Is Setting Up A Bunch Of Satellite Dishes In Iowa $GOOG by @MattRosoff http://t.co/pJ5g7Kc3","lbl":"Neutral"}
+,{"time":"14:26","usr":"guttrader","txt":"$GOOG failed to honor its 50-day ema which is now the overhead resistance. The price should head its 20-day ema 595 http://t.co/vPuxOcVv","lbl":"Neutral"}
+,{"time":"14:27","usr":"valuewalk","txt":"Google vs. Microsoft: The War of Allegations Over Web Privacy http://t.co/VdEydeNB $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"15:38","usr":"ToddSullivan","txt":"Even on $15,000 a Year, Most Young People Buy Smartphones [STUDY] http://t.co/2RWXSLDP $AAPL $GOOG $RIMM","lbl":"Neutral"}
 ,{"time":"16:52","usr":"dog_barker","txt":"Google Tracks Unknowing Apple Users http://t.co/XOjhIjbC #infowars #nwo $goog #aapl","lbl":"Negative"}
 ,{"time":"16:52","usr":"wallstCS","txt":"Google Antenna Farm to Create Super-Fast Internet http://t.co/G2ETBEqm $GOOG #mkt #trading","lbl":"Positive"}
+,{"time":"17:00","usr":"SeekingAlpha","txt":"Apple, Google Fight The Battle Of Image http://t.co/FWBixPbz $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"19:06","usr":"fl_fishing","txt":"RT @businessinsider: 11 Google Job Titles You Won\u0027t Believe Actually Exist $GOOG by @MattRosoff http://t.co/a3WuzDB3","lbl":"Neutral"}
+,{"time":"19:07","usr":"netgarden","txt":"NEW POST: Three simple reasons that the Office for iPad rumors are probably true. http://t.co/5qy981YQ $AAPL $MSFT $GOOG","lbl":"Neutral"}
 ,{"time":"19:07","usr":"robertlendvai","txt":"10 Reasons Why Google+ Will Dominate http://t.co/EA8M1nOj via @6s_marketing and @chrisbreikss $GOOG","lbl":"Positive"}
+,{"time":"21:05","usr":"Investopia","txt":"@BobBrinker maybe they should just stick to solar farms or something $goog","lbl":"Neutral"}
+,{"time":"21:07","usr":"parthadhia","txt":"RT @SAI: 11 Google Job Titles You Won\u0027t Believe Actually Exist $GOOG by @MattRosoff http://t.co/6qjEYgZT","lbl":"Neutral"}
+,{"time":"21:07","usr":"optionspirate","txt":"Google X research facility and its secret projects http://t.co/yELF9kyn #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
 ,{"time":"23:09","usr":"jonathannpaul","txt":"$GOOG\u0027s new heads up display glasses sound like they could be the next big thing in tech http://t.co/hAYih9LE","lbl":"Positive"}
+,{"time":"23:20","usr":"dog_barker","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/dzQbedA0","lbl":"Neutral"}
+,{"time":"23:23","usr":"bradcenter","txt":"I think Microsoft has hit a new low. This is awful for a company that is clearly holding on to one product. http://t.co/sp1sr0gZ $MSFT $GOOG","lbl":"Neutral"}
 ]

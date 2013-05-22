@@ -1,18 +1,43 @@
 [
 {"time":"1:59","usr":"dAmyfus","txt":"RT @SAI: Google Is Building Secret Hardware Testing Labs All Over Its Campus $GOOG by @MattRosoff http://t.co/QmZ2AC6S","lbl":"Positive"}
+,{"time":"2:05","usr":"dolphi","txt":"Google Is Building Secret Hardware Testing Labs All Over Its Campus $GOOG by @MattRosoff http://t.co/A9buhAp1 (via @SAI)","lbl":"Neutral"}
+,{"time":"2:06","usr":"avaca","txt":"RT @businessinsider: Google Is Building Secret Hardware Testing Labs All Over Its Campus $GOOG by @MattRosoff http://t.co/MJ2QO51t","lbl":"Neutral"}
+,{"time":"2:24","usr":"FabioRennella","txt":"RT @SAI: Sorry, Google Plus: Google Uses Facebook To Tease Product Launch $GOOG by @MattRosoff http://t.co/XholvvdR","lbl":"Neutral"}
 ,{"time":"6:53","usr":"tomkeene","txt":"good google+-morning http://t.co/MJ8iKAG4 $GOOG $$","lbl":"Positive"}
+,{"time":"6:54","usr":"SAI","txt":"10 Things You Need To Know This Morning $AAPL $GOOG by @_dtl http://t.co/ERLecLUh","lbl":"Neutral"}
+,{"time":"6:56","usr":"agrawalvaibhav","txt":"RT @businessinsider: Google Is Building Secret Hardware Testing Labs All Over Its Campus $GOOG by @MattRosoff http://t.co/MJ2QO51t","lbl":"Neutral"}
+,{"time":"9:20","usr":"tkuz4u","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG by @_dtl http://t.co/ERLecLUh","lbl":"Neutral"}
+,{"time":"9:25","usr":"RogueStockTradr","txt":"Oh man Cramer is RTing about the tech sector being extremely overbought, $AAPL $AMZN $GOOG should go up 5% this week!!!","lbl":"Positive"}
+,{"time":"9:32","usr":"BioTechReports","txt":"$NGSX getting ready to break out $dndn, $pfe, $jnj, $amgn, $thld, $c, $bac, $goog, $gs, $wfc, $wmt","lbl":"Neutral"}
 ,{"time":"10:07","usr":"RedDogT3Live","txt":"$GOOG acting tough","lbl":"Positive"}
 ,{"time":"10:08","usr":"BlueFielder","txt":"$GooG in Feb 620 $CALL \u0027s @ 3.50 - tight stop","lbl":"Positive"}
+,{"time":"10:49","usr":"atul","txt":"India Probing Google, Yahoo for Possible Forex Rule Violation - http://t.co/MHsospLV http://t.co/n9f030Gf $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"11:25","usr":"BRK_B","txt":"Why Warren Buffett Bought IBM: $BRK.A, $BRK.B, $IBM, $GOOG, $YHOO http://t.co/iNPw1SQz http://t.co/HOk0SrZn","lbl":"Neutral"}
+,{"time":"12:04","usr":"adatherton","txt":"#daytrading Gold all over the place, DAX not back to pre-Greek worry level. DJIA and FTSE okay. $AMZN beating $AAPL and $GOOG","lbl":"Negative"}
+,{"time":"12:04","usr":"wallstCS","txt":"Google TV: This New YouTube App is Sweet http://t.co/RVXUEWzL $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"12:05","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/277, $AMZN/48, $SPY/44, $PCLN/27, $GOOG/25, $ROYL/21, $BAC/21, $BDCO/17. http://t.co/DHnV02ws","lbl":"Neutral"}
 ,{"time":"13:21","usr":"ReutersTech","txt":"EU Commission clears Google\u0027s acquisition of Motorola Mobility, sees no competition issues via @Reuters $GOOG $MMI","lbl":"Positive"}
 ,{"time":"13:21","usr":"SaqibReports","txt":"EU Commission clears Google\u0027s acquisition of Motorola Mobility, sees no competition issues via @Reuters $GOOG $MMI","lbl":"Positive"}
+,{"time":"13:57","usr":"Noakesi","txt":"Screw pie charts, these first 3 graphs speak volumes about the strength of $APPL $MSFT and $GOOG\u0027s biz: http://t.co/q1ZE10oq via @asymco","lbl":"Neutral"}
+,{"time":"13:57","usr":"sunnyag","txt":"Gmail and YouTube blocked in IRAN $GOOG","lbl":"Neutral"}
+,{"time":"13:58","usr":"aksie","txt":"RT @kaz: Screw pie charts, these first 3 graphs speak volumes about the strength of $APPL $MSFT and $GOOG\u0027s biz: http://t.co/u2JzMV3j via @asymco","lbl":"Neutral"}
+,{"time":"13:59","usr":"RAPP_UK","txt":"Screw pie charts these first 3 graphs speak volumes about the strength of $APPL $MSFT and $GOOG\u0027s biz: http://t.co/ixmPxeWD via @asymco @kaz","lbl":"Neutral"}
 ,{"time":"14:26","usr":"iStockAnalyst","txt":"Google Acquisition Of Motorola Mobility Gets EU Nod $GOOG $MMI: Google Inc.\u0027s (NASDAQ: GOOG) proposed $12.5 bill... http://t.co/TGHA36m3","lbl":"Positive"}
+,{"time":"14:27","usr":"indvinvst","txt":"@jimcramer if not $GOOG or $AAPL what other #Technology co do you like at the given moment/price? personallyy i think $INTC gos even higher","lbl":"Neutral"}
 ,{"time":"14:45","usr":"SAI","txt":"CHART OF THE DAY: Google is The Least Diversified Business In Tech $GOOG $AAPL $MSFT $EBAY by @jyarow http://t.co/MiYVTA8Z","lbl":"Negative"}
+,{"time":"14:45","usr":"lluccipha","txt":"SAI: How To Use Google\u0027s Crazy 10-Way Video Chat Feature $GOOG by @hamburger http://t.co/gDiz9ySp","lbl":"Neutral"}
 ,{"time":"14:45","usr":"lluccipha","txt":"SAI: CHART OF THE DAY: Google is The Least Diversified Business In Tech $GOOG $AAPL $MSFT $EBAY by @jyarow http://t.co/gpRjmtMr","lbl":"Negative"}
+,{"time":"14:46","usr":"DanielLynchJr","txt":"@jimcramer I love $AAPL and am a shareholder, I\u0027m not saying $GOOG is a superior company just that Android will become dominant OS","lbl":"Neutral"}
+,{"time":"15:41","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+,{"time":"15:42","usr":"PinkcharlotteXO","txt":"Ah ben dommage RT @SAI: Sorry, Google Plus: Google Uses Facebook To Tease Product Launch $GOOG by @MattRosoff http://t.co/8cpAqIPB","lbl":"Neutral"}
+,{"time":"16:50","usr":"tomkeene","txt":"http://t.co/wvzn2adQ econochat on google ... quietly $GOOG $$ $FB","lbl":"Neutral"}
+,{"time":"16:50","usr":"PoornimaGupta","txt":"DOJ says will not hesitate to take enforcement action to halt anti-competitive use of essential patents $AAPL $MSFT $GOOG","lbl":"Neutral"}
 ,{"time":"16:50","usr":"princebhojwani","txt":"Google-Motorola Mobility Deal Gets Clearance from U.S. Dept. of Justice $GOOG","lbl":"Positive"}
 ,{"time":"16:50","usr":"BUDDIEE18","txt":"back in $GOOG 615 + 620 feb calls. shd run higher along w/$BIDU reporting this thursday","lbl":"Positive"}
 ,{"time":"17:10","usr":"thefinancepress","txt":"$GOOG Google\u0027s Bid for Motorola Mobility Approved by US Antitrust Regulators: Google\u0027s Bid for Motorola Mobilit... http://t.co/xpULppHB","lbl":"Positive"}
 ,{"time":"17:10","usr":"iSoylaOstia","txt":"All clear! Google-Motorola deal approved by Dept of Justice. $GOOG (Poornima Gupta/@poornimagupta) - http://t.co/2gO9TwOF","lbl":"Positive"}
 ,{"time":"17:10","usr":"ChicagolandCmbr","txt":"RT @crainschicago: Google, Motorola Mobility deal cleared by U.S. http://t.co/JUUKEqwd $GOOG $MMI","lbl":"Positive"}
+,{"time":"17:10","usr":"balcakorkut","txt":"RT @SAI: Google Just Got The U.S. Department Of Justice\u0027s Approval To Acquire Motorola $GOOG by @mattlynley http://t.co/auvlQIbs","lbl":"Neutral"}
 ,{"time":"17:29","usr":"desabahh","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
 ,{"time":"17:29","usr":"DustinMedlin","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
 ,{"time":"17:30","usr":"xilladel","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
@@ -21,13 +46,18 @@
 ,{"time":"17:44","usr":"terrarose","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
 ,{"time":"17:44","usr":"w_jameskenton","txt":"Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/WehqwVPG $GOOG","lbl":"Positive"}
 ,{"time":"17:44","usr":"InfoSomniac2","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
+,{"time":"18:07","usr":"ReubenMillerdR","txt":"Brisk in DC. Good to be back with the journos hashing though Chinese VP visit, Murdoch and the FCPA, and nailing $GOOG antitrust clearances.","lbl":"Neutral"}
 ,{"time":"18:08","usr":"missmarybrave","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
 ,{"time":"18:08","usr":"MeeshJoseph","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+,{"time":"18:09","usr":"Clever_TS","txt":"The market cap of Apple Inc $AAPL is bigger than Google $GOOG and Microsoft $MSFT combined. http://t.co/7pKV72Ri","lbl":"Neutral"}
 ,{"time":"18:57","usr":"BioTechReports","txt":"$BPAX - approval likely to be announced tomorrow morning!!!!!! $dndn, $pfe, $jnj, $amgn, $c, $v, $bac, $gs, $goog, $aapl, $ctic","lbl":"Positive"}
 ,{"time":"18:58","usr":"ddirubbo","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/bQjalrPd $GOOG","lbl":"Positive"}
 ,{"time":"18:59","usr":"IsraRomero","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
 ,{"time":"21:21","usr":"AE_Maldonado","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+,{"time":"21:23","usr":"DavidBentley_FA","txt":"Google Sponsors #CPAC 2012 http://t.co/AThEa5OB #politics #tyt #occupy #ows $goog","lbl":"Neutral"}
+,{"time":"21:24","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
 ,{"time":"21:26","usr":"DontTakeLosses","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
 ,{"time":"23:50","usr":"soelex","txt":"RT @FoxBusiness: Breaking: #Google receive U.S. antitrust approval to buy Motorola Mobility http://t.co/jlbN28Mr $GOOG","lbl":"Positive"}
 ,{"time":"23:51","usr":"DoctorCara","txt":"RT @MarketWatch: Google given the green light by U.S. Department of Justice to acquire Motorola Mobility http://t.co/vy78LQLo $GOOG","lbl":"Positive"}
+,{"time":"23:51","usr":"thefinancepress","txt":"$GOOG India probes Google, Yahoo for possible forex violation: India probes Google, Yahoo for possible forex vi... http://t.co/CvMVG5PF","lbl":"Neutral"}
 ]

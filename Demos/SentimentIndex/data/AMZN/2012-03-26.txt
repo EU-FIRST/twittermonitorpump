@@ -1,19 +1,27 @@
 [
-{"time":"8:54","usr":"berkutchitweet","txt":"$AMZN getting ready for a jailbreak.","lbl":"Positive"}
+{"time":"6:53","usr":"harmongreg","txt":"Top Trade Ideas for the Week of March 26, 2012: Bonus Idea http://t.co/JzWIkPci $AMZN","lbl":"Neutral"}
+,{"time":"8:54","usr":"berkutchitweet","txt":"$AMZN getting ready for a jailbreak.","lbl":"Positive"}
 ,{"time":"9:18","usr":"srisri55","txt":"Decided to not to sell those $AMZN calls. Tough but am confident it will break 200$ resistance.","lbl":"Positive"}
 ,{"time":"9:19","usr":"optioncommander","txt":"$AMZN +1.57% 198.09. Weekly $205 calls +57%, .90c, 200 weekly calls +97% 2.65: http://t.co/u8JGrMEw","lbl":"Positive"}
+,{"time":"10:21","usr":"wallstCS","txt":"Will Digital Movies Finally Swallow DVDs this Year? http://t.co/C3E3TFRu $NFLX $AMZN #mkt #stocks #trading","lbl":"Neutral"}
 ,{"time":"11:15","usr":"barronsonline","txt":"Profiles of the World\u0027s 30 Best CEO\u0027s http://t.co/UA7ghpn5 via @barronsonline $BRKB $AMZN $SBUX $FDX $MSFT $JPM $ORCL $INTC $MCD $CRM $PCLN","lbl":"Positive"}
+,{"time":"11:15","usr":"barronsstocks","txt":"RT @barronsonline: Profiles of the World\u0027s 30 Best CEO\u0027s http://t.co/UA7ghpn5 via @barronsonline $BRKB $AMZN $SBUX $FDX $MSFT $JPM $ORCL $INTC $MCD $CRM $PCLN","lbl":"Neutral"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:47pm: 199.082 +4.042 (+2.07%).","lbl":"Neutral"}
 ,{"time":"12:05","usr":"Better_Trader","txt":"Amazon break above 196.50 confirms Elliott wave pattern http://t.co/PqzIGqWz $AMZN","lbl":"Positive"}
 ,{"time":"12:06","usr":"SperlsT3Live","txt":"$amzn i took a bunch off a bit lower...but it is testing its 200 day and look decent","lbl":"Positive"}
 ,{"time":"12:45","usr":"berkutchitweet","txt":"Long $AMZN.","lbl":"Positive"}
 ,{"time":"12:46","usr":"Sector_Trends","txt":"$AMZN through the 200 day. So much for respect...","lbl":"Positive"}
 ,{"time":"12:46","usr":"f_saiz_camarero","txt":"RT @buysellshort: $AMZN absolutely PERFECT symetrical triangle breakout last week from our call chart http://t.co/SaE6dSwm","lbl":"Positive"}
+,{"time":"13:09","usr":"calebwalker","txt":"@WhizCheck6 Are you going to trade that through earnings? $AMZN","lbl":"Neutral"}
 ,{"time":"13:10","usr":"TrendExhaustion","txt":"$AMZN a -7 for TrendExhaustion - decent looking sell! http://t.co/3htLrOeW","lbl":"Negative"}
 ,{"time":"13:43","usr":"srisri55","txt":"RT@srisri55 As $AAPL $AMZN $BIDU $PCLN took off... the other leader $GOOG still lagginb behind... it might take off any time.... look out.","lbl":"Positive"}
+,{"time":"14:01","usr":"jdrerup36","txt":"ONU Student Investment Group portfolio surpasses $160,000 as $AAPL, $V, and $AMZN continue to carry the portfolio @jimcramer","lbl":"Neutral"}
 ,{"time":"14:49","usr":"optionbob","txt":"I could not have been more wrong about $AMZN... very strong price action. Will post when I am ready to pull the trigger on $PUT\u0027s.","lbl":"Positive"}
 ,{"time":"14:50","usr":"srisri55","txt":"@leewillm try gettin back in asap. Good luck. $AMZN","lbl":"Positive"}
 ,{"time":"14:52","usr":"LaMonicaBuzz","txt":"Let me stand next to your Kindle Fire! $AMZN up nearly 4% and back above $200 for first time since November. Now up 17% YTD.","lbl":"Positive"}
 ,{"time":"17:04","usr":"RickFrees","txt":"RT @SAI: Amazon Lets Thieves Shop With Stolen Credit Card Numbers, Says Report $AMZN by @Julie188 http://t.co/oR3lPmG9","lbl":"Negative"}
+,{"time":"17:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/85, $SPY/27, $AMZN/22, $MAPP/20, $GOOG/18, $GS/13, $ARNA/10, $GLD/10. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"18:25","usr":"BUDDIEE18","txt":"$AMZN reports April 23","lbl":"Neutral"}
 ,{"time":"20:35","usr":"BrianMcCallion","txt":"$AMZN up four percent today. Was there news, or have people been whispering stories? IMO financial analysts are clueless wrt $AMZN","lbl":"Positive"}
 ,{"time":"20:47","usr":"gtlackey","txt":"RS Movers 20pts 5days $AMZN, $CSCO, $BIIB, $IBM, $EMR, $ECL, $ORCL, PCS, $FTI, $HCP, $SLB $STUDY http://t.co/PM9v02jB $$","lbl":"Positive"}
 ,{"time":"20:47","usr":"OptionInvestor","txt":"#Amazon.com $AMZN is probably hitting radar screens tonight with its rally past the 200-dma and breakout past $200. Potential resist @ $220","lbl":"Positive"}

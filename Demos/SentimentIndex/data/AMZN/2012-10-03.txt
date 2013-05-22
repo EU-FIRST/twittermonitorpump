@@ -1,8 +1,23 @@
 [
-{"time":"10:31","usr":"SPEQL8R","txt":"All stocks held support as mentioned earlier $JPM, $AMZN, $AAPL, $GOOG, etc. $SPY is churning in a range like it did in Aug be4 next move","lbl":"Positive"}
+{"time":"2:05","usr":"BrianSozzi","txt":"Why could I see private equity buying parts of Supervalu and in five years, selling land to Amazon for DCs. $SVU $AMZN","lbl":"Neutral"}
+,{"time":"8:40","usr":"MomentumPtrsLLC","txt":"$amzn target in the 247.50 ragne","lbl":"Neutral"}
+,{"time":"9:58","usr":"crazyfasteddy","txt":"$AAPL Fuck fundamentals, it\u0027s all about Maps.. http://t.co/PO2T8Zwn $AMZN $GOOG $FB $RIMM","lbl":"Neutral"}
+,{"time":"9:59","usr":"Jamtrades","txt":"Commented on StockTwits: $AMZN poses a threat to $NFLX\u0027s existence, but I don\u0027t think Whitney Tilson agrees with me.... http://t.co/p0DuSrA3","lbl":"Neutral"}
+,{"time":"10:31","usr":"SPEQL8R","txt":"All stocks held support as mentioned earlier $JPM, $AMZN, $AAPL, $GOOG, etc. $SPY is churning in a range like it did in Aug be4 next move","lbl":"Positive"}
+,{"time":"11:04","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:49am: 254.02 +3.42 (+1.36%).","lbl":"Neutral"}
 ,{"time":"12:23","usr":"wallstCS","txt":"Retailers Prepare for Jolly Good Holiday Sales http://t.co/yOLDtwBh $WMT $TGT $AMZN $GOOG $MSFT $BKS $AAPL $DIA $QQQ $SPY","lbl":"Positive"}
+,{"time":"12:23","usr":"Tangletrade","txt":"taking the rest of the short $AMZN call spreads off the table here at breakeven.","lbl":"Neutral"}
 ,{"time":"12:24","usr":"Jamtrades","txt":"$GOOG and $AAPL vacillating.. $AMZN ripping","lbl":"Negative"}
+,{"time":"13:39","usr":"takingstock614","txt":"Added small today in $AAPL $AMZN $XLP $LVS $GS $XLF $V $GOOG","lbl":"Neutral"}
+,{"time":"14:10","usr":"TheStreet","txt":"How Much Will the iPad Mini Cost?: Poll http://t.co/r3suMlLs by @Commodity_Bull $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"14:10","usr":"launchticker","txt":"Shipping estimate for $amzn Paperwhite slips to 4 - 6 wks http://t.co/Z8EaKzaL http://t.co/c1FDOPXh","lbl":"Neutral"}
 ,{"time":"15:12","usr":"ToddSullivan","txt":"Just got my #kindle paperwhite.... hands down the best reading experience ever, nothing comes close... $AMZN","lbl":"Positive"}
+,{"time":"15:57","usr":"DNev47","txt":"$$ Education: A Huge Opportunity For Microsoft http://t.co/Hag7zNE1 $AAPL $AMZN $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"16:51","usr":"FreedoniaMoney","txt":"Taxes, Wal-Mart, And Distribution Centers: Amazon Trying To Overcome Barriers - Seeking Alpha http://t.co/jWuYzht8 $AMZN $WMT","lbl":"Neutral"}
 ,{"time":"17:50","usr":"AlreadyBakedIn","txt":"$aapl iPad Mini gonna cannibalize tablet sales alright. $goog nexus and $amzn tablet sales!","lbl":"Negative"}
+,{"time":"17:54","usr":"RobertWeinstein","txt":"RT @Stocknomics1: RT @Stocknomics1: It\u0027s on its way to extinction @RobertWeinstein Can $DELL Buy Its Way Out of Irrelevance $GOOG $AMZN $AAPL $MSFT $RIMM ...","lbl":"Neutral"}
 ,{"time":"20:09","usr":"thewad71","txt":"\u201C@optionmonster: I think 7 to 8 inch iPad mini will pull millions of buyers of $AMZN readers to $AAPL\u201D So will AMZN finally take a haircut?","lbl":"Negative"}
+,{"time":"20:25","usr":"DaveKlatch","txt":"@jimcramer What about $AMZN? With more teachers, more classes and now more digital textbook content?","lbl":"Neutral"}
+,{"time":"23:07","usr":"RssFollow1","txt":"RT @Fitzstock2004: RT @Fitzstock2004: These betas $amzn $aapl $goog $ma can LEAD AGAIN!","lbl":"Neutral"}
+,{"time":"23:24","usr":"bored2tears","txt":"Amazon opens portal for mobile app distribution in Japan. http://t.co/TPrC1coA $AMZN 10/3 close: 255.92 #ecommerce #stocks","lbl":"Neutral"}
 ]

@@ -1,19 +1,55 @@
 [
-{"time":"0:38","usr":"SteveMagid","txt":"RT @ReformedBroker: Goldman releases 79-page report on the Future of Tech, they have $AAPL winning and $GOOG losing the mobile wars. http://t.co/hTzmue51","lbl":"Negative"}
+{"time":"0:23","usr":"primitiveradio","txt":"RT @SAI: Why In The World Should Instagram Allow Twitter To Scrape Its Photos? $FB $DIS $CMSCA $GOOG by @nichcarlson http://t.co/0ifL5Oq3","lbl":"Neutral"}
+,{"time":"0:38","usr":"SteveMagid","txt":"RT @ReformedBroker: Goldman releases 79-page report on the Future of Tech, they have $AAPL winning and $GOOG losing the mobile wars. http://t.co/hTzmue51","lbl":"Negative"}
+,{"time":"6:03","usr":"sssc","txt":"$MSFT Can\u0027t Afford to Screw This Up - $AMZN, $AAPL, $GOOG, - Foolish Blogging Network http://t.co/SNF7b5vD","lbl":"Neutral"}
+,{"time":"6:04","usr":"bored2tears","txt":"Mobile video calling spreads as smartphones, tablets improve. http://t.co/8wE3OXLc $GOOG $#MFST $YHOO #stocks #tech","lbl":"Neutral"}
+,{"time":"6:09","usr":"rsaintvilus","txt":"Why Apple Investors are Running From the Tax Man - Forbes http://t.co/4WYqenJB $AAPL $RIMM $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"8:47","usr":"ShawnPaulBoike","txt":"Commented on: \u0022Android Is Dead - Part 2: Titans Clash\u0022 http://t.co/jIyhVnLE $GOOG $AAPL $AMZN $FB","lbl":"Neutral"}
+,{"time":"9:45","usr":"TradeEducation","txt":"http://t.co/QXjTFrAb $720.00 profit in $GOOG $720 or 14% on $GOOG 690 put option","lbl":"Neutral"}
+,{"time":"9:46","usr":"scalamai","txt":"RT @BloombergNews: Apple, Google team up for $500 million Kodak patent bid | http://t.co/Taum6rmc $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"10:26","usr":"TheRomit","txt":"Google wreaks havoc on our company\u2019s calendars: lost data and security breaches $GOOG http://t.co/KuxQ2izu","lbl":"Negative"}
+,{"time":"10:27","usr":"PaulZimbardo","txt":"Will A #Dividend Save #Apple From The Fiscal #Cliff? http://t.co/FH4w0L7y $AAPL $MSFT $GOOG #AAPL #Stocks #News #Options","lbl":"Neutral"}
 ,{"time":"10:57","usr":"pennystockguys","txt":"$GOOG - Pace Confirms Proposal to Buy Google\u0027s Motorola Home Business http://t.co/CDDWqDPx","lbl":"Positive"}
+,{"time":"10:57","usr":"Jamtrades","txt":"Eyeing $GOOG here","lbl":"Neutral"}
+,{"time":"10:57","usr":"ADVFNplc","txt":"$GOOG - Pace Confirms Proposal to Buy Google\u0027s Motorola Home Business http://t.co/1e6DUsch","lbl":"Neutral"}
+,{"time":"11:36","usr":"ppordengal","txt":"@smartertrader - I like $GOOG over $690. In the $700 options with you. See if it holds above $690.","lbl":"Neutral"}
+,{"time":"12:01","usr":"rtorcato","txt":"maybe $AAPL should accidentally release earning prematurely and halt the stock for the next 40 days. Thanks for the idea $GOOG.","lbl":"Neutral"}
 ,{"time":"12:02","usr":"EghosaO","txt":"man, nothing I hate more than when Gmail goes down & starts acting like a lowercase g. a real set won\u0027t trip like that. c\u0027mon son! $ $goog","lbl":"Negative"}
+,{"time":"12:16","usr":"MattSoleyn","txt":"Maybe $GOOG is hiring in QA... RT @anthonythings: With gmail down, I managed to motivate myself to apply to jobs. #glasshalffull","lbl":"Neutral"}
 ,{"time":"12:17","usr":"adamsamson","txt":"Oh #Gmail :( $GOOG","lbl":"Negative"}
+,{"time":"12:41","usr":"NicholasOlesen","txt":"Most popular & favorite post: RSUs or Options... Which Should Employees Choose? http://t.co/pIjBesjO $MRK $JNJ $GSK $PFE $GOOG $AAPL $VZ","lbl":"Neutral"}
+,{"time":"12:41","usr":"adamsamson","txt":"Google: \u0022We\u0027re investigating reports of an issue with Google Mail. We will provide more information shortly.\u0022 http://t.co/WQRzHuex $GOOG","lbl":"Neutral"}
 ,{"time":"12:42","usr":"TechInsiderco","txt":"Gmail, Drive, Calendar, Chrome Experience Widespread Outage, Authentication System Causing Problem... http://t.co/J1m3OCoC #Google $GOOG","lbl":"Negative"}
 ,{"time":"12:58","usr":"TradeEducation","txt":"http://t.co/TCfx1uE5 $750.00 profit in $GOOG $750 or 20.83% intraday options trading return on $GOOG $700 Put","lbl":"Negative"}
+,{"time":"12:59","usr":"WorldNewsRTLive","txt":"RT @mktwcrum: #Groupon falls as #Google acquisition rumor is downplayed. http://t.co/xEld9UJ3 $GRPN $GOOG","lbl":"Neutral"}
 ,{"time":"13:00","usr":"CNBC","txt":"Google\u0027s Gmail briefly went down Monday & its Chrome web browser repeatedly crashed for many users. MORE: http://t.co/MFZ1mUoJ $GOOG","lbl":"Negative"}
 ,{"time":"13:06","usr":"CSMC_News","txt":"RT @CNBC: Google\u0027s Gmail briefly went down Monday & its Chrome web browser repeatedly crashed for many users. MORE: http://t.co/MFZ1mUoJ $GOOG","lbl":"Negative"}
 ,{"time":"13:06","usr":"dvaughn21","txt":"@smartertrader : Sam, what will you do now with the $GOOG calls?","lbl":"Positive"}
 ,{"time":"13:07","usr":"JohnAHayIII","txt":"RT @CNBC: Google\u0027s Gmail briefly went down Monday & its Chrome web browser repeatedly crashed for many users. MORE: http://t.co/MFZ1mUoJ $GOOG","lbl":"Negative"}
 ,{"time":"13:35","usr":"hima094","txt":"RT @businessinsider: This Screen That Fits On Your Eye Foretells The End Of The Smartphone Era $GOOG $AAPL $MSFT by @nichcarlson http://t.co/DeyeDmpn","lbl":"Positive"}
+,{"time":"13:35","usr":"GravityIntl","txt":"$SPY failing top triangle resistance on its 15-min broadening formation like it did on Friday, $TLT firming up, $AAPL & $GOOG room to fade.","lbl":"Neutral"}
+,{"time":"13:36","usr":"wallstCS","txt":"Apple Maps Concerns Escalate and 3 Tech Titans on the Move http://t.co/vmk1QNdQ $AAPL $GOOG $MSFT $INTC #mkt #stocks","lbl":"Neutral"}
 ,{"time":"13:54","usr":"wanderlustzoe","txt":"RT @SAI: This Screen That Fits On Your Eye Foretells The End Of The Smartphone Era $GOOG $AAPL $MSFT by @nichcarlson http://t.co/xP4ghmrA","lbl":"Positive"}
+,{"time":"13:55","usr":"stormchase3","txt":"RT @ReformedBroker: Gmail might\u0027ve gone done, but Google Tax Evade is in full effect. http://t.co/cibeEfFf $GOOG","lbl":"Neutral"}
+,{"time":"14:26","usr":"RealStockTrader","txt":"Many people use Penny Stocks to build an account, I perfer trading options of high flying stocks like $APPL, $GOOG and $AMZN.","lbl":"Neutral"}
+,{"time":"14:27","usr":"petergo99037185","txt":"@Hubon hush, don\u0027t tell a soul, shhh! $AAPL gEtting live, $GOOG positive, twin towers UP, market WHHOOSSHHH!","lbl":"Neutral"}
+,{"time":"14:27","usr":"RampageX05","txt":"RT @SAI: This Screen That Fits On Your Eye Foretells The End Of The Smartphone Era $GOOG $AAPL $MSFT by @nichcarlson http://t.co/CwosL7SN","lbl":"Neutral"}
 ,{"time":"14:59","usr":"SuzieQu56071823","txt":"RT @adamsamson: Google: \u0022We\u0027re investigating reports of an issue with Google Mail. We will provide more information shortly.\u0022 http://t.co/WQRzHuex $GOOG","lbl":"Negative"}
+,{"time":"14:59","usr":"chartly","txt":"\u0022@HFTAlert: Largest HFT burst of the day..running limits. $SPY $AAPL $GOOG $VXX http://t.co/4HB90jjn\u0022","lbl":"Neutral"}
+,{"time":"14:59","usr":"wallstCS","txt":"Google\u0027s Services Go Spotty http://t.co/MY4OFrFk $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"15:34","usr":"tradethembi","txt":"$GOOG 10 min orange dot buy is working slowly at target, still has $1 to go ! http://t.co/lGoWN3cI","lbl":"Neutral"}
+,{"time":"15:37","usr":"optionmonster","txt":"I\u0027ll bet Eric Schmidt takes cabinet job to avoid $1B tax. Nothing new as $GOOG been doing it for years http://t.co/YobILtu1","lbl":"Neutral"}
 ,{"time":"15:38","usr":"tradethembi","txt":"Commented on StockTwits: the $GOOG buy went out to our alert members via email and text, http://t.co/ge0BO3aC","lbl":"Positive"}
+,{"time":"16:14","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 12.11.2012 http://t.co/pt9jJbvb","lbl":"Neutral"}
 ,{"time":"16:32","usr":"eBlueWebDesign","txt":"RT @SAI: This Screen That Fits On Your Eye Foretells The End Of The Smartphone Era $GOOG $AAPL $MSFT by @nichcarlson http://t.co/CwosL7SN","lbl":"Positive"}
+,{"time":"16:32","usr":"CSMC_News","txt":"RT @CNBC: Report says Google avoided $2 billion in international income taxes in 2011 by stashing money in Bermuda: http://t.co/vl6zjK9l $GOOG","lbl":"Neutral"}
+,{"time":"17:21","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/8gD4taJU","lbl":"Neutral"}
+,{"time":"17:21","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/FlIPYemK","lbl":"Neutral"}
 ,{"time":"17:55","usr":"legnar67","txt":"RT @CNBC: Report says Google avoided $2 billion in international income taxes in 2011 by stashing money in Bermuda: http://t.co/vl6zjK9l $GOOG","lbl":"Positive"}
+,{"time":"17:57","usr":"HedgeLY","txt":"$GOOG Revenues Sheltered in No-Tax Bermuda Soar to $10 Billion - Bloomberg | http://t.co/IF7BxGeg","lbl":"Neutral"}
+,{"time":"17:58","usr":"lgf5656","txt":"RT @CNBC: Report says Google avoided $2 billion in international income taxes in 2011 by stashing money in Bermuda: http://t.co/vl6zjK9l $GOOG","lbl":"Neutral"}
+,{"time":"19:22","usr":"danshep55","txt":"watch $cnx 33.54 $pll 61.86 $akam 39.44 $mgm 11.. $sina ss 41.13 $goog 682","lbl":"Neutral"}
+,{"time":"19:43","usr":"MikePetes","txt":"This Screen That Fits On Your Eye Foretells The End Of The #Smartphone Era $GOOG $AAPL $MSFT by @nichcarlson http://t.co/lTuWrImV","lbl":"Neutral"}
+,{"time":"22:51","usr":"DryGreenMachine","txt":"Michigan! RT our new Jingle 4 chance 2 win free carpet cleaning! $nflx $goog $bac $p http://t.co/c7FBVZXI","lbl":"Neutral"}
+,{"time":"22:55","usr":"jerry_tian","txt":"RT @SAI: How To Tell When Gmail Is Back Online For Good $GOOG by @stevekovach http://t.co/KGx4BIpW","lbl":"Neutral"}
 ]

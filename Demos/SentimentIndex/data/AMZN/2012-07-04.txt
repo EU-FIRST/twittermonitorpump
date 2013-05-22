@@ -1,4 +1,10 @@
 [
-{"time":"10:15","usr":"biggercapital","txt":"They just startg to figure out importance of $EBAY RT @SAI How $AAPL Could Team Up With $AMZN To Put Pressure On $GOOG http://t.co/tIYazj3E","lbl":"Positive"}
+{"time":"7:00","usr":"BrianD063","txt":"RT @businessinsider: Amazon Has Reportedly Ordered 2 Million Redesigned Kindle Fires For Early August $AMZN by @jyarow http://t.co/ghMCiIFS","lbl":"Neutral"}
+,{"time":"7:01","usr":"swissjohnny","txt":"RT @businessinsider: Amazon Has Reportedly Ordered 2 Million Redesigned Kindle Fires For Early August $AMZN by @jyarow http://t.co/ghMCiIFS","lbl":"Neutral"}
+,{"time":"9:25","usr":"SAI","txt":"Now The Wall Street Journal Is Also Reporting Apple Is Going To Release A Smaller iPad $AAPL $AMZN $GOOG by @jyarow http://t.co/98mPKzf5","lbl":"Neutral"}
+,{"time":"10:15","usr":"biggercapital","txt":"They just startg to figure out importance of $EBAY RT @SAI How $AAPL Could Team Up With $AMZN To Put Pressure On $GOOG http://t.co/tIYazj3E","lbl":"Positive"}
 ,{"time":"10:19","usr":"biggercapital","txt":"Regarding last tweet about $EBAY So you really want to be short an $AMZN feeding Siri They know the P/E of everything and the value of nothg","lbl":"Negative"}
+,{"time":"10:27","usr":"biggercapital","txt":"$AMZN owns commerce data+processes+platform. $100 B MKT cap expensive? It took earnings that were expensed to build platform","lbl":"Neutral"}
+,{"time":"13:37","usr":"gregnb","txt":"$AAPL http://t.co/nJZ3yGre $PCLN $CMG $AMZN $GOOG $MA $V $IBM $LNKD - Volume is key, but only price pays. Holiday trading","lbl":"Neutral"}
+,{"time":"22:33","usr":"ZooFood","txt":"RT @The_Real_Fly: Screen print, march 2001. Check $amzn http://t.co/r0FeAn4t","lbl":"Neutral"}
 ]

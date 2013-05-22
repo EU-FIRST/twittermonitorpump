@@ -1,3 +1,8 @@
 [
-{"time":"18:27","usr":"yeahforeal","txt":"Leaked Microsoft Document Reveals the Xbox 720, Kinect 2, and a Possible Google Glass Competitor. http://t.co/whgu9LaX $GOOG $MSFT $AAPL","lbl":"Negative"}
+{"time":"6:18","usr":"NewPharo","txt":"$RIMM $GOOG $MSFT $AAPL Microsoft Sells Windows phone, Apple iOS & RIM BB7 price of OS bundled in their devices, Google Android for Free","lbl":"Neutral"}
+,{"time":"6:26","usr":"Taxman2066","txt":"RT @SeekingAlpha: Microsoft\u0027s Big Announcement On Monday: Rumors Are Swirling http://t.co/OSwxjFlS $AAPL $ARMH $BKS $GOOG $LMCA $SIRI $MSFT","lbl":"Neutral"}
+,{"time":"6:27","usr":"NewPharo","txt":"$RIMM $GOOG $MSFT $AAPL Smartphones Cloud BYOD? Blackberry is 4 biz trying to lure consumer, iPhone&Android Consumer 2 biz, Windows Phone??","lbl":"Neutral"}
+,{"time":"17:16","usr":"ValaAfshar","txt":"Apple\u0027s iOS tablet market in 2012 will reach 62.5%, Android 36.5% - per @IDC http://t.co/hyvH9wn2 $AAPL $GOOG #IT #CIO","lbl":"Neutral"}
+,{"time":"17:38","usr":"chandrab","txt":"RT @_RichTrader: Ten Tips for using Moving Averages in Trading http://t.co/hlTUWsCW $AAPL $GOOG $GREK","lbl":"Neutral"}
+,{"time":"18:27","usr":"yeahforeal","txt":"Leaked Microsoft Document Reveals the Xbox 720, Kinect 2, and a Possible Google Glass Competitor. http://t.co/whgu9LaX $GOOG $MSFT $AAPL","lbl":"Negative"}
 ]

@@ -1,13 +1,26 @@
 [
-{"time":"8:51","usr":"61point8","txt":"$AMZN formed a \u0022b\u0022 yesterday and broke below it today. $251/$252.50 should be resistance.","lbl":"Negative"}
+{"time":"5:36","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $FB $GOOG $AAPL $MSFT $WMT $AMZN $P http://t.co/rH5n6KOm","lbl":"Neutral"}
+,{"time":"5:36","usr":"SAI","txt":"10 Things You Need To Know This Morning $FB $GOOG $AAPL $MSFT $WMT $AMZN $P by @nichcarlson http://t.co/EKs2jPFs","lbl":"Neutral"}
+,{"time":"5:38","usr":"Tatianalady19","txt":"10 Things You Need To Know This Morning $FB $GOOG $AAPL $MSFT $WMT $AMZN $P by @nichcarlson http://t.co/b41r7aa2","lbl":"Neutral"}
+,{"time":"5:45","usr":"heidzir","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $GOOG $AAPL $MSFT $WMT $AMZN $P by @nichcarlson http://t.co/EKs2jPFs","lbl":"Neutral"}
+,{"time":"7:30","usr":"SeekingAlpha","txt":"Pandora\u0027s Acquisition Prospects Jump http://t.co/GAYlxjT9 $AAPL $AMZN $FB $GOOG $SIRI $P","lbl":"Neutral"}
+,{"time":"8:16","usr":"Lawndale1","txt":"Commented on: \u0022Netflix: Don\u0027t Buy Into A 40% Rally\u0022 http://t.co/gjKcEPWu $NFLX $AMZN $CSTR $TWX","lbl":"Neutral"}
+,{"time":"8:51","usr":"61point8","txt":"$AMZN formed a \u0022b\u0022 yesterday and broke below it today. $251/$252.50 should be resistance.","lbl":"Negative"}
 ,{"time":"9:10","usr":"CapitalGambit","txt":"$AMZN 113B market cap and 3B in CFO...what could go wrong","lbl":"Negative"}
+,{"time":"10:49","usr":"Volpinacci","txt":"Very congested but interesting level for $AMZN. Here, short term: http://t.co/nBSgH6aZ","lbl":"Neutral"}
+,{"time":"10:53","usr":"MassariGroup","txt":"$BKS picking up steam ahead of their meeting with the firms execs at 10:45am. Possible unvieling. $AMZN $AAPL","lbl":"Neutral"}
 ,{"time":"11:44","usr":"NormCycles","txt":"$AMZN scaling at 247.40\u0027s as the failure at 257.50\u0027s was a serious short opportunity. stop adjusted tight now.","lbl":"Negative"}
 ,{"time":"11:45","usr":"Kendoe21","txt":"First day of options trading. In $AMZN $250 strtike puts at $2.33 sold at $2.60. Wish I wouldve held, now at $3.80. :(","lbl":"Negative"}
 ,{"time":"11:48","usr":"berkutchitweet","txt":"$AMZN previous ATH 246.71 and 50d at 247.80 lines up a great support level to trade against.","lbl":"Positive"}
+,{"time":"12:30","usr":"StockTwits","txt":"Investors not protesting Wal-Mart. Stock at all-time high. http://t.co/blNo0IJn via @lamonicabuzz $WMT $TGT $COST $AMZN","lbl":"Neutral"}
 ,{"time":"12:31","usr":"wallstCS","txt":"Wal-Mart vs Amazon: The Battle Continues http://t.co/oTHLVNBY $WMT $AMZN $WFC $UPS $AAPL $GOOG $DIA $SPY $QQQ","lbl":"Negative"}
+,{"time":"13:09","usr":"ModernistAlpha","txt":"@RoccoPendola very smart pitch on $AAPL $AMZN category dominance http://t.co/Z1VuRGSC","lbl":"Neutral"}
 ,{"time":"13:54","usr":"Alfietrade","txt":"$amzn reaction to probably what will be an ipad mini that competes very close in price to their kindles $aapl","lbl":"Negative"}
 ,{"time":"14:36","usr":"HarryWanger","txt":"$AMZN Still staring at a long way down for this thing regardless of the close today.","lbl":"Negative"}
 ,{"time":"14:36","usr":"KeithMcCullough","txt":"$AMZN immediate-term TRADE oversold","lbl":"Positive"}
 ,{"time":"14:37","usr":"BS_Whistler","txt":"RT @KeithMcCullough: $AMZN immediate-term TRADE oversold","lbl":"Positive"}
 ,{"time":"14:37","usr":"tlmontana","txt":"\u201C@traderstewie: $AMZN: starting to look very oversold now. took a beating in last 24 hours.\u201D <~~ #stockaction","lbl":"Positive"}
+,{"time":"15:45","usr":"jscmal","txt":"RT @eToro: eTorians \u201Clike\u201D Facebook and Yahoo. (And cut their total holdings in Apple stock) http://t.co/McsBRcPK $fb $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"17:03","usr":"thestockbandit","txt":"High-beta leadership lacking $AAPL $BIDU $GOOG $FFIV $CMG $AMZN $PCLN - http://t.co/v9iaOrjB","lbl":"Neutral"}
+,{"time":"18:36","usr":"CAMAR024","txt":"RT @stockhaven: Camaro24\u0027s Watchlist now featured on @Stockhaven, 10/11/12 http://t.co/kcZB2eco \u2026 $CHMR $CYRX $NGRC $PWEI $PPHM $INO $AAPL $SPY $AMZN","lbl":"Neutral"}
 ]

@@ -1,3 +1,6 @@
 [
 {"time":"9:21","usr":"ToddSullivan","txt":"Amazon shells out $1.16 billion to buy Seattle headquarters $AMZN http://t.co/9tuhHSi9","lbl":"Positive"}
+,{"time":"9:26","usr":"tinyreal","txt":"Market Autopsy Video For the Week Ending 10/05/12 $AAPL $SPY $DIA IWM $SPY $AMZN $NFLX $RIMM $GOOG more http://t.co/1OQLMA3o","lbl":"Neutral"}
+,{"time":"14:01","usr":"FinanceTrends","txt":"Something Ventured - 2011 documentary on the rise of Silicon Valley VCs http://t.co/HFCwnMwb $AAPL $DNA $INTC $AMZN","lbl":"Neutral"}
+,{"time":"14:06","usr":"rmarysel","txt":"RT @SeekingAlpha: RT @SeekingAlpha: 10 Top Global Retail Brands: Should You Invest? http://t.co/v7ZrXXZF $AAPL $AMZN $DIS $EBAY $LVMUY.PK $MCD $NKE","lbl":"Neutral"}
 ]

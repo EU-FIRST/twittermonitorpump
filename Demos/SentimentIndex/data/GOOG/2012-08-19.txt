@@ -1,4 +1,16 @@
 [
-{"time":"13:38","usr":"vrybdpkt","txt":"@37point2 it is for tickers. Like $fire or $goog or $fb","lbl":"Positive"}
+{"time":"5:49","usr":"HaxinatioN","txt":"Here\u0027s Some Really Good News For #Android Fans $GOOG http://t.co/l2KMEayq #technology","lbl":"Neutral"}
+,{"time":"7:11","usr":"d_ramsden","txt":"Summary of themes & trends in media, tech & related markets, heading into the fall. New post: http://t.co/ej6Pp8iA $FB $GOOG $AMZN $AAPL $$","lbl":"Neutral"}
+,{"time":"13:38","usr":"vrybdpkt","txt":"@37point2 it is for tickers. Like $fire or $goog or $fb","lbl":"Positive"}
+,{"time":"13:40","usr":"SeekingAlpha","txt":"Apple Is Still An Astute Equity Investment http://t.co/EJxkkRZX $AMZN $GOOG $ZNGA $AAPL","lbl":"Neutral"}
+,{"time":"13:41","usr":"vich100","txt":"RT @SeekingAlpha: Apple Is Still An Astute Equity Investment http://t.co/EJxkkRZX $AMZN $GOOG $ZNGA $AAPL","lbl":"Neutral"}
+,{"time":"14:05","usr":"meinkcnanf","txt":"RT @StockTwits: RT @njnigh Google upgrades Android maps as Apple battle looms $GOOG $AAPL http://t.co/1kDk6aZb","lbl":"Neutral"}
 ,{"time":"17:39","usr":"_thebigbadwolf_","txt":"The Butcher says #stocks always go up #stockmarket #trading #daytrading $tvix $vix $xiv $uvxy $AAPL $GOOG $EBAY $CSCO","lbl":"Positive"}
+,{"time":"17:45","usr":"_thebigbadwolf_","txt":"the gardener says #stocks always go up #stockmarket #trading #daytrading $tvix $vix $xiv $uvxy $AAPL $GOOG $EBAY $CSCO","lbl":"Neutral"}
+,{"time":"17:50","usr":"MarketCurrents","txt":"Motorola Mobility is counter-suing Apple (AAPL) yet again: the Google (GOOG) unit claims iOS de... http://t.co/31VF7Qid $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"17:52","usr":"EricJhonsa","txt":"Motorola suing Apple using non-standards-essential patents. Now the plot thickens. $AAPL $GOOG http://t.co/9rWVsPTj","lbl":"Neutral"}
+,{"time":"23:41","usr":"thefinancepress","txt":"$GOOG Oracle, Spotify, Heinz, Coldwell Banker: Intellectual Property: Oracle, Spotify, Heinz, Coldwell Banker: ... http://t.co/ebqPbNQ3","lbl":"Neutral"}
+,{"time":"23:47","usr":"KWALRULES","txt":"So google is getting into the cable/Internet providing business now..? Google #fiber $goog $aapl","lbl":"Neutral"}
+,{"time":"23:49","usr":"_mberman","txt":"$AMZN has a PE of 295, $GOOG has a PE of 20, and AMZN is going to put GOOG out of business? < what am I missing?","lbl":"Negative"}
+,{"time":"23:59","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Oracle, Spotify, Heinz, Coldwell Banker: Intellectual Property: Oracle, Spotify, Heinz, Coldwell Banker: ... http://t.co/ebqPbNQ3","lbl":"Neutral"}
 ]

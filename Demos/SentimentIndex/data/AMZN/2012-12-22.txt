@@ -1,1 +1,5 @@
-[]
+[
+{"time":"12:20","usr":"TMFJMo","txt":"@TMFBiggles Dropbox leases server space from $AMZN.","lbl":"Neutral"}
+,{"time":"15:27","usr":"vavoida","txt":"$AMZN shareholder letters \u002797-\u002711 http://t.co/AtgyFIzq ripe for disruption http://t.co/dEDdCPMc reveres invention http://t.co/R4lKsz3K","lbl":"Neutral"}
+,{"time":"15:30","usr":"BeautyBubble","txt":"\u0022Even though \u201Cthe heavy lifting is done by math\u201D, when making business decisions, the prime ingredient is human \u201Cjudgment.\u201D - 2004 $AMZN","lbl":"Neutral"}
+]

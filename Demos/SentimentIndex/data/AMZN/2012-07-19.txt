@@ -1,7 +1,13 @@
 [
-{"time":"10:05","usr":"madaznfootballr","txt":"All Tech on fire. $GOOG $PCLN $AMZN $AAPL $QQQ","lbl":"Positive"}
+{"time":"7:15","usr":"biggercapital","txt":"RT @manualofideas: Robert Hagstrom of Legg Mason: Is http://t.co/cgw6tqTg a Technology Company or a Retailer? $AMZN - GreatInvestors.TV: http://t.co/O4xNQlGF","lbl":"Neutral"}
+,{"time":"10:05","usr":"madaznfootballr","txt":"All Tech on fire. $GOOG $PCLN $AMZN $AAPL $QQQ","lbl":"Positive"}
+,{"time":"11:02","usr":"aznboi27","txt":"yep, $AMZN continues to rippppp, love the action!","lbl":"Neutral"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:46am: 224.26 +6.79 (+3.12%).","lbl":"Neutral"}
+,{"time":"11:26","usr":"novicetrader88","txt":"RT @chessNwine: NEW POST: \u0022Carefully Riding the Wave\u0022 http://t.co/8CdMc67s $AAPL $AMZN $IBB $IBM $QQQ $SMH $SPY","lbl":"Neutral"}
+,{"time":"12:10","usr":"LiqWave","txt":"$AMZN same-day, the final deathblow for $BBY? http://t.co/jKf2zMla","lbl":"Neutral"}
 ,{"time":"13:35","usr":"MichaelComeau","txt":"$AMZN same day delivery just might be a game changer","lbl":"Positive"}
 ,{"time":"14:41","usr":"corbett3000","txt":"@allnick Nope. Holding through it. I think $amzn\u0027s got room to run","lbl":"Positive"}
 ,{"time":"14:42","usr":"KeithMcCullough","txt":"big day for $AMZN, but immediate-term TRADE overbought right here","lbl":"Positive"}
+,{"time":"16:42","usr":"bluser12","txt":"@madaznfootballr Going to stay late at work and finish up what I have to do tomorrow so I can trade more. Pissed that I missed $AMZN today.","lbl":"Neutral"}
 ,{"time":"21:42","usr":"Stockloo","txt":"#Amazon ($AMZN) to offer same day delivery by next year. This could drastically effect $Walmart ($WMT)","lbl":"Positive"}
 ]

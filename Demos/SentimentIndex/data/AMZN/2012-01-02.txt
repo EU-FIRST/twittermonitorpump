@@ -1,6 +1,8 @@
 [
 {"time":"0:28","usr":"pnavarro88","txt":"$amzn looking for some support 160 in the cards. Be careful with dead cat bounce http://t.co/zXmnvKvX","lbl":"Negative"}
+,{"time":"12:49","usr":"simplestockqtes","txt":"Someone just got a simple quote on $amzn @simplestockqtes http://t.co/NfEl9cj7","lbl":"Neutral"}
 ,{"time":"12:51","usr":"jennymls","txt":"RT @TimOBrien: RT @howardlindzon: @bpeck 2012: $FBOOK more blatantly encroaches into $GOOG, $AMZN and $AAPL \u0027s domains. http://t.co/OEIaDwnp","lbl":"Negative"}
 ,{"time":"15:39","usr":"cselland","txt":"devastating - but spot on: Why Best Buy is Going out of Business...Gradually http://t.co/C0ois4dk $BBY $AMZN","lbl":"Positive"}
+,{"time":"18:59","usr":"HypFoods","txt":"My Favorite #BloodSugarSolution = Reduce/Eliminate refined sugar + #BanabaLeaf, http://t.co/NCK4QSyL via $AMZN > NOT reco\u0027d w/ InsulinUse","lbl":"Neutral"}
 ,{"time":"23:55","usr":"$AMZN","txt":"Started $BAC common pos last week. No major changes into 2012, but considering an $AMZN exit. Sticking with blog post: http://t.co/nP14wS3C","lbl":"Negative"}
 ]

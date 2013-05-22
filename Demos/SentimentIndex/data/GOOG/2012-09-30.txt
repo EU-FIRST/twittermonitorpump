@@ -1,3 +1,19 @@
 [
-{"time":"17:53","usr":"intersrchmedia","txt":"Google Shutting Down Adsense for Feeds, +1 Reports In Webmaster Tools, Classic Plus & More $goog http://t.co/PIrPw0gu #google","lbl":"Negative"}
+{"time":"0:35","usr":"NickInman_","txt":"#StockMarket Weekend Update 9-29-2012 HD: http://t.co/DoBIDts0 #StockAction $ES_F $AAPL $GOOG $GLD $SLV #StockPicks","lbl":"Neutral"}
+,{"time":"0:39","usr":"peter_gibbons","txt":"New Chart: The Map Gap http://t.co/e2Xk3fbF $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"0:43","usr":"MrFlyTrap","txt":"@stephanie_link hello,some months ago $GOOG approved a possible stock split, but i haven\u0027t heard much about it since.Will the split happen?","lbl":"Neutral"}
+,{"time":"9:08","usr":"kmingis","txt":"RT @richi: Google Maps app for iPhone 5 / iOS 6 -- Get it here - http://t.co/H90EIuqb - #ITBW for @computerworld by @richi $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:09","usr":"Computerworld","txt":"RT @richi: Google Maps app for iPhone 5 / iOS 6 -- Get it here - http://t.co/G6Zw1KAX - #ITBW #iphone5 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:11","usr":"ahmed_aly","txt":"RT @Computerworld: RT @richi: Google Maps app for iPhone 5 / iOS 6 -- Get it here - http://t.co/G6Zw1KAX - #ITBW #iphone5 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:12","usr":"IQ2020","txt":"RT @JoshNursing: RT @JoshNursing: Apple iPad dominates tablet-based web browsing with 98% share, report says http://t.co/QpUvVvB7 $AAPL $GOOG $ARMH","lbl":"Neutral"}
+,{"time":"13:16","usr":"Zmerch_","txt":"\u0022@StockTwits: RT @eyeonequities Best investing reads on the web from the past week http://t.co/7No3sn9G $FB $GOOG $AAPL $TSX.CA $RIM.CA $GM\u0022","lbl":"Neutral"}
+,{"time":"13:26","usr":"jessefelder","txt":"Google\u0027s self-guided car could drive the next wave of unemployment http://t.co/ee8hOvkR $GOOG","lbl":"Neutral"}
+,{"time":"17:53","usr":"Abmuku","txt":"Google Shutting Down Adsense for Feeds, +1 Reports In Webmaster Tools, Classic Plus & More $goog http://t.co/1uITgO3z #google","lbl":"Neutral"}
+,{"time":"17:53","usr":"celestichukumba","txt":"Google Shutting Down Adsense for Feeds, +1 Reports In Webmaster Tools, Classic Plus & More $goog http://t.co/a8kkEnOh #google","lbl":"Neutral"}
+,{"time":"17:53","usr":"intersrchmedia","txt":"Google Shutting Down Adsense for Feeds, +1 Reports In Webmaster Tools, Classic Plus & More $goog http://t.co/PIrPw0gu #google","lbl":"Negative"}
+,{"time":"17:53","usr":"torycapital","txt":"Google Shutting Down Adsense for Feeds, +1 Reports In Webmaster Tools, Classic Plus & More $goog http://t.co/Ns0c1JYa #google","lbl":"Neutral"}
+,{"time":"22:29","usr":"Mac42az","txt":"RT @z8angela: RT @z8angela: Just posted this special one: A Special Time for Reminiscence of My Trading Journey http://t.co/yVxNOr4S $AAPL $GOOG $$ #H ...","lbl":"Neutral"}
+,{"time":"22:30","usr":"smlinfodesign","txt":"Nokia Seals Mapping Deal With Oracle http://t.co/Mukla3A4 via @WSJ #mobi $NOK $ORCL #maps #data $GOOG $AAPL $MSFT $YHOO $AMZN $GRPN","lbl":"Neutral"}
+,{"time":"22:31","usr":"smluniverse","txt":"Nokia Seals Mapping Deal With Oracle http://t.co/CxocXq1E via @WSJ #mobi $NOK $ORCL #maps #data $GOOG $AAPL $MSFT $YHOO $AMZN $GRPN","lbl":"Neutral"}
+,{"time":"22:32","usr":"smlixd","txt":"Nokia Seals Mapping Deal With Oracle http://t.co/7xlyV6p5 via @WSJ #mobi $NOK $ORCL #maps #data $GOOG $AAPL $MSFT $YHOO $AMZN $GRPN","lbl":"Neutral"}
 ]

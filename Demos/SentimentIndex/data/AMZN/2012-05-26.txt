@@ -1,1 +1,9 @@
-[]
+[
+{"time":"6:30","usr":"Dividend_Lover","txt":"RT @mcilderman: Will #3DPrinting Make Hasbro A Model Of Failure? http://t.co/s9Ore5fs $AAPL $AMZN $MSFT $DIS #3dp #makerbot #Starwars","lbl":"Neutral"}
+,{"time":"6:33","usr":"TheSeek20826344","txt":"RT @mcilderman: Will #3DPrinting Make Hasbro A Model Of Failure? http://t.co/Aa5vb2fo $AAPL $AMZN $MSFT $DIS #Fabbing #3dp #makerbot","lbl":"Neutral"}
+,{"time":"6:34","usr":"TheSeek20826344","txt":"RT @mcilderman: Will #3DPrinting Make Hasbro A Model Of Failure? http://t.co/s9Ore5fs $AAPL $AMZN $MSFT $DIS #3dp #makerbot #Starwars","lbl":"Neutral"}
+,{"time":"11:45","usr":"LG_Graphic","txt":"APPLE SLAPS BACK: Government\u0027s E-Books Case Is \u0027Fundamentally Flawed\u0027 $AAPL $AMZN by @owenthomas http://t.co/RwvOW02G","lbl":"Neutral"}
+,{"time":"11:53","usr":"GrowTweets","txt":"RT @SuperNovaPromos: http://t.co/KihdVeMP : Find out if $FB , $AMZN, and $AAPL will go up or down; Get the charts.","lbl":"Neutral"}
+,{"time":"11:54","usr":"djnishka","txt":"RT @SuperNovaPromos: http://t.co/KihdVeMP : Find out if $FB , $AMZN, and $AAPL will go up or down; Get the charts.","lbl":"Neutral"}
+,{"time":"12:04","usr":"freespiderlinks","txt":"RT @SuperNovaPromos: http://t.co/KihdVeMP : Find out if $FB , $AMZN, and $AAPL will go up or down; Get the charts.","lbl":"Neutral"}
+]

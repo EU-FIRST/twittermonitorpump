@@ -1,5 +1,11 @@
 [
-{"time":"8:47","usr":"dontgiveup9","txt":"$AMZN - Amazon Stock Analysis - RSI is bearish and falling - http://t.co/Ynplx5nH","lbl":"Negative"}
+{"time":"8:44","usr":"barronstechblog","txt":"Verizon: Same Pricing for LTE iPad as for 3G - Tech Trader Daily - Barron\u0027s $VZ $T $S $AAPL $GOOG $RIMM $AMZN http://t.co/BJjwEhFz","lbl":"Neutral"}
+,{"time":"8:47","usr":"dontgiveup9","txt":"$AMZN - Amazon Stock Analysis - RSI is bearish and falling - http://t.co/Ynplx5nH","lbl":"Negative"}
 ,{"time":"9:57","usr":"OptionPundit","txt":"Book your 50% gains in $AMZN now, weekly 185 calls...just hit $1.13","lbl":"Positive"}
+,{"time":"10:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/184, $SPY/52, $GOOG/39, $YHOO/25, $GLD/22, $ALLT/21, $GS/20, $AMZN/19. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"10:35","usr":"StockMarketEnds","txt":"Amazon is Puppet of Anti Christ Greedy Zionists #Amazon #Corn $AMZN #Music #Videos #Audio #Stereo #Speakers #Mic #Rap #Soul #Songs #Lyrics","lbl":"Neutral"}
 ,{"time":"11:22","usr":"newsagg","txt":"Like clockwork $AMZN 60m chikou hits trailing 200ema and stalls http://t.co/uychjN29","lbl":"Negative"}
+,{"time":"17:42","usr":"eastmanweb","txt":"RT @firstadopter: ChangeWave survey on % of companies planning to buy $AAPL iPad next quarter: 84% vs. 77% last survey $AMZN 6% vs. 7% http://t.co/LPxUIdha","lbl":"Neutral"}
+,{"time":"22:01","usr":"investlite","txt":"On watch Wednesday: http://t.co/tCasTekT $AMZN $CVX $PEET $QCOM $NTAP $BAC $CRR $KFT $OPEN $NVDA $NFLX $GLD $YNDX $CLDX $KRO $IACI $HLF","lbl":"Neutral"}
+,{"time":"22:03","usr":"investlite","txt":"Charts: http://t.co/tCasTekT $AAPL $ALLT $AMZN $APA $BAC $BEAM $BRCM $CDLX $CRM $CRR $DE $GOOG $GS","lbl":"Neutral"}
 ]

@@ -1,26 +1,53 @@
 [
-{"time":"8:56","usr":"fabcara","txt":"RT @parklandtrader: @cnbcfastmoney See $AAPL and $GOOG turn here... good sign would get long both here for a pop..","lbl":"Positive"}
+{"time":"4:21","usr":"jgordin","txt":"RT @SAI: Google\u0027s First Tablet Will Start Shipping Next Month [REPORT] $GOOG by @sfiegerman http://t.co/MHVbcoKX","lbl":"Neutral"}
+,{"time":"6:56","usr":"iamSteveSosa","txt":"RT @CNNMoney: Google says it removes 1.2 million search results each month. Here\u0027s why: http://t.co/QMIYgphP $GOOG","lbl":"Neutral"}
+,{"time":"7:00","usr":"SeekingAlpha","txt":"Facebook And Friends http://t.co/OzpLTyWP $COP $CVS $GOOG $HD $HPQ $MO $NWS $OXY $SPG $UPS $UTX $V $FB","lbl":"Neutral"}
+,{"time":"8:33","usr":"Az_28","txt":"RT @CNNMoney: Google says it removes 1.2 million search results each month. Here\u0027s why: http://t.co/QMIYgphP $GOOG","lbl":"Neutral"}
+,{"time":"8:33","usr":"darkosint","txt":"RT @wallstCS: Is #Pinterest the Next #Facebook? http://t.co/WV1JFPjd $EB $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"8:34","usr":"choffman1978","txt":"$BPAX running again!! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s,$siri,$wmt,$jpm,$wfc,$gmcr","lbl":"Neutral"}
+,{"time":"8:54","usr":"rayno","txt":"Now reading >> It\u0027s Official: Google Is Now a Hardware Company http://t.co/gYQuT4BK via @BW $GOOG @investuprising","lbl":"Neutral"}
+,{"time":"8:55","usr":"choffman1978","txt":"$CORT moving up fast!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"8:56","usr":"BevVincent","txt":"RT @AliVelshi: Google says it removes 1.2 million search results each month. Here\u0027s why: http://t.co/N98bTjRV $GOOG","lbl":"Neutral"}
+,{"time":"8:56","usr":"fabcara","txt":"RT @parklandtrader: @cnbcfastmoney See $AAPL and $GOOG turn here... good sign would get long both here for a pop..","lbl":"Positive"}
+,{"time":"9:22","usr":"SuzyQJaco","txt":"$GOOG may go to 240 sma","lbl":"Neutral"}
 ,{"time":"9:22","usr":"OptionRunners","txt":"570x $GOOG June weekly puts I alerted at 2.35 now at 3.00 +27.7%","lbl":"Negative"}
+,{"time":"9:23","usr":"thefinancepress","txt":"$GOOG Google Expands Software Reach: Google Expands Software Reach StocksandShares.TV - 35 minutes ago Google ... http://t.co/bDEzSpfC","lbl":"Neutral"}
 ,{"time":"9:24","usr":"groditi","txt":"$GOOG - Risk/Reward not altogether unattractive here http://t.co/15iaHTK3","lbl":"Positive"}
+,{"time":"9:38","usr":"CompSpotlight","txt":"RT @CBOE: Active options @ CBOE: $AAPL, $CHK, $BAC, $GOOG, $JPM","lbl":"Neutral"}
+,{"time":"9:38","usr":"Minyanville","txt":"#JobHunting? Marketing tactics can help people find work right out of college http://t.co/aK3qqSjC @sterlingwong $LNKD $GOOG $FB","lbl":"Neutral"}
+,{"time":"9:39","usr":"njnigh","txt":"Google takes down 1.2 million search links a month over piracy, copyright issues $GOOG http://t.co/y5upCIE9","lbl":"Neutral"}
 ,{"time":"9:39","usr":"SemiBull","txt":"$GOOG having a hell of a day, sliced through 200DMA and on down","lbl":"Positive"}
 ,{"time":"9:54","usr":"RSKYTRDG","txt":"@61point8 Yes, I took advantage of shorting $GOOG and buying PUTS. Made some nice cash. Thx!!","lbl":"Negative"}
 ,{"time":"9:55","usr":"BanzaiTrader","txt":"$GOOG puts working http://t.co/iHOMEtwr","lbl":"Negative"}
 ,{"time":"9:55","usr":"takingstock614","txt":"$GOOG broke 200Day... probably has much lower to go.","lbl":"Negative"}
 ,{"time":"9:55","usr":"lovepapar","txt":"RT @StockTwits: $GOOG Is Trending on StockTwits http://t.co/zMFvJTAf w/ a break down on Volume the Stream Has Been All Over This","lbl":"Positive"}
+,{"time":"10:39","usr":"choffman1978","txt":"$BPAX UP AGAIN!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
 ,{"time":"10:40","usr":"BanzaiTrader","txt":"As @TraderFlorida would say, \u0022get the jelly out\u0022 $GOOG","lbl":"Negative"}
+,{"time":"11:20","usr":"mikeyavo","txt":"RT @ericjackson: Eric Jackson on Outlook for Google, Facebook via @BloombergTV http://t.co/kiv48Hf0 $FB $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"11:21","usr":"BHBgrouptrader","txt":"RT @ericjackson: Eric Jackson on Outlook for Google, Facebook via @BloombergTV http://t.co/kiv48Hf0 $FB $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"11:21","usr":"gregnb","txt":"closed $GOOG calls -.15 @ .70. it\u0027s just pinned can\u0027t catch a bounce not worth theta burn here taking the small loss","lbl":"Negative"}
 ,{"time":"12:04","usr":"lluccipha","txt":"SAI: REVIEW ROUNDUP: Samsung\u0027s Galaxy S III Might Just Make You Want To Switch To Android $GOOG by @_dtl http://t.co/Cm3XPNAb","lbl":"Positive"}
+,{"time":"12:05","usr":"Minyanville","txt":"Video taken from #Google glasses released #DailyFeed #ProjectGlass @mcs212 $GOOG http://t.co/D5MeF4ed","lbl":"Neutral"}
 ,{"time":"12:06","usr":"thefinancepress","txt":"$GOOG Search Engine Market Showing Signs Of Improvement (GOOG, BIDU, GRPN, ADBE): Search Engine Market Showing ... http://t.co/jphItp1h","lbl":"Positive"}
 ,{"time":"12:38","usr":"Janinestree","txt":"@optionmonster @petenajarian Might mean nothing but $AAPL and $GOOG starting to move to upside.. http://t.co/o2JYWITV","lbl":"Positive"}
 ,{"time":"12:38","usr":"Rosaski","txt":"RT @wallstCS: Microsoft Is Google\u0027s Biggest Headache http://t.co/eM6IcOJV $GOOG $MSFT $SNE $CMCSA #mkt #stocks","lbl":"Negative"}
 ,{"time":"12:40","usr":"paulawitshades","txt":"RT @wallstCS: Microsoft Is Google\u0027s Biggest Headache http://t.co/QMYDKWEx $GOOG $MSFT $SNE $CMCSA #mkt #stocks http://t.co/UPeNhlSS","lbl":"Negative"}
+,{"time":"12:42","usr":"SakuraChica","txt":"\u0022@tbi_warroom: The Brilliant Career Advice Google CEO Eric Schmidt Gave Sheryl Sandberg $GOOG $FB by @jyarow http://t.co/jOLBGyGq\u0022","lbl":"Neutral"}
 ,{"time":"13:28","usr":"wallstCS","txt":"What is Google+ Hiding? http://t.co/xsXPoqG8 $GOOG $FB #mkt #stocks #trading","lbl":"Negative"}
 ,{"time":"13:31","usr":"dyer440","txt":"@tjtakes All i see is your $GOOG idea finally breaking below 600, and a lower double top in $AAPL (bearish). Banks look anemic IMO.. ??","lbl":"Negative"}
 ,{"time":"14:17","usr":"toddstrade","txt":"$GOOG http://t.co/XUQjYmmO Breakdown from wedge and 200-day MA","lbl":"Negative"}
+,{"time":"14:17","usr":"Qwovadis","txt":"Commented on: \u0022Smartphones A Threat To Facebook\u0022 http://t.co/DsHEXO3k $GOOG $MSFT $JPM $MS $GS $FB","lbl":"Neutral"}
+,{"time":"14:17","usr":"choffman1978","txt":"$ACUR RUNNING! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"14:53","usr":"AFBMortgages","txt":"Best of StockTwits: The not-so great $GOOG-a Mooga?: Facebook continued to slide one week after its IPOuch. But ... http://t.co/cU1Xmws5","lbl":"Neutral"}
 ,{"time":"14:53","usr":"CNNMoneyInvest","txt":"Best of StockTwits: The not-so great $GOOG-a Mooga? http://t.co/kBYAJ2uy","lbl":"Negative"}
 ,{"time":"14:53","usr":"DTNStockMarket","txt":"DTN Stock Market: Best of StockTwits: The not-so great $GOOG-a Mooga?: Facebook continued to slide one week afte... http://t.co/Iu13cAUR","lbl":"Negative"}
 ,{"time":"14:53","usr":"marik_forex","txt":"Best of StockTwits: The not-so great $GOOG-a Mooga?: Facebook continued to slide one week after its IPOuch. But ... http://t.co/Pto7osDz","lbl":"Negative"}
+,{"time":"15:31","usr":"wallstCS","txt":"Your Cheat Sheet to Apple\u0027s Week of Stock Moving News http://t.co/B5ieXruw $AAPL $AMZN $BKS $GOOG $FB $BIDU $HPQ $INTC #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:32","usr":"ValentFinancial","txt":"Your Cheat Sheet to Apple\u0027s Week of Stock Moving News http://t.co/LoTOcEN4 $AAPL $AMZN $BKS $GOOG $FB $BIDU $HPQ $INTC #mkt #stocks","lbl":"Neutral"}
 ,{"time":"15:32","usr":"ValentFinancial","txt":"Apple and Google Lead Tech Titans on the Move http://t.co/eHxvNvAR $AAPL $GOOG $CSCO $MSFT $CMCSA #mkt #stocks","lbl":"Positive"}
+,{"time":"18:46","usr":"JTinKC","txt":"RT @chrispycrunch: Put Warrant activity suggests $FB will reach $22 --- http://t.co/132RBM0j $GOOG $MSFT $AOL","lbl":"Neutral"}
 ,{"time":"22:29","usr":"BigTicks","txt":"$GOOG News: IPO a \u0027missed opportunity\u0027 http://t.co/z79g8LPL #GOOG #missed #News","lbl":"Negative"}
+,{"time":"22:30","usr":"vsistla","txt":"@obrien I see #Twitter exit at a massive valuation well before the thought of IPO. $GOOG, $MSFT or $AAPL might eye the \u0022bird\u0022 of the century","lbl":"Neutral"}
 ,{"time":"22:33","usr":"Sermario","txt":"Mobile browser wars set to begin $FB $GOOG","lbl":"Negative"}
+,{"time":"22:35","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Chrome: Tab Sync\u0022 http://t.co/4K0IjqbC @googleresearch @googlechrome @google [follow @Viddy]","lbl":"Neutral"}
 ]

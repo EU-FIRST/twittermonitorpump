@@ -1,11 +1,34 @@
 [
-{"time":"8:56","usr":"choffman1978","txt":"Markets rally on likelyhood of Fed action! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd,$ctic,$dndn,$chtp,$v,#biotech","lbl":"Positive"}
+{"time":"5:07","usr":"timlav","txt":"@jimcramer do you think $GOOG is going to buy $RIMM or $NOK?","lbl":"Neutral"}
+,{"time":"5:08","usr":"_ChrisVersace","txt":"Not good 4 $RIMM - #Nokia 2 Cut 10,000 #Jobs by 2014, Closing Three Factories http://t.co/fKhCm15r $NOK $AAPL $GOOG #Samsung #smartphone $$","lbl":"Neutral"}
+,{"time":"7:44","usr":"wallstCS","txt":"Is Nokia Preparing to SELL? http://t.co/1xWwYwn3 $NOK $AAPL $GOOG $MSFT #mkt #stocks","lbl":"Neutral"}
+,{"time":"7:46","usr":"AlphaVN","txt":"The great Groupon pile-on http://t.co/Jxbx4qOv via @MSN_Money $GOOG $GRPN","lbl":"Neutral"}
+,{"time":"7:47","usr":"riisacoff","txt":"@LaMonicaBuzz If its hostile takeover target-buy now.$RIMM & $NOK = what?Merge and pkg sale to $GOOG. Elim device issues and open Android","lbl":"Neutral"}
+,{"time":"7:53","usr":"pennystockguys","txt":"$GOOG - 2nd UPDATE: Nokia Cuts Outlook, Announces 10,000 New Job Cuts http://t.co/MUnqShuo","lbl":"Neutral"}
+,{"time":"8:55","usr":"PennyLaneLuv","txt":"Commented on StockTwits: eyballing $GOOG 555p http://t.co/YX8x5h76","lbl":"Neutral"}
+,{"time":"8:55","usr":"LaMonicaBuzz","txt":"Nokia: Are the Finnish finished? Not looking good for $NOK. Don\u0027t believe any M&A hype. Buzz video. $AAPL $GOOG $RIMM http://t.co/5GpJYI5v","lbl":"Neutral"}
+,{"time":"8:56","usr":"choffman1978","txt":"Markets rally on likelyhood of Fed action! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd,$ctic,$dndn,$chtp,$v,#biotech","lbl":"Positive"}
+,{"time":"8:56","usr":"GreenCrestCap","txt":"#Nokia cutting another 10,000 jobs and making exec changes. Can they compete with #Samsung, #Apple, #Google in smartphones? $NOK $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:56","usr":"rcabrera1967","txt":"RT @SeekingAlpha: Buy Nokia Now: Its Patents Alone Are Worth $2.3 Per Share http://t.co/yVT1cmdu $AAPL $MSFT $QCOM $RIMM $GOOG $NOK","lbl":"Neutral"}
+,{"time":"9:56","usr":"choffman1978","txt":"$GMCR RUNNING!!! !!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd,$ctic,$dndn,$chtp,$v,#biotech","lbl":"Neutral"}
+,{"time":"9:57","usr":"NokWebDev","txt":"RT @SeekingAlpha: Buy Nokia Now: Its Patents Alone Are Worth $2.3 Per Share http://t.co/yVT1cmdu $AAPL $MSFT $QCOM $RIMM $GOOG $NOK","lbl":"Neutral"}
+,{"time":"9:57","usr":"choffman1978","txt":"Reports that Spanish banks only need a portion of bailout money!! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd","lbl":"Neutral"}
 ,{"time":"10:59","usr":"ChicagoRy","txt":"sorry, short $GOOG 563.68, not 562","lbl":"Negative"}
+,{"time":"11:00","usr":"LinkedInToday","txt":"Apple, Google and Amazon want their own domains http://t.co/bqrR6uOf on @CNET $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"11:00","usr":"ANDagency","txt":".coms are out? RT @linkedintoday: Apple, Google and Amazon want their own domains http://t.co/7ej9PgAd on @CNET $AAPL $GOOG $AMZN","lbl":"Neutral"}
 ,{"time":"11:00","usr":"jaystox","txt":"\u0022@IBDinvestors: Apple Gets Friendly With Baidu, While Shunning Google http://t.co/wWjq8SqK\u0022 personally I would short $GOOG - no position","lbl":"Negative"}
+,{"time":"12:13","usr":"MrCapital1","txt":"RT @SAI: Google Has Taken Over Its Search Results Page With Its Own Content And Ads $GOOG by @nichcarlson http://t.co/izz90hMM","lbl":"Neutral"}
 ,{"time":"12:14","usr":"tlmontana","txt":"Two Sectors That are Important now: Energy and Banks. <--- Tech is not leading. $GOOG $AAPL","lbl":"Negative"}
 ,{"time":"12:15","usr":"danshep55","txt":"$qcom $goog $aapl $pcln all red.. i know i feel good about this rally","lbl":"Negative"}
+,{"time":"12:15","usr":"jwhutchin","txt":"RT @SAI: Google Has Taken Over Its Search Results Page With Its Own Content And Ads $GOOG by @nichcarlson http://t.co/izz90hMM","lbl":"Neutral"}
+,{"time":"13:23","usr":"wallstCS","txt":"Why is AT&T Giving Apple its JUST DESSERTS? http://t.co/Mj2vtRhC $T $AAPL $GOOG $RIMM $MSFT $VMW #mkt #stocks","lbl":"Neutral"}
 ,{"time":"13:23","usr":"Bluechiptrend","txt":"Watching $GOOG for a possible Break of $559 level!","lbl":"Positive"}
 ,{"time":"13:24","usr":"Options_Maniac","txt":"Looking for more downside on $BIDU. $AAPL, $PCLN and $GOOG taking the day off I see.","lbl":"Negative"}
+,{"time":"14:29","usr":"BigTicks","txt":"$GOOG News: Apple Inc.\u0027s (NASDAQ:AAPL) WWDC Conference: Who Wins, Who \u2026 http://t.co/Ayn0a6s2 #GOOG #Apple #Conference","lbl":"Neutral"}
+,{"time":"14:29","usr":"thefinancepress","txt":"$GOOG Google (NASDAQ:GOOG) Option Players Tidy Up Pre-Expiration: Google (NASDAQ:GOOG) Option Players Tidy Up P... http://t.co/q9cdCsDr","lbl":"Neutral"}
 ,{"time":"14:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 14:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"16:21","usr":"Kolby_Smith","txt":"@adoht wanna go halfsies on $185k for .#SWAG? #DomainName #Internet $GOOG $FB http://t.co/FReKBb66","lbl":"Neutral"}
+,{"time":"16:26","usr":"marketmavenz","txt":"Thursday June 14 2012 Most Actives $JNJ $JPM $XOM $GE $BAC $AAPL $QCOM $GOOG $MSFT http://t.co/YnA5sutZ #stocks","lbl":"Neutral"}
+,{"time":"16:28","usr":"wjboynton","txt":"#Apple\u0027s Worldwide Developers Conference - Watch Out, #Microsoft And #Google - Seeking Alpha http://t.co/muYmiA9X $AAPL $GOOG $MSFT","lbl":"Neutral"}
 ,{"time":"20:28","usr":"AKPalit","txt":"#popcap reportedly pulling games from #google+. Still a mystery what use the social network really is. $goog $ea","lbl":"Negative"}
 ]

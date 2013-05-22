@@ -1,10 +1,40 @@
 [
-{"time":"7:57","usr":"halfDayTrader","txt":"Two big names to watch (for short today): $gs and $goog.","lbl":"Negative"}
+{"time":"5:15","usr":"TheStreet","txt":"Google Ups the Ante: $199 Laptop - TheStreet http://t.co/7KTdHlan @antonwahlman $GOOG $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"5:15","usr":"cztechnologies","txt":"RT @TheStreet: Google Ups the Ante: $199 Laptop - TheStreet http://t.co/7KTdHlan @antonwahlman $GOOG $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"5:15","usr":"S_T_O_C_K_S","txt":"RT @cnbcfastmoney: Your First Move for Tuesday, Nov. 13 http://t.co/Sy8SIjhL $AUD=X $GOOG $JCP $JOYG $JPY=X $YHOO #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"7:53","usr":"cubedh","txt":"RT @SeekingAlpha: Vringo: Guideline Calculations In Future Lawsuits http://t.co/JBoRix1C $FB $GOOG $MSFT $YHOO $VRNG","lbl":"Neutral"}
+,{"time":"7:56","usr":"DeVanDineen","txt":"@jimcramer $GOOG Chrome Laptop Price Cut $199/320GB. GOODorBAD for $MSFT $APPL $AMZN #Windows8 #Kindle","lbl":"Neutral"}
+,{"time":"7:56","usr":"eyeonequities","txt":"\u0022@SonaliVerma: Top-performing US stock funds http://t.co/lvwcIsfk $ZQQ.CA $QQC.CA $XQQ.CA $HXS.CA $ZUE.CA $CLU.CA $XSP.CA $AMZN $GOOG $MSFT\u0022","lbl":"Neutral"}
+,{"time":"7:57","usr":"halfDayTrader","txt":"Two big names to watch (for short today): $gs and $goog.","lbl":"Negative"}
+,{"time":"9:03","usr":"ADVFNplc","txt":"$GOOG - Visa Enlists More Banks in E-Commerce Battle http://t.co/4cpiaTnP","lbl":"Neutral"}
+,{"time":"9:09","usr":"HFTAlert","txt":"$aapl accumulators=top is main one..lower is market pressure..it must rise before a low is in. $goog http://t.co/7aQH4rLR","lbl":"Neutral"}
+,{"time":"9:13","usr":"JikoSakoy","txt":"RT @Dividend_Lover 3D Systems: Will #Apple Buy Into 3-D Printing? http://t.co/yMaDpnjv $AAPL $AMZN $GOOG $MSFT $DDD $SSYS #Mac","lbl":"Neutral"}
+,{"time":"10:16","usr":"drfager","txt":"$LMT & $RTN lead me to believe that defense stocks will not be gutted in current environment ..like $OXY,$SLB,$RRC,$LGF,$GOOG,$AAPL in here","lbl":"Neutral"}
+,{"time":"10:17","usr":"curgalff","txt":"RT @WhenToQuit: You can find this stock market story of the #fiscalcliff on $GOOG. This ending is solid $GLD and $SLV #ANA2012 #reading http://t.co/NFDXSCET","lbl":"Neutral"}
 ,{"time":"11:11","usr":"SJosephBurns","txt":"I sold my $GOOG for a $300 loss.","lbl":"Negative"}
+,{"time":"11:13","usr":"deeshie","txt":"RT @SAI: 15 Google Interview Questions That Made Geniuses Feel Dumb $GOOG by @nichcarlson http://t.co/M5p1HEj6","lbl":"Neutral"}
+,{"time":"11:13","usr":"BUDDIEE18","txt":"$GOOG \u0027s @ 666 ...lol","lbl":"Neutral"}
+,{"time":"11:14","usr":"Minyanville","txt":"Tech News: Windows Executive Steven Sinofsky Unexpectedly Leaves Microsoft $MSFT $GOOG $AAPL $AMZN http://t.co/r4KeSgRw","lbl":"Negative"}
+,{"time":"11:55","usr":"thefinancepress","txt":"$GOOG Google Says Governments Requesting More Content Removals: Google Says Governments Requesting More Content... http://t.co/ZTW0ZGxb","lbl":"Neutral"}
 ,{"time":"11:57","usr":"Sqwii","txt":"$GOOG looks bullish to me","lbl":"Positive"}
 ,{"time":"11:58","usr":"mike_wilhelm","txt":"Analysis: Google\u0027s #Android finally earns respect with developers http://t.co/7jrqNEbo via @reuters $GOOG","lbl":"Positive"}
+,{"time":"12:40","usr":"jonfortt","txt":"At least in presentation, $NOK mapping platform seems miles ahead of $AAPL in input/verification, though behind $GOOG","lbl":"Neutral"}
+,{"time":"12:40","usr":"JDLaurent","txt":"What\u0027s the general consensus now on #aapl $aapl buy or sell. #goog $goog also???","lbl":"Neutral"}
+,{"time":"12:41","usr":"AndrewSBenn","txt":"\u0022@businessinsider: 15 Google Interview Questions That Made Geniuses Feel Dumb $GOOG by http://t.co/oGTf5wiG\u0022","lbl":"Neutral"}
 ,{"time":"13:23","usr":"TweetLeni","txt":"$GOOG falling apart again","lbl":"Negative"}
+,{"time":"13:23","usr":"businessinsider","txt":"Airbnb Announces Neighborhoods, A Local Guide $YELP $GOOG by @owenthomas http://t.co/SeuIKo5q","lbl":"Neutral"}
+,{"time":"13:23","usr":"SAI","txt":"Airbnb Announces Neighborhoods, A Local Guide $YELP $GOOG by @owenthomas http://t.co/YG7K9FaT","lbl":"Neutral"}
+,{"time":"13:24","usr":"sergio_cuerda","txt":"\u201C@TheNextWeb: Google Fiber installations kick off in Kansas City today http://t.co/Y8LDBUOD by @psawers\u201D $goog","lbl":"Neutral"}
 ,{"time":"14:20","usr":"wallstCS","txt":"Apple Wins Square Footage War and 2 Tech Titans on the Move http://t.co/P39DN9Lw $AAPL $GOOG $INTC #mkt #stocks #trading #investing","lbl":"Positive"}
+,{"time":"14:23","usr":"Carina_Lermon","txt":"Android 4.2 multiuser support: Hands-on impressions and gallery - Computerworld (blog) #Android $Goog http://t.co/cfytD3UA","lbl":"Neutral"}
+,{"time":"14:24","usr":"racernic","txt":"closing $GOOG nov Iron condor -1.75. took in +3.11 to open few dys ago10x (43%of max profit). will reset another IC for dec. will post","lbl":"Neutral"}
+,{"time":"14:26","usr":"choffman1978","txt":"$BMTI SURGING 7%! #cnbc,#msnbc,#nyse,#wsj,$p,$gs,$goog,$aappl,$nflx,$fb,$bac,$gmcr,$aig,$wfc,$jpm,$dndn,$ctic,$gild,","lbl":"Neutral"}
+,{"time":"15:23","usr":"choffman1978","txt":"$BMTI surging nearly 10%! #cnbc,#msnbc,#nyse,#wsj,$p,$gs,$goog,$aappl,$nflx,$fb,$bac,$gmcr,$aig,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"15:24","usr":"2KnightsTrading","txt":"Oh $goog. Don\u0027t stop here","lbl":"Neutral"}
 ,{"time":"16:44","usr":"panamaorange","txt":"99$ hockey puck sized korean PC\u0027s ,running $GOOG OS, are the future. $HPQ $DELL $INTC $AMD premium desktop phenomenon is not coming back.","lbl":"Positive"}
 ,{"time":"16:56","usr":"StockTwits","txt":"And then Google ate the entire newspaper industry http://t.co/Z21vVcLF via @reformedbroker $GOOG","lbl":"Positive"}
+,{"time":"16:57","usr":"Fresh_NY","txt":"On flight from Chicago to NY. All biz class passengers on blackberry. The rest of the plane on iPhone & Android $RIMM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"20:10","usr":"whiteboardmag","txt":"$GOOG is pumping 1 million $ into a #Pier38 style startup hub in Berlin (but architecturally safe!). http://t.co/hxu6R6XG @whiteboardmag","lbl":"Neutral"}
+,{"time":"20:10","usr":"rafweverbergh","txt":"$GOOG is pumping 1 million $ into a #Pier38 style startup hub in Berlin (but architecturally safe!). http://t.co/ukh2WX6I @whiteboardmag","lbl":"Neutral"}
+,{"time":"20:13","usr":"MikePetes","txt":"$219 billion smartphone market up for grabs and $AAPL and $GOOG each with 700,000 apps http://t.co/FeopKmVC @BBW","lbl":"Neutral"}
 ]

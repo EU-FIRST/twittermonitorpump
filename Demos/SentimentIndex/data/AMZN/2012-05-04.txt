@@ -1,10 +1,19 @@
 [
-{"time":"9:12","usr":"MNYCx","txt":"$AMZN pulled to LOD levels soon it seems. Yes come to daddy, down with you.","lbl":"Negative"}
+{"time":"0:54","usr":"StockStandOff","txt":"$AMZN vs $EBAY: http://t.co/ywjv35Vc and http://t.co/uPnQtTPl add Pinterest Button to Product Pages http://t.co/Wpo6l3Kb #trading #stocks","lbl":"Neutral"}
+,{"time":"1:18","usr":"TraderArtblog","txt":"TraderArt: ($AAPL, $GOOG, $AMZN) Worldwide tablet shipments t... http://t.co/JIubnHTZ","lbl":"Neutral"}
+,{"time":"9:12","usr":"MNYCx","txt":"$AMZN pulled to LOD levels soon it seems. Yes come to daddy, down with you.","lbl":"Negative"}
 ,{"time":"9:17","usr":"InvestorPlace","txt":"#Target drops the #Kindle. C\u0027mon, #Bestbuy, you\u0027re up next. http://t.co/BCVdbiS7 $TGT $AMZN $BBY","lbl":"Negative"}
+,{"time":"10:26","usr":"wallstCS","txt":"Can Apple Wipe Out the TV Industry? http://t.co/XbTZf0bg $AAPL $NFLX $CMCSA $DIS $NWS $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:29","usr":"xtianz8","txt":"RT @wallstCS: Can Apple Wipe Out the TV Industry? http://t.co/XbTZf0bg $AAPL $NFLX $CMCSA $DIS $NWS $AMZN #mkt #stocks","lbl":"Neutral"}
 ,{"time":"12:40","usr":"Dyhelo","txt":"RT @SAI: Amazon\u0027s E-Ink Kindle Sales May Have Been A Disaster Last Quarter $AMZN by @MattRosoff http://t.co/m0leOwOC","lbl":"Negative"}
 ,{"time":"12:40","usr":"HedgeyeRetail","txt":"$AMZN making noise about its #MyHabit flash sale app. Expect more exclusive deals from higher end brands. AMZN needs it - its apparel stinks","lbl":"Negative"}
 ,{"time":"13:45","usr":"64turok","txt":"keeping my $amzn puts more room to fall next week. hope its not a mistake. Targeting 220 or if I am lucky lower.","lbl":"Negative"}
 ,{"time":"14:34","usr":"MNYCx","txt":"Next week i\u0027ll be looking to play $AMZN $PCLN $AAPL Puts, latter next stop 550 most likely next week or lower: http://t.co/Obvcim8c","lbl":"Negative"}
 ,{"time":"15:42","usr":"AlexRubalcava","txt":"@vitaliyk contrasting management of $AMZN and $NFLX (good) versus management of $BBY (bad) in dealing with disruptive change.","lbl":"Positive"}
+,{"time":"15:44","usr":"kylemowery","txt":"RT @AlexRubalcava: @vitaliyk contrasting management of $AMZN and $NFLX (good) versus management of $BBY (bad) in dealing with disruptive change.","lbl":"Neutral"}
 ,{"time":"18:33","usr":"AdrienneGallery","txt":"RT @CNNMoney: RT @FortuneMagazine: Was Amazon\u0027s Kindle Fire just a flash in the pan? http://t.co/htxZXoC0 $AMZN","lbl":"Negative"}
+,{"time":"20:07","usr":"jvaudio","txt":"RT @WithinRafael: MT @shanselman Wow, 256gig Crucial SSD for $199 at $AMZN http://t.co/BA0rADhj","lbl":"Neutral"}
+,{"time":"20:12","usr":"MarkRadacz","txt":"RT @shanselman: Wow, 256gig Crucial SSD for $199 at $AMZN http://t.co/0Bmczwv6","lbl":"Neutral"}
+,{"time":"20:15","usr":"sajidnizami","txt":"RT @shanselman: Wow, 256gig Crucial SSD for $199 at $AMZN http://t.co/0Bmczwv6","lbl":"Neutral"}
+,{"time":"20:16","usr":"ckincincy","txt":"I should have waited one month! RT @shanselman: Wow, 256gig Crucial SSD for $199 at $AMZN http://t.co/WNIEVETv","lbl":"Neutral"}
 ]

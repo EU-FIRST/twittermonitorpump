@@ -1,7 +1,15 @@
 [
 {"time":"7:11","usr":"CescaAntonelli","txt":"Companies risking wrath of voters with growing profit-wage gap? SocGen thinks so http://t.co/mugXN2ta $AMZN $COST","lbl":"Negative"}
+,{"time":"8:58","usr":"mikepmunroe","txt":"RT @ScottKirsner: Amazon leases 105,000 sq. feet of space in Kendall Square, on several floors of 101 Main St: http://t.co/7u60fAmn via @BostonGlobe $AMZN","lbl":"Neutral"}
 ,{"time":"9:55","usr":"prostocktrader","txt":"Observation: $AMZN looks vulnerable on break below 250 down to the 245 zone.","lbl":"Negative"}
 ,{"time":"10:21","usr":"MarketCurrents","txt":"Will this year\u0027s holiday shopping season be even more skewed toward online than forecast... http://t.co/MlanmzKl $AMZN $M $DKS $LTD","lbl":"Positive"}
 ,{"time":"10:23","usr":"FantasyDayTrade","txt":"RT @MarketCurrents: Will this year\u0027s holiday shopping season be even more skewed toward online than forecast... http://t.co/MlanmzKl $AMZN $M $DKS $LTD","lbl":"Positive"}
+,{"time":"11:38","usr":"andrescardenal","txt":"Five Mistaken Reasons to Sell Apple - $AMZN, $AAPL, $CHL, $GOOG, $MSFT : http://t.co/G0hCaZAm via @themotleyfool","lbl":"Neutral"}
+,{"time":"12:10","usr":"tradethembi","txt":"I added some white lines on $AMZN to show where green dot buyers have been adding, buying each dip http://t.co/iA5OyMvb","lbl":"Neutral"}
+,{"time":"12:11","usr":"nanophd","txt":"@jimcramer $AMZN + $BBY = B&M showrooms and local distribution centers giving a same day delivery advantage. Any Thoughts?","lbl":"Neutral"}
+,{"time":"13:39","usr":"MikeVodicka","txt":"5 Reasons Cisco is My Top Tech Pick for 2013. $AAPL, $GOOG, $AMZN, $CSCO. RT. http://t.co/Tn56HOsL","lbl":"Neutral"}
+,{"time":"14:49","usr":"Deltatrader1","txt":"RT @ericjackson: New Post: The US Government Just Gave Alibaba The Green Light to IPO, Helping Yahoo - Forbes http://t.co/6lamBQIE $YHOO $AMZN","lbl":"Neutral"}
+,{"time":"16:52","usr":"SoftwareAGCloud","txt":"So, #Rackspace to lead the hybrid cloud pack... http://t.co/qJFoQuN1 $AMZN $CSCO $DELL $GOOG $HPQ $MSFT $RAX $RHT $VMW","lbl":"Neutral"}
+,{"time":"20:39","usr":"mcilderman","txt":"Buy #Nuance Communications For These Reasons http://t.co/SbvbUNZK $NUAN $CRM $AAPL $AMZN $EBAY #Siri @modernistalpha","lbl":"Neutral"}
 ,{"time":"20:47","usr":"Kingston_Trader","txt":"January 185/285 $AMZN Short strangle...for now... http://t.co/YM7EDmzN","lbl":"Negative"}
 ]

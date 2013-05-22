@@ -1,4 +1,16 @@
 [
 {"time":"2:56","usr":"jimcramersucks","txt":"Google drives Blind Guy to Taco Bell http://t.co/ZWxYMfSl #hollywood #tmz #SourceFed $goog","lbl":"Positive"}
+,{"time":"3:04","usr":"i_am_ninja_cat","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/9ZTqzEFP #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"3:14","usr":"Kasie_Alford","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/MEY0VNvV $aapl $goog","lbl":"Neutral"}
+,{"time":"3:20","usr":"occupy_litterbx","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/A35dVMoi #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"8:32","usr":"AndreKiehne","txt":"RT @SAI: Check Out This Windows Project Glass Parody Video $GOOG $MSFT by @_dtl http://t.co/k6Jit3lU","lbl":"Neutral"}
+,{"time":"8:33","usr":"mbuguanjihia","txt":"YouTube Cofounders Announce Plans For A Magazine Publishing Service $GOOG http://t.co/iMx7dyx5","lbl":"Neutral"}
+,{"time":"8:34","usr":"khalidmbajwa","txt":"RT @SAI: YouTube Cofounders Announce Plans For A Magazine Publishing Service $GOOG by @_dtl http://t.co/mYVWAEtt","lbl":"Neutral"}
+,{"time":"8:36","usr":"ActsofFaithblog","txt":"RT @SAI: YouTube Cofounders Announce Plans For A Magazine Publishing Service $GOOG by @_dtl http://t.co/mYVWAEtt","lbl":"Neutral"}
+,{"time":"11:20","usr":"maxptrade","txt":"RT @PipCzar: Sunday Weekly EDGE on http://t.co/NbhqBmYJ http://t.co/JQEBSNNc $ES_F $HG_F $AA $GOOG $JPM $WFC","lbl":"Neutral"}
+,{"time":"11:21","usr":"tyrgr","txt":"There\u0027s Already A Hilarious Parody Video Of Google\u0027s Augmented Reality Glasses $GOOG by @stevekovach http://t.co/V8OgnG6N","lbl":"Neutral"}
+,{"time":"11:21","usr":"dheald84","txt":"RT @SAI: YouTube Cofounders Announce Plans For A Magazine Publishing Service $GOOG by @_dtl http://t.co/mYVWAEtt","lbl":"Neutral"}
 ,{"time":"11:34","usr":"AAinslie","txt":"\u0022So to all who say that @GoogleWallet is finished, I say this. You are wrong.\u0022 ~@cherian_abraham http://t.co/TjCGaFsE #payments $GOOG $$","lbl":"Positive"}
+,{"time":"16:40","usr":"daily_cycle","txt":"RT @SAI: YouTube Cofounders Announce Plans For A Magazine Publishing Service $GOOG by @_dtl http://t.co/mYVWAEtt","lbl":"Neutral"}
+,{"time":"16:58","usr":"mstrnatural","txt":"RT @adamfeuerstein: Great --> \u201C@LDrogen: Hilarious $MSFT Windows parody of the $GOOG glasses http://t.co/qNGmjaHJ\u201D","lbl":"Neutral"}
 ]

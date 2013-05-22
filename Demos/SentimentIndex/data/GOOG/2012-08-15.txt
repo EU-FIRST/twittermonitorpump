@@ -1,24 +1,65 @@
 [
-{"time":"7:43","usr":"RedDogT3Live","txt":"Morning Call (in the spirit of pre-season football): Bears Still in the Game After Goal-Line Stand http://t.co/Yr5tSZsx $AAPL $GOOG $SPY","lbl":"Negative"}
+{"time":"5:40","usr":"Furbonacci","txt":"Commented on: \u0022Apple\u0027s Worst Enemy: Apple\u0022 http://t.co/2baZ3uLd $AAPL $ADBE $AMZN $CSTR $GOOG $MSFT $NFLX $P $SNE","lbl":"Neutral"}
+,{"time":"5:48","usr":"BigVeech","txt":"The Real Smart Money: Producer Price Index: July 2012 $SPY $AAPL $GOOG $PG $JNJ $XOM $CLF http://t.co/vDpX72Qf","lbl":"Neutral"}
+,{"time":"6:00","usr":"Stashpress","txt":"RT @russian_market: Hmmm\u2026 @Youtube deletes #PussyRiot videos. Well, $GOOG wants to work in Russia too in the end. http://t.co/QLbSBpRu","lbl":"Neutral"}
+,{"time":"7:43","usr":"EstherLastra","txt":"San Francisco Bus Ad Calls Palestinians \u0027Savage\u0027 \u2014 Here\u0027s Today\u0027s Ad Brief $GRPN $GOOG $DPZ by @Jim_Edwards http://t.co/KYx6uvXd","lbl":"Neutral"}
+,{"time":"7:43","usr":"RedDogT3Live","txt":"Morning Call (in the spirit of pre-season football): Bears Still in the Game After Goal-Line Stand http://t.co/Yr5tSZsx $AAPL $GOOG $SPY","lbl":"Negative"}
+,{"time":"7:44","usr":"RedDogT3Live","txt":"I will be on Bloomberg TV at 9:00 today $spy $qqq $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"7:46","usr":"Tenamaxtli","txt":"RT @jorgeescudero77: RT @clusterstock: 10 Things You Need To Know Before The Opening Bell $TGT $CSCO $NYT $GOOG $WMT by @ericgplatt http://t.co/jAFaiDB5","lbl":"Neutral"}
+,{"time":"8:29","usr":"hertcapital","txt":"RT @andrewnyquist: $GOOG Technical Update w/ DeMark count http://t.co/ysCT1VHr","lbl":"Neutral"}
+,{"time":"8:29","usr":"leopardtrader","txt":"$GOOG now on the move to $750. Look for their suppliers/biz partners. They will participate eventually :)","lbl":"Neutral"}
 ,{"time":"8:29","usr":"JustinPulitzer","txt":"@smartertrader $GOOG looks good, but be on guard for a large topping tail close as a topping signal. $$","lbl":"Positive"}
 ,{"time":"8:59","usr":"SpeedSixx2","txt":"sold $GOOG Aug 670 puts for 5.40, into the gap fill","lbl":"Positive"}
+,{"time":"9:00","usr":"ChrisStuntz","txt":"in $GOOG W 665 P @ 2.57","lbl":"Neutral"}
 ,{"time":"9:01","usr":"boogidown","txt":"short both $GOOG Aug12 665 Put and $AAPL short via Aug12 625 Put","lbl":"Negative"}
 ,{"time":"9:03","usr":"ChrisStuntz","txt":"$GOOG might retest the R1 Pivot @ 663 or MA10 before rocketing higher in the coming days/next week","lbl":"Positive"}
+,{"time":"9:38","usr":"Fuelnu","txt":"RT @SeekingAlpha: What Patent Peace Looks Like http://t.co/vSP4TIpw $AAPL $AMZN $GOOG $SSNLF.PK $MSFT","lbl":"Neutral"}
+,{"time":"9:38","usr":"aznboi27","txt":"in $GOOG 665 W P @ 3.50 x 5","lbl":"Neutral"}
+,{"time":"9:39","usr":"MoeGlitz","txt":"RT @businessinsider: This Stanford Professor\u0027s Early Investment In Google Is Now Worth More Than $1 Billion $GOOG by @sfiegerman http://t.co/IdqpoFHs","lbl":"Neutral"}
+,{"time":"10:07","usr":"mdaprasad","txt":"@Couzin_Vinny thanks...took it from $GOOG mail...","lbl":"Neutral"}
 ,{"time":"10:07","usr":"ELkadyKareem","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
 ,{"time":"10:07","usr":"MychaelBlue","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
 ,{"time":"10:07","usr":"ninukidman","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
 ,{"time":"10:24","usr":"0x00string","txt":"\u0022@ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46\u0022","lbl":"Positive"}
+,{"time":"10:24","usr":"situate","txt":"Why $AAPL doesn\u0027t just sue $GOOG and get it over with http://t.co/W5Xsw81P","lbl":"Neutral"}
 ,{"time":"10:24","usr":"aznboi27","txt":"Just adding to $GOOG $FB puts.. it\u0027s going to fall soon","lbl":"Negative"}
 ,{"time":"10:25","usr":"HFTAlert","txt":"$goog accumulator flattened at the retracement to 671 from 667-if you trade ranges 671 was it. http://t.co/Bzy3Nh7N","lbl":"Negative"}
+,{"time":"10:55","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Apple Inc. (NASDAQ:AAPL) iPad Will be Your Next Choice or Google Tablet ...: Apple Inc. (NASDAQ:AAPL) iPa... http://t.co/kPXc1Uj5","lbl":"Neutral"}
+,{"time":"10:56","usr":"Leaf_West","txt":"$GOOG ... intra-day trade video #4 http://t.co/oUCUwc9A","lbl":"Neutral"}
+,{"time":"10:57","usr":"hayitsDavey","txt":"$GOOG should buy $GNOM. Think about that... There are much less crazy ideas.","lbl":"Neutral"}
 ,{"time":"11:49","usr":"z8angela","txt":"@deliciousAAPL Market has little strength on lite vol..Calm before a storm? $AAPL & $GOOG stalled. Hold half AAPL puts & traded it around.","lbl":"Negative"}
+,{"time":"11:50","usr":"SeekingAlpha","txt":"Who\u0027s Winning The Race To Replace Television? http://t.co/EF9fdRl9 $AAPL $AMZN $CMCSA $CSTR $GOOG $NFLX $VIAB $DTV","lbl":"Neutral"}
 ,{"time":"12:15","usr":"Fitzstock2004","txt":"So far , NICE EXITS in $goog","lbl":"Negative"}
 ,{"time":"12:15","usr":"ppprophet","txt":"sell $GOOG get your money back! . The #stockmarket will crash 12.21.12 #trading #daytrading #stocks $vix $tvix $uvxy","lbl":"Negative"}
+,{"time":"12:16","usr":"aznboi27","txt":"if $GOOG loses that 666 support, I\u0027m going to go crazy. =P","lbl":"Neutral"}
 ,{"time":"12:17","usr":"creeksidecap","txt":"@RedDogT3Live $GOOG shaping up for a \u0022reddog reversal\u0022 today. What do you think?","lbl":"Negative"}
 ,{"time":"12:52","usr":"Majd_twit","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
+,{"time":"12:53","usr":"paulwoll","txt":"Not a big one.. $AAPL might get back to 630 before resuming selling. might operative word with $GOOG looking lower.","lbl":"Neutral"}
 ,{"time":"12:53","usr":"frankfeil","txt":"RT @ReutersInsider: Forget $AAPL, check out $GOOG. #Google hitting another 52-week high today at $677.46","lbl":"Positive"}
+,{"time":"14:01","usr":"bduperrin","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Negative"}
+,{"time":"14:01","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Highs and Lows: Google, Constellation Brands, Staples, and Office Depot: Highs and Lows: Google, Constell... http://t.co/3iyDvo3a","lbl":"Neutral"}
+,{"time":"14:02","usr":"gonzague","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Neutral"}
+,{"time":"14:02","usr":"thiagoricieri","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Negative"}
+,{"time":"14:31","usr":"BigTicks","txt":"$GOOG News: Highs and Lows: Google, Constellation Brands, Staples, and Office Depot http://t.co/buVwVyJn #GOOG #Brands #Constellation","lbl":"Neutral"}
+,{"time":"14:35","usr":"celiabennett","txt":"Letting the jets cool on $GOOG; will look for another entry Fri or next week. Still net long $GOLD.","lbl":"Neutral"}
 ,{"time":"14:35","usr":"David_Mansfield","txt":"@chrisbeanie1 See no value in $FB, long or short term. Play $GOOG for social media exposure or wait for Twitter to go public","lbl":"Positive"}
+,{"time":"15:14","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Kodak Reaches Film Deals With Four Movie Studios http://t.co/y0HB3ABJ","lbl":"Neutral"}
+,{"time":"15:15","usr":"todedwards","txt":"@svyia Which of these stocks will make an easy trade? $AAPL $GOOG $FB $NFLX http://t.co/oIn6qzWa #stockmarket #forex","lbl":"Neutral"}
+,{"time":"15:15","usr":"SAI","txt":"Here\u0027s How Samsung\u0027s New Galaxy Note 10.1 Tablet Compares To The iPad $AAPL $GOOG by @stevekovach http://t.co/qlvZEuuF","lbl":"Neutral"}
+,{"time":"15:15","usr":"SAI_Tools","txt":"Here\u0027s How Samsung\u0027s New Galaxy Note 10.1 Tablet Compares To The iPad $AAPL $GOOG by @stevekovach http://t.co/LTovuGM5","lbl":"Neutral"}
+,{"time":"16:06","usr":"AlphaClone","txt":"Jana Partners other top new buys include $PSX (also a new buy for Buffett), $AOL, $ARCT, $GOOG, $KMI","lbl":"Neutral"}
+,{"time":"16:06","usr":"LazaroIbanez","txt":"RT @SAI: The Little Device That Might Change TV Forever Is Going To Launch In A Few Weeks $GOOG by @_dtl http://t.co/LPh5pXuJ","lbl":"Neutral"}
+,{"time":"16:07","usr":"IndieFilmNOLA","txt":"The Little Device That Might Change TV Forever Is Going To Launch In A Few Weeks $GOOG by @_dtl http://t.co/NKzOwEJK","lbl":"Neutral"}
+,{"time":"16:07","usr":"hijackiv","txt":"Commented on StockTwits: no vol on the market whatsoever other thatn $GOOG &AAPL http://t.co/Zm41fmm9","lbl":"Neutral"}
+,{"time":"17:03","usr":"strong_island","txt":"RT @SAI: The Little Device That Might Change TV Forever Is Going To Launch In A Few Weeks $GOOG by @_dtl http://t.co/iUIwXIFa","lbl":"Neutral"}
 ,{"time":"17:04","usr":"ctreada","txt":"RT @investorsmosaic: This graph shows why the hype should be about Google, not Facebook. $GOOG $FB http://t.co/B8j2I20g","lbl":"Positive"}
+,{"time":"17:05","usr":"MarketQuoter","txt":"@jimcramer talking about my three favorite stocks $AMZN $AAPL $GOOG, own all of them!","lbl":"Positive"}
+,{"time":"17:05","usr":"neivy","txt":"RT @SAI: The Little Device That Might Change TV Forever Is Going To Launch In A Few Weeks $GOOG by @_dtl http://t.co/LPh5pXuJ","lbl":"Neutral"}
 ,{"time":"18:41","usr":"Paint_Shield","txt":"\u201C@SeekingAlpha: Avoid IBM; Buy HP, RIM Instead http://t.co/8KqiORhb $GOOG $HPQ $RIMM $IBM\u201D Buy none of that.","lbl":"Negative"}
+,{"time":"18:42","usr":"thefinancepress","txt":"$GOOG Google Asked Samsung to Make Design Less Like Apple, Lawyer Says: Google Asked Samsung to Make Design Les... http://t.co/5D4srj6Q","lbl":"Neutral"}
 ,{"time":"18:42","usr":"sciencetrader","txt":"insider selling: $GOOG\u0027s Page sells another 27,778 shares on 8/15 at 668.00","lbl":"Negative"}
+,{"time":"18:48","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Google Asked Samsung to Make Design Less Like Apple, Lawyer Says: Google Asked Samsung to Make Design Les... http://t.co/5D4srj6Q","lbl":"Neutral"}
 ,{"time":"21:34","usr":"mel_huang","txt":"$GOOG has been up over 15% in past month, bought it on lull as well, but also think it\u0027s time to sell soon...","lbl":"Positive"}
+,{"time":"21:38","usr":"DeidreZune","txt":"WHOA: Apple Might Strike Deals With Cable Companies That Could Change TV Forever http://t.co/K26V5F7c $AAPL $GOOG $MSFT $NFLX","lbl":"Neutral"}
+,{"time":"21:44","usr":"tywannabe","txt":"Apparently you can do this now: $goog","lbl":"Neutral"}
 ]

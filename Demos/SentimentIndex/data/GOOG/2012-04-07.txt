@@ -1,5 +1,11 @@
 [
 {"time":"4:40","usr":"optionspirate","txt":"Google drives Blind Guy to Taco Bell http://t.co/zVvNlKvr #hollywood #tmz #SourceFed $goog","lbl":"Positive"}
+,{"time":"4:51","usr":"Mktgeistcom","txt":"Nasdaq100 http://t.co/yQsA3OHd $aapl $adbe $nvda $ebay $goog $NWSA","lbl":"Neutral"}
+,{"time":"4:58","usr":"UmarAlam","txt":"RT @wallstCS: Google Switches Focus Away from This Failing Business http://t.co/AsPwfRx2 $GOOG $BKS $AMZN #stocks #mkt #trading","lbl":"Neutral"}
+,{"time":"5:23","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Project Glass\u0022: http://t.co/LEqT3Xi7 @Forbes @Reuters_Biz @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
+,{"time":"10:30","usr":"equitiesgroup","txt":"The #tech industry teeters on the brink of #Yahoo #Facebook #Google and #Vringo Patent Wars: http://t.co/z6HxLKQM $FB $GOOG $VRNG $YHOO","lbl":"Neutral"}
 ,{"time":"10:30","usr":"equitiescom","txt":"The #tech industry teeters on the brink of #Yahoo #Facebook #Google and #Vringo Patent Wars: http://t.co/c5KGCyvU $FB $GOOG $VRNG $YHOO","lbl":"Negative"}
 ,{"time":"10:30","usr":"EquitiesNetwork","txt":"The #tech industry teeters on the brink of #Yahoo #Facebook #Google and #Vringo Patent Wars: http://t.co/2sECbvJX $FB $GOOG $VRNG $YHOO","lbl":"Negative"}
+,{"time":"10:34","usr":"lukeadevlin","txt":"$AAPL a trillion dollar company? Its share price has now rose above that of $GOOG","lbl":"Neutral"}
+,{"time":"16:57","usr":"manualofideas","txt":"$RIMM vs $FSLR: The former is clearly in decline due to $AAPL, $GOOG; latter suffers from industry slump. Which is less likely a value trap?","lbl":"Neutral"}
 ]

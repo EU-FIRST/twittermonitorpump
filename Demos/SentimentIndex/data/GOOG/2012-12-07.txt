@@ -1,11 +1,44 @@
 [
 {"time":"6:12","usr":"FreeMrktCptlst","txt":"$GOOG is NOT $AAPL\u2026people only use $GOOG services cause they\u0027re free. If $GOOG starts charging people for shit, buh-bye","lbl":"Negative"}
+,{"time":"6:27","usr":"TechWzrd","txt":"Google close to deal to sell Motorola STB business - report - Telecompaper: http://t.co/Bpq3DBCj $GOOG $ARRS $TIVO","lbl":"Neutral"}
+,{"time":"6:28","usr":"tantacom","txt":"Mobile Payments: The Coming Growth Engine For Wireless Carriers http://t.co/Gea8vWt2 $AAPL $BCE $DTEGY.PK $GOOG $MSFT $NOK $RCI","lbl":"Neutral"}
+,{"time":"8:24","usr":"luizsemine","txt":"RT @businessinsider: This Latest News From Google Has To Worry Microsoft: It\u0027s An Attack On Microsoft\u0027s Last Line Of Defense $GOOG http://t.co/FKyhU7C0","lbl":"Neutral"}
+,{"time":"9:14","usr":"LapinaMargarita","txt":"RT @SAI: Google+ Leader Vic Gundotra: Larry Page Asked Me To Stop Tweeting $GOOG by @jyarow http://t.co/vaC4Mun8","lbl":"Neutral"}
+,{"time":"9:16","usr":"TheSaaSGuy","txt":"Will $GOOG buy $TIVO? By @savitz http://t.co/YI0j194U via @TedatACA","lbl":"Neutral"}
 ,{"time":"9:16","usr":"mg3rewinder","txt":"How Google Ruined Its First True Social Network $GOOG $FB by @meganrosedickey http://t.co/Op2V07G3","lbl":"Negative"}
+,{"time":"9:59","usr":"Paul3222","txt":"@CFAinvestored $GOOG defied all precedent","lbl":"Neutral"}
+,{"time":"11:03","usr":"Moneybags9","txt":"@CAMAR024 Wow that $goog 700 call is killing me!","lbl":"Neutral"}
+,{"time":"11:07","usr":"Carina_Lermon","txt":"Snapseed launches on Android with Google+ integration, now ... #Android $GOOG http://t.co/G2xGtZRE","lbl":"Neutral"}
 ,{"time":"11:59","usr":"GEQSense","txt":"Do it hahahahahah \u201C@asyurei3: Look at that death spiral on $GOOG makes me want to buy. Seriously.\u201D","lbl":"Positive"}
 ,{"time":"12:00","usr":"asyurei3","txt":"$GOOG buy chance would be 684 if it gets there.","lbl":"Positive"}
 ,{"time":"12:01","usr":"racernic","txt":"closed lower legs of wkly $GOOG iron condor exp 2day for .03. almost full prof. no sense leaving the risk. 675/70 15x","lbl":"Negative"}
+,{"time":"12:32","usr":"pipespier","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $MSFT $AMZN by @nichcarlson http://t.co/7S61W5sm","lbl":"Neutral"}
+,{"time":"12:33","usr":"GoldschmPlaar","txt":"Investing In Science Fiction Tech: Artificial Intelligence http://t.co/tW8iD3tG $FB $GOOG $IBM $MSFT $NUAN $YAMCF.PK","lbl":"Neutral"}
 ,{"time":"12:33","usr":"Flock_2","txt":"RT @SAI: GOLDMAN: Here\u0027s Why Google Is \u0027Challenged\u0027 In Mobile $GOOG by @jyarow http://t.co/OicU8CaI","lbl":"Negative"}
+,{"time":"13:04","usr":"optionsandpenny","txt":"RT @NorthmanTrader: some improvement building in tech $GOOG, $FB, $NFLX, even ever so slightly $AAPL..","lbl":"Neutral"}
+,{"time":"13:04","usr":"StockMarket411","txt":"How Much It Would Cost Google To Become A National Cable Company Like Comcast $goog http://t.co/8AuyQ2N0 goog, google, google stock, news","lbl":"Neutral"}
 ,{"time":"13:05","usr":"sctandogdu","txt":"RT @SAI: GOLDMAN: Here\u0027s Why Google Is \u0027Challenged\u0027 In Mobile $GOOG by @jyarow http://t.co/OicU8CaI","lbl":"Negative"}
+,{"time":"13:59","usr":"Mededitor","txt":"So the Google Glasses use a bone-conducting speaker - only the wearer can hear. http://t.co/OSLDldg8 #tech $GOOG","lbl":"Neutral"}
+,{"time":"14:00","usr":"MSPLLC","txt":"RT @wallstCS: Apple-Samsung Battles Rages On and 3 Tech Titans on the Move http://t.co/h3JEBiM1 $AAPL $GOOG $MSFT $INTC #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"14:41","usr":"Kitsune808","txt":"RT @HFTAlert: algos have been playing this market like a ping pong ball today...some big programs. $spy $vxx $aapl $goog","lbl":"Neutral"}
+,{"time":"14:43","usr":"mench90","txt":"RT @SAI: Suddenly Google\u0027s Stock Quotes Look Different $YHOO $GOOG $AOL $TWX by @owenthomas http://t.co/GuNQgI6s","lbl":"Neutral"}
+,{"time":"14:44","usr":"berkesch","txt":"#Invest in Science Fiction Technology: Artificial Intelligence http://t.co/Oe8lAS5u $FB $GOOG $IBM $MSFT $NUAN $YAMCF.PK $AAPL #AI #apple","lbl":"Neutral"}
+,{"time":"15:41","usr":"Carina_Lermon","txt":"Top 3 Android phones on AT&T [December 2012] - Computerworld (blog) #Android $Goog http://t.co/sMcyEHO6","lbl":"Neutral"}
+,{"time":"15:41","usr":"CraigLuna","txt":"RT @SAI: CHART OF THE DAY: The Collapse Of Microsoft\u0027s Monopoly $AAPL $MSFT $GOOG by @jyarow http://t.co/BKY8Swl9","lbl":"Neutral"}
+,{"time":"15:41","usr":"JLLeterme","txt":"RT @SAI: CHART OF THE DAY: The Collapse Of Microsoft\u0027s Monopoly $AAPL $MSFT $GOOG by @jyarow http://t.co/sOrAPAqZ","lbl":"Neutral"}
 ,{"time":"16:08","usr":"GSUTrader","txt":"RT @AlyceLomax: Rumors that Google might buy Groupon apparently floating around. I think I\u0027d majorly lose respect for Google. $GOOG $GRPN","lbl":"Negative"}
+,{"time":"16:09","usr":"Acliffe","txt":"AGREE! RT @AlyceLomax Rumors Google might buy #Groupon apparently floating around. I think I\u0027d majorly lose respect for Google. $GOOG $GRPN","lbl":"Neutral"}
 ,{"time":"16:10","usr":"JerrrrrBear","txt":"$GOOG rumored to possibly buying $GRPN? I didn\u0027t know it was already April 1st. That would be one dumb M&A.","lbl":"Negative"}
+,{"time":"16:51","usr":"RyanJF2012","txt":"RT @Reuters: Exclusive: Google to replace M&A chief http://t.co/kPwFxx2r $GOOG","lbl":"Neutral"}
+,{"time":"16:51","usr":"karlus","txt":"RT @Real_MNA: Groupon Surges on Google Takeover Speculation: http://t.co/QQhWjMfC via @BloombergNews $GRPN $GOOG #mna","lbl":"Neutral"}
+,{"time":"16:51","usr":"atlanta_lawfirm","txt":"RT @Reuters: Exclusive: Google to replace M&A chief http://t.co/kPwFxx2r $GOOG","lbl":"Neutral"}
+,{"time":"17:14","usr":"KimCheeMichael","txt":"RT @Reuters: Exclusive: Google to replace M&A chief http://t.co/kPwFxx2r $GOOG","lbl":"Neutral"}
+,{"time":"17:14","usr":"TechWzrd","txt":"Does Google Have a Plan B? http://t.co/PG4k8i6C via @Light_Reading $TIVO $GOOG $ARRS","lbl":"Neutral"}
+,{"time":"17:18","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/rvGMjOzf","lbl":"Neutral"}
+,{"time":"17:43","usr":"chriseaster","txt":"RT @MWTickersSChang: Groupon soars on speculation that Google may reconsider buying the daily deal company. http://t.co/dsZXpl3q $GRPN $GOOG","lbl":"Neutral"}
+,{"time":"17:43","usr":"SOruthless_305","txt":"RT @MWTickersSChang: Groupon soars on speculation that Google may reconsider buying the daily deal company. http://t.co/dsZXpl3q $GRPN $GOOG","lbl":"Neutral"}
+,{"time":"17:44","usr":"pdparticle","txt":"RT @MWTickersSChang: Groupon soars on speculation that Google may reconsider buying the daily deal company. http://t.co/dsZXpl3q $GRPN $GOOG","lbl":"Neutral"}
+,{"time":"19:34","usr":"jabailo","txt":"Are Apple and Google in Race for North Carolina\u0027s \u0027Black Gold\u0027? $AAPL $GOOG http://t.co/r7O6jrzj via @minyanville","lbl":"Neutral"}
+,{"time":"19:35","usr":"amyers","txt":"RT @MWTickersSChang: Groupon soars on speculation that Google may reconsider buying the daily deal company. http://t.co/dsZXpl3q $GRPN $GOOG","lbl":"Neutral"}
+,{"time":"19:36","usr":"jingsnote","txt":"RT @SAI: Groupon Soars Thanks To A Rumor Google Might Buy It $GRPN $GOOG by @jyarow http://t.co/J7PN9Snf","lbl":"Neutral"}
 ]

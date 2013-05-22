@@ -1,1 +1,8 @@
-[]
+[
+{"time":"1:04","usr":"MappleSoftWW","txt":"\u201C@jtaschek: Good read & perspective but apples and oranges. Business model & ability to execute ($CRM). Sleep well with $AMZN. Thx 4 sharing","lbl":"Neutral"}
+,{"time":"9:06","usr":"JonErlichman","txt":"Amazon Effect: Barnes & Noble cuts price on NOOK Simple Touch w/ GlowLight $BKS $AMZN","lbl":"Neutral"}
+,{"time":"13:17","usr":"RoccoPendola","txt":"RT @TheStreet: RT @TheStreet: How to Prepare for Four More Years of Barack Obama http://t.co/N6tQevCL by @RoccoPendola $AMZN","lbl":"Neutral"}
+,{"time":"22:30","usr":"smlinfodesign","txt":"Nokia Seals Mapping Deal With Oracle http://t.co/Mukla3A4 via @WSJ #mobi $NOK $ORCL #maps #data $GOOG $AAPL $MSFT $YHOO $AMZN $GRPN","lbl":"Neutral"}
+,{"time":"22:31","usr":"smluniverse","txt":"Nokia Seals Mapping Deal With Oracle http://t.co/CxocXq1E via @WSJ #mobi $NOK $ORCL #maps #data $GOOG $AAPL $MSFT $YHOO $AMZN $GRPN","lbl":"Neutral"}
+,{"time":"22:32","usr":"smlixd","txt":"Nokia Seals Mapping Deal With Oracle http://t.co/7xlyV6p5 via @WSJ #mobi $NOK $ORCL #maps #data $GOOG $AAPL $MSFT $YHOO $AMZN $GRPN","lbl":"Neutral"}
+]

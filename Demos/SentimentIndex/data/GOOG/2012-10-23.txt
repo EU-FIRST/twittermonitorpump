@@ -1,27 +1,74 @@
 [
-{"time":"8:33","usr":"pennystockguys","txt":"$GOOG - Ahead of Wall Street - Oct. 23, 2012 - Ahead of Wall Street http://t.co/wAoKfidO","lbl":"Positive"}
+{"time":"0:57","usr":"manwizzle","txt":"RT @TheStreet: Google\u0027s $249 Laptop: Is it the real deal? - http://t.co/s3DLzi4d by @antonwahlman $GOOG","lbl":"Neutral"}
+,{"time":"1:30","usr":"ankitabisht86","txt":"RT @SAI: How Yahoo\u0027s New COO Got His $62 Million Pay Package In 7 Simple Steps $YHOO $GOOG by @nichcarlson http://t.co/lfsfNex6","lbl":"Neutral"}
+,{"time":"6:04","usr":"eToroItaly","txt":"I trader di #eToro cavalcano l\u2019onda Google http://t.co/JVxvLKqk $GOOG","lbl":"Neutral"}
+,{"time":"6:05","usr":"matterhornbob","txt":"(10/22) $GOOG $678.67: #MTREND Expected Range (10/23): $668.07 - $689.27, $21.19 or 312 bp (+9bp) 10d avg = 169.96% 10/22 = 72.17%","lbl":"Neutral"}
+,{"time":"6:06","usr":"TerryTheBrand","txt":": 10 Things You Need To Know This Morning $AAPL $GOOG $NOK $YHOO $FB by @nichcarlson http://t.co/gzyApOmZ","lbl":"Neutral"}
+,{"time":"7:16","usr":"SeeWaiCee","txt":"RT @SAI: 8 Tablets That Can Beat The iPad Mini $AAPL $GOOG by @officialKLS http://t.co/49GPTL44","lbl":"Neutral"}
+,{"time":"7:18","usr":"katie_sheehan","txt":"RT @businessinsider: 8 Tablets That Can Beat The iPad Mini $AAPL $GOOG by @officialKLS http://t.co/9u8r1H6n","lbl":"Neutral"}
+,{"time":"7:18","usr":"yKnotServices","txt":"RT @businessinsider: 8 Tablets That Can Beat The iPad Mini $AAPL $GOOG by @officialKLS http://t.co/9u8r1H6n","lbl":"Neutral"}
+,{"time":"7:18","usr":"vkupcis","txt":"RT @SAI: Get Ready For A Huge Week In Tech $GOOG $AAPL $MSFT by @stevekovach http://t.co/7sKVXawj","lbl":"Neutral"}
+,{"time":"8:01","usr":"RDeanon","txt":"Vringo Vs. Google: The Simplicity Behind All The Complexity http://t.co/SAhDgYlF $GOOG $VRNG !!!","lbl":"Neutral"}
+,{"time":"8:01","usr":"DaveCV100","txt":"RT @HFTAlert: A Swing Trade Low in Apple? See link: http://t.co/dW827MB1 $AAPL $GOOG $FB $SPY #investing","lbl":"Neutral"}
+,{"time":"8:33","usr":"pennystockguys","txt":"$GOOG - Ahead of Wall Street - Oct. 23, 2012 - Ahead of Wall Street http://t.co/wAoKfidO","lbl":"Positive"}
+,{"time":"8:33","usr":"ADVFNplc","txt":"$GOOG - Stock Market News for October 23, 2012 - Market News http://t.co/bqvXqXl5","lbl":"Neutral"}
+,{"time":"8:33","usr":"ADVFNplc","txt":"$GOOG - Ahead of Wall Street - Oct. 23, 2012 - Ahead of Wall Street http://t.co/hzOhwuBB","lbl":"Neutral"}
 ,{"time":"8:33","usr":"BlueFielder","txt":"$GooG - reprieve","lbl":"Negative"}
 ,{"time":"8:44","usr":"TraderInPlay","txt":"$GOOG with slight gains early in the $QQQ","lbl":"Positive"}
+,{"time":"8:44","usr":"joyceyinjun","txt":"RT @FortuneMagazine: Which is a better buy, Apple or Google? The answer is simple, really. $AAPL $GOOG http://t.co/LmZkSbJS","lbl":"Neutral"}
+,{"time":"8:45","usr":"DpkMsn","txt":"RT @SAI: Ex-Googlers Say A Twitter Account Parodying Yahoo\u0027s Controversial $62 Million COO Is Hilariously Accurate $YHOO $GOOG http://t.co/fWP83rZU","lbl":"Neutral"}
+,{"time":"8:54","usr":"kiwitrader24","txt":"RT @Fitzstock2004: watch $goog today......it is due for a REVERSAL","lbl":"Neutral"}
 ,{"time":"8:54","usr":"JohnnyC30","txt":"Watching for > $685 in $GOOG to buy!","lbl":"Positive"}
 ,{"time":"8:54","usr":"Opinterest","txt":"$GOOG As expected the bulls defended the 50% fib retracement at 665.45. If you\u0027re long and/or buying on weakness, that\u0027s your stop.","lbl":"Positive"}
 ,{"time":"9:07","usr":"Tape_Reader","txt":"$GOOG ripping in red tape 1%+","lbl":"Positive"}
 ,{"time":"9:08","usr":"Jamtrades","txt":"out $GOOG $695C $4.00","lbl":"Negative"}
 ,{"time":"9:08","usr":"MiltonaTrades","txt":"And there\u0027s the DOUBLE i called for $GOOG. Hope somebody cashed in. just hit $20 from $9","lbl":"Positive"}
+,{"time":"9:28","usr":"GEQSense","txt":"$GOOG traders on bath salts again.","lbl":"Neutral"}
 ,{"time":"9:29","usr":"Mortimer_Duke","txt":"@Fitzstock2004 Are you long any $GOOG calls... or spreads?","lbl":"Positive"}
+,{"time":"9:49","usr":"RDeanon","txt":"I have a hunch that Shortsellers will be wiped out today $VRNG vs $GOOG et al !!!!","lbl":"Neutral"}
 ,{"time":"9:52","usr":"racernic","txt":"there still r some good $GOOG prems here even after report. sellers stay wide though and way otm. don\u0027t be tempted in the quick$ close to P","lbl":"Positive"}
+,{"time":"9:52","usr":"spopy","txt":"RT @FortuneMagazine: Which is a better buy, Apple or Google? The answer is simple, really. $AAPL $GOOG http://t.co/RHbfEhf3","lbl":"Neutral"}
+,{"time":"10:21","usr":"GucciMoccasins","txt":"$VRNG $GOOG Can somebody confirm if both parties are still in judge\u0027s chambers?","lbl":"Neutral"}
+,{"time":"10:21","usr":"wallstCS","txt":"Is Yahoo! a Compelling Buy After Earnings? http://t.co/icpfs2Pi $YHOO $MSFT $GOOG $FB $AAPL $SPY $DIA $QQQ","lbl":"Neutral"}
+,{"time":"10:21","usr":"Chapahveh","txt":"Commented on: \u0022Facebook, Google Move Away From Ad Model\u0022 http://t.co/YQdHCRgH $GOOG $FB","lbl":"Neutral"}
+,{"time":"10:52","usr":"barronstechblog","txt":"Apple: Pac Crest Sees Upside in iPhone 5, iPad Mini - Tech Trader Daily - Barron\u0027S $AAPL $AMZN $GOOG $MSFT $005930KS http://t.co/djJes0F6","lbl":"Neutral"}
 ,{"time":"10:52","usr":"BidnAsk","txt":"/NQ: Was that a probe below Globex session lows...get a feeling we get a good close to the upside. $GOOG trying to make a lead in tech.","lbl":"Positive"}
+,{"time":"10:53","usr":"mister__x_","txt":"Very interesting that $IBM, $MSFT and $GOOG have roughly similar market caps of ~$220B. $IBM is most shareholder friendly, by far. $$","lbl":"Neutral"}
+,{"time":"11:21","usr":"22tec","txt":"RT @SAI: Ex-Googlers Say A Twitter Account Parodying Yahoo\u0027s Controversial $62 Million COO Is Hilariously Accurate $YHOO $GOOG http://t.co/fWP83rZU","lbl":"Neutral"}
 ,{"time":"11:21","usr":"TraderLantern","txt":"@Pnjabig2 If ad costs affected $GOOG negatively, I don\u0027t see how $FB could avoid it. :o","lbl":"Negative"}
+,{"time":"11:22","usr":"stockdrover","txt":"Green on my radar: $GOOG, $MSFT, $BIDU , $AMZN, $FDX, $UPS, $FB all up. Tech is not wrecked. no position #nopos #stockaction","lbl":"Positive"}
+,{"time":"11:58","usr":"GEQSense","txt":"@schaeffers @rocky_sir missing $GOOG on that list gents","lbl":"Neutral"}
+,{"time":"11:58","usr":"onlineIDtech","txt":"Waiting on 3.65 and I\u0027ll pick up more of $vrng. These #pumpndump rumors are making money for the shorts! $vrng $goog","lbl":"Neutral"}
+,{"time":"11:59","usr":"TheYield_com","txt":"Closed $GOOG JAN13 short calls position for profit taking reason","lbl":"Neutral"}
+,{"time":"12:55","usr":"PeterBoKiaer","txt":"$GOOG was a mess last week. Spill over to $FB? More rev & EPS trouble? #stocks http://t.co/NwDazJld","lbl":"Neutral"}
 ,{"time":"12:57","usr":"philosophygeek","txt":"Wowza. $aapl taking direct shots at $goog\u0027s android tablets now (!!)","lbl":"Negative"}
+,{"time":"12:57","usr":"MichaelComeau","txt":"Apple bragging about having 8 inches of screen, Android is only 7 inches. $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"12:57","usr":"adamgriffiths","txt":"Yeah this is new. \u201C@philosophygeek: Wowza. $aapl taking direct shots at $goog\u0027s android tablets now (!!)\u201D","lbl":"Negative"}
 ,{"time":"13:10","usr":"TradesWell","txt":"$GOOG I\u0027m going to add more 695 here @ 2.55 stop ~1.50","lbl":"Positive"}
 ,{"time":"13:18","usr":"marketfolly","txt":"RT @footnoted Did this story for @dealbook taking a closer look at last week\u0027s mess with $GOOG earnings http://t.co/Yyplf7yn","lbl":"Negative"}
 ,{"time":"13:18","usr":"cwilhel11","txt":"Played $GOOG 680 weekly call 6.30 - 8.50","lbl":"Positive"}
+,{"time":"13:19","usr":"theovalich","txt":"RT @BrightSideNews: @Rightware prepares to launch universal mobile benchmark for #Apple #iOS $AAPL $GOOG Android $MSFT Windows http://t.co/yrPXloiq","lbl":"Neutral"}
+,{"time":"13:40","usr":"casualanalysis","txt":"I\u0027d suspect a lot of traders who don\u0027t play earnings are going to get out of $AAPL a day early so they don\u0027t get $GOOG\u0027d","lbl":"Neutral"}
+,{"time":"13:40","usr":"Minyanville","txt":"What to Expect When You\u0027re Expecting an iPad Mini $AAPL $GOOG $AMZN http://t.co/5lcAxTEX","lbl":"Neutral"}
 ,{"time":"13:40","usr":"ashwinmalshe","txt":"RT @footnoted: Did this story for @dealbook taking a closer look at last week\u0027s mess with $GOOG earnings http://t.co/tEgc8teE","lbl":"Negative"}
 ,{"time":"14:05","usr":"JohnnyC30","txt":"$GOOG--NO follow thru over $685!!","lbl":"Negative"}
+,{"time":"14:06","usr":"LJ20175","txt":"And it is all about price when $GOOG cuts the price of the nexus for Christmas","lbl":"Neutral"}
+,{"time":"14:06","usr":"TraderPlanet","txt":"Can Facebook, Apple and Amazon Save the Day? $IBM $GOOG $AAPL $AMZN http://t.co/IzmISAgJ","lbl":"Neutral"}
 ,{"time":"14:40","usr":"andrewrabon","txt":"RT @jeffjarvis: $AAPL down ($GOOG up a bit) on iPad announcement","lbl":"Positive"}
 ,{"time":"14:42","usr":"TradeEducation","txt":"http://t.co/IdrKCvBd $500.00 profit in $GOOG $500 or 9.52% options trading return on $GOOG","lbl":"Positive"}
+,{"time":"14:43","usr":"TradeEducation","txt":"http://t.co/M5X2ciBp $550.00 profit in $GOOG $550 or 10.78% options trading return on $GOOG","lbl":"Neutral"}
+,{"time":"14:44","usr":"businessinsider","txt":"Here\u0027s How The iPad Mini Compares To The Kindle Fire And Other Popular Tablets $AAPL $GOOG $AMZN by @officialKLS http://t.co/LNpQjUIo","lbl":"Neutral"}
+,{"time":"15:08","usr":"rewashednews","txt":"RT @rakeshlobster: It\u0027s 1:03. Where are your earnings, $FB? $GOOG gets their earnings out much quicker!","lbl":"Neutral"}
 ,{"time":"16:12","usr":"RobertWeinstein","txt":"@Rocco_TheStreet $FB, maybe, but they still have almost 50% of the myth to dispel before getting back to the IPO price. $GOOG is better","lbl":"Positive"}
+,{"time":"17:58","usr":"li_bob","txt":"@jimcramer Any lockup $FB drop a buying op? $FB going to eat $GOOG up? + a ghost town","lbl":"Neutral"}
+,{"time":"18:06","usr":"Goodlett","txt":"What laptop manufacturer of the next 4Qs would not have touch screen?! - thx $DELL @DELL + $MSFT #WIN8 http://t.co/YkTexAw4 $HPQ $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"18:07","usr":"MyFStrade","txt":"$fb bottom line they do a billion $$$ and you bash it. When the add search to it like $goog $twit is growing mobile faster also","lbl":"Positive"}
+,{"time":"18:13","usr":"roniyuzirman","txt":"RT @FortuneMagazine: Which is a better buy, Apple or Google? The answer is simple, really. $AAPL $GOOG http://t.co/sHV7t30H Cc @ andrias98","lbl":"Neutral"}
 ,{"time":"20:21","usr":"kaplanikids","txt":"RT @SeekingAlpha: The Rise And Fall Of Google\u0027s Golden Age http://t.co/aHl8zq2C $AAPL $MSFT $XOM $GOOG","lbl":"Negative"}
+,{"time":"20:22","usr":"RussellEny","txt":"Here Are All The New Gadgets Google Will Announce At Its Big Android Event On October 29 $GOOG by @stevekovach http://t.co/uLL1vLUN -- SAI","lbl":"Neutral"}
 ,{"time":"20:23","usr":"matthewlmcclure","txt":"RT @SeekingAlpha: The Rise And Fall Of Google\u0027s Golden Age http://t.co/aHl8zq2C $AAPL $MSFT $XOM $GOOG","lbl":"Negative"}
+,{"time":"22:16","usr":"redman59","txt":"New post \u0022Statistical Thoughts on Today and Trade Updates in $AAPL and $GOOG\u0022 http://t.co/d6R1DZB1","lbl":"Neutral"}
+,{"time":"22:19","usr":"AdamP_Canada","txt":"#Apple Unveils Smaller #IPad (mini) to Boost #Tablet Rivalry http://t.co/ZDiCREnQ | #tech $AAPL $MSFT $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"22:25","usr":"Woodshedder","txt":"RT @redman59: New post \u0022Statistical Thoughts on Today and Trade Updates in $AAPL and $GOOG\u0022 http://t.co/d6R1DZB1","lbl":"Neutral"}
+,{"time":"23:22","usr":"howardlindzon","txt":"RT @StockTwits: Proximal, Not Mobile; Postnormal, Not Post Desktop http://t.co/zI7TuF9I via @stoweboyd $GOOG $FB $INTC $MSFT et al..","lbl":"Neutral"}
 ]

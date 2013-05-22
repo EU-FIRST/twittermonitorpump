@@ -1,8 +1,17 @@
 [
-{"time":"9:58","usr":"smendozag","txt":"My positions today $lulu $qihu $amzn","lbl":"Positive"}
+{"time":"5:54","usr":"hawkingvalue","txt":"NYTimes: Retail Frenzy: Prices on the Web Change Hourly // the \u0022art\u0022 of online retail pricing at $AMZN http://t.co/NCxKEs7H","lbl":"Neutral"}
+,{"time":"7:55","usr":"El___Rafa","txt":"RT @MarketCurrents: Amazon (AMZN) launches an online fashion store in the U.K in an effort to cut into a new market. The ... http://t.co/Af80SVTw $AMZN","lbl":"Neutral"}
+,{"time":"9:08","usr":"LeoLede","txt":"\u201C@CNNMoney: U.K. targets Google, Amazon, Starbucks on taxes http://t.co/t6Hx9Rul $GOOG $AMZN $SBUX\u201D","lbl":"Neutral"}
+,{"time":"9:09","usr":"AWiersbitzky","txt":"@junkieonwallst What\u0027s on your list for this week? Need some good long setups. $AMZN $EBAY $APPL $GOOG","lbl":"Neutral"}
+,{"time":"9:58","usr":"smendozag","txt":"My positions today $lulu $qihu $amzn","lbl":"Positive"}
 ,{"time":"10:00","usr":"Jamtrades","txt":"$AMZN in $255C $2.55","lbl":"Positive"}
 ,{"time":"12:23","usr":"LaramieDunlap","txt":"$AMZN 260 strike Calls catching huge volume. IV at 52wk low #longvol","lbl":"Positive"}
 ,{"time":"14:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $CLF +77%, $MS +36%, $WAG +20%, $C -31%, $YHOO -20%, $AMZN -18% http://t.co/uBJyhJcD","lbl":"Negative"}
+,{"time":"15:10","usr":"adem_tahiri","txt":"@TMFStockAdvisor-None of the above? Of these three, definitely $AMZN as $GOOG + $AAPL + $MSFT starting to =the same darn thing. Just my .02c","lbl":"Neutral"}
 ,{"time":"16:32","usr":"AMZN_stock","txt":"$AMZN stock quote, Dec 3: 250.3291 -1.7209 (-0.68%).","lbl":"Negative"}
+,{"time":"16:35","usr":"cthorm","txt":"RT @fed_speak: RE: Credit card rewards - who are these people that are paying a points/$ premium for items when you can buy an $AMZN gift card for = value?","lbl":"Neutral"}
+,{"time":"18:19","usr":"BenCBanks","txt":"DAILY ANALYSIS: $SPY $AAPL $GOOG $AMZN http://t.co/R2qNrUsv via @weebly","lbl":"Neutral"}
+,{"time":"18:20","usr":"buckandrews","txt":"Cramer likes $AMZN DEC-22-12 250/240 BULL PUT SPREAD (18 DAYS). #deckfolio http://t.co/gYolT2TR","lbl":"Neutral"}
+,{"time":"22:33","usr":"BenCBanks","txt":"This is a gift. The support/resistance levels major & minor all laid out $SPY $AAPL $GOOG $AMZN $GLD http://t.co/Qy2jQotQ","lbl":"Neutral"}
 ,{"time":"23:27","usr":"jeffreyjkeith","txt":"\u201C@61point8: $AMZN ... Bearish engulfing pattern. Worth a short below 250 all the way to 242. http://t.co/QZj6ldUQ\u201D oh I like that one! Thx","lbl":"Negative"}
 ]

@@ -39,12 +39,15 @@ function showTweets(time) {
 		var html = {};
 		for (var i in data) {
 			if (!html[data[i].lbl]) { html[data[i].lbl] = ""; }
-			html[data[i].lbl] += "<div class=\"item\"><span class=\"tweet-header\">" + htmlEncode(data[i].usr) + " at " + data[i].time + "</span> " + htmlEncode(data[i].txt) + "</div>";
+			html[data[i].lbl] += "<div class=\"item\"><span class=\"tweet-header\">" + htmlEncode(data[i].usr) + " at " + data[i].time + " EST</span> " + htmlEncode(data[i].txt) + "</div>";
 		}
+		var noTweetsMsgHtml = "<div class=\"item\">No tweets to show.</div>";
 		$("#pos-tweets").empty().append("<h4>Positive tweets</h4>");
-		if (html["Positive"]) { $("#pos-tweets").append(html["Positive"]); } else { $("#pos-tweets").append("<div class=\"item\">No tweets to show.</div>"); }
+		if (html["Positive"]) { $("#pos-tweets").append(html["Positive"]); } else { $("#pos-tweets").append(noTweetsMsgHtml); }
 		$("#neg-tweets").empty().append("<h4>Negative tweets</h4>");
-		if (html["Negative"]) { $("#neg-tweets").append(html["Negative"]); } else { $("#neg-tweets").append("<div class=\"item\">No tweets to show.</div>"); }
+		if (html["Negative"]) { $("#neg-tweets").append(html["Negative"]); } else { $("#neg-tweets").append(noTweetsMsgHtml); }
+		$("#nos-tweets").empty().append("<h4>Neutral tweets</h4>");
+		if (html["Neutral"]) { $("#nos-tweets").append(html["Neutral"]); } else { $("#nos-tweets").append(noTweetsMsgHtml); }
 		$(".modal").show(); // modal needs to be "visible" to reset scrollbars
 		// remember active tab
 		var tab = $("ul > li.active > a");

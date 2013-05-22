@@ -1,8 +1,20 @@
 [
-{"time":"0:18","usr":"DigitalGreen","txt":"RT @cousinHub Awesome article RT @bcwtang Thank you! Someone realize $FBOOK is not dominating $GOOG http://t.co/0MLwIpLU","lbl":"Positive"}
+{"time":"0:17","usr":"eden5081","txt":"RT @StockTwits: Predictions for 2012 http://t.co/UKnvZaER via @jfahmy $BIDU $GOOG $AAPL $ACOM","lbl":"Neutral"}
+,{"time":"0:18","usr":"DigitalGreen","txt":"RT @cousinHub Awesome article RT @bcwtang Thank you! Someone realize $FBOOK is not dominating $GOOG http://t.co/0MLwIpLU","lbl":"Positive"}
+,{"time":"0:28","usr":"simplestockqtes","txt":"Someone just got a simple quote on $Goog @simplestockqtes http://t.co/7EEFYpkO","lbl":"Neutral"}
 ,{"time":"9:09","usr":"StockTwits","txt":"Largest USA Tech Companies Market Cap: http://t.co/2SbihWid via @ospreyflyer great battle for 2nd between $GOOG $IBM & $MSFT","lbl":"Positive"}
 ,{"time":"9:11","usr":"OmDoc","txt":"RT @StockTwits: Largest USA Tech Companies Market Cap: http://t.co/2SbihWid via @ospreyflyer great battle for 2nd between $GOOG $IBM & $MSFT","lbl":"Negative"}
+,{"time":"9:14","usr":"capkip1","txt":"Interesting take on $FBOOK and $GOOG http://t.co/1yvkcx93","lbl":"Neutral"}
+,{"time":"9:17","usr":"wallstCS","txt":"2011 Online Ads in Retrospect: Old Spice Gets Most Eyeballs http://t.co/EAQP1KhX $NKE $GOOG $AAPL $PG PG $CHD $CL $CLX $JNJ #stocks #mkt","lbl":"Neutral"}
+,{"time":"12:21","usr":"AlbertS_NY","txt":"We have a very busy week ahead to kick off the year. http://t.co/F8huuMwW $spy $goog $aapl $es_f","lbl":"Neutral"}
+,{"time":"12:33","usr":"TraderFractal","txt":"Photo: More favorite reads from 2011: Tech Edtn $AAPL $GOOG $$ Reading Steve Jobs in tandem with The Pixar... http://t.co/5MSLdcPc","lbl":"Neutral"}
+,{"time":"12:51","usr":"jennymls","txt":"RT @TimOBrien: RT @howardlindzon: @bpeck 2012: $FBOOK more blatantly encroaches into $GOOG, $AMZN and $AAPL \u0027s domains. http://t.co/OEIaDwnp","lbl":"Negative"}
+,{"time":"15:37","usr":"TSTARStarAttack","txt":"Tech Company Resolutions: New Year\u0027s Resolutions We\u0027d Like To See Big Tech Companies Make For 2012 $GOOG $AAPL $... http://t.co/V8ikh9mj","lbl":"Neutral"}
+,{"time":"15:41","usr":"stockhaven","txt":"\u0022Weekly watchlist and another twist in the $NSRS story\u0022 -- http://t.co/rGp9JkUd -- $NSRS $JBII $GOOG $LEAP","lbl":"Neutral"}
+,{"time":"15:41","usr":"tphedgegroup","txt":"$SPY $C $BAC $GS $GOOG $MSFT $MU Growth in Israel\u0027s tech sector requires capital from world\u0027s financial giants, export focus, security,","lbl":"Neutral"}
 ,{"time":"18:42","usr":"ValaAfshar","txt":"1.2 billion mobile #apps were downloaded over the holidays - http://t.co/zQZ3Y8zk. #IT #CIO $AAPL $GOOG","lbl":"Positive"}
+,{"time":"18:43","usr":"Dr__Zee","txt":"RT @jfahmy: Predictions for 2012: http://t.co/9ZXc10CN $BIDU $GOOG $AAPL $ACOM","lbl":"Neutral"}
+,{"time":"18:56","usr":"MeetVictorG","txt":"RT @edwardnh: Android\u2019s Chinese Manufacturers Form Alliance To Defend From Apple and Microsoft Patent Lawsuits http://t.co/sDhJAWSw $AAPL $GOOG $MSFT","lbl":"Neutral"}
 ,{"time":"23:39","usr":"Dchatrades","txt":"Google flights is perfect. $GOOG","lbl":"Positive"}
 ,{"time":"23:47","usr":"audibertalbx2","txt":"daringfireball Necessary play on Google\u0027s part. Has $GOOG paid them money for that, before?wVBu","lbl":"Negative"}
 ]

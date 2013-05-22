@@ -1,4 +1,10 @@
 [
 {"time":"4:10","usr":"SeekingAlpha","txt":"Google As The Bad Guy http://t.co/age0WO2y $GOOG","lbl":"Negative"}
+,{"time":"4:10","usr":"Qwovadis","txt":"Commented on: \u0022Baidu\u0027s Entry-Level Device Hits The Sweet Spot, But Challenges Rema... http://t.co/rTToL7Ga $AAPL $GOOG $BIDU","lbl":"Neutral"}
+,{"time":"4:18","usr":"USwwwStocks","txt":"$GOOG Stock News: Finding deals in Europe http://t.co/RbZEHrDW #GOOG #deals #Europe","lbl":"Neutral"}
+,{"time":"13:45","usr":"best_n_korea","txt":"Generally speaking this is how I make investment decisions. $$ $SPY $bidu $goog $JPM $ge $iwm #stocks http://t.co/46lRymy8","lbl":"Neutral"}
+,{"time":"13:46","usr":"thefinancepress","txt":"$GOOG Google Inc\u0027s Shares Finish The Week Up 1.38% (NASDAQ:GOOG): Google Inc\u0027s Shares Finish The Week Up 1.38% ... http://t.co/XSOQMGdd","lbl":"Neutral"}
+,{"time":"14:05","usr":"ericjackson","txt":"New Post: Ross Levinsohn\u0027s First 3 Phone Calls as Yahoo!\u0027s New CEO - Forbes http://t.co/q1MgfKwl $YHOO $FB $MSFT $GOOG","lbl":"Neutral"}
 ,{"time":"14:06","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Google Inc\u0027s Shares Finish The Week Up 1.38% (NASDAQ:GOOG): Google Inc\u0027s Shares Finish The Week Up 1.38% ... http://t.co/XSOQMGdd","lbl":"Positive"}
+,{"time":"23:17","usr":"Robo_trader","txt":"iPhones for Psychos http://t.co/dRaJVSYV #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
 ]

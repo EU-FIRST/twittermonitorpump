@@ -4,6 +4,7 @@
 ,{"time":"9:31","usr":"Volpinacci","txt":"$AMZN surviving after touching support...but ready for breakdown through it http://t.co/SZtV63xk","lbl":"Negative"}
 ,{"time":"9:32","usr":"Vin_Noto","txt":"RT @Volpinacci: $AMZN surviving after touching support...but ready for breakdown through it http://t.co/SZtV63xk","lbl":"Negative"}
 ,{"time":"10:28","usr":"ECONgeek947","txt":"if u check twitter of @netflix @NetflixUK netflixLA theyve been adding crazy amounts of content lately, $AMZN lovefilm in trouble folks ;)","lbl":"Negative"}
+,{"time":"11:40","usr":"vaneekelenzzui9","txt":"how many times do i have 2 reiterate obv opportunity w/ $NFLX? combined efforts of $VZ $AMZN $GOOG $","lbl":"Neutral"}
 ,{"time":"11:41","usr":"PerforM84697233","txt":"Option Millionaires: madrose1: Reshort $AMZN pop over 218, usually u http://t.co/GLdsSMB9","lbl":"Negative"}
 ,{"time":"11:42","usr":"tlmontana","txt":"$AMZN New HIGH","lbl":"Positive"}
 ,{"time":"11:43","usr":"chrishar00","txt":"$AAPL down, $AMZN up. interesting","lbl":"Positive"}

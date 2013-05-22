@@ -1,25 +1,80 @@
 [
-{"time":"9:17","usr":"HughesNews","txt":"MT @BloombergTV: What stocks are you watching? Today\u0027s top 10: http://t.co/Mt34weKQ $IBM $NVS $EBAY $LUV $UNH $GOOG $CS $NOK $MSFT $MS","lbl":"Positive"}
+{"time":"5:48","usr":"pennystockguys","txt":"$GOOG - Nokia Loss Widens as Smartphone Sales Slump http://t.co/aYanvrR4","lbl":"Neutral"}
+,{"time":"5:48","usr":"ADVFNplc","txt":"$GOOG - Nokia Loss Widens as Smartphone Sales Slump http://t.co/MRiP3foc","lbl":"Neutral"}
+,{"time":"5:51","usr":"matterhornbob","txt":"$YHOO: new CEO ($GOOG employee #20) reportedly worth $300mm. Former $GOOG CEO Eric Schmidt reportedly worth $6.3bln. Interesting difference","lbl":"Neutral"}
+,{"time":"5:53","usr":"jacogr","txt":"$GOOG\u0027s biggest innovations are not in search, $MFST may be making a loss, $YHOO has a CEO with a CS degree. The world is going crazy.","lbl":"Neutral"}
+,{"time":"7:23","usr":"bpeck","txt":"My favorite pundit shares his view on how mayer can save $yhoo and compete against $goog - apps, video and Ross... http://t.co/aaNq81Jn","lbl":"Neutral"}
+,{"time":"7:26","usr":"srisri55","txt":"Jobs #s whst exactly r we hoping? Good numbers so that economy getting better? Or bad numbers so that we will get QE3? $AAPL $GOOG $BAC $DIA","lbl":"Neutral"}
+,{"time":"7:33","usr":"srisri55","txt":"Initial Job claims up 34K. //$AAPL $GOOG $BAC $DIA","lbl":"Neutral"}
+,{"time":"8:32","usr":"BI_contributors","txt":"New Yahoo CEO Marissa Mayer Needs To Take A Real, 12-Week Maternity Leave $YHOO $GOOG $FB http://t.co/uVb9BTeh","lbl":"Neutral"}
+,{"time":"8:32","usr":"businessinsider","txt":"New Yahoo CEO Marissa Mayer Needs To Take A Real, 12-Week Maternity Leave $YHOO $GOOG $FB http://t.co/sdR7Hpbt","lbl":"Neutral"}
+,{"time":"8:33","usr":"pennystockguys","txt":"$GOOG - eBay Delivers Another Good Quarter - Analyst Blog http://t.co/1sMtWBOC","lbl":"Neutral"}
+,{"time":"8:33","usr":"ADVFNplc","txt":"$GOOG - eBay Delivers Another Good Quarter - Analyst Blog http://t.co/SpUDM33x","lbl":"Neutral"}
+,{"time":"8:50","usr":"Deffectenbeur","txt":"RT @StockTwits: Heads Up: Softie & Google Report After the Close Tonight. $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"8:51","usr":"HCPG","txt":"RT @StockTwits: Heads Up: Softie & Google Report After the Close Tonight. $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"8:51","usr":"choffman1978","txt":"Expecting a huge rally in 10 mins watch!!!!! #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#stocks","lbl":"Neutral"}
+,{"time":"8:51","usr":"TrendRida","txt":"@ericjackson A couple of weeks ago I thought they said that he would NOT be on call... $GOOG","lbl":"Neutral"}
+,{"time":"9:16","usr":"ahkautan","txt":"@CreateCapital maybe $GOOG scheduled for inline earnings and rally the market tomorrow to 13k Dow","lbl":"Neutral"}
+,{"time":"9:17","usr":"HughesNews","txt":"MT @BloombergTV: What stocks are you watching? Today\u0027s top 10: http://t.co/Mt34weKQ $IBM $NVS $EBAY $LUV $UNH $GOOG $CS $NOK $MSFT $MS","lbl":"Positive"}
 ,{"time":"9:17","usr":"ankypanky25","txt":"$FIO $GOOG $FIO $GOOG $FIO $GOOG my chant for the day...haters going to burn","lbl":"Positive"}
+,{"time":"9:17","usr":"choffman1978","txt":"Fed likely to enact QE3 by September!! #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets","lbl":"Neutral"}
+,{"time":"9:36","usr":"JohanDeV22","txt":"RT @jacogr: $GOOG\u0027s biggest innovations are not in search, $MFST may be making a loss, $YHOO has a CEO with a CS degree. The world is going crazy.","lbl":"Neutral"}
+,{"time":"9:36","usr":"wattersonandre","txt":"RT @jacogr: $GOOG\u0027s biggest innovations are not in search, $MFST may be making a loss, $YHOO has a CEO with a CS degree. The world is going crazy.","lbl":"Neutral"}
+,{"time":"9:37","usr":"Starlight_808","txt":"$MSFT, $GOOG -- earnings report at after market hour ... $NQ_F $ES_F","lbl":"Neutral"}
+,{"time":"9:37","usr":"gilbert_toby","txt":"RT @jacogr: $GOOG\u0027s biggest innovations are not in search, $MFST may be making a loss, $YHOO has a CEO with a CS degree. The world is going crazy.","lbl":"Neutral"}
+,{"time":"10:05","usr":"Mark_Lexus","txt":"$GOOG options pricing in about $31 move for earnings...looking at calenders now http://t.co/qRAUJWeN","lbl":"Neutral"}
+,{"time":"10:05","usr":"madaznfootballr","txt":"All Tech on fire. $GOOG $PCLN $AMZN $AAPL $QQQ","lbl":"Positive"}
 ,{"time":"10:05","usr":"tomlloyd12","txt":"$GOOG 592, bull trap? tgt 600 xxxx top at 600.http://www.marketwatch.com/story/google-fundamental-buy-technical-sell-2012-07-19?link=MW_TD","lbl":"Negative"}
+,{"time":"10:06","usr":"a99kitten","txt":"Ha! Awesome RT @dmackdaddy: (video) This is hilarious: Call Me Maybe take on Digital CEO moves! - http://t.co/UY7okmHX $FB $GOOG $YHOO $AOL","lbl":"Neutral"}
+,{"time":"10:35","usr":"bluser12","txt":"Woahh... $GOOG premiums! Option market doesn\u0027t seem to be siding either way on this one though...","lbl":"Neutral"}
+,{"time":"10:36","usr":"tradingview","txt":"$GOOG chart published by darwinprod: http://t.co/KiSzy5lH. goo.","lbl":"Neutral"}
+,{"time":"10:36","usr":"codertimes","txt":"RT @StockTwits: Heads Up: Along w $MSFT & $GOOG, $CMG $ETFC $JDAS & $SNDK Also Report After the Close Today.","lbl":"Neutral"}
 ,{"time":"11:00","usr":"tkuz4u","txt":"RT @SAI: Some New Nexus 7 Owners Got A Nasty Surprise $GOOG by @stevekovach http://t.co/d8Tkde4m","lbl":"Negative"}
 ,{"time":"11:01","usr":"sciencetrader","txt":"i got back in $GOOG at 592, just in case we get giddy","lbl":"Positive"}
+,{"time":"11:26","usr":"choffman1978","txt":"$SIRI SURGING - Forbes says $2.50+!! #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets","lbl":"Neutral"}
 ,{"time":"11:26","usr":"FranklinsRow","txt":"I don\u0027t do much trading talk anymore, but it\u0027s earnings season. Google is ripping prior to earnings. Up 5% in a couple days. $GOOG","lbl":"Positive"}
+,{"time":"11:27","usr":"choffman1978","txt":"$SIRI NEW HOD!!!! RALLY TIME!! #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets","lbl":"Neutral"}
+,{"time":"11:45","usr":"drummer311","txt":"@Sangluccitrades - $GOOG 613.11 #cheesesteaktime","lbl":"Neutral"}
+,{"time":"11:46","usr":"Sangluccitrades","txt":"Instead of losing money on the $GOOG earnings call you may as well place your bet for the $GOOG #LUCCICHEESESTEAK contest!","lbl":"Neutral"}
+,{"time":"11:46","usr":"Sangluccitrades","txt":"RT @drummer311: @Sangluccitrades - $GOOG 613.11 #cheesesteaktime","lbl":"Neutral"}
 ,{"time":"11:46","usr":"Monster_Trader","txt":"RT @StockTwits: Heads Up: Along w $MSFT & $GOOG, $CMG $ETFC $JDAS & $SNDK Also Report After the Close Today.","lbl":"Positive"}
+,{"time":"12:10","usr":"choffman1978","txt":"$CORT RALLYING!! #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets","lbl":"Neutral"}
+,{"time":"12:10","usr":"Sangluccitrades","txt":"Updated $GOOG #LUCCICHEESESTEAK BETS! See where your bets rank against the crowd or use these to plan YOUR bet! http://t.co/qPFMr6Co","lbl":"Neutral"}
+,{"time":"12:10","usr":"Sangluccitrades","txt":"RT @OptionForIncome: @Sangluccitrades $624 for $GOOG tom","lbl":"Neutral"}
 ,{"time":"12:38","usr":"HenryPetzold","txt":"Lol! Actually $GOOG is the Thumper. Any difference between them? :)","lbl":"Positive"}
+,{"time":"12:38","usr":"spanishNY","txt":"########### RT @BloombergTV: Google is taking aim at Mexican drug cartels: http://t.co/knzcUZLA $GOOG","lbl":"Neutral"}
 ,{"time":"12:39","usr":"patroneux","txt":"$GOOG rallying today tells me that that short will just be as exciting as ever.","lbl":"Negative"}
 ,{"time":"12:40","usr":"patroneux","txt":"in $GOOG $600 August 2012 puts for $21.90 a pop. 20 cons, $44K that i can potentially double or lose entirely.","lbl":"Positive"}
 ,{"time":"13:06","usr":"v3rsust3rminus","txt":"Commented on StockTwits: RT @iknow @v3rsust3rminus I\u0027ll join you with that bet! Hope we get it! $GOOG//good luck! http://t.co/7Snku9kC","lbl":"Positive"}
+,{"time":"13:07","usr":"kodachi","txt":"The war on free clicks. Google ads http://t.co/4rpUMWM5 I \u2665 infographics $GOOG","lbl":"Neutral"}
 ,{"time":"13:07","usr":"ivanhoff","txt":"$GOOG Is Edging Higher In Anticipation of Earnings Tonight http://t.co/CrBoj3uk","lbl":"Positive"}
+,{"time":"13:07","usr":"BRITSLOVEBERNE","txt":"RT @StockSage1: New Post: \u0022GOOG and CMG Earnings Trade Ideas\u0022 http://t.co/UwE70h0g $CMG $GOOG $CALL $PUT","lbl":"Neutral"}
+,{"time":"13:34","usr":"CancunParadise8","txt":"If you have ANY $AAPL options...I would really consider closing them RIGHT NOW before close as $GOOG reports AH...could go either way..","lbl":"Neutral"}
+,{"time":"13:34","usr":"CancunParadise8","txt":"Its just not worth the risk to leave your $AAPL options in hands of another company...$GOOG..","lbl":"Neutral"}
+,{"time":"13:35","usr":"littletigercs","txt":"RT @CancunParadise8: If you have ANY $AAPL options...I would really consider closing them RIGHT NOW before close as $GOOG reports AH...could go either way..","lbl":"Neutral"}
 ,{"time":"14:10","usr":"BloombergTV","txt":"Google shares are down 12.7% year-to-date. @BettyInTheLoop has the details: http://t.co/Lg7KpHLy $GOOG","lbl":"Negative"}
+,{"time":"14:11","usr":"seangraf","txt":"RT @BloombergTV: Google shares are down 12.7% year-to-date. @BettyInTheLoop has the details: http://t.co/Lg7KpHLy $GOOG","lbl":"Neutral"}
+,{"time":"14:11","usr":"Louisa_EM","txt":"RT @BloombergTV: Americans have searched for 139 billion items on Google in the past year #FastFact $GOOG","lbl":"Neutral"}
+,{"time":"14:12","usr":"GenYTrader","txt":"Interested in $CMG , $GOOG, $MSFT earnings report after the close. $$","lbl":"Neutral"}
+,{"time":"14:25","usr":"tarhinitrade","txt":"$GOOG straddle implying 5% move either way","lbl":"Neutral"}
+,{"time":"14:25","usr":"boogidown","txt":"$AAPL flat over night - scanning for a lottery trade in $GOOG.. will post once i find one.","lbl":"Neutral"}
+,{"time":"14:26","usr":"SunnyVegas360","txt":"its all about $GOOG after the bell. Nothing BUT $GOOG","lbl":"Neutral"}
 ,{"time":"14:26","usr":"foreva_Greatest","txt":"RT @CBOE: $$GOOG July 600 calls & puts active on 40K contracts @ CBOE into Q2","lbl":"Positive"}
+,{"time":"14:41","usr":"LSFinancial","txt":"$GOOG $CMG $MSFT $ISRG $SNDK and $AMD all set to report after the close","lbl":"Neutral"}
+,{"time":"14:41","usr":"OCFuturesTrader","txt":"RT @LSFinancial: $GOOG $CMG $MSFT $ISRG $SNDK and $AMD all set to report after the close","lbl":"Neutral"}
+,{"time":"14:56","usr":"boogidown","txt":"Btw, my $GOOG trade is using $AAPL profits from AM. 591 stops in place.","lbl":"Neutral"}
+,{"time":"14:57","usr":"FreeMrktCptlst","txt":"I have my stop at 69 (+1) om last car so if we make through close without hitting it, I\u0027ll hold it thorough $GOOG earnings $ES_F $$","lbl":"Neutral"}
+,{"time":"14:57","usr":"CancunParadise8","txt":"Get ready for $GOOG ER... $AAPL","lbl":"Neutral"}
 ,{"time":"14:57","usr":"srisri55","txt":"Only position, $CRM calls overnight into $GOOG earnings & $AAPL ipad launch in mainland China ;)","lbl":"Positive"}
-,{"time":"15:02","usr":"patroneux","txt":"biggest loser thus far for my earnings play: $GOOG ... hurray! at least my $645 calls won\u0027t be exercised hahah","lbl":"Negative"}
 ,{"time":"15:02","usr":"Jamtrades","txt":"$GOOG going ape sh*t","lbl":"Negative"}
+,{"time":"15:02","usr":"patroneux","txt":"biggest loser thus far for my earnings play: $GOOG ... hurray! at least my $645 calls won\u0027t be exercised hahah","lbl":"Negative"}
 ,{"time":"15:02","usr":"HamzeiAnalytics","txt":"$GOOG 624 another bulls-eye","lbl":"Positive"}
+,{"time":"15:02","usr":"Benzinga","txt":"$GOOG Reports Q2 EPS $10.12 vs $10.04 Est; Revenues $8.42B vs $8.41B Est","lbl":"Neutral"}
 ,{"time":"15:04","usr":"bluebarontrader","txt":"$GOOG CLOSED $593 AFTER HRS HIGH $624","lbl":"Positive"}
 ,{"time":"15:04","usr":"BreezeTrading","txt":"\u201C@MNYCx: $GOOG closed 593\u0027s, now 624\u0027s in AH lol\u201D///now 610","lbl":"Positive"}
 ,{"time":"15:04","usr":"JonU235","txt":"meh $GOOG","lbl":"Negative"}
+,{"time":"15:04","usr":"racernic","txt":"leap straddles sold would have been good to play for $GOOG (high margin req tho)","lbl":"Neutral"}
+,{"time":"15:07","usr":"alvaroplata000","txt":"$GOOG","lbl":"Neutral"}
 ,{"time":"15:07","usr":"kenjitweet","txt":"Afterhours $GOOG +4.0%, $CMG -7.6%, $MSFT +1.2%","lbl":"Positive"}
 ,{"time":"15:07","usr":"SPCAPIQearnings","txt":"$GOOG reported Q2 2012 #EPS of $11.12, beating estimates by $0.02. Revs of $12.12B beat estimates of $11.2B #SPX","lbl":"Positive"}
 ,{"time":"15:07","usr":"traderbillc","txt":"RT @HamzeiAnalytics: $GOOG 624 another bulls-eye","lbl":"Positive"}
@@ -32,30 +87,54 @@
 ,{"time":"15:17","usr":"v_stktrdr","txt":"Bought puts:\u201C@irishyaz: Anyone buying $GOOG ahead of earnings?\u201D","lbl":"Negative"}
 ,{"time":"15:17","usr":"tlmontana","txt":"RT @CNNMoney: Google posts strong gains in sales and earnings. Profits top forecasts. Stock up after hours. http://t.co/TbmKsbKh $GOOG","lbl":"Positive"}
 ,{"time":"15:25","usr":"Brendan_Henry","txt":"$CMG in the \u0022over\u0022 category, $GOOG in the \u0022under\u0022 category for strangle sellers pre-earnings.","lbl":"Negative"}
+,{"time":"15:26","usr":"Tafakari","txt":"RT @SaqibReports: BREAKING NEWS: Google Q2 EPS $8.42 on revenue of $12.21 billion $GOOG","lbl":"Neutral"}
+,{"time":"15:26","usr":"stockguy22","txt":"so far $GOOG got very close to that a/h fib level i posted.. now drifted down again .. got as highs as $611.97 -- was waiting for $612-$615+","lbl":"Neutral"}
 ,{"time":"15:36","usr":"ishmaelrufus","txt":"@thekeikoshow My entry on $GOOG is 589.57 from this morning. I got lucky on my entry.","lbl":"Positive"}
+,{"time":"15:37","usr":"DeidreZune","txt":"Cost per click down 16% YOY (-16%); up 1% QOY $GOOG ER CALL","lbl":"Neutral"}
+,{"time":"15:37","usr":"Givoanna","txt":"RT @LaMonicaBuzz: Is John Chambers (the $CSCO one not the S&P downgrading America guy) available to talk about $MSFT & $GOOG? They both have lots of caysh!","lbl":"Neutral"}
 ,{"time":"15:48","usr":"pennystockguys","txt":"$GOOG - Google 2Q Net Up 11% on Higher Paid Clicks http://t.co/9zQGT61g","lbl":"Positive"}
+,{"time":"15:48","usr":"ADVFNplc","txt":"$GOOG - Google 2Q Net Up 11% on Higher Paid Clicks http://t.co/2DnZ7GJR","lbl":"Neutral"}
+,{"time":"15:48","usr":"MOFinancial","txt":"$GOOG Call: \u0022Thousands of business switch to Google apps from our competitors everyday\u0022","lbl":"Neutral"}
 ,{"time":"15:48","usr":"mosesli12","txt":"Consider FADING this $GOOG gap up tomorrow morning. Then buy the dip at around 600","lbl":"Negative"}
 ,{"time":"16:00","usr":"DeidreZune","txt":"How can u $GOOG make loss-leading asset like $MMI accretive? Great Q.","lbl":"Positive"}
+,{"time":"16:01","usr":"S_T_O_C_K_S","txt":"RT @BloombergTV: Tune into @BloombergTV now for LIVE coverage of earnings: http://t.co/Iqfl7UMR $MSFT $GOOG $CMG","lbl":"Neutral"}
 ,{"time":"16:01","usr":"ADVFNplc","txt":"$GOOG - Google Net Up 11% on Higher Paid Clicks http://t.co/wtECYy03","lbl":"Positive"}
 ,{"time":"16:01","usr":"pennystockguys","txt":"$GOOG - Google Net Up 11% on Higher Paid Clicks http://t.co/lhYOYi4L","lbl":"Positive"}
 ,{"time":"16:15","usr":"Market_Bull","txt":"RT @StockTwits: RT @lamonicabuzz $GOOG finished quarter with $43.1B in cash. $MSFT: $63B. $AAPL may report next week it has more cash than both combined!","lbl":"Positive"}
+,{"time":"16:15","usr":"HTTOS","txt":"No courage to buy $GOOG. <sigh>","lbl":"Neutral"}
+,{"time":"16:15","usr":"treeserver","txt":"RT @StockTwits: RT @lamonicabuzz $GOOG finished quarter with $43.1B in cash. $MSFT: $63B. $AAPL may report next week it has more cash than both combined!","lbl":"Neutral"}
+,{"time":"16:16","usr":"ESCapAdv","txt":"RT @StockTwits: RT @lamonicabuzz $GOOG finished quarter with $43.1B in cash. $MSFT: $63B. $AAPL may report next week it has more cash than both combined!","lbl":"Neutral"}
 ,{"time":"16:28","usr":"7wtc","txt":"$GOOG Revenue numbers => Look closely and you see a deceleration per click, so why the pop up? Makes no sense. $GOOG should be down.","lbl":"Negative"}
+,{"time":"16:29","usr":"jdlahart","txt":"MT @footnoted: Marissa Mayer\u0027s offer letter. Go figure that it was released around the time $GOOG puts out earnings. http://t.co/b8NDGxG5","lbl":"Neutral"}
+,{"time":"16:30","usr":"TKerestes","txt":"RT @JeffMacke: \u0022Eps beat, revs light\u0022 is great for bulls but horrible for the economy. Disconcerting theme. $GOOG, $MSFT $IBM... et al ad nauseam...","lbl":"Neutral"}
 ,{"time":"16:30","usr":"pennystockguys","txt":"$GOOG - UPDATE: Google Posts a Gain in Profit http://t.co/tmjRAj3k","lbl":"Positive"}
 ,{"time":"16:43","usr":"wallstCS","txt":"Google Earnings: Fifth Straight Quarter Quarter of Double-Digit Revenue Growth http://t.co/gex2jhri $SPY $GOOG #stocks #mkt","lbl":"Positive"}
+,{"time":"16:44","usr":"DWalshIR","txt":"$GOOG sets up \u201CInvestor Relations\u201D page on Google+: http://t.co/9yjsa7L4 #irchat #SocializeIR","lbl":"Neutral"}
 ,{"time":"16:45","usr":"JeremyAshlock7","txt":"RT @wallstCS: Google Earnings: Fifth Straight Quarter Quarter of Double-Digit Revenue Growth http://t.co/gex2jhri $SPY $GOOG #stocks #mkt","lbl":"Positive"}
 ,{"time":"17:12","usr":"Dow10k","txt":"RT @ChartingStock: $GOOG Higher After Earnings-After Hours Range=$624.2-$585.66 At 4:50pm Resistance $624.2 $627.5 $637.85..Gap $593.06Risk Management Key $QQQ","lbl":"Positive"}
 ,{"time":"17:12","usr":"spanishNY","txt":"RT @SmartMoney: Google shares jumped 3% in late trading. It reported 2nd-quarter profit of $2.79 billion. http://t.co/wwIsBlkR $GOOG","lbl":"Positive"}
 ,{"time":"17:15","usr":"WayneMessick","txt":"RT @FoxBusiness: Google shares are surging 3% after hours on better-than-expected 2Q earnings. Paid clicks were up 42%. http://t.co/p403zgQL $GOOG","lbl":"Positive"}
+,{"time":"17:17","usr":"suazt","txt":"@optionmonster @trademonster Whats your view on $BIDU? I bought $BIDU this morning, hoping to piggyback on $GOOG earnings.","lbl":"Neutral"}
+,{"time":"17:42","usr":"Tangletrade","txt":"I don\u0027t think I\u0027ve ever seen $GOOG flatline this much afterhours after an earnings report.","lbl":"Neutral"}
+,{"time":"17:42","usr":"the_CyberMafia","txt":"RT @Reuters: Google\u2019s bottom line is good, but not good enough http://t.co/QB4rXdwP $GOOG","lbl":"Neutral"}
+,{"time":"17:42","usr":"_Lydia_T","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Neutral"}
 ,{"time":"17:42","usr":"JaymesSong","txt":"#Google\u0027s 2Q earnings rise as clicks on ads soar. $goog http://t.co/jJW32wqm","lbl":"Positive"}
 ,{"time":"17:56","usr":"LarryAvila","txt":"RT @marketwatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/f1DfxaII","lbl":"Positive"}
 ,{"time":"17:56","usr":"AnnaSFO","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Positive"}
+,{"time":"17:56","usr":"MsBiancaYvette","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Neutral"}
+,{"time":"17:56","usr":"HollywoodTParty","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Neutral"}
 ,{"time":"18:13","usr":"talha1396","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Positive"}
 ,{"time":"18:14","usr":"ChrisMikeBarton","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Positive"}
+,{"time":"18:15","usr":"ErinMcGarrySul1","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Neutral"}
+,{"time":"18:15","usr":"westr","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Neutral"}
 ,{"time":"18:53","usr":"Traderabc","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/K1Otgn86","lbl":"Positive"}
 ,{"time":"18:53","usr":"JRNavarro75","txt":"Google\u2019s core growth offsets Motorola loss - MarketWatch http://t.co/qMX3QmN4 via @MarketWatch $GOOG #stocks #earningscentral","lbl":"Positive"}
+,{"time":"18:54","usr":"amirzakwan","txt":"@MarketWatch: @Google has been on a #hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/DlB5DROZ","lbl":"Neutral"}
 ,{"time":"19:48","usr":"bnichols9883","txt":"@ShmeilFolger I think $GOOG is fairly valued.","lbl":"Positive"}
 ,{"time":"19:53","usr":"zafar_abbas","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Positive"}
+,{"time":"19:54","usr":"iguiguy","txt":"RT @dcm: \u0022Made for IE6\u0022 badge for a new generation http://t.co/qBcrRqxg. <--- @ejpbruel: People say $GOOG isn\u0027t the new $MSFT ;-)","lbl":"Neutral"}
 ,{"time":"19:56","usr":"thaldorson","txt":"@knownastron you\u0027re a lifer with those stocks. $AAPL will be the first trillion dollar company unless $GOOG beats them to world domination","lbl":"Positive"}
 ,{"time":"21:42","usr":"DiogoMattoso","txt":"RT @pdacosta: Just did a Bing search by accident. If $GOOG were to suddenly vanish, our access to basic inf would be fundamentally inferior.","lbl":"Positive"}
 ,{"time":"21:44","usr":"TheMachai","txt":"As Google Changes, Its Revenue Keeps Rising http://t.co/orb8bMRQ #Google, #$GOOG","lbl":"Positive"}
+,{"time":"21:44","usr":"howardlindzon","txt":"RT @StockTwits: RT @lamonicabuzz $GOOG finished quarter with $43.1B in cash. $MSFT: $63B. $AAPL may report next week it has more cash than both combined!","lbl":"Neutral"}
 ]

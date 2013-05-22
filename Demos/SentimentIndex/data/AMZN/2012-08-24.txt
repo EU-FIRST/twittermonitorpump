@@ -2,25 +2,43 @@
 {"time":"3:56","usr":"spbaines","txt":"Very easy pickings for $AMZN. RT @Natalie_Berg: @mothercareuk order placed Jul-12. Never arrived & still no refund on Aug 24.","lbl":"Positive"}
 ,{"time":"8:25","usr":"barronstechblog","txt":"This Morning: Apple, Samsung Both Blamed In South Korea Suit, Amazon Expands NBC Pact $AAPL $AMZN $CMCSA http://t.co/JnPlqnZ6","lbl":"Positive"}
 ,{"time":"8:25","usr":"KingOfTraders","txt":"$AMZN - LONG SETUP http://t.co/vKZlZUo4","lbl":"Positive"}
+,{"time":"8:25","usr":"MrDPAQ","txt":"RT @firstadopter: $AMZN added: Friday Night Lights, Heroes, Battlestar Galactica, Parks and Recreation. Stuff only $NFLX used to have in past","lbl":"Neutral"}
+,{"time":"8:25","usr":"MrDPAQ","txt":"RT @ToddSullivan: $AMZN expands Prime video with NBC agreement http://t.co/gVBdvmzQ","lbl":"Neutral"}
 ,{"time":"9:11","usr":"StkConfidential","txt":"$AMZN doing well on expanded instant video agreement with NBC Universal. $$","lbl":"Positive"}
+,{"time":"9:12","usr":"pennies4stocks","txt":"$AMZN 250 magnet today","lbl":"Neutral"}
 ,{"time":"9:41","usr":"teamtucksxtro","txt":"$AMZN moving, watch the patterns and they can help you position yourself in the $$$. Bull pennant/flag break approaching.","lbl":"Positive"}
+,{"time":"9:42","usr":"Volpinacci","txt":"$AMZN fast Renko: entries & target (top of MM octave) http://t.co/uWRyG8Fo","lbl":"Neutral"}
+,{"time":"9:42","usr":"teamtucksxtro","txt":"@SJosephBurns Check out the $AMZN pattern. 1/3 avg vol an hr in.","lbl":"Neutral"}
 ,{"time":"9:59","usr":"charliegodwin","txt":"@tlmontana I remember @RedDogT3Live showed $AMZN on a Friday like this, very steady rise and close on highs. I may hold calls if it does.","lbl":"Positive"}
 ,{"time":"9:59","usr":"newsagg","txt":"RT @RedDogT3Live: $AAPL $amzn $goog. All macro names to own as equity investors. Traders should trade from lone side based on time horizon","lbl":"Positive"}
+,{"time":"9:59","usr":"CinnaTrades","txt":"Someone tell $AMZN that there\u0027s supposed to be a pullback going on here","lbl":"Neutral"}
 ,{"time":"10:00","usr":"teamtucksxtro","txt":"Alot of price triggers may kick in at 247/248. Extremely bullish. $AMZN.","lbl":"Positive"}
+,{"time":"10:27","usr":"DeidreZune","txt":"Reuters:ECB considering the bond yield band target bond-buying option according to CB sources $FXE $SPY $AAPL $AMZN $PCLN $GOOG","lbl":"Neutral"}
 ,{"time":"11:18","usr":"j_stops","txt":"$AMZN $246.44 trading at all time highs!!! $AMZN $AMZN http://t.co/CvXpa08e","lbl":"Positive"}
 ,{"time":"11:21","usr":"Liquid_Trader","txt":"$AMZN ~ top of the chart from Oct. highs. Impressive.","lbl":"Positive"}
 ,{"time":"11:23","usr":"LongShortTrader","txt":"@given2tweet Go and short $AMZN . Talk is cheap. cc: @OptionsHawk","lbl":"Negative"}
+,{"time":"11:25","usr":"GoodTrader1","txt":"interesting today: $AMZN, $WPI, $SHW, $HAIN, $CLSN","lbl":"Neutral"}
 ,{"time":"12:15","usr":"CapCube","txt":"@OptionsHawk BTW, I have asked a number of $AMZN bulls if they buy stock in 230\u0027s, 240\u0027s. None has admitted to doing so ...","lbl":"Negative"}
 ,{"time":"12:17","usr":"TMFJMo","txt":".@andy_sorensen It\u0027s no secret I\u0027m a fan of #Amazon, but hey, there\u0027s room in the portfolio for all three! $AAPL + $GOOG + $AMZN = #Winning","lbl":"Positive"}
 ,{"time":"12:48","usr":"hippiehighway","txt":"RT @MarketWatch: Amazon\u0027s stock hit an all-time high today, $246.87. Shares have risen more than 40% year-to-date: http://t.co/pwVravV2 $AMZN","lbl":"Positive"}
 ,{"time":"12:48","usr":"georgesmhermann","txt":"RT @MarketWatch: Amazon\u0027s stock hit an all-time high today, $246.87. Shares have risen more than 40% year-to-date: http://t.co/pwVravV2 $AMZN","lbl":"Positive"}
 ,{"time":"12:49","usr":"Brysapp","txt":"$AMZN new all time highs","lbl":"Positive"}
+,{"time":"13:24","usr":"launchticker","txt":"Poster in $amzn HQ elevator warns employees about talking to press http://t.co/BzgtJ9rx http://t.co/UmNjBQ4K","lbl":"Neutral"}
 ,{"time":"13:24","usr":"CQtrad","txt":"RT @MarketWatch: Amazon\u0027s stock hit an all-time high today, $246.87. Shares have risen more than 40% year-to-date: http://t.co/pwVravV2 $AMZN","lbl":"Positive"}
 ,{"time":"13:24","usr":"lorisica","txt":"RT @LaMonicaBuzz: Let me stand next to your Kindle Fire. $AMZN up 2% today. New all-time high. Stock up 42% YTD. But will new $AAPL products hurt Amazon?","lbl":"Positive"}
+,{"time":"13:25","usr":"firstadopter","txt":"Internal $AMZN document says company will release time machine in Q4 http://t.co/t9jXNNzv","lbl":"Neutral"}
 ,{"time":"14:08","usr":"joehas","txt":"RT @hblodget: RT @dkberman: In case you missed it, Amazon shares just hit their all-time record high. The company is now worth $111 billion. $AMZN","lbl":"Positive"}
 ,{"time":"14:08","usr":"theodoricmeyer","txt":"RT @davidmwessel: Despite lack of profits RT @dkberman: Amazon shares just hit their all-time record high. The company is now worth $111 billion. $AMZN","lbl":"Positive"}
 ,{"time":"14:08","usr":"sotek","txt":"$AMZN boom! (no pos.)","lbl":"Positive"}
+,{"time":"14:52","usr":"KissesForUsAll","txt":"@AllAboutTrends RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from@AllAboutTrends","lbl":"Neutral"}
+,{"time":"14:53","usr":"SconsetCapital","txt":"RT @LATlazarus: Amazon adding NBC shows to its Prime Video lineup http://t.co/n1FWc6zH $$ $AMZN","lbl":"Neutral"}
+,{"time":"16:02","usr":"billygriffin22","txt":"Last RT regarding $AMZN and often a painful and wallet-lightening lesson for amateur (even if knowledgeable) investors. Thanks @mojoris1977","lbl":"Neutral"}
 ,{"time":"16:03","usr":"AutoLawJD","txt":"RT @moorehn: RT @dkberman: In case you missed it, Amazon shares just hit their all-time record high. The company is now worth $111 billion. $AMZN","lbl":"Positive"}
 ,{"time":"16:03","usr":"peterthomas","txt":"RT @moorehn: RT @dkberman: In case you missed it, Amazon shares just hit their all-time record high. The company is now worth $111 billion. $AMZN","lbl":"Positive"}
 ,{"time":"16:05","usr":"LeeSergioGarcia","txt":"RT @MarketWatch: Amazon\u0027s stock hit an all-time high today, $246.87. Shares have risen more than 40% year-to-date: http://t.co/pwVravV2 $AMZN","lbl":"Positive"}
+,{"time":"17:06","usr":"Iwan_Satria","txt":"RT @wallstreet: Fed Easing talk lifts US stocks. Dow up 101 points at 13,158, Nasdaq up 16 and S&P500 up by 9 at close. $AMZN hits an all-time high of $247.","lbl":"Neutral"}
+,{"time":"19:38","usr":"scalextremeinc","txt":"$AMZN CTO: Back-to-Basics Weekend Reading - The 5 Minute Rule http://t.co/oiCvL2IM","lbl":"Neutral"}
+,{"time":"20:19","usr":"crazyfasteddy","txt":"@robsolete even @mcuban is in on it... hey Mark! I hear $AMZN\u0027s new phone is gonna be navy blue, silver, white &royal blue; called \u0022the Mav\u0022","lbl":"Neutral"}
+,{"time":"21:30","usr":"trader_trend","txt":"Consumer Business Recap: http://t.co/NYEiT6Zn Nike STANDS BY Lance Armstrong, Wal-Mart Goes MEDICAL $NKE $AMZN $WMT $BBY...","lbl":"Neutral"}
+,{"time":"23:17","usr":"shaantech91","txt":"Four Leveraged #ETF\u0027s Poised to Deliver Big Gains $SQQQ $AAPL $QQQ $AMZN $SIJ http://t.co/J2Jcgm5z via @minyanville #Investing","lbl":"Neutral"}
 ]

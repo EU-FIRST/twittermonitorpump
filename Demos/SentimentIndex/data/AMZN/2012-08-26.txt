@@ -1,1 +1,7 @@
-[]
+[
+{"time":"10:25","usr":"andrescardenal","txt":"A Simple Idea for Exceptional Returns - $AMZN, $AAPL, $EBAY, $GOOG, $MELI - Foolish Blogging Network: http://t.co/KVB0lrdy","lbl":"Neutral"}
+,{"time":"14:22","usr":"newsagg","txt":"$AMZN this doulbe top high and weak NVI worry me so I will bail on my short puts Monday on any weakness http://t.co/uRus5cPd","lbl":"Neutral"}
+,{"time":"20:42","usr":"nutmeg237","txt":"RT @AllAboutTrends: RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"20:58","usr":"acquirors","txt":"Who is the more likely acquiror of $NILE? $TIF or $AMZN #acquisitions","lbl":"Neutral"}
+,{"time":"21:02","usr":"Crap_Trader","txt":"Good stuff \u201C@strangleprofits: New Weekly Blog Update and a Question Answered - http://t.co/hlCcOvac - $SSYS $WLT $LULU $NFLX $AMZN $VIX\u201D","lbl":"Neutral"}
+]

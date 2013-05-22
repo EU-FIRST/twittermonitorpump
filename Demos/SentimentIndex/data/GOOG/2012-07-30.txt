@@ -1,12 +1,44 @@
 [
-{"time":"7:56","usr":"thefinancepress","txt":"$GOOG Google: Oops! We hung onto that Wi-Fi data we snooped: Google: Oops! We hung onto that Wi-Fi data we snoo... http://t.co/ZX5qpQcg","lbl":"Negative"}
+{"time":"6:53","usr":"jwhat","txt":"RT @SAI: Marissa Mayer Gives Yahoo Employees What They\u0027ve Always Wanted: Free Lunch $YHOO $GOOG by @sfiegerman http://t.co/OS6AmjHG","lbl":"Neutral"}
+,{"time":"6:55","usr":"choffman1978","txt":"$ACUR surging back after bear raid - partnership news today?!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga","lbl":"Neutral"}
+,{"time":"6:57","usr":"sloane927","txt":"RT @SAI: Marissa Mayer Gives Yahoo Employees What They\u0027ve Always Wanted: Free Lunch $YHOO $GOOG by @sfiegerman http://t.co/OS6AmjHG","lbl":"Neutral"}
+,{"time":"7:56","usr":"thefinancepress","txt":"$GOOG Google: Oops! We hung onto that Wi-Fi data we snooped: Google: Oops! We hung onto that Wi-Fi data we snoo... http://t.co/ZX5qpQcg","lbl":"Negative"}
+,{"time":"7:59","usr":"BigE_007","txt":"@BDBMoney $GOOG Still running!! Cashing out at open though, can\u0027t get greedy","lbl":"Neutral"}
+,{"time":"8:01","usr":"ClickatellSF","txt":"\u200FRT @SAI How #Developers Really Feel About Working With iOS And Android $AAPL $GOOG http://t.co/8ulu1xsp","lbl":"Neutral"}
+,{"time":"8:34","usr":"choffman1978","txt":"$ACUR Pfizer partnership - No debt, no float - will rally!! #cnbc,$pfe,$jnj,$dndn,$ctic,$vvus,$gsk,#markets,#stocks,$mrk,$goog,$fb,$znga","lbl":"Neutral"}
 ,{"time":"8:34","usr":"courtneypineda","txt":"$GOOG $640 that was my second target lol still holding my calls","lbl":"Positive"}
+,{"time":"8:35","usr":"cpuzder","txt":"@zachlendon Cable Cos. subsidize HBO, Cinemax, etc. $GOOG will need to offer similar.","lbl":"Neutral"}
 ,{"time":"8:36","usr":"jpu19","txt":"$AAPL 1,64% $GOOG 0,98%","lbl":"Positive"}
+,{"time":"9:11","usr":"TenBaggers","txt":"The Googification of Yahoo. Will it work? http://t.co/rlXE9CYm $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"9:14","usr":"JaySullivan2009","txt":"@kaylatausche $PM, $GOOG, $PCLN","lbl":"Neutral"}
+,{"time":"9:15","usr":"bpeck","txt":"$AXP, $GOOG, $V - How LevelUp is offering free interchange to merchants... this could pressure the payments industry http://t.co/saeYJZLQ","lbl":"Neutral"}
+,{"time":"10:16","usr":"OptionsProfits","txt":"Why $AAPL Won\u0027t Buy Twitter http://t.co/4SHrN2r0 @TheStreet @Commodity_Bull #Stockaction $GOOG $FB","lbl":"Neutral"}
+,{"time":"10:17","usr":"mike_tweets","txt":"@cnbc - Interesting presentation by Gary - but #s seemed to put $FB is more favorable comp with $GOOG - though commentary was opposite???","lbl":"Neutral"}
+,{"time":"11:29","usr":"launchticker","txt":"$goog officially rolling out Hangouts in Gmail http://t.co/gohe92wH http://t.co/hwwmDIcw","lbl":"Neutral"}
+,{"time":"11:31","usr":"wallstCS","txt":"Apple and Google Can\u0027t Stop Fighting http://t.co/cWuMQGbE $AAPL $GOOG $MSFT $RIMM #mkt #stocks","lbl":"Neutral"}
 ,{"time":"11:32","usr":"boogidown","txt":"$AAPL flat but $GOOG looks like a great swing short..","lbl":"Negative"}
+,{"time":"12:35","usr":"Trade_Stops","txt":"RT @wallstdaily: Friday Briefing: @SamsungMobile Knocks #Apple Down Another Notch http://t.co/sRLsCkQM $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"14:14","usr":"tigrs99","txt":"RT @SAI: Android May Have Peaked In The U.S. -- It Lost 4% Of Its Market Share Last Quarter $GOOG $AAPL by @jyarow http://t.co/Vn2SDnSm","lbl":"Negative"}
+,{"time":"14:14","usr":"HurdMGMT","txt":"RT @SAI: Android May Have Peaked In The U.S. -- It Lost 4% Of Its Market Share Last Quarter $GOOG $AAPL by @jyarow http://t.co/Vn2SDnSm","lbl":"Neutral"}
+,{"time":"14:15","usr":"Dividend_Lover","txt":"All about #Apple and #3DPrinters http://t.co/9sjN0ljc $AAPL $MSFT $DDD $GOOG #Google $AMZN #tech #Mac #iPhone #Ipad","lbl":"Neutral"}
+,{"time":"14:17","usr":"lluccipha","txt":"SAI: Android May Have Peaked In The U.S. -- It Lost 4% Of Its Market Share Last Quarter $GOOG $AAPL by @jyarow http://t.co/MVJY2f55","lbl":"Neutral"}
 ,{"time":"15:14","usr":"thefinancepress","txt":"$GOOG Apple, Google, Microsoft Exasperate Judges With \u0027Arrogant\u0027 IP Bickering: Apple, Google, Microsoft Exasper... http://t.co/6I23MkTf","lbl":"Negative"}
+,{"time":"15:15","usr":"brandstrat","txt":"RT @ericjackson: If Apple Didn\u0027t Want to Kill Facebook Before, They Do After This Zuckerberg Comment Last Week - Forbes http://t.co/VkZ5zMre $FB $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"15:20","usr":"cdpinker","txt":"RT @ericjackson: If Apple Didn\u0027t Want to Kill Facebook Before, They Do After This Zuckerberg Comment Last Week - Forbes http://t.co/VkZ5zMre $FB $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"15:21","usr":"mercenaryjack","txt":"Microsoft\u0027s Lost Decade, aka Ballmer\u0027s Folly: Full VF piece (previously firewalled) http://t.co/kD7tV46v $MSFT $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"17:46","usr":"JustinPulitzer","txt":"Android\u2019s share of U.S. smartphone market declined in Q2 as iPhone share ballooned 43% http://t.co/Oku95a9H $AAPL $GOOG $$","lbl":"Negative"}
 ,{"time":"17:50","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 205 shares \u2611","lbl":"Negative"}
 ,{"time":"17:50","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 122 shares \u2611","lbl":"Negative"}
 ,{"time":"17:50","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Page Lawrence Director SOLD 75000 shares \u2611","lbl":"Negative"}
+,{"time":"19:47","usr":"tksohishi","txt":"RT @keita_f: Now $ + stock symbols (like $GOOG $APPL) are clickable on http://t.co/uyVEQcWf. Feels so nice to see it working on production!!","lbl":"Neutral"}
+,{"time":"19:48","usr":"higepon","txt":"RT @keita_f: Now $ + stock symbols (like $GOOG $APPL) are clickable on http://t.co/uyVEQcWf. Feels so nice to see it working on production!!","lbl":"Neutral"}
+,{"time":"19:48","usr":"hktechno","txt":"RT @keita_f: Now $ + stock symbols (like $GOOG $APPL) are clickable on http://t.co/uyVEQcWf. Feels so nice to see it working on production!!","lbl":"Neutral"}
+,{"time":"19:48","usr":"tlmontana","txt":"\u201C@JustinPulitzer: @tlmontana $AAPL is gaining share on Android ($GOOG) & $RIMM . http://t.co/ETqJ6Gvq\u201D < -- Thanks! Appreciate the Info.","lbl":"Neutral"}
+,{"time":"20:42","usr":"calebhailey","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"20:43","usr":"bilal_akhtar96","txt":"Testing Twitter\u0027s new stocks feature: $RHT $GOOG $FB $MSFT","lbl":"Neutral"}
+,{"time":"20:44","usr":"Yarcom","txt":"RT @kevinweil: I love that ticker symbols like $AAPL $GOOG $FB are now clickable on Twitter. Another user driven feature; surfaces great biz discussions.","lbl":"Neutral"}
+,{"time":"21:22","usr":"Louii_Haze","txt":"$AAPL $GOOG $FB","lbl":"Neutral"}
+,{"time":"21:23","usr":"leggs008","txt":"RT @Reuters: Google unveils its Google Fiber broadband Internet service http://t.co/xjpmMMYQ $GOOG","lbl":"Neutral"}
+,{"time":"22:38","usr":"nrileykc","txt":"RT @kurtvarner: Stock symbols are now clickable on Twitter $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"22:39","usr":"eeemmmiii","txt":"RT @kevinweil: I love that ticker symbols like $AAPL $GOOG $FB are now clickable on Twitter. Another user driven feature; surfaces great biz discussions.","lbl":"Neutral"}
 ]

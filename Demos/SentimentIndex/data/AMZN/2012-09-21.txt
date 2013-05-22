@@ -1,9 +1,19 @@
 [
-{"time":"8:13","usr":"Mark4124NH","txt":"RT @takingstock614: Nice tone this morning across mrkts. $AAPL $GOOG $AMZN $FB $ERX $MLNX $GS $FAS $GRPN looking for upside here throug ...","lbl":"Positive"}
+{"time":"2:38","usr":"marketmavenz","txt":"Today\u0027s PlayList Traders $AMZN +1 $GOOG +3.88 $ AAPL .38 (flat) $ BIDU 1.16 $NFLX +.74 $CRM no trades $CF +3.89 http://t.co/Pprm3xVc","lbl":"Neutral"}
+,{"time":"5:52","usr":"Hugo8Prinsloo","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $FB $AMZN by @nichcarlson http://t.co/TFLVlayh","lbl":"Neutral"}
+,{"time":"7:12","usr":"BigTicks","txt":"$AMZN News: Cantor Fitzgerald Assumes Coverage on http://t.co/0pEXC5uk (AMZN) http://t.co/UcchQuj9 #Amazoncom #AMZN #Assumes","lbl":"Neutral"}
+,{"time":"7:36","usr":"issaghanem","txt":"10 Things You Need To Know This Morning $AAPL $GOOG $FB $AMZN by @nichcarlson http://t.co/yO8w96LE -- Lars Droste (@larsdominic)","lbl":"Neutral"}
+,{"time":"8:13","usr":"Mark4124NH","txt":"RT @takingstock614: Nice tone this morning across mrkts. $AAPL $GOOG $AMZN $FB $ERX $MLNX $GS $FAS $GRPN looking for upside here throug ...","lbl":"Positive"}
+,{"time":"9:09","usr":"codywillard","txt":"Apple\u2019s up 10,000% since I first recommended it. Is that possible? http://t.co/vpy1CeDE $AAPL $GOOG $FB $FIO $AMZN","lbl":"Neutral"}
 ,{"time":"10:20","usr":"DividendMaster","txt":"@jf40206 Do you really believe $120bln market cap $AMZN can justify 300+PE selling Kindles at a loss as its big growth driver? Seriously?","lbl":"Negative"}
 ,{"time":"10:21","usr":"FloridaJayhawk","txt":"RT @DividendMaster: @jf40206 Do you really believe $120bln market cap $AMZN can justify 300+PE selling Kindles at a loss as its big grow ...","lbl":"Negative"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $MSFT +18%, $GOOG +9%, $AAPL +2%, $S -35%, $AMZN -1%, $AAPL +2% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"Google Punkslaps Apple - Cook Makes Strategic Error http://t.co/X4R4EgBt $AMZN $GOOG $P $YHOO $AAPL","lbl":"Neutral"}
+,{"time":"13:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $ORCL +19%, $MSFT +18%, $BAC +14%, $COH -49%, $S -27%, $AMZN -2% http://t.co/uBJyhJcD","lbl":"Neutral"}
 ,{"time":"14:57","usr":"paulwoll","txt":"There goes $AMZN below 257....","lbl":"Negative"}
 ,{"time":"14:57","usr":"fakeCNBC","txt":"$AMZN free money Friday short for next week.","lbl":"Negative"}
 ,{"time":"15:43","usr":"RoccoPendola","txt":"$AMZN Prime is incredible. Once again - shipped yesterday, here today.","lbl":"Positive"}
+,{"time":"17:17","usr":"todd_harrison","txt":"The Minyanville Market Overview! http://t.co/veue3okU $goog $aapl $amzn $lnkd","lbl":"Neutral"}
 ,{"time":"19:55","usr":"nolte88","txt":"$AMZN https://t.co/j3ZxaP5l trending down, lower highs, watching this breakout area as next spot to hold (or break).","lbl":"Negative"}
+,{"time":"20:10","usr":"SeekingAlpha","txt":"2 Stocks To Buy As Mobile Shopping Destroys Brick And Mortar Only Retailers http://t.co/HKfhhv9v $AMZN $BBY $EBAY $M $TGT","lbl":"Neutral"}
 ]

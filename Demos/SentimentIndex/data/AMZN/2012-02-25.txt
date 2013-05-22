@@ -1,3 +1,4 @@
 [
-{"time":"22:15","usr":"best_n_korea","txt":"Amazon app check shop prices, ditch retailers http://t.co/7AHdunsf #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Positive"}
+{"time":"12:54","usr":"racernic","txt":"@tagthatstock so sell calls here and we c if fair better than my 170 puts sold. What abt $amzn is a dead kitty? Biggest gorilla in its field","lbl":"Neutral"}
+,{"time":"22:15","usr":"best_n_korea","txt":"Amazon app check shop prices, ditch retailers http://t.co/7AHdunsf #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Positive"}
 ]

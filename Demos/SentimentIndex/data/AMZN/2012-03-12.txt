@@ -4,11 +4,19 @@
 ,{"time":"0:19","usr":"61point8","txt":"$AMZN: Bear in the Jungle http://t.co/d411gJsV","lbl":"Negative"}
 ,{"time":"6:13","usr":"iMansaf","txt":"Is Amazon About to Repeat Netflix\u0027s Big Mistake? $AMZN $NFLX http://t.co/cN0tJjQs","lbl":"Negative"}
 ,{"time":"6:16","usr":"alexanderywang","txt":"RT @firstadopter: Blog post: $AMZN is the Secular Short of 2012. Please RT if you appreciate this type of work: http://t.co/xkNRhR9J","lbl":"Negative"}
+,{"time":"10:15","usr":"event_trader","txt":"$TXN warns on tepid $AMZN Fire sales while $AAPL iPad pre-order inventories are quickly exhausted. Interesting observation...","lbl":"Neutral"}
+,{"time":"11:48","usr":"BS_Whistler","txt":"RT @SeekingAlpha: Top Q4 Undervalued Buys And Sells From Mega Fund Primecap http://t.co/MvlFZTbX $AMGN $AMZN $DE $EMC $ERIC $MSFT $S $SCHW $TXN $V","lbl":"Neutral"}
+,{"time":"11:48","usr":"AmericanEtrader","txt":"$YOKU near HOD +20.5% $TUDO +147% >> $SOHU +2.9% this may be 1 -2 Watch!<<.......... $BIDU $SINA $GOOG $PCLN $AMZN $AAPL $NFLX $LNKD $CSTR","lbl":"Neutral"}
 ,{"time":"11:51","usr":"outlawz616","txt":"RT @SAI: Amazon Is The Best Company To Short Right Now $AMZN by @firstadopter http://t.co/fFYkYLI6","lbl":"Negative"}
+,{"time":"11:52","usr":"akivak","txt":"RT @RoccoPendola: What I Will Do When The Market Corrects Or Crashes - Seeking Alpha http://t.co/0rWH0JFe $AAPL $AMZN $BCE $DIS $P $RCI $TWX $VZ $WEN","lbl":"Neutral"}
 ,{"time":"13:12","usr":"StockTwits","txt":"Well done... RT @reformedbroker .@FIRSTADOPTER\u0027S AMAZON SHORT THESIS http://t.co/sZPNDD77 $AMZN","lbl":"Negative"}
 ,{"time":"13:15","usr":"ampressman","txt":"Gearing up as a 2012 battleground stock -@FIRSTADOPTER has AMAZON SHORT THESIS http://t.co/C5BMSk1M $AMZN via @StockTwits @reformedbroker","lbl":"Negative"}
 ,{"time":"14:03","usr":"dtsoy","txt":"RT @SAI: HP Is Almost Ready To Take On Amazon And Microsoft In The Cloud $HPQ $AMZN $MSFT by @Julie188 http://t.co/oJkx8HGf","lbl":"Negative"}
+,{"time":"14:03","usr":"BigTicks","txt":"RT @USwwwStocks: Google+ \u0022Ghost Town\u0022 or Long Term #Social Media Winner? http://t.co/iybZQbXB $GOOG $FB $LNKD $PCLN $AMZN #daytrading","lbl":"Neutral"}
 ,{"time":"15:02","usr":"AMZN_stock","txt":"$AMZN stock quote, Mar 12: 183.24 -1.08 (-0.59%).","lbl":"Negative"}
+,{"time":"15:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/86, $SPY/43, $GOOG/29, $YOKU/24, $AMZN/15, $AIG/14, $BAC/14, $PCBC/13. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"17:45","usr":"Ktr8der","txt":"The most important data point on iPad is not how many are sold, but how many are delighted long after the buy. $AAPL v $AMZN/$GOOG?$MMI","lbl":"Neutral"}
+,{"time":"18:05","usr":"StocialTrends","txt":"Daily Trending Social Volume: $AAPL/1223, $SPY/419, $YOKU/239, $GOOG/163, $BAC/160, $TUDO/139, $AMZN/134. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"19:33","usr":"marcelloorizi","txt":"RT @timoreilly: Argument to short $AMZN in face of accelerating shipping losses, $AAPL competition http://t.co/wKXgicHR But not sure I\u0027d bet against Jeff B","lbl":"Negative"}
 ,{"time":"19:33","usr":"GregScharlemann","txt":"Well said RT @timoreilly: Argument to short $AMZN in face of accelerating shipping losses, $AAPL competition http://t.co/jgIyAQiX","lbl":"Negative"}
 ,{"time":"22:35","usr":"y_shuman","txt":"Went buy a printer cable at walmart it was 15 online it was 4 after shipping so I bought it from $amzn","lbl":"Positive"}

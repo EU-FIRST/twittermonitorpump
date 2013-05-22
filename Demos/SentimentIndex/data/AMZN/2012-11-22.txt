@@ -1,4 +1,6 @@
 [
 {"time":"0:12","usr":"Wil_Alex_Martin","txt":"I\u0027d rather make money trading stock options. Current holdings: $amzn $gco $nugt $rtn --- Friday-- $rgr","lbl":"Positive"}
+,{"time":"0:24","usr":"weissben","txt":"As the Kindle Turns Five, Amazon Girds for a New Fight - Bloomberg Businessweek+ iPad $amzn http://t.co/bHLSHGs6","lbl":"Neutral"}
 ,{"time":"0:48","usr":"markvwes","txt":"$AMZN leaves negative trend on daily chart. Buy signal.","lbl":"Positive"}
+,{"time":"10:52","usr":"pelias01","txt":"What Does The New Generation Desire? http://t.co/PWlgZg3n $AAPL $AMZN $INTC $MSFT $SNE $NTDOY.PK","lbl":"Neutral"}
 ]

@@ -1,11 +1,44 @@
 [
-{"time":"7:42","usr":"brownreport","txt":"The bears are in town and so are our puts on $goog","lbl":"Negative"}
+{"time":"5:42","usr":"thefinancepress","txt":"$GOOG Google Warns China Users on Searches That May Break Connection: Google Warns China Users on Searches That... http://t.co/GQEB3hKf","lbl":"Neutral"}
+,{"time":"5:44","usr":"d_ramsden","txt":"Open web integrity & revenue pressures conflict past some point. $GOOG http://t.co/ippEI4TG $FB http://t.co/3d3J9FLk $$","lbl":"Neutral"}
+,{"time":"6:00","usr":"SeekingAlpha","txt":"Apple\u0027s Newest Lawsuit Attempts To Limit Samsung Galaxy\u0027s U.S. Sales http://t.co/zuKHHBsV $AAPL $GOOG $SSNLF.PK $HTCXF.PK $DELL","lbl":"Neutral"}
+,{"time":"7:42","usr":"brownreport","txt":"The bears are in town and so are our puts on $goog","lbl":"Negative"}
+,{"time":"7:43","usr":"kcassandra","txt":"RT @SAI: VERY SMART: Chromebox Is Really Google\u0027s First Desktop PC For Businesses $GOOG by @Julie188 http://t.co/XZ5xsvay","lbl":"Neutral"}
 ,{"time":"7:46","usr":"isengupta","txt":"@RiskReversal Dan may be thinking he could have held on to the $GOOG June puts. But you have the July.","lbl":"Negative"}
+,{"time":"8:29","usr":"tkuz4u","txt":"RT @SAI: Google Exec: Our $40 Billion Secret Sauce Is Called \u0022SmartASS\u0022 $GOOG by @nichcarlson http://t.co/aMUzlLWA","lbl":"Neutral"}
+,{"time":"8:30","usr":"choffman1978","txt":"$BPAX new share structure indicates HUGE SQUEEZE!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s,","lbl":"Neutral"}
+,{"time":"8:31","usr":"pennystockguys","txt":"$GOOG - Stock Market News for June 1, 2012 - Market News http://t.co/LNNINBhG","lbl":"Neutral"}
+,{"time":"8:31","usr":"ADVFNplc","txt":"$GOOG - Stock Market News for June 1, 2012 - Market News http://t.co/FxC1Imkt","lbl":"Neutral"}
+,{"time":"9:00","usr":"Benzinga","txt":"$GOOG $AAPL Almost identical share price","lbl":"Neutral"}
+,{"time":"9:00","usr":"barronstechblog","txt":"This Morning: More Thumbs Up for Facebook, HP Threatened by Tablets - Tech Trader Daily - $FB $HPQ $RIMM $MSFT $GOOG http://t.co/fRBa3Yqs","lbl":"Neutral"}
+,{"time":"9:00","usr":"stocial","txt":"\u0022Facebook is the world\u2019s largest photo sharing site--that also happens to be a social network\u0022 http://t.co/kErR5rGW $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:00","usr":"choffman1978","txt":"$BPAX new share structure indicates HUGE SQUEEZE!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$csco","lbl":"Neutral"}
+,{"time":"9:37","usr":"USwwwStocks","txt":"$GOOG News: Wall Street Brief: Google\u0027s Boldly SLAPS FTC, Wal-Mart\u0027s BIG Day http://t.co/yjokv9eD #GOOG #Boldly #Brief","lbl":"Neutral"}
+,{"time":"9:38","usr":"iStockAnalyst","txt":"How Low Can Facebook \u2013 And The Euro \u2013 Go? $GOOG: For most people, Friday\u2019s just the day before the weekend.[More...] http://t.co/Cg5JKHPQ","lbl":"Neutral"}
+,{"time":"9:45","usr":"choffman1978","txt":"$YMI about to turn green!!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
 ,{"time":"9:46","usr":"Gssound","txt":"@creditspread23 @bookingalpha that would be a $GOOG 580/585 call credit spread at .30, sorry late response...","lbl":"Positive"}
+,{"time":"10:58","usr":"StockStandOff","txt":"$GOOG vs $BIDU: How Low Can Facebook \u2013 And The Euro \u2013 Go? http://t.co/3f9ZTslD #BIDU #Euro #Facebook","lbl":"Neutral"}
 ,{"time":"10:58","usr":"wallstCS","txt":"Does This Spell BIG TROUBLE for Google Books? http://t.co/qn5HK8fq $GOOG #mkt #stocks","lbl":"Negative"}
 ,{"time":"11:00","usr":"tradestoday","txt":"RT @wallstCS: Does This Spell BIG TROUBLE for Google Books? http://t.co/xkfNP7SI $GOOG #mkt #stocks $BKS","lbl":"Negative"}
+,{"time":"11:00","usr":"Elijah526","txt":"RT @BloombergTV: You\u0027ve heard of .com -- but get ready for .google. Tech titan applies for its own top level domains: http://t.co/bi9YPoFj $GOOG","lbl":"Neutral"}
 ,{"time":"12:15","usr":"nithyadas","txt":"RT @DeirdreBolton: .@bokelley took on $GOOG in \u002707 & @AppNexus is the successful result. More on being innovator+boss at 1:10pmET #MoneyMoves @BloombergTV","lbl":"Positive"}
+,{"time":"12:17","usr":"jeffbenyc","txt":"RT @cardinalrose: Waiting for the day when I buy the triple play from $AAPL, $GOOG, or $FB. TV, phone, & broadband fully integrated with my digital life.","lbl":"Neutral"}
 ,{"time":"12:18","usr":"dschorrnyc","txt":"$AAPL lows. $GOOG highs. huh.","lbl":"Positive"}
+,{"time":"12:20","usr":"Minyanville","txt":"Check Out the Music Video Company That #Facebook and #Google Are Vying For $FB $GOOG @vincent_trivett http://t.co/pptHIMF7","lbl":"Neutral"}
 ,{"time":"13:24","usr":"Javerthl","txt":"@jimcramer Bought some $GOOG down here.","lbl":"Positive"}
+,{"time":"13:25","usr":"BloombergNews","txt":"RT @BloombergWest: Google wants to purchase web domain .LOL for its \u201Cinteresting and creative potential.\u0022 http://t.co/zmWEmtEB $GOOG","lbl":"Neutral"}
+,{"time":"13:26","usr":"ckangongoi","txt":"\u0022@BloombergWest: Google wants to purchase web domain .LOL for its \u201Cinteresting and creative potential.\u0022 http://t.co/bLDBLtkN $GOOG\u0022","lbl":"Neutral"}
+,{"time":"13:50","usr":"choffman1978","txt":"$BPAX GETTING READY TO RUN short squeeze monday! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"13:51","usr":"choffman1978","txt":"$BPAX only 20 million share float starting monday #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"13:51","usr":"vera_newhouse","txt":"RT @BloombergWest: Google wants to purchase web domain .LOL for its \u201Cinteresting and creative potential.\u0022 http://t.co/zmWEmtEB $GOOG","lbl":"Neutral"}
+,{"time":"14:31","usr":"top_tw_biz","txt":"RT @BloombergWest: Google wants to purchase web domain .LOL for its \u201Cinteresting and creative potential.\u0022 http://t.co/zmWEmtEB $GOOG","lbl":"Neutral"}
+,{"time":"14:35","usr":"keepitrealdude","txt":"Though glad to see $AMZN and $GOOG behaving like they should, even $BAC is doing pretty good given the circumstances..","lbl":"Positive"}
+,{"time":"14:41","usr":"thefinancepress","txt":"$GOOG Twitter Said to Expect $1 Billion in Sales in 2014 on Ad Growth: Twitter Said to Expect $1 Billion in Sal... http://t.co/8Qfs7Xld","lbl":"Neutral"}
+,{"time":"16:48","usr":"jnoble100","txt":"RT @ValaAfshar: Apple owns 74% of smartphone traffic, 95% of tablet traffic http://t.co/Ddiy4Vxp | #IT #CIO #CoIT #BYOD $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:54","usr":"ykilstein","txt":"RT @BloombergWest: Google wants to purchase web domain .LOL for its \u201Cinteresting and creative potential.\u0022 http://t.co/zmWEmtEB $GOOG","lbl":"Neutral"}
+,{"time":"16:55","usr":"njnigh","txt":"Google moving to all paid Google Product Search listings $GOOG http://t.co/wHt5k92l","lbl":"Neutral"}
+,{"time":"22:31","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022+; Maps; Zagat\u0022 http://t.co/cQepxSCR @googlejapan @GoogleLatam @googleresearch @google [follow @Viddy]","lbl":"Neutral"}
 ,{"time":"22:33","usr":"PurviRajani","txt":"$GRPN lockup just ended. Market cap barely above the $6B that the mighty $GOOG offered.","lbl":"Positive"}
+,{"time":"22:42","usr":"BRHook","txt":"-- Google to start charging companies for listings: http://t.co/tuIHv4E9 @FT @RichardWaters @google $GOOG #SEO #search #listings #tech #biz","lbl":"Neutral"}
+,{"time":"22:43","usr":"mfstratton","txt":"RT @SeekingAlpha: After Years Of Flirting, Facebook And Apple Set For Relationship Status http://t.co/mywva9Mw $FB $AAPL $GOOG","lbl":"Neutral"}
 ]

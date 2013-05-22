@@ -1,23 +1,50 @@
 [
 {"time":"1:19","usr":"SirFreshington","txt":"@Equity_Manager I gave up some gains on those $GOOG 600 puts :( but damn the calls went from 1.30ish to 15.90 over the week! :(","lbl":"Positive"}
+,{"time":"1:27","usr":"WilliamFyhr","txt":"RT @MKTWBurton: Open letter to Facebook $FB and Instagram millionaires -- Listen to Google $GOOG http://t.co/T1ApyFsC via @MarketWatch","lbl":"Neutral"}
+,{"time":"1:28","usr":"NitroTrend","txt":"$XLE $GDX $BIDU $GOOG: $XLE is showing some great indications that we can find this at higher levels in weeks to... http://t.co/2rR5WIQD","lbl":"Neutral"}
+,{"time":"5:30","usr":"vid_e","txt":"RT @Tech_Blend: The Decline Of Android Foretells The Rise Of A Total Apple Monopoly http://t.co/8rS4MNss $GOOG, $AAPL","lbl":"Neutral"}
+,{"time":"6:42","usr":"emperado","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AMZN $ZNGA $NOK $DIS $CMCSA $NWS by @jyarow http://t.co/rld0EvjR","lbl":"Neutral"}
 ,{"time":"7:48","usr":"bergkelleher","txt":"RT @MKTWBurton: Open letter to Facebook $FB and Instagram millionaires -- Listen to Google $GOOG http://t.co/T1ApyFsC via @MarketWatch","lbl":"Positive"}
+,{"time":"7:48","usr":"BioTechReports","txt":"Strong Q1 car sales in GDP report - good for SiriusXM #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$c,$v,$f,$siri,$gs,$goog,$amgn,$chtp,$vvus","lbl":"Neutral"}
 ,{"time":"8:02","usr":"JosePonceJouvin","txt":"RT @businessinsider: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL by @hblodget http://t.co/1H00xYiu","lbl":"Negative"}
 ,{"time":"8:03","usr":"tigrs99","txt":"RT @SAI: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL by @hblodget http://t.co/m89J7Rq1","lbl":"Negative"}
 ,{"time":"8:03","usr":"pegobry","txt":"RT @SAI: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL by @hblodget http://t.co/m89J7Rq1","lbl":"Negative"}
+,{"time":"8:25","usr":"thefinancepress","txt":"$GOOG Magid: Taking Google Drive for a spin: Magid: Taking Google Drive for a spin San Jose Mercury News - 10 m... http://t.co/M3bpaCMD","lbl":"Neutral"}
 ,{"time":"8:54","usr":"McCannToday","txt":"RT @SAI: Google Is On The Cusp Of Losing Control Of Android $GOOG by @jyarow http://t.co/Q47OBmm2","lbl":"Negative"}
 ,{"time":"8:54","usr":"Heer_preet","txt":"RT @hblodget: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL http://t.co/otMdRfpd","lbl":"Negative"}
 ,{"time":"9:11","usr":"nishardnuh","txt":"\u0022@SAI: Google Is On The Cusp Of Losing Control Of Android $GOOG by @jyarow http://t.co/RfJn1M1Q\u0022 #fb","lbl":"Negative"}
 ,{"time":"9:27","usr":"SHOSHANNARS","txt":"RT @businessinsider: Google Is On The Cusp Of Losing Control Of Android $GOOG by @jyarow http://t.co/iod8In1F","lbl":"Negative"}
+,{"time":"9:48","usr":"juanfebles25","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AMZN $ZNGA $NOK $DIS $CMCSA $NWS by @jyarow http://t.co/rld0EvjR","lbl":"Neutral"}
+,{"time":"10:24","usr":"vyauu","txt":"RT @SAI: Quick! Type \u0027Zerge Rush\u0027 Into Google And See What Happens $GOOG by @Julie188 http://t.co/Ry3YQgRG","lbl":"Neutral"}
+,{"time":"10:25","usr":"Matt_Grimshaw","txt":"Someone at Google is bored: RT @SAI: Quick! Type \u0027Zerge Rush\u0027 Into Google And See What Happens $GOOG by @Julie188 http://t.co/395Q14yI","lbl":"Neutral"}
 ,{"time":"10:40","usr":"BlueFielder","txt":"$GooG lifting of that pennant ....","lbl":"Positive"}
+,{"time":"10:42","usr":"allantowns","txt":"RT @jimcramer: RT @thestreet: Facebook Has No Business Being Compared to Apple, Google and Amazon http://t.co/irR2NJoh $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"11:06","usr":"HamzeiAnalytics","txt":"RT @FortuneMagazine: Et tu, Google? Why the tech giant\u0027s stock revamp is a bust: http://t.co/TGki02IV $GOOG","lbl":"Negative"}
+,{"time":"11:07","usr":"LTommy256","txt":"Yes, I miss General Hospital...The Digital Ad Industry Needs To Innovate For Consumers http://t.co/4hXNtEL2 $MM $GOOG $YHOO","lbl":"Neutral"}
 ,{"time":"11:24","usr":"JrCapitalGroup","txt":"RT @SAI: Google\u0027s Destruction Is Already Under Way $GOOG by @nichcarlson http://t.co/O8pQrhol","lbl":"Negative"}
 ,{"time":"11:48","usr":"sitweak","txt":"RT @SAI: Google Is Out Of Touch With Reality When It Comes To Android Software Updates $GOOG by @stevekovach http://t.co/CONZ5hz7","lbl":"Negative"}
 ,{"time":"11:48","usr":"McCannToday","txt":"RT @SAI: Google\u0027s Destruction Is Already Under Way $GOOG by @nichcarlson http://t.co/O8pQrhol","lbl":"Negative"}
+,{"time":"12:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/102, $AMZN/69, $GOOG/45, $SBUX/36, $SPY/33, $NOK/21, $MMI/20, $EXPE/18. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"12:07","usr":"MichaelComeau","txt":"Data orgy continues. $AMZN Kindle FIre >50% of US $GOOG Android tablet market. Android tablet market = bargin bin. http://t.co/UmYS9mmb","lbl":"Neutral"}
+,{"time":"12:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/81, $AMZN/77, $SPY/39, $SBUX/28, $PCLN/24, $EXPE/20, $GOOG/20, $GLD/15. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"12:35","usr":"amadorn","txt":"RT @businessinsider: Google\u0027s Destruction Is Already Under Way $GOOG by @nichcarlson http://t.co/JikP6CoQ","lbl":"Neutral"}
 ,{"time":"12:36","usr":"cnbcfastmoney","txt":"Is Antitrust Probe a Reason to Sell Google? http://t.co/zgZOah0v $GOOG #StockMarket #StockPicks","lbl":"Negative"}
+,{"time":"13:03","usr":"Mark_Lexus","txt":"$GOOG setup for new credit put spreads 4/27/2012 http://t.co/JtqcQFJg","lbl":"Neutral"}
+,{"time":"13:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/99, $AMZN/60, $SPY/57, $PCLN/29, $SBUX/29, $LNKD/29, $GOOG/22, $EXPE/19. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"13:05","usr":"xavier0912","txt":"RT @businessinsider: CHART OF THE DAY: Apple\u0027s Growth In Context $AAPL $GOOG $MSFT $FB $AMZN by @jyarow http://t.co/KRzSohlB","lbl":"Neutral"}
+,{"time":"13:50","usr":"equitiescom","txt":"#Zynga\u0027s earnings impress, but it faces criticism for relying so heavily on #Facebook\u0027s #revenue: http://t.co/f21uaj2O $FB #tech $ZNGA $GOOG","lbl":"Neutral"}
+,{"time":"13:50","usr":"EquitiesIR","txt":"#Zynga\u0027s earnings impress, but it faces criticism for relying so heavily on #Facebook\u0027s #revenue: http://t.co/pOhkMP87 $FB #tech $ZNGA $GOOG","lbl":"Neutral"}
 ,{"time":"13:52","usr":"BlueFielder","txt":"$GOOG .... stirring","lbl":"Positive"}
+,{"time":"14:25","usr":"joelight","txt":"@vitaliyk Think it took $GOOG 7 years to grow revenues 10x (2004 to 2011). Doesn\u0027t seem completely insane","lbl":"Neutral"}
+,{"time":"14:28","usr":"MacCiarogain","txt":"RT @vitaliyk: $GOOG revenue $40b, mktcap $200b, Facebook rev $4b mktcap $100b. Facebook has to grow revenue 10x for you to double your money. Goodluck","lbl":"Neutral"}
+,{"time":"15:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/99, $SPY/44, $AMZN/27, $GOOG/23, $SBUX/18, $GLD/15, $NFLX/12, $JPM/10. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"15:49","usr":"mpp_84","txt":"RT @businessinsider: 10 Reasons Google Is The Greatest Company In The World $GOOG by @jyarow http://t.co/PoxU3wlZ","lbl":"Positive"}
+,{"time":"15:52","usr":"Ferrarifortweet","txt":"RT @businessinsider: 10 Reasons Google Is The Greatest Company In The World $GOOG by @jyarow http://t.co/PoxU3wlZ","lbl":"Neutral"}
 ,{"time":"15:54","usr":"gforce1","txt":"RT @SAI: DEAR SAMSUNG: Google Screwed Up -- Time To Ditch Them And Go After Apple Yourself $GOOG $AAPL by @hblodget http://t.co/m89J7Rq1","lbl":"Negative"}
+,{"time":"16:58","usr":"RBRoma","txt":"RT @ReformedBroker: RT @cnbcfastmoney: Investor Dilemma: What to Buy In a Slow-Growth Economy? http://t.co/BRhNXJ29 $AAPL $GOOG $IWD","lbl":"Neutral"}
 ,{"time":"18:15","usr":"BS_Whistler","txt":"RT @TheStreet: Facebook Has No Business Being Compared to Apple, Google and Amazon http://t.co/b9WXbhjR $GOOG $AAPL","lbl":"Positive"}
 ,{"time":"18:16","usr":"NimlokChicago","txt":"RT @businessinsider: 10 Reasons Google Is The Greatest Company In The World $GOOG by @jyarow http://t.co/PoxU3wlZ","lbl":"Positive"}
+,{"time":"18:17","usr":"All_InEquities","txt":"$AKS $ACI $NBR $FTNT $RAX $QCOM $OCZ $FIO $STX $WDC $CY $TER $SWKS $CRUS $OVTI $MRVL $BRCM $AAPL $GOOG $VMW $FFIV $CRM $RAX $IBM","lbl":"Neutral"}
 ,{"time":"19:59","usr":"USwwwStocks","txt":"$GOOG News: Buy GE, Drop Google and Don\u0027t Ask Why: UBS http://t.co/XVHA0PIu #daytrading #usa #www #stocks","lbl":"Negative"}
+,{"time":"23:38","usr":"WallStWatchDog","txt":"Insider Trades in S&P 500 Companies for Apr 26th http://t.co/awswcf60 $GOOG $APD $EL $HCP $NSC $ROP $SO $TEG #stocks","lbl":"Neutral"}
 ]

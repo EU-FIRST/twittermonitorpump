@@ -1,10 +1,19 @@
 [
-{"time":"7:36","usr":"SAI_Tools","txt":"This Video Shows You Just How Ridiculous Google Glass Is When Used By Normal People $GOOG by @officialKLS http://t.co/LjKCFZog","lbl":"Negative"}
+{"time":"7:30","usr":"seospecialistbd","txt":"RT @Trefis ::Google Launches Compute Engine To Challenge Amazon http://t.co/Lrmt3SBV by Trefis Team $GOOG $AMZN $MSFT http://t.co/h5ecZBBp","lbl":"Neutral"}
+,{"time":"7:36","usr":"businessinsider","txt":"This Video Shows You Just How Ridiculous Google Glass Is When Used By Normal People $GOOG by @officialKLS http://t.co/MYKRAaSK","lbl":"Neutral"}
+,{"time":"7:36","usr":"SAI_Tools","txt":"This Video Shows You Just How Ridiculous Google Glass Is When Used By Normal People $GOOG by @officialKLS http://t.co/LjKCFZog","lbl":"Negative"}
 ,{"time":"7:36","usr":"SAI","txt":"This Video Shows You Just How Ridiculous Google Glass Is When Used By Normal People $GOOG by @officialKLS http://t.co/3jLD4p5z","lbl":"Negative"}
 ,{"time":"11:47","usr":"AdNewsWorld","txt":"With Nexus 7, $GOOG Finally Gets Android Tablets Right [#REVIEW] http://t.co/bHPTiuZX","lbl":"Positive"}
+,{"time":"12:07","usr":"JoshNursing","txt":"RT @jldavid Google Takes Its Google+ Platform Mobile With Android, iOS SDKs & Social Plugins For The Mobile Web: http://t.co/sovjhXOW $GOOG","lbl":"Neutral"}
 ,{"time":"13:41","usr":"primary_key","txt":"RT @SAI: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/pIIntp0b","lbl":"Positive"}
+,{"time":"13:41","usr":"damianburns","txt":"RT @SAI: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/pIIntp0b","lbl":"Neutral"}
 ,{"time":"13:45","usr":"bionicV3","txt":"Closing statement is very true RT @SAI: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/sE76YodL","lbl":"Positive"}
+,{"time":"13:49","usr":"vladkacerstva","txt":"RT @ValaAfshar: $AAPL vs $GOOG since launch of iPhone http://t.co/QURIY5ax","lbl":"Neutral"}
 ,{"time":"15:51","usr":"KelvinLomboy","txt":"RT @SAI: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/pIIntp0b","lbl":"Positive"}
+,{"time":"15:51","usr":"joshwporter","txt":"RT @SAI_Tools: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/Y5RTHG48","lbl":"Neutral"}
+,{"time":"15:55","usr":"aiki14","txt":"Google news has had a link to like 300 outlets for 5 days covering some mutt in India who gets headaches from watching porn. Who cares $GOOG","lbl":"Neutral"}
+,{"time":"16:02","usr":"emir909","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"19:07","usr":"USwwwStocks","txt":"$GOOG News: Samsung has Google\u0027s backing in fight against Apple http://t.co/j1pBQgKy #GOOG #Against #Apple","lbl":"Positive"}
+,{"time":"23:30","usr":"BigTicks","txt":"$GOOG News: What\u0027s Ailing Google Chief? http://t.co/BEygSfrl #GOOG #ailing #Chief","lbl":"Neutral"}
 ,{"time":"23:37","usr":"just4girls1","txt":"RT @businessinsider: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/7JfPvRJR","lbl":"Positive"}
 ]

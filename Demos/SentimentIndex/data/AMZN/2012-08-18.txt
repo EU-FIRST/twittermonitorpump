@@ -1,4 +1,9 @@
 [
-{"time":"9:38","usr":"rjsanchez01","txt":"RT @Fitzstock2004: I can post a million charts today (\u0022charts while u sleep\u0022), but then they loose their relevancy ....stick with $goog $aapl $amzn $xlk ....GL","lbl":"Positive"}
+{"time":"0:28","usr":"BigTicks","txt":"$AMZN News: Consumer Business Report: Nestl\u00E9 Loses SUIT In Germany, Amazon GOES To \u2026 http://t.co/n0tF0bKq #Amazon #AMZN #Business","lbl":"Neutral"}
+,{"time":"7:12","usr":"alexischeong","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Negative"}
+,{"time":"9:38","usr":"rjsanchez01","txt":"RT @Fitzstock2004: I can post a million charts today (\u0022charts while u sleep\u0022), but then they loose their relevancy ....stick with $goog $aapl $amzn $xlk ....GL","lbl":"Positive"}
+,{"time":"9:45","usr":"spanishNY","txt":"Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs - $AMZN http://t.co/gmbzrGzP via @YahooFinance","lbl":"Neutral"}
+,{"time":"11:24","usr":"getshawn","txt":"Hey @livingsocial, your vouchers should expire at midnight *local* time, not east-coast time. Simple stuff, right $AMZN ?","lbl":"Neutral"}
 ,{"time":"11:40","usr":"Williamj54","txt":"Names within/below buy points to consider this wk: $AAPL, $FRAN, $TFM, $TDC, $KORS, $GOOG, $AMZN, $EQIX","lbl":"Positive"}
+,{"time":"18:14","usr":"BhagCAPITAL","txt":"\u0022@WTFRLY: The @federalreserve can hint at #QE3 at the Jackson Hole mtg, but then what? 81 days to #RomneyRyan2012 $GOOG $AMZN $FB $GRPN","lbl":"Neutral"}
 ]

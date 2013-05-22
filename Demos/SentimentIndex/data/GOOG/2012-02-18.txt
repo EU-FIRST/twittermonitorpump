@@ -1,4 +1,14 @@
 [
 {"time":"3:05","usr":"luis4lonso","txt":"RT @businessinsider: HOW TO: Block Google (And Everybody) From Tracking Which Sites You Visit On Your iPhone $AAPL $GOOG by @MattRosoff http://t.co/FdBOgPQq","lbl":"Negative"}
+,{"time":"3:15","usr":"i_am_ninja_cat","txt":"iPhones for Psychos http://t.co/64todE4p #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"3:32","usr":"AranDown","txt":"RT @businessinsider: HOW TO: Block Google (And Everybody) From Tracking Which Sites You Visit On Your iPhone $AAPL $GOOG by @MattRosoff http://t.co/FdBOgPQq","lbl":"Neutral"}
+,{"time":"3:43","usr":"stockticks","txt":"FTC says Apple, Android Apps Must Provide More Child Data: $AAPL $GOOG http://t.co/xbjNv4dA\u2026 via @bigticks","lbl":"Neutral"}
+,{"time":"9:23","usr":"benny_the_dogs","txt":"Google X research facility and its secret projects http://t.co/0tsT72oG #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"9:24","usr":"vcutrader","txt":"@ppearlman bot little $goog friday and looking to buy back $csco. Big titan tech getting buy side love (low debt/high cash/lower risk)","lbl":"Neutral"}
+,{"time":"9:35","usr":"Fernandopastorg","txt":"RT @businessinsider: HOW TO: Block Google (And Everybody) From Tracking Which Sites You Visit On Your iPhone $AAPL $GOOG by @MattRosoff http://t.co/FdBOgPQq","lbl":"Neutral"}
+,{"time":"9:56","usr":"EmergingMoney","txt":"Baidu taking on Google in Brazil. $GOOG now has trouble closer to home than $BIDU\u0027s native China. http://t.co/sXu30R88","lbl":"Neutral"}
 ,{"time":"17:06","usr":"thefinancepress","txt":"$GOOG Google\u0027s Schmidt plans to cut stake: Google\u0027s Schmidt plans to cut stake MarketWatch - 4 hours ago By Jo... http://t.co/5WykaLwd","lbl":"Negative"}
+,{"time":"17:21","usr":"hinkelcpgyfo6","txt":"$GOOG TV based on android, will have Chrome on it.","lbl":"Neutral"}
+,{"time":"17:32","usr":"Robo_trader","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/EdSp4aRG #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"17:33","usr":"sspencer_smb","txt":"Chrome for android kicks a** $goog","lbl":"Neutral"}
 ]

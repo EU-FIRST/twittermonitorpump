@@ -1,6 +1,13 @@
 [
 {"time":"7:50","usr":"USwwwStocks","txt":"$GOOG News: At New Highs RAX, GOOG, AAPL, AMZN, GOOG http://t.co/ZnjmxwZp #AMZN #GOOG #AAPL","lbl":"Positive"}
+,{"time":"8:03","usr":"TheRomit","txt":"Georgia State Chooses Office 365 Over Google Apps, Saves $1 Million in Costs $msft $goog http://t.co/8vRP2B9U","lbl":"Neutral"}
 ,{"time":"10:56","usr":"jmullin9","txt":"Youtube just plain sucks nowadays. It pauses 10-20 times to watch a 3 minute video. And thats with a fast connection! $goog","lbl":"Negative"}
+,{"time":"14:43","usr":"ChrisIsOut","txt":"RT @SeekingAlpha: Nokia: A Windows Phone 8 Fueled Comeback Isn\u0027t Crazy http://t.co/SuQUUgRL $AAPL $GOOG $MSFT $NOK","lbl":"Neutral"}
+,{"time":"15:12","usr":"JustinHsu","txt":"Challenging Week Ahead for the Eurozone http://t.co/6VGpOZxj #ECB #Draghi #Merkel $SPY $GOOG $AAPL $AMZN $TVIX","lbl":"Neutral"}
 ,{"time":"15:22","usr":"vonoldenburg","txt":"@PeterPrudden Great long $goog call last month. Would you hold thru expected mrkt correction since this was a multi yr breakout?","lbl":"Positive"}
+,{"time":"19:33","usr":"Tcarroll6699","txt":"$ appl is going to dump the ability for Iphones to use $goog search and google maps. TC this is going to open the door for aneroid phones.","lbl":"Neutral"}
+,{"time":"19:34","usr":"kenjotto","txt":"Plan for tomorrow is to watch mkts, work my $AAPL and $GOOG spreads (close shrts/add lngs on dips, vice versa on rips)","lbl":"Neutral"}
+,{"time":"19:38","usr":"Paulsch55","txt":"http://t.co/Nq7xFLuj Could $GOOG lose billions to patent Company $VRNG? #cs021","lbl":"Neutral"}
+,{"time":"23:48","usr":"SeAwInDe","txt":"RT @SeekingAlpha: Are You Buying The 3D Printing Hype? http://t.co/FZ4SwJRn $AAPL $GOOG $HPQ $RIMM $SSYS $DDD","lbl":"Neutral"}
 ,{"time":"23:49","usr":"OptionPit","txt":"Is $goog partially down?","lbl":"Negative"}
 ]

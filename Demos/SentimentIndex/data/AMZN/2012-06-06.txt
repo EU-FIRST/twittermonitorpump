@@ -3,4 +3,9 @@
 ,{"time":"8:40","usr":"ChartMoMo","txt":"short $amzn 215.60","lbl":"Negative"}
 ,{"time":"9:44","usr":"StockAction","txt":"RT @ankypanky25: Forgot how good it feels to see so much green...$AMZN $BAC $CMG ...love my ABCs #stockaction","lbl":"Positive"}
 ,{"time":"9:46","usr":"TraderFlorida","txt":"$AMZN continues higher since bouncing off 50 day this week","lbl":"Positive"}
+,{"time":"9:46","usr":"Nevins703","txt":"Chatter about $NFLX possibly being taken over. I\u0027ve been saying this for over 6 months. Possibly $Amzn $Goog $aapl $msft","lbl":"Neutral"}
+,{"time":"12:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:16pm: 217.42 +4.21 (+1.97%).","lbl":"Neutral"}
+,{"time":"13:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:16pm: 215.92 +2.71 (+1.27%).","lbl":"Neutral"}
+,{"time":"15:57","usr":"PCH888","txt":"Between $TWIT $FB $EBAY $ZNGA $AMZN , who else has time to do anything else.","lbl":"Neutral"}
+,{"time":"16:06","usr":"iStockAnalyst","txt":"The March To May Was All Too Easy $AMZN $BDX $COP $CSCO $EBAY $HPQ $IRE $LOJN $MSFT $TBHS $TSCDY: The value of m... http://t.co/eXl1ueor","lbl":"Neutral"}
 ]

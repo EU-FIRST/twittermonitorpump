@@ -1,12 +1,40 @@
 [
-{"time":"2:08","usr":"juarezjunior","txt":"RT @businessinsider: Steve Ballmer\u0027s Biggest Mistake: Obsessing Over Google $MSFT $GOOG $AAPL by @jyarow http://t.co/09MhFZGW","lbl":"Negative"}
+{"time":"1:38","usr":"jomtwi","txt":"RT @WhatTheBit: I wish $MSFT and $GOOG had the balls to sell hardware at 0% margins just to fuck $AAPL. They already make a ton of money off s/w + services.","lbl":"Neutral"}
+,{"time":"2:08","usr":"juarezjunior","txt":"RT @businessinsider: Steve Ballmer\u0027s Biggest Mistake: Obsessing Over Google $MSFT $GOOG $AAPL by @jyarow http://t.co/09MhFZGW","lbl":"Negative"}
 ,{"time":"2:34","usr":"regisjay","txt":"RT @YahooFinance: Governments asking Google to remove more content http://t.co/OPTM6yLb $GOOG","lbl":"Negative"}
 ,{"time":"2:38","usr":"netgarden","txt":"Question: Now that $MSFT has capitulated on hardware-software integration as their primary tablet play, can $GOOG be far behind?","lbl":"Negative"}
+,{"time":"7:11","usr":"thefinancepress","txt":"$GOOG Google (NASDAQ:GOOG) Maps Street View Upgrading Its Virtual ...: Google (NASDAQ:GOOG) Maps Street View Up... http://t.co/EZGGPOZx","lbl":"Neutral"}
+,{"time":"7:13","usr":"lluccipha","txt":"SAI: Is It Even Possible For You To Have An Open Mind About Microsoft\u0027s iPad-Killer? $MSFT $AAPL $GOOG by @nichcarlson http://t.co/z83vqimH","lbl":"Neutral"}
+,{"time":"7:16","usr":"TerrificPenny","txt":"We\u0027re growing rapidly surpassing 150,000 followers on Twitter! SUBSCRIBE TODAY: http://t.co/bFFuGlqd $AAPL $GOOG $YNDX $BIDU $SINA $SOHU $FB","lbl":"Neutral"}
+,{"time":"7:23","usr":"etamb","txt":"RT @SAI: Is It Even Possible For You To Have An Open Mind About Microsoft\u0027s iPad-Killer? $MSFT $AAPL $GOOG by @nichcarlson http://t.co/xa5xGll8","lbl":"Neutral"}
+,{"time":"8:35","usr":"choffman1978","txt":"$SIRI STRONG JUNE AUTO NUMBERS?#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx","lbl":"Neutral"}
+,{"time":"8:35","usr":"choffman1978","txt":"$SIRI RUNNING!!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx","lbl":"Neutral"}
+,{"time":"8:35","usr":"HFTAlert","txt":"FB 5m Accumulator very much supporting price recovery. $aapl $goog $znga $spy $FB http://t.co/fkIT24qP","lbl":"Neutral"}
+,{"time":"8:37","usr":"jefffocker","txt":"@jefffocker @RedDogT3Live Did you like my call on $GOOG. Hopefully it acts better at 200 DMA","lbl":"Neutral"}
+,{"time":"9:15","usr":"thefinancepress","txt":"$GOOG Eric Schmidt: IDF trains great computer people: Eric Schmidt: IDF trains great computer people Globes - 6... http://t.co/Tqq6nJM4","lbl":"Neutral"}
+,{"time":"9:15","usr":"businessinsider","txt":"Facebook Is Finally Testing An Ad Network (But It Doesn\u0027t Look Anything Like An Ad Network) $FB $GOOG by @nichcarlson http://t.co/NRB6L6bR","lbl":"Neutral"}
+,{"time":"9:40","usr":"SeekingAlpha","txt":"Sprint Breaks Through Resistance With Apple Tailwinds And More To Come http://t.co/ReONIFfU $AAPL $GOOG $T $VZ $S","lbl":"Neutral"}
 ,{"time":"9:41","usr":"investorsmosaic","txt":"Apple and Google just crushing it in the smartphone arena. L-T ?: Who\u0027ll challenge in the future? $aapl $goog $rimm http://t.co/1H1RTzRw","lbl":"Positive"}
 ,{"time":"9:43","usr":"Degendanny","txt":"Technology: $Aapl and $yhoo biggest holdings. Started a new small position in $goog. #google #Nasdaq #aapl #yahoo","lbl":"Positive"}
+,{"time":"10:37","usr":"Trefis","txt":"Microsoft\u0027s Surface Takes On iPad Using Apple\u0027s Strategy http://t.co/YynjjbnU by Trefis Team $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:37","usr":"Trefis","txt":"Baidu Looks To Acquire UCWeb To Dominate Chinese Mobile Space http://t.co/WkXjlqT4 by Trefis Team $BIDU $GOOG $FB","lbl":"Neutral"}
+,{"time":"10:38","usr":"choffman1978","txt":"$LMCA likely to pay premium for $SIRI (up 4%) #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$","lbl":"Neutral"}
+,{"time":"10:39","usr":"choffman1978","txt":"$LMCA likely to pay premium for $SIRI ! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx","lbl":"Neutral"}
+,{"time":"11:46","usr":"HorSAI_ebooks","txt":"Facebook Is Testing Out A Huge New Business $GOOG","lbl":"Neutral"}
+,{"time":"11:47","usr":"Betacap","txt":"$GOOG $AMZN Google\u2019s Nexus tablet to be unveiled next week http://t.co/KNcnO0qg","lbl":"Positive"}
 ,{"time":"11:48","usr":"MichaelComeau","txt":"$GOOG making new highs on day","lbl":"Positive"}
+,{"time":"11:51","usr":"thefinancepress","txt":"$GOOG EU still awaiting Google reply on antitrust probe: EU still awaiting Google reply on antitrust probe Mark... http://t.co/cPy2m0cc","lbl":"Neutral"}
 ,{"time":"12:42","usr":"Minyanville","txt":"In the #smartphone market, $AAPL and $GOOG reign supreme http://t.co/ntnHdxee","lbl":"Positive"}
+,{"time":"12:44","usr":"Minyanville","txt":"Square, a mobile payment company, is banking on iPhone, Android users\u0027 loyalty http://t.co/gRlKXpmF @merbed $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"14:10","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Forget Facebook, Twitter Is The One Google Should Be Worried About $GOOG by @hleonard76 http://t.co/BgzD1EkH","lbl":"Negative"}
+,{"time":"14:10","usr":"allisonstamm","txt":"RT @SAI: Steve Ballmer Takes Potshot At Google In Leaked Memo About The Launch Of The Surface $MSFT $GOOG by @jyarow http://t.co/dwjDPYRx","lbl":"Neutral"}
 ,{"time":"14:11","usr":"rohit_bmw","txt":"RT @SAI: THE GOOGLE INVESTOR: Forget Facebook, Twitter Is The One Google Should Be Worried About $GOOG by @hleonard76 http://t.co/673JTlYx","lbl":"Negative"}
 ,{"time":"14:11","usr":"lluccipha","txt":"SAI: THE GOOGLE INVESTOR: Forget Facebook, Twitter Is The One Google Should Be Worried About $GOOG by @hleonard76 http://t.co/82Ty2fOs","lbl":"Negative"}
+,{"time":"16:45","usr":"Ticker_Tank","txt":"A new options product could be on the horizon. \u0022Mini\u0022 contracts for #Apple and #Google? http://t.co/laif8d8K $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:45","usr":"nickfenton","txt":"A new options product could be on the horizon. \u0022Mini\u0022 contracts for #Apple and #Google? http://t.co/uIBstgra $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:56","usr":"61point8","txt":"$GOOG hit the $585 target zone.today. Anyone took notice?","lbl":"Neutral"}
+,{"time":"17:01","usr":"stock_pandit","txt":"Research In Motion Stock to Watch http://t.co/6xfKKB4Q $RIMM $AAPL $GOOG $NOK","lbl":"Neutral"}
+,{"time":"23:08","usr":"LawsonMulvihill","txt":"RT @SAI: REVIEWED: Samsung\u0027s New Flagship Android Phone, The Galaxy S III $GOOG by @stevekovach http://t.co/h4YdLSiZ","lbl":"Neutral"}
+,{"time":"23:09","usr":"Zeltitis","txt":"RT @businessinsider: REVIEWED: Samsung\u0027s New Flagship Android Phone, The Galaxy S III $GOOG by @stevekovach http://t.co/cvkfsGdf","lbl":"Neutral"}
+,{"time":"23:13","usr":"lluccipha","txt":"SAI: REVIEWED: Samsung\u0027s New Flagship Android Phone, The Galaxy S III $GOOG by @stevekovach http://t.co/iq83BF4p","lbl":"Neutral"}
 ]

@@ -1,1 +1,4 @@
-[]
+[
+{"time":"6:20","usr":"SeekingAlpha","txt":"Update: $33,000 American Portfolio http://t.co/J9WBxC9C $ACI $AMZN $CRM $SZYM $TOL $WFIFF $AGXXF","lbl":"Neutral"}
+,{"time":"19:38","usr":"tradestoday","txt":"Link to $BKS and $MSFT tablet on TechCrunch http://t.co/63L5BTzZ $AAPL $AMZN","lbl":"Neutral"}
+]

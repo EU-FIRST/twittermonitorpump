@@ -1,9 +1,31 @@
 [
-{"time":"6:15","usr":"themaxpain","txt":"$GOOG ($576.73), 7/18/2012, current max pain strike price: $575.00. Put/Call ratio: 0.778. #GOOG","lbl":"Negative"}
+{"time":"6:11","usr":"AlwabelAhmed","txt":"\u0022@edwardnh: Newly granted Apple user interface patent could cause headaches for Android camp http://t.co/YX3AYCIy $AAPL $GOOG\u0022 I hope not.","lbl":"Neutral"}
+,{"time":"6:15","usr":"themaxpain","txt":"$GOOG ($576.73), 7/18/2012, current max pain strike price: $575.00. Put/Call ratio: 0.778. #GOOG","lbl":"Negative"}
+,{"time":"8:43","usr":"BlueFielder","txt":"$GooG eying it here for a day trade","lbl":"Neutral"}
+,{"time":"8:46","usr":"smartShaq","txt":"RT @businessinsider: The Inside Story On Why Kevin Rose Never Had A Big Hit $GOOG by @mattlynley http://t.co/AllCLeA9","lbl":"Neutral"}
 ,{"time":"8:46","usr":"takingstock614","txt":"Holding long $BIDU $AAPL $GOOG and short of $FOSL","lbl":"Positive"}
+,{"time":"10:24","usr":"Trefis","txt":"Yahoo Earnings Were A Non-Event, All Eyes On New CEO Mayer http://t.co/dsSKazox by Trefis Team $YHOO $GOOG $FB","lbl":"Neutral"}
+,{"time":"10:26","usr":"tkaviya","txt":"RT @SAI_Tools: YouTube Adds New Automatic Face Blurring Tool $GOOG by @stevekovach http://t.co/bKR6g4W4","lbl":"Neutral"}
+,{"time":"10:29","usr":"MedicalQuack","txt":"RT @SAI: YouTube Adds New Automatic Face Blurring Tool $GOOG by @stevekovach http://t.co/LCttP1Wp","lbl":"Neutral"}
+,{"time":"10:29","usr":"lluccipha","txt":"SAI: YouTube Adds New Automatic Face Blurring Tool $GOOG by @stevekovach http://t.co/pKmrCOKn","lbl":"Neutral"}
+,{"time":"11:44","usr":"alexbarinka","txt":"Chart: Facebook is challenging Google as the biggest source of traffic to online publishers: http://t.co/ATGLtIEJ via @BuzzFeed $FB $GOOG","lbl":"Neutral"}
 ,{"time":"11:50","usr":"nichcarlson","txt":"New Yahoo CEO Marissa Mayer\u0027s Audacious Goal: Beat Facebook And Google $FB $GOOG $YHOO http://t.co/xZJQ23tC","lbl":"Negative"}
+,{"time":"12:46","usr":"ETNtrade","txt":"Live option spread trading webinar featuring $GOOG earnings begins at 2pm ET. Join us. for this free session: http://t.co/wZd2Ecah","lbl":"Neutral"}
+,{"time":"12:48","usr":"Sermario","txt":"So GameStop high school friend states $GOOG only sent out Nexus tablets to stores which were reserved...amount reserved in his store = 1","lbl":"Neutral"}
+,{"time":"12:59","usr":"SigWardfinance","txt":"Stocks to watch tomorrow: #Google $GOOG / #Verizon $VZ","lbl":"Neutral"}
+,{"time":"14:05","usr":"SJosephBurns","txt":"$GOOG rejected with its first try at the 50 day line.","lbl":"Neutral"}
 ,{"time":"14:10","usr":"graeme_talbot","txt":"Cut $appl at 606, still long $goog. Getting long index if we a rally into close","lbl":"Positive"}
+,{"time":"15:07","usr":"FOSSpatents","txt":"RT @BloombergTV: .@MarissaMayer\u0027s name is on 11 Google patents http://t.co/wWmLXqTp $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"15:07","usr":"Adveith","txt":"\u201C@BloombergTV: .@MarissaMayer\u0027s name is on 11 Google patents http://t.co/PCH6EOzh $GOOG $YHOO\u201D","lbl":"Neutral"}
 ,{"time":"16:11","usr":"bnkausik","txt":"@RolfeWinkler Crass title notwithstanding, $GOOG 40B ttm revenue, 33K employees, for 1.22M/emp. How did you get 1M/emp?","lbl":"Positive"}
+,{"time":"16:12","usr":"kassiemc","txt":"RT @SAI: Inside The Luxe $300 Million Life Of New Yahoo CEO Marissa Mayer $YHOO $GOOG by @AshleyLutz http://t.co/7jKQUCjR","lbl":"Neutral"}
+,{"time":"16:12","usr":"best_internets","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/Pm63cZHZ #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"17:45","usr":"WallStJesus","txt":"\u2605Undervalued Picks From A Top Investor http://t.co/O6iXEIrm $ARB $GOOG $HRB $LAMR $SLM $SNY #stocks #invest","lbl":"Neutral"}
+,{"time":"17:48","usr":"WalterLiveOak","txt":"RT @WallStJesus: \u2605Undervalued Picks From A Top Investor http://t.co/O6iXEIrm $ARB $GOOG $HRB $LAMR $SLM $SNY #stocks #invest","lbl":"Neutral"}
+,{"time":"17:48","usr":"TheGreekPhenom","txt":"@jimcramer $AAPL $GOOG $WMT $V $VZ #MadTweet","lbl":"Neutral"}
+,{"time":"19:33","usr":"AlphaVN","txt":"Pinners & Losers $LNKD $FB $GOOG $GM $JWN $YHOO http://t.co/NmnC4CvJ","lbl":"Neutral"}
 ,{"time":"19:34","usr":"gegax","txt":"RT @Bill_Gross: Peter Thiel ACTUALLY said this, \u0022$Goog has $50B in cash & NO idea how to invest it effectively, prefers to get 0% interest from Bernanke.\u0022","lbl":"Negative"}
 ,{"time":"22:15","usr":"mathys","txt":"RT @Bill_Gross: Peter Thiel ACTUALLY said this, \u0022$Goog has $50B in cash & NO idea how to invest it effectively, prefers to get 0% interest from Bernanke.\u0022","lbl":"Negative"}
+,{"time":"22:21","usr":"Mark_Lexus","txt":"Fast Money Options Action $GOOG http://t.co/p95fKS4f #optionsaction","lbl":"Neutral"}
+,{"time":"22:28","usr":"BigTicks","txt":"$GOOG News: Google Inc (GOOG) Adds Antarctica to Its Growing List of Street View Destinations http://t.co/xW9Jeu7f #GOOG #adds #Antarctica","lbl":"Neutral"}
 ]

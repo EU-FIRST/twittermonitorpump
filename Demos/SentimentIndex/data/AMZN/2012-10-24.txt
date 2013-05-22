@@ -1,13 +1,31 @@
 [
-{"time":"8:20","usr":"DeidreZune","txt":"Apple Doesn\u2019t Need a $200 iPad Mini http://t.co/Jm4d5RL6 $AAPL $AMZN $GOOG \u0022Should Amazon + Google be worried?Yes, they should be worried.\u201D","lbl":"Negative"}
+{"time":"4:27","usr":"Retail_Guru","txt":"Argos plan still feels like baby-steps with limited store closures but at least moving in the right direction $AMZN","lbl":"Neutral"}
+,{"time":"7:09","usr":"cathygsweet2p","txt":"$AMZN needs $NFLX like it needs $BBY or $BBBY for thAT matter...if $NFLX is so great & necessary then why not grow it alone?!","lbl":"Neutral"}
+,{"time":"7:14","usr":"Intigold","txt":"RT @NBCNewsBusiness: Discount sellers on Amazon undercutting brands: http://t.co/xYf721f3 $AMZN","lbl":"Neutral"}
+,{"time":"8:20","usr":"DeidreZune","txt":"Apple Doesn\u2019t Need a $200 iPad Mini http://t.co/Jm4d5RL6 $AAPL $AMZN $GOOG \u0022Should Amazon + Google be worried?Yes, they should be worried.\u201D","lbl":"Negative"}
 ,{"time":"8:51","usr":"HarryWanger","txt":"$AMZN Street not being kind to in line or slight misses this Q - could be brutal if $AMZN comes in line 7 horrible if misses","lbl":"Negative"}
+,{"time":"8:52","usr":"StkConfidential","txt":"LOTS more consequential earnings reports the rest of this week including $AAPL and $AMZN so keep your head low. $$","lbl":"Neutral"}
+,{"time":"9:30","usr":"StockTwits","txt":"Dow Transports in the Digital Age http://t.co/y46HqbAv via @reformedbroker $IYT $FDX $AMZN","lbl":"Neutral"}
 ,{"time":"10:17","usr":"CEP_Observer","txt":"@SusanCTShore $1500 iphone in Brazil is not uncommon - similar story in Russia big business buying on $amzn & shipping overseas","lbl":"Positive"}
 ,{"time":"10:21","usr":"TheStreet","txt":"RT @RobertWeinstein: $AMZN breaking below $230 in front of earnings even with $SPY up. http://t.co/iTvmfWdv via @TheStreet $WMT, $BBY,","lbl":"Negative"}
+,{"time":"10:58","usr":"samuraijaxx","txt":"RT @NBCNewsBusiness: Discount sellers on Amazon undercutting brands: http://t.co/xYf721f3 $AMZN","lbl":"Neutral"}
 ,{"time":"11:01","usr":"MaltdMark","txt":"$AMZN > Awesome cust service once again. Replaced an entire shipment that was LOST BY UPS. Took over issue, shipped overnight too. Cost=zero","lbl":"Positive"}
 ,{"time":"12:06","usr":"nico2379","txt":"$AMZN slowly lifting off from 230 support","lbl":"Positive"}
 ,{"time":"13:02","usr":"1nvestor","txt":"@paulwoll probably better for $AMZN that they sell less Kindles. helps margins, lol.","lbl":"Negative"}
+,{"time":"13:03","usr":"Kapitall","txt":"A Quick Note About Toxic Stocks http://t.co/tz9iL8TJ $AMZN $CCOI $CNQR $VSAT $RRC","lbl":"Neutral"}
+,{"time":"13:45","usr":"barronstechblog","txt":"AMZN: Barclays Cuts Estimates; All Eyes on Growth, Taxes - Tech Trader Daily - Barron\u0027s $AMZN $EBAY $WMT http://t.co/GgeNjhrZ","lbl":"Neutral"}
+,{"time":"13:45","usr":"ErikSnider","txt":"RT @PremiumReport: The BIGGEST STOCK PICK of 2012 IS COMING SOON! Get on the VIP LIST NOW! http://t.co/Llcftc1r $HEMP $AMZN $DISH $CBIS $YELP $CSX $ISUR $CYCC","lbl":"Neutral"}
+,{"time":"13:46","usr":"given2tweet","txt":"@stkbullgod what did you decide to do on $AMZN?","lbl":"Neutral"}
 ,{"time":"14:25","usr":"Jamtrades","txt":"Commented on StockTwits: Bezos is a bonafide pro. Never bet against him! $AMZN http://t.co/v3T0AA76","lbl":"Positive"}
+,{"time":"14:27","usr":"TheAroraReport","txt":"TIM COOK DUMPS STEVE JOBS\u0027 PRODUCT STRATEGIES WITH IPAD MINI $AAPL $GOOG $AMZN: http://t.co/eMxcCv0n","lbl":"Neutral"}
+,{"time":"15:06","usr":"WCHsueh","txt":"$AMZN traded through 50 DMA retested traded through 100 DMA retested, is 200 DMA next?","lbl":"Neutral"}
+,{"time":"16:20","usr":"Commodity_Bull","txt":"RT @firstadopter: My proprietary algo says $AMZN sold about 601K 2nd gen Kinde Fire/HDs since launch. The net msg threads on Kindle Fire HDs also ghost-towns","lbl":"Neutral"}
 ,{"time":"16:20","usr":"ClickfireCoder","txt":"RT @bored2tears: A Kindle customer thought she owned her #eBooks \u2014 until Amazon erased them overnight. http://t.co/WMVPqXdY $AMZN #DRM","lbl":"Negative"}
+,{"time":"16:23","usr":"firstadopter","txt":"Leading forum. 37 active topics for Nexus 7 in last day: http://t.co/dYOvApeO 1 active topic for $AMZN Kindle Fire HD: http://t.co/24olRh5r","lbl":"Neutral"}
+,{"time":"20:10","usr":"TheStreet","txt":"Want to Know about the new IPad? See what @Commodity_Bull says about it http://t.co/7VMj0Uad $AAPL $AMZN $GOOG","lbl":"Neutral"}
 ,{"time":"20:10","usr":"XQuickFixX","txt":"$AMZN 250 December puts look cheap IMHO","lbl":"Negative"}
+,{"time":"20:10","usr":"RealCrystalBall","txt":"Want to Know about the new IPad? See what @Commodity_Bull says about it http://t.co/xAroKQaf $AAPL $AMZN $GOOG #Stocks","lbl":"Neutral"}
+,{"time":"20:14","usr":"howardlindzon","txt":"RT @ycharts 5 year trend in TTM revenue for the large tech players. $AAPL $GOOG $MSFT $YHOO $AMZN @howardlindzon http://t.co/AtnyVmif","lbl":"Neutral"}
+,{"time":"23:10","usr":"MarketCurrents","txt":"Notable earnings after Thursday&rsquo;s close: AAPL, AMZN, APKT, BAS, BMRN, CA, CB, ... http://t.co/0FskOU3i $AAPL $AMZN $APKT $BAS","lbl":"Neutral"}
 ,{"time":"23:19","usr":"bored2tears","txt":"Foreign firms face tax crackdown in #UK, Europe. http://t.co/18n7sB6K $AMZN $FB $SBUX #EU #stocks","lbl":"Negative"}
 ]

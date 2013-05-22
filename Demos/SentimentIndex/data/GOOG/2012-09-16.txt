@@ -1,1 +1,29 @@
-[]
+[
+{"time":"0:41","usr":"navaline","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"0:41","usr":"riverho","txt":"wow, Marissa Mayer Just Gave Every Yahoo Employee An #iPhone5 $YHOO $AAPL $GOOG @nichcarlson http://t.co/XsU9FnNL","lbl":"Neutral"}
+,{"time":"0:41","usr":"tw_top_1z142kv","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"0:42","usr":"dorafang","txt":"whoa. RT @businessinsider: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM http://t.co/kh9j66cb\u0022","lbl":"Neutral"}
+,{"time":"1:48","usr":"USwwwStocks","txt":"$GOOG News: Google rejects White House request to pull Mohammad film clip http://t.co/t7uQLJYg #GOOG #Clip #film","lbl":"Neutral"}
+,{"time":"1:49","usr":"ritters90","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"1:51","usr":"leetucksing","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/3viKBzBn","lbl":"Neutral"}
+,{"time":"1:51","usr":"serieuxchat","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/I8QnF2iB","lbl":"Neutral"}
+,{"time":"3:09","usr":"jhossh","txt":"RT \uFFFD\uFFFD@businessinsider: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/NcxA0HEC","lbl":"Neutral"}
+,{"time":"3:10","usr":"Mafesto","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"3:11","usr":"infovestment","txt":"Apple - iPhone 1st batch sold out...or maybe not http://t.co/MmJCrRa3 $AAPL $GOOG $AMZN, $MSFT $$ #MKT","lbl":"Neutral"}
+,{"time":"3:11","usr":"manojchetty","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"4:53","usr":"lisabriercliffe","txt":"RT @mikejulietbravo: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/rQKVEA ...","lbl":"Neutral"}
+,{"time":"4:57","usr":"binaryoptionsjt","txt":"RT @mcilderman: Science Fiction #Investing http://t.co/nPTE32kQ #Tech #scifi #AR #Apple $AAPL #Google $Goog $MSFT $INTC $ATVI","lbl":"Neutral"}
+,{"time":"4:59","usr":"frsbrgh","txt":"\u0022@SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YH $AAPL $GOOG $RIMM by @nichcarlson http://t.co/w5I6AoAD\u0022 #goldenhandcuffs","lbl":"Neutral"}
+,{"time":"5:00","usr":"Curleosity","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/o0zgnjAt","lbl":"Neutral"}
+,{"time":"6:54","usr":"swayc","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"6:56","usr":"trevorloe","txt":"Good plan\u2026RT @businessinsider: Marissa Mayer Just Gave Every Yahoo Employee A Smart Phone $YHOO $AAPL $GOOG $RIMM http://t.co/2tL6tpQe","lbl":"Neutral"}
+,{"time":"6:57","usr":"nehemiahbailey","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/3z0DA6M0","lbl":"Neutral"}
+,{"time":"7:01","usr":"rodtrent","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"8:35","usr":"mcilderman","txt":"Science Fiction Investing, Part 1 http://t.co/umKhY81F $AAPL $ATVI $GOOG $INTC $MSFT ***THEY JUST MADE IT AN EDITOR\u0027S PICK!***","lbl":"Neutral"}
+,{"time":"8:37","usr":"TheSeek20826344","txt":"RT @mcilderman: Science Fiction Investing, Part 1 http://t.co/umKhY81F $AAPL $ATVI $GOOG $INTC $MSFT ***THEY JUST MADE IT AN EDITOR\u0027S P ...","lbl":"Neutral"}
+,{"time":"8:38","usr":"mfranco65","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"17:01","usr":"Nate_McGee","txt":"Rt @mcilderman Science Fiction #Investing http://t.co/Vdxkfv9V #Tech #scifi #AR #Apple $AAPL #Google $Goog $MSFT $INTC","lbl":"Neutral"}
+,{"time":"17:34","usr":"mcilderman","txt":"RT @Nate_McGee: Rt @mcilderman Science Fiction #Investing http://t.co/Vdxkfv9V #Tech #scifi #AR #Apple $AAPL #Google $Goog $MSFT $INTC","lbl":"Neutral"}
+,{"time":"17:40","usr":"TheSeek20826344","txt":"RT @Nate_McGee: Rt @mcilderman Science Fiction #Investing http://t.co/Vdxkfv9V #Tech #scifi #AR #Apple $AAPL #Google $Goog $MSFT $INTC","lbl":"Neutral"}
+,{"time":"17:47","usr":"innoid","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/asf7mRlh \uC57C\uD6C4!","lbl":"Neutral"}
+]

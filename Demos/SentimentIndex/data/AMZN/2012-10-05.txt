@@ -1,7 +1,23 @@
 [
-{"time":"11:16","usr":"HarryWanger","txt":"$AMZN If $AAPL can turn and run higher, it\u0027ll pull this higher. Holding up very well after last two big days","lbl":"Positive"}
+{"time":"5:35","usr":"AppsMapper","txt":"Amazon: Unlikely Small Business Banker -- http://t.co/Lh9qfTBL via @WSJ & @rob_a_nielsen $AMZN #finance #lending","lbl":"Neutral"}
+,{"time":"5:36","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $AAPL $FB $ZNGA $AMZN http://t.co/d2n0qtFy","lbl":"Neutral"}
+,{"time":"5:36","usr":"SAI","txt":"10 Things You Need To Know This Morning $AAPL $FB $ZNGA $AMZN by @nichcarlson http://t.co/cc6ikBul","lbl":"Neutral"}
+,{"time":"6:29","usr":"CamacConsulting","txt":"10 Things You Need To Know This Morning $AAPL $FB $ZNGA $AMZN by @nichcarlson http://t.co/Vw0YAEDU","lbl":"Neutral"}
+,{"time":"6:30","usr":"AlphaVN","txt":"TI\u0027s Stability is not a Feature but a Bug $TXN $INTC $NOK $QCOM $AMZN http://t.co/6XsTQpjJ","lbl":"Neutral"}
+,{"time":"6:30","usr":"SpiritShiner","txt":"Amazon: Unlikely Small Business Banker -- http://t.co/1bahYQaI via @WSJ & @rob_a_nielsen $AMZN #finance #lending","lbl":"Neutral"}
+,{"time":"11:16","usr":"HarryWanger","txt":"$AMZN If $AAPL can turn and run higher, it\u0027ll pull this higher. Holding up very well after last two big days","lbl":"Positive"}
+,{"time":"13:16","usr":"OPReport","txt":"RT @SAI: RT @SAI: Amazon Needs To Buy Zynga $AMZN $ZNGA by @owenthomas http://t.co/re0ncAYU","lbl":"Neutral"}
 ,{"time":"14:31","usr":"BarryAAnderson","txt":"haha i meant **255** $AMZN puts not 655. that\u0027s what happens when you stare at an $AAPL chart for too long","lbl":"Negative"}
 ,{"time":"15:41","usr":"alistairmbarr","txt":"Amazon $AMZN spends over $1 billion to buy big new office space in Seattle","lbl":"Positive"}
+,{"time":"15:48","usr":"kevinbantz","txt":"$SPY, $IWM, $QQQ, $DIA, $CZR, $GLD, $SLV, $FXE, $FXC, $FXA, $AAPL, $GOOG, $FXB, FXY, $AMZN http://t.co/TsARMEcl","lbl":"Neutral"}
+,{"time":"15:49","usr":"BrokawBrokaw","txt":"First they \u0027invented\u0027 the GPU. Now, NVIDIA is helping researchers build robotic honeybees @minyanville http://t.co/z7LmnRBd $NVDA $IBM $AMZN","lbl":"Neutral"}
+,{"time":"15:51","usr":"DeepInsight","txt":"Amazon: Unlikely Small Business Banker -- http://t.co/Z20Vrbn6 via @WSJ & @rob_a_nielsen $AMZN #finance #lending","lbl":"Neutral"}
 ,{"time":"16:18","usr":"SAI","txt":"Amazon Is Paying $1.16 Billion For A Sprawling Campus $AMZN by @Julie188 http://t.co/nX3E3ppV","lbl":"Positive"}
+,{"time":"16:18","usr":"jamescowin","txt":"RT @Reuters: RT @Reuters: Amazon to spend $1.16 billion to buy Seattle offices http://t.co/JbQg0MD6 $AMZN","lbl":"Neutral"}
+,{"time":"16:18","usr":"FreyjaRealEstat","txt":"RT @SAI: RT @SAI: Amazon Is Paying $1.16 Billion For A Sprawling Campus $AMZN by @Julie188 http://t.co/nX3E3ppV","lbl":"Neutral"}
 ,{"time":"17:14","usr":"andylueck","txt":"RT @SAI: RT @SAI: Amazon Is Paying $1.16 Billion For A Sprawling Campus $AMZN by @Julie188 http://t.co/nX3E3ppV","lbl":"Positive"}
+,{"time":"17:16","usr":"LaFemmeNinja","txt":"RT @SAI: RT @SAI: Amazon Is Paying $1.16 Billion For A Sprawling Campus $AMZN by @Julie188 http://t.co/nX3E3ppV","lbl":"Neutral"}
+,{"time":"17:20","usr":"bluetiger18","txt":"RT @Reuters: RT @Reuters: Amazon to spend $1.16 billion to buy Seattle offices http://t.co/JbQg0MD6 $AMZN","lbl":"Neutral"}
+,{"time":"20:36","usr":"jingsnote","txt":"RT @SAI: RT @SAI: Amazon Needs To Buy Zynga $AMZN $ZNGA by @owenthomas http://t.co/re0ncAYU","lbl":"Neutral"}
+,{"time":"20:46","usr":"artholladay","txt":"RT @SAI: Amazon Is Paying $1.16 Billion For A Sprawling Campus $AMZN by @Julie188 http://t.co/AbVM4pgT","lbl":"Neutral"}
 ]

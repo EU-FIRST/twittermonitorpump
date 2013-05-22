@@ -1,8 +1,38 @@
 [
-{"time":"9:33","usr":"RedDogT3Live","txt":"Also trimmed some $goog. Nice three day move. Still long some.","lbl":"Positive"}
+{"time":"6:52","usr":"LouSellsNewYork","txt":"Mason already dropped the ball by not selling $GRPN to $GOOG ,lots of competition in the space so I dont see the light 4 the Co #finance","lbl":"Neutral"}
+,{"time":"7:01","usr":"MaltdMark","txt":".RT @SeekingAlpha: Microsoft\u0027s Windows 8 Is Selling Well: Just Another Reason To Buy http://t.co/8fugVA7g $AAPL $GOOG $NOK $MSFT","lbl":"Neutral"}
+,{"time":"8:30","usr":"johansjostrand","txt":"RT @SAI: POGUE: The iPad Mini Is The Tablet You Should Buy This Christmas $AAPL $GOOG $AMZN $BN by @nichcarlson http://t.co/OpR1tddb","lbl":"Neutral"}
+,{"time":"8:31","usr":"Lowtown21","txt":"$AMZN 250, $AAPL 600, & $GOOG 700, all st targets.","lbl":"Neutral"}
+,{"time":"8:32","usr":"levayco_t3live","txt":"today\u0027s watch list....$LNKD $WDAY $SRPT $PCLN $AAPL $GOOG $BLOX","lbl":"Neutral"}
+,{"time":"8:56","usr":"gsDetermination","txt":"Nate Silver Went To Google And You Can Watch His Talk Here $GOOG by @nichcarlson http://t.co/9SoB5B4f","lbl":"Neutral"}
+,{"time":"9:32","usr":"takingstock614","txt":"Took some trades here: $AAPL +45% $GOOG +75% $MA +32%","lbl":"Neutral"}
+,{"time":"9:33","usr":"SwatOptions","txt":"$GOOG closed 1/4 GOOG for 849% PROFITS and HOLDING last for more","lbl":"Neutral"}
+,{"time":"9:33","usr":"RedDogT3Live","txt":"Also trimmed some $goog. Nice three day move. Still long some.","lbl":"Positive"}
+,{"time":"10:02","usr":"nichcarlson","txt":"Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT http://t.co/nEoKpwjl","lbl":"Negative"}
+,{"time":"10:02","usr":"SAI","txt":"Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT by @nichcarlson http://t.co/Pu65VeNB","lbl":"Negative"}
+,{"time":"10:16","usr":"svolpe0324","txt":"RT @CBOE: Actives on open @ CBOE: $AAPL $GOOG $VLO $TIF $RIMM","lbl":"Neutral"}
+,{"time":"10:16","usr":"cgabriel10","txt":"RT @SAI: Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT by @nichcarlson http://t.co/Pu65VeNB","lbl":"Negative"}
+,{"time":"10:17","usr":"thefinancepress","txt":"$GOOG Google+ Chief Calls Facebook Inc (FB) Outdated: Google+ Chief Calls Facebook Inc (FB) Outdated ValueWalk ... http://t.co/BeL8wEbx","lbl":"Neutral"}
+,{"time":"11:45","usr":"day_traders","txt":"$GOOG - Statement of Changes in Beneficial Ownership (4) http://t.co/vUy94adk","lbl":"Neutral"}
 ,{"time":"11:46","usr":"SeekingAlpha","txt":"FTC Will Make Google A Buy Candidate http://t.co/zg3Bdgph $GOOG","lbl":"Positive"}
 ,{"time":"12:16","usr":"vid_e","txt":"@srisri55 @littletigercs not really, should have bought $goog 705. +0.7 that one","lbl":"Positive"}
+,{"time":"12:18","usr":"TheOptnTrdr","txt":"RT @LaMonicaBuzz: Best of StockTwits: @traderflorida @zachlehner @fitzstock2004 @jasaglimbeni @ivanhoff $EBAY $GOOG $PCLN By @ctymkiwcnn http://t.co/nYC5kOJV","lbl":"Neutral"}
+,{"time":"12:18","usr":"SNLKagan","txt":"Google wants to mobilize Germans against government plans 2 introduce so-called \u0022Google Tax.\u0022 Details: http://t.co/Ozu08KKY $GOOG","lbl":"Neutral"}
+,{"time":"12:41","usr":"day_traders","txt":"$GOOG - Statement of Changes in Beneficial Ownership (4) http://t.co/wp2VYG5m","lbl":"Neutral"}
+,{"time":"12:44","usr":"sssc","txt":"\u0022@ToddSullivan: Google expands max Gmail attachment size to 10GB, thanks to Google Drive http://t.co/oknQhhXZ $GOOG\u0022","lbl":"Neutral"}
+,{"time":"13:19","usr":"thefinancepress","txt":"$GOOG For instant, Google was buying local company for $400M: For instant, Google was buying local company for ... http://t.co/KiccfjV8","lbl":"Neutral"}
 ,{"time":"13:58","usr":"poetrymathlover","txt":"retracement of $GOOG complete for the day","lbl":"Negative"}
+,{"time":"13:59","usr":"Fitzstock2004","txt":"not an $aapl bear......just trading what is working.......$amzn $pcln and $goog are up >+5% last 4 trading day......$aapl is UNCH","lbl":"Positive"}
 ,{"time":"14:00","usr":"veigaxu","txt":"RT @EllieAsksWhy: Italy audit finds Google had $311 mil undeclared unearnings http://t.co/fF8Pk3yn Unpaid VAT too $GOOG","lbl":"Negative"}
+,{"time":"15:52","usr":"MrStreetSweeper","txt":"Facebook is a \u0027Social Network of The Past\u0027, Says Google $goog $fb http://t.co/5aOOZ9FO","lbl":"Neutral"}
+,{"time":"15:56","usr":"choffman1978","txt":"$ACUR - dont be short into the close - news and you are screwe!! #cnbc,$dndn,$vrml,$ctic,$dndn,$kerx,$aezs,$bpax,$gs,$goog,$appl","lbl":"Neutral"}
 ,{"time":"16:40","usr":"DPolitical","txt":"$GOOG - Google Stock Rating Upgraded by Oracle Investment Research #GOOG http://t.co/PlwrSi7D","lbl":"Positive"}
+,{"time":"16:40","usr":"ZolmaxNews","txt":"$GOOG - Google Stock Rating Upgraded by Oracle Investment Research #GOOG http://t.co/ekxrAw0w","lbl":"Neutral"}
+,{"time":"18:05","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/fRJpYS5J","lbl":"Neutral"}
+,{"time":"18:05","usr":"ADVFNplc","txt":"$GOOG - Statement of Changes in Beneficial Ownership (4) http://t.co/JEKjKozt","lbl":"Neutral"}
+,{"time":"19:28","usr":"BenCBanks","txt":"Here is the DAILY ANALYSIS - http://t.co/uv8v7O63 $SPY $AAPL $GOOG $IBM $AMZN - we look extended on the daily chart.","lbl":"Neutral"}
+,{"time":"22:08","usr":"paulwoll","txt":"$GOOG see how 695.55 acts tomorrow... past that may get to 50MA or near 706.70 - 707 for pullback.","lbl":"Neutral"}
+,{"time":"22:11","usr":"SwatOptions","txt":"\u0022 $GOOG called for this move on Nov.24 - today locked 1,229% PROFITS and holding last 1/4 - target 706$ at MA50\u0022 http://t.co/7L427eBH","lbl":"Neutral"}
+,{"time":"22:18","usr":"CharlesSizemore","txt":"My \u0022Microsoft Will Crush Google\u0022 article is still stirring up trouble: http://t.co/eu5989AD $GOOG $AAPL $MSFT Original: http://t.co/lktRm2ui","lbl":"Neutral"}
+,{"time":"23:49","usr":"mardi1963","txt":"Android May End Up Being More A Fount Of Troubles Than A Fount Of Revenues For Google http://t.co/Lx776noe $GOOG","lbl":"Neutral"}
 ]

@@ -1,5 +1,14 @@
 [
-{"time":"5:21","usr":"rmillg","txt":"RT @TheRomit: \u201CMicrosoft will make more money from Windows Phone than Google will ever hope to make from Android\u201D $msft $goog http://t.co/a4phUm0d","lbl":"Negative"}
+{"time":"5:10","usr":"houstonloves","txt":"a real estate builder $GFA wikiinvest entry on goog chrome $goog says its has successful tragectoy entry weird vert for real estate","lbl":"Neutral"}
+,{"time":"5:21","usr":"rmillg","txt":"RT @TheRomit: \u201CMicrosoft will make more money from Windows Phone than Google will ever hope to make from Android\u201D $msft $goog http://t.co/a4phUm0d","lbl":"Negative"}
+,{"time":"10:37","usr":"biggercapital","txt":"$BAC was a gr8 call \u0022@StockTwits: 2012: The Year in StockTwits Trending Tickers http://t.co/wcNDbh43 $AAPL $GOOG $HLF $KCG\u0022 @toddsullivan","lbl":"Neutral"}
+,{"time":"10:39","usr":"nereidadin","txt":"Bookmark and please share \u0022@StockTwits: 2012: The Year in StockTwits Trending Tickers http://t.co/pbn2FCsc $AAPL $GOOG $HLF $KCG","lbl":"Neutral"}
+,{"time":"12:04","usr":"scheplick","txt":"\u0022@Event_Trader: YouTube & $GOOG Maps, which were removed from $AAPL iOS as native apps, coincidentally are top 2 downloaded free iTunes apps","lbl":"Neutral"}
 ,{"time":"13:11","usr":"TraderMommy","txt":"RT @WallStJesus: $GOOG do or die w/ hammer at 50% retrace of b - c leg here and now. If violated, negates bullish 5-0 http://t.co/RYjgtXSo @tradermommy","lbl":"Negative"}
+,{"time":"15:08","usr":"crwhitesides","txt":"RT @howardlindzon: Meanies! $goog @GoogleFacts: In 1997, Yahoo turned down the offer to acquire Google for only $1 million. Today Google is worth $250 billion","lbl":"Neutral"}
 ,{"time":"15:12","usr":"helga_pena","txt":"RT @YahooFinance: #Google to face greater competition in 2013, says The Economist\u2019s Franklin http://t.co/ICgbOpWV (#DailyTicker video w/@AaronTask) $GOOG","lbl":"Negative"}
+,{"time":"17:24","usr":"StockMarket411","txt":"Google Finance Brings Up Apple Stock Chart For Search On \u201CSell\u201D $goog http://t.co/ONa5oV8P goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"17:30","usr":"IADops40","txt":"Interesting...on Google Finance, if you type in \u0022SELL\u0022, the search will display $AAPL Apple Stock https://t.co/ial75nsL $GOOG #Apple #Google","lbl":"Neutral"}
+,{"time":"21:34","usr":"GOODGREED","txt":"Google Responds: AAPL Quote Appearing When \u201CSell\u201D Is Searched Was Unintentional --> http://t.co/SLLjDyl6 $GOOG $AAPL $QQQ $SPY #TECH","lbl":"Neutral"}
+,{"time":"21:44","usr":"startupnorth","txt":"RT @CantechLetter: Is Google using BufferBox as a Trojan Horse in a war against Amazon? http://t.co/n0Y9rIkx $AMZN $GOOG","lbl":"Neutral"}
 ]

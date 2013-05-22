@@ -1,9 +1,62 @@
 [
-{"time":"8:12","usr":"WolfMonkeyUSA","txt":"@RedDogT3Live Current Bus model going nowhere. Adwords far better than $FB ads for business. No reason to go $FB when there\u0027s $GOOG $AAPL","lbl":"Positive"}
+{"time":"3:56","usr":"RedDogT3Live","txt":"In the last 7 or so sess. as the mkts digest higher. Individual stock movement has been key. Great action $GOOG $AAPL $amzn $hd $TGT $xom","lbl":"Positive"}
+,{"time":"4:31","usr":"arachno","txt":"RT @SAI: The Little Device That Might Change TV Forever Is Going To Launch In A Few Weeks $GOOG by @_dtl http://t.co/LPh5pXuJ","lbl":"Neutral"}
+,{"time":"4:44","usr":"bored2tears","txt":"Samsung email shows Google\u0027s concern devices not mimic Apple. http://t.co/FNlTtAm4 $AAPL $GOOG #patents #tech","lbl":"Neutral"}
+,{"time":"4:50","usr":"SeekingAlpha","txt":"RIM: Don\u0027t Wait For An Acquisition, Sell Now http://t.co/AqmTH5sV $AAPL $GOOG $IBM $RIMM","lbl":"Neutral"}
+,{"time":"8:07","usr":"thefinancepress","txt":"$GOOG All Eyes On Facebook Inc (NASDAQ:FB) \u2013 FB, GOOG, TRIP, LNKD: All Eyes On Facebook Inc (NASDAQ:FB) \u2013 FB, G... http://t.co/lbjxCPXG","lbl":"Neutral"}
+,{"time":"8:10","usr":"TOMASRAMIREZV","txt":"RT @wallstCS: Jim Cramer: SELL Zynga, Groupon and \u0027BUY, BUY, BUY\u0027 Facebook and these 2 Fast Movers Today http://t.co/mbYIpVD5 $FB $GOOG $GRPN $MWE $ZNGA","lbl":"Neutral"}
+,{"time":"8:12","usr":"WolfMonkeyUSA","txt":"@RedDogT3Live Current Bus model going nowhere. Adwords far better than $FB ads for business. No reason to go $FB when there\u0027s $GOOG $AAPL","lbl":"Positive"}
 ,{"time":"9:00","usr":"SpeedSixx2","txt":"reversed teh trade, bought $GOOG Aug 670 put for 3.50","lbl":"Positive"}
+,{"time":"9:02","usr":"HFTAlert","txt":"where\u0027s Mortimer Duke when we need him? turn those volatility machines back on!! $spy $vxx $goog $aapl","lbl":"Neutral"}
 ,{"time":"9:40","usr":"jonasQuinn23","txt":"Maybe a surprise to many, but $GOOG going up is good for $AAPL and the entire silicon valley stockscape","lbl":"Positive"}
 ,{"time":"9:41","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) Facing Intense Digital Wallet Competition: Google Inc. (GOOG) Facing Intense Digital W... http://t.co/fnC2jazf","lbl":"Negative"}
+,{"time":"10:44","usr":"LandLordddd","txt":"RT @CNNMoney: Social media bubble has popped: http://t.co/REVcGl09 $GOOG, $LNKD. See also: $FB http://t.co/YyTFYJ4u","lbl":"Neutral"}
+,{"time":"10:45","usr":"AlfredoNarvaez","txt":"RT @CNNMoney: Social media bubble has popped: http://t.co/REVcGl09 $GOOG, $LNKD. See also: $FB http://t.co/YyTFYJ4u","lbl":"Neutral"}
+,{"time":"10:45","usr":"RosaliaNews","txt":"RT @CNNMoney: Social media bubble has popped: http://t.co/REVcGl09 $GOOG, $LNKD. See also: $FB http://t.co/YyTFYJ4u","lbl":"Neutral"}
+,{"time":"10:46","usr":"ChrisInParis","txt":"Should be more space at SXSW in 2013! MT Social media bubble has popped: http://t.co/B0YrPfXY $GOOG, $LNKD, $FB http://t.co/wWtFeNLg","lbl":"Neutral"}
+,{"time":"11:11","usr":"PreetaTweets","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:11","usr":"Fitzstock2004","txt":"i still remain in a very large cash position.....as we still need new highs on $aapl(638) and $goog(674), b-4 i PRESS","lbl":"Neutral"}
+,{"time":"11:12","usr":"BobLoblawtx","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:12","usr":"agnel","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:23","usr":"Bklyn_City","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:23","usr":"Harold_Botero","txt":"50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:23","usr":"rocobregon","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:23","usr":"ELBaumgarten","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:27","usr":"fcinq","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:27","usr":"KariBiyubi","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:27","usr":"1800Stocks","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:27","usr":"bvikram","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:31","usr":"tkuz4u","txt":"RT @SAI: Larry Page And Sergey Brin Are Vacationing In Fiji $GOOG by @owenthomas http://t.co/UvT7xqSH","lbl":"Neutral"}
+,{"time":"11:31","usr":"MikeLegendFC","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:31","usr":"chetorha","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
 ,{"time":"11:31","usr":"SPEQL8R","txt":"Having said that $GOOG to me looks very overbot; it normall pullsback. $TLT is coming close to my tgt near gap fill & I might nibble there","lbl":"Negative"}
+,{"time":"11:38","usr":"hillmf","txt":"RT @RedDogT3Live: The equity markets have been rewarding all time frames that navigate the action with a plan! Not opinions. $AAPL $goog $amzn $bidu $spy","lbl":"Neutral"}
+,{"time":"11:38","usr":"MVCummings5","txt":"RT @dkberman: Were Facebook stock to trade at the same forward 14.7 earnings multiple of $GOOG, its shares would be $7.97 each. $FB","lbl":"Neutral"}
+,{"time":"11:38","usr":"creeksidecap","txt":"@ChartMoMo If you\u0027re +32 $goog, you can short $aapl here for a pairs trade and you\u0027d have a $32 buffer in case $aapl catches up to $goog","lbl":"Neutral"}
+,{"time":"11:38","usr":"luisotre","txt":"RT @RedDogT3Live: The equity markets have been rewarding all time frames that navigate the action with a plan! Not opinions. $AAPL $goog $amzn $bidu $spy","lbl":"Neutral"}
+,{"time":"11:49","usr":"jansencremasco","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:49","usr":"seshen","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"11:50","usr":"SeekingAlpha","txt":"Amazon Is Overbought And Far Over Valued http://t.co/iLPQahGB $AAPL $GOOG $NFLX $SHLD $WMT $AMZN","lbl":"Neutral"}
+,{"time":"11:51","usr":"alia1977","txt":"\u201C@ivanhoff: The high ticket fatties: $AMZN $AAPL $GOOG are trading a few % below multi-year highs\u201D","lbl":"Neutral"}
+,{"time":"12:12","usr":"Chesterhyde","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"12:13","usr":"WPThatcher","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"12:13","usr":"bigdbag","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"12:14","usr":"federicojimeno","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"12:39","usr":"ChadPaul_","txt":"\u201C@dkberman: Were Facebook stock to trade at the same forward 14.7 earnings multiple of $GOOG, its shares would be $7.97 each. $FB\u201D @partek","lbl":"Neutral"}
+,{"time":"12:39","usr":"Cabotdude","txt":"For growth stocks, if $AMZN, $EQIX, $EBAY kick into gear, with $LNKD, $BIDU, $GOOG and possibly $CRM doing the same, it could be go time","lbl":"Neutral"}
+,{"time":"12:40","usr":"rechtsteiner","txt":"The eBook Platform Landscape - looking at the role emerging co\u0027s play v. $AMZN, $GOOG, $BKS, etc. http://t.co/olwAaSEK","lbl":"Neutral"}
+,{"time":"12:40","usr":"xavierjolas","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
 ,{"time":"13:18","usr":"Fibonacciqueen","txt":"$GOOG setup from yesterday seems to be heading towards target 1 http://t.co/dpPiP0Eh","lbl":"Positive"}
+,{"time":"13:18","usr":"Fitzstock2004","txt":"674 $goog resistance........UNTIL IT ISNT!","lbl":"Neutral"}
+,{"time":"13:18","usr":"ACInvestorBlog","txt":"$GOOG on the move","lbl":"Neutral"}
+,{"time":"13:50","usr":"SPEQL8R","txt":"some stocks look extremely overbot to me $GOOG $AMZN; we know overbot can stay that way. Keep trailing stops if U bot yest at my 666 level","lbl":"Negative"}
+,{"time":"13:51","usr":"MasoodAkbar1","txt":"RT @WSJ: RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. ...","lbl":"Neutral"}
 ,{"time":"13:53","usr":"PrintChap","txt":"RT @SAI: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/Kx30uYyJ","lbl":"Positive"}
+,{"time":"14:31","usr":"DeidreZune","txt":"Wonder what the performance of #newwallstreet is for 2011 and 2012. Any 1 know? #timestamped. $$ $XLK $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"15:49","usr":"mrmmr","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"15:51","usr":"eyedean","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"15:54","usr":"ChiTwn_Guy","txt":"240m 13\u0027s = $GOOG, $ORCL, $QCOM, $QQQ, $SPY, $SPX, $IWB. 240m SS9P = $AAPL, $SBUX, $GOOG, $QQQ.","lbl":"Neutral"}
+,{"time":"17:53","usr":"Rich_Squires","txt":"@jimcramer Boooyahhh JJC! What is your thought on $VRNG with The new $NOK patents and the $GOOG lawsuit?","lbl":"Neutral"}
+,{"time":"17:55","usr":"thefinancepress","txt":"$GOOG Latest Picks from Hedge Fund Manager Glenn Greenberg: ORCL, VRX, GOOG ...: Latest Picks from Hedge Fund M... http://t.co/eeL6vKiR","lbl":"Neutral"}
+,{"time":"17:57","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Latest Picks from Hedge Fund Manager Glenn Greenberg: ORCL, VRX, GOOG ...: Latest Picks from Hedge Fund M... http://t.co/eeL6vKiR","lbl":"Neutral"}
 ]

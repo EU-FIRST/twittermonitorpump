@@ -1,12 +1,21 @@
 [
-{"time":"6:52","usr":"Rocket_Trades","txt":"long $SQNM $WFC $LTD $AMZN hedged short $TZA $TVIX (volatilty is low we can go lower but we are at extreme lows right now)","lbl":"Positive"}
+{"time":"3:40","usr":"RetailAgility","txt":"RT @retail_sails Check Out The Insane Lengths Zappos Customer Service Reps Will Go To Please Shoppers http://t.co/FNeO9Sjv #retail $AMZN","lbl":"Neutral"}
+,{"time":"6:35","usr":"educofin","txt":"http://t.co/Y8J5XikE Heikin-Ashi and Your Risk Management ($NFLX $AMZN) #heikinashi #worden #trading #trendfollowing","lbl":"Neutral"}
+,{"time":"6:52","usr":"Rocket_Trades","txt":"long $SQNM $WFC $LTD $AMZN hedged short $TZA $TVIX (volatilty is low we can go lower but we are at extreme lows right now)","lbl":"Positive"}
+,{"time":"9:21","usr":"heif","txt":"@jason\u0027s fascinating take on $amzn prime http://t.co/SUOxWvI9","lbl":"Neutral"}
 ,{"time":"11:46","usr":"ml_starr","txt":"RT @SeekingAlpha: 5 Tech Stocks That Are Set To Surge In 2012 http://t.co/SPBC5nN5 $ORCL $CSCO $ATML $MSFT $AMZN $AAPL $BBY $WMT","lbl":"Positive"}
 ,{"time":"11:49","usr":"gtotoy","txt":"it\u0027s $AAPL\u0027s turn to get taken down, $IBM,$GOOG and $AMZN have all been nailed","lbl":"Negative"}
+,{"time":"13:28","usr":"mwaizman","txt":"I see #tickers $AMZN $ANR $BAC $GRPN $RIMM $RENN $SINA #StockMarket #stockPicks","lbl":"Neutral"}
+,{"time":"13:30","usr":"FootballLive2","txt":"SMALLCAP TRADING TRICK - MAKES YOU 100-200% GAINS PER WEEK http://t.co/wpaayLQm $USO $AMZN $PSID $LNKD $IWM $CORN $ACFN $EZU","lbl":"Neutral"}
+,{"time":"13:31","usr":"StkConfidential","txt":"$GOOG, $NFLX, $AMZN & $AAPL\u0027s TV battle for the living room: http://t.co/mCE4pDz1 $STUDY","lbl":"Neutral"}
+,{"time":"13:31","usr":"AMZN_stock","txt":"$AMZN real time quote, 1:31PM EST: 177.75 -0.81 (-0.45%).","lbl":"Neutral"}
 ,{"time":"14:41","usr":"vjland","txt":"$AMZN 177 broken down then traded up and held. reversal. my swing target is 199","lbl":"Positive"}
 ,{"time":"14:41","usr":"BUDDIEE18","txt":"RT @NoDoji: $AMZN breaking over 5 min cloud - bullish if it holds http://t.co/EyQ4eOTk","lbl":"Positive"}
 ,{"time":"14:46","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $AMZN trying .89 on 190 C http://t.co/uRgChUGu","lbl":"Positive"}
 ,{"time":"14:47","usr":"EXPstocktrader","txt":"$OCZ is rebounding on an announcement with $IBM.....#Facebook and/or $AMZN may be next...may get an upgrade this week??","lbl":"Positive"}
+,{"time":"15:32","usr":"AMZN_stock","txt":"$AMZN real time quote, 3:32PM EST: 179.14 +0.58 (+0.32%).","lbl":"Neutral"}
 ,{"time":"17:47","usr":"afshea2002","txt":"Obviously bullish ($aapl x 2) and $Amzn RT@zerohedge: MICROSOFT SAYS PC SALES PROBABLY WERE WORSE THAN EXPECTED IN 4Q","lbl":"Positive"}
+,{"time":"17:49","usr":"political_hawk","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/fSxJvXIn #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
 ,{"time":"17:51","usr":"ChrisDukich","txt":"RT @SAI: AT&T Is Going To Try To Blow Away Amazon\u0027s Cloud $AMZN $T by @Julie188 http://t.co/Olkcwy0t","lbl":"Negative"}
 ,{"time":"22:18","usr":"ReformedBroker","txt":"$AMZN short-term $goog long term RT @tomdesee: @ReformedBroker $AMZN or $GOOG?","lbl":"Positive"}
 ,{"time":"22:34","usr":"leopardtrader","txt":"Dont be a tick watcher every second for ur trade. Risk trend is still \u0022ON\u0022 since 15th Dec. Buying dips have worked. $AUDUSD $SPX $AMZN","lbl":"Positive"}

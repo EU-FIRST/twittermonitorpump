@@ -1,20 +1,52 @@
 [
-{"time":"8:32","usr":"scheplick","txt":"\u0022@firstadopter: $GOOG Android 90% smart-phone market-share in China http://t.co/m6xMzgxY\u0022","lbl":"Positive"}
+{"time":"0:58","usr":"thefinancepress","txt":"$GOOG Transocean, Alcatel-Lucent, Google: Intellectual Property: Transocean, Alcatel-Lucent, Google: Intellectu... http://t.co/cOEdqVOD","lbl":"Neutral"}
+,{"time":"1:02","usr":"GKesarios","txt":"Why Earnings At Multinationals Might Be In Jeopardy http://t.co/Vbjmef92 $SPY $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"1:14","usr":"Goodlett","txt":"And boom, like that, $ATT sells out of almost all inventory on $NOK @Nokia Lumia 920 running $MSFT #WP8 http://t.co/CGclb3rE $GOOG $AAPL $VZ","lbl":"Neutral"}
+,{"time":"1:15","usr":"TheStreet","txt":"EXCLUSIVE: Google Asking Users To Vote On Search Results http://t.co/DX3VceUv $GOOG @johndefeo","lbl":"Neutral"}
+,{"time":"7:07","usr":"TheStreet","txt":"Stock Futures Fall Ahead of Fiscal Cliff Talks http://t.co/79JG9OGS #StockAction $GPS $DELL $SHLD $SHF $GOOG $DISH $SBUX","lbl":"Neutral"}
+,{"time":"7:08","usr":"TinaWilson_IBM","txt":"RT @SAI: 10 Things You Need To Know This Morning $MSFT $NWS $ZNGA $AAPL $GOOG $GRPN $YHOO $DISH by @nichcarlson http://t.co/7wkAOg7P","lbl":"Neutral"}
+,{"time":"8:32","usr":"levayco_t3live","txt":"today\u0027s watch list...$LNKD $SINA $SOHU $PENN $AAPL $GOOG $PCLN $CALI","lbl":"Neutral"}
+,{"time":"8:32","usr":"scheplick","txt":"\u0022@firstadopter: $GOOG Android 90% smart-phone market-share in China http://t.co/m6xMzgxY\u0022","lbl":"Positive"}
+,{"time":"8:33","usr":"BloombergTV","txt":"Governments use Google too (to spy on you) http://t.co/wbwXr3mK $GOOG","lbl":"Neutral"}
+,{"time":"8:34","usr":"TheNickG453","txt":"RT @BloombergTV: Governments use Google too (to spy on you) http://t.co/wbwXr3mK $GOOG","lbl":"Neutral"}
+,{"time":"9:19","usr":"RobTheStreet","txt":"I find it hilarious that Apple $AAPL yanks Google $GOOG maps from the iPhone & iPad, but still uses Google Maps for iPhoto in OSX. Why?","lbl":"Neutral"}
+,{"time":"9:24","usr":"madkarande","txt":"A Serious Person Posited That, Because Of This Chart, Samsung Might Someday Buy Google $SSNLF $GOOG by @nichcarlson http://t.co/y1K4F2rA","lbl":"Neutral"}
+,{"time":"10:02","usr":"wallstCS","txt":"Is Dell\u0027s Stock a Buy After These Third Quarter Results? http://t.co/ZCYxQd9P $DELL $HPQ $MSFT $AAPL $GOOG #mkt #stocks #trading","lbl":"Neutral"}
 ,{"time":"10:02","usr":"nexgennovak","txt":"$GOOG Retesting fibonacci support with strength to downside. http://t.co/zIevS3Ry","lbl":"Negative"}
+,{"time":"10:03","usr":"barronstechblog","txt":"This Morning: DELL, ARUN Drop, Apple, Samsung Add to List of Gripes - Tech Trader Daily - $AAPL $MSFT $GOOG $DELL $ARUN http://t.co/lXCZAzwG","lbl":"Neutral"}
+,{"time":"10:24","usr":"rinaldi224","txt":"Looks like telecom $IYZ getting crushed on $GOOG and $DISH talks of building network to compete w/ $T and $VZ","lbl":"Neutral"}
+,{"time":"10:25","usr":"RG_London","txt":"RT @Real_MNA: Why $GOOG, $EBAY could set their sights on VeriFone\u0027s credit card terminals--> http://t.co/Xj8YPga1 $PAY #mna (by @olgakharif & @taralach)","lbl":"Neutral"}
+,{"time":"10:26","usr":"SKSMediaBrasil","txt":"RT @Real_MNA: Why $GOOG, $EBAY could set their sights on VeriFone\u0027s credit card terminals--> http://t.co/Xj8YPga1 $PAY #mna (by @olgakharif & @taralach)","lbl":"Neutral"}
+,{"time":"10:26","usr":"SKSMediaLDN","txt":"RT @Real_MNA: Why $GOOG, $EBAY could set their sights on VeriFone\u0027s credit card terminals--> http://t.co/Xj8YPga1 $PAY #mna (by @olgakharif & @taralach)","lbl":"Neutral"}
 ,{"time":"10:48","usr":"generalholding","txt":"RT @businessinsider: This Trend Is Very Worrisome For Apple $AAPL $GOOG by @hblodget http://t.co/AAh3oWyZ","lbl":"Negative"}
+,{"time":"10:48","usr":"bpeck","txt":"$EBAY, $GOOG, $AXP- Mobile payments to top $1Tr in 4-5 yrs.... http://t.co/OUZmL1Jd","lbl":"Neutral"}
+,{"time":"10:48","usr":"Carina_Lermon","txt":"android - Google News #Android $Goog http://t.co/rCTDW96t","lbl":"Neutral"}
+,{"time":"10:50","usr":"traderblast","txt":"RT @themoneygame: This Trend Is Very Worrisome For Apple $AAPL $GOOG by @hblodget http://t.co/R3Q0dYSK","lbl":"Neutral"}
 ,{"time":"11:22","usr":"jeffmc2011","txt":"@GuyAdami I think what is funny you don\u0027t even talk $GOOG on Fast Money and it is negative YTD. I can\u0027t believe AAPL drop","lbl":"Negative"}
+,{"time":"11:22","usr":"dslevy","txt":"Ooh you can drag and drop email addresses in the new Gmail UI. #neat $GOOG","lbl":"Neutral"}
+,{"time":"11:24","usr":"josehvm","txt":"RT @Benzinga: $AAPL $GOOG Samsung Can Sue Apple Over iPhone 5, Judge Rules: http://t.co/lmcNGnXV","lbl":"Neutral"}
+,{"time":"11:58","usr":"cooldaddy5x","txt":"$GOOG red dog reversal cld go green today","lbl":"Neutral"}
 ,{"time":"11:59","usr":"tradethembi","txt":"$GOOG came off yellw dot buys then new orange dot buy 644 and nearing target 648.09 http://t.co/EQhbPaWo","lbl":"Positive"}
 ,{"time":"12:39","usr":"cooldaddy5x","txt":"$SPY $AAPL $GOOG would not want to be short over the weekend!","lbl":"Positive"}
 ,{"time":"12:39","usr":"larryfooter","txt":"RT @Legacy_Trades: DIRECTIONAL BETS - New: First (1x) scales L: $AAPL Dec 550 calls @ 10 & L: $GOOG Dec 670 calls @ 7.50.","lbl":"Positive"}
 ,{"time":"13:31","usr":"mercbizbreak","txt":"Judge seems OK with Google\u0027s FTC deal on privacy snafu with Apple\u0027s Safari browser, @BrandonBailey reports. $GOOG $AAPL http://t.co/pHDytnpf","lbl":"Positive"}
 ,{"time":"13:33","usr":"jmover","txt":"it\u0027s bananas that @twitter search is so bad. I just tried to search for 3 people i know are on twitter but couldn\u0027t find them. had use $GOOG","lbl":"Positive"}
+,{"time":"13:34","usr":"MarcusVeith","txt":"Another one bites the dust...Apple Strikes $4 Billion Android Gold? http://t.co/7nufjRKG $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"14:34","usr":"JustinPulitzer","txt":"I preface this with saying I HATE $GOOG management, but the stock is looking attractive. OTM Put sale candidate on VOL spikes. #PriceMatters","lbl":"Positive"}
+,{"time":"14:36","usr":"henrygambell","txt":"Bulls had a nice run after $AAPL put in the low at $505 - 1360 line in the sand into the close $GOOG $NFLX $CMG working http://t.co/zjHNR6KD","lbl":"Neutral"}
 ,{"time":"14:36","usr":"denizarik","txt":"RT @SAI: This Trend Is Very Worrisome For Apple $AAPL $GOOG by @hblodget http://t.co/LDbzo1KK","lbl":"Negative"}
+,{"time":"14:37","usr":"RatioTrader","txt":"$GOOG - $DISH wireless service is a go, plans for 2013 launch being hatched: http://t.co/UP2EhDZG","lbl":"Neutral"}
+,{"time":"15:39","usr":"madFu","txt":"anybody playing this yet? -- http://t.co/7FImIE4m -- had this idea ~2 yrs ago...called it \u0022Hazardous Youth v.0\u0022 - how far did $GOOG take it?","lbl":"Neutral"}
 ,{"time":"16:15","usr":"MikeLangford","txt":"This is HUGE if true. RT @verge: Google and Dish Network are in talks to launch a wireless service, says WSJ http://t.co/qO27CsA6 $GOOG","lbl":"Positive"}
+,{"time":"16:15","usr":"DisCo_Project","txt":"Caroline Dennison [USPTO] --> We are opening a Silicon Valley Office to be run by Michelle Lee (former $GOOG Deputy GC for Patents) #HTLI","lbl":"Neutral"}
+,{"time":"16:15","usr":"econwriter5","txt":"RT @businessinsider: Answers To 15 MORE Google Interview Questions That Made Geniuses Feel Dumb $GOOG by @nichcarlson http://t.co/JqPesErf","lbl":"Neutral"}
 ,{"time":"16:15","usr":"DeidreZune","txt":"In this excitement, let\u0027s not overlook the fact that $GOOG closed DOWN 8cents. Can\u0027t boast of RED DOG POINTED NOSE HAMMER REVERSAL $AAPL can","lbl":"Negative"}
 ,{"time":"17:18","usr":"Monster_Trader","txt":"RT @JWard_73: Just not a powerful positive reversal like 2/5/10 and 10/4/12. Set-ups lacking. Typical snap-back rally. $AAPL $GOOG $BIDU $LNKD $QQQ $SPY","lbl":"Negative"}
+,{"time":"17:20","usr":"MarketCurrents","txt":"For now at least, the Apple-HTC deal hasn\u0027t cooled off Apple\u0027s other patent battles. ... http://t.co/gFDJ6I8u $AAPL $SSNLF.PK $GOOG","lbl":"Neutral"}
+,{"time":"17:20","usr":"mbuguanjihia","txt":"Answers To 15 MORE Google Interview Questions That Made Geniuses Feel Dumb $GOOG http://t.co/ysPuebsu","lbl":"Neutral"}
 ,{"time":"17:22","usr":"dkentslc","txt":"MT: Beware the \u0022Great Unwashed Smartphone Buyers\u0022 #hblodget #cogent This Trend Is Very Worrisome For Apple $AAPL $GOOG http://t.co/47JF8rx6","lbl":"Negative"}
 ,{"time":"19:02","usr":"Japanesegunto","txt":"$Goog at 648 while $AAPL at 528. This race $Goog beat $AAPL. Next one is how fast $AAPL is trying to Ketch up.....","lbl":"Positive"}
 ,{"time":"19:04","usr":"PeteRuso","txt":"RT @Tradified: \u27A1 Insider Trading: $GOOG Brin Sergey Director SOLD 45000 shares \u2611","lbl":"Negative"}
+,{"time":"19:05","usr":"DivIncDaily","txt":"Is Apple the New Microsoft? http://t.co/h2Lre6My $MSFT $AAPL $AMZN $GOOG","lbl":"Neutral"}
 ,{"time":"23:52","usr":"USwwwStocks","txt":"$GOOG News: Google, Dish Held Talks to Launch Wireless Service http://t.co/53vRL1mX #Dish #GOOG #Google","lbl":"Positive"}
 ]

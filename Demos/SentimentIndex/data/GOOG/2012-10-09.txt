@@ -1,27 +1,71 @@
 [
-{"time":"6:57","usr":"nicoleurken","txt":"RT @TheStreet: New CEOs Makes These Stocks Buyable http://t.co/7zn6RFTS video w/ @nicoleurken @Lindseycbell $YHOO $INTU $GOOG $SYMC","lbl":"Positive"}
+{"time":"0:02","usr":"thefinancepress","txt":"$GOOG Oracle Insists Google Inc (NASDAQ:GOOG) Stole Code, Appeals To Higher Court: Oracle Insists Google Inc (N... http://t.co/6SSR1LbD","lbl":"Neutral"}
+,{"time":"5:20","usr":"JunkFunction","txt":"Check out how Google used the Scion IQ to improve Street View for #Maps... solid! -- http://t.co/nTfWfn5E $GOOG #iOS6","lbl":"Neutral"}
+,{"time":"5:30","usr":"DowntownStation","txt":"Check out how Google used the Scion IQ to improve Street View for #Maps... solid! -- http://t.co/M44gKYta $GOOG #iOS6","lbl":"Neutral"}
+,{"time":"5:34","usr":"LWM_Consultants","txt":"RT @SeekingAlpha: Apple Is Trading At 60-75% Premium To Its Sum Of Parts Valuation http://t.co/6XyMrMlJ $AMZN $DELL $GOOG $HPQ $MSFT $NO ...","lbl":"Neutral"}
+,{"time":"6:56","usr":"Adamalthus","txt":"RT @iallow: Google is thrown back in the ring http://t.co/A3KAjQzt < $GOOG intent on learning who has real power the hard way!","lbl":"Neutral"}
+,{"time":"6:57","usr":"KLGPLLC","txt":"RT @businessinsider: Google Exec Accuses Apple Of Negotiating Over Patents In Bad Faith $GOOG $AAPL http://t.co/aVgv5dVZ","lbl":"Neutral"}
+,{"time":"6:57","usr":"nicoleurken","txt":"RT @TheStreet: New CEOs Makes These Stocks Buyable http://t.co/7zn6RFTS video w/ @nicoleurken @Lindseycbell $YHOO $INTU $GOOG $SYMC","lbl":"Positive"}
 ,{"time":"6:57","usr":"SeeWaiCee","txt":"RT @SAI: Google Exec Accuses Apple Of Negotiating Over Patents In Bad Faith $GOOG $AAPL http://t.co/fBsRGNTK","lbl":"Negative"}
 ,{"time":"8:01","usr":"businessinsider","txt":"Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/d6dkJhq5","lbl":"Positive"}
 ,{"time":"8:01","usr":"SAI","txt":"Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
 ,{"time":"8:01","usr":"ms_tigertale","txt":"RT @businessinsider: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/d6dkJhq5","lbl":"Positive"}
 ,{"time":"8:02","usr":"asianchica22","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
 ,{"time":"8:21","usr":"wallstCS","txt":"Are Google and Samsung Sneaking Into iPad Territory? http://t.co/2RTUnty1 $SSNLF $AAPL $GOOG #mkt #stocks #trading","lbl":"Positive"}
+,{"time":"8:22","usr":"Mac42az","txt":"@josephjpeters court forcing settlement makes $vrng case, $goog was not going to play ball until judge decision","lbl":"Neutral"}
+,{"time":"8:23","usr":"pennystockguys","txt":"$GOOG - U.S. HOT STOCK FUTURES: HOT STOCKS TO WATCH http://t.co/MihAwtRk","lbl":"Neutral"}
 ,{"time":"8:47","usr":"EShcmidt","txt":"$ORCL is suing $GOOG for IP infringement for android software. Case filed with circuit court on last thursday","lbl":"Negative"}
 ,{"time":"8:47","usr":"nwease","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/pp1fIGoN","lbl":"Positive"}
 ,{"time":"8:49","usr":"bluser12","txt":"$AAPL wants 630. $GOOG wants to break below 756-754.","lbl":"Negative"}
+,{"time":"9:16","usr":"stockassassin74","txt":"$VRNG can not blame profit taking today, but I hope you buy back in. The real money has yet to be made if $GOOG settles, buys or loses","lbl":"Neutral"}
+,{"time":"9:17","usr":"theantzliem","txt":"RT @SAI: This Is Google\u0027s New Smartphone $GOOG by @stevekovach http://t.co/D7QJgxlh","lbl":"Neutral"}
 ,{"time":"9:17","usr":"JamesLUFCLewis","txt":"@stockassassin74 profit taking on $VRNG is purely short-sighted. This company has valuable patents, and has legit challenges vs $GOOG.","lbl":"Negative"}
 ,{"time":"9:18","usr":"hamptonus","txt":"RT @firstadopter: Since I got my $GOOG Nexus 7, I use it 90% of time now vs my $AAPL \u0022retina\u0022 iPad. It\u0027s better form factor iPad heavy/u ...","lbl":"Positive"}
-,{"time":"9:39","usr":"stt2318","txt":"for those that play intraday setups $GOOG on major support here","lbl":"Positive"}
+,{"time":"9:39","usr":"wallstCS","txt":"Coca-Cola to Display Nutritional Data on Vending Machines and 1 Morning Hot Stock Sparking Chatter http://t.co/qZauR1pP $GOOG $KO $PEP $DPS","lbl":"Neutral"}
 ,{"time":"9:39","usr":"russellmreyes","txt":"$GOOG below 754. lets see if it can get below 750.00","lbl":"Negative"}
+,{"time":"9:39","usr":"stt2318","txt":"for those that play intraday setups $GOOG on major support here","lbl":"Positive"}
 ,{"time":"9:50","usr":"KarSun01","txt":"$GOOG call spot on- posted chart yesterday, hope you guys weren\u0027t in long, and best case were short, but def at least not long!","lbl":"Negative"}
 ,{"time":"9:50","usr":"1nvestor","txt":"740 is where the 20 SMA sits on the Daily for $GOOG - a place it has touched only once since late July.","lbl":"Positive"}
+,{"time":"9:50","usr":"bluser12","txt":"There $GOOG goes..","lbl":"Neutral"}
 ,{"time":"9:51","usr":"marklopresti","txt":"like i said, break 750 $GOOG moved fast","lbl":"Negative"}
 ,{"time":"10:08","usr":"GdayToYou","txt":"@YoungMarketMavn Couldnt agree more $APPL and $GOOG puts so sweet the ride down. $$$ and SPY broke 144...nice trading day ;)","lbl":"Negative"}
+,{"time":"10:09","usr":"JerTignes","txt":"$aapl vs $goog, democrats vs republican... Strong moving market until next US elections.. When mkt is just politic...","lbl":"Neutral"}
+,{"time":"10:10","usr":"racernic","txt":"RT @Fibonacciqueen: $GOOG Updated chart...it\u0027s now or never! in reference to the CBOE charts posted earlier http://t.co/hZ1jhC6g","lbl":"Neutral"}
 ,{"time":"10:41","usr":"tradefast","txt":"$GOOG support at 20dma $740","lbl":"Positive"}
+,{"time":"10:41","usr":"TheStreet","txt":"Apple\u0027s iPad Mini Is Just Like Pizza and Sex - http://t.co/UcA0myCF by @RoccoPendola $AAPL $GOOG $AMZN","lbl":"Neutral"}
 ,{"time":"10:41","usr":"tlmontana","txt":"RT @tradefast: $GOOG support at 20dma $740","lbl":"Positive"}
+,{"time":"10:42","usr":"ChartMoMo","txt":"art. $goog http://t.co/4d055eSz","lbl":"Neutral"}
 ,{"time":"11:05","usr":"takingstock614","txt":"A lot of money managers overweight $AAPL Many moving over to $GOOG imo.","lbl":"Positive"}
+,{"time":"11:05","usr":"launchticker","txt":"82K $goog Chrome users downloaded fake version of Rovio\u2019s Bad Piggies game; fake installs adware plugin http://t.co/qssxGKmi","lbl":"Neutral"}
 ,{"time":"11:05","usr":"shrinikketh","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
 ,{"time":"11:06","usr":"takingstock614","txt":"$GOOG After 5yrs finally broke out of prev. high 747. Stock not just going to pull back. This one is going much higher. BTD BTD BTD BTD!","lbl":"Positive"}
 ,{"time":"11:47","usr":"sailor_2_c","txt":"Caught the $GOOG drop and took profits in my $AAPL puts. Hoping for more downside in $NFLX.","lbl":"Negative"}
+,{"time":"11:49","usr":"uhohadam","txt":"What To Know Before IPOs Pick Back Up http://t.co/Fzbcq6zL $GBIM $GOOG $GRPN $KYTH $LNKD $WDAY $ZNGA $FB","lbl":"Neutral"}
+,{"time":"12:29","usr":"convolutedvol","txt":"$GOOG & $AAPL sell offs nice 10000000*","lbl":"Neutral"}
+,{"time":"13:32","usr":"pennystockguys","txt":"$GOOG - Starz Launches Streaming Services - Analyst Blog http://t.co/v5KA0HtJ","lbl":"Neutral"}
+,{"time":"13:32","usr":"pennystockguys","txt":"$GOOG - Earnings Scorecard: RIMM - Analyst Blog http://t.co/EZN8nQcA","lbl":"Neutral"}
+,{"time":"13:32","usr":"ADVFNplc","txt":"$GOOG - Starz Launches Streaming Services - Analyst Blog http://t.co/BZbowPug","lbl":"Neutral"}
+,{"time":"13:32","usr":"ADVFNplc","txt":"$GOOG - Earnings Scorecard: RIMM - Analyst Blog http://t.co/MXIqt6B6","lbl":"Neutral"}
+,{"time":"14:18","usr":"PearlCapps","txt":"RT @SAI: Yes, Your Phone Can Get A Computer Virus $AAPL $GOOG by @_dtl http://t.co/sbV8tQ1l","lbl":"Neutral"}
+,{"time":"14:19","usr":"garrioharrison","txt":"RT @SAI: With Collections, Facebook Is Taking On Google And Amazon $AMZN $GOOG $FB by @meganrosedickey http://t.co/hRjjegEt","lbl":"Neutral"}
+,{"time":"14:20","usr":"SergeMOfficial","txt":"RT @SAI: Yes, Your Phone Can Get A Computer Virus $AAPL $GOOG by @_dtl http://t.co/sbV8tQ1l","lbl":"Neutral"}
+,{"time":"14:21","usr":"DigitalNativeBE","txt":"RT @SAI: Yes, Your Phone Can Get A Computer Virus $AAPL $GOOG by @_dtl http://t.co/sbV8tQ1l","lbl":"Neutral"}
+,{"time":"14:53","usr":"CJMendes","txt":"Here is $GOOG in \u0022pictures\u0022. Agree with view that it is screaming caution. 700 could very well come quickly. (nopos) http://t.co/z9bq3UAT","lbl":"Neutral"}
+,{"time":"14:54","usr":"Abdullah_Hamad","txt":"Yes, Your Phone Can Get A Computer Virus $AAPL $GOOG http://t.co/CdrNGRGE","lbl":"Neutral"}
+,{"time":"14:55","usr":"traderstewie","txt":"$AAPL, making a respectable close today but $GOOG and $AMZN on the other hand......","lbl":"Negative"}
+,{"time":"14:56","usr":"FatmaHamad81","txt":"RT @Abdullah_Hamad: Yes, Your Phone Can Get A Computer Virus $AAPL $GOOG http://t.co/CdrNGRGE","lbl":"Neutral"}
+,{"time":"15:47","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 10.10.2012 http://t.co/icvTMICc","lbl":"Neutral"}
+,{"time":"15:53","usr":"iBlessit","txt":"$VRNG and $GOOG dropped similar charts at 10:50 am. Clearly $VRNG IS weighing on google pps. They already lost $10 billion in market cap","lbl":"Neutral"}
+,{"time":"15:55","usr":"RapidRatings","txt":"Large internet companies move into the credit business. How will $AMZN (FHR of 40) and $GOOG (FHR of 70) fare? http://t.co/NDLuEXvI","lbl":"Neutral"}
+,{"time":"17:30","usr":"METrades","txt":"@cfrazierjr Now he\u0027s got $AMZN $GOOG $V $MA on his \u0022Hot List\u0022. #Cool #Stocks","lbl":"Positive"}
+,{"time":"17:36","usr":"DrunkStepmother","txt":"re $VRNG... doc #697 explains that damages may get adjusted & $GOOG has 2 days to produce additional discovery","lbl":"Neutral"}
+,{"time":"17:36","usr":"GarHughes","txt":"RT @SeekingAlpha: Amazon: Drowning In A Large Flood Of Negative Developments http://t.co/ObaCe8e8 $AAPL $GOOG $MMM $NFLX $AMZN","lbl":"Neutral"}
+,{"time":"19:11","usr":"HarveyBurgess","txt":"RT @glenchen: RT @SAI: Yes, Your Phone Can Get A Computer Virus $AAPL $GOOG by @_dtl http://t.co/M78Ir77D","lbl":"Neutral"}
+,{"time":"19:15","usr":"DrunkStepmother","txt":"@11jnk11 @BenjaminCahn re-read the $GOOG going to $0 article","lbl":"Neutral"}
+,{"time":"19:25","usr":"MicahJU","txt":"RT @SeekingAlpha: Vringo Vs. Google: Today\u0027s Order Re: Vringo\u0027s 2nd And 3rd Motions For Sanctions http://t.co/e271LIzi $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"19:30","usr":"stockticks","txt":"$GOOG News: Oracle Insists Google Inc (NASDAQ:GOOG) Stole Code, Appeals To Higher Court - #stocknews http://t.co/uC1QuvxE #USInternetStocks","lbl":"Neutral"}
+,{"time":"21:50","usr":"KarSun01","txt":"$GOOG post is not in hindsight, it was foresight and posted yesterday during market hours and in the evening...","lbl":"Neutral"}
+,{"time":"21:51","usr":"USwwwStocks","txt":"$GOOG News: Google Offers to Brand Web Search Results http://t.co/XtS483LE #GOOG #Brand #Google","lbl":"Neutral"}
+,{"time":"21:53","usr":"ChinaStockPro","txt":"Commented on: \u0022What Is Vringo Worth?\u0022 http://t.co/IswM32Ju $VRNG $AAPL $GOOG $MSFT $NOK $TGT","lbl":"Neutral"}
 ,{"time":"21:58","usr":"ProperNig","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
 ]

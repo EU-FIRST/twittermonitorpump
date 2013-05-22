@@ -1,7 +1,17 @@
 [
-{"time":"8:32","usr":"Lawndale1","txt":"#Amazon\u0027s Stock Price Is Benefiting From Irrational Exuberance http://t.co/wLeVuz6Y $AMZN","lbl":"Negative"}
+{"time":"5:02","usr":"LennySwan1","txt":"RT @StockGarage: CHART REVIEWS http://t.co/rlyI5AgH $AAPL $FB $IFHR $GRPH $PCLN $MA $GOOG $SWHC $AMZN $EKNL $VRNG $MJNA $GRNH $HHSE $MIMV $FCSC $GRO $DROP","lbl":"Neutral"}
+,{"time":"7:03","usr":"stockstobuy","txt":"Wal Mart $WMT to sell Apple TV in stores - Bloomberg - $AAPL $NFLX $AMZN","lbl":"Neutral"}
+,{"time":"8:30","usr":"ChicagoPhotoSho","txt":"Hard to argue with this. http://t.co/H4gLJ4Ns $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"8:32","usr":"_deekin","txt":"RT @ChicagoPhotoSho: Hard to argue with this. http://t.co/H4gLJ4Ns $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"8:32","usr":"Lawndale1","txt":"#Amazon\u0027s Stock Price Is Benefiting From Irrational Exuberance http://t.co/wLeVuz6Y $AMZN","lbl":"Negative"}
 ,{"time":"9:19","usr":"OptionCast","txt":"$AMZN large Nov 240 call buyer, 200 @ $3.25","lbl":"Positive"}
+,{"time":"10:11","usr":"wallstCS","txt":"Time Warner Cable Pow-Wows With Cox, DirecTV and 2 Morning Hot Stocks Buzzing http://t.co/6B6gSoO2 $AMZN $NFLX $MSFT $TWC #mkt","lbl":"Neutral"}
 ,{"time":"10:12","usr":"HarryWanger","txt":"$AMZN Still $9 above pre ER close. Keep a watch at 228. Lose that and it\u0027s a big move down IMO","lbl":"Negative"}
 ,{"time":"11:29","usr":"DividendMaster","txt":"@KeeneOnMarket If only $AMZN could release weekly results ( all horrible ) and stock would be at $300 by Xmas","lbl":"Negative"}
+,{"time":"11:30","usr":"tradingview","txt":"$AMZN chart by @FibLine: http://t.co/OCDjO95D AMZN.","lbl":"Neutral"}
+,{"time":"13:01","usr":"HeyHealy","txt":"RT @rakeshlobster: $AMZN P/E is 3100? Market is pricing Amazon as if they\u0027ll have infinite pricing power once they drive everyone else under.","lbl":"Neutral"}
+,{"time":"13:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:47pm: 231.255 -6.985 (-2.93%).","lbl":"Neutral"}
 ,{"time":"13:08","usr":"stockstobuy","txt":"Amazon $AMZN bashed the #Apple $AAPL iPad Mini but they didn\u0027t even have the ad correct - #unreal - http://t.co/TVp3gN9Q","lbl":"Negative"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"Microsoft Windows 8: No Effect On Tablet Market http://t.co/r8IcA8Rr $AAPL $AMZN $DELL $GOOG $HPQ $NOK $MSFT","lbl":"Neutral"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"Microsoft: Get In Today And Ride It Higher Into 2013 http://t.co/DuSAc4UK $AAPL $AMZN $GOOG $NOK $MSFT","lbl":"Neutral"}
 ]

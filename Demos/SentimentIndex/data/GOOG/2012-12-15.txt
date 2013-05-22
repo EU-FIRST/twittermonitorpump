@@ -1,7 +1,15 @@
 [
 {"time":"1:54","usr":"USwwwStocks","txt":"$GOOG News: Google Inc (GOOG), Starbucks (SBUX): This Billionaire\u0027s Big Selloffs http://t.co/ouKy2Q49 #GOOG #Google #News","lbl":"Negative"}
+,{"time":"8:35","usr":"tradingview","txt":"$GOOG chart by w0rse.r: http://t.co/VWWA2Aup test.","lbl":"Neutral"}
+,{"time":"8:37","usr":"highmtnventures","txt":"Amazing video testament to the communal power of the net from $GOOG - Zeitgeist 2012: Year In Review - YouTube http://t.co/uUDqVz9x","lbl":"Neutral"}
+,{"time":"8:37","usr":"TheRuppertCo","txt":"Amazing video testament to the communal power of the net from $GOOG - Zeitgeist 2012: Year In Review - YouTube http://t.co/NyNVYLsE","lbl":"Neutral"}
+,{"time":"11:54","usr":"OCNetworking","txt":"#Invest in Science Fiction Technology: Artificial Intelligence http://t.co/0mHCf3Qs $FB $GOOG $IBM $MSFT $NUAN $YAMCF.PK $AAPL #AI #apple","lbl":"Neutral"}
+,{"time":"12:05","usr":"mainstr","txt":"The 5 Dumbest Things About Your Smartphone http://t.co/wUyIeEq3 $GOOG $AAPL $T $MSFT $VZ $S $SNE $DELL @antonwahlman","lbl":"Neutral"}
 ,{"time":"12:11","usr":"StockMarket411","txt":"Google\u2019s Ray Kurzweil hire could yield some good returns $goog http://t.co/zJMKSMjg goog, google, google stock, news","lbl":"Positive"}
+,{"time":"15:34","usr":"ivan_marino","txt":"RT @SAI: Google Is Working On A Fix For People Accidentally Clicking On Mobile Ads $GOOG by @owenthomas http://t.co/Cs6JqDkL","lbl":"Neutral"}
 ,{"time":"15:36","usr":"dwizkid21","txt":"@ChartLearning $GOOG and $SPY clinging to that 50MA, definitely like it if either or both can break through, could see good downside","lbl":"Negative"}
 ,{"time":"15:45","usr":"daytrader305","txt":"RT @z8angela: @traderblast I bet. Good job on $AAPL w/ conviction! Now let\u0027s watch how $GOOG will follow footsteps of AAPL & $PCLN after bearish reversal.","lbl":"Positive"}
 ,{"time":"21:45","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Google Inc(NASDAQ:GOOG) To Shut Down Its Shopping Site In China: Google Inc(NASDAQ:GOOG) To Shut Down Its... http://t.co/92Z5UwBt","lbl":"Negative"}
+,{"time":"21:54","usr":"USwwwStocks","txt":"$GOOG News: Google Inc (GOOG) Chairman Eric Schmidt: \u0027Android Winning Mobile Battl http://t.co/OXxJj7Ff #amp39Android #Battle #Chairman","lbl":"Neutral"}
+,{"time":"22:12","usr":"1nvestor","txt":"\u201C@pkedrosky: Interesting: Ray Kurzweil to join Google - http://t.co/lifYTJnO\u201D $GOOG","lbl":"Neutral"}
 ]

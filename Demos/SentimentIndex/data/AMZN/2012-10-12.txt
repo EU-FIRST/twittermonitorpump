@@ -1,18 +1,39 @@
 [
-{"time":"6:47","usr":"RichardLouden","txt":"RT @LukeRomyn: If you enjoyed BEYOND HADES you\u0027ll love its sequel, SLAVES OF VALHALLA: http://t.co/8MhL0KOp $AMZN #Kindle","lbl":"Positive"}
+{"time":"0:58","usr":"BigTicks","txt":"$AMZN News: Eric Schmidt talks Apple, self-driving cars, China, and more http://t.co/P260WPRZ #AMZN #Apple #Cars","lbl":"Neutral"}
+,{"time":"6:43","usr":"failte215","txt":"RT @LukeRomyn: If you enjoyed BEYOND HADES you\u0027ll love its sequel, SLAVES OF VALHALLA: http://t.co/8MhL0KOp $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"6:47","usr":"RichardLouden","txt":"RT @LukeRomyn: If you enjoyed BEYOND HADES you\u0027ll love its sequel, SLAVES OF VALHALLA: http://t.co/8MhL0KOp $AMZN #Kindle","lbl":"Positive"}
+,{"time":"6:47","usr":"NemarkTech","txt":"RT @SAI: 10 Things You Need To Know This Morning $YHOO $GOOG $MSFT $AMZN $ORCL by @nichcarlson http://t.co/9jfNynUm","lbl":"Neutral"}
+,{"time":"6:50","usr":"ilovemykikicat","txt":"RT @SAI: 10 Things You Need To Know This Morning $YHOO $GOOG $MSFT $AMZN $ORCL by @nichcarlson http://t.co/WAw2Oand","lbl":"Neutral"}
 ,{"time":"7:32","usr":"LSilverspar","txt":"RT @1nvestor: \u201C@wsmco: $BBY planning to match online prices ($AMZN) this Holiday season\u201D < gonna be a big big war this season. Who suffers the most?","lbl":"Negative"}
+,{"time":"7:33","usr":"asaphouse","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/ishmVEYy","lbl":"Neutral"}
 ,{"time":"8:07","usr":"BusinessFirst7","txt":"RT @BergenCapital: Cyber terrorists attack $AMZN ? http://t.co/Vv35LKS2 keeps spitting back \u0022Http/1.1 Service Unavailable\u0022","lbl":"Negative"}
 ,{"time":"8:08","usr":"SKSMediaSing","txt":"RT @BergenCapital: Cyber terrorists attack $AMZN ? http://t.co/Vv35LKS2 keeps spitting back \u0022Http/1.1 Service Unavailable\u0022","lbl":"Negative"}
 ,{"time":"8:08","usr":"DividendMaster","txt":"@ComfortablySmug $AMZN might rally . Think how much $ they are making but inability to sell more monmey losing Kindles !","lbl":"Positive"}
+,{"time":"8:32","usr":"martoony","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/ishmVEYy","lbl":"Neutral"}
 ,{"time":"8:33","usr":"Lowtown21","txt":"$AMZN down 17 pts in 4 days, ouch.","lbl":"Negative"}
+,{"time":"9:05","usr":"philwahba","txt":"RT @DanaMattioli: Best Buy Will Match Online Prices, CEO Shrugs off \u0027Showrooming\u0027 http://t.co/tgNm8EDh $BBY $AMZN","lbl":"Neutral"}
 ,{"time":"9:07","usr":"SPEQL8R","txt":"$SPY and many stocks getting short term o.s. $AMZN groupies- don\u0027t overstay welcome, stock has resist around 50 d ema and needs work","lbl":"Negative"}
+,{"time":"9:43","usr":"mattrodier","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/ishmVEYy","lbl":"Neutral"}
+,{"time":"10:26","usr":"ChristopheCubat","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/3I5375ul","lbl":"Neutral"}
 ,{"time":"11:20","usr":"firstadopter","txt":"@herbgreenberg B&H Photo/Newegg regularly beats $AMZN in pricing. Great service and selection too","lbl":"Negative"}
+,{"time":"11:24","usr":"firstadopter","txt":"SouthPark: \u0022People just order stuff from $AMZN and forget what they got\u0022 http://t.co/gDHfLJxa","lbl":"Neutral"}
 ,{"time":"12:09","usr":"BPGAG","txt":"$amzn They really put ads on their entry-level Kindle devices / didn\u0027t know that and don\u0027t like it","lbl":"Negative"}
 ,{"time":"12:09","usr":"rsblades","txt":"RT Stopped out of runner @ $5.30 +$.40 Sticking to the rules ;-) @rsblades Long $AMZN Oct $240 Calls @ $4.90","lbl":"Positive"}
+,{"time":"12:12","usr":"Thought7Ltd","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/ishmVEYy","lbl":"Neutral"}
 ,{"time":"13:06","usr":"otcSTOCKMONSTER","txt":"RT @TOP10STOCKS: The Battle between #BestBuy $BBY & #Amazon $AMZN heating up. $BBY to match online pricing.Daily $Stock Deals! http://t.co/FiwWvU3s #shopping","lbl":"Positive"}
+,{"time":"13:31","usr":"HeresTheStory","txt":"@dkberman Next headline: \u0022Best Buy closes the rest of its stores\u0022 Bad \u0022price match\u0022 policy: http://t.co/jaXj0i0S $BBY $AMZN","lbl":"Neutral"}
+,{"time":"13:33","usr":"ErayDoygun","txt":"RT @dkberman: Best Buy slaps a large asterisk on its pledge to match rivals\u0027 online prices. The details here: http://t.co/y8rfO9gc $BBY $AMZN","lbl":"Neutral"}
 ,{"time":"13:59","usr":"swissjohnny","txt":"RT @edwardnh: Amazon\u0027s Jeff Bezos Confirms Kindles Are Sold at Cost http://t.co/laWgA8Bf $AMZN","lbl":"Negative"}
+,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:46pm: 242.79 -1.43 (-0.59%).","lbl":"Neutral"}
 ,{"time":"14:47","usr":"Bluechiptrend","txt":"I believe that it is ideal to take profits on 1/2 of the remaining trade at this time. $AMZN","lbl":"Negative"}
+,{"time":"14:47","usr":"firstadopter","txt":"$AMZN has tons of net cash and profit margin to go into a massive price war with $AAPL $GOOG $BKS $BBY $WMT simultaneously right? Oh wait..","lbl":"Neutral"}
+,{"time":"15:21","usr":"anthroguy101","txt":"$BBY to price match $AMZN. This is going to get interesting.","lbl":"Neutral"}
+,{"time":"15:25","usr":"darylshaber","txt":"RT @WebCEO RT @chris_tiernan: RT @chris_tiernan: There is a new sherif in town ($CRM & $AMZN) that\u0027s making $IBM... http://t.co/Xe1u1HgT","lbl":"Neutral"}
 ,{"time":"16:18","usr":"ryanstewman","txt":"RT @BergenCapital: Cyber terrorists attack $AMZN ? http://t.co/Vv35LKS2 keeps spitting back \u0022Http/1.1 Service Unavailable\u0022","lbl":"Negative"}
+,{"time":"16:19","usr":"GdayToYou","txt":"@matterhornbob Thank you a passionate reader, I will order it on $AMZN might help their stock; rolling down the hill it is!","lbl":"Neutral"}
+,{"time":"16:20","usr":"MarketWatch","txt":"RT @MarketWatchMatt: Has your broker heard of $FAST? Boring industrial company trounces tech stocks. $AAPL $GOOG $AMZN. Check this chart: http://t.co/39S6YEL4","lbl":"Neutral"}
+,{"time":"16:22","usr":"pmissaghi","txt":"Has your broker heard of $FAST? Boring industrial company trounces tech stocks. $AAPL $GOOG $AMZN. Check this chart: http://t.co/AdkPK3Rs\u201D","lbl":"Neutral"}
+,{"time":"17:40","usr":"rsaintvilus","txt":"RT @TheStreet: Stop Hating Amazon, It Can Spend-and-Grow Forever http://t.co/t9pgeZXW by @RoccoPendola $AMZN","lbl":"Neutral"}
 ,{"time":"17:51","usr":"USwwwStocks","txt":"$AMZN News: Why Amazon can spend and grow forever http://t.co/yERDmO7D #AMZN #Amazon #Forever","lbl":"Positive"}
 ,{"time":"21:14","usr":"WalkenTalken","txt":"Wow, I thought I lost this $AMZN video... Bearish http://t.co/BFyXoHq9","lbl":"Negative"}
 ,{"time":"21:20","usr":"WalkenTalken","txt":"Ok, Take 2 of $AMZN Bearish Video. By the way, my short is from $259.30 not $249.30 http://t.co/viydeWOx","lbl":"Negative"}

@@ -1,5 +1,8 @@
 [
-{"time":"9:15","usr":"TweetLeni","txt":"$AMZN should hit 230 Staying long","lbl":"Positive"}
+{"time":"9:15","usr":"investorsmosaic","txt":"#Bezos L-T thinking is part of the reason $AMZN is best-of-breed in our opinion. Stock is very expensive tho. http://t.co/g45jPQIO via @WSJ","lbl":"Neutral"}
+,{"time":"9:15","usr":"TweetLeni","txt":"$AMZN should hit 230 Staying long","lbl":"Positive"}
+,{"time":"9:41","usr":"SumZero","txt":"$CBS is sitting on a massive pile on under-monetized, but high-potential assets: http://t.co/FmCdXwbL $NFLX $AMZN $NEWS $VIA $DIS $CMCSA","lbl":"Neutral"}
+,{"time":"11:47","usr":"Betacap","txt":"$GOOG $AMZN Google\u2019s Nexus tablet to be unveiled next week http://t.co/KNcnO0qg","lbl":"Neutral"}
 ,{"time":"12:43","usr":"newsagg","txt":"$AMZN 10d60m has moved higher in last 4 hours giving more room for upside http://t.co/Rtg5hUyz","lbl":"Positive"}
 ,{"time":"12:43","usr":"ankypanky25","txt":"How high will you go $AMZN...i will sell if u go up to $228...#amazing","lbl":"Positive"}
 ,{"time":"23:09","usr":"numberonetell","txt":"$FB, still waiting to pick my short. $AMZN, same. $EWZ may soon be a screaming long. http://t.co/3O6kSJv1 charts.","lbl":"Negative"}

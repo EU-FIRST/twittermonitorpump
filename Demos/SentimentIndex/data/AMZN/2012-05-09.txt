@@ -3,4 +3,9 @@
 ,{"time":"8:59","usr":"RedDogT3Live","txt":"$amzn green- high beta hangs in so far","lbl":"Positive"}
 ,{"time":"10:06","usr":"aznboi27","txt":"$AMZN green","lbl":"Positive"}
 ,{"time":"11:10","usr":"aznboi27","txt":"In $AMZN 220 W P @ 1.26","lbl":"Negative"}
+,{"time":"11:12","usr":"StockMarketEnds","txt":"Anti Christ Zionist Microsoft, Amazon & IBM are Anti 99% $MSFT $AMZN #Windows $GEO #MP3 #Coach #Designer #Athlete #VP $IBM $CXW #IBM #GS $GS","lbl":"Neutral"}
+,{"time":"13:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:47pm: 223.33 -0.57 (-0.25%).","lbl":"Neutral"}
+,{"time":"14:38","usr":"Qwovadis","txt":"Commented on: \u0022Yes You Can Get Your Favorite Stocks Cheaper\u0022 http://t.co/yPBXs0HZ $AMZN $CSCO $AAPL","lbl":"Neutral"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"4 Ways Google Will Break New $670 Highs In 2013 http://t.co/rfYD8u7r $AMZN $BIDU $MSFT $WMT $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"16:20","usr":"SeekingAlpha","txt":"2 Stocks To Trade, And What\u0027s Next For The Market http://t.co/YVJj8Oxv $AAPL $AMZN $BP $DG $DIS $DKS $FAS $GLD $HSY $IWM $JCI","lbl":"Neutral"}
 ]

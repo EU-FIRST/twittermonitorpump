@@ -1,19 +1,68 @@
 [
 {"time":"5:12","usr":"nazihtw","txt":"$Goog wants to invest in the automotive industry with its self-driving car. :) http://t.co/f5IvHeFS","lbl":"Positive"}
 ,{"time":"8:03","usr":"ElliotTurn","txt":"$GOOG Hangouts could have a whole lot of new uses in the future: http://t.co/NVXTZ8jG","lbl":"Positive"}
+,{"time":"8:05","usr":"RedDogT3Live","txt":"$AAPL 7 bucks away from catching $goog","lbl":"Neutral"}
+,{"time":"8:08","usr":"firstadopter","txt":"If $AMZN decides to under-price ebooks below cost again & further destroy their profitability good luck going into price war w/ $AAPL $GOOG","lbl":"Negative"}
+,{"time":"8:44","usr":"USwwwStocks","txt":"$GOOG News: Apple: Jefferies Ups Target to $800 on the \u0027iPanel\u0027 http://t.co/Mr79Scnv #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"8:44","usr":"USwwwStocks","txt":"$GOOG News: Make Yahoo Sticky http://t.co/WfD1dGx3 #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"8:48","usr":"tara_south","txt":"10 Things You Need To Know This #Morning $AAPL $GOOG $YHOO http://t.co/4OYT9sic #in","lbl":"Neutral"}
+,{"time":"9:46","usr":"I_am_funny_one","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/JRrgIO6R #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"9:47","usr":"jonzobrist","txt":"RT @andrewbaron: My goodness, I think as early as today, if not, next week, $aapl will pass $goog on share price. $aapl is $626.00, $goog is $631.00.","lbl":"Neutral"}
 ,{"time":"9:50","usr":"igrowthinvest","txt":"I have swapped $goog for -2.5% for $ebay. $ebay stop is around 34.80sh. Current longs $v $ebay $bidu $$","lbl":"Negative"}
+,{"time":"9:52","usr":"wallstCS","txt":"Uh, Google Glasses is NOT a Foregone Conclusion for Home Run Status http://t.co/5I4lIspd $GOOG $AAPL $MSFT $FB $ADBE $Z #fb #tech","lbl":"Neutral"}
 ,{"time":"10:45","usr":"Rico_NoSuave","txt":"RT @SAI: THE GOOGLE INVESTOR: You Won\u0027t Believe How Much Google Makes Per Android Device $GOOG by @hleonard76 http://t.co/HTGDvYpl","lbl":"Positive"}
+,{"time":"10:47","usr":"lluccipha","txt":"SAI: THE GOOGLE INVESTOR: You Won\u0027t Believe How Much Google Makes Per Android Device $GOOG by @hleonard76 http://t.co/QcxjRupl","lbl":"Neutral"}
+,{"time":"10:48","usr":"marcbowers7","txt":"RT @SAI: THE GOOGLE INVESTOR: You Won\u0027t Believe How Much Google Makes Per Android Device $GOOG by @hleonard76 http://t.co/HTGDvYpl","lbl":"Neutral"}
+,{"time":"10:49","usr":"_ChrisVersace","txt":"Could this be it for Nokia? \u201C@appletweets: Walt Mossberg picks iPhone over Lumia 900: $AAPL $NOK $GOOG $MSFT $MMI","lbl":"Neutral"}
+,{"time":"11:26","usr":"jonasQuinn23","txt":"@LuceRichard1 almost deadeven with $GOOG at $633 ish $AAPL","lbl":"Neutral"}
+,{"time":"11:26","usr":"JTIZZL3","txt":"$AAPL p/e 17.98 $GOOG p/e 21.21","lbl":"Neutral"}
+,{"time":"11:28","usr":"i8and8","txt":"Wow, $AAPL may surpass $GOOG today","lbl":"Neutral"}
 ,{"time":"11:36","usr":"SmokeHogan","txt":"RT @9to5mac: \u201C@dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/SZcHgajZ\u201D Meaningless! But still interesting to note","lbl":"Negative"}
+,{"time":"11:36","usr":"OliDobbs","txt":"$AAPL now north of $GOOG and $624.. Booyah!","lbl":"Neutral"}
+,{"time":"11:36","usr":"SteveStreza","txt":"Woah. $AAPL now has a higher per-share price than $GOOG.","lbl":"Neutral"}
+,{"time":"11:36","usr":"colemanti","txt":"RT @9to5mac: \u201C@dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/l2p02Soz\u201D Meaningless! But still interesting to note","lbl":"Neutral"}
 ,{"time":"11:40","usr":"dmackdaddy","txt":"We have Apple passing Google folks! RT @pdparticle: Boom! $AAPL $GOOG http://t.co/auMu4qRH","lbl":"Negative"}
+,{"time":"11:41","usr":"moe1903","txt":"RT @SteveStreza: Woah. $AAPL now has a higher per-share price than $GOOG.","lbl":"Neutral"}
+,{"time":"11:41","usr":"sehajismyname","txt":"$AAPL > $GOOG. http://t.co/OjLFAPEk #Apple","lbl":"Neutral"}
+,{"time":"11:41","usr":"OliDobbs","txt":"RT @MNYCx: $AAPL ahead of $GOOG for the first time in history","lbl":"Neutral"}
 ,{"time":"11:50","usr":"mchowelltime","txt":"\u201C@MNYCx: $AAPL ahead of $GOOG for the first time in history\u201D @Guerillaboy too the moon!!!","lbl":"Negative"}
+,{"time":"11:50","usr":"DaniChri15","txt":"$AAPL just passed $GOOG","lbl":"Neutral"}
+,{"time":"11:50","usr":"michaelsayman","txt":"RT @dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/dH53RZ4g","lbl":"Neutral"}
+,{"time":"11:51","usr":"pettybooshwah","txt":"RT @dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/dH53RZ4g","lbl":"Neutral"}
+,{"time":"12:14","usr":"MNYCx","txt":"Too bad, $AAPL doesn\u0027t seem able to hold above $GOOG pps today. Maybe Monday.","lbl":"Neutral"}
+,{"time":"12:15","usr":"bricktop13","txt":"I bot $VRNG yesterday based on all the pre trial catalysts beginning next week & into June. (Opening briefs for $AOL & $GOOG due 4/12)","lbl":"Neutral"}
+,{"time":"12:15","usr":"ChrisWong7","txt":"RT @SteveStreza: Woah. $AAPL now has a higher per-share price than $GOOG.","lbl":"Neutral"}
 ,{"time":"12:18","usr":"cwaikman","txt":"RT @businessinsider: Hey Google: Here\u0027s Proof People Don\u0027t Want To Wear Computers On Their Faces $GOOG by @MattRosoff http://t.co/30aLA5zi","lbl":"Negative"}
 ,{"time":"12:47","usr":"bd7349","txt":"RT @9to5mac: \u201C@dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/l2p02Soz\u201D Meaningless! But still interesting to note","lbl":"Negative"}
+,{"time":"12:47","usr":"Tunde_IO","txt":"RT @ReutersLegal: #Viacom video lawsuit vs #Google\u0027s YouTube revived http://t.co/BNnPLrW8 $GOOG $VIA","lbl":"Neutral"}
+,{"time":"12:47","usr":"ChicagoDiane","txt":"Fun history and stories of Google by Google employee #11, Omid Kordestani. $GOOG #fb http://t.co/w7chEtwN","lbl":"Neutral"}
 ,{"time":"12:48","usr":"BlueFielder","txt":"$GooG Short now working well - Pin the tail","lbl":"Negative"}
 ,{"time":"13:24","usr":"P1pBoy","txt":"@MNYCx @tlmontana MNYC loves $GOOG puts","lbl":"Negative"}
 ,{"time":"13:25","usr":"MNYCx","txt":"@P1pBoy @tlmontana please stop spamming with those, we get it, you have $GOOG Puts. And no i don\u0027t like them today, bouncing now","lbl":"Positive"}
+,{"time":"13:26","usr":"benny_the_dogs","txt":"Google X research facility and its secret projects http://t.co/0tsT72oG #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"13:26","usr":"AGFELPASO","txt":"RT @michellemalkin Huh. RT @SAI: Twitter\u0027s New Communications Chief Has Never Used Twitter $GOOG by @mattlynley http://t.co/SsCThHik","lbl":"Neutral"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/94, $NDAQ/68, $GOOG/52, $SPY/45, $GS/23, $BAC/15, $PCLN/13, $GLD/12. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:05","usr":"RamyKhodeir","txt":"RT @SAI: Twitter\u0027s New Communications Chief Has Never Used Twitter $GOOG by @mattlynley http://t.co/By37XiJV","lbl":"Neutral"}
 ,{"time":"14:05","usr":"Catwoman2011","txt":"$AAPL What a thoroughbred racehorse! Levels off @ ATH going into long wknd, 4/24 ER & Beating $GOOG. Can\u0027t get more bullish than that. =^.^=","lbl":"Negative"}
+,{"time":"14:52","usr":"andreacarioni","txt":"RT @businessinsider: Larry Page Just Put Out A Big Manifesto \u2014 Read The Full Thing Here $GOOG by @mattlynley http://t.co/KvjR7u5X","lbl":"Neutral"}
+,{"time":"14:53","usr":"madquad10","txt":"RT @SAI: Larry Page Just Put Out A Big Manifesto \u2014 Read The Full Thing Here $GOOG by @mattlynley http://t.co/AyPl4MMg","lbl":"Neutral"}
+,{"time":"14:54","usr":"iamKenwell","txt":"RT @SAI: Larry Page Just Put Out A Big Manifesto \u2014 Read The Full Thing Here $GOOG by @mattlynley http://t.co/AyPl4MMg","lbl":"Neutral"}
 ,{"time":"15:27","usr":"EHYH2010","txt":"@LaMonicaBuzz yeah, and we $AAPL investors will spend a long weekend looking down to $GOOG... couldn\u0027t happen in a better time.","lbl":"Negative"}
+,{"time":"15:28","usr":"lluccipha","txt":"SAI: 350,000,000 $GOOG by @mattlynley http://t.co/rk2SgaDG","lbl":"Neutral"}
+,{"time":"15:30","usr":"holaMau","txt":"$633 vs. $632 $AAPL vs. $GOOG It happened today. [pic] \u2014 http://t.co/zhRi66Et","lbl":"Neutral"}
 ,{"time":"16:11","usr":"TraderMichigan","txt":"I\u0027m guessing if $GOOG had charged for android OS they\u0027d be up w $AAPL RT @Reuters_Biz Google CEO touts gains, focuses on long term bets","lbl":"Negative"}
+,{"time":"16:14","usr":"urbinarestrepo","txt":"The last Page letter underlines $GOOG\u2019s interest in developing a #Hardware business. Google clearly has more in mind than just #Patents...","lbl":"Neutral"}
+,{"time":"16:15","usr":"drjhwang","txt":"How To Escape The Innovator\u0027s Dilemma: @ajkeen asks @ClayChristensen about healthcare, education, $AAPL, $GOOG http://t.co/UhQujcXo #InnoRx","lbl":"Neutral"}
 ,{"time":"16:43","usr":"lluccipha","txt":"SAI: Google Can\u0027t Even Get Its Own Nexus Phones Updated On Time $GOOG $S by @stevekovach http://t.co/tljpjN2M","lbl":"Negative"}
+,{"time":"16:44","usr":"JollyRobotics","txt":"Finally $AAPL closes above $GOOG. I should have picked up $GOOG when MF Inside Value told me to.","lbl":"Neutral"}
+,{"time":"16:45","usr":"ulbaroi","txt":"RT @MarketWatch: Google CEO expects to build \u0022great devices\u0022 with Motorola http://t.co/DJkGEaGW $GOOG","lbl":"Neutral"}
+,{"time":"16:45","usr":"businessinsider","txt":"Some Mysterious Details From Someone Claiming To Work On Google\u0027s Computerized Glasses $GOOG by @mattlynley http://t.co/0fsZ7b0s","lbl":"Neutral"}
+,{"time":"18:05","usr":"StocialTrends","txt":"Daily Trending Social Volume: $AAPL/1241, $GOOG/499, $SPY/434, $GLD/143, $GS/142, $PCLN/121, $BBBY/115. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"18:06","usr":"thefinancepress","txt":"$GOOG The Zacks Analyst Blog Highlights: Oracle, Google, Apple, Microsoft and ...: The Zacks Analyst Blog Highl... http://t.co/6HX8WQkI","lbl":"Neutral"}
+,{"time":"18:07","usr":"JoeLeeCdn","txt":"RT @MarketWatch: Google CEO expects to build \u0022great devices\u0022 with Motorola http://t.co/DJkGEaGW $GOOG","lbl":"Neutral"}
+,{"time":"18:08","usr":"clusterfade","txt":"RT @9to5mac: \u201C@dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/l2p02Soz\u201D Meaningless! But still interesting to note","lbl":"Neutral"}
 ,{"time":"20:45","usr":"jrstock97","txt":"RT @9to5mac: \u201C@dougmorton: $AAPL just passed $GOOG @9to5mac @markgurman http://t.co/l2p02Soz\u201D Meaningless! But still interesting to note","lbl":"Negative"}
+,{"time":"20:46","usr":"WilliamK82","txt":"RT @thefinancepress: $GOOG Closing Prices: Apple $633, Google $632 (AAPL, GOOG): Closing Prices: Apple $633, Google $632 (AAPL, GOOG... http://t.co/D4JZGr4B","lbl":"Neutral"}
+,{"time":"20:51","usr":"nadzontwit","txt":"RT @SAI: Closing Prices: Apple $633, Google $632 $AAPL $GOOG by @MattRosoff http://t.co/Nog9TfyA","lbl":"Neutral"}
+,{"time":"20:52","usr":"RamP","txt":"RT @SAI: Closing Prices: Apple $633, Google $632 $AAPL $GOOG by @MattRosoff http://t.co/Nog9TfyA","lbl":"Neutral"}
 ]

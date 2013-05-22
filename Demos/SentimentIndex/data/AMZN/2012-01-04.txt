@@ -1,8 +1,19 @@
 [
 {"time":"3:25","usr":"ewmpsi","txt":"$AMZN is killing Best Browse $BBY crushing Sony Nook and reeling in market share on streaming content with Kindle Fire, I like leap calls!","lbl":"Positive"}
+,{"time":"7:17","usr":"hakimism","txt":"RT @SAI: Huge Web Companies Are Willing To Go Dark In Protest Of SOPA $AMZN $GOOG $YHOO $EBAY by @_dtl http://t.co/Jyj82xkq","lbl":"Neutral"}
+,{"time":"7:24","usr":"SA_GOOG","txt":"Wall Street Breakfast: Must-Know News http://t.co/gq1x7jJI $APO $QQQ $USO $GLD $SPY $AMZN $BP $CVX $EBAY $EK $EP $GOOG $KMI $LIZ","lbl":"Neutral"}
+,{"time":"7:24","usr":"SA_Market","txt":"Wall Street Breakfast: Must-Know News http://t.co/PM0Q5RMs $APO $QQQ $USO $GLD $SPY $AMZN $BP $CVX $EBAY $EK $EP $GOOG $KMI $LIZ","lbl":"Neutral"}
 ,{"time":"9:14","usr":"CoveredbyCalls","txt":"Holdings to start the year $SINA $POT $GE $AMZN $CF http://t.co/xsBCRhMn","lbl":"Positive"}
+,{"time":"9:15","usr":"keciatuotierney","txt":"SMALLCAP TRADING TRICK - MAKES YOU 100-200% GAINS PER WEEK http://t.co/Y7AkyPhq $USO $AMZN $PSID $LNKD $IWM $CORN $ACFN $EZU zi","lbl":"Neutral"}
+,{"time":"9:16","usr":"yigalgrayeff","txt":"Commented on: \u0022Wall Street Breakfast: Must-Know News\u0022 http://t.co/ns91cPNy $APO $QQQ $USO $GLD $SPY $AMZN $BP $CVX $EBAY $EK $EP $GOOG","lbl":"Neutral"}
 ,{"time":"10:50","usr":"stocktrader1742","txt":"RT @FoxBusiness: Analysts say Amazon\u0027s Kindle Fire may have cost Apple well over $1 billion in holiday iPad sales http://t.co/Wmntjeo8 $AMZN $AAPL","lbl":"Positive"}
+,{"time":"13:05","usr":"RoccoPendola","txt":"2 Media Stocks To Avoid, 3 To Consider - Seeking Alpha http://t.co/IkcYyc99 $AAPL $AMZN $ATVI $DMD $GOOG $NFLX $S $T $ZNGA #media #Apple","lbl":"Neutral"}
 ,{"time":"14:33","usr":"andrew_falde","txt":"$AMZN holding above 176. Watching 180 closely for confirmation of trend reversal.","lbl":"Positive"}
+,{"time":"15:31","usr":"AMZN_stock","txt":"$AMZN real time quote, 3:31PM EST: 177.55 -1.48 (-0.83%).","lbl":"Neutral"}
 ,{"time":"16:23","usr":"agwarner","txt":"Get your $VXX Ebook mini fix. \u0022Trading Volatility ETFs\u0022 by me on $AMZN http://t.co/Cjdf6i6b","lbl":"Positive"}
+,{"time":"16:24","usr":"troll1184","txt":"RT @agwarner: Get your $VXX Ebook mini fix. \u0022Trading Volatility ETFs\u0022 by me on $AMZN // got it","lbl":"Neutral"}
+,{"time":"16:26","usr":"wsmco","txt":"RT @agwarner: Get your $VXX Ebook mini fix. \u0022Trading Volatility ETFs\u0022 by me on $AMZN http://t.co/DorPKIls /brilliant guy you can learn from","lbl":"Neutral"}
+,{"time":"17:31","usr":"AMZN_stock","txt":"$AMZN after hours quote, 5:14PM EST: 177.64 +0.13 (+0.07%).","lbl":"Neutral"}
+,{"time":"17:32","usr":"stocial","txt":"60 minute Trending Social Volume: $NFLX/22, $AAPL/22, $F/19, $SPY/18, $MOS/17, $YHOO/13, $EK/11, $AMZN/11. http://t.co/DHnV02ws","lbl":"Neutral"}
 ,{"time":"19:14","usr":"mike_tweets","txt":"@carmelsurfer - looks like $AMZN broke through the upper trend line in AH - close @ 177.90. + Tim\u0027s reccomdtion @cnbcfastmoney - shd surge","lbl":"Positive"}
 ]

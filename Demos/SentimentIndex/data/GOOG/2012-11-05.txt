@@ -1,14 +1,68 @@
 [
 {"time":"1:40","usr":"phisher12","txt":"Vringo Vs. Google: Past And Future Infringement http://t.co/g07uwifR $GOOG $VRNG","lbl":"Negative"}
+,{"time":"1:41","usr":"thefinancepress","txt":"$GOOG Trial Of Apple (AAPL) Google (GOOG) FRAND Lawsuit May Face Cancellation: Trial Of Apple (AAPL) Google (GO... http://t.co/KozdK6dX","lbl":"Neutral"}
+,{"time":"1:53","usr":"DaveCV100","txt":"\u201C@mashable: 100K #Android Apps in @Google Play Are \u0027Suspicious\u0027 [INFOGRAPHIC] http://t.co/WFOhq5zt\u201D $aapl $goog","lbl":"Neutral"}
+,{"time":"1:55","usr":"USwwwStocks","txt":"$GOOG News: Brand Hijacking Means Romney\u0027s Voters Confused With Obama http://t.co/jmm22bRs #Brand #Confused #GOOG","lbl":"Neutral"}
 ,{"time":"7:45","usr":"BigTicks","txt":"$GOOG News: Google Inc & Rosetta Stone Inc Settle Lawsuit; Agree To Collaborate In Fight Against http://t.co/nBasUPkS #GOOG #Against #agree","lbl":"Negative"}
+,{"time":"9:02","usr":"LimitBuyer","txt":"Watching: $AAPL, $EXPE, $PCLN, $NFLX, $SBUX, $GOOG amongst others. BTW - Don\u0027t forget to #VOTE tomorrow!","lbl":"Neutral"}
+,{"time":"9:03","usr":"danielhsqr","txt":"@carlquintanilla @SquawkStreet sure, but less confusing than the no data from $amzn, $goog, $msft on their tablet sales","lbl":"Neutral"}
+,{"time":"9:06","usr":"KBThePres","txt":"It only took $AAPL 3 days to do 3 times what $GOOG did in 3-4 months. And then you hear talk about Apple being in trouble...SMH","lbl":"Neutral"}
+,{"time":"9:55","usr":"NickInman_","txt":"Watch me trade Nasdaq Futures Live: http://t.co/ApEgctFL $NQ_F $QQQ $AAPL $GOOG $ES_F","lbl":"Neutral"}
+,{"time":"10:00","usr":"wallstCS","txt":"Who is Apple Trying to Please With the iPad Mini? http://t.co/vZ9QaNkz $AAPL $AMZN $GOOG $BKS #stocks #trading","lbl":"Neutral"}
+,{"time":"10:36","usr":"StockMarket411","txt":"How Your Android Phone Can Help You Find Gas In New York Without Getting Ripped Off $goog http://t.co/vqelwxf0 goog, google, google stock...","lbl":"Neutral"}
+,{"time":"10:37","usr":"Astralix","txt":"RT @SAI_Tools: Samsung Says It Sold 30 Million Galaxy S III Phones In Five Months $GOOG by @meganrosedickey http://t.co/AStCoNeM","lbl":"Neutral"}
 ,{"time":"10:39","usr":"GnomishMath","txt":"@bobs_tweet True, but $GOOG way to big of a beast to trade a clean lot at the moment & I don\u0027t like loose shares :( GL should you play it!","lbl":"Negative"}
+,{"time":"11:13","usr":"LaMonicaBuzz","txt":"Maybe Marissa Mayer should run for president someday? Heh. Yahoo hits another 52-week high. Up more than 10% since she left $GOOG for $YHOO.","lbl":"Neutral"}
 ,{"time":"11:15","usr":"elliottwavelive","txt":"$GOOG down hard after a corrective 3 $$","lbl":"Negative"}
+,{"time":"11:16","usr":"kgaurav106","txt":"RT @SAI: Samsung Says It Sold 30 Million Galaxy S III Phones In Five Months $GOOG by @meganrosedickey http://t.co/ABYIOtQ0","lbl":"Neutral"}
+,{"time":"11:17","usr":"ikonictonic","txt":"RT @SAI: Google Explains Why It Doesn\u0027t Have As Many Tablet Apps As Apple Does For The iPad $GOOG $AAPL by @stevekovach http://t.co/GrNvuUeH","lbl":"Neutral"}
+,{"time":"12:00","usr":"m_bourkel","txt":"RT @SAI: Apple Probably Won\u0027t Approve A Google Maps App For iOS Anytime Soon $AAPL $GOOG by @meganrosedickey http://t.co/2SgFCGaU","lbl":"Neutral"}
+,{"time":"12:00","usr":"markgeller","txt":"The jury in the $VRNG trial w/ $GOOG has asked for instructions calculating damages. How much could they win? http://t.co/vB2AQfct","lbl":"Neutral"}
+,{"time":"12:01","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $TWC +29%, $WAG +11%, $AAPL +3%, $GOOG -7%, $HUM -7%, $AMZN -7% http://t.co/uBJyhJcD","lbl":"Neutral"}
 ,{"time":"12:49","usr":"TuckArthur","txt":"RT @SAI: Apple Probably Won\u0027t Approve A Google Maps App For iOS Anytime Soon $AAPL $GOOG by @meganrosedickey http://t.co/2SgFCGaU","lbl":"Negative"}
+,{"time":"12:50","usr":"TuckArthur","txt":"RT @SAI: Apple\u0027s Decision To Not Say How Many iPad Minis It Sold Is Pure Bologna $AAPL $GOOG $MSFT $AMZN by @jyarow http://t.co/VOqAQOGg","lbl":"Neutral"}
 ,{"time":"12:50","usr":"johndavidadams","txt":"Horray $goog MT @TechCrunch Report: Google Maps For iOS Will Be Ready By End Of Year http://t.co/suQuHRSI","lbl":"Positive"}
+,{"time":"13:32","usr":"EXPstocktrader","txt":"$GOOG Defends Hard-Nosed Patent Fees in $MSFT, @AAPL Trials http://t.co/S9wUH4j7 -- Goog a patent troll w Motorola patents?","lbl":"Neutral"}
 ,{"time":"13:32","usr":"StockMarket411","txt":"Google slammed by disappointing earnings $goog http://t.co/PHL1UY1y goog, google, google stock, news","lbl":"Negative"}
+,{"time":"14:08","usr":"HamzeiAnalytics","txt":"RT @Reuters: Google says Apple patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:09","usr":"lifeofmshaba","txt":"RT @Reuters: Google Inc. says Apple Inc. patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:09","usr":"NATAMUR10","txt":"RT @Reuters: Google Inc. says Apple Inc. patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:09","usr":"lynnnayko","txt":"RT @Reuters: Google Inc. says Apple Inc. patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:13","usr":"the_gadgeteur","txt":"RT @Reuters: Google Inc. says Apple Inc. patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:13","usr":"TablinumOy","txt":"RT @SAI: A Top Android Executive Admits Google Bought Motorola For The Patents $GOOG by @owenthomas http://t.co/Bvs4P1dO","lbl":"Neutral"}
+,{"time":"14:14","usr":"ringoarce","txt":"RT @SAI_Tools: A Top Android Executive Admits Google Bought Motorola For The Patents $GOOG by @owenthomas http://t.co/U3KVr0o2","lbl":"Neutral"}
+,{"time":"14:14","usr":"michaelkasdan","txt":"RT @Reuters: Google Inc. says Apple Inc. patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"14:28","usr":"ppprophet","txt":"SELL $GOOG The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
+,{"time":"14:29","usr":"JBling13","txt":"$GOOG news \u0022Google says Apple patent lawsuit dismissed\u0022","lbl":"Neutral"}
+,{"time":"14:29","usr":"zoghedge","txt":"RT @businessinsider: A Top Android Executive Admits Google Bought Motorola For The Patents $GOOG by @owenthomas http://t.co/seiojdda","lbl":"Neutral"}
+,{"time":"14:29","usr":"JBling13","txt":"http://t.co/V8d6AWjJ $GOOG","lbl":"Neutral"}
+,{"time":"14:43","usr":"johnacraft","txt":"RT @Reuters: Google says Apple patent lawsuit dismissed http://t.co/By0i7mao $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:43","usr":"r_scudiere","txt":"RT @Reuters: Google Inc. says Apple Inc. patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:43","usr":"Death_Dealer3","txt":"RT @Reuters: Google says Apple patent lawsuit dismissed http://t.co/By0i7mao $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"15:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG Sentiment decreases: -8% http://t.co/HYmEmFBp","lbl":"Negative"}
+,{"time":"15:00","usr":"Minyanville","txt":"Microsoft\u0027s Surface Is Doing Well, but the Pro Edition May Secure Its Future $MSFT $SSNLF $AAPL $GOOG http://t.co/I7QnIUt9","lbl":"Neutral"}
+,{"time":"15:01","usr":"YYkay2","txt":"RT @Reuters: Google says Apple patent lawsuit dismissed http://t.co/By0i7mao $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"15:01","usr":"noe96743","txt":"RT @Reuters: Google Inc. says Apple Inc. patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"15:26","usr":"JonMarino","txt":"I\u0027m at least 50% certain someone at $GOOG went \u0022How bout dem apples??\u0022 after this came out http://t.co/o6cLt3eL #thermonuked","lbl":"Neutral"}
+,{"time":"15:27","usr":"scalamai","txt":"Really? :) RT @businessinsider: A Top #Android Executive Admits #Google Bought #Motorola For The Patents $GOOG http://t.co/43Bru0CA","lbl":"Neutral"}
+,{"time":"15:27","usr":"Smitty2zero","txt":"RT @Reuters: Google says Apple patent lawsuit dismissed http://t.co/By0i7mao $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"15:29","usr":"tradingview","txt":"$GOOG chart by @guttrader: http://t.co/WLOuH8kM Sell Signal Detected .","lbl":"Neutral"}
+,{"time":"16:13","usr":"giuliohome","txt":"RT @businessinsider: Happy Fifth Birthday, Android! $GOOG by @_dtl http://t.co/L2xU8lL3","lbl":"Neutral"}
+,{"time":"16:16","usr":"BrianSozzi","txt":"@rickthehard @jimcramer @TSTRealMoney: Really gotta go back and look at Motorola\u0027s patent portfolio for that call $GOOG","lbl":"Neutral"}
+,{"time":"16:20","usr":"MarketCurrents","txt":"A U.S. federal judge has thrown out an Apple (AAPL +1.4%) suit against Motorola Mobility (GOOG ... http://t.co/X1Dv64Y6 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:22","usr":"ProperNig","txt":"RT @SAI: Samsung Says It Sold 30 Million Galaxy S III Phones In Five Months $GOOG by @meganrosedickey http://t.co/ABYIOtQ0","lbl":"Neutral"}
+,{"time":"17:47","usr":"zevallos","txt":"Apple Only Has 50% Of The Tablet Market Now $AAPL $GOOG $AMZN by @jyarow http://t.co/LuBkXn2p","lbl":"Neutral"}
+,{"time":"17:52","usr":"thefinancepress","txt":"$GOOG Demand Media reports record revenue and profit: Demand Media reports record revenue and profit Reuters - ... http://t.co/BUTSdTEC","lbl":"Neutral"}
+,{"time":"17:52","usr":"USwwwStocks","txt":"$GOOG News: Google Defends Patent Fees in Microsoft, Apple Trials http://t.co/fi8zzFUP #Apple #Defends #Fees","lbl":"Neutral"}
+,{"time":"17:52","usr":"lucgiguere","txt":"RT @SAI: Happy Fifth Birthday, Android! $GOOG by @_dtl http://t.co/Od0UHUQP","lbl":"Neutral"}
+,{"time":"19:02","usr":"upsidetrader","txt":"Romney/Obama is the new $GOOG/ $VRNG for the next 24 hours","lbl":"Neutral"}
+,{"time":"19:05","usr":"philoutweet4u","txt":"Vringo, Google, And The Curious Citizens Of Norfolk, Virginia http://t.co/TA51Vb9p $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"19:06","usr":"pennystockguys","txt":"$GOOG - Correction to Google-Apple Patent Suit Story http://t.co/gFTNQYK8","lbl":"Neutral"}
+,{"time":"20:40","usr":"QuantRec","txt":"Tim Mcglone from Pilot, VA Back At It Again $VRNG $GOOG http://t.co/L2fpd3RI","lbl":"Neutral"}
+,{"time":"20:52","usr":"KarSun01","txt":"RT @StockTwits: Momentum Monday - We are Back...SANDY, Apple, Generators and more Trends... http://t.co/wjUzqFcs via @howardlindzon $GOOG $AAPL $AMZN $IBM","lbl":"Neutral"}
 ,{"time":"20:57","usr":"TheTradersBias","txt":"$GOOG holding 675.00 support support #nasdaq","lbl":"Positive"}
 ,{"time":"23:35","usr":"HCPG","txt":"Like the new gmail interface with being able to write email in same screen -- v cool. $GOOG","lbl":"Positive"}
+,{"time":"23:36","usr":"michellefenton","txt":"$APPL $GOOG NewsGator Social inSites Blog: iPad Mini vs Nexus 7 - Game On! http://t.co/TbqNp5LB via @sharethis","lbl":"Neutral"}
 ,{"time":"23:37","usr":"Lo_trading","txt":"RT @HCPG: Like the new gmail interface with being able to write email in same screen -- v cool. $GOOG","lbl":"Positive"}
+,{"time":"23:44","usr":"mzsm_j","txt":"$goog $aapl $mmm","lbl":"Neutral"}
 ]

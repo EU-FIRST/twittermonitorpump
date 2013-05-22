@@ -1,13 +1,34 @@
 [
-{"time":"8:44","usr":"DPDResearch","txt":"I like the new $GOOG finance layout. aesthetically pleasing.","lbl":"Positive"}
+{"time":"1:35","usr":"__daz__","txt":"RT @SAI: CHART OF THE DAY: Even At $21, Facebook Is Still Overpriced $FB $AMZN $LNKD $AAPL $GOOG by @jyarow http://t.co/LCU8OqTP","lbl":"Neutral"}
+,{"time":"1:45","usr":"FOCUS_ON_RISK","txt":"$GOOG about to make a huge move. LEAP Strangles worth a look. Sucks how big the spreads are so leg in... http://t.co/Wgnhes5X #WORDEN","lbl":"Neutral"}
+,{"time":"6:52","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs, Maxim price target $3.35! #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$s,$gs,$tgt,$wmt","lbl":"Neutral"}
+,{"time":"6:53","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs, Maxim price target $3.35! #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$s,$gs,$soda,$s","lbl":"Neutral"}
+,{"time":"6:58","usr":"meggybear1","txt":"RT @choffman1978: $SIRI (SirusXM) SURGING to NEW 52w highs, Maxim price target $3.35! #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$s,$gs,$soda,$s","lbl":"Neutral"}
+,{"time":"6:59","usr":"hendrahasym","txt":"RT ahh\u0022@candra_0: $GOOG\u0022","lbl":"Neutral"}
+,{"time":"8:44","usr":"DPDResearch","txt":"I like the new $GOOG finance layout. aesthetically pleasing.","lbl":"Positive"}
+,{"time":"8:45","usr":"businessinsider","txt":"Here\u0027s Who You Can Blame For The Crashing, Lagging Live Streams Of The Olympics $CMCSA $GOOG by @jyarow http://t.co/P1gCD4NS","lbl":"Neutral"}
+,{"time":"8:45","usr":"BISportsPage","txt":"Here\u0027s Who You Can Blame For The Crashing, Lagging Live Streams Of The Olympics $CMCSA $GOOG by @jyarow http://t.co/CRz2T5we","lbl":"Neutral"}
+,{"time":"8:45","usr":"SAI_Media","txt":"Here\u0027s Who You Can Blame For The Crashing, Lagging Live Streams Of The Olympics $CMCSA $GOOG by @jyarow http://t.co/bRNHCKWJ","lbl":"Neutral"}
 ,{"time":"10:08","usr":"NyczDav1d","txt":"RT @CNBC: Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple\u0027s Safari browser.","lbl":"Negative"}
 ,{"time":"10:08","usr":"JetFlyFendii_15","txt":"RT @CNBC: Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple\u0027s Safari browser.","lbl":"Negative"}
 ,{"time":"10:08","usr":"breezeeluv","txt":"RT @CNBC: Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple\u0027s Safari browser.","lbl":"Negative"}
 ,{"time":"10:08","usr":"Cmds_Simba","txt":"RT @CNBC: Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple\u0027s Safari browser.","lbl":"Negative"}
 ,{"time":"10:39","usr":"Daniel_Aaron17","txt":"$GOOG which we sold at $615 continues to trade well here at $644. While we booked profits early clearly, I would not be a buyer here. (1/2)","lbl":"Positive"}
+,{"time":"10:40","usr":"milehighfool","txt":"I\u0027ve subbed #Safari for @googlechrome for the moment. #Flash malfunctions too frequent on #OSX. $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"10:42","usr":"Daniel_Aaron17","txt":"$GOOG does not do a good job managing the cash on it\u0027s balance sheet and when the CEO is sick and we don\u0027t get the details, it only.. (1/2)","lbl":"Negative"}
 ,{"time":"11:21","usr":"BAMinvestor","txt":"$GOOG model remains bearish and we would fade any further strength. Downside is about 16% w/ that fast-market retest level at 530","lbl":"Negative"}
+,{"time":"11:22","usr":"Opinterest","txt":"In $AAPL vs. $GOOG battle, three of the four Fast Money traders plus the guest analyst would rather buy Apple over Google #TimeStamp","lbl":"Neutral"}
 ,{"time":"11:24","usr":"thefinancepress","txt":"$GOOG Google to Pay $22.5 Million to Settle FTC Privacy Charges: Google to Pay $22.5 Million to Settle FTC Priv... http://t.co/5m0dDvmo","lbl":"Negative"}
+,{"time":"12:51","usr":"dslevy","txt":"Anybody else notice #chrome seems much slower on #mountainlion? Just tried #safari and seems much faster.... $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"12:52","usr":"LaramieDunlap","txt":"Ok here\u0027s the update: long $GOOG puts, AAPL putspread, ESU12 short at 1399.75. #tightstops","lbl":"Negative"}
+,{"time":"12:52","usr":"ivladdalvi","txt":"When I click $YNDX, $FB, $GOOG, I really expect to see at least company profile/twitter link and shares sparkline above the search results.","lbl":"Neutral"}
+,{"time":"13:51","usr":"param_shah","txt":"RT @businessinsider: Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/EdrOruMD","lbl":"Neutral"}
+,{"time":"13:56","usr":"kelvin_freeze","txt":"RT @ForbesTech: how might the $AAPL vs $GOOG vs Twitter wars play out on TV? @akosner works thru the new social screen era http://t.co/AzrYdYjk","lbl":"Neutral"}
+,{"time":"13:58","usr":"numberonetell","txt":"This goes out to the EOD trading in $GOOG , psst it\u0027s what I\u0027m hoping for. http://t.co/PBjwg9ml","lbl":"Neutral"}
+,{"time":"14:58","usr":"MaisAbusalah","txt":"\u0022@BI_Careers: We Knew Google Treated Its Employees Well, But This Is Something Beyond $GOOG by @_dtl http://t.co/m7EEsXmV\u0022","lbl":"Neutral"}
+,{"time":"14:59","usr":"lluccipha","txt":"SAI: We Knew Google Treated Its Employees Well, But This Is Something Beyond $GOOG by @_dtl http://t.co/mn3Fm5Gg","lbl":"Neutral"}
 ,{"time":"15:02","usr":"rcastle06","txt":"RT @SAI: We Knew Google Treated Its Employees Well, But This Is Something Beyond $GOOG by @_dtl http://t.co/RGRKVmzv","lbl":"Positive"}
+,{"time":"20:21","usr":"RSDTrading","txt":"Just passed a $GOOG self-driving car in Menlo Park. 1st non-Prius version I\u0027ve seen on the road. http://t.co/QJQh0tDW","lbl":"Neutral"}
+,{"time":"20:34","usr":"FeverishMiami","txt":"interesting...\u201C@richi: Google search to include your private Gmail soon? http://t.co/8V0MgAuV #ITBW for @computerworld by @richi $GOOG\u201D","lbl":"Neutral"}
+,{"time":"20:38","usr":"thenumb47","txt":"RT @RSDTrading: Just passed a $GOOG self-driving car in Menlo Park. 1st non-Prius version I\u0027ve seen on the road. http://t.co/QJQh0tDW","lbl":"Neutral"}
 ]

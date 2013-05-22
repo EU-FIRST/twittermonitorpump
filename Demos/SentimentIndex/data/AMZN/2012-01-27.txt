@@ -1,4 +1,15 @@
 [
-{"time":"9:39","usr":"SunriseTrader","txt":"showing strength my screens $BIDU $AMZN $IBM","lbl":"Positive"}
+{"time":"9:39","usr":"valuewalk","txt":"Morning News: #Facebook Reserves NYSE Ticker http://t.co/ZJbNYex6 $F $FB $XHB $CS $CP $RBS $CAT $EMN $SOA $AMZN","lbl":"Neutral"}
+,{"time":"9:39","usr":"SunriseTrader","txt":"showing strength my screens $BIDU $AMZN $IBM","lbl":"Positive"}
+,{"time":"9:41","usr":"FadetheBid","txt":"$AMZN & $FSLR putting on a show","lbl":"Neutral"}
+,{"time":"9:48","usr":"bramsal","txt":"$AMZN hit my target few minutes ago, but the order didn\u0027t fill!!!! #HateTOS","lbl":"Neutral"}
+,{"time":"10:35","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/63, $AAPL/60, $AMZN/31, $F/26, $STEM/24, $GOOG/21, $SBUX/20, $PG/19. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"10:45","usr":"jamescallahan","txt":"So $AMZN is a beast (again) this week... stretching toward 200 (but slowing today)...","lbl":"Neutral"}
+,{"time":"11:44","usr":"newrulesinvest","txt":"RT @SeekingAlpha: Why Amazon\u0027s High P/E Ratio Is Misleading http://t.co/OiLF3v6J $AMZN","lbl":"Neutral"}
 ,{"time":"12:24","usr":"leopardtrader","txt":"RT @leopardtrader Adding to $AMZN (185.5) to my swing from $170. All stops to 179. $AAPL $SPX>> remove 40% 195","lbl":"Positive"}
+,{"time":"13:28","usr":"SeekingAlpha","txt":"Will Microsoft\u0027s Mobile Strategy Lead To Its Revival? http://t.co/PqNeNwU4 $AAPL $NOK $AMZN $RIMM $GOOG $HP $MSFT","lbl":"Neutral"}
+,{"time":"14:20","usr":"SeekingAlpha","txt":"4 Stocks Making Headlines That Are Poised To Move http://t.co/Wa0WuJbM $AAPL $AMZN $ATML $CSCO $MSFT $MU $ORCL","lbl":"Neutral"}
+,{"time":"17:02","usr":"AMZN_stock","txt":"$AMZN after hours quote, 4:46PM EST: 195.53 +0.16 (+0.08%).","lbl":"Neutral"}
+,{"time":"20:01","usr":"AMZN_stock","txt":"$AMZN after hours quote, 7:31PM EST: 195.85 +0.48 (+0.25%).","lbl":"Neutral"}
+,{"time":"20:04","usr":"ryanmcdevitt","txt":"Too bad a team picked $AMZN for #STR421 project; this would have been a great exam case; every course topic is in here: http://t.co/ccGQ1DxN","lbl":"Neutral"}
 ]

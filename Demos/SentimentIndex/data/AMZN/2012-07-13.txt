@@ -1,8 +1,13 @@
 [
-{"time":"7:58","usr":"RoccoPendola","txt":"Jeff Bezos, Amazon a Half-Step Above \u0027Idiot?\u0027 - TheStreet http://t.co/IQ54SrLo via @TheStreet $AMZN","lbl":"Negative"}
+{"time":"1:00","usr":"SeekingAlpha","txt":"Amazon\u0027s Newest Victim: hhgregg http://t.co/qGd5IrBo $AAPL $AMD $AMZN $BBY $BKS $GOOG $SHLD $WHR $HGG","lbl":"Neutral"}
+,{"time":"7:58","usr":"RoccoPendola","txt":"Jeff Bezos, Amazon a Half-Step Above \u0027Idiot?\u0027 - TheStreet http://t.co/IQ54SrLo via @TheStreet $AMZN","lbl":"Negative"}
+,{"time":"9:14","usr":"johndavidadams","txt":"@mattgers $amzn innovates in NOVA... http://t.co/9DfYfyUz","lbl":"Neutral"}
+,{"time":"10:21","usr":"abnormalreturns","txt":"Friday (early) links: trade the plan, in search of fear and career advice from Nobel winners. http://t.co/gXj6uPno $VXX $COST $GLD $AMZN","lbl":"Neutral"}
 ,{"time":"10:21","usr":"kem312","txt":"The minute a CEO takes what an analyst thinks about what business they should be in is the exact moment I hit the sell button. $AMZN","lbl":"Negative"}
+,{"time":"11:57","usr":"Hephaestus7","txt":"@MrBobcastle I traded $AMZN and $AAPL today via options.","lbl":"Neutral"}
 ,{"time":"11:57","usr":"ECONgeek947","txt":"@jxf101 thats exactly Y $AMZN HULU & other competitors havent achieved scale. $NFLX 26m subs 2 prove demand for JUST streaming model","lbl":"Negative"}
 ,{"time":"14:57","usr":"FairOaksTrader","txt":"Short $AMZN and the Dow $DXD, long $GLD going into Monday. Light positions on all 3.","lbl":"Negative"}
 ,{"time":"15:00","usr":"LinkedInToday","txt":"An Amazon phone is smart business even if it loses money http://t.co/FtOkz9ua on @BW $AMZN","lbl":"Positive"}
 ,{"time":"17:27","usr":"Day1Solutions","txt":"RT @atul: Amazon same-day delivery: How the e-commerce giant will destroy local retail. - Slate Magazine $AMZN http://t.co/oIm6hWEg","lbl":"Positive"}
+,{"time":"17:28","usr":"ThePennyPlayer","txt":"Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
 ]

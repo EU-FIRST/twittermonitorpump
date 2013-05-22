@@ -1,14 +1,37 @@
 [
-{"time":"7:57","usr":"Nils1975","txt":"RT @thenotablecalls $GOOG - Sbern sees ex-TAC revenues of $7.83B vs $8.42B, thats below the low end of Street #\u0027s ->Benchmark lowered 2w ago","lbl":"Negative"}
+{"time":"5:30","usr":"SeekingAlpha","txt":"Google And The Future Of Search http://t.co/VsCWlGxS $MSFT $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"7:17","usr":"swissjohnny","txt":"RT @jonfortt: Consider: To make their no-profit hw strategies work, $GOOG & $AMZN probably need $AAPL to stay out of the sub-$300 tablet mkt","lbl":"Negative"}
+,{"time":"7:57","usr":"Nils1975","txt":"RT @thenotablecalls $GOOG - Sbern sees ex-TAC revenues of $7.83B vs $8.42B, thats below the low end of Street #\u0027s ->Benchmark lowered 2w ago","lbl":"Negative"}
 ,{"time":"8:00","usr":"scbgezwitscher","txt":"RT @thenotablecalls - $GOOG - \u0027If recent history is a good indicator, there is a risk that something similar wil... http://t.co/rvIBi1EO","lbl":"Negative"}
+,{"time":"8:35","usr":"choffman1978","txt":"FCC to $LMCA - NO? $SIRI #cnbc,#msnb,,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$bac,$fb,$aa,$pfe","lbl":"Neutral"}
+,{"time":"8:37","usr":"choffman1978","txt":"FCC likey to say NO to $LMCA?#cnbc,#msnb,,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$bac,$fb,$aa,$pfe","lbl":"Neutral"}
+,{"time":"8:37","usr":"choffman1978","txt":"$BMTI CAREFUL TREE SHAKE! #cnbc,#msnb,,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$bac,$fb,$aa,$pfe","lbl":"Neutral"}
 ,{"time":"9:05","usr":"TweetLeni","txt":"Good morning. A nice morning for shorts Added $AGU 89.67 to ag shorts. Still short $GOOG and $AXP Killed $ULTA long and $BIIB more later","lbl":"Negative"}
+,{"time":"9:07","usr":"choffman1978","txt":"$NFLX Up over 5%! #cnbc,#msnb,,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$bac,$fb,$aa,$pfe","lbl":"Neutral"}
+,{"time":"9:07","usr":"RobertWeinstein","txt":"Best Buy vs. Groupon: Deadliest Portfolio Killer - TheStreet http://t.co/r5ADYx3Y via @TheStreet $BBY $YHOO $EBAY $GRPN $AMZN $GOOG","lbl":"Neutral"}
 ,{"time":"9:51","usr":"cutloos","txt":"RT @SAI The Problem With Your Android Phone $GOOG by @stevekovach http://t.co/QC6jETIV","lbl":"Negative"}
 ,{"time":"9:51","usr":"Alohaintegrity","txt":"RT @SAI: The Problem With Your Android Phone $GOOG by @stevekovach http://t.co/Hu5ujMRF","lbl":"Negative"}
+,{"time":"10:35","usr":"topstocksmsn","txt":"All about stock splits, and ... ever wonder why Apple and Google are not in the Dow? http://t.co/KTSDVhmz $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"10:35","usr":"BlueFielder","txt":"$GooG looks horrible","lbl":"Negative"}
 ,{"time":"11:17","usr":"thefinancepress","txt":"$GOOG Google: Buy And Hold As Seeds Begin To Sprout: Google: Buy And Hold As Seeds Begin To Sprout Seeking Alph... http://t.co/3TKOjzJ3","lbl":"Positive"}
+,{"time":"11:20","usr":"barronstechblog","txt":"MSFT: Morgan Stanley Cuts FYQ4, Q1 View; Upside in Win8, Surface - Tech Trader Daily - $MSFT $AAPL $GOOG $AMZN http://t.co/IrHWwkXO","lbl":"Neutral"}
+,{"time":"11:22","usr":"choffman1978","txt":"$IPCI up 8% #cnbc,#msnb,,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$bac,$fb,$aa,$pfe","lbl":"Neutral"}
 ,{"time":"12:17","usr":"SunnyVegas360","txt":"I smell something funny in the market :-) $AAPL $GOOG The Big Tech is just getting rocked.","lbl":"Negative"}
+,{"time":"12:19","usr":"wallstCS","txt":"AT&T PUSHING Android \u0022Jelly Bean\u0022 and 3 Dow Movers Driving the Market http://t.co/XvP8OMI6 $PFE $T $GOOG $S $UTX $VZ #mkt","lbl":"Neutral"}
 ,{"time":"12:20","usr":"creditspread23","txt":"Oooh! $goog now u drop more! Serves me right for being too cautious on the put side exit2early! Grr!","lbl":"Negative"}
+,{"time":"12:56","usr":"optimistigal","txt":"RT @MarketWatch: Google\u0027s Nexus 7 tablet costs $152 to build, according to a teardown analysis by IHS http://t.co/mGdPYx1Z $GOOG","lbl":"Neutral"}
+,{"time":"12:56","usr":"Dasan","txt":"@ericjackson yes- I recall last Q when you highlighted the shift to mobile, lower CPC, great call on $GOOG by the way","lbl":"Neutral"}
+,{"time":"13:25","usr":"20100thibault","txt":"RT @jonfortt: Note: $GOOG, $RIMM, $AMZN & $MSFT all betting they\u0027ll succeed at $AAPL\u0027s integrated device model. If history\u0027s a guide, most won\u0027t","lbl":"Negative"}
+,{"time":"13:27","usr":"Minyanville","txt":"Best of the Blogs: Apple and Google Options Becoming More Popular Among Individual Investors http://t.co/28abkZt9 $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"14:15","usr":"Qwovadis","txt":"Commented on: \u0022Facebook: A Few Moves Could Make This A Golden $32 Stock\u0022 http://t.co/4hZjDrFv $FB $AAPL $GOOG $YHOO $ZNGA","lbl":"Neutral"}
+,{"time":"14:19","usr":"markfuccio","txt":"$GOOG is getting the $AAPL treatment -- @iSuppli does a teardown of the Nexus 7 tablet & estimates BOM costs. http://t.co/MFGHV5Pq","lbl":"Neutral"}
+,{"time":"15:28","usr":"Azzzita","txt":"RT @businessinsider: Need Some Extra Cash? Here Are A Few Super Useful Apps You Should Download Now $AAPL $GOOG by @_dtl http://t.co/rKaCcX38","lbl":"Neutral"}
+,{"time":"15:28","usr":"ggr1868","txt":"RT @businessinsider: Need Some Extra Cash? Here Are A Few Super Useful Apps You Should Download Now $AAPL $GOOG by @_dtl http://t.co/rKaCcX38","lbl":"Neutral"}
+,{"time":"15:29","usr":"adriangs","txt":"@bfeld google+ hangouts? $GOOG","lbl":"Neutral"}
 ,{"time":"16:36","usr":"twit_ashutosh","txt":"#gmail for #googleApps uses #BigQuery now. $GOOG is looking good. http://t.co/73NQqdI2","lbl":"Positive"}
 ,{"time":"16:40","usr":"ericjackson","txt":"New Post: Google and Facebook Caught in the Mobile Shift http://t.co/9tCO0NNS $GOOG $FB","lbl":"Negative"}
+,{"time":"16:42","usr":"SunnyVegas360","txt":"@cnbcfastmoney when Guy talk its the same product that come out of my ass. Tell him to STOP FAKE AND BAKE. $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"19:46","usr":"ValaAfshar","txt":"Google\u2019s market share rose to 66.8% @WSJ http://t.co/tTZBZiWU $GOOG $YHOO $MSFT #SEO #CIO #CMO","lbl":"Positive"}
+,{"time":"20:05","usr":"wjboynton","txt":"The Toughest iPad Challenger http://t.co/bbiVqXGL #Google #Apple #Amazon $GOOG $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"22:39","usr":"yourdudeness080","txt":"#in Need Some Extra Cash? Here Are A Few Super Useful Apps You Should Download Now $AAPL $GOOG by @_dtl http://t.co/SU1Zr77k","lbl":"Neutral"}
 ]

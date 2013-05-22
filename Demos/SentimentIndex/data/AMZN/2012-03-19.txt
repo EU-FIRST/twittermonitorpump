@@ -1,10 +1,27 @@
 [
 {"time":"4:10","usr":"slangwise","txt":"Stars are aligning for $AMZN, per @SpikeTrade , our newest contributors to @tradingdeck http://t.co/eKpij2AQ","lbl":"Positive"}
 ,{"time":"4:33","usr":"GretelandBryan","txt":"$AMZN http://t.co/73PPF2dq Amazon appears to have found support off of lows this year. Will buy when it break 188.38","lbl":"Positive"}
+,{"time":"4:50","usr":"KimKimbrough","txt":"RT @barronstechblog: Apple: 750 In Line at Flagship Store Bodes Well, Says Piper - Tech Trader Daily - $AAPL $GOOG $MSFT $NOK $RIMM $AMZN http://t.co/0qkCBVdV","lbl":"Neutral"}
 ,{"time":"8:14","usr":"LDrogen","txt":"$AMZN http://t.co/l3fdcv7h Lowering my estimates on Amazon on lower kindle sales and competition against A...","lbl":"Negative"}
 ,{"time":"8:15","usr":"HedgefundPLAY","txt":": $AMZN dropping on Pacific Crest note saying drop in Kindle sales.\u201D#fx","lbl":"Negative"}
+,{"time":"8:15","usr":"WALLSTJESUS","txt":"\u2605This ETF Will Rise As Soon Facebook Starts Trading http://t.co/cRF6ThfT $AMZN $ZNGA $GOOG $BIDU $YHOO $P $GRPN $TCEHY.PK $SINA","lbl":"Neutral"}
 ,{"time":"9:05","usr":"ReformedBroker","txt":"No position, but $AMZN is a very scary stock here.","lbl":"Negative"}
+,{"time":"9:07","usr":"firstadopter","txt":"$AMZN promoting free shipping on small items with Subscribe & Save offering \u0022batteries, toilet paper, detergent\u0022 http://t.co/jQiVgADS","lbl":"Neutral"}
+,{"time":"9:55","usr":"ivanhoff","txt":"@kamwjm @TraderPalmilla It cld open their eyes to cuts losses on Kindle. they can drive sales trough 3rd party devices. $AMZN","lbl":"Neutral"}
+,{"time":"9:58","usr":"katetrades","txt":"Front running $AMZN not such a great idea there =D","lbl":"Neutral"}
 ,{"time":"11:00","usr":"event_trader","txt":"$AMZN green even after Pacific Crest cuts estimates on Kindle sales...unbelievable.","lbl":"Negative"}
+,{"time":"12:30","usr":"katetrades","txt":"$AMZN count down...","lbl":"Neutral"}
+,{"time":"13:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/205, $BAC/41, $MSFT/35, $SPY/27, $V/22, $C/20, $AMZN/19, $XOM/15. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"13:37","usr":"JeffReevesIP","txt":"Three largest stocks (by mkt cap) NOT paying divs now: Google $GOOG Berkshire $BRK.B $BRK.A and Amazon $AMZN","lbl":"Neutral"}
 ,{"time":"13:37","usr":"katetrades","txt":"Taking $AMZN L again 185.74","lbl":"Positive"}
+,{"time":"15:11","usr":"chrishar00","txt":"Some very good trades in $X and $AMZN today. Took $EMC off - it\u0027s tired","lbl":"Neutral"}
+,{"time":"15:48","usr":"petervan","txt":"RT @ndebock: They buy almost a 1B$ company every year RT @SAI: AMAZON BUYS KIVA SYSTEMS $775 MILLION $AMZN http://t.co/wQNxv5qv","lbl":"Neutral"}
+,{"time":"15:50","usr":"Craw","txt":"Interesting vertical integration &quot;@SAI: AMAZON BUYS KIVA SYSTEMS $775 MILLION $AMZN by @mattlynley http://t.co/1PdJGtdO&quot;","lbl":"Neutral"}
+,{"time":"15:52","usr":"firstadopter","txt":"Founder of Kiva worked at Webvan. $AMZN wants to be Webvan 2.0 with robots: http://t.co/7wkbrXzZ","lbl":"Neutral"}
+,{"time":"16:49","usr":"ScottKirsner","txt":"In 2010, I said $AMZN might want to own warehouse bot-maker Kiva Systems: http://t.co/Y233UZEo ...They just paid $775M for Mass. start-up.","lbl":"Neutral"}
+,{"time":"17:57","usr":"SunriseTrader","txt":"$AMZN http://t.co/tA5kgoEz Setting up break of todays high has my interest. On watch no position at this time","lbl":"Neutral"}
+,{"time":"17:58","usr":"murrayvetstein","txt":"RT @CNBCbrk: Amazon to buy Kiva Systems for $775M in cash, a deal that will bring more robotic technology to the company\u0027s warehouses. - Reuters $AMZN","lbl":"Neutral"}
+,{"time":"18:00","usr":"vavoida","txt":"$AMZN buys an robot maker Kiva Systems http://t.co/X5tCBM0t in action & the \u0022leftover robotnik\u0022 http://t.co/Sy8Ms5XN","lbl":"Neutral"}
+,{"time":"19:30","usr":"samwade611","txt":"RT @CNBC: Amazon to buy Kiva Systems for $775M in cash, a deal that will bring more robotic technology to the company\u0027s warehouses. - Reuters $AMZN","lbl":"Neutral"}
 ,{"time":"19:36","usr":"statsreal","txt":"On the daily, $amzn has made 3 higher highs in a row, bulls in control for now, despite its failure to breakout","lbl":"Negative"}
 ]

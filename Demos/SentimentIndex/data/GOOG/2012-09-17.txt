@@ -1,5 +1,13 @@
 [
-{"time":"9:32","usr":"ChrisStuntz","txt":"in $GOOG Sep 715 C and $MAKO Sep 17.5 C. Still waiting on $AAPL","lbl":"Positive"}
+{"time":"9:21","usr":"choffman1978","txt":"$BPAX SURGING - Libigel FDA news soon? Yes! #cnbc,#msnbc,#nyse,#wsj,$pfe,$jnj,$ptie,$dndn,$ctic,#biotech,$mrk,$gsk,$aapl,$goog,$gs,$bac,$c,","lbl":"Neutral"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"Does Intel Need To Patch Things Up With Microsoft? http://t.co/WJAmedPg $ARMH $GOOG $IBM $MSFT $NVDA $QCOM $TXN $INTC","lbl":"Neutral"}
+,{"time":"9:32","usr":"ChrisStuntz","txt":"in $GOOG Sep 715 C and $MAKO Sep 17.5 C. Still waiting on $AAPL","lbl":"Positive"}
 ,{"time":"9:36","usr":"takingstock614","txt":"$GOOG $PCLN $ISRG $AAPL $CMG all looking good today.","lbl":"Positive"}
 ,{"time":"12:47","usr":"CorporateYoungs","txt":"A few notable on my watch list today are $PCLN, $FFIV, $AAPL, $CMG, $GOOG, n $PNRA.","lbl":"Positive"}
+,{"time":"12:53","usr":"greg_messler","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"13:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $FCX +53%, $MSFT +34%, $GOOG +3%, $BAC -13%, $CLF -8%, $AAPL +2% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"15:31","usr":"MycroftP","txt":"Commented on: \u0022Why iPhone 5 Will Be A Success\u0022 http://t.co/M7dfAHsu $AAPL $FB $GOOG $NOK $RIMM $S $T $VZ","lbl":"Neutral"}
+,{"time":"15:35","usr":"sayhi2mike","txt":"RT @SeekingAlpha: Why iPhone 5 Will Be A Success http://t.co/2xElRybF $FB $GOOG $NOK $RIMM $S $T $VZ $AAPL","lbl":"Neutral"}
+,{"time":"15:38","usr":"HelloTasmin","txt":"Conquerors and casualties in the raging mobile patent wars $AAPL $SSNLF $QCOM $MSFT $GOOG $NOK http://t.co/XDw6BgTH","lbl":"Neutral"}
+,{"time":"15:42","usr":"StocksFlow","txt":"RT @SeekingAlpha: Why iPhone 5 Will Be A Success http://t.co/2xElRybF $FB $GOOG $NOK $RIMM $S $T $VZ $AAPL","lbl":"Neutral"}
 ]

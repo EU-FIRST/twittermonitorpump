@@ -1,7 +1,18 @@
 [
-{"time":"9:43","usr":"GeneralMovement","txt":"RT @TheStreet: Christmas Wars: Amazon vs. Walmart - TheStreet http://t.co/J6XT5saE $AMZN $WMT with a little $GOOG @DanaBlankenhorn","lbl":"Negative"}
+{"time":"7:02","usr":"LSilverspar","txt":"Hard to predict, but would not be surprised if $FB became more $AMZN like w/ a cult following where performance metrics really don\u0027t matter","lbl":"Neutral"}
+,{"time":"7:05","usr":"juleshyman","txt":"Speaking of Wal-Mart, ICYMI, Amazon beating on toy prices ahead of the holidays: http://t.co/oNn7akFb $WMT $AMZN","lbl":"Neutral"}
+,{"time":"9:41","usr":"SPEQL8R","txt":"$AMZN filling that gap I mentioned yest. $JPM bouncing from support I mentioned. $UNP came to support I mentioned. Watch all these levels","lbl":"Neutral"}
+,{"time":"9:43","usr":"GeneralMovement","txt":"RT @TheStreet: Christmas Wars: Amazon vs. Walmart - TheStreet http://t.co/J6XT5saE $AMZN $WMT with a little $GOOG @DanaBlankenhorn","lbl":"Negative"}
 ,{"time":"10:27","usr":"Daniel_Aaron17","txt":"Shorting $UAL this morning and reshorting $AMZN as well. #LongShort","lbl":"Negative"}
 ,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:47am: 223.63 +0.68 (+0.31%).","lbl":"Positive"}
 ,{"time":"12:19","usr":"KevinSanker","txt":"Sales Tax Won\u2019t Stop @Amazon\u2019s Retail Dominance Says Analyst | http://t.co/o6W1C8Ta via @YahooFinance $AMZN #taxes #stocks #retail","lbl":"Positive"}
+,{"time":"13:09","usr":"wallstCS","txt":"Here\u0027s a Surprise for Kindle Lovers http://t.co/pIxxmBUV $AMZN $AAPL $GOOG $BBY $SPLS #stocks #trading","lbl":"Neutral"}
+,{"time":"13:11","usr":"iStockAnalyst","txt":"Texas Instruments: Closing, Not Selling OMAP $AAPL $AMZN $NVDA $QCOM $TXN: Chip maker Texas Instruments, Inc. an... http://t.co/OKAYWPXf","lbl":"Neutral"}
+,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:47pm: 220.84 -2.11 (-0.95%).","lbl":"Neutral"}
+,{"time":"14:07","usr":"samablack","txt":"RT @jvomhofjr: Best Buy could be big winner as #Amazon ships new #Kindle Fire early. http://t.co/dDbQXLrr $BBY #BestBuy $AMZN @mspbjnews","lbl":"Neutral"}
+,{"time":"15:17","usr":"HarryWanger","txt":"$AMZN Watch 219.50 area on close - very important.","lbl":"Neutral"}
 ,{"time":"18:14","usr":"optionbob","txt":"@streetbrief $AMZN is believed to have long term growth ahead of it. It\u0027s trading on potential going forward. THE ec... http://t.co/GkqRQL8E","lbl":"Positive"}
+,{"time":"21:19","usr":"jdax414","txt":"How does $amzn do it, $500 gym equipment costs only $275 and free shipping for a 125lb+ package...why goto the store? http://t.co/YuffiEgJ","lbl":"Neutral"}
+,{"time":"21:21","usr":"CAMAR024","txt":"Watchlist for 11/16/12 http://t.co/Jf1uWIPB $TRTC $PHOT $TVIX $GS $GOOG $CRM $AMZN","lbl":"Neutral"}
+,{"time":"21:21","usr":"stockgarage","txt":"Big friday tomorrow- lotto setups for tomorrow are up http://t.co/dguVd5dL $TRTC $PHOT $TVIX $GS $GOOG $CRM $AMZN --good luck!","lbl":"Neutral"}
 ]

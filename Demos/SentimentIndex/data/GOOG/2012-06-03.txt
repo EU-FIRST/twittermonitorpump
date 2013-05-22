@@ -1,7 +1,14 @@
 [
-{"time":"9:21","usr":"jyarow","txt":"Google Has A Magic Money Making Machine $GOOG $FB http://t.co/0KmaSDdJ","lbl":"Positive"}
+{"time":"9:08","usr":"da_trader","txt":"Wow @instagram you really need to fix the crashing and forced close...check the feedback on $goog play market","lbl":"Neutral"}
+,{"time":"9:21","usr":"jyarow","txt":"Google Has A Magic Money Making Machine $GOOG $FB http://t.co/0KmaSDdJ","lbl":"Positive"}
 ,{"time":"10:35","usr":"YouK88","txt":"Google Has A Magic Money Making Machine $GOOG $FB by @jyarow http://t.co/fV7DBCB8","lbl":"Positive"}
 ,{"time":"10:38","usr":"netnewgrowth","txt":"RT @LinkedInToday: Groupon\u0027s biggest mistake? Behind its $6 billion brushoff of Google http://t.co/qkCt6t2F $GRPN $GOOG","lbl":"Negative"}
+,{"time":"10:38","usr":"LouisColumbus","txt":"Open Mobile:The growth era accelerates: Deloitte Survey 2012 http://t.co/sBWi1pow 45 pp. PDF, no opt-in $GOOG $AAPL $CSCO","lbl":"Neutral"}
+,{"time":"15:00","usr":"StockTwits","txt":"RT @d_ramsden Untapped value in traditional as media confluence continues. New CoRise report http://t.co/GtYQHSOI $NYT $TWX $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"15:01","usr":"Martin_Medina","txt":"RT @StockTwits: RT @d_ramsden Untapped value in traditional as media confluence continues. New CoRise report http://t.co/GtYQHSOI $NYT $TWX $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"15:02","usr":"Lekochsportiff","txt":"RT @SAI: Check Out These 11 Awesome Google Chrome Apps $GOOG by @officialKLS http://t.co/G6QQOpj2","lbl":"Positive"}
+,{"time":"15:15","usr":"santorotwitt","txt":"RT @businessinsider: BLOOD IN THE WATER: Now Is The Time To Raid Facebook For Talent, Say Rival Exec $FB $GOOG by @nichcarlson http://t.co/l3B3cawr","lbl":"Neutral"}
+,{"time":"22:17","usr":"ctull13","txt":"& MLB ump & NHL ref... get on it, $GOOG RT @danprimack: If Google can make a self-driving car, why can\u0027t it create a robotic NBA official?","lbl":"Neutral"}
+,{"time":"22:29","usr":"SurrealCivic","txt":"Chart showing Global Smartphone Market Share by OS! Thanks BI and Gartner. $RIMM $GOOG $AAPL $MSFT http://t.co/NrvHNxyN","lbl":"Neutral"}
 ,{"time":"22:30","usr":"BigTicks","txt":"$GOOG News: Google (NASDAQ:GOOG) Gets Green Signal in Oracle (NASDAQ:ORCL) Java Case \u2026 http://t.co/k0XJxa64 #GOOG #Case #Gets","lbl":"Positive"}
 ]

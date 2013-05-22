@@ -1,4 +1,8 @@
 [
 {"time":"2:33","usr":"scalamai","txt":"#Cloud vs Google vs Amazon: if you think things are complicated now, it\u2019s about to get a lot worse: http://t.co/la8r59q3 $GOOG $AMZN","lbl":"Negative"}
+,{"time":"6:20","usr":"bored2tears","txt":"After weekend outages, some in Congress question the safety of the cloud. http://t.co/KIQ3t8XK $AMZN $GOOG #stocks #tech","lbl":"Neutral"}
+,{"time":"9:59","usr":"BRHook","txt":"-- Amazon buys 3D mapping startup UpNext: http://t.co/WC5FT7RT @gigaom @kheussner @amazon @upnext $AMZN #mapping #acquisitions #tech #biz","lbl":"Neutral"}
 ,{"time":"11:10","usr":"SeekingAlpha","txt":"Amazon Ready To Plunge On Margin Squeeze http://t.co/KQbEc54g $AOL $GOOG $AMZN","lbl":"Negative"}
+,{"time":"13:12","usr":"Finster947","txt":"RT @paidContent $NFLX Netflix just became cable\u2019s biggest TV network http://t.co/TypIX9uT $AMZN $CSTR @ECONgeek947 told ya demands strong ;)","lbl":"Neutral"}
+,{"time":"18:43","usr":"LEXUSMARCK","txt":"RT @torycapital: Apple May Launch Smaller 7 Inch iPad \u0027Mini\u0027 October 2012 http://t.co/ACg7rEpB $AAPL $GOOG $AMZN http://t.co/vw0edpdm","lbl":"Neutral"}
 ]

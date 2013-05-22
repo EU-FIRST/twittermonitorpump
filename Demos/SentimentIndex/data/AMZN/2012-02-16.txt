@@ -1,24 +1,41 @@
 [
-{"time":"2:25","usr":"smells_fargo","txt":"Amazon app check shop prices, ditch retailers http://t.co/2jbIy0P6 #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Positive"}
+{"time":"2:10","usr":"scalamai","txt":"Add it Up: Crunching Numbers for Apple, Amazon, Netflix and Jeremy Lin http://t.co/GDZdVaCE $AAPL $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"2:25","usr":"smells_fargo","txt":"Amazon app check shop prices, ditch retailers http://t.co/2jbIy0P6 #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Positive"}
 ,{"time":"6:36","usr":"LSilverspar","txt":"RT @Benzinga: $AMZN Downgraded to Equal-weight at Morgan Stanley","lbl":"Negative"}
+,{"time":"6:39","usr":"aer0s0ul","txt":"RT @dianastoleru: RT @sai: Here\u0027s Why Amazon China Stopped Selling The iPad $AAPL $AMZN by @_dtl http://t.co/EmBy5RzY","lbl":"Neutral"}
 ,{"time":"6:39","usr":"thenotablecalls","txt":"$AMZN - \u0027We would be buyers of the stk at levels closer to $150 (~1x 2012E Net Sales) or toward the end of the more challenging year ahead.\u0027","lbl":"Positive"}
+,{"time":"6:40","usr":"azouari","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $FB $AMZN $HPQ $GOOG by @_dtl http://t.co/pjFjeJdj","lbl":"Neutral"}
+,{"time":"7:54","usr":"NELSONSDAVIS","txt":"RT @SAI: Here\u0027s Why Amazon China Stopped Selling The iPad $AAPL $AMZN by @_dtl http://t.co/kj9J8qtz","lbl":"Neutral"}
 ,{"time":"7:55","usr":"The_Domino","txt":"#StocksToWatch premarket...$NILE -25% after profit forecast misses...$NVDA -6% sales forecast misses...$AMZN -4% on downgrade by $MS $$","lbl":"Negative"}
+,{"time":"7:56","usr":"firstadopter","txt":"Great chart from Morgan Stanley showing secular shift from $AMZN to $AAPL iPad/iPhone revenue market-share: http://t.co/m3FHQ7az","lbl":"Neutral"}
+,{"time":"8:01","usr":"dschorrnyc","txt":"RT @firstadopter: Great chart from Morgan Stanley showing secular shift from $AMZN to $AAPL iPad/iPhone revenue market-share: http://t.co/m3FHQ7az","lbl":"Neutral"}
 ,{"time":"8:47","usr":"RogueStockTradr","txt":"Man $AMZN what a beatdown!! If it stays under 180 that POS is in trouble!","lbl":"Negative"}
 ,{"time":"8:47","usr":"event_trader","txt":"Pre-market red: $ACOM -10.6%, $NILE -22.4%, $NVDA -7.2%, $MAR -1.2%, $AMZN -3%, $GLD -1.2%, $SLV -1.8%","lbl":"Negative"}
 ,{"time":"8:48","usr":"firstadopter","txt":"Better more detailed summary of Morgan Stanley $AMZN downgrade here: http://t.co/yP8INamE","lbl":"Negative"}
 ,{"time":"9:31","usr":"CapCube","txt":"Even @jimcramer now admitting $AMZN has issues, and is heading lower. His HF buds must now be loaded short.","lbl":"Negative"}
+,{"time":"9:31","usr":"TheTradeDonkey","txt":"FADE the GAPS: $AAP $NTAP & FILL the GAPS: $CLF $CF $AEM $HBI $ABB $AMZN $NILE $NVDA & $ATHN","lbl":"Neutral"}
 ,{"time":"9:31","usr":"DrDuru","txt":"Sold $AMZN Feb $180 puts. Ironically, I think that gain matched the entire gain from the long post-earnings play: http://t.co/fSWuHMy5","lbl":"Positive"}
 ,{"time":"9:32","usr":"oktobernv","txt":"Let\u0027s see if $AMZN can hold $175 - I say no.","lbl":"Negative"}
 ,{"time":"9:57","usr":"FrugalBenjamin","txt":"$AMZN - Unless we get 180+ back today, the 3+ year support for Amazon has broke! http://t.co/vGpPnTp9","lbl":"Negative"}
 ,{"time":"9:58","usr":"statsreal","txt":"added to $amzn short 176.41, avg 184.40","lbl":"Negative"}
+,{"time":"10:00","usr":"RahulTongia","txt":"Seems all the $AAPL $AMZN money is moving to $MSFT $IBM $INTC","lbl":"Neutral"}
+,{"time":"10:42","usr":"billgunderson","txt":"How can $AMZN maintain a PE ratio of 135?","lbl":"Neutral"}
+,{"time":"11:30","usr":"WallStJesus","txt":"Soros Fund Management\u0027s Undervalued Q4 Buys And Sells http://t.co/KK3rO86W $AMZN $CMCSA $CTL $DLPH $FCX $GOOG $KEY $MSI $RL $SNDK","lbl":"Neutral"}
 ,{"time":"11:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:16am: 176.40 -8.07 (-4.37%).","lbl":"Negative"}
 ,{"time":"11:32","usr":"LDrogen","txt":"$AMZN is a dog, the market just doesn\u0027t like it here because it doesn\u0027t believe in Bezos\u0027 vision for mobile, neither do I","lbl":"Negative"}
+,{"time":"11:33","usr":"AndrewhFX","txt":"Standouts: $NTAP, $TAP, $PCAR, $SEE, $WDC, $RRD Weak hands: $SJM, $AMZN, $A","lbl":"Neutral"}
+,{"time":"12:20","usr":"dschorrnyc","txt":"$ZNGA building infrastructure to get off AWS. $AMZN","lbl":"Neutral"}
+,{"time":"13:14","usr":"CameronKaine","txt":"Commented on: \u0022Wake Up Sirius XM: Smart Money Is Leaving\u0022 http://t.co/epqtQDUW $AAPL $AMZN $NFLX $SIRI","lbl":"Neutral"}
+,{"time":"13:16","usr":"waltgault","txt":"Commented on: \u0022Who Will Conquer The Digital Textbook Frontier: Amazon Or Apple?\u0022 http://t.co/qGB2jPtQ $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"13:18","usr":"abnormalreturns","txt":"Thursday links: the zero-sum forex game, elevated sentiment and OS X gets hip to iOS. http://t.co/cJnT42yD $AAPL $GOOG $AMZN $VIX $DMND $MCO","lbl":"Neutral"}
 ,{"time":"14:15","usr":"ACE52weekhigh","txt":"$AMZN now ripping so far +.26","lbl":"Positive"}
 ,{"time":"14:50","usr":"HarrisStevenJ","txt":"$AMZN above 180 now... looking to see some green","lbl":"Positive"}
 ,{"time":"14:50","usr":"izzie325","txt":"$AMZN......called it","lbl":"Positive"}
 ,{"time":"14:51","usr":"dschorrnyc","txt":"$AMZN ripping","lbl":"Positive"}
 ,{"time":"15:37","usr":"ACE52weekhigh","txt":"Sold my pos in $AMZN +1.10","lbl":"Negative"}
+,{"time":"15:39","usr":"STnet","txt":"Thursday links: a zero sum game http://t.co/jHE7K3cl via @AbnormalReturns $AAPL $GOOG $AMZN $VIX $DMND $MCO","lbl":"Neutral"}
 ,{"time":"16:13","usr":"Bytesfrombits","txt":"Amazon Grabs 14% of Tablet Market $AMZN #tablets #isuppli $AAPL #Apple #mobile #nook #tab http://t.co/eav1P4T8","lbl":"Positive"}
 ,{"time":"16:16","usr":"UnicornsRule","txt":"RT @CNNMoney: RT @julpepitone: How the iPhone 4S boosted Amazon\u0027s Kindle Fire sales http://t.co/t9FKhi2i via @CNNMoneyTech $AAPL $AMZN","lbl":"Positive"}
 ,{"time":"18:01","usr":"seeitmarket","txt":"RT @andrewnyquist: Amazon stock near very important long term uptrend support. See it. http://t.co/yD7y5zQH $AMZN $QQQ pub\u0027d on @seeitmarket","lbl":"Positive"}
+,{"time":"18:03","usr":"seeitmarket","txt":"RT @andrewnyquist: Technical charts for Amazon, HP, Westport, ATP Oil & Gas, Russell 2000, & more: http://t.co/FUspXZml $AMZN $HPQ $WPRT $ATPG $IWM $TF_F $SPX","lbl":"Neutral"}
 ]

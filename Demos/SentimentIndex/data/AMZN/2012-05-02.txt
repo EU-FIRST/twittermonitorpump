@@ -1,19 +1,34 @@
 [
 {"time":"0:24","usr":"AlexanderBVo","txt":"http://t.co/tSRLwjkC Verified $989.21 profit in $AMZN Import trades for the past month ish","lbl":"Positive"}
+,{"time":"7:57","usr":"theASHOK","txt":"RT @IvanTheK: INBOX: Amazon now offering \u0022certified refurbished\u0022 Kindle Fires. Limit 5 (!) How can that be a good sign? $AMZN http://t.co/O48fZOzI","lbl":"Neutral"}
+,{"time":"7:59","usr":"investlite","txt":"Charts for today: http://t.co/BG8i9wZ2 $aapl $allt $amzn $apa $cme $cxo $fio $kft $lulu $nov $ntap $shld $stx $vz $wdc","lbl":"Neutral"}
 ,{"time":"8:54","usr":"coryjwatson","txt":"$AMZN and $AAPL shorts setting up here, in the $AMZN puts waiting for $AAPL","lbl":"Negative"}
 ,{"time":"9:48","usr":"firstadopter","txt":"Verge speculates Target stop selling $AMZN Kindle due to \u0022conflict of interest\u0022 with ramp of Target $AAPL mini-stores http://t.co/gpPcg8Ee","lbl":"Negative"}
+,{"time":"9:50","usr":"mobileslate","txt":"@Target to stop carrying $AMZN #Kindle hardware as $AAPL mini stores begin to open (IMHO bad idea - they are not the same device)","lbl":"Neutral"}
 ,{"time":"10:33","usr":"AGFELPASO","txt":"RT @SAI_Tools This Is The Best Price We\u0027ve Ever Seen For A Kindle Fire $AMZN by @_dtl http://t.co/OAdk6ypB","lbl":"Positive"}
 ,{"time":"10:33","usr":"DanielSharma","txt":"Target not selling Kindle Fire anymore $AMZN.","lbl":"Negative"}
 ,{"time":"10:34","usr":"sharkfoot","txt":"started my $amzn entry too early... avg 228.86","lbl":"Positive"}
 ,{"time":"11:07","usr":"creditspread23","txt":"RT @MNYCx: $AMZN \u0022A fool and his money soon to be parted\u0022, I hope that won\u0027t be me with my Puts. Always a big challenge to go in short after good ER\u0027s","lbl":"Negative"}
 ,{"time":"11:07","usr":"CarolinesCall","txt":"Target Will Stop Selling Amazon\u0027s Kindle -- Is Apple To Blame? $AAPL $AMZN $TGT http://t.co/LVG33NwJ http://t.co/xJXGl4qM via @sai","lbl":"Negative"}
+,{"time":"11:07","usr":"fall0utX","txt":"RT @businessinsider: Target Will Stop Selling Amazon\u0027s Kindle -- Is Apple To Blame? $AAPL $AMZN $TGT http://t.co/aucABk4t","lbl":"Neutral"}
+,{"time":"11:10","usr":"SeekingAlpha","txt":"Capital Will Flow From Tech Stocks To Gold And Silver Miners http://t.co/A99TKyfH $ABX $AMZN $AU $AUQ $CRM $GG $GRPN $GS $HL","lbl":"Neutral"}
 ,{"time":"12:07","usr":"getwired","txt":"RT @rakeshlobster: RT @jonfortt \u0022Target is phasing out Kindle-branded products in spring 2012\u0022 I guess $TGT caught on to the Trojan Horse thing. $AMZN","lbl":"Negative"}
+,{"time":"12:08","usr":"khairais","txt":"RT @Trefis: Wal-Mart, Target Brace For Online Shift In The Retail Industry http://t.co/pH6Pp2DP by Trefis Team $TGT $WMT $AMZN","lbl":"Neutral"}
 ,{"time":"12:08","usr":"niuniu01981","txt":"$AMZN - Amazon Stock Analysis - bearish stochastic crossdown - http://t.co/7kDtaEmB","lbl":"Negative"}
+,{"time":"12:58","usr":"coombscnbc","txt":"@jonfortt Ultimately, it validates the value of content. You\u0027ve gotta have something to consume on your nifty devices. $AMZN $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"12:58","usr":"LancelotW","txt":"RT @jonfortt: If $AMZN\u0027s making content bc it\u0027s cheaper than buying, this doesn\u0027t bode well. Will require a culture shift http://t.co/yVSx0JRP","lbl":"Neutral"}
 ,{"time":"13:00","usr":"alwaysdaytrader","txt":"RT @jonfortt: If $AMZN\u0027s making content bc it\u0027s cheaper than buying, this doesn\u0027t bode well. Will require a culture shift http://t.co/yVSx0JRP","lbl":"Negative"}
+,{"time":"13:00","usr":"tweet_trader","txt":"http://t.co/7ovBiFBU Sentiment: $JPM +39%, $PHM +23%, $AMZN +18%, $A -65%, $GOOG -31%, $CVS -18% http://t.co/uBJCPjdx","lbl":"Neutral"}
+,{"time":"13:35","usr":"stkonlinetrader","txt":"http://t.co/G30qvJjl Verified $1,427.90 profit in $AMZN Monthly option","lbl":"Neutral"}
 ,{"time":"13:39","usr":"TradeToRetire","txt":"$AMZN mention 17 Dec \u002711 http://t.co/Dwk3fcYG for its gaps is up +26.4% since and price clustering near top of its huge gap up fr 3 days ago","lbl":"Positive"}
+,{"time":"14:35","usr":"rechtsteiner","txt":"How long until $GOOG, $BKS, $AMZN, HTC, etc. use demo stations at libraries to promote their platforms? http://t.co/7fnXgVFX","lbl":"Neutral"}
+,{"time":"14:35","usr":"wallstCS","txt":"Will Microsoft Help Barnes & Noble Move Ahead in the E-Reader Battle? http://t.co/1bEPhRkr $MSFT $BKS $AAPL $AMZN #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"14:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/122, $SPY/43, $RIMM/30, $AMZN/28, $CHK/20, $OCZ/19, $MSFT/15, $WMT/15. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"14:41","usr":"ManijehM","txt":"$AMZN volume is really low, holding june puts","lbl":"Negative"}
 ,{"time":"16:26","usr":"CEP_Observer","txt":"@firstadopter Another issue for $Amzn & $GOOG both work badly as a e-commerce platform - lower sales from users of that operating system","lbl":"Negative"}
 ,{"time":"16:29","usr":"Rooster306","txt":"$AMZN http://t.co/6uxTA0Dk big gains http://t.co/t0PN0NVd","lbl":"Positive"}
+,{"time":"16:30","usr":"SeekingAlpha","txt":"What Will An Apple Bubble Look Like? http://t.co/yKtNX4M9 $AMZN $CRM $GLW $JDSU $MMI $MSFT $NFLX $NOK $RIMM $SNE $AAPL","lbl":"Neutral"}
+,{"time":"19:04","usr":"market","txt":"Apparently Kindles are the new Che Guevara CD cases at Target. $TGT $AMZN #Kindle http://t.co/l8LFJJkh","lbl":"Neutral"}
 ,{"time":"22:52","usr":"Goodlett","txt":"Interesting that $TGT @Target dropping $AMZN #Kindle #eReader products BUT keeping $BKS #Nook just after $MSFT deal http://t.co/kLScoDJy","lbl":"Negative"}
 ,{"time":"23:01","usr":"ZacH1992TradeS","txt":"$AMZN, I am tempted to short you to hell...but I will wait for a bit","lbl":"Negative"}
 ]

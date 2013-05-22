@@ -1,4 +1,11 @@
 [
 {"time":"10:28","usr":"takingstock614","txt":"All the HB names look good today. $AMZN $AAPL $GOOG $PCLN $MA","lbl":"Positive"}
+,{"time":"10:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:16am: 247.244 +2.064 (+0.84%).","lbl":"Neutral"}
+,{"time":"12:37","usr":"1971capital","txt":"$NFLX - A quiet Carl Icahn means he probably knows acquirers are looking at NFLX. $AAPL, $MSFT, $AMZN, etc would dominate Internet TV w nflx","lbl":"Neutral"}
+,{"time":"14:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:16pm: 249.35 +4.17 (+1.70%).","lbl":"Neutral"}
 ,{"time":"16:31","usr":"princebhojwani","txt":"When does the sales tax law hit $AMZN ??","lbl":"Negative"}
+,{"time":"16:31","usr":"AMZN_stock","txt":"$AMZN stock quote, Dec 31: 250.87 +5.69 (+2.32%).","lbl":"Neutral"}
+,{"time":"18:48","usr":"scotty703","txt":"RT @businessinsider: Amazon Explains Why It Took Netflix Offline On Christmas Eve $AMZN $NFLX by @Julie188 http://t.co/EvqfvqrF","lbl":"Neutral"}
+,{"time":"18:48","usr":"TuckArthur","txt":"RT @SAI: Amazon Explains Why It Took Netflix Offline On Christmas Eve $AMZN $NFLX by @Julie188 http://t.co/8I8CzkZy","lbl":"Neutral"}
+,{"time":"18:50","usr":"212TonyZ","txt":"RT @SAI: Amazon Explains Why It Took Netflix Offline On Christmas Eve $AMZN $NFLX by @Julie188 http://t.co/8I8CzkZy","lbl":"Neutral"}
 ]

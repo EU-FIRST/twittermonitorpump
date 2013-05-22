@@ -1,4 +1,9 @@
 [
-{"time":"17:20","usr":"LifeSciencesMkt","txt":"@Mahmissa $AMZN Amazon Prime my dear free shipping plus same selection of streaming movies as $NFLX included...make the switch","lbl":"Positive"}
+{"time":"10:14","usr":"Mktgeistcom","txt":"RT @StockTwits: Sunday links: manager risk and record low yields http://t.co/UdTu8eZD via @abnormalreturns $TNX $AAPL $MSFT $AMZN\u0022","lbl":"Neutral"}
+,{"time":"10:20","usr":"howardlindzon","txt":"\u0022@StockTwits: Sunday links: manager risk and record low yields http://t.co/powB6ZI2 via @abnormalreturns $TNX $AAPL $MSFT $AMZN\u0022\u0022","lbl":"Neutral"}
+,{"time":"10:22","usr":"JMagary","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/17daXSJs","lbl":"Neutral"}
+,{"time":"17:20","usr":"LifeSciencesMkt","txt":"@Mahmissa $AMZN Amazon Prime my dear free shipping plus same selection of streaming movies as $NFLX included...make the switch","lbl":"Positive"}
+,{"time":"17:24","usr":"mbeckett","txt":"Ha! RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/bofDndIM","lbl":"Neutral"}
 ,{"time":"22:56","usr":"jnayegandhi","txt":"Customer encounters a social engineering scam to get $AMZN to ship replacement orders. http://t.co/IEfGrgml","lbl":"Negative"}
+,{"time":"22:59","usr":"jnayegandhi","txt":"RT @SAI: The Amazon Reviews For This Banana Slicer Are The Best Thing On The Internet Today $AMZN by @nichcarlson http://t.co/VfWkEwt6","lbl":"Neutral"}
 ]

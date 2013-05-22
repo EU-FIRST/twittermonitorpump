@@ -1,5 +1,9 @@
 [
-{"time":"13:23","usr":"MNYCx","txt":"Out next week\u0027s $AMZN W195 Puts @ 1.13 from 1.05, don\u0027t feel like it. Going all cash into weekend.","lbl":"Negative"}
+{"time":"5:50","usr":"SeekingAlpha","txt":"An Inaugural Tweet And Competitive Taunt?!: Yes, Oracle\u0027s Ellison Is Floating On Clouds Again http://t.co/n07QGXx0 $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"7:38","usr":"StockMarketEnds","txt":"Anti Christ Zionists WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Economist #Reporter #Actor #Chemist #Loan #Writer","lbl":"Neutral"}
+,{"time":"13:23","usr":"MNYCx","txt":"Out next week\u0027s $AMZN W195 Puts @ 1.13 from 1.05, don\u0027t feel like it. Going all cash into weekend.","lbl":"Negative"}
 ,{"time":"13:52","usr":"MNYCx","txt":"$AMZN look at that bounce. Phew, glad i got out of Puts earlier","lbl":"Positive"}
+,{"time":"14:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:17pm: 208.91 -4.00 (-1.88%).","lbl":"Neutral"}
 ,{"time":"14:35","usr":"keepitrealdude","txt":"Though glad to see $AMZN and $GOOG behaving like they should, even $BAC is doing pretty good given the circumstances..","lbl":"Positive"}
+,{"time":"16:45","usr":"rechtsteiner","txt":"$AMZN adds Dilbert and Doonesbury Comics exclusives for the Kindle Fire http://t.co/z48NhYsl","lbl":"Neutral"}
 ]

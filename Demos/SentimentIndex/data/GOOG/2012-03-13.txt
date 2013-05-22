@@ -1,14 +1,40 @@
 [
-{"time":"8:42","usr":"wallstCS","txt":"Google+ Has a Few More Tricks Up Its Sleeve http://t.co/zYIJgSow $GOOG $AAPL #mkt #trading","lbl":"Positive"}
+{"time":"5:57","usr":"benny_the_dogs","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/juEYKplt","lbl":"Neutral"}
+,{"time":"6:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/34, $EBAY/19, $BAC/9, $GOOG/8, $JPM/7, $MSFT/7, $C/7, $INTC/6, $GS/6. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"6:07","usr":"tarunu","txt":"RT @SAI: Google Just Hired The Head Of The Pentagon\u0027s Research Arm $GOOG by @MattRosoff http://t.co/5vKadsyG","lbl":"Neutral"}
+,{"time":"6:09","usr":"Ktr8der","txt":"Only $52 separate $AAPL & $GOOG shs. One is growing at a blistering pace, and the other is paying a 63% premium for $MMI.","lbl":"Neutral"}
+,{"time":"8:42","usr":"wallstCS","txt":"Google+ Has a Few More Tricks Up Its Sleeve http://t.co/zYIJgSow $GOOG $AAPL #mkt #trading","lbl":"Positive"}
+,{"time":"8:44","usr":"sssc","txt":"$GOOG http://t.co/3rUBcI14 --- potential action point. i will be watching vol & reaction to the vol closely, on any attempt","lbl":"Neutral"}
+,{"time":"8:44","usr":"barronstechblog","txt":"Verizon: Same Pricing for LTE iPad as for 3G - Tech Trader Daily - Barron\u0027s $VZ $T $S $AAPL $GOOG $RIMM $AMZN http://t.co/BJjwEhFz","lbl":"Neutral"}
 ,{"time":"9:56","usr":"hardeepsidhu28","txt":"RT @businessinsider: Here\u0027s Why Yahoo Suing Facebook Is Nothing Like When Yahoo Sued Google $YHOO $GOOG by @jyarow http://t.co/LqWv5Nt0","lbl":"Negative"}
+,{"time":"9:57","usr":"MiltonMorillo","txt":"RT @SAI: Here\u0027s Why Yahoo Suing Facebook Is Nothing Like When Yahoo Sued Google $YHOO $GOOG by @jyarow http://t.co/lZ7GHajF","lbl":"Neutral"}
+,{"time":"9:57","usr":"montyrockhead","txt":"RT @SAI: Here\u0027s Why Yahoo Suing Facebook Is Nothing Like When Yahoo Sued Google $YHOO $GOOG by @jyarow http://t.co/lZ7GHajF","lbl":"Neutral"}
 ,{"time":"10:30","usr":"wavestock","txt":"$GOOG Signs Ex-DARPA Chief : http://t.co/pHx1J1Zq","lbl":"Positive"}
+,{"time":"10:33","usr":"alalawin1","txt":"$GOOG - Google Stock Analysis - Long or short this stock? - http://t.co/pbtZGp6E","lbl":"Neutral"}
+,{"time":"10:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/184, $SPY/52, $GOOG/39, $YHOO/25, $GLD/22, $ALLT/21, $GS/20, $AMZN/19. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"11:12","usr":"thetradingwife","txt":"$GOOG flagging intra day","lbl":"Negative"}
+,{"time":"11:14","usr":"SuzyQJaco","txt":"Top on $AAPL will come when people ask when $AAPL\u0027s price passes $GOOG\u0027s or alternatively when it actually happens","lbl":"Neutral"}
+,{"time":"11:19","usr":"KamailaSanders","txt":"RT @SAI: Why Instagram Will Be HUGE When It Comes To Android $GOOG by @KamailaSanders http://t.co/oQR17kIZ","lbl":"Neutral"}
+,{"time":"12:09","usr":"Quietgringo","txt":"RT @Goodlett: $YHOO\u0027s lawsuit against partner and rev sharer #Facebook reminds me of what they did ahead of $GOOG\u0027s #IPO in 2004 http://t.co/ex4KA9IA","lbl":"Neutral"}
+,{"time":"12:09","usr":"jastr","txt":"RT @SAI_Tools: Why Instagram Will Be HUGE When It Comes To Android $GOOG by @KamailaSanders http://t.co/B4bRTOGJ","lbl":"Neutral"}
 ,{"time":"12:10","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Big Developer Scrapping Android Due To Fragmentation $GOOG by @hleonard76 http://t.co/OUOf2vYa","lbl":"Negative"}
+,{"time":"12:11","usr":"kngbn97","txt":"RT @SAI: Why Instagram Will Be HUGE When It Comes To Android $GOOG by @KamailaSanders http://t.co/oQR17kIZ","lbl":"Neutral"}
 ,{"time":"13:21","usr":"TheAcsMan","txt":"\u0022Zombie Bystander\u0022 or #BuyAndHold? Drugs & wine may not mix, but I\u0027m liking the trickle down. $SBUX $GOOG http://t.co/FYO5Z7B9 #stockaction","lbl":"Positive"}
 ,{"time":"13:23","usr":"berkutchitweet","txt":"Hang in there $GOOG, I believe in you.","lbl":"Positive"}
+,{"time":"13:25","usr":"OTPBook","txt":"\u0022Zombie Bystander\u0022 or #BuyAndHold? Drugs & wine may not mix, but I\u0027m liking trickle down. $SBUX $GOOG $GMCR $ZSL $MS http://t.co/ZHFTvYms","lbl":"Neutral"}
+,{"time":"13:25","usr":"OptiontoProfit","txt":"\u0022Zombie Bystander\u0022 or #BuyAndHold? Drugs & wine may not mix, but I\u0027m liking trickle down. $SBUX $GOOG $GMCR $ZSL $MS http://t.co/xOWgglY0","lbl":"Neutral"}
 ,{"time":"14:35","usr":"Lowtown21","txt":"$GOOG bouncing back nicely today","lbl":"Positive"}
 ,{"time":"14:36","usr":"thefinancepress","txt":"$GOOG Apple Said to Be Subpoenaed by US Regulators on Google\u0027s Mobile Search: Apple Said to Be Subpoenaed by US... http://t.co/5w5qjVAo","lbl":"Negative"}
+,{"time":"14:38","usr":"jonasQuinn23","txt":"at this level, there is no hurdle big enough for $AAPL. next stop, passing $GOOG","lbl":"Neutral"}
 ,{"time":"14:38","usr":"NoDoji","txt":"$GOOG : )","lbl":"Positive"}
 ,{"time":"15:54","usr":"garrettgreen","txt":"RT @TylerRidings: We might get to see $AAPL overtake $GOOG very soon!","lbl":"Negative"}
+,{"time":"15:56","usr":"KashTrades","txt":"Why are people so fixed and excited to see $aapl overtake $goog in stock price, isn\u0027t $aapl already worth more?","lbl":"Neutral"}
+,{"time":"15:58","usr":"Emanuelson_9","txt":"RT @KashTrades: Why are people so fixed and excited to see $aapl overtake $goog in stock price, isn\u0027t $aapl already worth more?","lbl":"Neutral"}
+,{"time":"16:01","usr":"Bytesfrombits","txt":"Yahoo v Facebook $YHOO #patents #lawyer #Facebook $FB #IP #why $GOOG #google #CEO #technology #news http://t.co/Ss88ryoO","lbl":"Neutral"}
+,{"time":"17:43","usr":"Goodlett","txt":"Well done interview w/$AAPL design head, Sir Jonathan Ive, and his thoughts on design http://t.co/wGyhZo1P $GOOG $MSFT $NOK","lbl":"Neutral"}
+,{"time":"17:44","usr":"paolho","txt":"#StockWatchPaolo level 3: $MOH http://t.co/jCOY1ykd; $GOOG http://t.co/JufbdhtL; $KORS http://t.co/sLVkTpJD","lbl":"Neutral"}
+,{"time":"17:51","usr":"baris_malkoc","txt":"RT @SAI: CHART OF THE DAY: This Chart Tells The Real Story Of Android Versus iOS $AAPL $GOOG by @jyarow http://t.co/u8PZAV19","lbl":"Neutral"}
+,{"time":"22:00","usr":"investlite","txt":"On watch Wednesday: http://t.co/tCasTekT $AAPL $GOOG $VMW $CRM $WYNN $LNKD $ALLT $BIDU $UA $SHLD $DE $INFA $NOV $APA $BIIB $BEAM $BRCM $XOM","lbl":"Neutral"}
+,{"time":"22:03","usr":"investlite","txt":"Charts: http://t.co/tCasTekT $AAPL $ALLT $AMZN $APA $BAC $BEAM $BRCM $CDLX $CRM $CRR $DE $GOOG $GS","lbl":"Neutral"}
 ,{"time":"22:18","usr":"bbolan1","txt":"Will $goog please stop the cutesy upgrade names like ice cream sandwhich & just use a number?","lbl":"Negative"}
 ]

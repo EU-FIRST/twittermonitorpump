@@ -1,13 +1,42 @@
 [
-{"time":"8:17","usr":"thinkingtrades","txt":"Based on my past experience, time to go long is when it\u0027s hard to resist taking a short. Think $GOOG.","lbl":"Positive"}
+{"time":"4:28","usr":"thefinancepress","txt":"$GOOG Yelp Buys Website Qype for $50 Million to Grow in Europe: Yelp Buys Website Qype for $50 Million to Grow ... http://t.co/lA7Sms0f","lbl":"Neutral"}
+,{"time":"4:28","usr":"Rashn","txt":"RT @mikko: $AAPL stock over last month: -12.47% but last six months: +7.29% $GOOG stock over last month: -7.3% but last six months: +13.85% #rocky","lbl":"Neutral"}
+,{"time":"4:28","usr":"sotongcili","txt":"RT @mikko: $AAPL stock over last month: -12.47% but last six months: +7.29% $GOOG stock over last month: -7.3% but last six months: +13.85% #rocky","lbl":"Neutral"}
+,{"time":"7:09","usr":"Ktr8der","txt":"iPad Mini $329 v. Nexus $249: 31% thinner, 35% larger screen, 10% lighter, iMessage, 2 cams, LTE opt. $aapl $goog http://t.co/l6dg2vaw","lbl":"Neutral"}
+,{"time":"7:17","usr":"B4theStreet","txt":"$GOOG #Google-Backed Cool Planet hopes to raise (a lot of ) money for buifuel plant #GIGAOM http://t.co/KVgc7zIN...","lbl":"Neutral"}
+,{"time":"8:16","usr":"amr_alexandria","txt":"RT @parklandtrader: @GuyAdami @cnbcfastmoney @RedDogT3Live No one believed $FB could take share from $GOOG.. So who beat earnings $FB","lbl":"Neutral"}
+,{"time":"8:17","usr":"thinkingtrades","txt":"Based on my past experience, time to go long is when it\u0027s hard to resist taking a short. Think $GOOG.","lbl":"Positive"}
 ,{"time":"8:18","usr":"rtorcato","txt":"$GOOG needs to explain android activations. Are they including OS upgrades? Activations & hardware revenue don\u0027t match up. $AAPL","lbl":"Negative"}
+,{"time":"8:20","usr":"DeidreZune","txt":"Apple Doesn\u2019t Need a $200 iPad Mini http://t.co/Jm4d5RL6 $AAPL $AMZN $GOOG \u0022Should Amazon + Google be worried?Yes, they should be worried.\u201D","lbl":"Negative"}
 ,{"time":"8:51","usr":"KeithMcCullough","txt":"$GOOG risk remains on - $642 in play on the low end of our risk range","lbl":"Negative"}
 ,{"time":"8:52","usr":"tphedgegroup","txt":"Pushing the envelope, adding 3rd 10,000 of $GOOG this morning.","lbl":"Positive"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"Technology -The Earnings Surprise Signal http://t.co/D04hTzuP $GOOG $INTC $MSFT $YHOO","lbl":"Neutral"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"New Math Boosts Wireless Stocks http://t.co/Sigg84aL $AAPL $CSCO $GOOG $MSFT $QCOM $S $T $VZ $BRCM","lbl":"Neutral"}
 ,{"time":"9:30","usr":"parklandtrader","txt":"@cnbcfastmoney @GuyAdami @RedDogT3Live I know $GOOG is great on valuation but so was $YHOO before $GOOG came along.. $FB","lbl":"Positive"}
+,{"time":"10:16","usr":"TJAnderson1","txt":"Tech stocks..red; Financials...green. $C $JPM $WFC $GS $GOOG $QCOM $CSCO $WDC","lbl":"Neutral"}
+,{"time":"10:20","usr":"barronstechblog","txt":"FB: Merrill, Citi, Stifel Up to Buy; Suddenly Mobile Chugging Along? - Tech Trader Daily - $FB $ZNGA $GOOG $YHOO $MSFT http://t.co/oDJoYBYn","lbl":"Neutral"}
+,{"time":"10:58","usr":"tradethembi","txt":"78 min $GOOG shows flat line at fractal buyers ideal level, rising shakeout. needs to be above -12 http://t.co/1utk9bpd","lbl":"Neutral"}
+,{"time":"10:59","usr":"tradingview","txt":"$GOOG chart by darcy kincaid: http://t.co/RLxzwq2m GOOG Intraday Update.","lbl":"Neutral"}
+,{"time":"12:08","usr":"cnbcfastmoney","txt":"What\u2019s Beyond the Facebook Bounce: Pro http://t.co/KUwMMYqW $AAPL $FB $GOOG #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"12:09","usr":"2kaykim","txt":"Commented on StockTwits: nice on $FB and $GOOG trade! http://t.co/jfPRslbQ","lbl":"Neutral"}
+,{"time":"12:09","usr":"RealCrystalBall","txt":"What\u0027s Beyond the Facebook Bounce: Pro http://t.co/B9qlE4WE $AAPL $FB $GOOG #StockMarket #StockPicks #Stocks","lbl":"Neutral"}
 ,{"time":"13:02","usr":"ForexBrokersHub","txt":"With all the earning report leaks, did you get the chance to cash in on the $GOOG slide and $FB rise? I know I did. #CFD","lbl":"Negative"}
+,{"time":"13:03","usr":"nanexllc","txt":"Someone bot 1,295 Jan 16 $YHOO calls in 122 trades at 13:34. Just like the $GOOG calls 1 hour before drop last Thu.","lbl":"Neutral"}
+,{"time":"13:45","usr":"magoldman","txt":"@zimmermanjeff @googlewallet google pays the difference so no affect to merchants. Paid for by advertising revenues at $goog #Money2020","lbl":"Neutral"}
+,{"time":"14:25","usr":"KavehKM","txt":"RT @OptionsProfits: DRJ @optionmonster /Jill hit the radio again TODAY 3:45pm ET on Clear Channel\u0027s Trade Network @yorbamedia @TheStreet $AAPL $GOOG $IBM","lbl":"Neutral"}
 ,{"time":"14:25","usr":"Colarusso42","txt":"RT @ReutersTV: #Facebook, not #Google is increasingly driving internet traffic, says @Buzzfeed\u0027s @jonsteinberg http://t.co/GYYieNT7 $FB $GOOG","lbl":"Negative"}
+,{"time":"14:27","usr":"TheAroraReport","txt":"TIM COOK DUMPS STEVE JOBS\u0027 PRODUCT STRATEGIES WITH IPAD MINI $AAPL $GOOG $AMZN: http://t.co/eMxcCv0n","lbl":"Neutral"}
 ,{"time":"15:07","usr":"wargapapua","txt":"RT @timika___csfdau: Here goes! $GOOG \u0022Whoops! I can haz premature earnings release!\u0022 #insertLarryquotehere #transmittoVladimir #VaalisVaal #winning","lbl":"Negative"}
+,{"time":"15:12","usr":"wallstCS","txt":"Apple Pulls Previous Generation and 2 Tech Titans on the Move http://t.co/1kuOjMns $MU $AAPL $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"15:13","usr":"jonasQuinn23","txt":"$goog is down 97 from alltime high, $AAPL minus 88.","lbl":"Neutral"}
+,{"time":"16:26","usr":"matterhornbob","txt":"Creepy: Tomorrow\u0027s #MTREND Expected Range for $GOOG: $666.66 - $687.94 = no kidding","lbl":"Neutral"}
+,{"time":"17:50","usr":"jonasQuinn23","txt":"When a stock darling becomes a \u0022dud\u0022 http://t.co/jwjjqRmi via @reuters < very incisive piece on $AAPL $goog $cmg >","lbl":"Neutral"}
+,{"time":"17:51","usr":"USwwwStocks","txt":"$GOOG News: Google cameras map popular Grand Canyon trails http://t.co/iwwuXSJB #GOOG #cameras #Canyon","lbl":"Neutral"}
+,{"time":"17:51","usr":"USwwwStocks","txt":"$GOOG News: Cool Planet Plans to Turn Cobs Into Gas at $1.50 a Gallon http://t.co/oSzqLSHb #GOOG #150 #Cobs","lbl":"Neutral"}
 ,{"time":"17:52","usr":"JoshClayyy","txt":"$VRNG Verdict to be announced as soon as next Friday!!! Vringo in favor, $GOOG now has to show their defense Verrrrry","lbl":"Negative"}
+,{"time":"20:10","usr":"TheStreet","txt":"Want to Know about the new IPad? See what @Commodity_Bull says about it http://t.co/7VMj0Uad $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"20:10","usr":"RealCrystalBall","txt":"Want to Know about the new IPad? See what @Commodity_Bull says about it http://t.co/xAroKQaf $AAPL $AMZN $GOOG #Stocks","lbl":"Neutral"}
+,{"time":"20:14","usr":"howardlindzon","txt":"RT @ycharts 5 year trend in TTM revenue for the large tech players. $AAPL $GOOG $MSFT $YHOO $AMZN @howardlindzon http://t.co/AtnyVmif","lbl":"Neutral"}
 ,{"time":"23:16","usr":"2TradersClub","txt":"RT @howardlindzon Google needs some muscle here soon or else... RT @2kaykim $GOOG Classic Bear Flag.. http://t.co/Zt0re2xg","lbl":"Negative"}
 ,{"time":"23:34","usr":"thegisboy","txt":"$VRNG & $GOOG case update http://t.co/IRRQcqsq Author is long VRNG. GOOG takes the floor tomorrow and embarks on an uphill battle","lbl":"Negative"}
 ]

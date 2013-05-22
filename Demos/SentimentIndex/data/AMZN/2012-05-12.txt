@@ -1,3 +1,5 @@
 [
 {"time":"10:22","usr":"Sangluccitrades","txt":"http://t.co/7ICux4NF Verified $6,583.30 loss in $AMZN Tried to size heavy into this and couldn\u0027t take the heat.","lbl":"Negative"}
+,{"time":"10:22","usr":"Sangluccitrades","txt":"http://t.co/Oe3yGhpc Verified $3,698.75 profit in $AMZN Made SOME of it back","lbl":"Neutral"}
+,{"time":"10:53","usr":"UrbBlurb","txt":"RT @MarinaStrauss: race for cdn eshopping .. http://t.co/UaCaqYhh takes aim at Canada\u2019s online buyers http://t.co/0zA3NhDZ via @globeandmail $WMT $AMZN","lbl":"Neutral"}
 ]

@@ -1,11 +1,40 @@
 [
-{"time":"7:20","usr":"outlawz616","txt":"Despite all that, JPM has an Overweight rating on $GOOG! They forgot to mention $ORCL suing them for billions. Android was built on Java.","lbl":"Negative"}
+{"time":"3:47","usr":"MrBege1","txt":"Google X research facility and its secret projects http://t.co/0dwPEbGM #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"3:54","usr":"USwwwStocks","txt":"$GOOG News: Velarde Says Peru Rates Neutral as Economic Growth Picks Up http://t.co/v76lhDMJ #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"4:13","usr":"NoDoji","txt":"bid-ask on $GOOG & $AAPL nearly identical","lbl":"Neutral"}
+,{"time":"4:31","usr":"Rapmonster","txt":"http://t.co/oZvvlYCl - will $GOOG and $RIMM go up, get the charts.","lbl":"Neutral"}
+,{"time":"7:20","usr":"outlawz616","txt":"Despite all that, JPM has an Overweight rating on $GOOG! They forgot to mention $ORCL suing them for billions. Android was built on Java.","lbl":"Negative"}
 ,{"time":"7:20","usr":"Clarencebz47","txt":"Despite all that, JPM has an Overweight rating on $GOOG! They forgot to mention $ORCL suing them for billions. A... http://t.co/ybtTGFmt","lbl":"Negative"}
+,{"time":"7:21","usr":"SABRElAH","txt":"1o Things you need to know this morning $FB $GOOG $AAPL $MSFT $YHOO by @_dtl http://t.co/9VSwLupa","lbl":"Neutral"}
 ,{"time":"7:21","usr":"ybfmiami","txt":"$GOOG is a directionless company throwing money all over the place. $AAPL focused & not wasteful. $AAPL much better investment.","lbl":"Negative"}
+,{"time":"8:48","usr":"kaylatausche","txt":"Love that @andrewrsorkin topped his $GOOG column (http://t.co/3xsL3uLf ) with same anecdote I tweeted last week! http://t.co/gvJDuZxq","lbl":"Neutral"}
+,{"time":"8:48","usr":"alexbarinka","txt":"RT @kaylatausche: Love that @andrewrsorkin topped his $GOOG column (http://t.co/3xsL3uLf ) with same anecdote I tweeted last week! http://t.co/gvJDuZxq","lbl":"Neutral"}
+,{"time":"9:33","usr":"DrDuru","txt":"$600 has become a real magnet for $GOOG. But it is also serving as firm support for the last 2 months or so.","lbl":"Neutral"}
+,{"time":"10:18","usr":"HomeRunStocks","txt":"A Cloudy Forecast ($AAPL $AMZN, $BVSN, $CRM, $EBAY, $GOOG, $GWIV, $IBM, $ORCL $SAP) http://t.co/75RdeFl4 ~ http://t.co/NIpqjSd7","lbl":"Neutral"}
+,{"time":"10:18","usr":"AgressiveStocks","txt":"A Cloudy Forecast ($AAPL $AMZN, $BVSN, $CRM, $EBAY, $GOOG, $GWIV, $IBM, $ORCL $SAP) http://t.co/5gV1pr7p ~ http://t.co/HL3r6P11","lbl":"Negative"}
+,{"time":"10:18","usr":"QStocksMedia","txt":"A Cloudy Forecast ($AAPL $AMZN, $BVSN, $CRM, $EBAY, $GOOG, $GWIV, $IBM, $ORCL $SAP) http://t.co/Zb0SBWvO ~ http://t.co/Y6CSytdi","lbl":"Negative"}
+,{"time":"10:18","usr":"SCRelations","txt":"A Cloudy Forecast ($AAPL $AMZN, $BVSN, $CRM, $EBAY, $GOOG, $GWIV, $IBM, $ORCL $SAP) http://t.co/a875DVcA ~ http://t.co/9CTcUr0b","lbl":"Negative"}
+,{"time":"11:20","usr":"dirtbike_hippie","txt":"iPhones for Psychos http://t.co/vM4ejENO #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"11:21","usr":"maxbury","txt":"Awesome talk with Roger McNamee regarding Google & OpenSource: http://t.co/VX5R5AWX (via @PandoDaily) He even talks Unix! $GOOG #googlebears","lbl":"Neutral"}
+,{"time":"11:22","usr":"SAI","txt":"Why You Should Really Give Microsoft SkyDrive A Try $MSFT $GOOG by @Julie188 http://t.co/UI2Ubz5w","lbl":"Neutral"}
+,{"time":"11:23","usr":"AD_Hunter","txt":"RT @SAI: Why You Should Really Give Microsoft SkyDrive A Try $MSFT $GOOG by @Julie188 http://t.co/UI2Ubz5w","lbl":"Neutral"}
+,{"time":"12:02","usr":"Fitzstock2004","txt":"$AAPL http://t.co/0BgmrCQw Similar TOPPING PATTERN....found in $goog 08/2005.....dont rule out , more consolidation...","lbl":"Neutral"}
+,{"time":"12:04","usr":"thefinancepress","txt":"$GOOG Google \u0027Did Nothing Wrong,\u0027 CEO Page Tells Jury in Java Case: Google \u0027Did Nothing Wrong,\u0027 CEO Page Tells ... http://t.co/Bj0CYVaW","lbl":"Neutral"}
+,{"time":"12:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/116, $NSU/74, $CHK/64, $SPY/47, $GOOG/45, $BBY/40, $GS/24, $BAC/20. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"12:55","usr":"MockTrade","txt":"$GOOG now bouncing off 607; needed 607 to break to help out NQ bears so now have 2 watch 1381 area 4 ES & 800 4 TF to confirm EOD","lbl":"Negative"}
+,{"time":"12:58","usr":"ozantechnews","txt":"RT @SAI: Larry Page: I\u0027m \u0027Not Sure\u0027 Android Is A Critical Asset To Google $GOOG by @jyarow http://t.co/rzaf4Neh","lbl":"Neutral"}
+,{"time":"13:43","usr":"Royal_Arse","txt":"Not for $GOOG, but Brazil, South Korea, India, and Russia now allow only a one-share, one-vote structure. http://t.co/HNNnyoNZ","lbl":"Neutral"}
+,{"time":"13:43","usr":"tsgiles","txt":"Yahoo, Google: Proud Product Killers - Bloomberg http://t.co/sVx2LdmT $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"14:26","usr":"aznboi27","txt":"they still trying to get $GOOG and $AAPL to close at the same price.. MM","lbl":"Neutral"}
 ,{"time":"14:27","usr":"roychiu1","txt":"RT @SAI: The Top 10 Reasons To Pick Android Over iPhone $GOOG $AAPL by @stevekovach http://t.co/hNpk2uUB","lbl":"Positive"}
+,{"time":"14:27","usr":"saurabhjoshi","txt":"RT @businessinsider: The Top 10 Reasons To Pick Android Over iPhone $GOOG $AAPL by @stevekovach http://t.co/eJGMHZVc","lbl":"Neutral"}
+,{"time":"16:04","usr":"StockSage1","txt":"Commented on StockTwits: $1 to trade 200 shares of $AAPL or $GOOG at IB? You can trade over $100k each way for $1, t... http://t.co/qWjGD5m6","lbl":"Neutral"}
+,{"time":"17:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $EBAY/101, $AAPL/57, $FFIV/35, $QCOM/31, $GOOG/25, $CHK/23, $VMW/19, $AMZN/19. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"17:21","usr":"flamark_915","txt":"RT @businessinsider: The Top 10 Reasons To Pick Android Over iPhone $GOOG $AAPL by @stevekovach http://t.co/Uk3cIQkQ","lbl":"Neutral"}
 ,{"time":"18:55","usr":"InvestorHerald","txt":"RT @Vconomics: This isn\u0027t a typo: in the last 6 months, $GOOG insiders have sold 900 million dollars worth of stock, 772.6 million dollars worth in 2012.","lbl":"Negative"}
 ,{"time":"18:55","usr":"MNYCx","txt":"RT @Vconomics: This isn\u0027t a typo: in the last 6 months, $GOOG insiders have sold 900 million dollars worth of stock, 772.6 million dollars worth in 2012.","lbl":"Negative"}
+,{"time":"21:41","usr":"triathlete1","txt":"RT @SAI: The Top 10 Reasons To Pick Android Over iPhone $GOOG $AAPL by @stevekovach http://t.co/hNpk2uUB","lbl":"Neutral"}
 ,{"time":"21:53","usr":"USwwwStocks","txt":"$GOOG News: Google fined $25000 for impeding FCC investigation http://t.co/kx555uYL #daytrading #usa #www #stocks","lbl":"Negative"}
 ,{"time":"21:53","usr":"mo_lazarus","txt":"RT @Vconomics: $GOOG insiders sold 181,077 shares or $114.8 million dollars worth of $GOOG stock in April. There have been NO buys by insiders this year.","lbl":"Negative"}
+,{"time":"22:00","usr":"investlite","txt":"Charts for Thursday, 4/18 - $aapl $amzn $azo $bbby $beam $gld $gmcr $goog $lnkd $nvda $sina $stx $ts $wdc $wynn $yoku http://t.co/2v29tVtj","lbl":"Neutral"}
 ]

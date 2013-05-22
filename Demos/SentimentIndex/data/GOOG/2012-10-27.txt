@@ -1,6 +1,15 @@
 [
-{"time":"12:56","usr":"socmediapros","txt":"@Legacy_Trades @chrishar00 @socmediapros Recent drop in $GOOG due to missd earngs but futur AD rev grwth dsktp mobil still mk it lng trm buy","lbl":"Positive"}
+{"time":"1:17","usr":"seeminglee","txt":"How did I not know that @Zagat was acquired by $GOOG last year?! http://t.co/sreX9piE clearly I am out of touch w/ the world. #food #data","lbl":"Neutral"}
+,{"time":"8:03","usr":"StockTwits","txt":"Some great saturday morning charts from @fitzstock2004... \u0022Charts While U Sleep\u0022 http://t.co/ishUR8uT $AAPL $GOOG $SLV","lbl":"Neutral"}
+,{"time":"9:50","usr":"JNWeisbord","txt":"RT @RDeanon: http://t.co/8FlasNp7 $VRNG $GOOG Dr. Ungar Does Poorly in \u0027expert testimony\u0027 (edvacourt update) Fri Oct 26th $AAPL $MSFT $FB","lbl":"Neutral"}
+,{"time":"9:52","usr":"seeminglee","txt":"By using a unique hash tag http://t.co/aFcpHTfX I can use $GOOG to search for everything I\u2019ve ever loved on the web; #hacks #data #smllove","lbl":"Neutral"}
+,{"time":"12:54","usr":"JasonRichwagen","txt":"The Real Story on Apple - and I disagree with this BEAR - $AAPL $GOOG $MSFT http://t.co/CjBlsCdd via @minyanville","lbl":"Neutral"}
+,{"time":"12:56","usr":"socmediapros","txt":"@Legacy_Trades @chrishar00 @socmediapros Recent drop in $GOOG due to missd earngs but futur AD rev grwth dsktp mobil still mk it lng trm buy","lbl":"Positive"}
 ,{"time":"13:03","usr":"SAI_Tools","txt":"Google Cancels Its October 29 Android Event Because Of Hurricane Sandy $GOOG by @stevekovach http://t.co/ZjuVVpDk","lbl":"Negative"}
+,{"time":"13:54","usr":"nereidadin","txt":"Back to work... The Latest ST50 List and Market Analysis, October 29 http://t.co/lvbEAbtC via @StockTwits50 $GOOG $DDD $QQQ","lbl":"Neutral"}
 ,{"time":"17:22","usr":"Mortimer_Duke","txt":"RT @Fitzstock2004: $GOOG still avoid (see notes) http://t.co/29DRQiUU","lbl":"Negative"}
+,{"time":"23:28","usr":"andrias98","txt":"Oke deh.. \u201C@SAI: Google Is Now Doing Same-Day Shopping Delivery $GOOG by @Jim_Edwards http://t.co/qfHPsZid\u201D","lbl":"Neutral"}
 ,{"time":"23:31","usr":"waizwomann","txt":"RT @BI_Advertising: Google Is Now Doing Same-Day Shopping Delivery $GOOG by @Jim_Edwards http://t.co/0vJ9fbBV","lbl":"Positive"}
+,{"time":"23:33","usr":"DkChoco","txt":"RT @businessinsider: Google Is Now Doing Same-Day Shopping Delivery $GOOG by @Jim_Edwards http://t.co/rPLvBOlY","lbl":"Neutral"}
+,{"time":"23:39","usr":"DIOMON56","txt":"RT @CoryTV: YOY $GOOG paid clicks up 33%, compared to 18% growth a year ago. But cost per click shrinks 15% yoy -- hello mobile! http://t.co/3jFWjgjC","lbl":"Neutral"}
 ]

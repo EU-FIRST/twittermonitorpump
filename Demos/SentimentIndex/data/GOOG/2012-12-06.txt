@@ -1,14 +1,31 @@
 [
-{"time":"8:53","usr":"matt_L","txt":"And Here Is Why It Must Be So Cool To Work At The Top Of Apple $AAPL or $GOOG by @nichcarlson http://t.co/OWj7e5jv","lbl":"Positive"}
+{"time":"2:36","usr":"Teneerrr","txt":"RT @AaronLucchetti: \u0022The adult way to run a business is to run it more like a country\u0022 http://t.co/nSlxToIX via @WSJ, $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"8:53","usr":"matt_L","txt":"And Here Is Why It Must Be So Cool To Work At The Top Of Apple $AAPL or $GOOG by @nichcarlson http://t.co/OWj7e5jv","lbl":"Positive"}
+,{"time":"8:57","usr":"petergo99037185","txt":"$USD 79.85 +0.02 (+ is bad) EURO -0.0008, GOLD -2.6, Silvr -0.21, QQQ -0.20, $AAPL-8 premarket, $GOOG flat, $DOW -13, Nassdq -7, $spx -2.40.","lbl":"Neutral"}
 ,{"time":"9:55","usr":"UdallTechStrat","txt":"RT @NorthmanTrader: $AAPL $GOOG calls working well. This could be a monster day..","lbl":"Positive"}
 ,{"time":"9:56","usr":"pthegr8trades","txt":"$GOOG 15min 693.63 for extension higher with trgt 12/3 high. still in a 690/700 call vertical http://t.co/nuR8R3sd","lbl":"Positive"}
+,{"time":"11:12","usr":"SeekingAlpha","txt":"2 Ways To Separate Winners From Losers In The High Technology Industries http://t.co/scBNmPjG $AAPL $GOOG $HPQ $INTC $MSFT","lbl":"Neutral"}
+,{"time":"11:12","usr":"FeedTheBull","txt":"My Best Technology Stock Picks For 2013 http://t.co/JfbhQJuR #ftb #bull via @DividendSheet $GOOG $BIDU $ORCL $AAPL","lbl":"Neutral"}
 ,{"time":"12:25","usr":"dschorrnyc","txt":"Some names I like for 2013: Longs- $HES, $HHC, $SHLD, $ZIOP, $AIG, $BAC, $AAPL, $GOOG, $FB, $CDR, $DDD, $NKE, $CMG, $GDX/J. Short- $CRM","lbl":"Positive"}
 ,{"time":"12:26","usr":"StockMarket411","txt":"Nexus 4 stock shortage down to \u2018huge demand\u2019, LG explains $goog http://t.co/VdQuEtXG goog, google, google stock, news","lbl":"Positive"}
 ,{"time":"13:38","usr":"steelydude","txt":"Stiil long $GOOG , great action given $AAPL plunge, believe $GOOG FOLLOWS 100dma upward - stk MUST break above 700 to right its 50DMA","lbl":"Positive"}
+,{"time":"13:38","usr":"TTN12","txt":"$TIVO Janny sez $GOOG could buy them out","lbl":"Neutral"}
 ,{"time":"14:21","usr":"rruhlen","txt":"RT @SAI: Proof That Android Is Losing The Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/iHQdf8er","lbl":"Negative"}
+,{"time":"14:21","usr":"StockMarket411","txt":"Will Google Buy TiVo? $goog http://t.co/Mf4nVF2c goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"14:21","usr":"dcrenn","txt":"$MJNA is shaping up to be the biggest commodity boom of 2013. #Stocks $AAPL $GOOG $FB $YHOO $EBOD $TPAC $ZYNGA $UEPS $PPHM $PFE $CBIS $HEMP","lbl":"Neutral"}
 ,{"time":"14:47","usr":"TechWzrd","txt":"@sdishman2 Your welcome. I would handicap the chance of a $GOOG acquisition pretty low. I don\u0027t think $TIVO would sell for $18.","lbl":"Negative"}
+,{"time":"14:48","usr":"Cr8tvEye","txt":"RT @businessinsider: Proof That Android Is Losing The Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/nNXrZukY","lbl":"Neutral"}
 ,{"time":"14:49","usr":"Reviews_R_Us","txt":"RT @SAI: Proof That Android Is Losing The Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/iHQdf8er","lbl":"Negative"}
+,{"time":"15:28","usr":"Draztek","txt":"@SJosephBurns Yeah I have to agree you always have to hit the ask, never can get the bid. $GOOG Im bidding on the 685/695 now, poised 2 move","lbl":"Neutral"}
+,{"time":"15:29","usr":"dcrenn","txt":"$MJNA | America\u0027s MJ boom is just beginning! #Stocks $AAPL $GOOG $FB $YHOO $EBOD $TPAC $ZYNGA $NOK $UEPS $LVVV $NFLX $PPHM $PFE $CBIS $HEMP","lbl":"Neutral"}
 ,{"time":"15:30","usr":"DigitalbyD","txt":"RT @businessinsider: Proof That Android Is Losing The #Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/U6gFMkpV","lbl":"Negative"}
 ,{"time":"16:41","usr":"Zipgenie","txt":"RT @SAI: Proof That Android Is Losing The Smartphone War With The iPhone $GOOG $AAPL by @jyarow http://t.co/iHQdf8er","lbl":"Negative"}
+,{"time":"16:42","usr":"fambizpros","txt":"RT @AaronLucchetti: \u0022The adult way to run a business is to run it more like a country\u0022 http://t.co/nSlxToIX via @WSJ, $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"16:47","usr":"StockRecaps","txt":"$GOOG The Goodyear Tire & Rubber Company adds John McGlade to board + more $GT Goodyear Tire & Rubber News http://t.co/GZHQvW7q #_amp_amp","lbl":"Neutral"}
+,{"time":"18:16","usr":"SPDIeu","txt":"Belum Pernah Digugat @Apple, @Google Keheranan http://t.co/QIDNeKoZ $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"18:18","usr":"lga11i","txt":"RT @dottavi: Oh gosh I\u0027ve just discovered Cashtags, thnks to @marksluckie: $GOOG $AMZN $LNKD $AAPL $NOK $EBAY $YHOO... wow","lbl":"Neutral"}
+,{"time":"18:19","usr":"BenCBanks","txt":"VERY in depth ANALYSIS today - http://t.co/lXajEncI $SPY $AAPL $GOOG $AMZN $LULU $FB $IBM $SBUX and more.","lbl":"Neutral"}
+,{"time":"20:56","usr":"powitz","txt":"RT @Fitzstock2004: $bac $ebay $pcln $sbux $jpm $amzn $goog $all $emn $yhoo $v $ma $dish all look good and continue to grind higher","lbl":"Positive"}
+,{"time":"23:16","usr":"RIConferences","txt":"RT @StockTwits: Nielsen | Social Media Report 2012 http://t.co/quefu91P $FB $GOOG $LNKD et al..","lbl":"Neutral"}
 ,{"time":"23:26","usr":"JustinPulitzer","txt":"Android 4.2 called \u2018one of the most bug-ridden releases since Honeycomb\u2019 http://t.co/jFP5Wy2x $GOOG $AAPL","lbl":"Negative"}
 ]

@@ -1,12 +1,25 @@
 [
 {"time":"4:27","usr":"NoosphereInc","txt":"#icymi @pegobry on how Amazon can win the local & smartphone markets in one fell swoop: http://t.co/qZWfZSQF $AMZN","lbl":"Positive"}
+,{"time":"4:28","usr":"pegobry","txt":"RT @NoosphereInc: #icymi @pegobry on the Amazon and Apple earnings: http://t.co/DeI2uRGm $AAPL $AMZN","lbl":"Neutral"}
 ,{"time":"4:28","usr":"pegobry","txt":"RT @NoosphereInc: #icymi @pegobry on how Amazon can win the local & smartphone markets in one fell swoop: http://t.co/qZWfZSQF $AMZN","lbl":"Positive"}
+,{"time":"4:29","usr":"naoto_matsumoto","txt":"RT @TheStreet: Is $MSFT CEO Steve Ballmer Crazy? by @rocco_thestreet http://t.co/qHnZhuWc $GOOG $AMZN $RIMM","lbl":"Neutral"}
+,{"time":"7:12","usr":"GreatFavorites","txt":"RT @TheStreet: Is $MSFT CEO Steve Ballmer Crazy? by @rocco_thestreet http://t.co/qHnZhuWc $GOOG $AMZN $RIMM","lbl":"Neutral"}
+,{"time":"7:20","usr":"mattb_stellar","txt":"RT @TheStreet: Is $MSFT CEO Steve Ballmer Crazy? by @rocco_thestreet http://t.co/qHnZhuWc $GOOG $AMZN $RIMM","lbl":"Neutral"}
+,{"time":"8:12","usr":"CaronWidden","txt":"RT @LukeRomyn: Go beyond the myths with BEYOND HADES: http://t.co/OONOLl4p $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"8:15","usr":"Lewis_ASTAIRE","txt":"RT @LukeRomyn: Go beyond the myths with BEYOND HADES: http://t.co/OONOLl4p $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"8:16","usr":"Brysapp","txt":"ARCA Mini Options contracts in the works. 10X multiplier instead of 100X $SPY $AAPL $GLD $GOOG $AMZN http://t.co/6LjI5KJJ","lbl":"Neutral"}
 ,{"time":"8:18","usr":"dmackdaddy","txt":"LOL, so true! Amazon compares Kindle Fire HD to iPad mini, BUT forgets some key specs http://t.co/4nj8StWX $AAPL $AMZN","lbl":"Negative"}
+,{"time":"8:44","usr":"GreggKnight_","txt":"RT @SAI: Amazon Paid This Exec $325,000 Not To Work For Google, But He\u0027s Doing It Anyway $AMZN $GOOG by @nichcarlson http://t.co/UvQ1AICh","lbl":"Neutral"}
+,{"time":"9:20","usr":"towerlowe","txt":"RT @LukeRomyn: Dive into action with these four incredible adventures! http://t.co/bFjQpO2v $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"9:54","usr":"OgFOMK","txt":"Amazon Election Heat Map 2012 http://t.co/E0wZvK6k via @amazon $AMZN What are the readers of Amazon reading red verses blue.","lbl":"Neutral"}
+,{"time":"11:21","usr":"Crap_Trader","txt":"My current spreads positions: http://t.co/qWgeAfcU $LULU $JOY $YUM $AMZN $GLD $AAPL $GOOG $VMW $SLB $MON","lbl":"Neutral"}
 ,{"time":"11:51","usr":"TheAcsMan","txt":"\u0022Turning Hatred into Profits\u0022 Don\u0027t have to be detested short seller to root for losses $CLF $AAPL $AMZN http://t.co/kxM4ZXwH #stockaction","lbl":"Negative"}
 ,{"time":"11:54","usr":"sabrientsystems","txt":"ETF Periscope: With Companies Sitting On Massive Cash, Expect Blisters On Bottom Lines $DJIA $SPX $NASDAQ $APPL $AMZN http://t.co/j2vzpjAb","lbl":"Positive"}
 ,{"time":"11:55","usr":"HarryWanger","txt":"$GOOG To give you more room for all that great content you can now get Nexus 7 with 16GB ($199) - So again why would anyone buy $AMZN Fire?","lbl":"Negative"}
 ,{"time":"13:30","usr":"gbgangeu","txt":"$AAPL, $AMZN, $MSFT all good hedges IMO for this still emerging era of tablets and mobile.","lbl":"Positive"}
+,{"time":"13:31","usr":"ImZorroDammit","txt":"RT @SeekingAlpha: Is This The End Of Apple\u0027s Run? http://t.co/vd5iYyqX $AMZN $GOOG $MSFT $P $AAPL","lbl":"Neutral"}
 ,{"time":"15:40","usr":"mitchdeg","txt":"$AMZN invests heavily to gain market share and make profit (much) later, while $AAPL wants to make lots of profit NOW ! cc @tbayart","lbl":"Negative"}
 ,{"time":"17:25","usr":"ScottMartindale","txt":"ETF Periscope: With Companies Sitting On Massive Cash, Expect Blisters On Bottom Lines | Sabrient http://t.co/bjAQxaor $AAPL $AMZN #etf","lbl":"Positive"}
 ,{"time":"19:54","usr":"breizh2008","txt":"Amazon Calls Out The iPad Mini: Is Apple Running Out Of Steam? http://t.co/gA6udCDH $AMZN $GOOG $RIMM $AAPL","lbl":"Positive"}
+,{"time":"20:03","usr":"ashwindwivedi","txt":"The #mobile landscape has never been more #interesting. $AAPL $GOOG $MSFT and $AMZN - it\u0027s #FightUntilDeath.","lbl":"Neutral"}
 ]

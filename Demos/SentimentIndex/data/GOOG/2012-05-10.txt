@@ -1,21 +1,45 @@
 [
-{"time":"3:00","usr":"TheStreet","txt":"Is Google TV Doomed? Not Necessarily http://t.co/bkNQ8RJW by @MarekFuchs $GOOG","lbl":"Negative"}
+{"time":"2:34","usr":"jmcaule","txt":"Apple vs Google - Reggie Middleton Explains $AAPL $GOOG: http://t.co/0uSn0wWO","lbl":"Neutral"}
+,{"time":"3:00","usr":"TheStreet","txt":"Is Google TV Doomed? Not Necessarily http://t.co/bkNQ8RJW by @MarekFuchs $GOOG","lbl":"Negative"}
+,{"time":"4:14","usr":"MR_Robama","txt":"Google X research facility and its secret projects http://t.co/JT07nw0b #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
 ,{"time":"7:51","usr":"BUDDIEE18","txt":"RT @themaxpain: $GOOG ($609.15), 5/10/2012, current max pain strike price: $615.00. Put/Call ratio: 0.735. #GOOG","lbl":"Negative"}
+,{"time":"7:54","usr":"plars2","txt":"RT @SAI: 10 Things You Need To Know This Morning $YHOO $GOOG $LNKD by @shontelaylay http://t.co/NKGfFVTO","lbl":"Neutral"}
+,{"time":"9:28","usr":"lluccipha","txt":"SAI: Microsoft Is Pulling A Silly, Apple-Like Move With Windows 8 Tablets $MSFT $GOOG $AAPL by @stevekovach http://t.co/cDPU4uhy","lbl":"Neutral"}
 ,{"time":"9:29","usr":"HomeHedgie","txt":"Sticking with $NQ_F long for a bit while $GOOG and $AAPL stay green.","lbl":"Positive"}
 ,{"time":"10:43","usr":"lluccipha","txt":"SAI: THE GOOGLE INVESTOR: Maybe Samsung Is Ditching Google After All, Going After Apple Themselves $GOOG by @hleonard76 http://t.co/zblexNTm","lbl":"Negative"}
 ,{"time":"10:43","usr":"asianchica22","txt":"RT @SAI: THE GOOGLE INVESTOR: Maybe Samsung Is Ditching Google After All, Going After Apple Themselves $GOOG by @hleonard76 http://t.co/oHv1RuIm","lbl":"Negative"}
 ,{"time":"10:44","usr":"isaacada1","txt":"RT @SAI: THE GOOGLE INVESTOR: Maybe Samsung Is Ditching Google After All, Going After Apple Themselves $GOOG by @hleonard76 http://t.co/oHv1RuIm","lbl":"Negative"}
 ,{"time":"10:44","usr":"DavidConklin21","txt":"Strange day today..dead cat bounce? i think so.$AAPL and $GOOG up the $QQQ down. Short $AAPL $573 risk $576. short $GOOG $614.50 risk $617","lbl":"Negative"}
 ,{"time":"11:53","usr":"HCaballerosJr","txt":"RT @SAI: Check Out mSpot, Samsung\u0027s New Cloud Music Service That\u0027s Better Than iTunes Match $GOOG $AAPL by @officialKLS http://t.co/NHU56bUO","lbl":"Negative"}
+,{"time":"11:55","usr":"mikequity","txt":"RT @VinodColeslaw: $GOOG is the Oldsmobile of social.","lbl":"Neutral"}
+,{"time":"11:57","usr":"danielpmaloney","txt":"RT @SAI: Check Out mSpot, Samsung\u0027s New Cloud Music Service That\u0027s Better Than iTunes Match $GOOG $AAPL by @officialKLS http://t.co/NHU56bUO","lbl":"Neutral"}
+,{"time":"12:29","usr":"kngbn97","txt":"RT @SAI: Check Out mSpot, Samsung\u0027s New Cloud Music Service That\u0027s Better Than iTunes Match $GOOG $AAPL by @officialKLS http://t.co/NHU56bUO","lbl":"Neutral"}
+,{"time":"12:29","usr":"campione","txt":"#Google puts a price tag on #Cloud #SQL services http://t.co/EbL5zbNH v @GigaOM $GOOG","lbl":"Neutral"}
+,{"time":"12:30","usr":"brenondaly","txt":"Google VP: Web in 3rd generation: first \u2018info\u2019, then \u2018transactions\u2019, now \u2018relationships\u2019. $GOOG dominated first, but what abt the next two?","lbl":"Neutral"}
 ,{"time":"12:53","usr":"brandee","txt":"RT @SAI: Microsoft Just Blew Google Away In Social Search $MSFT $GOOG by @MattRosoff http://t.co/D2VLMMfg","lbl":"Negative"}
 ,{"time":"12:54","usr":"Tech4Africa","txt":"@SAI Does $GOOG still have their eye on the ball? /cc @mattrosoff","lbl":"Negative"}
 ,{"time":"12:54","usr":"IvanTheK","txt":"Microsoft Blue Screen of Death? RT @SullyCNBC: Big Bing Theory: $MSFT to make Bing changes.. its pretty cool & $GOOG can\u0027t do what its doing","lbl":"Negative"}
+,{"time":"13:15","usr":"MebFaber","txt":"RT @marketfolly: Interviews with Julian Robertson & Jim Chanos: Columbia Business School Newsletter http://t.co/amH0y9Xw $GOOG $AAPL $WX $AVP $IR $LM $HRB","lbl":"Neutral"}
 ,{"time":"13:18","usr":"BlueFielder","txt":"$GooG ... Solid run at R2 (616) here","lbl":"Positive"}
 ,{"time":"13:20","usr":"OliWilly","txt":"RT @businessinsider: Microsoft Just Blew Google Away In Social Search $MSFT $GOOG by @MattRosoff http://t.co/8zRezz6n","lbl":"Negative"}
+,{"time":"13:56","usr":"graubart","txt":"\u0022there\u0027s a two-horse race in mobile: it\u0027s the iPhone and the iPad\u0022 @BrianAlvey (Kindle Fire & Galaxy Tab fighting over 1%) $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"13:56","usr":"MInvestmentsLLC","txt":"RT @CNNMoney: RT @DavidGoldmanCNN: Microsoft fires shot across Google\u0027s bow with new Bing social search http://t.co/cfPo80bf $MSFT $GOOG","lbl":"Negative"}
+,{"time":"14:00","usr":"BioTechReports","txt":"$YMI - HUGE BREAKOUT!.#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn,$c","lbl":"Neutral"}
+,{"time":"15:23","usr":"tinachahal","txt":"RT @SAI: Dropbox Is Doing The Smartest Thing It Can To Protect Itself From Google: Staffing Up In Mobile $GOOG by @mattlynley http://t.co/q7S9ms3Y","lbl":"Neutral"}
+,{"time":"15:25","usr":"julienmenthon","txt":"RT @SAI: Dropbox Is Doing The Smartest Thing It Can To Protect Itself From Google: Staffing Up In Mobile $GOOG by @mattlynley http://t.co/q7S9ms3Y","lbl":"Neutral"}
+,{"time":"15:25","usr":"iamsigal","txt":"RT @SAI: Dropbox Is Doing The Smartest Thing It Can To Protect Itself From Google: Staffing Up In Mobile $GOOG by @mattlynley http://t.co/q7S9ms3Y","lbl":"Neutral"}
+,{"time":"15:25","usr":"NiueNews1","txt":"RT @SAI: Stop Wasting Time: These Are The Social Networks You Should Really Be Using $GOOG $FB by @_dtl http://t.co/eDBlKJzn","lbl":"Neutral"}
+,{"time":"17:06","usr":"kngbn97","txt":"RT @SAI: Dropbox Is Doing The Smartest Thing It Can To Protect Itself From Google: Staffing Up In Mobile $GOOG by @mattlynley http://t.co/q7S9ms3Y","lbl":"Neutral"}
+,{"time":"17:10","usr":"MattRosoff","txt":"Yahoo\u0027s Search Market Share Is Dropping Like A Stone $YHOO $MSFT $GOOG http://t.co/IYAAbUYc","lbl":"Neutral"}
+,{"time":"19:22","usr":"HamzeiAnalytics","txt":"RT @YolandaYeh: McCosh filling up fast for @EricSchmidt! Looking forward to some great insights #turingprinceton $GOOG","lbl":"Neutral"}
+,{"time":"19:23","usr":"thefinancepress","txt":"$GOOG Facebook Plans to Introduce Apple-Like App Store: Facebook Plans to Introduce Apple-Like App Store Busine... http://t.co/z3vgxyRP","lbl":"Neutral"}
 ,{"time":"19:24","usr":"kharise","txt":"RT @SAI: Google And Mozilla Should Quit Crying About Windows Tablets $GOOG $MSFT by @MattRosoff http://t.co/EzhKimoZ","lbl":"Negative"}
+,{"time":"19:26","usr":"MoonMagicGLD","txt":"@ChatterBoxStox All we talk about is $AAPL and $FB when $GOOG just beat $AAPL to the tv market","lbl":"Neutral"}
 ,{"time":"20:07","usr":"peculator","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Negative"}
 ,{"time":"20:07","usr":"azlancat","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Negative"}
 ,{"time":"20:07","usr":"daevin1","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Negative"}
+,{"time":"20:07","usr":"TraderNewburgh","txt":"$SPY http://t.co/NyI9Sbb0 stock setups part I (VIDEO) $AAPL $GOOG $FXE $GLD $AMZN $ULTA","lbl":"Neutral"}
 ,{"time":"20:54","usr":"_SimonUK_","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Negative"}
+,{"time":"20:55","usr":"yudejavu","txt":"RT @StockTwits: Thursday links: existential humility http://t.co/GHMnLNx5 via @abnormalreturns $CHK $CHKM $GSVC $GOOG $EA $DOLE","lbl":"Neutral"}
+,{"time":"20:55","usr":"doglady_ashland","txt":"RT @Reuters: FTC has reached out to Google, Twitter in an investigation into Facebook Inc\u0027s $1 billion acquisition Instagram http://t.co/26bM6AJv $GOOG","lbl":"Neutral"}
 ]

@@ -1,14 +1,54 @@
 [
-{"time":"1:33","usr":"inno_tech_CIT","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
+{"time":"1:30","usr":"SeekingAlpha","txt":"Buy Apple Before Tuesday\u0027s Earnings http://t.co/Bf60UZic $GOOG $MSFT $NOK $RIMM $T $VZ $AAPL","lbl":"Neutral"}
+,{"time":"1:33","usr":"inno_tech_CIT","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
 ,{"time":"1:39","usr":"TraderOnTheLake","txt":"$ISRG http://t.co/KQdN3m95 Acting like $GOOG in January. Google topped 1 day after I called for it. http://t.co/zJl9dSvf","lbl":"Positive"}
+,{"time":"6:09","usr":"ADVFNplc","txt":"$GOOG - - Amended Annual Report (10-K/A) http://t.co/1qKmPkr0","lbl":"Neutral"}
+,{"time":"6:09","usr":"charlesrwa","txt":"$GOOG - - Amended Annual Report (10-K/A) http://t.co/ZVPjjoKo","lbl":"Neutral"}
 ,{"time":"6:19","usr":"brunoyoshimura","txt":"RT @SAI: Google Introduces A New Ad Product It Hopes Is As Lucrative As Search $GOOG by @_dtl http://t.co/6abLBwcE","lbl":"Positive"}
+,{"time":"6:20","usr":"McCannToday","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AAPL $WMT by @_dtl http://t.co/bdRpR86p","lbl":"Neutral"}
+,{"time":"8:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/109, $SPY/75, $WMT/41, $COP/30, $GLD/20, $K/19, $FSLR/19, $GOOG/17. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"8:44","usr":"MicrocapTrader","txt":"added a chunk of $PLPE on SA article that $GOOG will buy them out. True or not, PLPE has needed some press like this. Perfect timing","lbl":"Neutral"}
+,{"time":"8:45","usr":"the1cristian","txt":"RT @ericjackson: New Post: Why The Next Shoe To Drop Post-Instagram Is Apple Buying Twitter for $10 Billion - Forbes http://t.co/dfgEUksi $AAPL $GOOG $YELP","lbl":"Neutral"}
 ,{"time":"8:46","usr":"MicrocapTrader","txt":"RT @Penny_Pics: Article on SeekingAlpha suggests a $GOOG buyout of $PLPE for close to $1. Our estimates are closer to $4, but our bullish view is the same","lbl":"Positive"}
+,{"time":"9:17","usr":"BigTicks","txt":"$GOOG News: The Zacks Analyst Blog Highlights: Nokia, Microsoft, Apple, Google and A http://t.co/Eo7n9U0e #stocks #NYSE #NASDAQ #trading","lbl":"Neutral"}
 ,{"time":"9:18","usr":"conquermarkets","txt":"Sell off across the board. DJIA -167.30 S&P -18.22 NASDAQ -45.22 $AAPL $GOOG $BAC","lbl":"Negative"}
+,{"time":"9:18","usr":"JustGrunt","txt":"RT @Urvaksh: #Google moves engineering ops out of #Atlanta after leadership quits. $GOOG http://t.co/ez1rF7eY","lbl":"Neutral"}
+,{"time":"9:55","usr":"BioTechReports","txt":"$NGSX moving up after PANIC selling! BUY#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$wmt,$amgn,$chtp,$bac,$gs,$goog,$aapl,$c,$f,$v,$s","lbl":"Neutral"}
+,{"time":"9:58","usr":"BioTechReports","txt":"MARKET IS BOUNCING BACK - WATCH FOR GREEN#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$wmt,$amgn,$chtp,$bac,$gs,$goog,$aapl,$c,$f,$v,$s","lbl":"Neutral"}
+,{"time":"10:02","usr":"femalep","txt":"RT @ericjackson: New Post: Why The Next Shoe To Drop Post-Instagram Is Apple Buying Twitter for $10 Billion - Forbes http://t.co/dfgEUksi $AAPL $GOOG $YELP","lbl":"Neutral"}
+,{"time":"11:08","usr":"NoDoji","txt":"$GOOG breaching 5 min cloud but getting sucked back under http://t.co/GjJoZhAp","lbl":"Neutral"}
 ,{"time":"11:09","usr":"UdallTechStrat","txt":"$goog goes green","lbl":"Positive"}
+,{"time":"11:09","usr":"StockHippo","txt":"Trending Stocks: $AAPL $WMT $GOOG $PFE $BAC $NFLX $GS $AMLN $CMG $QQQ $PCLN $COP $CL Live stream: http://t.co/HcXH1Vq0","lbl":"Neutral"}
+,{"time":"11:54","usr":"iSooPark","txt":"\uC774\uAC8C \uC810\uC810 \uD604\uC2E4\uB85C.. \uAD6C\uAE00 \uAE00\uB798\uC2A4 RT @SAI: Google\u0027s Computerized Glasses Can Actually Run A Web Browser $GOOG by @mattlynley http://t.co/EFydHTKx","lbl":"Neutral"}
+,{"time":"11:54","usr":"nd4spdgt","txt":"One of the many reasons I\u0027d bet on the overwhelming success of the #WindowsPhone. Yes. Really. http://t.co/ZjEETg6j $MSFT $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"11:54","usr":"brokerz_bearish","txt":"RT @BAMinvestor - $GOOG model remains bearish and expects fast-market retest of 530 minimum","lbl":"Negative"}
+,{"time":"12:50","usr":"StockTwits","txt":"Monday Links: Assuming real risk. http://t.co/ov3XDh5B via @abnormalreturns $AAPL $GOOG $FB $WMT $AMZN $CHK $SHLD","lbl":"Neutral"}
+,{"time":"12:52","usr":"BioTechReports","txt":"$DNDN breaking out huge! Gap filled -$11 move soon #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ymi,$bac,$c,$f,$v,$s,$gs,$goog,$aapl,$amgn,$ctic","lbl":"Neutral"}
+,{"time":"12:52","usr":"howardlindzon","txt":"RT @StockTwits: Monday Links: Assuming real risk. http://t.co/ov3XDh5B via @abnormalreturns $AAPL $GOOG $FB $WMT $AMZN $CHK $SHLD","lbl":"Neutral"}
+,{"time":"12:53","usr":"thefinancepress","txt":"$GOOG Jefferies Hires Internet Co Analysts Fitzgerald, Pitz From UBS -Sources: Jefferies Hires Internet Co Anal... http://t.co/LoxW8BfI","lbl":"Neutral"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/111, $SPY/56, $WMT/34, $NFLX/32, $MSFT/27, $GOOG/24, $GLD/19, $CHK/12. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:05","usr":"barronstechblog","txt":"AAPL: BGC Says Hold, Price Chopping Can Hurt iPhone - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $MSFT $NOK $RIMM http://t.co/KvFctG2b","lbl":"Neutral"}
 ,{"time":"15:06","usr":"GPhred","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"15:07","usr":"BioTechReports","txt":"$NGSX up 15% after hours! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ymi,$bac,$c,$f,$v,$s,$gs,$goog,$aapl,$amgn,$ctic","lbl":"Neutral"}
+,{"time":"15:07","usr":"aya25366","txt":"RT @businessinsider: Here\u0027s What You Have To Do To Be Bought By Google $GOOG by @mattlynley http://t.co/tG9jwWC2","lbl":"Neutral"}
+,{"time":"15:07","usr":"alvaro_pal","txt":"RT @businessinsider: Here\u0027s What You Have To Do To Be Bought By Google $GOOG by @mattlynley http://t.co/tG9jwWC2","lbl":"Neutral"}
+,{"time":"15:39","usr":"Goodlett","txt":"For those with the 7Gb @SkyDrive account from $MSFT, go here to get your free 25Gb upgrade http://t.co/HCafvrpL $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"15:40","usr":"dracossaint","txt":"RT @SAI_Tools: Verizon Drops Galaxy Nexus Price To $200 $GOOG $VZ by @stevekovach http://t.co/VfhPxB18","lbl":"Neutral"}
+,{"time":"15:40","usr":"conorsen","txt":"$FB is basically $GOOG + $ZNGA, and I\u0027d rather own both of the latter than the former at $FB\u0027s IPO price.","lbl":"Neutral"}
 ,{"time":"15:41","usr":"dcraze","txt":"RT @edwardnh: India: Android outpacing iPhone | beyondbrics | http://t.co/pUCO6zNN http://t.co/tQe04oOQ $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:22","usr":"kimhill","txt":"RT @ericjackson: New Post: Why The Next Shoe To Drop Post-Instagram Is Apple Buying Twitter for $10 Billion - Forbes http://t.co/dfgEUksi $AAPL $GOOG $YELP","lbl":"Neutral"}
+,{"time":"16:22","usr":"AlexNavarreteMx","txt":"RT @SAI: Android Is Getting Totally Blown Out Of The Water By iOS, According To This Real Time Data $GOOG $AAPL http://t.co/02g3aleY","lbl":"Neutral"}
+,{"time":"16:23","usr":"mitsy007","txt":"RT @SAI: Android Is Getting Totally Blown Out Of The Water By iOS, According To This Real Time Data $GOOG $AAPL http://t.co/02g3aleY","lbl":"Neutral"}
 ,{"time":"16:25","usr":"THE_CraigOrsi","txt":"Nice work @jjfree! RT @sai: Android Is Getting Totally Blown Out Of The Water By iOS. $GOOG $AAPL http://t.co/9pRk7Fdq","lbl":"Negative"}
+,{"time":"17:31","usr":"thefinancepress","txt":"$GOOG Google In Space (GOOG): Google In Space (GOOG) Experts Exchange (blog) - 14 minutes ago Late last week, ... http://t.co/0IaxE1EC","lbl":"Neutral"}
+,{"time":"17:34","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Chrome: Justin Bieber\u0022: http://t.co/psiorx0m @justinbieber @Forbes @Reuters_Biz @WSJ @CNBC @googlechrome @google","lbl":"Neutral"}
+,{"time":"17:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $NFLX/80, $AAPL/69, $GOOG/24, $WMT/14, $SPY/14, $BAC/13, $MSFT/8, $C/8, $JPM/7. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"19:26","usr":"CashAmile","txt":"RT @sssc: RT @RedDogT3Live Daily recap is posted on http://t.co/BSQWTgix. I talk $SPY $AAPL $JPM $ZNGA $GOOG","lbl":"Neutral"}
 ,{"time":"19:34","usr":"DaveMacMS","txt":"@dmakovec Actually, I think those numbers are *up* from prior surveys I\u0027ve seen. $GOOG makes vast majority of mobile search $$ from iOS.","lbl":"Positive"}
+,{"time":"19:34","usr":"thefinancepress","txt":"$GOOG IPad Onslaught Sends Taiwanese Laptop Makers to the Cloud: Tech: IPad Onslaught Sends Taiwanese Laptop Ma... http://t.co/y7OWw4dI","lbl":"Neutral"}
 ,{"time":"19:37","usr":"21cardinalrules","txt":"RT @conorsen: @PhilipEtienne All I know is if $FB is worth $100bn+ then $GOOG is a screaming buy at $600.","lbl":"Positive"}
+,{"time":"22:54","usr":"theoronomics","txt":"$goog should buy $nflx integrate it into play & + before $msft buys it for FB @ericschmidt @CoryTV @waltmossberg","lbl":"Neutral"}
+,{"time":"22:57","usr":"plaisted","txt":"Hmm, Really? RT @SAI: Android Is Getting Blown Out Of The Water By iOS, According To This Data $GOOG $AAPL http://t.co/qEIhl5fY","lbl":"Neutral"}
+,{"time":"23:12","usr":"dunstonalmeida","txt":"more sell side madness \u201C@valuewalk: #Evercore compares $GRPN to $GOOG!!! in \u0027outperform\u0027 report on Groupon, more tomm ripping this apart\u201D","lbl":"Neutral"}
+,{"time":"23:13","usr":"nancefinance","txt":"Before Its I.P.O., Google Looked Stronger Than Facebook: http://t.co/8QTNwQZs $FB $GOOG","lbl":"Neutral"}
 ]

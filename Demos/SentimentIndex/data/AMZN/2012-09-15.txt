@@ -1,1 +1,5 @@
-[]
+[
+{"time":"0:04","usr":"afterdawn","txt":"Review: The Amazon Kindle Fire HD 7 http://t.co/F7FUySKG $AMZN http://t.co/MoiqLjSu","lbl":"Neutral"}
+,{"time":"0:04","usr":"dvdback23","txt":"RT @afterdawn: Review: The Amazon Kindle Fire HD 7 http://t.co/F7FUySKG $AMZN http://t.co/MoiqLjSu","lbl":"Neutral"}
+,{"time":"11:16","usr":"dittotweeto","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+]

@@ -1,3 +1,20 @@
 [
-{"time":"22:58","usr":"SwatOptions","txt":"$GOOG has been INSANE LATELY and we joined the party with a play that made 365% PROFITS on this INSANE RUN - http://t.co/eizOLTs5","lbl":"Positive"}
+{"time":"6:51","usr":"slayerwulfe","txt":"RT @SeekingAlpha: Baidu: An Undervalued Stock With Good Upside Potential http://t.co/DNNE4iFN $GOOG $QIHU $BIDU","lbl":"Neutral"}
+,{"time":"7:13","usr":"businessinsider","txt":"The Real Reason Google is Shutting Down TV Ads $GOOG http://t.co/5rVmQy5y","lbl":"Neutral"}
+,{"time":"7:13","usr":"SAI","txt":"The Real Reason Google is Shutting Down TV Ads $GOOG http://t.co/Yi1XQNiq","lbl":"Neutral"}
+,{"time":"7:13","usr":"BI_contributors","txt":"The Real Reason Google is Shutting Down TV Ads $GOOG http://t.co/PWvH7aYC","lbl":"Neutral"}
+,{"time":"9:15","usr":"JasonBondPicks","txt":"LAST CALL For Your Wealth-Building Plan\u2026 $AAPL, $GOOG, $VRNG, $FDX, $PCLN | Jason Bond Picks: http://t.co/0bdW5a5e","lbl":"Neutral"}
+,{"time":"9:16","usr":"spicedawg56","txt":"RT @JonErlichman: Google...Vince Vaughn\u0027s \u0022Wizard of Oz\u0022 $GOOG http://t.co/tpNr8ZB9","lbl":"Neutral"}
+,{"time":"11:00","usr":"brianchin","txt":"RT @SAI: The Real Reason Google is Shutting Down TV Ads $GOOG http://t.co/Yi1XQNiq","lbl":"Neutral"}
+,{"time":"11:01","usr":"RyanHoye","txt":"RT @StockTwits: Apple Maps: The FAQ http://t.co/MOHFxytY via CounterNotions $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"11:03","usr":"Petesmeats","txt":"RT @StockTwits: Apple Maps: The FAQ http://t.co/MOHFxytY via CounterNotions $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:08","usr":"Monojoy","txt":"RT @SAI: Mary Meeker: Here\u0027s How Silicon Valley Has Made Life Better During The Recession $GOOG $AAPL $ORCL by @jyarow http://t.co/4a1KE8ct","lbl":"Neutral"}
+,{"time":"14:20","usr":"Trefis","txt":"Google Signs Deal With Fox To Boost Google Play Content http://t.co/KpaITFcl by Trefis Team $GOOG $AAPL $NWS","lbl":"Neutral"}
+,{"time":"14:30","usr":"SAI_Tools","txt":"Samsung Just Zinged Apple\u0027s New Maps $AAPL $GOOG by @stevekovach http://t.co/5MH0sZ3u","lbl":"Neutral"}
+,{"time":"17:24","usr":"JackDurgaryan","txt":"is it just me or does the new $mfst office, http://t.co/mP0XlLCM and skydrive interface look a lot like googles $goog","lbl":"Neutral"}
+,{"time":"17:25","usr":"OptionsTrader82","txt":"RT @RedDogT3Live: @smartertrader I hear ya. You had nice calls right alongside. Nice conviction for higher prices in $AAPL and $GOOG o ...","lbl":"Neutral"}
+,{"time":"17:30","usr":"WhichStocksWork","txt":"Maps and Other Small Apple Missteps - #StockPicks $AAPL $GOOG - - http://t.co/Cyz98zmv via @themotleyfool","lbl":"Neutral"}
+,{"time":"22:58","usr":"SwatOptions","txt":"$GOOG has been INSANE LATELY and we joined the party with a play that made 365% PROFITS on this INSANE RUN - http://t.co/eizOLTs5","lbl":"Positive"}
+,{"time":"22:58","usr":"petehoang","txt":"$GOOG vs $FB vs $LNKD\u2026What really counts\u2026Who has the best food? http://t.co/BrgzO5AD","lbl":"Neutral"}
+,{"time":"23:08","usr":"abebut","txt":"Fresh wave of violence broke up in Tunisia protesting its capital being misplaced by ill-fated iOS 6 $AAPL-made maps that replaced $GOOG map","lbl":"Neutral"}
 ]

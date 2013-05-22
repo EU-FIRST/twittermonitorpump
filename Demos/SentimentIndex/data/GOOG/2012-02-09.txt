@@ -1,30 +1,117 @@
 [
-{"time":"2:29","usr":"entrelution","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
+{"time":"1:00","usr":"SAI","txt":"Yahoo\u0027s Search Traffic Is TANKING $YHOO $MSFT $GOOG by @MattRosoff http://t.co/1MMxGBeN","lbl":"Neutral"}
+,{"time":"1:05","usr":"ak2webd3","txt":"RT @SAI: Yahoo\u0027s Search Traffic Is TANKING $YHOO $MSFT $GOOG by @MattRosoff http://t.co/1MMxGBeN","lbl":"Neutral"}
+,{"time":"1:05","usr":"SdotThomas","txt":"RT @SAI: Yahoo\u0027s Search Traffic Is TANKING $YHOO $MSFT $GOOG by @MattRosoff http://t.co/1MMxGBeN","lbl":"Neutral"}
+,{"time":"1:07","usr":"budip","txt":"RT @SAI: Yahoo\u0027s Search Traffic Is TANKING $YHOO $MSFT $GOOG by @MattRosoff http://t.co/1MMxGBeN","lbl":"Neutral"}
+,{"time":"2:29","usr":"entrelution","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
 ,{"time":"2:32","usr":"melissa_larmore","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
 ,{"time":"2:37","usr":"dAAAb","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/z5l6Sm7n","lbl":"Positive"}
+,{"time":"2:37","usr":"ramonjuanpadros","txt":"RT @SAI: Yahoo\u0027s Search Traffic Is TANKING $YHOO $MSFT $GOOG by @MattRosoff http://t.co/oaxQdHW5","lbl":"Neutral"}
 ,{"time":"5:57","usr":"MaggiePolicarpo","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/3ymzVfTX","lbl":"Positive"}
 ,{"time":"6:07","usr":"dariabarbu75","txt":"Google Plans First Retail Store at #Europe Headquarters Building in Dublin http://t.co/w2lmywQG | $goog #goog #trading #retail #google","lbl":"Positive"}
+,{"time":"6:11","usr":"thefinancepress","txt":"$GOOG Google Plans First Retail Store at Europe Headquarters Building in Dublin: Google Plans First Retail Stor... http://t.co/8GvucoVd","lbl":"Neutral"}
+,{"time":"6:12","usr":"2mcgomez","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Neutral"}
 ,{"time":"7:58","usr":"MichelleBlanc","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
+,{"time":"8:00","usr":"BioTechReports","txt":"$BPAX moving up premarket - FDA rally likely to continue up to 2/14/12 approval date. $dndn, $pfe, $jnj, $dmnd, $siri, $bac, $yhoo, $goog","lbl":"Neutral"}
+,{"time":"8:01","usr":"jalexstephenson","txt":"#Google Wants Huge Royalties Every Time #Apple Sells An #iPhone $GOOG $AAPL by @_dtl http://t.co/59vKrwTr","lbl":"Neutral"}
+,{"time":"8:05","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/41, $PEP/27, $GOOG/24, $BAC/21, $SPY/21, $GRPN/14, $SIRI/12, $YHOO/12. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"9:02","usr":"katetrades","txt":"Watching the ags, $JNPR, $GOOG, $IBM, $V, $MA, $GS, $FSLR amongst others","lbl":"Neutral"}
 ,{"time":"9:03","usr":"thinkingtrades","txt":"stock of the day - $GOOG. $AAPL is the default stock of the day.","lbl":"Positive"}
 ,{"time":"9:04","usr":"61point8","txt":"$GOOG $614!!! Google-icious!!!","lbl":"Positive"}
+,{"time":"9:05","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/127, $SPY/67, $PEP/61, $TLEO/41, $GOOG/39, $ORCL/32, $CSCO/29, $BAC/27. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"10:01","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: MNYC: $GOOG entered W620 Calls earlier, got a bad http://t.co/tWfIjI3U","lbl":"Neutral"}
 ,{"time":"10:04","usr":"pj_mckenna","txt":"RT @SAI: Google Is Painting A Big Fat Target On Dropbox $GOOG by @MattRosoff http://t.co/WiyoomVv","lbl":"Positive"}
+,{"time":"10:04","usr":"wallstCS","txt":"11 Buzzing Stocks: http://t.co/SbvsUDci $PEP $DPS $KO $AAPL $MSFT $GOOG $AMZN $YHOO $AOL $EXPE $TRIP","lbl":"Neutral"}
 ,{"time":"10:41","usr":"harriozspot","txt":"RT @StockTwits: Lawsuit seeks to block Google\u0027s privacy changes http://t.co/1idC8OAA $GOOG","lbl":"Negative"}
 ,{"time":"10:43","usr":"HELELANY","txt":"RT @SAI: You Don\u0027t Have To Use Google \u2013 Here Are The Alternatives $GOOG by @mattlynley http://t.co/puOGxth2","lbl":"Negative"}
+,{"time":"11:26","usr":"Gssound","txt":"@MNYCx noooooooo! I sold my $GOOG Tuesday!!!!!!","lbl":"Neutral"}
 ,{"time":"11:26","usr":"wallstCS","txt":"Google Inc (GOOG) on February Uptrend Holding $610 Per Share Today http://t.co/9w6fLrHO $GOOG #mkt #stocks #google","lbl":"Positive"}
+,{"time":"12:02","usr":"WallStJesus","txt":"Wall St Jesus >> IPO Preview: Synacor http://t.co/88PNrWRU $AMZN $AOL $ATVI $EA $GOOG $MSFT $NFLX $SYMC $YHOO $ZNGA $SYNC","lbl":"Neutral"}
+,{"time":"12:05","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/535, $SPY/57, $GOOG/40, $BIDU/34, $BAC/30, $PEP/24, $C/23, $TVIX/20. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"12:05","usr":"Lessien","txt":"@dnanian Keeping things simple: at a PE of 20 (1.4x their current) and inline with $GOOG, $AAPL would trade at $700 per share.","lbl":"Neutral"}
+,{"time":"12:43","usr":"MJSpatacco","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"12:43","usr":"sergiovelezp","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"12:43","usr":"ChristianMagoon","txt":"RT @STheadlines RT @RatioTrader Apple\u0027s Market Cap just passed that of Microsoft and Google combined! http://t.co/x1KtMHlU $AAPL $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"12:51","usr":"tarek_esawy","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"12:51","usr":"reditum","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"12:52","usr":"ricardoa78","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"12:52","usr":"joshreif","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:01","usr":"gdaoty","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:01","usr":"dbradley007","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:01","usr":"fer_nan_do_gil","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:01","usr":"SeanMontellese","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:17","usr":"3bdol","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:17","usr":"jfhmib","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:17","usr":"koffeedragon","txt":"RT @techinsidr With a $461.31B market cap, $AAPL is now worth more than $GOOG $INTC and $CSCO combined","lbl":"Neutral"}
+,{"time":"13:29","usr":"lluccipha","txt":"SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/7NoPL423","lbl":"Neutral"}
+,{"time":"13:29","usr":"edurola","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"13:29","usr":"diegomejiac","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:29","usr":"traderclubtirol","txt":"RT @businessinsider Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/y8XL8swb","lbl":"Neutral"}
+,{"time":"13:33","usr":"cyberlucky","txt":"\u201C@businessinsider: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/kw7bLSnO\u201D #in","lbl":"Neutral"}
+,{"time":"13:33","usr":"azetaguionbajo","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"13:33","usr":"maugutierrezdan","txt":"RT @businessinsider: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/du7if2NJ","lbl":"Neutral"}
+,{"time":"13:33","usr":"shockwave3","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"13:43","usr":"henryxva","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:43","usr":"TBreezy34","txt":"WOW RT @businessinsider: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/qsvXthdF","lbl":"Neutral"}
+,{"time":"13:44","usr":"crUz312","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"13:44","usr":"ayansmurfer","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"13:56","usr":"dcraze","txt":"RT @DougKass: Speaking of......AAPL market cap $460b now exceeds MSFT (257b) and GOOG ($198b) combined. $AAPL #MSFT $GOOG","lbl":"Neutral"}
+,{"time":"13:56","usr":"usemlab","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"13:56","usr":"gekobraa","txt":"Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/2kiiz54X","lbl":"Neutral"}
+,{"time":"13:56","usr":"BreakAtLove","txt":"So after $goog dropped from 635 to 585 after bad earnings, they\u0027re back at 610.","lbl":"Neutral"}
+,{"time":"14:12","usr":"DCU_CFO","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"14:12","usr":"davidemanuel","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"14:14","usr":"Undertrader","txt":"Told you. Invest in $aapl and watch the cash roll in. $$. Bigger than $goog and $msft combined!","lbl":"Neutral"}
+,{"time":"14:14","usr":"alexbard","txt":"Crazy that $aapl is worth more than $goog and $msft combined! Wow!","lbl":"Neutral"}
+,{"time":"14:40","usr":"muktar96","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"14:40","usr":"Mosquera_K","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/MN0NtJqY","lbl":"Neutral"}
+,{"time":"14:41","usr":"DIA2000","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"15:09","usr":"abbashaiderali","txt":"RT @VanessaAlvarez1: Love that @RachelDines is reminding one of our clients that $GOOG had an outage last year and recovered from TAPE:/","lbl":"Neutral"}
+,{"time":"15:10","usr":"ronakshah","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"15:10","usr":"ManiOhli","txt":"Option Millionaires: Veo: $GOOG trying http://t.co/ZEbtR1SI","lbl":"Neutral"}
+,{"time":"15:10","usr":"sonyaa2","txt":"RT @SAI: Here\u0027s The Crack Team Of Super-Geniuses Google Invited To Hash Out The World\u0027s Top Problems $GOOG by @mattlynley http://t.co/LcuCCZCO","lbl":"Neutral"}
+,{"time":"15:52","usr":"AdiStuder","txt":"In other news, apples now more expensive than oranges and pears combined $AAPL $MSFT $GOOG","lbl":"Neutral"}
 ,{"time":"15:52","usr":"streetbrief","txt":"$GOOG to develop new home entertainment system. Now THAT is hilarious as it tries to piggyback on growth in $AAPL. ROTFLMAO.","lbl":"Positive"}
+,{"time":"15:54","usr":"craigsebastiano","txt":"WSJ: Google is developing a home-entertainment system that would be marketed under the Google brand $GOOG","lbl":"Neutral"}
 ,{"time":"16:02","usr":"ChrisWeatherly1","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
 ,{"time":"16:02","usr":"francisco71","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:02","usr":"BlueShiftBlog","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"16:02","usr":"nyamkhuzi","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"16:06","usr":"WhiteTwits","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
 ,{"time":"16:06","usr":"OnurCif","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:06","usr":"thefactzoflife","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"16:07","usr":"katscolor","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
 ,{"time":"16:15","usr":"J_912","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
 ,{"time":"16:15","usr":"SethGodinsTribe","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:15","usr":"Jwaynem2","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"16:16","usr":"jason__davis","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
 ,{"time":"16:25","usr":"MaryTJo","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
 ,{"time":"16:25","usr":"ttcycler","txt":"RT @SAI: Apparently Google Is Building A Music System For Your Home $GOOG by @MattRosoff http://t.co/FlFxxabR","lbl":"Positive"}
+,{"time":"16:26","usr":"dchipp","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"16:26","usr":"treeelon","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
 ,{"time":"16:38","usr":"reversingentry","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"16:38","usr":"bored2tears","txt":"Google, Microsoft make fractional #search market share gains, Yahoo continues its slow rot. http://t.co/nTOKhd1h $GOOG $MSF $YHOO #stocks","lbl":"Neutral"}
+,{"time":"16:38","usr":"dwebbers","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"16:39","usr":"rijndael256","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
 ,{"time":"16:59","usr":"Orvan","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"17:00","usr":"Martin_7225","txt":"RT @themoneygame: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/FUS2MRX5","lbl":"Neutral"}
+,{"time":"17:00","usr":"slavomirvojacek","txt":"RT @SAI: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/Pfb7Zzpb","lbl":"Neutral"}
+,{"time":"17:01","usr":"Raymundo1182","txt":"@CheckOutJared law makers owning $AAPL. As opposed to $GOOG","lbl":"Neutral"}
 ,{"time":"17:43","usr":"macroaxis","txt":"Google Inc $GOOG A Little Up. Google\u0027s Share Of US Internet Searches Up In Jan - ComSc: http://t.co/c1dqRu98","lbl":"Positive"}
 ,{"time":"17:44","usr":"allanschoenberg","txt":"$GOOG RT @Fisherish: Google Analytics has learned 9 new languages http://t.co/aOpvUn7y #GA","lbl":"Positive"}
+,{"time":"17:44","usr":"JEricHiggins","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"18:32","usr":"GuilleJejcic","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
 ,{"time":"18:32","usr":"macroQmicro","txt":"Google\u0027s share of U.S. Internet searches up last month http://t.co/jRh1lRmr $GOOG 66% $MSFT 15% $YHOO 14% $IACI 3% $AOL 2","lbl":"Positive"}
+,{"time":"18:33","usr":"cetesse","txt":"RT @themoneygame: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/FUS2MRX5","lbl":"Neutral"}
+,{"time":"18:34","usr":"bum_nuggets","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
 ,{"time":"19:29","usr":"napiermike","txt":"RT @SAI: Google\u0027s Foray Into Hardware Will Be A Total Disaster \u2014 Here\u0027s Why $GOOG by @MattRosoff http://t.co/3NrnByr5","lbl":"Negative"}
+,{"time":"19:34","usr":"denenberg18","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"21:06","usr":"thefinancepress","txt":"$GOOG Google Testing Wireless Entertainment Device for Consumers, Filing Shows: Google Testing Wireless Enterta... http://t.co/wlss7iHb","lbl":"Neutral"}
+,{"time":"21:09","usr":"dtsack23","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"21:17","usr":"marct251","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Neutral"}
+,{"time":"21:22","usr":"BRHook","txt":"-- comScore releases latest U.S. search engine rankings http://t.co/LIxe5ZRP @comScore @google @bing @Yahoo $GOOG $MSFT $YHOO #SEO #search","lbl":"Neutral"}
 ,{"time":"23:23","usr":"croaking","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
 ,{"time":"23:24","usr":"shaaashaaa","txt":"RT @dkberman: World War 3 has officially begun: WSJ scoop says Google to sell home-entertainment system, under its own brand name. Hear that, Apple? $GOOG","lbl":"Positive"}
+,{"time":"23:25","usr":"V7Figueroa","txt":"Un billetico! Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/qSvQDUU6","lbl":"Neutral"}
+,{"time":"23:25","usr":"iStockAnalyst","txt":"Yahoo\u0027s Woes In Search Engine Share Continues As Microsoft Gains $GOOG $MSFT $YHOO: Internet company Yahoo!\u2019s (Y... http://t.co/umhLw2TF","lbl":"Neutral"}
 ]

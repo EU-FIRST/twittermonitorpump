@@ -1,19 +1,40 @@
 [
 {"time":"5:00","usr":"thefinancepress","txt":"$GOOG GOOGLE INC : French Government Seeks To Charge Google EUR1 Billion in ...: GOOGLE INC : French Government... http://t.co/GN8rBWi5","lbl":"Negative"}
+,{"time":"5:02","usr":"LennySwan1","txt":"RT @StockGarage: CHART REVIEWS http://t.co/rlyI5AgH $AAPL $FB $IFHR $GRPH $PCLN $MA $GOOG $SWHC $AMZN $EKNL $VRNG $MJNA $GRNH $HHSE $MIMV $FCSC $GRO $DROP","lbl":"Neutral"}
 ,{"time":"5:04","usr":"pennystockguys","txt":"$GOOG - French Government Seeks To Charge Google EUR1 Billion in Taxes - Report http://t.co/BiQD2cgk","lbl":"Negative"}
 ,{"time":"5:04","usr":"ADVFNplc","txt":"$GOOG - French Government Seeks To Charge Google EUR1 Billion in Taxes - Report http://t.co/poZ5bWvZ","lbl":"Negative"}
 ,{"time":"7:04","usr":"levayco_t3live","txt":"hope everyone made it thru the storm unscathed....today\u0027s watch list...$LNKD $GRMN $MA $GOOG $AAPL $BNNY $PCLN","lbl":"Negative"}
+,{"time":"7:06","usr":"ScottMatusow","txt":"Speculating The Patent Litigation Segment: Seeking Out The Next Big Stock Movers http://t.co/XIvOJcy2 $DSS $MGT $VRNG $VHC $FB $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"8:32","usr":"BPGAG","txt":"$goog short","lbl":"Negative"}
+,{"time":"9:17","usr":"wallstCS","txt":"What Message Did Sandy Send Facebook? http://t.co/Sb6szgtv $FB $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"9:19","usr":"smlbiobot","txt":"mhbergen - Google Search http://t.co/iWS1CYey @mhbergen $GOOG #serp #data #people #smlsearch","lbl":"Neutral"}
 ,{"time":"9:20","usr":"dunragit","txt":"$VRNG EVEN IF $GOOG MOTIONS DENIED IT MEANS NOTHING SAME MOTIONS DENIED AT START OF TRIAL JUST COMMON LEGAL PRACTISE DURING TRIAL TO DO","lbl":"Negative"}
 ,{"time":"10:05","usr":"netexecutive","txt":"Google Launches Siri Killer. $goog $aapl http://t.co/jXShvGSf via @wallstCS","lbl":"Positive"}
+,{"time":"10:12","usr":"thefinancepress","txt":"$GOOG The Zacks Analyst Blog Highlights:Apple, Google, Home Depot, Lowe\u0027s and ...: The Zacks Analyst Blog Highl... http://t.co/Q00k4qCc","lbl":"Neutral"}
+,{"time":"11:34","usr":"VirtualMarketer","txt":"#Google Play Giving Apple iTunes Run for Money w/ #Movie, #Music Distribution Deals: http://t.co/LnNq8mHh $GOOG $APPL","lbl":"Neutral"}
+,{"time":"11:34","usr":"DMf53","txt":"$TAGG ok I Bought 5,000 shares /DD sound solid / a few not / $GOOG should buy this and $MSFT .35 a share / Good app. Should go $1.00+ Cheap","lbl":"Neutral"}
+,{"time":"13:01","usr":"Urbane_Gorilla","txt":"RT @ChatOnTheStreet: $AAPL court filing that it would be willing to pay $GOOG\u0027s $MOT unit up to $1 per iPhone in technology licensing fees","lbl":"Neutral"}
 ,{"time":"13:47","usr":"ignaciomas2","txt":"RT @bman_microcaps: $GOOG legal team tough to beat","lbl":"Positive"}
+,{"time":"13:49","usr":"Legacy_Trades","txt":"SHEEP, SLAUGHTERED: This $GOOG fighter & patent/lawsuit troll $VRNG is separating a lot of StockTwits folks from their money. #ClownTown","lbl":"Neutral"}
+,{"time":"13:49","usr":"themacinjosh","txt":"RT @SAI: Please Stop Whining About Your Brand-New iPhone 5 $AAPL $GOOG by @_dtl http://t.co/Qq0CFqGb","lbl":"Neutral"}
 ,{"time":"13:50","usr":"hecklerhouse","txt":"RT @Legacy_Trades: SHEEP, SLAUGHTERED: This $GOOG fighter & patent/lawsuit troll $VRNG is separating a lot of StockTwits folks from their money. #ClownTown","lbl":"Negative"}
 ,{"time":"14:38","usr":"danravicher","txt":"Vringo $VRNG halted for 2d time pending news after reports that Judge grants Google $GOOG motion for laches: http://t.co/pZKPEqlk","lbl":"Positive"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"Microsoft: Get In Today And Ride It Higher Into 2013 http://t.co/DuSAc4UK $AAPL $AMZN $GOOG $NOK $MSFT","lbl":"Neutral"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"Microsoft Windows 8: No Effect On Tablet Market http://t.co/r8IcA8Rr $AAPL $AMZN $DELL $GOOG $HPQ $NOK $MSFT","lbl":"Neutral"}
+,{"time":"15:20","usr":"TechInsiderco","txt":"Google Settles With Rosetta Stone Over Trademark Infringement Within Search And Ads Lawsuit: Accor... http://t.co/XpINLvVU #Google $GOOG","lbl":"Neutral"}
+,{"time":"15:22","usr":"SplatF","txt":"Where are Google\u0027s Nexus stores? http://t.co/y64MBhtN Tablets need to be touched and even Microsoft gets that. $GOOG $AAPL $MSFT","lbl":"Neutral"}
 ,{"time":"15:22","usr":"fromedome","txt":"RT @SplatF: Where are Google\u0027s Nexus stores? http://t.co/y64MBhtN Tablets need to be touched and even Microsoft gets that. $GOOG $AAPL $MSFT","lbl":"Negative"}
 ,{"time":"15:22","usr":"zerosum24","txt":"RT @danravicher: @AndyAteHere @RollinDigits @markstamour If I\u0027m $VRNG I go to verdict & appeal laches ruling. If I\u0027m $GOOG I go to verdict for complete kill.","lbl":"Negative"}
 ,{"time":"16:40","usr":"MarketCurrents","txt":"Gmail (GOOG) is now the world\u0027s most popular PC e-mail service, per comScore: the research firm estim... http://t.co/GTARX7Ih $GOOG","lbl":"Positive"}
 ,{"time":"16:47","usr":"agara2004","txt":"Just noticed myself on mobile \u201C@PE_Feeds: GMAIL IS DOWN\u201D $GOOG -- $VZ service still strong in Harlem @TheStreet","lbl":"Negative"}
 ,{"time":"16:47","usr":"howardlindzon","txt":"Gmail is down....if it was raining and windy in san diego i would be upset. How reliant our we on this over even electricity $goog","lbl":"Negative"}
 ,{"time":"16:48","usr":"junebre","txt":"RT @howardlindzon: Gmail is down....if it was raining and windy in san diego i would be upset. How reliant our we on this over even electricity $goog","lbl":"Negative"}
+,{"time":"17:49","usr":"ADVFNplc","txt":"$GOOG - Statement of Changes in Beneficial Ownership (4) http://t.co/7dN4KRfq","lbl":"Neutral"}
+,{"time":"17:50","usr":"GnomishMath","txt":"Hopefully getting my ass handed to me in the spec of my portfolio makes me reconsider my spec portion. Still in \u0027til verdict $VRNG vs. $GOOG","lbl":"Neutral"}
 ,{"time":"17:50","usr":"JornBuhring","txt":"RT @SAI: Google Is Getting A Gigantic Tax Bill, According To Some French Humor Rag $GOOG by @owenthomas http://t.co/jhJTX71G","lbl":"Negative"}
+,{"time":"17:55","usr":"DaveCV100","txt":"\u201C@BenBajarin: The Personal Computing Land grab - http://t.co/udr2aNkG my thoughts from earlier today.\u201D $AAPL $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"21:59","usr":"DebraFelice","txt":"RT @CNBC: Google is going after Apple\u0027s Siri. DETAILS: http://t.co/DZqsoZky $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"22:00","usr":"iBizNews21","txt":"RT @CNBC: Google is going after Apple\u0027s Siri. DETAILS: http://t.co/DZqsoZky $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"22:01","usr":"JoshHeebner","txt":"RT @CNBC: Google is going after Apple\u0027s Siri. DETAILS: http://t.co/DZqsoZky $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"22:02","usr":"linhpham84","txt":"RT @CNBC: Google is going after Apple\u0027s Siri. DETAILS: http://t.co/DZqsoZky $GOOG $AAPL","lbl":"Neutral"}
 ]

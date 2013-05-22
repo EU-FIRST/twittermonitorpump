@@ -1,10 +1,43 @@
 [
-{"time":"9:38","usr":"rhondaserkes","txt":"RT @businessinsider: Why Everyone Thinks Google Has Lost Its Way And Become Evil $GOOG by @mattlynley http://t.co/ZeKX8SwR","lbl":"Negative"}
+{"time":"1:12","usr":"kngbn97","txt":"RT @SAI: Samsung Galaxy S III: Meet the New Android Emperor $GOOG http://t.co/ixnAvPv4","lbl":"Neutral"}
+,{"time":"1:18","usr":"TraderArtblog","txt":"TraderArt: ($AAPL, $GOOG, $AMZN) Worldwide tablet shipments t... http://t.co/JIubnHTZ","lbl":"Neutral"}
+,{"time":"1:49","usr":"socialinfluence","txt":"Facebook Targets $96 Billion Value, the richest valuation in history (4x greater than $GOOG IPO) http://t.co/vej8DQfU via @WSJ","lbl":"Neutral"}
+,{"time":"6:42","usr":"skubas4","txt":"QUAD CORE iPhone 4S Killer coming?!! http://t.co/EASsg5cE #stocks $GOOG $AAPL #technology #tech","lbl":"Neutral"}
+,{"time":"6:43","usr":"lluccipha","txt":"SAI: 10 Things You Need To Know This Morning $YHOO $GOOG $LNKD by @nichcarlson http://t.co/K8ZwqCF6","lbl":"Neutral"}
+,{"time":"6:43","usr":"StockHippo","txt":"Earnings discussions - top discussed stocks: $LNKD, $GMCR, $AAPL, $FSLR, $FB, $AIG, $GM, $FLR, $GOOG, $BCE http://t.co/O7SzpdbY","lbl":"Neutral"}
+,{"time":"6:44","usr":"alemarquezr","txt":"RT @SAI: 10 Things You Need To Know This Morning $YHOO $GOOG $LNKD by @nichcarlson http://t.co/0IjEPXMN","lbl":"Neutral"}
+,{"time":"8:37","usr":"charlesrwa","txt":"$GOOG - The Zacks Analyst Blog Highlights: Verizon Communications, Google, Apple, AT&T and Sprint Nextel - Press http://t.co/1XbRfVWD","lbl":"Neutral"}
+,{"time":"8:37","usr":"regjamsch","txt":"RT @SAI: Here\u0027s How The Galaxy S III Stacks Up Against The iPhone 4S $AAPL $GOOG by @_dtl http://t.co/DKh7LaLb","lbl":"Neutral"}
+,{"time":"8:38","usr":"ZeerakW","txt":"Meget apropos @Jkroul RT @SAI Here\u0027s How The Galaxy S III Stacks Up Against The iPhone 4S $AAPL $GOOG by @_dtl http://t.co/9EumAdq6","lbl":"Neutral"}
+,{"time":"8:38","usr":"pennystockguys","txt":"$GOOG - The Zacks Analyst Blog Highlights: Nokia, Research in Motion, Apple, Google and The Andersons - Press Releases http://t.co/wkSpYeJS","lbl":"Neutral"}
+,{"time":"9:12","usr":"BioTechReports","txt":"$GMCR huge rally today - - $30 squeeze today - NEW HOD!#cnbc,#msnbc,#nyse,#wsj,$c,$s,$f,$v,$gs,$goog,$aapl,$wmt,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"9:14","usr":"DavidLubetsky","txt":"RT @BioTechReports: $GMCR huge rally today - we are going to call it - $30 squeeze today!#cnbc,#msnbc,#nyse,#wsj,$c,$s,$f,$v,$gs,$goog,$aapl,$wmt,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"9:38","usr":"rhondaserkes","txt":"RT @businessinsider: Why Everyone Thinks Google Has Lost Its Way And Become Evil $GOOG by @mattlynley http://t.co/ZeKX8SwR","lbl":"Negative"}
 ,{"time":"9:38","usr":"DrDuru","txt":"I am doubting $GOOG\u0027s \u00229-Lives\u0022 around $600 can last much longer.","lbl":"Negative"}
 ,{"time":"9:39","usr":"BlueFielder","txt":"$GOOG blood letting","lbl":"Negative"}
+,{"time":"9:40","usr":"JX2006","txt":"RT @businessinsider: All The Features Samsung Copied From The iPhone For The Galaxy S III $AAPL $GOOG by @stevekovach http://t.co/Q4ISFGvt","lbl":"Neutral"}
+,{"time":"10:28","usr":"lluccipha","txt":"SAI: If Oracle Wins Its Lawsuit Against Google It Will Be Really Bad For The Software Industry $ORCL $GOOG by @Julie188 http://t.co/X4gY8SNQ","lbl":"Neutral"}
+,{"time":"10:29","usr":"Slapnuts3000","txt":"RT @SAI: If Oracle Wins Its Lawsuit Against Google It Will Be Really Bad For The Software Industry $ORCL $GOOG by @Julie188 http://t.co/gnPgjSks","lbl":"Neutral"}
 ,{"time":"10:56","usr":"abebut","txt":"IMHO $GOOG very safe buy with firm stop at $590. Only $10 downside risk, but if it holds will race. $590 is heavy resistance","lbl":"Positive"}
+,{"time":"10:58","usr":"wclements1","txt":"RT @SAI: 80% Of App Developers Don\u0027t Make Enough Money To Support A Business $AAPL $GOOG http://t.co/4EFIX7Ex","lbl":"Neutral"}
+,{"time":"10:58","usr":"lluccipha","txt":"SAI: 80% Of App Developers Don\u0027t Make Enough Money To Support A Business $AAPL $GOOG http://t.co/1b6ce8pC","lbl":"Neutral"}
 ,{"time":"10:58","usr":"Bluechiptrend","txt":"currently holding $PCLN, $GOOG, $SPG, and $SPY shorts... Pretty nice Friday. Thank God","lbl":"Negative"}
+,{"time":"11:44","usr":"esigpri","txt":"RT @SAI: Don\u0027t Worry Android Fans, Apple Stole A Lot Of Ideas For The iPhone Too $AAPL $GOOG by @stevekovach http://t.co/lBSY4xfR","lbl":"Neutral"}
+,{"time":"11:45","usr":"zeShxXx","txt":"Don\u0027t Worry Android Fans, Apple Stole A Lot Of Ideas For The iPhone Too $AAPL $GOOG by @stevekovach http://t.co/Ayj5MdkQ","lbl":"Neutral"}
+,{"time":"11:46","usr":"gsrobins","txt":"RT @SAI: Don\u0027t Worry Android Fans, Apple Stole A Lot Of Ideas For The iPhone Too $AAPL $GOOG by @stevekovach http://t.co/lBSY4xfR","lbl":"Neutral"}
+,{"time":"11:48","usr":"Matt_isms","txt":"RT @SAI: 80% Of App Developers Don\u0027t Make Enough Money To Support A Business $AAPL $GOOG http://t.co/4EFIX7Ex","lbl":"Neutral"}
+,{"time":"12:40","usr":"SeekingAlpha","txt":"CEO: The Most Secure Job In The World http://t.co/926hbPFa $CHK $GOOG $NWS $WMT $YHOO","lbl":"Neutral"}
+,{"time":"12:41","usr":"XOoRaiNaoOX","txt":"RT @SeekingAlpha: CEO: The Most Secure Job In The World http://t.co/926hbPFa $CHK $GOOG $NWS $WMT $YHOO","lbl":"Neutral"}
 ,{"time":"13:46","usr":"barronstechblog","txt":"Google May Pay Millions In Apple Safari Breach $GOOG $AAPL http://t.co/8JeptTW2","lbl":"Negative"}
+,{"time":"13:46","usr":"CrainsChicago","txt":"Google makes plans to move Motorola Mobility to Chicago http://t.co/y1nT8bTT $GOOG","lbl":"Neutral"}
+,{"time":"13:47","usr":"SarahsBackstage","txt":"RT @CrainsChicago: Google makes plans to move Motorola Mobility to Chicago http://t.co/y1nT8bTT $GOOG","lbl":"Neutral"}
 ,{"time":"14:33","usr":"BlueFielder","txt":"Looks like my remaining contracts on the shorts on $AAPL & $GooG $calls should clear near 100%","lbl":"Positive"}
+,{"time":"14:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/153, $SPY/58, $GMCR/39, $GOOG/39, $SAPX/35, $JPM/22, $C/22, $QQQ/22. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"15:40","usr":"FeelTrade","txt":"Island reversal looking strong here $goog","lbl":"Positive"}
+,{"time":"15:40","usr":"stockpickexpert","txt":"http://t.co/34f3nldR Great Financial Market Update! $SPY $GLD $USO $TLT $VXX $FB $GM $AIG $UBS $CSCO $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"18:33","usr":"Reuters","txt":"Judge urges more deliberations in #Android case between #Google and #Oracle Corp http://t.co/HZwBitwO $GOOG $ORCL","lbl":"Neutral"}
+,{"time":"18:33","usr":"samgustin","txt":"RT @Reuters: Judge urges more deliberations in #Android case between #Google and #Oracle Corp http://t.co/HZwBitwO $GOOG $ORCL","lbl":"Neutral"}
+,{"time":"18:34","usr":"MtTrigo","txt":"RT @Reuters: Judge urges more deliberations in #Android case between #Google and #Oracle Corp http://t.co/HZwBitwO $GOOG $ORCL","lbl":"Neutral"}
+,{"time":"23:48","usr":"thefinancepress","txt":"$GOOG White House Burns as Krugman Gnashes Teeth in Top Business Books: White House Burns as Krugman Gnashes Te... http://t.co/ArM27NhI","lbl":"Neutral"}
+,{"time":"23:56","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
 ]

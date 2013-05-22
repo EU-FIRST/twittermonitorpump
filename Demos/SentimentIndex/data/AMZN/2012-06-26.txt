@@ -1,13 +1,29 @@
 [
-{"time":"8:49","usr":"HomelessThomOC","txt":"RT @Bytesfrombits: The Morning Dump - June 26th $RIMM #Blackberry $goog #google $AMZN #amazon #flipboard #news #Wifi http://t.co/YM3hZqJA","lbl":"Negative"}
+{"time":"7:08","usr":"e_store","txt":"RT @mcilderman Will #Apple Buy into #3DPrinting http://t.co/4k82rMj3 $AAPL $AMZN #Amazon $MSFT $GOOG #google #Mac #technology","lbl":"Neutral"}
+,{"time":"7:15","usr":"iQuaks","txt":"RT @mcilderman Will #Apple Buy into #3DPrinting http://t.co/iX4iRbD5 $AAPL $AMZN #Amazon $MSFT $GOOG #google #Mac #technology","lbl":"Neutral"}
+,{"time":"7:17","usr":"kngbn97","txt":"RT @SAI: Amazon Will Announce The Next Generation Kindle Fire On July 31 [REPORT] $AMZN by @sfiegerman http://t.co/LL3iBvwF","lbl":"Neutral"}
+,{"time":"8:32","usr":"wallstCS","txt":"Judge Gives Apple Some BAD NEWS http://t.co/zus5stDo $AAPL $NWSA $CBS $PSO $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:49","usr":"HomelessThomOC","txt":"RT @Bytesfrombits: The Morning Dump - June 26th $RIMM #Blackberry $goog #google $AMZN #amazon #flipboard #news #Wifi http://t.co/YM3hZqJA","lbl":"Negative"}
+,{"time":"9:09","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:54am: 223.78 +3.71 (+1.69%).","lbl":"Neutral"}
 ,{"time":"9:10","usr":"southp4w","txt":"$AMZN putting in first red candle on 5min. Will stop up move eventually, if you want the nickels in front of that train...","lbl":"Negative"}
+,{"time":"9:34","usr":"USwwwStocks","txt":"$AMZN News: Coinstar (NASDAQ:CSTR) Cuts Earning Outlook after NCR (NYSE ... http://t.co/IdcQynDW #AMZN #after #Coinstar","lbl":"Neutral"}
+,{"time":"9:34","usr":"Jamtrades","txt":"$AAPL traders.... $AMZN is being window dressed!... Pay attention $SPY #NASDAQ","lbl":"Neutral"}
+,{"time":"10:20","usr":"ivanhoff","txt":"@biggercapital generally agree, but it depends on ur time frame. all of those had 90% deep corrections in their life. $amzn $meli $ebay","lbl":"Neutral"}
+,{"time":"10:22","usr":"ParkJohnS","txt":"Report: RIM May Be Selling Handset Business To Facebook Or Amazon - http://t.co/sjAGkwtk $FB $AMZN $RIM","lbl":"Neutral"}
 ,{"time":"10:50","usr":"BarryAAnderson","txt":"long $AMZN 224.75 stop 223.75","lbl":"Positive"}
+,{"time":"10:51","usr":"dahatijjani","txt":"RT @SAI: Apple Is Crushing Everyone In The Tablet Market -- So Who Will Be Number Two? $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/Bt2MM0lJ","lbl":"Neutral"}
+,{"time":"10:51","usr":"henrygambell","txt":"Two sided market this morning with weak financials and the /NQ trying to make a stand - Nearing targets in $AMZN http://t.co/6PYTS1rg","lbl":"Neutral"}
 ,{"time":"11:44","usr":"parklandtrader","txt":"@cnbcfastmoney $AMZN 230.. here we come on rip ur face rally...","lbl":"Positive"}
 ,{"time":"12:28","usr":"joshpritchard","txt":"@CasualAnalysis and just because $AMZN is likely losing money on Fires, pretty sure the bull case still involves the... http://t.co/PZo5756w","lbl":"Negative"}
 ,{"time":"12:30","usr":"casualanalysis","txt":"Commented on StockTwits: I think the bull case for $AMZN has very little to do with the Fire. Very small impact on ... http://t.co/mJnpGFYl","lbl":"Positive"}
 ,{"time":"13:15","usr":"ChicagoRy","txt":"long $AMZN 225.61","lbl":"Positive"}
 ,{"time":"13:36","usr":"ChicagoRy","txt":"took off half the $AMZN +.20","lbl":"Negative"}
+,{"time":"13:36","usr":"justtradin","txt":"RT @WhizCheck6: $AAPL Filled Sell 10 Jun-29-12 585/590 Call Vertical @ .54 Limit Up 27% in 2 hours $goog $amzn $spy $vxx $vix","lbl":"Neutral"}
+,{"time":"15:23","usr":"wallstCS","txt":"Here Comes Amazon\u0027s Fresh Tablet Attack http://t.co/yOKUz65w $AMZN $AAPL $GOOG $MSFT $BKS #mkt #stocks","lbl":"Positive"}
+,{"time":"16:41","usr":"investools","txt":"$AMZN bucking trends of market. Sideways consolidation patterns prior to earnings: $AAPL & $SBUX. http://t.co/5UVSXVbU","lbl":"Neutral"}
+,{"time":"16:45","usr":"KerwinAssoc","txt":"RT @SAI: How RIM Splitting Would Affect The Mobile Industry $RIMM $AMZN $FB $MSFT $GOOG $AAPL by @MattRosoff http://t.co/0zPF46RO","lbl":"Neutral"}
 ,{"time":"18:55","usr":"vikasrao","txt":"@z8angela quick question, I like $AMZN here for a long trade, and am interested in your take on it. Thanks :-)","lbl":"Positive"}
 ,{"time":"18:55","usr":"1nvestor","txt":"RT @jackdamn Elder: fresh bull signal. Above the 65-day EMA. Entry: 231. First Target: 237. No stop. $AMZN http://t.co/2HzS71IP","lbl":"Positive"}
+,{"time":"22:34","usr":"sdh_ihub","txt":"sdh: $AMZN ~ 60 min: sdh http://t.co/8a6qps66","lbl":"Neutral"}
 ,{"time":"22:45","usr":"z8angela","txt":"@vikasrao You\u0027re welcome! Btw, $AMZN has some upside potential to re test earning high. If mkt keeps bouncing, it will go. Watch resistance.","lbl":"Positive"}
 ]

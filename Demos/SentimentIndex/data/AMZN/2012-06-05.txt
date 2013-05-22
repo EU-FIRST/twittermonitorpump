@@ -1,6 +1,14 @@
 [
 {"time":"5:31","usr":"bergie1393","txt":"RT @KeithMcCullough: Of our 8 LONGS, some act well today - $SBUX $AMZN $XLU","lbl":"Positive"}
 ,{"time":"5:32","usr":"bergie1393","txt":"RT @KeithMcCullough: $AMZN we still think we can get $218 on the long side","lbl":"Positive"}
+,{"time":"7:40","usr":"SeekingAlpha","txt":"Netflix Announces New Content Delivery Network, Offering Free Caches To ISPs http://t.co/iGlNnDuV $GOOG $AKAM $LLNW $LVLT $AMZN","lbl":"Neutral"}
+,{"time":"10:05","usr":"EriNintheKnoW","txt":"RT @LRLinks: Please take @Light_Reading\u0027s social networking survey this week for a chance to win 1 of 4 $50 $AMZN gift cards: http://t.co/kEpsfAmq","lbl":"Neutral"}
 ,{"time":"10:48","usr":"Ktr8der","txt":"\u201C@JonErlichman: ChangeWave Research: \u0022Kindle Fire planned buying is now down two-thirds since November 2011\u0022\u201D ///FireFlop $Amzn","lbl":"Negative"}
+,{"time":"12:07","usr":"alexanderywang","txt":"RT @markflowchatter: very odd interesting out of the money call buying in $BKS, June $35 calls getting bought up, good size...who knows what? $MSFT, $AMZN?","lbl":"Neutral"}
+,{"time":"14:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:17pm: 213.10 -1.47 (-0.69%).","lbl":"Neutral"}
 ,{"time":"14:33","usr":"Commodity_Bull","txt":"@CoachellaPalms $AMZN was the fit I was thinking","lbl":"Positive"}
+,{"time":"18:22","usr":"matterhornbob","txt":"June \u002797: $AMZN\u0027s Jeff Bezos, \u0022This is Day 1, the very first stage, the \u0022Kitty Hawk\u0022 stage of electronic commerce\u0022 $AMZN was $1.75/share.","lbl":"Neutral"}
+,{"time":"18:24","usr":"matterhornbob","txt":"If you did not watch this \u002797 interview with $AMZN\u0027s Jeff Bezos when I posted it this am, take 5 mins and watch it NOW! http://t.co/5JIyGoEO","lbl":"Neutral"}
+,{"time":"23:00","usr":"SeekingAlpha","txt":"Meeker: Radical Shift Needed To Monetize Mobile http://t.co/JeclGPnX $FB $GOOG $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"23:19","usr":"btershana","txt":"RT @SeekingAlpha: Meeker: Radical Shift Needed To Monetize Mobile http://t.co/JeclGPnX $FB $GOOG $AAPL $AMZN","lbl":"Neutral"}
 ]

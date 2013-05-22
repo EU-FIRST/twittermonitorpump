@@ -1,5 +1,10 @@
 [
-{"time":"12:10","usr":"BlueFielder","txt":"$AMZN For giggles ... bot wkly 220 \u0027lottery ticket\u0027 $CALLs @ .05 - I shouldn\u0027t even tweet this garbage. ( corrected tweet)","lbl":"Positive"}
+{"time":"3:35","usr":"USwwwStocks","txt":"$AMZN News: Barnes & Noble says e-books settlement hurts public http://t.co/6aapAjnq #AMZN #ampamp #Barnes","lbl":"Neutral"}
+,{"time":"10:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:16am: 217.73 -1.07 (-0.49%).","lbl":"Neutral"}
+,{"time":"12:10","usr":"BlueFielder","txt":"$AMZN For giggles ... bot wkly 220 \u0027lottery ticket\u0027 $CALLs @ .05 - I shouldn\u0027t even tweet this garbage. ( corrected tweet)","lbl":"Positive"}
+,{"time":"13:19","usr":"Minyanville","txt":"Riot at #Foxconn erupts after a bad dining experience $AAPL $AMZN $MSFT http://t.co/VWDMT0Eu","lbl":"Neutral"}
 ,{"time":"13:21","usr":"mosesli12","txt":"$AMZN entering short, 2.50 point max pain","lbl":"Negative"}
 ,{"time":"14:16","usr":"SunriseTrader","txt":"@MindRightTrade $AMZN Once it crossed back above its open price for the day my stop was raised and as it approached pivot I raised stop","lbl":"Positive"}
+,{"time":"18:51","usr":"gregnb","txt":"$AAPL http://t.co/eQB4tV5O $PCLN $CMG $AMZN $GOOG $MA - $APPL need more time/conviction above $580 for me to go long","lbl":"Neutral"}
+,{"time":"18:53","usr":"valueprax","txt":"Can Best Buy Be Fixed? Reply To @vitaliyk ($BBY, $AMZN, $NFLX, #innovation) http://t.co/X0AJ5BNQ","lbl":"Neutral"}
 ]

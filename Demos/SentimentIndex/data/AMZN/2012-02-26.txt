@@ -1,3 +1,8 @@
 [
 {"time":"9:12","usr":"RedDogT3Live","txt":"@CapCube 170-175 $amzn puts. The trade really doesn\u0027t ignite until a close below that zone. I will also short intraday with a good set up","lbl":"Negative"}
+,{"time":"9:24","usr":"MichaelComeau","txt":"Last #HungerGames tweet of wknd -- top 4 books at $AMZN are HG books. Just sayin\u0027... $LGF http://t.co/My4ltnwz","lbl":"Neutral"}
+,{"time":"15:05","usr":"EghosaO","txt":"This is a good good read. Liked \u0022@ericries: $AMZN offering extra 5% off if you buy @quixotic\u0027s new book http://t.co/aQHnyCRE + #LeanStartup\u0022","lbl":"Neutral"}
+,{"time":"15:11","usr":"marksigal","txt":"Guest Post @GigaOM - Retail needs a reboot to survive. http://t.co/7UU2CedR $BBY $JCP $NKE $TGT $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"15:14","usr":"TimTim89683568","txt":"A FACEBOOK ACCOUNT + 4 MINUTES A DAY = $1,346 http://t.co/OJHHe1iV $USO $AMZN $PSID $LNKD $IWM $CORN $ACFN $EZU","lbl":"Neutral"}
+,{"time":"21:59","usr":"WallStJesus","txt":"\u2605 Where... http://t.co/FQaDaoty $AMZN $BA $COP $DNDN $GOOG $GRPN $HAL $HNT $HPQ $LUV $MRO $MSFT $OXY $PCL $RS $SBUX $SYY $TAP $WFC $ZUMZ","lbl":"Neutral"}
 ]

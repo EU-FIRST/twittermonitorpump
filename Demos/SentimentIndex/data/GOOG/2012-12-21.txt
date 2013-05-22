@@ -1,5 +1,18 @@
 [
-{"time":"8:46","usr":"z8angela","txt":"Twitter is quiet considerably. $GOOG, below 4-day support 717ish, where could be res. $ISRG free-fall continues since reversal 3 days ago.","lbl":"Negative"}
+{"time":"5:17","usr":"StockMarket411","txt":"Zacks Bull and Bear of the Day Highlights: Whirlpool, Darden Restaurants, Yahoo!, Google and Baidu $goog http://t.co/irZ4Hh2h goog, googl...","lbl":"Neutral"}
+,{"time":"5:20","usr":"TheStreet","txt":"RIM Beats, Pops, Then Snaps Back To Its Cold, Hard Reality http://t.co/T4yDe3D9 $RIMM $AAPL $GOOG $MSFT @agara2004","lbl":"Neutral"}
+,{"time":"5:22","usr":"prabier","txt":"RT @SAI: This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/6POva4Un","lbl":"Neutral"}
+,{"time":"8:42","usr":"IAm_MrTetteh","txt":"RT @SAI: Twitter Has Raided Google For Talent As It Gets Ready For An IPO $GOOG http://t.co/qmgr7lVg","lbl":"Neutral"}
+,{"time":"8:46","usr":"z8angela","txt":"Twitter is quiet considerably. $GOOG, below 4-day support 717ish, where could be res. $ISRG free-fall continues since reversal 3 days ago.","lbl":"Negative"}
+,{"time":"11:44","usr":"jpu19","txt":"RT @SeekingAlpha: RIM: Recent Rally Has Eroded Margin Of Safety Significantly http://t.co/bOY9G4l9 $AAPL $FB $GOOG $MSFT $RIMM","lbl":"Neutral"}
+,{"time":"11:45","usr":"IADops40","txt":"#Apple U.S. #smartphone market share soars to 53.3% in last 12 weeks ending Nov 25, #Android slips to 41.9% http://t.co/zyhyvP4Z $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:45","usr":"jimaley","txt":"The Ray Kurzweil Show, Now Playing an Unlimited Engagement at the Googleplex http://t.co/VeD1OT2o @ValleyHack @BW $GOOG","lbl":"Neutral"}
+,{"time":"13:41","usr":"pennystockguys","txt":"$GOOG - EU Makes Formal Complaint Against Samsung http://t.co/aYNmPP16","lbl":"Neutral"}
+,{"time":"13:41","usr":"ADVFNplc","txt":"$GOOG - EU Makes Formal Complaint Against Samsung http://t.co/dj4M5Czg","lbl":"Neutral"}
+,{"time":"15:06","usr":"tim","txt":"Wouldn\u0027t it be news if Google-Motorola WASN\u0027T working on a \u0022sophisticated handset\u0022 to compete with the iPhone? $GOOG","lbl":"Neutral"}
+,{"time":"15:06","usr":"piecykw","txt":"RT @tim: Wouldn\u0027t it be news if Google-Motorola WASN\u0027T working on a \u0022sophisticated handset\u0022 to compete with the iPhone? $GOOG","lbl":"Neutral"}
 ,{"time":"16:07","usr":"IADops40","txt":"#Google designing \u0027X Phone\u0027 to be released in 2013; to rival #Apple & #Samsung http://t.co/Sk2otoga $GOOG $AAPL $MSI #tech #iPhone #XPhone","lbl":"Positive"}
+,{"time":"16:09","usr":"racernic","txt":"almost pulled trigger wk $goog irn condr.backed off.no need 2create drama for .5. will revisit mon. prems should still b there given vol","lbl":"Neutral"}
 ,{"time":"17:28","usr":"thefinancepress","txt":"$GOOG Google Prepping \u0022X Phone\u0022 To Compete With Apple: Google Prepping \u0022X Phone\u0022 To Compete With Apple ValueWal... http://t.co/TczscFjD","lbl":"Positive"}
+,{"time":"17:40","usr":"Carina_Lermon","txt":"Growth of Android, iPhone could be security \u0027nightmare\u0027 for government - Ottawa Citizen #Android $Goog http://t.co/tpmA20h6","lbl":"Neutral"}
 ]

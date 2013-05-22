@@ -1,4 +1,21 @@
 [
-{"time":"4:23","usr":"hi_h8rs","txt":"@7FiveSeven $EA is a dog. $GME and $AMZN have sighted slowing sales of video games. $GE sounds fine but has been dead money for a long time.","lbl":"Negative"}
+{"time":"4:20","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AMZN @simplestockqtes http://t.co/lsVRYfbm","lbl":"Neutral"}
+,{"time":"4:21","usr":"StockMarketEnds","txt":"Anti Christ Zionists WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Economist #Reporter #Actor #Chemist #Loan #Writer","lbl":"Neutral"}
+,{"time":"4:23","usr":"hi_h8rs","txt":"@7FiveSeven $EA is a dog. $GME and $AMZN have sighted slowing sales of video games. $GE sounds fine but has been dead money for a long time.","lbl":"Negative"}
+,{"time":"6:57","usr":"jimcramer","txt":"@RichHames Here\u0027s a man who just called me dumb b/c i love browsing at $BBY and then buying at $AMZN.","lbl":"Neutral"}
+,{"time":"6:57","usr":"freespiderlinks","txt":"RT @GrowTweets: http://t.co/ancu9nj9 : Find out if $FB , $AMZN, and $AAPL will go up or down: Get the charts!","lbl":"Neutral"}
+,{"time":"8:33","usr":"mcilderman","txt":"#Dividend Desire: Will #3DPrinting Make Hasbro A Model Of Failure? http://t.co/SMijEYAX $AAPL $AMZN $MSFT $DIS @realdividendlab","lbl":"Neutral"}
+,{"time":"10:37","usr":"biggercapital","txt":"They have no choice ;-) RT @firstadopter: $AAPL decides to match $AMZN with a free app program of their own. http://t.co/RthmB7ts","lbl":"Neutral"}
+,{"time":"10:39","usr":"biggercapital","txt":"and eventually $AMZN will force $AAPL to drop their tablet prices. Just the start of the disruption! ;-)","lbl":"Neutral"}
+,{"time":"11:21","usr":"StockAction","txt":"RT @mcilderman: #Dividend Desire: Will #3DPrinting Make Hasbro A Model Of Failure? http://t.co/JBY3Cy78 $AAPL $AMZN $MSFT $DIS #stockaction","lbl":"Neutral"}
 ,{"time":"12:06","usr":"Crap_Trader","txt":"$AMZN has been such a tease these last few days.","lbl":"Negative"}
+,{"time":"13:28","usr":"BigTicks","txt":"$AMZN News: Dividend Desire: Will 3-D Printing Make Hasbro A Model Of Failure? http://t.co/3oy2MS1L #AMZN #Desire #Dividend","lbl":"Neutral"}
+,{"time":"13:29","usr":"Retirementzone","txt":"http://t.co/hRu5Z7mP, Inc. (NASDAQ:AMZN) Consolidating Within a Narrow Range http://t.co/XyJaqgQt $AMZN,$BBY","lbl":"Neutral"}
+,{"time":"14:18","usr":"StockMarketEnds","txt":"Anti Christ Zionist WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Social #Movies #Senior #Shows #Site #Utility #Care","lbl":"Neutral"}
+,{"time":"15:30","usr":"ekorolow","txt":"RT @mcilderman: Will #3DPrinting Make Hasbro A Model Of Failure? http://t.co/Aa5vb2fo $AAPL $AMZN $MSFT $DIS #Fabbing #3dp #dividends","lbl":"Neutral"}
+,{"time":"15:31","usr":"wallstCS","txt":"Your Cheat Sheet to Apple\u0027s Week of Stock Moving News http://t.co/B5ieXruw $AAPL $AMZN $BKS $GOOG $FB $BIDU $HPQ $INTC #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:32","usr":"ValentFinancial","txt":"Your Cheat Sheet to Apple\u0027s Week of Stock Moving News http://t.co/LoTOcEN4 $AAPL $AMZN $BKS $GOOG $FB $BIDU $HPQ $INTC #mkt #stocks","lbl":"Neutral"}
+,{"time":"18:43","usr":"SAI","txt":"APPLE SLAPS BACK: Government\u0027s E-Books Case Is \u0027Fundamentally Flawed\u0027 $AAPL $AMZN by @owenthomas http://t.co/eS1h7ihI","lbl":"Neutral"}
+,{"time":"18:44","usr":"lluccipha","txt":"SAI: APPLE SLAPS BACK: Government\u0027s E-Books Case Is \u0027Fundamentally Flawed\u0027 $AAPL $AMZN by @owenthomas http://t.co/ARHXj1o5","lbl":"Neutral"}
+,{"time":"18:44","usr":"WindSalt","txt":"RT @SAI: APPLE SLAPS BACK: Government\u0027s E-Books Case Is \u0027Fundamentally Flawed\u0027 $AAPL $AMZN by @owenthomas http://t.co/eS1h7ihI","lbl":"Neutral"}
 ]

@@ -1,4 +1,13 @@
 [
-{"time":"8:08","usr":"firstadopter","txt":"If $AMZN decides to under-price ebooks below cost again & further destroy their profitability good luck going into price war w/ $AAPL $GOOG","lbl":"Negative"}
+{"time":"5:32","usr":"ampressman","txt":"Market share: 61% of tablet owners have iPad, 14% Kindle Fire, 5% Galaxy, 1% Nook Color | Pew Internet http://t.co/HAHkPlNH $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"5:38","usr":"LukeRomyn","txt":"RT @OgFOMK: \u0022@LukeRomyn: Got a #Kindle? Get some incredible #free ebooks from me and @ceebee308 right here: http://t.co/toJoTFkf\u0022 $AMZN","lbl":"Neutral"}
+,{"time":"5:40","usr":"BirdAndGarden","txt":"RT @OgFOMK: \u0022@LukeRomyn: Got a #Kindle? Get some incredible #free ebooks from me and @ceebee308 right here: http://t.co/toJoTFkf\u0022 $AMZN","lbl":"Neutral"}
+,{"time":"8:05","usr":"JerTignes","txt":"\u201C@firstadopter: WSJ: \u0022 $AAPL might also be forced, for competitive reasons to match $AMZN price\u0022 not a core mkt @ $aapl at all! Dont care!","lbl":"Neutral"}
+,{"time":"8:08","usr":"firstadopter","txt":"If $AMZN decides to under-price ebooks below cost again & further destroy their profitability good luck going into price war w/ $AAPL $GOOG","lbl":"Negative"}
+,{"time":"8:45","usr":"USwwwStocks","txt":"$AMZN News: Can This Retailer Go Toe-to-Toe With Amazon? http://t.co/zl8dHrT9 #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"11:27","usr":"TALENTEDBLONDE","txt":"Facebook e-commerce: the next big thing? http://t.co/fzvbPdXt $FB $$AMZN $$","lbl":"Neutral"}
 ,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:47pm: 194.80 +0.81 (+0.42%).","lbl":"Positive"}
+,{"time":"14:52","usr":"USwwwStocks","txt":"$AMZN News: The \u0027Best CEO\u0027 Jinx Could Hit AutoZone http://t.co/ln1RPCjc #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"15:31","usr":"Qwovadis","txt":"Commented on: \u0022Apple And Foxconn Just Crippled Apple\u0027s Biggest Competitors\u0022 http://t.co/WQP3GKIH $AMZN $DELL $HPQ $NOK $AAPL","lbl":"Neutral"}
+,{"time":"16:16","usr":"itsdrenthe","txt":"@Novemurr $AMZN\u0027s P/E is 141.89","lbl":"Neutral"}
 ]

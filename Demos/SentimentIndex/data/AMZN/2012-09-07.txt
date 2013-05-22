@@ -1,27 +1,53 @@
 [
-{"time":"4:47","usr":"GBA525","txt":"RT @MarketWatch: Amazon takes a page from Apple\u0027s playbook: http://t.co/YD7NaHhU $AAPL $AMZN","lbl":"Positive"}
-,{"time":"7:50","usr":"SAI_Tools","txt":"Do Not Pre-Order Any Of The Amazon Kindle Fire HD Tablets $AMZN by @jyarow http://t.co/ONyJichN","lbl":"Negative"}
+{"time":"1:46","usr":"swiftsambi","txt":"RT @SAI: Here\u0027s How The New Kindle Fire HD Stacks Up Against The iPad $AMZN by @officialKLS http://t.co/UNT1MalW @piyush131","lbl":"Neutral"}
+,{"time":"1:46","usr":"swiftsambi","txt":"RT @SAI: Here\u0027s How The New Kindle Fire HD Stacks Up Against The iPad $AMZN by @officialKLS http://t.co/siZbBKJd @piyush131","lbl":"Neutral"}
+,{"time":"4:47","usr":"GBA525","txt":"RT @MarketWatch: Amazon takes a page from Apple\u0027s playbook: http://t.co/YD7NaHhU $AAPL $AMZN","lbl":"Positive"}
+,{"time":"6:39","usr":"WallStJesus","txt":"\u2605Wall Street Breakfast: Must-Know News http://t.co/s5McOdbd $GLCNF.PK $SPY $QQQ $AAPL $AIG $AMZN $BP $CBS $CMJFF.PK $DELL $EMC","lbl":"Neutral"}
+,{"time":"7:49","usr":"Valuentum","txt":"$AMZN New Kindle, Same Amazon http://t.co/3xrdhzW6","lbl":"Neutral"}
 ,{"time":"7:50","usr":"businessinsider","txt":"Do Not Pre-Order Any Of The Amazon Kindle Fire HD Tablets $AMZN by @jyarow http://t.co/atp0Ag7u","lbl":"Negative"}
+,{"time":"7:50","usr":"SAI_Tools","txt":"Do Not Pre-Order Any Of The Amazon Kindle Fire HD Tablets $AMZN by @jyarow http://t.co/ONyJichN","lbl":"Negative"}
+,{"time":"8:24","usr":"DeidreZune","txt":"$AMZN is ready for u to BUY the Kindle Fire HD and then keep viewing $AMZN ADs/Special offers CONSTANTLY http://t.co/dVIJXaxs","lbl":"Neutral"}
+,{"time":"8:26","usr":"DMacBoston","txt":"think $AMZN F\u0027d up with $499 for their \u0022high end\u0022 model tablet, if they came in lower it would have put some pressure on $AAPL","lbl":"Neutral"}
 ,{"time":"8:58","usr":"RomeArndDaWorld","txt":"RT @businessinsider: Jeff Bezos\u0027 Explanation Of How Amazon Charges So Little For The Kindle Fire Is Awesome $AMZN by @jyarow http://t.co ...","lbl":"Positive"}
 ,{"time":"8:58","usr":"StockHollywood","txt":"RT @DanZanger: $AMZN I consider that a nice winner. $2 risk for a $25+ gain now from my buy point. // yes, nice","lbl":"Positive"}
 ,{"time":"8:59","usr":"bored2tears","txt":"Amazon loses money on tablets. It\u0027s all going according to plan. http://t.co/vTwRGWiD $AMZN #AmazonDoctrine #ecommerce","lbl":"Negative"}
 ,{"time":"9:10","usr":"rktrades","txt":"$AMZN at a new high and now up over $40 since re-entered & tweeted at 217.17 on July 25th #stockaction","lbl":"Positive"}
+,{"time":"9:19","usr":"m_joaosilva","txt":"RT @SAI: Jeff Bezos\u0027 Explanation Of How Amazon Charges So Little For The Kindle Fire Is Awesome $AMZN by @jyarow http://t.co/0NgGzeuG","lbl":"Neutral"}
 ,{"time":"9:29","usr":"AH44KS","txt":"RT @given2tweet: What people don\u0027t get about $AMZN is that it\u0027s really hard to compete with a non-profit and it WILL hurt $AAPL as a res ...","lbl":"Positive"}
 ,{"time":"9:42","usr":"cappikell","txt":"RT @businessinsider: Jeff Bezos\u0027 Explanation Of How Amazon Charges So Little For The Kindle Fire Is Awesome $AMZN by @jyarow http://t.co ...","lbl":"Positive"}
+,{"time":"9:42","usr":"dwhiteshines","txt":"Wall Street Breakfast: Must-Know News http://t.co/1IWnFkWx $GLCNF.PK $SPY $QQQ $AAPL $AIG $AMZN $BP $CBS $CMJFF.PK $DELL $EMC","lbl":"Neutral"}
 ,{"time":"9:50","usr":"jblin","txt":"RT @SAI: Watch Out Google, Microsoft: Amazon Is Ready To Take The Number Two Spot In Tablets $AAPL $GOOG $AMZN $MSFT by @jyarow http://t ...","lbl":"Positive"}
 ,{"time":"9:50","usr":"StockAction","txt":"RT @rktrades: $AMZN at a new high and now up over $40 since re-entered & tweeted at 217.17 on July 25th #stockaction","lbl":"Positive"}
+,{"time":"10:04","usr":"SAI_Tools","txt":"Watch: Here\u0027s The Full Video Of Jeff Bezos Unveiling The Kindle Fire HD Yesterday $AMZN by @stevekovach http://t.co/xCzDZw8D","lbl":"Neutral"}
+,{"time":"10:04","usr":"SAI","txt":"Watch: Here\u0027s The Full Video Of Jeff Bezos Unveiling The Kindle Fire HD Yesterday $AMZN by @stevekovach http://t.co/PlMqDsbd","lbl":"Neutral"}
 ,{"time":"10:17","usr":"Dasan","txt":"just like the good old momo days $GMCR $AMZN $LULU $RIMM all up big","lbl":"Positive"}
 ,{"time":"10:18","usr":"KidDynamiteBlog","txt":"$AMZN is the stone cold nuts... another day I hate myself for not owning it","lbl":"Positive"}
+,{"time":"10:42","usr":"DavieKams","txt":"FYI Loving $AMZN business strategy and new products. Could be $AAPL $GOOG contender if they make the right choices.","lbl":"Neutral"}
+,{"time":"10:43","usr":"Apostolos_Kx","txt":"RT @ReutersInsider: $AMZN trades at $259/share, but its P/E ratio is even higher:307 wow.","lbl":"Neutral"}
+,{"time":"11:23","usr":"Gayatri_Shukla","txt":"RT @netgarden: \u0022People don\u0027t want gadgets anymore. They want services that improve over time.\u0022 - Jeff Bezos, $AMZN","lbl":"Neutral"}
+,{"time":"11:52","usr":"Danny_rios","txt":"RT @SAI_Tools: The Kindle Fire HD Will Force You To Look At Ads Unless You Pay Extra To Remove Them $AMZN by @stevekovach http://t.co/QY ...","lbl":"Neutral"}
 ,{"time":"11:52","usr":"Harshal_Wit","txt":"RT @SAI: With The Kindle Fire HD, Amazon Just Pointed A Gun At Google\u0027s Head $AMZN $GOOG by @mattlynley http://t.co/N4UnqLAR","lbl":"Positive"}
+,{"time":"11:52","usr":"Tray_siv","txt":"RT @ReutersInsider: $AMZN trades at $259/share, but its P/E ratio is even higher:307 wow.","lbl":"Neutral"}
+,{"time":"12:19","usr":"newsagg","txt":"$LULU $AMZN $GOOG hitting top rail 10d60m I expect $AAPL also http://t.co/xHBSiyua","lbl":"Neutral"}
+,{"time":"12:32","usr":"mgeorge9","txt":"RT @StreetsAnR: Lessons Learned at Stanford\u0027s Digital Marketing Program - Forbes (a great read!) http://t.co/Ike4ecbI $AMZN $CRM #Cloud","lbl":"Neutral"}
 ,{"time":"12:51","usr":"Jamtrades","txt":"Commented on StockTwits: i have a confession to make. I am scared to short $AMZN and $CRM ->Cult!!! http://t.co/5p2MMaMt","lbl":"Positive"}
+,{"time":"13:08","usr":"fitness_life_","txt":"RT @StreetsAnR: Lessons Learned at Stanford\u0027s Digital Marketing Program - Forbes (a great read!) http://t.co/Ike4ecbI $AMZN $CRM #Cloud","lbl":"Neutral"}
+,{"time":"13:32","usr":"STARFORCEHH","txt":"RT @StreetsAnR: Lessons Learned at Stanford\u0027s Digital Marketing Program - Forbes (a great read!) http://t.co/Ike4ecbI $AMZN $CRM #Cloud","lbl":"Neutral"}
 ,{"time":"13:32","usr":"andrespenaranda","txt":"\u201C@SAI: With The Kindle Fire HD, Amazon Just Pointed A Gun At Google\u0027s Head $AMZN $GOOG by @mattlynley http://t.co/oOtqQ8X4\u201D","lbl":"Positive"}
 ,{"time":"14:23","usr":"MarketWatch","txt":"Amazon is currently the second-best performer among large-cap tech stocks next to Apple: http://t.co/7VxBF2jx $AMZN $AAPL","lbl":"Positive"}
 ,{"time":"14:23","usr":"DeLuCa","txt":"\u201C@MarketWatch: Amazon is currently the second-best performer among large-cap tech stocks next to Apple: http://t.co/Ww5yhHdt $AMZN $AAPL\u201D","lbl":"Positive"}
 ,{"time":"14:24","usr":"NrmnGM","txt":"RT @MarketWatch: Amazon is currently the second-best performer among large-cap tech stocks next to Apple: http://t.co/7VxBF2jx $AMZN $AAPL","lbl":"Positive"}
+,{"time":"14:38","usr":"jonfortt","txt":"The only deal $AMZN announced was AT&T, @rakeshlobster. So I don\u0027t think that 250MB LTE is worldwide.","lbl":"Neutral"}
 ,{"time":"14:40","usr":"jpu19","txt":"RT @MarketWatch: Amazon is currently the second-best performer among large-cap tech stocks next to Apple: http://t.co/7VxBF2jx $AMZN $AAPL","lbl":"Positive"}
 ,{"time":"14:57","usr":"MikeKi6moe","txt":"RT @YahooFinance: Why Kindle Fire HD won\u0027t hurt Apple much...yet http://t.co/LoqNKPZK $AMZN","lbl":"Negative"}
 ,{"time":"14:57","usr":"kenjitweet","txt":"I\u0027m shorting $AMZN 258.81. CA residents will be charged tax starting 9/15. Kindle announcement done. High PE.","lbl":"Negative"}
+,{"time":"15:18","usr":"MedicalBillMD","txt":"RT @YahooFinance: Apple hits new high; investors unfazed by Amazon http://t.co/0sr40ckv $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"15:44","usr":"Interchanel","txt":"RT @StreetsAnR: Lessons Learned at Stanford\u0027s Digital Marketing Program - Forbes (a great read!) http://t.co/Ike4ecbI $AMZN $CRM #Cloud","lbl":"Neutral"}
+,{"time":"15:46","usr":"mda233","txt":"$AAPL & $AMZN leading the charge to a Post-PC Universe? http://t.co/ieJto9Au (Chart) http://t.co/xvMzEDno","lbl":"Neutral"}
 ,{"time":"16:15","usr":"LikeABossStocks","txt":"@RedDogT3Live $AMZN calls were beasting today...Shes a BEAST!","lbl":"Positive"}
 ,{"time":"17:34","usr":"WeezyMiyagi","txt":"$AMZN PE is out of touch with reality. One mistake & this bubble going to burst leaving investors in the dust. Don\u0027t fall for the hype","lbl":"Negative"}
+,{"time":"18:58","usr":"JonErlichman","txt":"Good take on Amazon\u0027s new toys from @Colin_Sebastian http://t.co/ZxGPDp44 $AMZN","lbl":"Neutral"}
+,{"time":"19:01","usr":"TheClockNews","txt":"RT @JonErlichman: Good take on Amazon\u0027s new toys from @Colin_Sebastian http://t.co/ZxGPDp44 $AMZN","lbl":"Neutral"}
 ,{"time":"21:35","usr":"RoccoPendola","txt":"@imsaul0968 Today\u0027s $AMZN margins don\u0027t matter much. Must look forward. Bezos is building a dynasty. $AAPL","lbl":"Positive"}
+,{"time":"21:36","usr":"mce13","txt":"RT @Minyanville: ICYMI: Will \u0027Arrested Development\u0027 Be the Savior of Netflix? $NFLX $AMZN $CSTR $TWX http://t.co/S8ZecIP5","lbl":"Neutral"}
 ]

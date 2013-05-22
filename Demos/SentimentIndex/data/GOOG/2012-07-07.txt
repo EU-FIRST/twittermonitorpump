@@ -1,1 +1,10 @@
-[]
+[
+{"time":"3:07","usr":"USwwwStocks","txt":"$GOOG News: US Cellular Launches HTC Smartphone http://t.co/QbOtdcO7 #GOOG #Cellular #Launches","lbl":"Neutral"}
+,{"time":"3:29","usr":"BigTicks","txt":"$GOOG News: US Cellular Launches HTC Smartphone http://t.co/g5yjFvFT #GOOG #Cellular #Launches","lbl":"Neutral"}
+,{"time":"4:01","usr":"POMOlist","txt":"iPhones for Psychos http://t.co/LWoNACWa #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"12:02","usr":"profitly","txt":"Learn from $200,000+ in profits on these trades: http://t.co/6pYltdUZ on $ARNA $GOOG $AAPL $LUXR $ONVO $SPY $X $SEFE $ZNGA $DIMI","lbl":"Neutral"}
+,{"time":"12:02","usr":"timothysykes","txt":"RT @profitly: Learn from $200,000+ in profits on these trades: http://t.co/6pYltdUZ on $ARNA $GOOG $AAPL $LUXR $ONVO $SPY $X $SEFE $ZNGA $DIMI","lbl":"Neutral"}
+,{"time":"12:02","usr":"tjin2k","txt":"My opinion for the market next week: $AAPL higher $GOOG higher $AMZN breakout higher #S&PFutes higher to1380 #EURO finding a base somewhere","lbl":"Positive"}
+,{"time":"17:50","usr":"BigTicks","txt":"$GOOG News: Google Inc (NASDAQ:GOOG) Under Uses Its Impressively Built Nexus Q http://t.co/j6H3w5ap #GOOG #Built #Google","lbl":"Neutral"}
+,{"time":"17:58","usr":"irae","txt":"RT @seynaeve: Since release of iPhone 5 years ago: $AAPL +376%; $SAMSUNG +36%; $GOOG +9%; $MSFT 0%; $RIMM -85%; $NOK -89% #MarketCaps","lbl":"Neutral"}
+]

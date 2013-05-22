@@ -1,1 +1,4 @@
-[]
+[
+{"time":"11:13","usr":"Urbane_Gorilla","txt":"Gizmodo says that $AMZN sales price drops on the Kindle line just before the school year is a sign of clearing inventory for the next model.","lbl":"Neutral"}
+,{"time":"20:03","usr":"jcchurch","txt":"RT @EddyElfenbein: The Ryan Portfolio includes $AAPL $IBM $XOM $GE $WFC $BMY $AMZN $BRKB $GOOG $PCLN $WFM http://t.co/njdIieGX $$","lbl":"Neutral"}
+]

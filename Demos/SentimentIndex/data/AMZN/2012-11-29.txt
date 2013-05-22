@@ -1,13 +1,35 @@
 [
-{"time":"2:13","usr":"eDahms","txt":"hoping $AMZN sees a mkt open selloff from mkt close highs last night. put in a short order last night hoping for a slight drop before close","lbl":"Negative"}
+{"time":"1:16","usr":"ericshim","txt":"RT @PrivCo: Major investors in @LivingSocial, $AMZN @LightspeedVP $JPM @GrotechVenture $TROW & others, unlikely to cont. #funding; http://t.co/wVPEsKVd","lbl":"Neutral"}
+,{"time":"2:13","usr":"eDahms","txt":"hoping $AMZN sees a mkt open selloff from mkt close highs last night. put in a short order last night hoping for a slight drop before close","lbl":"Negative"}
 ,{"time":"6:52","usr":"kcassandra","txt":"! RT @SAI: Foxconn Said To Be Building An Amazon Smartphone For Mid-2013 Launch $AMZN by @stevekovach http://t.co/VL3UehDq","lbl":"Positive"}
+,{"time":"8:30","usr":"johansjostrand","txt":"RT @SAI: POGUE: The iPad Mini Is The Tablet You Should Buy This Christmas $AAPL $GOOG $AMZN $BN by @nichcarlson http://t.co/OpR1tddb","lbl":"Neutral"}
+,{"time":"8:31","usr":"Lowtown21","txt":"$AMZN 250, $AAPL 600, & $GOOG 700, all st targets.","lbl":"Neutral"}
+,{"time":"8:56","usr":"firstadopter","txt":"Also nothing drives $AMZN AWS revenue this quarter like across the board 24-27% price cuts to match Google cloud pricing the day before!","lbl":"Neutral"}
+,{"time":"8:56","usr":"agelston","txt":"RT @DetailsR4Devils: $TDC Teradata sell-off on $AMZN Amazon offering an overreaction, says Lazard","lbl":"Neutral"}
 ,{"time":"10:02","usr":"nichcarlson","txt":"Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT http://t.co/nEoKpwjl","lbl":"Negative"}
 ,{"time":"10:02","usr":"SAI","txt":"Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT by @nichcarlson http://t.co/Pu65VeNB","lbl":"Negative"}
 ,{"time":"10:16","usr":"cgabriel10","txt":"RT @SAI: Obama Turns His Back On Silicon Valley $GOOG $AMZN $CSCO $AAPL $MSFT by @nichcarlson http://t.co/Pu65VeNB","lbl":"Negative"}
 ,{"time":"10:43","usr":"agelston","txt":"RT @JSFrier: to short or not to short $AMZN...that is the question.","lbl":"Negative"}
+,{"time":"10:43","usr":"RobertWeinstein","txt":"Cramer\u0027s 6 Stocks in 60 Seconds: - TheStreet http://t.co/MldhSPfp via @TheStreet $TGT $TASR $TKR $PPG $KMX $AMZN $CAB","lbl":"Neutral"}
+,{"time":"10:44","usr":"BenjaminLupu1","txt":"@StockTwits @thrill5one6 Amazon forges new ground in the Cloud, another way to make big revenue & No Money $AMZN http://t.co/qp9KoGCK","lbl":"Neutral"}
+,{"time":"11:09","usr":"JosephinaChris1","txt":"RT @LukeRomyn: Love your #Kindle? Love it even more with these incredible adventures: http://t.co/6aFKJz1o $AMZN #books","lbl":"Neutral"}
 ,{"time":"11:09","usr":"MomentumPtrsLLC","txt":"$amzn just because it stops up here dont lose faith just need to consolidate the move is all it is a bit over done its healthy","lbl":"Positive"}
+,{"time":"11:10","usr":"treequeen","txt":"RT @LukeRomyn: Love your #Kindle? Love it even more with these incredible adventures: http://t.co/6aFKJz1o $AMZN #books","lbl":"Neutral"}
 ,{"time":"11:45","usr":"aliontario","txt":"I am wondering if $amzn goes up $bby goes down ?","lbl":"Positive"}
+,{"time":"12:42","usr":"jsrobb","txt":"Looks like @rubykate_robb \u0027s shoe closet. RT @ChicagoPhotoSho: A look inside an Amazon warehouse $AMZN http://t.co/OE0Jlp56","lbl":"Neutral"}
+,{"time":"13:19","usr":"1nvestor","txt":"exactly how is $TDC going to be able to compete with $AMZN in the mix now. margins seem like a really BIG issue now for them.","lbl":"Neutral"}
+,{"time":"13:22","usr":"moshiapen","txt":"RT @LukeRomyn: Love your #Kindle? Love it even more with these incredible adventures: http://t.co/6aFKJz1o $AMZN #books","lbl":"Neutral"}
 ,{"time":"13:59","usr":"Fitzstock2004","txt":"not an $aapl bear......just trading what is working.......$amzn $pcln and $goog are up >+5% last 4 trading day......$aapl is UNCH","lbl":"Positive"}
 ,{"time":"14:35","usr":"Corkviews","txt":"@smartertrader $AMZN badass .","lbl":"Negative"}
+,{"time":"14:35","usr":"Ronnie_Matrix","txt":"RT @cnbcfastmoney: Best Retailers to Buy for Holiday Season: Pros http://t.co/lmoHFq76 $AEO $AMZN $CHS $EBAY $JCP $LTD $M $TGT $TIF $TJX $XRT #StockMarket","lbl":"Neutral"}
+,{"time":"15:12","usr":"mariodi","txt":"RT @biggercapital: 185000 K-books available to borrow for free on $AMZN RT @firstadopter: $BKS digital content also decelerated to 38% y/y fm 46% y/y last qtr","lbl":"Neutral"}
 ,{"time":"15:13","usr":"kanecotw","txt":"Shorted 15 shares $AMZN for a kick. 251.50 might add if she dumps.","lbl":"Negative"}
+,{"time":"15:53","usr":"SKSMediaBaku","txt":"RT @CBOE: Options with increasing volume @ CBOE: $X $BIDU $AMZN $DG $HLF $TIF $VALE","lbl":"Neutral"}
+,{"time":"16:42","usr":"MaysReport","txt":"Amazon closes debt offering, nets $2.973B $AMZN","lbl":"Neutral"}
+,{"time":"18:06","usr":"BloombergWest","txt":"Next up on #BWest: @CoryTV gives us a look at the Amazon Web Services conference in Las Vegas. $AMZN #tech","lbl":"Neutral"}
+,{"time":"19:28","usr":"BenCBanks","txt":"Here is the DAILY ANALYSIS - http://t.co/uv8v7O63 $SPY $AAPL $GOOG $IBM $AMZN - we look extended on the daily chart.","lbl":"Neutral"}
+,{"time":"19:30","usr":"TheStreet","txt":"What\u0027s @JimCramer saying about $TGT $TASR $TKR $PPG $KMX $AMZN http://t.co/AcJ9Heak","lbl":"Neutral"}
+,{"time":"19:46","usr":"howardlindzon","txt":"BOOKMARK ....Jeff Bezos talking to the flying tech dutchman @werner (the CTO) ....wish I was invited http://t.co/cYGLaBZW $AMZN (long)","lbl":"Neutral"}
+,{"time":"23:49","usr":"MInvestmentsLLC","txt":"RT @howardlindzon: Staples to offer 3d printing in stores ... I wonder if they can print customers to shop there over $amzn","lbl":"Neutral"}
+,{"time":"23:51","usr":"TTENetwork","txt":"RT @howardlindzon: Staples to offer 3d printing in stores ... I wonder if they can print customers to shop there over $amzn","lbl":"Neutral"}
 ]

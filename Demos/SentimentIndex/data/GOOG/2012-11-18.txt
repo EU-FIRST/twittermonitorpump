@@ -1,9 +1,36 @@
 [
-{"time":"9:46","usr":"henderson_mark","txt":"RT @businessinsider: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/AgGPEADI","lbl":"Negative"}
+{"time":"2:19","usr":"Carina_Lermon","txt":"Enterprise Android Adoption: A CIO \u0027s Big Dream Or Worst Nightmare ... #Android $GOOG http://t.co/auNSNUh8","lbl":"Neutral"}
+,{"time":"2:57","usr":"RealStockTrader","txt":"Many people use Penny Stocks to build an account, I perfer trading options of high flying stocks like $APPL, $GOOG and $AMZN.","lbl":"Neutral"}
+,{"time":"3:02","usr":"corybolton","txt":"@redmarketer Google Ups the Ante: $199 Laptop - TheStreet http://t.co/XwWGuYuL $GOOG $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"3:06","usr":"MarketCurrents","txt":"U.S. District Judge Susan Illston has approved Google\u0027s (GOOG) $22.5M settlement with the FTC over cl... http://t.co/0wM3x0I6 $GOOG","lbl":"Neutral"}
+,{"time":"9:46","usr":"henderson_mark","txt":"RT @businessinsider: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/AgGPEADI","lbl":"Negative"}
+,{"time":"9:46","usr":"SeeWaiCee","txt":"RT @SAI: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/OEpV0kSU","lbl":"Neutral"}
+,{"time":"9:46","usr":"ValaAfshar","txt":"Future of mobility based on recent earnings http://t.co/dKoDqwcg by @jay_jamison $FB $AAPL $GOOG $AMZN $MSFT","lbl":"Neutral"}
+,{"time":"9:46","usr":"MrSchinke","txt":"RT @SAI: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/OEpV0kSU","lbl":"Neutral"}
+,{"time":"10:25","usr":"tradingview","txt":"$GOOG chart by @mystockusa_com: http://t.co/RLv5N27p Google.","lbl":"Neutral"}
+,{"time":"10:25","usr":"mystockusa_com","txt":"$GOOG chart: Google. http://t.co/veq8cvOq","lbl":"Neutral"}
+,{"time":"10:27","usr":"avsudhir","txt":"RT @SAI: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/OEpV0kSU","lbl":"Neutral"}
+,{"time":"10:28","usr":"louisventer","txt":"RT @SAI: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/OEpV0kSU","lbl":"Neutral"}
+,{"time":"11:53","usr":"Robersonfr","txt":"RT @SAI: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/OEpV0kSU","lbl":"Neutral"}
+,{"time":"11:54","usr":"DerekShebby","txt":"RT @SAI: The New Version Of Android Thinks There Are Only 11 Months In A Year $GOOG by @stevekovach http://t.co/zilXQ99v","lbl":"Neutral"}
+,{"time":"11:55","usr":"flatfish","txt":"RT @SAI: The New Version Of Android Thinks There Are Only 11 Months In A Year $GOOG by @stevekovach http://t.co/zilXQ99v","lbl":"Neutral"}
+,{"time":"13:53","usr":"felipebolanost","txt":"RT @SAI: The New Version Of Android Thinks There Are Only 11 Months In A Year $GOOG by @stevekovach http://t.co/zilXQ99v","lbl":"Neutral"}
+,{"time":"13:54","usr":"QRMPR","txt":"RT @SAI: How To Get Ahead At Google (And How Not To) $GOOG by @_dtl http://t.co/ti6WOs5w","lbl":"Neutral"}
+,{"time":"13:54","usr":"andrew_spaceage","txt":"RT @businessinsider: How To Get Ahead At Google (And How Not To) $GOOG by @_dtl http://t.co/OA4MCNGr","lbl":"Neutral"}
+,{"time":"13:55","usr":"mkarimawan","txt":"RT @SAI: The New Version Of Android Thinks There Are Only 11 Months In A Year $GOOG by @stevekovach http://t.co/w5Q7t8gM Lol","lbl":"Neutral"}
+,{"time":"16:31","usr":"lesponneri","txt":"RT @SAI: The New Version Of Android Thinks There Are Only 11 Months In A Year $GOOG by @stevekovach http://t.co/zilXQ99v","lbl":"Neutral"}
+,{"time":"16:31","usr":"alexghioldi","txt":"RT @SAI: How To Get Ahead At Google (And How Not To) $GOOG by @_dtl http://t.co/ti6WOs5w","lbl":"Neutral"}
+,{"time":"16:32","usr":"Nomaan_A","txt":"RT @SAI: The New Version Of Android Thinks There Are Only 11 Months In A Year $GOOG by @stevekovach http://t.co/HloJxL4q","lbl":"Neutral"}
 ,{"time":"16:32","usr":"stockstobuy","txt":"Google $GOOG to pay $22.5 Million settlement for planting cookies on Apple\u0027s $AAPL Safari browser - http://t.co/b58rk60M","lbl":"Negative"}
+,{"time":"18:05","usr":"allanmalina","txt":"RT @Fitzstock2004: not only are the charts BROKEN, but $aapl accum/distr still \u0022E\u0022 and $GOOG now \u0022D+\u0022 and $AMZN \u0022D+\u0022.....2-3 day rallies will be SOLD 2 HANDS!","lbl":"Negative"}
+,{"time":"18:06","usr":"jaruppert","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/uEZTl7iW","lbl":"Neutral"}
 ,{"time":"18:07","usr":"TerryStorch","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/IRBDvywr","lbl":"Positive"}
+,{"time":"18:11","usr":"darshanp","txt":"RT @dannysullivan: Sorry dreamer Yahoo nor Facebook have talent to take on Google, much less Bing http://t.co/gKe5DoTy $YHOO $MSFT $FB $GOOG","lbl":"Neutral"}
 ,{"time":"19:36","usr":"DTSalvo","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/IRBDvywr","lbl":"Positive"}
+,{"time":"19:36","usr":"TurnerDigital","txt":"RT @businessinsider: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/pnuJeoqy","lbl":"Neutral"}
 ,{"time":"19:41","usr":"agnesiagnes","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/4gMcT91U","lbl":"Positive"}
 ,{"time":"21:48","usr":"joey_volpe","txt":"When did this all happen? RT @SAI: Analysts Say $GOOG Is \u0027Trying Harder\u0027 Than $AAPL, Android Innovation Is Racing Ahead http://t.co/SFLeRywk","lbl":"Positive"}
+,{"time":"21:49","usr":"FreeTheSree","txt":"The New Version Of Android Thinks There Are Only 11 Months In A Year $GOOG by @stevekovach http://t.co/QheXh6WP","lbl":"Neutral"}
+,{"time":"21:50","usr":"HijaziNatsheh","txt":"RT @SAI: The New Version Of Android Thinks There Are Only 11 Months In A Year $GOOG by @stevekovach http://t.co/vP7b60fb","lbl":"Neutral"}
 ,{"time":"21:51","usr":"KapitanWoods","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/IRBDvywr","lbl":"Positive"}
 ]

@@ -1,11 +1,43 @@
 [
-{"time":"2:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 02:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+{"time":"2:30","usr":"SeekingAlpha","txt":"Facebook: The Importance Of Founder Control And Protecting Shareholders From Themselves http://t.co/jOoVltNT $AMZN $GOOG $JPM $FB","lbl":"Neutral"}
+,{"time":"2:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 02:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"3:05","usr":"Abmuku","txt":"Get New Hot Social Media News First! Get Abmuku Mobile, Tech Analysis and More at http://t.co/w7Ocbix4 $FB $P $GOOG","lbl":"Neutral"}
 ,{"time":"3:15","usr":"askBloomfield","txt":"Real threat RT\u201C@businessinsider: Google Is Now Recognizing The Threat To Its Mapping Dominance $GOOG by @mattlynley http://t.co/g4BNX5RF\u201D","lbl":"Negative"}
+,{"time":"6:30","usr":"BridieChristoph","txt":"RT @mcilderman: Will #Apple Sell 3D Printers Soon? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #stocks","lbl":"Neutral"}
+,{"time":"6:31","usr":"StiBeshev","txt":"RT @mcilderman: Will #Apple Sell 3D Printers Soon? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #stocks","lbl":"Neutral"}
+,{"time":"6:32","usr":"TOelevator","txt":"RT @kodiaq: @TOelevator I think they have no clue how mobile will even work + Zuck is arrogant about it. Plus $GOOG has ~98% mkt share in mobile search.","lbl":"Neutral"}
+,{"time":"6:33","usr":"tkuz4u","txt":"Expect RIM and Nokia (and maybe Microsoft) to get squeezed like a fly between two sumo wrestlers ($Goog & $Aapl) at full speed.","lbl":"Neutral"}
+,{"time":"8:00","usr":"AnasMRaza","txt":"Soon BBM might not be exclusive to BlackBerry, iPhone & Android users might also be able to use it. $RIMM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"8:05","usr":"wallstCS","txt":"Wall Street Brief: Google\u0027s CEO Denies Health RUMORS http://t.co/Bj3Bo5lY $SNE $PC $GOOG $RIMM $AMZN $FB $AAPL $MSFT $BUD #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:06","usr":"FarriRizvi","txt":"RT @AnasMRaza: Soon BBM might not be exclusive to BlackBerry, iPhone & Android users might also be able to use it. $RIMM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"8:06","usr":"skrmje5","txt":"LEAK: This Is Google\u0027s Tablet $GOOG $AMZN $AAPL by @jyarow http://t.co/3ofBowxr","lbl":"Neutral"}
+,{"time":"9:05","usr":"Marwan_Obeidat","txt":"RT @businessinsider: LEAK: This Is Google\u0027s Tablet $GOOG $AMZN $AAPL by @jyarow http://t.co/KI4qQhzT","lbl":"Neutral"}
+,{"time":"9:08","usr":"ChrisMarasco","txt":"Commented on: \u0022Trade Alert: Iron Condor On Amazon\u0022 http://t.co/dzgVaX4i $AMZN $AAPL $GOOG $RAX $WMT","lbl":"Neutral"}
 ,{"time":"10:38","usr":"OptionPundit","txt":"Will $GOOG be able to stop sliding here at $556 /-2","lbl":"Negative"}
+,{"time":"10:39","usr":"Tony_BATtista","txt":"@igalharmelin Correct $GOOG earnings 7/12 dont care. Will prob be out before that anyways...","lbl":"Neutral"}
+,{"time":"10:42","usr":"anthony_garcia","txt":"Future: Could brands work w $GOOG for custom Street View? MT @Android: #Android team on Street View: http://t.co/6YnA3HwJ","lbl":"Neutral"}
+,{"time":"10:50","usr":"thefinancepress","txt":"$GOOG Boingo and Google To Deliver Free Wi-Fi Throughout The Summer ...: Boingo and Google To Deliver Free Wi-F... http://t.co/0UfHZAHe","lbl":"Neutral"}
+,{"time":"11:57","usr":"lluccipha","txt":"SAI: The 25 Best Tech Companies To Work At In 2012 $AAPL $GOOG by @mattlynley http://t.co/BH9vLX8n","lbl":"Neutral"}
+,{"time":"11:57","usr":"PavolHollosy","txt":"RT @barronsonline: See full Barron\u0027s list of World\u0027s Most Respected Companies http://t.co/TKDUhnOE $AAPL $IBM $MCD $AMZN $KO $DIS $GOOG $XOM $INTC $CAT $V $PEP","lbl":"Neutral"}
+,{"time":"11:58","usr":"Buddahfan","txt":"RT @barronsonline: See full Barron\u0027s list of World\u0027s Most Respected Companies http://t.co/TKDUhnOE $AAPL $IBM $MCD $AMZN $KO $DIS $GOOG $XOM $INTC $CAT $V $PEP","lbl":"Positive"}
+,{"time":"11:58","usr":"nik_tribalddb","txt":"RT @sai: The 25 Best Tech Companies To Work At In 2012 $AAPL $GOOG by @mattlynley http://t.co/FlnIP6ec","lbl":"Neutral"}
 ,{"time":"12:41","usr":"kngbn97","txt":"RT @SAI: Google Has To Answer A Huge Question About Android This Week $GOOG by @stevekovach http://t.co/u1ejfg2n","lbl":"Negative"}
+,{"time":"12:41","usr":"AngiHi","txt":"RT @SAI: Google Has To Answer A Huge Question About Android This Week $GOOG by @stevekovach http://t.co/u1ejfg2n","lbl":"Neutral"}
 ,{"time":"12:41","usr":"ECONgeek947","txt":"watch for tech rebound from $NFLX $FB $APPL $GOOG","lbl":"Positive"}
+,{"time":"12:42","usr":"brianward","txt":"RT @SAI_Tools: Google Has To Answer A Huge Question About Android This Week $GOOG by @stevekovach http://t.co/2IbuV3fo","lbl":"Neutral"}
+,{"time":"14:05","usr":"Minyanville","txt":"#Android improves smartphone security for armed forces http://t.co/mvjQIGgw $GOOG $AAPL $RIMM","lbl":"Neutral"}
 ,{"time":"14:05","usr":"wallstCS","txt":"Google\u0027s Nexus Tablet Faces STIFF COMPETITION and 2 More Tech Titans on the Move http://t.co/Ly9ZZXhf $AAPL $GOOG $NVDA $MSFT $EA #stocks","lbl":"Negative"}
 ,{"time":"15:31","usr":"ADVFNplc","txt":"$GOOG - Facebook Expands Ad Network - Analyst Blog http://t.co/yrI0s4dM","lbl":"Negative"}
+,{"time":"15:31","usr":"ADVFNplc","txt":"$GOOG - RIMM to Segregate Mobile Phone Unit - Analyst Blog http://t.co/oF2Stsx6","lbl":"Neutral"}
+,{"time":"15:31","usr":"pennystockguys","txt":"$GOOG - Facebook Expands Ad Network - Analyst Blog http://t.co/sgHWdxJi","lbl":"Neutral"}
+,{"time":"16:18","usr":"SimNiko","txt":"RT @SAI: CHART OF THE DAY: Which Tech Company Spends The Most On Advertising? $MSFT $AAPL $GOOG $EBAY by @jyarow http://t.co/6NUbfjFY","lbl":"Neutral"}
+,{"time":"16:18","usr":"munkyfonkey","txt":"RT @SAI: CHART OF THE DAY: Which Tech Company Spends The Most On Advertising? $MSFT $AAPL $GOOG $EBAY by @jyarow http://t.co/6NUbfjFY","lbl":"Neutral"}
 ,{"time":"16:18","usr":"ericjackson","txt":"$GOOG\u0027s board should get as much grief as $FB\u0027s - same thing","lbl":"Negative"}
+,{"time":"16:24","usr":"p_vanostaeyen","txt":"RT \u201C@SAI: The 9 Best Android Tablets You Can Buy Today $GOOG by @officialKLS http://t.co/ppxvT2TP\u201D #Android #Tablets","lbl":"Neutral"}
+,{"time":"19:11","usr":"dracossaint","txt":"RT @SAI_Tools: Here\u0027s How Google Can Make Android A Whole Lot Better Starting This Week $GOOG by @stevekovach http://t.co/p7OgGW9f","lbl":"Neutral"}
+,{"time":"19:15","usr":"best_n_korea","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/GhLCCrda","lbl":"Neutral"}
+,{"time":"19:15","usr":"dracossaint","txt":"RT @SAI_Tools: Google Has To Answer A Huge Question About Android This Week $GOOG by @stevekovach http://t.co/2IbuV3fo","lbl":"Neutral"}
+,{"time":"22:51","usr":"afterdawn","txt":"More specs revealed for Google Nexus 7 tablet? http://t.co/1uT9zyUw $GOOG","lbl":"Neutral"}
+,{"time":"22:59","usr":"Goodlett","txt":"Smart scribe @mattheist on chasing mobile ad rev, however need for integrated CMS to reduce content cost http://t.co/HkD7Axs1 $FB $GOOG $AOL","lbl":"Neutral"}
 ,{"time":"23:09","usr":"DTTradinghub","txt":"Some of the Major MOMO names look really nasty - $AAPL $GOOG $PCLN - $AMZNmight be flagging here or on the verge of a break down","lbl":"Negative"}
 ]

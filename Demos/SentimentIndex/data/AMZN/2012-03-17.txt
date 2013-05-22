@@ -1,4 +1,9 @@
 [
 {"time":"2:12","usr":"sznq","txt":"RT @timoreilly: Argument to short $AMZN in face of accelerating shipping losses, $AAPL competition http://t.co/wKXgicHR But not sure I\u0027d bet against Jeff B","lbl":"Negative"}
+,{"time":"4:22","usr":"jmimoun","txt":"RT @SAI: RUMOR: Google Is Getting Ready To Release A $150 Answer To The Kindle Fire $GOOG $AAPL $AMZN $MSFT by @jyarow http://t.co/kVNZKAW3","lbl":"Neutral"}
+,{"time":"11:45","usr":"tbg4321","txt":"$AMZN scenario $$ http://t.co/tXxB9Zs2","lbl":"Neutral"}
+,{"time":"11:45","usr":"NoDoji","txt":"RT @tbg4321: $AMZN scenario $$ http://t.co/I9VYoSUG","lbl":"Neutral"}
+,{"time":"15:35","usr":"USwwwStocks","txt":"$AMZN News: The Bear Case for Apple\u0027s Stock http://t.co/f7EccyAE #internet #daytrading #stocks","lbl":"Neutral"}
 ,{"time":"21:54","usr":"gowhitestripes","txt":"@_DecisionPoint $AAPL trailing PE of $40+ after Q2 times PE of 16 = $640 with $110 cash. $GOOG = 21 PE. $AMZN = 135 PE. $AAPL is reasonable.","lbl":"Negative"}
+,{"time":"22:51","usr":"stockmonkeymom","txt":"iCloud, Not the New iPad, is Apple\u0027s Real Key to the Post-PC Revolution http://t.co/dYnjlRtI $AAPL $GOOG $MSFT $AMZN","lbl":"Neutral"}
 ]

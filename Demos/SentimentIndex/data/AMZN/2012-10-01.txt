@@ -4,8 +4,21 @@
 ,{"time":"6:41","usr":"SAI","txt":"Amazon\u0027s New, Read-In-The-Dark Kindle Is A Huge Hit With Reviewers $AMZN by @nichcarlson http://t.co/0xXraqrA","lbl":"Positive"}
 ,{"time":"6:41","usr":"pegobry","txt":"RT @nichcarlson: RT @nichcarlson: Amazon\u0027s New, Read-In-The-Dark Kindle Is A Huge Hit With Reviewers $AMZN http://t.co/HBIwoz1Q","lbl":"Positive"}
 ,{"time":"8:57","usr":"nolte88","txt":"Opened up some 255 $AMZN puts at $2.60. Want to see it break back over 20 day. Acting as resistance. Don\u0027t think stock loses $250ish","lbl":"Negative"}
+,{"time":"8:57","usr":"wallstCS","txt":"TRW Automotive Announces Share Repurchase and 3 Morning Hot Stocks On the Move http://t.co/ELAl9c87 $WYNN $TRW $SNE $BKS $AMZN #mkt #stocks","lbl":"Neutral"}
 ,{"time":"10:08","usr":"akash_agarwal","txt":"Oracle announces new cloud offerings -- targetted @Amazon Cloud http://t.co/n0khy839 \u2026 #IaaS #PaaS $AMZN $ORCL #Cloud #openword2012","lbl":"Negative"}
+,{"time":"10:10","usr":"mobileslate","txt":"MT $AMZN becoming a bank: making loans up to $800,000 to sellers with healthy track record. http://t.co/t0hBTWIT (Learn from #Walmart)","lbl":"Neutral"}
 ,{"time":"10:44","usr":"ppearlman","txt":"Tilson not worried about $AAPL competing w/ $NFLX. more worried about $AMZN in the space. also worried a big co \u0022pours money\u0022 into the space","lbl":"Positive"}
 ,{"time":"10:44","usr":"ESCapAdv","txt":"Whitney Tislons outlines how $NFLX is better than $AMZN. basically thinks it would have a huge bidding war if placed on the block","lbl":"Negative"}
 ,{"time":"11:55","usr":"RA1708","txt":"RT @a_bh_a: RT @a_bh_a: I want what he\u0027s smoking: Tilson says $NFLX has better business model than $AMZN - #WTF","lbl":"Negative"}
+,{"time":"12:36","usr":"topdogillo","txt":"RT @CoryTV: RT @CoryTV: $AMZN making a run at the wine business: a fine reason to drink @hopeangracewine w.@Willow_Bay & @JonErlichman! http://t ...","lbl":"Neutral"}
+,{"time":"13:27","usr":"FreeMrktCptlst","txt":"\u0027#iPadmini\u0027 mockup compared to #Nexus7, #KindleFireHD http://t.co/jpAMuubG via @AppleInsider $AAPL $AMZN $GOOG $$","lbl":"Neutral"}
+,{"time":"13:50","usr":"USwwwStocks","txt":"$AMZN News: Amazon Kindle Paperwhite e-Readers Start Shipping In The U.S. http://t.co/QLp5jKoD #AMZN #Amazon #eReaders","lbl":"Neutral"}
+,{"time":"15:12","usr":"nicolehill17","txt":"RT @LukeRomyn: RT @LukeRomyn: Get THE DARK PATH and go to Hell! http://t.co/3eJCqR7m $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"15:13","usr":"XQuickFixX","txt":"RT @WScottONeil: RT @WScottONeil: RT @marketsmith: RT @jfahmy: Weekend Market VIDEO: http://t.co/VxNBp5h4 $SPY $QQQ $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"15:41","usr":"wallstCS","txt":"Why is Netflix like Amazon? http://t.co/Xtqq5KFE $NFLX $AMZN $WMT $NWSA #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"15:41","usr":"chessNwine","txt":"NEW POST: \u0022Stock #Market Recap 10/01/12 {Video}\u0022 http://t.co/IaBdTIhu $AAPL $AMZN $EEM $QQQ $SPY $XLB $XLF #stockaction","lbl":"Neutral"}
+,{"time":"16:22","usr":"PIPIMedia","txt":"RT @SAI: Here\u0027s What The iPad Mini Looks Like Next To The Kindle Fire And Nexus 7 $AAPL $GOOG $AMZN by @officialKLS http://t.co/TOLdqSSi","lbl":"Neutral"}
+,{"time":"17:20","usr":"4strngz","txt":"Listening to @TWistartups and thinking about the implications of self-driving cars on businesses like @uber and @sidecarsf as well as $AMZN","lbl":"Neutral"}
+,{"time":"21:00","usr":"AntoinetteOuell","txt":"RT @glenchen: RT @glenchen: RT @SAI: Here\u0027s What The iPad Mini Looks Like Next To The Kindle Fire And Nexus 7 $AAPL $GOOG $AMZN by @officialKLS http:/ ...","lbl":"Neutral"}
+,{"time":"21:02","usr":"samsissine2","txt":"RT @SAI: RT @SAI: Here\u0027s What The iPad Mini Looks Like Next To The Kindle Fire And Nexus 7 $AAPL $GOOG $AMZN by @officialKLS http://t.co/ChpOLdh0","lbl":"Neutral"}
 ]

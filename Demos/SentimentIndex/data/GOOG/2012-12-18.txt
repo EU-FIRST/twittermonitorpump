@@ -1,13 +1,34 @@
 [
 {"time":"1:19","usr":"reuvenohr","txt":"$goog whats up with that 3:59pm high @ 738.28 ?","lbl":"Positive"}
 ,{"time":"1:19","usr":"Immercify","txt":"$GOOG just seems to keep its steady rise. I think Project Glass has definitely been a factor.","lbl":"Positive"}
+,{"time":"1:21","usr":"Carina_Lermon","txt":"CyanogenMod 10.1 nightlies go live for limited devices | Android ... #Android $GOOG http://t.co/u1Nw4xqC","lbl":"Neutral"}
+,{"time":"8:47","usr":"NorthmanTrader","txt":"Flip side of $AAPL is $GOOG, down in pre-market on lawsuit news..","lbl":"Neutral"}
+,{"time":"8:47","usr":"scalamai","txt":"Watch out, Google, Facebook, Apple. Amazon is coming for your advertisers http://t.co/2JcLHb5z (via @pandodaily) $GOOG $FB $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"8:48","usr":"uBooost","txt":"RT @scalamai: Watch out, Google, Facebook, Apple. Amazon is coming for your advertisers http://t.co/2JcLHb5z (via @pandodaily) $GOOG $FB $AAPL $AMZN","lbl":"Negative"}
+,{"time":"9:30","usr":"mppeltz","txt":"Hedge funds of Tiger cubs Ainslie, Coleman and Mandel did well this year on $AAPL, $GOOG, $PCLN, $LBTYA & $TRIP. http://t.co/8WdW4F2X","lbl":"Neutral"}
+,{"time":"9:30","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 12.18.2012 http://t.co/P8fPQTGR","lbl":"Neutral"}
+,{"time":"9:30","usr":"bohanideas","txt":"Ray Kurzweil Now On The Job At Google http://t.co/bbLuQn5l (via @FastCompany) $GOOG","lbl":"Neutral"}
 ,{"time":"9:45","usr":"NorthmanTrader","txt":"$GOOG now green. This stock is going places.","lbl":"Positive"}
+,{"time":"10:14","usr":"SeekingAlpha","txt":"U.S. Court Denies Apple\u0027s Request For Ban On Samsung\u0027s Devices, Maintains $1.05 Billion Dam... http://t.co/69KhHXS9 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:56","usr":"IamWashira","txt":"feels like a year end rally and sell on the news type. $spx $spy $goog","lbl":"Neutral"}
+,{"time":"11:21","usr":"wallstCS","txt":"Is Google Trying to Rob Microsoft Blind? http://t.co/ZmT9dcOG $MSFT $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"11:21","usr":"pthegr8trades","txt":"$GOOG entering my target zones, take profits/trail stop","lbl":"Neutral"}
+,{"time":"11:58","usr":"tradethembi","txt":"Commented on StockTwits: but only 10 min signals on $GOOG and $PCLN http://t.co/ho2mCkvM","lbl":"Neutral"}
+,{"time":"12:00","usr":"MarketCurrents","txt":"The holiday season\u0027s e-commerce sales growth has slowed quite a bit, according to Channel... http://t.co/bPQYYp22 $AMZN $EBAY $GOOG","lbl":"Neutral"}
 ,{"time":"12:40","usr":"StockPlayer6","txt":"RT @NorthmanTrader: too many folks trying to short $AAPL $GOOG and market. Don\u0027t fight a freight train, wait for a reversal first. Right now <--No signal but up","lbl":"Positive"}
 ,{"time":"12:40","usr":"JAG92","txt":"RT @NorthmanTrader: too many folks trying to short $AAPL $GOOG and market. Don\u0027t fight a freight train, wait for a reversal first. Right now <--No signal but up","lbl":"Positive"}
+,{"time":"12:41","usr":"ChartMoMo","txt":"ho-ho-ho $spy $amzn $aapl $goog","lbl":"Positive"}
 ,{"time":"13:29","usr":"PeterGhostine","txt":"$GOOG rose above yesterday\u0027s $721 target, but I think a back test is in order here. http://t.co/Si43hu8p","lbl":"Negative"}
 ,{"time":"13:30","usr":"kingakira","txt":"@RaginCajun intraday selloff now, $GOOG still can run one more days?","lbl":"Positive"}
+,{"time":"14:22","usr":"sssc","txt":"RT @TraderFlorida: $AAPL $GOOG $MA $V sharing several chart updates and current holdings http://t.co/TzRX8Q6z","lbl":"Neutral"}
 ,{"time":"14:25","usr":"basilnsage","txt":"$GOOG about to go red","lbl":"Negative"}
 ,{"time":"14:25","usr":"z8angela","txt":"I\u0027m out of $AAPL long. Some high flyers have retreated well off day highs, time to take notice. $GOOG below 722 is bearish. Hate or love.","lbl":"Negative"}
+,{"time":"14:56","usr":"RtrsTechquity","txt":"Apple, Amazon, Google, Facebook news in one three-minute package. That\u0027s today\u0027s @Reuters #Techquity: http://t.co/E1JryHko $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"14:58","usr":"KingCAMBO812","txt":"$GOOG: They sold it with both hands over the 728 price pivot. Seems algo\u0027s are all using the same math. Whatever blows your hair back...","lbl":"Neutral"}
 ,{"time":"15:43","usr":"racernic","txt":"most likely taking another stab at shorting $goog here.","lbl":"Negative"}
+,{"time":"17:01","usr":"DNDTrading","txt":"RT @TheStreet: Apple vs Google vs Facebook: Let The Mapping Battle Begin http://t.co/9m9Zv4DF video w. @WallandBroad @Commodity_Bull $AAPL $FB $GOOG","lbl":"Neutral"}
+,{"time":"18:49","usr":"henrygambell","txt":"Bulls blew out shorts first two days of the week, can the rally be sustained? That plus a follow up on $MA and $GOOG http://t.co/kBVow46k","lbl":"Neutral"}
+,{"time":"18:54","usr":"BenCBanks","txt":"DAILY ANALYSIS: $SPY $AAPL $GOOG $AMZN... http://t.co/hxi7QSm2 via @weebly","lbl":"Neutral"}
+,{"time":"18:55","usr":"BenCBanks","txt":"DAILY ANALYSIS is POSTED - http://t.co/Nb4Dq917 $SPY $AAPL $GOOG $AMZN $BAC $C $PCLN and MORE","lbl":"Neutral"}
 ,{"time":"21:49","usr":"ppprophet","txt":"SELL $GOOG The Market will Crash .... .#DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
 ]

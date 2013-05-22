@@ -1,11 +1,36 @@
 [
 {"time":"5:54","usr":"USwwwStocks","txt":"$GOOG News: Sharp Jumps on Report of Tie-Up Talks With Apple, Google http://t.co/mcOsHoXw #Apple #GOOG #Google","lbl":"Positive"}
+,{"time":"5:57","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $AAPL $AMZN $MSFT $GOOG $NOK http://t.co/F1i1UUCw","lbl":"Neutral"}
+,{"time":"5:57","usr":"SAI","txt":"10 Things You Need To Know This Morning $AAPL $AMZN $MSFT $GOOG $NOK by @nichcarlson http://t.co/Kgo87DwH","lbl":"Neutral"}
+,{"time":"5:58","usr":"Hermann_Oficial","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $MSFT $GOOG $NOK by @nichcarlson http://t.co/Kgo87DwH","lbl":"Neutral"}
+,{"time":"8:14","usr":"jamiencontonio","txt":"RT @SAI: http://t.co/bgJcjU5v spending $160K per day on google ads! $GOOG by @Jim_Edwards http://t.co/R8aOneB3","lbl":"Neutral"}
+,{"time":"8:14","usr":"VroomDigital","txt":"RT @SAI: These Are Google\u0027s Biggest Advertisers, Ranked By Dollars Spent Daily $GOOG by @Jim_Edwards http://t.co/lrNpxvY7","lbl":"Neutral"}
+,{"time":"8:16","usr":"VargasAlan","txt":"RT @SAI: These Are Google\u0027s Biggest Advertisers, Ranked By Dollars Spent Daily $GOOG by @Jim_Edwards http://t.co/lrNpxvY7","lbl":"Neutral"}
+,{"time":"8:16","usr":"hugoguzman","txt":"RT @SAI: These Are Google\u0027s Biggest Advertisers, Ranked By Dollars Spent Daily $GOOG by @Jim_Edwards http://t.co/lrNpxvY7","lbl":"Neutral"}
+,{"time":"9:53","usr":"h9ramzy","txt":"RT @StockTwits: Post Crash, Investors Put $33 in Bonds for Every $1 Into Stocks http://t.co/7IdVqihg via @ycharts $COP $INTC $GOOG","lbl":"Neutral"}
+,{"time":"9:58","usr":"sspencer_smb","txt":"RT @StockTwits: Post Crash, Investors Put $33 in Bonds for Every $1 Into Stocks http://t.co/7IdVqihg via @ycharts $COP $INTC $GOOG","lbl":"Neutral"}
+,{"time":"9:59","usr":"ALSITRADER","txt":"RT @StockTwits: Post Crash, Investors Put $33 in Bonds for Every $1 Into Stocks http://t.co/7IdVqihg via @ycharts $COP $INTC $GOOG","lbl":"Neutral"}
+,{"time":"10:00","usr":"SeekingAlpha","txt":"Despite BYD\u0027s Recent Downturn, Its Future Is Electric http://t.co/44MYd20Z $AAPL $BRK.A $BRK.B $BYDDY.PK $GOOG $MSFT $NOK $TM","lbl":"Neutral"}
+,{"time":"12:06","usr":"stockmarketvide","txt":"$GOOG http://t.co/8U3kOL6e Google Inc (GOOG) Launched Its New Smart Phone Nexus 4 With The Collaboration Of LG Electronics On Monday","lbl":"Neutral"}
+,{"time":"12:07","usr":"BloombergWest","txt":"Get an up-close look at #Google\u0027s new #Nexus phone. http://t.co/qHN5QiWI $GOOG #tech","lbl":"Neutral"}
 ,{"time":"13:14","usr":"alecdibble","txt":"RT @howardlindzon: $goog ... \u201C@pkedrosky: Great changes RT @gmail: Introducing the new compose in Gmail: http://t.co/yhkiGP85 \u201D","lbl":"Positive"}
+,{"time":"13:15","usr":"ZacksResearch","txt":"Apple\u0027s Growth in Peril? http://t.co/bEyxgq05 $APPL $GOOG","lbl":"Neutral"}
 ,{"time":"13:19","usr":"MichaelComeau","txt":"Google Nexus 10 looks good at $399. $GOOG","lbl":"Positive"}
+,{"time":"13:23","usr":"SAI_Tools","txt":"Here\u0027s What Users Hate Most About Mobile Apps $GOOG $AAPL by @_dtl http://t.co/AeNLxmXT","lbl":"Neutral"}
+,{"time":"14:05","usr":"allisonstamm","txt":"RT @SAI: Here\u0027s What Users Hate Most About Mobile Apps $GOOG $AAPL by @_dtl http://t.co/8SNHkLo1","lbl":"Neutral"}
+,{"time":"14:07","usr":"osuthorpe","txt":"RT @SAI: Here\u0027s What Users Hate Most About Mobile Apps $GOOG $AAPL by @_dtl http://t.co/8SNHkLo1","lbl":"Neutral"}
+,{"time":"14:07","usr":"letzing","txt":"Another helpful quarterly metric for Google watchers $GOOG @WSJdigits http://t.co/t68LwSrt","lbl":"Neutral"}
+,{"time":"14:08","usr":"bartabaka","txt":"RT @SAI: Now Google Has Planted A Siri Killer On The iPhone $GOOG by @officialKLS http://t.co/IBfm48cC","lbl":"Neutral"}
+,{"time":"15:37","usr":"thefinancepress","txt":"$GOOG Google to Present at the Piper Jaffray TMT Conference: Google to Present at the Piper Jaffray TMT Confere... http://t.co/Xxe9c2Qd","lbl":"Neutral"}
+,{"time":"15:41","usr":"RobertWeinstein","txt":"Thank You! RT @bullishheelz: @jimcramer @RobertWeinstein excellent article http://t.co/aXd1NaKi $AAPL $AMZN $WMT $GOOG","lbl":"Neutral"}
 ,{"time":"15:43","usr":"newsagg","txt":"$GOOG sure looks like it wants to test the 61.8% which is also 200ema and top of a volume node , RSI oversold http://t.co/MHAgBtNA","lbl":"Negative"}
+,{"time":"18:53","usr":"FireYourAnalyst","txt":"Here\u2019s What Google\u2019s SWOT Analysis Revealed - $AAPL, $FB, $GOOG, $IBM, $MSFT - Foolish Blogging Network: http://t.co/q5H0CNGN","lbl":"Neutral"}
 ,{"time":"19:43","usr":"TrueMarketAI","txt":"Somehow I wound up w/the new $GOOG gmail compose. Very slick/smooth. http://t.co/mmPUFjfc #Stocks","lbl":"Positive"}
+,{"time":"19:45","usr":"ryanmcraver","txt":"google needs to accelerate development of a bbm/imessage equivalent to create implied user stickiness with consumers $goog $aapl $rimm","lbl":"Neutral"}
+,{"time":"21:29","usr":"BenCBanks","txt":"I uploaded alot of chats on @StockTwits this evening. Plus what was already on the blog. Enjoy. http://t.co/VJevJQtY $spy $aapl $goog $amzn","lbl":"Neutral"}
 ,{"time":"21:31","usr":"pennystockguys","txt":"$GOOG - France Makes &euro;1 Billion Tax Claim Against Google http://t.co/lmVjIss7","lbl":"Negative"}
 ,{"time":"21:31","usr":"ADVFNplc","txt":"$GOOG - France Makes &euro;1 Billion Tax Claim Against Google http://t.co/uNST3yII","lbl":"Negative"}
 ,{"time":"23:18","usr":"StockMarket411","txt":"Google\u2019s 3Q earnings leak early, stock plunges $goog http://t.co/x8SZjQps goog, google, google stock, news","lbl":"Negative"}
+,{"time":"23:30","usr":"MarketCurrents","txt":"The iPad Mini (AAPL) is the best small-size tablet available, even if it\u0027s far from the c... http://t.co/ZwtfbiDr $AAPL $AMZN $GOOG","lbl":"Neutral"}
 ,{"time":"23:30","usr":"RobertWeinstein","txt":"$GOOG =bigr threat. Much love but you\u0027re wrong here RT @TheStreet: Yes, $AAPL Can Kill $MSFT Office http://t.co/SsvWkkDz by @rocco_thestreet","lbl":"Negative"}
 ]

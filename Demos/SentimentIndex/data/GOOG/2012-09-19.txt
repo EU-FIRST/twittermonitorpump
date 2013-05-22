@@ -1,5 +1,29 @@
 [
-{"time":"14:01","usr":"TradingBlues1","txt":"RT @traderstewie: Some names making new 52 week highs: $SHW, $RYL, $MON, $AOL, $WHR, $NSM, $CAB, $RAX, $CAKE, GE, $GOOG","lbl":"Positive"}
+{"time":"1:50","usr":"hnshah","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"1:51","usr":"suhastech","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"1:51","usr":"digitim","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"1:52","usr":"mcmns","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"2:48","usr":"IntellectAssets","txt":"$AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"2:52","usr":"FatimaMalki","txt":"@Moulay_Zaid This equation is way cooler! $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B) (via @peteryared)","lbl":"Neutral"}
+,{"time":"2:59","usr":"NowEntrepreneur","txt":"Wow ... RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"3:07","usr":"dhimantdesai","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:27","usr":"danmartell","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:28","usr":"rankinthomas","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:28","usr":"john_frankel","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:28","usr":"ThomasBCN","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"8:58","usr":"DeidreZune","txt":"Performance of mega-caps like $AAPL $AMZN $GOOG are due to NEW CASH coming to EQUITIES along with their individual stellar stories","lbl":"Neutral"}
+,{"time":"10:22","usr":"jamiebardin","txt":"RT @SAI: The 15 Richest People In Tech $AAPL $GOOG $MSFT $ORCL by @jyarow http://t.co/JCLNX6DP","lbl":"Neutral"}
+,{"time":"10:22","usr":"RoseMartincak","txt":"RT @SAI: The 15 Richest People In Tech $AAPL $GOOG $MSFT $ORCL by @jyarow http://t.co/JCLNX6DP","lbl":"Neutral"}
+,{"time":"10:22","usr":"BOMBAcamp","txt":"\u201C@SAI: The 15 Richest People In Tech $AAPL $GOOG $MSFT $ORCL by @jyarow http://t.co/GzK3x3h6\u201D","lbl":"Neutral"}
+,{"time":"10:23","usr":"Rammohantweets","txt":"RT @SAI: The 15 Richest People In Tech $AAPL $GOOG $MSFT $ORCL by @jyarow http://t.co/JCLNX6DP","lbl":"Neutral"}
+,{"time":"10:58","usr":"CaliMonk","txt":"RT @SAI: BII REPORT: The Winner Of The Apps vs. Browsers War Is... $AAPL $MSFT $GOOG http://t.co/6qkAnGSP","lbl":"Neutral"}
+,{"time":"10:59","usr":"Mrbiggsharmon","txt":"RT @SAI: The 15 Richest People In Tech $AAPL $GOOG $MSFT $ORCL by @jyarow http://t.co/ej8JS11y damn mark got all fucked up on this one","lbl":"Neutral"}
+,{"time":"11:01","usr":"mirceagoia","txt":"RT @SAI: The 15 Richest People In Tech $AAPL $GOOG $MSFT $ORCL by @jyarow http://t.co/JCLNX6DP","lbl":"Neutral"}
+,{"time":"12:20","usr":"newsagg","txt":"$AAPL not keeping pace with $GOOG and $AMZN and possibly holding the market back. AAPL is the new SPX","lbl":"Positive"}
+,{"time":"12:21","usr":"NorthmanTrader","txt":"@todd_harrison @Minyanville no doubt the continued strength in $GOOG $AAPL $AMZN & $IBM has been nothing short of stunning! Pullback ever?","lbl":"Positive"}
+,{"time":"12:22","usr":"asermaksoud","txt":"RT @HFadeel: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"14:01","usr":"TradingBlues1","txt":"RT @traderstewie: Some names making new 52 week highs: $SHW, $RYL, $MON, $AOL, $WHR, $NSM, $CAB, $RAX, $CAKE, GE, $GOOG","lbl":"Positive"}
 ,{"time":"14:01","usr":"tradermays","txt":"$FB $GOOG $JCP $LULU $LVS $BIDU $DECK etc forget about it","lbl":"Negative"}
 ,{"time":"15:28","usr":"ABBlitzer","txt":"Out half $goog all $bak and $rig.","lbl":"Negative"}
+,{"time":"19:59","usr":"bluser12","txt":"$NKE $GOOG $AZO in play for tomorrow","lbl":"Neutral"}
 ]

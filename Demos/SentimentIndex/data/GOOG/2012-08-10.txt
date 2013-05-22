@@ -1,4 +1,32 @@
 [
-{"time":"9:16","usr":"unboundmedicine","txt":"RT @SAI: Google Search Just Got A Whole Lot Better On Your Smartphone $GOOG by @officialKLS http://t.co/Fg0alJkh","lbl":"Positive"}
+{"time":"2:48","usr":"thurberdog","txt":"Is the economy turning on $GOOG and $APPL ? or is wall street still hooked on cocaine from the 80\u0027s? #ows","lbl":"Neutral"}
+,{"time":"8:17","usr":"JeremyKissel","txt":"FTC-Google: Proposed Stipulated Order for Permanent Injunction and Civil Penalty Judgment [PDF] http://t.co/LnAlytLQ #ftc $GOOG","lbl":"Neutral"}
+,{"time":"8:20","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) Has Yet To Directly Deal With Apple Inc ...: Google Inc (NASDAQ:GOOG) Has Yet To... http://t.co/sSmeV6TU","lbl":"Neutral"}
+,{"time":"8:24","usr":"SpeedSixx2","txt":"Never trade this one but it has huge movement $JCP, on the radar for this morning, as well as the usual suspects $AAPL, $GOOG $AMZN $SPY","lbl":"Neutral"}
+,{"time":"8:30","usr":"MarketCurrents","txt":"Corporate cash hoards aren\u0027t as big a deal as might be expected, finds UBS. Buybacks can ... http://t.co/OdHVY11L $AAPL $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"9:16","usr":"unboundmedicine","txt":"RT @SAI: Google Search Just Got A Whole Lot Better On Your Smartphone $GOOG by @officialKLS http://t.co/Fg0alJkh","lbl":"Positive"}
+,{"time":"9:18","usr":"choffman1978","txt":"Markets SURGING - ECB/Fed news today? #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s","lbl":"Neutral"}
+,{"time":"9:18","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs,HUGE Call vol = RALLY! 21m volume #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s","lbl":"Neutral"}
+,{"time":"9:20","usr":"choffman1978","txt":"$FB SURGING up over 3% #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s","lbl":"Neutral"}
+,{"time":"10:06","usr":"adam_redder","txt":"RT @HFTAlert: HUGE!! ALMOST 1000 QUOTE RATE $spy $vxx $aapl $goog http://t.co/r21kA36F","lbl":"Neutral"}
+,{"time":"10:07","usr":"abdogman","txt":"RT @HFTAlert: HUGE!! ALMOST 1000 QUOTE RATE $spy $vxx $aapl $goog http://t.co/0IVwlvKp","lbl":"Neutral"}
+,{"time":"11:03","usr":"optionspunk","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/hwjIGf6W #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"11:03","usr":"anniejchang","txt":"@SAI @shontelaylay companies have cash bc of their awesome innovative products $AMGN $AAPL $NKE $GOOG but afraid to spend it incorrectly","lbl":"Neutral"}
+,{"time":"11:07","usr":"choffman1978","txt":"$SIRI (SirusXM) HUGE Call Volume reported = HUGE RALLY! 54m volume #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$kcg","lbl":"Neutral"}
+,{"time":"12:23","usr":"ChartMoMo","txt":"@Fitzstock2004 you just compared $aapl and $goog to $amzn? OMG David. LOL.","lbl":"Neutral"}
+,{"time":"12:24","usr":"businessinsider","txt":"Here\u0027s The One Place Yahoo Destroyed Google $YHOO $GOOG by @owenthomas http://t.co/BQdPdtlG","lbl":"Neutral"}
+,{"time":"12:24","usr":"SAI","txt":"Here\u0027s The One Place Yahoo Destroyed Google $YHOO $GOOG by @owenthomas http://t.co/a4SkiwME","lbl":"Neutral"}
 ,{"time":"12:24","usr":"clusterstock","txt":"Here\u0027s The One Place Yahoo Destroyed Google $YHOO $GOOG by @owenthomas http://t.co/l6kAzTkV","lbl":"Negative"}
+,{"time":"13:01","usr":"choffman1978","txt":"$SIRI (SirusXM) HUGE Call Volume reported = HUGE RALLY! 78m volume #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$kcg","lbl":"Neutral"}
+,{"time":"13:03","usr":"choffman1978","txt":"$SIRI (SirusXM) HUGE Call Volume reported = HUGE RALLY! 80m volume #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$kcg","lbl":"Neutral"}
+,{"time":"13:06","usr":"launchticker","txt":"$goog rolling out change to algorithm next week to downrank sites w/ high volume of copyright removal notices http://t.co/akh5zHFA","lbl":"Neutral"}
+,{"time":"14:15","usr":"StockTwits","txt":"RT @AlphaVN Post-PC Taiwanese Companies Struggle alongside the industry to adapt. $DELL $GOOG $AAPL $INTC $HPQ http://t.co/ilgx1E4T","lbl":"Neutral"}
+,{"time":"14:15","usr":"Carlos_Ungo","txt":"RT @SAI: Google Search Just Got A Whole Lot Better On Your Smartphone $GOOG by @officialKLS http://t.co/5zRBEOGD","lbl":"Neutral"}
+,{"time":"14:18","usr":"choffman1978","txt":"$SIRI (SirusXM) Surging -SHORT SQUEEZE HAPPENING 107m volume #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$kcg,$soda","lbl":"Neutral"}
+,{"time":"14:19","usr":"choffman1978","txt":"$SIRI (SirusXM) Surging -SHORT SQUEEZE HAPPENING 108m volume #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$kcg,$soda","lbl":"Neutral"}
+,{"time":"15:33","usr":"Tradesight","txt":"Some nice stock picks on a slow #trading day in the #markets: http://t.co/Yufp6Zrh $TLT $VMW $GOOG","lbl":"Neutral"}
+,{"time":"15:35","usr":"barronstechblog","txt":"As the RIM Turns: Possible Sales of Acquisitions, Says WSJ - Tech Trader Daily - $RIMM $AAPL $GOOG $MSFT $NOK $IBM http://t.co/dPRYdebC","lbl":"Neutral"}
+,{"time":"15:36","usr":"pilliho","txt":"RT @choffman1978: $YMI Surging! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$rxpc,$ctic,$vvus","lbl":"Neutral"}
+,{"time":"15:42","usr":"wallstCS","txt":"Gannett Plans This Social Media Splash http://t.co/oRe42bmn $GCI $FB $LNKD $GOOG $CRM #mkt #stocks","lbl":"Neutral"}
+,{"time":"18:59","usr":"JackDamn","txt":"If a Google employe dies, 50% of their salary goes to the surviving spouse/partner for a decade. (via WSJ) $GOOG","lbl":"Neutral"}
 ]

@@ -1,3 +1,6 @@
 [
 {"time":"6:00","usr":"ToddSullivan","txt":"http://t.co/zTxXUa88 Amazon applies for dual-display device patent, where e-ink and LCD play nice together $AMZN","lbl":"Positive"}
+,{"time":"6:06","usr":"ritholtz","txt":"Amazon Is Developing Ad-Supported Tablet Computer - http://t.co/NMRG2ssB http://t.co/uazUvDDt $AMZN $$","lbl":"Neutral"}
+,{"time":"6:06","usr":"Mktgeistcom","txt":"RT @ritholtz: Amazon Is Developing Ad-Supported Tablet Computer - http://t.co/NMRG2ssB http://t.co/uazUvDDt $AMZN $$","lbl":"Neutral"}
+,{"time":"11:42","usr":"RobertWeinstein","txt":"Gov. Christie, Amazon Take Money Out of Your Pocket - TheStreet http://t.co/cyNNgLNX via @TheStreet $AMZN $BBY $WMT $TGT $EBAY","lbl":"Neutral"}
 ]

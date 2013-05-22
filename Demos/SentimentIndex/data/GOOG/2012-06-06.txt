@@ -2,10 +2,43 @@
 {"time":"5:58","usr":"pegobry","txt":"RT @Benzinga: $GOOG PT Lowered from $730 to $670 at JP Morgan","lbl":"Negative"}
 ,{"time":"5:58","usr":"terranovajoe","txt":"RT @Benzinga: $GOOG PT Lowered from $730 to $670 at JP Morgan","lbl":"Negative"}
 ,{"time":"5:59","usr":"frotuss","txt":"$DB is taking everyone to woodshed RT @Benzinga $GOOG PT Lowered from $675 to $662 at Deutsche Bank","lbl":"Negative"}
+,{"time":"7:26","usr":"HorSAI_ebooks","txt":"The Five World-Changing Stories Going On In Tech Right Now $GOOG $MSFT $FB $YHOO","lbl":"Neutral"}
+,{"time":"7:27","usr":"miorita","txt":"RT @businessinsider: The Five World-Changing Stories Going On In Tech Right Now $AAPL $GOOG $MSFT $FB $YHOO by @nichcarlson http://t.co/LT94wk4V","lbl":"Neutral"}
+,{"time":"7:28","usr":"jordanadambanks","txt":"RT @businessinsider: The Five World-Changing Stories Going On In Tech Right Now $AAPL $GOOG $MSFT $FB $YHOO by @nichcarlson http://t.co/LT94wk4V","lbl":"Neutral"}
+,{"time":"8:36","usr":"longrunreturns","txt":"The 3 Mistakes #Facebook Investors Are Making http://t.co/iA3YpWdz $FB $GOOG #cognitivebias","lbl":"Neutral"}
+,{"time":"8:38","usr":"SchwartzNow","txt":"Search engines morph into something quite new - RT @newscientist - http://t.co/aJOkMmwk $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"9:43","usr":"Kummernuss","txt":"RT @YahooFinance: Google adds warning of \u0027state-sponsored attacks\u0027 http://t.co/3fq5v84Z $GOOG","lbl":"Neutral"}
+,{"time":"9:46","usr":"Nevins703","txt":"Chatter about $NFLX possibly being taken over. I\u0027ve been saying this for over 6 months. Possibly $Amzn $Goog $aapl $msft","lbl":"Neutral"}
+,{"time":"10:37","usr":"choffman1978","txt":"$BPAX - Libigel news in two weeks?!?#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
 ,{"time":"10:39","usr":"NoDoji","txt":"$GOOG breakout on 5 min, new HOD","lbl":"Positive"}
 ,{"time":"10:40","usr":"RJStuart317","txt":"out of $GOOG .... 103% on weeklys today so time to not be greedy when they can easily collapse on me","lbl":"Negative"}
+,{"time":"10:41","usr":"choffman1978","txt":"$BPAX - LIBIGEL IS STILL ALIVE!! FDA Approval soon?#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"11:03","usr":"sgeorgestudo","txt":"RT @businessinsider: FACEBOOK FALLOUT: Suddenly It Feels Like Google Is Actually Going To Buy Twitter $GOOG by @nichcarlson http://t.co/3MLnZs4F","lbl":"Neutral"}
+,{"time":"11:03","usr":"AleBaguear","txt":"RT @nichcarlson: FACEBOOK FALLOUT: Suddenly It Feels Like Google Is Actually Going To Buy Twitter $GOOG http://t.co/18VeR5UH","lbl":"Neutral"}
+,{"time":"11:03","usr":"justinMreilly","txt":"RT @SAI: FACEBOOK FALLOUT: Suddenly It Feels Like Google Is Actually Going To Buy Twitter $GOOG by @nichcarlson http://t.co/5EHZaSbX","lbl":"Neutral"}
+,{"time":"11:04","usr":"barrientosjamie","txt":"RT @SAI: FACEBOOK FALLOUT: Suddenly It Feels Like Google Is Actually Going To Buy Twitter $GOOG by @nichcarlson http://t.co/5EHZaSbX","lbl":"Neutral"}
+,{"time":"11:24","usr":"IQ2020","txt":"RT @todd_harrison: 5 Apple Rumors http://t.co/LyWVGhPT via @minyanville #Apple, #Facebook, $AAPL, $FB, $MSFT, $GOOG","lbl":"Neutral"}
+,{"time":"11:25","usr":"JChadSimpson","txt":"RT @SAI: FACEBOOK FALLOUT: Suddenly It Feels Like Google Is Actually Going To Buy Twitter $GOOG by @nichcarlson http://t.co/5EHZaSbX","lbl":"Neutral"}
+,{"time":"11:26","usr":"todd_harrison","txt":"Clumsy iPhone Videographers Get a Hilarious Smackdown http://t.co/EEid2dmS via @minyanville @mcs212, #iPhone, $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"11:27","usr":"intrepid_case","txt":"Check out $GOOG action at 12:14","lbl":"Neutral"}
 ,{"time":"11:45","usr":"Kyant","txt":"RT @SAI: LIVE: Google\u0027s Maps Is About To Get A Makeover $GOOG by @stevekovach http://t.co/dcvNi3Zh","lbl":"Positive"}
+,{"time":"11:46","usr":"Fromwiller","txt":"RT @SAI: FACEBOOK FALLOUT: Suddenly It Feels Like Google Is Actually Going To Buy Twitter $GOOG by @nichcarlson http://t.co/w05ZwoR3","lbl":"Neutral"}
+,{"time":"11:46","usr":"ranjyte","txt":"Oh! RT \u201C@SAI: FACEBOOK FALLOUT: Suddenly It Feels Like Google Is Actually Going To Buy Twitter $GOOG by @nichcarlson http://t.co/Yj2eKUQW\u201D","lbl":"Neutral"}
+,{"time":"11:47","usr":"choffman1978","txt":"$BPAX BREAKING OUT on Likely Libigel approval #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"12:31","usr":"pennystockguys","txt":"$GOOG - Research In Motion Revert to Neutral - Analyst Blog http://t.co/H3VnZFwk","lbl":"Neutral"}
+,{"time":"12:31","usr":"tulleuchen","txt":"RT @keithnation: \u0022@nichcarlson: FACEBOOK FALLOUT: Suddenly It Feels Like Google Is Actually Going To Buy Twitter $GOOG http://t.co/QfIjpPfy\u0022 nooooooooooooooo","lbl":"Neutral"}
+,{"time":"12:32","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/WWtoExZu","lbl":"Neutral"}
+,{"time":"13:31","usr":"choffman1978","txt":"$GMCR breaking out HUGE!!!!!!!!!!!!!!!1#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"13:32","usr":"pennystockguys","txt":"$GOOG - Apple Wants ITC to Block Imports of New HTC Products http://t.co/mRQF33vt","lbl":"Neutral"}
+,{"time":"13:32","usr":"pennystockguys","txt":"$GOOG - Google Acquires Quickoffice - Analyst Blog http://t.co/FXCX1hhW","lbl":"Neutral"}
+,{"time":"14:24","usr":"adamwebb_uk","txt":"worth looking at if you have 60mins \u201C@StockTwits: $GOOG Maps Event Live Streaming.. The Next Dimension of Google Maps http://t.co/Tw69spes\u201D","lbl":"Neutral"}
+,{"time":"14:27","usr":"choffman1978","txt":"$BPAX - anyone shorting is stupid! News anytime!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
 ,{"time":"14:30","usr":"SeekingAlpha","txt":"The True Potential Of Google\u0027s Motorola Acquisition http://t.co/atvuWIlo $BIDU $MMI $MSFT $NOK $RIMM $GOOG","lbl":"Positive"}
+,{"time":"14:30","usr":"SeekingAlpha","txt":"Google: Buy Or Sell? http://t.co/bgDtECde $AAPL $BIDU $FB $GOOG","lbl":"Neutral"}
+,{"time":"15:58","usr":"RogueStockTradr","txt":"(And I\u0027m still pissed I got shaken on $GOOG this morning. That was a swing I didn\u0027t give a chance to develop) OH WELL! <end rant>","lbl":"Neutral"}
+,{"time":"16:15","usr":"TweakerLabs","txt":"Are you anticipating the $NOK Lumia 900? Are you a windows, droid, or iOS fan? Mossberg: Lumia lacks http://t.co/74QTX6Ab $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"18:30","usr":"BigTicks","txt":"$GOOG News: Google Pushes Back Against Apple Adding Features to Mobile Maps http://t.co/o3Nb1Rtz #GOOG #Adding #Against","lbl":"Neutral"}
 ,{"time":"18:31","usr":"tdarling1","txt":"@jimcramer I used the market sell off to reposition. Sold $GOOG, $SDY; bought $ROST and $SBUX. Held $BEAM and $VNQ.","lbl":"Negative"}
 ,{"time":"18:45","usr":"njnigh","txt":"Google begins alerting Gmail users to \u0027state-sponsored\u0027 attacks $GOOG http://t.co/PIBF1ilI","lbl":"Negative"}
+,{"time":"18:54","usr":"stockhaven","txt":"Stockhaven\u0027s Classroom 6/6/12 http://t.co/i2yCtbl1 via @stockhaven $ICPA $RARS $ULTA $GOOG $GWBU $DYAX $GBG $AGRT $GEN $CLNO $RHCO $SPY","lbl":"Neutral"}
 ]

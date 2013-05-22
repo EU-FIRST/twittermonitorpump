@@ -1,9 +1,16 @@
 [
-{"time":"7:58","usr":"LukeRomyn","txt":"Love your #Kindle? You\u0027ll love it even more with these incredible novels! http://t.co/4NdYb6SD $AMZN #bestsellers","lbl":"Positive"}
+{"time":"0:51","usr":"LukeRomyn","txt":"Thunderous action and heart-stopping thrills. Grab a Luke Romyn novel in paperback or #Kindle today! http://t.co/OcgqBVKz $AMZN","lbl":"Neutral"}
+,{"time":"7:53","usr":"stockticks","txt":"$AMZN News: Amazon Turns Wine Merchant Challenging http://t.co/Erzj3ATW Online - #stocknews http://t.co/A5XhDwbH #USInternetStocks","lbl":"Neutral"}
+,{"time":"7:58","usr":"LukeRomyn","txt":"Love your #Kindle? You\u0027ll love it even more with these incredible novels! http://t.co/4NdYb6SD $AMZN #bestsellers","lbl":"Positive"}
+,{"time":"10:14","usr":"wallstCS","txt":"Can Best Buy Hold On to Its Value? http://t.co/sXoivtGV $BBY $AMZN #stocks","lbl":"Neutral"}
 ,{"time":"11:49","usr":"tlmontana","txt":"$AMZN Kicking myself for not adding... #missedopportunity","lbl":"Positive"}
 ,{"time":"13:48","usr":"HarryWanger","txt":"$AMZN Ok. Covered 226.50. Two trades long am then short. Nice $$ done for the day. Good way to end Friday!","lbl":"Positive"}
 ,{"time":"13:49","usr":"JeffCooperLive","txt":"$AMZN has pulled back to its last little buy pivot on its 10 min as has the SPY which is where a rally attempt could start--if it\u0027s going to","lbl":"Positive"}
+,{"time":"15:09","usr":"mktwcrum","txt":"RT @MWRadio: Amazon went Silicon Valley with the Kindle. Now it\u0027s going Napa Valley with a wine business. $AMZN http://t.co/wTGCTc6O","lbl":"Neutral"}
 ,{"time":"15:12","usr":"AnniDayTrades","txt":"Short again $AMZN at 227 watch the 225.30 level below 226","lbl":"Negative"}
 ,{"time":"15:13","usr":"KanKan929","txt":"RT @LukeRomyn: Love your Kindle even more with these great action-thrillers! http://t.co/aCESNaE3 $AMZN #bestsellers","lbl":"Positive"}
+,{"time":"17:44","usr":"avilarenata","txt":"RT @freeculture: RT @dbd Tell Amazon: Books and Libraries Shouldn\u0027t Have a Kill Switch http://t.co/amQCIagE #DRM is #DefectiveByDesign $AMZN","lbl":"Neutral"}
 ,{"time":"17:51","usr":"retat50","txt":"@ByrneTSCM @Tangletrade Maybe $AMZN finally will get repriced appropriately.","lbl":"Negative"}
+,{"time":"22:00","usr":"eToro","txt":"$AMZN recently introduced a new pricing choice for its #Amazon Instant Video service. http://t.co/i1ILo8cJ #stock","lbl":"Neutral"}
+,{"time":"22:05","usr":"ZachShackleford","txt":"Completely forgot I had all of these $AMZN rewards points built up....need to refrain from blowing them on something completely unnecessary","lbl":"Neutral"}
 ]

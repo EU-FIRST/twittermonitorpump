@@ -1,14 +1,51 @@
 [
-{"time":"7:40","usr":"psael","txt":"RT @thefinancepress: $GOOG Google Inc (NASDAQ:GOOG) sued for patent violation by Google Wallet: Google Inc (NASDAQ:GOOG) sued for pa... http://t.co/f7hxyxr4","lbl":"Negative"}
+{"time":"0:53","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG): Nexus 7 Sales Nearing 1 Million a Month: Google Inc (NASDAQ:GOOG): Nexus 7 Sale... http://t.co/d1z8MsuY","lbl":"Neutral"}
+,{"time":"0:55","usr":"haranv","txt":"RT @CNBC: Google is going after Apple\u0027s Siri. DETAILS: http://t.co/DZqsoZky $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"1:07","usr":"onkenny","txt":"RT @CNBC: Google is going after Apple\u0027s Siri. DETAILS: http://t.co/DZqsoZky $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"1:07","usr":"cwstrawderman","txt":"RT @CNBC: Google is going after Apple\u0027s Siri. DETAILS: http://t.co/DZqsoZky $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"7:40","usr":"psael","txt":"RT @thefinancepress: $GOOG Google Inc (NASDAQ:GOOG) sued for patent violation by Google Wallet: Google Inc (NASDAQ:GOOG) sued for pa... http://t.co/f7hxyxr4","lbl":"Negative"}
 ,{"time":"7:42","usr":"petergo99037185","txt":"Employment numbers helped our futures a bit, need QQQ UP, $AAPL & $GOOG UP, and $MSFT UP. Note our rallies lately fizz fast, quick draw out!","lbl":"Positive"}
+,{"time":"8:57","usr":"Jamtrades","txt":"in $GOOG $685 $3.50","lbl":"Neutral"}
 ,{"time":"8:57","usr":"KBThePres","txt":"@TheNextWeb @m4tt seems like too much trouble just to please only a handful of people, don\u0027t you think? $GOOG","lbl":"Negative"}
+,{"time":"8:59","usr":"nexgennovak","txt":"$GOOG Fibonacci levels this morning. http://t.co/WmpSJsSQ","lbl":"Neutral"}
+,{"time":"9:33","usr":"wallstCS","txt":"Sharp, Sony Report Net Loss and 1 Morning Hot Stock to See Now http://t.co/zZv1l3b0 $SNE $AAPL $GOOG $RIMM #stocks","lbl":"Neutral"}
+,{"time":"9:37","usr":"wallstCS","txt":"What Does the Tax Man Want From Starbucks, Google, and Amazon? http://t.co/wwawI6mp $SBUX $GOOG $AMZN #stocks","lbl":"Neutral"}
+,{"time":"9:40","usr":"stockticks","txt":"$GOOG News: Google Inc. (GOOG) Search Now Has an iOS Voice - #stocknews http://t.co/MEXkI0E0 #USInternetStocks","lbl":"Neutral"}
 ,{"time":"9:40","usr":"Jamtrades","txt":"$GOOG needs to break $686.66 after consolidating since the last intraday rip.","lbl":"Negative"}
+,{"time":"10:36","usr":"dantanner","txt":"The whole market is soggy from the Sandy disaster. You can see this sentiment in the trading $AAPL $GOOG $PCLN $AMZN","lbl":"Negative"}
+,{"time":"10:37","usr":"danravicher","txt":"@OPmoney re $VRNG v $GOOG and laches, for precedent that the issue can be appealed and reversed, see http://t.co/fvxK78bl.","lbl":"Neutral"}
+,{"time":"11:27","usr":"chartanalyst","txt":"GOOGLE Chart update: http://t.co/1iu9nacY $GOOG $QQQ","lbl":"Neutral"}
+,{"time":"11:28","usr":"GucciMoccasins","txt":"$VRNG $GOOG And the Oscar goes to...","lbl":"Neutral"}
+,{"time":"11:29","usr":"SwitchingMyStep","txt":"RT @SAI: Review: Google\u0027s New $249 Laptop, The Chromebook $GOOG by @officialKLS http://t.co/KvZVLFt8","lbl":"Neutral"}
+,{"time":"11:31","usr":"wallstCS","txt":"Apple: An October to Remember or Forget? http://t.co/D9jYSTmq $AAPL $MSFT $AMZN $GOOG $XLK $DIA $SPY $QQQ","lbl":"Neutral"}
+,{"time":"12:38","usr":"wallstCS","txt":"Apple\u0027s Design Vision Shifts and 3 Tech Titans on the Move http://t.co/fDr2C1t9 $AAPL $GOOG $MSFT $INTC #mkt #stocks #trading #investing","lbl":"Neutral"}
 ,{"time":"12:39","usr":"thefinancepress","txt":"$GOOG Nokia Won\u0027t Stop Google From Using Patented Idea In Android Tablets: Nokia Won\u0027t Stop Google From Using P... http://t.co/yjHol5lQ","lbl":"Positive"}
+,{"time":"12:40","usr":"hovastocks","txt":"RIMM UP 9%: Blackberry 10?? Who\u0027s buying it?? NOTTTT $RIMM $AAPL $GOOG $NOK $MSFT http://t.co/OE0e4ID7","lbl":"Neutral"}
+,{"time":"12:42","usr":"dkm1101","txt":"RT @wallstCS: Apple\u0027s Design Vision Shifts and 3 Tech Titans on the Move http://t.co/fDr2C1t9 $AAPL $GOOG $MSFT $INTC #mkt #stocks #trading #investing","lbl":"Neutral"}
 ,{"time":"13:32","usr":"racernic","txt":"$GOOG wth happ? http://t.co/aZ1FH6bF","lbl":"Negative"}
+,{"time":"13:32","usr":"Opinterest","txt":"$GOOG off 10 buckaroos here real quick","lbl":"Neutral"}
+,{"time":"13:32","usr":"2KnightsTrading","txt":"$GOOG what?","lbl":"Neutral"}
+,{"time":"13:32","usr":"deltaStrikejj","txt":"did $GOOG just report earnings again?","lbl":"Neutral"}
+,{"time":"13:41","usr":"Bloss_Paa","txt":"The Upcoming Microsoft Train Wreck http://t.co/VHgwoOBn $AAPL $GOOG $MSFT","lbl":"Neutral"}
 ,{"time":"13:42","usr":"LimitBuyer","txt":"@sssc rotflmbo!!! That drop was bought up like there\u0027s no tomorrow. Somebody is working over-time. $GOOG","lbl":"Positive"}
 ,{"time":"13:42","usr":"RobertWeinstein","txt":"out $GOOG +1.90","lbl":"Negative"}
+,{"time":"14:21","usr":"edward_test","txt":"Very strong buy: ***HUGE!*** $AAPL $AMZN $BAC $C $CMCSA $DIA $FAS $GOOG $GS $IWM $IYT $JPM $NFLX $QLD $QQQ $SPY","lbl":"Positive"}
+,{"time":"14:21","usr":"edward_test","txt":"Very strong buy: $AAPL $AMZN $BAC $C $CMCSA $DIA $FAS $GOOG $GS $IWM $IYT $JPM","lbl":"Positive"}
 ,{"time":"14:23","usr":"OptionAlarm","txt":"$AAPL and $GOOG should be sold into the close today","lbl":"Negative"}
 ,{"time":"15:00","usr":"SeekingAlpha","txt":"Google Wallet Expands To Mobile Web http://t.co/v49IpF4x $GOOG","lbl":"Positive"}
+,{"time":"15:00","usr":"steve_zuccs","txt":"RT @DougKass: FTC STAFF SAID TO FORMALLY RECOMMEND GOOGLE PATENT LICENSE SUIT #stockaction $GOOG","lbl":"Neutral"}
+,{"time":"15:00","usr":"marwantarek","txt":"RT @SAI: You Won\u0027t Believe This, But Gmail Only Just Now Passed Hotmail In Popularity $GOOG $MSFT $YHOO by @nichcarlson http://t.co/aokdqusV","lbl":"Neutral"}
+,{"time":"15:01","usr":"RPMol","txt":"RT @SAI: You Won\u0027t Believe This, But Gmail Only Just Now Passed Hotmail In Popularity $GOOG $MSFT $YHOO by @nichcarlson http://t.co/aokdqusV","lbl":"Neutral"}
 ,{"time":"15:56","usr":"letzing","txt":"Yelp CEO: Google hasn\u0027t yet been able to have an impact in local $YELP $GOOG","lbl":"Negative"}
+,{"time":"16:01","usr":"1jrice","txt":"RT @SAI: You Won\u0027t Believe This, But Gmail Only Just Now Passed Hotmail In Popularity $GOOG $MSFT $YHOO by @nichcarlson http://t.co/aokdqusV","lbl":"Neutral"}
+,{"time":"16:02","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/6NCioO1H","lbl":"Neutral"}
 ,{"time":"17:12","usr":"BsiflingTrades","txt":"http://t.co/CDU4Ajqo $231.99 profit in $GOOG Short leg on 655/665 short put spread.","lbl":"Negative"}
+,{"time":"17:16","usr":"barronstechblog","txt":"RLOC Rising: Q3 Beats, Surprise Profit, Q4 Rev View Beats - Tech Trader Daily - Barron\u0027s $RLOC $GRPN $AMZN $GOOG http://t.co/8ShRnjUC","lbl":"Neutral"}
+,{"time":"17:22","usr":"pennystockguys","txt":"$GOOG - UPDATE: Yelp\u0027s Loss Narrows Amid Expansion http://t.co/TXm2RmG1","lbl":"Neutral"}
+,{"time":"18:30","usr":"2020systems","txt":"RT @SAI: Here\u0027s A New Way Google Wants To Replace Your Credit Cards $GOOG by @owenthomas http://t.co/9FTUU6aF","lbl":"Neutral"}
+,{"time":"18:30","usr":"thiagohri","txt":"RT @businessinsider: Here\u0027s A New Way Google Wants To Replace Your Credit Cards $GOOG by @owenthomas http://t.co/0lH6yPoO","lbl":"Neutral"}
+,{"time":"18:42","usr":"AllenDavidov","txt":"RT @SAI: Here\u0027s A New Way Google Wants To Replace Your Credit Cards $GOOG by @owenthomas http://t.co/9FTUU6aF","lbl":"Neutral"}
+,{"time":"20:45","usr":"Lusin1","txt":"RT @businessinsider: You Won\u0027t Believe This, But Gmail Only Just Now Passed Hotmail In Popularity $GOOG $MSFT $YHOO by @nichcarlson http://t.co/6lSIr35y","lbl":"Neutral"}
+,{"time":"20:49","usr":"CharlieThomps0n","txt":"Hopefully the $GOOG sticker on my mini-fridge wasn\u0027t bad luck for $VRNG http://t.co/hgeuQqCT","lbl":"Neutral"}
+,{"time":"23:54","usr":"DavidEFowler","txt":"RT @SAI: You Won\u0027t Believe This, But Gmail Only Just Now Passed Hotmail In Popularity $GOOG $MSFT $YHOO by @nichcarlson http://t.co/aokdqusV","lbl":"Neutral"}
 ]

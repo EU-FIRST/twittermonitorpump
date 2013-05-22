@@ -1,4 +1,14 @@
 [
 {"time":"2:06","usr":"isitabubble","txt":"Lost money on my $TZA mar $20 calls, $GOOG mar $500 puts -> i need to stick to biotech only","lbl":"Positive"}
+,{"time":"3:09","usr":"optionspunk","txt":"Ever wonder how the iPhone works? $aapl $goog $vz $T #iphone http://t.co/gywD6wGF","lbl":"Neutral"}
+,{"time":"4:22","usr":"jmimoun","txt":"RT @SAI: RUMOR: Google Is Getting Ready To Release A $150 Answer To The Kindle Fire $GOOG $AAPL $AMZN $MSFT by @jyarow http://t.co/kVNZKAW3","lbl":"Neutral"}
+,{"time":"11:54","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
 ,{"time":"11:56","usr":"thefinancepress","txt":"$GOOG Consumer Watchdog Confirms FTC, EU Probe Of Google\u0027s Violation Of Apple\u0027s Safari: Consumer Watchdog Confi... http://t.co/iOARdETX","lbl":"Negative"}
+,{"time":"15:35","usr":"EquitiesNetwork","txt":"#Google: Jack of All Trades, Master of One http://t.co/Ist2mb0h $GOOG #tech $FB #GoogleAndroid $AAPL #diversification $MSFT $YHOO #apple","lbl":"Neutral"}
+,{"time":"15:35","usr":"equitiescom","txt":"#Google: Jack of All Trades, Master of One http://t.co/OHfuHNYu $GOOG #tech $FB #GoogleAndroid $AAPL #diversification $MSFT $YHOO #apple","lbl":"Neutral"}
+,{"time":"15:36","usr":"grenhall","txt":"RT @equitiesgroup #Google: Jack of All Trades, Master of One http://t.co/gTPg7ilV $GOOG #tech $FB #_GoogleAndroid_... http://t.co/XPdJ22ds","lbl":"Neutral"}
+,{"time":"21:54","usr":"gowhitestripes","txt":"@_DecisionPoint $AAPL trailing PE of $40+ after Q2 times PE of 16 = $640 with $110 cash. $GOOG = 21 PE. $AMZN = 135 PE. $AAPL is reasonable.","lbl":"Negative"}
+,{"time":"21:55","usr":"VinodColeslaw","txt":"Being a rockstar is pretty cool but you can\u0027t sell the band to $GOOG or IPO.","lbl":"Neutral"}
+,{"time":"22:06","usr":"GretelandBryan","txt":"$GOOG http://t.co/7QNz6Jgo Eyes on it to fill the Gap!","lbl":"Neutral"}
+,{"time":"22:51","usr":"stockmonkeymom","txt":"iCloud, Not the New iPad, is Apple\u0027s Real Key to the Post-PC Revolution http://t.co/dYnjlRtI $AAPL $GOOG $MSFT $AMZN","lbl":"Neutral"}
 ]

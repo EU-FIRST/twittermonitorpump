@@ -17,14 +17,17 @@
 		<button type="button" class="close" data-dismiss="modal">&times;</button>
 		<h4>Tweets</h4>
 	</div>
-	<ul class="nav nav-tabs" style="margin-bottom: 0;">
-		<li class="active" style="margin-left: 2px;"><a href="#pos-tweets" data-toggle="tab">Positive tweets</a></li>
+	<ul class="nav nav-tabs">
+		<li class="active"><a href="#pos-tweets" data-toggle="tab">Positive tweets</a></li>
 		<li><a href="#neg-tweets" data-toggle="tab">Negative tweets</a></li>
+		<li><a href="#nos-tweets" data-toggle="tab">Neutral tweets</a></li>
 	</ul>
 	<div class="tab-content">
 		<div id="pos-tweets" class="tab-pane active modal-body">
 		</div>
 		<div id="neg-tweets" class="tab-pane modal-body">
+		</div>
+		<div id="nos-tweets" class="tab-pane modal-body">
 		</div>
 	</div>
 	<div class="modal-footer">
@@ -81,7 +84,7 @@
 		<button id="lchart-diff" class="btn active">Difference</button>
 		<button id="lchart-polar" class="btn">Polarity</button>
 		<button id="lchart-count" class="btn">Count</button>
-		</div>&nbsp; MA <div id="lchart-ma" class="btn-group fixpos" style="margin-left: 0;" data-toggle="buttons-radio">
+		</div>&nbsp; MA <div id="lchart-ma" class="btn-group fixpos" data-toggle="buttons-radio">
 		<button id="lchart-ma-none" class="btn active">None</button>
 		<button id="lchart-ma-7-day" class="btn">7-day</button>
 		<button id="lchart-ma-14-day" class="btn">14-day</button>

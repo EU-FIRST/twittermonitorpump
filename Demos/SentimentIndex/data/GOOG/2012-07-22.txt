@@ -1,4 +1,15 @@
 [
-{"time":"11:06","usr":"tlmontana","txt":"\u201C@1nvestor: Interesting that John Doerr (Director) dumped all of his remaining shares in $GOOG\u201D -- $STUDY","lbl":"Negative"}
+{"time":"2:44","usr":"ninja_trades","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/SWDfeEUU #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"3:13","usr":"SNS_SFW","txt":"Sadly It Is Time To Get Out Of Apple - My recent thoughts on the #mobile market. $AAPL $RIMM $GOOG $MSFT http://t.co/P9s5MSpl @bryanarchy","lbl":"Neutral"}
+,{"time":"3:20","usr":"phillipenpbk0","txt":"the custom $GOOG spread we got it before the close last night at $1.95 is trading at $5.38 right nowIQBc","lbl":"Neutral"}
+,{"time":"3:29","usr":"SigWardinvest","txt":"RT @BloombergMrkts: RT @bloombergtv: Americans have searched for 139 billion items on Google in the past year #FastFact $GOOG","lbl":"Neutral"}
+,{"time":"10:46","usr":"rechtsteiner","txt":"$GOOG\u0027s British Open Leaderboard \u2013 Changing Sports http://t.co/JyVda3jn","lbl":"Neutral"}
+,{"time":"11:04","usr":"akivak","txt":"RT @OptionPundit: Thank you $GOOG and $CMG http://t.co/jiKDeZCk for an excellent Friday","lbl":"Neutral"}
+,{"time":"11:06","usr":"tlmontana","txt":"\u201C@1nvestor: Interesting that John Doerr (Director) dumped all of his remaining shares in $GOOG\u201D -- $STUDY","lbl":"Negative"}
+,{"time":"16:43","usr":"HamzeiAnalytics","txt":"A must read for #option traders: $GOOG EPS #Options Trade Recap (254% gain) http://t.co/GRUVSaDc // a great case $study","lbl":"Neutral"}
+,{"time":"16:43","usr":"WallStJesus","txt":"\u2605 @HamzeiAnalytics: A must read for #option traders: $GOOG EPS #Options Trade Recap (254% gain) http://t.co/YECm8QLX // a great case $study","lbl":"Neutral"}
+,{"time":"16:56","usr":"CJOLars","txt":"RT @hamzeianalytics: A must read for #option traders: $GOOG EPS #Options Trade Recap (254% gain) http://t.co/QSU6dlXx // a great case...","lbl":"Neutral"}
 ,{"time":"22:29","usr":"BigTicks","txt":"$GOOG News: Google Posts a Gain in Profit http://t.co/FggTsyqG #GOOG #Gain #Google","lbl":"Positive"}
+,{"time":"23:08","usr":"USwwwStocks","txt":"$GOOG News: Daily Report: Google and Microsoft Face Changing Markets http://t.co/PZ6HaJUp #GOOG #Changing #Daily","lbl":"Neutral"}
+,{"time":"23:09","usr":"bored2tears","txt":"Google, US #tech titans facing force of aggressive #EU regulators. http://t.co/9i1rka7n $AAPL $FB $GOOG $MSFT#stocks","lbl":"Neutral"}
 ]

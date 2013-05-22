@@ -1,3 +1,4 @@
 [
-{"time":"18:56","usr":"CaseyLHolston","txt":"RT @ReformedBroker: Watch as Amazon destroys the last category of healthy newspaper ads - retailers. $AMZN http://t.co/ku3n2QMN","lbl":"Positive"}
+{"time":"13:56","usr":"SoylentGreenBot","txt":"$AAPL TV being discounted at $AMZN ... hmmmmmmmmm","lbl":"Neutral"}
+,{"time":"18:56","usr":"CaseyLHolston","txt":"RT @ReformedBroker: Watch as Amazon destroys the last category of healthy newspaper ads - retailers. $AMZN http://t.co/ku3n2QMN","lbl":"Positive"}
 ]

@@ -1,5 +1,12 @@
 [
-{"time":"10:22","usr":"SAI_Tools","txt":"Google\u0027s 8 Biggest App And Gadget Flops $GOOG by @stevekovach http://t.co/lGr7WfX6","lbl":"Negative"}
+{"time":"7:08","usr":"michaelgmoore","txt":"How long does it take to \u0027launch\u0027 a smartphone? $RIMM $NOK $GOOG http://t.co/U6AyMxwG via @verge","lbl":"Neutral"}
+,{"time":"10:11","usr":"howardlindzon","txt":"RT @StockTwits: Incumbents die due to irrelevance or ineptitude http://t.co/rNZpZEV6 via @cdixon $GOOG $NYT $YHOO et al","lbl":"Neutral"}
+,{"time":"10:22","usr":"SAI_Tools","txt":"Google\u0027s 8 Biggest App And Gadget Flops $GOOG by @stevekovach http://t.co/lGr7WfX6","lbl":"Negative"}
 ,{"time":"10:22","usr":"SAI","txt":"Google\u0027s 8 Biggest App And Gadget Flops $GOOG by @stevekovach http://t.co/zirUhvOR","lbl":"Negative"}
+,{"time":"10:23","usr":"dumontchristian","txt":"RT @SAI: Google\u0027s 8 Biggest App And Gadget Flops $GOOG by @stevekovach http://t.co/SbnNIrq7","lbl":"Neutral"}
+,{"time":"12:40","usr":"GeenaHa","txt":"RT @SAI: Google\u0027s 8 Biggest App And Gadget Flops $GOOG by @stevekovach http://t.co/MSKROzRW","lbl":"Neutral"}
+,{"time":"12:46","usr":"stocktrader89","txt":"$GOOG - Google Stock Analysis - Doji Candlestick Pattern - http://t.co/mNDMB7nR","lbl":"Neutral"}
 ,{"time":"12:47","usr":"noahmp","txt":"In hindsight many consider Youtube a bargain deal for $GOOG despite being acqrd at an infinite rev multiple. cc @davemcclure @nickbilton","lbl":"Positive"}
+,{"time":"15:49","usr":"jdub929","txt":"Shake Up the Dow! http://t.co/leSofsUT << Great, another index where $AAPL can be used as a proxy. $GOOG $DIA","lbl":"Neutral"}
+,{"time":"18:55","usr":"kenodalo","txt":"RT @businessinsider: Google\u0027s 8 Biggest App And Gadget Flops $GOOG by @stevekovach http://t.co/rG4KtL6h","lbl":"Neutral"}
 ]

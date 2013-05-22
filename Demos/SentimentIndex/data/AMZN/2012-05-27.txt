@@ -1,4 +1,9 @@
 [
-{"time":"5:23","usr":"hamreldqxbr7","txt":"Facebook $FB is WAY overpriced. Note $AMZN is also $100bil mkt cap w p/sales ONLY 2x!! Morgan Stanle","lbl":"Negative"}
+{"time":"5:20","usr":"BridieChristoph","txt":"RT @mcilderman: Will #3DPrinting Make Hasbro A Model Of Failure? http://t.co/Aa5vb2fo $AAPL $AMZN $MSFT $DIS #Fabbing #3dp #dividends","lbl":"Neutral"}
+,{"time":"5:20","usr":"SuperNovaPromos","txt":"http://t.co/KihdVeMP | Find out if $FB , $AMZN, and $AAPL will go up or down| Get the charts","lbl":"Neutral"}
+,{"time":"5:23","usr":"hamreldqxbr7","txt":"Facebook $FB is WAY overpriced. Note $AMZN is also $100bil mkt cap w p/sales ONLY 2x!! Morgan Stanle","lbl":"Negative"}
+,{"time":"11:54","usr":"vietlytangle","txt":"RT @WhizCheck6: Primary Trade Alert on $AAPL, Weekly Bull Put Spread: http://t.co/zfDnsURU via @youtube $goog $amzn $nflx $pcln","lbl":"Neutral"}
+,{"time":"18:30","usr":"SuperNovaPromos","txt":"RT @freespiderlinks: http://t.co/9RB6AAEy ) Find out if $FB , $AMZN, and $AAPL will go up or down; Get the charts","lbl":"Neutral"}
 ,{"time":"18:31","usr":"CashBauer","txt":"Wow, Best Buy $BBY ad really helping to sell Amazon\u0027s $AMZN Kindle Fire... http://t.co/YpLlzgcu","lbl":"Positive"}
+,{"time":"18:46","usr":"mikecardascia","txt":"RT @wallstCS: HOW YOU LIKE DEM APPLES: Apple Tells the DOJ to Shove This Settlement http://t.co/cBxpnTwx $AAPL $AMZN","lbl":"Neutral"}
 ]

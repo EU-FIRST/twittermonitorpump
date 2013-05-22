@@ -1,12 +1,39 @@
 [
-{"time":"7:36","usr":"SeanWoolven","txt":"can\u0027t wait!: Google Wants To Be Your Cable TV Provider, Sources Tell Analyst $GOOG $AAPL $CMSCA by @nichcarlson http://t.co/QWYYzMiA","lbl":"Positive"}
+{"time":"0:56","usr":"infovestment","txt":"Apple - is worth more than all stocks on Eurozone PIGS exchanges - But should U buy? http://t.co/USSi8cRp $AAPL $$ #MKT $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"1:03","usr":"wjboynton","txt":"#Apple\u0027s Fall Is Unlikely, But The Competitive Risks Are Too Great To Ignore http://t.co/5eUxkPPQ $GOOG $INTC $MSFT $RIMM $AAPL","lbl":"Neutral"}
+,{"time":"1:16","usr":"thefinancepress","txt":"$GOOG Nokia Corporation (NYSE:NOK) Snaps Three-Day Losing Streak, Dares To Beat ...: Nokia Corporation (NYSE:NO... http://t.co/3gj1GkTZ","lbl":"Neutral"}
+,{"time":"6:33","usr":"Tejpalbedi","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"6:36","usr":"MobilitySoup","txt":"RT @sai: 10 Things You Need To Know This Morning $FB $AAPL $RIMM $HP $AMZN $GOOG $NOK by @nichcarlson http://t.co/4VO6ZBxj","lbl":"Neutral"}
+,{"time":"6:37","usr":"TenBaggers","txt":"The tablet war is ready to heat up. http://t.co/m5ymxDjT $AAPL $AMZN $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"7:36","usr":"SeanWoolven","txt":"can\u0027t wait!: Google Wants To Be Your Cable TV Provider, Sources Tell Analyst $GOOG $AAPL $CMSCA by @nichcarlson http://t.co/QWYYzMiA","lbl":"Positive"}
+,{"time":"7:37","usr":"aalikes","txt":"RT @SAI: Google Wants To Be Your Cable TV Provider, Sources Tell Analyst $GOOG $AAPL $CMSCA by @nichcarlson http://t.co/6tURmHj8","lbl":"Neutral"}
 ,{"time":"8:17","usr":"Dninsan","txt":"RT @SAI: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/dVScXA4T","lbl":"Positive"}
 ,{"time":"8:17","usr":"Githuz","txt":"RT @sai: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/oydDlLmn","lbl":"Positive"}
+,{"time":"8:18","usr":"ocenobita","txt":"RT @SAI: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/dVScXA4T","lbl":"Neutral"}
+,{"time":"8:18","usr":"hertcapital","txt":"$GOOG Strong close last week above the topside trendline and with a Bullish Engulfing Week. Look for follow-through.","lbl":"Neutral"}
 ,{"time":"8:34","usr":"shobz","txt":"RT @SAI: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/wbCdOVfD","lbl":"Positive"}
+,{"time":"8:34","usr":"RedDogT3Live","txt":"My T3Live Morning Call http://t.co/aMDzDzif Stay informed, but trade the price action $SPY $SLV $AAPL $AMZN $GOOG @T3Live","lbl":"Neutral"}
+,{"time":"8:35","usr":"rsaintvilus","txt":"Is Apple More Valuable to Me Than My Wife? - TheStreet http://t.co/bl7YhZ7z via @TheStreet $AAPL $MSFT $GOOG $CSCO","lbl":"Neutral"}
+,{"time":"8:50","usr":"beahundal","txt":"RT @businessinsider: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/wtGQsQV7","lbl":"Neutral"}
 ,{"time":"9:11","usr":"RedDogT3Live","txt":"If $GOOG stays below $680. A move to the 21 days will be the next spot to consider for action $667","lbl":"Negative"}
 ,{"time":"9:12","usr":"Alfietrade","txt":"Watching $goog, early weakness on this recent high flyer is a good tell for market direction","lbl":"Negative"}
+,{"time":"9:12","usr":"TradetheLeader1","txt":"$GOOG must re take 680 or I\u0027m out! Watching closely.","lbl":"Neutral"}
 ,{"time":"9:46","usr":"Knutos","txt":"RT @SAI: The Samsung Galaxy S III Outsold The iPhone 4S In August $AAPL $GOOG by @jyarow http://t.co/dVScXA4T","lbl":"Positive"}
+,{"time":"9:47","usr":"joshpritchard","txt":"$NVDA OUCH. Evercore sees \u0022potentially negative sell-through data points on Tegra-based devices\u0022 ... what? $GOOG Nexus 7? HTC phones? huh?","lbl":"Neutral"}
+,{"time":"9:47","usr":"KeeneOnMarket","txt":"Get My Exclusive $AAPL and $GOOG Daily Video Recap for #Trading Daily: http://t.co/53zONfDN","lbl":"Neutral"}
+,{"time":"10:18","usr":"CeciliaNY","txt":"RT @businessinsider: Google Wants To Be Your Cable TV Provider, Sources Tell Analyst $GOOG $AAPL $CMSCA by @nichcarlson http://t.co/BMeYrXu8","lbl":"Neutral"}
 ,{"time":"10:20","usr":"ChartMoMo","txt":"bonds and dollar both weak in comparison to equities selling. could see catch up play on stocks. $es_f $spy $aapl $goog","lbl":"Positive"}
+,{"time":"11:03","usr":"a_bh_a","txt":"Samsung leads July US Mobile Subscriber Market @ 25.6% Android leads with 52.2% marketshare. $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"12:32","usr":"JonWeitzel2012","txt":"$GOOG , $AAPL , $PCLN up up up up up","lbl":"Positive"}
 ,{"time":"13:23","usr":"CNNMoney","txt":"Google turns 14 today -- and it still has loads of growth potential says @LaMonicaBuzz http://t.co/1BN3wDoW $GOOG","lbl":"Positive"}
+,{"time":"13:24","usr":"wallstCS","txt":"Google vs Apple Showdown May NEVER Happen and 4 Tech Titans on the Move http://t.co/3Who7MLd $FB $AAPL $GOOG $MSFT $INTC #mkt #stocks","lbl":"Neutral"}
+,{"time":"14:01","usr":"trader_trend","txt":"Mark Cuban: http://t.co/YcEX1nDn Here\u0027s Why Facebook Handled Their IPO Exactly Right $FB $GOOG #mkt #stocks #tech","lbl":"Neutral"}
+,{"time":"14:02","usr":"KokomoJoeKW","txt":"RT @YahooFinance: Rivals jostle before Apple announces new iPhone http://t.co/ScZgbrgD $AAPL $AMZN $NOK $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"14:34","usr":"emrickman","txt":"RT @YahooFinance: Rivals jostle before Apple announces new iPhone http://t.co/ScZgbrgD $AAPL $AMZN $NOK $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"16:30","usr":"SeekingAlpha","txt":"Adobe: A Smart Play On Streaming Video http://t.co/ux8pMEJM $CMCSA $CVC $DIS $GOOG $TWX $ADBE","lbl":"Neutral"}
+,{"time":"16:31","usr":"pennystockguys","txt":"$GOOG - Amazon Rolls Out Appstore in Europe - Analyst Blog http://t.co/VSMH6KuJ","lbl":"Neutral"}
+,{"time":"17:33","usr":"samiaji","txt":"RT @SAI: Google Has Used Shipping Containers To Build A Big Presence At The Democratic National Convention $GOOG by @owenthomas http://t ...","lbl":"Neutral"}
+,{"time":"17:34","usr":"barronstechblog","txt":"AAPL: Baird Encouraged by Survey View on Smaller iPad - Tech Trader Daily - Barron\u0027s $AAPL $AMZN $GOOG $MSFT $NOK $RIMM http://t.co/5A5nRJ0h","lbl":"Neutral"}
+,{"time":"17:36","usr":"wallstCS","txt":"Will Apple\u0027s Safari Get the Shaft in the Chinese Mobile Market? http://t.co/L0lWg0Of $QIHU $AAPL $CHL $GOOG $BIDU #mkt","lbl":"Neutral"}
+,{"time":"22:14","usr":"VishalTx","txt":"#Android #security suffers as malware explodes by 700% #iphone $goog $aapl #fb http://t.co/euEwpKxT","lbl":"Neutral"}
 ]

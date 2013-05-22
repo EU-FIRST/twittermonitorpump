@@ -1,23 +1,55 @@
 [
-{"time":"0:46","usr":"Pellucidigm","txt":"@KeeneOnMarket @alexkotm spread: long $AAPL short $GOOG","lbl":"Negative"}
+{"time":"0:37","usr":"MyLinguistics","txt":"RT @SAI: An Android-Powered TV? Yup, Lenovo Has It $GOOG by @stevekovach http://t.co/79sl6sws","lbl":"Neutral"}
+,{"time":"0:38","usr":"optionspunk","txt":"iPhones for Psychos http://t.co/90VzEHJ3 #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"0:46","usr":"Pellucidigm","txt":"@KeeneOnMarket @alexkotm spread: long $AAPL short $GOOG","lbl":"Negative"}
+,{"time":"8:55","usr":"dschorrnyc","txt":"Anyone selling $GOOG bec of the $MMI news isn\u0027t seeing the forest for the trees.","lbl":"Neutral"}
+,{"time":"8:58","usr":"wallstCS","txt":"Wall Street Watch: GM and Ford Dominate China, Alcoa Earnings Ahead http://t.co/bWg5icoG $GM $F $TM $HMC $AA $GOOG $EWG $SPY $QQQ $DIA $SPX","lbl":"Neutral"}
+,{"time":"10:32","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/108, $SPY/59, $NFLX/50, $GOOG/43, $INHX/30, $REE/18, $GS/18, $BAC/16. http://t.co/DHnV02ws","lbl":"Neutral"}
 ,{"time":"11:11","usr":"$GOOG","txt":"Long $GOOG $628.75 for a scalp","lbl":"Positive"}
 ,{"time":"11:11","usr":"$GOOG","txt":"Short $aapl, long $goog","lbl":"Positive"}
 ,{"time":"11:12","usr":"$GOOG","txt":"@bespokeinvest and u idiots were trying to pump it up the other day. I called u guys out on $GOOG & said don\u0027t buy on ur media outlet pump","lbl":"Negative"}
+,{"time":"11:31","usr":"CDMCapital","txt":"RT @AronPinson 4.85% premium to $MMI... Expected closing is \u0022Early 2012\u0022> Think Paulson is on that arb play. $GOOG has the means, timing ??","lbl":"Neutral"}
 ,{"time":"11:31","usr":"$GOOG","txt":"As Apple trades to new all-time high, Google is quietly getting crushed today. $AAPL $GOOG","lbl":"Negative"}
 ,{"time":"11:31","usr":"$GOOG","txt":"$GOOG weakness today -- thought I would see bounces at 640, 633 -- so far nothin -- watchin 616, 50dma - could take a few days","lbl":"Negative"}
+,{"time":"12:28","usr":"Trefis","txt":"Google TV Adds New Partners LG and Samsung in Race to the Living Room http://t.co/tFIt2MZ1 $GOOG $AAPL $YHOO","lbl":"Neutral"}
+,{"time":"12:28","usr":"Trefis","txt":"Thompson Departure Weighs on eBay http://t.co/jarJvypW $EBAY $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"12:29","usr":"A_F","txt":"$VZ plans to transition to these new media servers within / over next 2 years = HUGE money oppertunity for $MMI imo $GOOG","lbl":"Neutral"}
+,{"time":"13:32","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/54, $BRCD/49, $GOOG/35, $NFLX/27, $DNDN/19, $SPY/19, $NUAN/17, $ONXX/15. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:32","usr":"Smart_BMW","txt":"I wonder if $GOOG is rethinking its pending acquisition of $MMI","lbl":"Neutral"}
 ,{"time":"13:32","usr":"moisesuribe","txt":"RT @bespokeinvest: As Apple trades to new all-time high, Google is quietly getting crushed today. Biggest down day since 10/3 as of 11 AM $GOOG $AAPL $$","lbl":"Negative"}
+,{"time":"14:37","usr":"Zoranaralica","txt":"RT @hedgefundinvest: Thinking high unemployment is good for social network websites. It\u0027s a half-baked thought, though. $GOOG $FBOOK $LKND","lbl":"Neutral"}
 ,{"time":"14:39","usr":"ManiOhli","txt":"Option Millionaires: Omars: some puts on $GOOG Up 2800% how crazy http://t.co/fseYWm01","lbl":"Negative"}
 ,{"time":"14:39","usr":"ManiOhli","txt":"Option Millionaires: rickk: NFLX J21 $135 calls filled @.36 $GOOG W $630 http://t.co/uC46AFTR","lbl":"Positive"}
 ,{"time":"15:08","usr":"TraderOnTheLake","txt":"$GOOG - Nice fade.","lbl":"Negative"}
+,{"time":"15:08","usr":"SAI","txt":"HOLY COW! Apple And Android Were Almost Even In Sales For October And November $AAPL $GOOG by @jyarow http://t.co/SEDYIIyG","lbl":"Neutral"}
+,{"time":"15:08","usr":"businessinsider","txt":"HOLY COW! Apple And Android Were Almost Even In Sales For October And November $AAPL $GOOG by @jyarow http://t.co/DrG82kUp","lbl":"Neutral"}
 ,{"time":"15:20","usr":"SeekingAlpha","txt":"7 Stocks To Be Careful With Going Into Earnings http://t.co/pgiZkLpH $AAPL $NFLX $GOOG $MA $GMCR $DECK $MCP","lbl":"Negative"}
+,{"time":"15:20","usr":"lluccipha","txt":"SAI: HOLY COW! Apple And Android Were Almost Even In Sales For October And November $AAPL $GOOG by @jyarow http://t.co/cVdL3aJM","lbl":"Neutral"}
+,{"time":"15:21","usr":"ryanfaas","txt":"RT @SplatF: Steve Jobs said the iPhone was 5 years ahead of any other phone. So... was it? http://t.co/VrDD9uAe $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"15:36","usr":"iStockAnalyst","txt":"These Tech Trends Might Not Be All That Trendy $AAPL $AMZN $GOOG $INTC $MMI $MSFT $RIMM: Despite the flow of hyp... http://t.co/ugTQsclT","lbl":"Negative"}
 ,{"time":"15:36","usr":"BUDDIEE18","txt":"RT @BlueFielder: $GooG bottom fish fights <<c\u0027mon ...u got deeep pockets -- MOVE $GOOG higher, eh! >>","lbl":"Positive"}
 ,{"time":"15:36","usr":"Jettson12","txt":"Positive divergences beginning to show on $GOOG 5, 15min charts (leading indicator). Need some stabilization here between 615 and 620.","lbl":"Positive"}
+,{"time":"16:02","usr":"stocial","txt":"60 minute Trending Social Volume: $NFLX/144, $AAPL/85, $GOOG/67, $GMCR/52, $AA/45, $SPY/38, $JVA/19, $AMZN/16. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"16:02","usr":"bySamRo","txt":"STOCKS RESUME RALLY DESPITE MORE TROUBLE IN EUROPE: Here\u0027s What You Need To Know $SPY $DIA $QQQ $NFLX $GOOG $AA http://t.co/7CCkPiI9","lbl":"Neutral"}
 ,{"time":"16:02","usr":"kfury","txt":"Wow, Google hasn\u0027t even completed its purchase of Motorola Mobility but that didn\u0027t stop $MMI from dragging $GOOG down $27/share today.","lbl":"Negative"}
+,{"time":"16:49","usr":"tbi_warroom","txt":"Google Intensifies Its Guerrilla War Against The TV Business $GOOG by @Jim_Edwards http://t.co/y8oQsd4n","lbl":"Neutral"}
+,{"time":"16:50","usr":"itbot1","txt":"RT@SAI Google Intensifies Its Guerrilla War Against The TV Business $GOOG by @Jim_Edwards http://t.co/wRDYmS0K","lbl":"Neutral"}
 ,{"time":"16:50","usr":"TraderOnTheLake","txt":"RT @goody $GOOG good job @traderonthelake up 7 bucks >>> I don\u0027t get it... what is up 7 bucks?","lbl":"Positive"}
+,{"time":"16:51","usr":"creativemf","txt":"RT @SAI: Google Intensifies Its Guerrilla War Against The TV Business $GOOG by @Jim_Edwards http://t.co/0lDdw4ud","lbl":"Neutral"}
 ,{"time":"17:12","usr":"gspzozotrader","txt":"RT @StockSage1: New Post: \u0022Warning Signs\u0022 http://t.co/UJiqWWZS $AAPL $COMPQ $GOOG $IWM $QQQ $SPY $SPX","lbl":"Negative"}
+,{"time":"17:12","usr":"HVerduM","txt":"RT @SAI: Google Intensifies Its Guerrilla War Against The TV Business $GOOG by @Jim_Edwards http://t.co/0lDdw4ud","lbl":"Neutral"}
+,{"time":"17:13","usr":"NoDoji","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 01/09/12 {Video}\u0022 http://t.co/gz79asX3 $ACHN $APOL $IBB $GMCR $GOOG $LOPE $MA $NFLX $SPY $V","lbl":"Neutral"}
 ,{"time":"17:13","usr":"GreenHedges1","txt":"RT @StockTwits: \u0022Warning Signs\u0022 http://t.co/1tZvzE0j via @StockSage1 $AAPL $COMPQ $GOOG $IWM $QQQ $SPY $SPX","lbl":"Negative"}
 ,{"time":"17:57","usr":"$GOOG","txt":"Reviewing my $GOOG trades, these pushed me into an area that challenge my size rules. Trade size is SO important. Trade big, lose big.","lbl":"Negative"}
 ,{"time":"18:00","usr":"$GOOG","txt":"RT @mugunthkumar: $GOOG = $670 5 days ago $GOOG = $623 now","lbl":"Negative"}
+,{"time":"18:00","usr":"Lorrainejuliet","txt":"RT @SeekingAlpha: VIX - Options Volatility Sonar: Monday Recap http://t.co/e2URcPNb $SPY $AMZN $GOOG $AAPL $QQQ $CMCSA $SWY $KEY $ONNN $BPAX $ACE","lbl":"Neutral"}
+,{"time":"19:49","usr":"grep","txt":"RT @barronstechblog: CES: Nvidia Shows $249 Asus 7-inch \u2018Ice Cream Sandwich\u2019 Tablet - Tech Trader Daily - $NVDA $TXN $INTC $GOOG $QCOM http://t.co/oMe9TS9f","lbl":"Neutral"}
+,{"time":"19:52","usr":"howardlindzon","txt":"THE year of the web merger indeed-the confluence between $FBOOK, $AMZN, $GOOG, $AAPL will continue -alot of M&A in \u002712 http://t.co/SmbmGHiH","lbl":"Neutral"}
+,{"time":"19:52","usr":"howardlindzon","txt":"and a cat will be president RT @bpeck Another bold prediction by pundit: $GOOG Schmidt will end up as $MSFT CEO in 2012 http://t.co/tB9hvx1C","lbl":"Neutral"}
+,{"time":"19:53","usr":"ReachScale","txt":"RT @howardlindzon: THE year of the web merger indeed-the confluence between $FBOOK, $AMZN, $GOOG, $AAPL will continue -alot of M&A in \u002712 http://t.co/SmbmGHiH","lbl":"Neutral"}
+,{"time":"21:27","usr":"StockTwitsTV","txt":"Brand new MOMENTUM MONDAY from @howardlindzon & @ivanhoff! http://t.co/oc0N7QLn $IBB $SPY $GOOG $SCSS $LZB $IBM","lbl":"Neutral"}
+,{"time":"21:27","usr":"RectitudeMarket","txt":"RT @StockTwitsTV: Brand new MOMENTUM MONDAY from @howardlindzon & @ivanhoff! http://t.co/oc0N7QLn $IBB $SPY $GOOG $SCSS $LZB $IBM","lbl":"Neutral"}
+,{"time":"23:22","usr":"alphatrends","txt":"RT @howardlindzon: FRESH - Brand new MOMENTUM MONDAY with me @ivanhoff! http://t.co/fWnVQl2d $IBB $SPY $GOOG $SCSS $LZB $IBM","lbl":"Neutral"}
 ,{"time":"23:25","usr":"DivIncome247","txt":"Apple is Finally Taking Mobile Advertising Seriously\u2026.Google Beware http://t.co/RKY3S9cZ $AAPL $GOOG","lbl":"Negative"}
 ,{"time":"23:47","usr":"jefffocker","txt":"@cnbcfastmoney please ask Karen about the drop in $GOOG and whether she still plans to hold","lbl":"Negative"}
 ]

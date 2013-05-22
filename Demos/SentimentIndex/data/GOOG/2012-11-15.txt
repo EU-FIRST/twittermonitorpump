@@ -1,12 +1,35 @@
 [
-{"time":"9:40","usr":"SPEQL8R","txt":"$GOOG came to 648 I had mentioned & is bouncing. It needs to clear 660 150 d ema to go higher until then might retest lows.","lbl":"Negative"}
+{"time":"7:01","usr":"henry_rly","txt":"10 Things You Need To Know This Morning $MSFT $AAPL $GOOG $YHOO $FB $HP by @nichcarlson http://t.co/I5Cd5VCd","lbl":"Neutral"}
+,{"time":"7:10","usr":"agonyman","txt":"RT @SAI: 10 Things You Need To Know This Morning $MSFT $AAPL $GOOG $YHOO $FB $HP by @nichcarlson http://t.co/ZiIoCbJU","lbl":"Neutral"}
+,{"time":"9:40","usr":"SPEQL8R","txt":"$GOOG came to 648 I had mentioned & is bouncing. It needs to clear 660 150 d ema to go higher until then might retest lows.","lbl":"Negative"}
+,{"time":"9:42","usr":"tkuz4u","txt":"Hey, W8 Santa...if you run out of that Blonde, this brunette would do. Love u Santa & $goog & $ aapl back to $700? http://t.co/Qrdw4z2R","lbl":"Neutral"}
+,{"time":"9:43","usr":"GeneralMovement","txt":"RT @TheStreet: Christmas Wars: Amazon vs. Walmart - TheStreet http://t.co/J6XT5saE $AMZN $WMT with a little $GOOG @DanaBlankenhorn","lbl":"Neutral"}
 ,{"time":"10:25","usr":"mnoltecpa","txt":"$GOOG $4 entry on the weeklys, tight stop at $3.60. Not going to be too greedy and not risking too much.","lbl":"Positive"}
 ,{"time":"10:25","usr":"elliottwavelive","txt":"$GOOG testing upper end of 647- 649 support. $$","lbl":"Positive"}
+,{"time":"10:25","usr":"adamikaplan","txt":"RT @businessinsider: Because Of This Chart, A Serious Person Posited That Samsung Might Buy Google $SSNLF $GOOG by @nichcarlson http://t.co/il8KwTip","lbl":"Neutral"}
 ,{"time":"11:00","usr":"SPEQL8R","txt":"$GOOG if does not hold 648 ish has gap at 641.58; could go to 50 dsma on 5 yr wkly 635 ish.","lbl":"Negative"}
 ,{"time":"11:02","usr":"bluser12","txt":"@Ken_S82 @Questrade @RogueStockTradr Pretty sure I\u0027ve lost money cause of this. Had Some weekly options on $GOOG.","lbl":"Negative"}
+,{"time":"11:04","usr":"onlineIDtech","txt":"RT @iStockAnalyst: Vringo (VRNG) 3Q Loss Widens as Expenses Spike; Shares Off $GOOG $VRNG:...|| try posting the whole truth instead of half.","lbl":"Neutral"}
 ,{"time":"11:34","usr":"FlyBoyKhi","txt":"RT @SAI: Let\u0027s Make This Easy: Out Of All The Tiny Tablets, Google\u0027s Nexus 7 Is The Best Buy $GOOG by @stevekovach http://t.co/zylpoczZ","lbl":"Positive"}
+,{"time":"11:35","usr":"EhhPic","txt":"RT @SAI: Let\u0027s Make This Easy: Out Of All The Tiny Tablets, Google\u0027s Nexus 7 Is The Best Buy $GOOG by @stevekovach http://t.co/hsZ3BpZs","lbl":"Neutral"}
+,{"time":"11:36","usr":"FlyBoyKhi","txt":"RT @SAI: 15 MORE Google Interview Questions That Made Geniuses Feel Dumb $GOOG by @nichcarlson http://t.co/si1SXiNL","lbl":"Neutral"}
+,{"time":"11:36","usr":"mz_techwhiz","txt":"RT @SAI: 15 MORE Google Interview Questions That Made Geniuses Feel Dumb $GOOG by @nichcarlson http://t.co/si1SXiNL","lbl":"Neutral"}
+,{"time":"12:18","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) Shopping spreads to more countries: Google Inc (NASDAQ:GOOG) Shopping spreads to... http://t.co/x5evQEJJ","lbl":"Neutral"}
+,{"time":"12:19","usr":"Minyanville","txt":"Random Thoughts from @todd_harrison: Expiration Influences Push Markets Around $AAPL $GOOG $DJI $INX $IXIC http://t.co/i0TeWqzu","lbl":"Neutral"}
+,{"time":"13:09","usr":"wallstCS","txt":"Here\u0027s a Surprise for Kindle Lovers http://t.co/pIxxmBUV $AMZN $AAPL $GOOG $BBY $SPLS #stocks #trading","lbl":"Neutral"}
+,{"time":"13:09","usr":"howardlindzon","txt":"Stud alert - I am on CNBC at 2-45 EST talking $GOOG and $AAPL..I am excited to unleash my new price targets...tune in. hint - single digits","lbl":"Neutral"}
+,{"time":"13:10","usr":"market_raven","txt":"RT @howardlindzon: Stud alert - I am on CNBC at 2-45 EST talking $GOOG and $AAPL..I am excited to unleash my new price targets...tune in. hint - single digits","lbl":"Neutral"}
+,{"time":"14:06","usr":"TheNakedZebra","txt":"when obamahood speaks the market goes down $AAPL, $MA $GOOG","lbl":"Neutral"}
+,{"time":"15:17","usr":"thenumb47","txt":"The $QQEW holding onto green, unlike the $AAPL $GOOG proxy $QQQ which is 25% those 2 stocks","lbl":"Neutral"}
 ,{"time":"15:23","usr":"StockMarket411","txt":"Google stock drops after missing analysts\u2019 expectations $goog http://t.co/AOik4Hx6 goog, google, google stock, news","lbl":"Negative"}
+,{"time":"16:58","usr":"JShramek","txt":"RT @SAI_Tools: WSJ: Google Is Putting The \u0027Finishing Touches\u0027 On Google Maps For iPhone $GOOG $AAPL by @stevekovach http://t.co/Y58WiKbJ","lbl":"Neutral"}
+,{"time":"16:59","usr":"bigdogtwo","txt":"RT @businessinsider: WSJ: Google Is Putting The \u0027Finishing Touches\u0027 On Google Maps For iPhone $GOOG $AAPL by @stevekovach http://t.co/o8CxwnyK","lbl":"Neutral"}
+,{"time":"16:59","usr":"jurylady5","txt":"RT @businessinsider: WSJ: Google Is Putting The \u0027Finishing Touches\u0027 On Google Maps For iPhone $GOOG $AAPL by @stevekovach http://t.co/o8CxwnyK","lbl":"Neutral"}
+,{"time":"16:59","usr":"ariezcryll","txt":"RT @SAI: WSJ: Google Is Putting The \u0027Finishing Touches\u0027 On Google Maps For iPhone $GOOG $AAPL by @stevekovach http://t.co/FZPvkoVK","lbl":"Neutral"}
 ,{"time":"18:08","usr":"EhudHoops","txt":"Everyone\u0027s bitching about $AAPL down 25% from peak, allowing $GOOG to float under the radar despite dropping 16% from peak in under 2 months","lbl":"Negative"}
+,{"time":"18:14","usr":"JenMuller1","txt":"RT @SAI: WSJ: Google Is Putting The \u0027Finishing Touches\u0027 On Google Maps For iPhone $GOOG $AAPL by @stevekovach http://t.co/rSPeqIu5","lbl":"Neutral"}
 ,{"time":"18:21","usr":"sciencetrader","txt":"insider selling: $GOOG CEO sells 83,334 shares on 11/13 and 11/14 at 665 and 656.","lbl":"Negative"}
 ,{"time":"21:08","usr":"macroaxis","txt":"$GOOG Slightly dropping since closing. Preserves shares owned by insiders of 0.33 % http://t.co/mCZQbYf3","lbl":"Negative"}
+,{"time":"21:21","usr":"CAMAR024","txt":"Watchlist for 11/16/12 http://t.co/Jf1uWIPB $TRTC $PHOT $TVIX $GS $GOOG $CRM $AMZN","lbl":"Neutral"}
+,{"time":"21:21","usr":"stockgarage","txt":"Big friday tomorrow- lotto setups for tomorrow are up http://t.co/dguVd5dL $TRTC $PHOT $TVIX $GS $GOOG $CRM $AMZN --good luck!","lbl":"Neutral"}
 ]

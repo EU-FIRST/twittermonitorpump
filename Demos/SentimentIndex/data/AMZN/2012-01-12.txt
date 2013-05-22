@@ -2,10 +2,13 @@
 {"time":"1:08","usr":"Rovetti2012","txt":"$AMZN looks to be forming an inverted head and shoulders pattern on its daily chart here...bullish.","lbl":"Positive"}
 ,{"time":"8:36","usr":"firstadopter","txt":"Bad $TGT sales, bad $BBY sales, bad $WSM sales, bad December retail sales ex-gas -0.2% vs. 0.4% est., but $AMZN totally immune right? Right?","lbl":"Positive"}
 ,{"time":"8:42","usr":"Precog1982","txt":"@firstadopter $AMZN Yes...they beat out the entire retail sector on prices...","lbl":"Positive"}
+,{"time":"8:50","usr":"SeekingAlpha","txt":"5 Key ETFs For Q4 Earnings Reports http://t.co/IBtEfePU $AA $JPM $XLB $QQQV $IYT $MON $AAPL $AMZN $UNP $AMLP $IXC $XOM $CVX $BP","lbl":"Neutral"}
 ,{"time":"10:04","usr":"ahkautan","txt":"RT @terranovajoe: CLSA rates $AMZN a new buy with price target of $230","lbl":"Positive"}
 ,{"time":"10:04","usr":"MichaelShinder","txt":"What\u0027s the good word folks? 175 puts I say in $amzn boom","lbl":"Negative"}
 ,{"time":"11:30","usr":"StocialPicks","txt":"Haani B. made a pick on Stocial. Long $AMZN at 177.05. http://t.co/QZsYOzLH","lbl":"Positive"}
 ,{"time":"12:50","usr":"krishope","txt":"$AMZN initiated $Put Vertical Feb 175/170 PUT @2.13 with mark @ 177.57","lbl":"Negative"}
+,{"time":"14:06","usr":"SEASolicitorCJS","txt":"RT @vpostrel: Fascinating story on erotica plagiarism in $AMZN Kindle store, w/ #SOPA angle & constructive solution http://t.co/vnDxixyW via @fastcompany","lbl":"Neutral"}
+,{"time":"15:38","usr":"kellyhsieh888","txt":"And why would $AMZN want to buy $RIMM? $AMZN is not in the hardware or software business. Why is $RIMM popping like an 80\u0027s street dancer?","lbl":"Neutral"}
 ,{"time":"15:42","usr":"numberonetell","txt":"Of the large cap tech $AMZN seems the worst off today. If I were a swing trader I would be short.","lbl":"Negative"}
 ,{"time":"16:58","usr":"vjland","txt":"$AMZN http://t.co/7HHbeMvf may flirt around this level (support 174) for extended time. accumulating.","lbl":"Positive"}
 ,{"time":"18:05","usr":"cocoy","txt":"Prime is cult $AMZN RT @paidContent: For Amazon Shareholders, Prime Boosts Costs And Trashes Profits http://t.co/Fd4GqTIZ","lbl":"Negative"}

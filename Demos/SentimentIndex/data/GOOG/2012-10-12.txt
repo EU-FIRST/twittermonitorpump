@@ -1,18 +1,50 @@
 [
-{"time":"7:32","usr":"Goodlett","txt":"Interesting to watch ban on #Samsung #Nexus based $GOOG #Android phones just overturned from $AAPL lawsuit http://t.co/cKdxYO6p $MSFT $NOK","lbl":"Negative"}
+{"time":"0:26","usr":"edam_mohamed","txt":"RT @SAI: Google Has $2 Million In Prize Money On Hand For Hackers Who Find Flaws In Chrome $GOOG by @officialKLS http://t.co/VansBM0T","lbl":"Neutral"}
+,{"time":"0:43","usr":"Bishaaj","txt":"RT @KeeneOnMarket: Get Your Daily $ES $AAPL and $GOOG Video Recap for #Trading 10.11.2012 http://t.co/TrqWYdsh","lbl":"Neutral"}
+,{"time":"1:00","usr":"61point8","txt":"$GOOG analysis. http://t.co/tXaDUu6n","lbl":"Neutral"}
+,{"time":"6:47","usr":"NemarkTech","txt":"RT @SAI: 10 Things You Need To Know This Morning $YHOO $GOOG $MSFT $AMZN $ORCL by @nichcarlson http://t.co/9jfNynUm","lbl":"Neutral"}
+,{"time":"6:50","usr":"ilovemykikicat","txt":"RT @SAI: 10 Things You Need To Know This Morning $YHOO $GOOG $MSFT $AMZN $ORCL by @nichcarlson http://t.co/WAw2Oand","lbl":"Neutral"}
+,{"time":"7:32","usr":"Goodlett","txt":"Interesting to watch ban on #Samsung #Nexus based $GOOG #Android phones just overturned from $AAPL lawsuit http://t.co/cKdxYO6p $MSFT $NOK","lbl":"Negative"}
+,{"time":"7:32","usr":"Maxfield_R","txt":"Most inDemand employers... Looks accurate to me... Hell, I\u0027d be a janitor to work for $GOOG http://t.co/tBwLE74H","lbl":"Neutral"}
+,{"time":"7:33","usr":"asaphouse","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/ishmVEYy","lbl":"Negative"}
+,{"time":"8:07","usr":"DrDuru","txt":"Chart Reviews: Apple, Google, http://t.co/sYBZ3dQX, Siemens, and Facebook: http://t.co/huWDtvhb $AAPL $GOOG $PCLN $SI $FB #technicalanalysis","lbl":"Neutral"}
+,{"time":"8:32","usr":"martoony","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/ishmVEYy","lbl":"Negative"}
+,{"time":"8:33","usr":"UdallTechStrat","txt":"Do the Fin\u0027s and Tech\u0027s start the flip again (today and into next week)? Prob time for $aapl and $goog to flip performance as well.","lbl":"Neutral"}
+,{"time":"8:33","usr":"Squirkler","txt":"@TraderLantern Why? Because $GOOG aint gonna buy them or settle? And then beat them in court? $VRNG","lbl":"Neutral"}
 ,{"time":"9:06","usr":"stocktrendchart","txt":"Technology $GOOG $VZ still have room to correct while there rest are poised to bounce.","lbl":"Positive"}
 ,{"time":"9:07","usr":"BlueFielder","txt":"$GooG back in 750 $PUTs @ avg about .95","lbl":"Negative"}
+,{"time":"9:43","usr":"mattrodier","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/ishmVEYy","lbl":"Negative"}
 ,{"time":"9:46","usr":"TheGothicThe","txt":"Why to go even near by Risky Stocks when you have big names like $aapl $goog $XOM in reach :)","lbl":"Positive"}
+,{"time":"9:46","usr":"SAI_Tools","txt":"Here\u0027s A Good Idea Of What To Expect From Google\u0027s New Smartphone $GOOG by @stevekovach http://t.co/wRNjrLNG","lbl":"Neutral"}
+,{"time":"9:46","usr":"SAI","txt":"Here\u0027s A Good Idea Of What To Expect From Google\u0027s New Smartphone $GOOG by @stevekovach http://t.co/17IPFcsE","lbl":"Neutral"}
+,{"time":"10:26","usr":"ChristopheCubat","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/3I5375ul","lbl":"Negative"}
+,{"time":"10:26","usr":"CAMAR024","txt":"playing $GOOG 750 over under game","lbl":"Neutral"}
+,{"time":"10:27","usr":"henrygambell","txt":"Indexes a little weak - $GOOG trying to pin - Nice drop in $PCLN from 600 - $UNG is fine - $AAPL is the make or break http://t.co/bLFdjcL5","lbl":"Neutral"}
+,{"time":"10:28","usr":"garrioharrison","txt":"RT @SAI: Google\u0027s Eric Schmidt: Microsoft Is \u0027Well-Run\u0027 But Irrelevant $GOOG $MSFT by @owenthomas http://t.co/mSQ1Ttu1","lbl":"Neutral"}
+,{"time":"11:21","usr":"yeahforeal","txt":"@Otus_s Trueth be told iPhone 5 / iOS6 users now have FREE Turn by Turn NAV & 3D maps, somthing they didnt have w/ $GOOG Maps. $AAPL","lbl":"Neutral"}
+,{"time":"11:22","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) Finally Releases Tool to Reduce Page Load Times: Google Inc (NASDAQ:GOOG) Finall... http://t.co/licNugog","lbl":"Neutral"}
+,{"time":"12:09","usr":"DeLuCa","txt":"\u201C@SAI: Google\u0027s New Smartphone Has Already Been Reviewed And It\u0027s Not Even Out Yet $GOOG by @stevekovach http://t.co/Hq2b09xU\u201D","lbl":"Neutral"}
+,{"time":"12:12","usr":"Thought7Ltd","txt":"RT @SAI: PEAK SEARCH: Why The Google Era May Be Over $YHOO $GOOG $MSFT $AAPL $FB $AMZN $YELP by @owenthomas http://t.co/ishmVEYy","lbl":"Negative"}
+,{"time":"13:06","usr":"racernic","txt":"imo earnings plays r pure gambling. mkt reactions r coin flips! so instead of playing $GOOG or $AAPL directly, i use $NDX. milder reactions","lbl":"Neutral"}
 ,{"time":"13:06","usr":"SJosephBurns","txt":"$GOOG was rejected strongly back to under the 5 day ema today and under cut yesterday\u0027s low, these are signals of a possible down trend.","lbl":"Negative"}
+,{"time":"13:08","usr":"creditspread23","txt":"RT @racernic imo earns plays r pure gambling.mkt reactions r coinflips! so instead of $GOOG or $AAPL directly, i use $NDX milder reactions","lbl":"Neutral"}
+,{"time":"13:31","usr":"pennystockguys","txt":"$GOOG - Samsung Intros Galaxy SIII Mini - Analyst Blog http://t.co/jZUdwGkC","lbl":"Neutral"}
+,{"time":"13:31","usr":"ADVFNplc","txt":"$GOOG - Samsung Intros Galaxy SIII Mini - Analyst Blog http://t.co/HLziK8Rr","lbl":"Neutral"}
+,{"time":"14:00","usr":"Mark_Lexus","txt":"crazy..options already pricing in a $40 point move on $goog ..and i still an not clear on when the stock split happens","lbl":"Neutral"}
 ,{"time":"14:03","usr":"GopherTrader","txt":"@Fitzstock2004 Money flowing out of $GOOG into $AAPL","lbl":"Negative"}
 ,{"time":"14:36","usr":"nichcarlson","txt":"The Long-Dreaded Anti-Trust Case Against Google Looks Like It Will Finally Happen $GOOG http://t.co/ZhLNSjZZ","lbl":"Negative"}
 ,{"time":"14:36","usr":"businessinsider","txt":"The Long-Dreaded Anti-Trust Case Against Google Looks Like It Will Finally Happen $GOOG http://t.co/XfrhdQHE","lbl":"Negative"}
 ,{"time":"14:36","usr":"SAI","txt":"The Long-Dreaded Anti-Trust Case Against Google Looks Like It Will Finally Happen $GOOG http://t.co/RzA7D69K","lbl":"Negative"}
 ,{"time":"14:36","usr":"JonMarino","txt":"Trouble ahead for $GOOG? http://t.co/7teCVoRY","lbl":"Negative"}
 ,{"time":"14:46","usr":"SPEQL8R","txt":"$GOOG is filling gap mentioned this morn 744.8-743.5 ish. Let us see if can hold it. $XLE if closes >73 would be reversal today","lbl":"Negative"}
+,{"time":"14:47","usr":"charliegodwin","txt":"@tlmontana @RedDogT3Live @TweetLeni @traderstewie Can $GOOG earnings justify 100+ point run since last earnings?","lbl":"Neutral"}
+,{"time":"14:47","usr":"firstadopter","txt":"$AMZN has tons of net cash and profit margin to go into a massive price war with $AAPL $GOOG $BKS $BBY $WMT simultaneously right? Oh wait..","lbl":"Neutral"}
 ,{"time":"15:22","usr":"MarlonLaing","txt":"RT @HumOnTheMarkets: $GOOG down 3% this week, first weekly decline in 3 months (assist to @coombscnbc)","lbl":"Negative"}
 ,{"time":"15:29","usr":"thefinancepress","txt":"$GOOG Microsoft to add Google as defendant in Motorola patent fight: Microsoft to add Google as defendant in Mo... http://t.co/u9Mfkz1E","lbl":"Negative"}
+,{"time":"16:20","usr":"MarketWatch","txt":"RT @MarketWatchMatt: Has your broker heard of $FAST? Boring industrial company trounces tech stocks. $AAPL $GOOG $AMZN. Check this chart: http://t.co/39S6YEL4","lbl":"Neutral"}
+,{"time":"16:22","usr":"pmissaghi","txt":"Has your broker heard of $FAST? Boring industrial company trounces tech stocks. $AAPL $GOOG $AMZN. Check this chart: http://t.co/AdkPK3Rs\u201D","lbl":"Neutral"}
 ,{"time":"17:39","usr":"22tec","txt":"RT @SAI: Samsung And Google Are Making A Tablet With A Better Screen Than The iPad $GOOG by @stevekovach http://t.co/40vM6V1f","lbl":"Positive"}
 ,{"time":"17:51","usr":"YahooFinance","txt":"FTC moving closer to Google antitrust case http://t.co/uoyBUgD6 $GOOG","lbl":"Negative"}
 ,{"time":"21:16","usr":"minnierosegray","txt":"RT @TheStreet: Microsoft Will Lose a War With Apple; So Will Google http://t.co/bC3XkAI8 by @RoccoPendola $MSFT $GOOG $AAPL","lbl":"Negative"}
+,{"time":"21:18","usr":"Power_of_RT","txt":"RT @microcapspro: RT Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT","lbl":"Neutral"}
 ]

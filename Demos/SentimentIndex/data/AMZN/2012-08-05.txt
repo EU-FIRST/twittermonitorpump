@@ -1,1 +1,7 @@
-[]
+[
+{"time":"11:13","usr":"EvanMedeiros","txt":"RT @howardlindzon New Post - \u0027The FOUR Horsemen of the Economy...Make that THREE\u0027 http://t.co/AIgZGgE4 $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"11:15","usr":"ToddRiordan","txt":"RT @ReformedBroker: Watch as Amazon destroys the last category of healthy newspaper ads - retailers. $AMZN http://t.co/ku3n2QMN","lbl":"Neutral"}
+,{"time":"15:56","usr":"mercenaryjack","txt":"$AMZN to overtake $WMT as world\u0027s biggest retailer by 2020? http://t.co/t70dPSYa","lbl":"Neutral"}
+,{"time":"16:09","usr":"ryanmcraver","txt":"Looks like eBay is beating amazon to the punch with same day shipping $ebay $amzn http://t.co/GhlLQVOv","lbl":"Neutral"}
+,{"time":"16:23","usr":"takingstock614","txt":"$AAPL $GOOG $PCLN $AMZN","lbl":"Neutral"}
+]

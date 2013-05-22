@@ -2,22 +2,36 @@
 {"time":"7:35","usr":"ritholtz","txt":"VERY COOL GRAPHIC: How the Kindle Paperwhite Works http://t.co/jP193T0m $AMZN $$","lbl":"Positive"}
 ,{"time":"9:00","usr":"javiervegac","txt":"RT @CNBC:Survey:Amazon still best site for shopping online; JC Penney suffers drop in customer satisfaction: http://t.co/d4P3Nqir $AMZN $JCP","lbl":"Positive"}
 ,{"time":"9:00","usr":"iBizNews21","txt":"RT @CNBC: Survey: Amazon still best site for shopping online; JC Penney suffers largest drop in customer satisfaction: http://t.co/8xzMueUj $AMZN $JCP","lbl":"Positive"}
+,{"time":"9:01","usr":"pthemissionary","txt":"What Penneys USED 2 stand 4 http://t.co/4jL4eytu JC Penney suffers LARGEST drop in cust satisfaction: http://t.co/MX2DxwB2 $AMZN $JCP @cnbc","lbl":"Neutral"}
 ,{"time":"9:50","usr":"verymike","txt":"RT @businessinsider: Amazon Was Selling 306 Items Every Second At Its Peak This Year $AMZN by @jyarow http://t.co/nH2wPTu0","lbl":"Positive"}
+,{"time":"9:50","usr":"Hermes_911","txt":"RT @businessinsider: Amazon Was Selling 306 Items Every Second At Its Peak This Year $AMZN by @jyarow http://t.co/nH2wPTu0","lbl":"Neutral"}
 ,{"time":"9:50","usr":"racernic","txt":"@OS_EM if i c stock that is stretched 1way or another i may play the other side but w/pot big pay.ex:bot $AMZN puts for pennies now worth $s","lbl":"Negative"}
 ,{"time":"10:17","usr":"bkil","txt":"RT @derekhkan: \u201C@businessinsider: Amazon Was Selling 306 Items Every Second At Its Peak This Year $AMZN by @jyarow http://t.co/7vwVOyoZ\u201D ridiculous","lbl":"Positive"}
+,{"time":"10:49","usr":"dkfranc","txt":"RT @SAI: Amazon Was Selling 306 Items Every Second At Its Peak This Year $AMZN by @jyarow http://t.co/JKNer4lv","lbl":"Neutral"}
+,{"time":"10:49","usr":"DMT1129","txt":"RT @SAI: Amazon Was Selling 306 Items Every Second At Its Peak This Year $AMZN by @jyarow http://t.co/JKNer4lv","lbl":"Neutral"}
 ,{"time":"11:34","usr":"SEGUNJEROME","txt":"RT @SAI: Amazon Was Selling 306 Items Every Second At Its Peak This Year $AMZN by @jyarow http://t.co/rgkdcXSq","lbl":"Positive"}
 ,{"time":"11:37","usr":"QuickFixCharts","txt":"$AMZN has violated key Dec support at 248-247 to lock in a near term top formation from 263.11. Nov.-Dec. rally is complete 246.06","lbl":"Positive"}
 ,{"time":"12:40","usr":"gudorf","txt":"Fun reading... RT @businessinsider: Amazon Was Selling 306 Items Every Second At Its Peak This Year $AMZN by @jyarow http://t.co/RsLqqdhl","lbl":"Positive"}
 ,{"time":"13:21","usr":"tjsnyder","txt":"NYT -- very cool look at the magic of #Kindle Paperwhite! $AMZN http://t.co/ZKMt5rc6","lbl":"Positive"}
 ,{"time":"14:08","usr":"ali_Rza777","txt":"RT @SeekingAlpha: The Top 4 Tech Stocks To Own In 2013 http://t.co/XCjqnyE3 $ORCL $CSCO $EBAY $AMZN","lbl":"Positive"}
+,{"time":"14:43","usr":"chrisgee","txt":"RT @SAI: Tablets Were More Popular Than Smartphones As Christmas Presents $AAPL $GOOG $AMZN by @jyarow http://t.co/WBetrOIG","lbl":"Neutral"}
+,{"time":"14:43","usr":"gerrypizza","txt":"RT @businessinsider: Tablets Were More Popular Than Smartphones As Christmas Presents $AAPL $GOOG $AMZN by @jyarow http://t.co/umDeVAFV","lbl":"Neutral"}
+,{"time":"14:44","usr":"GuruEbby","txt":"@UnlovedMoney @ShawnErtel they already have it with Kindle, I don\u0027t see how a phone adds to that unless it is Galaxy 3 size $AMZN","lbl":"Neutral"}
+,{"time":"15:25","usr":"SPEQL8R","txt":"needless to say reversal in Cr $AAPL $IBM $GOOG $AMZN; mkt needs to prove itself.","lbl":"Neutral"}
+,{"time":"15:25","usr":"TradetheLeader1","txt":"Woah check the candle $amzn","lbl":"Neutral"}
+,{"time":"16:17","usr":"basampa","txt":"\u0022Amazon Was Selling 306 Items Every Second At Its Peak This Year $AMZN by @jyarow http://t.co/GLV9W4ma\u0022","lbl":"Neutral"}
 ,{"time":"17:24","usr":"gbengaawomodu","txt":"RT @LaurenYoung: Amazon is the most satisfying website to shop, survey says http://t.co/6Xz2HOPC $AMZN","lbl":"Positive"}
 ,{"time":"17:25","usr":"siena_y","txt":"RT @LaurenYoung: Amazon is the most satisfying website to shop, survey says http://t.co/6Xz2HOPC $AMZN","lbl":"Positive"}
+,{"time":"17:25","usr":"andrescardenal","txt":"The Fiscal Cliff and the End of the World - $AMZN, $AAPL, $BRK-B, $BRK-A, KO - http://t.co/cf6vqEPq","lbl":"Neutral"}
 ,{"time":"17:42","usr":"SuperCoolEskimo","txt":"Bollocks it is. \u201C@LaurenYoung: Amazon is the most satisfying website to shop, survey says http://t.co/9sBQrsJL $AMZN\u201D","lbl":"Positive"}
 ,{"time":"17:42","usr":"PrNcsYashi","txt":"RT @LaurenYoung: Amazon is the most satisfying website to shop, survey says http://t.co/6Xz2HOPC $AMZN","lbl":"Positive"}
 ,{"time":"17:42","usr":"amfamfrancisca","txt":"RT @LaurenYoung: Amazon is the most satisfying website to shop, survey says http://t.co/6Xz2HOPC $AMZN","lbl":"Positive"}
+,{"time":"18:31","usr":"Mktgeistcom","txt":"RT @StockTwits: The \u0022four horsemen\u0022 of tech, advertising, and retail http://t.co/EBecmIb1 via @researchpuzzler $AAPL $FB $AMZN $GOOG","lbl":"Neutral"}
 ,{"time":"18:33","usr":"SIMON_RAYMOND","txt":"@Malaniruth waiting to re-enter $AMZN short...(cue jeopardy music)","lbl":"Negative"}
 ,{"time":"20:29","usr":"brents47","txt":"RT @LaurenYoung: Amazon is the most satisfying website to shop, survey says http://t.co/6Xz2HOPC $AMZN","lbl":"Positive"}
+,{"time":"20:40","usr":"CoryTV","txt":"Feinberg: $AMZN Sends Thank You to Users for Input: Video - Bloomberg\u00FFhttp://t.co/7NolQYSc","lbl":"Neutral"}
 ,{"time":"20:40","usr":"Aapl_pain","txt":"@murphyrosecliff I too have been short $amzn for a while now. ($244) Prob w/ short is huge put/call ratio in it at all times","lbl":"Negative"}
 ,{"time":"23:05","usr":"larryfooter","txt":"@iuubob @ijustreally $P $ANGI $YELP and to a lesser extent $PCLN $AMZN ... all posted here ... nothing with me is private: my book is open","lbl":"Positive"}
 ,{"time":"23:06","usr":"larryfooter","txt":"@iuubob @ijustreally many would argue $PCLN and $AMZN are not garbage ... but IMO $AMZN PE is unsustainable and $PCLN has major issues","lbl":"Negative"}
+,{"time":"23:07","usr":"OverSpaced","txt":"RT @JonErlichman: Amazon says enough copies of \u201CFifty Shades\u201D books were bought during holidays to make a stack 445x taller than Space Needle $AMZN","lbl":"Neutral"}
 ]

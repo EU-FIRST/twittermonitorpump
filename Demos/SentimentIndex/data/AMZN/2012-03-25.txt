@@ -1,4 +1,9 @@
 [
-{"time":"2:03","usr":"wininstocks52","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/G3Llenmz","lbl":"Positive"}
+{"time":"2:00","usr":"AronPinson","txt":"Selling via $AMZN & they\u0027re doing the fulfilling... Up until recently, seller would ship all items to one central $AMZN location, & they...","lbl":"Neutral"}
+,{"time":"2:01","usr":"AronPinson","txt":"... would redistribute it to multiple fulfillment centers. Now, seller has to ship (himself) to several locations. $AMZN","lbl":"Neutral"}
+,{"time":"2:03","usr":"wininstocks52","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/G3Llenmz","lbl":"Positive"}
+,{"time":"16:49","usr":"ProlongWealth","txt":"Yoga Guru Pro App for Android available free today from the $AMZN Appstore http://t.co/dWGOLAD2","lbl":"Neutral"}
+,{"time":"22:35","usr":"investlite","txt":"Charts for 3/26-3/30 - http://t.co/A0gPiLeb $AAPL $ALLT $AMZN $BAC $BBBY $BEAM $BRCM $CRM $CXO $DE $DECK $FIRE $GLD $GOOG $HAL $INFA","lbl":"Neutral"}
 ,{"time":"23:05","usr":"GeekofWallSt","txt":"$AMZN Still looking good to go higher; $MCD if it breaks $95, time to go; $LNKD looks good, just resting;$HD resting","lbl":"Positive"}
+,{"time":"23:12","usr":"Nathan161616","txt":"RT @AffluenzaVirus: Breakout Watch for tomorrow (3.26.12) http://t.co/TZ55UMDE $AZO $FFIV $AMZN $ENDP $VMW & $AAPL $PII ;)","lbl":"Neutral"}
 ]

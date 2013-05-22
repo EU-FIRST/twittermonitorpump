@@ -1,16 +1,55 @@
 [
-{"time":"6:41","usr":"aradchenko1","txt":"$VRNG vs $GOOG today","lbl":"Negative"}
+{"time":"2:47","usr":"RecallPropecia","txt":"How much will #PROPECIA sales drop as the world learns of its horrors? RT, reply & answer. $MRK #Merck $GOOG #NYSE #WSJ #finasteride","lbl":"Neutral"}
+,{"time":"3:16","usr":"TheStreet","txt":"Cramer\u0027s 6 Stocks in 60 Seconds: $RIO $LOW $GOOG $CHS $EBAY $JOY http://t.co/zKdUbQLP by @scottrutt","lbl":"Neutral"}
+,{"time":"3:17","usr":"RealCrystalBall","txt":"Cramer\u0027s 6 Stocks in 60 Seconds: $RIO $LOW $GOOG $CHS $EBAY $JOY http://t.co/HjjPjv0d by @scottrutt #Stocks","lbl":"Neutral"}
+,{"time":"3:20","usr":"Investometrica","txt":"RT @TheStreet: Cramer\u0027s 6 Stocks in 60 Seconds: $RIO $LOW $GOOG $CHS $EBAY $JOY http://t.co/zKdUbQLP by @scottrutt","lbl":"Neutral"}
+,{"time":"6:32","usr":"thecatwhisperer","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AMZN $AAPL $YHOO by @nichcarlson http://t.co/Jh7yIonm","lbl":"Neutral"}
+,{"time":"6:32","usr":"RecallPropecia","txt":"Epigenetic overview. #Merck #Propecia #NYSE #WSJ $MRK $GOOG #proteomics #epigenetics http://t.co/IXNqP9sA","lbl":"Neutral"}
+,{"time":"6:37","usr":"RecallPropecia","txt":"Will #Merck own up like #Bayer has done to #YAZ victims, or will $MRK continue its sleazy ways? #NYSE $GOOG #PROPECIA #Lawsuit #Epigenetics","lbl":"Neutral"}
+,{"time":"6:41","usr":"aradchenko1","txt":"$VRNG vs $GOOG today","lbl":"Negative"}
+,{"time":"7:45","usr":"Stocks_Plus","txt":"RT @TheStreet: 3 Things You Should Know About Small Business http://t.co/8WH6dRYd by @LKulikowski $GOOG $SYMC","lbl":"Neutral"}
+,{"time":"7:49","usr":"ChicagoPhotoSho","txt":"wow, check out the first @Google search page. pretty cool $GOOG http://t.co/D6zarYsn","lbl":"Neutral"}
+,{"time":"7:50","usr":"pattidomm","txt":"http://t.co/cJDkHdES $BPI $C $CBS $CVS $DPZ $FOSL $GMCR $GOOG $GS $JNJ $KO $KR $MAT $NWSA $PCLN $PNC $RATE $S $SBUX $STT $UNH $UPS $YHOO","lbl":"Neutral"}
+,{"time":"7:50","usr":"DallenCyrr","txt":"Gut feeling there will be a Buyout at $1.3 Billion Dollars, $VRNG, $GOOG","lbl":"Neutral"}
+,{"time":"8:28","usr":"thefinancepress","txt":"$GOOG Apple Inc. (AAPL) Hires http://t.co/Bp1PYzNq Inc. (AMZN) Head of Search: Apple Inc. (AAPL) Hires ... http://t.co/NCfG7knn","lbl":"Neutral"}
+,{"time":"9:04","usr":"tlmontana","txt":"RT @ZorTrades: $AAPL $GOOG $AMZN $NFLX have yet to receive the rally memo <-- Indeed.","lbl":"Neutral"}
+,{"time":"9:04","usr":"askchrishetrade","txt":"RT @ZorTrades: $AAPL $GOOG $AMZN $NFLX have yet to receive the rally memo","lbl":"Neutral"}
+,{"time":"9:04","usr":"traderstewie","txt":"RT @ZorTrades: $AAPL $GOOG $AMZN $NFLX have yet to receive the rally memo","lbl":"Positive"}
 ,{"time":"9:04","usr":"DHSBusiness","txt":"RT @businessinsider: 9 Android Features That Blow iPhone Out Of The Water $GOOG $AAPL by @_dtl http://t.co/HWAIXLzh","lbl":"Positive"}
+,{"time":"9:41","usr":"BenCBanks","txt":"It\u0027s concerning that the the techs are are lagging. I hope they are able to play catch up. $amzn $goog $aapl","lbl":"Neutral"}
+,{"time":"9:43","usr":"brianfederal","txt":"RT @hollowman2013: RT @TheSeek20826344 Will #Apple Buy #3D Systems http://t.co/g3uPAIt5 $AAPL $AMZN $GOOG $MSFT $DDD #3dprinting","lbl":"Neutral"}
 ,{"time":"9:44","usr":"tulipmania1636","txt":"RT @ppprophet: SELL $GOOG The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
 ,{"time":"10:23","usr":"srisri55","txt":"$AAPL above 641 $GOOG above 742 $PCLN above 600. Life back to normal?","lbl":"Positive"}
+,{"time":"10:25","usr":"Carina_Lermon","txt":"Android virus alert: FBI launches laughable list of malware maladies - Computerworld (blog) #Android $Goog http://t.co/zzDGrci8","lbl":"Neutral"}
 ,{"time":"10:25","usr":"TraderPlanet","txt":"RT @SJosephBurns: $GOOG rejected at the 5 day ema line. $AAPL just holding above its 5 day ema line","lbl":"Negative"}
+,{"time":"11:36","usr":"FortuneMPW","txt":"Do you know who Yahoo CEO @MarissaMayer\u0027s hot hires from Google are? Check em out here http://t.co/rjBIr2VB via @FortuneMagazine $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"11:58","usr":"ADVFNplc","txt":"$GOOG - Apple Distributes Invite for October 23 Event http://t.co/E5X41oyP","lbl":"Neutral"}
+,{"time":"12:01","usr":"wallstCS","txt":"Microsoft Makes Final Preparations to Enter Tablet War http://t.co/2MhplXsb $MSFT $AAPL $BKS $AMZN $GOOG $SPY $QQQ $DIA","lbl":"Negative"}
 ,{"time":"12:30","usr":"Squirkler","txt":"RT @theroamingRome: @CNBC is the $VRNG vs $GOOG trial going to get any coverage on CNBC?","lbl":"Negative"}
+,{"time":"13:00","usr":"Angelbhalo","txt":"RT @SAI: Did Marissa Mayer Just Make A Horrible Mistake? Several Ex-Googlers Think So $GOOG $YHOO by @nichcarlson http://t.co/ngrquev3","lbl":"Neutral"}
+,{"time":"13:00","usr":"choffman1978","txt":"$SIRI - added to $BAC #1 List w/ $4 and $5.50 price targets. #cnbc,#msnbc,#nyse,#wsj,#stocks,#money,#markets,$p,$gs,$aapl,$c,$goog,wfc,$gm,","lbl":"Neutral"}
+,{"time":"13:01","usr":"HFTAlert","txt":"@erinsnow pink line is raw accumulator, cyan is smoothed..see http://t.co/E8BSREVz for details..tutorial and examples $aapl $goog $spy","lbl":"Neutral"}
 ,{"time":"13:38","usr":"tlmontana","txt":"$GOOG I am going to watch price action on earnings day... but preliminary (given idiosyncratic and market view) going to say SHORT... UGH","lbl":"Negative"}
+,{"time":"14:01","usr":"HFTAlert","txt":"not seeing high quote rates on $VXX yet...need that before they trigger. $aapl $goog $spy","lbl":"Neutral"}
+,{"time":"14:30","usr":"SeekingAlpha","txt":"A Nuanced Case Against Nuance http://t.co/nDj27BTT $GOOG $NUAN","lbl":"Neutral"}
 ,{"time":"15:00","usr":"StockMarket411","txt":"Yahoo CEO raids Google to hire top lieutenant $goog http://t.co/ItGNzkS9 goog, google, google stock, news","lbl":"Negative"}
+,{"time":"15:36","usr":"howardlindzon","txt":"Congrats @sendhub (a potfolio investment) on the groups launch and now I can say I invested with a BUSH (Jeb) http://t.co/xoAXHbmm $goog","lbl":"Neutral"}
 ,{"time":"15:37","usr":"jamesmdowns","txt":"Time to get out of $GOOG: Desktop search declines for first time ever, and mobile ads don\u0027t pay nearly as well: http://t.co/5XUkPhXN","lbl":"Negative"}
 ,{"time":"15:37","usr":"howardlindzon","txt":"$GOOG has disappointed analysts so many times that now every analyst I read says sell into earnings ... hmmm (not me)","lbl":"Positive"}
+,{"time":"16:22","usr":"aerLabs","txt":"RT @SAI: Did Marissa Mayer Just Make A Horrible Mistake? Several Ex-Googlers Think So $GOOG $YHOO by @nichcarlson http://t.co/ngrquev3","lbl":"Neutral"}
 ,{"time":"16:22","usr":"tlmontana","txt":"RT @MOFinancial: RT @howardlindzon: $GOOG has disappointed analysts so many times that now every analyst I read says sell into earnings ... hmmm (not me)","lbl":"Positive"}
+,{"time":"16:23","usr":"MappleSoftWW","txt":"Great look at the next gen iPad http://t.co/4PXuKL1Y #ipad #surface #samsung $MSFT $AAPL $GOOG $AMZN $ORCL $CSCO $HPQ $DELL","lbl":"Neutral"}
 ,{"time":"17:28","usr":"josealivivas","txt":"Agree RT @SeekingAlpha: Expectations Are High For Google http://t.co/SsiAgnR4 $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:33","usr":"DrunkStepmother","txt":"re $VRNG @bigojetairliner fucking patent expires in less than 4 years pal. Royalties? $GOOG is going after the \u0022troll\u0022 angle","lbl":"Neutral"}
 ,{"time":"18:54","usr":"3Bronco","txt":"RT @shibley: $VRNG: paid $3.2M, asking for $493M + future royalties $GOOG: paid $0, made $67B","lbl":"Positive"}
+,{"time":"18:55","usr":"antoniobarbudo","txt":"RT @SAI: These Amazing World Maps Show Where Apple\u0027s Beating Google, Amazon, And Microsoft $AAPL $GOOG $AMZN $MSFT http://t.co/iVa6jZyT","lbl":"Negative"}
+,{"time":"18:56","usr":"launchticker","txt":"$aapl leads $msft, $goog & $amzn in % of global pop w/ access to movie, TV, & music content ecosystem http://t.co/vOfPAGY2","lbl":"Neutral"}
+,{"time":"20:56","usr":"tradethembi","txt":"$GOOG this chart shows my comments about my RED dot retrace fractal, worked evertime here http://t.co/rGK8xrZP","lbl":"Neutral"}
 ,{"time":"21:01","usr":"rrshasss","txt":"$GOOG open interest. 800 call still trumps all other strikes. http://t.co/Jt7cI98N","lbl":"Positive"}
+,{"time":"21:08","usr":"Carina_Lermon","txt":"Rdio posts Android beta app with new sidebar UI, unified playback ... #Android $GOOG http://t.co/Ge49ZY5b","lbl":"Neutral"}
+,{"time":"21:10","usr":"Tangletrade","txt":"@ValSunrise $INTC and $GOOG, but clearly he is a Galaxy 3 or Blackberry guy since $AAPL got a snub.","lbl":"Neutral"}
+,{"time":"21:51","usr":"jackthelarson","txt":"RT @businessinsider: Google CEO Breaks His Silence To Warn Against Government Regulation $GOOG by @owenthomas http://t.co/ut8YHHSv","lbl":"Neutral"}
+,{"time":"21:51","usr":"TimCohn","txt":"\u201C@SAI: Google CEO Breaks His Silence To Warn Against Government Regulation $GOOG by @owenthomas http://t.co/hyYGQvS6\u201D","lbl":"Neutral"}
+,{"time":"21:51","usr":"BenCBanks","txt":"Good night everyone. Tomorrow will be interesting... $spy $aapl $goog $amzn","lbl":"Neutral"}
+,{"time":"21:55","usr":"USwwwStocks","txt":"$GOOG News: Google Inc (GOOG) TV Details Leaked http://t.co/K5S4LvGo #GOOG #Details #Google","lbl":"Neutral"}
 ]

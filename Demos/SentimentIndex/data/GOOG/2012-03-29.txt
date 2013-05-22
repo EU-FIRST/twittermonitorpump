@@ -1,6 +1,11 @@
 [
 {"time":"1:27","usr":"joepak123","txt":"@byoogle congrats! Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG http://t.co/6QZqlO7S","lbl":"Negative"}
 ,{"time":"2:01","usr":"mickdelaney","txt":"RT @SAI: Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG by @Julie188 http://t.co/nWlu7pIR","lbl":"Negative"}
+,{"time":"7:16","usr":"investlite","txt":"For today - http://t.co/5SCVwkeV $AMZN $FCX $EBAY $NVDA $BAC $WFC $GOOG $PEET $NOV $CRM $GS $BIIB $ADBE","lbl":"Neutral"}
+,{"time":"8:49","usr":"RedDogT3Live","txt":"$amzn super strong- $goog went green- $aapl night try and fill gap","lbl":"Positive"}
+,{"time":"8:50","usr":"BioTechReports","txt":"Sprint($S) breaking out on news the company stock is on short-term buy list at Deutche Bank! #cnbc,#msncb,#nyse,#wsj,$gs,$goog,$wmt,$aapl","lbl":"Neutral"}
+,{"time":"9:28","usr":"ValaAfshar","txt":"U.S. nears smartphone majority, it\u0027s a two horse race between Android and Apple\u0027s iOS http://t.co/k7BaTlaO $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:30","usr":"thefinancepress","txt":"$GOOG Mobile Ad Service Millennial Media Opens Up 92% After IPO: Mobile Ad Service Millennial Media Opens Up 92... http://t.co/SZsfJS5z","lbl":"Neutral"}
 ,{"time":"10:12","usr":"Anthonyjohnrll","txt":"RT @SAI: The Time On Your Android Phone Is Incorrect, Says Super Genius $GOOG $AAPL by @_dtl http://t.co/Bkg7k0e4","lbl":"Negative"}
 ,{"time":"10:40","usr":"MockTrade","txt":"Covered 1/4 position $GOOG Puts for +3; 1st profit scale","lbl":"Negative"}
 ,{"time":"10:41","usr":"berkutchitweet","txt":"Stopped out of my $GOOG add. Support 1: Gap bottom 647. Support 2: 10d at 642.","lbl":"Negative"}
@@ -8,6 +13,8 @@
 ,{"time":"10:42","usr":"businessinsider","txt":"This Chart Should Have Google Worried $GOOG by @mattlynley http://t.co/sHEBYYSY","lbl":"Negative"}
 ,{"time":"11:03","usr":"C2Next","txt":"An unexpected Search challenger? RT @SAI: This Chart Should Have Google Worried $GOOG http://t.co/Iava8Fb0","lbl":"Negative"}
 ,{"time":"11:04","usr":"gregpoirier","txt":"RT @SAI: This Chart Should Have Google Worried $GOOG by @mattlynley http://t.co/g6D8FYDi #in #duckduckgo","lbl":"Negative"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/173, $BBY/90, $SPY/70, $GOOG/55, $LPTH/44, $BAC/32, $AMZN/31, $IWM/23. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:42","usr":"ZisblU4U","txt":"http://t.co/3NkUM8yS << look .$goog .","lbl":"Neutral"}
 ,{"time":"11:42","usr":"lombardo_ltd","txt":"I Remain short on $aapl and $goog","lbl":"Negative"}
 ,{"time":"12:55","usr":"DominicWeeks","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/qYgsxG3a","lbl":"Negative"}
 ,{"time":"12:56","usr":"PurviRajani","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/TPKh2htk","lbl":"Negative"}
@@ -15,11 +22,25 @@
 ,{"time":"12:56","usr":"ManijehM","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/qYgsxG3a","lbl":"Negative"}
 ,{"time":"13:34","usr":"babala15","txt":"$GOOG - Google Stock Analysis - CCI is bullish and rising - http://t.co/Au1aUNKW","lbl":"Positive"}
 ,{"time":"13:34","usr":"Royal_Arse","txt":"RT @TrendRida: No wonder $GOOG doesn\u0027t report mobile revenue. $550M over 4 yrs. is embarrassing... $AAPL","lbl":"Negative"}
+,{"time":"14:17","usr":"ericosiu","txt":"RT @ahess247: Google to Oracle: If You Win This Patent Suit, We\u0027ll Cut You In On Android http://t.co/fIRVrZpo $GOOG $ORCL","lbl":"Neutral"}
+,{"time":"14:19","usr":"s_m_i","txt":"If you\u0027re not following EM bloggers/reporters, you\u0027re missing on more than you know $GOOG http://t.co/vXryat5x http://t.co/lYh4pXaS #riptilt","lbl":"Neutral"}
 ,{"time":"15:15","usr":"Tradified","txt":"Insider Trading: $GOOG Schmidt Eric E Director SOLD 35 shares at $645.50 \u2611","lbl":"Negative"}
 ,{"time":"15:15","usr":"CodesandCiphers","txt":"@Centrifugal Leaders seemed mixed to me - $AAPL, $JPM, $V, $GOOG didn\u0027t come back strong.","lbl":"Negative"}
+,{"time":"15:22","usr":"MDAndrsn","txt":"@DavidMCanfield Android 15 second error is as important as the iPad being 10 degrees warmer. Just keeping $GOOG and $APPL in the news.","lbl":"Neutral"}
+,{"time":"16:41","usr":"Michal_Mac","txt":"RT @srisri55: $RIMM management shake-up.. is that what hurting $AAPL, after hours? $GOOG planning its own online store for tablets","lbl":"Neutral"}
 ,{"time":"16:41","usr":"xpecially","txt":"RT @SAI: The iPhone Is Gobbling Up Market Share -- Android Has Gone Flat $GOOG $AAPL by @jyarow http://t.co/qYgsxG3a","lbl":"Negative"}
+,{"time":"16:43","usr":"michaelbabad","txt":"Today\u0027s top business news http://t.co/NnXg7q2I $RIMM $RIM.CA $AAPL $GOOG $IBM $TD $TD.CA #cdnecon #cdnpoli #blackberry","lbl":"Neutral"}
+,{"time":"16:46","usr":"paolho","txt":"#StockWatchPaolo $MOH http://t.co/jCOY1ykd; $GOOG http://t.co/JufbdhtL; $KORS http://t.co/sLVkTpJD","lbl":"Neutral"}
+,{"time":"17:09","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Google Maps for Android\u0022: http://t.co/ScCCmLbX @Reuters_Biz @WSJ @CNBC @googleresearch @GoogleRetail @google","lbl":"Neutral"}
 ,{"time":"17:10","usr":"RubaMushasha","txt":"RT @businessinsider: WATCH OUT GOOGLE: Facebook Has An Ex-Googler And Two Dozen Engineers Working On Search $GOOG by @nichcarlson http://t.co/0O5PMhws","lbl":"Negative"}
+,{"time":"17:12","usr":"samokocha","txt":"RT @nichcarlson: Facebook Hires A Googler To Go After Search $GOOG http://t.co/6Du8gWFP","lbl":"Neutral"}
+,{"time":"17:13","usr":"lluccipha","txt":"SAI: Facebook Hires A Googler To Go After Search $GOOG by @nichcarlson http://t.co/mOFvcldI","lbl":"Neutral"}
+,{"time":"17:53","usr":"JCarterology","txt":"RT @SAI: REPORT: Google Generated $543 Million In Revenue From Android In The Last Four Years $GOOG by @jyarow http://t.co/QZV9Cjwd","lbl":"Neutral"}
 ,{"time":"17:54","usr":"SteelRevel","txt":"RT @businessinsider: WATCH OUT GOOGLE: Facebook Has An Ex-Googler And Two Dozen Engineers Working On Search $GOOG by @nichcarlson http://t.co/0O5PMhws","lbl":"Negative"}
 ,{"time":"17:55","usr":"julianmb","txt":"RT @SAI: WATCH OUT GOOGLE: Facebook Has An Ex-Googler And Two Dozen Engineers Working On Search $GOOG by @nichcarlson http://t.co/Y99KRPS3","lbl":"Negative"}
+,{"time":"19:52","usr":"satya","txt":"RT @SAI: Tim Cook Might Abandon Steve Jobs\u0027 \u0027Thermonuclear War\u0027 On Android And Settle Patent Lawsuits $AAPL $GOOG by @jyarow http://t.co/i67we2WR","lbl":"Neutral"}
+,{"time":"19:55","usr":"ValaAfshar","txt":"Wall Street Journal: Google will soon manufacture its own tablets http://t.co/71MvLzVN @WSJ $GOOG $AAPL #CIO","lbl":"Neutral"}
+,{"time":"20:05","usr":"dschorrnyc","txt":"Google Heightens Rivalry With iPad. Plans to sell co-branded tablets directly to consumers. http://t.co/ts0sLXM7 $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"23:43","usr":"USwwwStocks","txt":"$GOOG News: [$$] Rising Risk: Foreign Firms Sense Hostility in India http://t.co/5xdCqIDK #internet #daytrading #stocks","lbl":"Negative"}
+,{"time":"23:55","usr":"jdsboston","txt":"@mthiele10 wait I thought they bought $MOT to make bright $GOOG-colored RAZR clamshells?! LOL #gottaloveandroid http://t.co/Ap3hWm7n","lbl":"Neutral"}
 ]

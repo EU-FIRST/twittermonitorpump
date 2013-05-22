@@ -1,13 +1,32 @@
 [
 {"time":"6:38","usr":"traderosfajans","txt":"Ok, let\u0027s put it this way: $GOOG is gonna fall below 672.2 in a day, i tell ya!","lbl":"Negative"}
+,{"time":"6:46","usr":"SPEQL8R","txt":"$XLE if does not b.o >73 but fails at 72.6 ish will go lower 71 first tgt. $GOOG if does not make new high 700 &breaks 674-673 = lower","lbl":"Neutral"}
+,{"time":"8:50","usr":"JimNichols10","txt":"RT @LandyWingard: $MSFT Just Scored A Nice Win Against $GOOG Apps; Wonder how City of LA is doing these days? #sour http://t.co/CJEQ4MMq","lbl":"Neutral"}
+,{"time":"8:50","usr":"Oppa_Holic","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"10:17","usr":"Huff_B","txt":"@A_F You don\u0027t think $GOOG might settle for more than that if they feel there\u0027s even a slight chance they lose? $VRNG","lbl":"Neutral"}
+,{"time":"10:19","usr":"choffman1978","txt":"$GMCR SURGING on $500m stock buyback! #cnbc,#msnbc,#money,#stocks,$aapl,$goog,$wmt,$tst,$tgt,$jpm,$wfc,$kcg,$cvh,$s,$v,$mc,$sbux,$cbou","lbl":"Neutral"}
+,{"time":"11:00","usr":"Fitzstock2004","txt":"FYI, My PnL is red today (with $aapl and $goog runners stopped). .. I AM HUMAN","lbl":"Neutral"}
 ,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG +2%, $AAPL -6%, $F -16%, $INTC -63%, $DELL -57%, $MSFT -27% http://t.co/uBJyhJcD","lbl":"Positive"}
+,{"time":"12:05","usr":"wallstCS","txt":"Survey: New iPhone Sales Will be EXPLOSIVE! http://t.co/y2F5nItu $AAPL $GOOG $RIMM $FB $AMZN #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"12:07","usr":"nishit_kotak","txt":"RT @SAI: Google+ Will Finally Let You Come Up With Your Own Profile URL $GOOG by @_dtl http://t.co/pIOOEoAF","lbl":"Neutral"}
+,{"time":"12:14","usr":"monesti","txt":"$GOOG showing some nice RS today","lbl":"Neutral"}
+,{"time":"12:15","usr":"TechSpace28thST","txt":"RT @sai: Google+ Will Finally Let You Come Up With Your Own Profile URL $GOOG by @_dtl http://t.co/1R3NCQtE","lbl":"Neutral"}
 ,{"time":"13:16","usr":"market0000","txt":"$GOOG on hod bids","lbl":"Positive"}
 ,{"time":"13:16","usr":"Fitzstock2004","txt":"$GOOG wants higher!!!!","lbl":"Positive"}
 ,{"time":"13:16","usr":"sandeepbhavsar","txt":"got a $goog put, had an open ord did not think it might get filled.","lbl":"Negative"}
 ,{"time":"13:16","usr":"jeverett72","txt":"@RedDogT3Live daytrade short $GOOG if it fails at $678 short term resist. @todd_harrison says mkts that are weak all day usually close weak","lbl":"Negative"}
+,{"time":"13:33","usr":"TenBaggers","txt":"Will Google crush Kayak? http://t.co/EZISwxvm $GOOG $KYAK","lbl":"Neutral"}
+,{"time":"13:50","usr":"SeekingAlpha","txt":"Is Yandex A Better Investment Than Google Or Baidu? http://t.co/vnYiTlbq $BIDU $GOOG $YHOO $YNDX","lbl":"Neutral"}
+,{"time":"13:50","usr":"jpu19","txt":"RT @SeekingAlpha: Is Yandex A Better Investment Than Google Or Baidu? http://t.co/vnYiTlbq $BIDU $GOOG $YHOO $YNDX","lbl":"Neutral"}
+,{"time":"14:21","usr":"Fitzstock2004","txt":"btw,,,,the 2 ppl i blocked ,for their non-constructive criticism , made ZERO $ on $goog today...sorry....said bring your A-game, or go home","lbl":"Neutral"}
 ,{"time":"14:22","usr":"CFDs_Trader","txt":"RT @SJosephBurns: $GOOG is toying with 52 week highs on this down day for the market.","lbl":"Positive"}
+,{"time":"15:28","usr":"AlphaVN","txt":"Nokia Connects People, Disconnectst its Past $NOK $GOOG $AAPL $MSFT #windowsphone http://t.co/DG4oejwl","lbl":"Neutral"}
+,{"time":"15:29","usr":"TradeAgainst","txt":"@Tangletrade i\u0027m curious if they could start a bidding war for $ebay ($goog $msft $aapl might all be interested)","lbl":"Neutral"}
 ,{"time":"15:31","usr":"TradetheLeader1","txt":"Still long $AAPL $GOOG $CRUS $PCYC","lbl":"Positive"}
+,{"time":"17:20","usr":"SeekingAlpha","txt":"Understanding Why I Was So Wrong About Apple http://t.co/NFc8aPi7 $GOOG $HPQ $INTC $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"17:30","usr":"SeekingAlpha","txt":"A Kindle Fire Design Win Could Turbocharge Nvidia Shares http://t.co/6YoVXSh4 $AMZN $GOOG $TXN $AAPL $NVDA","lbl":"Neutral"}
 ,{"time":"19:13","usr":"MonkeyBonds","txt":"RT @CNNMoney: Google is reinventing the Internet. (Again) http://t.co/zKygfl4H $GOOG","lbl":"Positive"}
 ,{"time":"19:15","usr":"gemsofbeauty","txt":"RT @cnnmoney: Google is reinventing the Internet. (Again) http://t.co/68OH3sKS $GOOG","lbl":"Positive"}
+,{"time":"19:19","usr":"fuyituke","txt":"RT @CNNMoney: Google is reinventing the Internet. (Again) http://t.co/zKygfl4H $GOOG","lbl":"Neutral"}
 ,{"time":"19:20","usr":"Quest3300","txt":"Schwag RT @CNNMoney: Google is reinventing the Internet. (Again) http://t.co/hY76QHjY $GOOG","lbl":"Positive"}
 ]

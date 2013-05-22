@@ -1,6 +1,18 @@
 [
-{"time":"12:05","usr":"Valuentum","txt":"$AMZN - Amazon continues to lose money, the market doesn\u0027t care http://t.co/2LmJi5Bp","lbl":"Negative"}
+{"time":"5:57","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $AAPL $AMZN $MSFT $GOOG $NOK http://t.co/F1i1UUCw","lbl":"Neutral"}
+,{"time":"5:57","usr":"SAI","txt":"10 Things You Need To Know This Morning $AAPL $AMZN $MSFT $GOOG $NOK by @nichcarlson http://t.co/Kgo87DwH","lbl":"Neutral"}
+,{"time":"5:58","usr":"Hermann_Oficial","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $MSFT $GOOG $NOK by @nichcarlson http://t.co/Kgo87DwH","lbl":"Neutral"}
+,{"time":"12:01","usr":"TrueMarketAI","txt":". @RobertWeinstein asks: Apple and Amazon -- WTF happened on Friday? TheStreet http://t.co/nXnUBK5c $AAPL $AMZN $AAPL #Stocks","lbl":"Neutral"}
+,{"time":"12:05","usr":"Valuentum","txt":"$AMZN - Amazon continues to lose money, the market doesn\u0027t care http://t.co/2LmJi5Bp","lbl":"Negative"}
 ,{"time":"15:38","usr":"newsagg","txt":"$AMZN cloud resistance on a big move up with volume, prior day 200 ema support but the NVI looks dreadful http://t.co/0KF2qNB8","lbl":"Positive"}
+,{"time":"15:41","usr":"RobertWeinstein","txt":"Thank You! RT @bullishheelz: @jimcramer @RobertWeinstein excellent article http://t.co/aXd1NaKi $AAPL $AMZN $WMT $GOOG","lbl":"Neutral"}
+,{"time":"18:54","usr":"BenCBanks","txt":"Anyone looking for a coupe good set ups and how to play $amzn go to http://t.co/NLqCyuac and click on th set ups tab. $spy $qqq $aapl $f","lbl":"Neutral"}
+,{"time":"18:55","usr":"businessinsider","txt":"Almost Every Website On The Planet Could Be In Legal Jeopardy Now, Thanks To Zappos $AMZN by @owenthomas http://t.co/Pm2Dr8fH","lbl":"Neutral"}
+,{"time":"18:55","usr":"SAI","txt":"Almost Every Website On The Planet Could Be In Legal Jeopardy Now, Thanks To Zappos $AMZN by @owenthomas http://t.co/sMCCTLn1","lbl":"Neutral"}
+,{"time":"19:44","usr":"THypeSR","txt":"RT @SAI: Almost Every Website On The Planet Could Be In Legal Jeopardy Now, Thanks To Zappos $AMZN by @owenthomas http://t.co/sMCCTLn1","lbl":"Neutral"}
+,{"time":"19:46","usr":"z8angela","txt":"My new post here: How to Trade Tomorrow - My Thoughts http://t.co/7Qsno0bW $SPY $AAPL $AMZN #TradingYourPlan","lbl":"Neutral"}
 ,{"time":"21:23","usr":"rahadianagung","txt":"wah \u201C@businessinsider: Amazon\u0027s Ad Slamming The iPad Mini Has A Blatant Lie In It $AAPL $AMZN by @jyarow http://t.co/vbem1Q3A\u201D","lbl":"Negative"}
+,{"time":"21:29","usr":"BenCBanks","txt":"I uploaded alot of chats on @StockTwits this evening. Plus what was already on the blog. Enjoy. http://t.co/VJevJQtY $spy $aapl $goog $amzn","lbl":"Neutral"}
 ,{"time":"23:19","usr":"LeonvdM_biz","txt":"\u201C@SAI: Amazon\u0027s Ad Slamming The iPad Mini Has A Blatant Lie In It $AAPL $AMZN by @jyarow http://t.co/CnQ0E2O1\u201D @Bonnie_Tubbs","lbl":"Negative"}
+,{"time":"23:30","usr":"MarketCurrents","txt":"The iPad Mini (AAPL) is the best small-size tablet available, even if it\u0027s far from the c... http://t.co/ZwtfbiDr $AAPL $AMZN $GOOG","lbl":"Neutral"}
 ]

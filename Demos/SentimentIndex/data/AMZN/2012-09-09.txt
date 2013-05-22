@@ -1,1 +1,7 @@
-[]
+[
+{"time":"7:47","usr":"justmegregory","txt":"RT @RWW: What The New Kindle Means To Amazon by @markhachman http://t.co/KWCVuY5G $AMZN","lbl":"Neutral"}
+,{"time":"10:56","usr":"ToddSullivan","txt":"The Amazon Doctrine http://t.co/T3W6RDpt $AMZN","lbl":"Neutral"}
+,{"time":"11:07","usr":"thebillynicn17","txt":"http://t.co/xbbWWQtz gained 3.09% $AMZN (via @TrendingApp) http://t.co/7b9DEYR5","lbl":"Neutral"}
+,{"time":"15:12","usr":"JustinHsu","txt":"Challenging Week Ahead for the Eurozone http://t.co/6VGpOZxj #ECB #Draghi #Merkel $SPY $GOOG $AAPL $AMZN $TVIX","lbl":"Neutral"}
+,{"time":"23:53","usr":"deadmau5mania","txt":"@GEQSense @gdaytoyou lol sure.. I will be neutral during the announcement. Be cautious though \u2026 $AMZN didn\u0027t really sell off..","lbl":"Neutral"}
+]

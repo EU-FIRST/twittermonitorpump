@@ -1,3 +1,7 @@
 [
-{"time":"13:28","usr":"DeidreZune","txt":"1patent observer says $AMZN may be a target for $AAPL lawsuit. AMZN has weaker patent portfolio, sells large volumes subsidized #NOFREELUNCH","lbl":"Negative"}
+{"time":"9:07","usr":"SidelinedBuddah","txt":"RT @businessinsider: Use These 6 Free Apps To Save Money When You\u0027re Out Shopping $AAPL $GOOG $AMZN by @_dtl http://t.co/igV5EosO","lbl":"Neutral"}
+,{"time":"9:07","usr":"ExtraditionGame","txt":"RT @businessinsider: Use These 6 Free Apps To Save Money When You\u0027re Out Shopping $AAPL $GOOG $AMZN by @_dtl http://t.co/LX5LGiON #News","lbl":"Neutral"}
+,{"time":"9:12","usr":"breizh2008","txt":"RT @SAI: Use These 6 Free Apps To Save Money When You\u0027re Out Shopping $AAPL $GOOG $AMZN by @_dtl http://t.co/zGTyWNCZ","lbl":"Neutral"}
+,{"time":"13:28","usr":"DeidreZune","txt":"1patent observer says $AMZN may be a target for $AAPL lawsuit. AMZN has weaker patent portfolio, sells large volumes subsidized #NOFREELUNCH","lbl":"Negative"}
+,{"time":"23:01","usr":"Sechelt","txt":"RT @businessinsider: Use These 6 Free Apps To Save Money When You\u0027re Out Shopping $AAPL $GOOG $AMZN by @_dtl http://t.co/btNlnGDD","lbl":"Neutral"}
 ]

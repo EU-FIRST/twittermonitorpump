@@ -1,5 +1,21 @@
 [
-{"time":"13:30","usr":"$GOOG","txt":"@AronPinson Will they bite at this valuation? Why not wait a few quarters and buy it on the cheap? $GOOG $RIMM","lbl":"Negative"}
+{"time":"5:46","usr":"$GOOG","txt":"Traders should concern themselves about the market instead of Greece default or PSI. Many dont have expertise here. $SPX $GOOG $EURUSD $GS","lbl":"Neutral"}
+,{"time":"6:30","usr":"sssc","txt":"RT @traderflorida: $CMG $CELG $ISRG $LVS $NFLX $SODA $AAPL $GOOG http://t.co/LIL97VvT POSTED VIDEO","lbl":"Neutral"}
+,{"time":"9:45","usr":"IBDinvestors","txt":"IBD 50 earnings season kicks off with $GOOG, $FAST, $ISRG this week. http://t.co/MsPNfnFz","lbl":"Neutral"}
+,{"time":"9:51","usr":"LiqWave","txt":"Daily Day/Swingtrading Outlook: http://t.co/uHOoCLDq $SPX $SPY $ES_F $TLT $TBT $ZN_F $QQQ $GOOG $AAPL $IWM $TZA $TNA $XLE $DIA $VIX $VXX $GS","lbl":"Neutral"}
+,{"time":"13:30","usr":"$GOOG","txt":"@AronPinson Will they bite at this valuation? Why not wait a few quarters and buy it on the cheap? $GOOG $RIMM","lbl":"Negative"}
+,{"time":"13:33","usr":"$GOOG","txt":"@JohnPurdum , @benzinga is reporting rumors of $GOOG being interested as well.","lbl":"Neutral"}
+,{"time":"14:15","usr":"$GOOG","txt":"RT @SAI: Google Will Change Its Home Page Tomorrow To Protest SOPA $GOOG by @MattRosoff http://t.co/511tAIkr","lbl":"Neutral"}
 ,{"time":"14:18","usr":"wallstCS","txt":"Apple Analyst Conservative, Google Shares Positive, eBay Estimates Strong http://t.co/sqxFA2ix $AAPL $GOOG $JPM $EBAY #mkt #stocks #trading","lbl":"Positive"}
+,{"time":"15:14","usr":"max_options","txt":"Top Ten Financial #Videos trending in the market right now! http://t.co/mTrLP2jx $GOOG $NFLX $DNDN $GRPN $CMG $JPM #EURUSD","lbl":"Neutral"}
+,{"time":"15:14","usr":"RotoJesus","txt":"Big Media Should Crush Netflix, Once And For All http://t.co/ja6uNtKW $NFLX $GOOG $TWX $DIS $NWSA $CMCSA $CCMO.PK","lbl":"Neutral"}
+,{"time":"17:01","usr":"dmackdaddy","txt":"Yahoo! Founder Jerry Yang just resigned from Yahoo! Maybe now they will be able to sell that thing before it disappears! $YHOO $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"17:05","usr":"poisse","txt":"RT @SAI: Google Will Change Its Home Page Tomorrow To Protest SOPA $GOOG by @MattRosoff http://t.co/511tAIkr","lbl":"Neutral"}
+,{"time":"18:46","usr":"jfm03","txt":"RT @SAI: New Google Board Member Gets $1 Million For Joining $GOOG by @MattRosoff http://t.co/zDieLNwx","lbl":"Neutral"}
+,{"time":"18:49","usr":"EquitiesNetwork","txt":"Battle for #MarketShare Rages between #Facebook & #Google: http://t.co/Z24lf46V #SocialMedia $GOOG","lbl":"Neutral"}
+,{"time":"19:00","usr":"$GOOG","txt":"RT @rhbinvest: KA CHING! New Google Board Member Gets $1 Million For Joining | #NASDAQ $GOOG http://t.co/eha8iEsM","lbl":"Neutral"}
+,{"time":"21:14","usr":"BUDDIEE18","txt":"HOW TO CURE YOUR CANCER !!! http://t.co/RqbxNTkk watch this video! $GOOG $AAPL $SODA","lbl":"Neutral"}
 ,{"time":"21:15","usr":"TraderFlorida","txt":"$GOOG http://t.co/r8ORhdRt Holding above this support line - earnings this Thursday","lbl":"Positive"}
+,{"time":"21:16","usr":"ChrisJVersace","txt":"Other than Apple, who doesn\u0027t or won\u0027t soon? \u201C@CNET: Sony may have a phone running Windows Phone 7 http://t.co/0r3rrSdg\u201D $AAPl $GOOG $SNE $$","lbl":"Neutral"}
+,{"time":"23:50","usr":"LouAmbrosio","txt":"Time for a cyclical bull market? Nasdaq only 2% from a 12 year high. Watch market reaction to $AAPL and $GOOG in the future","lbl":"Neutral"}
 ]

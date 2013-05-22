@@ -1,4 +1,10 @@
 [
-{"time":"13:50","usr":"highmtnventures","txt":"RT @jaruppert: Nice play $GOOG - \u201C@hgetson: Google Gives $5M To Build Drones That Hunt Poachers - Forbes: http://t.co/QpQpxDuD\u201D","lbl":"Positive"}
+{"time":"10:44","usr":"Sirish_Paudel","txt":"RT @businessinsider: The First 12 Apps You Should Download For Your New Android Phone $GOOG by @stevekovach http://t.co/Zn2XVpmq","lbl":"Neutral"}
+,{"time":"10:53","usr":"45apl","txt":"RT @businessinsider: The First 12 Apps You Should Download For Your New Android Phone $GOOG by @stevekovach http://t.co/Y2nerfKX #News","lbl":"Neutral"}
+,{"time":"10:55","usr":"howardlindzon","txt":"Questions for $goog enterprise ... Silent killer http://t.co/sQUgeQxf (long)","lbl":"Neutral"}
+,{"time":"13:50","usr":"gajb1977","txt":"RT @SAI: The First 12 Apps You Should Download For Your New Android Phone $GOOG by @stevekovach http://t.co/TjjGQ10V","lbl":"Neutral"}
+,{"time":"13:50","usr":"jaruppert","txt":"Nice play $GOOG - \u201C@hgetson: Google Gives $5M To Build Drones That Hunt Poachers - Forbes: http://t.co/QpQpxDuD\u201D","lbl":"Neutral"}
+,{"time":"13:50","usr":"highmtnventures","txt":"RT @jaruppert: Nice play $GOOG - \u201C@hgetson: Google Gives $5M To Build Drones That Hunt Poachers - Forbes: http://t.co/QpQpxDuD\u201D","lbl":"Positive"}
 ,{"time":"20:39","usr":"nereidadin","txt":"Google silent killer still to come ? http://t.co/SoLyLrEP $goog","lbl":"Positive"}
+,{"time":"20:46","usr":"MikeNice","txt":"RT @StockTwits: Seven Questions for Google Enterprise Chief Amit Singh http://t.co/ijFLmFk4 via All Things D $GOOG","lbl":"Neutral"}
 ]

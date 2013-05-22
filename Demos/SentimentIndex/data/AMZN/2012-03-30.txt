@@ -1,11 +1,23 @@
 [
 {"time":"5:55","usr":"stocktrader89","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/5lemLFHF","lbl":"Positive"}
+,{"time":"5:55","usr":"USwwwStocks","txt":"$AMZN News: Apple, Foxconn set new standard for Chinese workers http://t.co/p2gcFuqz #internet #daytrading #stocks","lbl":"Neutral"}
 ,{"time":"8:03","usr":"dschorrnyc","txt":"Cowen: $AMZN\u0027s free-shipping is not driving up costs. cc: @firstadopter","lbl":"Positive"}
+,{"time":"8:03","usr":"dschorrnyc","txt":"Cowen: 3rd party gross merchandise volume has increased significantly & costs of free shipping has grown in-line with revenues $AMZN","lbl":"Neutral"}
+,{"time":"8:42","usr":"graubart","txt":"Meet the new list; same as the old list: WSJ list of potential $RIMM suitors http://t.co/ICb7dc8m $MSFT $HPQ $DELL $NOK $AMZN #Retread","lbl":"Neutral"}
+,{"time":"8:42","usr":"rayno","txt":"@agwarner @bloombergTV funny cause the stock is going in the opposite direction! $AMZN","lbl":"Neutral"}
+,{"time":"9:29","usr":"InvestorHerald","txt":"$AMZN cute little chart http://t.co/QuMXZt3o #WORDEN","lbl":"Neutral"}
 ,{"time":"9:30","usr":"JaumeTeixi","txt":"RT @SAI Jeff Bezos Is Trying To Recover The Rocket Engines Used On The First Moon Flight $AMZN by @MattRosoff http://t.co/UDiBXzF1","lbl":"Positive"}
 ,{"time":"10:28","usr":"khandelwal_yash","txt":"$amzn resistance at 204","lbl":"Negative"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:47am: 203.51 -1.10 (-0.54%).","lbl":"Neutral"}
+,{"time":"11:03","usr":"Lowtown21","txt":"RT @barronstechblog: AMZN: RBC Sees \u2018Prime\u2019 Bolstering Growth - Tech Trader Daily - Barron\u0027s $AMZN $EBAY $WMT $COST http://t.co/Sjp4BwmJ","lbl":"Neutral"}
+,{"time":"12:01","usr":"iStockAnalyst","txt":"Costco Still Looks Reasonably Priced Despite Advance $AMZN $BIG $DG $DLTR $FDO $KR $KSS $SWY $WMT: One of the th... http://t.co/0aih3eD1","lbl":"Neutral"}
+,{"time":"12:02","usr":"USwwwStocks","txt":"$AMZN News: Split Decision for Northwest Housing Markets http://t.co/4PyvuYnq #internet #daytrading #stocks","lbl":"Neutral"}
 ,{"time":"12:47","usr":"ManiOhli","txt":"Option Millionaires: c-redd: It appears they are trying to pin $AMZN http://t.co/YU8GcOLA","lbl":"Negative"}
+,{"time":"12:49","usr":"newsagg","txt":"Ichimoku lesson 7 $AMZN example http://t.co/rikfTLx7","lbl":"Neutral"}
 ,{"time":"13:55","usr":"toddstrade","txt":"looks like $AMZN wants to puke","lbl":"Negative"}
 ,{"time":"13:56","usr":"coryjwatson","txt":"gonna try some $AMZN puts as well, 205\u0027s 6.85","lbl":"Negative"}
 ,{"time":"14:51","usr":"tonythetigerp","txt":"long $AMZN","lbl":"Positive"}
 ,{"time":"16:48","usr":"EquitiesNetwork","txt":"#BestBuy: trouble for brick-and-mortar #retail as companies like #Amazon #eBay cut into their sales: http://t.co/G31lQ7Sy $BBY $AMZN $BKS","lbl":"Positive"}
+,{"time":"16:50","usr":"ryanpmccauley","txt":"April fools yet, please... RT @TMFJMo: Is Netflix Bringing Back Qwikster? $NFLX $AAPL $AMZN | Wall St. Cheat Sheet http://t.co/6NV4cceq","lbl":"Neutral"}
+,{"time":"20:47","usr":"watchingstocks8","txt":"$AMZN - Amazon Stock Analysis - volume down over 5% - http://t.co/8mnIxl5e","lbl":"Neutral"}
 ]

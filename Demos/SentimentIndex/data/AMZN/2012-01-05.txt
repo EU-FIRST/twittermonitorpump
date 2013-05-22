@@ -1,6 +1,14 @@
 [
 {"time":"0:33","usr":"4toptrader","txt":"$AMZN - Amazon Stock Analysis - RSI is bearish and falling - http://t.co/VAuH0F3d","lbl":"Negative"}
 ,{"time":"6:44","usr":"sandboxmark","txt":"RT @wallstCS: Kindle Fire Takes a Bite of Apple Tablet Sales http://t.co/lbolEwS8 $AAPL $AMZN #stocks #mkt","lbl":"Positive"}
+,{"time":"6:50","usr":"ScottAdams_Edit","txt":"Which apply to RIM? 7 habits of spectacularly unsuccessful executives - The Globe and Mail http://t.co/YCHvOxef $RIM.CA $RIMM $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"9:29","usr":"LiqWave","txt":"Daily Day/Swingtrading Market Outlook: http://t.co/P36XisAA $SPY $TLT $TBT $ES_F $SPX $FESX_F $DIA IWM $TZA $GOOG $AAPL $AMZN $BGZ $VIX $VXX","lbl":"Neutral"}
+,{"time":"10:49","usr":"wallstCS","txt":"Best Buy Looking Like a Good Buy http://t.co/hz16mDm0 $BBY $HGG $GME $AAPL $TGT $WMT $AMZN $EBAY #stocks #mkt","lbl":"Neutral"}
+,{"time":"13:01","usr":"Rheetta","txt":"RT @ericjackson New Post: Crowd Sourcing the Top 2012 Twitter Stock Picks - Forbes http://t.co/obfo2EEX $SBUX $INTC $YHOO $BCS $BIDU $AMZN","lbl":"Neutral"}
 ,{"time":"13:50","usr":"simitrade","txt":"$AMZN is the most bought stock on Simitrade with 80% of trades being Long http://t.co/q5hYwK9Z","lbl":"Positive"}
 ,{"time":"13:53","usr":"gtotoy","txt":"$AMZN http://t.co/GGDENht9 Held the 100sma on the weekly. Has not touched it since 2009","lbl":"Positive"}
+,{"time":"13:54","usr":"aztecs99","txt":"RT @gtotoy: $AMZN http://t.co/GGDENht9 Held the 100sma on the weekly. Has not touched it since 2009","lbl":"Neutral"}
+,{"time":"14:31","usr":"AMZN_stock","txt":"$AMZN real time quote, 2:31PM EST: 177.58 +0.07 (+0.04%).","lbl":"Neutral"}
+,{"time":"16:03","usr":"SA_GOOG","txt":"An Ingenious Way To Profit From JPMorgan\u0027s Earnings Prior To Their Release http://t.co/k9jFMTWJ $GOOG $AAPL $AMZN $NFLX $FFIV","lbl":"Neutral"}
+,{"time":"16:06","usr":"LiqWave","txt":"Into the Close Day/Swingtrade Update: http://t.co/Th8q7e4y $SPY $TLT $TBT $ES_F $SPX $FESX_F $DIA IWM $TZA $GOOG $AAPL $AMZN $BGZ $VIX $VXX","lbl":"Neutral"}
 ]

@@ -1,9 +1,21 @@
 [
 {"time":"6:30","usr":"JohnPurdum","txt":"Bloomberg just mentioned @rupertmurdoch and his unfounded claims against $GOOG getting paid to advertise pirated content.","lbl":"Positive"}
 ,{"time":"6:32","usr":"dslevy","txt":"Wrong -> RT @TheNextWeb: $GOOG is no longer \u0022The Internet\u0022 but it\u0027s still going to beat Facebook and Twitter http://t.co/ojmCe8Z9 #in","lbl":"Positive"}
+,{"time":"9:08","usr":"dataexplorers","txt":"RT @AmbikaGrewal: Stocks reporting #earnings this week $MSFT $IBM $GOOG $INTC $EBAY $FAST $GE #dataexplorers","lbl":"Neutral"}
 ,{"time":"11:27","usr":"Royal_Arse","txt":"Google Weekly 3yr seems ST topish, consolidation around/below $600 will see LT buyers. $GOOG http://t.co/CN8nQ4Ez","lbl":"Positive"}
+,{"time":"11:27","usr":"Enterasys","txt":"RT @ValaAfshar: 91% of business professionals use their iPads for work first - IDG. http://t.co/NjcfPrbi $AAPL $MSFT $GOOG #IT #CIO #CoIT","lbl":"Neutral"}
 ,{"time":"11:36","usr":"hertcapital","txt":"$GOOG http://t.co/k60a7bGf I have my doubts about the sustainability of the Google advance.","lbl":"Negative"}
+,{"time":"14:22","usr":"OptionsTrader82","txt":"RT @businessinsider: More Than 1,000 Man-Years Have Gone Into Developing Google Search $GOOG by @_dtl http://t.co/BI0FkU6F","lbl":"Neutral"}
+,{"time":"14:23","usr":"OptionsTrader82","txt":"RT @TraderFlorida: Will be holding over weekend $CMG $AMZN $AAPL $GOOG $PNRA $LVS $BIDU $SPY $AZO $MON to name a few, some have for weeks now","lbl":"Positive"}
 ,{"time":"14:23","usr":"OptionsTrader82","txt":"RT @TraderFlorida: $GOOG call me nuts - bought a few long with a $4 max stop $620","lbl":"Positive"}
+,{"time":"14:29","usr":"benny_the_dogs","txt":"iPhones for Psychos http://t.co/I3dj0cXh #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"18:25","usr":"wallstCS","txt":"Google, Inc. Fourth Quarter Earnings Sneak Peek http://t.co/HomQlymp $SPY $GOOG $MSFT $YHOO $BIDU $AAPL $AOL $AMZN $ADBE $DMD $IACI $ANSW","lbl":"Neutral"}
+,{"time":"18:25","usr":"gurufocus","txt":"Carl Icahn Increases WebMD Stake 9.6% as Shares Fall 26%: $WBMD, $GOOG, $YHOO http://t.co/2OQgreJu","lbl":"Neutral"}
+,{"time":"18:30","usr":"InvestorsHQ","txt":"http://t.co/A0saQktE NEW Message Board + Daytraders Chatroom ! $AAPL $BIDU $XOM $GLD $BAC $JPM $MS $GMCR $GOOG $NFLX $CLF $MOS $WYNN $LVS","lbl":"Neutral"}
+,{"time":"20:00","usr":"RossManFX","txt":"Cheers RT @StockSage1 New Post: \u0022Sage Weekly Letter\u0022 http://t.co/t9WzacOY $FDX $GOOG $HD $INTC $LEN $SPY $SPX $XLF $XLV","lbl":"Neutral"}
+,{"time":"20:01","usr":"rishiraj_c","txt":"RT @CNNMoney: Polaroid goes digital with new Android camera http://t.co/2ek4ypCh $GOOG $EK","lbl":"Neutral"}
 ,{"time":"22:43","usr":"BUDDIEE18","txt":"RT New blog post: Here s what I m looking forward to in tech this year: http://t.co/fP16qC6r $AAPL $GOOG $MSFT $F $TM http://t.co/QCaSUdgG","lbl":"Positive"}
 ,{"time":"22:50","usr":"BradBennett","txt":"Google merges search and google+ into #socialmedia juggernaut http://t.co/MvazjPSc $GOOG #CMO #CIO via @ValaAfshar #x","lbl":"Negative"}
+,{"time":"22:50","usr":"stockhaven","txt":"SH @ the bell 1/17/12: Tell us something we don\u0027t know http://t.co/zUJh3rIu via @stockhaven #futures #markets $SPX $SPY $QQQ $GOOG $C","lbl":"Neutral"}
+,{"time":"22:54","usr":"$GOOG","txt":"$GOOG Wikipedia to shut for 24 hours to stop anti-piracy act: Wikipedia to shut for 24 hours to stop anti-pirac... http://t.co/BmhqBork","lbl":"Neutral"}
 ]

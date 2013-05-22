@@ -1,17 +1,50 @@
 [
-{"time":"9:05","usr":"TraderSanJose","txt":"Finally people are relizing $GOOG is cheap. Not much overhead resistance, will pause around 653 most likely (holding).","lbl":"Positive"}
+{"time":"0:14","usr":"rhbinvest","txt":"MEANWHILE, This Guy Spotted Wearing Google\u0027s Secret Internet Glasses On The Train Like It\u0027s No Big Deal | #NASDAQ $GOOG...","lbl":"Neutral"}
+,{"time":"0:47","usr":"StockWallStreet","txt":"RT @iamwallstreet: Is there a way to change Safari from using Bing as top search bar? If so this is official day I make the switch to Chrome! $AAPL $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"0:48","usr":"iamwallstreet","txt":"Is there a way to change Safari from using Bing as top search bar? If not this is official day I make the switch to Chrome $AAPL $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"0:48","usr":"StockWallStreet","txt":"RT @iamwallstreet: Is there a way to change Safari from using Bing as top search bar? If not this is official day I make the switch to Chrome $AAPL $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"6:41","usr":"9rafaelfernando","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"9:05","usr":"TraderSanJose","txt":"Finally people are relizing $GOOG is cheap. Not much overhead resistance, will pause around 653 most likely (holding).","lbl":"Positive"}
+,{"time":"9:07","usr":"DeidreZune","txt":"$GOOG is positively chirpy these days. Thank you $FB for making us RE-VALUE $GOOG. $MMI integration issues but blue skies till nxt ER call","lbl":"Neutral"}
 ,{"time":"9:07","usr":"celiabennett","txt":"$GOOG gave nice opportunity to get back long this morning after going flat Friday. #BeastMode","lbl":"Positive"}
+,{"time":"9:24","usr":"BanzaiTrader","txt":"I am positioned for a drop in $SPY, $GOOG, $PCLN, and $AMZN before August #OPEX","lbl":"Negative"}
+,{"time":"9:27","usr":"ruoweiwu","txt":"the way $goog surges is saying $fb is dead","lbl":"Neutral"}
+,{"time":"10:11","usr":"venkat_1958","txt":"Vringo Wins In Patent Settlement ($VRNG, $GOOG, $AOL, $TGT, $GCI) http://t.co/jFaDQZ3B","lbl":"Neutral"}
+,{"time":"10:11","usr":"JFDI","txt":"60pt run since clearing its 50d $GOOG http://t.co/BYeD8xxU","lbl":"Neutral"}
+,{"time":"10:15","usr":"Jamtrades","txt":"Commented on StockTwits: The spreads are utterly disgusting to say the least. add $PCLN and $GOOG to that list as well! http://t.co/ZW4cnXHk","lbl":"Neutral"}
+,{"time":"11:08","usr":"choffman1978","txt":"$GMCR headed back to 52w high on $500m stock buyback?! #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,#coffee,#tea,$gs,$goog,$cbou,$aapl","lbl":"Neutral"}
+,{"time":"11:09","usr":"choffman1978","txt":"$GMCR headed back to 52w high on $500m stock buyback? #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,#coffee,#tea,$gs,$goog,$cbou,$jva","lbl":"Neutral"}
+,{"time":"11:12","usr":"launchticker","txt":"StatCounter: $goog Chrome has 33.8% of global market share; IE: 32%; Firefox: 23.7%; Safari: 7.1% http://t.co/yvJww6ab http://t.co/O7mgt40z","lbl":"Neutral"}
 ,{"time":"12:03","usr":"sciencetrader","txt":"Schmidt still selling $GOOG, guess he doesn\u0027t care about the charts","lbl":"Negative"}
+,{"time":"12:05","usr":"iTraderz","txt":"ton of nice breakouts today $WYNN $SOHU $AAPL $LNKD $BIDU $GOOG $KORS and several on the block. $SPY also moving. Could this start a trend?","lbl":"Neutral"}
+,{"time":"12:06","usr":"twoh","txt":"RT @SAI: Microsoft Picks ANOTHER Fight With Google Over Control Of The Web $GOOG $MSFT by @Julie188 http://t.co/FQgrActU","lbl":"Neutral"}
+,{"time":"12:06","usr":"oscarlozano15","txt":"RT @SAI: Samsung Will Pay You To Upgrade Your Phone, But It\u0027s A Bad Deal $GOOG by @_dtl http://t.co/Sw25tFhI","lbl":"Neutral"}
 ,{"time":"12:58","usr":"racernic","txt":"$goog maybe selling Motorola cable unit as many have expected. is it long in the tooth here at 646? short-term i think yes. LT am bullish","lbl":"Positive"}
+,{"time":"12:58","usr":"choffman1978","txt":"$BPAX SURGING up 12% - SQUEEze!! #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,#coffee,#tea,$gs,$goog,$cbou,$jva,$PFE,$JNJ,$PTIE,$VVUS","lbl":"Neutral"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"Microsoft, The Cheap And Innovative iPad Killer http://t.co/2F09QqUu $AAPL $DELL $FB $GOOG $GRPN $INTC $LNKD $RIMM $ZNGA $CSCO","lbl":"Neutral"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"Microsoft, The Boring Returns Killer http://t.co/zhv6G2H7 $AAPL $AMZN $GOOG $INTC $MSFT","lbl":"Neutral"}
+,{"time":"13:43","usr":"Irgids","txt":"\u0022@businessinsider: BAM: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/6RBRmaNy\u0022 stupid move by aapl.","lbl":"Neutral"}
+,{"time":"13:43","usr":"Sullybean1","txt":"@Opinterest $AAPL says YouTube won\u0027t be on next mobile software. $GOOG","lbl":"Neutral"}
+,{"time":"13:44","usr":"mikeblair","txt":"Not impressed w the $GOOG trading bots reaction time to the $AAPL news. Looks like a 15+ min delay.","lbl":"Neutral"}
 ,{"time":"13:44","usr":"biggge","txt":"RT @businessinsider: BAM: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/KvjAKaVk","lbl":"Negative"}
+,{"time":"13:52","usr":"Melianthe","txt":"RT @AmerBanker: How Disruptive Is New Google Wallet for Card Issuers, Merchants? @seansposito starts the discussion at @BankThink http://t.co/s0ykDzll $GOOG","lbl":"Neutral"}
 ,{"time":"13:52","usr":"Street_Insider","txt":"Apple $AAPL To Kick YouTube Off iOS $GOOG http://t.co/yBlLrmLY","lbl":"Negative"}
+,{"time":"13:53","usr":"Catwoman2011","txt":"Dear Google: \u0022Buh-Bye!\u0022 ~ Tim Cook. Steve Jobs is watching & loving this. =^.^= $GOOG $AAPL http://t.co/SoTJz6BV","lbl":"Neutral"}
 ,{"time":"13:53","usr":"TimABRussell","txt":"RT @ericjackson: S--- just got real \u201C@hblodget: Annoying RT @SAI: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/sAPis2vE\u201D","lbl":"Negative"}
 ,{"time":"14:07","usr":"iamife","txt":"RT @businessinsider: BAM: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/KvjAKaVk","lbl":"Negative"}
+,{"time":"14:08","usr":"jamesamatthews","txt":"Interesting that iOS6 will pull Apple\u0027s native Google Maps and Youtube integration. $GOOG developing their own alternatives. #playnicelykids","lbl":"Neutral"}
 ,{"time":"14:08","usr":"nitinagrawal08","txt":"RT @marketfolly: $AAPL $GOOG separation continues. Wrong decision? RT @BloombergTV: BREAKING: Apple says Google\u0027s YouTube won\u0027t be on next mobile software","lbl":"Negative"}
 ,{"time":"14:32","usr":"MattSoleyn","txt":"#Google has a #liberal bias... it is sending RNC Chairman Priebus\u0027 e-mails to Spam, but allowing Pres. #Obama\u0027s through. $GOOG","lbl":"Negative"}
 ,{"time":"14:32","usr":"PolleysPicks","txt":"No YouTube app on new OS update for iPhone and iPad. Hope they know what they are doing. Really trying to get rid of $GOOG. $AAPL","lbl":"Negative"}
+,{"time":"14:32","usr":"flaviotsf","txt":"Out $AAPL and $GOOG going mostly cash now.","lbl":"Neutral"}
+,{"time":"14:33","usr":"Jayne","txt":"Mean Girls remake starring $GOOG as Gretchen Weiners RT @waltmossberg: Why Is Apple\u2019s YouTube App Disappearing? @pkafka http://t.co/DulthyMh","lbl":"Neutral"}
+,{"time":"15:07","usr":"o_finance","txt":"RT @SAI: Microsoft Picks ANOTHER Fight With Google Over Control Of The Web $GOOG $MSFT by @Julie188 http://t.co/uLoKeLx8","lbl":"Neutral"}
+,{"time":"15:09","usr":"nereidadin","txt":"What @howardlindzon had to say on @bloombergTV today. http://t.co/Ol74ibI4 $AMZN $GOOG $AAPL $STWIT","lbl":"Neutral"}
+,{"time":"15:09","usr":"MarcoEnrique","txt":"RT @businessinsider: Let\u0027s Not Forget The Worst Part About Apple Eliminating Google From The iPhone $GOOG $AAPL by @stevekovach http://t.co/rbHee0lU","lbl":"Neutral"}
 ,{"time":"15:13","usr":"tkuz4u","txt":"Fuck, it\u0027s all out war now! Apple dumps You Tube from iOS6! $AAPL $GOOG without Google Maps & You Tube it much weaker iPhone!","lbl":"Negative"}
 ,{"time":"16:03","usr":"rhaniacker","txt":"RT @MarkSimoneNY: Apple Drops YouTube App From New Mobile Software http://t.co/mWSYKzTO $AAPL $GOOG","lbl":"Negative"}
+,{"time":"17:21","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/0j8p3Ial","lbl":"Neutral"}
+,{"time":"18:43","usr":"thefinancepress","txt":"$GOOG Google-Backed Asteroid Mining Venture Adds Billionaire Investors: Google-Backed Asteroid Mining Venture A... http://t.co/8NfpAj3X","lbl":"Neutral"}
 ,{"time":"18:49","usr":"owik303","txt":"RT @HunterOfTrade: Wow IPhone 5 won\u0027t get $GOOG youtube or $GOOG maps. $AAPL imo this will hurt sales, when will $AAPL realize they aren\u0027t the better company.?","lbl":"Negative"}
 ,{"time":"22:04","usr":"mouna1807","txt":"RT @ValaAfshar: Apple to Pull YouTube App From Devices | @WSJ http://t.co/UDlkcGho $AAPL $GOOG","lbl":"Negative"}
 ]

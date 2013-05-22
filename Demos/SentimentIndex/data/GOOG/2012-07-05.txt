@@ -1,16 +1,44 @@
 [
-{"time":"8:44","usr":"StkConfidential","txt":"$GOOG also moving well so far this morning. $$","lbl":"Positive"}
+{"time":"7:30","usr":"choffman1978","txt":"Futures SOAR on job numbrs!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"7:30","usr":"choffman1978","txt":"$KERX surges on buyout rumors!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"7:30","usr":"choffman1978","txt":"$KERX surges on buyout rumors!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"7:31","usr":"pennystockguys","txt":"$GOOG - Amazon Buys Mapping Startup - Analyst Blog http://t.co/Q62DIX2r","lbl":"Neutral"}
+,{"time":"8:44","usr":"choffman1978","txt":"$SIRI MOVING UP HUGE - NEW HOD!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"8:44","usr":"StkConfidential","txt":"$GOOG also moving well so far this morning. $$","lbl":"Positive"}
+,{"time":"8:44","usr":"choffman1978","txt":"$SIRI some saying its a double!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"8:45","usr":"choffman1978","txt":"$YMI runnin on huge volume - news?!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"9:23","usr":"choffman1978","txt":"$GMCR RUNNING!!!!!!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"9:24","usr":"wallstCS","txt":"EARLY BUZZERS: Target and Macy\u0027s Dip on Sales, Apple Gearing Up for iPad-Mini http://t.co/UOtOg7xH $TGT $M $AAPL $GOOG $AMZN $BKE","lbl":"Neutral"}
+,{"time":"9:24","usr":"choffman1978","txt":"$NFLX up 10%!!!!!!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"9:26","usr":"choffman1978","txt":"$SIRI 70m volume today?!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"9:45","usr":"choffman1978","txt":"$GMCR GREEN!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"9:45","usr":"Qwovadis","txt":"Commented on: \u0022Google Enters The Tablet War By Attacking ... Amazon\u0022 http://t.co/86KF6ccN $GOOG $AAPL $AMZN $BKS $INTC $MSFT $S $T","lbl":"Neutral"}
+,{"time":"9:46","usr":"choffman1978","txt":"Markets rally on Fed QE3 likelyhood#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"10:15","usr":"campione","txt":"Remember When Google Was A Search Engine? http://t.co/OjMrVen7 v @techcrunch $GOOG","lbl":"Neutral"}
+,{"time":"10:15","usr":"OLFAPAJALA","txt":"RT @SAI: Google is Teaching Its Managers Jedi Mind Tricks To Wrangle Engineers $GOOG by @mattlynley http://t.co/yWTaiUtV","lbl":"Neutral"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $ROST +36%, $LTD +34%, $AAPL -6%, $JPM -33%, $GOOG -20%, $KSS -18% http://t.co/uBJyhJcD","lbl":"Neutral"}
 ,{"time":"11:02","usr":"IAmEricPete","txt":"RT @businessinsider: With The New Version Of Android, Google Has All But Caught Up To The iPhone $GOOG by @stevekovach http://t.co/D1TZ9iVL","lbl":"Negative"}
 ,{"time":"11:02","usr":"ksantoso","txt":"RT @businessinsider With The New Version Of Android, Google Has All But Caught Up To The iPhone $GOOG by @stevekovach http://t.co/KpklJqVU","lbl":"Negative"}
+,{"time":"11:47","usr":"RealDividendLab","txt":"RT @mcilderman: Will #Apple Sell 3D Printers http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google $DDD $SSYS #Mac #stocks #investing","lbl":"Neutral"}
+,{"time":"11:47","usr":"RealDividendLab","txt":"RT @mcilderman: Is #Apple Gonna Buy into #3DPrinting ? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google $DDD #Mac #stocks #investing","lbl":"Neutral"}
+,{"time":"11:47","usr":"Hephaestus7","txt":"RT @barronstechblog: AMZN: New Kindle Fire to Defray GOOG, iPad \u2018Mini\u2019 Competition, Says Topeka - Tech Trader Daily- $AMZN $AAPL $GOOG $MSFT http://t.co/KcGJROv4","lbl":"Neutral"}
 ,{"time":"11:48","usr":"DJFranceschini","txt":"RT @SAI: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/8OuTxV7P","lbl":"Positive"}
 ,{"time":"12:28","usr":"theRealMzYaya","txt":"@SmoveAL \u0022@SAI_Tools: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/Zmc3LxB5\u0022","lbl":"Positive"}
 ,{"time":"12:28","usr":"takingstock614","txt":"$GOOG seems to be finding some resistance up here near 200D","lbl":"Positive"}
 ,{"time":"12:33","usr":"srisri55","txt":"$GOOG up 10bucks.","lbl":"Positive"}
 ,{"time":"12:37","usr":"mmarleydotcom","txt":"RT @SAI: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/8OuTxV7P","lbl":"Positive"}
+,{"time":"13:25","usr":"choffman1978","txt":"$GMCR rallying!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"13:26","usr":"a99kitten","txt":"$GOOG Evil for Venice? You mean evil in that way of bringing jobs & maybe displacing some weirdos & kooks? @janewells segment on @cnbc","lbl":"Neutral"}
+,{"time":"13:32","usr":"jpu19","txt":"$SBUX 1,48% $BIDU 2,3% $GOOG 1,64% $RENN 1,53%","lbl":"Neutral"}
 ,{"time":"14:43","usr":"stockguy22","txt":"@David_Mansfield nice David.. i\u0027ve got $559.58/$574.43 & 578.10 entries .. up 3.85%-6.60% but would sell $GOOG into $618-$630\u0027s zone","lbl":"Negative"}
 ,{"time":"14:44","usr":"stockguy22","txt":"just posted an updated $GOOG chart for members.. we had bought June 7th/11th & 15th ..really happy with the timing there @David_Mansfield","lbl":"Positive"}
 ,{"time":"14:45","usr":"Insidified","txt":"\u27A1 Insider Trading: $GOOG Brin Sergey Director SOLD 4164 shares \u2611","lbl":"Negative"}
+,{"time":"15:52","usr":"wallstCS","txt":"Here\u0027s How YouTube Could Soon Be Spotting YOU in Videos http://t.co/WWjaxkiv $GOOG $FB #mkt #stocks #trading","lbl":"Neutral"}
 ,{"time":"15:52","usr":"tucj7","txt":"RT @SAI: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/8OuTxV7P","lbl":"Positive"}
+,{"time":"15:54","usr":"wallstCS","txt":"RIM to CUT Carrier Fees and 3 Hot Stocks Driving the Market http://t.co/v7Qm9wNc $AAPL $GOOG $RIMM $MSFT $GE #mkt #stocks","lbl":"Neutral"}
 ,{"time":"16:01","usr":"Wonby","txt":"RT @SAI: Video Proof That Google Now Is Light Years Better Than Apple\u0027s Siri $GOOG $AAPL by @stevekovach http://t.co/8OuTxV7P","lbl":"Positive"}
 ,{"time":"19:18","usr":"SAI_Tools","txt":"Judge Who Tossed Out Apple/Motorola Lawsuit Says Tech Companies Are \u0027Animals\u0027 $AAPL $GOOG by @Julie188 http://t.co/aUzI1CpQ","lbl":"Negative"}
+,{"time":"21:30","usr":"BigTicks","txt":"$GOOG News: Microsoft stumbles into crucial financial year http://t.co/SqfOYESH #GOOG #Crucial #Financial","lbl":"Neutral"}
+,{"time":"21:30","usr":"AngieMiles","txt":"RT @terranovajoe: $AMZN coming out w it\u0027s own smartphone to compete w $GOOG & $AAPL","lbl":"Negative"}
+,{"time":"23:00","usr":"howardlindzon","txt":"RT @biggercapital: Interesting post by @fredwilson Wondering abt implication for 10 inch form factorMy New Nexus 7\u0022 - http://t.co/JxFH6mzz $aapl $amzn $goog","lbl":"Neutral"}
 ]

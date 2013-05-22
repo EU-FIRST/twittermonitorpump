@@ -3,7 +3,16 @@
 ,{"time":"9:04","usr":"newsagg","txt":"$AMZN made a new lower price into the gap. Inch by inch","lbl":"Negative"}
 ,{"time":"9:21","usr":"askchrishetrade","txt":"$AMZN short 211.20 avg. Stop 211.55 Lets get this baby working : + ) $$","lbl":"Negative"}
 ,{"time":"9:59","usr":"gregnb","txt":"hope you guys were short $AMZN with me from last week .. patience paying off here big trade","lbl":"Negative"}
+,{"time":"10:00","usr":"The_Naked_Zebra","txt":"@gregnb $AMZN Is going to fill that gap at 196","lbl":"Neutral"}
+,{"time":"10:23","usr":"marketmavenz","txt":"put together @LinkedIn @taleo_corp @indeed and you have an integrated labor market platform $LNKD $TLEO | $fb $amzn $g http://t.co/kt1kCyMo","lbl":"Neutral"}
+,{"time":"11:02","usr":"newsagg","txt":"Listening to Dob Dylan Slow Train Coming and watching $AMZN","lbl":"Neutral"}
 ,{"time":"11:48","usr":"andrewnyquist","txt":"Starter in $AMZN at 208.67","lbl":"Positive"}
+,{"time":"11:50","usr":"Lowtown21","txt":"So that insider who bought 200k of $NFLX at 74 is starting to feel some pain. The $AMZN Xbox app is big trouble for $NFLX","lbl":"Neutral"}
 ,{"time":"12:41","usr":"RealDividendLab","txt":"\u201C@DividendMaster: and suddenly the world wakes up to fact 100+ PE $AMZN is $75 too high today ?\u201D","lbl":"Negative"}
+,{"time":"12:43","usr":"stacycurtin","txt":"RT @JeffMacke: The only book in $AMZN Top-5 unrelated to \u002250 Shades of Grey\u0022. Or is it...? http://t.co/6paODpXh","lbl":"Neutral"}
+,{"time":"13:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:17pm: 210.07 -4.68 (-2.18%).","lbl":"Neutral"}
 ,{"time":"13:33","usr":"firstadopter","txt":"$AMZN customers will be paying 6-9.75% more effective pricing in Texas, California, Pennsylvania in next few months due to state sales taxes","lbl":"Negative"}
+,{"time":"16:56","usr":"AKPalit","txt":"#Amazon has reportedly signed a tax deal to collect sales tax in New Jersey. $AMZN","lbl":"Neutral"}
+,{"time":"21:09","usr":"StockMarketEnds","txt":"Anti Christ Zionist WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Social #Movies #Senior #Shows #Site #Utility #Care","lbl":"Neutral"}
+,{"time":"21:10","usr":"DanisMark","txt":"http://t.co/fVNpmv40 - was $FB a failure, get alerts on $AMZN and $AAPL","lbl":"Neutral"}
 ]

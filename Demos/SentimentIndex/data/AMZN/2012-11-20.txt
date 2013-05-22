@@ -1,8 +1,24 @@
 [
-{"time":"9:56","usr":"BV_Services","txt":"$AMZN Amazon Makes It Simple for Unity Developers to Add In-App Purchasing and Gam.. http://t.co/kpftRDRk","lbl":"Positive"}
+{"time":"3:57","usr":"iChandhan","txt":"RT @freeculture: RT @dbd Tell Amazon: Books and Libraries Shouldn\u0027t Have a Kill Switch http://t.co/amQCIagE #DRM is #DefectiveByDesign $AMZN","lbl":"Neutral"}
+,{"time":"8:17","usr":"hellosamyoo","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AAPL $HTC $YHOO $AMZN $MSFT by @nichcarlson http://t.co/agDSAlhC","lbl":"Neutral"}
+,{"time":"9:56","usr":"BV_Services","txt":"$AMZN Amazon Makes It Simple for Unity Developers to Add In-App Purchasing and Gam.. http://t.co/kpftRDRk","lbl":"Positive"}
+,{"time":"9:57","usr":"LukeRomyn","txt":"Escape into imagination with these four incredible thrillers: http://t.co/R8y7eJpr #Kindle $AMZN","lbl":"Neutral"}
 ,{"time":"10:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:16am: 233.16 +3.45 (+1.50%).","lbl":"Positive"}
 ,{"time":"10:32","usr":"LaMonicaBuzz","txt":"@TheReal_WCP $BBY $ODP (don\u0027t forget $SPLS) definitely hurting due to economy, $AMZN, $WMT, etc. They may survive but going to be tough.","lbl":"Negative"}
+,{"time":"11:08","usr":"netgarden","txt":"RT @Retail_Guru: Until now Best Buy was able to grow sales or margin if not both together. Now both are falling in alarming sign $BBY is falling apart $AMZN","lbl":"Neutral"}
 ,{"time":"11:08","usr":"Tony_BATtista","txt":"@panthersfan1234 Same. I did one of my first Jan spreads LIVE @tastytrade on Friday. Bought a bullish $AMZN call diagonal Dec/Jan up 100$","lbl":"Positive"}
+,{"time":"11:09","usr":"DNev47","txt":"$$ Barnes And Noble Fell Off A Cliff http://t.co/xbG0P0zV $AMZN $SBUX $BKS","lbl":"Neutral"}
+,{"time":"11:10","usr":"LukeRomyn","txt":"Did you know you can get THE DARK PATH on Kindle for #FREE? No? Well hurry up! http://t.co/HtHS8gGi $AMZN","lbl":"Neutral"}
+,{"time":"11:56","usr":"TaintedAlpha","txt":"RT @firstadopter: E ink 2012 y/y sales by month. Largest supplier of e-reader displays for $AMZN : http://t.co/i3Zre1jy","lbl":"Neutral"}
+,{"time":"13:09","usr":"BergenCapital","txt":"If $BBY liquidates where do I go for a $AMZN TV showroom?","lbl":"Neutral"}
+,{"time":"13:10","usr":"CMORTOLANI","txt":"RT @BergenCapital: If $BBY liquidates where do I go for a $AMZN TV showroom?","lbl":"Neutral"}
+,{"time":"14:06","usr":"bajatedeminube","txt":"RT @SAI: Brutal Chart For Microsoft: All The Kids Want iPads, Almost None Want The Surface $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/B9oav3MH","lbl":"Neutral"}
+,{"time":"14:07","usr":"jhuebener","txt":"RT @businessinsider: Brutal Chart For Microsoft: All The Kids Want iPads, Almost None Want The Surface $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/cRIe8S4w","lbl":"Neutral"}
+,{"time":"15:05","usr":"Corkviews","txt":"$AMZN chart intra nice http://t.co/4dYygomG","lbl":"Neutral"}
+,{"time":"16:22","usr":"theoharism","txt":"Samsung beating Apple TV in Kids Want Lists. Just don\u0027t mention the iPads... $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/ZwKOHM0g","lbl":"Neutral"}
 ,{"time":"16:23","usr":"RSDTrading","txt":"EOD: Closed: Covered $OIL $CAT, New: Short $AMZN $SPY $XLI, Long $UUP $TLT","lbl":"Negative"}
 ,{"time":"16:26","usr":"jamescallahan","txt":"$AMZN :)","lbl":"Positive"}
+,{"time":"17:53","usr":"pjpuglia","txt":"RT @SAI: Brutal Chart For Microsoft: All The Kids Want iPads, Almost None Want The Surface $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/B9oav3MH","lbl":"Neutral"}
+,{"time":"20:42","usr":"miguelitoperezc","txt":"RT @cnbcfastmoney: Your First Move for http://t.co/xEvdMfvx $AMZN $HPQ $JCP $JDSU $LXK #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"20:49","usr":"LukeRomyn","txt":"RT @Jenovesia: \u201C@LukeRomyn Escape into imagination with these four incredible thrillers: http://t.co/WhH1gfKI #Kindle $AMZN\u201DThanks!","lbl":"Neutral"}
 ]

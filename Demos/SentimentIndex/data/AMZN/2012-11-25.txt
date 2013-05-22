@@ -1,3 +1,12 @@
 [
-{"time":"16:53","usr":"tyson","txt":"RT @counternotions: Can\u0027t wait to see how Wall Street will punish $AAPL on Monday for this: http://t.co/zUI37aPs and reward $AMZN for this: http://t.co/3RrwODGG","lbl":"Positive"}
+{"time":"10:56","usr":"jamielissette","txt":"At FAO Schwartz...no one actually buying ANYTHING.... just taking photos for $amzn i would imagine","lbl":"Neutral"}
+,{"time":"11:51","usr":"USwwwStocks","txt":"$AMZN News: Stocks to watch Monday: Amazon, eBay http://t.co/ck903462 #Amazon #AMZN #eBay","lbl":"Neutral"}
+,{"time":"13:05","usr":"DeidreZune","txt":"Black Friday retail sales online topped $1 billion for the first time, UP 22% from last yr. http://t.co/AiUAR4Kw $AAPL $AMZN $EBAY","lbl":"Neutral"}
+,{"time":"13:09","usr":"umangjaipuria","txt":"Interesting analysis of $NFLX and film distribution biz: http://t.co/EJi5849W But what if power shifts from Hollywood to $AMZN, $NFLX, etc.?","lbl":"Neutral"}
+,{"time":"16:53","usr":"tyson","txt":"RT @counternotions: Can\u0027t wait to see how Wall Street will punish $AAPL on Monday for this: http://t.co/zUI37aPs and reward $AMZN for this: http://t.co/3RrwODGG","lbl":"Positive"}
+,{"time":"16:55","usr":"stevecole99","txt":"Plenty of meat on this $spread $ebay $amzn Statistical: 3 Trading: 5 Value: 2 http://t.co/QDyJ4hcw","lbl":"Neutral"}
+,{"time":"16:55","usr":"xeoth","txt":"RT @counternotions: Can\u0027t wait to see how Wall Street will punish $AAPL on Monday for this: http://t.co/zUI37aPs and reward $AMZN for this: http://t.co/3RrwODGG","lbl":"Neutral"}
+,{"time":"18:52","usr":"SunriseTrader","txt":"RT @Couzin_Vinny: Cyber Monday - $COMPQ $SPX $TSX $SPY $GOOG $AAPL $AMZN $IBM - video uploaded -> http://t.co/6u8NxlUQ http://t.co/xI2QFf2n","lbl":"Neutral"}
+,{"time":"18:59","usr":"rrshasss","txt":"Open Interest $AMZN http://t.co/Yg3rP9GD","lbl":"Neutral"}
+,{"time":"21:33","usr":"TylerLeleux","txt":"@Reuters | Black Friday sales online top $1 billion for first time. http://t.co/BywEn0zc --->Get in on $AMZN stock while you can #Stocks","lbl":"Neutral"}
 ]

@@ -1,7 +1,12 @@
 [
-{"time":"4:20","usr":"SeekingAlpha","txt":"4 Stocks In Oversold Territory http://t.co/WZsl43TE $AAPL $AMZN $MSFT $NOK $RVBD $YPF $ZNGA","lbl":"Positive"}
+{"time":"4:19","usr":"benny_the_dogs","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/HlwBc63T #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"4:20","usr":"SeekingAlpha","txt":"4 Stocks In Oversold Territory http://t.co/WZsl43TE $AAPL $AMZN $MSFT $NOK $RVBD $YPF $ZNGA","lbl":"Positive"}
+,{"time":"4:25","usr":"leopardtrader","txt":"Weekly precise range levels for 30+ Forex pairs, $CRUDE, $GOLD, $GS, $AAPL, $NFLX, $AMZN, $CAT, $GOOG updated http://t.co/KKcExeWE $EURUSD","lbl":"Neutral"}
 ,{"time":"8:20","usr":"smainfo","txt":"$AMZN Positive investor sentiment Apr 22, 9:10 AM ET, see historical chart at http://t.co/52MX3OJz #sentiment #trading #stocks","lbl":"Positive"}
 ,{"time":"11:05","usr":"letstrade14","txt":"$AMZN - Amazon Stock Analysis - RSI is bearish and falling - http://t.co/HAZW9Tbu","lbl":"Negative"}
+,{"time":"11:08","usr":"agendabursatil","txt":"careful with the actions $AMZN $AAPL $T http://t.co/ozYo0WKK","lbl":"Neutral"}
 ,{"time":"14:57","usr":"JeffMacke","txt":"Dealt with returns at AAPL & $AMZN today. You have to know retail to \u0022get\u0022 how great both cos are at satisfying cust. Phenomenal.","lbl":"Positive"}
+,{"time":"15:15","usr":"tmoreira","txt":"RT http://t.co/dbmvJKKb - learn the stock market will $AMZN keep going up?","lbl":"Neutral"}
 ,{"time":"18:52","usr":"TheSaaSGuy","txt":"How big is the $AMZN cloud? One answer - 1/3 of all Internet users use it every day! #in http://t.co/GFOY3z3h","lbl":"Positive"}
+,{"time":"19:04","usr":"PipCzar","txt":"Sunday Weekly EDGE blog http://t.co/EnCBPq2q $AMZN $ES_F $AUDJPY $DX_F $EURUSD","lbl":"Neutral"}
 ]

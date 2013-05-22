@@ -1,24 +1,40 @@
 [
 {"time":"0:00","usr":"HarryWanger","txt":"Commented on StockTwits: RT@tb712 $AMZN very low expectations this Q ($-0.05 EPS) - Yes very low expectations. Rev will beat but Street...","lbl":"Negative"}
+,{"time":"3:41","usr":"tradingview","txt":"$AMZN chart by Robo: http://t.co/wFwkBKBk Amazon long term view.","lbl":"Neutral"}
 ,{"time":"8:19","usr":"junkieonwallst","txt":"@RussRozay I honestly believe in $AMZN, it\u0027s competing with eBay(outdoing), slowly killing Best Buy, $AAPL will be worth sub $250 soon","lbl":"Positive"}
+,{"time":"8:39","usr":"jpu19","txt":"RT @Benzinga: $AAPL $AMZN $FB $GOOG Will Tech Earnings This Week Fuel Positive Sentiment Shift?: http://t.co/vxM15G28","lbl":"Neutral"}
+,{"time":"8:39","usr":"HarryWanger","txt":"$AMZN Money chasing $AAPL this morn. Could pull $AMZN up with it a bit but looks very weak early.","lbl":"Neutral"}
 ,{"time":"9:06","usr":"LeoKaplin","txt":"@jimcramer: what\u0027s better trade before earnings? $AMZN short or $AAPL long? Both report on 25th.","lbl":"Negative"}
 ,{"time":"9:07","usr":"TraderPlanet","txt":"Tech stocks shaky, can Facebook, Apple, and Amazon deliver what\u0027s needed? $IBM $GOOG $AAPL $AMZN http://t.co/GvMdQpsj","lbl":"Negative"}
+,{"time":"9:07","usr":"wallstCS","txt":"What has UK Publishers Up in Arms Against Amazon? http://t.co/tja97RkQ $AMZN #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"9:41","usr":"traderstewie","txt":"What\u0027s the deal with $AMZN??","lbl":"Neutral"}
 ,{"time":"9:42","usr":"firstadopter","txt":"Hearing $AMZN weak because $AAPL to focus on iBooks tomorrow at the iPad Mini unveil event","lbl":"Negative"}
+,{"time":"10:09","usr":"chartly","txt":"RT @LimitBuyer $AMZN - Thoughts on chart. http://t.co/yc13JLXS","lbl":"Neutral"}
+,{"time":"10:10","usr":"SeekingAlpha","txt":"5 Key Earnings Reports To Watch This Week http://t.co/pIkUvPke $AAPL $AMZN $FB $MMM $NFLX","lbl":"Neutral"}
+,{"time":"10:52","usr":"iBoardEVPBizDev","txt":"RT @barronsonline: Inside Tech Stocks\u0027 Week from Hell: Time to Buy Google at 12% Off http://t.co/iaP6cfSn via @barronsonline $GOOG $INTC $DELL $MSFT $AMZN $AMD","lbl":"Neutral"}
 ,{"time":"11:24","usr":"bluetiger18","txt":"RT @MarketWatch: Small Apple iPad = big problem for Amazon\u0027s Kindle Fire http://t.co/rhDpNBDj $AAPL $AMZN","lbl":"Negative"}
 ,{"time":"11:24","usr":"Cheko_Cruz","txt":"RT @MarketWatch: Small Apple iPad = big problem for Amazon\u0027s Kindle Fire http://t.co/rhDpNBDj $AAPL $AMZN","lbl":"Negative"}
 ,{"time":"11:42","usr":"quirnopablojr","txt":"RT @MarketWatch: Small Apple iPad = big problem for Amazon\u0027s Kindle Fire http://t.co/rhDpNBDj $AAPL $AMZN","lbl":"Negative"}
 ,{"time":"11:42","usr":"WallStNewscast","txt":"$SIBE (1.55 x 1.99) using $AMZN Whispercast in classroom, stock movin up #edtech #edchat","lbl":"Positive"}
 ,{"time":"11:45","usr":"z8angela","txt":"@khanchill $AMZN is bearish as I answered @SuzyQJaco last week. We could see similar price action to its ER in last Oct.","lbl":"Negative"}
 ,{"time":"12:11","usr":"AmayaFred","txt":"RT @MarketWatch: Small Apple iPad = big problem for Amazon\u0027s Kindle Fire http://t.co/rhDpNBDj $AAPL $AMZN","lbl":"Negative"}
+,{"time":"12:30","usr":"TraderPlanet","txt":"Facebook reports Tuesday after the close. Get ready. $IBM $GOOG $AAPL $AMZN http://t.co/BWvw3pC9","lbl":"Neutral"}
+,{"time":"13:47","usr":"launchticker","txt":"$amzn AWS & EC2 experience downtime; numerous sites affected http://t.co/qLU07Nel","lbl":"Neutral"}
 ,{"time":"13:52","usr":"njorogekui","txt":"Reddit, Flipboard, Coursera & others down as Amazon AWS has outage in their US East data center http://t.co/D1brdyfq $AMZN @BaronGreen_Back","lbl":"Negative"}
 ,{"time":"13:53","usr":"qwezinsky","txt":"RT @njorogekui: Reddit, Flipboard, Coursera & others down as Amazon AWS has outage in their US East data center http://t.co/D1brdyfq $AMZN @BaronGreen_Back","lbl":"Negative"}
+,{"time":"13:54","usr":"slimtrades","txt":"$AMZN watch as the internet crumbles under $AMZN cloud services which provides majority of cloud infrastructure: https://t.co/9hAEXaFz","lbl":"Neutral"}
 ,{"time":"14:28","usr":"Jamtrades","txt":"Commented on StockTwits: They are all too high here for my taste. $AAPL $GOOG $NFLX $AMZN. elevated premiums all the... http://t.co/nnTQ56nL","lbl":"Negative"}
 ,{"time":"14:28","usr":"robpas","txt":"east coast of AWS down $AMZN #OneLeggedAmazon ;)","lbl":"Negative"}
+,{"time":"14:29","usr":"ZeroSkewl","txt":"RT @SeekingAlpha 5 Key Earnings Reports To Watch This Week http://t.co/dWtrjAcq $AAPL $AMZN $FB $MMM $NFLX","lbl":"Neutral"}
 ,{"time":"15:05","usr":"tigrs99","txt":"RT @YahooFinance: Small iPad may be big problem for Kindle http://t.co/deR6jMSw $AAPL $AMZN $GOOG","lbl":"Negative"}
 ,{"time":"15:05","usr":"LouisColumbus","txt":"Amazon #AWS Goes Down Again, Takes Reddit With It http://t.co/jlspdgQU $AMZN","lbl":"Negative"}
 ,{"time":"15:07","usr":"BanzaiTrader","txt":"anyone notice battle of e-readers today? $GOOG $BKS $AMZN red $APPL green","lbl":"Negative"}
 ,{"time":"15:26","usr":"jfloreslizana","txt":"\u201C@SAI: Amazon Cloud Goes Down Taking Out Reddit, Airbnb, Netflix, Flipboard $AMZN by @Julie188 http://t.co/Lok5yZSs\u201D| ups once again!","lbl":"Negative"}
 ,{"time":"15:27","usr":"dperjar","txt":"RT @SAI: Amazon Cloud Goes Down Taking Out Reddit, Airbnb, Netflix, Flipboard $AMZN by @Julie188 http://t.co/k15x6LFs","lbl":"Negative"}
+,{"time":"15:28","usr":"Minyanville","txt":"Microsoft Still Has a Lot to Prove $MSFT $AAPL $GOOG $AMZN $ORCL http://t.co/llZ2veYn","lbl":"Neutral"}
 ,{"time":"15:59","usr":"c_mcmanus","txt":"@BenedictEvans $AMZN has no cash. < $5B, and majority due to slow payments to merchants. Horrible working capital. Big issue in \u002713 Q2","lbl":"Negative"}
+,{"time":"16:46","usr":"mozartom","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 10/22/12 {Video}\u0022 http://t.co/77pq3uwa $AAPL $AMZN $EEM $KOL $QQQ $SIL $SLV $SLX $SPY $XLB $XLE #stockaction","lbl":"Neutral"}
+,{"time":"17:48","usr":"TraderPlanet","txt":"Today\u0027s top stories: Get ready for more tech earnings $IBM $GOOG $AAPL $AMZN http://t.co/QFnog5JN","lbl":"Neutral"}
 ,{"time":"20:28","usr":"ForTraders","txt":"#Apple set to unwrap mini-iPad to take on Amazon, GoogleApple set to unwrap mini-iPad to take on Amazon, Google http://t.co/ClzbI9eY $AMZN","lbl":"Negative"}
+,{"time":"20:32","usr":"NextDayTrade","txt":"Tuesday: $AAPL, $MNST, $AMZN, $ROST, $BTU, $CAT, $JOY, $GS, $CTXS, $IBM","lbl":"Neutral"}
 ]

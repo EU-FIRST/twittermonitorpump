@@ -1,3 +1,22 @@
 [
-{"time":"10:19","usr":"Maxmllt","txt":"RT @businessinsider: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG by @hblodget http://t.co/JwON0m85","lbl":"Negative"}
+{"time":"10:19","usr":"minnierosegray","txt":"RT @businessinsider: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG by @hblodget http://t.co/JwON0m85","lbl":"Neutral"}
+,{"time":"10:19","usr":"Maxmllt","txt":"RT @businessinsider: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG by @hblodget http://t.co/JwON0m85","lbl":"Negative"}
+,{"time":"10:20","usr":"asiankida","txt":"RT @hblodget: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG http://t.co/YNzck9cR","lbl":"Neutral"}
+,{"time":"10:52","usr":"itsravendar","txt":"RT @SAI: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG by @hblodget http://t.co/7wJvOu4x","lbl":"Neutral"}
+,{"time":"10:53","usr":"fibstalker","txt":"If you liked my trading plan on $RIMM, you will love the one on $AAPL (using $GOOG past price patterns): https://t.co/R9r0I9A4 $QQQ $SPY","lbl":"Neutral"}
+,{"time":"12:03","usr":"TheEmulator23","txt":"Went to $BBY (Bot nothin) & checked out the $GOOG chromebook. Slick little netbook, but really quite small. Would take getting used to.","lbl":"Neutral"}
+,{"time":"12:04","usr":"HighlyDopeEnt","txt":"RT @SAI: Grand Theft Auto: Vice City Is Coming To Your Mobile Device $AAPL $GOOG by @_dtl http://t.co/ef6VjdK7","lbl":"Neutral"}
+,{"time":"12:04","usr":"Sam_ALsip","txt":"RT @SAI: Grand Theft Auto: Vice City Is Coming To Your Mobile Device $AAPL $GOOG by @_dtl http://t.co/ef6VjdK7","lbl":"Neutral"}
+,{"time":"14:22","usr":"StockTwits","txt":"A Peek at TV\u0027s Future, Via Google Fiber http://t.co/OHLtJNMp via @pkafka $GOOG $VZ $CMCSA","lbl":"Neutral"}
+,{"time":"14:23","usr":"macromale","txt":"RT @StockTwits: A Peek at TV\u0027s Future, Via Google Fiber http://t.co/OHLtJNMp via @pkafka $GOOG $VZ $CMCSA","lbl":"Neutral"}
+,{"time":"14:26","usr":"rohitharsh","txt":"RT @SAI: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG by @hblodget http://t.co/7wJvOu4x","lbl":"Neutral"}
+,{"time":"19:29","usr":"matthewjaymes","txt":"RT @businessinsider: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/T7j2aQrs","lbl":"Neutral"}
+,{"time":"19:30","usr":"edmundoTO","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/0EcFr6ls","lbl":"Neutral"}
+,{"time":"19:30","usr":"ElyBahiana","txt":"RT @businessinsider: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/T7j2aQrs","lbl":"Neutral"}
+,{"time":"20:43","usr":"jarscrew","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/0EcFr6ls","lbl":"Neutral"}
+,{"time":"20:49","usr":"gioisly","txt":"RT @SAI: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG by @hblodget http://t.co/7wJvOu4x","lbl":"Neutral"}
+,{"time":"20:51","usr":"ForevaConstant","txt":"RT @businessinsider: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/T7j2aQrs","lbl":"Neutral"}
+,{"time":"22:58","usr":"KEsdelle","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/Gbdtxhve","lbl":"Neutral"}
+,{"time":"23:03","usr":"IT_elearning","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/0EcFr6ls","lbl":"Neutral"}
+,{"time":"23:04","usr":"patrickpjhong","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/GOv7fnsc","lbl":"Neutral"}
 ]

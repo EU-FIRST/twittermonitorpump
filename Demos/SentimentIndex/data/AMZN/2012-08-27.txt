@@ -1,6 +1,26 @@
 [
-{"time":"8:30","usr":"TradeIdeasQuant","txt":"$AMZN New 52 Week High - Crossed daily highs resistance.","lbl":"Positive"}
+{"time":"6:16","usr":"Diliziology","txt":"That\u0027s the way! \u201C@SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN $GOOG by @nichcarlson http://t.co/Yc4sdZd4\u201D","lbl":"Neutral"}
+,{"time":"6:19","usr":"nickdimitrakiou","txt":"This is one of the many reasons #amazon is going to be $600 $amzn by the end of 2013 http://t.co/zTOp9i0M ... @SachaMohabeer will help","lbl":"Neutral"}
+,{"time":"6:21","usr":"rcastle06","txt":"RT @SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN $GOOG by @nichcarlson http://t.co/HdIrNwmO","lbl":"Neutral"}
+,{"time":"7:10","usr":"benkoe","txt":"RT @SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN $GOOG by @nichcarlson http://t.co/2xCsq6DL","lbl":"Neutral"}
+,{"time":"7:11","usr":"gmartinezgil","txt":"RT @SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN $GOOG by @nichcarlson http://t.co/HdIrNwmO","lbl":"Neutral"}
+,{"time":"8:12","usr":"rafaelcosta","txt":"Community management - RT @SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN by @nichcarlson http://t.co/CCkZhrVg","lbl":"Neutral"}
+,{"time":"8:30","usr":"TradeIdeasQuant","txt":"$AMZN New 52 Week High - Crossed daily highs resistance.","lbl":"Positive"}
+,{"time":"8:45","usr":"wallstCS","txt":"What Does Apple\u0027s VICTORY Over Samsung Mean for the Smartphone Industry? http://t.co/sNbx1xIk $AAPL $GOOG $AMZN $NOK $MSFT #mkt #stocks","lbl":"Neutral"}
+,{"time":"9:40","usr":"SeekingAlpha","txt":"4 Best E-Commerce Investments Now http://t.co/hjt1GDqY $AAPL $AMZN $LNKD $PCLN","lbl":"Neutral"}
+,{"time":"10:45","usr":"given2tweet","txt":"@SpecSitInvestor makes little sense considering $BBY is making billions right now and $AMZN makes nothing. it would def be accretive.","lbl":"Neutral"}
 ,{"time":"11:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:16pm: 243.97 -1.77 (-0.72%).","lbl":"Negative"}
+,{"time":"13:47","usr":"acquirors","txt":"Most likely acquiror of $WWWW. $AMZN? #acquisitions","lbl":"Neutral"}
+,{"time":"14:30","usr":"BigTicks","txt":"$AMZN News: Highs & Lows: Apple, http://t.co/0pEXC5uk, Avis Budget, and Discover http://t.co/xdtMcIQZ #Amazoncom #AMZN #Apple","lbl":"Neutral"}
+,{"time":"14:30","usr":"YW_MF","txt":"@DavidRHurley hope so, shorted some at 246~ || if market gets ugly, I think they get murdered.. $amzn","lbl":"Neutral"}
+,{"time":"14:31","usr":"ECONgeek947","txt":"dont let $NFLX low volume sell off fool you BIG SQUEEZE coming soon from anticipation of Q3 comeback $AMZN $CMCSA $TWX $AAPL $FB $P $Z $FSLR","lbl":"Neutral"}
+,{"time":"15:02","usr":"getsouped","txt":"RT @businessinsider: The Next Big Tech Battle Could Be Apple Versus Amazon $AAPL $AMZN by @owenthomas http://t.co/s6tbBvdx","lbl":"Neutral"}
+,{"time":"15:03","usr":"SheffieldNolan","txt":"RT @businessinsider: The Next Big Tech Battle Could Be Apple Versus Amazon $AAPL $AMZN by @owenthomas http://t.co/s6tbBvdx","lbl":"Neutral"}
 ,{"time":"15:53","usr":"BS_Whistler","txt":"RT @Benzinga: $AAPL $AMZN $NFLX Amazon Crosses Milestone that Apple, Samsung and Netflix Can\u0027t Beat: http://t.co/F0w80A52","lbl":"Positive"}
+,{"time":"15:54","usr":"nt062258","txt":"@SJosephBurns $AMZN $GOOG are big ships, they take time to turn, just doing their things.","lbl":"Neutral"}
+,{"time":"17:24","usr":"rjsanchez01","txt":"RT @ChartLearning: Have the Markets Pulled Back Enough To Continue Higher? http://t.co/s4oHt85x $SPY $SPX $DIA $QQQ $AAPL $NYMO $NYA $AMZN $VXX $ARNA $TIF","lbl":"Neutral"}
 ,{"time":"19:30","usr":"Larry_Post","txt":"\u201C@themotleyfool: Could Amazon be the death of Netflix? http://t.co/nAsuhZ9h $AMZN $NFLX\u201D YES. YES. YES. And Wally World too.","lbl":"Positive"}
+,{"time":"19:30","usr":"KevinTapscott","txt":"Yes!!!!!RT @themotleyfool: Could Amazon be the death of Netflix? http://t.co/kmDVT0Gv $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"19:33","usr":"ChadGalario","txt":"RT @themotleyfool: Could Amazon be the death of Netflix? http://t.co/35UABSPE $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"23:30","usr":"Happy2BAlex","txt":"RT @AllAboutTrends: Be sure to \u0022like\u0022 our fanpage for an opportunity to win an $AMZN Kindle DX + $50 credit for a trading book. http://t.co/1XRp2UWE","lbl":"Neutral"}
 ]

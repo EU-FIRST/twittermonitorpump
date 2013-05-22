@@ -1,13 +1,45 @@
 [
-{"time":"9:48","usr":"Tangletrade","txt":"$GOOG still looking strong here. $ZNGA not as weak as I was looking for","lbl":"Positive"}
+{"time":"5:08","usr":"portfolio_man","txt":"Is GoogleYoutube Cooking The Numbers of Ron Paul Videos http://t.co/lR29LxsY #ronpaul #tcot #tlot #gop2012 #FITN $goog","lbl":"Neutral"}
+,{"time":"5:12","usr":"thefinancepress","txt":"$GOOG Sohu Profit Declines as Acquisition Costs Erode Earnings From Advertising: Sohu Profit Declines as Acquis... http://t.co/RrY0EUgR","lbl":"Neutral"}
+,{"time":"5:13","usr":"suhnylla","txt":"RT @SeekingAlpha: For Investors Who \u0027Like\u0027 Facebook: 3 Buys And 2 Sells http://t.co/5AefpoG0 $AOL $GOOG $LNKD $YHOO $ZNGA","lbl":"Neutral"}
+,{"time":"9:48","usr":"Tangletrade","txt":"$GOOG still looking strong here. $ZNGA not as weak as I was looking for","lbl":"Positive"}
+,{"time":"9:50","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Urged To Wait On Privacy: Google Inc. (NASDAQ:GOOG) Urged To Wait On Privacy eM... http://t.co/fu2Sr1n4","lbl":"Neutral"}
 ,{"time":"10:05","usr":"TMSchoenberger","txt":"For another 988 years until Y3K becomes an issue. \u201C@trish_regan: $GOOG trading above $600 - for how long will internet companies be able...\u0022","lbl":"Positive"}
+,{"time":"10:05","usr":"skayfe","txt":"$GOOG 10 more points till gap fill:)","lbl":"Neutral"}
+,{"time":"10:06","usr":"dcubed4","txt":"@petenajarian $GOOG- Carter worth nailed that one. great trade","lbl":"Neutral"}
+,{"time":"10:07","usr":"thetradingwife","txt":"$GOOG so strong - no position","lbl":"Neutral"}
+,{"time":"10:37","usr":"StevENAndyK","txt":"RT @Jamtrades: $GOOG is unreal","lbl":"Neutral"}
+,{"time":"10:37","usr":"MattRosoff","txt":"RT @SAI: Is Google About To Let Everyone Inside Its Secret X Lab? $GOOG by @_dtl http://t.co/DH4KR0VS","lbl":"Neutral"}
 ,{"time":"10:38","usr":"stockguy22","txt":"$GOOG strongly into the Jan gap now -- $605 -- missed a nice bounce on this one off the 200day sma $560\u0027s ( said bounce would be $605-$615+)","lbl":"Negative"}
+,{"time":"11:27","usr":"rekko31","txt":"Long setups to watch for this week, $GOOG $COG $XLE http://t.co/zVQc5gIg","lbl":"Neutral"}
+,{"time":"11:27","usr":"hrhsar","txt":"RT @DJThistle: Galaxy S III to be 7mm thick, arrive in May (Rumor): Let\u0027s kick the week off with a couple of new Samsung... http://t.co/1x6Kv1uo $GOOG","lbl":"Neutral"}
+,{"time":"11:27","usr":"cwdutton","txt":"RT @SAI: HTC: Apple And Samsung Are Clobbering Us $AAPL $GOOG by @jyarow http://t.co/vCDzUIf5","lbl":"Neutral"}
+,{"time":"11:59","usr":"katetrades","txt":"Some what of a c+h on the $GOOG 5","lbl":"Neutral"}
 ,{"time":"12:35","usr":"stock2dream","txt":"Loving $GOOG this monday. Helping a lot my tech portfolio. Come on $stx and $qcom!!!","lbl":"Positive"}
 ,{"time":"12:36","usr":"Fensterputzer","txt":"RT @SharePlanner: nice bull flag in $GOOG on the 5 min","lbl":"Positive"}
+,{"time":"12:36","usr":"LaMonicaBuzz","txt":"This is NOT a tech bubble. Nasdaq up a lot YTD but P/Es for $AAPL, $GOOG & most big techs are reasonable. Today\u0027s Buzz. http://t.co/RYEimkT2","lbl":"Neutral"}
 ,{"time":"12:59","usr":"terranovajoe","txt":"@RKruegs pause that refreshes, $GOOG has filled much of the post earnings price gap, will use my bullets elsewhere, come back to $GOOG again","lbl":"Positive"}
+,{"time":"12:59","usr":"S_media_Expert","txt":"Is GoogleYoutube Cooking The Numbers of Ron Paul Videos http://t.co/5X452Sjz #ronpaul #tcot #tlot #gop2012 #FITN $goog","lbl":"Neutral"}
+,{"time":"12:59","usr":"lluccipha","txt":"SAI: Google\u0027s X Lab Is Building Real-Life Terminator Glasses $GOOG by @_dtl http://t.co/6InImh5n","lbl":"Neutral"}
+,{"time":"13:00","usr":"VolumeWatchers","txt":"VW-Growth Stocks On Bulls Eye - $ATRO $OYOG $RVBD $PPO $GOOG - See all heavy volume movers @ http://t.co/Pixu8ncp #STOCKMARKET .","lbl":"Neutral"}
+,{"time":"13:21","usr":"RedDogT3Live","txt":"@jimiuorio wake up and smell the $dndn $AAPl $goog and $Nflx","lbl":"Neutral"}
+,{"time":"13:21","usr":"jimiuorio","txt":"RT @RedDogT3Live: @jimiuorio wake up and smell the $dndn $AAPl $goog and $Nflx","lbl":"Neutral"}
+,{"time":"13:21","usr":"businessinsider","txt":"Addicted Google Users Didn\u0027t Stop Searching During The Super Bowl $GOOG by @mattlynley http://t.co/qmT2ZQ7o","lbl":"Neutral"}
+,{"time":"13:21","usr":"SAI","txt":"Addicted Google Users Didn\u0027t Stop Searching During The Super Bowl $GOOG by @mattlynley http://t.co/tHdWBLDw","lbl":"Neutral"}
+,{"time":"15:02","usr":"iStockAnalyst","txt":"Facebook IPO: What Investors Should Be Wary Of? $AAPL $GOOG: Facebook, founded by Mark Zuckerberg, seeks to rais... http://t.co/EE0REeNU","lbl":"Neutral"}
 ,{"time":"15:48","usr":"redstormstocks","txt":"$GOOG is without doubt the MVP in the portfolio today(especially those Feb calls)","lbl":"Positive"}
+,{"time":"15:48","usr":"hypoh","txt":"Wow, $GOOG is back above 600 and $AAPL is at an all-time high. Who needs a savings account?","lbl":"Neutral"}
 ,{"time":"15:48","usr":"idrisslquzaj3","txt":"Dasan firstadopter Siri ($AAPL) is def a long term threat to $GOOG. Watson ($IBM) even more so.cLr","lbl":"Negative"}
 ,{"time":"16:51","usr":"bigbadmac","txt":"subscribe to his blog and see for yourself dude! RT @61point8: Pete Najarian gives $GOOG a boost. Is he ever bearish on anything?","lbl":"Positive"}
 ,{"time":"16:52","usr":"junkieonwallst","txt":"Kudos to those that are and making money off $goog. The power of the gap","lbl":"Positive"}
+,{"time":"16:57","usr":"top_stock_news","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/143t3ZmA #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"17:00","usr":"DannyBoitanni","txt":"Apple And Samsung Are Crushing HTC $AAPL $GOOG | http://t.co/7Ea9RJnF","lbl":"Neutral"}
+,{"time":"18:18","usr":"DeLuCa","txt":"Microsoft Admits It No Longer Rules Your Workplace $MSFT $AAPL $GOOG by @MattRosoff http://t.co/GVByP6rx","lbl":"Neutral"}
+,{"time":"18:18","usr":"thefinancepress","txt":"$GOOG Biz Break: Google gives in to pressure from India, Best Buy sparks Apple TV rumors: Biz Break: Google giv... http://t.co/BSg3zRrN","lbl":"Neutral"}
+,{"time":"18:19","usr":"JWGreen_","txt":"RT @SAI: Microsoft Admits It No Longer Rules Your Workplace $MSFT $AAPL $GOOG by @MattRosoff http://t.co/OlJ6AUBv","lbl":"Neutral"}
+,{"time":"19:12","usr":"stocial","txt":"Daily Trending Social Volume: $AAPL/278, $SPY/222, $NFLX/146, $GOOG/132, $CSTR/115, $SOHU/90, $BPAX/84. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"19:17","usr":"DanielLynchJr","txt":"@KeithMcCullough opinion changed? $GOOG","lbl":"Neutral"}
+,{"time":"19:17","usr":"houstonloves","txt":"RT @DanielLynchJr: Always thought Apple would beat Google to the Augmented Reality headset with a product called iGlasses, guess not $GOOG $AAPL","lbl":"Neutral"}
 ,{"time":"22:40","usr":"BreezeTrading","txt":"$AAPL $GOOG I just now sold all my longs in the private market, raising 200% cash and a couple stocks gapping up tomorrow. $STUDY","lbl":"Negative"}
+,{"time":"22:50","usr":"wallstCS","txt":"Technology Sector Review: Cisco\u0027s Cius Tablet, Apple Handsets On Top http://t.co/yj6lxKFd $AAPL $ADP $CSCO $GOOG $INTC $SOHU $AMD $IBM $S","lbl":"Neutral"}
 ]

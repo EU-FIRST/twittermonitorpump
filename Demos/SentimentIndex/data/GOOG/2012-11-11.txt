@@ -1,7 +1,13 @@
 [
 {"time":"5:58","usr":"tkuz4u","txt":"Yesterday: iPhone, iPad & MacBook. Tomorrow: Nexus 4, Nexus 7 & ChromeBook. $aapl $goog Times are a changing.","lbl":"Positive"}
+,{"time":"6:33","usr":"d_ramsden","txt":"Significant that $GOOG underscores late-stage as it increases fund. They see much & don\u0027t decide in a vacuum http://t.co/3yD0hWm4 $$","lbl":"Neutral"}
 ,{"time":"12:45","usr":"MaliaSarah","txt":"RT @CNNMoney: Google\u0027s own \u0022transparency report\u0022 shows a sharp drop in traffic from China across all of Google\u0027s products. http://t.co/yfxohMJO $GOOG","lbl":"Negative"}
 ,{"time":"12:46","usr":"thefinancepress","txt":"$GOOG Google NASDAQ:GOOG seeing its China traffic fall: Google NASDAQ:GOOG seeing its China traffic fall Live T... http://t.co/GNPtCOax","lbl":"Negative"}
+,{"time":"13:14","usr":"NickInman_","txt":"Great Market Weekend Video: http://t.co/ofWQfLVL $ES_F $SPY $VIX $EURUSD $CLF $CAT $XOM $BA $NOV $MO $VZ $AAPL $CSCO $GOOG","lbl":"Neutral"}
+,{"time":"13:15","usr":"mobi_nomics","txt":"Is the threat of Apple\u2019s demise real? | Social CRM http://t.co/x9xevz9k $APPL $GOOG #bwest","lbl":"Neutral"}
+,{"time":"18:47","usr":"CallaLilly101","txt":"RT @UberFacts: Google actually makes more money from Apple\u2019s iOS than it does from the Android. $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"18:51","usr":"urbanryno","txt":"watching $GOOG at big support 640 (if it gets down there) and $AAPL big support at 520 if it gets down there. I like em both, but waiting.","lbl":"Positive"}
 ,{"time":"19:14","usr":"darshandorsey","txt":"RT @ritholtz: STOP THE PRESSES: Mrs. Big Picture gets a Google Plus account; my Luddite wife doing that suggests $GOOG is a buy ! $$","lbl":"Positive"}
+,{"time":"20:59","usr":"TechInsiderco","txt":"Who\u2019s Vulnerable Among the Internet\u2019s \u2018Fantastic Four\u2019? Techonomy Panelists Say It\u2019s Apple And Fac... http://t.co/GsBsfr89 #Google $GOOG","lbl":"Neutral"}
+,{"time":"21:09","usr":"howardlindzon","txt":"$goog \u201C@karaswisher: Changing Channels: YouTube Starts Renewing Some, but Not All, of Its Programming Deals http://t.co/vb4NK2Nv\u201D","lbl":"Neutral"}
 ]

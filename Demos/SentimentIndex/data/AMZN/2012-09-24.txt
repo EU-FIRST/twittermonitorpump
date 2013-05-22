@@ -1,6 +1,13 @@
 [
 {"time":"1:50","usr":"USwwwStocks","txt":"$AMZN News: Wal-Mart opts to stop selling Amazon\u0027s Kindle http://t.co/qUEEKKQF #AMZN #Amazonamp39s #Kindle","lbl":"Negative"}
+,{"time":"2:49","usr":"qineqt","txt":"2 Stocks To Buy As Mobile Shopping Overtakes Brick And Mortar Only Retailers http://t.co/C3iSJpzt $AMZN $BBY $EBAY $M $TGT","lbl":"Neutral"}
+,{"time":"7:29","usr":"northernlass73","txt":"RT @LukeRomyn: Get TWO action-packed ebooks on your Kindle for FREE! http://t.co/sa95VtWq #kindle $AMZN #giveaway","lbl":"Neutral"}
 ,{"time":"9:44","usr":"danshep55","txt":"$amzn took .20 loss ..","lbl":"Negative"}
+,{"time":"10:50","usr":"SeekingAlpha","txt":"Why Google Is Outpacing Apple: A Strong Cloud Beats A Strong Device http://t.co/QINY5W03 $AAPL $AMZN $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"11:53","usr":"pilliho","txt":"Amazon Devices Out of Walmart Stores - Analyst Blog Radioshack Corp. $RSH)$AAPL$AMZN $BBY$$ BKS$ GOOG RSH $TGT $WMT http://t.co/oZ56c2um","lbl":"Neutral"}
 ,{"time":"14:13","usr":"SPEQL8R","txt":"If $AAPL and $AMZN do not fill morn gaps after gapping down = bearish","lbl":"Negative"}
+,{"time":"14:29","usr":"nancefinance","txt":"Oof. NYT on data centers:\u0022look at all of those white cells in the body, doing nothing\u201D http://t.co/vdCUYi6i via @sarahcuda $FB $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"15:01","usr":"AMZN_stock","txt":"$AMZN stock quote, Sep 24: 254.80 -2.67 (-1.04%).","lbl":"Neutral"}
+,{"time":"17:48","usr":"YahooFinance","txt":"California has started collecting sales tax on http://t.co/LEJwJdOZ purchases by its residents http://t.co/51rtJzw6 $AMZN","lbl":"Neutral"}
 ,{"time":"17:49","usr":"RealCrystalBall","txt":"California has started collecting sales tax on http://t.co/ny2DCLa9 purchases by its residents http://t.co/Cbqfmkiv $AMZN #Stocks","lbl":"Negative"}
 ]

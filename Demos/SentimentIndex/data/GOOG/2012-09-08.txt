@@ -1,5 +1,12 @@
 [
-{"time":"3:46","usr":"MoneyTalksTweet","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+{"time":"3:43","usr":"gialuca","txt":"\u201C@aztecs99: $GOOG buying an antivirus company - virustotal\u201D","lbl":"Neutral"}
+,{"time":"3:46","usr":"MoneyTalksTweet","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"4:08","usr":"F_TechAfrica","txt":"This====> is How To Quit The iPhone And Convert To Android $GOOG $AAPL by @mattlynley http://t.co/mAFXrNqd","lbl":"Neutral"}
 ,{"time":"8:50","usr":"SeekingAlpha","txt":"IBM\u0027s Watson App: Google And Apple Should Be Nervous http://t.co/RjD37CXK $GOOG $IBM","lbl":"Negative"}
+,{"time":"8:52","usr":"tkuz4u","txt":"$aapl look, why Steve Jobs focused on going \u0027thermonuclear\u0027 on $goog /Android ? He realized it will be impossible to compete w/ it.","lbl":"Neutral"}
+,{"time":"10:46","usr":"jami1130","txt":"@ReformedBroker : I\u0027m guessing the demographics vying for $FB shares, were middle age. Missed $goog $aapl . #You can\u0027t hype vision $FB","lbl":"Neutral"}
+,{"time":"16:32","usr":"Mktgeistcom","txt":"RT @StockTwits: How to Read the Bat Harmonic http://t.co/DHzRQA0p via @annemarietrades $GOOG","lbl":"Neutral"}
 ,{"time":"19:28","usr":"ImmersiveLearn","txt":"Google\u0027s stock tops $700 for first time since 2007: http://t.co/mfKPIFlD $GOOG","lbl":"Positive"}
+,{"time":"23:44","usr":"firstadopter","txt":"Processor benchmarks $GOOG Nexus 7 chip absolutely destroys 4460 chip in $AMZN Kindle Fire HD 7\u0022 by 85-192% Article: http://t.co/OJ6iad4I","lbl":"Positive"}
+,{"time":"23:46","usr":"tpavlik","txt":"RT @firstadopter: Processor benchmarks $GOOG Nexus 7 chip absolutely destroys 4460 chip in $AMZN Kindle Fire HD 7\u0022 by 85-192% Article: h ...","lbl":"Positive"}
 ]

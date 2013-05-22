@@ -1,6 +1,15 @@
 [
-{"time":"8:48","usr":"ybfmiami","txt":"$AAPL mini IPad wld kill Kindle & $AMZN, not cannialize IPad sales. $AAPL shd buy $BKS 4 < $1B, turn some stores into Apple stores, end Nook","lbl":"Negative"}
+{"time":"2:12","usr":"joshblings","txt":"RT @investlite: Charts For Tuesday 4/17 - $aapl $adbe $allt $amzn $azo $bbby $beam $crm $de $ebay $gmcr $goog $hero $lnkd http://t.co/hrgqzfyY","lbl":"Neutral"}
+,{"time":"8:48","usr":"ybfmiami","txt":"$AAPL mini IPad wld kill Kindle & $AMZN, not cannialize IPad sales. $AAPL shd buy $BKS 4 < $1B, turn some stores into Apple stores, end Nook","lbl":"Negative"}
 ,{"time":"10:06","usr":"xALiVEx","txt":"$AMZN still grinding nhod ~ sweet","lbl":"Positive"}
+,{"time":"10:39","usr":"mohitspeak","txt":"RT @retail_sails: Does the rise of the \u0027showrooming\u0027 consumer mean bye-bye, Best Buy? http://t.co/hBbjIfjs #retail $BBY $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"12:12","usr":"TheHaugenator","txt":"@vcutrader $YELP and $AMZN","lbl":"Neutral"}
+,{"time":"12:12","usr":"silverjet2","txt":"Dotcom Retailer sector includes $AMZN $NFLX $EBAY $PCLN $PETS up 2.5% for the day; Long $STMP up 2.2% at 28.93","lbl":"Neutral"}
 ,{"time":"14:20","usr":"StockTwits","txt":"Amazon Showrooms Are Everywhere http://t.co/fSCHLiyQ via @Biggercapital $AMZN","lbl":"Positive"}
+,{"time":"15:13","usr":"bookofjoec","txt":"Bold call ($MSFT/$AMZN=deeper pockets=wrong?) RT @VentureBeat: Analyst: Dropbox & Box ... worried about Google Drive http://t.co/QhcRcn7x","lbl":"Neutral"}
+,{"time":"15:15","usr":"WallStBeats","txt":"Currently Holding $MOS $AMZN Options , $DECK $AAPL Long Stock .","lbl":"Neutral"}
+,{"time":"19:14","usr":"BrianSozzi","txt":"RT @Hilary_Louise: Best Buy Clarifies CEO Departure as Conduct Queried http://t.co/xaBAvdMw via @BloombergNews @briansozzi $BBY $AMZN","lbl":"Neutral"}
 ,{"time":"19:18","usr":"RealDividendLab","txt":"RT @seeitmarket: NEW POST | The Technicals Behind Amazon\u2019s Bounce Higher: http://t.co/kugSqI7f by @andrewnyquist $$ $AMZN #stocks","lbl":"Positive"}
+,{"time":"22:08","usr":"Wulf","txt":"The e-Book Battles: Why Some Publishers Are Abandoning $AMZN http://t.co/wkY10GUk bottom?","lbl":"Neutral"}
+,{"time":"22:11","usr":"BizBeatTz","txt":"RT @SeekingAlpha: Apple Will Break New Highs With iPanel http://t.co/MTNaYnGq $AMZN $MSFT $AAPL","lbl":"Neutral"}
 ]

@@ -1,10 +1,16 @@
 [
-{"time":"7:20","usr":"buckandrews","txt":"Stocks moved watch this Bull strategy @crosshairtrader $AMZN JAN-19-13 275/250 COMBINATION (30 DAYS). #deckfolio http://t.co/P4BC2zrH","lbl":"Negative"}
+{"time":"0:41","usr":"RajuMalhotra","txt":"Predicting Indian Market in 2013 - how $GOOG $FB $AMZN will fare http://t.co/1Z9AjJRE","lbl":"Neutral"}
+,{"time":"7:20","usr":"buckandrews","txt":"Stocks moved watch this Bull strategy @crosshairtrader $AMZN JAN-19-13 275/250 COMBINATION (30 DAYS). #deckfolio http://t.co/P4BC2zrH","lbl":"Negative"}
+,{"time":"8:53","usr":"brussbowman","txt":"RT @sspencer_smb: snapshot of trade prep for $AMZN 12/18 http://t.co/FEHrkREL","lbl":"Neutral"}
+,{"time":"8:54","usr":"smart_ong","txt":"RT @Benzinga: Santa\u0027s Sleigh Kicks Into Overdrive: http://t.co/LZQT4aKG $AMZN $GS $MHO $ORCL $RAX $RYL","lbl":"Neutral"}
 ,{"time":"10:40","usr":"asyurei3","txt":"My current positions are $JPM $AMZN $GS $GOOG all short. I got short $GS and $GOOG a bit early they are underwater.","lbl":"Negative"}
+,{"time":"11:26","usr":"SeekingAlpha","txt":"A Gameplan For Apple To Keep Its Competitors In Check http://t.co/RCsY3NMy $AAPL $AMZN $GOOG $GRPN $MSFT $NOK $YELP $INTC","lbl":"Neutral"}
 ,{"time":"11:28","usr":"GCavaligos","txt":"RT @z8angela: Reversal/stalling action on high flyers: $GOOG $AMZN $REGN,. - REGN has flirted with support level 178 for a while. & now broke down.","lbl":"Negative"}
+,{"time":"11:28","usr":"Bklyn_trader","txt":"@MNYCx @smartertrader is awesome to follow. did well with $GS, $AMZN, $AAPL among others $$$. he\u0027s one to watch","lbl":"Neutral"}
 ,{"time":"12:24","usr":"businessinsider","txt":"This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/uNZky8d6","lbl":"Negative"}
 ,{"time":"12:24","usr":"SAI","txt":"This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/6POva4Un","lbl":"Negative"}
 ,{"time":"13:21","usr":"chartly","txt":"\u0022greenlight on break of downtrend...\u0022 \u0022@InderpreetBanga: $AMZN plan for the afternoon http://t.co/LYc1tqwh\u0022","lbl":"Positive"}
 ,{"time":"13:23","usr":"khairais","txt":"RT @businessinsider: This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/uNZky8d6","lbl":"Negative"}
+,{"time":"14:45","usr":"BigTicks","txt":"$AMZN News: http://t.co/0pEXC5uk, Inc. (AMZN): An Underappreciated Growth Machine http://t.co/ruzDE5vB http://t.co/GlGnAeWP","lbl":"Neutral"}
 ,{"time":"19:55","usr":"CoryTV","txt":"Brian Marshall on why $AMZN\u0027s cloud could realy hurt $HPQ, $DELL and their ilk - http://t.co/D3SLm2fI","lbl":"Positive"}
 ]

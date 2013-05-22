@@ -2,19 +2,38 @@
 {"time":"0:05","usr":"MrSteveLee","txt":"@gtotoy is it usually pretty bad (or worse) for $amzn after these misses in the morning?","lbl":"Negative"}
 ,{"time":"0:05","usr":"pdparticle","txt":"@AbbiV No, $AMZN is not a fantastic investment. They are taking a beating from all sides and share price is trading 425x earnings.","lbl":"Negative"}
 ,{"time":"0:08","usr":"bored2tears","txt":"WSJ: Amazon struggling to make money as quickly as it spends it. http://t.co/7D6wX2qT $AMZN AH close: -8.71% at 177.50 #stocks","lbl":"Negative"}
+,{"time":"3:33","usr":"scalamai","txt":"Is it really all about the long term? Will #Amazon\u2019s Bet On Revenue Growth Pay Off? http://t.co/P0j9Udr6 /via @epicenterblog $AMZN #in","lbl":"Neutral"}
 ,{"time":"7:21","usr":"$AMZN","txt":"Looking to get in on the $amzn action at the open.","lbl":"Positive"}
+,{"time":"7:24","usr":"$AMZN","txt":"Everyone wringing hands over $AMZN. Low margins, long term view was the agenda from day one. $$","lbl":"Neutral"}
 ,{"time":"8:01","usr":"$AMZN","txt":"$AMZN taking it on the chin this morning. Rarely does this stock ever move up on earnings. Look to get back in at the right price.","lbl":"Negative"}
+,{"time":"8:02","usr":"$AMZN","txt":"todays watch list....$AMZN, see if it can hold 175...if not 170 could be seen....$LNKD cup and handle still in tact..see if it can break 77","lbl":"Neutral"}
 ,{"time":"8:27","usr":"$AMZN","txt":"Futures Higher as Facebook Fever Sweeps Street; Amazon Shares Plummet - Forbes http://t.co/mrbfpDOn $SPX $DJIA $AMZN #FacebookIPO","lbl":"Negative"}
+,{"time":"8:27","usr":"$AMZN","txt":"Companies like $BKS are cutting ties to $AMZN this morning.","lbl":"Neutral"}
+,{"time":"8:27","usr":"RedDogT3Live","txt":"Morning Call Express: Markets Start February With a Bang [VIDEO] http://t.co/qnjQaihM @RedDogT3Live @adsteel $AMZN $AAPL $GOOG $GRPN","lbl":"Neutral"}
+,{"time":"9:00","usr":"YungGiftednBlk_","txt":"RT @jimcramer: One minute to go--Facebook/$AMZN, $WHR","lbl":"Neutral"}
+,{"time":"9:01","usr":"JAY_DOLLA_RINGS","txt":"RT @jimcramer: One minute to go--Facebook/$AMZN, $WHR","lbl":"Neutral"}
 ,{"time":"9:02","usr":"bobtweet97","txt":"$AMZN short at will. No reason to cover anytime soon. Short $ JCP also. Playing $RSH for a bounce but that one is doomed.","lbl":"Negative"}
+,{"time":"9:46","usr":"jdub929","txt":"RT @stockguy22 closes 12noon today-#Superbowl Stock challenge - can win $25 or $50 giftcard http://t.co/DRGPWWtV $PZZA $dpz or $bwld $AMZN","lbl":"Neutral"}
+,{"time":"10:54","usr":"CameronKaine","txt":"Commented on: \u0022Google Is In No Danger Of Being Dethroned\u0022 http://t.co/usHeFK06 $AAPL $AMZN $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"10:55","usr":"biggercapital","txt":"Remember these ugly shoes? Still top sellers on $AMZN in the friggin winter http://t.co/nUbJHfjt $CROX","lbl":"Neutral"}
+,{"time":"10:55","usr":"biggercapitalnw","txt":"RT @biggercapital: Remember these ugly shoes? Still top sellers on $AMZN in the friggin winter http://t.co/nUbJHfjt $CROX","lbl":"Neutral"}
 ,{"time":"11:56","usr":"TheRealXMoney","txt":"@jimcramer See a pattern. People are go to $AAPL for #iPhone4S #iPad2 not $GOOG, less shopping on $AMZN. Save on gas $XOM. No $CMG or $LVS.","lbl":"Negative"}
+,{"time":"12:43","usr":"StockTwits","txt":"Stocks party like it\u0027s 1997. Can it last? http://t.co/rf1tioAi via @lamonicabuzz $AMZN $FB $C $BAC $NFLX $FSLR","lbl":"Neutral"}
+,{"time":"12:46","usr":"rannyran","txt":"RT @StockTwits: Stocks party like it\u0027s 1997. Can it last? http://t.co/0IYOiccY via @lamonicabuzz $AMZN $FB $C $BAC $NFLX $FSLR","lbl":"Neutral"}
 ,{"time":"14:57","usr":"$AMZN","txt":"Amazon has razor thin profit margin http://t.co/s9wNcEFv b/c they spend 5.8% of total sales shipping goods for free. $AMZN","lbl":"Negative"}
 ,{"time":"15:00","usr":"$AMZN","txt":"$AMZN is down -8.02% to $178.85 as of Feb 1, 11:56 PM GST http://t.co/YN2TUWL1 long term amazon is a great investment. Excellent strategy","lbl":"Positive"}
 ,{"time":"15:32","usr":"$AMZN","txt":"#Billionaire Jeff Bezos #down $1.4B in paper wealth so far today as $AMZN stock falls 8% after missing earnings estimates ytd","lbl":"Negative"}
 ,{"time":"15:58","usr":"$AMZN","txt":"market sells off, $AMZN goes up. nice.","lbl":"Positive"}
+,{"time":"16:00","usr":"$AMZN","txt":"CEO @scotwingo\u0027s analysis of $AMZN results from yesterday http://t.co/OgmgsCht","lbl":"Neutral"}
+,{"time":"16:00","usr":"bySamRo","txt":"STOCKS SURGE WHILE EVERYONE WAITS FOR FACEBOOK: Here\u0027s What You Need To Know $DIA $SPY $QQQ $F $GM $AMZN $MS http://t.co/LleWTgNq","lbl":"Neutral"}
 ,{"time":"16:01","usr":"$AMZN","txt":"RT @MG_Miller: #Billionaire Jeff Bezos down $1.4 billion in paper wealth so far today as $AMZN stock falls 8% after missing earnings estimates yesterday.","lbl":"Negative"}
 ,{"time":"16:21","usr":"markfuccio","txt":"I give a giant atta\u0027boy to $AMZN and its booking/frontending orders with #OWC. From book to ship in under 12 hours.","lbl":"Positive"}
+,{"time":"16:21","usr":"WallStWatchDog","txt":"5 Big Percentage Losers for Feb 1st http://t.co/DrnXdb8I $AMZN $CHRW $JDAS $RENN $SWM","lbl":"Neutral"}
 ,{"time":"16:22","usr":"cjtr66","txt":"RT @MG_Miller: #Billionaire Jeff Bezos down $1.4 billion in paper wealth so far today as $AMZN stock falls 8% after missing earnings estimates yesterday.","lbl":"Negative"}
 ,{"time":"16:22","usr":"Steven_Kiel","txt":"Whoa... $AMZN LivingSocial posted a net loss of $558M in 2011 on revenue of $245M. $$","lbl":"Negative"}
+,{"time":"17:01","usr":"AMZN_stock","txt":"$AMZN after hours quote, 4:42PM EST: 179.65 +0.19 (+0.11%).","lbl":"Neutral"}
+,{"time":"19:02","usr":"AMZN_stock","txt":"$AMZN after hours quote, 6:35PM EST: 179.13 -0.33 (-0.18%).","lbl":"Neutral"}
 ,{"time":"20:18","usr":"funtrading12","txt":"$AMZN - Amazon Stock Analysis - bearish stochastic crossdown - http://t.co/UAlCqnJU","lbl":"Negative"}
 ,{"time":"22:04","usr":"ginoxiao","txt":"RT @bcwtang: I agree $FB will be the King of eCommerce for Virtual Goods, but $GOOG and $AMZN will always be the Kings of eCommerce for Tangible Goods.","lbl":"Positive"}
+,{"time":"22:07","usr":"ruizhu0329","txt":"RT @bcwtang: I agree $FB will be the King of eCommerce for Virtual Goods, but $GOOG and $AMZN will always be the Kings of eCommerce for Tangible Goods.","lbl":"Neutral"}
 ]

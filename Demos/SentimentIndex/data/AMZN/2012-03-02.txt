@@ -1,5 +1,12 @@
 [
-{"time":"10:15","usr":"toddstrade","txt":"$AMZN Basing","lbl":"Positive"}
+{"time":"7:57","usr":"MarketShot","txt":"Just purchased the newest JUSTICE album (mp3) on $AMZN. Excited, even though I\u0027m 4 months late","lbl":"Neutral"}
+,{"time":"10:14","usr":"JasonJFisher","txt":"I had a return of 23% on my portfolio of just $AAPL and $AMZN on the @MarketWatchGame in 2011: http://t.co/7SL9uz3n. Wish it were real cash.","lbl":"Neutral"}
+,{"time":"10:15","usr":"toddstrade","txt":"$AMZN Basing","lbl":"Positive"}
+,{"time":"10:16","usr":"DEMOGETS","txt":"$AMZN working well since yesterday lows !!","lbl":"Neutral"}
+,{"time":"12:00","usr":"SeekingAlpha","txt":"Debunking The Myth: Dividend Stocks Are Not Just For Passive Investors http://t.co/HcHQrUY6 $INTC $KFT $MO $NLY $PG $BRK.B $AMZN","lbl":"Neutral"}
+,{"time":"12:02","usr":"BrianSozzi","txt":"Hey, it\u0027s Friday, so I went here! \u0022Apple Euphoria May Have Peaked\u0022 http://t.co/5OwDASBs $AAPL $GOOG $AMZN @OptionsProfits @thestreet","lbl":"Neutral"}
 ,{"time":"13:29","usr":"jaykza","txt":"@cornholelio @eddyhooks been trying to keep up with the stream. turned a bit bullish this morning. 10dma continues as upper bound. $AMZN","lbl":"Positive"}
+,{"time":"18:50","usr":"thetapeguy","txt":"On 10/14/2011 $AMZN market cap was $112.3 Billion. An all time high for #AMZN. Today the market cap is $81.59 Billion.","lbl":"Neutral"}
 ,{"time":"23:44","usr":"DMacBoston","txt":"$AMZN showing price volume divergence, looks like sellers may be exhausted http://t.co/6Mc8EIyE #WORDEN","lbl":"Positive"}
+,{"time":"23:46","usr":"DMacBoston","txt":"$AMZN I think in a weak market would collapse, but if we continue higher this one may get a stay of execution http://t.co/aCCMi2Wx #WORDEN","lbl":"Neutral"}
 ]

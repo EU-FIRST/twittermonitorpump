@@ -1,14 +1,33 @@
 [
 {"time":"1:45","usr":"BigTicks","txt":"$GOOG News: Google Reports Surging Government Requests to Purge Content http://t.co/4lmvzWGl http://t.co/GlGnAeWP","lbl":"Negative"}
+,{"time":"2:02","usr":"MAssaf18","txt":"Google vs. Microsoft begins #Google #Microsoft #Motorola $goog http://t.co/hb2D3BGz","lbl":"Neutral"}
+,{"time":"3:13","usr":"thefinancepress","txt":"$GOOG Microsoft and Google financials could surface at trial: Microsoft and Google financials could surface at ... http://t.co/ws1nsjjz","lbl":"Neutral"}
 ,{"time":"8:24","usr":"madtechman","txt":"RT @SAI: Only Three Smartphone Companies Are Profitable $AAPL $GOOG $MSFT by @jyarow http://t.co/GpraTyS6","lbl":"Positive"}
+,{"time":"8:25","usr":"MockTrade","txt":"$GOOG bias is bullish +665, very bullish +669, neutral btwn 665-661, bearish below 661 & very bearish below 659; $JPM is the same as...","lbl":"Neutral"}
+,{"time":"8:28","usr":"_chrisj","txt":". @semil $GOOG wants to track/understand users\u0027 behavior above all. FB/twitter are annoying to $GOOG since it can\u0027t track user actions","lbl":"Neutral"}
+,{"time":"8:30","usr":"nadimhajje","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $MSFT $ZNGA $GOOG $RIMM $TSLA by @jyarow http://t.co/aQFeyxaW","lbl":"Neutral"}
 ,{"time":"9:48","usr":"mustped","txt":"if buyers come into $AAPL today I like $559.60 as target and for $GOOG $668.71 if the buyers come in. now wait for the setups to come to u","lbl":"Positive"}
+,{"time":"9:52","usr":"purplechipman","txt":"$BIDU trading at lowest valuation since IPO. Expect earnings to drive price higher as valuation decreases. Same thing happened to $GOOG.","lbl":"Neutral"}
+,{"time":"9:53","usr":"Kalfenjay","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $MSFT $ZNGA $GOOG $RIMM $TSLA by @jyarow http://t.co/EPTQ1zpX","lbl":"Neutral"}
+,{"time":"11:04","usr":"venturebank","txt":"Why Earnings At Multinationals like Starbucks and Amazon Might Be In Jeopardy http://t.co/ajAaBNlD $SPY $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"11:04","usr":"MMASSASSIN","txt":"AGRESSIVE buying long leg of $GOOG 645 pDS with a spread of .73 in mind -> http://t.co/fku2FMPS","lbl":"Positive"}
 ,{"time":"11:05","usr":"MattKelmon","txt":"closed all $SPY short positions- (still long $VIX Dec 18 calls), added $GOOG Jan 600 calls at 64 and $AAPL jan 540 calls at 29.","lbl":"Positive"}
 ,{"time":"11:56","usr":"StockMarket411","txt":"Google Nexus 4 sells out within an hour in US, UK $goog http://t.co/3DZisvXb goog, google, google stock, news","lbl":"Positive"}
+,{"time":"11:56","usr":"tradethembi","txt":"$GOOG HITS TARGET ! at 458.78 ! and I think you can consider yourselves fed on the day ! I am out ! http://t.co/dsi7ppAM","lbl":"Neutral"}
 ,{"time":"12:00","usr":"TheLondonWhale","txt":"taking 3.5% profit in short $GOOG, and $KCG","lbl":"Positive"}
+,{"time":"12:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $MSFT +21%, $BAC +18%, $C +17%, $GOOG -12%, $SPLS -10%, $HD -6% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"13:28","usr":"tehbox","txt":"RT @SAI: CHART OF THE DAY: Samsung Now Makes Much More Money On Mobile Than Google Makes Overall $GOOG by @jyarow http://t.co/XymAoOxL","lbl":"Neutral"}
+,{"time":"13:31","usr":"pennystockguys","txt":"$GOOG - RIMM Declares BB10 Launch Date - Analyst Blog http://t.co/cHYUkR53","lbl":"Neutral"}
 ,{"time":"14:51","usr":"ACT_Lightning","txt":"RT @SAI: Only Three Smartphone Companies Are Profitable $AAPL $GOOG $MSFT by @jyarow http://t.co/lRxCoZ02","lbl":"Positive"}
+,{"time":"14:59","usr":"thomaspinter","txt":"#Samsung Now Makes Much More Money On #Mobile Than #Google Makes Overall $GOOG by @jyarow http://t.co/5nMGjIXX","lbl":"Neutral"}
+,{"time":"14:59","usr":"StockTwits","txt":"Wednesday links: bear market starts, and working from bed. http://t.co/1IAyi7Fn via @abnormalreturns $SPY $GOOG $FB $AMZN","lbl":"Neutral"}
+,{"time":"15:53","usr":"petergo99037185","txt":"Thursday Market - 16 charts total, 15 down, one UP $GOOG.<> spx $VIX UP early AM, MARKET DOWN. TIGHT STOPS, in and out daily, no overnights!","lbl":"Neutral"}
 ,{"time":"15:54","usr":"parklandtrader","txt":"@cnbcfastmoney @GuyAdami @RedDogT3Live $GOOG short is working.. vs $FB long..","lbl":"Negative"}
+,{"time":"17:32","usr":"DNev47","txt":"$$ Get Paid To Get Long Nvidia Corporation http://t.co/6BTMYz4p $AMD $GOOG $MSFT $NVDA","lbl":"Neutral"}
 ,{"time":"17:36","usr":"SpecialPhysX","txt":"Dear $GOOG, #ANDROID, et al > yessss! So little need for actual TV now, it makes me SMILE. Android bringing the world home now! #1000gifts","lbl":"Positive"}
 ,{"time":"17:37","usr":"ACInvestorBlog","txt":"George Soros 13F Shows New Stakes in $GRPN $GOOG $HD $KBH $MCP","lbl":"Positive"}
+,{"time":"17:39","usr":"henrygambell","txt":"Indexes continue to slip - $AAPL + $GOOG will be in focus tomorrow - $NFLX holding up - trade room will be busy tomm! http://t.co/FJHSVhQ8","lbl":"Neutral"}
+,{"time":"22:10","usr":"IamRD3","txt":"Cash is king! I\u0027m not short or long the Market. Playing it safe on the side line. May hop in a credit spread next week! $spy $aapl $goog","lbl":"Neutral"}
 ,{"time":"22:18","usr":"AlexvanDillen","txt":"$GOOG Android now accounts for 72% of worldwide smartphone market http://t.co/29dVQSbR via @latimes","lbl":"Positive"}
+,{"time":"22:28","usr":"Carina_Lermon","txt":"Google+ auto-embeds Android app install links to spur curious ... #Android $GOOG http://t.co/OBq9ts3S","lbl":"Neutral"}
 ]

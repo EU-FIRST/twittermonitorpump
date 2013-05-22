@@ -1,4 +1,13 @@
 [
-{"time":"13:54","usr":"CROSSHAIRTRADER","txt":"RT @abnormalreturns: Sunday (late) links: an unbalanced economy, tech sector weakness and the law of unbundling. http://t.co/DaWcACQG $XLK $AAPL $GOOG $LMCA $VIX","lbl":"Negative"}
+{"time":"5:02","usr":"jhunjhunwalas4u","txt":"RT @SeekingAlpha: Why Did Google Buy BufferBox? http://t.co/RJINCquJ $GOOG","lbl":"Neutral"}
+,{"time":"5:06","usr":"Sactownbobby","txt":"RT @SeekingAlpha: Why Did Google Buy BufferBox? http://t.co/RJINCquJ $GOOG","lbl":"Neutral"}
+,{"time":"5:11","usr":"baluvix","txt":"Why Did Google Buy BufferBox? http://t.co/GxtOm3LN $GOOG","lbl":"Neutral"}
+,{"time":"13:54","usr":"CROSSHAIRTRADER","txt":"RT @abnormalreturns: Sunday (late) links: an unbalanced economy, tech sector weakness and the law of unbundling. http://t.co/DaWcACQG $XLK $AAPL $GOOG $LMCA $VIX","lbl":"Negative"}
 ,{"time":"14:01","usr":"peterjhebert","txt":"Google generates more US ad revenue than all newspapers combined http://t.co/ucP6KN50 via @AGoulburn $GOOG","lbl":"Positive"}
+,{"time":"14:01","usr":"CasaAnna","txt":"RT @SAI: Why I Was Wrong About Hating E-Books $AMZN $BOOKS $AAPL $GOOG by @_dtl http://t.co/qtmolASp","lbl":"Neutral"}
+,{"time":"16:26","usr":"MadMoneyOnCNBC","txt":"Once Lost, GPS Company Finds Direction http://t.co/6DIZ46fL $GOOG $GRMN $TRMB #StockMarket #StockPicks #MadMoney #MadMoney #MadMoney","lbl":"Neutral"}
+,{"time":"16:27","usr":"MadMoneyOnCNBC","txt":"Cramer: Surprising Question Yields Far More Than Answer http://t.co/jIPMbhYh $AAPL $AMZN $BKS $DELL $GOOG $HPQ $INTC $MSFT $STX $WDC","lbl":"Neutral"}
+,{"time":"19:09","usr":"nereidadin","txt":"Sunday links: an unbalanced economy, and the law of unbundling. http://t.co/3QFLK9XW via @abnormalreturns $XLK $GOOG $VIX","lbl":"Neutral"}
+,{"time":"22:36","usr":"thestockbandit","txt":"Android 4.1 has a ridiculously cool app with Google Now. Siri is by comparison a joke $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"22:40","usr":"dmackdaddy","txt":"yo @thestockbandit LOL, Ask that $GOOG Search app \u0022Who leads the NFL in sacks\u0022 and tell me what it says vs $AAPL Siri\u0027s reply.","lbl":"Neutral"}
 ]

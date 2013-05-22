@@ -1,13 +1,23 @@
 [
 {"time":"4:50","usr":"halifaxbroker","txt":"Top traded international #stocks in January - Apple $APPL, Amazon $AMZN, Bank of America $BAC, Iberdrola $IBE1 and Thq Inc. $THQI","lbl":"Positive"}
 ,{"time":"8:28","usr":"ari_elul","txt":"WTF of the day RT \u201C@firstadopter: Report that $AMZN in process of launching a retail store: http://t.co/r5OdhoZ0\u201D","lbl":"Positive"}
+,{"time":"8:28","usr":"ToddSullivan","txt":"RT @StockTwits: RT @firstadopter Report that $AMZN in process of launching a retail store: http://t.co/hiZdeOFH","lbl":"Neutral"}
+,{"time":"8:29","usr":"1nvestor","txt":"\u201C@firstadopter: Report that $AMZN in process of launching a retail store: http://t.co/3BVCjSfx\u201D < thanks for sharing cc: @biggercapital","lbl":"Neutral"}
 ,{"time":"9:46","usr":"leopardtrader","txt":"Great $ neutral pairtrade setup selling $AAPL and buying $AMZN at the current levels $SPX","lbl":"Positive"}
 ,{"time":"9:47","usr":"Kas_1","txt":"@HithaPrabhakar tax implications could be big for $AMZN","lbl":"Negative"}
+,{"time":"10:39","usr":"Trefis","txt":"Constant Contact Enters Daily Deals Space with MobManager http://t.co/nvKiMIVF $CTCT $AMZN $GRPN","lbl":"Neutral"}
+,{"time":"11:27","usr":"firstadopter","txt":"Long $AAPL Short $AMZN probably a great pair trade going into the rumored March announcement of iPad 3 and iPad 2 price cut","lbl":"Neutral"}
+,{"time":"11:59","usr":"lluccipha","txt":"SAI: Amazon Is Planning To Open A Boutique Retail Store In Seattle $AMZN $BKS by @KTLincoln http://t.co/fgyMtdbP","lbl":"Neutral"}
 ,{"time":"11:59","usr":"QUIKTDR","txt":"$AMZN 184.31 -3.37 consolidating around 50, 100 200 looks close to = buy if it can move out of tight range","lbl":"Positive"}
+,{"time":"12:36","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Down Past 2%. Top 10 Most Popular NASDAQ-100 Stocks: AAPL, RIMM, INTC, CSC: http://t.co/7z9RgNC2","lbl":"Neutral"}
 ,{"time":"14:04","usr":"MParekh","txt":"Full Circle: \u0022Amazon in the Process of Launching a Retail Store\u0022 http://t.co/d5HakjZo #Innovation #Internet $AMZN $$","lbl":"Positive"}
 ,{"time":"14:07","usr":"hessepartners","txt":"Not needed. RT @MParekh Full Circle: \u0022Amazon in the Process of Launching a Retail Store\u0022 http://t.co/zsc08zga #Innovation #Internet $AMZN $$","lbl":"Negative"}
+,{"time":"14:07","usr":"ckomagan","txt":"RT @MParekh: Full Circle: \u0022Amazon in the Process of Launching a Retail Store\u0022 http://t.co/d5HakjZo #Innovation #Internet $AMZN $$","lbl":"Neutral"}
 ,{"time":"15:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:47pm: 183.75 -3.93 (-2.09%).","lbl":"Negative"}
 ,{"time":"15:02","usr":"outlawz616","txt":"The $AMZN refurbished Amazon Kindle Fire is almost like new because people tried it once and returned it. http://t.co/7Nk8ujMq","lbl":"Positive"}
+,{"time":"15:02","usr":"sharkbiotech","txt":"one of the most bizarre headlines of recent memory $AMZN opening a retail store http://t.co/PeqFABQZ","lbl":"Neutral"}
+,{"time":"15:48","usr":"By_The_Numbers","txt":"S&P 500 Earnings: Industrials Lead http://t.co/MM3Xoh3B $AAPL $ADM $AMZN $ATI $BAC $COF $DHI $MMI $MMI.N $PHM $WDC $WY #NASDAQ","lbl":"Neutral"}
+,{"time":"18:19","usr":"vokky","txt":"RT @CNNMoney: RT @FortuneMagazine: Will Amazon really go retail? http://t.co/WT05or7b $AMZN","lbl":"Neutral"}
 ,{"time":"19:14","usr":"MG_Miller","txt":"Jeff Bezos lost $400 million on paper today as $AMZN dropped 2.4%. Media report company may be interested in entering mobile gaming.","lbl":"Negative"}
 ,{"time":"22:37","usr":"zachlendon","txt":"@ahansen1 @cpuzder $AMZN can do lots of stuff with retail - here\u0027s a few thoughts (in a crappy overall post): http://t.co/9ZpWCAxR.","lbl":"Positive"}
 ,{"time":"22:43","usr":"LAnzelone","txt":"RT @BloombergNews: Amazon taking its services offline | http://t.co/wrO5HUwk $AMZN","lbl":"Negative"}

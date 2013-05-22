@@ -1,12 +1,49 @@
 [
-{"time":"8:39","usr":"gentrala","txt":"RT @SAI: POGUE: Forget The iPhone 5, It\u0027s A Google Gadget That Really Excites Me $GOOG by @nichcarlson http://t.co/0jyMMP95","lbl":"Positive"}
+{"time":"5:52","usr":"tedfinetv","txt":"RT @CoryTV: $AAPL\u0027s iPhone 5 surprisingly omits NFC (and $NXPI). Losers?$EXPE Winners: $GOOG Square. And? I ask @DMac1 http://t.co/agQ5AKfb","lbl":"Neutral"}
+,{"time":"6:08","usr":"TrendRida","txt":"Commented on StockTwits: .@CoryJohnson Lack of innovation? Why add NFC if infrastructure is not ready. $GOOG has had... http://t.co/QFD9DPlr","lbl":"Neutral"}
+,{"time":"7:45","usr":"thefinancepress","txt":"$GOOG Google\u0027s YouTube Site Blocks Access to Anti-Islam Film in India: Google\u0027s YouTube Site Blocks Access to A... http://t.co/YgLyzrGx","lbl":"Neutral"}
+,{"time":"7:46","usr":"pennystockguys","txt":"$GOOG - Google\u0027s YouTube Site Blocks Access to Anti-Islam Film in India http://t.co/QMTEcgT9","lbl":"Neutral"}
+,{"time":"7:46","usr":"ADVFNplc","txt":"$GOOG - Google\u0027s YouTube Site Blocks Access to Anti-Islam Film in India http://t.co/thzggiPE","lbl":"Neutral"}
+,{"time":"8:39","usr":"gentrala","txt":"RT @SAI: POGUE: Forget The iPhone 5, It\u0027s A Google Gadget That Really Excites Me $GOOG by @nichcarlson http://t.co/0jyMMP95","lbl":"Positive"}
+,{"time":"8:40","usr":"SeekingAlpha","txt":"Science Fiction Investing, Part 1 http://t.co/HhHWmFil $AAPL $ATVI $GOOG $INTC $MSFT","lbl":"Neutral"}
+,{"time":"8:44","usr":"Fitzstock2004","txt":"\u0022CWUS\u0022 tomorrow......to give you the ROAD MAP on how to make $$ AGAIN next week.....$aapl $goog $amzn $dia and more","lbl":"Neutral"}
+,{"time":"8:45","usr":"kiwitrader24","txt":"Not that it matters but, consumer Sentiment coming up at 9:55 ET. Eyes on res. at $SPX 1472. $GOOG vs $AAPL, the new pairs trade???","lbl":"Neutral"}
+,{"time":"9:09","usr":"TenaciousLeo","txt":"Is $AAPL going to join $GOOG in $700 club today? Up 1.7%. New all-time high of $694.64.","lbl":"Neutral"}
+,{"time":"9:47","usr":"Heidihogurl","txt":"Rt @mcilderman Science Fiction #Investing http://t.co/Hpdfn1y7 #Tech #scifi #AR #Apple $AAPL #Google $Goog $MSFT $INTC","lbl":"Neutral"}
 ,{"time":"9:47","usr":"ItsCam__","txt":"3 years ago today: $AAPL trading at 180. $GOOG approaching 500. Who will hit 800 first? http://t.co/yLULc3tr","lbl":"Positive"}
+,{"time":"9:50","usr":"wklyopttrades","txt":"$GOOG Play: This option expires today so this is meant for a quick pullback. Targets are indicated on chart","lbl":"Neutral"}
+,{"time":"9:50","usr":"choffman1978","txt":"$AEZS FDA approval news soon for AEWZS130? Stock rallies on rumors!!#cnbc,#msnbc,$aapl,$goog,$p,$unh,$kft,$c,$s,$v,#biotech,$mrk,$gsk,$dndn","lbl":"Neutral"}
+,{"time":"10:14","usr":"cristina_evani","txt":"Rt @mcilderman Science Fiction #Investing http://t.co/h82Gztb4 #Tech #scifi #AR #Apple $AAPL #Google $Goog $MSFT $INTC","lbl":"Neutral"}
 ,{"time":"10:15","usr":"CQtrad","txt":"RT @StockTwits: RT @ampressman $GOOG loses patent lawsuit to $AAPL in Germany, may have to recall Android tablets & smartphones htt ...","lbl":"Negative"}
+,{"time":"10:15","usr":"iHani75","txt":"Google\u0027s Android 4.1 Jellybean Vs. Apple\u0027s iOS 6 $AAPL $GOOG by @officialKLS http://t.co/kunSFacW","lbl":"Neutral"}
+,{"time":"10:35","usr":"newsagg","txt":"@BanzaiTrader $GOOG options are 705-710 but volume is paltry compared to $AAPL, its the huge AAPL volume that causes the pin pressure","lbl":"Neutral"}
+,{"time":"10:36","usr":"amtaham","txt":"@pudyastomo @driannugroho RT @SAI: FIGHT: Google\u0027s Android 4.1 Jellybean Vs. Apple\u0027s iOS 6 $AAPL $GOOG by @officialKLS http://t.co/jPqWQ74H","lbl":"Neutral"}
+,{"time":"11:07","usr":"Equitykingkong","txt":"$GOOG: covered short 50 weekly 710 calls @ 1.50 for + 1.00 pt....flat now","lbl":"Neutral"}
+,{"time":"11:41","usr":"jigneshkerai89","txt":"RT @SAI: FIGHT: Google\u0027s Android 4.1 Jellybean Vs. Apple\u0027s iOS 6 $AAPL $GOOG by @officialKLS http://t.co/2gbJk4zr","lbl":"Neutral"}
 ,{"time":"11:42","usr":"SJosephBurns","txt":"It is a great sign for bulls that we are still holding near highs this late in the trading day. $AAPL $GOOG $PCLN","lbl":"Positive"}
 ,{"time":"12:07","usr":"DallasTexxxas","txt":"@CharlieThomps0n I might bite the bullet and just overpay for LEAPS next time it falls. I know it will continue upward for years. $GOOG","lbl":"Positive"}
+,{"time":"12:07","usr":"BabuShanker","txt":"RT @MarketWatch: Apple won an injunction against Motorola in Germany over \u0022rubber band\u0022 patent http://t.co/m6IIZzX0 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"12:07","usr":"MonetaAdvisors","txt":"RT @MarketWatch: Apple won an injunction against Motorola in Germany over \u0022rubber band\u0022 patent http://t.co/m6IIZzX0 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"12:07","usr":"Fitzstock2004","txt":"@creeksidecap i would suggest keep book profits in $aapl $goog and then ADD when they pull back........U never get the tops or the bottoms","lbl":"Neutral"}
+,{"time":"12:24","usr":"Weird_Lists","txt":"The Science Fiction of #WilliamGibson is coming true http://t.co/IOoNhKgL #Tech #AR #Apple $AAPL #Google $Goog #Neuromancer","lbl":"Neutral"}
+,{"time":"12:25","usr":"Haitianlord","txt":"\u00AB@MarketWatch Apple won an injunction against Motorola in Germany over \u0022rubber band\u0022 patent http://t.co/bydkQYUs $AAPL $GOOG\u00BB","lbl":"Neutral"}
+,{"time":"12:27","usr":"Kieltyka05","txt":"RT @MarketWatch: Apple won an injunction against Motorola in Germany over \u0022rubber band\u0022 patent http://t.co/m6IIZzX0 $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"12:28","usr":"srisri55","txt":"woww looks like lotta shopping opportunities at the EOD, if we hold on to cash. $AAPL $GOOG $PCLN","lbl":"Positive"}
+,{"time":"13:12","usr":"twood84","txt":"RT @SAI: Amit Singhal: Here\u0027s What Happens When Someone Fails At Google $GOOG by @Julie188 http://t.co/KgjTOFZe","lbl":"Neutral"}
+,{"time":"13:12","usr":"RandallKoczara","txt":"Hewlett-Packard Gloom Intensifying http://t.co/Au1ylgfg $A $AMZN $DELL $GOOG $RAX $HPQ","lbl":"Neutral"}
 ,{"time":"13:14","usr":"mustped","txt":"only $GOOG can play in the $700 sandbox and not you $AAPL. deal with it.","lbl":"Positive"}
+,{"time":"13:52","usr":"seulkic","txt":"RT @MarketWatch: Apple won an injunction against Motorola in Germany over \u0022rubber band\u0022 patent http://t.co/m6IIZzX0 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:52","usr":"ADVFNplc","txt":"$GOOG - White House Says it Asked YouTube to Review Anti-Muslim Video that Sparked Riots http://t.co/ktAsJAMj","lbl":"Neutral"}
 ,{"time":"13:52","usr":"kiwitrader24","txt":"@newsagg Sold $GOOG Oct call spread yest, and was going to unwind now that new 52 WH set. Maybe I should hang on another day?","lbl":"Positive"}
+,{"time":"14:43","usr":"altarnow","txt":"RT @CoryTV: $AAPL\u0027s iPhone 5 surprisingly omits NFC (and $NXPI). Losers?$EXPE Winners: $GOOG Square. And? I ask @DMac1 http://t.co/agQ5AKfb","lbl":"Neutral"}
 ,{"time":"14:46","usr":"kenjotto","txt":"sold another 1/4 $GOOG Oct660 cal +4%, same thesis","lbl":"Negative"}
 ,{"time":"14:46","usr":"Daniel_Aaron17","txt":"Current shorts: $GOOG $CRM $UAL #LongShort #Short #Trader","lbl":"Negative"}
+,{"time":"14:50","usr":"navinmahendran","txt":"RT @SAI: FIGHT: Google\u0027s Android 4.1 Jellybean Vs. Apple\u0027s iOS 6 $AAPL $GOOG by @officialKLS http://t.co/XJf87ju9","lbl":"Neutral"}
+,{"time":"16:24","usr":"AugmentedAdvert","txt":"RT: The Latest in Augmented Reality from #Google & #Apple http://t.co/O7YnnLQc $AAPL $GOOG $MSFT $ATVI #AR #neur... http://t.co/sDDMFbsq","lbl":"Neutral"}
+,{"time":"16:32","usr":"wallstCS","txt":"Market Wrap: Apple\u0027s Price Record, Gold\u0027s New Ceiling, J&J\u0027s Outlook, The Mobile War http://t.co/43iLYx8t $AAPL $JNJ $NOK $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"18:21","usr":"thekeikoshow","txt":"Market Recap for today and this week- http://t.co/kNKVA1SE $AAPL $GOOG $BAC $USO $VXX $CMG $PCLN $FAS $SPY","lbl":"Neutral"}
+,{"time":"18:21","usr":"Out_Lived","txt":"RT @mcilderman: Science Fiction #Investing Part 1 http://t.co/0lA2T1tq #Tech #AR #Apple $AAPL #Google $Goog $MSFT $INTC @metathis","lbl":"Neutral"}
+,{"time":"18:21","usr":"chrisdrothler","txt":"RT @SAI: Watch This Short Film, Shot Entirely With Google Glass $GOOG by @_dtl http://t.co/14idzm0T","lbl":"Neutral"}
+,{"time":"18:22","usr":"huckylyly","txt":"RT @mcilderman: Science Fiction #Investing Part 1 http://t.co/0lA2T1tq #Tech #AR #Apple $AAPL #Google $Goog $MSFT $INTC @metathis","lbl":"Neutral"}
+,{"time":"23:58","usr":"nomad411","txt":"RT @SAI: Amit Singhal: Here\u0027s What Happens When Someone Fails At Google $GOOG by @Julie188 http://t.co/KgjTOFZe","lbl":"Neutral"}
 ]

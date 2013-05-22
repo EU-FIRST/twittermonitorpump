@@ -1,13 +1,36 @@
 [
-{"time":"4:14","usr":"isitabubble","txt":"$GOOG gives a nice sell signal on weekly graph","lbl":"Negative"}
+{"time":"4:14","usr":"Nils1975","txt":"$GOOG Asustek co-brand 7-inch tablet PC to debut as early as May http://t.co/CEiEfQbS -->pricing $199-249 ~ $AMZN Kindle Fire & $BKN Nook","lbl":"Neutral"}
+,{"time":"4:14","usr":"isitabubble","txt":"$GOOG gives a nice sell signal on weekly graph","lbl":"Negative"}
+,{"time":"4:32","usr":"thefinancepress","txt":"$GOOG Tech behemoths gobble up big part of Nasdaq 100: Tech behemoths gobble up big part of Nasdaq 100 Reuters ... http://t.co/MTMqfwbz","lbl":"Neutral"}
+,{"time":"7:54","usr":"firstadopter","txt":"100% clear as day to me $AMZN fail miserably w/tablet strategy this year. From $AAPL $GOOG competition to borked OS issues to shoddy product","lbl":"Neutral"}
+,{"time":"7:56","usr":"CapitalOverlook","txt":"Apple Trickery, New iPad Is Really iPad 2S (what that means iPad growth) http://t.co/yfXQK2M4 $AAPL $GOOG $AMZN $SPY $STUDY $QQQ","lbl":"Neutral"}
 ,{"time":"8:47","usr":"RealTimeMedia","txt":"RT @SAI: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/O70Qac2B","lbl":"Positive"}
+,{"time":"8:48","usr":"edgarsigler","txt":"RT @themoneygame: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/9Idp0G4d","lbl":"Neutral"}
+,{"time":"8:49","usr":"djbigdaddy","txt":"RT @businessinsider: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/4SUI3gKr","lbl":"Neutral"}
+,{"time":"8:49","usr":"KennethEisinger","txt":"RT @businessinsider: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/4SUI3gKr","lbl":"Neutral"}
 ,{"time":"9:12","usr":"_ThreeStacks","txt":"RT @businessinsider: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/4SUI3gKr","lbl":"Positive"}
 ,{"time":"9:12","usr":"matterhornbob","txt":"@ukarlewitz SPX fell 25% in the three weeks before it and $GOOG\u0027s Eric Schmidt said that the outlook was \u0022bleak\u0022 for the next few quarters","lbl":"Negative"}
+,{"time":"9:13","usr":"josesmith_paris","txt":"RT @businessinsider: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/4SUI3gKr","lbl":"Neutral"}
+,{"time":"9:13","usr":"lluccipha","txt":"SAI: Google Is Threatening To Cut Off Developers Unless They Use Google Wallet For Everything $GOOG http://t.co/gsw47N4v","lbl":"Neutral"}
 ,{"time":"9:58","usr":"anthonylmurphy","txt":"RT @SAI: Google Is Threatening To Cut Off Developers Unless They Use Google Wallet For Everything $GOOG http://t.co/9xlMwEWY","lbl":"Negative"}
+,{"time":"10:01","usr":"rcncal","txt":"RT @SAI: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/O70Qac2B","lbl":"Neutral"}
+,{"time":"10:01","usr":"_MobileInsider","txt":"RT @SAI: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/O70Qac2B","lbl":"Neutral"}
 ,{"time":"10:01","usr":"GeoHGoogins","txt":"@stockguy22 I agree, lightened $goog $ivn and $gs calls. Great to hear some validation. What kind of exit are you looking for $aapl","lbl":"Negative"}
+,{"time":"10:43","usr":"BioTechReports","txt":"BioSante Pharma($BPAX) breaking out on huge volume!!!!! #cnbc,#msnbc,#nyse,#wsj,$gs,$goog,$bac,$v,$f,$siri,$amzn","lbl":"Neutral"}
 ,{"time":"10:44","usr":"EvolvingMedium","txt":"Survey: 83 percent rate Google as preferred search engine, despite privacy ... $goog - http://t.co/EM8hFhq6","lbl":"Positive"}
+,{"time":"10:44","usr":"campione","txt":"$AAPL Gets $1 Billion A Year From $GOOG For Being The Default Search Engine, Says Analyst http://t.co/edNoXiMe v @zite","lbl":"Neutral"}
 ,{"time":"10:45","usr":"carmelsurfer","txt":"$GOOG 595 weeklies for next week, 3 ma\u0027s on the daily stacked just above. Breach will be my stop","lbl":"Positive"}
+,{"time":"13:20","usr":"bacharsamawi","txt":"3 Reasons Tech Could Drive The Nasdaq 100 To 3,000 - Seeking Alpha http://t.co/VFwhYRU6 $AAPL $GOOG $INTC $MSFT $ORCL","lbl":"Neutral"}
+,{"time":"13:22","usr":"Sangluccitrades","txt":"$GOOG?!?!","lbl":"Neutral"}
+,{"time":"14:01","usr":"francis_lui","txt":"RT @businessinsider: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/4SUI3gKr","lbl":"Neutral"}
+,{"time":"15:20","usr":"SeekingAlpha","txt":"Utility Supercomputing: Amazon Markets The Cloud http://t.co/fWnEqMFq $GOOG $RAX $AMZN","lbl":"Neutral"}
 ,{"time":"15:22","usr":"dubhe124","txt":"$goog drops due to Eric\u0027s planned sale?","lbl":"Negative"}
 ,{"time":"15:26","usr":"IamWashira","txt":"short $spy $goog while long $gld $aapl (spread) into the weekend.","lbl":"Negative"}
 ,{"time":"15:30","usr":"SeekingAlpha","txt":"2 Bullish But Conservative Options Ideas For Small Investors http://t.co/WZtFeOYI $AAPL $GOOG $KO $MSFT $PEP $SSNLF.PK $NOK","lbl":"Positive"}
+,{"time":"16:17","usr":"LaMonicaBuzz","txt":"RT @EHYH2010: @LaMonicaBuzz So $AAPL closed @ $545, & $GOOG @ $600... will $AAPL reach $GOOG b4 earnings or only after earnings??","lbl":"Neutral"}
+,{"time":"16:17","usr":"thefinancepress","txt":"$GOOG EXCLUSIVE - Google leans on developers to use payment service: EXCLUSIVE - Google leans on developers to ... http://t.co/TlRSW8Wr","lbl":"Neutral"}
+,{"time":"16:19","usr":"LaMonicaBuzz","txt":"@EHYH2010 I say after. Assuming $GOOG stays around where it is, not sure $AAPL can rise another 10% until we know more about New iPad sales.","lbl":"Neutral"}
+,{"time":"17:50","usr":"thefinancepress","txt":"$GOOG Google, Michael Kors, New Frontier: U.S. Equity Preview: Google, Michael Kors, New Frontier: U.S. Equity ... http://t.co/oitD6mRl","lbl":"Neutral"}
+,{"time":"17:54","usr":"EvolvingMedium","txt":"Google, Michael Kors, New Frontier: U.S. Equity Preview $goog - http://t.co/mOM4T3TC","lbl":"Neutral"}
+,{"time":"18:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/41, $ANTH/17, $BAC/15, $GOOG/10, $GMCR/9, $SPY/9, $KORS/7, $SBUX/7. http://t.co/9ch5yju7","lbl":"Neutral"}
 ]

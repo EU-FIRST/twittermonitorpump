@@ -1,8 +1,29 @@
 [
-{"time":"9:44","usr":"CorporateYoungs","txt":"Bought some $AMZN 255C Sept will be holding over the weekend unless I see some kind of weird sell off at EOD.","lbl":"Positive"}
+{"time":"0:09","usr":"GeekChic21","txt":"RT @AllAboutTrends: Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from ...","lbl":"Neutral"}
+,{"time":"5:06","usr":"everywheresafe","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"5:18","usr":"JK8675309","txt":"Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from @allabouttrends on Tuesday.","lbl":"Neutral"}
+,{"time":"7:28","usr":"wallstCS","txt":"Wall Street Brief: Amazon and Nokia EXCLUDE Google, Apple LOSES http://t.co/l2tcJVtc $AAPL $AMZN $NOK $GOOG $SHLD #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:20","usr":"Colin_Sebastian","txt":"Hey developers: $AMZN says in-app transactions drive 2x the revenues as paid apps on Kindle Fire","lbl":"Neutral"}
+,{"time":"8:20","usr":"MCJunkie","txt":"Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from @allabouttrends on Tuesday.","lbl":"Neutral"}
+,{"time":"9:11","usr":"newsagg","txt":"250 poison for $AMZN","lbl":"Neutral"}
+,{"time":"9:14","usr":"TheStreet","txt":"Analysts\u0027 Actions: $FB $AMZN $GLW $SPLK $CIEN http://t.co/Y4duUoTZ","lbl":"Neutral"}
+,{"time":"9:42","usr":"harrypricy","txt":"RT @SAI: Here Is A Sneak Peek At Amazon\u0027s Newest Kindle $AMZN by @officialKLS http://t.co/decnawcG","lbl":"Neutral"}
+,{"time":"9:44","usr":"CorporateYoungs","txt":"Bought some $AMZN 255C Sept will be holding over the weekend unless I see some kind of weird sell off at EOD.","lbl":"Positive"}
 ,{"time":"10:08","usr":"BuyOnTheDip","txt":"long $EBAY & $AMZN ... i just click \u0022buy now\u0022 on my phone and stuff shows up at my door. #Future #TrustTree","lbl":"Positive"}
+,{"time":"10:31","usr":"shyamster","txt":"RT @ManuKumar: Interesting to note that the market cap of $AAPL exceeds the market cap of $MSFT, $GOOG, $AMZN and $YHOO combined. #Hardw ...","lbl":"Neutral"}
 ,{"time":"10:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:17am: 248.06 +1.84 (+0.75%).","lbl":"Positive"}
 ,{"time":"11:31","usr":"StaceyPerrine","txt":"Love my Fire! \u201C@SAI: Here Is A Sneak Peek At Amazon\u0027s Newest Kindle $AMZN by @officialKLS http://t.co/lLwkaSWy\u201D","lbl":"Positive"}
 ,{"time":"11:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:17pm: 247.26 +1.04 (+0.42%).","lbl":"Positive"}
 ,{"time":"13:02","usr":"tomliberti","txt":"$AMZN 250 weekly calls are making me think it runs to that strike","lbl":"Positive"}
+,{"time":"13:04","usr":"numberonetell","txt":"If $GOOG and $AAPL can shake their intra-day downtrends then $AMZN might settle at 250. I am hoping.","lbl":"Neutral"}
+,{"time":"13:07","usr":"AAinslie","txt":"Disgruntled Brits would ditch traditional #banks for #JohnLewis or Amazon http://t.co/JeREDCCT $AMZN $$","lbl":"Neutral"}
+,{"time":"14:01","usr":"JonErlichman","txt":"With all the product announcements scheduled next week, I found myself wondering... http://t.co/GMUPoIlN $AMZN $MSFT $NOK $VZ $GOOG","lbl":"Neutral"}
+,{"time":"14:05","usr":"everywheresafe","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"15:10","usr":"TrinityNYC","txt":"RT @firstadopter: WSJ repeats July report: \u0022 $AMZN is also testing its own smartphone to take on $AAPL iPhone & could release it as ...","lbl":"Neutral"}
+,{"time":"15:12","usr":"DeidreZune","txt":"Trust you have had a fun summer. Thanks for all for your comments & follows. Heading to Hawaii. Enjoy a great weekend. $SPY $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"15:12","usr":"barronstechblog","txt":"Amazon Developing Ad-Supported Tablet, Says WSJ - Tech Trader Daily - Barron\u0027s $AMZN $AAPL $GOOG http://t.co/reesTimz","lbl":"Neutral"}
+,{"time":"16:38","usr":"insurancegonema","txt":"RT @CNBC: Amazon developing advertising-supported tablet computer - Amazon plans to offer device at discount to similar models- WSJ $AMZN","lbl":"Neutral"}
+,{"time":"20:02","usr":"MCJunkie","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"20:16","usr":"JK8675309","txt":"RT @AllAboutTrends \u0022like\u0022 our fanpage for an opportunity to win an $AMZN Kindle DX + $50 credit for a trading book. http://t.co/bUHLsnAw","lbl":"Neutral"}
+,{"time":"20:25","usr":"LivingThankful","txt":"Source: Amazon will unveil two 7-inch Kindle Fires Sept. 6 $AMZN http://t.co/JIm9WsJg","lbl":"Neutral"}
 ]

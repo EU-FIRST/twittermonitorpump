@@ -1,17 +1,42 @@
 [
-{"time":"3:46","usr":"SCybernetics","txt":"$GOOG $AAPL Google shares slide after Motorola earnings warning. http://t.co/wKpZrH67","lbl":"Negative"}
+{"time":"2:25","usr":"francis_lui","txt":"RT @SAI: How Larry Page Changed Meetings At Google After Taking Over Last Spring $GOOG by @MattRosoff http://t.co/iYwO4npD","lbl":"Neutral"}
+,{"time":"2:25","usr":"hugoburge","txt":"Like these simple rules RT @SAI How Larry Page Changed Meetings At Google After Taking Over $GOOG by @MattRosoff http://t.co/q166nRZb","lbl":"Neutral"}
+,{"time":"2:26","usr":"josemariapuerta","txt":"RT @SAI: How Larry Page Changed Meetings At Google After Taking Over Last Spring $GOOG by @MattRosoff http://t.co/iYwO4npD","lbl":"Neutral"}
+,{"time":"2:26","usr":"$GOOG","txt":"Google+ released >100 features in the first 90 days? $GOOG by @MattRosoff http://t.co/BlYNJXP4 @SAI","lbl":"Neutral"}
+,{"time":"3:42","usr":"nickwalker","txt":"RT @SAI: How Larry Page Changed Meetings At Google After Taking Over Last Spring $GOOG by @MattRosoff http://t.co/cuyIwNe8","lbl":"Neutral"}
+,{"time":"3:46","usr":"SCybernetics","txt":"$GOOG $AAPL Google shares slide after Motorola earnings warning. http://t.co/wKpZrH67","lbl":"Negative"}
+,{"time":"3:46","usr":"chris_behnke","txt":"RT @SAI: How Larry Page Changed Meetings At Google After Taking Over Last Spring $GOOG by @MattRosoff http://t.co/iYwO4npD","lbl":"Neutral"}
+,{"time":"6:37","usr":"TomLabus","txt":"$GOOG should consider Mango/tango for their handsets.","lbl":"Neutral"}
 ,{"time":"6:54","usr":"optioncommander","txt":"BL: Laszlo Birinyi Sees Bull Market Continuing in 2012 http://t.co/aDc6CM0Y > $SPY $DIA $AAPL $GOOG $SMH $XLI $TBT $XIV","lbl":"Positive"}
+,{"time":"9:15","usr":"randy_cass","txt":"If you own $AAPL , $RIMM or $GOOG, this is a chart you have to see. http://t.co/UzxlW5YL @BNN_TV #Marketsense","lbl":"Neutral"}
+,{"time":"9:16","usr":"tradewithpete","txt":"Worksheet for $SWEB http://t.co/PBi8xTzL $FIO $AOL $NUAN $DPZ $LPSN $GOOG $SBUX $RAX $V $AAPL","lbl":"Neutral"}
 ,{"time":"9:17","usr":"$GOOG","txt":"$GOOG: remember what the clown Cramer just said: the decline in $GOOG is real.","lbl":"Negative"}
 ,{"time":"9:58","usr":"$GOOG","txt":"$GOOG? N\u0027yet. #stocks $$ #GOP #DNC","lbl":"Negative"}
+,{"time":"9:59","usr":"$GOOG","txt":"RT @SAI: How Larry Page Changed Meetings At Google After Taking Over Last Spring $GOOG by @MattRosoff http://t.co/vA5VMyC7","lbl":"Neutral"}
+,{"time":"10:00","usr":"$GOOG","txt":"SAI: Google Just Started Powering Search Results With Google+ Profiles $GOOG by @mattlynley http://t.co/I27lwQBu","lbl":"Neutral"}
+,{"time":"10:05","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/76, $AAPL/65, $LULU/59, $NFLX/56, $TIF/34, $WBMD/29, $GOOG/27, $DNDN/23. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"11:43","usr":"guttrader","txt":"$GOOG, $AAPL, $BIDU, $SINA, $GS, $LULU, and many more if u like them, I have thousand reasons for u sign up http://t.co/8maEp8tP $$$$$$ easy","lbl":"Neutral"}
+,{"time":"11:43","usr":"BUDDIEE18","txt":"RT @guttrader: $GOOG, $AAPL, $BIDU, $SINA, $GS, $LULU, and many more if u like them, I have thousand reasons for u sign up http://t.co/8maEp8tP $$$$$$ easy","lbl":"Neutral"}
+,{"time":"11:49","usr":"gtotoy","txt":"it\u0027s $AAPL\u0027s turn to get taken down, $IBM,$GOOG and $AMZN have all been nailed","lbl":"Negative"}
+,{"time":"13:31","usr":"StkConfidential","txt":"$GOOG, $NFLX, $AMZN & $AAPL\u0027s TV battle for the living room: http://t.co/mCE4pDz1 $STUDY","lbl":"Neutral"}
 ,{"time":"15:28","usr":"TraderPineSt","txt":"added $Goog at 625.15","lbl":"Positive"}
+,{"time":"15:30","usr":"SeekingAlpha","txt":"4 Stocks Poised To Move Ahead Before Earnings http://t.co/ebgUi0pT $JNPR $FFIV $AAPL $SIRI $AA $GOOG $MMI","lbl":"Neutral"}
 ,{"time":"15:32","usr":"TraderPineSt","txt":"$GOOG showing harami on the daily chart. Looking for a reversal to the upside in the next few days.","lbl":"Positive"}
+,{"time":"16:11","usr":"UBD_Studio","txt":"RT @SAI: WALKTHROUGH: How Google Plans To Change Search Results With Google+ $GOOG by @MattRosoff http://t.co/bvy0glzm","lbl":"Neutral"}
 ,{"time":"16:13","usr":"SteveGoldsmith","txt":"RT @MattRosoff: Google+ Is Way Bigger Than We Thought: It\u0027s Totally Going To Change How The Web Works $GOOG http://t.co/IPbc1DSZ","lbl":"Positive"}
 ,{"time":"16:13","usr":"SA_GOOG","txt":"Google Shows A Recent Weakness http://t.co/LAkOcsrW $AOL $YHOO $GOOG","lbl":"Negative"}
+,{"time":"16:14","usr":"ForevrLearning","txt":"RT @businessinsider: WALKTHROUGH: How Google Plans To Change Search Results With Google+ $GOOG by @MattRosoff http://t.co/zuI0fKJy","lbl":"Neutral"}
 ,{"time":"17:00","usr":"blin90","txt":"RT @SAI: Twitter Slams Google\u0027s New Social Search Features: \u0027We\u0027re Concerned\u0027 $GOOG by @mattlynley http://t.co/VZfURL1p","lbl":"Negative"}
 ,{"time":"17:00","usr":"TashR","txt":"RT @SAI: Twitter Slams Google\u0027s New Social Search Features: \u0027We\u0027re Concerned\u0027 $GOOG by @mattlynley http://t.co/VZfURL1p","lbl":"Negative"}
 ,{"time":"17:01","usr":"frasermatthew","txt":"RT @SAI: Twitter Slams Google\u0027s New Social Search Features: \u0027We\u0027re Concerned\u0027 $GOOG by @mattlynley http://t.co/VZfURL1p","lbl":"Negative"}
+,{"time":"17:01","usr":"equitiescom","txt":"#Google to Offer Personalized Search Results in attempts to stay ahead of #Microsoft Bing, #Facebook: http://t.co/Dj9F5zuI $GOOG $MSFT $YHOO","lbl":"Neutral"}
+,{"time":"17:49","usr":"political_hawk","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/fSxJvXIn #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"17:52","usr":"marchuq","txt":"RT @SAI: WALKTHROUGH: How Google Plans To Change Search Results With Google+ $GOOG by @MattRosoff http://t.co/bvy0glzm","lbl":"Neutral"}
 ,{"time":"19:29","usr":"SpenserVillwock","txt":"Google and Clean Energy $GOOG - Web companies like Google are investing in renewable energy with handsome profits. ... http://t.co/R6UYxsmR","lbl":"Positive"}
 ,{"time":"19:30","usr":"jasonelsom","txt":"RT @SAI: Google Continues Its Winning Streak Over Bing In December $GOOG $MSFT $YHOO by @MattRosoff http://t.co/lFxH6k9s","lbl":"Positive"}
+,{"time":"19:31","usr":"zerobeta","txt":"Now that $GOOG is indexing G+ annoying people are going to start crafting more SEO friendly messages updates notices viagra porn tebow","lbl":"Neutral"}
 ,{"time":"19:31","usr":"SpenserVillwock","txt":"Google and Clean Energy $GOOG - Web companies like Google are investing in renewable energy with handsome profits. ... http://t.co/DH5TMuyX","lbl":"Positive"}
+,{"time":"22:18","usr":"ReformedBroker","txt":"$AMZN short-term $goog long term RT @tomdesee: @ReformedBroker $AMZN or $GOOG?","lbl":"Positive"}
 ,{"time":"22:20","usr":"instapreneur","txt":"RT @SAI: Google+ Is Way Bigger Than We Thought: It\u0027s Totally Going To Change How The Web Works $GOOG by @MattRosoff http://t.co/tykcsdcJ","lbl":"Positive"}
+,{"time":"22:31","usr":"shortneckduck","txt":"RT @SAI: So How\u0027s That \u0022Bet On Android\u0022 Thing Working Out For You? $GOOG by @MattRosoff http://t.co/Kmvowpji","lbl":"Neutral"}
 ]

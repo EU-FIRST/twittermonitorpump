@@ -1,29 +1,93 @@
 [
-{"time":"0:17","usr":"pianistic","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+{"time":"0:17","usr":"nsfw365","txt":"Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"0:17","usr":"pianistic","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"0:19","usr":"ChrisEYin","txt":"\u0022@greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%\u0022","lbl":"Neutral"}
+,{"time":"0:19","usr":"quinnemmett","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"1:06","usr":"corduroy","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"1:06","usr":"BobFarrigan","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"1:07","usr":"jaystox","txt":"So $GOOG decided to make a POS tablet just like $AMZN and $RIMM to compete with NON-POS devices from $AAPL. Why not make a good one????","lbl":"Negative"}
+,{"time":"1:08","usr":"jaystox","txt":"$GOOG tablet probably hurts $AMZN more than $AAPL.","lbl":"Neutral"}
+,{"time":"1:29","usr":"jaydos","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"1:30","usr":"ExtraTan","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"1:30","usr":"Inderes","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
 ,{"time":"1:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 01:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"1:59","usr":"quefuera","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"2:00","usr":"SeekingAlpha","txt":"Tablet War: Winners, Losers, And Implications To Your Portfolio http://t.co/2GuskQmp $AAPL $AMZN $BKS $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"2:00","usr":"magnoconag","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"2:00","usr":"roemervlasveld","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"2:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 02:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"2:31","usr":"BigTicks","txt":"$GOOG News: Nexus Tablet Unveiled By Google (GOOG, AAPL, MSFT, AMZN) http://t.co/1j49wNLg #AAPL #GOOG #MSFT","lbl":"Neutral"}
+,{"time":"2:31","usr":"gregdsouza","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"3:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 03:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
 ,{"time":"3:31","usr":"brandstrat","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"3:33","usr":"VictusFate","txt":"RT @howardlindzon: I want my $goog glasses to only show me \u0027good\u0027 naked","lbl":"Neutral"}
+,{"time":"3:34","usr":"tusharkatira","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"5:09","usr":"Qwovadis","txt":"Commented on: \u0022New Headwinds Facing Google\u0022 http://t.co/yjaxqErX $GOOG","lbl":"Negative"}
 ,{"time":"5:10","usr":"murphmarkd","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"5:11","usr":"billyshipp","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"5:15","usr":"richi","txt":"Revealed: Nexus 7 tablet specs, reviews, release date: Pre-order now! http://t.co/7DOP40iM #ITBW for @Computerworld by @richi $GOOG $AKCPF","lbl":"Neutral"}
 ,{"time":"6:13","usr":"lluccipha","txt":"SAI: Google Isn\u0027t Making Any Profit From Sales Of The New Nexus Tablet Right Now $GOOG by @sfiegerman http://t.co/xogqKpGG","lbl":"Negative"}
 ,{"time":"6:13","usr":"TumonChief","txt":"RT @SAI: Google Isn\u0027t Making Any Profit From Sales Of The New Nexus Tablet Right Now $GOOG by @sfiegerman http://t.co/felrCAzg","lbl":"Negative"}
 ,{"time":"6:13","usr":"procutwits","txt":"RT @SAI: Google Isn\u0027t Making Any Profit From Sales Of The New Nexus Tablet Right Now $GOOG by @sfiegerman http://t.co/felrCAzg","lbl":"Negative"}
 ,{"time":"6:13","usr":"rcastle06","txt":"RT @SAI: Google Isn\u0027t Making Any Profit From Sales Of The New Nexus Tablet Right Now $GOOG by @sfiegerman http://t.co/felrCAzg","lbl":"Negative"}
+,{"time":"6:57","usr":"iAtaraxia","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"6:58","usr":"lucanalin","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"7:00","usr":"Colarusso42","txt":"Think $goog hardware play is a loser but loved voice recognition test. Anyone asked Siri about \u0022pygmy marmoset\u0022? $aapl http://t.co/WnqprZxz","lbl":"Negative"}
+,{"time":"7:48","usr":"StaceyMascarena","txt":"RT @carlquintanilla: Google\u0027s tablet to be built in US. Airbus planning new plant in Alabama = good day for US competitiveness. $GOOG","lbl":"Neutral"}
+,{"time":"7:48","usr":"mannyfresca","txt":"RT @carlquintanilla: Google\u0027s tablet to be built in US. Airbus planning new plant in Alabama = good day for US competitiveness. $GOOG","lbl":"Neutral"}
+,{"time":"7:48","usr":"eisp","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"7:49","usr":"glifsey","txt":"RT @carlquintanilla: Google\u0027s tablet to be built in US. Airbus planning new plant in Alabama = good day for US competitiveness. $GOOG","lbl":"Neutral"}
+,{"time":"8:39","usr":"choffman1978","txt":"$GMCR breaking out wow!!#cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$ctic,$pfe,$jnj,#stocks,#biotech,#investments,#markets,$arna","lbl":"Neutral"}
+,{"time":"8:44","usr":"barronstechblog","txt":"This Morning: More Pain for Drive Makers, Nexus Goes up Against Kindle - Tech Trader Daily- $STX $WDC $GOOG $AMZN $QCOM http://t.co/5kHDH3RA","lbl":"Neutral"}
+,{"time":"9:17","usr":"thefinancepress","txt":"$GOOG Google\u0027s Brin to Offer Eyeglass Computers to Consumers by 2014: Google\u0027s Brin to Offer Eyeglass Computers... http://t.co/35retyLm","lbl":"Neutral"}
+,{"time":"9:17","usr":"Minyanville","txt":"Google\u0027s Nexus 7 is competing with the Nook and Kindle, not the #iPad http://t.co/taF348x3 $GOOG $AMZN $AAPL $BKS @michaelcomeau","lbl":"Positive"}
+,{"time":"10:08","usr":"engineerhunter","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"10:09","usr":"stojeipatrze","txt":"RT @abebut: $GOOG Nexus 7 much faster than $AAPL iPad: 4 core CPU & 16 core GPU vs. iPad\u0027s only 2 core CPU and only 4 core GPU. Price $200 vs. $500","lbl":"Positive"}
+,{"time":"10:10","usr":"BloombergTV","txt":"Here are the top ten stocks to watch today: $FGVH $FDO $AOL $NWS #Euro $RIMM $BARC $GOOG $JPM #HealthCareStocks http://t.co/ok63zkeh","lbl":"Neutral"}
+,{"time":"11:26","usr":"thefinancepress","txt":"$GOOG Google Inc (GOOG) rolls in tablet market with Nexus 7: Google Inc (GOOG) rolls in tablet market with Nexu... http://t.co/QoD48jo1","lbl":"Neutral"}
+,{"time":"11:26","usr":"tkuz4u","txt":"RT @SAI: Google\u0027s New Nexus Tablet Will Hurt Microsoft More Than Apple $AAPL $GOOG $MSFT by @sfiegerman http://t.co/vQZVj2SO","lbl":"Neutral"}
+,{"time":"11:27","usr":"jmorrow779","txt":"RT @carlquintanilla: Google\u0027s tablet to be built in US. Airbus planning new plant in Alabama = good day for US competitiveness. $GOOG","lbl":"Neutral"}
+,{"time":"11:27","usr":"stuffandplayx","txt":"RT @barronsonline: Google: Street Skeptical \u2018Nexus 7\u2032 to Turn Android Tablet Tide Against Apple http://t.co/GcACy6lR $GOOG $AAPL $AMZN $MSFT $HPQ $NVDA #ipad","lbl":"Neutral"}
+,{"time":"12:25","usr":"KelseyDuckett","txt":"RT @businessinsider: Google\u0027s Chrome Browser Is Launching On The iPhone Today! $GOOG by @mattlynley http://t.co/DyhzehWc","lbl":"Neutral"}
 ,{"time":"12:25","usr":"RedDogT3Live","txt":"@smartertrader @tlmontana I agree $GOOG has been one of the worst high beta names with $bidu. Guys had multiple chances to sell","lbl":"Negative"}
+,{"time":"12:26","usr":"morphiesin","txt":"RT @businessinsider: Google\u0027s Chrome Browser Is Launching On The iPhone Today! $GOOG by @mattlynley http://t.co/DyhzehWc","lbl":"Neutral"}
+,{"time":"12:26","usr":"onthegroundjm","txt":"RT @businessinsider: Google\u0027s Chrome Browser Is Launching On The iPhone Today! $GOOG by @mattlynley http://t.co/DyhzehWc","lbl":"Neutral"}
+,{"time":"12:58","usr":"thefinancepress","txt":"$GOOG Google\u0027s Nexus Threat to Microsoft\u0027s Surface, but Not iPad: Google\u0027s Nexus Threat to Microsoft\u0027s Surface,... http://t.co/YW3gAYg0","lbl":"Neutral"}
 ,{"time":"13:00","usr":"racernic","txt":"$goog tablet might have a chance imo.dont think lined up2compete w/ipad(unless release mini ipad).many still want pads.goog will get a chunk","lbl":"Positive"}
+,{"time":"13:00","usr":"danielhsqr","txt":"$GOOG going after $AMZN AWS with Google Compute Engine, another pt for @firstadopter ?","lbl":"Neutral"}
 ,{"time":"13:39","usr":"keepitrealdude","txt":"Why I have been short $GOOG http://t.co/i55Hh4mj","lbl":"Negative"}
+,{"time":"13:40","usr":"iBizNews21","txt":"RT @CNNMoney: RT @FortuneMagazine: As Google launches products, regulatory woes linger http://t.co/cYEdw1V4 $GOOG","lbl":"Neutral"}
 ,{"time":"13:40","usr":"Vin_Noto","txt":"RT @keepitrealdude: Why I have been short $GOOG http://t.co/i55Hh4mj","lbl":"Negative"}
+,{"time":"14:29","usr":"suzannestew","txt":"\u201C@greggretsch: Since release of iPhone 5 years ago, market caps of co.s most affected: $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%\u201D wow!","lbl":"Neutral"}
 ,{"time":"14:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 14:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"14:30","usr":"pennystockguys","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/gRX2c8iv","lbl":"Neutral"}
 ,{"time":"14:30","usr":"ADVFNplc","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/evHeKNZU","lbl":"Positive"}
+,{"time":"15:21","usr":"k1bird","txt":"Now this is a product demo! http://t.co/8do1SaZ2 If $GOOG can be anyway as bold in their prod dev as this demo its going to be a \u0022wild\u0022 ride","lbl":"Neutral"}
+,{"time":"15:22","usr":"barronstechblog","txt":"RIMM Shares Halted; FYQ1 Rev $2.8B, $0.37/Sh Loss - Tech Trader Daily - Barron\u0027s $RIMM $AAPL $GOOG $MSFT $NOK http://t.co/GBcJp6zf","lbl":"Neutral"}
 ,{"time":"15:23","usr":"N2RAG","txt":"RT @SAI: Android\u0027s Product Boss Told Us The Nexus 7 Tablet Is Already Selling Really Well $GOOG by @stevekovach http://t.co/6bVOXvKU","lbl":"Positive"}
 ,{"time":"15:23","usr":"FreeMrktCptlst","txt":"Now I just feel sorry for $RIM\u2026$GOOG, take a good look at your future :)","lbl":"Negative"}
+,{"time":"15:54","usr":"razvandan","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"15:54","usr":"businessinsider","txt":"Here\u0027s Your First Look At Google Drive For iPhone and iPad $GOOG by @officialKLS http://t.co/FAy9pNGr","lbl":"Neutral"}
+,{"time":"15:54","usr":"SAI","txt":"Here\u0027s Your First Look At Google Drive For iPhone and iPad $GOOG by @officialKLS http://t.co/FeDLVnBp","lbl":"Neutral"}
+,{"time":"15:54","usr":"SAI_Tools","txt":"Here\u0027s Your First Look At Google Drive For iPhone and iPad $GOOG by @officialKLS http://t.co/p2wOnBJm","lbl":"Neutral"}
+,{"time":"16:31","usr":"travid","txt":"RT @samestrin \u201CGoogle launches EC2 rival Compute Engine\u201D http://t.co/iSUS3z8Z #cloud #computing $goog $amzn #startup-tools","lbl":"Neutral"}
 ,{"time":"16:32","usr":"2eux","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"16:33","usr":"Kilheure","txt":"RT @businessinsider: Google Just Declared War On These 12 Products $GOOG $MSFT $AAPL $AMZN $FB by @mwmoretti http://t.co/kW1xu4Eb","lbl":"Neutral"}
+,{"time":"17:07","usr":"jnkjlezv","txt":"RT @businessinsider: SCREENSHOTS: Check Out Jelly Bean, The New Version Of Android Launching Next Month $GOOG by @stevekovach http://t.co/x80mmmZn","lbl":"Neutral"}
+,{"time":"17:08","usr":"AIPpanelsinAsia","txt":"SCREENSHOTS: Jelly Bean, The New Version Of Android Launching Next Month $GOOG by @stevekovach http://t.co/0W6q8RGP http://t.co/0W6q8RGP","lbl":"Neutral"}
+,{"time":"17:08","usr":"NELSONSDAVIS","txt":"SCREENSHOTS: Jelly Bean, The New Version Of Android Launching Next Month $GOOG by @stevekovach http://t.co/j3TRPUVR http://t.co/j3TRPUVR","lbl":"Neutral"}
+,{"time":"17:26","usr":"alfredaskeljung","txt":"RT @SAI Web Companies Are Tripping Over Themselves To Be Part Of Google\u0027s New Cloud $GOOG by @Julie188 http://t.co/gN8yNhgu","lbl":"Neutral"}
+,{"time":"17:26","usr":"seongcc","txt":"RT @SAI: SCREENSHOTS: Check Out Jelly Bean, The New Version Of Android Launching Next Month $GOOG by @stevekovach http://t.co/M5z6FACi","lbl":"Neutral"}
+,{"time":"17:28","usr":"BenVass","txt":"RT @SAI: Google Chrome Is Already Our Favorite Mobile Browser\u2014These Screenshots Show You Why $GOOG by @officialKLS http://t.co/6s3P92RB","lbl":"Neutral"}
 ,{"time":"17:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 17:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"18:16","usr":"OluwatoniC","txt":"RT @SAI: Google Just Made It Much Cheaper To Do A Web Startup $GOOG by @nichcarlson http://t.co/SwBbq7Uo","lbl":"Neutral"}
+,{"time":"18:19","usr":"SchadFinancial","txt":"RT @CNNMoney: Google\u0027s Chrome browser comes to Apple\u0027s iPhone http://t.co/b7UOZbjT $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"18:20","usr":"SeekingAlpha","txt":"Did iPad Just Become Google\u0027s Collateral Damage? http://t.co/k7ycUztx $AAPL $AMZN $MSFT $NOK $GOOG","lbl":"Negative"}
 ,{"time":"19:56","usr":"dougsmithstpete","txt":"\u201C@timoreilly: \u0022Revenue per viewership-hour is now higher on YouTube than it is on cable television\u0022 #vidcon\u201D $goog @Sean_Davis","lbl":"Positive"}
+,{"time":"19:58","usr":"SimonOlig","txt":"RT @businessinsider: Google Chrome Is Already Our Favorite Mobile Browser\u2014These Screenshots Show You Why $GOOG by @officialKLS http://t.co/I9pcxPss","lbl":"Neutral"}
+,{"time":"20:11","usr":"LDrogen","txt":"wowza \u201C@timoreilly: \u0022Revenue per viewership-hour is now higher on YouTube than it is on cable television\u0022 #vidcon\u201D $GOOG","lbl":"Neutral"}
+,{"time":"20:12","usr":"markayre","txt":"RT @SAI: Web Companies Are Tripping Over Themselves To Be Part Of Google\u0027s New Cloud $GOOG by @Julie188 http://t.co/6UFL9zXm","lbl":"Neutral"}
+,{"time":"22:27","usr":"krestivo","txt":"\u201C@verge: Google\u0027s Matias Duarte would \u0027really welcome\u0027 RIM\u0027s building Android devices http://t.co/uDHqYf3P\u201D . On $GOOG \u2018s terms undoubtedly.","lbl":"Neutral"}
 ,{"time":"22:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 22:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"22:30","usr":"SSDmt","txt":"RT @CorbinHutch: The only ads I see with my $goog glasses are for LASIK surgery. Smart.","lbl":"Neutral"}
 ]

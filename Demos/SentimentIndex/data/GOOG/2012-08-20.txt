@@ -1,5 +1,27 @@
 [
-{"time":"12:01","usr":"ocg3","txt":"$GOOG sure is getting some love. Long forgotten is the non-voting stock dis on financial markets from April this year. Good for $GOOG.","lbl":"Positive"}
+{"time":"7:58","usr":"coreymanicone","txt":"Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs http://t.co/os6qorrB via @sai $GOOG $AAPL $AMZN","lbl":"Negative"}
+,{"time":"7:59","usr":"BsiflingTrades","txt":"In case you missed it last night, here is my Macro/Large Cap Analysis $AAPL $PCLN $GOOG $USO $VXX http://t.co/QcpDpTTT","lbl":"Neutral"}
+,{"time":"7:59","usr":"Bioinvestor71","txt":"RT @BsiflingTrades: In case you missed it last night, here is my Macro/Large Cap Analysis $AAPL $PCLN $GOOG $USO $VXX http://t.co/QcpDpTTT","lbl":"Neutral"}
+,{"time":"7:59","usr":"thefinancepress","txt":"$GOOG The Zacks Analyst Blog Highlights: Google, Apple, Research In Motion, Nokia ...: The Zacks Analyst Blog H... http://t.co/c5WDYsLq","lbl":"Neutral"}
+,{"time":"9:10","usr":"choffman1978","txt":"$ACUR surging up nearly 20% - M&A rumors? Could hit $3+ soon? $aapl,$cvh,$sjm,$fb,$nflx,$cvh,$bby,$goog,$wfc,$tgt,$tst,$jpm,$bac,$bpax,#incy","lbl":"Neutral"}
+,{"time":"10:04","usr":"dboysinc","txt":"Is It Finally Time To Take Profits On Apple? http://t.co/ErJSk2k1 $GOOG $AAPL\u201D","lbl":"Neutral"}
+,{"time":"10:05","usr":"swamptrade","txt":"RT @Fitzstock2004: Bears still focusing on shorting this $spx $spy......and MISSED the whole $aapl breakout....and will miss $GOOG next :)","lbl":"Neutral"}
+,{"time":"10:05","usr":"thefinancepress","txt":"$GOOG The Zacks Analyst Blog Highlights: Google, Apple, Research In Motion, Nokia ...: The Zacks Analyst Blog H... http://t.co/RqkJeAdj","lbl":"Neutral"}
+,{"time":"10:07","usr":"chronosx1dave","txt":"RT @thomsonreuters: Shares of Google and Facebook took VERY different paths 60 days following their IPOs - http://t.co/KvA1L0Fz $FB $GOOG","lbl":"Neutral"}
+,{"time":"10:59","usr":"bro_seppe","txt":"@708IllNois @official_flo @jimcramer whats a $goog to a goblin? #aapl","lbl":"Neutral"}
+,{"time":"11:00","usr":"BloombergWest","txt":"#Google\u0027s Motorola files a new patent case aganst #Apple. http://t.co/83G3DoVU $GOOG $APPL #tech","lbl":"Neutral"}
+,{"time":"11:01","usr":"lfurniss","txt":"#Google\u0027s Motorola files a new patent case aganst #Apple. http://t.co/5eFiKU21 $GOOG $APPL #tech","lbl":"Neutral"}
+,{"time":"11:08","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) v. Apple Inc. (AAPL) via Motorola, The Sequel: Google Inc. (GOOG) v. Apple Inc. (AAPL)... http://t.co/hAl4RbnA","lbl":"Neutral"}
+,{"time":"11:59","usr":"DeidreZune","txt":"Buying dips in $AAPL $GOOG $AMZN will serve u well","lbl":"Positive"}
+,{"time":"12:01","usr":"ocg3","txt":"$GOOG sure is getting some love. Long forgotten is the non-voting stock dis on financial markets from April this year. Good for $GOOG.","lbl":"Positive"}
+,{"time":"12:02","usr":"njnigh","txt":"LinkedIn Winning The Social Media Wars? via @SeekingAlpha http://t.co/i3yuhtfQ $LNKD $FB $GOOG $GRPN $JSDA $PEP $REED $YHOO $ZNGA","lbl":"Neutral"}
+,{"time":"12:46","usr":"BhagCAPITAL","txt":"\u0022@InvestWatchBlog: Goldman Sachs to Clients: Get Out of Stocks Before Fiscal Cliff Hits http://t.co/IvRv0X4B\u0022 $GOOG $FB #RomneyRyan2012","lbl":"Neutral"}
+,{"time":"12:50","usr":"ScottMatusow","txt":"Commented on: \u0022Vringo: How Mark Cuban\u0027s Large Patent Hedge Bet Could Make A Bundle\u0022 http://t.co/zW0esmc9 $VRNG $AOL $GOOG $MSFT","lbl":"Neutral"}
 ,{"time":"14:22","usr":"ArLowy","txt":"@gtotoy @larryfooter wouldn\u0027t you rather short $GOOG instead.","lbl":"Negative"}
+,{"time":"14:25","usr":"racernic","txt":"w/ $GOOG there is a blue elephant in the room: stock split of sorts","lbl":"Neutral"}
+,{"time":"15:51","usr":"AlfonsoFaustino","txt":"@WeTradeAAPL No -- I only play option derivatives on $AAPL, $BIDU, & $GOOG. I played $HPQ 2xs 2 yrs ago, & it wasn\u0027t volatile enuff 4 me.","lbl":"Neutral"}
 ,{"time":"16:00","usr":"fredtoquin","txt":"CHART OF THE DAY: Google\u0027s Stock Has Done Surprisingly Well Under Larry Page $GOOG by @jyarow http://t.co/a4UXKc4v","lbl":"Positive"}
+,{"time":"16:04","usr":"the_real_bob_sa","txt":"I think this is really how google feels about aaple. $aapl $goog http://t.co/4U6hWi3m","lbl":"Neutral"}
+,{"time":"18:57","usr":"thefinancepress","txt":"$GOOG Kodak Investor Asks US Trustee to Probe Patent Bidding: Kodak Investor Asks US Trustee to Probe Patent Bi... http://t.co/Km3ie0AA","lbl":"Neutral"}
+,{"time":"18:57","usr":"DrunkStepmother","txt":"Well @CharlieThomps0n @KidDynamiteBlog $GOOG: http://t.co/Dw4OYUhe then $VRNG: http://t.co/GJrTAgGt a jury of 12? Come on #dicksticks","lbl":"Neutral"}
 ]

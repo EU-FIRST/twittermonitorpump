@@ -1,7 +1,21 @@
 [
-{"time":"2:28","usr":"guru30","txt":"RT @SAI: Google: Users Are \u0027Delighted\u0027 With Our Search Changes $GOOG by @MattRosoff http://t.co/5VyAEK2r","lbl":"Positive"}
+{"time":"2:08","usr":"LucaColombo","txt":"RT @SAI: Google: Users Are \u0027Delighted\u0027 With Our Search Changes $GOOG by @MattRosoff http://t.co/5VyAEK2r","lbl":"Neutral"}
+,{"time":"2:17","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+,{"time":"2:25","usr":"anupartha","txt":"RT @SAI: Google: Users Are \u0027Delighted\u0027 With Our Search Changes $GOOG by @MattRosoff http://t.co/5VyAEK2r","lbl":"Neutral"}
+,{"time":"2:28","usr":"guru30","txt":"RT @SAI: Google: Users Are \u0027Delighted\u0027 With Our Search Changes $GOOG by @MattRosoff http://t.co/5VyAEK2r","lbl":"Positive"}
+,{"time":"10:34","usr":"TheAcsMan","txt":"I know 2 word #Captcha supposed help $GOOG identify unrecognized words in scanning books, but increasingly I can\u0027t recognize either word","lbl":"Neutral"}
+,{"time":"10:34","usr":"OptiontoProfit","txt":"I know 2 word #Captcha supposed help $GOOG identify unrecognized words in scanning books, but increasingly I can\u0027t recognize either word","lbl":"Neutral"}
+,{"time":"10:34","usr":"OTPBook","txt":"I know 2 word #Captcha supposed help $GOOG identify unrecognized words in scanning books, but increasingly I can\u0027t recognize either word","lbl":"Neutral"}
+,{"time":"10:34","usr":"PFCAcsMan","txt":"I know 2 word #Captcha supposed help $GOOG identify unrecognized words in scanning books, but increasingly I can\u0027t recognize either word","lbl":"Neutral"}
+,{"time":"14:41","usr":"ericjackson","txt":"Buying $FB in 2012 at $100b is like buying $GOOG in 2005 at $650/share","lbl":"Neutral"}
 ,{"time":"14:42","usr":"leopardtrader","txt":"I like $GOOG here with stop @540 with tgt $750. I will also take $SNDK with stop $44 tgt $60.","lbl":"Positive"}
+,{"time":"14:43","usr":"MergerArbitrage","txt":"Other stocks I don\u0027t like that we own, because of their \u0022take over the world\u0022 potential: $GOOG $APPL $AMZN and.... $MSFT (just saying).","lbl":"Neutral"}
 ,{"time":"14:44","usr":"alexheimann","txt":"@ericjackson $goog is having issues keeping pace quarter after quarter with earnings based 95% on advertising, will $FB do better?","lbl":"Negative"}
+,{"time":"18:10","usr":"SantaFe4Life","txt":"RT @SAI: Stop What You\u0027re Doing, And Go See What Google Thinks It Knows About You $GOOG by @jyarow http://t.co/U9vsqu2m","lbl":"Neutral"}
+,{"time":"18:11","usr":"$GOOG","txt":"$GOOG spent $1.3 billion in 2011 and bought 79 companies, excluding the $12.5B for Motorola.","lbl":"Neutral"}
+,{"time":"18:12","usr":"buzzonabudget","txt":"RT @ebcapital: Commented on: \u0022Apple TV Is Almost Ready For Prime Time\u0022 http://t.co/35QfsNXt $AMZN $NUAN $BRCM $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"23:24","usr":"WallStJesus","txt":"RT @DrDuru Chart review bonanza. Some FASCINATING stories here: http://t.co/fiIIiXsb $GOOG $RIMM $GS $FSLR $CAT $JCP $INTC","lbl":"Neutral"}
 ,{"time":"23:27","usr":"TinMan4L","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/UGZtTXsZ $AAPL $GOOG by @ozoran","lbl":"Negative"}
+,{"time":"23:34","usr":"McMillianFurlow","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/UGZtTXsZ $AAPL $GOOG by @ozoran","lbl":"Neutral"}
 ,{"time":"23:41","usr":"mobilemerv","txt":"RT @TheStreet: Why Apple\u0027s Trumping Android in Enterprises http://t.co/VRi4zZ6K $AAPL $GOOG by @ozoran","lbl":"Negative"}
 ]

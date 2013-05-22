@@ -1,3 +1,9 @@
 [
-{"time":"9:35","usr":"Emmanuel_Manny_","txt":"$AMZN is a technology company $eBAY is not. $AMZN\u2265$eBAY","lbl":"Positive"}
+{"time":"9:34","usr":"USwwwStocks","txt":"$AMZN News: Amazon Opens Portal for International Mobile App Distribution http://t.co/SWu9tbdf #AMZN #Amazon #distribution","lbl":"Neutral"}
+,{"time":"9:35","usr":"Emmanuel_Manny_","txt":"$AMZN is a technology company $eBAY is not. $AMZN\u2265$eBAY","lbl":"Positive"}
+,{"time":"13:22","usr":"SumZero","txt":"Special Situation: $DMD on Take-Out Alert http://t.co/gzicPDtr $GOOG $AMZN $AOL $YHOO","lbl":"Neutral"}
+,{"time":"15:23","usr":"MagicInnovation","txt":"RT @Minyanville: Online sales are killing electronic retail stores like Best Buy http://t.co/Rxjk1Pb6 @merbed $BBY $AMZN $AAPL $TGT","lbl":"Neutral"}
+,{"time":"15:24","usr":"AKPalit","txt":"#LivingSocial CEO states near-term IPO unlikely. Makes sense given #Groupon; + they have source of $ given #Amazon\u0027s 30% stake. $AMZN $GRPN","lbl":"Neutral"}
+,{"time":"19:14","usr":"FirasMaad","txt":"RT @CNNMoney: iPad challengers: Disappointment, dismay and disaster http://t.co/Mug5DaFK $AAPL $MSFT $AMZN","lbl":"Neutral"}
+,{"time":"19:22","usr":"alejandro_p","txt":"RT @CNNMoney: iPad challengers: Disappointment, dismay and disaster http://t.co/Mug5DaFK $AAPL $MSFT $AMZN","lbl":"Neutral"}
 ]

@@ -1,4 +1,19 @@
 [
-{"time":"21:30","usr":"Davidmclellan","txt":"Trying to buy a chromebook but totally sold out everywhere. $GOOG","lbl":"Positive"}
+{"time":"4:36","usr":"TweepCO","txt":"RT @mcilderman #Invest In Artificial Intelligence http://t.co/4e5gONXe $FB $GOOG $IBM $MSFT $NUAN $AAPL #apple #google #tech","lbl":"Neutral"}
+,{"time":"4:54","usr":"WordzWizard","txt":"No, the World Wildlife Fund is not using drones to vaporize rhino poachers, but... http://t.co/xBpQ8VNf $GOOG","lbl":"Neutral"}
+,{"time":"8:47","usr":"faustocarva","txt":"RT @SAI: How Apple Really Lost Its Lead In The \u002780s $AAPL $MSFT $GOOG by @jyarow http://t.co/OIIfkidf","lbl":"Neutral"}
+,{"time":"8:49","usr":"HowardBIA","txt":"\u0022@SAI: How Apple Really Lost Its Lead In The \u002780s $AAPL $MSFT $GOOG by @jyarow http://t.co/thrw01rV\u0022...Great analysis...won\u0027t happen again.","lbl":"Neutral"}
+,{"time":"8:52","usr":"auredagaz","txt":"RT @businessinsider: How Apple Really Lost Its Lead In The \u002780s $AAPL $MSFT $GOOG by @jyarow http://t.co/7vYuAAqX","lbl":"Neutral"}
+,{"time":"11:18","usr":"fortune8","txt":"RT @TheAroraReport: APPLE\u2019S BAD OMEN FROM LOSING TO NOKIA IN CHINA $MSFT $AAPL $NOK $CHL $GOOG $CHU,: Nokia exploited Apple\u2018s Achil... http://t.co/wsg3oaO4","lbl":"Neutral"}
+,{"time":"11:19","usr":"thefinancepress","txt":"$GOOG Exclusive: Google to replace M&A chief: Exclusive: Google to replace M&A chief Bangladesh News 24 hours -... http://t.co/zUAAP6XL","lbl":"Neutral"}
+,{"time":"13:29","usr":"SergiuMaties","txt":"RT @mcilderman #Invest In Artificial Intelligence http://t.co/u3e6aMbG $FB $GOOG $IBM $MSFT $NUAN $AAPL #apple #google #tech","lbl":"Neutral"}
+,{"time":"13:30","usr":"Bishaaj","txt":"RT @KeeneOnMarket: Get All the Key Levels for #Trading $AAPL and $GOOG for 12.10.2012 http://t.co/v3tXNANv","lbl":"Neutral"}
+,{"time":"13:39","usr":"ACInvestorBlog","txt":"$AAPL $GOOG Apple-Google Team Up for $500 Million-Plus Kodak Patents Bid http://t.co/TPppdGGF It sounds good news for $IDCC $VHC","lbl":"Neutral"}
+,{"time":"16:42","usr":"grantalawson","txt":"RT @ReformedBroker: TECHNOLOGY \u0022GAME OF THRONES\u0022 MAP http://t.co/IcDeFW93 $GOOG $FB $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"16:50","usr":"TheArmigeri","txt":"$AMZN $GOOG & $MSFT should stop wasting their money in the tablet market. Stick to online platforms & operating systems. #TechCliff","lbl":"Negative"}
+,{"time":"18:39","usr":"DjKushNubia","txt":"No more Instagram To Twitter Photos $FB $DIS $CMSCA $GOOG by @nichcarlson http://t.co/9agc5hby","lbl":"Neutral"}
+,{"time":"18:46","usr":"thisisturbine","txt":"RT @SAI: Why In The World Should Instagram Allow Twitter To Scrape Its Photos? $FB $DIS $CMSCA $GOOG by @nichcarlson http://t.co/0ifL5Oq3","lbl":"Neutral"}
+,{"time":"21:27","usr":"msjessies","txt":"RT @SAI: Why In The World Should Instagram Allow Twitter To Scrape Its Photos? $FB $DIS $CMSCA $GOOG by @nichcarlson http://t.co/0ifL5Oq3","lbl":"Neutral"}
+,{"time":"21:30","usr":"Davidmclellan","txt":"Trying to buy a chromebook but totally sold out everywhere. $GOOG","lbl":"Positive"}
 ,{"time":"21:35","usr":"StreetEYE","txt":"That\u0027s gonna leave a mark RT @ReformedBroker: Goldman: $AAPL winning and $GOOG losing the mobile wars. http://t.co/MAbW1WQO","lbl":"Negative"}
 ]

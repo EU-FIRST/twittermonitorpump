@@ -1,9 +1,45 @@
 [
-{"time":"8:20","usr":"reaganbrown","txt":"RT @JeffReevesIP: $GOOG is killing it with its Olympics stuff. The hurdles doodle/game today is creative, the easy display of winners in search -- well done!","lbl":"Positive"}
+{"time":"1:48","usr":"top_market_news","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/QptXNWmp #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"1:52","usr":"max_options","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/Y2rMgMoj #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"2:01","usr":"StockNewsHub","txt":"$GOOG Google Inc. News: Growth Sustainability: Google Vs. Apple http://t.co/thfnWdYh","lbl":"Neutral"}
+,{"time":"2:04","usr":"top_market_news","txt":"I think this is really how google feels about aaple. $aapl $goog http://t.co/Ez8ZAU1b","lbl":"Neutral"}
+,{"time":"6:58","usr":"AmyResnick","txt":"RT @PreetaTweets: Google, searching for yield, becomes an auto lender: Google Googles \u0027Higher Yield,\u0027 Finds Auto Bonds http://t.co/zWjG9nZj $GOOG","lbl":"Neutral"}
+,{"time":"8:20","usr":"reaganbrown","txt":"RT @JeffReevesIP: $GOOG is killing it with its Olympics stuff. The hurdles doodle/game today is creative, the easy display of winners in search -- well done!","lbl":"Positive"}
 ,{"time":"8:22","usr":"wavestock","txt":"RT @hblodget: Annoying RT @SAI: Apple Kicks Google\u0027s YouTube Off The iPhone $GOOG $AAPL by @jyarow http://t.co/bmRMvTC2","lbl":"Negative"}
+,{"time":"8:26","usr":"Huff_B","txt":"$VRNG hold overnight looking good .... I\u0027m intrigued long term with the $goog lawsuit, but will lock some in today at least","lbl":"Neutral"}
+,{"time":"8:28","usr":"SAI_Tools","txt":"Kickstarter\u0027s Smash Hit Video Game Console Ouya Will Get A Media Player To Help It Battle The Xbox $GOOG by @_dtl http://t.co/VnXi7nmm","lbl":"Neutral"}
+,{"time":"9:01","usr":"daniel_nro2","txt":"Why is Google investing billions in asset-backed securities made of consumer auto and credit card debt? http://t.co/sXIVw6GY on @WSJ $GOOG\u0022","lbl":"Neutral"}
+,{"time":"9:04","usr":"choffman1978","txt":"$ACUR rallying - buyout target?! #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,$gmcr,$kcg,$wfc,$tgt,$bac,$gs,$goog,$aapl,$incy,$pfe,","lbl":"Neutral"}
+,{"time":"9:37","usr":"SAI","txt":"The Most Damning Evidence Yet That Samsung Copied Apple $AAPL $GOOG by @jyarow http://t.co/JrHCcJ4g","lbl":"Neutral"}
+,{"time":"9:39","usr":"mattec_","txt":"RT @SAI: The Most Damning Evidence Yet That Samsung Copied Apple $AAPL $GOOG by @jyarow http://t.co/JrHCcJ4g","lbl":"Neutral"}
+,{"time":"10:09","usr":"srHersey","txt":"The Most Damning Evidence Yet That Samsung Copied Apple $AAPL $GOOG by @jyarow http://t.co/eTq8Y12B (@SAI)","lbl":"Neutral"}
+,{"time":"10:10","usr":"choffman1978","txt":"$GMCR Surges 5% on stock buyback!! #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,$gmcr,$kcg,$wfc,$tgt,$bac,$gs,$goog,$aapl,$p,$siri","lbl":"Neutral"}
+,{"time":"10:11","usr":"choffman1978","txt":"$NBY surging up 5% - rally time! #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,$gmcr,$kcg,$wfc,$tgt,$bac,$gs,$goog,$aapl,$ptie,$incy","lbl":"Neutral"}
+,{"time":"10:11","usr":"jmannunziato","txt":"RT @businessinsider: Why Google Should Be Thrilled Apple Isn\u0027t Going To Include YouTube On The iPhone $AAPL $GOOG by @jyarow http://t.co/xLM7UC4y","lbl":"Neutral"}
+,{"time":"10:43","usr":"choffman1978","txt":"$GMCR surges 7% on $500m buyback #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,$gmcr,$kcg,$wfc,$tgt,$bac,$gs,$goog,$aapl,$p,$sbux,$cbou","lbl":"Neutral"}
+,{"time":"10:44","usr":"jmsovi","txt":"RT @businessinsider: The Most Damning Evidence Yet That Samsung Copied Apple $AAPL $GOOG by @jyarow http://t.co/F8QeeCtC","lbl":"Neutral"}
+,{"time":"11:15","usr":"choffman1978","txt":"$SIRI (SirusXM) 106m vol - Huge Short Covering! #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,$gmcr,$kcg,$wfc,$tgt,$bac,$gs,$goog,$aapl","lbl":"Neutral"}
+,{"time":"11:16","usr":"choffman1978","txt":"$GMCR new HOD on Stock buyback! #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,$gmcr,$kcg,$wfc,$tgt,$bac,$gs,$goog,$aapl,$p,$siri,$cbou","lbl":"Neutral"}
+,{"time":"11:16","usr":"choffman1978","txt":"$SIRI (SirusXM) 108m vol - Huge Short Squeeze! #cnbc,#msnbc,#nyse,#wsj,#money,#stocks,$kcg,$fb,$v,$gmcr,$kcg,$wfc,$tgt,$bac,$gs,$goog,$aapl","lbl":"Neutral"}
+,{"time":"11:16","usr":"TradeKing","txt":"@BrianOverby notes we just crossed earnings, but $GOOG options are \u0022expensive.\u0022 Find out more. http://t.co/YblkWI7N #TradeKing","lbl":"Neutral"}
+,{"time":"11:47","usr":"DeidreZune","txt":"Fed\u2019s Rosengren Urges \u2018Open-Ended\u2019 Easing Program http://t.co/mVcwD5xF $SPY $QQQ $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"11:47","usr":"jxnxt","txt":"RT @SAI: This Is The Best Way To Make Sure Your Gmail Password Stays Safe $GOOG by @stevekovach http://t.co/pHUei7on","lbl":"Neutral"}
+,{"time":"11:48","usr":"FoxonStocks","txt":"Google THIS. ...Fiber + Chrome + Motorola + Plus = $GOOG is on Wildfire! @cory Read all about it at http://t.co/aTSCyXQE","lbl":"Neutral"}
+,{"time":"11:48","usr":"rcastle06","txt":"RT @SAI: This Is The Best Way To Make Sure Your Gmail Password Stays Safe $GOOG by @stevekovach http://t.co/pHUei7on","lbl":"Neutral"}
+,{"time":"12:20","usr":"Flynt2012","txt":"RT @todd_harrison: Random Thoughts: Date, Don\u0027t Marry (Stocks) http://t.co/XVn8i2RR via @minyanville $LNKD $GOOG $AAPL $FB","lbl":"Neutral"}
+,{"time":"12:21","usr":"realitysdreamer","txt":"RT @africatechie: The Most Damning Evidence Yet That Samsung Copied The iPhone ($AAPL, $GOOG) http://t.co/iOOonWZe","lbl":"Neutral"}
 ,{"time":"14:18","usr":"Brendan_Henry","txt":"Sold $GOOG wkly 40 calls @ 6.","lbl":"Negative"}
+,{"time":"14:19","usr":"xhuertax","txt":"RT @MattSoleyn: Bloomberg: Judge orders #Google and #Oracle to disclose payments to bloggers. $GOOG $ORCL #finance","lbl":"Neutral"}
+,{"time":"14:19","usr":"AlphaVN","txt":"Let the Tablet Wars Really Begin. 7\u0022 is where it will be fought. $GOOG $AAPL $AMZN $BN $MSFT http://t.co/ULjdJL8U","lbl":"Neutral"}
+,{"time":"14:21","usr":"CarolinesCall","txt":"RT @AlphaVN Let the Tablet Wars Really Begin. 7\u0022 is where it will be fought. $GOOG $AAPL $AMZN $BN $MSFT http://t.co/nU4C6NZh","lbl":"Neutral"}
+,{"time":"15:34","usr":"thinkscrappy","txt":"Do you think that when self driving cars take over car \u0022accidents\u0022 will be called \u0022bugs\u0022 or \u0022glitches\u0022? $GOOG #mmmm","lbl":"Neutral"}
+,{"time":"15:36","usr":"mercenaryjack","txt":"How $AAPL and $AMZN security flaws led to epic hacking: http://t.co/ZZopUxdI Hella scary stuff. Turn on gmail 2-step authentication! $GOOG","lbl":"Neutral"}
+,{"time":"17:21","usr":"renattasie","txt":"Cool. RT @ahess247: Judge Orders Google and Oracle to Disclose Who They Paid To Write about Java Trial http://t.co/zVfTc8zY $ORCL $GOOG","lbl":"Neutral"}
 ,{"time":"17:24","usr":"esoap","txt":"RT @mashable: Google\u0027s Driverless Car Is Now Safer Than the Average Driver - http://t.co/5kjtEXNT * working title \u0022The Yogi\u0022 $GOOG %GOOG","lbl":"Positive"}
 ,{"time":"17:31","usr":"morganulang","txt":"$AAPL at war and forcing out the default $GOOG apps on the iPhone\u2026first maps, now youtube http://t.co/rzx1vCR3","lbl":"Negative"}
+,{"time":"19:32","usr":"thefinancepress","txt":"$GOOG Inside Trader Roomy Khan Testifies in Doug Whitman Trial: Inside Trader Roomy Khan Testifies in Doug Whit... http://t.co/Mh9iO2Qm","lbl":"Neutral"}
+,{"time":"19:38","usr":"allstarcharts","txt":"RT @ppearlman: awesome seeing competition heat up between $GOOG & $AAPL (youtube etc) 2 of the greatest companies in history & we, the consumers, will win!","lbl":"Neutral"}
+,{"time":"19:40","usr":"adamsarhan","txt":"Apple iPad Has 70.2% of China Tablet Market: Report http://t.co/VlbIy5Tv @cnbc #tech $aapl $goog #Samsung","lbl":"Neutral"}
 ,{"time":"19:43","usr":"lowensteiner","txt":"RT @obtuse_investor: RT @mashable: Google\u0027s Driverless Car Is Now Safer Than the Average Driver - http://t.co/n7YGYAtr $goog","lbl":"Positive"}
 ,{"time":"23:06","usr":"DeidreZune","txt":"Seriously is there any way $GOOG doesn\u0027t suffer if $AAPL removes it from \u0022search\u0022 in iOS6 phone + tablets. $AAPL is close to doing this","lbl":"Negative"}
 ,{"time":"23:11","usr":"andrewnyquist","txt":"RT @seeitmarket $GOOG looks like it may test patience tomorrow - measured move pullback could test 631 http://t.co/KDJATptH \u2026","lbl":"Negative"}

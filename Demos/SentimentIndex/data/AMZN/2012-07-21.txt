@@ -1,3 +1,11 @@
 [
 {"time":"6:42","usr":"dianputra65","txt":"RT @PaulWHKim: How is $AMZN still afloat with a P/E of 187? Maybe long Sep 21 190 TBO put spread at 195.","lbl":"Positive"}
+,{"time":"6:53","usr":"Fitzstock2004","txt":"$AMZN http://t.co/HGjSQBGj KISS says >234 GET LONG!","lbl":"Neutral"}
+,{"time":"9:03","usr":"ice4449","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT by @mattlynley http://t.co/VcxNf1kY","lbl":"Neutral"}
+,{"time":"9:14","usr":"PaulWHKim","txt":"@jmondo I believe long-term $AMZN is a good buy, but it has to see some adjustment back down to $200 range, assuming they had a bad qtr","lbl":"Neutral"}
+,{"time":"9:23","usr":"TheLPE","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT by @mattlynley http://t.co/VcxNf1kY","lbl":"Neutral"}
+,{"time":"11:36","usr":"kingofalbions","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT http://t.co/ZniUQ4s1","lbl":"Neutral"}
+,{"time":"12:01","usr":"quantprof","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT by @mattlynley http://t.co/VcxNf1kY","lbl":"Neutral"}
+,{"time":"16:38","usr":"gtlackey","txt":"$AMZN recently added Back to School to the movies...how can you go wrong with that?","lbl":"Neutral"}
+,{"time":"16:47","usr":"LukezicD","txt":"RT @SAI: Silicon Valley\u0027s Top Engineers Can Answer These 7 Ridiculous Riddles $GOOG $AMZN $FB $ADBE $MSFT by @mattlynley http://t.co/VcxNf1kY","lbl":"Neutral"}
 ]

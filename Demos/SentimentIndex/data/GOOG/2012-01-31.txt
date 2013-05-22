@@ -1,8 +1,23 @@
 [
-{"time":"13:13","usr":"IncrementWealth","txt":"$GOOG does have competition. BING is getting more and more press. Maybe not the brain power now, but that can change fast $GOOG $MS","lbl":"Negative"}
+{"time":"7:01","usr":"$GOOG","txt":"RT @SeekingAlpha: Facebook\u0027s Revenue Growth, Profit, And Operating Margin Point To IPO Success http://t.co/080UiIY9 $GOOG","lbl":"Neutral"}
+,{"time":"7:10","usr":"$GOOG","txt":"@RedDogT3Live you have been spot on with his $goog, $aapl and other calls of late, keep it up!","lbl":"Neutral"}
+,{"time":"8:56","usr":"$GOOG","txt":"RT @SeekingAlpha: Facebook IPO: What To Look For In Facebook\u0027s S-1 http://t.co/p7ZSIObw $GOOG $ZNGA","lbl":"Neutral"}
+,{"time":"13:13","usr":"IncrementWealth","txt":"$GOOG does have competition. BING is getting more and more press. Maybe not the brain power now, but that can change fast $GOOG $MS","lbl":"Negative"}
+,{"time":"13:17","usr":"NewConstructs","txt":"Commented on: \u0022Sector Roadmap For Best And Worst Stocks And Funds\u0022 http://t.co/LL3gUYTK $C $S $INTC $GOOG $ORCL $WAG $LO $WMT $AXP","lbl":"Neutral"}
 ,{"time":"13:19","usr":"big3mkt","txt":"Google\u2019s Android Falls Out of Favor as Holiday Buyers Pick Apple\u2019s IPhone - Bloomberg http://t.co/fC1d9vWg $GOOG $AAPL","lbl":"Negative"}
+,{"time":"14:37","usr":"tgallagherstcks","txt":"RT @TrendRida: That sums it up... RT @TradeVestor $AAPL $GOOG - Apple sells things to people, Google sells people to things","lbl":"Neutral"}
 ,{"time":"14:38","usr":"$GOOG","txt":"option long on $GOOG... too cheap","lbl":"Positive"}
+,{"time":"14:39","usr":"itsjustkoolaid","txt":"RT @TrendRida: That sums it up... RT @TradeVestor $AAPL $GOOG - Apple sells things to people, Google sells people to things","lbl":"Neutral"}
+,{"time":"15:40","usr":"netgarden","txt":"A Tale of Two Catalysts: Further proof that there is no \u0022one right way\u0022 to success. http://t.co/RZo9x6TU $AMZN $GOOG $AAPL #CWisDead","lbl":"Neutral"}
+,{"time":"16:09","usr":"scubast2ve","txt":"Let\u0027s review Q4 results... $AMZN down 10% after earnings $GOOG down 10% after earnings $AAPL up 8% after earnings ...who\u0027s #Winning again?","lbl":"Negative"}
+,{"time":"16:12","usr":"Midas_Money","txt":"$AAPL =/= $GOOG or $AMZN or anything else...... #duh","lbl":"Neutral"}
+,{"time":"16:25","usr":"AronPinson","txt":"@ElliotTurn That\u0027s mostly because $GOOG\u0027s cash cow is a lot fatter and WAY higher margins. Still a necessity for both. #InvestInFuture $AMZN","lbl":"Positive"}
+,{"time":"16:38","usr":"stocial","txt":"60 minute Trending Social Volume: $AMZN/205, $AAPL/27, $PPO/25, $SPY/24, $BRCM/16, $REE/9, $QQQ/9, $GOOG/9. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"16:48","usr":"slcwatsonb","txt":"RT @investools: When trading #options over earnings watch out for the ImpVol crush. Example $GOOG http://t.co/ZXEx1OlF","lbl":"Neutral"}
 ,{"time":"17:35","usr":"DanielLynchJr","txt":"RT @ElliotTurn: @AronPinson Agreed! I am just in awe how $AMZN is constantly praised in my feed, yet $GOOG is constantly pummeled.","lbl":"Negative"}
+,{"time":"19:13","usr":"suhnylla","txt":"RT @SeekingAlpha: How Social Media Can Help Fix America\u0027s Foreign Oil Crisis http://t.co/orJ3boyx $AAPL $COP $CVX $GOOG $STO $WLL $XOM","lbl":"Neutral"}
+,{"time":"21:09","usr":"wallstCS","txt":"Will Nike Fuel a Social Network of Athletes? http://t.co/i4kRBP4W $NKE $AAPL $LULU $UA $P $GOOG $GRPN $LNKD","lbl":"Neutral"}
+,{"time":"21:16","usr":"kanecotw","txt":"$CTL and EarthLink my calls for pin action on FB ipo $VZ too but u should already own that. $GOOG $T $AAPL also but too weighted IMO","lbl":"Neutral"}
 ,{"time":"22:43","usr":"chinasolved","txt":"RT @niubi: digicha-Chinese Press Reports Say Google China Maps Facing Shutdown http://t.co/fDQ2To2f $goog tip @Techmeme hope not true","lbl":"Negative"}
 ,{"time":"22:44","usr":"danielngoodman","txt":"RT @niubi: time up for google maps in china? Chinese press saying deadline has passed, google china maps may be toast http://t.co/oixktJKt $goog","lbl":"Negative"}
 ,{"time":"22:44","usr":"MisterDevin","txt":"When is the right time to jump in on $GOOG?? Now?? Does it hit $550?? Below $550?? All I know is I am going to take advantage of this dip.","lbl":"Positive"}

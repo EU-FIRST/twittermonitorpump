@@ -1,16 +1,24 @@
 [
 {"time":"3:05","usr":"siege_88","txt":"Josh sold 6765 shares of $AMZN at $183.33 in #WallStreetGame (http://t.co/VCsKCJIO).","lbl":"Negative"}
+,{"time":"3:57","usr":"Geritn41","txt":"$AMZN earnings Tues night. Will the #Kindle Fire sales ignite the stock like the IPhone did to AAPL? gETucI http://t.co/ZEJ0LBGz","lbl":"Neutral"}
 ,{"time":"8:14","usr":"brittpierpoint","txt":"Amazon slices S3 storage prices http://t.co/IXMdODwb via GigaOM $AMZN","lbl":"Positive"}
 ,{"time":"8:14","usr":"suhnylla","txt":"RT @SeekingAlpha: Amazon Incarnate: Bezos The Book Giant Is Planning A Store In Seattle http://t.co/1UbYUIlr $AMZN","lbl":"Positive"}
 ,{"time":"10:59","usr":"toddstrade","txt":"$AMZN looks like it could pop","lbl":"Positive"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:47am: 184.26 +1.12 (+0.61%).","lbl":"Neutral"}
+,{"time":"12:29","usr":"jdells06","txt":"RT @SeekingAlpha: Selling Apple Puts Works For Options Portfolio http://t.co/VtmzLyU5 $AMZN $V $MCP $IDCC $GLD $SAM $AAPL","lbl":"Neutral"}
+,{"time":"12:34","usr":"reallycricket","txt":"RT @retail_sails: RT @Retail Prophet Why Amazon Needs Stores http://t.co/6ZA4Hhp9 #retail #trends $AMZN","lbl":"Neutral"}
+,{"time":"12:42","usr":"mattrixDOTinfo","txt":"Amazon is traveling along the lower end of the apex. Decision higher or lower expected ~2pm EST. $AMZN http://t.co/mJKBKYzz","lbl":"Neutral"}
+,{"time":"12:43","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/93, $SPY/53, $KO/27, $CSTR/23, $OCZ/22, $NFLX/19, $GLD/15, $AMZN/15. http://t.co/DHnV02ws","lbl":"Neutral"}
 ,{"time":"13:44","usr":"CNyenhuis","txt":"RT @SAI: Unbelievably Cheap Amazon Cloud Prices Get Even Cheaper $AMZN by @Julie188 http://t.co/62Ude3Ht","lbl":"Positive"}
 ,{"time":"13:44","usr":"pjpuglia","txt":"RT @SAI: Unbelievably Cheap Amazon Cloud Prices Get Even Cheaper $AMZN by @Julie188 http://t.co/62Ude3Ht","lbl":"Positive"}
 ,{"time":"13:45","usr":"ChristianFaty","txt":"RT @SAI: Unbelievably Cheap Amazon Cloud Prices Get Even Cheaper $AMZN by @Julie188 http://t.co/62Ude3Ht","lbl":"Negative"}
 ,{"time":"13:45","usr":"shinzizm","txt":"\u304A\u304A\uFF01\u201C@SAI: Unbelievably Cheap Amazon Cloud Prices Get Even Cheaper $AMZN by @Julie188 http://t.co/rj4oE9d7\u201D","lbl":"Negative"}
 ,{"time":"14:54","usr":"mattrixDOTinfo","txt":"$AMZN: Sold (to close) the 175/180 weekly $PUT spread. Took a $0.30 loss. Amazon is not moving lower as fast as I needed it to.","lbl":"Positive"}
 ,{"time":"16:03","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:48pm: 183.79 +0.65 (+0.35%).","lbl":"Positive"}
-,{"time":"17:22","usr":"brokerz_rumors","txt":"RT @WallStJesus - #Insider Sales: Underperforming The Market By 4 Percentage Points http://t.co/J8Bka9GU $AMZN $MSO $QCOM $VZ $S...","lbl":"Negative"}
+,{"time":"16:12","usr":"ValaAfshar","txt":"How Much Do #Tech Companies Make Per Employee? [CHARTS] http://t.co/kusDkfki $AAPL $GOOG $MSFT $AMZN $LNKD #business","lbl":"Neutral"}
 ,{"time":"17:22","usr":"brokerz_rumors","txt":"RT @SeekingAlpha - Insider Sales: Underperforming The Market By 4 Percentage Points http://t.co/wx6KNVUa $AMZN $MSO $QCOM $VZ $S...","lbl":"Negative"}
+,{"time":"17:22","usr":"brokerz_rumors","txt":"RT @WallStJesus - #Insider Sales: Underperforming The Market By 4 Percentage Points http://t.co/J8Bka9GU $AMZN $MSO $QCOM $VZ $S...","lbl":"Negative"}
 ,{"time":"17:29","usr":"traderkerms","txt":"@TraderFlorida still short $AMZN? 50dma looks to be holding as ceiling","lbl":"Negative"}
 ,{"time":"19:46","usr":"AmyResnick","txt":"RT @herbgreenberg: Latest report via Reuters is that $AMZN about to announce Internet streaming deal w/Viacom. If so, more competition for $NFLX","lbl":"Positive"}
+,{"time":"19:47","usr":"herbgreenberg","txt":"Oops, here\u0027s the link to the $AMZN $VIA story on Reuters http://t.co/RXlawWmE","lbl":"Neutral"}
 ]

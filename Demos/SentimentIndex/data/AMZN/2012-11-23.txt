@@ -1,5 +1,11 @@
 [
-{"time":"13:28","usr":"rakeshlobster","txt":"Either best buy has gotten much better at black Friday line management or amazon is really killing them. $bby $amzn","lbl":"Positive"}
+{"time":"7:59","usr":"rames","txt":"Looks like the Lumia 920 is selling very well on $AMZN. \u0022Tremendous Demand\u0022 http://t.co/uRwrKdGv $NOK","lbl":"Neutral"}
+,{"time":"12:07","usr":"Retail_Guru","txt":"My thoughts on @CNBC on Black Friday & US Holiday #retail outlook $$ $WSM $LTD $RL $JWN $AMZN $TJX http://t.co/Lsr8ZJvd","lbl":"Neutral"}
+,{"time":"12:07","usr":"CallaLilly101","txt":"RT @Retail_Guru: My thoughts on @CNBC on Black Friday & US Holiday #retail outlook $$ $WSM $LTD $RL $JWN $AMZN $TJX http://t.co/Lsr8ZJvd","lbl":"Neutral"}
+,{"time":"13:27","usr":"KolRemx","txt":"RT @SeekingAlpha: Dissecting George Soros\u0027 Recent Moves, Part 2: Smaller Equity Additions http://t.co/DoJPJdiD $AMZN $BTU $C $DAL $DNR $FCX $GM $HD","lbl":"Neutral"}
+,{"time":"13:28","usr":"rakeshlobster","txt":"Either best buy has gotten much better at black Friday line management or amazon is really killing them. $bby $amzn","lbl":"Positive"}
+,{"time":"16:57","usr":"barronstake","txt":"Update, Barron\u0027s Take: #BlackFriday Online Sales Up 20% Y/Y http://t.co/HZH74Tza $FOSL $TGT $WMT $COH $TIF $AMZN $JWN $AAPL @defotis","lbl":"Neutral"}
 ,{"time":"16:58","usr":"DeFotis","txt":"Update, Barron\u0027s Take: #BlackFriday Online Sales Up 20% Y/Y http://t.co/rLssvM2A $FOSL $TGT $WMT $COH $TIF $AMZN $JWN $AAPL #cybermonday","lbl":"Positive"}
+,{"time":"21:49","usr":"alistairmbarr","txt":"Amazon $AMZN Marketplace feedback note: \u0022please consider that some orders may have been delayed due to Hurricane Sandy\u0022","lbl":"Neutral"}
 ,{"time":"21:56","usr":"USwwwStocks","txt":"$AMZN News: Great Deals Don\u0027t Stop on Black Friday \u2013 Amazon Offers Huge Savings for Cyber .. http://t.co/K39ITwAP #Amazon #AMZN #Black","lbl":"Positive"}
 ]

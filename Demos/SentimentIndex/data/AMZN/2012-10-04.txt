@@ -1,5 +1,16 @@
 [
-{"time":"9:12","usr":"bacellarjose","txt":"RT @ConfidentInvest: RT @ConfidentInvest: Invest in cloud computing with these 4 companies http://t.co/0fM4a01H $AMZN $GOOG $EBAY $AKAM","lbl":"Positive"}
+{"time":"5:50","usr":"SeekingAlpha","txt":"Wall Street Breakfast: Must-Know News http://t.co/3XG9EUVy $MCD $SPY $QQQ $LVS $MGM $WYNN $HPQ $AAPL $GOOG $TSLA $AMZN $ROVI $UL","lbl":"Neutral"}
+,{"time":"6:06","usr":"abnormalreturns","txt":"Thursday 7atSeven: not-so dark pools, tough times at $HPQ and $NOK map assets. http://t.co/2kcEeEkB $NDAQ $USO $CDE $HPQ $AMZN","lbl":"Neutral"}
+,{"time":"6:08","usr":"StockTwits","txt":"Thursday 7atSeven: not-so dark pools. http://t.co/mm2OkGoP via @abnormalreturns $NDAQ $USO $NOK $HPQ $AMZN $CDE","lbl":"Neutral"}
+,{"time":"7:58","usr":"LukeRomyn","txt":"If you enjoyed BEYOND HADES you\u0027ll love its sequel, SLAVES OF VALHALLA: http://t.co/8MhL0KOp $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"7:59","usr":"HENNEYGYG","txt":"RT @LukeRomyn: RT @LukeRomyn: If you enjoyed BEYOND HADES you\u0027ll love its sequel, SLAVES OF VALHALLA: http://t.co/8MhL0KOp $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"7:59","usr":"AkronsBobert","txt":"Apple, Amazon, Samsung Fast Becoming Brand Darlings, Ousting Crusty Traditional Labels -- Engadget http://t.co/LaWHC8yh $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"9:12","usr":"bacellarjose","txt":"RT @ConfidentInvest: RT @ConfidentInvest: Invest in cloud computing with these 4 companies http://t.co/0fM4a01H $AMZN $GOOG $EBAY $AKAM","lbl":"Positive"}
+,{"time":"9:12","usr":"nolte88","txt":"$AMZN Took off 1/3 of the AMZN as a DT now. I\u0027ll let the rest run. All moving averages are below as support again.","lbl":"Neutral"}
+,{"time":"10:16","usr":"takingstock614","txt":"Id add to $GOOG $AAPL $AMZN $MA on any DIP.","lbl":"Neutral"}
+,{"time":"10:57","usr":"macroQmicro","txt":"Comparing #retail ETFs, $RTH outperforms $XRT. Is that due to its large holding in $AMZN? http://t.co/n5ZjJXpR #WORDEN","lbl":"Neutral"}
+,{"time":"10:59","usr":"TMFJMo","txt":"Amazon Capital Services offers rates to partners from 1%-14% compared to small biz card rates of 13%-19+% http://t.co/5cwreTOq @WSJ $AMZN","lbl":"Neutral"}
+,{"time":"11:29","usr":"numberonetell","txt":"Trailed a stop on $AMZN to take me out with a small profit, but I am gonna let $GOOG run since it seems to be the tech winner today. $QQQ","lbl":"Neutral"}
 ,{"time":"11:30","usr":"biggercapital","txt":"Or 1000* I, Paulo has been wrong on $AMZN RT @SeekingAlpha: In Vino Veritas: Third Time Not The Charm For AMZN http://t.co/5vdtBWT9 $AMZN","lbl":"Negative"}
 ,{"time":"12:03","usr":"RutterNetRick","txt":"Review: Amazon\u0027s New Kindle Is The Best E-Reader You Can Buy $AMZN by @stevekovach http://t.co/BatlU5mI via @BusinessInsider #Kindle","lbl":"Positive"}
 ,{"time":"12:03","usr":"RutterNet","txt":"Review: Amazon\u0027s New Kindle Is The Best E-Reader You Can Buy $AMZN by @stevekovach http://t.co/b2BdF7W7 via @BusinessInsider #Kindle","lbl":"Positive"}
@@ -7,6 +18,11 @@
 ,{"time":"13:06","usr":"joey_volpe","txt":"$AMZN and $GOOG are on a tear!","lbl":"Negative"}
 ,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:46pm: 259.89 +3.97 (+1.55%).","lbl":"Positive"}
 ,{"time":"14:02","usr":"TMFJMo","txt":"Amazon Capital Services strengthens its relationship w/ many of its smaller suppliers. Gotta love the long-term sticky implications. $AMZN","lbl":"Positive"}
+,{"time":"14:03","usr":"asugolfer1","txt":"$HD is the tell today. Made a new high and gave it all up while the rest of the market didn\u0027t. Opposite of normal. $SPY $AMZN $AAPL $XLY","lbl":"Neutral"}
+,{"time":"14:29","usr":"smartertrader","txt":"RT @HShankle: RT @HShankle: Out half $AMZN calls been a man on fire lately lets go #OPEX tomo","lbl":"Neutral"}
 ,{"time":"14:30","usr":"HarryWanger","txt":"$AMZN Gunning for a new closing high? @CNBC going to try and spoil the party with negative piece on $AMZN","lbl":"Negative"}
 ,{"time":"14:30","usr":"TweetLeni","txt":"Taking gains in $AMZN trade Will re-enter next week on any small pullback","lbl":"Negative"}
+,{"time":"15:02","usr":"AMZN_stock","txt":"$AMZN stock quote, Oct 4: 260.69 +4.77 (+1.86%).","lbl":"Neutral"}
+,{"time":"15:58","usr":"MomentumPtrsLLC","txt":"$ZNGA the new $amzn lol","lbl":"Neutral"}
+,{"time":"19:50","usr":"TheStreet","txt":"Al Gore Walks Away From Green Energy http://t.co/ggp4Cpm7 by @billgunderson $FSLR $AMZN $CL $STRA","lbl":"Neutral"}
 ]

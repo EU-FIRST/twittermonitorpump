@@ -1,8 +1,28 @@
 [
-{"time":"8:38","usr":"Que_Nande","txt":"RT @SAI: Amazon\u0027s Tablet Is Actually More Expensive Than You Think $AMZN $AAPL $GOOG by @jyarow http://t.co/wZ2mJdGD","lbl":"Negative"}
+{"time":"8:16","usr":"newsagg","txt":"$AMZN a reversal in the NVI smart money index has been triggered http://t.co/m7lKwP6Y","lbl":"Neutral"}
+,{"time":"8:38","usr":"Que_Nande","txt":"RT @SAI: Amazon\u0027s Tablet Is Actually More Expensive Than You Think $AMZN $AAPL $GOOG by @jyarow http://t.co/wZ2mJdGD","lbl":"Negative"}
+,{"time":"8:40","usr":"markfuccio","txt":"Media sales and Prime memberships are key to whether $AMZN\u0027s new Kindle returns profits to shareholders. http://t.co/eTyt2rhr","lbl":"Neutral"}
 ,{"time":"9:05","usr":"LeoKaplin","txt":"stick to $P.... \u201C@RoccoPendola: Amazon Will Beat Apple To 1000 @TheStreet $AAPL $AMZN #Bezos #Jobs #Cook @AmazonKindle\u201D","lbl":"Positive"}
 ,{"time":"9:05","usr":"tuckerstevenson","txt":"RT @businessinsider: Amazon\u0027s Tablet Is Actually More Expensive Than You Think $AMZN $AAPL $GOOG by @jyarow http://t.co/5mJ4CAyP","lbl":"Positive"}
 ,{"time":"9:48","usr":"StartupProgress","txt":"I don\u0027t see $GOOG outmaneuvering $AMZN in the battle for E-Commerce","lbl":"Positive"}
+,{"time":"9:51","usr":"ampressman","txt":"Publishing guy @mikeshatzkin assesses all the Amazon news, sees more market power ahead $AMZN http://t.co/q4rtOy5x","lbl":"Neutral"}
 ,{"time":"10:29","usr":"traderboy23","txt":"$AMZN likely headed lower if LOD doesn\u0027t hold.","lbl":"Negative"}
+,{"time":"10:29","usr":"TMFJMo","txt":"A few thoughts on Amazon and Netflix $AMZN, $NFLX. If you had to buy shares in one today, which would it be and why? http://t.co/lRjmkEXm","lbl":"Neutral"}
+,{"time":"10:50","usr":"fromedome","txt":"The difference between Apple and Amazon in one chart: http://t.co/LNeXMxZh $AAPL $AMZN via @RWW","lbl":"Neutral"}
+,{"time":"10:50","usr":"joreva14","txt":"RT @CNNMoney: Toys R Us unveils $150 tablet for kids: http://t.co/qvnUnSwL $GOOG $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"10:51","usr":"chrismessina","txt":"RT @fromedome: The difference between Apple and Amazon in one chart: http://t.co/LNeXMxZh $AAPL $AMZN via @RWW","lbl":"Neutral"}
+,{"time":"11:07","usr":"SwatOptions","txt":"bye bye $AMZN???","lbl":"Neutral"}
+,{"time":"12:07","usr":"Wisetrades5","txt":"$AMZN tanks off $AAPL news on wednesday?!","lbl":"Neutral"}
+,{"time":"12:49","usr":"KeeneOnMarket","txt":"Will be on @Bloomberg_TV with @trish_regan talking $AMZN tweet us your trade","lbl":"Neutral"}
+,{"time":"12:50","usr":"MichaelComeau","txt":"RT @KeeneOnMarket: Will be on @Bloomberg_TV with @trish_regan talking $AMZN tweet us your trade","lbl":"Neutral"}
+,{"time":"14:30","usr":"SeekingAlpha","txt":"Happy To Settle For A Line-Drive Single With Microsoft http://t.co/thQQXg45 $AMZN $GOOG $NOK $MSFT","lbl":"Neutral"}
+,{"time":"15:05","usr":"alexanderwatso","txt":"RT @SAI: CHART OF THE DAY: The Biggest Difference Between Apple And Amazon $AAPL $AMZN by @jyarow http://t.co/IQeNO9Js","lbl":"Neutral"}
+,{"time":"15:05","usr":"MikePetes","txt":"The Biggest Difference Between #Apple And #Amazon $AAPL $AMZN by @jyarow http://t.co/a3m5Wp18","lbl":"Neutral"}
+,{"time":"15:51","usr":"levifig","txt":"RT @fromedome: The difference between Apple and Amazon in one chart: http://t.co/LNeXMxZh $AAPL $AMZN via @RWW","lbl":"Neutral"}
+,{"time":"15:53","usr":"ampressman","txt":"So much for the lengthy delay theory - That was fast: Amazon is already discounting settling publishers\u2019 ebooks $AMZN http://t.co/NXRsSawz","lbl":"Neutral"}
+,{"time":"17:40","usr":"SeekingAlpha","txt":"Amazon: Is The Bubble Repeating? http://t.co/cxKQ2dDE $AMZN","lbl":"Neutral"}
+,{"time":"19:39","usr":"scalextremeinc","txt":"$AMZN CTO: A Million Miles Away http://t.co/TemN4VEZ","lbl":"Neutral"}
+,{"time":"19:40","usr":"SeekingAlpha","txt":"Amazon: A Wonderful Business At A Terrible Price http://t.co/gzaaVaMO $AAPL $BBY $BKS $GOOG $WMT $AMZN","lbl":"Negative"}
+,{"time":"19:45","usr":"DepletedO2","txt":"Hoarders - banking consumption at home with $V via $AMZN. #ZIRP","lbl":"Neutral"}
 ,{"time":"23:43","usr":"Wisetrades5","txt":"$AMZN Are youkidding me?The kindlefire is trash compared to the IPAD1. $APPLTo comparethe kindle to the Ipad is to compare Robinto Superman.","lbl":"Negative"}
 ]

@@ -1,12 +1,45 @@
 [
 {"time":"1:09","usr":"rayfordsask","txt":"Rt @UberFacts: The average iPhone user has 40 apps installed on their phone. Android 25 and Blackberry 14 $aapl $goog $rimm","lbl":"Negative"}
+,{"time":"1:13","usr":"BUDDIEE18","txt":"on deck monday: $AAPL $GOOG $PCLN $NFLX $FIO $DANG $AMZN $MA","lbl":"Neutral"}
+,{"time":"7:34","usr":"stocknotifier","txt":"Savicorp ($SVMI): $SVMI Savicorp@.0085 MOMO ALERT $AAPL & $GOOG Investors, Looking 4 $$$$MAKERS :) http://t.co/PwU3e7jC","lbl":"Neutral"}
+,{"time":"7:34","usr":"stocknotifier","txt":"FOLLOW SAVICORP ON TWITTER Savicorp@.0085 MOMO ALERT $AAPL & $GOOG Investors, Looking 4 $$$$MAKERS :) http://t.co/PhxGhQM7","lbl":"Neutral"}
 ,{"time":"7:35","usr":"SJosephBurns","txt":"I am going into today long $ISRG at the 50 day and short $GOOG with puts at $585.","lbl":"Negative"}
+,{"time":"7:44","usr":"bored2tears","txt":"Google not attracting a lot of interest after dropping 8.38% Friday. $GOOG +0.56% at 589.25 premarket #Internet #stocks","lbl":"Neutral"}
+,{"time":"9:14","usr":"stocial","txt":"60 minute Trending Social Volume: $RIMM/131, $AAPL/28, $SPY/22, $CHK/19, $HAL/10, $GOOG/10, $ALXA/7, $SAPX/7. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"9:21","usr":"atwtse","txt":"Stock Futures Waver on Greek Debt Talks - TheStreet http://t.co/p03G1mEE $^DJI $^GSPC $^IXIC $GOOG $GE #Stocks","lbl":"Neutral"}
+,{"time":"10:11","usr":"Trefis","txt":"RIM\u0027s Co-CEOs Hand Reins to Heins, Challenges Remain http://t.co/1rvAFfTM $RIMM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:12","usr":"rlbaldwinartist","txt":"RT @thefinancepress: $GOOG Google Inc. (NASDAQ:GOOG) Social Network Hits 90m: Google Inc. (NASDAQ:GOOG) Social Network Hits 90m eMon... http://t.co/rWHADJbZ","lbl":"Neutral"}
 ,{"time":"10:15","usr":"stockguy22","txt":"$GOOG nice 2 day support -- considering options play or stock add here with additional buys if dips to $560\u0027s ( watching chart this week)","lbl":"Positive"}
+,{"time":"10:15","usr":"dcesarini","txt":"@darrellheaps @irwebreport market sentiment is more valid, but wonder about lower tweet volume of stocks like $NFLX (vs $AAPL and $GOOG).","lbl":"Neutral"}
 ,{"time":"10:59","usr":"businessinsider","txt":"Google\u0027s Biggest Advertisers Are Also Its Enemies $GOOG by @Jim_Edwards http://t.co/ofLvhZ1U","lbl":"Negative"}
+,{"time":"10:59","usr":"BI_Advertising","txt":"Google\u0027s Biggest Advertisers Are Also Its Enemies $GOOG by @Jim_Edwards http://t.co/jGIxetPz","lbl":"Neutral"}
 ,{"time":"10:59","usr":"SAI","txt":"Google\u0027s Biggest Advertisers Are Also Its Enemies $GOOG by @Jim_Edwards http://t.co/b0Bn5Wy1","lbl":"Negative"}
+,{"time":"11:00","usr":"itbot1","txt":"RT@businessinsider Google\u0027s Biggest Advertisers Are Also Its Enemies $GOOG by @Jim_Edwards http://t.co/lFOIlJCZ","lbl":"Neutral"}
+,{"time":"11:45","usr":"Martin_Medina","txt":"RT @SAI: Android Hackers Plan App Store Of Banned Apps $GOOG by @Julie188 http://t.co/grr8YIpL","lbl":"Neutral"}
 ,{"time":"11:46","usr":"omarrostom","txt":"Interesting RT @SAI: Google\u0027s Biggest Advertisers Are Also Its Enemies $GOOG by @Jim_Edwards http://t.co/oS1ZJoTI","lbl":"Negative"}
 ,{"time":"11:46","usr":"ronemrick","txt":"RT @SAI: Android Hackers Plan App Store Of Banned Apps $GOOG by @Julie188 http://t.co/grr8YIpL","lbl":"Positive"}
+,{"time":"11:46","usr":"guildrysantana","txt":"#youtube is streaming 4 billion videos/month.How of that is helping $GOOG bottom line?More importantly how much does it cost to stream that?","lbl":"Neutral"}
+,{"time":"12:18","usr":"ValentFinacial","txt":"RIM: Business as Usual or Ready for Takeover? http://t.co/8G9egI7o $RIMM $AAPL $GOOG $AMZN #mkt","lbl":"Neutral"}
+,{"time":"12:18","usr":"wallstCS","txt":"IHS: Cloud Server Demand is Blowing Up http://t.co/OX8ZY4AP $AAPL $GOOG $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"13:12","usr":"SA_GOOG","txt":"The \u0027Global Conspiracy\u0027 Portfolio http://t.co/pOCeK5YX $AA $ABX $AMZN $E $GLCNF.PK $GLD $GOOG $GS $JPM $KKR $NVS $PIEJF.PK $RDS.A","lbl":"Neutral"}
+,{"time":"13:13","usr":"BioTechReports","txt":"$ACUR halted!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! HUGE PENDING NEWS!!!! $BAC, $C, $NFLX, $DNDN, $GS, $GOOG, $APPL","lbl":"Neutral"}
 ,{"time":"13:13","usr":"TradesWell","txt":"$GOOG I really want a test at the 583 area maybe we can get a lot more on the spread, or you could take profits on the put long, lets see","lbl":"Positive"}
+,{"time":"13:14","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/75, $AAPL/46, $RIMM/32, $GOOG/21, $NFLX/16, $CHK/15, $QQQ/15, $SHLD/13. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:14","usr":"stocial","txt":"60 minute Trending Social Volume: $RIMM/35, $AAPL/31, $SPY/25, $BVSN/22, $SHLD/16, $GOOG/16, $GS/15, $BAC/13. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:16","usr":"Fuelnu","txt":"RT @SeekingAlpha: Keep An Eye On GeoEye http://t.co/anaM8cF7 $GOOG $LMT $GEOY","lbl":"Neutral"}
 ,{"time":"15:04","usr":"guenterwischman","txt":"RT @SAI: Android Design Chief: Being A Phone Maker Is \u0027Really Tough\u0027 $GOOG by @MattRosoff http://t.co/taZmF2by","lbl":"Negative"}
+,{"time":"15:10","usr":"SeekingAlpha","txt":"Google\u0027s Mobile Ad Revenues Could Surge To $5.8 Billion In 2012 http://t.co/lHcKuGUN $GOOG","lbl":"Neutral"}
+,{"time":"15:13","usr":"lluccipha","txt":"SAI: Android Design Chief: Being A Phone Maker Is \u0027Really Tough\u0027 $GOOG by @MattRosoff http://t.co/ev7oJdWj","lbl":"Neutral"}
+,{"time":"15:14","usr":"stocial","txt":"60 minute Trending Social Volume: $SBUX/64, $AAPL/62, $SPY/37, $RIMM/36, $SHLD/23, $GOOG/15, $CHK/15, $BVSN/15. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"16:10","usr":"maximgladines","txt":"Looking forward to tomorrow $aaple $goog $ibm $msft #questionMark","lbl":"Neutral"}
+,{"time":"16:10","usr":"thefinancepress","txt":"$GOOG Dollars Connecting With Services Stocks (GOOG) (IBM) (AMZN) (NFLX) (LVS): Dollars Connecting With Service... http://t.co/OSKeuT0t","lbl":"Neutral"}
+,{"time":"16:11","usr":"AnniDayTrades","txt":"Thanks for RT @traderclubtirol @PennyStockLeads @lasertrader The Daily Note - \u0022Something from Nothing\u0022 stks.co/22BV $GOOG video #StockTips","lbl":"Neutral"}
+,{"time":"16:14","usr":"lynnlee20","txt":"$GOOG http://t.co/R9MbOB2V","lbl":"Neutral"}
+,{"time":"17:27","usr":"CNNMoney","txt":"RT @DavidGoldmanCNN: Facebook to Google: \u0027Don\u0027t be evil\u0027 http://t.co/AZL4qZMl $GOOG","lbl":"Neutral"}
+,{"time":"17:27","usr":"jaywashradio","txt":"RT @CNNMoney: RT @DavidGoldmanCNN: Facebook to Google: \u0027Don\u0027t be evil\u0027 http://t.co/AZL4qZMl $GOOG","lbl":"Neutral"}
 ,{"time":"17:30","usr":"SFStateMBA","txt":"Succinct! RT @DavidGoldmanCNN: Facebook to Google: \u0027Don\u0027t be evil\u0027 http://t.co/yAUTR95z $GOOG #socialmedia","lbl":"Negative"}
+,{"time":"17:30","usr":"whataboutbob","txt":"Clever play, Google RT @CNNMoney: RT @DavidGoldmanCNN: Facebook to Google: \u0027Don\u0027t be evil\u0027 http://t.co/zgbgtkUx $GOOG","lbl":"Neutral"}
+,{"time":"20:12","usr":"gtlackey","txt":"RS Movers: 20pts 5days $MRVL $XLNX $HPQ $GS $AA $EMR $GOOG $COP $JCI $AEP $STUDY http://t.co/CAaGT0kl $$","lbl":"Neutral"}
+,{"time":"20:13","usr":"hertcapital","txt":"RT @gtlackey: RS Movers: 20pts 5days $MRVL $XLNX $HPQ $GS $AA $EMR $GOOG $COP $JCI $AEP $STUDY http://t.co/pW0PFHE1 $$","lbl":"Neutral"}
+,{"time":"20:15","usr":"kanecotw","txt":"RT @hertcapital: RT @gtlackey: RS Movers: 20pts 5days $MRVL $XLNX $HPQ $GS $AA $EMR $GOOG $COP $JCI $AEP $STUDY http://t.co/pW0PFHE1 $$","lbl":"Neutral"}
 ]

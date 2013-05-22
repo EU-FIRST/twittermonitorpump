@@ -1,3 +1,7 @@
 [
-{"time":"10:06","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Climbed Past 2%. In the jungle with Amazon: http://t.co/y9KmWtiy","lbl":"Positive"}
+{"time":"9:49","usr":"RoccoPendola","txt":"Commented on: \u0022Using Friday\u0027s Options Activity To Prepare For Future Trades\u0022 http://t.co/U2DHEx0H $BAC $AMZN $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"9:50","usr":"RoccoPendola","txt":"Commented on: \u00223 Stocks To Buy Because Of Apple\u0027s Dominance\u0022 http://t.co/Rtn8X6E7 $INTC $DELL $HPQ $AMZN $GOOG $NOK $AAPL","lbl":"Neutral"}
+,{"time":"10:06","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Climbed Past 2%. In the jungle with Amazon: http://t.co/y9KmWtiy","lbl":"Positive"}
+,{"time":"15:06","usr":"Fitzstock2004","txt":"4 every bull, there\u0027s a bear-.Technicals Work--so far your calls R up > +100% ($aapl,$goog-2 weeks)&+20%($amzn-2 days)-stick 2 what works 4U","lbl":"Neutral"}
+,{"time":"15:30","usr":"JohnSmith2012d","txt":"SMALLCAP TRADING TRICK - MAKES YOU 100-200% GAINS PER WEEK http://t.co/vkc6OPF2 $USO $AMZN $PSID $LNKD $IWM $CORN $ACFN $EZU cv","lbl":"Neutral"}
 ]

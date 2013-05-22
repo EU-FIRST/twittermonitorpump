@@ -1,6 +1,19 @@
 [
-{"time":"10:14","usr":"srisri55","txt":"My Puts didn\u0027t work. Out this morning for loss. Flipped into $AAPL & $AMZN calls. Bot a tiny $NFLX as well.","lbl":"Positive"}
+{"time":"2:43","usr":"StockMarketEnds","txt":"Anti Christ Zionists WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Economist #Reporter #Actor #Chemist #Loan #Writer","lbl":"Neutral"}
+,{"time":"3:10","usr":"SeekingAlpha","txt":"Mixed Results In The B2C Market In China http://t.co/0Td6qzR7 $AMZN $DANG","lbl":"Neutral"}
+,{"time":"3:34","usr":"USwwwStocks","txt":"$AMZN News: Alibaba buys back 20 pct stake held by Yahoo for $7.1 bln http://t.co/CyAgtF29 #71 #AMZN #Alibaba","lbl":"Neutral"}
+,{"time":"8:36","usr":"keepitrealdude","txt":"CORR $AMZN avg.224 RT @keepitrealdude I am short $AMZN at 227 and $GOOG at 633, just according to pre laid plan.","lbl":"Neutral"}
+,{"time":"9:42","usr":"danemcleod","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"9:43","usr":"philipwhiuk","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"10:14","usr":"srisri55","txt":"My Puts didn\u0027t work. Out this morning for loss. Flipped into $AAPL & $AMZN calls. Bot a tiny $NFLX as well.","lbl":"Positive"}
+,{"time":"10:15","usr":"aarontask","txt":"Facebook Crashes Through IPO Price But That Doesn\u0027t Make It a \u0027Failure\u0027 http://t.co/28VQOUFE $FB $AMZN #mkt #FBIPO","lbl":"Neutral"}
+,{"time":"12:30","usr":"stockmonkeymom","txt":"Or 100+ for $AMZN! \u201C@hblodget: @kteare With $AAPL trading at 13X earns & $GOOG at 15X, very hard to justify 50x-70x for $FB. Seems nuts\u201D","lbl":"Neutral"}
+,{"time":"12:31","usr":"biggercapital","txt":"My grocery just came $AMZN. http://t.co/FjUXyCEm","lbl":"Neutral"}
 ,{"time":"14:23","usr":"BigE_007","txt":"@TraderFlorida /Es nor $AAPL NOR $PCLN NOR $AMZN nor $GOOG seem to have the volume to send us higher right?","lbl":"Negative"}
 ,{"time":"14:24","usr":"bored2tears","txt":"UK\u0027s Waterstones snubs Nook, will sell Kindles, ebooks in-store. http://t.co/c6QOQxMR $AMZN +2.13%, $BKS +1.88% #retail #stocks","lbl":"Positive"}
 ,{"time":"14:48","usr":"Stackola24_7","txt":"$AMZN http://t.co/RgZag40W *30-min* interesting spot here. Went into a sideways channel intraday just below resistance.","lbl":"Negative"}
+,{"time":"15:33","usr":"AMZN_stock","txt":"$AMZN stock quote, 4:00pm: 218.11 +4.26 (+1.99%).","lbl":"Neutral"}
+,{"time":"15:34","usr":"USwwwStocks","txt":"$AMZN News: Surprise! Technology Has Made Us More Bookish http://t.co/0FEnKeWu #AMZN #Bookish #Made","lbl":"Neutral"}
+,{"time":"16:23","usr":"ckarapiperis","txt":"RT @SAI: EXCLUSIVE: Amazon CTO Tells Us How It Built Its Cloud Business Into The Best In The Business $AMZN by @Julie188 http://t.co/El7oClo4","lbl":"Neutral"}
+,{"time":"21:34","usr":"USwwwStocks","txt":"$AMZN News: Can Best Buy\u0027s Earnings Report Even Matter? (BBY, RSH, AMZN) http://t.co/KYH0EZxu #AMZN #Best #Buyamp39s","lbl":"Neutral"}
 ]

@@ -1,20 +1,105 @@
 [
-{"time":"3:18","usr":"thefinancepress","txt":"$GOOG Planned Google tablet to rival Amazon - Asustek executive: Planned Google tablet to rival Amazon - Asuste... http://t.co/tKmoZU0Z","lbl":"Positive"}
+{"time":"3:10","usr":"HELELANY","txt":"RT @SAI: Apple Is Crushing Everyone In The Tablet Market -- So Who Will Be Number Two? $AAPL $MSFT $GOOG $AMZN by @jyarow http://t.co/Bt2MM0lJ","lbl":"Negative"}
+,{"time":"3:18","usr":"thefinancepress","txt":"$GOOG Planned Google tablet to rival Amazon - Asustek executive: Planned Google tablet to rival Amazon - Asuste... http://t.co/tKmoZU0Z","lbl":"Positive"}
+,{"time":"3:19","usr":"primaverae","txt":"RT @SAI: Google Is Trying To Create A Human Brain Using 16,000 Computers $GOOG by @mattlynley http://t.co/LRTSCH3k","lbl":"Neutral"}
+,{"time":"6:34","usr":"RichardBagshaw","txt":"RT @SAI: This Guy Is Betting Google\u0027s Serious About Selling PCs $GOOG by @Julie188 http://t.co/iRnnWG9w","lbl":"Neutral"}
 ,{"time":"6:39","usr":"lylefc","txt":"if you have thousands to spend, buy $GOOG. Price target in the $800\u0027s. $FB needs $2bil a year just to run the company...insane to buy $FB.","lbl":"Positive"}
 ,{"time":"6:43","usr":"gregnb","txt":"Only thing I\u0027m eying is $goog on a push higher into resistance. If it fails into $570-575 looking to short it","lbl":"Negative"}
+,{"time":"6:43","usr":"GaVaHokie","txt":"@jimcramer $GOOG Google Brain Teaches Itself to Recognize \u2014 What Else? \u2014 Cats http://t.co/L5V5ZqnH","lbl":"Neutral"}
+,{"time":"8:00","usr":"SeekingAlpha","txt":"A Microsoft Promotion Might Hit http://t.co/NHzcEPqH\u0027s Media Revenues http://t.co/IpFByUct $BBY $BKS $GME $GOOG $MSFT $AMZN","lbl":"Neutral"}
+,{"time":"9:06","usr":"choffman1978","txt":"Markets SURGE on home sales #cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$ctic,$pfe,$jnj,#stocks,#biotech,#investments,#markets,#money","lbl":"Neutral"}
+,{"time":"9:06","usr":"TMFRuleBreakers","txt":"Is $YHOO\u0027s new strategy -- to disrupt disruptors $FB and $GOOG -- worth a second look? More: http://t.co/cRaYyTPk","lbl":"Neutral"}
+,{"time":"9:07","usr":"choffman1978","txt":"$AEZS surges on Phase 3 data #cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$ctic,$pfe,$jnj,#stocks,#biotech,#investments,#markets,#money","lbl":"Neutral"}
+,{"time":"9:08","usr":"choffman1978","txt":"$SIRI surges on auto sales! #cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$ctic,$pfe,$jnj,#stocks,#biotech,#investments,#markets,#money","lbl":"Neutral"}
 ,{"time":"10:01","usr":"_elhadri_","txt":"$GOOG showing strength...let\u0027s see if it holds.","lbl":"Positive"}
+,{"time":"10:02","usr":"SeedSpark","txt":"RT @SmartMoney: Google is set to unveil its own tablet at a developer conference this week, sources say. http://t.co/0i7jdg0I $GOOG","lbl":"Neutral"}
+,{"time":"10:04","usr":"drunkstepmother","txt":"RT @SeekingAlpha: Game-Changers: 5 Mobile App Search Leaders To Watch http://t.co/94rVKh91 $AAPL $FB $GOOG $MIMV.OB $MITK $VRNG","lbl":"Neutral"}
+,{"time":"10:43","usr":"Sushh","txt":"RT @businessinsider: PRESENTING: The 10 Best Google Products Ever $GOOG by @officialKLS http://t.co/llhN3kXz","lbl":"Neutral"}
+,{"time":"10:44","usr":"DQA_SA","txt":"RT @SAI: PRESENTING: The 10 Best Google Products Ever $GOOG by @officialKLS http://t.co/r5rp930o","lbl":"Neutral"}
+,{"time":"11:04","usr":"RobertWKuypers","txt":"RT @WSJ: Google may be the latest tech company to unveil a tablet at its developer conference. http://t.co/GooXBZAc $GOOG","lbl":"Neutral"}
+,{"time":"11:04","usr":"BetterInvesting","txt":"RT @WSJ: Google may be the latest tech company to unveil a tablet at its developer conference. http://t.co/GooXBZAc $GOOG","lbl":"Neutral"}
+,{"time":"11:04","usr":"oleaberegoi","txt":"RT @WSJ: Google may be the latest tech company to unveil a tablet at its developer conference. http://t.co/GooXBZAc $GOOG","lbl":"Neutral"}
+,{"time":"11:12","usr":"GetConnectedNow","txt":"RT @sai: REVEALED: Google\u0027s 7-Inch Tablet, The Nexus 7 $GOOG by @mattlynley http://t.co/94SaKdbO","lbl":"Neutral"}
+,{"time":"11:13","usr":"dwilliamjones","txt":"RT @ahess247: Coming Up: Live Coverage From Google I/O http://t.co/tJuymGKU $GOOG","lbl":"Neutral"}
+,{"time":"11:13","usr":"oluodeniyi","txt":"RT @WSJ: Google may be the latest tech company to unveil a tablet at its developer conference. http://t.co/IfFTaY16 $GOOG // more tablets?","lbl":"Neutral"}
+,{"time":"11:14","usr":"mrslaughalot","txt":"RT @WSJ: Google may be the latest tech company to unveil a tablet at its developer conference. http://t.co/GooXBZAc $GOOG","lbl":"Neutral"}
 ,{"time":"11:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 11:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
 ,{"time":"11:30","usr":"businessinsider","txt":"LIVE: Google Announces New Products! $GOOG by @stevekovach http://t.co/7isAp6rE","lbl":"Positive"}
+,{"time":"11:30","usr":"SAI","txt":"LIVE: Google Announces New Products! $GOOG by @stevekovach http://t.co/BP76T9UC","lbl":"Neutral"}
+,{"time":"11:30","usr":"SAI_Tools","txt":"LIVE: Google Announces New Products! $GOOG by @stevekovach http://t.co/clt4X7YF","lbl":"Neutral"}
+,{"time":"11:45","usr":"SconsetCapital","txt":"RT @ProducerMatthew: Reuters: Google says 1 million Android devices are activated daily; 400 million devices are in use. $$ $GOOG","lbl":"Neutral"}
+,{"time":"11:45","usr":"TimDeanSTL","txt":"Android Jelly Bean 4.1; project \u0027Butter\u0027. Getting hungry watching #IO12 keynote. $GOOG","lbl":"Neutral"}
+,{"time":"11:45","usr":"SAI_Tools","txt":"Introducing: Google\u0027s Newest Mobile Operating System, Jellybean $GOOG by @officialKLS http://t.co/ND8vw73o","lbl":"Neutral"}
+,{"time":"11:45","usr":"businessinsider","txt":"Introducing: Google\u0027s Newest Mobile Operating System, Jellybean $GOOG by @officialKLS http://t.co/xbGgHr7N","lbl":"Neutral"}
+,{"time":"11:55","usr":"wallstCS","txt":"Will Google\u0027s NEXT BIG THING Be an iPad KILLER? http://t.co/tXTuW0Xc $GOOG $AAPL $NVDA $MSFT $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"11:55","usr":"shamattygalle","txt":"RT @SAI: Introducing: Google\u0027s Newest Mobile Operating System, Jellybean $GOOG by @officialKLS http://t.co/3toHcd2X","lbl":"Neutral"}
+,{"time":"11:57","usr":"BloombergWest","txt":"RT @JonErlichman: Google has not yet unveiled Nexus 7 Tablet at i/o but there is a Youtube video out that introduces the device $GOOG","lbl":"Neutral"}
+,{"time":"11:57","usr":"lfurniss","txt":"RT @JonErlichman: Google has not yet unveiled Nexus 7 Tablet at i/o but there is a Youtube video out that introduces the device $GOOG","lbl":"Neutral"}
+,{"time":"12:18","usr":"ericjackson","txt":"New Post: Apple Integrates Facebook and says \u0022Fool Me Once...\u0022 http://t.co/nXH6Uvjr $AAPL $FB $GOOG","lbl":"Neutral"}
+,{"time":"12:19","usr":"Kapitall","txt":"Technology Stocks: How Effective is your Advertising? #Kapitall: http://t.co/Cz16SKWY $MSFT $GOOG $AMZN $AAPL $IBM $EXPE $EBAY $DELL $HPQ","lbl":"Neutral"}
 ,{"time":"12:19","usr":"Commodity_Bull","txt":"$GOOG just announced its own branded tablet, the Nexus 7. Starting at $199. We\u0027ll see how it fares, but I can\u0027t imagine too well","lbl":"Negative"}
+,{"time":"12:43","usr":"Tape_Reader","txt":"RT @danshep55: $goog tablet $199 bucks starting today","lbl":"Neutral"}
+,{"time":"12:43","usr":"cnbcfastmoney","txt":"RT @CNBCMelloy: Amazon $AMZN stock doesn\u0027t like this Google Nexus Q. At lows of the day. $GOOG","lbl":"Neutral"}
+,{"time":"12:44","usr":"optionmonster","txt":"RT @CNBCMelloy: Amazon $AMZN stock doesn\u0027t like this Google Nexus Q. At lows of the day. $GOOG","lbl":"Positive"}
+,{"time":"12:59","usr":"Canadian88","txt":"RT @SAI: For A Change Of Pace Google Decides To Rip Off Amazon Instead Of Apple $GOOG $AMZN by @jyarow http://t.co/NtnTeSVZ","lbl":"Positive"}
+,{"time":"13:00","usr":"fin_bot1","txt":"RT@businessinsider For A Change Of Pace Google Decides To Rip Off Amazon Instead Of Apple $GOOG $AMZN by @jyarow http://t.co/mYOnPebl","lbl":"Neutral"}
+,{"time":"13:00","usr":"fin_bot1","txt":"RT@SAI For A Change Of Pace Google Decides To Rip Off Amazon Instead Of Apple $GOOG $AMZN by @jyarow http://t.co/mYOnPebl","lbl":"Positive"}
+,{"time":"13:00","usr":"johnthelutheran","txt":"RT @graubart: \u0022With Google Now, no need to update your relationship status; we mine your gmail to let everyone know when things go rocky\u0022 #IO $GOOG","lbl":"Neutral"}
+,{"time":"13:18","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Google Unveils Tablet, New Android Technology http://t.co/oyyGYvEs","lbl":"Neutral"}
+,{"time":"13:18","usr":"Krewell","txt":"RT @jonfortt: That qualifies as the craziest tech demo I\u0027ve ever seen at a keynote $GOOG #projectglass","lbl":"Neutral"}
+,{"time":"13:18","usr":"mathewi","txt":"RT @graubart: \u0022With Google Now, no need to update your relationship status; we mine your gmail to let everyone know when things go rocky\u0022 #IO $GOOG","lbl":"Neutral"}
+,{"time":"13:18","usr":"carlos_becares","txt":"RT @SAI: Introducing: Google\u0027s Newest Mobile Operating System, Jellybean $GOOG by @officialKLS http://t.co/3toHcd2X","lbl":"Neutral"}
 ,{"time":"13:27","usr":"RolfeWinkler","txt":"Project Glass. I get it, it takes pictures. Is that it? And how does it work? $GOOG","lbl":"Negative"}
 ,{"time":"13:27","usr":"TradrPaul","txt":"$AAPL $goog Nexus 7 = great competition for the Kindle Fire","lbl":"Positive"}
 ,{"time":"13:28","usr":"shi_marschall","txt":"RT @SAI: Meet Google\u0027s Latest Life-Changing Product: \u0027Google Now\u0027 $GOOG by @officialKLS http://t.co/V302QYXF","lbl":"Positive"}
+,{"time":"13:28","usr":"lluccipha","txt":"SAI: Meet Google\u0027s Latest Life-Changing Product: \u0027Google Now\u0027 $GOOG by @officialKLS http://t.co/Wqfv3sBA","lbl":"Neutral"}
+,{"time":"13:42","usr":"BuyOnTheDip","txt":"Obama Care set to cover google glass under new reformed vision plan benefits. #NoDeductible! $GOOG","lbl":"Neutral"}
+,{"time":"13:42","usr":"loyalelectron","txt":"RT @jonfortt: Mmm. $GOOG Vic Gundotra just said \u0022one more thing.\u0022 #notyourline","lbl":"Neutral"}
+,{"time":"13:43","usr":"MichaelComeau","txt":"@UdallTechStrat I will buy you a $200 Android tablet if $GOOG tablets beat $AAPL iOS in market share in 2013. According to Gartner data","lbl":"Neutral"}
+,{"time":"13:43","usr":"jofuuu","txt":"RT @businessinsider: Meet Google\u0027s Latest Life-Changing Product: \u0027Google Now\u0027 $GOOG by @officialKLS http://t.co/cowCPCKz","lbl":"Neutral"}
 ,{"time":"14:02","usr":"PCH888","txt":"$GOOG tablet is 3yrs too late, mkt already monopolized by $AAPL iPads","lbl":"Negative"}
+,{"time":"14:05","usr":"idea2go","txt":"$GOOG Nexus imitates $AMZN Kindle Fire. A year late and a feature short. They should innovate. Come out with a ChromePad to contribute!","lbl":"Negative"}
+,{"time":"14:06","usr":"tradingview","txt":"$GOOG chart published by @FibLine: http://t.co/C7QBmwKn. $GOOG.","lbl":"Neutral"}
+,{"time":"14:08","usr":"idea2go","txt":"But seriously $GOOG #nexus, it will win or lose on their add on services vs $AMZN prime. Video content, media, etc.","lbl":"Neutral"}
+,{"time":"14:39","usr":"DayTradersWin","txt":"$SPX off R2 pivot -day - 4 trades $GOOG $AAPL - overall: $2.16","lbl":"Neutral"}
+,{"time":"14:40","usr":"thefinancepress","txt":"$GOOG Google Plus Now Has over 250 Million Users: Google Plus Now Has over 250 Million Users ValueWalk - 13 min... http://t.co/XHUkyHIC","lbl":"Neutral"}
+,{"time":"14:40","usr":"samstockstill","txt":"RT @YahooFinance: Google unveils tablet to take on Apple, Amazon http://t.co/ZndvTXli $GOOG $AMZN $AAPL","lbl":"Neutral"}
 ,{"time":"15:10","usr":"FreeMrktCptlst","txt":"LOL\u2026that $GOOG hardware is hideous! Are these companies even trying? Buy $AAPL $$","lbl":"Negative"}
+,{"time":"15:10","usr":"thefinancepress","txt":"$GOOG Google Introduces Google Glass: Google Introduces Google Glass RTT News - 18 minutes ago Google Inc. (GO... http://t.co/cyxxFfc1","lbl":"Neutral"}
+,{"time":"15:13","usr":"michaelbabad","txt":"Today\u0027s top business news http://t.co/M4I5c6hP $AAPL $RIMM $RIM.CA $ABX $ABX.CA $GG $G.CA $BCS $MDA.CA $CL_F $GOOG #cdnecon #cdnpoli #euro","lbl":"Neutral"}
+,{"time":"15:15","usr":"TheAcsMan","txt":"$AAPL is the new $GOOG? \u0022Fundamentals or Technicals?\u0022 Maybe #Meatloaf can answer the question http://t.co/zZxX774C #stockaction","lbl":"Neutral"}
+,{"time":"15:43","usr":"lluccipha","txt":"SAI: WAKE UP! Google Is A Hardware Company Now $GOOG $AAPL by @owenthomas http://t.co/wYvPeNWl","lbl":"Neutral"}
+,{"time":"15:43","usr":"lluccipha","txt":"SAI: Google\u0027s Glasses Are Available For Developers And Cost $1,500 $GOOG by @officialKLS http://t.co/jfn8CgjB","lbl":"Neutral"}
 ,{"time":"15:43","usr":"jpdurrios","txt":"Kudos to $GOOG for designing and manufacturing the #NexusQ in the #USA. Other companies like $GE and $CAT are leading\u2026http://t.co/5YKbOwFy","lbl":"Positive"}
+,{"time":"15:44","usr":"Uzayrabdullah","txt":"RT @SAI: Google\u0027s Glasses Are Available For Developers And Cost $1,500 $GOOG by @officialKLS http://t.co/iE9f7ofM","lbl":"Neutral"}
+,{"time":"16:12","usr":"rechtsteiner","txt":"Unbridled $GOOG Nexus Tablet optimism when no native Android tabs have sold exceptionally well. Hmm ($AMZN, $BKS). http://t.co/0sObwT4t","lbl":"Positive"}
+,{"time":"16:13","usr":"thefinancepress","txt":"$GOOG Google Unveils $199 Nexus 7 Tablet: Google Unveils $199 Nexus 7 Tablet http://t.co/oBnMS6KV - 11 minutes a... http://t.co/KGO4iKc0","lbl":"Neutral"}
 ,{"time":"16:15","usr":"IdeaJason","txt":"$FB is not only losing the innovation game but anything new is treated w/ fear. $goog on the otherhand is killn it w/ G+. Just need an #API","lbl":"Positive"}
 ,{"time":"16:16","usr":"rechtsteiner","txt":"Very intrigued w/ $GOOG Cloud Messaging for Android relative to increasing severity of data caps. http://t.co/ex4Yf2hj","lbl":"Positive"}
+,{"time":"17:17","usr":"commtechster","txt":"What will become of the \u0022Nexus\u0022 program after $GOOG has had a little more time with Motorola. How will OEMs compete w integrated HW/SW co.s?","lbl":"Neutral"}
+,{"time":"17:17","usr":"michellefenton","txt":"$GOOG - please buy #dropbox","lbl":"Neutral"}
+,{"time":"17:21","usr":"Abmuku","txt":"Google Unveils \u0022Nexus 7\u0022, Will Android Leave Other Manufacturers? http://t.co/g5ujGgp1 $GOOG $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"17:21","usr":"celestichukumba","txt":"Google Unveils \u0022Nexus 7\u0022, Will Android Leave Other Manufacturers? http://t.co/b8CWIL1T $GOOG $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"18:17","usr":"thefinancepress","txt":"$GOOG Google Unveils $199 Tablet in Bid to Vie With Apple, Amazon: Google Unveils $199 Tablet in Bid to Vie Wit... http://t.co/lgEcBc0s","lbl":"Neutral"}
+,{"time":"18:19","usr":"SAI_Tools","txt":"Here\u0027s What I think Of Google\u0027s Nexus 7 Tablet After Playing With It For An Hour $GOOG by @stevekovach http://t.co/1GOpLBKH","lbl":"Neutral"}
+,{"time":"18:19","usr":"businessinsider","txt":"Here\u0027s What I think Of Google\u0027s Nexus 7 Tablet After Playing With It For An Hour $GOOG by @stevekovach http://t.co/gCmYuX6e","lbl":"Neutral"}
+,{"time":"18:19","usr":"SAI","txt":"Here\u0027s What I think Of Google\u0027s Nexus 7 Tablet After Playing With It For An Hour $GOOG by @stevekovach http://t.co/QIZeJ1od","lbl":"Neutral"}
+,{"time":"19:13","usr":"lluccipha","txt":"SAI: REVEALED: The Designer Behind Google Glasses Explains The Top-Secret Project $GOOG by @owenthomas http://t.co/tAp241d2","lbl":"Neutral"}
+,{"time":"19:15","usr":"michaelschiltz","txt":"RT @businessinsider: Here\u0027s What I think Of Google\u0027s Nexus 7 Tablet After Playing With It For An Hour $GOOG by @stevekovach http://t.co/gCmYuX6e","lbl":"Neutral"}
+,{"time":"19:21","usr":"Matthew_Levine","txt":"Settling in front of TV to watch @JonErlichman exclusive interview with Sergey Brin on @BloombergTV Rewind. 830p ET $GOOG","lbl":"Neutral"}
+,{"time":"20:08","usr":"rechtsteiner","txt":"Hope you don\u2019t accidentally bump into the $MSFT kiosk on the way. \u201C@howardlindzon: I hope I can wear my $goog glasses into an $aapl store\u201D","lbl":"Neutral"}
+,{"time":"20:10","usr":"Yasser_Alqrayan","txt":"RT @SAI: PHOTOS: Google\u0027s New Home Entertainment Device, The Nexus Q $GOOG by @stevekovach http://t.co/CBIy8SSk","lbl":"Neutral"}
+,{"time":"20:14","usr":"Gssound","txt":"@2TradersClub @crap_trader @b1llmoo 7/12 is earnings for $GOOG. No trades for me till they post","lbl":"Neutral"}
+,{"time":"20:16","usr":"timingle","txt":"Video from @Google\u0027s launch of #Nexus7 today & review via @CNET http://t.co/uOIKxZTM $GOOG","lbl":"Neutral"}
 ,{"time":"21:27","usr":"TheRealLennan","txt":"RT @szaman: RT @TrendRida: 150 million users log on to $GOOG+ once a month. My question is for what?> Still, no idea what it supposed to be.","lbl":"Negative"}
 ,{"time":"21:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 21:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"21:32","usr":"craigsebastiano","txt":"Google\u0027s New Role as Gadget Maker http://t.co/pKtlViVF via @wsj $GOOG","lbl":"Neutral"}
+,{"time":"23:22","usr":"howardlindzon","txt":"The only ads I see with my $goog glasses are for LASIK surgery. Smart.","lbl":"Neutral"}
+,{"time":"23:23","usr":"apistilli","txt":"Free storage? RT @howardlindzon: The problem with my $goog glasses is I can\u0027t send a photo to Instagram or $twit .. Just google+","lbl":"Neutral"}
+,{"time":"23:24","usr":"rabois","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"23:24","usr":"davejac","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"23:42","usr":"Valuecruncher","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
 ,{"time":"23:42","usr":"bridgesdavid","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"23:43","usr":"mlaubenthal","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"23:45","usr":"msgridley","txt":"RT @vlasso: Interesting. Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%\u201D","lbl":"Neutral"}
 ]

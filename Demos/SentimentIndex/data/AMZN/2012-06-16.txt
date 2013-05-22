@@ -1,1 +1,4 @@
-[]
+[
+{"time":"9:48","usr":"stockplace52","txt":"$AMZN - Amazon Stock Analysis - best day trading strategy - http://t.co/WFEy0GR9","lbl":"Neutral"}
+,{"time":"10:30","usr":"BigTicks","txt":"$AMZN News: http://t.co/0pEXC5uk, Inc. (NASDAQ:AMZN) expands its AWS support services http://t.co/RKtLqfP6 #Amazoncom #AMZN #expands","lbl":"Neutral"}
+]

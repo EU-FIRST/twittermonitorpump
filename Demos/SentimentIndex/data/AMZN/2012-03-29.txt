@@ -1,19 +1,32 @@
 [
 {"time":"1:49","usr":"threenine39","txt":"RT @BI_Enterprise: Amazon\u0027s Game-Changing Cloud Was Built By Some Guys In South Africa $AMZN by @Julie188 http://t.co/28s6fXEc","lbl":"Positive"}
+,{"time":"2:18","usr":"StockMarketEnds","txt":"Amazon Thinks they got a Friend in AntiChrist Zionists, Zionists Always Choose Money over Amazon, A Zionist is A Zionist #Amazon $AMZN","lbl":"Neutral"}
 ,{"time":"7:13","usr":"mcvetetic","txt":"$BBY rev up 2.4% yoy- $AMZN is destroying relevance and the CEO is clueless.","lbl":"Negative"}
 ,{"time":"7:14","usr":"firstadopter","txt":"$AMZN doesn\u0027t sell iPads/iPhones directly so likely to lose share vs. $BBY this quarter in electronics/mobile phones","lbl":"Negative"}
 ,{"time":"7:15","usr":"firstadopter","txt":"Fact that entertainment segment (CDs/DVDs/videogames) comp collapsed q/q for $BBY -21% vs. -9% last qter is a DISASTER red flag for $AMZN Q1","lbl":"Negative"}
+,{"time":"7:16","usr":"investlite","txt":"For today - http://t.co/5SCVwkeV $AMZN $FCX $EBAY $NVDA $BAC $WFC $GOOG $PEET $NOV $CRM $GS $BIIB $ADBE","lbl":"Neutral"}
+,{"time":"8:18","usr":"CreateCapital","txt":"RT @scarletfu: Test drive your gadgets at $BBY, but buy them on $AMZN? Here are the #s via @BloombergTV: http://t.co/0bXs2xGi @insidetrackers","lbl":"Neutral"}
+,{"time":"8:19","usr":"kevindepew","txt":"RT @scarletfu: Test drive your gadgets at $BBY, but buy them on $AMZN? Here are the #s via @BloombergTV: http://t.co/0bXs2xGi @insidetrackers","lbl":"Neutral"}
+,{"time":"8:20","usr":"TheStreet","txt":"The latest upgrades/downgrades -- $AMZN $AXP $PNC http://t.co/dlYhzPJH","lbl":"Neutral"}
+,{"time":"8:20","usr":"Minyanville","txt":"Today\u0027s #Stock Upgrades & Downgrades http://t.co/jG9S5mkp $AMZN $FFIV $POT","lbl":"Neutral"}
 ,{"time":"8:49","usr":"RedDogT3Live","txt":"$amzn super strong- $goog went green- $aapl night try and fill gap","lbl":"Positive"}
 ,{"time":"8:50","usr":"Urbanomical","txt":"Go $amzn go!!!","lbl":"Positive"}
 ,{"time":"8:51","usr":"takingstock614","txt":"$AMZN rocking","lbl":"Positive"}
 ,{"time":"9:25","usr":"CONCEDE","txt":"RT @HedgeyeDJ: Bed Bath and Beyond has a 90% SKU overlap with $AMZN. That, my friends, is what we call a secular headwind.","lbl":"Negative"}
 ,{"time":"9:28","usr":"firstadopter","txt":"As HP, Samsung, $RIMM , ASUS know by now, tablet shipments DO NOT equal sales - $AMZN Fire","lbl":"Negative"}
 ,{"time":"10:13","usr":"AdrienneLA","txt":"Rough day for $TIF and $HWD... but look at $AMZN go!","lbl":"Positive"}
+,{"time":"10:13","usr":"firstadopter","txt":"$BBY call: new \u0022free shipping benefit is comparable to $AMZN Prime\u0022","lbl":"Neutral"}
 ,{"time":"10:15","usr":"TraderFlorida","txt":"$AMZN $PCLN holding up well","lbl":"Positive"}
+,{"time":"11:03","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:48am: 202.61 +1.45 (+0.72%).","lbl":"Neutral"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/173, $BBY/90, $SPY/70, $GOOG/55, $LPTH/44, $BAC/32, $AMZN/31, $IWM/23. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"11:40","usr":"Ruu_Dii","txt":"watching for a trading bottom $AAPL $PCLN $AMZN $SPY","lbl":"Negative"}
 ,{"time":"11:41","usr":"bchi99","txt":"$bby was a no brainer short, how can you compete with $amzn plus it\u0027s prime service? It\u0027s another circuit city story","lbl":"Positive"}
+,{"time":"13:31","usr":"barronstake","txt":"Barron\u0027s Take: Best Buy Isn\u0027t Your Best Bet $BBY $WMT $COST $AMZN $TGT $AAPL http://t.co/nHBqR6mY","lbl":"Neutral"}
 ,{"time":"13:33","usr":"Arnuminous","txt":"I\u0027m throwing some kindling on the $AMZN fire","lbl":"Positive"}
 ,{"time":"14:18","usr":"toddstrade","txt":"If $AMZN > $205-205.30 resistance zone could be a nice move","lbl":"Positive"}
 ,{"time":"14:19","usr":"Arnuminous","txt":"$AMZN near High of Day","lbl":"Positive"}
+,{"time":"15:21","usr":"StockMarketEnds","txt":"Amazon Thinks they got a Friend in AntiChrist Zionists, Zionists Always Choose Money over Amazon, A Zionist is A Zionist #Amazon $AMZN","lbl":"Neutral"}
+,{"time":"17:54","usr":"illmaticwes","txt":"$PCLN http://t.co/Ph1hMVBi Stock Setups Part II (VIDEO) $SINA $IBM $V $ULTA $AMZN $LNKD Buiz website->http://t.co/Bt49Vrcd","lbl":"Neutral"}
+,{"time":"23:44","usr":"USwwwStocks","txt":"$AMZN News: [$$] Best Buy Forced to Rethink Big Box http://t.co/L2AS7IWW #internet #daytrading #stocks","lbl":"Neutral"}
 ,{"time":"23:56","usr":"ManiOhli","txt":"Option Millionaires: hdsstocks: I\u0027m holding $AMZN calls :-) http://t.co/9KLvYgLs","lbl":"Positive"}
 ]

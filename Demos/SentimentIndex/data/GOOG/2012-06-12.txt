@@ -1,7 +1,9 @@
 [
-{"time":"3:00","usr":"CancunParadise8","txt":"$GOOG lost a revenue stream by losing $AAPL for Maps...wont bring it down..but its a loss of a revenue stream nonetheless...$AAPL $GOOG","lbl":"Negative"}
+{"time":"2:56","usr":"thefinancepress","txt":"$GOOG TomTom Jumps on Agreement With Apple Over Global Maps: TomTom Jumps on Agreement With Apple Over Global M... http://t.co/zerWjAwi","lbl":"Neutral"}
+,{"time":"3:00","usr":"CancunParadise8","txt":"$GOOG lost a revenue stream by losing $AAPL for Maps...wont bring it down..but its a loss of a revenue stream nonetheless...$AAPL $GOOG","lbl":"Negative"}
 ,{"time":"3:03","usr":"BeAheadDigital","txt":"THE BOTTOM LINE: Apple Really Is Going To Try To Kill Google $AAPL $GOOG by @jyarow http://t.co/VRPgxF4u","lbl":"Negative"}
 ,{"time":"3:06","usr":"EdHartigan","txt":"$AAPL kisses $FB, smacks $GOOG, and the market yawns http://t.co/iaxvDURd","lbl":"Negative"}
+,{"time":"5:54","usr":"harkx","txt":"Maybe even worse for #Europe RT @SAI: Apple\u0027s Maps App Is Worse Than Google Maps $AAPL $GOOG by @jyarow http://t.co/glc8fgvN","lbl":"Neutral"}
 ,{"time":"5:54","usr":"vinatachan","txt":"Ehem cc @fadjri RT @SAI: Apple\u0027s Maps App Is Worse Than Google Maps $AAPL $GOOG by @jyarow http://t.co/svYO5iw2","lbl":"Negative"}
 ,{"time":"5:58","usr":"wallstreet1928","txt":"RT @businessinsider: Apple\u0027s Maps App Is Worse Than Google Maps $AAPL $GOOG by @jyarow http://t.co/bDkvwCM8","lbl":"Positive"}
 ,{"time":"7:38","usr":"thefinancepress","txt":"$GOOG Google (NASDAQ:GOOG) Ends Legal Fight with French Authors Over Book Scanning ...: Google (NASDAQ:GOOG) En... http://t.co/X0CO0emo","lbl":"Positive"}
@@ -9,25 +11,43 @@
 ,{"time":"7:47","usr":"scalamai","txt":"#Apps vs #Web: Apple Really Is Going To Try To Kill Google http://t.co/kuCebtnm via @sai $GOOG $AAPL","lbl":"Negative"}
 ,{"time":"8:35","usr":"seongcc","txt":"RT @businessinsider: Apple Seriously Embarrassed Google\u0027s Android Yesterday $AAPL $GOOG by @stevekovach http://t.co/znagcgGg","lbl":"Negative"}
 ,{"time":"8:35","usr":"TraderNewburgh","txt":"$GOOG - poised to break lower","lbl":"Negative"}
+,{"time":"8:36","usr":"todd_harrison","txt":"Countdown to Greek Elections in Five Days; Pick your Battles and Choose your Fights! http://t.co/N8JjtQse $AAPL $GOOG $JPM $DB $GS #STOCKS","lbl":"Neutral"}
+,{"time":"8:36","usr":"LivingThankful","txt":"eyes on market.. $AAPL $GOOG $PCLN $AMZN $GLD #options","lbl":"Neutral"}
 ,{"time":"8:59","usr":"BarryAAnderson","txt":"LONG $GOOG 59.99 stop 56.99","lbl":"Positive"}
+,{"time":"9:00","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Searching For Macro Clues On Google http://t.co/YVFxCoJV #BIDU #Clues #GOOG","lbl":"Neutral"}
+,{"time":"9:00","usr":"m_chhabra","txt":"RT @wallstCS: SURPRISE! Forget the Hardware, Apple is a Software Company http://t.co/b9C1QUSS $AAPL $MSFT $GOOG $FB $INTC $YELP $OPEN $GM $TM $HMC","lbl":"Neutral"}
 ,{"time":"9:00","usr":"NapoleonButic","txt":"$GOOG long 560 pierce, gap fill on the daily chart","lbl":"Positive"}
 ,{"time":"9:21","usr":"dmackdaddy","txt":"Why iOS 6 just stomped out Android, again http://t.co/Q3L25TQW $AAPL > $GOOG","lbl":"Negative"}
 ,{"time":"9:22","usr":"KingOfTraders","txt":"$GOOG - triple bottom breakdown. http://t.co/ivSDd4Tj","lbl":"Negative"}
 ,{"time":"9:22","usr":"takingstock614","txt":"Just added a $GOOG put July ATM. Giving myself a few bucks, 566 stop.","lbl":"Negative"}
+,{"time":"9:56","usr":"44sunsets","txt":"RT @ahess247: How one question asked a decade ago says everything about Garmin today. http://t.co/WyI0s1To $AAPL $GRMN $GOOG","lbl":"Neutral"}
 ,{"time":"9:58","usr":"rodhamlin","txt":"RT @ericjackson: New Post: Why Facebook Doesn\u0027t Have Mobile In Its Founding DNA - and Why That Spells Disaster - Forbes http://t.co/WCiEFTP7 $FB $AAPL $GOOG","lbl":"Negative"}
 ,{"time":"9:58","usr":"TweetLeni","txt":"Looks like I covered my $GOOG short too soon. Business as usual.","lbl":"Negative"}
 ,{"time":"10:00","usr":"SeekingAlpha","txt":"Apple\u0027s Worldwide Developers Conference - Watch Out, Microsoft And Google http://t.co/vERNVZyb $DELL $GOOG $HPQ $INTC $MSFT $AAPL","lbl":"Negative"}
+,{"time":"10:31","usr":"vsistla","txt":"I see so many #surveys on #Twitter, #Facebook, $GOOG groups & I feel there is so much wastage:is there a #startup that is disrupting this?","lbl":"Neutral"}
 ,{"time":"10:31","usr":"Crap_Trader","txt":"Does $GOOG have support at 560ish? If it breaks through it, I think its got a ways to fall.","lbl":"Negative"}
 ,{"time":"10:31","usr":"taspider","txt":"Nice bounce in $GOOG off of 3 year trend line. Along with max pain of 600, expecting to see a good pop higher this week.","lbl":"Positive"}
+,{"time":"11:04","usr":"tylerm48","txt":"$GOOG - Google Stock Analysis - what are day traders - http://t.co/4NGvE6my","lbl":"Neutral"}
 ,{"time":"11:55","usr":"ChicagoRy","txt":"out the 2nd 1/2 of $GOOG -.45","lbl":"Negative"}
 ,{"time":"11:58","usr":"skewdata","txt":"$PCLN, $AAPL, $GOOG, toast...bring out the jelly.","lbl":"Negative"}
+,{"time":"12:54","usr":"TimDeanSTL","txt":"iDroid MT @SAI Even After The iPhone\u0027s Big Update, Here Are Ways Android Is Still Better $AAPL $GOOG by @stevekovach http://t.co/ePhVW1w0","lbl":"Neutral"}
 ,{"time":"12:55","usr":"BarryAAnderson","txt":"stopped on $GOOG -2","lbl":"Negative"}
+,{"time":"12:55","usr":"colindean","txt":"Holy crap, Wolfram Alpha does stock charts and figure comparison. $$ $DDD $GOOG http://t.co/56cyN4W5","lbl":"Neutral"}
 ,{"time":"12:57","usr":"noeltrades","txt":"Short $GOOG as well","lbl":"Negative"}
+,{"time":"13:39","usr":"JM_thatswassup","txt":"$AAPL learned how to attack $GOOG from $MSFT\u0027s mistakes http://t.co/ttEescJ9 $$","lbl":"Neutral"}
+,{"time":"13:40","usr":"UdallTechStrat","txt":"@UdallTechStrat Idiotically cheap takes too long to type... $goog","lbl":"Neutral"}
+,{"time":"13:40","usr":"SeekingAlpha","txt":"Amazon And LinkedIn Are Safe Ideas For Losing Money http://t.co/akg2cAtY $FB $GOOG $GRPN $LNKD $ZNGA $MSFT $AMZN","lbl":"Neutral"}
+,{"time":"13:40","usr":"SeekingAlpha","txt":"Are Apple Analysts Scaring Off Investors? http://t.co/JLPx0cMm $BIDU $GOOG $RIMM $AAPL","lbl":"Neutral"}
 ,{"time":"14:32","usr":"willfoxy","txt":"RT @SAI: Even After The iPhone\u0027s Big Update, Here\u0027s Every Way Android Is Still Better $AAPL $GOOG by @stevekovach http://t.co/uAFiMHIi","lbl":"Positive"}
 ,{"time":"14:32","usr":"srisri55","txt":"This market going up without $AAPL $GOOG $CRM $BIDU. Peeps r tired & wanna put $$$ in stable names $MCD $IBM $KO $CSCO $INTC","lbl":"Negative"}
 ,{"time":"14:34","usr":"okieinvestor","txt":"@marketfolly $GOOG EPS still below 2007 though. Mobile hurting top/btm line as well. Agree it\u0027s cheap but there are good reasons.","lbl":"Negative"}
 ,{"time":"15:27","usr":"Givoanna","txt":"RT @LaMonicaBuzz: If you\u0027re keeping score at home, only major tech company with mountains of cash that\u0027s not yet paying a dividend is $GOOG. Don\u0027t be stingy!","lbl":"Positive"}
 ,{"time":"15:28","usr":"fredbarnhill","txt":"RT @LaMonicaBuzz: If you\u0027re keeping score at home, only major tech company with mountains of cash that\u0027s not yet paying a dividend is $GOOG. Don\u0027t be stingy!","lbl":"Positive"}
+,{"time":"15:29","usr":"Qwovadis","txt":"Commented on: \u0022Are Apple Analysts Scaring Off Investors?\u0022 http://t.co/FgrFJBqA $AAPL $BIDU $GOOG $RIMM","lbl":"Neutral"}
 ,{"time":"15:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 15:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+,{"time":"17:31","usr":"ADVFNplc","txt":"$GOOG - Apple at Worldwide Developers Confc - Analyst Blog http://t.co/TfJ2whFV","lbl":"Neutral"}
+,{"time":"17:37","usr":"MattRosoff","txt":"Yahoo\u0027s Search Market Share Drops For The Ninth Straight Month $GOOG $YHOO $MSFT http://t.co/lsFaISFW","lbl":"Neutral"}
+,{"time":"17:37","usr":"SAI","txt":"Yahoo\u0027s Search Market Share Drops For The Ninth Straight Month $GOOG $YHOO $MSFT by @MattRosoff http://t.co/uai2aec3","lbl":"Neutral"}
+,{"time":"17:37","usr":"USwwwStocks","txt":"$GOOG News: What Happened To Corporate America\u0027s Mountain Of Unused Cash? http://t.co/22ForMvT #GOOG #Americaamp39s #Cash","lbl":"Neutral"}
 ,{"time":"20:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 20:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
 ]

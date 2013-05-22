@@ -1,3 +1,6 @@
 [
-{"time":"16:41","usr":"harmongreg","txt":"$AMZN over 238 has a Measured Move to 250 http://t.co/uqlPutd4","lbl":"Positive"}
+{"time":"9:02","usr":"top_market_news","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/gtxbjXXC #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"16:41","usr":"harmongreg","txt":"$AMZN over 238 has a Measured Move to 250 http://t.co/uqlPutd4","lbl":"Positive"}
+,{"time":"16:58","usr":"61point8","txt":"RT @harmongreg: $AMZN over 238 has a Measured Move to 250 http://t.co/uqlPutd4","lbl":"Neutral"}
+,{"time":"16:58","usr":"tbg4321","txt":"$ES_F, $SPY, $AMZN, $AAPL all access charts posted $$ http://t.co/zB8AWfGd","lbl":"Neutral"}
 ]

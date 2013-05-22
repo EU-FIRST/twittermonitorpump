@@ -1,1 +1,3 @@
-[]
+[
+{"time":"21:01","usr":"modestus1","txt":"I thought Netflix ($NFLX) and Amazon ($AMZN) were independent and $NFLX had its own library of movies. http://t.co/kBCVsYAE","lbl":"Neutral"}
+]

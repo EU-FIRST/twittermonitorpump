@@ -1,18 +1,45 @@
 [
-{"time":"7:11","usr":"tlmontana","txt":"$GOOG Price Target RAISED to 760 from 680 at CITI","lbl":"Positive"}
+{"time":"4:49","usr":"RedDogT3Live","txt":"Most high beta names met short term objectives and need some time to set up again $Nflx $goog $bidu $amzn $AAPL $lnkd","lbl":"Neutral"}
+,{"time":"4:50","usr":"CameronKaine","txt":"Commented on: \u00222 Stocks To Buy And 3 To Avoid Due To Valuation\u0022 http://t.co/McV05Jlw $AAPL $AMZN $CRM $GOOG $SIRI","lbl":"Neutral"}
+,{"time":"5:03","usr":"richi","txt":"Google Drive: Gdrive storage tool in April -- Dropbox killer? #ITBW http://t.co/TFWpgqti /by @richi for @Computerworld $GOOG","lbl":"Neutral"}
+,{"time":"5:03","usr":"d_ramsden","txt":"Why one startup is moving into NYC (& maybe why $FB & $GOOG also). Well written piece captures one aspect http://t.co/pToEpYnJ $BBERG $$","lbl":"Neutral"}
+,{"time":"7:08","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: ZOZO: NYPost: $GOOG $150 price tag to trigger tablet http://t.co/y4GfpCrZ","lbl":"Neutral"}
+,{"time":"7:11","usr":"tlmontana","txt":"$GOOG Price Target RAISED to 760 from 680 at CITI","lbl":"Positive"}
+,{"time":"8:30","usr":"Cameron401","txt":"RT @wallstCS: Tech Business Roundup: Netflix Double-Take, Big Amazon Kindle News http://t.co/yQTfEhcW $SYMC $NFLX $AMZN $GOOG $YELP #mkt","lbl":"Neutral"}
+,{"time":"8:32","usr":"DJThistle","txt":"Epson Moverio: World\u2019s first wearable Android display: Epson America today announced that they are now sh... http://t.co/mzxTKbdy $GOOG","lbl":"Neutral"}
 ,{"time":"8:33","usr":"berkutchitweet","txt":"added to $GOOG pos... again. Hopefully third time is the charm.","lbl":"Positive"}
+,{"time":"9:00","usr":"Energie411","txt":"$OVTI flying HIGH on talks of BIG contract w/ $GOOG","lbl":"Neutral"}
 ,{"time":"9:01","usr":"EvanMedeiros","txt":"$GOOG back in 656.31","lbl":"Positive"}
+,{"time":"9:02","usr":"modernhombre","txt":"$GOOG just passed $650, currently sitting at 653.46. #hombrefund","lbl":"Neutral"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"IPO Preview: Millennial Media http://t.co/Onz6ZA7c $AAPL $GOOG $MM","lbl":"Neutral"}
 ,{"time":"10:04","usr":"Tangletrade","txt":"hedging my $GOOG Apr call spreads here with Mar 30 $660-650-645 skip strike put butterflies","lbl":"Negative"}
+,{"time":"10:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/149, $AMLN/68, $SPY/53, $GOOG/45, $LPTH/44, $AMZN/34, $ANR/21, $CAT/21. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:00","usr":"TheStreet","txt":"The latest upgrades/downgrades -- $GOOG $GE $FFIV http://t.co/78VNTSQ3","lbl":"Neutral"}
+,{"time":"11:01","usr":"humblemature","txt":"RT @TheStreet: The latest upgrades/downgrades -- $GOOG $GE $FFIV http://t.co/78VNTSQ3","lbl":"Neutral"}
+,{"time":"11:02","usr":"vincentleeuwen","txt":"testing $GOOG","lbl":"Neutral"}
 ,{"time":"11:51","usr":"srisri55","txt":"cleared all the positions.....including $AAPL $GOOG (nice that one). Holding 95% in cash. Let the things get cleared.","lbl":"Negative"}
+,{"time":"12:33","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"12:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/114, $AMZN/39, $SPY/36, $GLD/22, $BAC/21, $CAT/21, $GOOG/18, $AMLN/18. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"13:12","usr":"MatthewSafaii","txt":"RT @SAI: What It\u0027s Like Leaving Google To Go Work At Facebook $GOOG by @mattlynley http://t.co/NSpAwjnT","lbl":"Neutral"}
 ,{"time":"13:13","usr":"Phileo99","txt":"$ES_F filled friday`s gap 1392.5-ish, leaders still holding up well $AAPL $GOOG $YELP","lbl":"Positive"}
 ,{"time":"13:44","usr":"TraderFlorida","txt":"$AAPL http://t.co/9LKI0GGG Along with $GOOG holding up well today POSTED VIDEO","lbl":"Positive"}
 ,{"time":"13:45","usr":"Wallfish","txt":"RT @SAI: Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG by @Julie188 http://t.co/nWlu7pIR","lbl":"Negative"}
 ,{"time":"13:46","usr":"jsyqa","txt":"RT @SAI: Ex-Googler Fears Google\u0027s Greed, So He Launched A Company To Protect People From It $GOOG by @Julie188 http://t.co/nWlu7pIR","lbl":"Negative"}
 ,{"time":"14:33","usr":"OgFOMK","txt":"Google Play promptly reimbursed me for my problem with a Google Play movie. Just had to use the right Chanel $GOOG","lbl":"Negative"}
+,{"time":"14:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/93, $LPTH/62, $CHTP/54, $SPY/47, $GOOG/44, $ZLCS/28, $AERL/28, $GS/18. http://t.co/9ch5yju7","lbl":"Neutral"}
 ,{"time":"14:35","usr":"MrDayer","txt":"few greens on my list today. $wfm $aapl $pkt $usb $goog","lbl":"Negative"}
+,{"time":"14:36","usr":"Fitzstock2004","txt":"$GOOG wants 680","lbl":"Neutral"}
+,{"time":"15:09","usr":"Finishort","txt":"RT @StocialTrends: 60 minute Trending Social Volume: $AAPL/88, $SPY/61, $CHTP/41, $GOOG/34, $ZLCS/30, $AMLN/22, $AMZN/21, $GS/19. I wonder y","lbl":"Neutral"}
+,{"time":"15:52","usr":"SAI","txt":"Brutal: Court Filings Reveal Asus\u0027s Best Android Tablet Only Had 2,000 Pre-Orders $GOOG by @stevekovach http://t.co/MsTD53f5","lbl":"Neutral"}
+,{"time":"15:53","usr":"RodrigoSarzosa","txt":"RT @SAI: Brutal: Court Filings Reveal Asus\u0027s Best Android Tablet Only Had 2,000 Pre-Orders $GOOG by @stevekovach http://t.co/MsTD53f5","lbl":"Neutral"}
 ,{"time":"15:56","usr":"melcoollewis","txt":"RT @SAI: Brutal: Court Filings Reveal Asus\u0027s Best Android Tablet Only Had 2,000 Pre-Orders $GOOG by @stevekovach http://t.co/MsTD53f5","lbl":"Negative"}
+,{"time":"16:50","usr":"SAI","txt":"Google: No, We Don\u0027t Have 25 Million Empty Google+ Profiles $GOOG by @jyarow http://t.co/e0dJs2mB","lbl":"Neutral"}
 ,{"time":"17:47","usr":"stockwatch12","txt":"$GOOG - Google Stock Analysis - 10day moving average is rising - http://t.co/DpSMOQQ0","lbl":"Positive"}
 ,{"time":"17:48","usr":"Bargain_Bin","txt":"Google is Fairly Valued But Offers Growth http://t.co/TxZ8XwBu $GOOG","lbl":"Positive"}
+,{"time":"17:48","usr":"StockTwits","txt":"Nokia Pins Smartphone Hopes on China http://t.co/EigIOkk1 $NOK $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"17:48","usr":"MassyPower","txt":"RT @StockTwits: Nokia Pins Smartphone Hopes on China http://t.co/EigIOkk1 $NOK $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"19:08","usr":"wallstCS","txt":"Is Google Finally Worried About Dropbox? http://t.co/a39rZywU $GOOG #mkt #stocks #trading","lbl":"Negative"}
+,{"time":"19:09","usr":"thefinancepress","txt":"$GOOG Nokia Recruits Vespa Rider in Race Against Androids in China: Nokia Recruits Vespa Rider in Race Against ... http://t.co/8YIUApAK","lbl":"Neutral"}
 ,{"time":"21:47","usr":"BullsEverywhere","txt":"$GOOG - next resistance is around $671, I would wait for a larger correction to get in. It maybe too late for this run.","lbl":"Negative"}
+,{"time":"21:51","usr":"ProfBinkovitz","txt":"RT @businessinsider: Watch This Blind Man Take A Trip In One Of Google\u0027s Self-Driving Cars $GOOG by @MattRosoff http://t.co/GxdmSFGF","lbl":"Neutral"}
 ]

@@ -1,6 +1,20 @@
 [
 {"time":"7:33","usr":"TrueMarketAI","txt":"Is $AMZN losing its competitive advantage? Rivals are getting tougher vs the No. 1 online seller... http://t.co/vNfKpyXt - @TJReazor #Stocks","lbl":"Negative"}
+,{"time":"7:38","usr":"biggercapital","txt":"The PaperWhite Dec 17 delivery date \u0022@RedSoloCupTrader2: $AMZN - Tried to get a Kindle but they were all out-Something said by no one $AAPL\u0022","lbl":"Neutral"}
 ,{"time":"7:41","usr":"stevecole99","txt":"@biggercapital $AMZN have decided to bring #Kindle Fire HD to UK market now. I must say, I\u0027m tempted. See what Santa brings","lbl":"Positive"}
+,{"time":"9:03","usr":"danielhsqr","txt":"@carlquintanilla @SquawkStreet sure, but less confusing than the no data from $amzn, $goog, $msft on their tablet sales","lbl":"Neutral"}
+,{"time":"9:06","usr":"GIWilson","txt":"RT @MarketWatchPF: Negative ads seem to work better on voters than consumers. Case in point: Amazon\u0027s iPad mini attack. http://t.co/tEE3sZqw $aapl $AMZN","lbl":"Neutral"}
+,{"time":"10:00","usr":"dh_oconnor","txt":"NYT story about bookstores response to $AMZN #disruption, IMHO they should stop complaining;focus on unique advantages: http://t.co/wtgrOvYE","lbl":"Neutral"}
+,{"time":"10:00","usr":"DisCo_Project","txt":"RT @dh_oconnor: NYT story about bookstores response to $AMZN #disruption, IMHO they should stop complaining;focus on unique advantages: http://t.co/wtgrOvYE","lbl":"Neutral"}
+,{"time":"10:00","usr":"wallstCS","txt":"Who is Apple Trying to Please With the iPad Mini? http://t.co/vZ9QaNkz $AAPL $AMZN $GOOG $BKS #stocks #trading","lbl":"Neutral"}
 ,{"time":"10:39","usr":"tlmontana","txt":"$AMZN Looking Okay","lbl":"Positive"}
+,{"time":"12:00","usr":"SeekingAlpha","txt":"Groupon Earnings Preview: Near-Term Softness Keeps Me On The Sidelines http://t.co/qKhvx24k $AMZN $GRPN","lbl":"Neutral"}
+,{"time":"12:01","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $TWC +29%, $WAG +11%, $AAPL +3%, $GOOG -7%, $HUM -7%, $AMZN -7% http://t.co/uBJyhJcD","lbl":"Neutral"}
 ,{"time":"12:50","usr":"TheStreet","txt":"Amazon Gets a New Vote of Confidence - http://t.co/rPrC1eJB by @agara2004 $AMZN $AAPL $FB","lbl":"Positive"}
+,{"time":"12:50","usr":"TuckArthur","txt":"RT @SAI: Apple\u0027s Decision To Not Say How Many iPad Minis It Sold Is Pure Bologna $AAPL $GOOG $MSFT $AMZN by @jyarow http://t.co/VOqAQOGg","lbl":"Neutral"}
+,{"time":"13:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:16pm: 231.95 -0.4724 (-0.20%).","lbl":"Neutral"}
+,{"time":"17:47","usr":"zevallos","txt":"Apple Only Has 50% Of The Tablet Market Now $AAPL $GOOG $AMZN by @jyarow http://t.co/LuBkXn2p","lbl":"Neutral"}
+,{"time":"19:03","usr":"TheNowMall","txt":"RT @DhanyaTweets: Staples to have Amazon lockers in U.S. stores: Staples spokeswoman tells @Reuters http://t.co/eLW2ba4x $SPLS $AMZN","lbl":"Neutral"}
+,{"time":"20:51","usr":"CharlieHappenin","txt":"RT @Hambledown_Road: RT @LukeRomyn: Sit down, buckle up & hold on to your tongue. These reads guarantee a heart-pumping ride: http://t.co/sObWDe7e $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"20:52","usr":"KarSun01","txt":"RT @StockTwits: Momentum Monday - We are Back...SANDY, Apple, Generators and more Trends... http://t.co/wjUzqFcs via @howardlindzon $GOOG $AAPL $AMZN $IBM","lbl":"Neutral"}
 ]

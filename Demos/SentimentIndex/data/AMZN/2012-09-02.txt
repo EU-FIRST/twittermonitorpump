@@ -1,5 +1,7 @@
 [
 {"time":"2:09","usr":"AJohnKyriazis","txt":"RT @SeekingAlpha: Amazon Primed For A Big Drop As Growth Slows http://t.co/J5PrNzNA $AAPL $GOOG $BBY $BKS $TGT $WMT $AMZN $SSNLF.PK","lbl":"Negative"}
 ,{"time":"11:26","usr":"halsilva","txt":"RT @andrescardenal: A Simple Idea for Exceptional Returns - $AMZN, $AAPL, $EBAY, $GOOG, $MELI - Foolish Blogging Network: http://t.co/KV ...","lbl":"Positive"}
+,{"time":"11:29","usr":"BigTicks","txt":"$AMZN News: Is http://t.co/0pEXC5uk, Inc. (NASDAQ:AMZN) ditching Google Maps? http://t.co/k4xOAMdl #Amazoncom #AMZN #Ditching","lbl":"Neutral"}
+,{"time":"15:48","usr":"GeekChic21","txt":"Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from @allabouttrends on Tuesday.","lbl":"Neutral"}
 ,{"time":"20:33","usr":"BigTicks","txt":"$AMZN News: Amazon Primed For A Big Drop As Growth Slows http://t.co/CH8FU77I #Amazon #AMZN #Drop","lbl":"Negative"}
 ]

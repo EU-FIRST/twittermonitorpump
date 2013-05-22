@@ -1,19 +1,55 @@
 [
-{"time":"10:42","usr":"IBuyside","txt":"Recent co\u0027s w/ most insider buys: $WES, $TRIP, $TMW, $CPRX, $DWOG Recent co\u0027s w/ most insider sales: $AVGO, $CONN, $AWI, $GOOG, $PRGX","lbl":"Negative"}
+{"time":"5:31","usr":"superfly_FR","txt":"Commented on: \u0022Microsoft Or RIM? Why There Is Only Room For One More Mobile Operat... http://t.co/wyEuVJg4 $RIMM $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"5:35","usr":"TheStreet","txt":"Google Dreams Big http://t.co/XBeDBxwi by @DanaBlankenhorn $GOOG","lbl":"Neutral"}
+,{"time":"5:46","usr":"BigTicks","txt":"$GOOG News: Apple\u0027s iPhone Welcomes Google Maps App\u0027s Return http://t.co/aNBEPaPT http://t.co/GlGnAeWP","lbl":"Neutral"}
+,{"time":"7:40","usr":"lenvassos","txt":"RT @businessinsider: Santa Ditches Google For Microsoft $GOOG $MSFT http://t.co/k0JZsnvo","lbl":"Neutral"}
+,{"time":"8:39","usr":"NorthmanTrader","txt":"Target plays this week: $SPY $GOOG $NFLX $AAPL $RIMM","lbl":"Neutral"}
+,{"time":"8:40","usr":"LandyWingard","txt":"Cool vid. \u0022Coca Cola gets people to bust some moves...\u0022 #microsoft #kinect $msft $aapl $goog $rimm $KO http://t.co/wp4Xyuxw","lbl":"Neutral"}
+,{"time":"9:38","usr":"antisthan","txt":"RT @slangwise: iPads at dawn as $MSFT\u0027s top PR guy takes to Twitter to go ballistic at $GOOG PR gal. http://t.co/UnmVkozl @nichcarlson","lbl":"Neutral"}
+,{"time":"9:38","usr":"Fitzstock2004","txt":"Many stocks triggered buys this morning from CWUS . $FAS and $GOOG to name a few","lbl":"Neutral"}
+,{"time":"9:38","usr":"OptionsHawk","txt":"If the call buying is any indication, maybe $GOOG or $AAPL acquires Shutterfly $SFLY","lbl":"Neutral"}
+,{"time":"10:11","usr":"thefinancepress","txt":"$GOOG M&A Update: Google Inc. (NASDAQ:GOOG), Clearwire Corp. (NASDAQ:CLWR): M&A Update: Google Inc. (NASDAQ:GOO... http://t.co/5fsSR16J","lbl":"Neutral"}
+,{"time":"10:12","usr":"Minyanville","txt":"Minyanville\u0027s T3 Morning Market Call: Market Continues to Hold Up Despite Apple Weakness $AAPL $GOOG http://t.co/Sl0t6YrY","lbl":"Neutral"}
+,{"time":"10:41","usr":"choffman1978","txt":"$ACUR surges as Nexafed launches and new website! http://t.co/xuhjBbLv \u2026 #cnbc,#msnbc,#nyse,#wsj,$pfe,$jnj,$bpax,$kerx,$gs,$aapl,$goog,$fb","lbl":"Neutral"}
+,{"time":"10:41","usr":"ampressman","txt":"Leaks coming close together, deal close - Google, FTC said to be near deal to end probe - Washington Post $GOOG http://t.co/uxvTXueh","lbl":"Neutral"}
+,{"time":"10:42","usr":"IBuyside","txt":"Recent co\u0027s w/ most insider buys: $WES, $TRIP, $TMW, $CPRX, $DWOG Recent co\u0027s w/ most insider sales: $AVGO, $CONN, $AWI, $GOOG, $PRGX","lbl":"Negative"}
 ,{"time":"11:12","usr":"SAI_Tools","txt":"Proof That Google Is Beating Apple On The iPhone $GOOG $AAPL by @stevekovach http://t.co/OWiVLxIf","lbl":"Positive"}
 ,{"time":"11:12","usr":"businessinsider","txt":"Proof That Google Is Beating Apple On The iPhone $GOOG $AAPL by @stevekovach http://t.co/L5v1cis0","lbl":"Positive"}
 ,{"time":"11:12","usr":"SAI","txt":"Proof That Google Is Beating Apple On The iPhone $GOOG $AAPL by @stevekovach http://t.co/e3vHCLOO","lbl":"Positive"}
+,{"time":"11:30","usr":"businessinsider","txt":"The 15 Biggest Stories In Tech This Year $AAPL $GOOG $MSFT $FB $ZNGA $GRPN by @shontelaylay http://t.co/ErXdmygq","lbl":"Neutral"}
+,{"time":"11:30","usr":"SAI_Tools","txt":"The 15 Biggest Stories In Tech This Year $AAPL $GOOG $MSFT $FB $ZNGA $GRPN by @shontelaylay http://t.co/0vwSoAAC","lbl":"Neutral"}
 ,{"time":"11:30","usr":"berkutchitweet","txt":"Added to positions in $GOOG $BLK $EQIX this morning. Also holding $ISRG $MA. Stopped out of $CEO.","lbl":"Positive"}
+,{"time":"11:51","usr":"PeterRumble1","txt":"$AAPL will close above 515, ignore the ANALysts and get LONG $SPY $GOOG $BIDU $RIMM","lbl":"Neutral"}
+,{"time":"11:54","usr":"IsmaLga","txt":"RT @SAI: The 15 Biggest Stories In Tech This Year $AAPL $GOOG $MSFT $FB $ZNGA $GRPN by @shontelaylay http://t.co/xy9zZqeB","lbl":"Neutral"}
+,{"time":"12:29","usr":"Marketexchange","txt":"RT @barronstechblog: AAPL: Citi, Morgan Stanley, Piper, Bernstein, Canaccord, Mizuho, Pac Crest Weigh in - Tech Trader Daily - $AAPL $GOOG http://t.co/Mx1xqBYK","lbl":"Neutral"}
 ,{"time":"12:29","usr":"ChartMoMo","txt":"sold to open $goog 710 DEC puts 3.50 per contract","lbl":"Positive"}
+,{"time":"12:30","usr":"AlbertS_NY","txt":"Apple Bears Need a New Thesis http://t.co/jjjVI8YD $aapl $spy $goog","lbl":"Neutral"}
+,{"time":"13:23","usr":"tradethembi","txt":"Commented on StockTwits: I just added you to all $GOOG time frames just to make sure, you can ignore the timeframe y... http://t.co/oJ81Gi6K","lbl":"Neutral"}
 ,{"time":"13:28","usr":"wallstCS","txt":"Is Google\u0027s Nexus 4 Too Popular? http://t.co/di16KpKe $GOOG #mkt #stocks #trading #investing","lbl":"Positive"}
+,{"time":"14:03","usr":"dschorrnyc","txt":"Facebook Nearby to challenge Yelp, Foursquare, TechCrunch reports $FB $YELP $GOOG","lbl":"Neutral"}
+,{"time":"14:04","usr":"HFTAlert","txt":"CAPPER SPIKE? possibly...will know in 2 mins. $spy $aapl $vxx $goog http://t.co/Mtz07972","lbl":"Neutral"}
 ,{"time":"14:41","usr":"SAI","txt":"Google Maps For iPhone Downloaded 10 Million Times In Less Than 48 Hours $GOOG by @stevekovach http://t.co/YpX9mrIh","lbl":"Positive"}
+,{"time":"14:41","usr":"edmundoTO","txt":"RT @SAI: Google Maps For iPhone Downloaded 10 Million Times In Less Than 48 Hours $GOOG by @stevekovach http://t.co/YpX9mrIh","lbl":"Neutral"}
+,{"time":"14:41","usr":"stuffandplayx","txt":"RT @SAI: Google Maps For iPhone Downloaded 10 Million Times In Less Than 48 Hours $GOOG by @stevekovach http://t.co/YpX9mrIh","lbl":"Neutral"}
+,{"time":"15:04","usr":"MarkAlanT","txt":"$GOOG very close to key pivot resistance & 61.8% fibonacci retracement from the November lows.","lbl":"Neutral"}
+,{"time":"15:18","usr":"TechInsiderco","txt":"Google Launches Dedicated YouTube Video Camera App For iPhone and iPod Touch: Here is an interesti... http://t.co/qCOQ8Uj6 #Google $GOOG","lbl":"Neutral"}
+,{"time":"15:40","usr":"NorthmanTrader","txt":"several stocks at key break-out levels. $GOOG, $NFLX, $GS --$AAPL above $517 and pressure builds","lbl":"Neutral"}
 ,{"time":"15:41","usr":"OnClose","txt":"@takingstock614 I\u0027m long $GOOG $NFLX","lbl":"Positive"}
 ,{"time":"15:45","usr":"SAI","txt":"Google Just Launched Another Killer App On iPhone $GOOG $AAPL by @stevekovach http://t.co/dAewPq4L","lbl":"Positive"}
 ,{"time":"16:01","usr":"Don_Gronald","txt":"My $GOOG calls are exploding right now!!!","lbl":"Positive"}
+,{"time":"16:01","usr":"MarketCurrents","txt":"The Google Maps (GOOG) iPhone app was downloaded over 10M times in its first 48 hours of availability... http://t.co/8sgBtnNa $GOOG","lbl":"Neutral"}
 ,{"time":"16:02","usr":"sciencetrader","txt":"lost about 0.90 cents in $GOOG short- like I said wasn\u0027t taking overnight","lbl":"Positive"}
+,{"time":"16:28","usr":"OzzTorr","txt":"\u0022@SAI: The Apple-Google Rivalry Is Awesome For iPhone Owners $AAPL $GOOG by @jyarow http://t.co/0vvpHEsD\u0022 #truestory","lbl":"Neutral"}
 ,{"time":"16:28","usr":"GVGOZZ","txt":"RT @biggercapital: Sold $GOOG at the end of the day. Had bought a few weeks ago. No position. I buy falling knives and sell rockets","lbl":"Negative"}
 ,{"time":"16:55","usr":"diegoromerosm","txt":"RT @SAI: The Most Popular Futurist On The Planet Will Help Google Develop The Next Big Thing $GOOG by @_dtl http://t.co/ZF1STIk7","lbl":"Positive"}
+,{"time":"17:00","usr":"andrewferrier","txt":"RT @SAI: The Apple-Google Rivalry Is Awesome For iPhone Owners $AAPL $GOOG by @jyarow http://t.co/6BuGelgq","lbl":"Neutral"}
+,{"time":"17:39","usr":"TxtInsight","txt":"$GOOG throwing LG under the bus re: Nexus 4 supply doesn\u0027t mark the beginning of a long-term relationship. #txtinsightmobile","lbl":"Neutral"}
 ,{"time":"17:40","usr":"rechtsteiner","txt":"RT @TxtInsight: $GOOG throwing LG under the bus re: Nexus 4 supply doesn\u0027t mark the beginning of a long-term relationship. #txtinsightmobile","lbl":"Negative"}
+,{"time":"18:42","usr":"CAMAR024","txt":"Scans for tuesday http://t.co/XZLm41to $EXM $VMCI $BION $URRE $STEV $AAPL $BAC $JPM $GOOG","lbl":"Neutral"}
+,{"time":"18:42","usr":"ronaldsipahutar","txt":"Finally! RT @SAI: Google Maps For iPhone Downloaded 10 Million Times In Less Than 48 Hours $GOOG by @stevekovach http://t.co/pyW0WOnh","lbl":"Neutral"}
 ,{"time":"18:44","usr":"SeekingAlpha","txt":"Scarce Supply Means Google\u0027s Nexus Is A Winner http://t.co/yECWTOHz $AAPL $EBAY $QCOM $GOOG","lbl":"Positive"}
+,{"time":"20:05","usr":"BenCBanks","txt":"DAILY ANALYSIS w/CHARTS is UP -- http://t.co/mNekVtYT $SPY $AAPL $GOOG $AMZN $BAC $C $GE $DUK and MORE","lbl":"Neutral"}
+,{"time":"20:06","usr":"Champlooo","txt":"RT @SAI: Google Maps For iPhone Downloaded 10 Million Times In Less Than 48 Hours $GOOG by @stevekovach http://t.co/tHf3vV2g","lbl":"Neutral"}
+,{"time":"22:09","usr":"Rob_Hager","txt":"Apple in Preliminary Talks With Foursquare About Data-Sharing Deal http://t.co/JxTBoQTY via @WSJ $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"22:15","usr":"Jamtrades","txt":"When will $GOOG announce the sale of its Motorola Set Top Box unit? That will be huge for the stock too! Add that to the FTC ruling = HUGE!","lbl":"Positive"}
 ]

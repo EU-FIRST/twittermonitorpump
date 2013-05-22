@@ -1,22 +1,65 @@
 [
-{"time":"5:50","usr":"srisri55","txt":"@jimcramer $goog map is the sole reason I have not upgraded my $aapl iphone & ipads to iOs 6.","lbl":"Positive"}
+{"time":"2:31","usr":"thefinancepress","txt":"$GOOG Google Shuts Music Search in China to Refocus Products: Google Shuts Music Search in China to Refocus Pro... http://t.co/6xOATJEt","lbl":"Neutral"}
+,{"time":"2:38","usr":"marketmavenz","txt":"Today\u0027s PlayList Traders $AMZN +1 $GOOG +3.88 $ AAPL .38 (flat) $ BIDU 1.16 $NFLX +.74 $CRM no trades $CF +3.89 http://t.co/Pprm3xVc","lbl":"Neutral"}
+,{"time":"2:51","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Google Shuts Music Search in China to Refocus Products: Google Shuts Music Search in China to Refocus Pro... ...","lbl":"Neutral"}
+,{"time":"3:21","usr":"UmairMohsin","txt":"An Apple fan today is a guy being cheated by his girl and does not want to believe it is happening.-#apple $GOOG","lbl":"Neutral"}
+,{"time":"5:50","usr":"srisri55","txt":"@jimcramer $goog map is the sole reason I have not upgraded my $aapl iphone & ipads to iOs 6.","lbl":"Positive"}
+,{"time":"5:50","usr":"thefinancepress","txt":"$GOOG US Stock Futures Rise as Apple Gains on IPhone 5 Debut: US Stock Futures Rise as Apple Gains on IPhone 5 ... http://t.co/8DHedeKk","lbl":"Neutral"}
+,{"time":"5:50","usr":"jasonalanmoore","txt":"RT @jimcramer: I swear by $GOOG maps. Used it in Ireland to find every pub i visited --","lbl":"Neutral"}
+,{"time":"5:52","usr":"Hugo8Prinsloo","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $FB $AMZN by @nichcarlson http://t.co/TFLVlayh","lbl":"Neutral"}
 ,{"time":"6:31","usr":"nexgennovak","txt":"RT @NexgenJeremy: $GOOG Momentum trade for winner on smaller chart. http://t.co/3bbh5inL","lbl":"Positive"}
 ,{"time":"6:32","usr":"gbcchaz","txt":"RT @jimcramer: I swear by $GOOG maps. Used it in Ireland to find every pub i visited --","lbl":"Positive"}
+,{"time":"6:33","usr":"tim35473","txt":"@jimcramer you can still use $goog maps but just have to use safari","lbl":"Neutral"}
+,{"time":"6:33","usr":"jimcramer","txt":"@sfiegerman Bet thieves couldn\u0027t find way to next store to boost for $aapl iphone 5 without $GOOG Maps!!.","lbl":"Neutral"}
+,{"time":"7:11","usr":"djwizmo","txt":"RT @businessinsider: Apple Has ~7,000 Fewer People Working On Maps Than Google $AAPL $GOOG by @nichcarlson http://t.co/cF9KTbpQ","lbl":"Neutral"}
 ,{"time":"7:11","usr":"cherrygarciafan","txt":"DJIA replacing $KFT for $UNH but keeps $HP and $MSFT. WTH ! Replace them with $AAPL and $GOOG. $BAC should be dumped too!","lbl":"Positive"}
+,{"time":"7:12","usr":"JasonThePM","txt":"@TrendRida I\u0027m going out on a limb and I am guessing that you have an iPhone. I have a friend that is having a ball with his NFC $GOOG","lbl":"Neutral"}
+,{"time":"7:36","usr":"issaghanem","txt":"10 Things You Need To Know This Morning $AAPL $GOOG $FB $AMZN by @nichcarlson http://t.co/yO8w96LE -- Lars Droste (@larsdominic)","lbl":"Neutral"}
+,{"time":"7:37","usr":"DriesBuyck","txt":"RT @SAI: Apple Has ~7,000 Fewer People Working On Maps Than Google $AAPL $GOOG by @nichcarlson http://t.co/99NC6MUn","lbl":"Neutral"}
+,{"time":"7:37","usr":"brainmuffin","txt":"RT @wsmco: Apple Makes a Wrong Turn as Users Blast Map Switch - http://t.co/bLURfjLq http://t.co/wC53BPNT $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"7:37","usr":"RussRothsteinIT","txt":"RT @richi: Unwired Planet sues $AAPL, $GOOG over 20 patents: OpenWave/phone.com zombie roams Nevada | http://t.co/rxFJkLem | #ITBW $UPIP","lbl":"Negative"}
+,{"time":"8:13","usr":"Mark4124NH","txt":"RT @takingstock614: Nice tone this morning across mrkts. $AAPL $GOOG $AMZN $FB $ERX $MLNX $GS $FAS $GRPN looking for upside here throug ...","lbl":"Positive"}
+,{"time":"8:13","usr":"derekdominguez","txt":"RT @SAI: Apple Has ~7,000 Fewer People Working On Maps Than Google $AAPL $GOOG by @nichcarlson http://t.co/kQEx8h75","lbl":"Neutral"}
+,{"time":"8:14","usr":"StockTwits","txt":"Quantifying the Impending iOS 6 Maps Backlash http://t.co/krceO8lX $AAPL $GOOG ht @TenBaggersStockTwit","lbl":"Neutral"}
+,{"time":"8:14","usr":"Winstonman78","txt":"RT @SAI: Apple Has ~7,000 Fewer People Working On Maps Than Google $AAPL $GOOG by @nichcarlson http://t.co/99NC6MUn","lbl":"Neutral"}
 ,{"time":"8:37","usr":"mitchelltsai","txt":"wish I held my $AAPL $GOOG weeklies overnight... :-)","lbl":"Positive"}
+,{"time":"8:38","usr":"brigittegs","txt":"RT @FierceBiotech: Google #VC group eyes #biotech bets with $1B purse http://t.co/lBm20MJk $GOOG","lbl":"Neutral"}
 ,{"time":"8:38","usr":"StkConfidential","txt":"$KORS, $NVO, $GOOG, $PCLN, $AAPL up and out early so far this am. $$","lbl":"Positive"}
+,{"time":"8:38","usr":"J_666_S","txt":"@WhatTheFFacts Apple Has ~7,000 Fewer People Working On Maps Than Google $AAPL $GOOG by @nichcarlson http://t.co/3sbfngI2 #Dummies","lbl":"Neutral"}
 ,{"time":"9:09","usr":"tphedgegroup","txt":"Re-iterate our $900 target on $GOOG","lbl":"Positive"}
+,{"time":"9:09","usr":"codywillard","txt":"Apple\u2019s up 10,000% since I first recommended it. Is that possible? http://t.co/vpy1CeDE $AAPL $GOOG $FB $FIO $AMZN","lbl":"Neutral"}
+,{"time":"9:10","usr":"Investopia","txt":"$AAPL maps app sucks at finding businesses but that\u0027s not going to make me switch to a $GOOG droid.","lbl":"Neutral"}
 ,{"time":"9:10","usr":"mitchelltsai","txt":"long $GOOG Sep 21 725 Call 6.3 6.0 (Wish I kept my 1.85-2.05 from Wed & Thu....) #MyStock","lbl":"Positive"}
 ,{"time":"9:40","usr":"joseph_parnes","txt":"#Long Position: $GOOG uptrend pattern established accumulation short-covering a boost. Volatile. Nr term obj. 778 Stop-loss 689","lbl":"Positive"}
+,{"time":"9:40","usr":"MarketCurrents","txt":"A German court rules Samsung (SSNLF.PK) and Motorola Mobility\u0027s (GOOG) phones don\u0027t i... http://t.co/0oA804yt $SSNLF.PK $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"9:40","usr":"BlueFielder","txt":"$GOOG volume since close yesterday is noteworthy","lbl":"Neutral"}
 ,{"time":"9:41","usr":"mitchelltsai","txt":"sold some $GOOG Sep 21 725 Call 7.9 (+29% profit in 30 min) #MyStock","lbl":"Negative"}
+,{"time":"10:20","usr":"SeekingAlpha","txt":"Facebook: \u0027What\u0027s The Rush?\u0027 Meets \u0027Don\u0027t Worry, We\u0027ll Make More\u0027 http://t.co/NWyVgPzO $GOOG $FB","lbl":"Neutral"}
 ,{"time":"10:20","usr":"TraceyRyniec","txt":"RT @LaMonicaBuzz: $GOOG up again. New 52-week high: $734.50. Now only 1.7% below the all-time high from late 2007. And on iPhone 5 day n ...","lbl":"Positive"}
+,{"time":"11:00","usr":"TheSeek20826344","txt":"Science Fiction #Investing http://t.co/epZ9ISg2 #Tech #scifi #AR #Apple $AAPL #SF #Google $Goog $MSFT $INTC","lbl":"Neutral"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $MSFT +18%, $GOOG +9%, $AAPL +2%, $S -35%, $AMZN -1%, $AAPL +2% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"11:01","usr":"ken75071","txt":"Google\u0027s Advertising To Steal Facebook\u0027s Spotlight http://t.co/KYGO3CxK $GOOG $MSFT $YHOO $FB","lbl":"Neutral"}
 ,{"time":"11:01","usr":"SwatOptions","txt":"$GOOG making 365% PROFITS - already locked 392% but looking for 400% on last contracts","lbl":"Positive"}
 ,{"time":"11:55","usr":"pthegr8trades","txt":"$GOOG exhausted at 735-736, watch 5min chart 732.6 to break for a pullback http://t.co/wRqAWqUc","lbl":"Negative"}
 ,{"time":"11:59","usr":"DshapiroDiana","txt":"@jimcramer @TheStreet_Tech bought $RIMM at $6.46 today ahead of earnings...I\u0027ve heard disappointment w biz community on $GOOG Android...","lbl":"Negative"}
+,{"time":"12:00","usr":"SeekingAlpha","txt":"Buy Intel Before Windows 8 Releases http://t.co/zQNsVoOj $ARMH $DELL $GOOG $HPQ $MSFT $QCOM $SNE $INTC","lbl":"Neutral"}
+,{"time":"12:00","usr":"wallstCS","txt":"Analysts Just Love the iPhone 5 http://t.co/t85EWzX7 $AAPL $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"Google Punkslaps Apple - Cook Makes Strategic Error http://t.co/X4R4EgBt $AMZN $GOOG $P $YHOO $AAPL","lbl":"Neutral"}
+,{"time":"13:00","usr":"TopGunFP","txt":"\u0022Apple Makes A Wrong Turn As Users Blast Map Switch\u0022 WSJ, A1 $AAPL $GOOG http://t.co/PCrgC8Cp","lbl":"Neutral"}
 ,{"time":"13:00","usr":"wallstCS","txt":"Is the iPhone 5 Making Android Look Good? http://t.co/JhooGOxP $AAPL $GOOG $NOK $VOD $TEF #mkt #stocks #trading #investing","lbl":"Positive"}
+,{"time":"14:02","usr":"kstockguy","txt":"we need really really shitty news to get lower prices. damn ya machines. $crm $aapl $goog $pcln $gwre $splk $brcm $qcom $lulu $ctsh","lbl":"Neutral"}
 ,{"time":"14:05","usr":"ChrisONeill2","txt":"think we might see a monday upsided spike in $goog and $aapl, just a feeling","lbl":"Positive"}
+,{"time":"14:06","usr":"ActAccordingly","txt":"20K users of the Sephora mobile loyalty card on #Passbook day 1? Watchout #googlewallet #ISIS #levelup http://t.co/n58gjd2u $AAPL $GOOG $PAY","lbl":"Neutral"}
+,{"time":"14:08","usr":"kstockguy","txt":"useless day today completely. hmm..we need crazy voltality. please please machines $aapl $goog $crm $lulu $ctsh $brcm $qcom","lbl":"Neutral"}
+,{"time":"14:56","usr":"RealCrystalBall","txt":"Winklevoss twins\u0027 advice for Zuckerberg: Facebook should be more like Google http://t.co/bQw8Vulp $FB $GOOG #Stocks #Apple","lbl":"Neutral"}
 ,{"time":"14:58","usr":"Cyprian_Is_Me","txt":"RT @YahooFinance: Winklevoss twins\u2019 advice for Zuckerberg: Facebook should be more like Google http://t.co/ooSV8VKt $FB $GOOG","lbl":"Positive"}
 ,{"time":"15:44","usr":"TAXMONK","txt":"Shut up & spend ur bloodmoney -> Winklevoss twins advice to Zuckerberg: Facebook should B more like Google http://t.co/znwzDja4 $FB $GOOG","lbl":"Positive"}
+,{"time":"15:46","usr":"kenjotto","txt":"Small $GOOG Nov700/Sept28th 745 calls spread, avg\u0027s 47.79 and 2.35","lbl":"Neutral"}
+,{"time":"15:48","usr":"kenjotto","txt":"Also put on $GOOG Oct 690/715 2x1 put spread, avg\u0027s 7.52/14.50. $GOOG will see new all time highs by Nov, but maybe pullback before then","lbl":"Neutral"}
+,{"time":"17:10","usr":"MarketCurrents","txt":"Though Apple\u0027s run to $700 has garnered more headlines, Google (GOOG +0.8%) has quietly been on a tea... http://t.co/zDMxjHZB $GOOG","lbl":"Neutral"}
 ,{"time":"17:15","usr":"BloombergTV","txt":".@Mashable editor Peter Pachal tells @Tom_Keene why #iPhone5 maps are inferior to Google - http://t.co/UnQGYiNr $APPL $GOOG","lbl":"Positive"}
+,{"time":"17:15","usr":"RealCrystalBall","txt":".@Mashable editor Peter Pachal tells @Tom_Keene why #iPhone5 maps are inferior to Google - http://t.co/CavH3FYE $APPL $GOOG #Apple #Stocks","lbl":"Neutral"}
+,{"time":"17:17","usr":"todd_harrison","txt":"The Minyanville Market Overview! http://t.co/veue3okU $goog $aapl $amzn $lnkd","lbl":"Neutral"}
+,{"time":"19:57","usr":"JasKhosa","txt":"#iLost lol RT @launchticker Motorola Mobility creates ad poking fun at iOS6 Maps; uses \u0027#iLost\u0027 hashtag in $goog + post http://t.co/Kt1NEeg5","lbl":"Neutral"}
+,{"time":"20:07","usr":"RolfeWinkler","txt":"Spotted @ericschmidt at Canal St. subway stop NYC. #Unexpected $GOOG","lbl":"Neutral"}
 ]

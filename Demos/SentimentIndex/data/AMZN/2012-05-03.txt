@@ -1,12 +1,19 @@
 [
-{"time":"6:21","usr":"bergie1393","txt":"RT @HedgeyeRetail: $TGT drops Kindle. Not a surprise. TGT tired of being a showroom for $AMZN. Why price compete on its hallmark product?","lbl":"Negative"}
+{"time":"6:13","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AMZN @simplestockqtes http://t.co/lsVWvPkw","lbl":"Neutral"}
+,{"time":"6:17","usr":"mdbrenner","txt":"Amazon tries to catch up in personal cloud storage and falls further behind http://t.co/AEriDbsK $AMZN $GOOG $IBM","lbl":"Negative"}
+,{"time":"6:21","usr":"bergie1393","txt":"RT @HedgeyeRetail: $TGT drops Kindle. Not a surprise. TGT tired of being a showroom for $AMZN. Why price compete on its hallmark product?","lbl":"Negative"}
 ,{"time":"9:20","usr":"SeekingAlpha","txt":"http://t.co/NHzhcprB Estimates Take Another Huge Hit http://t.co/64bbDTz1 $AMZN","lbl":"Negative"}
 ,{"time":"10:15","usr":"fatpitchtrader","txt":"$AMZN weekly 235 calls could be setting up nicely for run tomorrow with ST res. near 234, could be multi bagger on nice pop","lbl":"Positive"}
 ,{"time":"11:11","usr":"micheleciani","txt":"$OCZ remember me a kind of SSD market $AMZN Loosing money first with kindle to catch market quotes. Money will come after","lbl":"Negative"}
+,{"time":"11:15","usr":"KatrinaChan","txt":"Amazon will try its hand at producing original shows: http://t.co/BhxWNq9X $AMZN","lbl":"Neutral"}
 ,{"time":"12:26","usr":"coombscnbc","txt":"Kindle Fire Flaming Out? IDC reports Kindle Fire slips from 16.8% of tablet shipments in Q4 in \u002711 to just 4% in Q1. $AMZN","lbl":"Negative"}
 ,{"time":"13:22","usr":"businessinsider","txt":"Amazon Only Shipped 700,000 Kindle Fires Last Quarter $GOOG $AAPL $AMZN by @jyarow http://t.co/metbLc2V","lbl":"Negative"}
+,{"time":"14:08","usr":"MichaelComeau","txt":"$AAPL iPad market share increase was obvious to those with basic mental abilities (like me) $AMZN $GOOG http://t.co/Teeehqom","lbl":"Neutral"}
 ,{"time":"14:10","usr":"MichaelComeau","txt":"Anecdotally, most of the people I\u0027ve met with $AMZN Kindle Fire weren\u0027t crazy about it.","lbl":"Negative"}
 ,{"time":"14:10","usr":"MichaelComeau","txt":"$AMZN Kindle Fire Market Share Collapses as new $AAPL iPad takes over http://t.co/8l0zkoEd","lbl":"Negative"}
 ,{"time":"14:47","usr":"chad518","txt":"RT @SAI: Amazon Only Shipped 700,000 Kindle Fires Last Quarter $GOOG $AAPL $AMZN by @jyarow http://t.co/i1BmgpMb","lbl":"Negative"}
 ,{"time":"15:36","usr":"Buddahfan","txt":"The Shark in action? - Target PR announcing the discontinuance of the $AMZN Kindle but will continue selling $MSFT Nook http://t.co/BnauHESp","lbl":"Negative"}
+,{"time":"15:36","usr":"AJohnKyriazis","txt":"RT @SeekingAlpha: Jim Chanos\u0027 Top 10 Positions Returned 19% This Year http://t.co/zCXImI7Q $MDY $IWM $AMZN $RAX $VMW $APA $BP $VC $DE $JPM","lbl":"Neutral"}
+,{"time":"17:59","usr":"MakingRainInSea","txt":"$AMZN, $FB, $CRM, $GOOG, etc. can\u0027t hire fast enought but the talent is not there. #structural unemployment","lbl":"Neutral"}
+,{"time":"18:03","usr":"jimish","txt":"RT @cnbcfastmoney: Facebook IPO: Stock Could Double Amid Street Excitment - Pro Traders http://t.co/Lr2KUftT $AAPL $AMZN $CSCO $DELL $FB $GOOG $HPQ","lbl":"Neutral"}
 ]

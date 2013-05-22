@@ -1,9 +1,36 @@
 [
-{"time":"8:40","usr":"choffman1978","txt":"Stock market shake - be careful! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj","lbl":"Negative"}
+{"time":"1:21","usr":"mickwe","txt":"RT @Covestor: Two brilliant analysts discuss Apple\u0027s future: Android and entropy are the biggest challenges http://t.co/SZGHL1r5 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"1:36","usr":"USwwwStocks","txt":"$GOOG News: Marissa Mayer: Saviour or Symbol? http://t.co/7Swgmped #GOOG #Marissa #Mayer","lbl":"Neutral"}
+,{"time":"1:41","usr":"andru08","txt":"RT @markfuccio: Hm. $GOOG\u0027s General Counsel Walker says that some patents are so valuable that theft should not be punished. http://t.co/mpupcwag #really?","lbl":"Neutral"}
+,{"time":"7:42","usr":"DrSManian","txt":"RT @EXPstocktrader: $VRNG patent lawsuits are real. $GOOG went to $600 on AdWords. VRNG has some of the patents. http://t.co/ZTF3EQBK","lbl":"Neutral"}
+,{"time":"7:43","usr":"thefinancepress","txt":"$GOOG Research on Akamai Technologies Inc. and Google Inc. - Internet Information ...: Research on Akamai Techn... http://t.co/cDj0sQEp","lbl":"Neutral"}
+,{"time":"7:43","usr":"creeksidecap","txt":"@RedDogT3Live you have to forget about your $GOOG call and all the haters and stay objective. this is the only one where you show emotion","lbl":"Neutral"}
+,{"time":"8:40","usr":"choffman1978","txt":"Stock market shake - be careful! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj","lbl":"Negative"}
+,{"time":"8:41","usr":"winterhalder","txt":"Apps definitely winning... | And The Winner Of The Apps vs. Browsers War Is... $AAPL $MSFT $GOOG http://t.co/4OwfVx5o via @SAI","lbl":"Neutral"}
+,{"time":"8:42","usr":"choffman1978","txt":"$AEZS surging on FDA Fast Track news!! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj","lbl":"Neutral"}
+,{"time":"8:43","usr":"lluccipha","txt":"SAI: And The Winner Of The Apps vs. Browsers War Is... $AAPL $MSFT $GOOG http://t.co/fc9LNY0W","lbl":"Neutral"}
+,{"time":"9:24","usr":"LivingThankful","txt":"Eyes on market.. $AAPL $V $GOOG $SPY $GLD","lbl":"Neutral"}
+,{"time":"9:26","usr":"boogidown","txt":"Talk about a defensive strategy in $AAPL (hold that line!)- we need more reindeer to follow. $BUDI did a good job.. where the hell is $GOOG","lbl":"Neutral"}
 ,{"time":"9:27","usr":"boogidown","txt":"Talk about a defensive strategy in $AAPL (hold that line!)- we need more reindeer to follow. $BIDU did its good job. where the hell is $GOOG","lbl":"Negative"}
+,{"time":"10:27","usr":"choffman1978","txt":"Markets rallying back - green soon?! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj","lbl":"Neutral"}
+,{"time":"10:29","usr":"PhilipEtienne","txt":"try to get on a waiting list for the $GOOG Nexus 7 - all full & backorder list too - easier to get a reservation at Dorsia for tonight","lbl":"Neutral"}
+,{"time":"10:30","usr":"SeekingAlpha","txt":"Baidu Fends Off China Slowdown http://t.co/QVJSn8SB $AAPL $GOOG $BIDU","lbl":"Neutral"}
+,{"time":"10:30","usr":"josephjpeters","txt":"RT @PhilipEtienne: try to get on a waiting list for the $GOOG Nexus 7 - all full & backorder list too - easier to get a reservation at Dorsia for tonight","lbl":"Neutral"}
+,{"time":"11:28","usr":"SpeedSixx2","txt":"$GOOG making me up for the sour $BIDU trade, sold 610 puts in 4.70 out 5.40, 2nd trade in 5.30 out 6.30, still watching $GOOG $SPY","lbl":"Neutral"}
+,{"time":"11:31","usr":"TradeKing","txt":"Dave Forster discusses possibly short call spread strategy for $GOOG. http://t.co/YblkWI7N #TradeKing","lbl":"Neutral"}
+,{"time":"11:36","usr":"DavidSilver07","txt":"Apple and Facebook Headline a Big Week http://t.co/aLt2gWmW via @seekingalpha $AAPL $FB $GOOG $INTC $IBM","lbl":"Neutral"}
+,{"time":"13:05","usr":"Jamtrades","txt":"Commented on StockTwits: I do from time to time. $GOOG is one hell of a ** to trade though. http://t.co/FbYZf9Bx","lbl":"Neutral"}
+,{"time":"13:06","usr":"David_Mansfield","txt":"@HenryPetzold Good :) Let me know when you make it to this side of the pond and I will return the favor. Agreed on $GOOG, maybe next time ;)","lbl":"Neutral"}
 ,{"time":"14:38","usr":"Trinitank","txt":"RT @SAI: Android, iPhone, Or BlackBerry: Here Are The Smartphones Top Celebrities Use $AAPL $GOOG $RIMM by @_dtl http://t.co/2sjit2iK","lbl":"Positive"}
+,{"time":"14:38","usr":"0franko0","txt":"RT @businessinsider: Android, iPhone, Or BlackBerry: Here Are The Smartphones Top Celebrities Use $AAPL $GOOG $RIMM by @_dtl http://t.co/LvFZRAhl","lbl":"Neutral"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"Baidu\u0027s Outlook For The Third Quarter http://t.co/gsc6K0BY $CHL $GOOG $SINA $SOHU $BIDU","lbl":"Neutral"}
 ,{"time":"14:40","usr":"choffman1978","txt":"Markets SURGING!!! WOW! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,#markets,#stocks","lbl":"Positive"}
+,{"time":"15:36","usr":"aVg","txt":"RT @gregbuzek: The End of the Store as We Know It? - New Research on Mobile Shopping $AAPL, #iPad, $GOOG, #android http://t.co/pV4A2llf","lbl":"Neutral"}
+,{"time":"15:40","usr":"choffman1978","txt":"$AAPL crashing after hours - ouchl! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,#markets,#stocks","lbl":"Neutral"}
 ,{"time":"15:40","usr":"dewtheoption","txt":"$GOOG puts +13% today from entry... going to look a lot better after $AAPL miss! $$$$","lbl":"Negative"}
 ,{"time":"15:41","usr":"ranaomer","txt":"RT @SAI_Tools: This Just Might Be Google\u0027s Best Commercial Ever $GOOG by @officialKLS http://t.co/JKpVJN5P","lbl":"Positive"}
 ,{"time":"17:50","usr":"lexnfx","txt":"Google also notes in 10Q that margins on ad revenue from mobile devices and newer ad formats generally less than website ad margins $GOOG","lbl":"Negative"}
+,{"time":"17:51","usr":"atul","txt":"RT @lexnfx: Latest country to launch investigation into Google business practices: the Competition Commission of India, per $GOOG 10Q filed today","lbl":"Neutral"}
+,{"time":"17:52","usr":"pennystockguys","txt":"$GOOG - Google Says Patents, Tech Were Less than Half Motorola\u0027s Price http://t.co/EGkQOpfc","lbl":"Neutral"}
+,{"time":"17:52","usr":"ADVFNplc","txt":"$GOOG - Google Says Patents, Tech Were Less than Half Motorola\u0027s Price http://t.co/K53t1Uoq","lbl":"Neutral"}
 ]

@@ -1,10 +1,19 @@
 [
-{"time":"8:26","usr":"biggercapital","txt":"@RoccoPendola gr8 post on $AAPL + $P IMO the big innovations are comg on the services side. $AMZN is in knee deep. Devices not enough","lbl":"Negative"}
+{"time":"6:32","usr":"thecatwhisperer","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AMZN $AAPL $YHOO by @nichcarlson http://t.co/Jh7yIonm","lbl":"Neutral"}
+,{"time":"8:26","usr":"biggercapital","txt":"@RoccoPendola gr8 post on $AAPL + $P IMO the big innovations are comg on the services side. $AMZN is in knee deep. Devices not enough","lbl":"Negative"}
+,{"time":"8:27","usr":"RoccoPendola","txt":"RT @biggercapital: @RoccoPendola gr8 post on $AAPL + $P IMO the big innovations are comg on the services side. $AMZN is in knee deep. Devices not enough","lbl":"Neutral"}
+,{"time":"8:29","usr":"wallstCS","txt":"Amazon: We Are Hiring This Army for the Holidays http://t.co/OiWta4sv $AMZN $TGT $WMT #mkt #stocks","lbl":"Neutral"}
+,{"time":"9:04","usr":"tlmontana","txt":"RT @ZorTrades: $AAPL $GOOG $AMZN $NFLX have yet to receive the rally memo <-- Indeed.","lbl":"Neutral"}
+,{"time":"9:04","usr":"askchrishetrade","txt":"RT @ZorTrades: $AAPL $GOOG $AMZN $NFLX have yet to receive the rally memo","lbl":"Neutral"}
 ,{"time":"9:04","usr":"traderstewie","txt":"RT @ZorTrades: $AAPL $GOOG $AMZN $NFLX have yet to receive the rally memo","lbl":"Positive"}
+,{"time":"9:41","usr":"BenCBanks","txt":"It\u0027s concerning that the the techs are are lagging. I hope they are able to play catch up. $amzn $goog $aapl","lbl":"Neutral"}
 ,{"time":"9:41","usr":"tulipmania1636","txt":"RT @ppprophet: SELL $AMZN The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
+,{"time":"9:43","usr":"brianfederal","txt":"RT @hollowman2013: RT @TheSeek20826344 Will #Apple Buy #3D Systems http://t.co/g3uPAIt5 $AAPL $AMZN $GOOG $MSFT $DDD #3dprinting","lbl":"Neutral"}
+,{"time":"10:25","usr":"MomentumPtrsLLC","txt":"$amzn took a bit but seem toi be out of the flag a push over $244 woudl confirm","lbl":"Neutral"}
 ,{"time":"10:51","usr":"emha705","txt":"RT @FoxBusiness: Amazon plans to hire more than 50,000 holiday workers this year and keep thousands on as full-time employees http://t.co/2Up2Pgan $AMZN","lbl":"Positive"}
 ,{"time":"10:51","usr":"septcandy","txt":"RT @FoxBusiness: Amazon plans to hire more than 50,000 holiday workers this year and keep thousands on as full-time employees http://t.co/2Up2Pgan $AMZN","lbl":"Positive"}
 ,{"time":"10:51","usr":"Swake183","txt":"Long $AAPL Nov cals and $AMZN","lbl":"Positive"}
+,{"time":"10:51","usr":"DoualaDeals","txt":"RT @FoxBusiness: Amazon plans to hire more than 50,000 holiday workers this year and keep thousands on as full-time employees http://t.co/2Up2Pgan $AMZN","lbl":"Neutral"}
 ,{"time":"11:28","usr":"AllAccessNow","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/8hhlOvhv $AMZN","lbl":"Positive"}
 ,{"time":"11:28","usr":"flipboardbiz","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
 ,{"time":"11:28","usr":"Judith_Kirby","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
@@ -12,16 +21,32 @@
 ,{"time":"11:36","usr":"iokijo","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
 ,{"time":"11:36","usr":"fabianramirez52","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
 ,{"time":"11:37","usr":"ArdavanH","txt":"#Apple\u2019s iPad Mini invitations are out. Watch for the lower end to go after Kindle\u2019s market. $AAPL $AMZN http://t.co/9CSyvJgo","lbl":"Negative"}
+,{"time":"11:59","usr":"MicroFundy","txt":"@firstadopter assuming that was in re to $AMZN slide deck... @Dasan","lbl":"Neutral"}
 ,{"time":"11:59","usr":"xigi_holm","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
 ,{"time":"12:01","usr":"wallstCS","txt":"Microsoft Makes Final Preparations to Enter Tablet War http://t.co/2MhplXsb $MSFT $AAPL $BKS $AMZN $GOOG $SPY $QQQ $DIA","lbl":"Negative"}
 ,{"time":"12:28","usr":"angiesrealty","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Positive"}
 ,{"time":"12:29","usr":"IBeljan","txt":"Sold $AMZN at 1.43 profit. Upping my cash position to 60%.","lbl":"Negative"}
+,{"time":"12:29","usr":"KillerSquid1","txt":"AMZN....? $AMZN http://t.co/X9d5h6AL","lbl":"Neutral"}
+,{"time":"13:00","usr":"bbolan1","txt":"RT @firstadopter: $TGT to match $AMZN online prices IN-STORE! Nov. 1st to Dec. 16th. GAME ON $AMZN","lbl":"Neutral"}
 ,{"time":"13:36","usr":"tlmontana","txt":"RT @HarryWanger: @WatermanLXXIII @tlmontana And $AMZN looking really weak right here. <-- Went Neutral On AMZN Y\u0027day.. Lost 250 and held","lbl":"Negative"}
 ,{"time":"13:37","usr":"WatermanLXXIII","txt":"@tlmontana @HarryWanger $AMZN, the worst from top ten of $NDX, i think... And remember that top 5 is ~ 60% of the index, which has 100 stcks","lbl":"Negative"}
 ,{"time":"13:38","usr":"zabackj","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/UjrBQ2Gj $AMZN","lbl":"Positive"}
+,{"time":"14:01","usr":"hilldoc","txt":"RT @herbgreenberg: Now $TGT doing a \u0022holiday\u0022 price match w/ $AMZN & other big box dot-coms... Bet u anything this goes yr round. Consumers will demand it.","lbl":"Neutral"}
+,{"time":"14:01","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:46pm: 243.65 -0.53 (-0.22%).","lbl":"Neutral"}
+,{"time":"14:02","usr":"nevereverDave","txt":"RT @Reuters: Amazon to hire more than 50,000 for holiday season http://t.co/fEQ2bLk4 $AMZN","lbl":"Neutral"}
 ,{"time":"14:30","usr":"GaVaHokie","txt":"@herbgreenberg It\u0027s going to be a mess considering multiple vendors on $AMZN. What\u0027s an acceptable price match?","lbl":"Negative"}
+,{"time":"14:30","usr":"ToddSullivan","txt":"@capcube @MicroFundy @Retail_Guru go back 10 years, TGT up 110% $AMZN up 1200%","lbl":"Neutral"}
 ,{"time":"14:31","usr":"Implosion1","txt":"One of these days, I\u0027m gonna write some naked $AMZN calls. No way is it really worth $250. #Enrazon","lbl":"Negative"}
+,{"time":"14:57","usr":"ToddSullivan","txt":"@capcube @MicroFundy @Retail_Guru the REALLY cool thing is we will know by Jan if it worked or not... $TGT $AMZN","lbl":"Neutral"}
+,{"time":"14:58","usr":"peerinbusiness","txt":"\u0022simple math says $TGT matching $AMZN\u0027s online prices in their stores is a...\u0022 see conversation by @toddsullivan at http://t.co/KHSabIMv","lbl":"Neutral"}
 ,{"time":"15:00","usr":"HarryWanger","txt":"$AMZN Nice sell off into close. Incredibly unimpressive day","lbl":"Negative"}
+,{"time":"15:38","usr":"CapstoneTrader","txt":"$ISRG trades like $AMZN on after-hours earnings days. Insane volatility","lbl":"Neutral"}
+,{"time":"16:22","usr":"BenCBanks","txt":"does anyone else see the slight head and shoulders pattern on the hourly chart on $amzn? Check it out.","lbl":"Neutral"}
+,{"time":"16:23","usr":"MappleSoftWW","txt":"Great look at the next gen iPad http://t.co/4PXuKL1Y #ipad #surface #samsung $MSFT $AAPL $GOOG $AMZN $ORCL $CSCO $HPQ $DELL","lbl":"Neutral"}
+,{"time":"17:28","usr":"jbsil","txt":"@hedgefundinvest & $AMZN","lbl":"Neutral"}
 ,{"time":"17:31","usr":"JayBeckner","txt":"@bpgag Actually, the $AMZN Kindle is proven more popular with women, but the $AAPL iPad mini could change that.","lbl":"Negative"}
+,{"time":"18:53","usr":"Lanieusa","txt":"RT @nashvillebiz: RT @mspbjnews: #Target to match online prices of #Amazon, Best Buy, #Walmart. http://t.co/NXxKsDjS $TGT $WMT $BBY $AMZN","lbl":"Neutral"}
 ,{"time":"18:55","usr":"antoniobarbudo","txt":"RT @SAI: These Amazing World Maps Show Where Apple\u0027s Beating Google, Amazon, And Microsoft $AAPL $GOOG $AMZN $MSFT http://t.co/iVa6jZyT","lbl":"Negative"}
+,{"time":"18:56","usr":"launchticker","txt":"$aapl leads $msft, $goog & $amzn in % of global pop w/ access to movie, TV, & music content ecosystem http://t.co/vOfPAGY2","lbl":"Neutral"}
+,{"time":"21:51","usr":"BenCBanks","txt":"Good night everyone. Tomorrow will be interesting... $spy $aapl $goog $amzn","lbl":"Neutral"}
 ]

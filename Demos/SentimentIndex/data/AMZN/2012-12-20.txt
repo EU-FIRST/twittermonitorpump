@@ -1,8 +1,21 @@
 [
-{"time":"9:25","usr":"CoryTV","txt":"Brian Marshall on why $AMZN\u0027s cloud could crush $HPQ, $DELL and their ilk - http://t.co/snACaJTh","lbl":"Negative"}
+{"time":"6:14","usr":"mcilderman","txt":"Amazon\u0027s Smoke And Mirrors Are Fading http://t.co/5ComcYgc $AAPL $NFLX $AMZN","lbl":"Neutral"}
+,{"time":"9:25","usr":"CoryTV","txt":"Brian Marshall on why $AMZN\u0027s cloud could crush $HPQ, $DELL and their ilk - http://t.co/snACaJTh","lbl":"Negative"}
+,{"time":"10:08","usr":"Ticker_Tank","txt":"#20on20 rolls on with analysis of $AMZN, which has established a new (old) range. What\u0027s the scoop? http://t.co/eixGw9sU $$","lbl":"Neutral"}
 ,{"time":"11:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:16am: 259.505 +1.515 (+0.59%).","lbl":"Positive"}
+,{"time":"11:31","usr":"vnuguyen","txt":"I am never shopping at Office Depot again. I hope $AMZN eats them for lunch.","lbl":"Neutral"}
 ,{"time":"11:32","usr":"iTraderz","txt":"I\u0027m taking all profits in $CMG and $AMZN here. Just not feeling it and rather be safe than sorry. All cash","lbl":"Negative"}
+,{"time":"12:22","usr":"damon","txt":"RT @kadavy: $AAPL currently has a P/E ratio below 12. $AMZN: 3,462.","lbl":"Neutral"}
+,{"time":"12:22","usr":"john_frankel","txt":"RT @kadavy: $AAPL currently has a P/E ratio below 12. $AMZN: 3,462.","lbl":"Neutral"}
+,{"time":"13:26","usr":"JesseDraper","txt":"RT @businessinsider: Our Favorite Gadgets Of 2012 $AAPL $GOOG $AMZN $IRBT $NTDOY by @_dtl http://t.co/02lLTVKD","lbl":"Neutral"}
+,{"time":"13:27","usr":"ABrute","txt":"RT @businessinsider: Our Favorite Gadgets Of 2012 $AAPL $GOOG $AMZN $IRBT $NTDOY by @_dtl http://t.co/02lLTVKD","lbl":"Neutral"}
+,{"time":"13:28","usr":"2pogi4u","txt":"RT @SAI: Our Favorite Gadgets Of 2012 $AAPL $GOOG $AMZN $IRBT $NTDOY by @_dtl http://t.co/A0AeQJaU","lbl":"Neutral"}
+,{"time":"14:20","usr":"MWBenPimentel","txt":"Why Amazon is going into the comedy sitcom biz http://t.co/gq560EFx $AMZN @MarketWatch","lbl":"Neutral"}
+,{"time":"14:20","usr":"clulisa","txt":"RT @SAI: Our Favorite Gadgets Of 2012 $AAPL $GOOG $AMZN $IRBT $NTDOY by @_dtl http://t.co/A0AeQJaU","lbl":"Neutral"}
+,{"time":"14:21","usr":"MarketWatch","txt":"RT @MWBenPimentel: Why Amazon is going into the comedy sitcom biz http://t.co/gq560EFx $AMZN @MarketWatch","lbl":"Neutral"}
 ,{"time":"15:23","usr":"ACInvestorBlog","txt":"$AMZN Poised to breakout to new highs. Keep an eye for play over 264.2... http://t.co/PH6145Eb","lbl":"Positive"}
+,{"time":"15:30","usr":"themoneysquare","txt":"$ES A close abv. 1360.50 is a nice sign for the #Bulls. imho $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"16:58","usr":"rocco_thestreet","txt":"Market reaction to earnings is interesting. Reaction to $RIMM versus an $AMZN after a report. Working on one on that for tomorrow @TheStreet","lbl":"Neutral"}
 ,{"time":"17:01","usr":"VijoyaNYC","txt":"RT @thestreet: Absolutely \u0027Devastating\u0027 News For Amazon? http://t.co/NFeUjpIM $AMZN $AAPL w/ more Wall Street analyst insane hijinks.","lbl":"Negative"}
 ,{"time":"19:14","usr":"KeeblerElf3","txt":"@smartertrader great job on $gs and $amzn will talk after holidays.","lbl":"Positive"}
 ,{"time":"21:13","usr":"_tw1tter","txt":"RT @TheStreet: Absolutely \u0027Devastating\u0027 News For Amazon? http://t.co/GEhvvc15 $AMZN $AAPL w/ more Wall Street analyst insane hijinks.","lbl":"Negative"}

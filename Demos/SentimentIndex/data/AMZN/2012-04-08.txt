@@ -1,3 +1,4 @@
 [
 {"time":"16:33","usr":"babala15","txt":"$AMZN - Amazon Stock Analysis - volume down over 5% - http://t.co/q7dnddtI","lbl":"Negative"}
+,{"time":"16:57","usr":"cephillips","txt":"RT @jontalton: @SeattleTimes Executive Editor @dlboardman discusses our series on Amazon: http://t.co/mr44PgLm $AMZN","lbl":"Neutral"}
 ]

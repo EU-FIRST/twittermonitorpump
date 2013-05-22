@@ -1,12 +1,36 @@
 [
-{"time":"9:12","usr":"ChrisStuntz","txt":"good to be back at the desk for trading today...holding $AAPL @ 665 C and $GOOG W 680 C","lbl":"Positive"}
+{"time":"3:17","usr":"FreeMrktCptlst","txt":"Could you imagine if that 108 print had happened on $AAPL instead of $GOOG? Obama would declare a state of emergency. $$","lbl":"Neutral"}
+,{"time":"3:32","usr":"InfoGuruShop","txt":"Baidu Is The Only Company Still Thriving On Its Core: Web Search http://t.co/eomKO1Kp $GOOG $MSFT $YHOO $BIDU","lbl":"Neutral"}
+,{"time":"3:43","usr":"SteveGoff314","txt":"@MuseGlobal Muse= Multi-user Universal Search Environment Its all about the clustering search! http://t.co/tD9tQHfL $YIPI Who needs $GOOG ?","lbl":"Neutral"}
+,{"time":"6:49","usr":"NBCNewsBusiness","txt":"Google Rx to retain women: Longer maternity leave: http://t.co/r4rTLaWx $GOOG","lbl":"Neutral"}
+,{"time":"6:52","usr":"EthelTmon","txt":"RT @NBCNewsBusiness: Google Rx to retain women: Longer maternity leave: http://t.co/r4rTLaWx $GOOG","lbl":"Neutral"}
+,{"time":"6:55","usr":"OptiontradinIQ","txt":"$SPX futures below 1400. What does todays trading have in store for you? Anyone trading the expiry day weeklies. $SPY $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"6:58","usr":"NCFinanceGuy","txt":"$GOOG at 108.08? Verrrrry funny.....","lbl":"Neutral"}
+,{"time":"9:12","usr":"ChrisStuntz","txt":"good to be back at the desk for trading today...holding $AAPL @ 665 C and $GOOG W 680 C","lbl":"Positive"}
+,{"time":"9:13","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) Improves Retention of Women - a New Business Model?: Google Inc. (GOOG) Improves Reten... http://t.co/d5tbp6vi","lbl":"Neutral"}
+,{"time":"9:42","usr":"jonasQuinn23","txt":"@tradetheROCK @vid_e international trade commission complaint by $GOOG","lbl":"Neutral"}
+,{"time":"9:59","usr":"newsagg","txt":"RT @RedDogT3Live: $AAPL $amzn $goog. All macro names to own as equity investors. Traders should trade from lone side based on time horizon","lbl":"Positive"}
 ,{"time":"10:25","usr":"SpeedSixx2","txt":"rebought $GOOG expiring 675 calls at 4.30, betting it will break over the 680, risky trade, but chart looks good 8 EMA holding on the 5m","lbl":"Positive"}
+,{"time":"10:26","usr":"antichartjunk","txt":"$GOOG 680.5","lbl":"Neutral"}
+,{"time":"10:27","usr":"TweetLeni","txt":"Good early afternoon. Taking some gains today incl $GOOG and $PRGO Cleaning up the board a bit today and see you all next week!","lbl":"Neutral"}
+,{"time":"10:27","usr":"DeidreZune","txt":"Reuters:ECB considering the bond yield band target bond-buying option according to CB sources $FXE $SPY $AAPL $AMZN $PCLN $GOOG","lbl":"Neutral"}
+,{"time":"12:17","usr":"TMFJMo","txt":".@andy_sorensen It\u0027s no secret I\u0027m a fan of #Amazon, but hey, there\u0027s room in the portfolio for all three! $AAPL + $GOOG + $AMZN = #Winning","lbl":"Positive"}
+,{"time":"12:17","usr":"monesti","txt":"I look pretty dumb selling them 680 $goog weeklies against next weeks. I\u0027m minus 100%, but still looking for 680 pin @ EOD","lbl":"Neutral"}
+,{"time":"12:21","usr":"AlphaVN","txt":"Nokia Connects People, Disconnectst its Past $NOK $GOOG $AAPL $MSFT #windowsphone http://t.co/R2BDGZvd","lbl":"Neutral"}
 ,{"time":"12:48","usr":"SellPuts","txt":"those 680 $GOOG calls now trading 1.50.. were offered all u wanted at 30 cents earlier","lbl":"Positive"}
 ,{"time":"14:09","usr":"tradeplay","txt":"When looking at this 3 year weekly chart on $GOOG putting on a buy order at $640 or less makes sense. http://t.co/LhnLFZ3z","lbl":"Positive"}
+,{"time":"14:53","usr":"stockpickexpert","txt":"RT @Stockpickexpert $SPY $AAPL $GOOG $PCLN Algo\u0027s & HFT\u0027s selling into the highs... Be careful here protect your profits...!!!","lbl":"Neutral"}
 ,{"time":"14:54","usr":"monesti","txt":"Holdings going into next week: $GOOG Aug5 680\u0027s cost 5.40,,$GRPN sept 3.50 puts from .10 and $yelp sept 18 Puts from 2.25","lbl":"Positive"}
+,{"time":"17:00","usr":"MarketCurrents","txt":"The jury deliberating over Apple\u0027s (AAPL) California trial against Samsung (SSNLF.PK)... http://t.co/wsalQLPh $AAPL $SSNLF.PK $GOOG","lbl":"Neutral"}
+,{"time":"17:03","usr":"VR3DMUSIC","txt":"Will Apple Trade Above $1,000? http://t.co/QVRuI6bW $CHL $DELL $GOOG $HPQ $INTC $MSFT $NOK $RIMM $AAPL","lbl":"Neutral"}
+,{"time":"17:11","usr":"mygirljojo","txt":"Why Is Qualcomm The Best-Positioned Technology Stock? http://t.co/0cgfCder $BRCM $GOOG $INTC $NOK $TXN $QCOM","lbl":"Neutral"}
 ,{"time":"18:14","usr":"sciencetrader","txt":"investors selling $GOOG after hours to buy $aapl, $GOOG at 670, $aapl at 675","lbl":"Negative"}
+,{"time":"18:16","usr":"DrunkStepmother","txt":". @imho_doyourdd @CNBC @jonfortt that\u0027s because $GOOG willfully infringed on the $VRNG search patents","lbl":"Neutral"}
+,{"time":"18:17","usr":"nixon786","txt":"RT @howardlindzon: $aapl lawyers are using $msft word to search and replace Samsung with $goog for the next batch of lawsuits #patents","lbl":"Neutral"}
 ,{"time":"18:17","usr":"SJosephBurns","txt":"Post market $AAPL up over $12 & $GOOG down $6.80","lbl":"Negative"}
+,{"time":"18:41","usr":"firstadopter","txt":"No-one wins if the war goes thermo-nuclear and $AAPL $GOOG $RIMM $MSFT go at each others throats over patents, other than lawyers of course","lbl":"Neutral"}
 ,{"time":"18:41","usr":"nohandleforyou","txt":"It\u0027s a huge blow for $GOOG where it hurts most... $AAPL wins! As always","lbl":"Negative"}
+,{"time":"18:41","usr":"JustinPulitzer","txt":"\u201C@BGR: Apple\u0027s triumph over Samsung is intoxicating http://t.co/mT6xSbZI\u201D<~HTC & LG are prob donezo next! $AAPL. $GOOG prob not down enough.","lbl":"Neutral"}
 ,{"time":"18:42","usr":"CoderTrader","txt":"Patents. Destruction of future innovation. $AAPL $GOOG","lbl":"Negative"}
 ,{"time":"18:48","usr":"jatnamendieta","txt":"Ouch RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Tso6slrg $APPL $GOOG","lbl":"Negative"}
 ,{"time":"18:48","usr":"LigiaMauraCosta","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
@@ -18,8 +42,8 @@
 ,{"time":"18:51","usr":"macalara","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
 ,{"time":"18:58","usr":"jamkarbo","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
 ,{"time":"18:58","usr":"yllix","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
-,{"time":"18:58","usr":"fabfunapps","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
 ,{"time":"18:58","usr":"RodneyLee3","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/B4nS2Bc1 $APPL $GOOG","lbl":"Negative"}
+,{"time":"18:58","usr":"fabfunapps","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
 ,{"time":"19:06","usr":"m0hammedc","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
 ,{"time":"19:06","usr":"cubicle_bc","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
 ,{"time":"19:06","usr":"Poonamvasram","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
@@ -28,10 +52,14 @@
 ,{"time":"19:20","usr":"prolaznica","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
 ,{"time":"19:20","usr":"hainsworthtv","txt":"RT @JonErlichman: Google shares down 1.2% after hours following Apple\u0027s big win vs Samsung $GOOG $AAPL","lbl":"Negative"}
 ,{"time":"19:20","usr":"JoeBlizzle","txt":"Damn! Lol RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/pxTvSRdW $APPL $GOOG","lbl":"Negative"}
+,{"time":"19:38","usr":"someradam","txt":"RT @SAI: CHART OF THE DAY: The Older You Are, The More Important You Consider The iPad To Be $AAPL $GOOG by @jyarow http://t.co/z0DNLG03","lbl":"Neutral"}
 ,{"time":"19:39","usr":"sahena_dax","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
 ,{"time":"19:41","usr":"robinsonllp","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
+,{"time":"20:15","usr":"Mr_Cain_Thaler","txt":"Well Samsung\u0027s fucked. Take notes $GOOG","lbl":"Neutral"}
 ,{"time":"20:19","usr":"Jason24cf","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
 ,{"time":"20:21","usr":"MerepekLahh","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
+,{"time":"21:28","usr":"Jayson042","txt":"RT @howardlindzon: $aapl lawyers are using $msft word to search and replace Samsung with $goog for the next batch of lawsuits #patents","lbl":"Neutral"}
+,{"time":"21:30","usr":"pcptrade","txt":"$AAPL, $GOOG- How does AAPL- Samsung verdict affect GOOG? http://t.co/EJDDzzti","lbl":"Neutral"}
 ,{"time":"21:36","usr":"Gunchenko","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
 ,{"time":"23:13","usr":"Y_C_B_N_","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/XFKYVGIj $APPL $GOOG","lbl":"Negative"}
 ,{"time":"23:15","usr":"sulus88","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}

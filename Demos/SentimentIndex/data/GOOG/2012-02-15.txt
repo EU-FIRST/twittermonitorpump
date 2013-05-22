@@ -1,10 +1,29 @@
 [
 {"time":"6:15","usr":"beard_adam","txt":"Buy $GOOG before they take over the TV and phone market by integrating Motorola hardware #stocks #google #bullish #invest","lbl":"Positive"}
+,{"time":"7:53","usr":"Eli75NY","txt":"RT @BioTechReports: $BPAX up over 60% premarket on huge FDA approval news. http://t.co/YMNlWbkH $svnt, $ctic, $jazz, $aapl, $gs, $goog, $c, $f, $v, #cnbc","lbl":"Neutral"}
+,{"time":"8:03","usr":"BluHorShoe","txt":"@SJosephBurns @MrSteveLee Good example was yesterday with $GOOG, no hedge placed because of EOD run.","lbl":"Neutral"}
 ,{"time":"9:39","usr":"EvanMedeiros","txt":"$GOOG hasn\u0027t made it past 613-614 in the last few days, thats your breakout level to watch","lbl":"Negative"}
 ,{"time":"9:40","usr":"UncoverBitcoin","txt":"RT Google Just Fixed The Bug That Let Anyone Hack Into Your Google Wallet $GOOG by @stevekovach http://t.co/3p7KdFA4 Use #bitcoin instead","lbl":"Positive"}
 ,{"time":"9:40","usr":"itbot1","txt":"RT@SAI Google Just Fixed The Bug That Let Anyone Hack Into Your Google Wallet $GOOG by @stevekovach http://t.co/RW1eJHq6","lbl":"Positive"}
 ,{"time":"10:50","usr":"Ben270","txt":"ppl talk about $AAPL being higher than $GOOG at this rate that wont take long","lbl":"Negative"}
+,{"time":"10:51","usr":"hovastocks","txt":"\u0022@Trefis: Apple Sets New All-Time Highs in Post Earnings Buying Bonanza http://t.co/afu4NpAr $AAPL $MSFT $GOOG\u0022","lbl":"Neutral"}
+,{"time":"11:54","usr":"bigheadnj","txt":"RT @StockTwits: Friday 7atSeven: productive assets. http://t.co/BMHS2eaV via @abnormalreturns $AAPL $GOOG $CMG","lbl":"Neutral"}
 ,{"time":"11:54","usr":"pdparticle","txt":"$AAPL vs. $GOOG. Seems to me that Google\u0027s still \u0022winning.\u0022 http://t.co/Xi8t7m7U http://t.co/wispXeLJ","lbl":"Positive"}
+,{"time":"12:37","usr":"ChristolM","txt":"RT @stocial: 60 minute Trending Social Volume: $AAPL/511, $SPY/74, $ZNGA/68, $TVIX/27, $LEE/26, $BPAX/21, $GOOG/19, $ANF/19. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"12:40","usr":"plars2","txt":"RT @SAI: Actually, Motorola\u0027s New Android Design Doesn\u0027t Look So Ugly $MMI $GOOG by @stevekovach http://t.co/3ljp208y","lbl":"Neutral"}
+,{"time":"12:42","usr":"ZisblU4U","txt":"$GOOG .. googy .. you lost the cool image search capabilities again .","lbl":"Neutral"}
+,{"time":"13:33","usr":"BRICBreaker","txt":"Market lately behaving like US economy is all $AAPL and $GOOG and Facebook.","lbl":"Neutral"}
+,{"time":"13:34","usr":"DJThistle","txt":"Vonage on forefront of a revolution with new mobile app (Sponsored Post): As much as I love Google Voice... http://t.co/T1WNEmPs $GOOG","lbl":"Neutral"}
+,{"time":"13:34","usr":"DJThistle","txt":"Q3 What?! Motorola Mobility updates Android 4.0 details for devices: Updates, updates, updates... A hot to... http://t.co/lZKWSNsD $GOOG","lbl":"Neutral"}
+,{"time":"14:14","usr":"BioTechReports","txt":"$BPAX FDA APPROVAL!!!!!!!! http://t.co/FGC9ibUB $dndn, $pfe, $jnj, $amgn, $gs, $goog, $f, $v, $c, #cnbc, #cnnbrk, #cnn, $jazz","lbl":"Neutral"}
+,{"time":"14:14","usr":"BioTechReports","txt":"$BPAX FDA APPROVAL!!!!!!!! http://t.co/FGC9ibUB $dndn, $pfe, $jnj, $amgn, $gs, $goog, $f, $v, $c, #cnbc, #cnnbrk, #cnn, $teva","lbl":"Neutral"}
+,{"time":"14:57","usr":"lukemcmanamon","txt":"RT @SAI: How Motorola Is Screwing Over Almost All Its Smartphone Customers $MMI $GOOG by @stevekovach http://t.co/9HJ46XDN","lbl":"Neutral"}
 ,{"time":"14:58","usr":"lluccipha","txt":"SAI: How Motorola Is Screwing Over Almost All Its Smartphone Customers $MMI $GOOG by @stevekovach http://t.co/lRLivE3d","lbl":"Negative"}
+,{"time":"14:59","usr":"KllrDave","txt":"RT @SAI: How Motorola Is Screwing Over Almost All Its Smartphone Customers $MMI $GOOG by @stevekovach http://t.co/9HJ46XDN","lbl":"Neutral"}
+,{"time":"15:26","usr":"barronstechblog","txt":"Lone Apple Bear Resolute, Says Bloomberg - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $MSFT $AMZN $RIMM $NOK http://t.co/4dkU0ckF","lbl":"Neutral"}
+,{"time":"18:08","usr":"Keith_in_Japan","txt":"@Reuters_Biz: In #Brazil, #Google paves #Facebook\u0027s path to the top. http://t.co/TE4MYWLv $GOOG $FB","lbl":"Neutral"}
 ,{"time":"18:20","usr":"TheStreet","txt":"Hedge Funds Go Gaga For Google http://t.co/OvI8jXRl by @commodity_bull $GOOG","lbl":"Positive"}
+,{"time":"21:09","usr":"BUDDIEE18","txt":"Option Millionaires: EDIT: re $GOOG -- u 2 posters talking http://t.co/jkvi6xR1 $BIDU $GS $SPY #FBI #RETAILINVESTORSCAMMEDBYCNBC","lbl":"Neutral"}
+,{"time":"21:18","usr":"BUDDIEE18","txt":"Option Millionaires: For CNBC, REPORT the news/NOT MAKE the news........that http://t.co/JCKriNFe #FBI #SEC $GS $AAPL $GOOG $BIDU $SPY","lbl":"Neutral"}
+,{"time":"21:18","usr":"ManiOhli","txt":"Option Millionaires: bigdolladolla: $goog I hope so! Some are saying its http://t.co/0kn8uGaq","lbl":"Neutral"}
 ]

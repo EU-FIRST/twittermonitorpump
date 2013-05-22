@@ -1,3 +1,8 @@
 [
-{"time":"23:49","usr":"_mberman","txt":"$AMZN has a PE of 295, $GOOG has a PE of 20, and AMZN is going to put GOOG out of business? < what am I missing?","lbl":"Positive"}
+{"time":"5:50","usr":"USwwwStocks","txt":"$AMZN News: Apple\u0027s Market Value Surpasses $600B on IPad Speculation http://t.co/CYPxXMik #600B #AMZN #Appleamp39s","lbl":"Neutral"}
+,{"time":"7:11","usr":"d_ramsden","txt":"Summary of themes & trends in media, tech & related markets, heading into the fall. New post: http://t.co/ej6Pp8iA $FB $GOOG $AMZN $AAPL $$","lbl":"Neutral"}
+,{"time":"7:13","usr":"ericjackson","txt":"great read \u201C@hunterwalk: Insider opinion on @hblodget\u0027s Facebook<>Amazon comparison from @eugenewei http://t.co/OEkb6N7b\u201D $AMZN $FB","lbl":"Neutral"}
+,{"time":"13:40","usr":"SeekingAlpha","txt":"Apple Is Still An Astute Equity Investment http://t.co/EJxkkRZX $AMZN $GOOG $ZNGA $AAPL","lbl":"Neutral"}
+,{"time":"13:41","usr":"vich100","txt":"RT @SeekingAlpha: Apple Is Still An Astute Equity Investment http://t.co/EJxkkRZX $AMZN $GOOG $ZNGA $AAPL","lbl":"Neutral"}
+,{"time":"23:49","usr":"_mberman","txt":"$AMZN has a PE of 295, $GOOG has a PE of 20, and AMZN is going to put GOOG out of business? < what am I missing?","lbl":"Positive"}
 ]

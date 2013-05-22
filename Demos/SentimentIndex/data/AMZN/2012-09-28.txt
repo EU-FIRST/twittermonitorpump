@@ -1,7 +1,22 @@
 [
-{"time":"6:55","usr":"eyeonequities","txt":"RT @SonaliVerma Where pros are putting their money http://t.co/QBr0FVqS $AAPL $MSFT $WFC $GOOG $PFE $T $CVX $MRK $PCLN $QCOM $WMT $XOM $AMZN","lbl":"Positive"}
+{"time":"1:57","usr":"LinksPublisher","txt":"RT @dkberman: RT @dkberman: Death for your local wine store? Amazon wants to get back into the online wine business. A WSJ scoop by @gregbensinger. $amzn","lbl":"Neutral"}
+,{"time":"6:55","usr":"eyeonequities","txt":"RT @SonaliVerma Where pros are putting their money http://t.co/QBr0FVqS $AAPL $MSFT $WFC $GOOG $PFE $T $CVX $MRK $PCLN $QCOM $WMT $XOM $AMZN","lbl":"Positive"}
+,{"time":"6:56","usr":"marketmavenz","txt":"Top S&P100 #Stocks $COF $WMB $EMC $GE $AMZN $DVN $S $MS $AAPL $NOV $WAG $AVP $WY $FCX $MON $INTC $GS $CMCSA $QCOM $RF http://t.co/SbQSKZ6b","lbl":"Neutral"}
+,{"time":"6:57","usr":"TheNakedZebra","txt":"738 POINT DROP FOR THE DOW UNBELIEVABLE ! $GOOG, $PCLN,$AMZN http://t.co/0PLdq6ta","lbl":"Neutral"}
+,{"time":"8:24","usr":"wallstCS","txt":"Facebook: The Next E-Commerce Giant? http://t.co/VpR57oFg $FB $AAPL $GOOG $SBUX $AMZN $SPY $DIA $QQQ","lbl":"Neutral"}
+,{"time":"8:25","usr":"nereidadin","txt":"Friday 7atSeven: follow the leader. http://t.co/8zdqzInQ via @abnormalreturns $AMZN $AAPL $GE","lbl":"Neutral"}
 ,{"time":"9:30","usr":"SeekingAlpha","txt":"7 Mega Cap Covered Calls http://t.co/mShKSMCg $AMZN $BP $FCX $GOOG $HAL $JPM $AAPL","lbl":"Positive"}
+,{"time":"9:30","usr":"aviatelive","txt":"Amazon $AMZN: payments the next Amazon road kill. Watch out Square. Gemalto $GTO wins http://t.co/RdyZVo5T #NeilCampling #GlobalTMTIdeas","lbl":"Neutral"}
+,{"time":"10:19","usr":"DNev47","txt":"$$ As Competition Grows, Netflix Looks Worse Than Ever http://t.co/YqDyjxUG $AMZN $CSTR $VZ $NFLX","lbl":"Neutral"}
 ,{"time":"10:19","usr":"bpeck","txt":"If $AMZN is making a $Square competitor, it joins an ever crowded space - economics is payments getting squeezed http://t.co/6LrjsFhX","lbl":"Negative"}
 ,{"time":"10:21","usr":"ivanhoff","txt":"RT @bpeck If $AMZN is making a $SQUARE competitor, it joins an ever crowded space http://t.co/BCaPgVQZ","lbl":"Negative"}
+,{"time":"12:02","usr":"TylerHKling","txt":"http://t.co/jVgluaEm $73.00 loss in $AMZN was bearish here on 255 calls but reversed like AAPL, everything reversed when mark...","lbl":"Neutral"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:46pm: 255.03 -1.56 (-0.61%).","lbl":"Neutral"}
 ,{"time":"13:53","usr":"UdallTechStrat","txt":"RT @MichaelComeau: RT @MichaelComeau: @UdallTechStrat Plus $AMZN and $BKS pricing ruin it for real low-price Android tablets.","lbl":"Negative"}
+,{"time":"15:00","usr":"LTommy256","txt":"\u201C@DanDawes: More rumors that #Amazon eyeing move into mobile payments. http://t.co/QGUCfL8w\u201D So app w/ 1 click not mobile enough? $AMZN","lbl":"Neutral"}
+,{"time":"19:19","usr":"scalextremeinc","txt":"$AMZN CTO: Back-to-Basics Weekend Reading - Counting Bloom Filters http://t.co/1m3jM3AB","lbl":"Neutral"}
+,{"time":"19:20","usr":"TheStreet","txt":"Tips for Creating a Cloud Stock Portfolio $AMZN $EMC $INTC $GOOG http://t.co/UB5on2nA video w/ @5GsOnTheStreet","lbl":"Neutral"}
+,{"time":"19:24","usr":"DGHGroup","txt":"RT @TheStreet: RT @TheStreet: Tips for Creating a Cloud Stock Portfolio $AMZN $EMC $INTC $GOOG http://t.co/UB5on2nA video w/ @5GsOnTheStreet","lbl":"Neutral"}
+,{"time":"19:24","usr":"STEALTHVCEIPO","txt":"RT @TheStreet: RT @TheStreet: Tips for Creating a Cloud Stock Portfolio $AMZN $EMC $INTC $GOOG http://t.co/UB5on2nA video w/ @5GsOnTheStreet","lbl":"Neutral"}
+,{"time":"23:59","usr":"spontercom","txt":"RT @TheSeek20826344 Will #Apple Buy #3D Systems http://t.co/P9WPMIqh $AAPL $AMZN $GOOG $MSFT $DDD #3dp #3dprinting #makerbot $RIMM","lbl":"Neutral"}
 ]

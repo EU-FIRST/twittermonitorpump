@@ -1,12 +1,24 @@
 [
 {"time":"6:11","usr":"wallstCS","txt":"Amazon Prime Membership Lower Than Estimated http://t.co/HNcr35aE $AMZN","lbl":"Negative"}
+,{"time":"6:22","usr":"bloodoughhljw6","txt":"so pissed..that little flash crash took away all my trading gains today from $AMZN$$","lbl":"Neutral"}
+,{"time":"6:27","usr":"RobTheStreet","txt":"3 hours until the opening bell. Here are today\u0027s big headlines: http://t.co/ZY0WVcT1 $AAPL $AMZN $GS $ZNGA $YHOO #stockaction","lbl":"Neutral"}
+,{"time":"7:52","usr":"MichaelComeau","txt":"$LGF gets the Mad Money Pump -- of course, we were on this story a long time ago... $AMZN http://t.co/TL28g3Sh","lbl":"Neutral"}
+,{"time":"8:02","usr":"StockTwits","txt":"Wednesday 7atSeven: ugly bond math. http://t.co/W86KnptW via @abnormalreturns $AAPL $AMZN $AGG $BND","lbl":"Neutral"}
 ,{"time":"9:41","usr":"OptionTactician","txt":"Short $AMZN at 190.10 with 1% stop","lbl":"Negative"}
 ,{"time":"10:50","usr":"Lowtown21","txt":"Im pulling a Bernanke move on my $AMZN long. Throwing more money at it hoping something sticks.","lbl":"Positive"}
 ,{"time":"10:50","usr":"JeffReevesIP","txt":"3 stocks screaming short - $AMZN $CRM $LNKD - http://t.co/jWAF7Anh","lbl":"Negative"}
+,{"time":"11:55","usr":"LennyWilliams","txt":"OFFICIAL RELEASE of my new single entitled \u0022STILL, now available on iTunes, $amzn and of course http://t.co/D4FtadjG- SHOW SOME LOVE!","lbl":"Neutral"}
+,{"time":"11:55","usr":"TjaderDaRaider","txt":"RT @LennyWilliams: OFFICIAL RELEASE of my new single entitled \u0022STILL, now available on iTunes, $amzn and of course http://t.co/D4FtadjG- SHOW SOME LOVE!","lbl":"Neutral"}
 ,{"time":"12:41","usr":"MB30stocktweets","txt":"Thanks $AMZN for nothing. On to the next one or short you now?","lbl":"Negative"}
 ,{"time":"13:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 186.33 -4.97 (-2.60%).","lbl":"Negative"}
+,{"time":"14:15","usr":"wallstsheet","txt":"Battle Royal: Apple Yanks iPad From Amazon China $AMZN - http://t.co/mgnjDT7q","lbl":"Neutral"}
+,{"time":"14:15","usr":"latamike","txt":"$AMZN short closed out","lbl":"Neutral"}
+,{"time":"14:59","usr":"KeithMcCullough","txt":"@CapitalEdgeNY sorry, bad call - $AMZN was too, cheers","lbl":"Neutral"}
 ,{"time":"15:24","usr":"KeithMcCullough","txt":"Blood Bath and Beyond looks like Amazon today, ugly breakdown $BBBY $AMZN","lbl":"Negative"}
 ,{"time":"15:24","usr":"RedDogT3Live","txt":"$AMZN- macro pattern still bearish-","lbl":"Negative"}
+,{"time":"15:26","usr":"barronstechblog","txt":"Lone Apple Bear Resolute, Says Bloomberg - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $MSFT $AMZN $RIMM $NOK http://t.co/4dkU0ckF","lbl":"Neutral"}
 ,{"time":"15:28","usr":"DrDuru","txt":"Ugly move on $AMZN completely wiped out breakout move from Monday. Again, caution!","lbl":"Negative"}
 ,{"time":"18:07","usr":"retail_sails","txt":"Amazon\u0027s Approach to #Advertising Might Work, But It\u0027s Not for Every #Retailer http://t.co/Yej6QOMN $AMZN","lbl":"Positive"}
+,{"time":"18:21","usr":"rojwild","txt":"@jimcramer nice Jim, have waffled on $AMZN for a while, sold early this a.m, lost a few $$ but so what, no lack of good stories out there.","lbl":"Neutral"}
+,{"time":"21:10","usr":"andrewnyquist","txt":"New technical charts for Amazon, Westport Innovations & ATP Oil and Gas: http://t.co/FUspXZml $AMZN $WPRT $ATPG #chartology via @seeitmarket","lbl":"Neutral"}
 ]

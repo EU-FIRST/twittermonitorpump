@@ -1,19 +1,72 @@
 [
-{"time":"6:26","usr":"_newsAggregator","txt":"RT @carlquintanilla: .@TheStreet reviews $GOOG\u0027s new Chrome laptop and says it \u0022performs like a champ\u0022 http://t.co/WDFDcCXj $AAPL","lbl":"Positive"}
+{"time":"0:02","usr":"carlosjgallardo","txt":"RT @rakeshlobster: On tap for this week: $FB $GOOG $YELP $TIVO $AAPL What do you think? http://t.co/bjT9NtmI","lbl":"Neutral"}
+,{"time":"0:05","usr":"scherefe","txt":"RT @TheStreet: Google\u0027s $249 Laptop: Is it the real deal? - http://t.co/s3DLzi4d by @antonwahlman $GOOG","lbl":"Neutral"}
+,{"time":"0:07","usr":"tom6sigma","txt":"$GOOG - new Samsung $249 notebook uses a smartphone chip. You\u0027re a _______ if you compare this to the MacBook Air.","lbl":"Neutral"}
+,{"time":"3:27","usr":"AlecMomont","txt":"RT @TheStreet: Google\u0027s $249 Laptop: Is it the real deal? - http://t.co/s3DLzi4d by @antonwahlman $GOOG","lbl":"Neutral"}
+,{"time":"3:35","usr":"BassamFadel","txt":"RT @SeekingAlpha: Apple Q4 Earnings Preview: iPhone 5 Launch Adds To The Upside http://t.co/rIAJlZQu $GOOG $SSNLF.PK $AAPL","lbl":"Neutral"}
+,{"time":"3:37","usr":"Crowdbooster","txt":"@kariebarrett @jc1000000 and we follow the blog to keep an eye on the $GOOG =) -Ricky","lbl":"Neutral"}
+,{"time":"6:26","usr":"_newsAggregator","txt":"RT @carlquintanilla: .@TheStreet reviews $GOOG\u0027s new Chrome laptop and says it \u0022performs like a champ\u0022 http://t.co/WDFDcCXj $AAPL","lbl":"Positive"}
+,{"time":"6:26","usr":"pelias01","txt":"What A Difference A Day Makes http://t.co/38IRKDEn $AAPL $CHK $GOOG $JOY $ORCL $SLB $ANF $CLF $HAL $LVS $RIG $WLT $BP $CSCO $INTC","lbl":"Neutral"}
+,{"time":"6:29","usr":"egosventures","txt":"@SAI: 10 Things You Need To Know This Morning $MSFT $AAPL $FB $NOK $GOOG by @stevekovach http://t.co/gXAfXDcn","lbl":"Neutral"}
+,{"time":"6:29","usr":"businessinsider","txt":"Get Ready For A Huge Week In Tech $GOOG $AAPL $MSFT by @stevekovach http://t.co/WSnuKTiM","lbl":"Neutral"}
 ,{"time":"7:05","usr":"clh007x","txt":"RT @SheilaD_TV: Sanford Bernstein on $GOOG: \u0022margin concerns overdone....we think upside is still much larger than downside\u0022 Price target $820/share #stocks","lbl":"Positive"}
+,{"time":"7:05","usr":"pkafka","txt":"RT @LCMilstein: \u0022@allthingsd: http://t.co/jFNNHX9o Sets $1.6 Billion Deal http://t.co/uydZC2ox\u0022 That\u0027s the same price $Goog paid for @Youtube.","lbl":"Neutral"}
+,{"time":"7:05","usr":"garrioharrison","txt":"RT @SAI: Get Ready For A Huge Week In Tech $GOOG $AAPL $MSFT by @stevekovach http://t.co/7sKVXawj","lbl":"Neutral"}
+,{"time":"7:06","usr":"bonboncita","txt":"RT @businessinsider: Get Ready For A Huge Week In Tech $GOOG $AAPL $MSFT by @stevekovach http://t.co/WSnuKTiM","lbl":"Neutral"}
+,{"time":"7:53","usr":"Hopeioum2","txt":"Fixed- People who bash $VRNG for their patent rights should know that $GOOG owns thousands of patents & has flexed it\u0027s patent muscle also.","lbl":"Neutral"}
 ,{"time":"7:54","usr":"dherman76","txt":"The $GOOG driverless car can help close the loop on marketing. Thoughts? http://t.co/d3orznZR #marketing #advertising #google","lbl":"Positive"}
 ,{"time":"7:56","usr":"tlmontana","txt":"RT @tradefast: Barron\u0027s covery story on computer hardware - favorable for $EMC $GOOG $AAPL neg for $HPQ $DELL ~cautiously neutral for $INTC $MSFT","lbl":"Positive"}
+,{"time":"7:57","usr":"etftrendwatcher","txt":"Weekly ETF Flows and Technical Recap http://t.co/QeMQTE5a $SPY $AAPL $GOOG $EEM $LQD $FXI $EWZ","lbl":"Neutral"}
+,{"time":"8:18","usr":"sttrws","txt":"RT @jaltucher not usually one to toot my own horn but I just learned $GOOG is settling with $VRNG for $790 million. More to come","lbl":"Neutral"}
+,{"time":"8:19","usr":"Xhunter7w","txt":"RT @jaltucher not usually one to toot my own horn but I just learned $GOOG is settling with $VRNG for $790 million. More to come","lbl":"Neutral"}
+,{"time":"8:19","usr":"my007life","txt":"RT @jaltucher not usually one to toot my own horn but I just learned $GOOG is settling with $VRNG for $790 million. More to come","lbl":"Neutral"}
+,{"time":"8:39","usr":"jpu19","txt":"RT @Benzinga: $AAPL $AMZN $FB $GOOG Will Tech Earnings This Week Fuel Positive Sentiment Shift?: http://t.co/vxM15G28","lbl":"Neutral"}
+,{"time":"8:39","usr":"SJosephBurns","txt":"I came into this morning flat. I am glad I closed all puts Friday.I was expecting volatility. $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"8:40","usr":"CreateCapital","txt":"$GOOG went up 12 weeks in a row, 200 points, $65B in market value JUST BEFORE a HUGE earnings disappointment. #DONTJUSTFOLLOWPRICE fools","lbl":"Negative"}
+,{"time":"9:07","usr":"TraderPlanet","txt":"Tech stocks shaky, can Facebook, Apple, and Amazon deliver what\u0027s needed? $IBM $GOOG $AAPL $AMZN http://t.co/GvMdQpsj","lbl":"Negative"}
+,{"time":"9:07","usr":"ScottKCurry","txt":"RT @SAI: 10 Things You Need To Know This Morning $MSFT $AAPL $FB $NOK $GOOG by @stevekovach http://t.co/eCmQ9KZT","lbl":"Neutral"}
+,{"time":"9:40","usr":"StockTwits","txt":"Google v Vringo Trial Interview with Dan Ravicher http://t.co/JJQB4qJa via @ppearlman $VRNG $GOOG","lbl":"Neutral"}
+,{"time":"9:41","usr":"tradethembi","txt":"Commented on StockTwits: I will hit $GOOG after a comment on Quant and high speed vs normal time windows","lbl":"Neutral"}
 ,{"time":"10:09","usr":"DeidreZune","txt":"US stocks finally showing discrimination. $AAPL higher $GOOG down. $GOOG\u0027s miss will weigh on stock this Q; $AAPL will outperform","lbl":"Negative"}
+,{"time":"10:10","usr":"SeekingAlpha","txt":"How To Trade Yahoo Ahead Of Earnings http://t.co/64z836tr $GOOG $YHOO","lbl":"Neutral"}
 ,{"time":"10:25","usr":"tphedgegroup","txt":"$GOOG Added more at $672.","lbl":"Positive"}
+,{"time":"10:25","usr":"choffman1978","txt":"$ACUR no debt, no float, Pfizer partner! #cnbc,#msnbc,#nyse,#wsj,$p,$s,$gs,$goog,$appl,$lmca,$bac,$nflx,$dndn,$ctic,$kerx,$aezs,$bpax","lbl":"Neutral"}
+,{"time":"10:26","usr":"JerTignes","txt":"What happens exactely in Brazil between $goog and the newsmakers? http://t.co/3iRnYww2 $aapl newstand ios @rue89 @arretsurimages","lbl":"Neutral"}
 ,{"time":"10:26","usr":"Mitchnole","txt":"$GOOG just undercut Friday\u0027s lows.","lbl":"Negative"}
+,{"time":"10:51","usr":"ppearlman","txt":"@bespokeinvest yeah but how much has $GOOG gained since it bot $MMI?","lbl":"Neutral"}
 ,{"time":"10:51","usr":"howardlindzon","txt":"RT @bespokeinvest $GOOG\u0027s miss was blamed on $MMI purchase.They only paid $9.8 bln for $MMI, but stock has lost $27 bln in mkt since report.","lbl":"Negative"}
+,{"time":"10:52","usr":"GEQSense","txt":"@MtlExchange I trade 99% in the NYSE and even on super volatile days, $AAPL or $GOOG don\u0027t have that crazy spreads.","lbl":"Neutral"}
+,{"time":"10:52","usr":"iBoardEVPBizDev","txt":"RT @barronsonline: Inside Tech Stocks\u0027 Week from Hell: Time to Buy Google at 12% Off http://t.co/iaP6cfSn via @barronsonline $GOOG $INTC $DELL $MSFT $AMZN $AMD","lbl":"Positive"}
+,{"time":"11:23","usr":"Channa77","txt":"RT @TheStreet: Google\u0027s $249 Laptop: Is it the real deal? - http://t.co/s3DLzi4d by @antonwahlman $GOOG","lbl":"Neutral"}
+,{"time":"11:23","usr":"choffman1978","txt":"$NGSX up another 11% - HUGE BREAKOUT! #cnbc,#msnbc,#nyse,#wsj,$p,$s,$gs,$goog,$appl,$lmca,$bac,$nflx,$ctic,$dndn,$rxpc,$kerx,$aezs,$bpax","lbl":"Neutral"}
+,{"time":"11:45","usr":"MarketBeat","txt":"Tech\u0027s Swoon Has Traders Eyeing Nasdaq 3000, Again - @MarketBeat - WSJ http://t.co/zGN0naLD via @srussolillo @WSJ $AAPL $GOOG $MSFT $HPQ","lbl":"Neutral"}
 ,{"time":"12:11","usr":"UdallTechStrat","txt":"@biggalaxy Been buying $goog since low $300\u0027s, usually on Qtr\u0027s when price action is terrible.","lbl":"Positive"}
+,{"time":"12:11","usr":"DisCo_Project","txt":"Next 10 days = epic! New products from $AAPL, $MSFT, $GOOG: http://t.co/izniQ4Xe (iPad mini, Surface, Windows 8, Nexus tablet & phone, more)","lbl":"Neutral"}
 ,{"time":"12:30","usr":"sugg_business","txt":"RT @MarketWatch: Can\u0027t decide between a new iPad or Surface tablet? Maybe check out Google\u0027s $249 Chromebook http://t.co/mt1afbk5 via @thetellblog $GOOG","lbl":"Positive"}
+,{"time":"12:30","usr":"TraderPlanet","txt":"Facebook reports Tuesday after the close. Get ready. $IBM $GOOG $AAPL $AMZN http://t.co/BWvw3pC9","lbl":"Neutral"}
+,{"time":"12:31","usr":"tw_top_business","txt":"RT @MarketWatch: Can\u0027t decide between a new iPad or Surface tablet? Maybe check out Google\u0027s $249 Chromebook http://t.co/mt1afbk5 via @thetellblog $GOOG","lbl":"Neutral"}
+,{"time":"12:31","usr":"pennystockguys","txt":"$GOOG - Apple\u0027s Earnings Miss: Is it priced in? - Real Time Insight http://t.co/kmBTnnht","lbl":"Neutral"}
+,{"time":"13:05","usr":"pennystockguys","txt":"$GOOG - NPD DisplaySearch Sees Growing Market in Low-Cost Smartphones http://t.co/LR1pQ6ck","lbl":"Neutral"}
+,{"time":"13:05","usr":"ADVFNplc","txt":"$GOOG - NPD DisplaySearch Sees Growing Market in Low-Cost Smartphones http://t.co/oz3KPRxx","lbl":"Neutral"}
 ,{"time":"13:06","usr":"tphedgegroup","txt":"TPHedgegroup maintains its 2013 price target of $845 on $GOOG We continue at add to our position.","lbl":"Positive"}
 ,{"time":"13:08","usr":"MockTrade","txt":"I think the key 4 EOD selling or not 2day will b both $AAPL below 622 & $GOOG below 673, along w/Financials not reversing back up as well","lbl":"Negative"}
+,{"time":"14:28","usr":"Jamtrades","txt":"Commented on StockTwits: They are all too high here for my taste. $AAPL $GOOG $NFLX $AMZN. elevated premiums all the... http://t.co/nnTQ56nL","lbl":"Negative"}
+,{"time":"14:29","usr":"barronsonline","txt":"BARRON\u0027S COVER STORY: As the PC era wanes, tablets, smartphones, big data are rising http://t.co/XrWREoaE $AAPL $MSFT $GOOG $EMC $DELL $HPQ","lbl":"Neutral"}
+,{"time":"15:05","usr":"tigrs99","txt":"RT @YahooFinance: Small iPad may be big problem for Kindle http://t.co/deR6jMSw $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"15:07","usr":"CNBCMelloy","txt":"Score one for Marissa Mayer for releasing earnings on time. $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"15:07","usr":"BanzaiTrader","txt":"anyone notice battle of e-readers today? $GOOG $BKS $AMZN red $APPL green","lbl":"Negative"}
 ,{"time":"15:27","usr":"howardlindzon","txt":"Mood matters RT @JFinDallas Opposite day : $GOOG big rev growth is a \u0022MISS\u0022, $YHOO flat rev is a \u0022BEAT\u0022, expectations and psychology... $QQQ","lbl":"Negative"}
+,{"time":"15:28","usr":"Minyanville","txt":"Microsoft Still Has a Lot to Prove $MSFT $AAPL $GOOG $AMZN $ORCL http://t.co/llZ2veYn","lbl":"Neutral"}
+,{"time":"15:57","usr":"Lorrainejuliet","txt":"RT @herbgreenberg: I ask this question frequently and I never get a good answer: Why oh why does Shockwave CONTINUOUSLY crash on Chrome? $GOOG","lbl":"Neutral"}
+,{"time":"16:00","usr":"GanaVK","txt":"RT @herbgreenberg: I ask this question frequently and I never get a good answer: Why oh why does Shockwave CONTINUOUSLY crash on Chrome? $GOOG","lbl":"Neutral"}
+,{"time":"16:02","usr":"aniehenke","txt":"Today more than 50% of $GOOG map usage is mobile #Money2020","lbl":"Neutral"}
 ,{"time":"16:44","usr":"Cole__Hines","txt":"RT @Opinterest: The notion that nobody knows how to monetize mobile is ludicrous. How did $GOOG mobile revenues go from $2.5B to $8B YoY? @cnbcfastmoney","lbl":"Positive"}
 ,{"time":"16:47","usr":"Goodlett","txt":"Compounding problems w/$GOOG stock drop, comes revelations that #Android apps \u0027can\u0027 leak personal details http://t.co/73vDaBXs $MSFT $AAPL","lbl":"Negative"}
+,{"time":"16:51","usr":"Goodlett","txt":"Good to see $YHOO reporting modest rev increase (and smarter apps) under @marissamayer\u0027s leadership! http://t.co/gwLyrbTo $GOOG $AOL $MSFT","lbl":"Neutral"}
+,{"time":"17:48","usr":"redstormstocks","txt":"Lots of articles have been written about $GOOG earnings, none quite as good as this one: http://t.co/SDPcQraQ","lbl":"Neutral"}
+,{"time":"17:48","usr":"TraderPlanet","txt":"Today\u0027s top stories: Get ready for more tech earnings $IBM $GOOG $AAPL $AMZN http://t.co/QFnog5JN","lbl":"Neutral"}
 ,{"time":"17:51","usr":"WS31082","txt":"$YHOO shows better than expected earnings while $GOOG falls this might be the year of Yahoo #Trading #NASDAQ","lbl":"Negative"}
+,{"time":"17:51","usr":"BettyInTheLoop","txt":".@dylancasey used to work with @marissamayer at $GOOG and now runs product @path. He joins me to react to $YHOO outlook.","lbl":"Neutral"}
+,{"time":"20:26","usr":"pingbooth_sujoy","txt":"$GOOG another tweet about google.","lbl":"Neutral"}
+,{"time":"20:28","usr":"ZeroSkewl","txt":"RT @SeekingAlpha Dude, Where\u0027s My Revenue? http://t.co/IiUN2lrh $AAPL $GOOG $IBB $IWM $IYT $JJC $QQQ $XLE $XLU","lbl":"Neutral"}
 ]

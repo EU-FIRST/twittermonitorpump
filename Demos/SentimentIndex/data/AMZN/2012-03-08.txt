@@ -1,9 +1,20 @@
 [
-{"time":"6:45","usr":"statsreal","txt":"@KeithMcCullough Keith, don\u0027t know your timeframe but are you staying w $amzn, doesn\u0027t seem to want to break down, stay transparent friend","lbl":"Positive"}
+{"time":"3:55","usr":"thielgesfqmr2","txt":"Alibaba Group\u0027s revenue growth in the last 3 years most closely map on to $AMZN\u0027s in 1998 - 2000 xceRKm","lbl":"Neutral"}
+,{"time":"6:37","usr":"d_ramsden","txt":"Why assume that lingering ads for iPad2 are accidental? Why would $AAPL not push both? http://t.co/jPiFyoP7 $AMZN $GOOG $$","lbl":"Neutral"}
+,{"time":"6:45","usr":"statsreal","txt":"@KeithMcCullough Keith, don\u0027t know your timeframe but are you staying w $amzn, doesn\u0027t seem to want to break down, stay transparent friend","lbl":"Positive"}
+,{"time":"9:01","usr":"investlite","txt":"Today: $CRR $SINA $ALLT $BRCM $FIRE $UA $GS $APA $CRM $VMW $QCOM $AMZN $PETM $SHLD $NVDA $VZ $BEAM $NFLX $LNKD $DMND http://t.co/gWIKkGJu","lbl":"Neutral"}
+,{"time":"9:08","usr":"daytrading__de","txt":"$MCD $VXX $LULU $AAP $AMZN $CYBX $DPZ $EDZ some stocks we discussed in our briefing today","lbl":"Neutral"}
 ,{"time":"11:05","usr":"emersongreg","txt":"How a @LinkedIn update leaked the news that AMAZON may be getting into original programming: http://t.co/9uVCNbm6 (cc @jpoggi) $AMZN","lbl":"Positive"}
+,{"time":"11:08","usr":"newsagg","txt":"RT @barronstechblog: Apple: Samsung, Others Fear 8-In. iPad, Says DigiTimes - Tech Trader Daily - $AAPL $005930KS $GOOG $AMZN $RIMM http://t.co/lidBKPs2","lbl":"Neutral"}
 ,{"time":"11:09","usr":"SperlsT3Live","txt":"if $amzn stays above 185 it will be an add at some point to get to 195","lbl":"Positive"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:47am: 186.06 +2.29 (+1.25%).","lbl":"Neutral"}
 ,{"time":"12:03","usr":"joshlarson","txt":"Hmm... Dad:\u0022Dear Josh, I\u0027ve studied your portfolio & determined you should sell all your $CMSCA & all of your $INTC, then buy 35 of $AMZN\u0022","lbl":"Positive"}
 ,{"time":"12:58","usr":"HLIDK","txt":"RT @themotleyfool: Only 1 stock has the gargantuan reach to threaten Google\u0027s online ad dominance. Hello, Amazon ($AMZN): http://t.co/oS4UOAK5","lbl":"Positive"}
+,{"time":"15:38","usr":"61point8","txt":"How\u0027s that move in $AMZN?","lbl":"Neutral"}
+,{"time":"17:24","usr":"RoccoPendola","txt":"Doing an $AMZN promo - starting tonight at Midnight, CA time, my #options #eBook will be free for 24 hours. http://t.co/WK4Mhrx7","lbl":"Neutral"}
+,{"time":"17:33","usr":"firstadopter","txt":"$TXN \u0022Q1 OMAP demand slowdown crosses both smart-phones and tablets\u0022 Can you say $AMZN Kindle Fire?","lbl":"Neutral"}
+,{"time":"17:34","usr":"Geritn41","txt":"$TXN \u0022Q1 OMAP demand slowdown crosses both smart-phones and tablets\u0022 Can you say $AMZN #Kindle Fire? http://t.co/xQcU4yu4","lbl":"Neutral"}
+,{"time":"21:00","usr":"SeekingAlpha","txt":"Apple, Publisher Partners Accused of Collusion To Raise e-Book Pricesq http://t.co/zScO6g74 $AMZN $AAPL","lbl":"Neutral"}
 ,{"time":"21:05","usr":"NoDoji","txt":"$AMZN Daily Ichimoku: Bullish progress in to cloud today. Potential for bull cross but chikou coming into resistance. http://t.co/8OS6tZlW","lbl":"Positive"}
 ,{"time":"21:32","usr":"jontalton","txt":"Arizona bookstore boycotts Amazon titles: http://t.co/vcv6gNJ7 via East Valley Tribune $AMZN","lbl":"Negative"}
 ]

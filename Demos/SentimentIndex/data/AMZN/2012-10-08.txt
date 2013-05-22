@@ -1,8 +1,23 @@
 [
-{"time":"8:28","usr":"HedgeyeRetail","txt":"RT @HedgeyeRetail: This a.m. we debated whether $AMZN would be hurt. Likely more in perception than reality. Dollar Stores on the pain list.","lbl":"Positive"}
+{"time":"7:25","usr":"stkbullgod","txt":"Ok. Late Friday I shorted $amzn. For the life of me, I can\u0027t understand this story/valuation. Tight stop as always.","lbl":"Neutral"}
+,{"time":"7:26","usr":"stockticks","txt":"$AMZN News: Zombies Join Kevin Spacey in Cannes Seeking Web Money - #stocknews http://t.co/VLwmQZdM #USInternetStocks","lbl":"Neutral"}
+,{"time":"8:28","usr":"HedgeyeRetail","txt":"RT @HedgeyeRetail: This a.m. we debated whether $AMZN would be hurt. Likely more in perception than reality. Dollar Stores on the pain list.","lbl":"Positive"}
+,{"time":"8:31","usr":"Brian_Harper","txt":"$MS doesn\u0027t seen $AMZN\u0027s video service as direct threat to $NFLX...a month ago we went to $5 $NFLX plan and got AMZN prime. Just saying","lbl":"Neutral"}
+,{"time":"9:12","usr":"businessinsider","txt":"Morgan Stanley Upgrades Netflix, Says Amazon Isn\u0027t A Direct Threat $NFLX $AMZN by @bySamRo http://t.co/SXA1f9Ks","lbl":"Neutral"}
+,{"time":"9:12","usr":"themoneygame","txt":"Morgan Stanley Upgrades Netflix, Says Amazon Isn\u0027t A Direct Threat $NFLX $AMZN by @bySamRo http://t.co/nFJDAHnL","lbl":"Neutral"}
+,{"time":"9:12","usr":"clusterstock","txt":"Morgan Stanley Upgrades Netflix, Says Amazon Isn\u0027t A Direct Threat $NFLX $AMZN by @bySamRo http://t.co/ctcZYeCL","lbl":"Neutral"}
 ,{"time":"10:12","usr":"henrygambell","txt":"$AAPL is taking a beating - right on top of critical extensions. $UNG doing fine, stalking $AMZN for a buy http://t.co/v2cvJVYv","lbl":"Positive"}
+,{"time":"11:04","usr":"CNNMoney","txt":"When blockbuster franchises collide: \u0022Angry Birds Star Wars\u0022 http://t.co/Kott6T77 $AAPL, $GOOG, $AMZN, $MSFT","lbl":"Neutral"}
+,{"time":"11:04","usr":"drmolynn","txt":"RT @CNNMoney When blockbuster franchises collide: \u0022Angry Birds Star Wars\u0022 http://t.co/Q6Ohs8wC $AAPL, $GOOG, $AMZN, $MSFT","lbl":"Neutral"}
+,{"time":"12:43","usr":"choffman1978","txt":"$AEZS rallying on huge Oncology pipeline!#cnbc,#msnbc,#nyse,#wsj,$p,$aapl,$amzn,$goog,$gs,$bac,$c,$f,$gm,$soda,$v,$cbou","lbl":"Neutral"}
+,{"time":"13:42","usr":"TheStreet","txt":"How Netflix Has Almost 30% Upside http://t.co/E4O1UFug by @Commodity_Bull @NFLX $AMZN $BKS","lbl":"Neutral"}
+,{"time":"13:42","usr":"RealCrystalBall","txt":"How Netflix Has Almost 30% Upside http://t.co/5csUGvtC by @Commodity_Bull @NFLX $AMZN $BKS #Stocks","lbl":"Neutral"}
 ,{"time":"14:33","usr":"nolte88","txt":"$AMZN added long on break of $259 I wanted. TINY position. Tight leash b/c vol terrible. Will carry into tomorrow probably.","lbl":"Positive"}
 ,{"time":"14:34","usr":"takingstock614","txt":"$AMZN stay with it. Chart looks fine. Still above 8/21dma\u0027s.","lbl":"Positive"}
 ,{"time":"15:22","usr":"Stocks_Plus","txt":"$AAPL, $GOOG, $MSFT, $AMZN BUY Apple. SHORT Kass. http://t.co/SxIlVGos via @Stocks_Plus","lbl":"Positive"}
+,{"time":"16:38","usr":"RaviRomo","txt":"@firstadopter What does the trade-in program include at $AMZN? Thx.","lbl":"Neutral"}
+,{"time":"18:24","usr":"GinnyPowell","txt":"Done \u201C@LukeRomyn: Grab some incredible #FREE fiction which is sure to inject your #Kindle with adrenaline: http://t.co/4hQgeDHY $AMZN\u201D","lbl":"Neutral"}
+,{"time":"18:39","usr":"ScottRutt","txt":"New at the blog, \u0022Netflix Shares Surge As Investors Forget How Much They Hate It\u0022 \u2014 $NFLX $GRPN $ZNGA $AMZN $AAPL http://t.co/aw6thV42","lbl":"Neutral"}
 ,{"time":"20:38","usr":"br1ckz","txt":"Any are good w me \u201C@StockTwits:Who Will Be the First Trillion Dollar Company? http://t.co/ucMr4u4M via @howardlindzon $GOOG $AAPL $FB $AMZN\u201D","lbl":"Positive"}
+,{"time":"20:43","usr":"wjboynton","txt":"Apple\u0027s Next Big Thing: The Upcoming Earnings Report http://t.co/Zo3wn2kI $AMZN $GOOG $MSFT $AAPL","lbl":"Neutral"}
 ]

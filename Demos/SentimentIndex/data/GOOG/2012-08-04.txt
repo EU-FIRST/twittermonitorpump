@@ -1,3 +1,12 @@
 [
-{"time":"9:46","usr":"LemiTahirovic","txt":"RT @SmartMoney: At $640+, Google is still a \u0022buy.\u0022 Its revenue grew 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+{"time":"3:22","usr":"Fajrin_R","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"3:35","usr":"OptionPundit","txt":"OP Income Newsletter Aug portfolios delivered a solid +13.45%, OPNExtra! (+33.68%) $AAPL, $GOOG, $LNKD http://t.co/YGd6nvGD","lbl":"Neutral"}
+,{"time":"9:46","usr":"LemiTahirovic","txt":"RT @SmartMoney: At $640+, Google is still a \u0022buy.\u0022 Its revenue grew 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"9:53","usr":"ivanhoff","txt":"Saturday links: wealth insurance http://t.co/2vj5eZW4 via @abnormalreturns $NAV $GOOG $MCD et al.","lbl":"Neutral"}
+,{"time":"9:53","usr":"Goodlett","txt":"For small businesses (and media companies), $FB #FanPage management apps are the new GNU http://t.co/GI9UdbOu $GOOG $MSFT $YHOO $AOL $NYT","lbl":"Neutral"}
+,{"time":"9:57","usr":"TraderDR","txt":"@TrendRida it\u0027s all they have, creating a real OS and competing on features, making a profit per unit is too much work $GOOG","lbl":"Neutral"}
+,{"time":"14:17","usr":"delonross1991","txt":"$aapl $goog $msft top three #nuffsaid","lbl":"Neutral"}
+,{"time":"18:59","usr":"Marketing_Sage","txt":"Great points in this blog. Bring on the future $GOOG ! -> Google\u0027s Fiber \u0022Proof of Concept\u0022 Is Anything But http://t.co/9XW1yT35 via @jason","lbl":"Neutral"}
+,{"time":"19:02","usr":"corbizfligo6","txt":"ultimate lotto tix short $GOOG 595 straddle buy 605c and 595p on the weekly for credit of $9.75 or m1VhD4","lbl":"Neutral"}
+,{"time":"19:14","usr":"STOCKWINNERScom","txt":"$GOOG $YHOO $MSFT Thanks http://t.co/IEJBBjSD for getting Stockwinners on top of #Google results. http://t.co/JA3UZaIK","lbl":"Neutral"}
 ]

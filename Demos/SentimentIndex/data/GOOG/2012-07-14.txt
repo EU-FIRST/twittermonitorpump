@@ -1,1 +1,9 @@
-[]
+[
+{"time":"7:18","usr":"TradersBlock","txt":"Earnings Reminder: $ABT $AXP $BAC $BTU $C $CSX $EBAY $FCX $GE $GOOG $GS $IBM $INTC $JNJ $KO $MS $MSFT $QCOM $SVU $VZ $YHOO","lbl":"Neutral"}
+,{"time":"7:19","usr":"markburdette","txt":"RT @TradersBlock: Earnings Reminder: $ABT $AXP $BAC $BTU $C $CSX $EBAY $FCX $GE $GOOG $GS $IBM $INTC $JNJ $KO $MS $MSFT $QCOM $SVU $VZ $YHOO","lbl":"Neutral"}
+,{"time":"7:20","usr":"the_gadgeteur","txt":"RT @SAI: Not A Fan Of The Nexus Q? Hack It To Run Pong Instead $GOOG by @_dtl http://t.co/5bQwvudK","lbl":"Neutral"}
+,{"time":"7:21","usr":"marchuq","txt":"RT @SAI: Could This Device Change Television Forever? $GOOG by @_dtl http://t.co/hIWMh101","lbl":"Neutral"}
+,{"time":"13:14","usr":"ucblue","txt":"RT @SAI: Could This Device Change Television Forever? $GOOG by @_dtl http://t.co/hIWMh101","lbl":"Neutral"}
+,{"time":"13:38","usr":"USwwwStocks","txt":"$GOOG News: Google CEO Page Recovering From Unspecified Illness http://t.co/e0pZ7wy8 #GOOG #From #Google","lbl":"Neutral"}
+,{"time":"13:55","usr":"civic_drifter","txt":"RT @SAI: Could This Device Change Television Forever? $GOOG by @_dtl http://t.co/hIWMh101","lbl":"Neutral"}
+]

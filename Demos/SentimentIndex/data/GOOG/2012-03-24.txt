@@ -1,3 +1,5 @@
 [
 {"time":"11:45","usr":"DerivStrategies","txt":"500% Returns for 6% moves in $AAPL or $GOOG binary options next week, fair risk/reward?: http://t.co/yW9PpGx2 http://t.co/S0uTNwKu","lbl":"Positive"}
+,{"time":"11:45","usr":"Strategist_Phil","txt":"500% Returns for 6% moves in $AAPL or $GOOG weekly binary options next week, fair risk/reward?:... http://t.co/1o9WIxnr","lbl":"Neutral"}
+,{"time":"11:59","usr":"Goodlett","txt":"#Brilliant - favored @HTC, partners w/favored @LogMeIn software for remote tech support of $GOOG #Android phones http://t.co/k0xhkeM9 $AAPL","lbl":"Neutral"}
 ]

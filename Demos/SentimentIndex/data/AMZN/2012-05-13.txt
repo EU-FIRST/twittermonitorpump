@@ -1,3 +1,4 @@
 [
-{"time":"23:12","usr":"Urbanomical","txt":"@joesunga shrinking Margins at $amzn? Is this cause for concern cuz?","lbl":"Negative"}
+{"time":"4:05","usr":"ForTraders","txt":"#Ailing Nokia falls back on patents legacyAiling Nokia falls back on patents legacy http://t.co/XBQrCGqy $AMZN","lbl":"Neutral"}
+,{"time":"23:12","usr":"Urbanomical","txt":"@joesunga shrinking Margins at $amzn? Is this cause for concern cuz?","lbl":"Negative"}
 ]

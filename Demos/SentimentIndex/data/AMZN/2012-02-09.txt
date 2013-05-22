@@ -1,14 +1,17 @@
 [
 {"time":"10:01","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:46am: 183.34 -2.14 (-1.15%).","lbl":"Negative"}
+,{"time":"10:04","usr":"wallstCS","txt":"11 Buzzing Stocks: http://t.co/SbvsUDci $PEP $DPS $KO $AAPL $MSFT $GOOG $AMZN $YHOO $AOL $EXPE $TRIP","lbl":"Neutral"}
 ,{"time":"10:43","usr":"firstadopter","txt":"Rumors of $299 iPad 2. If this happens, $AMZN is just dead as a door nail: http://t.co/pk4NHigG","lbl":"Negative"}
 ,{"time":"10:43","usr":"keithk589","txt":"RT @firstadopter: Rumors of $299 iPad 2. If this happens, $AMZN is just dead as a door nail: http://t.co/6QlpWTnx << No doubt!","lbl":"Negative"}
 ,{"time":"11:25","usr":"Jamtrades","txt":"If you are short $AMZN here, you need to be careful! Do not mess with cult stocks! #trading101 :)","lbl":"Positive"}
 ,{"time":"11:26","usr":"ElmTreeInvest","txt":"RT @howardlindzon: likely reason for huge gap RT @firstadopter Rumors of $299 iPad 2. If this happens, $AMZN is just dead as a door nail: http://t.co/oNpYht2M","lbl":"Negative"}
 ,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:47am: 182.48 -3.00 (-1.62%).","lbl":"Negative"}
+,{"time":"12:02","usr":"WallStJesus","txt":"Wall St Jesus >> IPO Preview: Synacor http://t.co/88PNrWRU $AMZN $AOL $ATVI $EA $GOOG $MSFT $NFLX $SYMC $YHOO $ZNGA $SYNC","lbl":"Neutral"}
 ,{"time":"12:43","usr":"whitewyatt","txt":"@LDrogen I agree $AMZN is bloated, but can you really call failure on the whole strategy after 1.5 QTRs?","lbl":"Negative"}
 ,{"time":"13:17","usr":"Jamtrades","txt":"@stugotz where are you? and how is that $AMZN short working out?","lbl":"Negative"}
 ,{"time":"14:41","usr":"danshep55","txt":"$amzn long red/green in chat","lbl":"Positive"}
 ,{"time":"15:51","usr":"FrugalBenjamin","txt":"$AMZN - Will Amazon do the opposite of $AAPL and break-down below 3+ year support? http://t.co/Wyd3aIhA","lbl":"Negative"}
+,{"time":"17:42","usr":"iStockAnalyst","txt":"Amazon-Viacom Deal: A Netflix Killer? $AMZN $CSTR $NFLX $VZ: It\u0027s time to digest more bad news for Netflix, Inc.... http://t.co/nCxjOEBl","lbl":"Neutral"}
 ,{"time":"19:34","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN A Little Down. Edgewood Management Holdings in 4th Quarter: 13F Alert: http://t.co/UpZtNUlt","lbl":"Negative"}
 ,{"time":"19:34","usr":"CashCowStocks","txt":"$AMZN & $DMND Call Options Should do Well http://t.co/W5dyuIwm","lbl":"Positive"}
 ]

@@ -1,9 +1,38 @@
 [
-{"time":"12:11","usr":"bluser12","txt":"$GOOG and $AMZN look horrible.","lbl":"Negative"}
+{"time":"9:12","usr":"40oz_n_a_glock","txt":"Holy shit! Winery too! Wonder if I can download it my Kindle? RT @BloombergTV: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"9:13","usr":"JasmithanVilma","txt":"RT @40oz_n_a_glock: Holy shit! Winery too! Wonder if I can download it my Kindle? RT @BloombergTV: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"9:13","usr":"PCH888","txt":"RT @BloombergTV: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"9:13","usr":"third_torch","txt":"RT @zerohedge: They are a winery now too? RT @BloombergTV: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"9:22","usr":"trruullyy","txt":"RT @BloombergNews: RT @bloombergtv: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"9:22","usr":"brianlrichards","txt":"Cheers! Amazon debuts its dedicated (US-only) marketplace for wine http://t.co/ap1FzfQq via @thenextweb $AMZN","lbl":"Neutral"}
+,{"time":"9:24","usr":"ch_tsog","txt":"RT @BloombergNews: RT @bloombergtv: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"9:24","usr":"CONCEDE","txt":"RT @BloombergNews: RT @bloombergtv: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"9:44","usr":"robcrilly","txt":"oh... RT @ParraV: My heart skips a beat. RT @bloombergtv: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"9:45","usr":"JuiceNovel","txt":"RT @LukeRomyn: Sit down, buckle up, and hold on to your tongue. These reads guarantee a heart-pumping ride: http://t.co/Cl0mcU9C #Kindle $AMZN","lbl":"Neutral"}
+,{"time":"9:46","usr":"BreakingNewsG","txt":"RT BREAKING: Amazon announces launch of Amazon Wine $AMZN Via @BloombergNews","lbl":"Neutral"}
+,{"time":"9:47","usr":"Alex_J_Martin","txt":"RT @LaMonicaBuzz: Just learned $AMZN now selling wine. Are they selling bottles for $7.99 with hopes of making profit from Food & Wine mag Kindle downloads?","lbl":"Neutral"}
+,{"time":"10:13","usr":"philipkinscherf","txt":"look @PureRomancebyCK \u0022@BloombergNews: RT @bloombergtv: BREAKING: Amazon announces launch of Amazon Wine $AMZN\u0022","lbl":"Neutral"}
+,{"time":"10:14","usr":"UFFitz","txt":"RT @BloombergNews: RT @bloombergtv: BREAKING: Amazon announces launch of Amazon Wine $AMZN","lbl":"Neutral"}
+,{"time":"10:47","usr":"biggercapital","txt":"Hey Buck bring the Ipad so I can test app RT @buckandrews: $AMZN Wine from Amazon just improved the value of my prime membership.","lbl":"Neutral"}
+,{"time":"11:31","usr":"iamnephelie","txt":"RT @Reuters: Amazon unveils wine marketplace in some U.S. states http://t.co/T77pPK44 $AMZN","lbl":"Neutral"}
+,{"time":"11:31","usr":"Ksenias7","txt":"RT @Reuters: Amazon unveils wine marketplace in some U.S. states http://t.co/T77pPK44 $AMZN","lbl":"Neutral"}
+,{"time":"11:31","usr":"THAP_Lab","txt":"RT @Reuters: Amazon unveils wine marketplace in some U.S. states http://t.co/T77pPK44 $AMZN","lbl":"Neutral"}
+,{"time":"11:32","usr":"iBreakings","txt":"Amazon unveils wine marketplace in some U.S. states http://t.co/vzzK36Uo $AMZN: #news #breaking","lbl":"Neutral"}
+,{"time":"11:46","usr":"CNBCnow","txt":"Amazon unveiled a new online wine marketplace on Thursday: http://t.co/v2OEKuxT (h/t @PeterShack) $AMZN","lbl":"Neutral"}
+,{"time":"11:47","usr":"ntk_999","txt":"RT @CNBCnow: Amazon unveiled a new online wine marketplace on Thursday: http://t.co/v2OEKuxT (h/t @PeterShack) $AMZN","lbl":"Neutral"}
+,{"time":"11:47","usr":"MikkeyAlias","txt":"RT @CNBCnow: Amazon unveiled a new online wine marketplace on Thursday: http://t.co/v2OEKuxT (h/t @PeterShack) $AMZN","lbl":"Neutral"}
+,{"time":"12:11","usr":"bluser12","txt":"$GOOG and $AMZN look horrible.","lbl":"Negative"}
+,{"time":"12:52","usr":"BetyourTweetass","txt":"SCORE! \u201C@Reuters: Amazon unveils wine marketplace in some U.S. states http://t.co/J5rFUy73 $AMZN\u201D","lbl":"Neutral"}
+,{"time":"13:44","usr":"TMFBreaking","txt":"$AMZN launches online wine marketplace. http://t.co/VGvVhOVl","lbl":"Neutral"}
 ,{"time":"13:45","usr":"JeffCooperLive","txt":"possible Train Tracks on 10 min $AMZN looks buyable for a trade especially if it stabs up through 229","lbl":"Positive"}
+,{"time":"14:39","usr":"PrissyMag","txt":"RT @Reuters: Amazon unveils wine marketplace in some U.S. states http://t.co/T77pPK44 $AMZN","lbl":"Neutral"}
+,{"time":"15:26","usr":"dongmsd","txt":"\u266A(*^^)o\u2200*\u2200o(^^*)\u266A \u201C@MarketWatch: Consumers can order almost anything on Amazon, and now that includes wine. $AMZN http://t.co/ludS00Ph\u201D","lbl":"Neutral"}
 ,{"time":"15:30","usr":"retat50","txt":"@61point8 Great job Peter! Made some good money today -- out of my shorts $AAPL, $GOOG, $AMZN, $PANL made money on all - wait for bounce up","lbl":"Positive"}
+,{"time":"15:58","usr":"firstadopter","txt":"This new add-on shipping program from $AMZN shows you there is serious margin/profit pressure vs. before: http://t.co/8PbYE4SZ","lbl":"Neutral"}
+,{"time":"16:28","usr":"HenrySanchez","txt":"Holy crap\u201C@CNNMoney: Amazon Wine goes after online booze sales http://t.co/7Osp6tOJ $AMZN\u201D","lbl":"Neutral"}
 ,{"time":"17:31","usr":"StockTwits","txt":"\u0022@Zachlehner: comScore: Q3 Retail E-Commerce Up 15%; Predicts A \u201CVery Healthy\u201D Holiday Shopping Season $EBAY $AMZN http://t.co/zueit47i\u0022","lbl":"Positive"}
 ,{"time":"17:31","usr":"Velostream","txt":"++\u0022@Zachlehner: comScore: Q3 Retail E-Commerce Up 15%; Predicts A \u201CVery Healthy\u201D Holiday Shopping Season $EBAY $AMZN http://t.co/3kbZW4oa\u0022","lbl":"Positive"}
 ,{"time":"17:31","usr":"ChartStockPL","txt":"RT @StockTwits: \u0022@Zachlehner: comScore: Q3 Retail E-Commerce Up 15%; Predicts A \u201CVery Healthy\u201D Holiday Shopping Season $EBAY $AMZN http://t.co/zueit47i\u0022","lbl":"Positive"}
 ,{"time":"18:52","usr":"KStokowski","txt":"RT @StockTwits: \u0022@Zachlehner: comScore: Q3 Retail E-Commerce Up 15%; Predicts A \u201CVery Healthy\u201D Holiday Shopping Season $EBAY $AMZN http://t.co/zueit47i\u0022","lbl":"Positive"}
+,{"time":"18:52","usr":"rakeshlobster","txt":"How does Amazon locker work? Check out my hands-on experience. http://t.co/TuoucGY4 Another great product from $AMZN","lbl":"Neutral"}
 ]

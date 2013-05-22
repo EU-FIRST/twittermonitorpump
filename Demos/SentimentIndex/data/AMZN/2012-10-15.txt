@@ -1,14 +1,42 @@
 [
 {"time":"1:45","usr":"TheStreet","txt":"Can Amazon Keep Defying Gravity? http://t.co/snO5JNrB by @rsaintvilus $AMZN $AAPL $GOOG $WMT $MSFT","lbl":"Negative"}
+,{"time":"1:55","usr":"alexmerax","txt":"RT @SeekingAlpha: What An iPad Mini Really Means For PC Sales http://t.co/KkrY9z3X $AAPL $AMD $AMZN $GOOG $INTC $NVDA $MSFT","lbl":"Neutral"}
 ,{"time":"5:33","usr":"ParksRecGirl","txt":"RT @SAI: Amazon May Offer Kindle Customers Refunds On Purchased Books $AMZN http://t.co/vIvXCnND","lbl":"Positive"}
+,{"time":"5:37","usr":"TradersHuddle","txt":"Stock Futures Higher on Solid Chinese Export Data. Stocks to Watch: $AMD, $AMZN, $AAPL, $BAC, $C, $CLWR, $S, $TXN http://t.co/KRP33mgi","lbl":"Neutral"}
+,{"time":"5:40","usr":"IQ2020","txt":"RT @TradersHuddle: Stock Futures Higher on Solid Chinese Export Data. Stocks to Watch: $AMD, $AMZN, $AAPL, $BAC, $C, $CLWR, $S, $TXN http://t.co/KRP33mgi","lbl":"Neutral"}
+,{"time":"5:43","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $AMZN $MSFT $YHOO $AAPL $S http://t.co/kVtHEoit","lbl":"Neutral"}
+,{"time":"7:28","usr":"JimMitchell18","txt":"RT @MariaHalkias: http://t.co/ifiSQ38e may be buying the chip business of Dallas-based Texas Instruments $AMZN $TXN http://t.co/HQZWh8cd via @dallasnews","lbl":"Neutral"}
 ,{"time":"8:23","usr":"MichaelComeau","txt":"I am calling BS on $AMZN for $TXN chip biz rumor. $TXN OMAP is used in $BKS & Motorola products. They will NEVER buy chips from Amazon.","lbl":"Negative"}
 ,{"time":"8:26","usr":"DanielSharma","txt":"Retail sales above forecast. Let\u0027s now get into: $WMT, $TGT, $DOL, $MCD, $HD, $AMZN, $BNNY, $AAPL, $BAC","lbl":"Positive"}
 ,{"time":"8:50","usr":"thesandbum","txt":"Shorted $AMZN 241","lbl":"Negative"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"Netflix - The Good, The Bad, And The Opinions http://t.co/3GeJTsg7 $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"9:49","usr":"MaryKateClark","txt":"RT @SAI: 10 Things You Need To Know This Morning $AMZN $MSFT $YHOO $AAPL $S by @nichcarlson http://t.co/iQJXSTUb","lbl":"Neutral"}
+,{"time":"9:49","usr":"Taylor_Paige13","txt":"RT @dallasnews: RT @sheryljeandmn: Amazon is reportedly in talks to buy Texas Instruments\u0027 mobile chip business http://t.co/NWk8nnVT $AMZN $TXN","lbl":"Neutral"}
 ,{"time":"10:07","usr":"Lowtown21","txt":"This $AMZN beat down has been impressive.","lbl":"Negative"}
 ,{"time":"10:45","usr":"timtrice","txt":"$AMZN has tricks turning bearish flags into bullish reversals.","lbl":"Positive"}
+,{"time":"11:12","usr":"javiervegac","txt":"RT @wallstCS: Netflix: Here\u0027s Our Latest Great Move http://t.co/5aEfFwOt $NFLX $CSTR $AMZN $AAPL #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"11:12","usr":"traderstewie","txt":"now, all we need is $GOOG, AAPL and $AMZN to go green. is that too much to ask??! lol","lbl":"Neutral"}
 ,{"time":"11:43","usr":"CreateCapital","txt":"Maybe $WMT & $AMZN will merge to support their respective market value","lbl":"Negative"}
+,{"time":"12:59","usr":"McKinneyIns","txt":"RT @CNNMoney: RT @julpepitone: Amazon and Apple customers to get e-book credits after price-fixing lawsuit http://t.co/2pzFdtwo $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"12:59","usr":"nicholas_yee","txt":"$TXN in talks with $AMZN to buy chip segment, the one that\u0027s down 38.7% YOY and admitted they wanted to get rid of... http://t.co/FjYS35md","lbl":"Neutral"}
+,{"time":"13:00","usr":"WingGlobal","txt":"RT @StockTwits: Monday links: weak hands syndrome. http://t.co/sFPtU2bR via @abnormalreturns $VIX $S $AMZN $MSFT et al.","lbl":"Neutral"}
+,{"time":"13:26","usr":"RtrsTechquity","txt":"$AAPL could shine after next week\u0027s announcement, plus news on $GOOG, $AMZN on debut edition of Reuters Techquity: http://t.co/ELcVrClO","lbl":"Neutral"}
 ,{"time":"13:26","usr":"GSpeculator","txt":"Daytrade short $amzn 242.75 vs HOD","lbl":"Negative"}
 ,{"time":"13:27","usr":"adem_tahiri","txt":"@TMFJMo @IBDinvestors-Make sense 4 $AMZN to make this 1 move. But-I worry they\u0027re getting into way too many spaces,diwersification? -Lynch..","lbl":"Negative"}
+,{"time":"14:39","usr":"kevinbantz","txt":"$ERY, $IBM, $COST, $AAPL, $AMZN, $GOOG, $CHK, $INTC, $MSFT, $ZB_F, $ZS_F, $ZC_F, $ZW_F, $GC_C, $SI_F, $NG_F, $CL_F, $CMG","lbl":"Neutral"}
+,{"time":"14:40","usr":"iBizNews21","txt":"RT @CNNMoney: Amazon to buy TI\u0027s mobile chip business? Skeptics call \u0027BS\u0027 http://t.co/p8dtyj0J via @cnnmoneyinvest $TXN $AMZN","lbl":"Neutral"}
 ,{"time":"14:40","usr":"DeidreZune","txt":"Technicians will celebrate $AMZN red dog reversal. Me, I like $AAPL better into iPAD Mini which will eat Kindle Fire\u0027s lunch","lbl":"Negative"}
+,{"time":"15:06","usr":"BaconGawd","txt":"RT @SAI: Apple Hires An Amazon Exec To Fix Siri $AAPL $AMZN by @jyarow http://t.co/mOsQuONM","lbl":"Neutral"}
+,{"time":"15:07","usr":"Mattour","txt":"RT @SAI: Apple Hires An Amazon Exec To Fix Siri $AAPL $AMZN by @jyarow http://t.co/BBasEFjW","lbl":"Neutral"}
+,{"time":"15:07","usr":"tigrs99","txt":"RT @SAI: Apple Hires An Amazon Exec To Fix Siri $AAPL $AMZN by @jyarow http://t.co/mOsQuONM","lbl":"Neutral"}
+,{"time":"15:39","usr":"MartinObandoR","txt":"RT @SAI: Apple Hires An Amazon Exec To Fix Siri $AAPL $AMZN by @jyarow http://t.co/mOsQuONM","lbl":"Neutral"}
+,{"time":"15:42","usr":"wallstCS","txt":"Amazon: E-Book Refunds for Everyone! http://t.co/CDNtgd96 $AMZN $NWSA $CBS $PSO #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"15:42","usr":"ombra_lupo","txt":"RT @SAI: Meet The Man Now In Charge Of Siri: Bill Stasior $AAPL $AMZN $GOOG by @owenthomas http://t.co/HMDGXJvO","lbl":"Neutral"}
+,{"time":"16:36","usr":"wallstCS","txt":"Here\u0027s Apple\u0027s Latest Plan To Fix Siri http://t.co/GNwKbbvk $AAPL $AMZN $ORCL $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"17:19","usr":"nottora2","txt":"RT @businessinsider: Meet The Man Now In Charge Of Siri: Bill Stasior $AAPL $AMZN $GOOG by @owenthomas http://t.co/tBu9iSbT","lbl":"Neutral"}
+,{"time":"18:26","usr":"cschieken","txt":"@jimcramer should $amzn buy $nflx use the recommendations code to recommend products and $nflx server costs goto zero?","lbl":"Neutral"}
+,{"time":"19:46","usr":"hawkstv","txt":"\u201C@CNNMoney: Amazon & Apple will give e-book customers a credit as part of recent price-fixing settlement. http://t.co/DKIV5Plo $AAPL $AMZN\u201D","lbl":"Neutral"}
 ,{"time":"19:51","usr":"jojaifra_","txt":"RT @CNNMoney: Amazon & Apple will give e-book customers a credit as part of recent price-fixing settlement. http://t.co/MpMJLKlJ $AAPL $AMZN","lbl":"Positive"}
+,{"time":"22:40","usr":"TheStreet","txt":"3 Stocks I Saw on TV, October 15 $AMZN $BTU $WLT $KOL $GOOG $ANR $AAPL http://t.co/HWFZ2uKT by @DanFitzpatrick","lbl":"Neutral"}
+,{"time":"22:40","usr":"RealCrystalBall","txt":"3 Stocks I Saw on TV, October 15 $AMZN $BTU $WLT $KOL $GOOG $ANR $AAPL http://t.co/wl1KEi7O by @DanFitzpatrick #Stocks","lbl":"Neutral"}
 ]

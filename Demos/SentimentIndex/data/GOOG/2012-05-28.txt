@@ -1,8 +1,15 @@
 [
 {"time":"4:54","usr":"thefinancepress","txt":"$GOOG Google May Face Further UK Action After FCC Privacy Report: Google May Face Further UK Action After FCC P... http://t.co/XzpLsLhK","lbl":"Negative"}
+,{"time":"5:20","usr":"halifaxbroker","txt":"Top traded international #shares last week - Facebook $FB, Apple $AAPL, Kraft $KFT, Google $GOOG and Euro Disney $EDL","lbl":"Neutral"}
 ,{"time":"12:10","usr":"TheEquitiesRoom","txt":"Downside rangebreak short watchlist for tmrw: $LO $GOOG $OVTI $ACN $MENT","lbl":"Negative"}
+,{"time":"12:16","usr":"Sollievdl","txt":"RT @SJosephBurns: \u201CMany men have the \u0027courage of their opinions,\u0027 few the courage to abandon opinions.\u201D ~ Dickson G. Watts $AAPL $GOOG","lbl":"Neutral"}
 ,{"time":"15:08","usr":"MassiRonzitti","txt":"RT @TheStreet: Buy Apple and Google Wait On Facebook, Stay Away From Zynga - http://t.co/XEwPPjJi by @RobertWeinstein $AAPL $GOOG $ZNGA","lbl":"Positive"}
+,{"time":"15:10","usr":"USwwwStocks","txt":"$GOOG News: Counting Nokia Out Of The Smartphone Race Is Dangerous http://t.co/HFeDN33N #GOOG #Counting #Dangerous","lbl":"Neutral"}
+,{"time":"15:11","usr":"Qwovadis","txt":"Commented on: \u0022Understanding Risk In Internet Companies\u0022 http://t.co/4lzq1FwH $AMZN $EBAY $FB $LNKD $YHOO $ZNGA $GOOG","lbl":"Neutral"}
+,{"time":"18:11","usr":"iStockAnalyst","txt":"Has Facebook Topped? $GOOG $RIMM: Facebook has been trading publicly for a week and I\u2019m already calling a top. ... http://t.co/mUdHaBFq","lbl":"Neutral"}
 ,{"time":"18:22","usr":"MIS_Investors","txt":"We are bearish on $GOOG with the next downside target in the 570 area and pattern target to around 500 http://t.co/YcuguVqV","lbl":"Negative"}
+,{"time":"18:28","usr":"BigTicks","txt":"$GOOG News: Technicolor Dissects IPhones in Hunt for Patent Payoff http://t.co/0V5yiqtG #GOOG #Dissects #Hunt","lbl":"Neutral"}
+,{"time":"18:28","usr":"BigTicks","txt":"$GOOG News: Technicolor Dissects IPhones in Hunt for Patent Payoff http://t.co/XewFh8dS #GOOG #Dissects #Hunt","lbl":"Neutral"}
 ,{"time":"20:58","usr":"traderblast","txt":"$GOOG GOOG Chart-not looking great. No position. http://t.co/U9Dlc4g5 #WORDEN","lbl":"Negative"}
 ,{"time":"20:59","usr":"verryshery","txt":"The Terrifying Ways Google Is Destroying Your Privacy $goog http://t.co/6B3S6phZ","lbl":"Negative"}
 ,{"time":"21:02","usr":"itsmeamyme","txt":"The Terrifying Ways Google Is Destroying Your Privacy $goog http://t.co/Mkneydv7","lbl":"Negative"}

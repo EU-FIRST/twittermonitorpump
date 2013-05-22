@@ -1,4 +1,9 @@
 [
-{"time":"8:52","usr":"1X57","txt":"Amazon is a buy, $AMZN http://t.co/I7fbbeEx","lbl":"Positive"}
+{"time":"0:29","usr":"BigTicks","txt":"$AMZN News: Amazon shares up nearly 8 pct on profit hopes http://t.co/OqGxTYSq #Amazon #AMZN #Hopes","lbl":"Neutral"}
+,{"time":"8:52","usr":"1X57","txt":"Amazon is a buy, $AMZN http://t.co/I7fbbeEx","lbl":"Positive"}
+,{"time":"9:08","usr":"jpintobks","txt":"Commented on: \u0022Microsoft Surface, And Windows 8 Tablets In General, Will Be Compet... http://t.co/s9hUGzeY $MSFT $AAPL $AMZN $GOOG","lbl":"Neutral"}
 ,{"time":"13:58","usr":"FairOaksTrader","txt":"5 Longs: $TCBI $ALXN $BIIB $GLD $BUNL. 4 Shorts: oil via $SCO, Euro via $EUO, $SBUX and $AMZN.","lbl":"Negative"}
+,{"time":"16:24","usr":"ToddSullivan","txt":"RT @biggercapital: @microfundy here is the $MCD link http://t.co/kFSi1tQ9 $AMZN perspective","lbl":"Neutral"}
+,{"time":"16:37","usr":"CEP_Observer","txt":"@MicroFundy I follow $amzn only to see how what they do affects $UPS, $FDX and #USPS; All 3 have growth issues that are driving $amzn CapEx","lbl":"Neutral"}
+,{"time":"23:32","usr":"daviddayan68","txt":"RT @mercenaryjack: Interesting to compare real world impact of $AMZN / $GOOG to that of $FB, $ZNGA, $GRPN. Retail revolution / digital fiber vs... Farmville","lbl":"Neutral"}
 ]
