@@ -62,7 +62,7 @@ namespace TwitterMonitorPump
             Console.WriteLine("Loading basic sentiment model ...");
             using (BinarySerializer reader = new BinarySerializer(LUtils.GetManifestResourceStream(typeof(ISentimentClassifier), "BasicSentimentModel.bin")))
             {
-                mBasicModel = new BasicSentimentClassifier(reader);
+                mBasicModel = reader.ReadObject<ISentimentClassifier>();
             }
         }
 
