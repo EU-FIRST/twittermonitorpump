@@ -69,7 +69,7 @@ namespace TwitterMonitorDAL
             strRpl.AddReplacement("/*#NumTerms*/", maxNumTerms.ToString());
             StringReplacerAddFilterFlag(strRpl, (FilterFlag)filterFlag);
 
-            var sqlParams = new object[] { (int) filterFlag, dateTimeStart, dateTimeEnd };
+            var sqlParams = new object[] { entity, windowSize, (int)filterFlag, dateTimeStart, dateTimeEnd, maxNumTerms };
 
             List<SqlRow.WeightedTerm> weighetdTerms = DataProvider.GetDataWithReplace<SqlRow.WeightedTerm>("TagCloud.sql", strRpl, sqlParams);
 
@@ -94,7 +94,7 @@ namespace TwitterMonitorDAL
             strRpl.AddReplacement("/*#NumTopics*/", maxNumTopics.ToString());
             StringReplacerAddFilterFlag(strRpl, (FilterFlag)filterFlag);
 
-            var sqlParams = new object[] { (int)filterFlag, dateTimeStart, dateTimeEnd };
+            var sqlParams = new object[] { entity, windowSize, (int)filterFlag, dateTimeStart, dateTimeEnd, maxNumTopics, maxNumTermsPerTopic };
 
             List<SqlRow.TopicWeightedTerm> topicWeightedTerms = DataProvider.GetDataWithReplace<SqlRow.TopicWeightedTerm>("Topics.sql", strRpl, sqlParams);
 
@@ -140,7 +140,7 @@ namespace TwitterMonitorDAL
             strRpl.AddReplacement("/*#NumTopics*/", maxNumTopics.ToString());
             StringReplacerAddFilterFlag(strRpl, (FilterFlag)filterFlag);
 
-            var sqlParams = new object[] { (int)filterFlag, dateTimeStart, dateTimeEnd, (int) stepTimeSpan.TotalHours};
+            var sqlParams = new object[] { entity, windowSize, (int)filterFlag, dateTimeStart, dateTimeEnd, (int)stepTimeSpan.TotalHours, maxNumTopics, maxNumTermsPerTimeSlot };
             string sqlTopicsOverTime = maxNumTermsPerTimeSlot==0 ? "TopicsOverTime.sql" : "TopicsOverTimeDetail.sql";
 
             List<SqlRow.TopicTimeSlot> topicTimeSlots = DataProvider.GetDataWithReplace<SqlRow.TopicTimeSlot>(sqlTopicsOverTime, strRpl, sqlParams);
