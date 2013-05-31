@@ -146,11 +146,19 @@ namespace TwitterMonitorPump
                     {
                         using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
                         {
-                            Utils.AssignParamsToCommand(cmd, "EndTime", timeEnd, "TableId", TableId);
-                            cmd.CommandTimeout = Config.CommandTimeout;
-                            int rowsAffected = cmd.ExecuteNonQuery();
-                            tran.Commit();
-                            return rowsAffected;
+                            try
+                            {
+                                Utils.AssignParamsToCommand(cmd, "EndTime", timeEnd, "TableId", TableId);
+                                cmd.CommandTimeout = Config.CommandTimeout;
+                                int rowsAffected = cmd.ExecuteNonQuery();
+                                tran.Commit();
+                                return rowsAffected;
+                            }
+                            catch
+                            {
+                                tran.Rollback();
+                                throw;
+                            }
                         }
                     }
                 }

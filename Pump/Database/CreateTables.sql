@@ -32,7 +32,7 @@ CREATE TABLE [dbo].[Clusters](
 	[SentimentHandLabeledNeg] [int] NOT NULL,
 	[SentimentHandLabeledNeutral] [int] NOT NULL,
 	[RecordState] [int] NOT NULL
---	constraint UQ_Clusters unique (TableId, Id, RecordState) 
+	CONSTRAINT UQ_Clusters UNIQUE (TableId, Id, RecordState) WITH (ignore_dup_key = ON)
 ) ON [PRIMARY]
 
 GO
@@ -61,7 +61,7 @@ CREATE TABLE [dbo].[Terms](
 	[Stock] [bit] NOT NULL,
 	[NGram] [bit] NOT NULL,
 	[RecordState] [int] NOT NULL
---	constraint UQ_Terms unique (TableId, ClusterId, StemHash, RecordState)
+	CONSTRAINT UQ_Terms UNIQUE (TableId, ClusterId, StemHash, RecordState) WITH (ignore_dup_key = ON)
 ) ON [PRIMARY]
 
 GO
@@ -95,7 +95,7 @@ CREATE TABLE [dbo].[Tweets](
 	[Basic] [bit] NOT NULL,
 	[HandLabeled] [bit] NOT NULL,
 	[RecordState] [int] NOT NULL
---	constraint UQ_Tweets unique (TableId, ClusterId, TweetId, RecordState)
+	CONSTRAINT UQ_Tweets UNIQUE (TableId, TweetId, RecordState) WITH (ignore_dup_key = ON)
 ) ON [PRIMARY]
 
 GO
