@@ -166,20 +166,50 @@ namespace TwitterMonitorPump
             }
         }
 
-        public static void ExecSqlScript(string name, params object[] cmdParams)
+        public static int ExecSqlScript(string scope, string name, params object[] cmdParams)
         {
             string sqlTxt = LUtils.GetManifestResourceString(typeof(Program), name);
             sqlTxt = Regex.Replace(sqlTxt, "^GO", "", RegexOptions.Multiline);
-            using (SqlConnection connection = new SqlConnection(Config.OutputConnectionString))
+            while (true)
             {
-                connection.Open();
-                using (SqlCommand cmd = new SqlCommand(sqlTxt, connection))
+                try
                 {
-                    AssignParamsToCommand(cmd, cmdParams);
-                    cmd.CommandTimeout = Config.CommandTimeout;
-                    cmd.ExecuteNonQuery();
+                    using (SqlConnection connection = new SqlConnection(Config.OutputConnectionString))
+                    {
+                        connection.Open();
+                        using (SqlCommand cmd = new SqlCommand(sqlTxt, connection))
+                        {
+                            AssignParamsToCommand(cmd, cmdParams);
+                            cmd.CommandTimeout = Config.CommandTimeout;
+                            return cmd.ExecuteNonQuery();
+                        }
+                    }
+                }
+                catch (SqlException e)
+                {
+                    if (!e.Message.Contains("deadlock")) { throw e; } // not deadlock?
+                    if (scope != null) { Console.WriteLine("[{0}] *** Deadlock detected ({1}) ***", scope, name); }
+                    else { Console.WriteLine("*** Deadlock detected ({0}) ***", name); }
                 }
             }
-        }      
+        }
+
+        public static void WriteToServer(SqlBulkCopy bulkCopy, string scope, string tableName, DataTable table)
+        {
+            while (true)
+            {
+                try
+                {
+                    bulkCopy.DestinationTableName = tableName;
+                    bulkCopy.WriteToServer(table);
+                    return;
+                }
+                catch (SqlException e)
+                {
+                    if (!e.Message.Contains("deadlock")) { throw e; } // not deadlock?
+                    Console.WriteLine("[{0}] *** Deadlock detected ({1}) ***", scope, tableName);
+                }
+            }
+        }
     }
 }

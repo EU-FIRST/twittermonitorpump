@@ -135,20 +135,31 @@ namespace TwitterMonitorPump
             }
         }
 
-        private int SwitchRecordState(DateTime timeEnd, SqlConnection connection)
+        private int SwitchRecordState(string scope, DateTime timeEnd, SqlConnection connection)
         {
             string cmdTxt = LUtils.GetManifestResourceString(typeof(Program), "SwitchState.sql");
-            using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
+            while (true) 
             {
-                using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
+                try
                 {
-                    Utils.AssignParamsToCommand(cmd, "EndTime", timeEnd, "TableId", TableId);
-                    cmd.CommandTimeout = Config.CommandTimeout;
-                    int rowsAffected = cmd.ExecuteNonQuery();
-                    tran.Commit();
-                    return rowsAffected;
+                    using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
+                    {
+                        using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
+                        {
+                            Utils.AssignParamsToCommand(cmd, "EndTime", timeEnd, "TableId", TableId);
+                            cmd.CommandTimeout = Config.CommandTimeout;
+                            int rowsAffected = cmd.ExecuteNonQuery();
+                            tran.Commit();
+                            return rowsAffected;
+                        }
+                    }
                 }
-            }
+                catch (SqlException e)
+                {
+                    if (!e.Message.Contains("deadlock")) { throw e; } // not deadlock?
+                    Console.WriteLine("[{0}] *** Deadlock detected (SwitchState.sql) ***", scope);
+                }
+            } 
         }
 
         private void UpdateBowSpace(DateTime timeEnd, ArrayList<Tweet> tweets, out int numOutdated)
@@ -326,17 +337,14 @@ namespace TwitterMonitorPump
             using (SqlBulkCopy bulkCopy = new SqlBulkCopy(connection))
             {
                 bulkCopy.BulkCopyTimeout = Config.CommandTimeout;
-                bulkCopy.DestinationTableName = "Clusters";
-                bulkCopy.WriteToServer(clustersTable);
-                bulkCopy.DestinationTableName = "Terms";
-                bulkCopy.WriteToServer(termsTable);
-                bulkCopy.DestinationTableName = "Tweets";
-                bulkCopy.WriteToServer(tweetsTable);
+                Utils.WriteToServer(bulkCopy, Scope, "Clusters", clustersTable);
+                Utils.WriteToServer(bulkCopy, Scope, "Terms", termsTable);
+                Utils.WriteToServer(bulkCopy, Scope, "Tweets", tweetsTable);
             }
             if (state == 1)
             {
                 WriteLine("Switching record states ...");
-                SwitchRecordState(timeEnd, connection);
+                SwitchRecordState(Scope, timeEnd, connection);
             }
         }
     }

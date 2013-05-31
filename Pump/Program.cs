@@ -65,14 +65,14 @@ namespace TwitterMonitorPump
             if (task.Restart)
             {
                 task.WriteLine("Initializing ...");
-                Utils.ExecSqlScript("Initialize.sql", "TableId", task.TableId);
+                Utils.ExecSqlScript(task.Scope, "Initialize.sql", "TableId", task.TableId);
                 task.DeleteState();
             }
             else
             {
                 task.WriteLine("Resuming ...");
                 task.WriteLine("Executing cleanup ...");
-                Utils.ExecSqlScript("Cleanup.sql", "TableId", task.TableId);            
+                Utils.ExecSqlScript(task.Scope, "Cleanup.sql", "TableId", task.TableId);            
             }
             long lastId;
             task.InitState(out lastId);
@@ -181,7 +181,7 @@ namespace TwitterMonitorPump
             Console.ReadKey(/*intercept=*/true);
             Console.WriteLine();
             Task.Initialize(); // loads sentiment model
-            Utils.ExecSqlScript("CreateTables.sql");
+            Utils.ExecSqlScript(/*scope=*/null, "CreateTables.sql");
             int windowSizeMinutes = Config.WindowSizeDays * 1440;
             using (StreamReader tasksReader = new StreamReader(Config.TasksFileName))
             {
