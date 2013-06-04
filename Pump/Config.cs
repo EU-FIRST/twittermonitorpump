@@ -29,6 +29,8 @@ namespace TwitterMonitorPump
             = TimeSpan.Parse(LUtils.GetConfigValue("SaveStateTimeDiff", "10:00:00"));
         public static readonly int CommandTimeout
             = Convert.ToInt32(LUtils.GetConfigValue("CommandTimeout", "0"));
+        public static readonly int BulkCopyBatchSize
+            = Convert.ToInt32(LUtils.GetConfigValue("BulkCopyBatchSize", "0"));
         public static readonly string InputConnectionString
             = LUtils.GetConfigValue("InputConnectionString");
         public static readonly string OutputConnectionString

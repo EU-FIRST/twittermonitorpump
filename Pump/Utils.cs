@@ -15,8 +15,6 @@ using System.Linq;
 using System.Data.SqlClient;
 using System.Text.RegularExpressions;
 using System.Data;
-using System.Reflection;
-using System.Globalization;
 using System.Collections.Generic;
 using Latino;
 using Latino.TextMining;
@@ -145,69 +143,18 @@ namespace TwitterMonitorPump
             return table;
         }
 
-        public static T Cast<T>(object obj)
-        {
-            if (obj is DBNull) { return default(T); }
-            return (T)obj;
-        }
-
-        public static T GetVal<T>(SqlDataReader reader, string colName)
-        {
-            return Cast<T>(reader.GetValue(reader.GetOrdinal(colName)));
-        }
-
-        public static void AssignParamsToCommand(SqlCommand command, params object[] args)
-        {
-            for (int i = 0; i < args.Length; i += 2)
-            {
-                object val = args[i + 1];
-                SqlParameter param = new SqlParameter((string)args[i], val == null ? DBNull.Value : val);
-                command.Parameters.Add(param);
-            }
-        }
-
         public static int ExecSqlScript(string scope, string name, params object[] cmdParams)
         {
-            string sqlTxt = LUtils.GetManifestResourceString(typeof(Program), name);
+            string sqlTxt = LUtils.GetManifestResourceString(typeof(Utils), name);
             sqlTxt = Regex.Replace(sqlTxt, "^GO", "", RegexOptions.Multiline);
-            while (true)
+            using (SqlConnection connection = new SqlConnection(Config.OutputConnectionString))
             {
-                try
+                connection.Open();
+                using (SqlCommand cmd = new SqlCommand(sqlTxt, connection))
                 {
-                    using (SqlConnection connection = new SqlConnection(Config.OutputConnectionString))
-                    {
-                        connection.Open();
-                        using (SqlCommand cmd = new SqlCommand(sqlTxt, connection))
-                        {
-                            AssignParamsToCommand(cmd, cmdParams);
-                            cmd.CommandTimeout = Config.CommandTimeout;
-                            return cmd.ExecuteNonQuery();
-                        }
-                    }
-                }
-                catch (SqlException e)
-                {
-                    if (!e.Message.Contains("deadlock")) { throw e; } // not deadlock?
-                    if (scope != null) { Console.WriteLine("[{0}] *** Deadlock detected ({1}) ***", scope, name); }
-                    else { Console.WriteLine("*** Deadlock detected ({0}) ***", name); }
-                }
-            }
-        }
-
-        public static void WriteToServer(SqlBulkCopy bulkCopy, string scope, string tableName, DataTable table)
-        {
-            while (true)
-            {
-                try
-                {
-                    bulkCopy.DestinationTableName = tableName;
-                    bulkCopy.WriteToServer(table);
-                    return;
-                }
-                catch (SqlException e)
-                {
-                    if (!e.Message.Contains("deadlock")) { throw e; } // not deadlock?
-                    Console.WriteLine("[{0}] *** Deadlock detected ({1}) ***", scope, tableName);
+                    cmd.AssignParams(cmdParams);
+                    cmd.CommandTimeout = Config.CommandTimeout;
+                    return cmd.ExecuteNonQueryRetryOnDeadlock(Logger.GetLogger(scope));
                 }
             }
         }

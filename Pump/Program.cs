@@ -89,15 +89,15 @@ namespace TwitterMonitorPump
                     using (SqlCommand cmd = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Read.sql"), input))
                     {
                         cmd.CommandTimeout = Config.CommandTimeout;
-                        Utils.AssignParamsToCommand(cmd, "Id", lastId, "IdStr", task.Scope, "MinTweetTimestamp", Config.MinTweetTimestamp); 
+                        cmd.AssignParams("Id", lastId, "IdStr", task.Scope, "MinTweetTimestamp", Config.MinTweetTimestamp); 
                         SqlDataReader reader = cmd.ExecuteReader();
                         task.WriteLine("Executed SQL reader. Reading data ...");
                         while (reader.Read())
                         {
-                            long id = Utils.GetVal<long>(reader, "Id");
-                            string text = Utils.GetVal<string>(reader, "Text");
+                            long id = reader.GetValue<long>("Id");
+                            string text = reader.GetValue<string>("Text");
                             text = HttpUtility.HtmlDecode(Utils.RemoveUrls(text)); // prepare tweet text                            
-                            DateTime timeStamp = Utils.GetVal<DateTime>(reader, "CreatedAt");
+                            DateTime timeStamp = reader.GetValue<DateTime>("CreatedAt");
                             DateTime tmpTimeStart, tmpTimeEnd;
                             GetTimeSlot(timeStamp, task.StepSizeMinutes, out tmpTimeStart, out tmpTimeEnd);
                             if (tmpTimeStart != timeStart && timeStart != DateTime.MinValue)

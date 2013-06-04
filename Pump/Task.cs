@@ -138,36 +138,27 @@ namespace TwitterMonitorPump
         private int SwitchRecordState(string scope, DateTime timeEnd, SqlConnection connection)
         {
             string cmdTxt = LUtils.GetManifestResourceString(typeof(Program), "SwitchState.sql");
-            while (true) 
-            {
-                try
+            return (int)LUtils.RetryOnDeadlock(delegate() {
+                using (SqlTransaction tran = connection.BeginTransaction()) // default isolation level (READ COMMITTED)
                 {
-                    using (SqlTransaction tran = connection.BeginTransaction(IsolationLevel.ReadCommitted))
+                    using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
                     {
-                        using (SqlCommand cmd = new SqlCommand(cmdTxt, connection, tran))
+                        try
                         {
-                            try
-                            {
-                                Utils.AssignParamsToCommand(cmd, "EndTime", timeEnd, "TableId", TableId);
-                                cmd.CommandTimeout = Config.CommandTimeout;
-                                int rowsAffected = cmd.ExecuteNonQuery();
-                                tran.Commit();
-                                return rowsAffected;
-                            }
-                            catch
-                            {
-                                tran.Rollback();
-                                throw;
-                            }
+                            cmd.AssignParams("EndTime", timeEnd, "TableId", TableId);
+                            cmd.CommandTimeout = Config.CommandTimeout;
+                            int rowsAffected = cmd.ExecuteNonQuery();
+                            tran.Commit();
+                            return rowsAffected;
+                        }
+                        catch
+                        {
+                            tran.Rollback();
+                            throw;
                         }
                     }
                 }
-                catch (SqlException e)
-                {
-                    if (!e.Message.Contains("deadlock")) { throw e; } // not deadlock?
-                    Console.WriteLine("[{0}] *** Deadlock detected (SwitchState.sql) ***", scope);
-                }
-            } 
+            }, Logger.GetLogger(scope));
         }
 
         private void UpdateBowSpace(DateTime timeEnd, ArrayList<Tweet> tweets, out int numOutdated)
@@ -222,9 +213,13 @@ namespace TwitterMonitorPump
             // check if time period already in DB and change state to 1
             using (SqlCommand checkExists = new SqlCommand(LUtils.GetManifestResourceString(typeof(Program), "Check.sql"), connection))
             {
-                Utils.AssignParamsToCommand(checkExists, "EndTime", timeEnd, "TableId", TableId);
+                checkExists.AssignParams("EndTime", timeEnd, "TableId", TableId);
                 checkExists.CommandTimeout = Config.CommandTimeout;
-                if (checkExists.ExecuteScalar() != null) { state = 1; WriteLine("Record state set to 1."); }
+                if (checkExists.ExecuteScalarRetryOnDeadlock(Logger.GetLogger(Scope)) != null) 
+                { 
+                    state = 1; 
+                    WriteLine("Record state set to 1."); 
+                }
             }
             // create topic-specific centroids
             int minIdx = bowSpc.Count - tweets.Count;
@@ -345,9 +340,13 @@ namespace TwitterMonitorPump
             using (SqlBulkCopy bulkCopy = new SqlBulkCopy(connection))
             {
                 bulkCopy.BulkCopyTimeout = Config.CommandTimeout;
-                Utils.WriteToServer(bulkCopy, Scope, "Clusters", clustersTable);
-                Utils.WriteToServer(bulkCopy, Scope, "Terms", termsTable);
-                Utils.WriteToServer(bulkCopy, Scope, "Tweets", tweetsTable);
+                bulkCopy.BatchSize = Config.BulkCopyBatchSize;
+                bulkCopy.DestinationTableName = "Clusters";
+                bulkCopy.WriteToServerRetryOnDeadlock(clustersTable, Logger.GetLogger(Scope));
+                bulkCopy.DestinationTableName = "Terms";
+                bulkCopy.WriteToServerRetryOnDeadlock(termsTable, Logger.GetLogger(Scope));
+                bulkCopy.DestinationTableName = "Tweets";
+                bulkCopy.WriteToServerRetryOnDeadlock(tweetsTable, Logger.GetLogger(Scope));
             }
             if (state == 1)
             {
