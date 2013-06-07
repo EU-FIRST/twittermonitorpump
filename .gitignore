@@ -13,3 +13,5 @@ classes/
 *.properties
 *.iml
 /DAL/TwitterMonitorDAL/Web.config
+Demos/SentimentIndex/cmn/*
+*.bak
