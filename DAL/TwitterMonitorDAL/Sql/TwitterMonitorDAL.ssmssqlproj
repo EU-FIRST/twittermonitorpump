@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TwitterMonitorDAL">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="HAWK:Hawk\Matjaz">
+          <Created>2013-06-22T07:22:41.8666759+02:00</Created>
+          <Type>SQL</Type>
+          <Server>HAWK</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="DaySentimentClasses.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HAWK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HAWK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DaySentimentClasses.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DayVolumeSentiment.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HAWK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HAWK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DayVolumeSentiment.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Entity.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HAWK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HAWK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Entity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EntityDetail.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HAWK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HAWK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EntityDetail.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EntityDetailNew.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HAWK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HAWK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EntityDetailNew.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GetTweetsSentiment.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HAWK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HAWK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>GetTweetsSentiment.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SentimentTimeline.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HAWK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HAWK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SentimentTimeline.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
