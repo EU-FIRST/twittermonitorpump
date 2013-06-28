@@ -65,6 +65,10 @@
     <Content Include="Global.asax" />
     <EmbeddedResource Include="Sql\SentimentTimeline.sql" />
     <EmbeddedResource Include="Sql\GetTweetsSentiment.sql" />
+    <EmbeddedResource Include="Sql\DaySentimentClasses.sql" />
+    <EmbeddedResource Include="Sql\Entity.sql" />
+    <EmbeddedResource Include="Sql\EntityDetailNew.sql" />
+    <EmbeddedResource Include="Sql\DayVolumeSentiment.sql" />
     <Content Include="TwitterMonitor.svc" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>

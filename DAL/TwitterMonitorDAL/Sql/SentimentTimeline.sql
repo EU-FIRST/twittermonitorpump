@@ -1,7 +1,7 @@
-﻿/*REM*/ DECLARE @entity VARCHAR(max) = 'BAC'
+﻿/*REM*/ DECLARE @entity VARCHAR(max) = 'MSFT'
 /*REM*/ DECLARE @windowSize VARCHAR(max) = 'W'
-/*REM*/ DECLARE @dateTimeStart DATE = '2011-12-01'
-/*REM*/ DECLARE @dateTimeEnd DATE = '2011-12-30'
+/*REM*/ DECLARE @dateTimeStart DATE = '2013-05-01'
+/*REM*/ DECLARE @dateTimeEnd DATE = '2013-07-01'
 --ADD DECLARE @entity VARCHAR(MAX) = {0}
 --ADD DECLARE @windowSize VARCHAR(MAX) = {1} 
 --ADD DECLARE @dateTimeStart DATETIME = {2} 

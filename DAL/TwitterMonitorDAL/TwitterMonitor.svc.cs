@@ -18,11 +18,24 @@ using Latino.Visualization;
 
 namespace TwitterMonitorDAL
 {
+    public enum Aggregate
+    {
+        Day,
+        MA,
+        Avg
+    }
+    public enum DataType
+    {
+        Sentiment
+    }
+
     [ServiceContract]
     [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Allowed)]
-    [JavascriptCallbackBehavior(UrlParameterName = "jsonp")]
     public class TwitterMonitor
     {
+
+        //******************************************************************************************
+
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
         public List<EntityInfo> AllEntities()
@@ -37,11 +50,11 @@ namespace TwitterMonitorDAL
                 Entity = dd.Entity,
                 WindowSize = dd.WindowSize
             }).ToList();
-        }
+        } 
 
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public EntityInfoDetail EntityDetail(string entity, string windowSize)
+        public EntityInfoDetail EntityDetailOld(string entity, string windowSize)
         {
             windowSize = ParameterChecker.WindowSize(windowSize);
             entity = ParameterChecker.Entity(entity, windowSize);
@@ -362,49 +375,13 @@ namespace TwitterMonitorDAL
 
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public List<StockInfo> AllStocks()
-        {
-            StringReplacer strRpl = StringReplacerGetDefaultBasic();
-            var sqlParams = new object[] { };
-
-            List<SqlRow.EntityInfoDetail> dataDescription = DataProvider.GetDataWithReplace<SqlRow.EntityInfoDetail>("AllEntities.sql", strRpl, sqlParams);
-
-            return dataDescription.Select(dd => new StockInfo()
-            {
-                Stock = dd.Entity,
-            }).ToList();
-        }
-
-        [OperationContract]
-        [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public StockInfoDetail StockDetail(string stock)
+        public List<SentimentTimelineDay> GetSentimentTimeline(string stock, DateTime from, DateTime to, DateTime date, int days)
         {
             string entity = ParameterChecker.Stock(stock);
             string windowSize = ParameterChecker.FirstWindowSize(entity);
             entity = ParameterChecker.Entity(entity, windowSize);
 
-            StringReplacer strRpl = StringReplacerGetDefaultBasic();
-            var sqlParams = new object[] { entity, windowSize };
-
-            List<SqlRow.EntityInfoDetail> dataDescription = DataProvider.GetDataWithReplace<SqlRow.EntityInfoDetail>("EntityDetail.sql", strRpl, sqlParams);
-
-            return dataDescription.Select(dd => new StockInfoDetail()
-            {
-                Stock = dd.Entity,
-                StartTimeDate = dd.StartTime,
-                EndTimeDate = dd.EndTime,
-            }).FirstOrDefault();
-        }
-
-        [OperationContract]
-        [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public List<SentimentTimelineDay> GetSentimentTimeline(string stock, DateTime @from, DateTime to, DateTime date, int days)
-        {
-            string entity = ParameterChecker.Stock(stock);
-            string windowSize = ParameterChecker.FirstWindowSize(entity);
-            entity = ParameterChecker.Entity(entity, windowSize);
-
-            @from = ParameterChecker.DateRoundToDayLeaveMin(@from);
+            from = ParameterChecker.DateRoundToDayLeaveMin(from);
             to = ParameterChecker.DateRoundToDayLeaveMin(to);
             date = ParameterChecker.DateRoundToDayLeaveMin(date);
             days = ParameterChecker.StrictlyPositiveNumber(days, 0);
@@ -412,18 +389,18 @@ namespace TwitterMonitorDAL
             StringReplacer strRpl = StringReplacerGetDefaultBasic();
 
             // first type of invocation (from & to), nothing to be done
-            if (@from != DateTime.MinValue && to != DateTime.MinValue) {} 
+            if (from != DateTime.MinValue && to != DateTime.MinValue) {} 
                 // second type of invocation (days)
             else if (days > 0)
             {
                 to = ParameterChecker.DateRoundToDayLeaveMin(DateTime.Now);
-                @from = to - new TimeSpan(days-1, 0, 0, 0);
+                from = to - new TimeSpan(days-1, 0, 0, 0);
             }
                 // third type of invocation (date)
             else if (date != DateTime.MinValue)
             {
                 to = ParameterChecker.DateRoundToDayLeaveMin(date);
-                @from = to;
+                from = to;
             } 
                 // else throw exception
             else
@@ -434,7 +411,7 @@ namespace TwitterMonitorDAL
                     );
             }
 
-            var sqlParams = new object[] {entity, windowSize, @from, to };
+            var sqlParams = new object[] {entity, windowSize, from, to };
 
             List<SqlRow.SentimentTimelineDay> sentimentTS = DataProvider.GetDataWithReplace<SqlRow.SentimentTimelineDay>("SentimentTimeline.sql", strRpl, sqlParams);
 
@@ -444,13 +421,13 @@ namespace TwitterMonitorDAL
             Dictionary<DateTime, SqlRow.SentimentTimelineDay> sentimentTSDict = sentimentTS.ToDictionary(sd => sd.Date);
 
             DateTime actualTo = sentimentTS.Max(sd => sd.Date);
-            int daySpan = (int)Math.Round((actualTo - @from).TotalDays);
+            int daySpan = (int)Math.Round((actualTo - from).TotalDays);
 
             return Enumerable
                 .Range(0, daySpan + 1)
                 .Select(dateId =>
                 {
-                    DateTime dayDate = @from.AddDays(dateId);
+                    DateTime dayDate = from.AddDays(dateId);
                     SentimentData data;
                     if (sentimentTSDict.ContainsKey(dayDate))
                     {
@@ -478,13 +455,13 @@ namespace TwitterMonitorDAL
 
         [OperationContract]
         [WebGet(ResponseFormat = WebMessageFormat.Json)]
-        public List<TweetSentiment> GetTweets(string stock, DateTime @from, DateTime to, DateTime date, int days)
+        public List<TweetSentiment> GetTweets(string stock, DateTime from, DateTime to, DateTime date, int days)
         {
             string entity = ParameterChecker.Stock(stock);
             string windowSize = ParameterChecker.FirstWindowSize(entity);
             entity = ParameterChecker.Entity(entity, windowSize);
 
-            @from = ParameterChecker.DateRoundToDayLeaveMin(@from);
+            from = ParameterChecker.DateRoundToDayLeaveMin(from);
             to = ParameterChecker.DateRoundToDayLeaveMin(to);
             date = ParameterChecker.DateRoundToDayLeaveMin(date);
             days = ParameterChecker.StrictlyPositiveNumber(days, 0);
@@ -492,9 +469,9 @@ namespace TwitterMonitorDAL
             StringReplacer strRpl = StringReplacerGetDefaultBasic();
 
             // first type of invocation (from & to), nothing to be done
-            if (@from != DateTime.MinValue && to != DateTime.MinValue)
+            if (from != DateTime.MinValue && to != DateTime.MinValue)
             {
-                if (@from != to)
+                if (from != to)
                     throw new WebFaultException<string>(
                         string.Format("Currently, max allowed time span for twitter retrieval is one day - meaning that 'from' and 'to' parameters must point to the same date!"),
                         HttpStatusCode.NotAcceptable);
@@ -508,13 +485,13 @@ namespace TwitterMonitorDAL
                         HttpStatusCode.NotAcceptable);
 
                 to = ParameterChecker.DateRoundToDayLeaveMin(DateTime.Now);
-                @from = to - new TimeSpan(days - 1, 0, 0, 0);
+                from = to - new TimeSpan(days - 1, 0, 0, 0);
             }
                 // third type of invocation (date)
             else if (date != DateTime.MinValue)
             {
                 to = ParameterChecker.DateRoundToDayLeaveMin(date);
-                @from = to;
+                from = to;
             }
                 // else throw exception
             else
@@ -525,7 +502,7 @@ namespace TwitterMonitorDAL
                     );
             }
 
-            var sqlParams = new object[] { entity, windowSize, @from, to };
+            var sqlParams = new object[] { entity, windowSize, from, to };
 
             List<SqlRow.TweetSentiment> sentiTweets = DataProvider.GetDataWithReplace<SqlRow.TweetSentiment>("GetTweetsSentiment.sql", strRpl, sqlParams);
 
@@ -540,9 +517,9 @@ namespace TwitterMonitorDAL
 
         [OperationContract]
         [WebGet]
-        public Stream DisplayTweets(string stock, DateTime @from, DateTime to, DateTime date, int days, string css)
+        public Stream DisplayTweets(string stock, DateTime from, DateTime to, DateTime date, int days, string css)
         {
-            List<TweetSentiment> tweets = GetTweets(stock, @from, to, date, days);
+            List<TweetSentiment> tweets = GetTweets(stock, from, to, date, days);
 
             string html = @"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
             <html xmlns=""http://www.w3.org/1999/xhtml"">
@@ -625,6 +602,418 @@ namespace TwitterMonitorDAL
             return new MemoryStream(Encoding.UTF8.GetBytes(finalHtml));
         }
 
+        //************* Common API ********************************************************************
+
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public List<Entity> FindEntity(string query)
+        {
+            StringReplacer strRpl = StringReplacerGetDefaultBasic();
+            StringReplacerCommentNamedRemove(strRpl, "uri");
+            var sqlParams = new object[] { Guid.Empty, query };
+            
+            List<SqlRow.Entity> entities = DataProvider.GetDataWithReplace<SqlRow.Entity>("Entity.sql", strRpl, sqlParams);
+
+            return entities
+                .Select(ent => new Entity
+                {
+                    Id = ent.EntityUri,
+                    Description = ent.EntityLabel,
+                    Features = ent.Features
+                })
+                .ToList();
+        }
+
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public List<EntityDetail> EntityDetail(string entity)
+        {
+            if (string.IsNullOrWhiteSpace(entity)) return new List<EntityDetail>();
+
+            StringReplacer strRpl = StringReplacerGetDefaultBasic();
+            Guid entityGuid = ParameterChecker.EntityGuid(entity);
+
+            var sqlParams = new object[] { entityGuid.ToString() };
+
+            List<SqlRow.Entity> volumeTimeSeries = DataProvider.GetDataWithReplace<SqlRow.Entity>("EntityDetailNew.sql", strRpl, sqlParams);
+
+            return volumeTimeSeries.Select(d => new EntityDetail()
+            {
+                Id = d.EntityUri,
+                Description = d.EntityLabel,
+                NumDocuments = d.NumDocuments,
+                NumOccurrences = d.NumOccurrences,
+                DataStartTimeDate = d.DataStartTime ?? DateTime.MinValue,
+                DataEndTimeDate = d.DataEndTime ?? DateTime.MinValue,
+                Features = d.Features
+            }).ToList();
+
+        }
+
+        // ************ Common functions *******************
+
+        private static TDayData[] FillMissingDates<TSqlRowType, TDayData>(DateTime from, int days, IEnumerable<TSqlRowType> volumeTimeSeries, Func<TSqlRowType, TDayData> createFromExisting, Func<TSqlRowType, DateTime> date)
+            where TDayData : DayData, new()
+        {
+            // important: imput 0 values if they are absent for specific days !!!!!
+            List<TSqlRowType> volumeTimeSeriesOrdered = volumeTimeSeries.OrderBy(date).ToList();
+
+            int j = 0;
+            TDayData[] returnArray = new TDayData[days];
+            for (int i = 0; i < days; i++)
+            {
+                if (j < volumeTimeSeriesOrdered.Count && date(volumeTimeSeriesOrdered[j]) == from.AddDays(i).Date)
+                {
+                    returnArray[i] = createFromExisting(volumeTimeSeriesOrdered[j]);
+                    j++;
+                }
+                else
+                {
+                    returnArray[i] = new TDayData() { DateDate = from.AddDays(i) };
+                }
+            }
+            return returnArray;
+        }
+
+        // ************ Volume *******************
+
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public List<DayVolume> Volume(string entity, DateTime from, DateTime to, int days, string data, string aggregate, int maWindow)
+        {
+            if (string.IsNullOrWhiteSpace(entity)) return new List<DayVolume>();
+
+            Guid entityGuid = ParameterChecker.EntityGuid(entity);
+            ParameterChecker.TimeSpan(ref from, ref to, ref days);
+            DataType dataEnum = ParameterChecker.DataType(data, DataType.Sentiment);
+            Aggregate aggEnum = ParameterChecker.Aggregate(aggregate, Aggregate.Day);
+            maWindow = ParameterChecker.StrictlyPositiveNumber(maWindow, 0);
+            if (aggEnum == Aggregate.MA)
+            {
+                to = to.AddDays(maWindow);
+                days += maWindow;
+            }
+
+            List<DayVolume> returnArray = GetVolume(entityGuid.ToString(), from, to, days);
+            switch (aggEnum)
+            {
+                case Aggregate.Day:
+                    return returnArray;
+                case Aggregate.MA:
+                    return GetVolumeMovingAvg(returnArray, maWindow);
+                case Aggregate.Avg:
+                    return GetVolumeAvg(returnArray);
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
+
+        }
+
+        private List<DayVolume> GetVolume(string entity, DateTime from, DateTime to, int days)
+        {
+            StringReplacer strRpl = StringReplacerGetDefaultBasic();
+            var sqlParams = new object[] { entity, from, to, days, 0 };
+            List<SqlRow.DayVolume> volumeTimeSeries = DataProvider.GetDataWithReplace<SqlRow.DayVolume>("DayVolumeSentiment.sql", strRpl, sqlParams);
+
+            var returnArray = FillMissingDates(from, days, volumeTimeSeries, dv => new DayVolume() { DateDate = dv.Date, Volume = dv.Volume }, dv => dv.Date);
+            return returnArray.ToList();
+        }
+        public List<DayVolume> GetVolumeMovingAvg(List<DayVolume> ds, int maWindow)
+        {
+            int period = ds.Count - maWindow - 1;  // number of days between dateEnd and dateStart 
+
+            List<DayVolume> result = new List<DayVolume>();
+            for (int i = maWindow - 1; i < period + 1; i++)
+            {
+                double avg = 0;
+                for (int j = 0; j < maWindow; j++)
+                {
+                    avg = avg + ds[i - j].Volume;
+                }
+                avg = avg / maWindow;
+
+                DayVolume avgds = new DayVolume { DateDate = ds[i].DateDate, Volume = avg };
+                result.Add(avgds);
+            }
+
+            return result;
+        }
+        public List<DayVolume> GetVolumeAvg(List<DayVolume> ds)
+        {
+            return new List<DayVolume>(new[]
+                {
+                    new DayVolume
+                        {
+                            DateDate = ds.Min(d => d.DateDate),
+                            Volume = ds.Average(d => d.Volume)
+                        }
+                });
+        }
+
+        // ************ Index *******************
+
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public List<DayIndex> Index(string entity, DateTime from, DateTime to, int days, string data, string aggregate, int maWindow, bool normalize)
+        {
+            if (string.IsNullOrWhiteSpace(entity)) return new List<DayIndex>();
+
+            Guid entityGuid = ParameterChecker.EntityGuid(entity);
+            ParameterChecker.TimeSpan(ref from, ref to, ref days);
+            DataType dataEnum = ParameterChecker.DataType(data, DataType.Sentiment);
+            Aggregate aggEnum = ParameterChecker.Aggregate(aggregate, Aggregate.Day);
+            maWindow = ParameterChecker.StrictlyPositiveNumber(maWindow, 0);
+            if (aggEnum == Aggregate.MA)
+            {
+                to = to.AddDays(maWindow);
+                days += maWindow;
+            }
+
+            List<DayIndex> returnArray = GetIndex(entityGuid.ToString(), from, to, days, dataEnum, normalize);
+            switch (aggEnum)
+            {
+                case Aggregate.Day:
+                    return returnArray;
+                case Aggregate.MA:
+                    return GetIndexMovingAvg(returnArray, maWindow);
+                case Aggregate.Avg:
+                    return GetIndexAvg(returnArray);
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
+
+        }
+
+        private List<DayIndex> GetIndex(string entity, DateTime from, DateTime to, int days, DataType dataType, bool normalize)
+        {
+            StringReplacer strRpl = StringReplacerGetDefaultBasic();
+            var sqlParams = new object[] { entity, from, to, days, normalize };
+            List<SqlRow.DayIndex> indexTimeSeries = DataProvider.GetDataWithReplace<SqlRow.DayIndex>("DayVolumeSentiment.sql", strRpl, sqlParams);
+
+            var returnArray = FillMissingDates(from, days, indexTimeSeries, dv => new DayIndex() { DateDate = dv.Date, Index = dv.Index }, dv => dv.Date);
+            if (normalize)
+                foreach (DayIndex di in returnArray)
+                {
+                    if (di.Index > 1) di.Index = 1;
+                    if (di.Index < -1) di.Index = -1;
+                }
+            return returnArray.ToList();
+        }
+        public List<DayIndex> GetIndexMovingAvg(List<DayIndex> ds, int maWindow)
+        {
+            int period = ds.Count - maWindow - 1;  // number of days between dateEnd and dateStart 
+
+            List<DayIndex> result = new List<DayIndex>();
+            for (int i = maWindow - 1; i < period + 1; i++)
+            {
+                double avg = 0;
+                for (int j = 0; j < maWindow; j++)
+                {
+                    avg = avg + ds[i - j].Index;
+                }
+                avg = avg / maWindow;
+
+                DayIndex avgds = new DayIndex { DateDate = ds[i].DateDate, Index = avg };
+                result.Add(avgds);
+            }
+
+            return result;
+        }
+        public List<DayIndex> GetIndexAvg(List<DayIndex> ds)
+        {
+            return new List<DayIndex>(new[]
+                {
+                    new DayIndex
+                        {
+                            DateDate = ds.Min(d => d.DateDate),
+                            Index = ds.Average(d => d.Index)
+                        }
+                });
+        }
+
+        // ************ VolumeAndIndex *******************
+
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public List<DayVolumeIndex> VolumeAndIndex(string entity, DateTime from, DateTime to, int days, string data, string aggregate, int maWindow, bool normalize)
+        {
+            if (string.IsNullOrWhiteSpace(entity)) return new List<DayVolumeIndex>();
+
+            Guid entityGuid = ParameterChecker.EntityGuid(entity);
+            ParameterChecker.TimeSpan(ref from, ref to, ref days);
+            DataType dataEnum = ParameterChecker.DataType(data, DataType.Sentiment);
+            Aggregate aggEnum = ParameterChecker.Aggregate(aggregate, Aggregate.Day);
+            maWindow = ParameterChecker.StrictlyPositiveNumber(maWindow, 0);
+            if (aggEnum == Aggregate.MA)
+            {
+                to = to.AddDays(maWindow);
+                days += maWindow;
+            }
+
+            List<DayVolumeIndex> returnArray = GetVolumeIndex(entityGuid.ToString(), from, to, days, dataEnum, normalize);
+            switch (aggEnum)
+            {
+                case Aggregate.Day:
+                    return returnArray;
+                case Aggregate.MA:
+                    return GetVolumeIndexMovingAvg(returnArray, maWindow);
+                case Aggregate.Avg:
+                    return GetVolumeIndexAvg(returnArray);
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
+        }
+
+        private List<DayVolumeIndex> GetVolumeIndex(string entity, DateTime from, DateTime to, int days, DataType dataType, bool normalize)
+        {
+            StringReplacer strRpl = StringReplacerGetDefaultBasic();
+            var sqlParams = new object[] { entity, from, to, days, normalize };
+            List<SqlRow.DayVolumeIndex> volumeIndexTimeSeries = DataProvider.GetDataWithReplace<SqlRow.DayVolumeIndex>("DayVolumeSentiment.sql", strRpl, sqlParams);
+
+            var returnArray = FillMissingDates(
+                from, 
+                days, 
+                volumeIndexTimeSeries,
+                dv => new DayVolumeIndex()
+                {
+                    DateDate = dv.Date,
+                    Volume = dv.Volume,
+                    Index = dv.Index
+                },
+                dv => dv.Date);
+            if (normalize)
+                foreach (DayVolumeIndex di in returnArray)
+                {
+                    if (di.Index > 1) di.Index = 1;
+                    if (di.Index < -1) di.Index = -1;
+                }
+
+            return returnArray.ToList();
+
+        }
+        public List<DayVolumeIndex> GetVolumeIndexMovingAvg(List<DayVolumeIndex> ds, int maWindow)
+        {
+            int period = ds.Count - maWindow - 1;  // number of days between dateEnd and dateStart 
+
+            List<DayVolumeIndex> result = new List<DayVolumeIndex>();
+            for (int i = maWindow - 1; i < period + 1; i++)
+            {
+                DayVolumeIndex avg = new DayVolumeIndex();
+                avg.DateDate = ds[i].DateDate;
+                for (int j = 0; j < maWindow; j++)
+                {
+                    avg.Volume += ds[i - j].Volume / maWindow;
+                    avg.Index += ds[i - j].Index / maWindow;
+                }
+                result.Add(avg);
+            }
+
+            return result;
+        }
+        public List<DayVolumeIndex> GetVolumeIndexAvg(List<DayVolumeIndex> ds)
+        {
+            return new List<DayVolumeIndex>(new[]
+                {
+                    new DayVolumeIndex
+                        {
+                            DateDate = ds.Min(d => d.DateDate),
+                            Volume = ds.Average(d => d.Volume),
+                            Index = ds.Average(d => d.Index)
+                        }
+                });
+        }
+
+        // ************ IndexClasses *******************
+
+        [OperationContract]
+        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        public List<DayIndexClasses> IndexClasses(string entity, DateTime from, DateTime to, int days, string data, string aggregate, int maWindow)
+        {
+            if (string.IsNullOrWhiteSpace(entity)) return new List<DayIndexClasses>();
+
+            Guid entityGuid = ParameterChecker.EntityGuid(entity);
+            ParameterChecker.TimeSpan(ref from, ref to, ref days);
+            DataType dataEnum = ParameterChecker.DataType(data, DataType.Sentiment);
+            Aggregate aggEnum = ParameterChecker.Aggregate(aggregate, Aggregate.Day);
+            maWindow = ParameterChecker.StrictlyPositiveNumber(maWindow, 0);
+            if (aggEnum == Aggregate.MA)
+            {
+                to = to.AddDays(maWindow);
+                days += maWindow;
+            }
+
+            List<DayIndexClasses> returnArray = GetIndexClasses(entityGuid.ToString(), from, to, days, dataEnum);
+            switch (aggEnum)
+            {
+                case Aggregate.Day:
+                    return returnArray;
+                case Aggregate.MA:
+                    return GetIndexClassesMovingAvg(returnArray, maWindow);
+                case Aggregate.Avg:
+                    return GetIndexClassesAvg(returnArray);
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
+
+        }
+
+        private List<DayIndexClasses> GetIndexClasses(string entity, DateTime from, DateTime to, int days, DataType dataType)
+        {
+            StringReplacer strRpl = StringReplacerGetDefaultBasic();
+            var sqlParams = new object[] { entity, from, to, days };
+            List<SqlRow.DayIndexClasses> indexClassesTimeSeries = DataProvider.GetDataWithReplace<SqlRow.DayIndexClasses>("DaySentimentClasses.sql", strRpl, sqlParams);
+
+            var returnArray = FillMissingDates(
+                from, 
+                days, 
+                indexClassesTimeSeries,
+                dv => new DayIndexClasses()
+                {
+                    DateDate = dv.Date,
+                    Positives = dv.Positives,
+                    PosNeutrals = dv.PosNeutrals,
+                    NegNeutrals = dv.NegNeutrals,
+                    Negatives = dv.Negatives
+                },
+                dv => dv.Date);
+            return returnArray.ToList();
+        }
+        public List<DayIndexClasses> GetIndexClassesMovingAvg(List<DayIndexClasses> ds, int maWindow)
+        {
+            int period = ds.Count - maWindow - 1;  // number of days between dateEnd and dateStart 
+
+            List<DayIndexClasses> result = new List<DayIndexClasses>();
+            for (int i = maWindow - 1; i < period + 1; i++)
+            {
+                DayIndexClasses avg = new DayIndexClasses();
+                avg.DateDate = ds[i].DateDate;
+                for (int j = 0; j < maWindow; j++)
+                {
+                    avg.Positives += ds[i - j].Positives / maWindow;
+                    avg.PosNeutrals += ds[i - j].PosNeutrals / maWindow;
+                    avg.NegNeutrals += ds[i - j].NegNeutrals / maWindow;
+                    avg.Negatives += ds[i - j].Negatives / maWindow;
+                }
+                result.Add(avg);
+            }
+
+            return result;
+        }
+        public List<DayIndexClasses> GetIndexClassesAvg(List<DayIndexClasses> ds)
+        {
+            return new List<DayIndexClasses>(new[]
+                {
+                    new DayIndexClasses
+                        {
+                            DateDate = ds.Min(d => d.DateDate),
+                            Positives = ds.Average(d => d.Positives),
+                            PosNeutrals = ds.Average(d => d.PosNeutrals),
+                            NegNeutrals = ds.Average(d => d.NegNeutrals),
+                            Negatives = ds.Average(d => d.Negatives)
+                        }
+                });
+        }
+
         
         //******************************************************************************************
         
@@ -642,6 +1031,14 @@ namespace TwitterMonitorDAL
             var strRpl = new StringReplacer();
             strRpl.AddReplacement("/*REM*/", "--");
             strRpl.AddReplacement("--ADD", "");
+
+            int maxParameters = 20;
+            for (int i = 0; i < maxParameters; i++)
+                strRpl.AddReplacement("{" + i + "}", "#$#ENC$" + i + "#$#ENC$");
+            strRpl.AddReplacement("{", "{{");
+            strRpl.AddReplacement("}", "}}");
+            for (int i = 0; i < maxParameters; i++)
+                strRpl.AddReplacement("#$#ENC$" + i + "#$#ENC$", "{" + i + "}");
 
             return strRpl;
         }
@@ -663,6 +1060,11 @@ namespace TwitterMonitorDAL
                 }
             }
 
+            return strRpl;
+        }
+        public StringReplacer StringReplacerCommentNamedRemove(StringReplacer strRpl, string name)
+        {
+            strRpl.AddReplacement(string.Format("/*REM {0}*/", name), "--");
             return strRpl;
         }
     }
