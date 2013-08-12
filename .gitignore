@@ -1,6 +1,7 @@
 bin/
 obj/
 *.suo
+*.ssms_suo
 *.sln.user
 *.sln.DotSettings.user
 *.csproj.user

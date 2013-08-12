@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TwitterMonitorDAL", "TwitterMonitorDAL.ssmssqlproj", "{10C84D7C-AD1E-43FD-9CE5-C50AD97F2BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C84D7C-AD1E-43FD-9CE5-C50AD97F2BD1}.Default|Default.ActiveCfg = Default
+		{48A0B056-8648-4809-AAFC-5C556DDB996D}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
