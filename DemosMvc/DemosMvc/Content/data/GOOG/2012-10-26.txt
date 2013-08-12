@@ -1,0 +1,45 @@
+[
+{"time":"1:55","usr":"tommybytes","txt":"@ang_rx I might scrape together a fractional share of $GOOG, but using a deep in the money call option would be a better play","lbl":"Positive"}
+,{"time":"1:55","usr":"USwwwStocks","txt":"$GOOG News: Google Inc. (GOOG): Android Malware Spikes; Worry, or Context? http://t.co/U8zmaZ2j #GOOG #Android #Context","lbl":"Negative"}
+,{"time":"5:26","usr":"petergo99037185","txt":"RT @PeterBoKiaer: I was on CNBC Squawk Box. Touched on the changes in the tech market. $AAPL, #Samsung $GOOG $FB. http://t.co/I6JYtDHe See video.","lbl":"Neutral"}
+,{"time":"6:49","usr":"tlmontana","txt":"@traderstewie @ritholtz NOW..Time to Reduce Exposure? Time was when $AAPL & $GOOG were hitting New Highs as I been posting & called 138\u0027s","lbl":"Neutral"}
+,{"time":"7:14","usr":"RedDogT3Live","txt":"RT @rrshasss: If Only Pinning $AAPL Maps Worked Like Option Pinning $AAPL $AMZN $GOOG $CMG $PCLN $FFIV $WYNN http://t.co/1om1YNyY @RedDogT3Live","lbl":"Neutral"}
+,{"time":"7:14","usr":"petergo99037185","txt":"$AAPL turn around pre market, almost plus 3 now, $goog looking bad this AM, QQQ is much better than last nite.. GO $AAPL lead this mkt plus!","lbl":"Negative"}
+,{"time":"8:36","usr":"NickInman_","txt":"Join my Nasdaq Futures Trading Session: http://t.co/BWVU4fsc $NQ_F $QQQ $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"8:36","usr":"launchticker","txt":". @ericschmidt traveling to France to discuss govt proposal to force $goog to pay newspapers for links to content http://t.co/SGCdwbWe","lbl":"Neutral"}
+,{"time":"8:49","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) set to launch a 3G version of the Nexus 7 tablet ...: Google Inc. (NASDAQ:GOOG)... http://t.co/eVu3jyJ2","lbl":"Neutral"}
+,{"time":"9:32","usr":"parklandtrader","txt":"@cnbcfastmoney $GOOG at keep level rite now if it does not hold could drop fast.. I like $FB on beat in earning","lbl":"Negative"}
+,{"time":"9:33","usr":"racernic","txt":"glad i closed the $GOOG 660/55 cr put spread exp 2day. u never know. never leave risk out there that u can buy back for pennies.","lbl":"Neutral"}
+,{"time":"10:08","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Massachusetts Fines Citi $2 Million Over Facebook IPO Disclosures http://t.co/pYCU27yK","lbl":"Neutral"}
+,{"time":"10:09","usr":"filthyjabba","txt":"@NorthmanTrader $goog killing me","lbl":"Negative"}
+,{"time":"10:35","usr":"Minyanville","txt":"Random Thoughts: Frankenstorm, GDP, Apple, and Amazon $AAPL $AMZN $GOOG http://t.co/bhsLulq5","lbl":"Neutral"}
+,{"time":"11:01","usr":"TheStreet","txt":"Is $MSFT CEO Steve Ballmer Crazy? by @rocco_thestreet http://t.co/mE7IzHDG $GOOG $AMZN $RIMM","lbl":"Neutral"}
+,{"time":"11:16","usr":"trustfundbaby","txt":"RT @joemccann: FWIW, $AMZN P/E is 3,067, $FB is 238, $GOOG is 21 and $AAPL is 13.4","lbl":"Neutral"}
+,{"time":"12:14","usr":"KevinShalvey","txt":"Details on IBD about Mahaney\u0027s $GOOG disclosure and junior analyst\u0027s $FB confidential leak http://t.co/SG09vfJA #IBDBlogs via @IBDinvestors","lbl":"Neutral"}
+,{"time":"12:39","usr":"mikemost","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Negative"}
+,{"time":"12:40","usr":"mpacatte","txt":"RT @KevinShalvey: Mark Mahaney to Citi\u0027s PR person in email about $GOOG disclosure: \u0022This could get me in trouble. Shoot.\u0022 http://t.co/SG09vfJA","lbl":"Negative"}
+,{"time":"12:59","usr":"1mstewart","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Negative"}
+,{"time":"13:00","usr":"isaac","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Negative"}
+,{"time":"13:15","usr":"todd_harrison","txt":"Random Thoughts: Frankenstorm, GDP, Apple, and Amazon $AAPL $AMZN $GOOG http://t.co/QUFzfCWC via @minyanville","lbl":"Neutral"}
+,{"time":"13:15","usr":"Angelica_Pagan","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Negative"}
+,{"time":"13:17","usr":"heliosalesjr","txt":"RT @SAI: Leaked: Here\u0027s Google\u0027s First 10-Inch Tablet $GOOG by @stevekovach http://t.co/DZnlQPVC","lbl":"Neutral"}
+,{"time":"13:35","usr":"tonythetigerp","txt":"@z8angela $GOOG could be next.","lbl":"Neutral"}
+,{"time":"13:52","usr":"iLucaLettieri","txt":"Here\u0027s Google\u0027s First 10-Inch Tablet $GOOG by @stevekovach http://t.co/3HzHOSWP","lbl":"Neutral"}
+,{"time":"13:54","usr":"SPEQL8R","txt":"just a quick note- wasn\u0027t it just last month when everyone wanted $GOOG at 700 saying going to $1000? well totally ignored today $AAPL $AMZN","lbl":"Negative"}
+,{"time":"14:12","usr":"PabloR0bles","txt":"RT @KeithMcCullough: Its mutual fund yr end early next wk, so they\u0027ll try to hold the $AAPL $AMZN $GOOG together me thinks","lbl":"Neutral"}
+,{"time":"14:33","usr":"dmackdaddy","txt":"Google launches funny \u201CGet Your Google Back\u201D video for Windows 8 users | Dmack\u0027s Den - http://t.co/1v62Qzkt $GOOG vs $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"14:33","usr":"WallStJesus","txt":"Vringo Vs. Google: Vringo Executes A Pincer Movement http://t.co/1FHQeoUV $GOOG $VRNG #JESUS","lbl":"Neutral"}
+,{"time":"14:49","usr":"JohnMackel","txt":"$GOOG is another flying turkey trying to consolidate recent losses. Watch for it to test its 50 DMA or more likely plunge towards its 200.","lbl":"Negative"}
+,{"time":"14:50","usr":"choffman1978","txt":"$MSFT rumored to buyout $NFLX - HUGE SHORT SQUEEZE!!!!!!! #cnbc,#msnbc,#nyse,#wsj,$p,$s,$c,$f,$gm,$aapl,$goog,$yhoo,$lmca,#stocks,#markets","lbl":"Neutral"}
+,{"time":"15:09","usr":"nicholasgomes","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/C7Wclsl0","lbl":"Negative"}
+,{"time":"15:10","usr":"SeekingAlpha","txt":"Apple: Securing Its Intellectual Property And Your Confidence For The Long-Term http://t.co/z3AWBBQe $GOOG $NOK $AAPL","lbl":"Neutral"}
+,{"time":"15:49","usr":"berkmh","txt":"\u201CIt never was my thinking that made the big money for me. It always was my sitting\u201D - Livermore. $AAPL $SPY $GOOG $PCLN $NFLX","lbl":"Neutral"}
+,{"time":"16:37","usr":"remo_I","txt":"RT @businessinsider: Google Snubs Bing With Hilarious \u0027Get Your Google Back\u0027 Video $MSFT $GOOG by @officialKLS http://t.co/L8dvpdHg","lbl":"Neutral"}
+,{"time":"16:38","usr":"rcastle06","txt":"RT @SAI: Google Snubs Bing With Hilarious \u0027Get Your Google Back\u0027 Video $MSFT $GOOG by @officialKLS http://t.co/t13Vx3Lm","lbl":"Positive"}
+,{"time":"17:34","usr":"isfalk","txt":"RT @SAI: Google Is Testing Same-Day Delivery In San Francisco $GOOG by @owenthomas http://t.co/M4DIOps0","lbl":"Neutral"}
+,{"time":"17:35","usr":"JustinPayments","txt":"RT @SAI: Google Is Testing Same-Day Delivery In San Francisco $GOOG by @owenthomas http://t.co/M4DIOps0","lbl":"Neutral"}
+,{"time":"18:46","usr":"EricStroderd","txt":"RT @SAI: Google Snubs Bing With Hilarious \u0027Get Your Google Back\u0027 Video $MSFT $GOOG by @officialKLS http://t.co/t13Vx3Lm","lbl":"Positive"}
+,{"time":"18:51","usr":"ambitos","txt":"RT @SAI: Google Is Testing Same-Day Delivery In San Francisco $GOOG by @owenthomas http://t.co/M4DIOps0","lbl":"Neutral"}
+,{"time":"18:52","usr":"ThisIsNawaf","txt":"RT @businessinsider: Google Is Testing Same-Day Delivery In San Francisco $GOOG by @owenthomas http://t.co/xNXeUcxP","lbl":"Neutral"}
+,{"time":"21:28","usr":"bworden","txt":"RT @SAI: Google Is Testing Same-Day Delivery In San Francisco $GOOG by @owenthomas http://t.co/Ux5w1ow5","lbl":"Neutral"}
+]

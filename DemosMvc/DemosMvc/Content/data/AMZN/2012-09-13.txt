@@ -1,0 +1,24 @@
+[
+{"time":"3:10","usr":"ShadiQishta","txt":"Amazon Is Hitting Google Where It Hurts $GOOG $AMZN http://t.co/DTH2SOIO via @minyanville","lbl":"Positive"}
+,{"time":"6:01","usr":"ShortPremium","txt":"\u0022@terranovajoe $AMZN cut to Neutral at Credit Suisse with a big cut to its price target $270 down to $185\u0022...ur talking my book now!","lbl":"Negative"}
+,{"time":"7:28","usr":"RonnieSpence","txt":"$AMZN = 312 P/E","lbl":"Neutral"}
+,{"time":"7:29","usr":"carlquintanilla","txt":"JPMorgan has interesting note on $AMZN\u0027s new site, http://t.co/zfywpBoJ, promising to sell sporting goods for kids. Potential worry for $DKS","lbl":"Neutral"}
+,{"time":"7:30","usr":"larryfooter","txt":"RT @RonnieSpence: $AMZN = 312 P/E","lbl":"Neutral"}
+,{"time":"8:40","usr":"wstranscript","txt":"Investing in Secular Technology Trends; MM Discusses $GOOG, $AMZN, $AAPL, $MSFT, $HPQ, $DELL - http://t.co/PTaOv9ws","lbl":"Neutral"}
+,{"time":"9:25","usr":"danielhsqr","txt":"$7974 wii u broader entertainment plan: NINTENDO TVii with $nflx $amzn $tivo Hulu twitter.","lbl":"Neutral"}
+,{"time":"10:20","usr":"SeekingAlpha","txt":"Cloud Providers Shun U.S. Server Giants http://t.co/L7Jj8d4v $AMZN $DELL $FB $GOOG $HPQ $IBM $INTC","lbl":"Neutral"}
+,{"time":"10:53","usr":"JasonBondPicks","txt":"Luke $AMZN Bought Oct 20 $230 puts @1.99, AMZN having to start coll sales tax in CA and other states starting this weekend, new era here imo","lbl":"Negative"}
+,{"time":"10:54","usr":"PMgeezer","txt":"RT @businessinsider: Here\u0027s How The Kindle Fire HD Stacks Up Against The iPad $AAPL $AMZN by @_dtl http://t.co/KJt1478Z","lbl":"Neutral"}
+,{"time":"10:55","usr":"sivori","txt":"@fromedome I anticipate that in the next few years $AMZN will have distribution centers near every sizable city and using white label...","lbl":"Neutral"}
+,{"time":"12:31","usr":"CubbieBears","txt":"$AMZN got a silly downgrade and now at near all time high","lbl":"Positive"}
+,{"time":"12:51","usr":"wiley_finance","txt":"RT @carlquintanilla: JPMorgan has interesting note on $AMZN\u0027s new site, http://t.co/QSSKn7dJ, promising to sell sporting goods for kids....","lbl":"Neutral"}
+,{"time":"13:17","usr":"CrushingColts","txt":"$AMZN heating up finally, in Oct 300 calls","lbl":"Positive"}
+,{"time":"13:52","usr":"TheMarketMuse","txt":"Leaders posting strong gains: $AAPL, $GOOG, $CRM, $MA, $CF, $AMZN. PMs flying. Broad-based rally with impressive breakouts. &&","lbl":"Neutral"}
+,{"time":"14:39","usr":"samgustin","txt":"RT @LaMonicaBuzz: All-time highs for $AAPL & $AMZN. $GOOG back above $700 & approaching 52-week high. QE3 doesn\u0027t really help te ...","lbl":"Neutral"}
+,{"time":"14:40","usr":"Vzsasz","txt":"$amzn ! Put yout house on it! I promise you wont regret it","lbl":"Positive"}
+,{"time":"14:41","usr":"JSquatriglia","txt":"RT @LaMonicaBuzz: All-time highs for $AAPL & $AMZN. $GOOG back above $700 & approaching 52-week high. QE3 doesn\u0027t really help te ...","lbl":"Positive"}
+,{"time":"14:41","usr":"CDMCapital","txt":"$AMZN $AAPL not really sure why ppl are chasing these mega caps, we are seeing a rotation here from Mega/large cap to higher beta names","lbl":"Neutral"}
+,{"time":"15:50","usr":"kparker5711","txt":"RT @oomoisme: RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAbou ...","lbl":"Neutral"}
+,{"time":"15:51","usr":"Logix_Data","txt":"Amazon Is Hitting Google Where It Hurts $GOOG $AMZN http://t.co/54TyIDU6 via @minyanville","lbl":"Positive"}
+,{"time":"22:28","usr":"Colin_Sebastian","txt":"\u201C@PandoDaily: Tony Hsieh: \u0022Companies that have a higher purpose have higher profits.\u0022\u201D // So then what\u0027s $AMZN\u0027s purpose?","lbl":"Neutral"}
+]

@@ -1,0 +1,15 @@
+[
+{"time":"5:30","usr":"TheStreet","txt":"4 \u0027Battleground\u0027 Stocks Fought Over by the Biggest Investors http://t.co/fyldev6g by @lindseycbell $AMZN $DMND","lbl":"Neutral"}
+,{"time":"7:55","usr":"RetailAgility","txt":"RT @retail_sails: Sam\u2019s Club, Amazon Deliver Best Customer Experience in #Retail http://t.co/DVglac3U $WMT $AMZN","lbl":"Neutral"}
+,{"time":"7:56","usr":"ryanjhodges","txt":"@MinervasBig I admire you trying to do the impossible. Been a trader for 8 years, it\u0027s impossible to ignore fundys. 10ks are crap = $AMZN!","lbl":"Negative"}
+,{"time":"7:59","usr":"ryanjhodges","txt":"Why isn\u0027t $AMZN at $70? I used to own a retail biz and year 3 jacked my prices - sell half at 2x the price = same result.","lbl":"Neutral"}
+,{"time":"11:39","usr":"Edisonsepulveda","txt":"RT @Trefis: Amazon Smartphone Interest Rises After Kindle Fire\u0027s Success http://t.co/0xaBCLpl $AMZN $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 180.87 -1.39 (-0.76%).","lbl":"Negative"}
+,{"time":"16:15","usr":"racernic","txt":"trade update: $amzn down again 2day but give all negativity on it sticking w/mar cr put spread (170/65) 170 still proves a good bounce lvl","lbl":"Negative"}
+,{"time":"17:58","usr":"evgenymorozov","txt":"RT @johngapper: Amazon boycotts the American Cancer Society RT @ReformedBroker: Amazon goes full-out Mafia on e-books http://t.co/JX0hlSMz $AMZN","lbl":"Neutral"}
+,{"time":"17:59","usr":"kwameopam","txt":"RT @johngapper: Amazon boycotts the American Cancer Society RT @ReformedBroker: Amazon goes full-out Mafia on e-books http://t.co/JX0hlSMz $AMZN","lbl":"Neutral"}
+,{"time":"18:02","usr":"arenda","txt":"RT @johngapper: Amazon boycotts the American Cancer Society RT @ReformedBroker: Amazon goes full-out Mafia on e-books http://t.co/JX0hlSMz $AMZN","lbl":"Neutral"}
+,{"time":"21:26","usr":"RedDogT3Live","txt":"@WMwins the real short on $amzn triggers if it can break and close below $170-$173","lbl":"Negative"}
+,{"time":"21:31","usr":"brokerz_bearish","txt":"RT @RedDogT3Live - @WMwins I think the macro pat. setting up on $amzn is bearish. I\u005C\u0027d rather use puts so I know my risk. I will also ...","lbl":"Negative"}
+,{"time":"21:34","usr":"wallstCS","txt":"Services Sector Review http://t.co/Gn9qLbPa $AMZN $CETV $CMCSA $DISH $DTV $GOOG $NFLX $RRD $CHS $WMT","lbl":"Neutral"}
+]

@@ -1,0 +1,33 @@
+[
+{"time":"1:45","usr":"Abmuku","txt":"Get New Hot Social Media News First! Get Abmuku Mobile, Tech Analysis and Trends at http://t.co/w7Ocbix4 $FB $P $GOOG","lbl":"Neutral"}
+,{"time":"2:00","usr":"SeekingAlpha","txt":"Surviving The Rest Of 2012, And Picking The Performance Stocks Of 2013 http://t.co/rnspoVCA $AAPL $BAC $DD $FB $GOOG $INTC $MSFT","lbl":"Neutral"}
+,{"time":"7:08","usr":"ADVFNplc","txt":"$GOOG - UPDATE:Trinity Mirror CEO Bailey Leaves Early After Pay Row http://t.co/YNXn2orc","lbl":"Neutral"}
+,{"time":"8:27","usr":"punk_army","txt":"Ever wonder how the iPhone works? $aapl $goog $vz $T #iphone http://t.co/bIwN6uvy","lbl":"Neutral"}
+,{"time":"8:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 08:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"8:31","usr":"choffman1978","txt":"$YMI tree shake - careful! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech","lbl":"Neutral"}
+,{"time":"9:08","usr":"choffman1978","txt":"$BPAX rumored to be possible M&A target next leg up coming!! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech","lbl":"Neutral"}
+,{"time":"9:08","usr":"choffman1978","txt":"$BPAX rumored to be possible M&A target running here comes $4! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech","lbl":"Neutral"}
+,{"time":"9:09","usr":"choffman1978","txt":"$BPAX rumored to be possible M&A target up nearly 20% #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech,$dndn","lbl":"Neutral"}
+,{"time":"9:09","usr":"thefinancepress","txt":"$GOOG Google Makes $1m School Donation: Google Makes $1m School Donation StocksandShares.TV - 14 minutes ago G... http://t.co/8XcrAmMd","lbl":"Neutral"}
+,{"time":"9:50","usr":"ericjackson","txt":"Good post from @chunkamui on the problems of monetizing mobile $FB $GOOG http://t.co/pRNmdtuO","lbl":"Negative"}
+,{"time":"9:51","usr":"PeterBoKiaer","txt":"Just highlighting my piece on the changing landscape btwn $AAPL $GOOG $GRMN $MSFT after #iOS6. See here http://t.co/aDDgJRw4 #stocks","lbl":"Neutral"}
+,{"time":"9:51","usr":"choffman1978","txt":"$SIRI (SiriusXM) breaking out!!! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech,$pfe,$jnj,$dndn,$vvus,$ctic","lbl":"Neutral"}
+,{"time":"10:37","usr":"MichaelComeau","txt":"Did you notice that IDC made a huge cut in its Android tablet forecast? $GOOG $AAPL http://t.co/8IjNg6fc","lbl":"Negative"}
+,{"time":"10:38","usr":"choffman1978","txt":"$KERX must be news out!!! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech,$pfe,$jnj,$dndn,$vvus,$ctic","lbl":"Neutral"}
+,{"time":"10:38","usr":"conorsen","txt":"So if $MSFT/$RIMM/$NOK/$DELL/$HPQ/$GOOG/$AMZN aren\u0027t going to beat $AAPL at phones/tablets/computers, who will?","lbl":"Negative"}
+,{"time":"10:39","usr":"choffman1978","txt":"$KERX HUGE BUY ORDERS COMING IN #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech,$pfe,$jnj,$dndn,$vvus,$ctic","lbl":"Neutral"}
+,{"time":"11:41","usr":"MaxHeartwood","txt":"RT @SAI: Here Are All The Reasons It Sucks To Work At Google $GOOG by @mattlynley http://t.co/GEhbPZaY","lbl":"Negative"}
+,{"time":"11:42","usr":"choffman1978","txt":"$YMI about to break resistance! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech,$pfe,$jnj,$dndn,$vvus,$ctic","lbl":"Neutral"}
+,{"time":"11:42","usr":"gromalomus","txt":"$GOOG off a hundred points since it\u0027s March 28 top.","lbl":"Negative"}
+,{"time":"11:47","usr":"MrSteveLee","txt":"@SJosephBurns I tell ya..$goog might be the same way","lbl":"Neutral"}
+,{"time":"13:00","usr":"StocksOracle123","txt":"Stocks Oracle predicts NEGATIVE outlook for GOOG stock through 3:00 pm EST // http://t.co/pX69wYAb // $GOOG #NASDAQ","lbl":"Negative"}
+,{"time":"13:01","usr":"Minyanville","txt":"IDC\u0027s #tablet market forecast: murky outlook for Google Android http://t.co/zNy1e7ZL @michaelcomeau $GOOG $AAPL","lbl":"Negative"}
+,{"time":"13:15","usr":"mrtopstep","txt":"market chatter **S&P500 largest weight increases: $AAPL, $WFC, $QCOM, $COF, $EMC, $INTC, $GOOG, $GE, $ALXN, $CAT","lbl":"Neutral"}
+,{"time":"13:51","usr":"Opinterest","txt":"$GOOG still struggling here","lbl":"Negative"}
+,{"time":"13:57","usr":"choffman1978","txt":"$ACUR huge run once $3.10 is broken #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$dmnd, #biotech,$pfe,$jnj,$dndn,$vvus,$ctic","lbl":"Neutral"}
+,{"time":"15:20","usr":"SeekingAlpha","txt":"Instead Of Nokia, Microsoft Should Acquire This Company http://t.co/Tlx85Y5X $AAPL $ALBIY.PK $BIDU $GOOG $NOK $YHOO $MSFT","lbl":"Neutral"}
+,{"time":"15:26","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZciWIt","lbl":"Neutral"}
+,{"time":"18:30","usr":"BigTicks","txt":"$GOOG News: The Zacks Analyst Blog Highlights: Garmin, Apple, Google, Harman \u2026 http://t.co/jMrNbsnU #GOOG #Analyst #Apple","lbl":"Neutral"}
+,{"time":"18:32","usr":"dougrdz","txt":"$goog say that $spy is -100% hope you all Left some shorts! http://t.co/MYpcIyIx","lbl":"Neutral"}
+,{"time":"18:41","usr":"wallstCS","txt":"Bing SOARS Over Google while Ford Reports EXCITING Results http://t.co/NiWKC78x $MSFT $GOOG $F #stocks","lbl":"Negative"}
+]

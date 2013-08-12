@@ -1,0 +1,13 @@
+[
+{"time":"0:00","usr":"timwong81","txt":"$GOOG - Google Stock Analysis - Doji Candlestick Pattern - http://t.co/M8kjL6hv","lbl":"Neutral"}
+,{"time":"7:12","usr":"political_hawk","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/3fCVqYnX","lbl":"Neutral"}
+,{"time":"7:19","usr":"Robo_trader","txt":"Google X research facility and its secret projects http://t.co/Yepz94Tl #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"10:09","usr":"thefinancepress","txt":"$GOOG Google Inc. Celebrates Translate Success: Google Inc. Celebrates Translate Success StocksandShares.TV - 2... http://t.co/H0luJi6t","lbl":"Positive"}
+,{"time":"10:10","usr":"alvinjrb","txt":"RT @SAI: Steve Wozniak Says Windows Phone Is More Beautiful Than iPhone Or Android $MSFT $GOOG $AAPL by @stevekovach http://t.co/SclkRLkC","lbl":"Neutral"}
+,{"time":"10:11","usr":"mrslaughalot","txt":"RT @SeekingAlpha: Will The Board Members Of Research In Motion Stop Procrastinating And Unleash Value? http://t.co/uwnF5ASw $AAPL $CRM $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"10:12","usr":"jserra77","txt":"RT @SAI: Steve Wozniak Says Windows Phone Is More Beautiful Than iPhone Or Android $MSFT $GOOG $AAPL by @stevekovach http://t.co/SclkRLkC","lbl":"Neutral"}
+,{"time":"13:31","usr":"wallstCS","txt":"Weekly Market Recap: Apple\u0027s EXPLOSIVE Earnings. \u0027Nuff Said http://t.co/QLs4Tt4m $AAPL $NFLX $AMZN $EXPE $FB $S $BAC $ADBE $WMT $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"13:32","usr":"forextofind","txt":"$GOOG - Google Stock Analysis - Doji Candlestick Pattern - http://t.co/3EIm0idg","lbl":"Neutral"}
+,{"time":"18:47","usr":"tradingpoints","txt":"Why $AAPL & $GOOG aren\u0027t in the Dow http://t.co/v74AkgkE","lbl":"Neutral"}
+,{"time":"18:47","usr":"Robo_trader","txt":"Google X research facility and its secret projects http://t.co/Yepz94Tl #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+]

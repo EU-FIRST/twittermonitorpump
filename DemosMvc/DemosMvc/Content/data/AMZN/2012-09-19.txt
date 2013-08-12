@@ -1,0 +1,32 @@
+[
+{"time":"1:50","usr":"hnshah","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"1:51","usr":"suhastech","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"1:51","usr":"digitim","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"1:52","usr":"mcmns","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"2:48","usr":"IntellectAssets","txt":"$AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"2:52","usr":"FatimaMalki","txt":"@Moulay_Zaid This equation is way cooler! $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B) (via @peteryared)","lbl":"Neutral"}
+,{"time":"2:59","usr":"NowEntrepreneur","txt":"Wow ... RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"3:07","usr":"dhimantdesai","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:27","usr":"danmartell","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:28","usr":"rankinthomas","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:28","usr":"john_frankel","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"6:28","usr":"ThomasBCN","txt":"RT @peteryared: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"7:47","usr":"john_j_gill","txt":"@jimcramer @roccopendola $AMZN is a great company, but P/E is very high. Is stock over-priced?","lbl":"Neutral"}
+,{"time":"7:48","usr":"jimcramer","txt":"RT @john_j_gill: @jimcramer @roccopendola $AMZN is a great company, but P/E is very high. Is stock over-priced? @roccopendola is on fire","lbl":"Negative"}
+,{"time":"7:50","usr":"karan_karnani","txt":"RT @jimcramer: RT @john_j_gill: @jimcramer @roccopendola $AMZN is a great company, but P/E is very high. Is stock over-priced? @roccope ...","lbl":"Positive"}
+,{"time":"7:50","usr":"RoccoPendola","txt":"RT @jimcramer: RT @john_j_gill: @jimcramer @roccopendola $AMZN is a great company, but P/E is very high. Is stock over-priced? @roccope ...","lbl":"Neutral"}
+,{"time":"8:57","usr":"RobertWeinstein","txt":"Shorting $AMZN at $260.52 and higher fade $1.50 profit target of ave","lbl":"Negative"}
+,{"time":"8:57","usr":"nolte88","txt":"Trying another $AMZN long this morning with longer leash. Broke a descending trend line on the 15 minute chart I was eyeballing.","lbl":"Positive"}
+,{"time":"8:58","usr":"DeidreZune","txt":"Performance of mega-caps like $AAPL $AMZN $GOOG are due to NEW CASH coming to EQUITIES along with their individual stellar stories","lbl":"Neutral"}
+,{"time":"8:58","usr":"kenjotto","txt":"sold weekly $AMZN 265 calls against longs at .62","lbl":"Negative"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $F +27%, $FDX +13%, $AAPL +4%, $BAC -10%, $AMZN +1%, $MSFT +1% http://t.co/uBJyhJcD","lbl":"Positive"}
+,{"time":"12:20","usr":"newsagg","txt":"$AAPL not keeping pace with $GOOG and $AMZN and possibly holding the market back. AAPL is the new SPX","lbl":"Positive"}
+,{"time":"12:21","usr":"NorthmanTrader","txt":"@todd_harrison @Minyanville no doubt the continued strength in $GOOG $AAPL $AMZN & $IBM has been nothing short of stunning! Pullback ever?","lbl":"Positive"}
+,{"time":"12:22","usr":"asermaksoud","txt":"RT @HFadeel: $AAPL = $GOOG + $MSFT + $AMZN + $FB ($655B)","lbl":"Neutral"}
+,{"time":"14:08","usr":"kenjotto","txt":"closed my $AMZN call spread +.62/4.5%","lbl":"Neutral"}
+,{"time":"14:10","usr":"Fibonacciqueen","txt":"Follow up to $AMZN video done a few days ago...target 1 is 266.04 http://t.co/Rq6cgBr5","lbl":"Neutral"}
+,{"time":"15:22","usr":"rechtsteiner","txt":"$AAPL is exploring $AMZN\u0027s business model via TV. It\u0027s just very early. http://t.co/ZsznNpyU Spot on analysis from @asymco","lbl":"Neutral"}
+,{"time":"15:28","usr":"wallstCS","txt":"Tech Business Roundup: Amazon\u0027s EU Victory, Samsung Loses Another Court Ruling http://t.co/00uENQc2 $AAPL $CBS $NWS $AMZN $SSNLF #mkt","lbl":"Neutral"}
+,{"time":"19:32","usr":"MrAndres72","txt":"@RedDogT3Live $AMZN P/E is scares me","lbl":"Negative"}
+,{"time":"20:00","usr":"smlbiobot","txt":"Amazon is closing its fashion website http://t.co/MjtJ5Q9l http://t.co/bXSTJchS via @HuffPostTech #fashion #retail $AMZN","lbl":"Neutral"}
+]

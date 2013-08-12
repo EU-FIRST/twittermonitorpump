@@ -1,0 +1,18 @@
+[
+{"time":"5:40","usr":"Furbonacci","txt":"Commented on: \u0022Apple\u0027s Worst Enemy: Apple\u0022 http://t.co/2baZ3uLd $AAPL $ADBE $AMZN $CSTR $GOOG $MSFT $NFLX $P $SNE","lbl":"Neutral"}
+,{"time":"6:00","usr":"Aja_7","txt":"RT @jimcramer: Market Preview: Smart Money Skeptics http://t.co/ju3n4aDG $CSCO $TGT $AMZN $JDSU $SPX $DJI","lbl":"Neutral"}
+,{"time":"8:29","usr":"mikemost","txt":"RT @ericjackson: New Post: Amazon Created the Online Commerce Genre But Amazon Won\u0027t Create the Mobile Commerce Genre - Forbes http://t.co/8OiAWjvy $AMZN $FB","lbl":"Neutral"}
+,{"time":"9:38","usr":"Fuelnu","txt":"RT @SeekingAlpha: What Patent Peace Looks Like http://t.co/vSP4TIpw $AAPL $AMZN $GOOG $SSNLF.PK $MSFT","lbl":"Neutral"}
+,{"time":"9:39","usr":"wilkos","txt":"RT @ericjackson: New Post: Amazon Created the Online Commerce Genre But Amazon Won\u0027t Create the Mobile Commerce Genre - Forbes http://t.co/8OiAWjvy $AMZN $FB","lbl":"Neutral"}
+,{"time":"10:56","usr":"RedDogT3Live","txt":"$amzn on the move","lbl":"Positive"}
+,{"time":"11:50","usr":"ECONgeek947","txt":"@LaMonicaBuzz New Netflix \u0022Post Play\u0022 Experience Makes It Easy To Continue Watching: http://t.co/tR5H2njk $NFLX $AMZN $CSTR $AAPL $FB $TWX","lbl":"Neutral"}
+,{"time":"11:50","usr":"SeekingAlpha","txt":"Who\u0027s Winning The Race To Replace Television? http://t.co/EF9fdRl9 $AAPL $AMZN $CMCSA $CSTR $GOOG $NFLX $VIAB $DTV","lbl":"Neutral"}
+,{"time":"11:50","usr":"USwwwStocks","txt":"$AMZN News: Lansdowne Buys JPM, INTC, GOOG, AMZN; Sells AAPL, APC, CTSH, ETFC http://t.co/NEQ0DRfq #AMZN #GOOG #AAPL","lbl":"Neutral"}
+,{"time":"12:54","usr":"ECONgeek947","txt":"B4 u bash $NFLX Nordic move, LillyHammer was filmed in Norway & broke regional cable records ;) $AMZN $CSTR $AAPL $FB http://t.co/t6VPmQf3","lbl":"Neutral"}
+,{"time":"14:01","usr":"bduperrin","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Neutral"}
+,{"time":"14:02","usr":"gonzague","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Neutral"}
+,{"time":"14:02","usr":"thiagoricieri","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Neutral"}
+,{"time":"14:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:17pm: 237.1201 +3.9301 (+1.69%).","lbl":"Positive"}
+,{"time":"17:05","usr":"MarketQuoter","txt":"@jimcramer talking about my three favorite stocks $AMZN $AAPL $GOOG, own all of them!","lbl":"Positive"}
+,{"time":"21:39","usr":"tradekitten","txt":"Long $FB, $AMZN nice profits. Might condor $AAPL tomorrow if pulls back. $GS weak. Longs/shorts working in rotation, be nimble! $SPY","lbl":"Positive"}
+]

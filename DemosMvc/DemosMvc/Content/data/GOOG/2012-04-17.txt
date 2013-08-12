@@ -1,0 +1,59 @@
+[
+{"time":"1:44","usr":"angry_veteran","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/WLnsSf5P #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"1:53","usr":"gochujang81","txt":"DarthTrader\u2019s Market Recap \u2013 $GMXR $DJT $SPX $INDU $COMPQX $PCLN $AAPL $GOOG http://t.co/uWDIXdKo","lbl":"Neutral"}
+,{"time":"2:12","usr":"joshblings","txt":"RT @investlite: Charts For Tuesday 4/17 - $aapl $adbe $allt $amzn $azo $bbby $beam $crm $de $ebay $gmcr $goog $hero $lnkd http://t.co/hrgqzfyY","lbl":"Neutral"}
+,{"time":"2:30","usr":"SeekingAlpha","txt":"What the Market Wants: Technology Stocks Under Siege http://t.co/aLkE7Du8 $AAPL $GOOG $DIA $SPY $QQQ $IVV $VTI","lbl":"Negative"}
+,{"time":"6:49","usr":"Japanesegunto","txt":"$AAPL is still race to the bottom....compared to $Goog.....","lbl":"Positive"}
+,{"time":"6:50","usr":"RobinMeade","txt":"love! RT \u201C@JenWesthoven: Best Job Ever??? $GOOG Google posts opening for full-time doodler http://t.co/gtG9FGFb \u0022First impressions matter\u0022\u201D","lbl":"Neutral"}
+,{"time":"6:51","usr":"ahmedwa","txt":"RT @SAI: Nokia And Microsoft Were Totally Slammed By Their Most Important Partners $MSFT $NOK $AAPL $GOOG by @jyarow http://t.co/hwSmjrSy","lbl":"Neutral"}
+,{"time":"6:53","usr":"capemaverick","txt":"RT @SAI: Nokia And Microsoft Were Totally Slammed By Their Most Important Partners $MSFT $NOK $AAPL $GOOG by @jyarow http://t.co/hwSmjrSy","lbl":"Neutral"}
+,{"time":"7:51","usr":"ppeachin","txt":"@DrDuru $GOOG Prposed Split will allow the Big holdrs to remain in contrl + sell half their holdngs...if apprved - controlled by same holdrs","lbl":"Neutral"}
+,{"time":"7:52","usr":"ScottGow1","txt":"RT @Trending123: RT @CapstoneTrader A few days ago it was which would hit $1000 first. Now it\u0027s which will hit $500 first. $AAPL $GOOG (LOL)","lbl":"Negative"}
+,{"time":"7:52","usr":"VinodColeslaw","txt":"RT @hblodget: Only 1% of Apple stock owned by mom+pop? RT @ericjackson: Retail ownership of techs: $RIMM 15%, $MSFT 13%, $YHOO 12%, $AAPL 1%, $GOOG 0.5%","lbl":"Neutral"}
+,{"time":"7:53","usr":"AKPalit","txt":"#Google is reportedly set to unveil its own #GoogleDrive, a competitor to #Dropbox, within the next couple of weeks. $GOOG","lbl":"Neutral"}
+,{"time":"8:47","usr":"stockplace52","txt":"$GOOG - Google Stock Analysis - ATR is bullish - http://t.co/BIbXRubQ","lbl":"Positive"}
+,{"time":"8:48","usr":"barronstechblog","txt":"AAPL: Cowen Ups FYQ2 iPhone Estimate - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $MSFT $NOK $RIMM http://t.co/AyJs8erM","lbl":"Neutral"}
+,{"time":"8:49","usr":"UdallTechStrat","txt":"Oakley Tests Technology That Would Rival Google\u2019s Project Glass http://t.co/wSJZbfKm via @BloombergNews $goog\u0027s Idea looking better?!?","lbl":"Neutral"}
+,{"time":"9:19","usr":"gilsoomgt","txt":"$XLK bounced right off that 50 dma. $GOOG and $AAPL retracing back to trendline.","lbl":"Positive"}
+,{"time":"9:20","usr":"BioTechReports","txt":"$BPAX breaking out on huge volume! #cnbc,#msnbc,#nyse,#wsj,$gs,$goog,$aapl","lbl":"Neutral"}
+,{"time":"9:21","usr":"behessel","txt":"RT @TheStreet: Apple v. Google Case May End Patent Gold Rush http://t.co/WT1gjJC4 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:21","usr":"hilaloman","txt":"RT @tradefast: $GOOG is a sleeper, trading about 30% of an average day\u0027s volume, whereas $AAPL traded about 60%","lbl":"Neutral"}
+,{"time":"10:05","usr":"BioTechReports","txt":"$NBY breaking out. #cnbc,#msnbc,#nyse,#wsj,$gs,$goog,$aapl,$dndn,$pfe,$jnj,$amgn,$ctic,$chtp,$vvus","lbl":"Neutral"}
+,{"time":"10:06","usr":"BioTechReports","txt":"$YMI breaking out! #cnbc,#msnbc,#nyse,#wsj,$gs,$goog,$aapl,$dndn,$pfe,$jnj,$amgn,$ctic,$chtp,$vvus","lbl":"Neutral"}
+,{"time":"10:06","usr":"Stockfactchecke","txt":"@tradefast $GOOG \u0022bullish continuation pattern\u0022 -- what does that mean? On what time frame? What is this, amateur hour?","lbl":"Positive"}
+,{"time":"10:41","usr":"BioTechReports","txt":"$SIRI breaking out on news Howard Stern suit dropped! #cnbc,#msnbc,#nyse,#wsj,$gs,$goog,$aapl,$dndn,$pfe,$jnj,$amgn,$ctic,$chtp,$vvus","lbl":"Neutral"}
+,{"time":"10:44","usr":"jonfortt","txt":"Oracle v Google: $GOOG argues Lindholm email simply saying it was too late to rip Java out of Android in 2010","lbl":"Neutral"}
+,{"time":"10:44","usr":"JerTignes","txt":"$aapl the very good news is that it seems $aapl has now diverted of $goog down trend!","lbl":"Negative"}
+,{"time":"11:32","usr":"TraderFlorida","txt":"$AAPL $GOOG $PCLN did i give back some of my profits being short overnight? Sure I did, but over all huge gains since last week","lbl":"Neutral"}
+,{"time":"11:32","usr":"v_stktrdr","txt":"RT @ybfmiami: @cnbcfastmoney @CortesSteve Looking forward to $AAPL overtaking $GOOG share price again just to prove Cortes wrong as usual","lbl":"Neutral"}
+,{"time":"11:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/178, $FSLR/67, $GOOG/41, $GS/39, $SPY/36, $C/32, $JNJ/23, $KO/20, $BAC/19. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:36","usr":"crash_account","txt":"@TraderFlorida $aapl $goog converged at $600. The former will split (only 2:1); the latter IMO would have been much higher by now post 10:1)","lbl":"Neutral"}
+,{"time":"12:05","usr":"scottabel","txt":"RT @SAI: Google Rolls Out A New Bike! $GOOG by @MattRosoff http://t.co/fwD0lwcn","lbl":"Positive"}
+,{"time":"12:10","usr":"SeekingAlpha","txt":"Yahoo: Should Investors Buy Ahead Of Earnings? http://t.co/xqTYy5zP $EBAY $FB $GOOG $MSFT $YHOO","lbl":"Neutral"}
+,{"time":"12:26","usr":"FaryanAM","txt":"@EddyElfenbein Does that tell you more about $GOOG or $SPY?","lbl":"Neutral"}
+,{"time":"12:27","usr":"blackmarkt","txt":"@Jemelec1210 message to $GOOG gmail difference between facebook & everyone else \u0022we don\u0027t crash ever\u0022 http://t.co/gUUBYpTa","lbl":"Neutral"}
+,{"time":"12:28","usr":"Hatmage","txt":"This is news? Seriously? o_O \u201C@businessinsider: Gmail Is Down! $GOOG by @stevekovach http://t.co/1SD9XdGq\u201D","lbl":"Negative"}
+,{"time":"12:56","usr":"USwwwStocks","txt":"$GOOG News: China Life, Indian Oil, Posco, San Miguel: Asia Stocks Preview http://t.co/v0Vwilkp #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"12:56","usr":"BJvV123","txt":"RT @businessinsider: Gmail Is Down! $GOOG by @stevekovach http://t.co/68YbFlRE","lbl":"Negative"}
+,{"time":"12:57","usr":"StockTwits","txt":"Tuesday links: choosing depression http://t.co/nbE9RI15 via @abnormalreturns $IYT $AAPL $WLP $GOOG $GS","lbl":"Neutral"}
+,{"time":"12:58","usr":"xraysjazz","txt":"RT @SAI: Larry Page Was Obsessed With The Name \u0027Google\u0027 Even In High School $GOOG by @mattlynley http://t.co/Dzc13wNi","lbl":"Neutral"}
+,{"time":"13:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/190, $GOOG/63, $SPY/59, $GS/39, $RIMM/33, $UEC/31, $ORCL/27, $C/23. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"13:35","usr":"BUDDIEE18","txt":"be still my heart -- $GOOG \u0027s about to make another move?...up??","lbl":"Positive"}
+,{"time":"13:37","usr":"howardlindzon","txt":"RT @StockTwits: Tuesday links: choosing depression http://t.co/nbE9RI15 via @abnormalreturns $IYT $AAPL $WLP $GOOG $GS","lbl":"Neutral"}
+,{"time":"13:38","usr":"Goodlett","txt":"Much needed outcome - $GOOG sponsored research creates algorithm detecting bogus review [which rampantly skew results] http://t.co/McADd70v","lbl":"Neutral"}
+,{"time":"14:19","usr":"Hedged_In","txt":"Commented on: \u0022Yahoo: Should Investors Buy Ahead Of Earnings?\u0022 http://t.co/Q8HzizYv $EBAY $FB $GOOG $MSFT $YHOO","lbl":"Neutral"}
+,{"time":"14:21","usr":"mikecardascia","txt":"RT @wallstCS: What\u0027s Moving These Hot Stocks: Sirius XM, Apple, RIMM, First Solar http://t.co/xRCmZsMW $SIRI $AAPL $IBM $FCX $RIMM $NOK $GOOG $FSLR,","lbl":"Neutral"}
+,{"time":"14:21","usr":"mikecardascia","txt":"RT @wallstCS: Gmail Outage Puts Twitter on Boil $MSFT $GOOG http://t.co/12dy0bJF","lbl":"Negative"}
+,{"time":"15:09","usr":"investorblog","txt":"RT @Jamtrades Why did $UBS add $WAG to their preferred buy list? Why did they do it today? Why the incessant buying today? $AAPL $GOOG $UBS","lbl":"Neutral"}
+,{"time":"16:13","usr":"SAI_Tools","txt":"These 9 Wearable Gadgets Are The Hottest Things In Tech Right Now $GOOG $SNE $MMI $NKE by @KamailaSanders http://t.co/TRb475rP","lbl":"Neutral"}
+,{"time":"16:13","usr":"SAI","txt":"These 9 Wearable Gadgets Are The Hottest Things In Tech Right Now $GOOG $SNE $MMI $NKE by @KamailaSanders http://t.co/M4ANJq2o","lbl":"Neutral"}
+,{"time":"16:14","usr":"BioTechReports","txt":"Provenge for Warren Buffett???????? #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$c,$gs,$goog,$appl,$f,$v,$s,$ctic,$bac,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"16:14","usr":"JerTignes","txt":"$aapl... Bye bye $Goog","lbl":"Negative"}
+,{"time":"17:13","usr":"lluccipha","txt":"SAI: Here\u0027s One Reason Why Google\u0027s Ad Prices May Be Dropping $GOOG by @MattRosoff http://t.co/G8Tx2FVq","lbl":"Negative"}
+,{"time":"17:17","usr":"mderins","txt":"look to solid companies like $aapl $dvn $ibm $hd $wy $goog $wfc $jpm enjoy @mra99","lbl":"Positive"}
+,{"time":"17:17","usr":"Schwartzee","txt":"GR8!!:\u201C@SAI: These 9 Wearable Gadgets Are The Hottest Things In Tech Right Now $GOOG $SNE $MMI $NKE by @KamailaSanders http://t.co/Ef0PvO4e\u201D","lbl":"Neutral"}
+,{"time":"19:16","usr":"MyApplePi","txt":"@jimcramer I want the $GOOG goggs! $AAPL\u0027s gonna play catch-up on this one.","lbl":"Neutral"}
+,{"time":"19:17","usr":"holaMau","txt":"Neck to neck. $AAPL $GOOG http://t.co/FxRWAhUM","lbl":"Neutral"}
+,{"time":"22:12","usr":"davidbcummins","txt":"$aapl & $goog trading @ the same price per share for 2nd time in a week","lbl":"Neutral"}
+,{"time":"22:14","usr":"Szulca","txt":"Let the games begin RT Here\u0027s The Evidence Google Dug Up To Defend Itself Against Oracle $GOOG $ORCL by @MattRosoff http://t.co/xzGJ8WBY","lbl":"Neutral"}
+]

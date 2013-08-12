@@ -1,0 +1,28 @@
+[
+{"time":"0:50","usr":"boot_strapped","txt":"@StockTwits $AMZN","lbl":"Neutral"}
+,{"time":"1:09","usr":"4toptrader","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/VAuH0F3d","lbl":"Positive"}
+,{"time":"6:46","usr":"fbaruffi","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/vgXR5DWs","lbl":"Positive"}
+,{"time":"6:47","usr":"fbaruffi","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/z82BZxph","lbl":"Neutral"}
+,{"time":"6:49","usr":"sonyaa2","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/vgXR5DWs","lbl":"Positive"}
+,{"time":"7:36","usr":"jbeezy428","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/vgXR5DWs","lbl":"Positive"}
+,{"time":"7:38","usr":"RajivBhuva","txt":"RT @themotleyfool: Pigs fly, dogs & cats live together, and Amazon.com ($AMZN) goes bricks-and-mortar? Rumors of retail stores: http://t.co/YO0EOJry","lbl":"Positive"}
+,{"time":"7:40","usr":"meninakk","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/BnApTs8a","lbl":"Neutral"}
+,{"time":"9:01","usr":"dschorrnyc","txt":"Amazon.com Kindle Fire estimates raised at Pacific Crest. 14.9MM from 12.7MM. $AMZN","lbl":"Positive"}
+,{"time":"9:02","usr":"firstadopter","txt":"$AMZN announces Viacom video streaming deal","lbl":"Positive"}
+,{"time":"10:03","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:47am: 186.20 +2.01 (+1.09%).","lbl":"Neutral"}
+,{"time":"10:03","usr":"brunofms","txt":"RT @SAI: Amazon Just Made A Deal That Could Crush Netflix $AMZN $NFLX by @_dtl http://t.co/vgXR5DWs","lbl":"Positive"}
+,{"time":"11:11","usr":"firstadopter","txt":"$AMZN margins will go even lower now on the company paying Viacom TV show streaming licensing fees for Prime subscribers","lbl":"Negative"}
+,{"time":"11:11","usr":"MichaelComeau","txt":"inching towards shorting $AMZN, but stocks that \u0027should\u0027 go down don\u0027t always respect my wishes.","lbl":"Neutral"}
+,{"time":"11:13","usr":"firstadopter","txt":"Going to call it. $AMZN will lose money in a qter sometime this year. What\u0027s a good P/E multiple on negative earnings? How does that work?","lbl":"Negative"}
+,{"time":"12:05","usr":"rechtsteiner","txt":"$AMZN surpasses $HMV as UK\u0027s top entertainment retailer. http://t.co/d4ihV1Ms via @TNW #ACW","lbl":"Positive"}
+,{"time":"12:06","usr":"abazan9","txt":"RT @BloombergNews: Amazon adds Viacom shows to expand streaming | http://t.co/pFctaIfP $AMZN $VIAB","lbl":"Neutral"}
+,{"time":"13:25","usr":"wallstCS","txt":"Groupon Preparing for First Public Earnings Announcement http://t.co/HT3nemxL $GRPN $GOOG $AMZN #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"13:26","usr":"BioTechReports","txt":"$BPAX getting squeezed back over $1 soon!?!? If you listened to bashers..you lost!(Your fault) $pfe, $jnj, $dndn, $gs, $goog, $yhoo, $amzn","lbl":"Neutral"}
+,{"time":"14:31","usr":"LimitBuyer","txt":"Until the dip buyers stop buying, follow them! $AAPL, $AMZN, $BIDU","lbl":"Positive"}
+,{"time":"14:35","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/69, $SPY/30, $BAC/25, $TSL/23, $MOBI/16, $NEWN/14, $HSOL/14, $AMZN/13. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:37","usr":"BioTechReports","txt":"$BPAX - critical resistance at .95 level - once broken will move over $1 fast. $dndn, $pfe, $jnj, $gs, $goog, $bac, $siri, $ymi, $amzn, $c","lbl":"Neutral"}
+,{"time":"16:21","usr":"katetrades","txt":"@johnwelshtrades Living Social is already doing that.. and as a major investor, $AMZN","lbl":"Neutral"}
+,{"time":"20:17","usr":"CapCube","txt":"\u201C@DavidSchawel: @howardlindzon Better 5yr hold: $FB at $100b or $AMZN at $85b?\u201D.-- Neither ! But $FB better profit potential, margins","lbl":"Negative"}
+,{"time":"20:26","usr":"DavidSchawel","txt":"@CapCube @howardlindzon I\u0027m apathetic on $FB w/ unknown valuation & bearish on $AMZN","lbl":"Neutral"}
+,{"time":"20:33","usr":"CapCube","txt":"@DavidSchawel @howardlindzon Good pt. Howard. I am a wee bit bearish on $AMZN stock also, in case anyone couldn\u0027t tell ;-) but like the co.","lbl":"Negative"}
+]

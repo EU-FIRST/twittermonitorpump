@@ -1,0 +1,19 @@
+[
+{"time":"7:34","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) planning to take on Microsoft Corporation ...: Google Inc (NASDAQ:GOOG) planning... http://t.co/87LVq69F","lbl":"Neutral"}
+,{"time":"7:43","usr":"rcastle06","txt":"RT @SAI: 10 Things You Need To Know This Morning $YHOO $GOOG $FB $ZNGA by @nichcarlson http://t.co/LcENClgu","lbl":"Neutral"}
+,{"time":"7:47","usr":"SeekingAlpha","txt":"Apple\u0027s Still A Better Value Than Google http://t.co/RBTpBkLa $GOOG $SSNLF.PK $AAPL","lbl":"Negative"}
+,{"time":"9:45","usr":"ospero_JasonC","txt":"RT @SAI: A 15-Year-Old Reveals Everything You Need To Know About The State Of Technology $FB $GOOG $AAPL by @jyarow http://t.co/BY1hpOn2","lbl":"Neutral"}
+,{"time":"9:46","usr":"tikulli","txt":"RT @SAI: A 15-Year-Old Reveals Everything You Need To Know About The State Of Technology $FB $GOOG $AAPL by @jyarow http://t.co/BY1hpOn2","lbl":"Neutral"}
+,{"time":"9:48","usr":"jflyons","txt":"RT @SAI A 15-Year-Old Reveals Everything You Need To Know About The State Of Technology $FB $GOOG $AAPL by @jyarow http://t.co/NtwGqflQ","lbl":"Neutral"}
+,{"time":"10:28","usr":"StockMarket411","txt":"Google Announces New Music Service \u2013 Analyst Blog $goog http://t.co/XaGEmbDg goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"10:28","usr":"takingstock614","txt":"All the HB names look good today. $AMZN $AAPL $GOOG $PCLN $MA","lbl":"Positive"}
+,{"time":"11:02","usr":"Soccmelbein","txt":"RT @Goodlett: Smart take on $AAPL #smartphone market decline via $GOOG\u0027s #iOS apps that steer users back to #Google http://t.co/OThhR0Rs $MSFT","lbl":"Positive"}
+,{"time":"11:03","usr":"rodrigociuffo","txt":"RT @SAI: Google Is Attacking Apple From The Inside Out \u2013 And It\u0027s Working $AAPL $GOOG by @nichcarlson http://t.co/UnLxVVAF","lbl":"Positive"}
+,{"time":"11:05","usr":"jyeater","txt":"RT @businessinsider: Google Is Attacking Apple From The Inside Out \u2013 And It\u0027s Working $AAPL $GOOG by @nichcarlson http://t.co/A5W6NNbx","lbl":"Positive"}
+,{"time":"11:34","usr":"dschorrnyc","txt":"RT @bbolan1: Larry Page has sold $642,093,443 worth of $GOOG stock in 2012.","lbl":"Negative"}
+,{"time":"11:34","usr":"gsrobins","txt":"RT @SAI: A 15-Year-Old Reveals Everything You Need To Know About The State Of Technology $FB $GOOG $AAPL by @jyarow http://t.co/BY1hpOn2","lbl":"Neutral"}
+,{"time":"11:35","usr":"khizarsonu","txt":"RT @businessinsider: Google Is Attacking Apple From The Inside Out \u2013 And It\u0027s Working $AAPL $GOOG by @nichcarlson http://t.co/A5W6NNbx","lbl":"Positive"}
+,{"time":"12:38","usr":"Techhrzn","txt":"RT @SAI: How App Makers Can Earn More Money In A Post-PC World $GOOG $FB by @tim_tuttle http://t.co/O58su2Hg","lbl":"Neutral"}
+,{"time":"14:29","usr":"gioisly","txt":"RT @SAI: How App Makers Can Earn More Money In A Post-PC World $GOOG $FB by @tim_tuttle http://t.co/O58su2Hg","lbl":"Neutral"}
+,{"time":"16:27","usr":"rameyyr2","txt":"here we go $GOOG","lbl":"Neutral"}
+]

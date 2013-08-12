@@ -1,0 +1,40 @@
+[
+{"time":"6:56","usr":"best_of_iran","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/G5wBfH8M #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"6:56","usr":"Trefis","txt":"Is Windows Phone at a Turning Point? http://t.co/eVFwIJLl $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"7:00","usr":"SeekingAlpha","txt":"5 Futuristic Picks To Exploit The Value Investing Bubble http://t.co/XWiLgHyS $DDMG $GOOG $LGF $LTBR $PSTI $TSLA","lbl":"Neutral"}
+,{"time":"8:51","usr":"Minyanville","txt":"#YPO: @todd_harrison Getting Social In Palo Alto http://t.co/1ONY8ivh $GOOG $LNKD","lbl":"Neutral"}
+,{"time":"8:53","usr":"danshep55","txt":"$semi\u0027s all taking lows guys.. $goog lows aswell .. dont fall in love with the mkt .. your strategy is your only friend","lbl":"Negative"}
+,{"time":"9:18","usr":"SJosephBurns","txt":"$GOOG & $AAPL acting weak in a strong market, that\u0027s different.","lbl":"Negative"}
+,{"time":"9:19","usr":"charliegodwin","txt":"@mfin Glad I left $AAPL alone, underperforming, for now. $GOOG hit $640 as well. Seems like a weird market. $PCLN defies gravity.","lbl":"Negative"}
+,{"time":"10:20","usr":"takingstock614","txt":"$GOOG taking a breather. Much higher prices to come.","lbl":"Positive"}
+,{"time":"10:21","usr":"bret_jensen","txt":"Commented on: \u0022A Provocative Play On The Smart Phone Market: Nokia\u0022 http://t.co/Gl9qZRGo $AAPL $GOOG $MSFT $RIMM $T $NOK","lbl":"Neutral"}
+,{"time":"10:21","usr":"seospecialistbd","txt":"RT @craigBrownTech ::$GOOG to Rethink Wallet Strategy http://t.co/irWun6To Is anyone wondering why Google does... http://t.co/tO4Zbhuc","lbl":"Neutral"}
+,{"time":"11:15","usr":"ColinSan","txt":"RT @FierceBiotech: Andreas Sundquist - \u0022Genomics platform builder\u0022 - Fierce\u0027s Top 10 #Biotech Techies http://t.co/JcmgcCQd @DNAnexus $GOOG","lbl":"Neutral"}
+,{"time":"11:15","usr":"ZisblU4U","txt":"$GOOG SEARCH ALGORYTHM EXPOSED . you figure it out . http://t.co/Eccd8FqF","lbl":"Neutral"}
+,{"time":"12:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/87, $SPY/44, $INTC/35, $GOOG/27, $IBM/27, $CRM/26, $PG/25, $GLD/23. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"12:45","usr":"Real_Interloper","txt":"RT @abnormalreturns: Monday links: knowing what you don\u0027t know, economic surprises waning and \u0022useful\u0022 economics. http://t.co/7rkcUeFm $GOOG $ACN $IBM $AAPL $XOM","lbl":"Neutral"}
+,{"time":"13:11","usr":"coryjwatson","txt":"$GOOG 660 calls, 15.90 bring the cheddar","lbl":"Positive"}
+,{"time":"13:11","usr":"STnet","txt":"Monday links: a dangerous response | via @abnormalreturns http://t.co/zQAKnfcp $C $GOOG $ACN $IBM $XOM $AAPL","lbl":"Neutral"}
+,{"time":"13:42","usr":"willyau","txt":"\u201C@SAI: Is It A Condom Or An Android Phone? $GOOG by @stevekovach http://t.co/7e38irVD\u201D Hilarious!","lbl":"Negative"}
+,{"time":"13:42","usr":"thefinancepress","txt":"$GOOG Apple Offers Royalty-Free Licenses For Nano-SIM Patents-Source: Apple Offers Royalty-Free Licenses For Na... http://t.co/CzuUqajC","lbl":"Neutral"}
+,{"time":"13:43","usr":"srisri55","txt":"RT@srisri55 As $AAPL $AMZN $BIDU $PCLN took off... the other leader $GOOG still lagginb behind... it might take off any time.... look out.","lbl":"Positive"}
+,{"time":"13:43","usr":"lluccipha","txt":"SAI: Is It A Condom Or An Android Phone? $GOOG by @stevekovach http://t.co/ollnT4P5","lbl":"Neutral"}
+,{"time":"14:01","usr":"Borja_Guerrero","txt":"RT @businessinsider: Apple Is Preparing To Damage Google In China $AAPL $GOOG $BIDU by @jyarow http://t.co/eNSprQXf","lbl":"Negative"}
+,{"time":"14:02","usr":"iam_bukky","txt":"RT @SAI: Apple Is Preparing To Damage Google In China $AAPL $GOOG $BIDU by @jyarow http://t.co/CZ9msD7X","lbl":"Negative"}
+,{"time":"14:02","usr":"glorykingdom","txt":"RT @businessinsider: Apple Is Preparing To Damage Google In China $AAPL $GOOG $BIDU by @jyarow http://t.co/eNSprQXf","lbl":"Negative"}
+,{"time":"14:22","usr":"mark_holthaus","txt":"RT @businessinsider: Is It A Condom Or An Android Phone? $GOOG by @stevekovach http://t.co/fJNd6pVl","lbl":"Negative"}
+,{"time":"14:24","usr":"lwalk","txt":"RT @SAI: Is It A Condom Or An Android Phone? $GOOG by @stevekovach http://t.co/4LKavrIY","lbl":"Neutral"}
+,{"time":"14:24","usr":"Petetheroadie","txt":"RT @SAI: Is It A Condom Or An Android Phone? $GOOG by @stevekovach http://t.co/4LKavrIY","lbl":"Neutral"}
+,{"time":"14:25","usr":"typeoneerror","txt":"RT @businessinsider: Is It A Condom Or An Android Phone? $GOOG by @stevekovach http://t.co/fJNd6pVl","lbl":"Neutral"}
+,{"time":"14:52","usr":"howardlindzon","txt":"Monday links: a dangerous response. http://t.co/eLcxjyuv via @abnormalreturns $GOOG $ACN $IBM $AAPL $XOM","lbl":"Neutral"}
+,{"time":"16:00","usr":"leowise","txt":"Would $AAPL be willing to spend 30Bs to buy $BIDU and end its reliance on $GOOG for search? What are the potential synergies is the question","lbl":"Neutral"}
+,{"time":"16:00","usr":"Goodlett","txt":"Redefine #Content - Stats to #DrawSomething mobile game is staggering in compare to #Facebook $AOL $GOOG $ZNGA http://t.co/6DIdXk6B","lbl":"Neutral"}
+,{"time":"16:04","usr":"noah3point0","txt":"Hilarious! RT @SAI: Is It A Condom Or An Android Phone...THE GAME! $GOOG by @stevekovach http://t.co/PosA8FNE","lbl":"Neutral"}
+,{"time":"16:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $SPY/61, $AAPL/55, $INTC/35, $MAPP/30, $GOOG/17, $VXX/17, $APOL/17, $QQQ/17. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"17:03","usr":"lazywisdom","txt":"Struggling to grok how same co. that built an XLNT Web experience for Maps, what 3 or 4 years ago, releases Play, which feels Web 1.0. $GOOG","lbl":"Neutral"}
+,{"time":"17:03","usr":"marksigal","txt":"Struggling to grok how same co. that built an XLNT Web experience for Maps, what 3 or 4 years ago, releases Play, which feels Web 1.0. $GOOG","lbl":"Neutral"}
+,{"time":"17:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/85, $SPY/27, $AMZN/22, $MAPP/20, $GOOG/18, $GS/13, $ARNA/10, $GLD/10. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"18:23","usr":"arhamid","txt":"\u201C@SAI: 9 Charts That Show The Amazing Growth Of Android $GOOG $AAPL http://t.co/yR3V0luj\u201D it\u0027s called the art of giving face","lbl":"Positive"}
+,{"time":"18:28","usr":"lluccipha","txt":"SAI: Google Chromebooks: Not Dead Yet! $GOOG $SNE by @MattRosoff http://t.co/hLpPps4K","lbl":"Positive"}
+,{"time":"18:28","usr":"igrowthinvest","txt":"NEW Post: My thoughts on $BIDU http://t.co/dzhSHaUf $SPY $SPX $FXI $QQQ $AAPL $GOOG $$","lbl":"Neutral"}
+]

@@ -1,0 +1,11 @@
+[
+{"time":"7:07","usr":"wallstCS","txt":"Here\u0027s Why Google Delayed the Launch of Its New Tablet http://t.co/FqwDc0yw $GOOG $AMZN $NVDA $AAPL #tech #android","lbl":"Positive"}
+,{"time":"8:54","usr":"LDrogen","txt":"$AMZN http://t.co/l3fdcv7h Less Kindle sales = more profit.","lbl":"Neutral"}
+,{"time":"9:45","usr":"rechtsteiner","txt":"$AMZN is really good and really bad. Keep your enemies close and Amazon closer (when you can). #tocchicago","lbl":"Positive"}
+,{"time":"10:44","usr":"Mark_Lexus","txt":"that $AMZN might hit sooner than earnings.just cant pull trigger for may till then though","lbl":"Neutral"}
+,{"time":"12:25","usr":"spbaines","txt":"RT @LDrogen: Amazon definitely RT @ivanhoff: Who is going to bid for Pinterest then. $AMZN $EBAY make the most sense","lbl":"Neutral"}
+,{"time":"12:26","usr":"prostocktrader","txt":"Buyiing small $AMZN (193.05) with a 192.00 stop.","lbl":"Positive"}
+,{"time":"15:40","usr":"InfoEconProject","txt":"RT @StockTwits: RT @CNBCMelloy Topeka Capital: \u0022$AMZN is currently working on a smartphone that we believe is planned to launch this year\u0022","lbl":"Neutral"}
+,{"time":"17:31","usr":"tomkwon","txt":"Capitalism, bitchez! \u0022@zerobeta: Who is more evil, $AMZN replacing people with robots, or $AAPL replacing Americans with low wage Chinese?\u0022","lbl":"Neutral"}
+,{"time":"20:54","usr":"st_swing","txt":"ShadowTraderPro Swing Trader 04.10.12 $FDX $AMZN $GOOG $IBM #stocks http://t.co/I5fU2tHz","lbl":"Neutral"}
+]

@@ -1,0 +1,7 @@
+[
+{"time":"7:19","usr":"kueybir7","txt":"StockSage1 You can\u0027t post pictures of your cat on $AMZN like you can on $FB caseclosed valuation.","lbl":"Neutral"}
+,{"time":"7:35","usr":"mitanshu","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"7:41","usr":"ganaxicapital","txt":"Commented on: \u0022Insider Bought 3 Plummeting Consumer Growth Stocks Last Week, And O... http://t.co/suvkGdBm $AMZN $BEAM $CVS $FOSL","lbl":"Neutral"}
+,{"time":"13:11","usr":"Federico_II","txt":"@RickRock3030 @hblodget $AMZN has better growth than many startups, on a real business, and 3 BLN gross on 13 revenue is worth watching.","lbl":"Positive"}
+,{"time":"20:21","usr":"jimcollins","txt":"My analysis also RT @harmongreg: $AMZN - http://t.co/eusdYzPO heading to 210, with 206 supp under that on way to gap fill","lbl":"Negative"}
+]

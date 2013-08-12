@@ -1,0 +1,13 @@
+[
+{"time":"8:15","usr":"Lawndale1","txt":"http://t.co/BzkVFv3s Hundreds of Films from Paramount Pictures Coming to Prime Instant Video $NFLX $AMZN $VIA","lbl":"Neutral"}
+,{"time":"8:48","usr":"drillings","txt":"good listen - Diego Piacentini from $AMZN talks at @ecorner, including a great part re the #andoncord at 22 min mark - http://t.co/ZaIODb3H","lbl":"Neutral"}
+,{"time":"9:56","usr":"AndrewhFX","txt":"The leaders not showing any weakness...$AAPL, $GOOG, $FB, $PCLN, $AMZN, $MA and everyone is forgetting about $WMT breakout, limited downside","lbl":"Positive"}
+,{"time":"9:56","usr":"tradeadan","txt":"$AMZN added a wee more.","lbl":"Positive"}
+,{"time":"12:31","usr":"Scooter25","txt":"@TraderFlorida will you stay in $amzn if it closes above recent low. Thank you!!","lbl":"Neutral"}
+,{"time":"12:54","usr":"z8angela","txt":"@z8angela Now two weeks later, they say $AAPL nice chart at $561, & $AMZN ugly chart at $214. What will they say in ten days? Trade smart!","lbl":"Negative"}
+,{"time":"13:46","usr":"marketmavenz","txt":"RT @TraderFlorida: Current holdings $AAPL $IWM $AMZN short - $TZA $TWM long (net short) http://t.co/3lbhsqVR","lbl":"Negative"}
+,{"time":"14:12","usr":"josephjpeters","txt":"I\u0027m watching a KPCB partner talk about how great $AMZN is (specifically $AMZN prime). @firstadopter would disagree.","lbl":"Positive"}
+,{"time":"15:42","usr":"MassyPower","txt":"RT @SeekingAlpha: Best Buy Narrowly Beats Adjusted EPS Estimates Amid Same-Store Sales Declines http://t.co/cjnGyvJi $AMZN $BBY","lbl":"Neutral"}
+,{"time":"19:20","usr":"jattrux","txt":"RT @SeekingAlpha: Facebook Is A Buy ... If It Can Fall To $10 http://t.co/jpiUUMCY $AMZN $EBAY $GOOG $GRPN $FB","lbl":"Neutral"}
+,{"time":"23:12","usr":"takingstock614","txt":"Stocks I still favor for significant downside... $AAPL $PCLN $CMG $MA $V $CAT $JPM $GS $AMZN","lbl":"Negative"}
+]

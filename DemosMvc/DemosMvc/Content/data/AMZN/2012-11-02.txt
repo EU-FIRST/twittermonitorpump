@@ -1,0 +1,17 @@
+[
+{"time":"0:12","usr":"TheStockMD","txt":"swing positions $XPO, $CLWR, $DVAX, $LSCC, $NSU, $AAPL, $AMZN","lbl":"Neutral"}
+,{"time":"6:18","usr":"rsaintvilus","txt":"Chipotle On the Value Menu? - TheStreet http://t.co/V4BESXgq via @TheStreet $CMG $YUM $MCD $AMZN $CRM","lbl":"Neutral"}
+,{"time":"7:55","usr":"BWB79","txt":"RT @newsagg Decent warning for $AMZN buyers http://t.co/1EIzm6vy","lbl":"Negative"}
+,{"time":"9:01","usr":"TheStreet","txt":"Overpaying for a Chipotle burrito? - TheStreet http://t.co/ZniL1SbD by The Saint @rsaintvilus $CMG $YUM $MCD $AMZN $CRM","lbl":"Neutral"}
+,{"time":"9:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:47am: 235.94 +3.80 (+1.64%).","lbl":"Neutral"}
+,{"time":"9:02","usr":"TrueMarketAI","txt":"Overpaying for a Chipotle burrito? - TheStreet http://t.co/F0O8MfDt by The Saint @rsaintvilus $CMG $YUM $MCD $AMZN $CRM #Stocks","lbl":"Neutral"}
+,{"time":"9:33","usr":"rsaintvilus","txt":"RT @TheStreet: Overpaying for a Chipotle burrito? - TheStreet http://t.co/ZniL1SbD by The Saint @rsaintvilus $CMG $YUM $MCD $AMZN $CRM","lbl":"Neutral"}
+,{"time":"11:47","usr":"paulwoll","txt":"$SIRI sweet chart. :) Still love this play long. Great story. Long term I see value for $msft $goog $amzn $aapl if they bought them out.","lbl":"Neutral"}
+,{"time":"11:47","usr":"joebuff427","txt":"@jimcramer went to apple today, picked up the mini; in and out less than 2 minutes. Flawless #execution. Game changer too, $AMZN worried?","lbl":"Negative"}
+,{"time":"12:35","usr":"MValdarno","txt":"RT @SeekingAlpha: http://t.co/NHzcEPqH, Netflix And 8 Other Overvalued Stocks In The S&P 500 http://t.co/vpa5tWQc $AMZN $CRM $ISRG $NFLX $WFM $CMG","lbl":"Negative"}
+,{"time":"13:29","usr":"ajoyk","txt":"New Stores And Windows 8 Will Drive Growth For Microsoft http://t.co/OmREG5UH $AAPL $AMZN $BBY $MSFT","lbl":"Neutral"}
+,{"time":"14:27","usr":"OptionAlarm","txt":"$AAPL is done. Now we need $AMZN and $GOOG to flush out too.","lbl":"Negative"}
+,{"time":"14:31","usr":"MarketWatchPF","txt":"Negative ads seem to work better on voters than consumers. Case in point: Amazon\u0027s iPad mini attack. http://t.co/ZoAwl1W3 $aapl $AMZN","lbl":"Neutral"}
+,{"time":"14:31","usr":"valuewalk","txt":"RT @MarketWatchPF: Negative ads seem to work better on voters than consumers. Case in point: Amazon\u0027s iPad mini attack. http://t.co/ZoAwl1W3 $aapl $AMZN","lbl":"Neutral"}
+,{"time":"21:46","usr":"BigTicks","txt":"$AMZN News: http://t.co/0pEXC5uk, Netflix and 8 Other Overvalued Stocks in the S&P 500 http://t.co/sk76232L #Amazoncom #AMZN #Netflix","lbl":"Negative"}
+]

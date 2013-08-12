@@ -1,0 +1,73 @@
+[
+{"time":"0:01","usr":"POMOlist","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/yJ6rG62f #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"0:16","usr":"FoxonStocks","txt":"RT @SmartMoney: Google shares jumped 3% in late trading. It reported 2nd-quarter profit of $2.79 billion. http://t.co/wwIsBlkR $GOOG","lbl":"Positive"}
+,{"time":"0:21","usr":"Leni","txt":"RT @SAI: There Are Now 250 Million Google+ Users $GOOG by @stevekovach http://t.co/Q6wRhGz7","lbl":"Neutral"}
+,{"time":"0:27","usr":"dbreger","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Neutral"}
+,{"time":"5:35","usr":"bluebarontrader","txt":"$GOOG CLOSED YESTERDAY AT 19:59 HRS @ $609.20. STARTED JULY 20th @ 4:40 HRS AND @ 6:21 HRS IS @ $610.06","lbl":"Positive"}
+,{"time":"5:36","usr":"USwwwStocks","txt":"$GOOG News: Google Inc (NASDAQ:GOOG) Jumps, Advanced Micro Devices (AMD) Falls After ... http://t.co/CNJnWeYr #GOOG #Advanced #after","lbl":"Positive"}
+,{"time":"5:45","usr":"Tape_Reader","txt":"RT @MarketWatch: Google has been on a hiring craze. $GOOG reported that it now has nearly 55,000 employees: http://t.co/wI7Qk76t","lbl":"Neutral"}
+,{"time":"7:13","usr":"BeachFrontTr8R","txt":"@TraderFlorida $GOOG had earnings last night. It\u0027s at 607 premkt","lbl":"Neutral"}
+,{"time":"7:14","usr":"BRITSLOVEBERNE","txt":"RT @wallstCS: Did Verizon Just Drop A HINT About the New iPhone? http://t.co/h5KsurBo $VZ $AAPL $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"7:16","usr":"limatex","txt":"RT @ReutersInsider: $GE powers on with a solid profit, $GOOG a winner, $MSFT a loser in tech & more #banks probed in the #Libor scandal: http://t.co/wmFZ5fh7","lbl":"Positive"}
+,{"time":"7:16","usr":"tlmontana","txt":"$GOOG-- Platinum Members Giving the last piece to 603 and then will cash Out the rest - 3/4 Sold in 620\u0027s From 592\u0027s.","lbl":"Neutral"}
+,{"time":"8:02","usr":"rechtsteiner","txt":"Zola Aims to Replace $GOOG Books, Then Take on $AMZN. http://t.co/3Ui9coXt This will take far more than $1.3M and a social ereader.","lbl":"Neutral"}
+,{"time":"8:02","usr":"agwarner","txt":"$GOOG earnings move within expectation range...remember in theory 2/3 stocks should move *under*","lbl":"Neutral"}
+,{"time":"8:33","usr":"danshep55","txt":"$goog on watch 604.50 breakdown","lbl":"Negative"}
+,{"time":"8:33","usr":"choffman1978","txt":"Huge markets shake this morning CAREFUL!! #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets","lbl":"Neutral"}
+,{"time":"8:34","usr":"jpu19","txt":"$GOOG 2,12% $GE -0,51%","lbl":"Positive"}
+,{"time":"8:57","usr":"flexisharetrade","txt":"@FlexiShareTrade $GOOG opens up following strong earnings http://t.co/AqMJTxXy http://t.co/p46fRJO7","lbl":"Positive"}
+,{"time":"8:57","usr":"choffman1978","txt":"$BMTI up on cont buyout chatter!! #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets","lbl":"Neutral"}
+,{"time":"8:57","usr":"charts123","txt":"Traders are rushing into $AONE $BHI $EDU $GE $GOOG $SNDK http://t.co/JCru6JOV #stocks","lbl":"Positive"}
+,{"time":"9:16","usr":"takingstock614","txt":"Added $GOOG here above 610 but small.","lbl":"Positive"}
+,{"time":"9:16","usr":"tomlloyd12","txt":"$GOOG 609 hanging man on daily retest 200 fill gap up?short covering over","lbl":"Neutral"}
+,{"time":"9:16","usr":"choffman1978","txt":"Stocks SURGE on QE3 likelyhood #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets,#stocks","lbl":"Neutral"}
+,{"time":"9:30","usr":"HamzeiAnalytics","txt":"the custom $GOOG spread we got in before the close last night at $1.95 is trading at $5.38 right now -- not bad for a #PDI, huh ??","lbl":"Positive"}
+,{"time":"9:30","usr":"HunterKillerSub","txt":"the custom $GOOG spread we got in before the close last night at $1.95 is trading at $5.38 right now -- not bad for a #PDI","lbl":"Neutral"}
+,{"time":"9:31","usr":"tradingfloorcom","txt":"Have a look at the major players: $IBM, $MSFT, $GOOG, $eBay and $INTC - Analysis by @Matt_Bolduc #stocks http://t.co/mLZUcXuG","lbl":"Neutral"}
+,{"time":"9:31","usr":"knowfunn","txt":"10:21:17 2012 Sell $GOOG Jul 21 \u002712 $605 Call Executed @ $6.5 TRIPLE","lbl":"Negative"}
+,{"time":"9:54","usr":"BCITcapital","txt":"$GOOG looks like liftoff chart","lbl":"Positive"}
+,{"time":"9:54","usr":"TenBaggers","txt":"$GOOG has EV/FCF (ltm) of 12.4 -- an 8% FCF yield for a company growing well into the double digits. Its #Stock is attractive.","lbl":"Positive"}
+,{"time":"9:55","usr":"boogidown","txt":"$AAPL above 611.50 - i will double down on current position and ride upward. $GOOG working out well!!!","lbl":"Neutral"}
+,{"time":"9:55","usr":"Smart_BMW","txt":"$GOOG is having a great day. Trading over 3% despite the down market.","lbl":"Positive"}
+,{"time":"10:19","usr":"Castleinferno","txt":"RT @Reuters: EU REGULATORS WANT GOOGLE TO MAKE ANTITRUST CONCESSIONS ON ALL PLATFORMS, INCLUDING TABLETS, PCS, MOBILE DEVICES $GOOG","lbl":"Neutral"}
+,{"time":"10:19","usr":"FrankyAlmonte","txt":"RT @Reuters: EU REGULATORS WANT GOOGLE TO MAKE ANTITRUST CONCESSIONS ON ALL PLATFORMS, INCLUDING TABLETS, PCS, MOBILE DEVICES $GOOG","lbl":"Negative"}
+,{"time":"10:19","usr":"CarlyMorris2711","txt":"RT @Reuters: EU REGULATORS WANT GOOGLE TO MAKE ANTITRUST CONCESSIONS ON ALL PLATFORMS, INCLUDING TABLETS, PCS, MOBILE DEVICES $GOOG","lbl":"Neutral"}
+,{"time":"10:19","usr":"Shravya_Jain","txt":"RT @Reuters: EU REGULATORS WANT GOOGLE TO MAKE ANTITRUST CONCESSIONS ON ALL PLATFORMS, INCLUDING TABLETS, PCS, MOBILE DEVICES $GOOG","lbl":"Negative"}
+,{"time":"10:25","usr":"stock_notions","txt":"RT @BloombergTV: What stocks are you watching today? Today\u0027s top 10 stocks http://t.co/SNcnHqbq $AMD $CMG $SNDK $DTV $GE $QCOM $BAC $AAPL $MSFT $GOOG","lbl":"Positive"}
+,{"time":"10:25","usr":"Tweetspiring","txt":"RT @Reuters: EU REGULATORS WANT GOOGLE TO MAKE ANTITRUST CONCESSIONS ON ALL PLATFORMS, INCLUDING TABLETS, PCS, MOBILE DEVICES $GOOG","lbl":"Neutral"}
+,{"time":"10:25","usr":"BreakingNewzman","txt":"RT @Reuters: EU REGULATORS WANT GOOGLE TO MAKE ANTITRUST CONCESSIONS ON ALL PLATFORMS, INCLUDING TABLETS, PCS, MOBILE DEVICES $GOOG","lbl":"Neutral"}
+,{"time":"10:25","usr":"firstadopter","txt":"ITG/Majestic was wrong on $EBAY http://t.co/jeBQvZZe and $GOOG 7/11 http://t.co/TqHdUBh9","lbl":"Neutral"}
+,{"time":"10:59","usr":"choffman1978","txt":"$ACUR RALLYING up over 4% #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets,#stocks,$hgsi,$gsk","lbl":"Neutral"}
+,{"time":"11:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $SNDK +13.4%, $AAPL -0.79%, $GOOG +2.92%, $ZLCS -2.85%, $VVUS -12.94% http://t.co/18MIdslT #StockWars","lbl":"Positive"}
+,{"time":"11:00","usr":"ForTraders","txt":"#Kayak Software Opens Up 15.8% Post-IPOKayak Software Opens Up 15.8% Post-IPO http://t.co/Tyv8rtfV $GOOG","lbl":"Neutral"}
+,{"time":"11:00","usr":"ShrinkMyTaxes","txt":"Do you qualify as a business trader: FREE TRADER EVALUATION http://t.co/trZWr61R $SPY $ES_F $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"11:22","usr":"DavidBentley_FA","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/lTINowOk #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"11:23","usr":"bsteinbe","txt":"RT @SAI: Google Just Bought Sparrow, One Of The Best iPhone Developers Out There $GOOG by @mattlynley http://t.co/8vThWiKG","lbl":"Neutral"}
+,{"time":"11:23","usr":"happy_roman","txt":"RT @SAI: Google Just Bought Sparrow, One Of The Best iPhone Developers Out There $GOOG by @mattlynley http://t.co/8vThWiKG","lbl":"Neutral"}
+,{"time":"11:23","usr":"robertlendvai","txt":"RT @sparrow: We\u0027re excited to announce that Sparrow has been acquired by Google! Read more here: http://t.co/Uz2QbQCE $GOOG","lbl":"Neutral"}
+,{"time":"11:43","usr":"Launch","txt":"RT @launchticker: $goog acquires Mac email client Sparrow, will integrate into Gmail @9to5mac: http://t.co/nu6qZpMw","lbl":"Neutral"}
+,{"time":"11:44","usr":"annika","txt":"BREAKING: RT @launchticker: $goog acquires Mac email client Sparrow, will integrate into Gmail @9to5mac: http://t.co/7GUld7hE","lbl":"Neutral"}
+,{"time":"12:17","usr":"OspreyFlyer","txt":"Google Earnings Review: Fundamentals Change With Motorola Acquisition http://t.co/FnqKC5R2 $GOOG $XLK","lbl":"Neutral"}
+,{"time":"12:18","usr":"tradingview","txt":"$GOOG chart published by hbc168: http://t.co/uFwv268I. GOOG.","lbl":"Neutral"}
+,{"time":"12:19","usr":"dmackdaddy","txt":"That was quick! Google acquires #Sparrow, the star 3rd part iOS and Mac email client, will integrate into Gmail http://t.co/s9GyUFoM $GOOG","lbl":"Neutral"}
+,{"time":"12:20","usr":"tkuz4u","txt":"RT @SAI: THE TRUTH ABOUT GOOGLE\u0027S NEXUS 7 TABLET: It\u0027s Almost As Good As The iPad $GOOG $AAPL by @officialKLS http://t.co/fq2O2DTu","lbl":"Positive"}
+,{"time":"13:06","usr":"bw1128","txt":"$AMRN like clockwork! Going back up! Lets get past this pin at $15! $ARNA $VVUS $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"13:07","usr":"QYSL","txt":"RT @SAI: Google Just Bought Sparrow, One Of The Best iPhone Developers Out There $GOOG by @mattlynley http://t.co/8vThWiKG","lbl":"Positive"}
+,{"time":"13:10","usr":"launchticker","txt":"$kyak CEO Hafner says IPO went as planned; $goog buying ITA Software didn\u0027t hurt rev @allthingsd: http://t.co/mi2FhA4F","lbl":"Positive"}
+,{"time":"13:10","usr":"tk1235","txt":"RT @businessinsider: Google Just Bought Sparrow, One Of The Best iPhone Developers Out There $GOOG by @mattlynley http://t.co/T4C97TmZ","lbl":"Neutral"}
+,{"time":"13:54","usr":"Valuentum","txt":"$GOOG had another solid quarter...http://www.valuentum.com/articles/20120720_1 #stocks","lbl":"Positive"}
+,{"time":"13:55","usr":"choffman1978","txt":"$SIRI RALLYING BACK $3 upgrade!! #cnbc,#nyse,#wsj,#nyse,$pfe,$jnj,$vvus,$hgsi,$gsk,$ctic,$dndn,$ibm,$yhoo,$goog,$gs,$ms,#markets,#stocks","lbl":"Neutral"}
+,{"time":"14:39","usr":"tomdesee","txt":"before i go to the pool with my daughter....thank you $GOOG and $AMZN for a better friday!","lbl":"Positive"}
+,{"time":"14:39","usr":"AlphaVN","txt":"On the Movie in Asia $yoku $Goog $ge http://t.co/GppgoIc4","lbl":"Neutral"}
+,{"time":"14:41","usr":"CBOE","txt":"Active options at CBOE: $AAPL $MSFT $BAC $GE $CHK $GOOG $C $CMG $JPM","lbl":"Neutral"}
+,{"time":"15:36","usr":"MaggiePolicarpo","txt":"RT @SAI: Google Just Bought Sparrow, One Of The Best iPhone Developers Out There $GOOG by @mattlynley http://t.co/pFE4TmNg","lbl":"Positive"}
+,{"time":"15:37","usr":"wallstCS","txt":"Mergers and Acquisitions Review: Siemens Ready To BUY Ansaldo, Google ACQUIRES Sparrow http://t.co/vVaYQhfN $SI $GOOG $MGLN #mkt","lbl":"Neutral"}
+,{"time":"15:38","usr":"ratatrasada","txt":"RT @Reuters: EU REGULATORS WANT GOOGLE TO MAKE ANTITRUST CONCESSIONS ON ALL PLATFORMS, INCLUDING TABLETS, PCS, MOBILE DEVICES $GOOG","lbl":"Negative"}
+,{"time":"17:24","usr":"MichaelKrey","txt":"Kayak $KYAK floats solid IPO, up nearly 28% on day one, though $GOOG and other rivals lurk in its online travel stream http://t.co/ZxdO0xQ2","lbl":"Neutral"}
+,{"time":"17:24","usr":"TradersHuddle","txt":"Stocks Snap Winning Streak; Gain for the Week ($AAPL, $AMD, $BAC, $BHI, $CMG, $GE, $GOOG, $ISRG, $KYAK, $MSFT, $SNDK) http://t.co/LXL57b95","lbl":"Neutral"}
+,{"time":"17:25","usr":"FamilyOfficeGur","txt":"@valuewalk good or bad? I use it. I find the results to be as good as $GOOG.","lbl":"Neutral"}
+,{"time":"17:26","usr":"El_CAPITAN_Ars","txt":"RT @Reuters: Google\u2019s bottom line is good, but not good enough http://t.co/rhNd3zg9 $GOOG","lbl":"Negative"}
+,{"time":"20:54","usr":"thefinancepress","txt":"$GOOG Apple, Google\u0027s Motorola Unit Each Appeal Patent Rulings: Apple, Google\u0027s Motorola Unit Each Appeal Paten... http://t.co/DTUOJhQi","lbl":"Neutral"}
+,{"time":"20:55","usr":"MyInveststore","txt":"$GOOG nice little pop but may be getting ahead of it self.","lbl":"Neutral"}
+,{"time":"21:05","usr":"thesnck","txt":"@thatguyikill I didn\u0027t get a chance to watch much today. It\u0027s earnings season and some big names reported yesterday. $MSFT $GOOG $CMG","lbl":"Neutral"}
+]

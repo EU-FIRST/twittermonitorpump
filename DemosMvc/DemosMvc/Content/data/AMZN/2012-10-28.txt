@@ -1,0 +1,10 @@
+[
+{"time":"7:20","usr":"SeekingAlpha","txt":"Amazon Posts First Loss In Almost A Decade Despite Strong Sales http://t.co/88ssScA7 $AMZN","lbl":"Negative"}
+,{"time":"12:19","usr":"danielhsqr","txt":"in our weekly $AMZN top seller check I find just released $EA MOH ranked 35th, right behind Lollipop Chainsaw from $TWX, that hurts","lbl":"Negative"}
+,{"time":"12:20","usr":"howardlindzon","txt":"RT @StockTwits: Sunday links: a deliberate feeling http://t.co/lPczXQpG via @abnormalreturns $AMZN $MSFT $BKS $NYT","lbl":"Positive"}
+,{"time":"12:25","usr":"hegranes","txt":"Truer words... RT @howardlindzon: $AAPL is priced for the end of the world and $AMZN is priced for the beginning #stocktoberfest","lbl":"Negative"}
+,{"time":"13:04","usr":"KarriannGraf","txt":"RT @stockhaven: Class is tonight at 7 pm est, see you there! http://t.co/wSZygen1 via @stockhaven #study #stocks $AAPL $GOOG $QQQ $AMZN","lbl":"Neutral"}
+,{"time":"18:01","usr":"tbg4321","txt":"$ES_F, $TF_F, $CL_F, $DX_F, $6E_F, $SPY, $IWM, $DAX_F, $AAPL, $AMZN Premium charts posted $$ http://t.co/zB8AWfGd","lbl":"Neutral"}
+,{"time":"18:19","usr":"ArdavanH","txt":"Amazon thrashes #iPadMini on its home page http://t.co/XoyD5ifY . The gloves are officially off! $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"23:43","usr":"SamHamadehNYC","txt":"RT @LTommy256: \u201C@bricekiyounglee: LIVINGSOCIAL Now Valued At Just $325m Per Outside Auditors, Down 94% From $5.7 B http://t.co/lvWgTzBm\u201D $AMZN","lbl":"Neutral"}
+]

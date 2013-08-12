@@ -1,0 +1,53 @@
+[
+{"time":"5:14","usr":"PipTick","txt":"RT @SeekingAlpha: Baidu: Don\u0027t Believe All The Hype http://t.co/pViwyRb7 $AAPL $GOOG $SOHU $TCEHY.PK $BIDU","lbl":"Neutral"}
+,{"time":"5:21","usr":"Qwovadis","txt":"Commented on: \u0022Google Nexus 7 Vs. Microsoft Surface\u0022 http://t.co/msDzgKMD $GOOG $AAPL $AMZN $MSFT","lbl":"Neutral"}
+,{"time":"5:22","usr":"arisdavid1","txt":"Trading Your Google Glasses http://t.co/rssX6Y7i $GOOG by @biggercapital","lbl":"Neutral"}
+,{"time":"5:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 05:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"7:06","usr":"pennystockguys","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/NrRpJXAp","lbl":"Positive"}
+,{"time":"7:06","usr":"ADVFNplc","txt":"$GOOG - TIP SHEET: Franklin DynaTech Fund Seeks Innovative Plays for Long-Term Growth http://t.co/cilluGN5","lbl":"Neutral"}
+,{"time":"7:07","usr":"oloitiptip","txt":"RT @SAI: Adobe Gives Up On Flash For Android (Which Means It Gives Up On Flash For Mobile) $ADBE $GOOG by @jyarow http://t.co/pyAKEASA","lbl":"Neutral"}
+,{"time":"7:08","usr":"midmarketman","txt":"RT @SAI: Adobe Gives Up On Flash For Android (Which Means It Gives Up On Flash For Mobile) $ADBE $GOOG by @jyarow http://t.co/pyAKEASA","lbl":"Neutral"}
+,{"time":"8:08","usr":"charliebrwn1209","txt":"RT @andreabasilico: 5 years after iPhone debut, market caps of companies most affected \u2014 $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"8:12","usr":"businessinsider","txt":"Siri Gets A \u0027D\u0027 Grade From Top Apple Analyst Gene Munster $GOOG $AAPL by @jyarow http://t.co/drZHNw8k","lbl":"Neutral"}
+,{"time":"8:12","usr":"SAI","txt":"Siri Gets A \u0027D\u0027 Grade From Top Apple Analyst Gene Munster $GOOG $AAPL by @jyarow http://t.co/WJvmjURY","lbl":"Neutral"}
+,{"time":"8:12","usr":"benrady","txt":"$MSFT makes a tablet, sells it for $599. $GOOG makes a tablet -- manufactured in the USA -- and sells it for $199.","lbl":"Neutral"}
+,{"time":"8:55","usr":"choffman1978","txt":"$SIRI Internet radio to be launched soon!!!#cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$ctic,$pfe,$jnj,#stocks,#investments,#markets","lbl":"Neutral"}
+,{"time":"8:56","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Friday Charts: Three Bold Predictions Come To Pass http://t.co/3nYqlniB #BIDU #Bold #Charts","lbl":"Neutral"}
+,{"time":"8:57","usr":"ebcapital","txt":"$GOOG #Nexus may be the catalyst for yet another positive Q3 for the company. You can get the seasonal history here: http://t.co/WtYP7FVN","lbl":"Positive"}
+,{"time":"9:36","usr":"VCEIPO","txt":"RT @CNNMoney: CNNMoney\u0027s @DavidGoldmanCNN goes hands-on with Google\u0027s $199 Nexus 7 tablet http://t.co/I6ngSsju $GOOG","lbl":"Neutral"}
+,{"time":"9:36","usr":"acctinginsider","txt":"RT @CNNMoney: Is @Google too big to be good? What do you think? http://t.co/OhwH6q1m $GOOG","lbl":"Neutral"}
+,{"time":"9:37","usr":"KittKatt89","txt":"RT @CNNMoney: Is @Google too big to be good? What do you think? http://t.co/37FHViZv $GOOG","lbl":"Negative"}
+,{"time":"9:37","usr":"JJ13","txt":"RT @andreabasilico: 5 years after iPhone debut, market caps of companies most affected \u2014 $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"10:12","usr":"JerTignes","txt":"$aapl $Goog and it happens in others applications, several times& it doesnt wait for a movement (lot of moves available http://t.co/MxjP103c","lbl":"Neutral"}
+,{"time":"10:15","usr":"VCEIPO","txt":"RT @pattidomm: Stocks to Watch: SNDK, NFLX, BA & More http://t.co/zHqrzSG6 $ABT $AMZN $BA $DIS $FB $GOOG $LMT $NFLX $RIMM $SHPGY $SNDK $TM $WPI $YHOO","lbl":"Neutral"}
+,{"time":"10:15","usr":"JerTignes","txt":"$aapl $goog just a small thing, sure. But all is like this, working but smoothless on the just visible part of the software.","lbl":"Positive"}
+,{"time":"11:39","usr":"Freerunnering","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"11:40","usr":"SeekingAlpha","txt":"Shouldn\u0027t These Companies Pay (More) Dividends? http://t.co/QyYVc8sI $AIG $CHL $CSCO $DELL $GM $GOOG","lbl":"Neutral"}
+,{"time":"11:40","usr":"MrModZix","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"11:41","usr":"Trefis","txt":"Google Targets The Living Room With New Streaming Media Device http://t.co/GBlGJxrM by Trefis Team $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"12:39","usr":"wilkos","txt":"You could now buy both Nokia and RIM for less than Google paid for Motorola.. $NOK $RIMM $GOOG","lbl":"Negative"}
+,{"time":"12:43","usr":"firoozye","txt":"RT @zerobeta: $GOOG going after $FB with Google Glass. No better way to share that your relationship status is single than slapping on a pair of those.","lbl":"Positive"}
+,{"time":"13:48","usr":"thefinancepress","txt":"$GOOG Facebook and LinkedIn to Upgrade Security: Facebook and LinkedIn to Upgrade Security ValueWalk - 13 minut... http://t.co/i729stWs","lbl":"Neutral"}
+,{"time":"13:50","usr":"DeidreZune","txt":"$GOOG particpating which is healthy. Need to see follow-up next week ......","lbl":"Neutral"}
+,{"time":"13:53","usr":"tomliberti","txt":"New trade: Long $GOOG 555/595 July 21 strangle short 555/595 July 6 strangle for 20.40 debit","lbl":"Neutral"}
+,{"time":"15:32","usr":"BassamFadel","txt":"RT @wallstCS: Microsoft To RIM: We Can Rescue You http://t.co/uz51LcYo $MSFT $RIMM $NOK $JPM $AAPL $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:38","usr":"jonfortt","txt":"$GOOG Eric Schmidt on @CNBC: People would choose Nexus 7 over iPad bc it\u0027s cheaper, more open","lbl":"Positive"}
+,{"time":"15:39","usr":"samgustin","txt":"RT @jonfortt: $GOOG Eric Schmidt on @CNBC: People would choose Nexus 7 over iPad bc it\u0027s cheaper, more open","lbl":"Positive"}
+,{"time":"16:54","usr":"mbcbna","txt":"RT @JonathanHoenig: Who needs $AAPL or $GOOG? @Jehmu tells @MelissaAFrancis \u0022Economists agree that food stamps are one of the best economic stimulants we have.\u0022","lbl":"Negative"}
+,{"time":"16:59","usr":"Tradesight","txt":"We had a decent day for #trading #stocks, incl $GOOG and $ABT, read here: http://t.co/GEbERGlP #markets","lbl":"Neutral"}
+,{"time":"18:20","usr":"ryanmcraver","txt":"will miss the one touch bookmark feature safari has on iPad as i transition to chrome $goog $aapl","lbl":"Neutral"}
+,{"time":"18:20","usr":"busterbenson","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"18:21","usr":"keithwhamond","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"18:21","usr":"danudey","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"18:34","usr":"fsiracusa","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"18:34","usr":"BDBMoney","txt":"@jonfortt $goog tracks what you do if you sign in or not! Only you benefit from the sign in lol","lbl":"Neutral"}
+,{"time":"18:34","usr":"brianbehrend","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"18:38","usr":"thomaslebas","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"19:22","usr":"stevenwoodhead","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"19:26","usr":"patriotcoffee","txt":"RT @JonathanHoenig: Who needs $AAPL or $GOOG? @Jehmu tells @MelissaAFrancis \u0022Economists agree that food stamps are one of the best economic stimulants we have.\u0022","lbl":"Neutral"}
+,{"time":"19:27","usr":"brucegodin","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"19:31","usr":"ElPocho","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"21:27","usr":"DrDave01","txt":"RT @marlonparker: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89% cc @tomiahonen","lbl":"Neutral"}
+,{"time":"21:30","usr":"BigTicks","txt":"$GOOG News: Google Reveals Nexus 7 Tablet http://t.co/WSupMz20 #GOOG #Google #News","lbl":"Positive"}
+,{"time":"21:33","usr":"rjbischof","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+]

@@ -1,0 +1,34 @@
+[
+{"time":"0:10","usr":"JeanneLynn68","txt":"RT @LukeRomyn: Check out my Amazon author page! http://t.co/3rmZWP4p $AMZN #Kindle #books","lbl":"Neutral"}
+,{"time":"0:11","usr":"RedFrog44","txt":"RT @LukeRomyn: Check out my Amazon author page! http://t.co/3rmZWP4p $AMZN #Kindle #books","lbl":"Neutral"}
+,{"time":"8:01","usr":"IBDMeetup","txt":"RT @tjreazor: Interesting! $AMZN is now offering merchants short-term loans- http://t.co/JdAOGoNp","lbl":"Positive"}
+,{"time":"8:01","usr":"IBDinvestors","txt":"RT @tjreazor: Interesting! $AMZN is now offering merchants short-term loans- http://t.co/3uAN51Ll","lbl":"Neutral"}
+,{"time":"8:45","usr":"danshep55","txt":"$amzn watch highs ..","lbl":"Positive"}
+,{"time":"8:54","usr":"HarryWanger","txt":"RT Bought $AMZN -- bouncing off support level, see if we can get an oversold bounce.2 days until earnings. -It\u0027s insanely over sold here","lbl":"Positive"}
+,{"time":"9:07","usr":"askchrishetrade","txt":"$AMZN a long we called out for in the chat room. Was the only big stock showing early a.m strength. Broke downtrend line. look for pullback","lbl":"Positive"}
+,{"time":"9:29","usr":"runako","txt":"Faster data cloud \u0027can cut bills\u0027 #aws #ec2 $AMZN http://t.co/yNCQFhrW","lbl":"Neutral"}
+,{"time":"9:30","usr":"OneChicago","txt":"$AMZN Nov Block Trade: 132 trade. ~$3.1 MM notional value.","lbl":"Neutral"}
+,{"time":"9:50","usr":"tradethembi","txt":"$AMZN is making a real pivot buy signal now on 10 min $234.50 target http://t.co/Y9MCcYSU","lbl":"Positive"}
+,{"time":"10:20","usr":"HarryWanger","txt":"$AMZN Curious to watch as $AAPL event unfolds. Will iPad mini and education focus ebooks announcement tank $AMZN?","lbl":"Neutral"}
+,{"time":"10:52","usr":"LisainBuffalo","txt":"@BioRunUp @given2tweet I pay tax on all $AMZN items doesn\u0027t matter where they are shipped from-they are shipped to NY- they get their tax.","lbl":"Neutral"}
+,{"time":"10:52","usr":"barronstechblog","txt":"Apple: Pac Crest Sees Upside in iPhone 5, iPad Mini - Tech Trader Daily - Barron\u0027S $AAPL $AMZN $GOOG $MSFT $005930KS http://t.co/djJes0F6","lbl":"Neutral"}
+,{"time":"11:20","usr":"dubhe124","txt":"Ipad Mini to have e-ink hybrid. $amzn is doomed. buy $aapl and sell $amzn http://t.co/pYWRCGlq","lbl":"Negative"}
+,{"time":"11:22","usr":"stockdrover","txt":"Green on my radar: $GOOG, $MSFT, $BIDU , $AMZN, $FDX, $UPS, $FB all up. Tech is not wrecked. no position #nopos #stockaction","lbl":"Positive"}
+,{"time":"11:58","usr":"LaMonicaBuzz","txt":"$AMZN is flat heading into $AAPL announcement. Will investors be worried that iPad mini could wind up hurting Kindle Fire sales? Stay tuned.","lbl":"Negative"}
+,{"time":"13:10","usr":"swamptrade","txt":"$AMZN higher","lbl":"Positive"}
+,{"time":"13:10","usr":"PERIBOLLO","txt":"RT @LaMonicaBuzz: iPad mini: $329. That\u0027s got to be good news for $AMZN. Should not pressure them to cut prices on Kindles. $AMZN flat. $AAPL down 1.5%.","lbl":"Positive"}
+,{"time":"13:10","usr":"lucian_pdx","txt":"@jimcramer great news for $amzn, in the green their $199 price point is still golden","lbl":"Positive"}
+,{"time":"13:18","usr":"fbonacci","txt":"RT @sm_sears: Street expected $AAPL iPad mini to be priced at ~$250 to be competitive with $AMZN kindle","lbl":"Neutral"}
+,{"time":"13:40","usr":"Minyanville","txt":"What to Expect When You\u0027re Expecting an iPad Mini $AAPL $GOOG $AMZN http://t.co/5lcAxTEX","lbl":"Neutral"}
+,{"time":"13:40","usr":"Dasan","txt":"@TMTanalyst true- also shows how much $AMZN is willing to subsidize tablets to ensure you buy crap from them","lbl":"Negative"}
+,{"time":"14:06","usr":"WCHsueh","txt":"Bull market corrections are short & sharp, let\u0027s see where we bottom. $SPY Sell the news in $AAPL, relief rally in $AMZN given high iPad $","lbl":"Positive"}
+,{"time":"14:06","usr":"TraderPlanet","txt":"Can Facebook, Apple and Amazon Save the Day? $IBM $GOOG $AAPL $AMZN http://t.co/IzmISAgJ","lbl":"Neutral"}
+,{"time":"14:44","usr":"businessinsider","txt":"Here\u0027s How The iPad Mini Compares To The Kindle Fire And Other Popular Tablets $AAPL $GOOG $AMZN by @officialKLS http://t.co/LNpQjUIo","lbl":"Neutral"}
+,{"time":"15:06","usr":"TaintedAlpha","txt":"RT @firstadopter: Higher $AAPL iPad Mini pricing is good news for $BKS and $AMZN tablet offerings","lbl":"Positive"}
+,{"time":"15:08","usr":"hardmoneynow","txt":"Buh Bye $NFLX (as hoped)...hopefully $QCOR earnings kick ass...Net Short $CMG $NFLX $AMZN Net Long $FSLR $QCOR $CRUS...Wish me luck!","lbl":"Negative"}
+,{"time":"15:09","usr":"UnlovedMoney","txt":"@LaMonicaBuzz iPad mini is a troubling sign for $aapl, as they\u0027re now REACTING on product development instead of leading $amzn","lbl":"Neutral"}
+,{"time":"16:05","usr":"optionvoyeur","txt":"If $AAPL can sell millions of iPad minis for $329 why would they sell millions for $199? They will make money on them unlike $AMZN","lbl":"Negative"}
+,{"time":"16:08","usr":"DaveCV100","txt":"RT @optionvoyeur: If $AAPL can sell millions of iPad minis for $329 why would they sell millions for $199? They will make money on them unlike $AMZN","lbl":"Negative"}
+,{"time":"20:19","usr":"BrunoIsHere","txt":"RT @SeekingAlpha: What Just Happened To Netflix? http://t.co/9y7lB71a $AMZN $CSTR $VZ $NFLX","lbl":"Neutral"}
+,{"time":"22:19","usr":"AdamP_Canada","txt":"#Apple Unveils Smaller #IPad (mini) to Boost #Tablet Rivalry http://t.co/ZDiCREnQ | #tech $AAPL $MSFT $AMZN $GOOG","lbl":"Neutral"}
+]

@@ -1,0 +1,13 @@
+[
+{"time":"6:23","usr":"noodls_sMediaEn","txt":"RT @noodls_sRetail: $AMZN Amazon Web Services Adds Microsoft Windows Server Instances to... http://t.co/78ZK3ErR","lbl":"Neutral"}
+,{"time":"6:23","usr":"noodls_sTech","txt":"RT @noodls_sRetail: $AMZN Amazon Web Services Adds Microsoft Windows Server Instances to... http://t.co/78ZK3ErR","lbl":"Neutral"}
+,{"time":"9:07","usr":"noodls_sRetail","txt":"$AMZN Amazon\u2019s LOVEFiLM Signs Another Streaming Deal to Launch ABC TV... http://t.co/n51llzPN","lbl":"Positive"}
+,{"time":"9:07","usr":"bored2tears","txt":"Amazon\u0027s Lovefilm, ABC sign UK streaming deal. http://t.co/tUJMsTzj $AMZN $DIS $NFLX #media #stocks","lbl":"Neutral"}
+,{"time":"9:09","usr":"noodls_sMediaEn","txt":"RT @noodls_sRetail: $AMZN Amazon\u0027s LOVEFiLM Signs Another Streaming Deal to Launch ABC TV... http://t.co/NJZKmZCs","lbl":"Neutral"}
+,{"time":"11:29","usr":"jonathannpaul","txt":"@davetisch that is $AMZN\u0027s big advantage over $EBAY imo","lbl":"Positive"}
+,{"time":"14:23","usr":"OptionsTrader82","txt":"RT @TraderFlorida: Will be holding over weekend $CMG $AMZN $AAPL $GOOG $PNRA $LVS $BIDU $SPY $AZO $MON to name a few, some have for weeks now","lbl":"Positive"}
+,{"time":"18:24","usr":"BrianNorris1","txt":"\u201C@ReutersTech: 24 million customer accounts hacked at Amazon\u0027s Zappos http://t.co/3etoTu7a\u201D $AMZN","lbl":"Negative"}
+,{"time":"18:25","usr":"wallstCS","txt":"Google, Inc. Fourth Quarter Earnings Sneak Peek http://t.co/HomQlymp $SPY $GOOG $MSFT $YHOO $BIDU $AAPL $AOL $AMZN $ADBE $DMD $IACI $ANSW","lbl":"Neutral"}
+,{"time":"20:04","usr":"traderstock8","txt":"$AMZN - Amazon Stock Analysis - price & ema crossover, #bull stock - http://t.co/nqQLQKEo","lbl":"Positive"}
+,{"time":"20:06","usr":"adaugelli","txt":"When Amazon\u0027s EC2 Isn\u0027t Potent Enough For Your Cloud Hosting via @ReadWriteWeb http://t.co/jpmiWLFI #Cloud $AMZN","lbl":"Neutral"}
+]

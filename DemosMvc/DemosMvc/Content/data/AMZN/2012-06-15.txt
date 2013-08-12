@@ -1,0 +1,16 @@
+[
+{"time":"1:47","usr":"paxdickinson","txt":"RT @jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022","lbl":"Neutral"}
+,{"time":"1:56","usr":"John_Balog","txt":"Depressing if true... RT @jaltucher A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022","lbl":"Neutral"}
+,{"time":"7:02","usr":"SAI","txt":"Amazon Is Going To Sell The Kindle Fire For $150, Says DigiTimes $AMZN by @jyarow http://t.co/eXJGJzGf","lbl":"Neutral"}
+,{"time":"7:03","usr":"Oakyman","txt":"RT @SAI: Amazon Is Going To Sell The Kindle Fire For $150, Says DigiTimes $AMZN by @jyarow http://t.co/eXJGJzGf","lbl":"Neutral"}
+,{"time":"7:06","usr":"newsagg","txt":"$AMZN finding its low price for Fire isn\u0027t low enough, ready to sell further under cost","lbl":"Neutral"}
+,{"time":"8:28","usr":"RobTheStreet","txt":"RT @firstadopter: Digitimes report that $AMZN to cut Kindle Fire to $149 http://t.co/kuhA4xk4","lbl":"Positive"}
+,{"time":"9:50","usr":"streetbrief","txt":"$AMZN FY14 exptd EPS=$2.58, or 110% (I doubt it). Fwd P/E=84x. If $AAPL had 84x mult, stock price = $4,620. Makes better sense now.","lbl":"Neutral"}
+,{"time":"10:38","usr":"conorsen","txt":"So if $MSFT/$RIMM/$NOK/$DELL/$HPQ/$GOOG/$AMZN aren\u0027t going to beat $AAPL at phones/tablets/computers, who will?","lbl":"Negative"}
+,{"time":"13:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $PCLN +37%, $AMZN +15%, $AAPL +13%, $MS -42%, $C -30%, $SBUX -26% http://t.co/uBJyhJcD","lbl":"Positive"}
+,{"time":"13:49","usr":"lluccipha","txt":"SAI: Amazon Rivals Do The Happy Dance Over Its Big Web Outage Last Night $AMZN by @Julie188 http://t.co/m5XZwRws","lbl":"Negative"}
+,{"time":"13:57","usr":"david_putnam","txt":"Amazon targeting \u0022customer service\u0022 positioning of Rackspace http://t.co/FDliOyCl $AMZN $RAX","lbl":"Neutral"}
+,{"time":"15:14","usr":"BLURBSoftheday","txt":"RT @bespokeinvest 7 yrs ago, $AMZN and $BBY were trading within $1 of each other. Today, they are $220 apart.","lbl":"Neutral"}
+,{"time":"15:28","usr":"investorsmosaic","txt":"What We Learned About Rackspace Today. $RAX $AMZN $EQIX #Cloud #ManagedHosting http://t.co/ciBK8ykF","lbl":"Neutral"}
+,{"time":"18:39","usr":"biggercapital","txt":"RT @BLURBSoftheday: RT @bespokeinvest 7 yrs ago, $AMZN and $BBY were trading within $1 of each other. Today, they are $220 apart.","lbl":"Neutral"}
+]

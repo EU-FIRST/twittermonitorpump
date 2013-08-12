@@ -1,0 +1,17 @@
+[
+{"time":"0:15","usr":"TurboResearch","txt":"$EBay launches site redesign http://t.co/LmNK5QYl -> lol honestly,how do they even sell anything? Still looks pre-dotcom $AMZN miles ahead !","lbl":"Positive"}
+,{"time":"7:00","usr":"pattidomm","txt":"Stocks to Watch: S, CAT, RLGY & More http://t.co/RnqbWlZF $ALK $AMZN $BA $BP $CAT $COH $DIS $HPQ $JPM $RLGY $RT $S $TIF $WEN #StockMarket","lbl":"Neutral"}
+,{"time":"8:03","usr":"TenBaggers","txt":"Google\u0027s Schmidt discusses platform battles between\u0022Gang of Four.\u0022 http://t.co/0qTHlDKY $GOOG $FB $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"9:23","usr":"Dasan","txt":"$AMZN Kindle Paperwhite such a monster hit if you order one today, shipment estimated at 3rd week in November","lbl":"Positive"}
+,{"time":"9:55","usr":"traderstewie","txt":"$PCLN, pooping out big time lately. $AAPL, and $AMZN, behaving rather weak on a day like today.","lbl":"Negative"}
+,{"time":"9:56","usr":"MacroTragedy","txt":"gap filled $AMZN","lbl":"Neutral"}
+,{"time":"11:04","usr":"takingstock614","txt":"Good afternoon... Step away for a bit and market sells off, key stocks like $AAPL $AMZN $PCLN all reverse negative. Not a healthy sign.","lbl":"Negative"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:47pm: 243.87 -1.12 (-0.46%).","lbl":"Neutral"}
+,{"time":"12:39","usr":"Hubon","txt":"@marktpirate1 We will see, short term $AMZN is a sell, looks like a double top, should retest break out around 228 http://t.co/xkvMJ3vI","lbl":"Negative"}
+,{"time":"13:25","usr":"LukeRomyn","txt":"Inject your Kindle with a quad-shot of adrenaline with these intense action-thrillers: http://t.co/yU8T3Zd4 $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"14:29","usr":"DarvasTrader","txt":"$AMZN having a little trouble with the 50-day line right now. Keep an eye on how it closes out the week.","lbl":"Negative"}
+,{"time":"17:10","usr":"SeekingAlpha","txt":"Soul Food For Your Portfolio Blues http://t.co/63lHmscn $AMZN $CMG $CRM","lbl":"Neutral"}
+,{"time":"17:12","usr":"launchticker","txt":"$amzn offering same-day delivery in select mkts from $10, Prime members pay $4/item http://t.co/X1xXnIsb http://t.co/MUiII5cM","lbl":"Neutral"}
+,{"time":"17:17","usr":"LouisColumbus","txt":"New data show jhow much $AMZN leads Seattle office market http://t.co/RrECIGAa <- 2.2M sq ft is leased by $AMZN #ecommerce","lbl":"Neutral"}
+,{"time":"19:31","usr":"ihmvps","txt":"@jimcramer S/O MadMoney picks to several thousand investors that follow #ihmvps #cnbs #madmoney $AAPL $PULS $SVU $AA $NOK $GOOG $AMZN $MSFT","lbl":"Neutral"}
+]

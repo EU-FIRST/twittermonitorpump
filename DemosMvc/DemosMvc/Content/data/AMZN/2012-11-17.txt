@@ -1,0 +1,10 @@
+[
+{"time":"0:06","usr":"Astralix","txt":"RT @SAI: NETFLIX: Amazon Is Losing Up To $1 Billion A Year Trying To Keep Up With Us $NFLX $AMZN by @jyarow http://t.co/4S7I7npM","lbl":"Neutral"}
+,{"time":"0:27","usr":"Mr_Eric_WSCS","txt":"Is the sentiment finally changing in #Apple and #Facebook... http://t.co/0rCZRqYM $AAPL $FB $AMZN $GOOG $LNKD #business","lbl":"Neutral"}
+,{"time":"7:53","usr":"abnormalreturns","txt":"Saturday links: Taleb on fragility, a better electric grid and faux craft beer. http://t.co/IOrQbLcV $TSLA $DIS $AMZN $AAPL $BUD #longreads","lbl":"Neutral"}
+,{"time":"10:31","usr":"StockTwits","txt":"Saturday links: irrational participants http://t.co/qdXhyDBm via @abnormalreturns $XLK $XLE $AMZN et al","lbl":"Neutral"}
+,{"time":"14:21","usr":"biggercapital","txt":"Or Fat Margin to be arbitraged RT @AAinslie: \u0022\u0022Your margin is my opportunity.\u0022 ~Jeff Bezos http://t.co/sIOcLze8 $AMZN $$","lbl":"Positive"}
+,{"time":"14:33","usr":"alistairmbarr","txt":"Amazon $AMZN advertising: 1st \u0027special offer\u0027 on my Kindle Fire homescreen is ad for Epic Mickey 2 http://t.co/DNRTT2zB","lbl":"Neutral"}
+,{"time":"18:17","usr":"kurtgrela","txt":"RT @StockTwits: Netflix CEO: Amazon Losing Up to $1 Billion a Year on Streaming Video http://t.co/Royd2dr9 via Allthingsd $NFLX $AMZN","lbl":"Negative"}
+,{"time":"18:49","usr":"vcutrader","txt":"RT @StockTwits: Netflix CEO: Amazon Losing Up to $1 Billion a Year on Streaming Video http://t.co/Royd2dr9 via Allthingsd $NFLX $AMZN","lbl":"Negative"}
+]

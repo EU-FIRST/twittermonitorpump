@@ -1,0 +1,12 @@
+[
+{"time":"8:48","usr":"Stock_trader808","txt":"Bubble is about to pop right now $AAPL $SPY $AMZN $V shorting every single one of them","lbl":"Negative"}
+,{"time":"9:19","usr":"wallstreetbabes","txt":"@profmlyadvocate @bkhobby $AMZN is acting up. Someone get a rope.","lbl":"Positive"}
+,{"time":"10:41","usr":"given2tweet","txt":"Started a position in $BBY today. 1) Stock cheap. 2) Founder sale could be + catalyst. 3) $AMZN will charge sales tax soon in CA &other","lbl":"Negative"}
+,{"time":"11:44","usr":"LaMonicaBuzz","txt":"RT @BrianSozzi: @LaMonicaBuzz: But, would be leverared buyers have to internally ask: where is the growth going to come from? $BBY vs. $AMZN","lbl":"Neutral"}
+,{"time":"12:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:16pm: 220.29 +2.65 (+1.22%).","lbl":"Neutral"}
+,{"time":"13:13","usr":"Pyrzenski","txt":"Check the stock performance of #Bestbuy vs. #Amazon - $BBY vs $AMZN for the last 2 years. http://t.co/xDl6qNhx Enough said.","lbl":"Neutral"}
+,{"time":"14:29","usr":"WallStJesus","txt":"\u2605Ulta\u0027s Strong First Quarter Shows Tremendous Execution http://t.co/vwM8v5zr $AMZN $BBY $DKS $KSS $ULTA","lbl":"Neutral"}
+,{"time":"15:47","usr":"Attitrade","txt":"RT @alphatrends: VIDEO - stock market analysis & link for live webcast from @TradersExpo tmrw morning http://t.co/fG00mntL $SPY $QQQ $AMZN $FB","lbl":"Neutral"}
+,{"time":"15:52","usr":"Hilary_Louise","txt":"RT @alphatrends: VIDEO - stock market analysis & link for live webcast from @TradersExpo tmrw morning http://t.co/fG00mntL $SPY $QQQ $AMZN $FB","lbl":"Neutral"}
+,{"time":"21:33","usr":"shomval","txt":"I just opened a LONG position on $AMZN at 218.8. Follow my trades on Simitrade | http://t.co/UlnSrd6A","lbl":"Positive"}
+]

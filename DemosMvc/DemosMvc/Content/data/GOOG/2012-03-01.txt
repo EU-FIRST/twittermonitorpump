@@ -1,0 +1,25 @@
+[
+{"time":"7:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/51, $MSFT/19, $BAC/18, $SPPI/14, $SPY/10, $AMZN/10, $GOOG/7, $GS/7. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"9:27","usr":"ftioleco","txt":"Today is March 1st. Google changed their privacy policy. Take note. #tech $GOOG","lbl":"Neutral"}
+,{"time":"9:30","usr":"Tablets_ITE","txt":"$EMC\u0027s RSA group stepping in to improve security for $AAPL, $GOOG, $RIMM devices. http://t.co/1OXUGaFF","lbl":"Neutral"}
+,{"time":"10:02","usr":"DNev47","txt":"@StkConfidential I\u0027ll bet your using at least 50.00s $PCLN, $AAPL, $GOOG .....:-)","lbl":"Neutral"}
+,{"time":"10:58","usr":"wallstCS","txt":"Google Under Fire in the EU http://t.co/TqWJ5Mdf $GOOG #mkt #trading","lbl":"Negative"}
+,{"time":"11:00","usr":"DutchmenCapital","txt":"RT @wallstCS: Google Under Fire in the EU http://t.co/TqWJ5Mdf $GOOG #mkt #trading","lbl":"Negative"}
+,{"time":"12:11","usr":"EvolvingMedium","txt":"Apple, Google once again top Fortune \u0027s most admired list $goog - http://t.co/qNWWcFL3","lbl":"Positive"}
+,{"time":"12:15","usr":"DJThistle","txt":"SugarSync updated with new sharing, management features: SugarSync just dropped an update to their applic... http://t.co/luzetSmF $GOOG","lbl":"Neutral"}
+,{"time":"12:15","usr":"stocktwits_suck","txt":"Google X research facility and its secret projects http://t.co/D7zQXMTk #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"13:08","usr":"big_options","txt":"@jimcramer @jimcramer What\u0027s your take on $goog with $aapl releasing the new iPad 3 and a cheap iPad 2 to compete with the android market?","lbl":"Neutral"}
+,{"time":"13:08","usr":"market0000","txt":"Hope it\u0027s Android not Crappl RT @HedgefundPLAY: China\u2019s One Billionth Mobile Phone User Signs Up will happen this weekend $AAPL $GOOG #fx","lbl":"Neutral"}
+,{"time":"13:11","usr":"hkouros","txt":"$GOOG potential double top at that 625 level","lbl":"Negative"}
+,{"time":"13:13","usr":"BUDDIEE18","txt":"$GOOG -- do we see $670 on march OEX day ? :) ;)","lbl":"Neutral"}
+,{"time":"14:38","usr":"centerfieldadv","txt":"Biggie day for the piggies....$GOOG past 625. $JNK did not trade past the dividend.","lbl":"Negative"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"Rumor Mill: Who Would Buy Research In Motion? http://t.co/X19FpK6q $AAPL $GOOG $MMI $MSFT $NOK $RIMM","lbl":"Neutral"}
+,{"time":"14:40","usr":"jdellinger","txt":"RT @SeekingAlpha: Rumor Mill: Who Would Buy Research In Motion? http://t.co/X19FpK6q $AAPL $GOOG $MMI $MSFT $NOK $RIMM","lbl":"Neutral"}
+,{"time":"14:41","usr":"EVNhalpern","txt":"$aapl running out of steam in the near term $544, $goog ready to make a big move up, up & away","lbl":"Neutral"}
+,{"time":"16:13","usr":"spmarketscope","txt":"Later today look for Scott Kessler on Nightly Business Report (@bizrpt), talking about $GOOG\u2019s updated #privacy policy.","lbl":"Neutral"}
+,{"time":"16:14","usr":"equitiescom","txt":"#Yelp! Going public March 2 to mixed reviews: http://t.co/FH9rs5ck $YELP $FB $GOOG $ZNGA $GRPN $LNKD","lbl":"Neutral"}
+,{"time":"16:14","usr":"equitiesgroup","txt":"#Yelp! Going public March 2 to mixed reviews: http://t.co/Hy9dFvlX $YELP $FB $GOOG $ZNGA $GRPN $LNKD","lbl":"Neutral"}
+,{"time":"16:14","usr":"EquitiesNetwork","txt":"#Yelp! Going public March 2 to mixed reviews: http://t.co/nEy8CYF2 $YELP $FB $GOOG $ZNGA $GRPN $LNKD","lbl":"Neutral"}
+,{"time":"18:51","usr":"walterid9","txt":"$GOOG made glasses that will be able to stream information to the wearer\u2019s eyeballs in real time. http://t.co/BI50NnYK","lbl":"Positive"}
+,{"time":"18:57","usr":"Zeezan","txt":"RT @StockTwits: Google technology allows Toyota car to drive itself http://t.co/2h41Gp3R $GOOG $TM","lbl":"Neutral"}
+]

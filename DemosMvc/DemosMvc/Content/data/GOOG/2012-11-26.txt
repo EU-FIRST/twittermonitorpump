@@ -1,0 +1,40 @@
+[
+{"time":"0:42","usr":"VCEIPO","txt":"RT @lsfox: AAPL: \u201C@StockTwits: Apple\u0027s iPad led Thanksgiving & Black Friday online buying http://t.co/qXx6bdAe via @CNNMoney $AAPL $AMZN $GOOG\u201D","lbl":"Neutral"}
+,{"time":"7:01","usr":"BlissCollin","txt":"RT @tomkeene: http://t.co/T3xvfGz5 interesting $AAPL $$ $GOOG","lbl":"Neutral"}
+,{"time":"7:02","usr":"VFCsStockHouse","txt":"Weekly Stock Watch: $GE, $MCD, $IMSC.PK, $SSH, $F, $RIMM, $SGYP, $IRWD, $WMT, $BA, $GOOG - http://t.co/24Gvyz6K","lbl":"Neutral"}
+,{"time":"7:54","usr":"StateDave","txt":"TechCrunch reports that Google is preparing to launch Chrome OS notebooks that will also be equipped with touchscreens. $GOOG","lbl":"Positive"}
+,{"time":"8:48","usr":"Economicbubble","txt":"RT @SAI: Facebook Has Posters In Its Hallways Begging Employees To Ditch iPhones For Androids $FB $GOOG $AAPL by @jyarow http://t.co/XoJBfzzS","lbl":"Neutral"}
+,{"time":"8:50","usr":"sdidonato","txt":"Microsoft Has Failed http://t.co/mm6wajFP $msft $goog","lbl":"Neutral"}
+,{"time":"9:17","usr":"freerepublic","txt":"3D Systems: Will Apple Buy Into 3-D Printing? http://t.co/g3BQfyRs $AAPL $AMZN $GOOG $MSFT $RIMM $DDD","lbl":"Neutral"}
+,{"time":"9:17","usr":"sandeepbhavsar","txt":"RT @toddsalamone: http://t.co/NkNNiDj7 ISE announces March 18, 2013 launch date of mini options $AAPL $AMZN $GLD $GOOG $SPY","lbl":"Neutral"}
+,{"time":"9:41","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG)-owned Motorola departs Indian market: Google Inc. (NASDAQ:GOOG)-owned Motorola ... http://t.co/zOprLNuM","lbl":"Neutral"}
+,{"time":"9:41","usr":"illini3","txt":"$GOOG 660 lower #stocks #CNBS","lbl":"Negative"}
+,{"time":"10:05","usr":"MarketCurrents","txt":"Google (GOOG) is buying ICOA, a top provider of Wi-Fi infrastructure services for U.S. ISPs and... http://t.co/MJ8O3t1Q $GOOG $WIFI","lbl":"Neutral"}
+,{"time":"10:18","usr":"CBOE","txt":"Actives on open @ CBOE: $C $AAPL $HPQ $VVUS $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"10:18","usr":"seansposito","txt":"RT @SAI: Google Buys Wireless Internet Provider ICOA For $400 Million $GOOG by @officialKLS http://t.co/P5UVVSKo","lbl":"Neutral"}
+,{"time":"10:52","usr":"apatel17","txt":"RT @businessinsider: Google Buys Wireless Internet Provider ICOA For $400 Million $GOOG by @officialKLS http://t.co/dk73Wylf","lbl":"Neutral"}
+,{"time":"11:14","usr":"glizzzda","txt":"cudowna RT @SAI: Larry Page Hitches A Ride On One Of The World\u0027s Fastest Sailboats $GOOG by @meganrosedickey http://t.co/3XXIrQDQ","lbl":"Neutral"}
+,{"time":"11:35","usr":"businessinsider","txt":"FRAUD ALERT: Report That Google Bought A Penny-Stock Company For $400 Million May Be Bogus $GOOG by @jyarow http://t.co/cY6FSStK","lbl":"Neutral"}
+,{"time":"11:35","usr":"SAI","txt":"FRAUD ALERT: Report That Google Bought A Penny-Stock Company For $400 Million May Be Bogus $GOOG by @jyarow http://t.co/dGzCxoOF","lbl":"Neutral"}
+,{"time":"12:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $AAPL +1.65%, $FB +7.84%, $CLNT -1.45%, $GOOG -0.58%, $MBI +6.58% http://t.co/p9PotPfP #StockWars","lbl":"Negative"}
+,{"time":"12:31","usr":"isaacalek54","txt":"RT @StockTwits: \u0022@CapitalObserver: Even using the new street high 2013 revenue estimate for $FB it trades at 9.3x 2013 revenue while $GOOG trades at 4.2x\u0022","lbl":"Neutral"}
+,{"time":"12:33","usr":"butterfly313det","txt":"RT @businessinsider: FRAUD ALERT: Report That Google Bought A Penny-Stock Company For $400 Million May Be Bogus $GOOG by @jyarow http://t.co/cY6FSStK","lbl":"Neutral"}
+,{"time":"13:02","usr":"AllMoneyinAmeri","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Neutral"}
+,{"time":"13:35","usr":"Slimfairview","txt":"RT @CNBCnow: Tech Giants Prepare to Defend the Internet in Front of UN - http://t.co/A9YUSHQb (via @AP) $GOOG $FB","lbl":"Neutral"}
+,{"time":"13:36","usr":"RicardoN2012","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Neutral"}
+,{"time":"14:03","usr":"NicholasOlesen","txt":"My Lastest Commentary: Stock Technicals Showing Signs of a Bottom, Kind of... http://t.co/QJvKhzWh $SPX $SPY $TLT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"14:35","usr":"SeekingAlpha","txt":"The Great Android Disconnect http://t.co/fwTxwswj $AAPL $IBM $GOOG","lbl":"Negative"}
+,{"time":"15:29","usr":"BijouMind","txt":"RT @SAI: Google Lowers Prices To Try And Kill Amazon\u0027s Cloud $GOOG $AMZN by @Julie188 http://t.co/sgB4da5C","lbl":"Positive"}
+,{"time":"15:54","usr":"thefinancepress","txt":"$GOOG Google Inc (GOOG), Microsoft (MSFT), Yahoo: Search Companies Start Your ...: Google Inc (GOOG), Microsoft... http://t.co/HvDreE04","lbl":"Neutral"}
+,{"time":"16:36","usr":"JustinPulitzer","txt":"Galaxy Note 2 is way to big for practical use. It\u0027s like a George Forman Grill w/ a screen. $GOOG wants larger screens to display ads on.","lbl":"Neutral"}
+,{"time":"16:40","usr":"iBizNews21","txt":"RT @CNNMoney: Google\u0027s $400 million Wi-Fi buy a hoax http://t.co/rM66I0p5 $GOOG","lbl":"Negative"}
+,{"time":"17:33","usr":"pennystockguys","txt":"$GOOG - TECH STOCKS: Facebook, Apple, Yahoo Rise; Microsoft Slips http://t.co/Kau8N2ZB","lbl":"Neutral"}
+,{"time":"17:33","usr":"ADVFNplc","txt":"$GOOG - TECH STOCKS: Facebook, Apple, Yahoo Rise; Microsoft Slips http://t.co/tYtCJ9Sd","lbl":"Neutral"}
+,{"time":"18:08","usr":"EalingTech","txt":"RT @SAI: Fake Google Press Release Blamed On \u0027Identity Theft\u0027 $GOOG by @owenthomas http://t.co/Wvlnh0wl","lbl":"Neutral"}
+,{"time":"19:02","usr":"clafsm","txt":"RT @CNNMoney: Google\u0027s $400 million Wi-Fi buy a hoax http://t.co/rM66I0p5 $GOOG","lbl":"Negative"}
+,{"time":"19:03","usr":"mrjordonez","txt":"Fake Google Press Release Didn\u0027t Net Anyone Much Money http://t.co/3fpvFTzW $GOOG $ICOA","lbl":"Neutral"}
+,{"time":"19:04","usr":"sciencetrader","txt":"still heavy insider selling in $GOOG today around 663","lbl":"Negative"}
+,{"time":"20:13","usr":"Ozdemir_Kursat","txt":"RT @CNNMoney: Fake press release about Google buying obscure hotspot company ICOA took reporters-& some investors-for a ride http://t.co/S9LfOKpm $GOOG","lbl":"Neutral"}
+,{"time":"20:18","usr":"john_frankel","txt":"For year to September 2012: net profit of $MSFT + $GOOG + $EBAY + $YHOO + $FB + $AMZN = $AAPL - $7,000,000,000 http://t.co/sPeqnCBH amazing","lbl":"Neutral"}
+,{"time":"22:31","usr":"StockMarket411","txt":"Google\u2019s $400 million Wi-Fi buy a hoax $goog http://t.co/eVMEjNEA goog, google, google stock, news","lbl":"Neutral"}
+]

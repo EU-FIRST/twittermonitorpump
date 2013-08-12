@@ -1,0 +1,58 @@
+[
+{"time":"5:45","usr":"MrStreetSweeper","txt":"With HTC Patent Deal, Apple Is Going For Android\u2019s Jugular http://t.co/asCeU09i $goog $aapl $msft","lbl":"Negative"}
+,{"time":"6:31","usr":"DepletedO2","txt":"When deficits start calling - $GOOG $SBUX $AMZN to face UK lawmakers over tax http://t.co/f3mnFT58","lbl":"Negative"}
+,{"time":"8:03","usr":"thebankersays","txt":"\u201C@SAI: Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/S4yMYCa2\u201D","lbl":"Negative"}
+,{"time":"8:03","usr":"MrGuanxi","txt":"RT @ADVFNplc: $GOOG - Technical Analysis on Facebook Inc. and Google Inc. - Social & Professional Networking Companies Continue to http://t.co/07UcKwI8","lbl":"Neutral"}
+,{"time":"8:03","usr":"oceanshaman","txt":"RT @SAI: Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/IO15hyjd","lbl":"Negative"}
+,{"time":"8:03","usr":"PKinbangkok","txt":"RT @bi_politics Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/GeymhCnR","lbl":"Negative"}
+,{"time":"8:39","usr":"PeterLoux","txt":"RT @SAI: Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/IO15hyjd","lbl":"Negative"}
+,{"time":"8:40","usr":"joonian","txt":"RT @TenBaggers: Why waste shareholder capital? RIM to launch Blackberry 10 phones on Jan 30, 2013. http://t.co/vsbEqgJ5 $RIMM $AAPL $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"8:41","usr":"GnomishMath","txt":"RT @tradejas: Vringo Vs. Google:$VRNG Seeing The Forest For The Trees http://t.co/3JGxnee4 $VRNG $GOOG good read","lbl":"Neutral"}
+,{"time":"9:31","usr":"ADVFNplc","txt":"$GOOG - Stock Market News for November 12, 2012 - Market News http://t.co/QQF4FBI8","lbl":"Neutral"}
+,{"time":"9:31","usr":"MockTrade","txt":"$GOOG 1st resistance is 667-669 zone & 1st support 660/59 & if breached the 200day is next trgt 635ish","lbl":"Neutral"}
+,{"time":"9:32","usr":"CogConcord","txt":"The Only 20 Companies That Matter http://t.co/RFbDzpma $AAPL $AIG $BRK.A $C $COP $CVX $F $GE $GM $GOOG $IBM $INTC $JNJ $JPM $MSFT","lbl":"Neutral"}
+,{"time":"10:08","usr":"thefinancepress","txt":"$GOOG Critical Alerts For Google, Boeing, Freeport McMoran, Michael Kors, and Toyota ...: Critical Alerts For G... http://t.co/pXQRltUO","lbl":"Negative"}
+,{"time":"10:14","usr":"nyangorojs","txt":"RT @bi_politics: Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/DG9PptoD","lbl":"Neutral"}
+,{"time":"10:15","usr":"pelias01","txt":"HTC / Apple Patent Deal: Winners And Losers http://t.co/UGuLGWQq $AAPL $GOOG $MSFT $SSNLF.PK","lbl":"Neutral"}
+,{"time":"10:15","usr":"RenaTrader","txt":"RT @DanZanger: CASH IS KING - My motto for over 13 years when markets act like this :) $SPX $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"11:02","usr":"elsburyxknrml3","txt":"RT @GiovannyMoreano: Google\u0027s market-cap loss as of the halt at 12:50p ($687.3) stands at about -$22 billion. $GOOG","lbl":"Negative"}
+,{"time":"11:02","usr":"bilaterlmnopoly","txt":"$SBUX $AMZN $GOOG to face questioning in UK over tax strategies http://t.co/jYEk9EMl","lbl":"Neutral"}
+,{"time":"11:05","usr":"UdallTechStrat","txt":"Again seeing strong $goog and rel. weak $aapl.","lbl":"Positive"}
+,{"time":"12:04","usr":"LizMani","txt":"RT @SAI: Microsoft Is Beating Google For Big Cloud Deals Because It\u0027s Hungrier $MSFT $GOOG $AMZN $TM by @Julie188 http://t.co/g0haKY1J","lbl":"Negative"}
+,{"time":"12:05","usr":"MichaelBowers","txt":"RT @SAI_Tools: Petraeus\u0027s Downfall Proves Your Email Is Not As Private As You Think $GOOG by @nichcarlson http://t.co/kgW5u4Sk","lbl":"Neutral"}
+,{"time":"12:05","usr":"wallstCS","txt":"Are These Top Tech Companies Too Big to Fail? http://t.co/PEvRuSp3 $GOOG $AAPL $AMZN $FB $MSFT #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"12:07","usr":"BlueFielder","txt":"$GOOG .... stable","lbl":"Positive"}
+,{"time":"13:15","usr":"hampusbrynolf","txt":"RT @lexnfx: For a moment there, $GOOG was trading at exactly $666","lbl":"Neutral"}
+,{"time":"13:17","usr":"margaretmpd","txt":"RT @SAI: Microsoft Is Beating Google For Big Cloud Deals Because It\u0027s Hungrier $MSFT $GOOG $AMZN $TM by @Julie188 http://t.co/g0haKY1J","lbl":"Negative"}
+,{"time":"13:22","usr":"choffman1978","txt":"$GMCR SURGING 4%! SHORT SQUEEZE! #cnbc,#msnbc,#nyse,#wsj,$soda,$sbux,$cbou,$gs,$goog,$aapl","lbl":"Neutral"}
+,{"time":"13:53","usr":"pburelli","txt":"RT @CNNMoney: How four companies took over the Internet http://t.co/wUM5bz9r $AAPL, $GOOG, $FB, $AMZN","lbl":"Positive"}
+,{"time":"13:55","usr":"USwwwStocks","txt":"$GOOG News: Australian Wins $208000 from Google in Defamation Case http://t.co/KnWWJ0f8 #208000 #Australian #Case","lbl":"Neutral"}
+,{"time":"13:55","usr":"tradingview","txt":"$GOOG chart by @sssc: http://t.co/n59ME5WB another sick stock.","lbl":"Negative"}
+,{"time":"14:16","usr":"YahooFinance","txt":"#Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:17","usr":"Jwow1204","txt":"RT @YahooFinance: #Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:17","usr":"Pabjojot","txt":"RT @YahooFinance: #Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:17","usr":"JamesXbondd","txt":"RT @YahooFinance: #Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:50","usr":"agara2004","txt":"This article will energize the journo\u0027s skeptical of free content that populates $GOOG $FB $YHOO & @twitter http://t.co/pbBoe3de @WillOremus","lbl":"Neutral"}
+,{"time":"14:50","usr":"_a_nico_","txt":"RT @YahooFinance: #Microsoft beating #Google for big #cloud deals because it\u0027s hungrier (via @BusinessInsider) $MSFT $GOOG http://t.co/cBKLPbBQ","lbl":"Negative"}
+,{"time":"14:50","usr":"choffman1978","txt":"$GMCR SURGING NEW HOD! #cnbc,#msnbc,#nyse,#wsj,$soda,$sbux,$cbou,$gs,$goog,$aapl,$dndn,$celg,$ctic,$","lbl":"Neutral"}
+,{"time":"15:26","usr":"vanholaw","txt":"Google Said to Face Ultimatum From FTC in Antitrust Talks $GOOG http://t.co/3mjQLqZB","lbl":"Negative"}
+,{"time":"15:27","usr":"wallstCS","txt":"Can Google Escape This FTC Fire? http://t.co/wXgKFRBP $GOOG $YHOO $MSFT $AAPL #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"15:28","usr":"CNNMoney","txt":"How 4 tech companies took over the internet. http://t.co/4r79I37e $AAPL $AMZN $FB $GOOG","lbl":"Neutral"}
+,{"time":"15:29","usr":"GOTGA","txt":"RT @CNNMoney: How 4 tech companies took over the internet. http://t.co/4r79I37e $AAPL $AMZN $FB $GOOG","lbl":"Neutral"}
+,{"time":"16:05","usr":"tradethembi","txt":"some ask what colors of green red do , on $GOOG,long at green ,exit,short at red, very simple! http://t.co/KmmWvmed","lbl":"Neutral"}
+,{"time":"16:07","usr":"TMFBreaking","txt":"U.K. scrutinizes the taxes paid by $SBUX, $GOOG, $AMZN. http://t.co/spa8GdFN","lbl":"Neutral"}
+,{"time":"16:07","usr":"petergo99037185","txt":"MARKET TUESDAY - 16 CHARTS 12 UP, 4 DOWN. spx $VIX down early AM, market UP. <> $DOW UP, $AAPL DOWN again..<> $GOOG UP.<> $USD down=mkt up!","lbl":"Positive"}
+,{"time":"16:08","usr":"YahooFinance","txt":"UK lawmakers slam #Starbucks, #Amazon and #Google on #tax (via @Reuters) $SBUX $AMZN $GOOG http://t.co/MTlOpVl9","lbl":"Negative"}
+,{"time":"16:49","usr":"StockMarket411","txt":"U.K. Scrutinizes Starbucks, Google, and Amazon Taxes $goog http://t.co/ghtQr5SI goog, google, google stock, news","lbl":"Negative"}
+,{"time":"16:51","usr":"samiaji","txt":"RT @SAI: CHART OF THE DAY: Google Is Bigger Than The U.S. Print Ad Business $GOOG $NYT $NWS $GCI by @jyarow http://t.co/Gk7tz6hV","lbl":"Positive"}
+,{"time":"16:52","usr":"erictartanson","txt":"Google Is Bigger Than The U.S. Print Ad Business $GOOG $NYT $NWS $GCI by @jyarow http://t.co/gGqmJs54","lbl":"Positive"}
+,{"time":"16:52","usr":"LaMaisondesBois","txt":"RT @SAI: Tim Cook Is Giving Apple Employees Two-Week Breaks To Work On Special Projects $AAPL $GOOG by @jyarow http://t.co/UZ12nRTe","lbl":"Neutral"}
+,{"time":"17:52","usr":"dnicholsjr86","txt":"\u201C@stockr: Vringo Vs. Google: Seeing The Forest For The Trees http://t.co/AEboqGws $VRNG $GOOG\u201D Nice setup on chart into close!!!!","lbl":"Neutral"}
+,{"time":"17:52","usr":"webchetan","txt":"RT @businessinsider: Tim Cook Is Giving Apple Employees Two-Week Breaks To Work On Special Projects $AAPL $GOOG by @jyarow http://t.co/2BdlCb7i","lbl":"Neutral"}
+,{"time":"18:03","usr":"rocco_thestreet","txt":"$GOOG Ups the Ante: $199 Laptop http://t.co/ASPid2Wd Disagree with @antonwahlman\u0027excitement, but he beats others to punch on this stuff.","lbl":"Neutral"}
+,{"time":"20:36","usr":"MikeGordonRyan","txt":"RT @Jessicalessin: When it comes to keeping employees happy, $aapl appears to be taking some inspiration from $goog. @techmeme. http://t.co/r2b8pOzG","lbl":"Neutral"}
+,{"time":"20:36","usr":"timtom","txt":".@Google seems to be in recession this year. http://t.co/Di1T7mpR $GOOG http://t.co/sb504fIt","lbl":"Negative"}
+,{"time":"23:21","usr":"MattSoleyn","txt":"@radacat $GOOG wasn\u0027t closed for Observation of Veteran\u0027s Day today?! @pearlwhirl","lbl":"Neutral"}
+,{"time":"23:30","usr":"TheStreet","txt":"A $199 Laptop: Google Raises The Stakes By Lowering Price? http://t.co/oOPWewGB @antonwahlman $GOOG $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"23:38","usr":"AquaKittyKat","txt":"RT @TheStreet: A $199 Laptop: Google Raises The Stakes By Lowering Price? http://t.co/oOPWewGB @antonwahlman $GOOG $AAPL $MSFT","lbl":"Neutral"}
+]

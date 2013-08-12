@@ -1,0 +1,15 @@
+[
+{"time":"6:15","usr":"themaxpain","txt":"$AMZN ($226.69), 5/11/2012, current max pain strike price: $205.00. Put/Call ratio: 1.081. #AMZN Get more: http://t.co/cKW8nw4x","lbl":"Neutral"}
+,{"time":"9:01","usr":"BlueFielder","txt":"$AMZn back in wkly 230 $CALLs @ .65","lbl":"Positive"}
+,{"time":"9:35","usr":"StkConfidential","txt":"A few oversold leaders rebounding $AAPL, $CMG, $MA, $ISRG, $BWLD, $AMZN, $PCLN etc.","lbl":"Positive"}
+,{"time":"9:35","usr":"oNootch","txt":"$AMZN needs to go here","lbl":"Neutral"}
+,{"time":"10:06","usr":"aznboi27","txt":"and of course $AAPL .. do it to me like $AMZN why don\u0027t you","lbl":"Positive"}
+,{"time":"10:10","usr":"aznboi27","txt":"yep please shoot me.. $AMZN going to the moon","lbl":"Positive"}
+,{"time":"10:10","usr":"CornFutures","txt":"Diablo III Amazon\u0027s most preordered PC game ever http://t.co/pvCMqMSg $ATVI $AMZN","lbl":"Neutral"}
+,{"time":"10:11","usr":"Sirtuan","txt":"WOW $AMZN breaking through DT line this morning.","lbl":"Positive"}
+,{"time":"10:37","usr":"Lowtown21","txt":"The further $AMZN can get from 230 before this afternoon the more likely it is to go ape shit into the close.","lbl":"Negative"}
+,{"time":"10:39","usr":"CROSSHAIRTRADER","txt":"Watching for $AMZN to break 232 with 246 area as target.","lbl":"Positive"}
+,{"time":"11:49","usr":"kstockguy","txt":"$amzn setting up nicely. held 220 gap in the bad week. hmm..charts looking 250 clearly pending any major #european news.","lbl":"Positive"}
+,{"time":"13:11","usr":"StevenCarraher","txt":"Wide Moat Research Vs. S&P 500 ($MOAT, $AMZN, $PFE, $CMP) http://t.co/DNrBxtVf via @Investopedia #investing #ETF $SPY","lbl":"Neutral"}
+,{"time":"17:18","usr":"bsmfinanzas","txt":"RT @SeekingAlpha: Sales Taxes Will Not Kill Amazon\u0027s Bottom Line, But They Still Hurt http://t.co/8B0IwXeZ $BBY $SNE $GMCR $NFLX $WMT $HGG $AMZN","lbl":"Negative"}
+]

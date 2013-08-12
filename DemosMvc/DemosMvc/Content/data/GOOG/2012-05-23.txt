@@ -1,0 +1,81 @@
+[
+{"time":"1:28","usr":"BigTicks","txt":"$GOOG News: Australia Plans To Introduce New Tax Laws For Multinationals -Report http://t.co/BS4z5NV8 #GOOG #Australia #Introduce","lbl":"Negative"}
+,{"time":"1:37","usr":"USwwwStocks","txt":"$GOOG News: Diller Beats Google With Top Web Stock: Riskless Return http://t.co/Sv4JG7RH #GOOG #Beats #Diller","lbl":"Negative"}
+,{"time":"1:40","usr":"SeekingAlpha","txt":"Yahoo Update: Analyzing The Alibaba Deal And The Way Forward http://t.co/3y6EH2di $FB $GOOG $ALBCF.PK $YHOO","lbl":"Neutral"}
+,{"time":"2:11","usr":"almousawi_m","txt":"Google\u0027s purchase of US phone maker Motorola has been completed days after it received approval from the Chinese government. #Hmm $GOOG","lbl":"Neutral"}
+,{"time":"6:36","usr":"mycatbrenda","txt":"$MSFT $GOOG ITC judge: Xbox consoles should be banned from import into U.S. CNet reports http://t.co/POldxsG4","lbl":"Neutral"}
+,{"time":"6:36","usr":"outlawz616","txt":"$FB initiated Buy at Needham by analyst Laura Martin. She was negative on $GOOG the first few years since their IPO in 2004.","lbl":"Neutral"}
+,{"time":"6:38","usr":"Equitykingkong","txt":"$GOOG : for now still above 600 but I think we will see lower prices today","lbl":"Negative"}
+,{"time":"6:46","usr":"EllieAsksWhy","txt":"Blogger In Draft Blog Is Being Retired http://t.co/r3SBeO6M $GOOG","lbl":"Neutral"}
+,{"time":"7:55","usr":"JTillard","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Neutral"}
+,{"time":"7:56","usr":"MiltonMorillo","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Negative"}
+,{"time":"7:56","usr":"hammads","txt":"Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/JdoDwddI $FB $GOOG","lbl":"Negative"}
+,{"time":"7:56","usr":"LaurenBernal","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/AntDGMWp $FB $GOOG","lbl":"Neutral"}
+,{"time":"8:15","usr":"danielsimmonds","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Negative"}
+,{"time":"8:16","usr":"Vingeviciute","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Negative"}
+,{"time":"8:16","usr":"sipmacrants","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/LRt2N57T $FB $GOOG #fail","lbl":"Neutral"}
+,{"time":"8:50","usr":"takingstock614","txt":"The more we knock @ $600 the greater chance $GOOG cracks and breaks to downside. Feeling heavy right now.","lbl":"Negative"}
+,{"time":"8:50","usr":"choffman1978","txt":"$CXM moving up!!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"8:50","usr":"choffman1978","txt":"$P - SELL BEFORE EARNING!!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt,","lbl":"Neutral"}
+,{"time":"9:25","usr":"choffman1978","txt":"$BPAX up 25%!!!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"9:25","usr":"choffman1978","txt":"$FB up 4%!!!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"9:26","usr":"Ciredor","txt":"$GOOG Google home page guys or gals. What a coolio gig https://t.co/2UFuCsRu","lbl":"Neutral"}
+,{"time":"9:26","usr":"HomeHedgie","txt":"$GOOG Google home page guys or gals. What a coolio gig https://t.co/Fs7A32m5","lbl":"Neutral"}
+,{"time":"9:54","usr":"jessefelder","txt":"Guy Kawasaki Compares Google+ to Apple, Calls it a \u2018Religious Experience\u2019 http://t.co/gyHxPy0c $goog $aapl","lbl":"Positive"}
+,{"time":"9:56","usr":"AndrewhFX","txt":"The leaders not showing any weakness...$AAPL, $GOOG, $FB, $PCLN, $AMZN, $MA and everyone is forgetting about $WMT breakout, limited downside","lbl":"Positive"}
+,{"time":"9:56","usr":"LivingThankful","txt":"Eyes on $GLD $V $AAPL $GOOG $PCLN #options","lbl":"Neutral"}
+,{"time":"10:28","usr":"malmail","txt":"RT @Commodity_Bull Here\u0027s why maybe you should buy $FB right now http://t.co/PAr1YyOS $GOOG $ZNGA #kapitall","lbl":"Neutral"}
+,{"time":"10:28","usr":"Janinestree","txt":"$BPAX tree shake careful#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gs http://t.co/JAMrQiIm","lbl":"Neutral"}
+,{"time":"10:28","usr":"BigTicks","txt":"$GOOG News: Google Inc. \u2013 GOOG \u2013 Acquisition of Motorola Mobility Holdings \u2013 MMI http://t.co/uAOHabHo #GOOG #Acquisition #Google","lbl":"Neutral"}
+,{"time":"10:29","usr":"JavierGiese","txt":"RT @SAI: This Is The App That Will Change Everything About Healthcare $AAPL $GOOG by @_dtl http://t.co/69Cy2ACW","lbl":"Neutral"}
+,{"time":"10:51","usr":"coryjwatson","txt":"market is now taking down the big boys, $GOOG $AAPL","lbl":"Negative"}
+,{"time":"10:51","usr":"HedgefundPLAY","txt":"Google opposed UK plans to introduce anti-porn net filters, says move amounts to censorship - @independent http://t.co/fWd2rTz8\u201D $GOOG #fx","lbl":"Neutral"}
+,{"time":"10:51","usr":"gantulga_st","txt":"RT @SAI: REPORT: Microsoft Office Coming To The iPad And Android Tablets This Fall $MSFT $AAPL $GOOG by @_dtl http://t.co/XqA88qRo","lbl":"Neutral"}
+,{"time":"10:51","usr":"SMMSGIreland","txt":"\u201C@SAI: This Is The App That Will Change Everything About Healthcare $AAPL $GOOG by @_dtl http://t.co/Ip46E8A1\u201D","lbl":"Neutral"}
+,{"time":"11:09","usr":"madibjorg","txt":"RT @SAI_Tools: This Is The App That Will Change Everything About Healthcare $AAPL $GOOG by @_dtl http://t.co/DarkPl89","lbl":"Neutral"}
+,{"time":"11:10","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) Opens Higher, Support at $600: Google Inc (NASDAQ:GOOG) Opens Higher, Support at... http://t.co/DOdjf1De","lbl":"Positive"}
+,{"time":"11:10","usr":"choffman1978","txt":"$FB running!!!!!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$dndn,$optr,$c,$fb,$gs,$goog,$wmt,$wfc,$jpm,$c,$v,$s,$siri","lbl":"Neutral"}
+,{"time":"11:10","usr":"john_keats","txt":"RT @thefinancepress: $GOOG Google Inc (NASDAQ:GOOG) Opens Higher, Support at $600: Google Inc (NASDAQ:GOOG) Opens Higher, Support at... http://t.co/DOdjf1De","lbl":"Neutral"}
+,{"time":"11:59","usr":"choffman1978","txt":"$BPAX tree shake - be careful!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$dndn,$optr,$c,$fb,$gs,$goog,$wmt,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"12:00","usr":"rktaylor12","txt":"RT @WSJ: Needham rates Facebook a \u0027buy\u0027 with a $40 target, predicts it will pass Google in revenue. http://t.co/4u7WT0Ip $FB $GOOG","lbl":"Negative"}
+,{"time":"12:01","usr":"JustJDaub","txt":"RT @jimcramer: RT @YahooFinance: Google privacy inquiries get little cooperation http://t.co/kH8gAU4f $GOOG","lbl":"Negative"}
+,{"time":"12:01","usr":"parksideq","txt":"Please be true. RT @SAI: Microsoft Office Coming To The iPad And Android Tablets This Fall $MSFT $AAPL $GOOG by @_dtl http://t.co/DcbsPQrQ","lbl":"Neutral"}
+,{"time":"12:31","usr":"pennystockguys","txt":"$GOOG - Google Closes Motorola Buyout - Analyst Blog http://t.co/WDiWPPNL","lbl":"Neutral"}
+,{"time":"12:31","usr":"RJML72","txt":"RT @SAI: A Simple Guide To Social Networks: What Goes Viral Where, And Who Uses What $FB $LNKD $GOOG by @nichcarlson http://t.co/Uqn0lpop","lbl":"Neutral"}
+,{"time":"12:31","usr":"charlesrwa","txt":"$GOOG - Google Closes Motorola Buyout - Analyst Blog http://t.co/zQytA6iM","lbl":"Neutral"}
+,{"time":"12:54","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Facebook Confronts The Law Of Big Numbers http://t.co/e8vIwSw3 #BIDU #Confronts #Facebook","lbl":"Neutral"}
+,{"time":"12:57","usr":"danshep55","txt":"$goog did not infringe $orcl patent for java","lbl":"Positive"}
+,{"time":"12:57","usr":"CoderTrader","txt":"jury saying $GOOG did not infringe on java $ORCL","lbl":"Neutral"}
+,{"time":"13:04","usr":"gomikeyuen","txt":"RT @SAI: VERDICT IS IN FOR ORACLE-GOOGLE: GOOGLE WINS! $ORCL $GOOG by @jyarow http://t.co/rh8XFg8S","lbl":"Positive"}
+,{"time":"13:04","usr":"tipapa","txt":"RT @SAI: VERDICT IS IN FOR ORACLE-GOOGLE: GOOGLE WINS! $ORCL $GOOG by @jyarow http://t.co/rh8XFg8S","lbl":"Positive"}
+,{"time":"13:04","usr":"graubart","txt":"RT @GinnyLaRoe: BREAKING: Complete Google win on patent infringement claims by Oracle. NO INFRINGEMENT. $GOOG $ORCL","lbl":"Positive"}
+,{"time":"13:04","usr":"UmarSajid","txt":"RT @SAI: Did Google Just Sneak Chrome For iPhone Into The Search App Update? $GOOG $AAPL by @officialKLS http://t.co/nEfaVmgS","lbl":"Neutral"}
+,{"time":"13:18","usr":"trader_trend","txt":"Is Apple Secretly Recording Everything You Tell Siri? http://t.co/UXXszsHx $AAPL $GOOG $IBM #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"13:19","usr":"lamikayty","txt":"RT @ProducerMatthew: RT @scottbudman: Verdict: Google did not infringe on Oracle Java patents. Trial is over. $GOOG $ORCL","lbl":"Positive"}
+,{"time":"13:19","usr":"mrlaughter","txt":"RT @scottbudman: Verdict: Google did not infringe on Oracle Java patents. Trial is over. $GOOG $ORCL","lbl":"Positive"}
+,{"time":"13:19","usr":"zmerchnewscom","txt":"\u0022@BloombergTV: BREAKING: #Google didn\u0027t infringe Oracle patents for Java, jury says $GOOG\u0022","lbl":"Neutral"}
+,{"time":"13:44","usr":"kitrieke","txt":"RT @LaMonicaBuzz: Not a Paranoid Android. Looks like the $GOOG/$ORCL Java patent infringement case is over and that $GOOG is the winner. No damages.","lbl":"Positive"}
+,{"time":"13:45","usr":"Thabo99","txt":"RT @SAI: This Is The App That Will Change Everything About Healthcare $AAPL $GOOG by @_dtl http://t.co/69Cy2ACW","lbl":"Neutral"}
+,{"time":"13:46","usr":"joshs","txt":"RT @ReutersLegal: Google did not infringe Oracle patents -jury (story to come) $GOOG $ORCL","lbl":"Positive"}
+,{"time":"14:11","usr":"dancach","txt":"RT @MarketWatch: Verdict is in: Google wins in Oracle patent suit http://t.co/b4C2FXGY $GOOG $ORCL","lbl":"Positive"}
+,{"time":"14:11","usr":"erivadeneira30","txt":"RT @MarketWatch: Verdict is in: Google wins in Oracle patent suit http://t.co/b4C2FXGY $GOOG $ORCL","lbl":"Positive"}
+,{"time":"14:12","usr":"CorneliuCosma","txt":"RT @MarketWatch: Verdict is in: Google wins in Oracle patent suit http://t.co/b4C2FXGY $GOOG $ORCL","lbl":"Positive"}
+,{"time":"14:45","usr":"Qwovadis","txt":"Commented on: \u0022Google\u0027s $12 Billion Motorola Gamble: The Reasons Why It Will Pay Off\u0022 http://t.co/COyQrrBY $AAPL $FB $MMI $GOOG","lbl":"Positive"}
+,{"time":"14:46","usr":"choffman1978","txt":"$KERX headed to $5/share! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s,$siri,$wmt,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"14:47","usr":"choffman1978","txt":"$SIRI MOVING UP NICE! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s,$siri,$wmt,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"14:47","usr":"TOMASRAMIREZV","txt":"RT @choffman1978: $KERX headed to $5/share! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s,$siri,$wmt,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"15:42","usr":"andrewnyquist","txt":"\u0022Navigating The Information Age and New Era of Social Media\u0022 http://t.co/BfENaRhK $FB $LNKD $GOOG #twitter","lbl":"Neutral"}
+,{"time":"15:43","usr":"choffman1978","txt":"$KERX MOVING UP NICE AH! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s,$siri,$wmt,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"15:44","usr":"wallstdaily","txt":"Siri rides shotgun...@nuancemobile http://t.co/hvtpWeZ6 $AAPL $NUAN $FB $GOOG","lbl":"Neutral"}
+,{"time":"16:55","usr":"ugodre","txt":"Great! RT @SAI: REPORT: Microsoft Office Coming To The iPad And Android Tablets This Fall $MSFT $AAPL $GOOG by @_dtl http://t.co/XblCIV8q","lbl":"Neutral"}
+,{"time":"16:57","usr":"iambabadivision","txt":"RT @ugodre: Great! RT @SAI: REPORT: Microsoft Office Coming To The iPad And Android Tablets This Fall $MSFT $AAPL $GOOG by @_dtl http://t.co/XblCIV8q","lbl":"Neutral"}
+,{"time":"17:00","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Pandora\u0027s Loss Widens Amid Mounting Costs http://t.co/uQP00CHx","lbl":"Negative"}
+,{"time":"17:00","usr":"pennystockguys","txt":"$GOOG - UPDATE: Pandora\u0027s Loss Widens Amid Mounting Costs http://t.co/02hS8HOY","lbl":"Neutral"}
+,{"time":"19:20","usr":"jattrux","txt":"RT @SeekingAlpha: Facebook Is A Buy ... If It Can Fall To $10 http://t.co/jpiUUMCY $AMZN $EBAY $GOOG $GRPN $FB","lbl":"Neutral"}
+,{"time":"19:29","usr":"BigTicks","txt":"$GOOG News: Perverse Incentives Driving CEOs: Stock Options http://t.co/G6cjzSmt #GOOG #CEOs #Driving","lbl":"Negative"}
+,{"time":"19:32","usr":"josephjpeters","txt":"I\u0027m glad $GOOG spends its time making cool Google logos. http://t.co/gZWknCyS","lbl":"Neutral"}
+,{"time":"19:35","usr":"thefinancepress","txt":"$GOOG RIM\u0027s head of global sales leaving BlackBerry maker: RIM\u0027s head of global sales leaving BlackBerry maker ... http://t.co/4I3hpyR2","lbl":"Neutral"}
+,{"time":"23:10","usr":"ImArAguspina","txt":"RT @SAI: Google Now Officially Owns Motorola $MMI $GOOG by @stevekovach http://t.co/VMw26fRr","lbl":"Neutral"}
+,{"time":"23:13","usr":"Keki_Fatakia","txt":"Baidu Looks to Pull a Google (BIDU) http://t.co/DAYFRLJD #Baidu $BIDU #Foxcon #Apple $AAPL $CHL #Google $GOOG #Samsung #HTC #ZTE #Huawei","lbl":"Neutral"}
+,{"time":"23:16","usr":"Keki_Fatakia","txt":"For Glu Mobile, Profitability Is a Stone\u0027s Throw Away (GLUU) http://t.co/BsK0qSgx #Glu $GLUU #Apple $AAPL #Google $GOOG #Zynga $ZNGA #NVIDIA","lbl":"Neutral"}
+]

@@ -1,0 +1,21 @@
+[
+{"time":"2:22","usr":"jolynn","txt":"RT @tsgiles: Google\u0027s `Do Not Track\u0027 can limit, but won\u0027t stop, the ways advertisers follow you around the Web: http://t.co/3ccVcaWv $GOOG #donottrack","lbl":"Neutral"}
+,{"time":"2:30","usr":"eobadia","txt":"#Scan Gets $1.7M From #Google $GOOG Ventures And Shervin Pishevar To Make #QRCodes Actually Useful http://t.co/50UM4UFm","lbl":"Neutral"}
+,{"time":"8:54","usr":"screwyourdayjob","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/k2ABo0RS #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"8:55","usr":"stocklist21","txt":"$GOOG - Google Stock Analysis - price & ema crossdown - http://t.co/6itoYDMf","lbl":"Neutral"}
+,{"time":"10:15","usr":"TMFRuleBreakers","txt":"Is Google\u0027s future bright enough for shades? http://t.co/YiDQlg6I $GOOG #stealingfromtimbuk3","lbl":"Neutral"}
+,{"time":"10:16","usr":"stockadvisors","txt":"$GOOG #Google: Is Cloud TV on the horizon? | Main Section: http://t.co/Nmw5WMdq via @AddThis","lbl":"Neutral"}
+,{"time":"11:33","usr":"BUDDIEE18","txt":"$GOOG .... about to pop ???","lbl":"Neutral"}
+,{"time":"11:34","usr":"top_stock_news","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/143t3ZmA #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"11:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/80, $SPY/51, $VVUS/25, $ANR/23, $CRM/21, $PEIX/13, $GOOG/12, $AIG/12. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"12:54","usr":"junkieonwallst","txt":"$GOOG, $CAT, $GILD, $HPQ, $KSS, $WMT <<------ Thanks for the undefeated week on wallstreet....","lbl":"Positive"}
+,{"time":"12:58","usr":"donoleary","txt":"RT @BloombergNews: BREAKING: Google said to pick Dennis Woodside as Motorola Mobility CEO | http://t.co/CNpfDT3d $GOOG","lbl":"Neutral"}
+,{"time":"14:36","usr":"AKPalit","txt":"#Google has decided to exit #Clearwire partnership. Exits position at big loss. Clearwire is a lonely #WiMAX in an #LTE world. $GOOG $CLWR","lbl":"Neutral"}
+,{"time":"14:55","usr":"simmonet","txt":"RT @t1c1: RT @SAI: How Google Took $500 Million And Turned It Into $47 Million $GOOG $S by http://t.co/WlJB4bJm","lbl":"Negative"}
+,{"time":"17:10","usr":"SeekingAlpha","txt":"More Proof The Spectrum Shortage Is Phony http://t.co/8SegS7HM $GOOG $S $T $VZ $CLWR","lbl":"Neutral"}
+,{"time":"17:20","usr":"JeremyKissel","txt":"Google Gets Real-Time Data from LSE - Wall Street & Technology http://t.co/TFZFq4jK $GOOG","lbl":"Positive"}
+,{"time":"17:26","usr":"dvdback23","txt":"Google takes 91 percent loss on its Clearwire share http://t.co/SblJYRMM $CLWR $GOOG","lbl":"Negative"}
+,{"time":"17:31","usr":"wallstCS","txt":"SINA Among These Stocks Reporting Earnings Monday http://t.co/PslAD89C $SINA $SOHU $BIDU $GOOG $YHOO $IL $DMRC $MSFT $IBM $CA $URS $JEC","lbl":"Neutral"}
+,{"time":"19:51","usr":"ITS_center","txt":"RT @SAI: Here Is One Of Google\u0027s Self-Driving Cars On The Road $GOOG by @MattRosoff http://t.co/FPv8SUEs","lbl":"Positive"}
+,{"time":"20:00","usr":"historysquared","txt":"$GOOG + growth fastest in to reach 50 million users @Caterina http://t.co/8M7q3MiD @pkedrosky","lbl":"Positive"}
+]

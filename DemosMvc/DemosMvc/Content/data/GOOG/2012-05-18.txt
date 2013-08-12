@@ -1,0 +1,63 @@
+[
+{"time":"0:43","usr":"thefinancepress","txt":"$GOOG \u0027Pan Am\u0027 May Fly Again as Web Revives Canceled TV Shows: \u0027Pan Am\u0027 May Fly Again as Web Revives Canceled T... http://t.co/WgUzWUej","lbl":"Neutral"}
+,{"time":"0:49","usr":"chechulasheras","txt":"RT @josemariagarcia: Interesting RT@investorsmosaic: Comparing $fb to $goog is the best way to assess the bet you are making buying $FB here http://t.co/j1vWF0DO","lbl":"Neutral"}
+,{"time":"0:49","usr":"swamptrade","txt":"@BOCASBEST $GOOG h/s pattern could be invalidated if she keeps going up next few days.","lbl":"Positive"}
+,{"time":"5:40","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Go Google\u0022 http://t.co/kkbEhPon @Forbes @Reuters_Biz @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
+,{"time":"8:14","usr":"jamesacoxiii","txt":"@RachelDePompa great company, but wait until after the lock-up ends. Individual investors are not usually treated kindly on IPO day. $goog","lbl":"Neutral"}
+,{"time":"8:14","usr":"mercenaryjack","txt":"Zuck set to become richer than $GOOG founders, 29th richest person on earth http://t.co/BCq1FhhC $FB $QQQ","lbl":"Neutral"}
+,{"time":"8:54","usr":"ArmandoGomez4","txt":"$FB valued at > $74 per share would give a market cap close to $GOOG","lbl":"Neutral"}
+,{"time":"8:55","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Facebook doesn\u0027t recognize Effin, Ireland http://t.co/6np0bCTx #BIDU #doesnt #Effin","lbl":"Neutral"}
+,{"time":"8:55","usr":"todd_harrison","txt":"A Rising Tide: 7 Stocks Poised to Benefit from the Facebook IPO http://t.co/AGIEinGQ via @minyanville $GOOG $MSFT $ZNGA $EA $FIO $AAPL $SCOR","lbl":"Positive"}
+,{"time":"9:33","usr":"EdwordtheThird","txt":"RT @samgustin: AP: Revenue: $GOOG $38 billion, $FB $3.7 billion. Ad revenue: GOOG $36.5B FB $3.2B Profit: GOOG $9.7B FB $668M. http://t.co/7U6EWA7r","lbl":"Neutral"}
+,{"time":"9:34","usr":"MattKelmon","txt":"...and now back to your regularly scheduled #bullmarket $SPY $AAPL $WYNN $GOOG","lbl":"Neutral"}
+,{"time":"9:36","usr":"WalterLiveOak","txt":"RT @WallStreet_Rant: .@ReformedBroker If that\u0027s the case, Short $FB Long $GOOG would be the easiest trade of the year.","lbl":"Positive"}
+,{"time":"10:10","usr":"SeekingAlpha","txt":"Facebook Users: You Are The Product, Not The Customer; Don\u0027t Be Fooled http://t.co/fxxyy3s7 $BA $F $GM $GOOG $INTC $LNKD $MCD","lbl":"Neutral"}
+,{"time":"10:10","usr":"thefinancepress","txt":"$GOOG Facebook Inc (FB) IPO: Case of Insane Valuation: Facebook Inc (FB) IPO: Case of Insane Valuation ValueWal... http://t.co/y2GcBHvX","lbl":"Neutral"}
+,{"time":"10:11","usr":"ArtMatters2me","txt":"RT @SeekingAlpha: Facebook Users: You Are The Product, Not The Customer; Don\u0027t Be Fooled http://t.co/fxxyy3s7 $BA $F $GM $GOOG $INTC $LNKD $MCD","lbl":"Neutral"}
+,{"time":"10:12","usr":"PeakTheories","txt":"$GOOG appears to be a short, prob drops to 600 easily in near-term but has 480 on it at some point in 2012","lbl":"Negative"}
+,{"time":"10:39","usr":"ronellman","txt":"$GOOG near LOD.","lbl":"Negative"}
+,{"time":"10:40","usr":"SeekingAlpha","txt":"Note To Velti Holders: Stop The Madness http://t.co/yPouRvMY $FB $GOOG $MM $MOTR $VELT","lbl":"Neutral"}
+,{"time":"11:12","usr":"802dotchris","txt":"The $GOOG account noid strikes again, reg\u0027ing for #I/O using work Gmail, G+ info needed, which is hooked to personal Gmail adds. Grr","lbl":"Negative"}
+,{"time":"11:12","usr":"EliFromBrooklyn","txt":"Others telling me they have seen $AAPL & $GOOG trend on Twitter. As @cjf125 pointed out, Ke$ha is free to trend.","lbl":"Neutral"}
+,{"time":"11:17","usr":"ZEROCAPITAL","txt":"@Neutronduzit $AAPL and $GOOG down as well.. techs just gearing up for the next fiscal","lbl":"Negative"}
+,{"time":"12:10","usr":"SmartMoney","txt":"Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:11","usr":"performforeva","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:15","usr":"AidaOpokuMensah","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:15","usr":"SamAtAcronym","txt":"RT @SmartMoney: Google is surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/afJox95i $FB $GOOG","lbl":"Positive"}
+,{"time":"12:15","usr":"WoodsBasement","txt":"How $FB stacks up against $GOOG and $AAPL \u2014 http://t.co/aSinv5cV","lbl":"Neutral"}
+,{"time":"12:17","usr":"peter_mushangwe","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:27","usr":"WorldNewsRT","txt":"SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/QbijlN07 $FB $GOOG","lbl":"Positive"}
+,{"time":"12:27","usr":"katiabassi","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:27","usr":"Maccaholics","txt":"Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/cJGP8i4l $FB $GOOG\u201D @aliber28","lbl":"Positive"}
+,{"time":"12:27","usr":"wasimosman","txt":"Kinda funny news if you ask me...Google is the surprise winner in Facebook mania. $FB $GOOG","lbl":"Positive"}
+,{"time":"12:46","usr":"jamielissette","txt":"goog VERY quietly near the lo $goog","lbl":"Neutral"}
+,{"time":"12:48","usr":"Edwin_II","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"12:50","usr":"hi_kiyoon","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"13:20","usr":"TweetLeni","txt":"$GOOG 1st entry long 614.85","lbl":"Positive"}
+,{"time":"13:21","usr":"TweetLeni","txt":"$GOOG I\u0027ll add more next week on strength dont want to go to heavy into weekend.","lbl":"Positive"}
+,{"time":"13:21","usr":"61point8","txt":"I\u0027m long September $605 puts on $GOOG. Will trade around it if I have to. Will take it off when my thesis is proven invalid.","lbl":"Negative"}
+,{"time":"13:22","usr":"cakhan","txt":"RT @SmartMoney: Google is the surprise winner in Facebook mania. Its shares have jumped 7% since the IPO filing. http://t.co/qEVJk4nQ $FB $GOOG","lbl":"Positive"}
+,{"time":"14:17","usr":"61point8","txt":"$GOOG > FYI, the bounce to $538 exceeded my expectations. But \u0022b\u0022 waves are notoriously unpredictable. http://t.co/IxpdY4Nm","lbl":"Positive"}
+,{"time":"14:17","usr":"61point8","txt":"Sorry, wrong $GOOG chart. Here we go. http://t.co/xe419b9o","lbl":"Neutral"}
+,{"time":"14:19","usr":"BlueFielder","txt":"$GooG if only ..... <sigh>","lbl":"Neutral"}
+,{"time":"14:40","usr":"PerforM84697233","txt":"Option Millionaires: shreya: $GOOG...what a crap today http://t.co/siNGveo7","lbl":"Negative"}
+,{"time":"14:41","usr":"stockguy22","txt":"RT @CaboTrader: @stockguy22 how about goog at 600. ==> didn\u0027t even see $GOOG drop there WOW ! -- made $ in April on GooG from same area","lbl":"Neutral"}
+,{"time":"14:41","usr":"berkutchitweet","txt":"He. Tee hee. Ha. Haha. Muah. Muah ha. MUAHAHAHAHAHAHAHAHA........ MUAHAHAHAHAHAHAHAHA!!!! $SPX $GOOG $FB $AAPL #dabears","lbl":"Neutral"}
+,{"time":"14:52","usr":"WhizCheck6","txt":"New Primary June Iron Condor on $GOOG | Top Gun Options http://t.co/P4TZTsdv $AAPL $NFLX $PCLN","lbl":"Neutral"}
+,{"time":"14:53","usr":"happy22234","txt":"RT @CNNMoney: Thrilled & bummed by Google\u0027s self-driving car. Technology is tantalizing but not ready for wider world yet. http://t.co/cnI7ygjW $GOOG","lbl":"Positive"}
+,{"time":"14:53","usr":"PeakTheories","txt":"Getting ugly! RT @RiskReversal GOOG We Agree! http://t.co/bFwbJ1dy RT $GOOG wants to trade to bottom of Diamond Top 465 t 565 c 665 f 495","lbl":"Negative"}
+,{"time":"14:54","usr":"KlickStocks","txt":"Bought large block of $GOOG at $600","lbl":"Positive"}
+,{"time":"15:17","usr":"TraderDR","txt":"$GOOG that was so strong finally played a little catch up today","lbl":"Negative"}
+,{"time":"15:18","usr":"bhc3","txt":"@gapingvoid Yeah, I like that too. In terms of comparisons, should $FB be more late 90s bubble, or 2004 $GOOG (opened $85, closed $100)?","lbl":"Neutral"}
+,{"time":"15:21","usr":"Fibonacciqueen","txt":"This is the $ES zone posted before the money show....bearish symmetry is STILL intact there! $GOOG setup was... http://t.co/OUoEabkX","lbl":"Negative"}
+,{"time":"15:21","usr":"Benedicte92","txt":"RT @barronsonline: Facebook Breaks Down Again to $38 http://t.co/tjj9x7Ym $FB $ZNGA $GOOG #IPO #Zuckerberg","lbl":"Neutral"}
+,{"time":"16:19","usr":"Sirtuan","txt":"$GOOG omg what eff...","lbl":"Negative"}
+,{"time":"16:23","usr":"barronsonline","txt":"Facebook runs nowhere fast in epic IPO http://t.co/pUEp2VdL $FB $ZNGA $GOOG $RENN $GSVC $SVVC #IPO #Zuckerberg","lbl":"Neutral"}
+,{"time":"16:28","usr":"Rob_Pao","txt":"RT @barronsonline: Facebook runs nowhere fast in epic IPO http://t.co/pUEp2VdL $FB $ZNGA $GOOG $RENN $GSVC $SVVC #IPO #Zuckerberg","lbl":"Neutral"}
+,{"time":"16:29","usr":"ymarketing","txt":"RT @barronsonline: Facebook runs nowhere fast in epic IPO http://t.co/pUEp2VdL $FB $ZNGA $GOOG $RENN $GSVC $SVVC #IPO #Zuckerberg","lbl":"Neutral"}
+,{"time":"18:10","usr":"PabloJGF","txt":"RT @hblodget: .@kteare With $AAPL trading at 13X earnings and $GOOG at 15X, just very hard to justify 50x-70x for $FB. Seems nuts","lbl":"Neutral"}
+,{"time":"18:11","usr":"aneel","txt":"RT @hblodget: .@kteare With $AAPL trading at 13X earnings and $GOOG at 15X, just very hard to justify 50x-70x for $FB. Seems nuts","lbl":"Neutral"}
+,{"time":"18:11","usr":"jnb65","txt":"RT @hblodget: .@kteare With $AAPL trading at 13X earnings and $GOOG at 15X, just very hard to justify 50x-70x for $FB. Seems nuts","lbl":"Neutral"}
+,{"time":"18:11","usr":"matteastwood","txt":"@hblodget: @kteare w/ $AAPL trading at 13X earnings and $GOOG at 15X, just very hard to justify 50x-70x for $FB. Seems nuts < Because it is!","lbl":"Neutral"}
+,{"time":"23:16","usr":"tradingview","txt":"$GOOG chart published by gilliander: http://t.co/1qCEoz8B. ICHIMOKU WITH FRACTALS.","lbl":"Neutral"}
+]

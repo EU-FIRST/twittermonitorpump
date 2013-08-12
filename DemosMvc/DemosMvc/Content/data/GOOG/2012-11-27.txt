@@ -1,0 +1,57 @@
+[
+{"time":"0:21","usr":"TheBattleAngel","txt":"hey $GOOG why does chrome never work right. what are you doing to chrome. are you authorized to do this. let me see your badge,","lbl":"Negative"}
+,{"time":"2:56","usr":"SparrowMinded","txt":"Google Play Gets Real: Reviews Will Now Be Posted With Your Google+ Name And Picture http://t.co/sOkACMfw #Google #Apps #Mobile $GOOG","lbl":"Neutral"}
+,{"time":"7:01","usr":"Wavepalm","txt":"RT @mobi_nomics: $GOOG is pioneering #bigdata management? -> Inside Google Spanner, the Largest Single Database on Earth http://t.co/3LAJ9UZG #tech","lbl":"Positive"}
+,{"time":"7:03","usr":"AzlanZabidi","txt":"RT @TheStreet: Samsung Galaxy Sales Spur Apple Court Action - http://t.co/b7DG9sPj by @GaryKrakow $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"7:09","usr":"stockchartscom","txt":"$ATVI Hits Momentum of Truth after Big Game Release. $AKAM Fails to Partake in Market Surge. Plus $ARUN, $CHS, $GOOG... http://t.co/2lbBs2Qv","lbl":"Neutral"}
+,{"time":"8:36","usr":"rocco_thestreet","txt":"Apple\u0027s iPad Doesn\u0027t Confuse Holiday Shoppers - TheStreet http://t.co/341lCDoG via @TheStreet $AAPL $MSFT $RIMM $GOOG","lbl":"Neutral"}
+,{"time":"9:34","usr":"KPGLOBALCAPITAL","txt":"$GOOG settles with $IMMR. $VRNG next!","lbl":"Neutral"}
+,{"time":"9:54","usr":"SAI","txt":"Google\u0027s Nexus 4 Will Be Available Again Today At 3 PM Eastern $GOOG by @_dtl http://t.co/coMbuTpi","lbl":"Neutral"}
+,{"time":"9:54","usr":"SAI_Tools","txt":"Google\u0027s Nexus 4 Will Be Available Again Today At 3 PM Eastern $GOOG by @_dtl http://t.co/qh6qViJj","lbl":"Neutral"}
+,{"time":"9:55","usr":"arunk_","txt":"It\u0027ll be sold out at 3.10PM :P RT @SAI Google\u0027s Nexus 4 Will Be Available Again Today At 3 PM Eastern $GOOG by @_dtl http://t.co/JiWYKLfX","lbl":"Positive"}
+,{"time":"10:28","usr":"blmiller","txt":"RT @TheStreet: Does Apple TV Have Its Eyes On Sports? http://t.co/kdultANa @DanaBlankenhorn thinks so $AAPL $DIS $CMCSA $NWSA $NFLX $GOOG $WMT $AMZN","lbl":"Neutral"}
+,{"time":"10:57","usr":"DNDTrading","txt":"RT @rocco_thestreet: \u0027Barron\u0027s\u0027 Was Wrong: Facebook Will Hit $100 http://t.co/1vwphnbJ via @TheStreet $FB $P $AAPL $GOOG with a little holiday @springsteen","lbl":"Negative"}
+,{"time":"10:57","usr":"SirMarz","txt":"RT @rocco_thestreet: \u0027Barron\u0027s\u0027 Was Wrong: Facebook Will Hit $100 http://t.co/1vwphnbJ via @TheStreet $FB $P $AAPL $GOOG with a little holiday @springsteen","lbl":"Neutral"}
+,{"time":"11:25","usr":"Laurafreedman","txt":"RT @businessinsider: The iPhone Is Beating Android In The U.S. $AAPL $GOOG $MSFT by @jyarow http://t.co/wxGI7JFv","lbl":"Negative"}
+,{"time":"11:27","usr":"BPGAG","txt":"$goog long at 665.66 - heading to meetings / stops tight in connection with day\u0027s gains","lbl":"Positive"}
+,{"time":"11:27","usr":"seldomawake","txt":"With $GOOG self-driving, next sitcom featuring Kitt writes itself. RT @BlueFielder: $AAPL , GM Bringing Siri to Cars : http://t.co/jmeynsaj","lbl":"Neutral"}
+,{"time":"11:53","usr":"salitrapraveen","txt":"RT @YahooFinance: The #iPhone is beating #Android in the U.S. (via @BusinessInsider) #Apple #Google $AAPL $GOOG #tech http://t.co/oP9JyMAQ","lbl":"Neutral"}
+,{"time":"12:22","usr":"Jimmybob77","txt":"$GOOG Underperformed recent tech rally - Time to play CATCH UP","lbl":"Negative"}
+,{"time":"12:22","usr":"OMillionaires","txt":"$GOOG Underperformed recent tech rally - Time to play CATCH UP","lbl":"Positive"}
+,{"time":"12:40","usr":"Fitzstock2004","txt":"$goog 4 day high","lbl":"Positive"}
+,{"time":"12:40","usr":"SPEQL8R","txt":"$GOOG never fails to amaze me how mo mo traders glom on a name. Yest everyone ignored it & also this morn. Then caught attention of mo mo","lbl":"Neutral"}
+,{"time":"12:41","usr":"EdgeMe","txt":"long ideas $goog, $ma","lbl":"Positive"}
+,{"time":"13:00","usr":"petergo99037185","txt":"$GOOG >+ 13.XX, $FB JEALOUS, $AAPL TOO?","lbl":"Neutral"}
+,{"time":"13:01","usr":"GdayToYou","txt":"$GOOG which has been weak lately has made a stellar run today. Up almost $14 atm. $NICE","lbl":"Positive"}
+,{"time":"13:21","usr":"nana_nana999","txt":"RT @IQstockalerts: $LOCM is set for a nice break out! http://t.co/lf5yXS3C $AOL $GOOG $VRNG $AAPL $MSFT","lbl":"Neutral"}
+,{"time":"13:21","usr":"NormCycles","txt":"$GOOG gone. Done for the day have a good one.","lbl":"Neutral"}
+,{"time":"13:22","usr":"EXPstocktrader","txt":"$IMMR pops 33% on $GOOG patent settlement http://t.co/zh5bStwY","lbl":"Neutral"}
+,{"time":"13:54","usr":"USwwwStocks","txt":"$GOOG News: Google Joins Apple in Drawing French Tax Collectors\u0027 Ire http://t.co/cTZU1Kw0 #Apple #Collectorsamp39 #Drawing","lbl":"Neutral"}
+,{"time":"14:30","usr":"VollmerDerek","txt":"RT @YahooFinance: The #iPhone is beating #Android in the U.S. (via @BusinessInsider) #Apple #Google $AAPL $GOOG #tech http://t.co/oP9JyMAQ","lbl":"Negative"}
+,{"time":"14:30","usr":"IBAim","txt":"$GOOG to surge on the restocking of the #nexus4 at noon PST...","lbl":"Positive"}
+,{"time":"15:06","usr":"thefinancepress","txt":"$GOOG Google & Motorola Make A Deal With Immersion On Licensing: Google & Motorola Make A Deal With Immersion O... http://t.co/mVhF1Aam","lbl":"Positive"}
+,{"time":"15:37","usr":"Demetrius_L","txt":"RT @robhof: Will Google Dodge An FTC Antitrust Bullet? - The New Persuaders/Forbes http://t.co/DMlpUZb7 $goog #antitrust","lbl":"Negative"}
+,{"time":"16:07","usr":"aiket","txt":"RT @SAI: Google\u0027s Nexus 4 Is Sold Out Again $GOOG by @_dtl http://t.co/O9qaLWpk","lbl":"Positive"}
+,{"time":"16:08","usr":"onetake","txt":"RT @samarthmehta87: RT @sachabeharry: The #GooglePlay store does a better job at selling an #iPhone than a #Nexus4. $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:09","usr":"Legacy_Trades","txt":"SUMMARY: No fill SELL L: $SPY Dec 139 calls (@ +150%, hold .5% AUM), $AAPL Dec 550 (+400%, hold .33% AUM). Fill $GOOG Dec 670 calls @ +101%.","lbl":"Positive"}
+,{"time":"16:36","usr":"nenadcetkovic","txt":"RT @SAI: Gmail Threatens Dropbox By Allowing Users To Send Files Up To 10GB $GOOG by @officialKLS http://t.co/sRhPwZjU","lbl":"Neutral"}
+,{"time":"16:36","usr":"BUDDIEE18","txt":"RT @61point8: Keep an eye on $GOOG. Still looking for $696 to $700 on a break over the 100-dma.","lbl":"Positive"}
+,{"time":"16:37","usr":"RobLibetti","txt":"RT @OfficialKLS: Gmail Threatens Dropbox By Allowing Users To Send Files Up To 10GB $GOOG http://t.co/Ogaj7mQ4","lbl":"Neutral"}
+,{"time":"17:03","usr":"Koichi2000","txt":"RT @businessinsider: Gmail Threatens Dropbox By Allowing Users To Send Files Up To 10GB $GOOG by @officialKLS http://t.co/QQiV4XJl","lbl":"Neutral"}
+,{"time":"17:31","usr":"_ChrisVersace","txt":"@StockTwits The Real Winners of Black Friday and Cyber Monday http://t.co/JrfWDngi $BBY $TGT $WMT $AMZN $AAPL $IBM $SCOR $GOOG $UPS $MA $$","lbl":"Positive"}
+,{"time":"17:33","usr":"kristenfulara","txt":"RT @adem_tahiri: Wonder how that $6B from $GOOG is looking to Andrew Mason now; with rumors that he\u0027ll be out of a job soon. $GRPN currently under $3B.","lbl":"Neutral"}
+,{"time":"17:35","usr":"UCLMtic","txt":"RT @SAI: Gmail Threatens Dropbox By Allowing Users To Send Files Up To 10GB $GOOG by @officialKLS http://t.co/sRhPwZjU","lbl":"Neutral"}
+,{"time":"18:35","usr":"tainosys","txt":"RT @rsaintvilus: Apple Is Still Getting The Last Laugh - Forbes http://t.co/GJrBsw5y $AAPL $GOOG $MSFT $RIMM","lbl":"Neutral"}
+,{"time":"18:36","usr":"derek32smith","txt":"RT @chrisarsenault: Wow! $aapl\u0027s FY2012 profits exceeded $msft, $goog, $ebay, $yhoo, $fb &$amzn combined by $7b http://t.co/iqWzcxtB @statista_inc #cix2012","lbl":"Neutral"}
+,{"time":"18:38","usr":"billvoth","txt":"RT @SAI: Gmail Threatens Dropbox By Allowing Users To Send Files Up To 10GB $GOOG by @officialKLS http://t.co/sRhPwZjU","lbl":"Neutral"}
+,{"time":"19:29","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/IbujWpbF","lbl":"Neutral"}
+,{"time":"19:29","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/ZTwgILf4","lbl":"Neutral"}
+,{"time":"19:29","usr":"day_traders","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/PuGHaStv","lbl":"Neutral"}
+,{"time":"20:00","usr":"itsmekheit","txt":"RT @Forbes: Apple and Google: Why current market share results don\u0027t matter yet http://t.co/41BDwbFR $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"20:01","usr":"giuseFNJ","txt":"RT @Forbes: Apple and Google: Why current market share results don\u0027t matter yet http://t.co/41BDwbFR $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"20:33","usr":"chuberov","txt":"RT @TMFJMo: There\u0027s still part of me that\u0027s like \u0022Damn Google, you guys were actually gonna pay $6B for Groupon?\u0022 I mean you can\u0027t take that back. $GOOG","lbl":"Negative"}
+,{"time":"20:34","usr":"OnlineMRT","txt":"RT @Forbes: Apple and Google: Why current market share results don\u0027t matter yet http://t.co/41BDwbFR $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"20:36","usr":"bentleyelite","txt":"RT @Forbes: Apple and Google: Why current market share results don\u0027t matter yet http://t.co/41BDwbFR $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"21:52","usr":"MFatMICenter","txt":"Apple $AAPL overtakes Google\u0027s $GOOG Android for most popular mobile operating system! http://t.co/zzbPAkPJ","lbl":"Negative"}
+,{"time":"21:57","usr":"oNootch","txt":"$GOOG on watch for a 675 break, next resistance would be 692","lbl":"Positive"}
+]

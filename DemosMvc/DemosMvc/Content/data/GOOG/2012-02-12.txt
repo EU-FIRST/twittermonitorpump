@@ -1,0 +1,16 @@
+[
+{"time":"8:16","usr":"SAI","txt":"Google Doesn\u0027t Like It When You Say \u0027Gchat\u0027 $GOOG by @hamburger http://t.co/XQIPWelj","lbl":"Neutral"}
+,{"time":"8:17","usr":"OptionsTrader82","txt":"RT @SAI_Tools: Google Doesn\u0027t Like It When You Say \u0027Gchat\u0027 $GOOG by @hamburger http://t.co/r4A0duYM","lbl":"Neutral"}
+,{"time":"8:17","usr":"tkuz4u","txt":"RT @SAI: Google Doesn\u0027t Like It When You Say \u0027Gchat\u0027 $GOOG by @hamburger http://t.co/XQIPWelj","lbl":"Neutral"}
+,{"time":"8:17","usr":"LucaColombo","txt":"RT @SAI: Google Doesn\u0027t Like It When You Say \u0027Gchat\u0027 $GOOG by @hamburger http://t.co/XQIPWelj","lbl":"Neutral"}
+,{"time":"13:03","usr":"stockwatch25","txt":"$GOOG - Google Stock Analysis - RSI is bearish and falling - http://t.co/NhcS1RC6","lbl":"Negative"}
+,{"time":"13:06","usr":"thefinancepress","txt":"$GOOG Sorry, Google Plus: Google Uses Facebook To Tease Product Launch (GOOG): Sorry, Google Plus: Google Uses ... http://t.co/puM3r9j5","lbl":"Neutral"}
+,{"time":"13:08","usr":"earlystock","txt":"$GOOG - Google Stock Analysis - CCI is bullish and rising - http://t.co/nvj3RnAQ","lbl":"Positive"}
+,{"time":"13:17","usr":"hamburger","txt":"Android\u0027s New Web Browser Will Never Get Mobile Flash Support $ADBE $GOOG http://t.co/eJgG9GTK","lbl":"Neutral"}
+,{"time":"16:22","usr":"thetradedotcom","txt":"@HerbGreenberg net of cash and tax assets, $GOOG not paying much more than $AAPL $MSFT $NOK $RIMM et al are paying for Nortel\u0027s lesser pool","lbl":"Neutral"}
+,{"time":"16:24","usr":"thetradedotcom","txt":"@HerbGreenberg so $GOOG\u0027s getting a pretty cheap strategic experiment with $MMI\u0027s STB and mobile businesses -- but HUGE upside potential","lbl":"Positive"}
+,{"time":"16:30","usr":"PatrickKaine","txt":"FAIL! RT @SAI: Sorry, Google Plus: Google Uses Facebook To Tease Product Launch $GOOG by @MattRosoff http://t.co/Ji3okaXf","lbl":"Negative"}
+,{"time":"16:38","usr":"reuvenohr","txt":"RT @Chase03670 @JoshPritchard August - September. $GOOG vs $AAPL for 2012.<~~$GOOG revs slowing, as they move to mobile. $AAPL revs growing.","lbl":"Negative"}
+,{"time":"23:33","usr":"BUDDIEE18","txt":"another 9/11 in da works coming 2 Wall St. am trying 2 think WHEN this year. most likely AFTER da $FB IPO debut OR B4? $GOOG $BIDU $RENN $GS","lbl":"Neutral"}
+,{"time":"23:43","usr":"max_options","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/Y2rQOmxt #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+]

@@ -1,0 +1,38 @@
+[
+{"time":"5:40","usr":"SeekingAlpha","txt":"Google Has Lost Its Alpha http://t.co/IRWyMX33 $FB $VRNG $GOOG","lbl":"Negative"}
+,{"time":"6:26","usr":"aceytlca","txt":"RT @SAI: RT @SAI: Google Admits Fixing Motorola Will Cost More Than It Thought $GOOG by @nichcarlson http://t.co/wbPgkIId","lbl":"Negative"}
+,{"time":"7:53","usr":"Fitzstock2004","txt":"Will short more $goog 805s today and buy 760s against. To hold into next week","lbl":"Neutral"}
+,{"time":"7:53","usr":"williambanzai7","txt":"RT @businessinsider: RT @businessinsider: Google Admits Fixing Motorola Will Cost More Than It Thought $GOOG by @nichcarlson http://t.co/0eB1GkWL","lbl":"Negative"}
+,{"time":"7:59","usr":"tphedgegroup","txt":"$GOOG to $AAPL spread grows to $105. nice move from $10 . we like this, and anticipate a$145.00 spread.","lbl":"Positive"}
+,{"time":"7:59","usr":"Financedge","txt":"$AAPL has no upside momentum, $GOOG has it all, daily chart tells the story","lbl":"Positive"}
+,{"time":"8:52","usr":"BMWagar","txt":"RT @SAI: RT @SAI: Google Admits Fixing Motorola Will Cost More Than It Thought $GOOG by @nichcarlson http://t.co/wbPgkIId","lbl":"Negative"}
+,{"time":"8:52","usr":"Minyanville","txt":"Minyanville\u0027s T3 Morning Market Call: Market Surges on Jobs Report http://t.co/EPst3Bhc $AAPL $ZNGA $GOOG","lbl":"Neutral"}
+,{"time":"8:54","usr":"pennystockguys","txt":"$GOOG - Vringo Raises $45 Million in Stock Offering Ahead of Trial; Shares Down http://t.co/nu0EGQbL","lbl":"Neutral"}
+,{"time":"8:54","usr":"Fitzstock2004","txt":"@CeeJeanne yes,,,,,short $goog 780 weekly calls , with intention of letting them expire at zero.....wish me luck:)","lbl":"Negative"}
+,{"time":"9:26","usr":"Fitzstock2004","txt":"@MichaelShinder ahhh.....i am heavy on the OTM shorts.....but wont lose today, unless >780 $goog","lbl":"Neutral"}
+,{"time":"9:30","usr":"OptionsProfits","txt":"Catch me @yorbamedia TODAY 3pm ET http://t.co/UFVaFRvB (Danny @MrTopStep too!) I Will be talking $AAPL $GOOG @TheStreet #stockaction","lbl":"Neutral"}
+,{"time":"9:30","usr":"Fitzstock2004","txt":"headed to gym.....long $goog oct 760(30) short 805s(50) and short naked wkly 780s(50 times).......watching the seconds","lbl":"Neutral"}
+,{"time":"9:34","usr":"davidrocs","txt":"RT @choffman1978: RT @choffman1978: Will $SBUX buyout $GMCR? Oh the rumors.....!#cnbc,#msnbc,#nyse,#wsj,$bac,$c,$jpm,$grpn,$aapl,$goog,$s,$p,$gs,$cbou,$jv ...","lbl":"Neutral"}
+,{"time":"10:30","usr":"hige0111","txt":"RT @SAI: RT @SAI: Leaked: Here Are The Specs For Google\u0027s Upcoming Nexus Phone $GOOG by @officialKLS http://t.co/OOyZ8gTw","lbl":"Positive"}
+,{"time":"10:30","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Shriram Kavitark Ram Director SOLD 15000 shares \u2611","lbl":"Negative"}
+,{"time":"10:30","usr":"EricDutram","txt":"Do You Need The IPO ETF In Your Portfolio? http://t.co/a5iPD4Dq $FB $GOOG $FPX $KORS $V $GM","lbl":"Neutral"}
+,{"time":"10:31","usr":"ADVFNplc","txt":"$GOOG - Do You Need The IPO ETF In Your Portfolio? - ETF News And Commentary http://t.co/oLZHsp6m","lbl":"Neutral"}
+,{"time":"11:13","usr":"RatioTrader","txt":"LG will launch a $GOOG Nexus smartphone in mid-November, site says http://t.co/4UEgWu5x","lbl":"Positive"}
+,{"time":"11:15","usr":"noahmp","txt":"Social sentiment on StockTwits has turned bearish for $goog over the last couple weeks. http://t.co/ueYZPJph","lbl":"Negative"}
+,{"time":"11:16","usr":"UdallTechStrat","txt":"signs emerging that my $goog android thesis for Tab\u0027s coming home to roost, ie tablet share taking root and could mirror smartphone share $$","lbl":"Neutral"}
+,{"time":"12:32","usr":"eirigance","txt":"Leaked: Here Are The Specs For @Google\u0027s Upcoming @Nexus Phone $GOOG by @officialKLS http://t.co/4oFDFiId","lbl":"Positive"}
+,{"time":"12:33","usr":"SAI","txt":"Sony Stops Selling Its New Android Tablet Because Of Design Flaw $SNE $GOOG by @stevekovach http://t.co/Ru9BHHxg","lbl":"Neutral"}
+,{"time":"12:33","usr":"SAI_Tools","txt":"Sony Stops Selling Its New Android Tablet Because Of Design Flaw $SNE $GOOG by @stevekovach http://t.co/epsMbQ6R","lbl":"Neutral"}
+,{"time":"12:33","usr":"AlreadyBakedIn","txt":"$aapl is a hold. $goog a buy on next pullback in 740s.","lbl":"Positive"}
+,{"time":"13:11","usr":"takingstock614","txt":"Getting a bit of push lower in markets now. Watching the LOD on $AAPL $GOOG $PCLN","lbl":"Neutral"}
+,{"time":"13:13","usr":"MilroyT","txt":"RT @SeekingAlpha: RT @SeekingAlpha: Vringo Vs. Google: $45 Million Evens The Playing Field http://t.co/movC8nCm $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"13:16","usr":"takingstock614","txt":"$AAPL $GOOG $PCLN all bounced near the low. Look okay to me.","lbl":"Neutral"}
+,{"time":"14:28","usr":"Alejandroperez","txt":"Wow! \u201C@launchticker: Bing search results have 65% of malware redirects, $goog 30% http://t.co/aAhvB6mY http://t.co/D7bTIluu\u201D","lbl":"Positive"}
+,{"time":"14:30","usr":"TheStreet","txt":"\u0027QE Hype\u0027 and \u0027QE Fatigue\u0027 Tug of War Continues http://t.co/L71P4YKQ by @Suttmeier $XLB $XLE $XLI $AA $GOOG","lbl":"Neutral"}
+,{"time":"14:31","usr":"z8angela","txt":"@blassino123 $GOOG will close near its day low on higher volume on the overextended chart. Does that sound familiar? Plan your trade...","lbl":"Negative"}
+,{"time":"15:48","usr":"kevinbantz","txt":"$SPY, $IWM, $QQQ, $DIA, $CZR, $GLD, $SLV, $FXE, $FXC, $FXA, $AAPL, $GOOG, $FXB, FXY, $AMZN http://t.co/TsARMEcl","lbl":"Neutral"}
+,{"time":"16:19","usr":"wallstCS","txt":"Tech Business Recap: Motorola Beats Microsoft, Groupon\u0027s Big Day http://t.co/lWKbVeB2 $GOOG $MSFT $FB $NDAQ $GRPN #mkt #stocks","lbl":"Neutral"}
+,{"time":"17:18","usr":"jamesmdowns","txt":"96% of $GOOG\u0027s revenue comes from ads. \u002296% of Apple\u0027s revenue comes from something we\u0027re willing to wait in line for.\u0022 http://t.co/o5TqFQhf","lbl":"Neutral"}
+,{"time":"20:24","usr":"JamarParris","txt":"RT @howardlindzon: RT @howardlindzon: Apple is getting so big it will just have to give people choices like everyone else http://t.co/DQox5EQm $aapl $goog","lbl":"Neutral"}
+,{"time":"20:34","usr":"MappleSoftWW","txt":"Microsoft reveals plans to update preloaded Windows 8 apps http://t.co/8DysmiRy #bing #skydrive #maps $msft $aapl $goog #surface","lbl":"Neutral"}
+]

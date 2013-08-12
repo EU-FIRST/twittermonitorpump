@@ -1,0 +1,24 @@
+[
+{"time":"0:33","usr":"WallStWatchDog","txt":"Insider Trades in S&P 500 Companies for Feb 29th http://t.co/g163Ypfy $CMCSA $GOOG $AXP $IVZ $KMB #stocks","lbl":"Neutral"}
+,{"time":"0:36","usr":"beleggersclub8","txt":"$GOOG Stock to go long IF. Break above resistance http://t.co/05TMKSxO","lbl":"Positive"}
+,{"time":"0:40","usr":"tradenotes","txt":"stugots Bought 10 shares of $GOOG at $618.60 on @TradeKing. http://t.co/erJtxnnr - why, you ask? Find out & discuss.","lbl":"Positive"}
+,{"time":"0:41","usr":"tradenotes","txt":"stugots Sold 40 shares of $GOOG at $618.00 on @TradeKing. http://t.co/kszIk5s8 - why, you ask? Find out & discuss.","lbl":"Negative"}
+,{"time":"7:51","usr":"Lambies","txt":"RT @jimcramer: My issue with Yelp is this: they seem to just be at the top of $GOOG queue--and if $GOOG goes all in Zagats they change the algo and poof","lbl":"Neutral"}
+,{"time":"7:52","usr":"casualanalysis","txt":"\u201C@jimcramer: My issue with Yelp is\u2026 -similar to $GOOG being default search on iPhone. $AAPL goes Bing and poof goes mobile search for Google","lbl":"Neutral"}
+,{"time":"8:09","usr":"dntbankonit","txt":"RT @jimcramer: My issue with Yelp is this: they seem to just be at the top of $GOOG queue--and if $GOOG goes all in Zagats they change the algo and poof","lbl":"Neutral"}
+,{"time":"10:13","usr":"thefinancepress","txt":"$GOOG Google Inc. Boosting SME Business In California: Google Inc. Boosting SME Business In California Stocksan... http://t.co/7hG2kfOW","lbl":"Neutral"}
+,{"time":"11:58","usr":"the_real_bob_sa","txt":"Google X research facility and its secret projects http://t.co/84ietwdb #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"11:58","usr":"screwyourdayjob","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/k2ABo0RS #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"12:02","usr":"BrianSozzi","txt":"Hey, it\u0027s Friday, so I went here! \u0022Apple Euphoria May Have Peaked\u0022 http://t.co/5OwDASBs $AAPL $GOOG $AMZN @OptionsProfits @thestreet","lbl":"Neutral"}
+,{"time":"13:21","usr":"valuewalk","txt":"I still cant figure out exactly how $goog finance works","lbl":"Negative"}
+,{"time":"13:25","usr":"SunnyBhamra","txt":"Regrets of the week $mww,$wynn.. Wins of the week $aapl, $wfc, $slw Holding $kft, $FL, $swy, $lgf, $brkb, $aapl, $goog, Losers $IPG","lbl":"Positive"}
+,{"time":"13:30","usr":"NoDoji","txt":"RT @BoingBoing: Android lets apps secretly access and transmit your photos http://t.co/Zzh4VtMO $GOOG","lbl":"Neutral"}
+,{"time":"15:21","usr":"thefinancepress","txt":"$GOOG Menino to court Google for Boston\u0027s Innovation District: Menino to court Google for Boston\u0027s Innovation D... http://t.co/2cvvMAs9","lbl":"Neutral"}
+,{"time":"15:27","usr":"boowalley","txt":"Microsoft: Apple Makes Old iPhones \u0027Unusably Slow\u0027 On Purpose $MSFT $AAPL $GOOG by @MattRosoff http://t.co/kAcEqFKS http://t.co/40rBRgSt","lbl":"Neutral"}
+,{"time":"15:33","usr":"StockAction","txt":"RT @vahl: The meaning of SEO. RT @TheAcsMan 10 hits/day from $GOOG outside US to \u0022How my Wife\u0027s Bra Saved Us Money\u0022 http://t.co/4fgLfogf #stockaction","lbl":"Neutral"}
+,{"time":"15:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/119, $SPY/54, $ROYL/27, $MSFT/26, $SHLD/25, $GOOG/24, $WYNN/20, $IWM/20. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"18:45","usr":"RobertCandelori","txt":"RT @MattRosoff: Microsoft: Apple Makes Old iPhones \u0027Unusably Slow\u0027 On Purpose $MSFT $AAPL $GOOG http://t.co/mgxhmo0M","lbl":"Neutral"}
+,{"time":"18:46","usr":"thetapeguy","txt":"On 11/21/2011 $GOOG market cap was $82.6 Billion. Today the market cap is $201.99 Billion. #Google","lbl":"Positive"}
+,{"time":"18:47","usr":"thetapeguy","txt":"On 12/07/07 $GOOG market cap was $221.9 Billion #google","lbl":"Neutral"}
+,{"time":"23:17","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+]

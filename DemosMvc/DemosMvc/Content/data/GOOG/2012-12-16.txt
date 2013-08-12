@@ -1,0 +1,13 @@
+[
+{"time":"7:20","usr":"KrummSchmidt","txt":"RT @CNBCnow: Microsoft Battles Google by Hiring a Political Brawler - http://t.co/rFJUQU2j $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"7:44","usr":"alphagourmet","txt":"RT @ToddSullivan: Google dropping Exchange ActiveSync support for Gmail next month http://t.co/V7oSDkob not good $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"7:57","usr":"AlphaVN","txt":"Qualcomm Emerging as Intel\u2019s Competition $GOOG $QCOM $AAPL $NVDA $MSFT $INTC $AMD http://t.co/ZtLmlHHD","lbl":"Neutral"}
+,{"time":"11:05","usr":"dmackdaddy","txt":"Whoa, Santa Ditches Google For Microsoft! $GOOG $MSFT http://t.co/vcYReWno","lbl":"Negative"}
+,{"time":"11:05","usr":"stockwatcher13","txt":"Qualcomm: Apple-Related Sell-Off Is Irrational http://t.co/K8BoMaPe $AAPL $GOOG $INTC $NVDA $QCOM #stocks","lbl":"Neutral"}
+,{"time":"11:07","usr":"luisotre","txt":"RT @SeekingAlpha: Qualcomm: Apple-Related Sell-Off Is Irrational http://t.co/nCwFr9r9 $AAPL $GOOG $INTC $NVDA $QCOM","lbl":"Neutral"}
+,{"time":"14:23","usr":"buckandrews","txt":"Chart shows resistance around 700, @chartanalyst $GOOG JAN-04-13 720/710 BEAR CALL SPREAD (18 DAYS). #deckfolio http://t.co/C1uGxUs9","lbl":"Negative"}
+,{"time":"18:19","usr":"Andricos01","txt":"RT @BloombergTV: \u0022If Google is not careful, Android will be Samsung or Samsung will be Android\u0022 Roger McNamee to @DeirdreBolton http://t.co/DWDpF0Kh $GOOG","lbl":"Neutral"}
+,{"time":"22:20","usr":"TechInsiderco","txt":"Google-FTC Antitrust Suit Reportedly Coming To A Close: The negotiations in the antitrust case bet... http://t.co/3jDRCTvg #Google $GOOG","lbl":"Neutral"}
+,{"time":"22:22","usr":"jreinke","txt":"RT @campione: Futurist, AI expert & inventor Ray Kurzweil to become Google\u2019s chief engineer http://t.co/PMJqnW17 v @KurzweilAINews $GOOG","lbl":"Neutral"}
+,{"time":"22:30","usr":"barronstechblog","txt":"AAPL: Citi Cuts to Hold, Target to $575 on Rising iPhone, Tablet Competition - Tech Trader Daily- $AAPL $005930KS $GOOG http://t.co/lROi61vj","lbl":"Neutral"}
+]

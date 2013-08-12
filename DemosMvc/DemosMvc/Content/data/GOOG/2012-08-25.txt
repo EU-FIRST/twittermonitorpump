@@ -1,0 +1,33 @@
+[
+{"time":"3:21","usr":"Chrizm1","txt":"Mobile Advertising: The Next Big Thing? http://t.co/4IZHmBnT $AAPL $AUGT.OB $FB $GOOG $MM $MSFT $VCLK $VELT","lbl":"Neutral"}
+,{"time":"3:27","usr":"adrianmarkey","txt":"@JohnMacMahonCo kind of a good thing for #Android - $GOOG & hardware partners will have to innovate & redesign software and devices","lbl":"Neutral"}
+,{"time":"3:28","usr":"nabilkhan17","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/Z8QCUqXY $APPL $GOOG","lbl":"Negative"}
+,{"time":"3:30","usr":"JavierdelSol","txt":"RT @Forbes: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/LkH5t7Kv $APPL $GOOG","lbl":"Negative"}
+,{"time":"7:24","usr":"ajaymathuram","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
+,{"time":"7:25","usr":"EricGPlatt","txt":"Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/8G99IYke","lbl":"Neutral"}
+,{"time":"7:25","usr":"SAI","txt":"Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/dU0l8Umf","lbl":"Negative"}
+,{"time":"7:25","usr":"businessinsider","txt":"Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/fHNcdjcr","lbl":"Neutral"}
+,{"time":"7:51","usr":"1creative_mf","txt":"RT @ForbesTech: Apple rises; Google falls as Jury finds that Samsung infringed Apple patents. http://t.co/QGwAyEev $APPL $GOOG","lbl":"Negative"}
+,{"time":"7:54","usr":"endsbowen","txt":"RT @SAI: Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/dU0l8Umf","lbl":"Neutral"}
+,{"time":"7:54","usr":"GregBarila","txt":"RT @businessinsider: Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/fHNcdjcr","lbl":"Neutral"}
+,{"time":"7:57","usr":"YuldenErwin","txt":"RT \u0022@businessinsider: Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/CzrdCRKZ\u0022","lbl":"Negative"}
+,{"time":"9:07","usr":"SidelinedBuddah","txt":"RT @businessinsider: Use These 6 Free Apps To Save Money When You\u0027re Out Shopping $AAPL $GOOG $AMZN by @_dtl http://t.co/igV5EosO","lbl":"Neutral"}
+,{"time":"9:07","usr":"ExtraditionGame","txt":"RT @businessinsider: Use These 6 Free Apps To Save Money When You\u0027re Out Shopping $AAPL $GOOG $AMZN by @_dtl http://t.co/LX5LGiON #News","lbl":"Neutral"}
+,{"time":"9:11","usr":"appleapplehugs","txt":"RT @SAI: Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/dU0l8Umf","lbl":"Neutral"}
+,{"time":"9:12","usr":"breizh2008","txt":"RT @SAI: Use These 6 Free Apps To Save Money When You\u0027re Out Shopping $AAPL $GOOG $AMZN by @_dtl http://t.co/zGTyWNCZ","lbl":"Neutral"}
+,{"time":"11:05","usr":"arisdn","txt":"RT @SAI: Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/sQTXkT4x","lbl":"Neutral"}
+,{"time":"11:10","usr":"SeekingAlpha","txt":"Steve Jobs Vindicated, Google Next Target http://t.co/KSvXQNkF $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"11:14","usr":"KidDynamiteBlog","txt":"Commented on StockTwits: fair enough. just trying to help. many seem legitimately convinced that $GOOG can\u0027t wait t... http://t.co/zdhLA6Y2","lbl":"Neutral"}
+,{"time":"11:15","usr":"joey_volpe","txt":"RT @firstadopter: .@outlawz616 The key $AAPL patents the jury said were infringed are part of the $GOOG Android OS, not a Samsung specific thing","lbl":"Negative"}
+,{"time":"13:21","usr":"DeidreZune","txt":"$AAPL Win is a #GAMECHANGER. Mueller:\u0022$GOOG cannot stop $AAPL. It is now on the run & will have to scramble to make software changes\u0022","lbl":"Negative"}
+,{"time":"13:43","usr":"dschorrnyc","txt":"RT @DrunkStepmother: $VRNG @dschorrnyc if Markman rulings matched $GOOG patents the case would have been dismissed. They tried again. Markman loss x2 = Hail Mary","lbl":"Neutral"}
+,{"time":"13:44","usr":"m_cof","txt":"Apple\u0027s victory sends fear through Android ecosystem: http://t.co/zz8bwtsB via @WSJ $AAPL $GOOG","lbl":"Negative"}
+,{"time":"17:06","usr":"stocktwitsu","txt":"RT @StockTwits K.I.S.S. Principle for Traders http://t.co/7JjBi6hW via @SJosephBurns $AAPL $GOOG $STUDY","lbl":"Neutral"}
+,{"time":"17:18","usr":"GiantRoboTravis","txt":"RT @SAI: Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/0PqzCXDi","lbl":"Neutral"}
+,{"time":"17:26","usr":"sojourner","txt":"RT @jonfortt: Don\u0027t read this as a loss for $GOOG. Samsung tried to make its Android flavor more Apple-like. It\u0027s a win for non-fragmentation #appsung","lbl":"Neutral"}
+,{"time":"17:27","usr":"DrunkStepmother","txt":"@imho_doyourdd @CNBC @jonfortt did you bother to look @ all of the $VRNG & $GOOG filings or just older ones?","lbl":"Neutral"}
+,{"time":"23:00","usr":"redman59","txt":"@paulwoll nice note & was thinking the same w/$AAPL & $GOOG, especially given recent run in $GOOG","lbl":"Positive"}
+,{"time":"23:01","usr":"Sechelt","txt":"RT @businessinsider: Use These 6 Free Apps To Save Money When You\u0027re Out Shopping $AAPL $GOOG $AMZN by @_dtl http://t.co/btNlnGDD","lbl":"Neutral"}
+,{"time":"23:05","usr":"Sechelt","txt":"RT @businessinsider: Samsung Might Have To Delay New Phone And Tablet Launches After Losing To Apple $AAPL $GOOG http://t.co/0joRp3x0","lbl":"Neutral"}
+,{"time":"23:16","usr":"TraderDR","txt":"@a_bh_a not an $AAPL fan but $GOOG had it coming, just wish they had to pay instead","lbl":"Negative"}
+]

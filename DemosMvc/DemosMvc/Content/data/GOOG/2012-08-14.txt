@@ -1,0 +1,81 @@
+[
+{"time":"0:51","usr":"georgetvp","txt":"RT @SAI: We Just Heard An Absolutely Insane Rumor About A New Business For Google ... $GOOG by @mattlynley http://t.co/ekg93c0M","lbl":"Neutral"}
+,{"time":"0:57","usr":"micheloptlandt","txt":"RT @SAI: We Just Heard An Absolutely Insane Rumor About A New Business For Google ... $GOOG by @mattlynley http://t.co/Z5OYZC6Q","lbl":"Neutral"}
+,{"time":"1:13","usr":"finantecnico","txt":"RT @MarketWatch: Google is cutting 4,000 of Motorola\u0027s 20,000 employees and closing or consolidating a third of its facilities: http://t.co/5BVwPdzC $GOOG","lbl":"Neutral"}
+,{"time":"6:14","usr":"TaylorGangZone","txt":"RT @JimCramer How I manipulate stock prices at will $FB $APPL $GOOG $AMRN $GRPN $RIMM $BAC $S via @cardplayer http://t.co/vzGv4l4R","lbl":"Neutral"}
+,{"time":"6:14","usr":"Shinedezign111","txt":"RT @JimCramer How I manipulate stock prices at will $FB $APPL $GOOG $AMRN $GRPN $RIMM $BAC $S via @cardplayer http://t.co/IvxQFX4S","lbl":"Neutral"}
+,{"time":"6:14","usr":"Nesa_pamungkas","txt":"RT @JimCramer How I manipulate stock prices at will $FB $APPL $GOOG $AMRN $GRPN $RIMM $BAC $S via @cardplayer http://t.co/SjT9Ca7i","lbl":"Neutral"}
+,{"time":"7:39","usr":"JkHopkins2084","txt":"RT @ListMyBusiness: RT @JimCramer How I manipulate stock prices at will $FB $APPL $GOOG $AMRN $GRPN $RIMM $BAC $S via @cardplayer #BOOYAH http://t.co/oXIXvrqc","lbl":"Neutral"}
+,{"time":"7:41","usr":"bwolf_","txt":"$hd, why not the law of large averages multiple that $aapl and $goog get?","lbl":"Neutral"}
+,{"time":"7:43","usr":"_ChrisVersace","txt":"#Google Buys #Frommer\u0027s, #Groupon Next? Not Likely http://t.co/UySqP4yy @sharethis @Forbes $GOOG $GRPN $YELP $YHOO $AAPL $MSFT #livingsocial","lbl":"Neutral"}
+,{"time":"8:35","usr":"takingstock614","txt":"Closed out some $AAPL $GOOG calls.","lbl":"Positive"}
+,{"time":"8:36","usr":"TheGingi","txt":"$GOOG bought Frommers yesterday for $23 million, and its market cap increased by some $5 BILLION. Amazing.","lbl":"Positive"}
+,{"time":"8:57","usr":"Caveman_Trader","txt":"$GOOG rel strength","lbl":"Positive"}
+,{"time":"8:57","usr":"anguizola27","txt":"RT @SAI: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/vBY1B6Pg","lbl":"Neutral"}
+,{"time":"8:57","usr":"BeaStrauss","txt":"RT @SAI: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/vBY1B6Pg","lbl":"Neutral"}
+,{"time":"8:57","usr":"Crap_Trader","txt":"@racernic I have this feeling its about to take off.... $GOOG. thought I\u0027d be safe and close it now.","lbl":"Positive"}
+,{"time":"9:07","usr":"berkutchitweet","txt":"Been long $GOOG for three weeks now. That is definitely the longest duration trade I\u0027ve had on in forever (3 months!). \u0027Bout time.","lbl":"Positive"}
+,{"time":"9:07","usr":"Jamtrades","txt":"$GOOG ... This is what i call the \u0022Runaway Stock\u0022 Just WOW!","lbl":"Neutral"}
+,{"time":"9:08","usr":"kadartunde","txt":"RT @JimCramer #BOOYAH How I manipulate stock prices at will $FB $APPL $GOOG $KORS $GRPN $RIMM $BAC $HD via @cardplayer http://t.co/YDuvKY9b","lbl":"Neutral"}
+,{"time":"9:24","usr":"Jamtrades","txt":"Commented on StockTwits: yea... Thats why i added to my watchlist. frankly, $AAPL and $GOOG are overbought. We have ... http://t.co/oOJgfTMm","lbl":"Negative"}
+,{"time":"9:24","usr":"soloistic1","txt":"RT @SAI: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/vBY1B6Pg","lbl":"Neutral"}
+,{"time":"9:25","usr":"wallstCS","txt":"Kodak GIves Apple and Google a Second Chance to Make a BETTER Offer http://t.co/TgbUxQpc $AAPL $GOOG $MSFT $RIMM #mkt #stocks","lbl":"Neutral"}
+,{"time":"9:25","usr":"PingDev","txt":"RT @SAI: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/vBY1B6Pg","lbl":"Positive"}
+,{"time":"9:45","usr":"poonisms","txt":"RT @SAI: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/vBY1B6Pg","lbl":"Positive"}
+,{"time":"9:46","usr":"Jamtrades","txt":"$GOOG is about t o make a new 52 wk high... but caution.. This puppy is over bought","lbl":"Positive"}
+,{"time":"9:46","usr":"drfager","txt":"We were told by analysts that the $GOOG purchase of Motorola was stupid, we were told Europe is hurting $GOOG, leaving China was a bodyblow","lbl":"Negative"}
+,{"time":"9:46","usr":"bluser12","txt":"$GOOG!!!!!!!!","lbl":"Neutral"}
+,{"time":"9:55","usr":"stockrover","txt":"@StockTwits we say the rise in $GOOG is real, and past patterns predict this. See http://t.co/4mVpAy7h for the reasoning","lbl":"Positive"}
+,{"time":"9:55","usr":"bluser12","txt":"Gotta go back to 2008 to find a price level higher than what $GOOG is trading now.","lbl":"Neutral"}
+,{"time":"9:55","usr":"_SimplyTessa","txt":"RT @swamptrade: $AAPL $GOOG 2 beasts","lbl":"Neutral"}
+,{"time":"9:55","usr":"thefinancepress","txt":"$GOOG Will Google Inc. (GOOG) Resuscitate Motorola Mobility?: Will Google Inc. (GOOG) Resuscitate Motorola Mobi... http://t.co/0rHxzbQt","lbl":"Neutral"}
+,{"time":"10:10","usr":"BigE_007","txt":"So mad at myself for missing $GOOG","lbl":"Positive"}
+,{"time":"10:11","usr":"vid_e","txt":"$aapl chasing $goog again , let see whether it will eventually catch up :)","lbl":"Neutral"}
+,{"time":"10:13","usr":"Stock4Doc","txt":"$GOOG. Just put on a short in GOOG (Bought $560 puts) for a trade. Very overbought","lbl":"Negative"}
+,{"time":"10:14","usr":"bluebarontrader","txt":"THE POWER OF MATH ,,COMPELLS $GOOG ALSO, AT IT`S SESSION HIGH,, IT IS PLUS ,,, NO SAY IT AINT SO, A FIGURE WE SAW HRS AGO? YUP 13","lbl":"Neutral"}
+,{"time":"10:39","usr":"wallstCS","txt":"Are Samsung Phones Leaving Apple in the Dust? http://t.co/FtVn0q5A $NOK $AAPL $GOOG $MSFT #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:40","usr":"wanhafiz12","txt":"RT @JimCramer #BOOYAH How I manipulate stock prices at will $FB $APPL $GOOG $KORS $GRPN $RIMM $BAC $HD via @cardplayer http://t.co/I04XVQTg","lbl":"Neutral"}
+,{"time":"10:40","usr":"choffman1978","txt":"$SIRI (SirusXM) Surging - Auto Sales STRONG - 27m volume! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$soda,$wmt","lbl":"Neutral"}
+,{"time":"10:40","usr":"LuckyDoubleDog","txt":"yesterday I bought some $JPM, $PFE & $GOOG today I bought some $BMY $31.56, $LLY & $YUM","lbl":"Positive"}
+,{"time":"11:00","usr":"HumOnTheMarkets","txt":"Google looking to close at 4.5-year high today. This quarter Google outperforming Apple: $GOOG +16%, $AAPL +9%","lbl":"Positive"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $AAPL -7%, $GOOG -8%, $GOOG -8%, $AAPL -7% http://t.co/uBJyhJcD","lbl":"Negative"}
+,{"time":"11:00","usr":"choffman1978","txt":"$SIRI (SirusXM) Surging - Auto Sales STRONG - 29m volume! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$soda,$wmt","lbl":"Neutral"}
+,{"time":"11:00","usr":"CNBC","txt":"RT @CNBCnow: $GOOG is currently above its January \u002712 high of $668.28. If it ends day above that level, it will close at its highest level in 4.5 years.","lbl":"Neutral"}
+,{"time":"11:11","usr":"lluccipha","txt":"SAI: THE GOOGLE INVESTOR: Is There A Conflict Between Being A Search Provider And A Content Provider? $GOOG by @hleo... http://t.co/BYoCmzrJ","lbl":"Neutral"}
+,{"time":"11:11","usr":"choffman1978","txt":"$BAC SURGING on Wells Fargo SEC NEWS! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$soda,$wmt","lbl":"Neutral"}
+,{"time":"11:12","usr":"choffman1978","txt":"$AEZS SOARING ON CLINICAL DATA NEWS! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$soda,$wmt,$pfe,$jnj,$incy,$dndn","lbl":"Neutral"}
+,{"time":"11:12","usr":"FosterJeremiah1","txt":"RT @JimCramer #BOOYAH How I manipulate stock prices at will $FB $APPL $GOOG $KORS $GRPN $RIMM $BAC $HD via @cardplayer http://t.co/cJcxLI0G","lbl":"Neutral"}
+,{"time":"11:27","usr":"Robbcarpdm","txt":"$goog sold my puts $669 $13.80 plus$3","lbl":"Positive"}
+,{"time":"11:27","usr":"wlamar91","txt":"RT @CNBC: This quarter Google outperforming Apple: $GOOG +16%, $AAPL +9% (via @HumOnTheMarkets)","lbl":"Positive"}
+,{"time":"11:28","usr":"TradetheLeader1","txt":"$GOOG likely to rest after this big run. May setup again giving an opportunity to add more.","lbl":"Negative"}
+,{"time":"11:49","usr":"KickLaunch","txt":"RT @CNBCnow: $GOOG is currently above its January \u002712 high of $668.28. If it ends day above that level, it will close at its highest level in 4.5 years.","lbl":"Positive"}
+,{"time":"11:49","usr":"MartyMorua","txt":"2:00 PM is usually when we\u0027ll see a bid on the overall markets. Lots coming down from the morning highs. Watch the momo stocks, $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"11:49","usr":"GreenHedges1","txt":"RT @Fitzstock2004: i am now 100% cash.......took all $aapl $goog and $fb profits......GL to all","lbl":"Negative"}
+,{"time":"11:49","usr":"JFinDallas","txt":"Right on the money call ! nice @bt24_7 $GOOG above the March highs may very well be a VERY interesting short today","lbl":"Negative"}
+,{"time":"12:19","usr":"jblukin","txt":"For the 4th year in a row, $GOOG continues its Q3 run. https://t.co/99NErrf5 (Full Disclosure: Long)","lbl":"Positive"}
+,{"time":"12:19","usr":"deliciousAAPL","txt":"$AAPL $SPY losing strength/momentum as well... $GOOG(also very oversold) is inching lower... SHORT is the current trend","lbl":"Negative"}
+,{"time":"12:20","usr":"choffman1978","txt":"$AEZS SURGING - NEW HOD!! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$soda,$wmt,$pfe,$jnj,$ctic,$dndn,$incy,$gsk","lbl":"Neutral"}
+,{"time":"12:20","usr":"vikash2710","txt":"RT @CNBCnow: $GOOG is currently above its January \u002712 high of $668.28. If it ends day above that level, it will close at its highest level in 4.5 years.","lbl":"Neutral"}
+,{"time":"13:04","usr":"pnani456","txt":"@RedDogT3Live your $aapl $goog tweets on this break out and run up - priceless!","lbl":"Positive"}
+,{"time":"13:04","usr":"choffman1978","txt":"$SIRI (SirusXM) Surging on multiple 8-k\u0027s news- SQUEEZE-45m volume! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v","lbl":"Neutral"}
+,{"time":"13:59","usr":"takingstock614","txt":"I would not initiate positons in $AAPL $GOOG up here. Come too far too fast. It would not be responsible trading.","lbl":"Negative"}
+,{"time":"14:00","usr":"MarketCurrents","txt":"Google\u0027s (GOOG) declining Chinese search share - the result of its decision to abandon Go... http://t.co/1iCDNnV6 $GOOG $BIDU $AMAP","lbl":"Neutral"}
+,{"time":"14:00","usr":"choffman1978","txt":"$SIRI (SirusXM)Surging new 52w high - huge squeeze once $2.55 breaks 53m volume #cnbc,#msnbc,#nyse,$lmca,#stocks,$jpm,$kcg,$aapl,$goog,$s,$v","lbl":"Neutral"}
+,{"time":"14:04","usr":"thefinancepress","txt":"$GOOG Google Can Appeal Group Status of Digital-Book Case: Google Can Appeal Group Status of Digital-Book Case ... http://t.co/c2TdUkPQ","lbl":"Neutral"}
+,{"time":"14:52","usr":"RedDogT3Live","txt":"Today is a day to lighten up. Came in long 3 names was out of all three by 12:30. I did tweet it. Out of $AAPL $GOOG and $gs.","lbl":"Negative"}
+,{"time":"14:52","usr":"choffman1978","txt":"$SIRI (SirusXM)Surging new 52w high - huge squeeze once $2.55 breaks 77m volume #cnbc,#msnbc,#nyse,$lmca,#stocks,$jpm,$kcg,$aapl,$goog,$fb","lbl":"Neutral"}
+,{"time":"14:54","usr":"choffman1978","txt":"$AEZS SURGING 20% on Clinical Data News and SHORT SQUEEZE! #cnbc,#msnbc,#nyse,$lmca,#stocks,$jpm,$kcg,$aapl,$goog,$fb,$pfe,$dndn,$ctic,","lbl":"Neutral"}
+,{"time":"14:54","usr":"RedDogT3Live","txt":"RT @pnani456: @RedDogT3Live your $aapl $goog tweets on this break out and run up - priceless!","lbl":"Positive"}
+,{"time":"15:51","usr":"APCommentary","txt":"RT @CNBCnow: Third Point takes new stakes in $AAP. $AET, $AIG, $COG, $CHK; dissolves $ANF, $SYY, $DVN, $GOOG, $GS, $WFC stakes","lbl":"Negative"}
+,{"time":"15:52","usr":"MInvestmentsLLC","txt":"RT @CNBCnow: Third Point takes new stakes in $AAP. $AET, $AIG, $COG, $CHK; dissolves $ANF, $SYY, $DVN, $GOOG, $GS, $WFC stakes","lbl":"Neutral"}
+,{"time":"15:53","usr":"agendabursatil","txt":"$SPX $COMPQ $INDU $AAPL $JPM $GOOG time to be short ??? http://t.co/NKWwsKoQ http://t.co/R3eryGLR","lbl":"Negative"}
+,{"time":"15:54","usr":"jsebastianfung","txt":"Got employee benefits? If you pass away at $GOOG, the #tech giant will pay your spouse 50% of your salary for 10 years http://t.co/lAbQQRIr","lbl":"Neutral"}
+,{"time":"19:11","usr":"ECONgeek947","txt":"$NFLX Netflix Advances After Bank of America Recommends Shares http://t.co/RqIqzSwx via @BloombergNews $CSTR $VZ $AMZN $AAPL $GOOG $CMCSA","lbl":"Neutral"}
+,{"time":"19:12","usr":"yb2012","txt":"5 Things to Know About Google Fiber http://t.co/YoMxiKgc via @WealthLift $GOOG RT @mjakemann","lbl":"Neutral"}
+,{"time":"19:13","usr":"Dataclutter","txt":"I own one of every product #Apple sells but man that #Google Nexus 7 looks great for $200. http://t.co/2vPyXTOy $goog $aapl #iPad #ipadmini","lbl":"Neutral"}
+,{"time":"19:16","usr":"paulwoll","txt":"@RickyRoma0 - $GOOG may be able to streamline this part and make it more cost effective.. Not just businesses. But users of groupon too.","lbl":"Positive"}
+,{"time":"22:21","usr":"stockhaven","txt":"You have to ask yourself as a trader, \u0022Is $GOOG ready?\u0022 let your answer dictate the trade but manage it properly-- be it pos, neg, neutral","lbl":"Neutral"}
+,{"time":"22:22","usr":"ElizaAsh","txt":"RT @SAI: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/vBY1B6Pg","lbl":"Neutral"}
+,{"time":"22:24","usr":"Almedshel","txt":"RT @businessinsider: Why People Bought Android Phones Instead Of iPhones, According To An Internal Apple Study $AAPL $GOOG by @jyarow http://t.co/Gik89Qhv","lbl":"Neutral"}
+,{"time":"22:28","usr":"DeidreZune","txt":"$AAPL will soon best its all time high..............joining $GOOG","lbl":"Positive"}
+]

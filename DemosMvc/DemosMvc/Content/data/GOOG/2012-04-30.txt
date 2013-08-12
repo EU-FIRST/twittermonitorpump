@@ -1,0 +1,38 @@
+[
+{"time":"0:54","usr":"keithbrumbaugh","txt":"If you invest in the $FB IPO and not $AAPL, $EQIX, $GOOG or $VMW, then like the lottery, it\u0027s just a tax on your bad math.","lbl":"Positive"}
+,{"time":"1:30","usr":"I_am_funny_one","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/JRrgIO6R #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"1:56","usr":"Covestor","txt":"Apple, Google could join Dow index: Barron\u0027s http://t.co/VDjKT29I $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"6:48","usr":"DanielSteeves","txt":"\u201C@SAI 10 Things You Need To Know This Morning $MSFT $AAPL $BKS $GOOG $AMZN by @jyarow http://t.co/zO9Chrjm\u201D","lbl":"Neutral"}
+,{"time":"6:51","usr":"mckra1g","txt":"RT @nigelcameron: Interesting Qs RT @defcon_5: RT @mfauscette: $AAPL $GOOG cd join Dow index: http://t.co/Phw3K0wo $$","lbl":"Neutral"}
+,{"time":"7:47","usr":"herbgreenberg","txt":"RT @KidDynamiteBlog: Commented on StockTwits: this is $MSFT\u0027s salvo in the war against $AMZN and $AAPL... wither: $GOOG? http://t.co/Ph3sgxxY","lbl":"Neutral"}
+,{"time":"8:38","usr":"Buddahfan","txt":"$AAPL and $GOOG shareholders have the U.S. DOJ to thank for all the money they made in $AAPL & $GOOG. Crony Capitalism U.S. style","lbl":"Neutral"}
+,{"time":"9:30","usr":"thefinancepress","txt":"$GOOG Expedia Inc (NASDAQ:EXPE) Leads Top Performers In The S&P 500 And Hits Best ...: Expedia Inc (NASDAQ:EXPE... http://t.co/6aUBClQa","lbl":"Neutral"}
+,{"time":"9:33","usr":"Goodlett","txt":"As @FCC continues probe of $GOOG, findings show #StreetView team purposefully programmed data collection from ur WiFi http://t.co/b6WyKXTw","lbl":"Negative"}
+,{"time":"10:21","usr":"rechtsteiner","txt":"The opp for a meta cloud is growing by the min. http://t.co/CPeCUEPH LG Cloud joins S Cloud in the handset race v. $AAPL & $GOOG.","lbl":"Neutral"}
+,{"time":"10:23","usr":"Goodlett","txt":"#Forrestor Research saying #tablet market to grow from 56M to 375M units by 2016 w/$AAPL $MSFT $GOOG $AMZN getting most http://t.co/2tlfoF4I","lbl":"Neutral"}
+,{"time":"10:53","usr":"wallstCS","txt":"Apple and Samsung\u0027s Smartphone Duopoly http://t.co/GQ3qhbFz $AAPL $GOOG $MSFT #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"11:14","usr":"PeteFleck","txt":"RT @ericjackson: New Post: Here\u0027s Why Google and Facebook Might Completely Disappear in the Next 5 Years - Forbes http://t.co/MHxnJlHT $GOOG $FB $AAPL $YHOO","lbl":"Negative"}
+,{"time":"11:46","usr":"doneyli","txt":"RT @SAI: Java Inventor: \u0027Google Totally Slimed Sun\u0027 $ORCL $GOOG by @MattRosoff http://t.co/E9szVQ7D","lbl":"Neutral"}
+,{"time":"11:47","usr":"wallstCS","txt":"Barnes & Noble and Microsoft Still Have an Uphill Battle http://t.co/PESXe2q8 $BKS $MSFT $AAPL $AMZN $GOOG $SCOR","lbl":"Neutral"}
+,{"time":"12:36","usr":"tcmillas","txt":"RT @SAI: CHART OF THE DAY: Mobile Is Bigger Than Electricity And Safe Drinking Water Around The World $AAPL $GOOG by @jyarow http://t.co/XtjSSItR","lbl":"Neutral"}
+,{"time":"12:37","usr":"mjbarash","txt":"RT @SAI: CHART OF THE DAY: Mobile Is Bigger Than Electricity And Safe Drinking Water Around The World $AAPL $GOOG by @jyarow http://t.co/XtjSSItR","lbl":"Neutral"}
+,{"time":"12:39","usr":"BioTechReports","txt":"$YMI - getting ready to break out huge?!?cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$amgn,$gs,$goog,$aapl, $bac,$v,$s,$c,$wfc,$wmt","lbl":"Neutral"}
+,{"time":"13:24","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/HBB8cEHc","lbl":"Neutral"}
+,{"time":"13:24","usr":"charlesrwa","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/wFHiGAiD","lbl":"Neutral"}
+,{"time":"13:25","usr":"Tradified","txt":"\u2663 Insider Trading: $GOOG Page Lawrence Director SOLD 75000 shares \u2611","lbl":"Negative"}
+,{"time":"13:25","usr":"StockAction","txt":"RT @PeakTheories: Agreed on $GOOG & blw 570 cld=470 http://t.co/4qbaSGqw RT @traderblast GOOG -a close below $604-is real trouble for this stock. #stockaction","lbl":"Negative"}
+,{"time":"14:04","usr":"ericjackson","txt":"@EM_Gill: http://t.co/84wpm4LQ \u0022ultimately... it is still possible that Yahoo could be Facebook\u2019s Motorola Mobility\u0022 $YHOO $FB $MMI $GOOG","lbl":"Neutral"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/112, $SPY/55, $BKS/33, $MSFT/32, $GOOG/27, $AMZN/22, $NFLX/18, $IWM/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:41","usr":"falishamamdani","txt":"\u201C@bespokeinvest: Apple and Google in a battle to see who can get to $500 first. $AAPL $GOOG $$\u201D @Barrons","lbl":"Positive"}
+,{"time":"14:42","usr":"Minyanville","txt":"Today in the #TechSector: Apple And Google In The Dow?! http://t.co/PF7K0Zu9 $AAPL $GOOG @vincent_trivett","lbl":"Neutral"}
+,{"time":"14:42","usr":"stocial","txt":"Farzana M. is long $GOOG at 602.00. google is looking good http://t.co/8Kn90iNK","lbl":"Positive"}
+,{"time":"15:18","usr":"thefinancepress","txt":"$GOOG Oracle, Google Put Copyright Decision In Jury\u0027s Hands: Oracle, Google Put Copyright Decision In Jury\u0027s Ha... http://t.co/kj4ccJC6","lbl":"Neutral"}
+,{"time":"15:20","usr":"ADVFNplc","txt":"$GOOG - Oracle, Google Put Copyright Decision In Jury\u0027s Hands http://t.co/mwgOgpL4","lbl":"Neutral"}
+,{"time":"15:20","usr":"pennystockguys","txt":"$GOOG - Oracle, Google Put Copyright Decision In Jury\u0027s Hands http://t.co/r4h9sDAI","lbl":"Neutral"}
+,{"time":"16:21","usr":"thefinancepress","txt":"$GOOG Google to Launch Tool Comparing Financial Products: Google to Launch Tool Comparing Financial Products Va... http://t.co/iYJ6Echs","lbl":"Neutral"}
+,{"time":"16:22","usr":"AdvancedTrading","txt":"RT @barronsonline: Video: Why Apple and Google deserve to be in the Dow Jones Industrial Average http://t.co/R4l8udzv $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:54","usr":"chartiq","txt":"Testing Twitter functionality from ChartIQ Pro beta $GOOG http://t.co/jARlgkCM","lbl":"Neutral"}
+,{"time":"17:59","usr":"ABtrader","txt":"JAVA founder:\u0022The $GOOG thing is really a pain. Theyre immune to copyright laws,good citizenship,they dont share. They dont even call back.\u0022","lbl":"Negative"}
+,{"time":"18:00","usr":"ABtrader","txt":"Finally someone ripping on $GOOG. Yes im not a fan. http://t.co/od1HfHKi","lbl":"Negative"}
+,{"time":"20:01","usr":"QE4sayswhat","txt":"$AAPL, siri couldn\u0027t tell my friend the spread of the Heat NY game tonight, I wonder if you can $GOOG how to siri that? #sirithat","lbl":"Neutral"}
+]

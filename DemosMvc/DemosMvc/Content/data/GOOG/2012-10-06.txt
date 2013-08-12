@@ -1,0 +1,5 @@
+[
+{"time":"9:23","usr":"Vegasraiders","txt":"Expect movement Monday morning...Vringo Vs. Google: Vringo Wins (By And Large) The MILs http://t.co/s0zVcWVy $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"9:26","usr":"tinyreal","txt":"Market Autopsy Video For the Week Ending 10/05/12 $AAPL $SPY $DIA IWM $SPY $AMZN $NFLX $RIMM $GOOG more http://t.co/1OQLMA3o","lbl":"Neutral"}
+,{"time":"14:04","usr":"OgFOMK","txt":"Google Puts Souped-Up Neural Networks To Work @slashdot http://t.co/c6fS7rza $GOOG","lbl":"Neutral"}
+]

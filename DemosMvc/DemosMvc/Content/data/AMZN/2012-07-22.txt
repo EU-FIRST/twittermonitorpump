@@ -1,0 +1,5 @@
+[
+{"time":"10:34","usr":"ASCHIFFNER","txt":"@KristinRomanias $AMZN on the 26th, I think that will be strong too","lbl":"Positive"}
+,{"time":"16:18","usr":"64turok","txt":"Charts Point to Signs of Exhaustion in the Market http://t.co/xBUWLl9j $rut $vix $spy $dia $qqq $aapl $amzn $gld $nymo $nya $spx $sbux","lbl":"Negative"}
+,{"time":"23:14","usr":"muckdog","txt":"@TraderLantern @urbane_gorilla for every CA dollar you earn and spend you pay 9%+ income tax, over 7%+ sales tax. add in $AMZN shipping...","lbl":"Neutral"}
+]

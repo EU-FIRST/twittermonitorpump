@@ -1,0 +1,11 @@
+[
+{"time":"6:14","usr":"orbit208468","txt":"RT @SAI: Like Hell Facebook Is Killing Google $GOOG by @hblodget http://t.co/4Z3AGFPz","lbl":"Positive"}
+,{"time":"6:20","usr":"patroneux","txt":"Marked for this month, $GOOG on Jan 19th and $GMCR on Jan 30th. If you\u0027re tired of europe, those two earnings plays will keep u excited!","lbl":"Neutral"}
+,{"time":"6:22","usr":"raul_montalvo","txt":"RT @SAI: Like Hell Facebook Is Killing Google $GOOG by @hblodget http://t.co/1xFv4mDm","lbl":"Negative"}
+,{"time":"13:24","usr":"howardlindzon","txt":"First Blog Post of 2012 - \u0027My Gameplan\u0027 http://t.co/TUA2G3oV $goog $aapl $lpsn $intu","lbl":"Neutral"}
+,{"time":"13:30","usr":"jfahmy","txt":"RT @howardlindzon: First Blog Post of 2012 - \u0027My Gameplan\u0027 http://t.co/IU3DraST $goog $aapl $lpsn $intu","lbl":"Neutral"}
+,{"time":"13:31","usr":"wallstreetbean","txt":"RT @howardlindzon First Blog Post of 2012 - \u0027My Gameplan\u0027 http://t.co/kSKYFWPJ $GOOG $AAPL $LPSN $INTU","lbl":"Neutral"}
+,{"time":"13:33","usr":"thuant","txt":"RT @howardlindzon: First Blog Post of 2012 - \u0027My Gameplan\u0027 http://t.co/TUA2G3oV $goog $aapl $lpsn $intu","lbl":"Neutral"}
+,{"time":"17:50","usr":"NoDoji","txt":"@dparent I posted $GOOG Daily & weekly charts Friday & Saturday nights. Looks bullish. I am in some weekly calls","lbl":"Positive"}
+,{"time":"18:01","usr":"traderblast","txt":"RT @andrewnyquist: New technical charts up on See It Market: http://t.co/FUspXZml $GLD $SLV $GC_F $SI_F $EURUSD $CL_F $YHOO $F $SBUX $GOOG $QQQ #chartology","lbl":"Neutral"}
+]

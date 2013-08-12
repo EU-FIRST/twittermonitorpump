@@ -1,0 +1,28 @@
+[
+{"time":"6:50","usr":"Abmuku","txt":"Get New Hot Social Media News First! Get Abmuku Mobile, Tech Analysis and More at http://t.co/w7Ocbix4 $FB $P $GOOG","lbl":"Neutral"}
+,{"time":"6:51","usr":"dschorrnyc","txt":"RT @thenotablecalls: $GOOG - Benchmark cuts tgt to $615, sees initial signs of weakness in U.S. http://t.co/xpvTDvpw","lbl":"Negative"}
+,{"time":"7:00","usr":"choffman1978","txt":"$bpax up 20% premarket - news? #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"7:00","usr":"lopezunwired","txt":"WSJ: Google is accelerating their plans to launch a Siri competitor http://t.co/kIyjE2KQ > Siri made voice recognition cool again $GOOG","lbl":"Neutral"}
+,{"time":"8:38","usr":"choffman1978","txt":"$bpax squeezing! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"8:39","usr":"choffman1978","txt":"$bpax squeezing after treeshake #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"8:39","usr":"choffman1978","txt":"$bpax up 5% on huge volume! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"8:43","usr":"choffman1978","txt":"Rumors - Fed will ease today! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"9:34","usr":"choffman1978","txt":"$S (Sprint) headed to $6! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"9:35","usr":"USwwwStocks","txt":"$GOOG News: Benchmark cuts Google target http://t.co/8DFtZ8FB #GOOG #Benchmark #Cuts","lbl":"Negative"}
+,{"time":"11:12","usr":"stockguy22","txt":"$GOOG hitting under $575 alert -- didn\u0027t want to see it retrace today.. was hitting well yesterday into 20day sma","lbl":"Negative"}
+,{"time":"11:12","usr":"choffman1978","txt":"FED ENACTS EASING~!! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Positive"}
+,{"time":"11:15","usr":"Goodlett","txt":"Sizable $MSFT #PhoneSummit w/#WP8 announcements galore as @Verge covers live multimedia event properly http://t.co/0Iso4QCo $GOOG $AAPL $NOK","lbl":"Neutral"}
+,{"time":"11:17","usr":"Goodlett","txt":"WHOA , hello proper multimedia- $MSFT streaming live the #PhoneSummit gig! Thx @Microsoft team http://t.co/wiNZrkcB $GOOG $AAPL $NOK","lbl":"Neutral"}
+,{"time":"12:13","usr":"Goodlett","txt":"$MSFT has built in #Deals support in #WP8 mapping which will effect local media companies\u0027 deal business http://t.co/wiNZrkcB $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"12:14","usr":"bbolan1","txt":"$GOOG Nikesh was 20 minutes late... GOOG showed people ads based on intent, instead of just showing some ads.","lbl":"Neutral"}
+,{"time":"12:16","usr":"choffman1978","txt":"MARKETS RALLY ON FED NEWS...! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Positive"}
+,{"time":"12:19","usr":"bbolan1","txt":"$GOOG nikesh asks how many think books will go away ... says books will be 5% of what they are in 10 years time.","lbl":"Neutral"}
+,{"time":"13:17","usr":"choffman1978","txt":"$ACUR could break huge soon! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"13:18","usr":"choffman1978","txt":"$ACUR resistance at $3.20! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"13:19","usr":"BNN_TV","txt":"RT @howardgreenBNN: Stocks panel: Brian Belski BMO John Zechner Michael Smedley http://t.co/tvlgtU3M http://t.co/LQzOeoAx http://t.co/Dmah0WBp $AAPL $GOOG $INTC","lbl":"Neutral"}
+,{"time":"13:22","usr":"SumZero","txt":"Special Situation: $DMD on Take-Out Alert http://t.co/gzicPDtr $GOOG $AMZN $AOL $YHOO","lbl":"Neutral"}
+,{"time":"15:27","usr":"thefinancepress","txt":"$GOOG Facebook Inc (NASDAQ:FB) Working On Location-Based Mobile ...: Facebook Inc (NASDAQ:FB) Working On Locati... http://t.co/AhSxmIJr","lbl":"Neutral"}
+,{"time":"15:41","usr":"wallstCS","txt":"Microsoft Wants to WOW You With Windows Phone 8 http://t.co/jgkv3qce $MSFT $AAPL $GOOG $NOK $QCOM $FTE $ZNGA #mkt","lbl":"Neutral"}
+,{"time":"19:19","usr":"angry_veteran","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/WLnokF4V #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"19:22","usr":"EllenBraitman","txt":"Too little too late or fighting chance? #Microsoft Debuts Windows 8 Phone Software to Rival $aapl & $goog http://t.co/urdJwSnX","lbl":"Negative"}
+]

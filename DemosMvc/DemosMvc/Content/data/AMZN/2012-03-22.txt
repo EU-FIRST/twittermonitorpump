@@ -1,0 +1,25 @@
+[
+{"time":"7:51","usr":"wallstCS","txt":"Here is the Secret to Apple\u0027s New iPad\u0027s Record Sales http://t.co/FzrHn7TF $AAPL $AMZN $GOOG #tech #ipad","lbl":"Neutral"}
+,{"time":"7:54","usr":"TheEquitiesRoom","txt":"EBR: Watchlist/worksheet/3 Trading Ideas: $AMZN $FWLT $NLST http://t.co/9wCEMIoH","lbl":"Neutral"}
+,{"time":"7:55","usr":"STnet","txt":"You are not all that unique an investor | via @AbnormalReturns http://t.co/tZJEAHFO $SWEB $AAPL $EBAY $AMZN","lbl":"Neutral"}
+,{"time":"7:56","usr":"RoccoPendola","txt":"Commented on: \u0022Netflix Stock Up Again: More \u0027Irrational Exuberance?\u0027\u0022 http://t.co/NacEqkKI $AMZN $RIMM $TWC $TWX $NFLX","lbl":"Neutral"}
+,{"time":"8:51","usr":"thetradingwife","txt":"@SunriseTrader long $AMZN with you - in calls","lbl":"Positive"}
+,{"time":"8:51","usr":"Lowtown21","txt":"The iPad auto correct is out to get $AMZN","lbl":"Neutral"}
+,{"time":"8:52","usr":"carmelsurfer","txt":"nice 30 min candle in $AMZN","lbl":"Neutral"}
+,{"time":"9:46","usr":"PropTrendTrader","txt":"$AMZN held up well after this big gap","lbl":"Positive"}
+,{"time":"9:47","usr":"ByrneTSCM","txt":"The following stocks on my watchlist are up today -- $BIDU, $GOOG, $IBM, $AMZN, $AAPL. Oh, & UUP (dollar index). Everything else is down.","lbl":"Neutral"}
+,{"time":"10:30","usr":"SeekingAlpha","txt":"Billionaire Ken Fisher\u0027s Top Tech Stocks: 4 To Buy, 1 To Avoid http://t.co/FzD6y1bv $AMZN $BIDU $EMC $IBM $INTC","lbl":"Neutral"}
+,{"time":"10:30","usr":"SeekingAlpha","txt":"On The Way To $500,000: Making Lemonade From Lemons http://t.co/IJLRuovm $AAPL $AMZN $NKE $P $LULU","lbl":"Neutral"}
+,{"time":"11:47","usr":"7thGradeAEPSS","txt":"RT @StockTwits: MT @AnneKatesSmith: Hunger Games stock index http://t.co/pjk5u91S $SCHL $AMZN $HAS $MAT $LGF $IMAX","lbl":"Neutral"}
+,{"time":"11:50","usr":"do6986","txt":"Barrons: Hunger Games Index http://t.co/3rWDgl1K $SCHL $AMZN $HAS $MAT $LGF $IMAX","lbl":"Neutral"}
+,{"time":"12:13","usr":"big_options","txt":"Frank Sinatra - Fly me to the moon $AMZN","lbl":"Positive"}
+,{"time":"13:41","usr":"graubart","txt":"Amazon AWS partners with Eucalyptus for private cloud using AWS protocols http://t.co/czn88VPR >>Huge validation for Eucalyptus $AMZN","lbl":"Neutral"}
+,{"time":"15:26","usr":"RSDTrading","txt":"EOD: Closed: Covered $XLY, Sold $SBUX, New: Short $FXY, Added to $AMZN short, Long $URBN $EWZ, Added to $UTX long","lbl":"Negative"}
+,{"time":"15:27","usr":"akivak","txt":"RT @RoccoPendola: 2 Companies Building Franchises To Buy On Any Short-Term Weakness - Seeking Alpha http://t.co/FzvCNk1H via @seekingalpha $P $AMZN","lbl":"Positive"}
+,{"time":"15:30","usr":"RoccoPendola","txt":"Commented on: \u00222 Companies Building Franchises To Buy On Any Short-Term Weakness\u0022 http://t.co/iWwdsyqj $AAPL $AMZN $NFLX $SIRI $P","lbl":"Neutral"}
+,{"time":"18:26","usr":"firstadopter","txt":"$BBY selling used $AAPL iPad 1 for $240 shipped. $AMZN Kindle Fire territory http://t.co/3OWxd0ng","lbl":"Neutral"}
+,{"time":"18:33","usr":"BigTicks","txt":"$AMZN News: Riding The Trend Higher In The Consumer Discretionary Select Sector SPDR Fund http://t.co/0GeBa22m #Internet #stocks #USA","lbl":"Neutral"}
+,{"time":"18:39","usr":"optioncommander","txt":"Phil\u0027s Stock World: Time to Get Real? http://t.co/RpTPqx2G > $AAPL $SPY $AMZN $SDS","lbl":"Neutral"}
+,{"time":"22:59","usr":"OptionsTrader82","txt":"RT @kindlenews: 10-inch Kindle Fire rumor gains traction - Ubergizmo http://t.co/DhBz7m4N $AMZN","lbl":"Positive"}
+,{"time":"23:10","usr":"SwatOptions","txt":"$599.99 #LIFETIME #MEMBERSHIP (with 900$ discount) is real cheap for members that got $AMZN (900%) and $LNKD (650%) - http://t.co/6Pa086nI","lbl":"Neutral"}
+]

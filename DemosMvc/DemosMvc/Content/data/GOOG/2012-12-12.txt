@@ -1,0 +1,55 @@
+[
+{"time":"5:47","usr":"fibstalker","txt":"Yesterday I video-reviewed $BIDU. Baidu and other analyzed stocks here: http://t.co/gG7bVIYH $AAPL $ACN $BAC $C $GOOG $NFLX $HPQ $RIMM","lbl":"Neutral"}
+,{"time":"6:03","usr":"sssc","txt":"$GOOG $AMZN - The next chip battleground: Data centers - Fortune Tech http://t.co/GTGdZWY5","lbl":"Neutral"}
+,{"time":"6:04","usr":"mattporcaro","txt":"RT @stockhaven: Cam\u0027s watchlist for 12/12/12. That has to be lucky, right? $SCON $GOJO $CLWR $ECTY $FARE $CGFI $ELAY $GOOG $CRM $COST . http://t.co/4InaGEL5","lbl":"Positive"}
+,{"time":"9:02","usr":"RussRozay","txt":"RT @junkieonwallst: I\u0027m looking for some fast money today, I\u0027m looking for $GOOG with that being said if it the trade works well","lbl":"Neutral"}
+,{"time":"9:03","usr":"RussRozay","txt":"I swear if I look at $GOOG and it looks like it can go in my favor.... I play and I win.... I\u0027m leaving work early.","lbl":"Neutral"}
+,{"time":"9:05","usr":"WallStJesus","txt":"EBR: Watchlist/worksheet/Swing Trade Updates/ 8 Trading Ideas: $OSIR $CLSN $GOOG $LULU $PCLN $TGT $WMT $SNDK http://t.co/yKklwjNC","lbl":"Neutral"}
+,{"time":"9:54","usr":"SpeedSixx2","txt":"watching $GOOG see how it handles the 694 area to possibly buy calls. $AAPL 540 area","lbl":"Positive"}
+,{"time":"9:55","usr":"mnoltecpa","txt":"Intraday 30 minute look of recent action makes me think $GOOG $695 might be a hold spot (hits it as I tweet, le\u0027ts see)","lbl":"Neutral"}
+,{"time":"10:38","usr":"barronstechblog","txt":"Nokia: Lumia Sales Not as Strong as Rumored, Says Pac Crest - Tech Trader Daily - Barron\u0027s $NOK $MSFT $AAPL $GOOG http://t.co/MtLljPoN","lbl":"Neutral"}
+,{"time":"10:41","usr":"takingstock614","txt":"$GOOG working hard to come off bottom 5min.","lbl":"Positive"}
+,{"time":"10:41","usr":"CloudyStarLtd","txt":"RT @businessinsider: Apple TV Is Coming In 2014, And Everyone Is Going To Copy It, Says Marc Andreessen $AAPL $MSFT $GOOG by @jyarow http://t.co/XgDdYFf0","lbl":"Positive"}
+,{"time":"11:29","usr":"newsagg","txt":"$GOOG problem is the daily chikou hitting the 50ema and unable to break http://t.co/Ij7Xxk8a","lbl":"Neutral"}
+,{"time":"11:29","usr":"businessinsider","txt":"Employees Say They LOVE Working For These 20 Tech Companies $FB $GOOG $MSFT $AAPL $SAP by @meganrosedickey http://t.co/uAlEY9eP","lbl":"Positive"}
+,{"time":"11:58","usr":"NoddyIM","txt":"RT @SAI: Employees Say They LOVE Working For These 20 Tech Companies $FB $GOOG $MSFT $AAPL $SAP by @meganrosedickey http://t.co/GttPLXxh","lbl":"Neutral"}
+,{"time":"11:58","usr":"Harri8t","txt":"$GOOG Chairman Eric Schmidt: This is the best time in the world to be an entrepreneur #DBConf","lbl":"Neutral"}
+,{"time":"11:58","usr":"hugomcpinto","txt":"RT @SAI: GOOGLE: We Are \u0027Pretty Clearly\u0027 Winning The Smartphone War $AAPL $GOOG $MSFT by @jyarow http://t.co/u7Lg7CeF","lbl":"Positive"}
+,{"time":"12:29","usr":"bear__code","txt":"RT @ppprophet: SELL $GOOG The Market will Crash .... .#DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
+,{"time":"12:29","usr":"StockMarket411","txt":"Is Apple Doomed to Follow Google? $goog http://t.co/S2InWg0n goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"13:06","usr":"ainishdaveAD","txt":"RT @SAI: Employees Say They LOVE Working For These 20 Tech Companies $FB $GOOG $MSFT $AAPL $SAP by @meganrosedickey http://t.co/XDbaOf1C","lbl":"Neutral"}
+,{"time":"13:07","usr":"takingstock614","txt":"http://t.co/2pq4IVla $GOOG looks good.","lbl":"Positive"}
+,{"time":"13:08","usr":"TweetLeni","txt":"$GOOG pretty pretty","lbl":"Positive"}
+,{"time":"13:47","usr":"Draztek","txt":"@SJosephBurns Nice! Keep $GOOG on your radar 695/705 looking great going into thursday and friday.","lbl":"Positive"}
+,{"time":"13:54","usr":"USwwwStocks","txt":"$GOOG News: Apple Inc. (AAPL) Losing War With Android: Google CEO http://t.co/CuoG2KJh #AAPL #Android #Apple","lbl":"Positive"}
+,{"time":"14:21","usr":"DesmondDantzler","txt":"RT @businessinsider: Apparently Google Is Just Getting Started With Its Plan To Kill The Cable Companies $GOOG by @jyarow http://t.co/ICgDy4yF","lbl":"Positive"}
+,{"time":"14:22","usr":"MatteoConrad","txt":"RT @businessinsider: Apparently Google Is Just Getting Started With Its Plan To Kill The Cable Companies $GOOG by @jyarow http://t.co/ICgDy4yF","lbl":"Neutral"}
+,{"time":"14:37","usr":"TrendRida","txt":"Tell me something new.. \u0022@thinkingtrades: $AAPL is feeling so out of place in the company of $GOOG $AMZN and $BIDU today.\u0022","lbl":"Neutral"}
+,{"time":"14:37","usr":"ScottAdams_Edit","txt":"RT @howardlindzon: Super obvious now that $goog has the mobile money flow with $fb a close second and money fleeing poor $aapl. Stock market is speaking","lbl":"Neutral"}
+,{"time":"14:37","usr":"davegordon14","txt":"RT @thinkingtrades: $AAPL is feeling so out of place in the company of $GOOG $AMZN and $BIDU today.","lbl":"Neutral"}
+,{"time":"15:07","usr":"C_zor","txt":"RT\u0022@SAI: Apparently Google Is Just Getting Started With Its Plan To Kill The Cable Companies $GOOG by @jyarow http://t.co/qu7ILw9S\u0022","lbl":"Positive"}
+,{"time":"15:07","usr":"DarvasTrader","txt":"So far, $GOOG continues to hold above its 50-day line today. Very positive to see.","lbl":"Positive"}
+,{"time":"15:30","usr":"graybids","txt":"$GOOG flat","lbl":"Neutral"}
+,{"time":"15:31","usr":"boyadamsam","txt":"$GOOG avoided $2 bil. in taxes last year by funneling money to a shell company in Bermuda. Doubt the DoJ will pursue. http://t.co/lfQYG8aU","lbl":"Neutral"}
+,{"time":"15:31","usr":"marketjunkee","txt":"@howardlindzon These silly comments aren\u0027t convincing anyone. But enjoy ur $GOOG position with a 21 PE. $GOOG is not worth a dime above 600","lbl":"Negative"}
+,{"time":"16:01","usr":"rob_a_nielsen","txt":"Netflix Ranks Google Fiber Fastest Internet in the U.S. -- http://t.co/nK7J6tbc via @ForbesTech $NFLX $GOOG #tech","lbl":"Positive"}
+,{"time":"17:09","usr":"RedDogT3Live","txt":"T3Live Daily Recap http://t.co/vMRAQSwN Market Unimpressed by QE(I\u0027ve lost track) $SPY $AAPL $BAC $NFLX $XHB $GLD $GOOG","lbl":"Neutral"}
+,{"time":"17:09","usr":"JackieMJensen","txt":"@ericschmidt on $goog Fiber \u0027isn\u0027t just an experiment, it\u0027s a real biz and we\u0027re trying to decide where to expand next\u0027 http://t.co/Ri0Go1EL","lbl":"Neutral"}
+,{"time":"17:09","usr":"franduerto","txt":"RT @DeirdreBolton: Roger McNamee Elevation Partners @BloombergTV on tech innovation & next gen $AAPL $GOOG $FB $YHOO #Twitter http://t.co/vR9uXkzy @Moonalice","lbl":"Neutral"}
+,{"time":"17:55","usr":"Dr34m5c0m3TrU3","txt":"RT @babfari: #Invest in Science Fiction Technology: Artificial Intelligence http://t.co/TPtsHyXk $FB $GOOG $IBM $MSFT $NUAN $YAMCF.PK $AAPL #AI #apple","lbl":"Neutral"}
+,{"time":"17:56","usr":"BenCBanks","txt":"DAILY ANALYSIS: $SPY $AAPL $GOOG $AMZN http://t.co/9tozW53c via @weebly","lbl":"Neutral"}
+,{"time":"17:56","usr":"webchetan","txt":"RT @SAI: Google Just Made It That Much Harder For You To Search For Porn $GOOG by @officialKLS http://t.co/cw5JbUO0","lbl":"Neutral"}
+,{"time":"19:19","usr":"jmaykey","txt":"RT @StockTwits: \u0022@TrendRida: LOL, \u0022Samsung and the 78 dwarfs\u0022 is how McNamee describes Android\u0022... $GOOG http://t.co/qNCWwlsn\u0022","lbl":"Neutral"}
+,{"time":"20:25","usr":"glaksmono","txt":"Google Is Going To Release Its iPhone Maps App Tonight $AAPL $GOOG by @jyarow http://t.co/5KizoQxF","lbl":"Positive"}
+,{"time":"20:25","usr":"CelieCampbell","txt":"RT @businessinsider: Google Is Going To Release Its iPhone Maps App Tonight $AAPL $GOOG by @jyarow http://t.co/5937amrl","lbl":"Neutral"}
+,{"time":"20:25","usr":"lameadows","txt":"Time to update iOS? RT @businessinsider: Google Is Going To Release Its iPhone Maps App Tonight $AAPL $GOOG by @jyarow http://t.co/QUpyi2aO","lbl":"Neutral"}
+,{"time":"20:44","usr":"morrisperry","txt":"RT @SAI: Google Is Going To Release Its iPhone Maps App Tonight $AAPL $GOOG by @jyarow http://t.co/DxrWv1vS","lbl":"Positive"}
+,{"time":"20:44","usr":"StocksForiOS","txt":"\u201C@waltmossberg: Exclusive: Google Set to Release iOS Maps App Tonight @lizgannes http://t.co/3Ssmk0sO\u201D $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"20:46","usr":"vincentsiu","txt":"RT @businessinsider: Google Is Going To Release Its iPhone Maps App Tonight $AAPL $GOOG by @jyarow http://t.co/5937amrl","lbl":"Neutral"}
+,{"time":"21:36","usr":"GuyHughesYOW","txt":"\u201C@businessinsider: Google Is Going To Release Its iPhone Maps App Tonight $AAPL $GOOG by @jyarow http://t.co/iBZvIoKz\u201D #fb","lbl":"Positive"}
+,{"time":"21:36","usr":"rhbinvest","txt":"REJOICE! Google Is Releasing Its iPhone Maps App | $GOOG #NASDAQ http://t.co/rDl9VZEn","lbl":"Neutral"}
+,{"time":"21:37","usr":"amanwhotweets","txt":"RT @SAI: Google Is Going To Release Its iPhone Maps App Tonight $AAPL $GOOG by @jyarow http://t.co/DxrWv1vS","lbl":"Neutral"}
+,{"time":"22:55","usr":"thefinancepress","txt":"$GOOG Google Shuts Down China Shopping Search - http://t.co/wJQ1jue1: Google Shuts Down China Shoppi... http://t.co/ZYvmKwOy","lbl":"Neutral"}
+,{"time":"22:57","usr":"Techhrzn","txt":"RT @SAI: Google Is Going To Release Its iPhone Maps App Tonight $AAPL $GOOG by @jyarow http://t.co/DxrWv1vS","lbl":"Neutral"}
+,{"time":"23:02","usr":"deepster82","txt":"RT @IADops40: Google to release long awaited iOS Google Maps app tonight http://t.co/SCmfaxBX $GOOG $AAPL #iOS #iPhone #Google #GoogleMaps #tech #news","lbl":"Neutral"}
+]

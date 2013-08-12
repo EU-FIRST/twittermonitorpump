@@ -1,0 +1,30 @@
+[
+{"time":"6:57","usr":"LittleAppleSA","txt":"Commented on: \u0022Microsoft\u0027s Big Announcement On Monday: Rumors Are Swirling\u0022 http://t.co/j1i5bacw $MSFT $AAPL $ARMH $BKS $GOOG","lbl":"Neutral"}
+,{"time":"6:58","usr":"dlcmh","txt":"Options open interest, IV, delta and price snapshots updated Monday, Jun 18, 2012 for $GOOG http://t.co/Lq8ldIyf","lbl":"Neutral"}
+,{"time":"7:08","usr":"SpiderTrades","txt":"RT @pointsnfigures: http://t.co/7Fu80sPY $FB, $YHOO, $GOOG, $GS Are trading algos intellectual property?","lbl":"Neutral"}
+,{"time":"8:44","usr":"choffman1978","txt":"$GMCR RUNNING up 2%!!!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx,$dmnd,$fb","lbl":"Neutral"}
+,{"time":"8:44","usr":"choffman1978","txt":"$SIRI running on buyout rumors!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx,$dmnd,$fb","lbl":"Neutral"}
+,{"time":"9:04","usr":"LTommy256","txt":"RT @ArcstoneEQUITY: Check out our latest: The Landscape of Mobile Payments: $AAPL $GOOG $EBAY $AXP $PAY $FISV $V $MA $INTU - http://t.co/MgMIaVJ7 #square","lbl":"Neutral"}
+,{"time":"9:04","usr":"choffman1978","txt":"$S (SPRINT) $6 pt!!!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx,$dmnd,$fb","lbl":"Neutral"}
+,{"time":"9:04","usr":"pbtrue1","txt":"RT @businessinsider: Here\u0027s What Every Google Employee Must Do Before They Quit $GOOG by @mattlynley http://t.co/N4sXKChs","lbl":"Neutral"}
+,{"time":"9:30","usr":"barronstechblog","txt":"Microsoft: Beware Irking Tablet Partners, Says CLSA - Tech Trader Daily - Barron\u0027s $MSFT $AMZN $BKS $GOOG http://t.co/tOwoISdk","lbl":"Neutral"}
+,{"time":"9:32","usr":"dschorrnyc","txt":"Throwing out a small $GOOG short here.","lbl":"Negative"}
+,{"time":"9:32","usr":"choffman1978","txt":"$SIRI running on rumors that Liberty media will be denied appeal!!!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$,$bac,$msft,$fb","lbl":"Neutral"}
+,{"time":"10:27","usr":"choffman1978","txt":"$FB new HOD!!!!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx,$dmnd,$fb","lbl":"Neutral"}
+,{"time":"10:27","usr":"choffman1978","txt":"$GMCR NEW HOD!!!!!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx,$dmnd,$fb","lbl":"Neutral"}
+,{"time":"10:28","usr":"barronstechblog","txt":"Groupon Jumps 7%: Morgan Stanley Ups to Buy, $18 Target - Tech Trader Daily - Barron\u0027s $GRPN $AMZN $GOOG http://t.co/uVvv0wpd","lbl":"Neutral"}
+,{"time":"10:29","usr":"choffman1978","txt":"$GMCR Store brand competition will have little impact on Green Mountain!!!!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$fb","lbl":"Neutral"}
+,{"time":"12:00","usr":"NiemannCapital","txt":"Google+ can\u0027t gain traction, despite tireless efforts $GOOG http://t.co/KRvQtBCt via @minyanville #tech #socialmedia","lbl":"Negative"}
+,{"time":"12:00","usr":"choffman1978","txt":"$ACUR - NO DEBT, Pfizer parter!!#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx,$dmnd,$fb","lbl":"Neutral"}
+,{"time":"13:14","usr":"esoap","txt":"After exploring apple maps I can assure you it can be wildly inaccurate $goog","lbl":"Neutral"}
+,{"time":"14:26","usr":"choffman1978","txt":"$ACUR careful 100 share manipuluation#cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$jpm,$wfc,$wmt,$s,$v,$bac,$msft,$nflx","lbl":"Neutral"}
+,{"time":"14:28","usr":"tradingview","txt":"$GOOG chart published by @FibLine: http://www.tradingview.com/v/FaVPniGk/. GOOG.","lbl":"Neutral"}
+,{"time":"17:01","usr":"WhizCheck6","txt":"Monday Market Outlook Wealth Creation Investing http://t.co/6HnvxPPo Greece, FOMC, and Vol $aapl $goog $vxx $spy $vix $gld $slv","lbl":"Neutral"}
+,{"time":"17:11","usr":"businessinsider","txt":"LIVE: Microsoft\u0027s Big Secret Event! $MSFT $AAPL $GOOG by @jyarow http://t.co/6ue3arEc","lbl":"Neutral"}
+,{"time":"17:11","usr":"SAI","txt":"LIVE: Microsoft\u0027s Big Secret Event! $MSFT $AAPL $GOOG by @jyarow http://t.co/mc5UiuZf","lbl":"Neutral"}
+,{"time":"17:11","usr":"lobarb","txt":"RT @businessinsider: LIVE: Microsoft\u0027s Big Secret Event! $MSFT $AAPL $GOOG by @jyarow http://t.co/6ue3arEc","lbl":"Neutral"}
+,{"time":"19:35","usr":"zaibatsu","txt":"RT @SAI: Here\u0027s What Every Google Employee Must Do Before They Quit $GOOG by @mattlynley http://t.co/5Yf6h6CY","lbl":"Neutral"}
+,{"time":"19:36","usr":"nyzaira","txt":"RT @zaibatsu: RT @SAI: Here\u0027s What Every Google Employee Must Do Before They Quit $GOOG by @mattlynley http://t.co/5Yf6h6CY","lbl":"Neutral"}
+,{"time":"19:39","usr":"wjboynton","txt":"#Microsoft Unveils Surface Tablet - http://t.co/o0iZzn7K http://t.co/4eVTv4l3 via @WSJ $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"19:39","usr":"ECGuillet","txt":"RT @SAI: Steve Ballmer\u0027s Biggest Mistake: Obsessing Over Google $MSFT $GOOG $AAPL by @jyarow http://t.co/UZaKd8A1","lbl":"Neutral"}
+]

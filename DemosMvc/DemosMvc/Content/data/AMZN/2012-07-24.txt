@@ -1,0 +1,12 @@
+[
+{"time":"1:35","usr":"PattyEdwards","txt":"Real interesting letter on the Home Page of http://t.co/J77zl3Tq right now talking about some innovative programs. You\u0027re welcome. $AMZN","lbl":"Neutral"}
+,{"time":"7:51","usr":"dlcmh","txt":"Options open interest and price chart updated Tuesday, Jul 24, 2012 for $AMZN http://t.co/HHeKTGno","lbl":"Neutral"}
+,{"time":"9:23","usr":"EarningsReports","txt":"BMR Previews Earnings for Facebook, Apple, Amazon, Netflix & Others $AAPL $AMZN $FB $NFLX #Retail #podcasting #Te #TFB http://t.co/trkToAqq","lbl":"Neutral"}
+,{"time":"11:30","usr":"DhanyaTweets","txt":"Amazon Picks U.S. State Sales-Tax Winners Absent New Law http://t.co/bAcWMBOo $AMZN","lbl":"Neutral"}
+,{"time":"12:59","usr":"Jamtrades","txt":"Commented on StockTwits: it will take a while for us to see $AMZN time because the Company is not interested in bein... http://t.co/VDZqEhf6","lbl":"Neutral"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"How Amazon Plans To Drive A Stake Through The Heart Of Retail U.S.A. http://t.co/GVX4ybnO $WMT $AMZN","lbl":"Neutral"}
+,{"time":"20:50","usr":"bwolf_","txt":"$CTRP investing in new products like a chinese tripadvisor, a chinese VRBO,etc. hurting margins. $AMZN investors would cheer.","lbl":"Positive"}
+,{"time":"20:54","usr":"deadmau5mania","txt":"@patroneux what about $AMZN?","lbl":"Neutral"}
+,{"time":"20:54","usr":"TraderLantern","txt":"@patroneux Yep. I am also thinking about shorting $DECK and $AMZN as well. $AMZN seems to be stuck in a range.","lbl":"Negative"}
+,{"time":"20:54","usr":"patroneux","txt":"@deadmau5mania getting lotsa flak for spreading my thoughts of shorting $AMZN but I think i\u0027\u0027ll play $AMZN during the earnings report.","lbl":"Negative"}
+]

@@ -1,0 +1,43 @@
+[
+{"time":"1:54","usr":"mpjgregoire","txt":"RT @dcurtis: RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 ...","lbl":"Neutral"}
+,{"time":"2:04","usr":"Kieltyka05","txt":"Wooo @MariahEMaheux: Biz insider showed me how to put $GOOG maps on my iPhone5. Tough day for whining http://t.co/heA2Pefz\u201D","lbl":"Neutral"}
+,{"time":"2:19","usr":"najeed_khan","txt":"RT @LaMonicaBuzz: RT @LaMonicaBuzz: No awkward teen years for Google. Happy 14th birthday, $GOOG. Your present? An all-time high stock price. Buzz video. ...","lbl":"Positive"}
+,{"time":"6:55","usr":"eyeonequities","txt":"RT @SonaliVerma Where pros are putting their money http://t.co/QBr0FVqS $AAPL $MSFT $WFC $GOOG $PFE $T $CVX $MRK $PCLN $QCOM $WMT $XOM $AMZN","lbl":"Positive"}
+,{"time":"6:57","usr":"TheNakedZebra","txt":"738 POINT DROP FOR THE DOW UNBELIEVABLE ! $GOOG, $PCLN,$AMZN http://t.co/0PLdq6ta","lbl":"Neutral"}
+,{"time":"6:58","usr":"cfrazierjr","txt":"@soolebop Remember when we discussed $GOOG about 2 weeks ago, I hate I didn\u0027t act on that one. @METrades #HistoryRepeats","lbl":"Neutral"}
+,{"time":"8:24","usr":"buywhenisell","txt":"@carlquintanilla @jimcramer @CNBCSquawkSt $AAPL should buy $RIMM. Dominate the enterprise mobile market to the loss of Android & $GOOG.","lbl":"Negative"}
+,{"time":"8:24","usr":"wallstCS","txt":"Facebook: The Next E-Commerce Giant? http://t.co/VpR57oFg $FB $AAPL $GOOG $SBUX $AMZN $SPY $DIA $QQQ","lbl":"Neutral"}
+,{"time":"8:26","usr":"ReutersTV","txt":"Tim Cook is apologizing for Apple\u0027s new maps http://t.co/oYsEPEGM. We took them on a test run: http://t.co/NE5hB1RQ $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:03","usr":"krestivo","txt":"the best of Tim Cook\u0027s suggested #iOS 6 alternatives in his apology letter is to bookmark Google Maps and use it as a web app. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"9:04","usr":"GeorgeVT","txt":"Oh $aapl stick to making high margin products and not act like an information company like $goog $$","lbl":"Neutral"}
+,{"time":"9:04","usr":"TacticalOptions","txt":"GARCH volatility forecast for $GOOG, #Google stock for today 22.74% (-0.29) http://t.co/pXlPT631","lbl":"Neutral"}
+,{"time":"9:04","usr":"thinkingtrades","txt":"Think time for $GOOG to rest a bit and pass the baton to $AAPL.","lbl":"Negative"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"7 Mega Cap Covered Calls http://t.co/mShKSMCg $AMZN $BP $FCX $GOOG $HAL $JPM $AAPL","lbl":"Positive"}
+,{"time":"9:30","usr":"MahaTweeter","txt":"#WWJD: What Would Jobs Do? Cook apologizes for #iOS 6 maps or lack of \u2019em but $GOOG Maps not back in the mix! http://t.co/v0Vj85uT","lbl":"Neutral"}
+,{"time":"9:30","usr":"daytrading__de","txt":"watch this level for $GOOG http://t.co/aptxLJox","lbl":"Neutral"}
+,{"time":"10:18","usr":"davidnolewajka","txt":"\u201C@InvestorPlace Who will win the race to $1,000 -- $GOOG or $AAPL? http://t.co/U7AURcEo\u201D Apple!","lbl":"Neutral"}
+,{"time":"10:56","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: RT @thefinancepress: $GOOG Google Heads for Biggest Quarterly Rally in 7 Years: Google Heads for Biggest Quarterly Rally in 7 Years ... ...","lbl":"Positive"}
+,{"time":"11:00","usr":"cmcky","txt":"RT @dcurtis: RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 ...","lbl":"Neutral"}
+,{"time":"11:00","usr":"AytakinM","txt":"It can\u0027t be denied that google ads have the best algorithms out there!!! $goog","lbl":"Positive"}
+,{"time":"11:01","usr":"MoElnadi","txt":"Loads of New Cities get Updated #Google Maps Views http://t.co/xaDZQWQN $GOOG","lbl":"Neutral"}
+,{"time":"12:03","usr":"chung55","txt":"@SJosephBurns $GOOG, I guess no rolling over the options for next week? why not the oct monthly w/ deep in the money, like 650???","lbl":"Positive"}
+,{"time":"12:03","usr":"Equitykingkong","txt":"$GOOG: i am short enough delta to allow some room here with this short in case we will revist the highs next week","lbl":"Negative"}
+,{"time":"13:09","usr":"z8angela","txt":"$GOOG seems like to be in danger as it\u0027s breaking the lower line on the symmetrical triangle. 755.5 here ...","lbl":"Negative"}
+,{"time":"13:12","usr":"BigTicks","txt":"$GOOG News: Rediscovering Google http://t.co/XxdSawmP #GOOG #Google #News","lbl":"Neutral"}
+,{"time":"13:13","usr":"barronstechblog","txt":"RIMM: One Upgrade; Street Bemoans Wait Till January - Tech Trader Daily - Barron\u0027s $RIMM $AAPL $GOOG $MSFT $NOK http://t.co/FDeJ9gDR","lbl":"Neutral"}
+,{"time":"13:54","usr":"motanik","txt":"\u201C@paulwoll: $AAPL 670 pin / $GOOG 755 pin maybe but think this could pin to lower numbers (750)\u201D<--Missed $GOOG rally. Where wld u buy now?","lbl":"Negative"}
+,{"time":"13:55","usr":"kenjotto","txt":"long small $GOOG Nov720 calls 53.48","lbl":"Positive"}
+,{"time":"13:55","usr":"ericjackson","txt":"New Post: Give \u0027Superman\u0027 A Chance at Yahoo! - Forbes http://t.co/87bV8K2G $YHOO $GOOG $FB $MSFT $GRPN $ZNGA","lbl":"Neutral"}
+,{"time":"14:57","usr":"maxw3st","txt":"RT @HFTAlert: RT @HFTAlert: here\u0027s the big spike. 12 cent range from high to low in 1 second $spy $vxx $goog $aapl http://t.co/3NWlVa3g","lbl":"Neutral"}
+,{"time":"15:00","usr":"SeekingAlpha","txt":"QE III: Pushing On A String http://t.co/l1vgp5C8 $GLD $SLV $CVX $XOM $DIS $MSFT $VZ $GOOG $T $IBM","lbl":"Neutral"}
+,{"time":"16:26","usr":"stockguy22","txt":"if you want to see this week\u0027s Options Strategy Sheet, just ask @Nobuakihan for approval here: http://t.co/N1287ksi $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:27","usr":"sarumbear","txt":"RT @tim: RT @tim: Google just happens to have updated $GOOG Maps with new high-res aerial & satellite imagery today http://t.co/1NDcwGMD #tim ...","lbl":"Positive"}
+,{"time":"16:27","usr":"DeLuCa","txt":"\u201C@SAI: Meet Jasmine: The Best Way To Watch YouTube On The iPhone And iPad $GOOG $AAPL by @officialKLS http://t.co/7p6zOU8q\u201D","lbl":"Neutral"}
+,{"time":"16:32","usr":"flytengu","txt":"@janewells @CapitolAlert $GOOG\u0027s driver-less car is not helping either","lbl":"Negative"}
+,{"time":"19:20","usr":"TheStreet","txt":"Tips for Creating a Cloud Stock Portfolio $AMZN $EMC $INTC $GOOG http://t.co/UB5on2nA video w/ @5GsOnTheStreet","lbl":"Neutral"}
+,{"time":"19:24","usr":"DGHGroup","txt":"RT @TheStreet: RT @TheStreet: Tips for Creating a Cloud Stock Portfolio $AMZN $EMC $INTC $GOOG http://t.co/UB5on2nA video w/ @5GsOnTheStreet","lbl":"Neutral"}
+,{"time":"19:24","usr":"STEALTHVCEIPO","txt":"RT @TheStreet: RT @TheStreet: Tips for Creating a Cloud Stock Portfolio $AMZN $EMC $INTC $GOOG http://t.co/UB5on2nA video w/ @5GsOnTheStreet","lbl":"Neutral"}
+,{"time":"23:49","usr":"optionDr","txt":"$GOOG Held up nicely today despite a nasty market. I am bullish, holding the 720/710 short Oct put spread. If we push to 775, I will add.","lbl":"Positive"}
+,{"time":"23:59","usr":"spontercom","txt":"RT @TheSeek20826344 How to #Invest in Science Fiction #Technology http://t.co/P9WPMIqh #Apple $AAPL #Google $GOOG $MSFT $INTC #SF #AR","lbl":"Neutral"}
+,{"time":"23:59","usr":"spontercom","txt":"RT @TheSeek20826344 Will #Apple Buy #3D Systems http://t.co/P9WPMIqh $AAPL $AMZN $GOOG $MSFT $DDD #3dp #3dprinting #makerbot $RIMM","lbl":"Neutral"}
+]

@@ -1,0 +1,12 @@
+[
+{"time":"2:24","usr":"wopot","txt":"RT @todd_harrison: Spooked by Cyberspace, Iran Threatens to Disconnect From the Internet http://t.co/gbLleFIH via @minyanville $IBM, $MSFT, $GOOG, $FB, $YHOO","lbl":"Neutral"}
+,{"time":"2:24","usr":"thekernel96","txt":"RT @todd_harrison: Spooked by Cyberspace, Iran Threatens to Disconnect From the Internet http://t.co/gbLleFIH via @minyanville $IBM, $MSFT, $GOOG, $FB, $YHOO","lbl":"Neutral"}
+,{"time":"2:29","usr":"mahir_mohsin","txt":"RT @todd_harrison: Spooked by Cyberspace, Iran Threatens to Disconnect From the Internet http://t.co/gbLleFIH via @minyanville $IBM, $MSFT, $GOOG, $FB, $YHOO","lbl":"Neutral"}
+,{"time":"10:56","usr":"hatschepsut99","txt":"RT @SAI: Apple Thinks Its iPhone Patents Are Worth 3X As Much As Microsoft\u0027s $AAPL $GOOG $MSFT by @jyarow http://t.co/r5WkORRZ","lbl":"Neutral"}
+,{"time":"10:56","usr":"karinaalegria","txt":"RT @businessinsider: Apple Thinks Its iPhone Patents Are Worth 3X As Much As Microsoft\u0027s $AAPL $GOOG $MSFT by @jyarow http://t.co/Zcbe9jN8","lbl":"Neutral"}
+,{"time":"10:56","usr":"vivekpaul","txt":"#Apple Thinks Its #iPhone Patents Are Worth 3X As Much As #Microsoft\u0027s $AAPL $GOOG $MSFT by @jyarow http://t.co/mkfMiBoD","lbl":"Neutral"}
+,{"time":"19:49","usr":"USwwwStocks","txt":"$GOOG News: Google Battles Pirates By Burying Search Results in New Algorithm http://t.co/0Jajf741 #GOOG #Algorithm #Battles","lbl":"Neutral"}
+,{"time":"19:49","usr":"USwwwStocks","txt":"$GOOG News: Google Battles Pirates By Burying Search Results in New Algorithm http://t.co/gMoRNFnN #GOOG #Algorithm #Battles","lbl":"Neutral"}
+,{"time":"20:03","usr":"jcchurch","txt":"RT @EddyElfenbein: The Ryan Portfolio includes $AAPL $IBM $XOM $GE $WFC $BMY $AMZN $BRKB $GOOG $PCLN $WFM http://t.co/njdIieGX $$","lbl":"Neutral"}
+,{"time":"20:34","usr":"BigTicks","txt":"$GOOG News: Google Battles Pirates By Burying Search Results in New Algorithm http://t.co/KJg5XfbU #GOOG #Algorithm #Battles","lbl":"Neutral"}
+]

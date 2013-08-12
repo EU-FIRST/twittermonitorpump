@@ -1,0 +1,17 @@
+[
+{"time":"2:00","usr":"Stockpulse1","txt":"Stockpulse Daily\u0027s: Most Buzz: $PXP, Most Bullish: $AMZN, Most Bearish: $GBCI https://t.co/WZ56Sm5I","lbl":"Neutral"}
+,{"time":"2:15","usr":"TheStreet","txt":"$AMZN Sells \u0027All-You-Can-Eat\u0027 Content Plan for Tablet - http://t.co/DnMNQCT2 via @GaryKrakow","lbl":"Neutral"}
+,{"time":"6:39","usr":"takingstock614","txt":"$AMZN has been diverging from $AAPL it\u0027s the better name for now.","lbl":"Positive"}
+,{"time":"6:48","usr":"zedascouves","txt":"RT @freeculture: RT @dbd Tell Amazon: Books and Libraries Shouldn\u0027t Have a Kill Switch http://t.co/amQCIagE #DRM is #DefectiveByDesign $AMZN","lbl":"Neutral"}
+,{"time":"6:49","usr":"joemccann","txt":"@joshuamcclure based on P/E, sure, but for me, P/E is no longer a valid metric with tech companies. See $AMZN.","lbl":"Neutral"}
+,{"time":"8:54","usr":"thinkingtrades","txt":"Waiting for $AMZN shoe to drop like $AAPL. The weekly chart looks awful though daily is not showing weakness yet.","lbl":"Neutral"}
+,{"time":"9:58","usr":"Edgecliffe","txt":"Live FT ebook Q&A - grill FT $AMZN expert @barneyjopson (and me) on The Amazon Economy NOW - #FTAmazon http://t.co/0Ja3op05","lbl":"Neutral"}
+,{"time":"11:13","usr":"tradethembi","txt":"$AMZN hits the 10 min orange dot buy target, http://t.co/hxrumYNt","lbl":"Positive"}
+,{"time":"12:25","usr":"Moulinneuf","txt":"@howardlindzon na $AMZN is the one who is undervalued , they sale $aapl and $nke prods and those of competitors","lbl":"Positive"}
+,{"time":"13:38","usr":"sspencer_smb","txt":"and now u know why $LULU is know as $AMZN Junior!! http://t.co/p0VXxx3L","lbl":"Neutral"}
+,{"time":"18:18","usr":"lga11i","txt":"RT @dottavi: Oh gosh I\u0027ve just discovered Cashtags, thnks to @marksluckie: $GOOG $AMZN $LNKD $AAPL $NOK $EBAY $YHOO... wow","lbl":"Neutral"}
+,{"time":"18:19","usr":"BenCBanks","txt":"VERY in depth ANALYSIS today - http://t.co/lXajEncI $SPY $AAPL $GOOG $AMZN $LULU $FB $IBM $SBUX and more.","lbl":"Neutral"}
+,{"time":"20:51","usr":"USwwwStocks","txt":"$AMZN News: Apple to produce line of Macs in US next year http://t.co/NefZfhNO #AMZN #Apple #line","lbl":"Neutral"}
+,{"time":"20:54","usr":"MattSoleyn","txt":"@jenniewhite That\u0027s pretty much what I expected an $AMZN warehouse to look like.","lbl":"Neutral"}
+,{"time":"20:56","usr":"powitz","txt":"RT @Fitzstock2004: $bac $ebay $pcln $sbux $jpm $amzn $goog $all $emn $yhoo $v $ma $dish all look good and continue to grind higher","lbl":"Positive"}
+]

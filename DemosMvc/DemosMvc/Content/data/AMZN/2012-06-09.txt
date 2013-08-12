@@ -1,0 +1,13 @@
+[
+{"time":"3:00","usr":"StockMarketEnds","txt":".......This is called justice of the Anti Christ Zionists, AntiChrist UK Government & US Judges $CXW $GEO $IBM $AMZN $MSFT $ORCL $T $WFC $GS","lbl":"Neutral"}
+,{"time":"3:04","usr":"StockMarketEnds","txt":"Anti Christ Zionist WellsFargo, Amazon & Microsoft are Anti 99% $CXW $GEO $WFC $AMZN $MSFT $GS #Fitness #VP #SVP #Nurse #Teacher #Doctor #Dr","lbl":"Neutral"}
+,{"time":"3:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 03:22 EST have been positive. Watch the real-time indicator graph at http://t.co/hjtETpXE","lbl":"Positive"}
+,{"time":"11:15","usr":"StockMarketEnds","txt":".......This is called justice of the Anti Christ Zionists, AntiChrist UK Government & US Judges $CXW $GEO $IBM $AMZN $MSFT $ORCL $T $WFC $GS","lbl":"Neutral"}
+,{"time":"11:21","usr":"StockMarketEnds","txt":"Anti Christ Zionist WellsFargo, Amazon & Microsoft are Anti 99% $CXW $GEO $WFC $AMZN $MSFT $GS #Fitness #VP #SVP #Nurse #Teacher #Doctor #Dr","lbl":"Neutral"}
+,{"time":"11:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 11:22 EST have been positive. Watch the real-time indicator graph at http://t.co/hjtETpXE","lbl":"Positive"}
+,{"time":"15:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 15:22 EST have been positive. Watch the real-time indicator graph at http://t.co/hjtETpXE","lbl":"Positive"}
+,{"time":"21:03","usr":"mcilderman","txt":"Will #3dprinting ruin #toy makers? http://t.co/sDhEveGa #Starwars #3dp #avengers #investing $HAS $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"21:03","usr":"TheSeek20826344","txt":"RT @mcilderman: Will #3dprinting ruin #toy makers? http://t.co/sDhEveGa #Starwars #3dp #avengers #investing $HAS $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"21:04","usr":"Dividend_Lover","txt":"RT @mcilderman: Will #3dprinting ruin #toy makers? http://t.co/sDhEveGa #Starwars #3dp #avengers #investing $HAS $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"21:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 21:22 EST have been positive. Live graph here http://t.co/hjtETpXE","lbl":"Positive"}
+]

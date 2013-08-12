@@ -1,0 +1,16 @@
+[
+{"time":"7:01","usr":"ToddSullivan","txt":"Google-Motorola working on new flagship \u2018X Phone\u2019 to take on iPhone 5 http://t.co/e6TpcCON $GOOG $AAPL","lbl":"Positive"}
+,{"time":"7:17","usr":"JasminaOnline","txt":"RT @SAI: Quora Just Launched A Major Salvo At Google With Its Plan To Become The Internet\u0027s \u0027Library Of Alexandria\u0027 $GOOG http://t.co/ihtXDdSo","lbl":"Neutral"}
+,{"time":"7:21","usr":"Fitzstock2004","txt":"$GOOG daily http://t.co/ehXE3Z9T","lbl":"Neutral"}
+,{"time":"8:36","usr":"tkuz4u","txt":"RT @SAI: Google And Motorola Are Working On A Top-Secret \u0027X Phone\u0027 To Beat The iPhone $GOOG http://t.co/Z5cHi7bv","lbl":"Positive"}
+,{"time":"8:40","usr":"timrewa","txt":"RT @SAI: Google And Motorola Are Working On A Top-Secret \u0027X Phone\u0027 To Beat The iPhone $GOOG http://t.co/Z5cHi7bv","lbl":"Neutral"}
+,{"time":"10:57","usr":"thomaspower","txt":"RT @businessinsider: It\u0027s Becoming Abundantly Clear That Google Doesn\u0027t Want To Share Android Anymore $GOOG by @stevekovach http://t.co/N26jZnaf","lbl":"Neutral"}
+,{"time":"10:59","usr":"Leo23","txt":"RT @SAI: It\u0027s Becoming Abundantly Clear That Google Doesn\u0027t Want To Share Android Anymore $GOOG by @stevekovach http://t.co/knRlW5i3","lbl":"Neutral"}
+,{"time":"10:59","usr":"RichardWilks","txt":"More reason to buy $goog as if any is needed. Did Motorola Mobility Only Cost #Google $1.5 Billion? http://t.co/qzgjyE7a via @zite","lbl":"Positive"}
+,{"time":"12:18","usr":"AceCostaRica","txt":"RT @SAI: It\u0027s Becoming Abundantly Clear That Google Doesn\u0027t Want To Share Android Anymore $GOOG by @stevekovach http://t.co/knRlW5i3","lbl":"Neutral"}
+,{"time":"12:21","usr":"TnTRiver","txt":"It\u0027s Becoming Abundantly Clear That Google Doesn\u0027t Want To Share Android Anymore $GOOG by @stevekovach http://t.co/d4faowDP","lbl":"Neutral"}
+,{"time":"15:22","usr":"Carina_Lermon","txt":"Dropbox beta lets Android photographers share, organize photos in ... #Android $GOOG http://t.co/wvk2Kiz4","lbl":"Neutral"}
+,{"time":"21:07","usr":"ChusnulUmami","txt":"Google Just Launched Another Killer App On iPhone $GOOG $AAPL by @stevekovach http://t.co/yVrUhzfp","lbl":"Positive"}
+,{"time":"21:35","usr":"TheStreet","txt":"Why Isn\u0027t Google Saying Much About This Major Hire? http://t.co/Tn1SnmXw $GOOG by @CarltonTSC","lbl":"Neutral"}
+,{"time":"21:35","usr":"Sermario","txt":"Played with the Chromebook today...decent..fast...hardware feels cheap, trackpad not very responsive...Chrome OS blazing fast though.. $GOOG","lbl":"Neutral"}
+]

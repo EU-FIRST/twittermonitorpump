@@ -1,0 +1,40 @@
+[
+{"time":"1:00","usr":"vishalsood","txt":"Here\u2019s How Bad Android\u2019s Fragmentation Problem Is http://t.co/YLq4WsAi $GOOG","lbl":"Negative"}
+,{"time":"1:00","usr":"ACInvestorBlog","txt":"$GOOG http://t.co/r0FIOZYn Cleared all sorts of resistance yesterday. From here we can expect a run to the $640 area.","lbl":"Positive"}
+,{"time":"1:06","usr":"smarttrader15","txt":"$GOOG - Google Stock Analysis - forex trading demo - http://t.co/HmHwjphD","lbl":"Neutral"}
+,{"time":"6:30","usr":"ForTraders","txt":"#Facebook can\u0027t take Asian growth for grantedFacebook can\u0027t take Asian growth for granted http://t.co/GWcvrAqo $GOOG","lbl":"Neutral"}
+,{"time":"6:31","usr":"ChrisONeill2","txt":"Still love $goog but the move happened and i will wait for an entry much cheaper","lbl":"Negative"}
+,{"time":"6:40","usr":"Qwovadis","txt":"Commented on: \u0022Is Facebook A Destroyer?\u0022 http://t.co/8pK4Ftr1 $AMZN $GOOG $FB","lbl":"Neutral"}
+,{"time":"8:24","usr":"BioTechReports","txt":"$KERX going to break out today!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$s,$wfc,$jpm,$ctic,$jpm,$wfc","lbl":"Neutral"}
+,{"time":"8:24","usr":"BioTechReports","txt":"$YMI - HUGE BREAKOUT TODAY- WATCH!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$s,$wfc,$jpm,$ctic,$jpm,$wfc","lbl":"Neutral"}
+,{"time":"8:27","usr":"tkuz4u","txt":"Sheryl Sandberg the sexiest babe in tech! Too bad she runs FB,I mean good for FB but I would like her twice as much if she spys for $goog?","lbl":"Neutral"}
+,{"time":"8:27","usr":"wallstCS","txt":"How Does Facebook Compare to These Internet Companies? http://t.co/baiVr0sN $FB $V $GM $GOOG $LNKD $P $F $ZNGA","lbl":"Neutral"}
+,{"time":"9:10","usr":"jamiee_taylor","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"9:12","usr":"MattKelmon","txt":"$AAPL cake clearly being reallocated to $GOOG this week. $GOOG a buy at <635>","lbl":"Positive"}
+,{"time":"9:13","usr":"hrimcomtrade","txt":"RT @SeekingAlpha: Daily State Of The Markets: Why Greece Does And Doesn\u0027t Matter http://t.co/kQsUF1Uu $AAPL $GOOG $CMG $VFC $MCD","lbl":"Neutral"}
+,{"time":"9:35","usr":"itradethetape","txt":"@TraderFlorida Since a couple of leaders are popping up, ex $LNKD, $GOOG, etc. is that a red flag that they might now lead mkt back up?...","lbl":"Negative"}
+,{"time":"9:36","usr":"kstockguy","txt":"@bespokeinvest big boys waking up to reality finally that in software (search $goog) competition way way less than hardware ($aapl iphone)","lbl":"Neutral"}
+,{"time":"9:36","usr":"martinehafkamp","txt":"RT @bespokeinvest: Google up another $6 while Apple is down $7. Google share price now $100 more than Apple\u0027s. $AAPL $GOOG $$","lbl":"Neutral"}
+,{"time":"9:36","usr":"Rocket_Trades","txt":"$goog a new market leader...","lbl":"Positive"}
+,{"time":"10:10","usr":"WallStreetJunky","txt":"RT @barronsonline: Facebook Frenzy -- Ya Gotta Be In It to Win It! http://t.co/Fclk5Fuf via @barronsonline $FB $GOOG $AAPL $YHOO #IPO #Zuckerberg","lbl":"Neutral"}
+,{"time":"10:10","usr":"wallstCS","txt":"Apple and Nokia Dethroned By This Growth Monster http://t.co/SuctsmyE $GOOG $NOK $AAPL #mkt #stocks","lbl":"Positive"}
+,{"time":"10:11","usr":"BioTechReports","txt":"$NBY - SQUEEZING!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$s,$wfc,$jpm,$ctic,$jpm,$wfc,$wmt,$chtp,$vvus,$amgn","lbl":"Positive"}
+,{"time":"11:02","usr":"casualanalysis","txt":"Monetizing mobile\u2026who can do it? Not $FB yet. Not $GOOG. $AAPL\u2026I\u0027d say so.","lbl":"Negative"}
+,{"time":"11:05","usr":"jamielissette","txt":"$goog, bot the 620 puts in goog for tomororw, 2.1","lbl":"Negative"}
+,{"time":"11:44","usr":"SAI","txt":"Microsoft And Google Are Both Playing To Their Strengths With Recent Search Updates $MSFT $GOOG by @MattRosoff http://t.co/tYVgwwK1","lbl":"Positive"}
+,{"time":"11:48","usr":"cmdaines","txt":"Re $FB via @MeARKET. Facebook prepares for IPO - Are you a buyer? Do you think $FB will challenge $GOOG and $AAPL a: http://t.co/u3FVrLhO","lbl":"Neutral"}
+,{"time":"12:24","usr":"twitchART","txt":"Won\u0027t be long before we see Google Park or Facebook Stadium. $FB $GOOG","lbl":"Neutral"}
+,{"time":"12:25","usr":"aztecs99","txt":"notables in the green -- $INTC, $MSFT, $GOOG and $RIMM (ok, just kidding on that one!!)","lbl":"Positive"}
+,{"time":"13:14","usr":"BioTechReports","txt":"$BMTI up huge!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$s,$wfc,$jpm,$ctic,$jpm,$wfc,","lbl":"Neutral"}
+,{"time":"13:14","usr":"jamielissette","txt":"$goog goog about to go red!","lbl":"Negative"}
+,{"time":"13:15","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+,{"time":"15:14","usr":"Goodlett","txt":"@TomLabus as $AAPL changes w/o choice (or creates walls), the more users/devs go elsewhere - check #UDID too http://t.co/TvsEYJRD $GOOG","lbl":"Neutral"}
+,{"time":"15:16","usr":"LawrenceMatch","txt":"RT @SAI: How To Stop Twitter And Google From Tracking Your Tweets In Just 5 Minutes $GOOG by @officialKLS http://t.co/XYpLoGCC","lbl":"Neutral"}
+,{"time":"15:16","usr":"KKling1","txt":"Everyone who says they won\u0027t be $FB at the open..same argument used to not buy $GOOG at $95","lbl":"Neutral"}
+,{"time":"19:21","usr":"SAI","txt":"Google Is In Total Denial About Its Huge Problem With Google+ $GOOG by @owenthomas http://t.co/lppy8Ne5","lbl":"Negative"}
+,{"time":"19:22","usr":"InternetAdvise","txt":"RT @SAI: Google Is In Total Denial About Its Huge Problem With Google+ $GOOG by @owenthomas http://t.co/lppy8Ne5","lbl":"Negative"}
+,{"time":"19:23","usr":"ServerAutomatio","txt":"Awesome Scoop: $GOOG to fight $AMZN in public #cloud IaaS war: http://t.co/bbOXesHp by @derrickharris","lbl":"Positive"}
+,{"time":"21:06","usr":"thefinancepress","txt":"$GOOG Facebook Underwriters Said to Split About $176 Million in Fees: Facebook Underwriters Said to Split About... http://t.co/m4fq6o83","lbl":"Neutral"}
+,{"time":"21:08","usr":"shyamdhulkhed","txt":"RT @SAI: How To Stop Twitter And Google From Tracking Your Tweets In Just 5 Minutes $GOOG by @officialKLS http://t.co/XYpLoGCC","lbl":"Neutral"}
+,{"time":"21:09","usr":"OnStocks","txt":"@tlmontana - Personally attacted to $GOOG more, after considering the costs of $FB. Fundamental. Its in a nice Bullish Wedge. Technical.","lbl":"Positive"}
+]

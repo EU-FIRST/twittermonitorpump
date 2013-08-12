@@ -1,0 +1,66 @@
+[
+{"time":"2:21","usr":"OptionsTrader82","txt":"Samsung down 6.9% in Seoul after losing to Apple http://t.co/6mAZLK4W $SSNLF.PK $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"2:21","usr":"wjboynton","txt":"#Apple\u0027s Win Over Samsung Is A Kick In The Teeth For Google http://t.co/sPKKQeED $GOOG $MSFT $S $SSNLF.PK $T $VZ $AAPL","lbl":"Negative"}
+,{"time":"2:22","usr":"thefinancepress","txt":"$GOOG America Ascends in Biggest Stocks as Apple, Google Oust Gazprom: America Ascends in Biggest Stocks as App... http://t.co/ShE7zFJz","lbl":"Neutral"}
+,{"time":"2:29","usr":"khairais","txt":"RT @EXPstocktrader: Overnight Samsung lost $12B in mkt cap on $1B jdgmt in fav of $AAPL. Infringing firms nd to settle or this is what happens. $VHC $VRNG $GOOG","lbl":"Negative"}
+,{"time":"6:16","usr":"Diliziology","txt":"That\u0027s the way! \u201C@SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN $GOOG by @nichcarlson http://t.co/Yc4sdZd4\u201D","lbl":"Neutral"}
+,{"time":"6:21","usr":"TradersHuddle","txt":"Futures Little Changed as Issac Heads to the Gulf. Stocks to Watch: $AAPL, $FB, $GOOG, $MSFT, $NOK, $SDRL, $TIF, $VLO http://t.co/oWSGDbBY","lbl":"Neutral"}
+,{"time":"6:21","usr":"rcastle06","txt":"RT @SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN $GOOG by @nichcarlson http://t.co/HdIrNwmO","lbl":"Neutral"}
+,{"time":"7:10","usr":"benkoe","txt":"RT @SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN $GOOG by @nichcarlson http://t.co/2xCsq6DL","lbl":"Neutral"}
+,{"time":"7:11","usr":"gmartinezgil","txt":"RT @SAI: This Man Made $28,000 A Month Writing Fake Book Reviews Online $AMZN $GOOG by @nichcarlson http://t.co/HdIrNwmO","lbl":"Neutral"}
+,{"time":"7:13","usr":"nybble","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $IACI $NYT $MSFT $NOK $SSNLF by @nichcarlson http://t.co/ZaopRKWy","lbl":"Neutral"}
+,{"time":"7:48","usr":"monesti","txt":"Anyone have current IV in $Goog weeklies? I\u0027m away from pc all day","lbl":"Neutral"}
+,{"time":"7:49","usr":"SPEQL8R","txt":"As I said be4 this is news driven mkt & stocks can be at risk when extended e.g $GOOG this am. What is good for $AAPL probably bad 4 Android","lbl":"Neutral"}
+,{"time":"7:49","usr":"StockTwits","txt":"Mobile Patent Wars: Stocks with the Most Social Volume this Morning http://t.co/UviuMdHW $AAPL $NOK $RIMM $GOOG","lbl":"Neutral"}
+,{"time":"7:49","usr":"berkutchitweet","txt":"Damage control: Willing to hang in my $GOOG long since 600 if and only if 658.59 support holds. http://t.co/vTCABW8e","lbl":"Positive"}
+,{"time":"8:10","usr":"BUDDIEE18","txt":"RT @61point8: $GOOG support near $662.","lbl":"Positive"}
+,{"time":"8:11","usr":"Equitykingkong","txt":"Wall Street tries to sort out stock implications of Apple-Samsung verdict for various tech bigs $GOOG $AAPL $MSFT http://t.co/gLO6pp3p","lbl":"Neutral"}
+,{"time":"8:12","usr":"LizMani","txt":"RT @SAI: Google Responds To Apple\u0027s Monster Patent Victory $GOOG $AAPL by @jyarow http://t.co/E7WqRXFa","lbl":"Negative"}
+,{"time":"8:29","usr":"barronsstocks","txt":"Futures Edge Higher As Street Absorbs Apple Verdict, Tiffany Earnings, M&A News $AAPL $GOOG $TIF $HCBK $MTB $HTZ http://t.co/PGHzmBxE","lbl":"Neutral"}
+,{"time":"8:30","usr":"Sandman7591","txt":"@BlueFielder sure $GOOG is .........it\u0027s the they\u0027re next syndrome Job\u0027s fervent wish","lbl":"Neutral"}
+,{"time":"8:30","usr":"BlueFielder","txt":"Hour glass: $AAPL up 16 .. $GooG down 16","lbl":"Negative"}
+,{"time":"8:44","usr":"robwilmink","txt":"RT @markburdette: Early Watchlist Losers $JRCC $GOOG $WLT #tradersblock","lbl":"Negative"}
+,{"time":"8:45","usr":"wallstCS","txt":"What Does Apple\u0027s VICTORY Over Samsung Mean for the Smartphone Industry? http://t.co/sNbx1xIk $AAPL $GOOG $AMZN $NOK $MSFT #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:45","usr":"ChrisStuntz","txt":"looking for $GOOG entry and $AAPL re-entry; looking for calls, but, will play both ways","lbl":"Positive"}
+,{"time":"8:45","usr":"chiraoka","txt":"RT @powerfulradiofm: RT @SAI: And Here\u0027s Samsung\u0027s \u0027Internal Memo\u0027 On Apple\u0027s Huge Patent Win $AAPL $GOOG by @jyarow http://t.co/p4r52aQf","lbl":"Negative"}
+,{"time":"9:03","usr":"apoben","txt":"RT @businessinsider: And Here\u0027s Samsung\u0027s \u0027Internal Memo\u0027 On Apple\u0027s Huge Patent Win $AAPL $GOOG by @jyarow http://t.co/L5j0ghdd","lbl":"Neutral"}
+,{"time":"9:04","usr":"MClaeren","txt":"RT @SAI: And Here\u0027s Samsung\u0027s \u0027Internal Memo\u0027 On Apple\u0027s Huge Patent Win $AAPL $GOOG by @jyarow http://t.co/g64viWRT","lbl":"Neutral"}
+,{"time":"9:05","usr":"nyckennedy","txt":"The 2 tech companies everyone has an eye on $APPL & $GOOG - RT @jhlipton: Apple rises to record high; Google falls most in six weeks","lbl":"Negative"}
+,{"time":"9:05","usr":"Chrisfoo71","txt":"RT @businessinsider: And Here\u0027s Samsung\u0027s \u0027Internal Memo\u0027 On Apple\u0027s Huge Patent Win $AAPL $GOOG by @jyarow http://t.co/L5j0ghdd","lbl":"Negative"}
+,{"time":"9:37","usr":"N266CH","txt":"RT @RedDogT3Live: $GOOG holding important support of $660ish. I think today is an opportunity.","lbl":"Positive"}
+,{"time":"9:37","usr":"boogidown","txt":"$AAPL gettin all the attention while $GOOG b\u0027come sleeper trade off lows(reversal)","lbl":"Neutral"}
+,{"time":"9:39","usr":"scottRcrawford","txt":"RT @SlopeOfHope: FUN FACT! - Groupon turned down a $6 billion offer from $GOOG two YEARS ago. Now $GRPN is worth less than HALF that. http://t.co/6W0OPnIk","lbl":"Neutral"}
+,{"time":"10:11","usr":"elliottwavelive","txt":"Google: Setting up for a fall? http://t.co/dChAiLLh $GOOG #elliottwave $$","lbl":"Negative"}
+,{"time":"10:11","usr":"KuanYeah","txt":"RT @StockTwits: Economic Forecasting: Is Google Trends the Future? http://t.co/vpMOggwn via Livio Di Matteo $GOOG $STUDY","lbl":"Neutral"}
+,{"time":"10:12","usr":"Alex__Salomon","txt":"@TFMkts @seeitmarket On the other hand, I dunno abt shorting it, not ahead of iphone 5. I don\u0027t have the guts. I tried puts $GOOG, failed.","lbl":"Neutral"}
+,{"time":"10:44","usr":"henrygambell","txt":"Quiet market with the exception of $AAPL - $GOOG trying to recover - Out of $UNG - Holding $SPY http://t.co/DsnoCb0t","lbl":"Positive"}
+,{"time":"10:45","usr":"Dutchtrader01","txt":"$GOOG a buy if it holds 660?","lbl":"Positive"}
+,{"time":"10:45","usr":"haentz","txt":"$GOOG also took a nice little hit today :) http://t.co/ErP8B3eT #cheaters","lbl":"Negative"}
+,{"time":"11:31","usr":"ADVFNplc","txt":"$GOOG - Major Victory for Apple - Analyst Blog http://t.co/cs2iYnJh","lbl":"Negative"}
+,{"time":"11:35","usr":"GiantRobot7","txt":"RT @cnbcfastmoney Apple Has Only Just Begun to Fight Google $AAPL $GOOG [video] http://t.co/tyMyFQMR","lbl":"Negative"}
+,{"time":"11:36","usr":"summers___","txt":"RT @cnbcfastmoney: Apple Has Only Just Begun to Fight Google $AAPL $GOOG [video] http://t.co/j9ya4RZv","lbl":"Negative"}
+,{"time":"12:50","usr":"DPolitical","txt":"$GOOG - Bank of America Reiterates Buy on Google #GOOG http://t.co/llSBc0kl","lbl":"Negative"}
+,{"time":"12:51","usr":"TheTradingTimes","txt":"RT @StockTwits: Monday links: stalwart bonds, low volume rallies & e-mail http://t.co/qBkNCPBN via @abnormalreturns $AOL $SPY $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"12:51","usr":"thebscott","txt":"RT @A_F: $VRNG just heard from a friend who is a tech. patent atty...he thinks it was dirty of $GOOG 2 withold prior art ....good for vrng in his opn","lbl":"Neutral"}
+,{"time":"12:52","usr":"MMASSASSIN","txt":"1/3shorting $GOOG weekly 685 / 690 calls credit spread and on puts buying $GOOG 650 puts almost 3x oversized. On the puts this the long","lbl":"Negative"}
+,{"time":"13:24","usr":"MsCALLI0PE","txt":"RT @businessinsider: Apple Wants To Ban Sales Of 8 Samsung Devices $AAPL $GOOG by @stevekovach http://t.co/nOtyQRz6","lbl":"Neutral"}
+,{"time":"13:24","usr":"CafeAfrodite","txt":"RT @businessinsider: Apple Wants To Ban Sales Of 8 Samsung Devices $AAPL $GOOG by @stevekovach http://t.co/nOtyQRz6","lbl":"Neutral"}
+,{"time":"13:24","usr":"Pattymv90","txt":"RT @businessinsider: Apple Wants To Ban Sales Of 8 Samsung Devices $AAPL $GOOG by @stevekovach http://t.co/nOtyQRz6","lbl":"Neutral"}
+,{"time":"13:24","usr":"flibustier3","txt":"RT @businessinsider: Here\u0027s Google\u0027s Latest Apple TV Killer $GOOG by @stevekovach http://t.co/FlzJxVHU","lbl":"Positive"}
+,{"time":"13:46","usr":"chase_hall","txt":"RT @aztecs99: really like $GOOG here","lbl":"Positive"}
+,{"time":"13:46","usr":"AnchorageLLC","txt":"RT @SAI: Here\u0027s Google\u0027s Latest Apple TV Killer $GOOG by @stevekovach http://t.co/VCKG6o9e","lbl":"Positive"}
+,{"time":"13:48","usr":"upseerivera","txt":"RT @SAI: Here\u0027s Google\u0027s Latest Apple TV Killer $GOOG by @stevekovach http://t.co/iaErxtqb","lbl":"Positive"}
+,{"time":"14:28","usr":"Catwoman2011","txt":"RT @cnbcfastmoney: Munster: Apple-Google \u2018Drama Far From Over\u2019 http://t.co/mfxOSUJ4 $AAPL $GOOG #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"15:02","usr":"andrescardenal","txt":"The importance of diversification and long term thinking- $AAPL, $BAC, $C, $GOOG, $RIMM - Foolish Blogging Network: http://t.co/gzHEWOGl","lbl":"Neutral"}
+,{"time":"15:04","usr":"Martin_Bowley","txt":"RT @businessinsider: Apple Wants To Ban Sales Of 8 Samsung Devices $AAPL $GOOG by @stevekovach http://t.co/nOtyQRz6","lbl":"Negative"}
+,{"time":"15:53","usr":"wallstCS","txt":"Tech Business Review: Apple And Samsung, The BIG News http://t.co/AsqEpID5 $AAPL $RIMM $GOOG $PANL #mkt","lbl":"Neutral"}
+,{"time":"15:54","usr":"nt062258","txt":"@SJosephBurns $AMZN $GOOG are big ships, they take time to turn, just doing their things.","lbl":"Neutral"}
+,{"time":"15:54","usr":"xnxtxsx2","txt":"Will Vringo Benefit From Apple\u0027s Patent Victory Over Samsung? http://t.co/Tn5fhQ5q $AAPL $GOOG $VRNG $SSNLF.PK","lbl":"Negative"}
+,{"time":"17:20","usr":"torycapital","txt":"July 2012 Top 15 Social Media Networking Sites Much Different Than A Year Ago http://t.co/56iQ14Th $fb $goog","lbl":"Neutral"}
+,{"time":"17:20","usr":"intersrchmedia","txt":"July 2012 Top 15 Social Media Networking Sites Much Different Than A Year Ago http://t.co/sNhVTdIb $fb $goog http://t.co/qiSMStZq","lbl":"Neutral"}
+,{"time":"17:21","usr":"TiffWatkins","txt":"RT @celestichukumba: July 2012 Top 15 Social Media Networking Sites Much Different Than A Year Ago http://t.co/buEOQ0cT $fb $goog","lbl":"Neutral"}
+,{"time":"19:27","usr":"DougP1","txt":"Will Apple\u0027s court victory overrun Google\u0027s purchase of Motorola patents? $AAPL $GOOG $MSFT http://t.co/z5khKj8w","lbl":"Negative"}
+,{"time":"23:29","usr":"bored2tears","txt":"WSJ: Nokia;s 30,000 #patents position it for handset gains. http://t.co/d10D0gni $AAPL $GOOG $MSFT $NOK #stocks #tech","lbl":"Neutral"}
+,{"time":"23:31","usr":"zozotrader","txt":"RT @bored2tears: WSJ: Nokia;s 30,000 #patents position it for handset gains. http://t.co/d10D0gni $AAPL $GOOG $MSFT $NOK #stocks #tech","lbl":"Neutral"}
+,{"time":"23:40","usr":"LTommy256","txt":"But this is a rectangle w/rounded edges. \u201C@slashgear: Droid RAZR M 4G LTE leaked with photos and info http://t.co/8zhRxytD\u0022 $GOOG $AAPL","lbl":"Neutral"}
+]

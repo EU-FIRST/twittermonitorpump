@@ -1,0 +1,39 @@
+[
+{"time":"3:06","usr":"anujkhap","txt":"RT @SeekingAlpha: This Tech Champion\u0027s In Trouble http://t.co/HNHNt2lx $GOOG $AAPL $HPQ","lbl":"Negative"}
+,{"time":"3:06","usr":"thefinancepress","txt":"$GOOG Google Introduces New Spell Check Update in Google Docs: Google Introduces New Spell Check Update in Goog... http://t.co/jUoHgRrm","lbl":"Neutral"}
+,{"time":"3:08","usr":"stockwatch9","txt":"$GOOG - Google Stock Analysis - 22day ema moving up - http://t.co/EO5RuEqA","lbl":"Positive"}
+,{"time":"3:20","usr":"SeekingAlpha","txt":"Promising Tech Stocks With Significant Upside Potential http://t.co/rjwOcAvw $AAPL $CSCO $GOOG $MSFT","lbl":"Positive"}
+,{"time":"7:51","usr":"wallstCS","txt":"Here is the Secret to Apple\u0027s New iPad\u0027s Record Sales http://t.co/FzrHn7TF $AAPL $AMZN $GOOG #tech #ipad","lbl":"Neutral"}
+,{"time":"8:52","usr":"OptionsTrader31","txt":"$GOOG running here.","lbl":"Positive"}
+,{"time":"9:45","usr":"toddstrade","txt":"$GOOG persistent today","lbl":"Positive"}
+,{"time":"9:46","usr":"karleggerss","txt":"$GOOG continues higher today on #dividend speculation. No position.","lbl":"Positive"}
+,{"time":"9:47","usr":"ByrneTSCM","txt":"The following stocks on my watchlist are up today -- $BIDU, $GOOG, $IBM, $AMZN, $AAPL. Oh, & UUP (dollar index). Everything else is down.","lbl":"Neutral"}
+,{"time":"10:27","usr":"JohnWCary","txt":"@CNBCMelloy $GOOG 20day momentum has crossed over from -75 in early feb to 40 today. Ya, working on new top after drop from last double top","lbl":"Positive"}
+,{"time":"10:30","usr":"murphyrosecliff","txt":"@CNBCMelloy $GOOG trading on some pending news- ride this wave but keep tight stop. No news = big retrace.","lbl":"Positive"}
+,{"time":"11:06","usr":"WallStJesus","txt":"\u2605 RT @TraderFlorida: $GOOG another strong day for this market leader (holding)","lbl":"Positive"}
+,{"time":"11:06","usr":"tjtakes","txt":"$goog moving","lbl":"Neutral"}
+,{"time":"11:06","usr":"danshep55","txt":"$indu held 20day now bouncing. tech leading the way . $intc $goog etc.. making lunch time highs","lbl":"Positive"}
+,{"time":"11:06","usr":"WallStJesus","txt":"\u2605 RT @HCPG: The divergence between momo loved stocks $AAPL $GOOG $LVS $LULU $IBM $FFIV and (cont) http://t.co/vld6xfMd","lbl":"Neutral"}
+,{"time":"11:45","usr":"NoDoji","txt":"$GOOG wants $650 soon IMO. Needs to break 648 sellers","lbl":"Positive"}
+,{"time":"11:50","usr":"ITMS","txt":"Market Analysis: Buy The Dip Trying, But Weaker http://t.co/xKMPywIL $SPY $IBM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"12:11","usr":"SAI","txt":"How To Prepare For Your Big Interview With Google $GOOG by @mattlynley http://t.co/ynPFgrtm","lbl":"Neutral"}
+,{"time":"12:12","usr":"ninja_trades","txt":"Google X research facility and its secret projects http://t.co/mljKt7xm #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"12:58","usr":"EbrahimM","txt":"$aapl is Red and $GOOG is green #Stocks","lbl":"Positive"}
+,{"time":"13:00","usr":"MattRosoff","txt":"IT\u0027S OFFICIAL: Google Is NOT About Search Anymore $GOOG http://t.co/jkyceLsx","lbl":"Neutral"}
+,{"time":"13:00","usr":"businessinsider","txt":"IT\u0027S OFFICIAL: Google Is NOT About Search Anymore $GOOG by @MattRosoff http://t.co/4x4ZNYou","lbl":"Neutral"}
+,{"time":"13:00","usr":"SAI","txt":"IT\u0027S OFFICIAL: Google Is NOT About Search Anymore $GOOG by @MattRosoff http://t.co/dppWWq0u","lbl":"Neutral"}
+,{"time":"13:39","usr":"Moh_A_Mokhtar","txt":"rt\u201C@businessinsider: IT\u0027S OFFICIAL: Google Is NOT About Search Anymore $GOOG by @MattRosoff http://t.co/YZifmp3l\u201D","lbl":"Neutral"}
+,{"time":"13:41","usr":"ScottGow1","txt":"RT @StkConfidential: Positions in $GOOG & $PCLN making up for a lot of other stocks that are pulling back a bit today. $$","lbl":"Positive"}
+,{"time":"13:41","usr":"ToniTurnerTrade","txt":"$GOOG also flying higher 8 days positive. that said, the Naz VIX isoff its lows, so caution is warranted.","lbl":"Positive"}
+,{"time":"14:22","usr":"LMAX","txt":"RT @SAI: Facebook Is About To Be About The Size Of Google With 1/10th The Revenues $GOOG by @nichcarlson http://t.co/i1UTOlwW","lbl":"Neutral"}
+,{"time":"14:22","usr":"racernic","txt":"$goog slipping. $pcln still hanging on a bit better","lbl":"Negative"}
+,{"time":"14:24","usr":"AndyBlacz","txt":"RT @SAI: Are The Privacy Nuts Being Unfair To Google? Here\u0027s A Test $GOOG $FB by @MattRosoff http://t.co/xWsiFY21","lbl":"Neutral"}
+,{"time":"15:19","usr":"markiewiczm","txt":"RT @SAI: IT\u0027S OFFICIAL: Google Is NOT About Search Anymore $GOOG by @MattRosoff http://t.co/dppWWq0u","lbl":"Neutral"}
+,{"time":"18:12","usr":"OptionsTrader82","txt":"RT @BUDDIEE18: have a feeling markets will be flat tomorrow & rally NEXT week 4 da month end window dressing ?? $AAPL $GOOG $GS","lbl":"Positive"}
+,{"time":"20:12","usr":"alunhillseo","txt":"RT @SAI: Get Serious: Of COURSE Google\u0027s Going To Take On The iPhone $GOOG by @MattRosoff http://t.co/LbUyye1h","lbl":"Positive"}
+,{"time":"20:12","usr":"alunhillseo","txt":"RT @SAI: Google Employees Are Now Happier Than Facebook Employees $GOOG $FB by @MattRosoff http://t.co/VfxFeCKL","lbl":"Positive"}
+,{"time":"20:16","usr":"norbertolf","txt":"RT @businessinsider: Google Employees Are Now Happier Than Facebook Employees $GOOG $FB by @MattRosoff http://t.co/PXefwOdV","lbl":"Positive"}
+,{"time":"20:17","usr":"USwwwStocks","txt":"$GOOG News: BlackBerry maker seeks Apple-focused app developer http://t.co/w1yh9YEo #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"22:55","usr":"cvjacober","txt":"RT @businessinsider: Get Serious: Of COURSE Google\u0027s Going To Take On The iPhone $GOOG by @MattRosoff http://t.co/1L6djdN3","lbl":"Positive"}
+,{"time":"23:28","usr":"illmaticwes","txt":"$AAPL http://t.co/dBkI6NR8 $IBM $CMG $PCLN $GOOG $RVBD $CRUS POSTED VIDEO of stock setups","lbl":"Neutral"}
+]

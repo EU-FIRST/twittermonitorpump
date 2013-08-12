@@ -1,0 +1,11 @@
+[
+{"time":"11:25","usr":"OgFOMK","txt":"@LukeRomyn That is good to know. I am glad to see you using the $AMZN because investors like to know too! @StockTwits","lbl":"Positive"}
+,{"time":"11:25","usr":"optionvoyeur","txt":"Looking at charts, Impressed with $AMZN over the past few weeks. #WOW","lbl":"Positive"}
+,{"time":"11:27","usr":"thomaspan","txt":"RT @StockTwits: The longest-running valuation question in the market http://t.co/QfgbiEKc via @researchpuzzler $AMZN","lbl":"Neutral"}
+,{"time":"14:01","usr":"CasaAnna","txt":"RT @SAI: Why I Was Wrong About Hating E-Books $AMZN $BOOKS $AAPL $GOOG by @_dtl http://t.co/qtmolASp","lbl":"Neutral"}
+,{"time":"16:27","usr":"MadMoneyOnCNBC","txt":"Cramer: Surprising Question Yields Far More Than Answer http://t.co/jIPMbhYh $AAPL $AMZN $BKS $DELL $GOOG $HPQ $INTC $MSFT $STX $WDC","lbl":"Neutral"}
+,{"time":"16:27","usr":"By_The_Numbers","txt":"NASDAQ 100 Aims to Close at a New... http://t.co/1Y40dSrd $AAPL $ALXN $AMZN $CMCSA $CMCSK $EBAY $EXPE $EXPEW $EXPEZ $ROST $SHLD $STX","lbl":"Neutral"}
+,{"time":"19:14","usr":"StockTwits","txt":"What\u0027s Not Going to Change In Ten Years? http://t.co/BKOWvcgS via @PointsnFigures $JWN $AMZN","lbl":"Neutral"}
+,{"time":"19:21","usr":"WallStJesus","txt":"What\u0027s Not Going to Change In Ten Years? http://t.co/PrUtdstP via @PointsnFigures $JWN $AMZN","lbl":"Neutral"}
+,{"time":"22:36","usr":"TheEternalGift","txt":"RT @jinxschwartz: RT @LukeRomyn Amazon Prime members can borrow any of my books for #FREE. Go ahead, I still get paid: http://t.co/o0fL1fV1 $AMZN #Kindle","lbl":"Neutral"}
+]

@@ -1,0 +1,10 @@
+[
+{"time":"8:47","usr":"OptionAlarm","txt":"Welcome to the danger zone. SPX support 1308-1306 and then 1291 which we should see before the weekend. Holding puts on $AAPL and $AMZN","lbl":"Negative"}
+,{"time":"10:17","usr":"TheRTTrader","txt":"not saying that anyone would or should care, but $AMZN bounced nicely off its 50 and dipping it\u0027s toe in the refreshing green side","lbl":"Positive"}
+,{"time":"12:09","usr":"rktrades","txt":"$AMZN almost bounced perfectly off the 50dma. I like $AMZN for a trade back at the 50 again (been both long & short $AMZN this year)","lbl":"Positive"}
+,{"time":"12:09","usr":"Hephaestus7","txt":"$AMZN is trying to clear R1 on a two-day chart, with five-minute bars.","lbl":"Positive"}
+,{"time":"12:57","usr":"TropicCapital_","txt":"$MELI down -6% on Barron\u0027s saying that the company could soon experience pressure in Brazil from $AMZN","lbl":"Neutral"}
+,{"time":"13:00","usr":"biggercapital","txt":"@RoccoPendola $AMZN priming $NFLX?","lbl":"Neutral"}
+,{"time":"14:51","usr":"newsagg","txt":"Even with a DB upgrade $AMZN couldn\u0027t go higher than prior day http://t.co/TZIKFPYY","lbl":"Negative"}
+,{"time":"17:03","usr":"KingsofAzon","txt":"Join us as we detail our journey to becoming Kings of Azon through passive income generated from Amazon\u0027s Associate program! $AMZN","lbl":"Neutral"}
+]

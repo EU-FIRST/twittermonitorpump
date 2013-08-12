@@ -1,0 +1,54 @@
+[
+{"time":"0:13","usr":"krestivo","txt":"\u201CIt\u2019s a well-run company but they don\u2019t make state-of-the-art products,\u201D - #Google exec. Eric Schmidt on nemesis #Microsoft. $GOOG #ouch","lbl":"Neutral"}
+,{"time":"0:13","usr":"iltommi","txt":"RT\u0022@SAI: Google Chairman: We\u0027ll Have A Billion Android Devices In A Year $GOOG by @owenthomas http://t.co/SkSAny6X\u0022","lbl":"Neutral"}
+,{"time":"5:46","usr":"TheStreet","txt":"Microsoft\u0027s Bringing Office to iOS, Android in 2013 http://t.co/PDhQixHD by @Commodity_Bull $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"5:49","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $GOOG $GM $FB $AAPL $YHOO http://t.co/xKY34Iyi","lbl":"Neutral"}
+,{"time":"5:49","usr":"SAI","txt":"10 Things You Need To Know This Morning $GOOG $GM $FB $AAPL $YHOO by @nichcarlson http://t.co/mpObTHBD","lbl":"Neutral"}
+,{"time":"5:51","usr":"darioandriani","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $GM $FB $AAPL $YHOO by @nichcarlson http://t.co/mpObTHBD","lbl":"Neutral"}
+,{"time":"7:00","usr":"pleiba","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $GM $FB $AAPL $YHOO by @nichcarlson http://t.co/BRiEGy75","lbl":"Neutral"}
+,{"time":"7:00","usr":"sandeepbhavsar","txt":"$goog gets 2 u/g this morning pt of 880 and 900.","lbl":"Positive"}
+,{"time":"7:01","usr":"aajarrell","txt":"RT @CNNMoney: Hacker known only as \u0022Pinkie Pie\u0022 has taken home a second $60,000 prize for uncovering Google Chrome exploit. http://t.co/xvKqd1Tw $GOOG","lbl":"Neutral"}
+,{"time":"8:02","usr":"bw1128","txt":"Court ordered $GOOG to furnish all additional revenues by eod. $VRNG back to 5\u0027s today as they pit together their new higher settlement #\u0027s","lbl":"Negative"}
+,{"time":"8:02","usr":"Wesley_Harr","txt":"$GOOG upgrade this morning interesting so is dahlman\u0027s call on $XOM","lbl":"Positive"}
+,{"time":"8:03","usr":"TenBaggers","txt":"Google\u0027s Schmidt discusses platform battles between\u0022Gang of Four.\u0022 http://t.co/0qTHlDKY $GOOG $FB $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"8:28","usr":"SPEQL8R","txt":"I expect $SPY fails at 20 d ema to 145 ish; unless $GOOG & $JPM $WFC beat eps; then to the moon! $FDX on pullback; if U bot yest nice!","lbl":"Neutral"}
+,{"time":"8:28","usr":"SteveNakamoto","txt":"DECIDE WHEN TO SELL TIP #8: SEVEN OUT \u2014 LINE AWAY! http://t.co/hvf4n3Lq #stockaction $AAPL $GOOG $QQQ $SPY $DIA #investing #stocktips","lbl":"Neutral"}
+,{"time":"8:29","usr":"RinehartMaria","txt":"$GOOG Daily http://t.co/GnwaZ5VH","lbl":"Neutral"}
+,{"time":"8:30","usr":"BassamFadel","txt":"RT @SeekingAlpha: \u0027Weak\u0027 Apple iPhone 5 Sales And Maps: Eat Cake http://t.co/u4aSBiw6 $GOOG $MSFT $NOK $RIMM $AAPL","lbl":"Neutral"}
+,{"time":"8:49","usr":"oNootch","txt":"$GOOG rejected at 10ma, first try","lbl":"Negative"}
+,{"time":"8:50","usr":"jczelaya","txt":"RT @SAI: Here Are The Best Leaked Photos Yet Of Google\u0027s New Smartphone $GOOG by @stevekovach http://t.co/kxfrG5VL","lbl":"Neutral"}
+,{"time":"8:50","usr":"wallstCS","txt":"Check Point Benefits From Software Blade Growth and 3 Must-See Stock Analyses http://t.co/5EGmGuU3 $CHKP $FDX $GOOG $VRX #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:51","usr":"akrishnagr8","txt":"$GOOG launches free SMS service all over India.","lbl":"Neutral"}
+,{"time":"9:23","usr":"bbolan1","txt":"Nomura raises $GOOG PT to 900 from 770, says concern cleared on slowing CPC & MMI -growth in travel search products & YouTube.","lbl":"Positive"}
+,{"time":"9:23","usr":"nwease","txt":"RT @SAI: Here Are The Best Leaked Photos Yet Of Google\u0027s New Smartphone $GOOG by @stevekovach http://t.co/M2dYDBnQ","lbl":"Neutral"}
+,{"time":"9:23","usr":"JFDI","txt":"$GOOG \u0027s 5min chart tightening. Would consider a 758.50 entry for a day trade.","lbl":"Positive"}
+,{"time":"9:56","usr":"atoast2toast","txt":"RT @HFTAlert: finally, some algos to our rescue. $spy $vxx $aapl $goog http://t.co/IyILiYce","lbl":"Neutral"}
+,{"time":"9:56","usr":"aiwicollective","txt":"RT @CNNMoney: Hacker known only as \u0022Pinkie Pie\u0022 has taken home a second $60,000 prize for uncovering Google Chrome exploit. http://t.co/xvKqd1Tw $GOOG","lbl":"Neutral"}
+,{"time":"10:31","usr":"ADVFNplc","txt":"$GOOG - IBM\u0027s Brazil Expansion Continues - Analyst Blog http://t.co/qxJOPfRd","lbl":"Neutral"}
+,{"time":"10:31","usr":"michelle_224","txt":"RT @SAI: Google Has $2 Million In Prize Money On Hand For Hackers Who Find Flaws In Chrome $GOOG by @officialKLS http://t.co/VansBM0T","lbl":"Neutral"}
+,{"time":"10:32","usr":"suspect22","txt":"Nice! \u201C@SAI: Google Has $2 Million In Prize Money On Hand For Hackers Who Find Flaws In Chrome $GOOG by @officialKLS http://t.co/9ScTCGL8\u201D","lbl":"Neutral"}
+,{"time":"10:32","usr":"ISTCoalition","txt":"RT @SAI: Google Has $2 Million In Prize Money On Hand For Hackers Who Find Flaws In Chrome $GOOG by @officialKLS http://t.co/VansBM0T","lbl":"Neutral"}
+,{"time":"11:03","usr":"swiyadni","txt":"Any1? RT @SAI: Google Has $2 Million In Prize Money On Hand For Hackers Who Find Flaws In Chrome $GOOG by @officialKLS http://t.co/z7rB9VYA","lbl":"Neutral"}
+,{"time":"11:03","usr":"Feonyx","txt":"RT @YahooFinance: Court reverses injunction On Samsung\u0027s Galaxy Nexus phone http://t.co/KSEdM3NT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:03","usr":"HomelessThomOC","txt":"RT @Bytesfrombits: Microsoft Sues Motorola in Germany #germany #patent #legal #lawsuit #maps #Google #Microsoft $MSFT $GOOG http://t.co/2jrq3xiz","lbl":"Negative"}
+,{"time":"12:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG Sentiment decreases: -4% http://t.co/HYmEmFBp","lbl":"Negative"}
+,{"time":"12:02","usr":"ForbesDirectory","txt":"Apple $AAPL and Google $GOOG are much better bets than black or yellow #gold: http://t.co/1iMr5YeN via @Forbes #investment #wealth #finance","lbl":"Neutral"}
+,{"time":"12:02","usr":"businessinsider","txt":"Samsung\u0027s Big Problem $GOOG by @stevekovach http://t.co/p3bHQgmN","lbl":"Negative"}
+,{"time":"12:35","usr":"streetauthority","txt":"4 Reasons it\u0027s Time to Sell Google $GOOG | StreetAuthority http://t.co/A3oSEwD0","lbl":"Negative"}
+,{"time":"12:37","usr":"wsmco","txt":"Sold to open $GOOG Oct 19 695 puts at 3.10","lbl":"Positive"}
+,{"time":"12:37","usr":"BlackStockguy","txt":"$GOOG has more diverse portfolio than $AAPL ...more phones on droid, more inclusive","lbl":"Positive"}
+,{"time":"13:22","usr":"p_canales","txt":"$AAP $GOOG RT @Reuters: U.S. court clears Samsung phone, deals blow to Apple http://t.co/NKwUwMd3","lbl":"Neutral"}
+,{"time":"13:25","usr":"wallstCS","txt":"Not Everything is Going Apple\u0027s Way http://t.co/zc24MMlB $SSNLF $AAPL $GOOG #mkt #stocks #trading #investing","lbl":"Negative"}
+,{"time":"14:28","usr":"Amokritik","txt":"RT @SAI: Samsung\u0027s Big Problem $GOOG by @stevekovach http://t.co/Ba1eos63","lbl":"Positive"}
+,{"time":"14:28","usr":"yonsu18","txt":"very difficult environment to trade options here, had a negative day, mainly due to odd stock movements imo. $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"14:30","usr":"enhance","txt":"RT @businessinsider: Samsung\u0027s Big Problem $GOOG by @stevekovach http://t.co/p3bHQgmN","lbl":"Negative"}
+,{"time":"15:30","usr":"ConstantChange","txt":"\u201C@SAI: Samsung Can Resume Selling Galaxy Nexus After Court Reverses Injunction $GOOG by @stevekovach http://t.co/h1Wgvt4y\u201D","lbl":"Neutral"}
+,{"time":"15:32","usr":"phulkarpareesh","txt":"RT @SAI: Google Has $2 Million In Prize Money On Hand For Hackers Who Find Flaws In Chrome $GOOG by @officialKLS http://t.co/VansBM0T","lbl":"Neutral"}
+,{"time":"15:32","usr":"DerivTrader1","txt":"RT @SJosephBurns: I am holding $AAPL & $GOOG short via weekly in the money puts going into the close.","lbl":"Negative"}
+,{"time":"15:33","usr":"volatilitytrade","txt":"MT @volatilitytrade: $GOOG, that is.","lbl":"Neutral"}
+,{"time":"17:10","usr":"MarketCurrents","txt":"Nomura now thinks YouTube (GOOG), which has been firing on all cylinders, will generate $3.2B in 2013... http://t.co/RbSFtNPd $GOOG","lbl":"Neutral"}
+,{"time":"19:31","usr":"ihmvps","txt":"@jimcramer S/O MadMoney picks to several thousand investors that follow #ihmvps #cnbs #madmoney $AAPL $PULS $SVU $AA $NOK $GOOG $AMZN $MSFT","lbl":"Neutral"}
+,{"time":"19:34","usr":"RubenSocialWeb","txt":"Google Vs. Facebook: What Is The Verdict For 2012? http://t.co/4JPSInbd $FB $GOOG","lbl":"Neutral"}
+,{"time":"19:36","usr":"tradingbelle","txt":"Profitable companies with clean balance sheets and lots of cash on hand: $AUQ #EDU $MNST $AAPL $GOOG $KORS $XOM $QCOR $PAYX $CERN $ABV $ADP","lbl":"Positive"}
+,{"time":"19:44","usr":"mikentammy610","txt":"RT @SJosephBurns: The Lines in the Sand For Bulls http://t.co/wg3MO5oa $AAPL $GOOG $SPY $DIA $QQQ","lbl":"Neutral"}
+]

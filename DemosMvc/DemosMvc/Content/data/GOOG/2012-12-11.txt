@@ -1,0 +1,56 @@
+[
+{"time":"3:36","usr":"cosme_pc","txt":"RT @CNBC: Report says Google avoided $2 billion in international income taxes in 2011 by stashing money in Bermuda: http://t.co/vl6zjK9l $GOOG","lbl":"Positive"}
+,{"time":"3:49","usr":"rocwartortle","txt":"RT @businessinsider: This Screen That Fits On Your Eye Foretells The End Of The Smartphone Era $GOOG $AAPL $MSFT by @nichcarlson http://t.co/DeyeDmpn","lbl":"Neutral"}
+,{"time":"7:26","usr":"bukaai","txt":"RT @businessinsider: Google Would Be Nuts To Buy Groupon, Even At A Huge Discount $GOOG $GRPN http://t.co/TzummPhR","lbl":"Neutral"}
+,{"time":"7:28","usr":"ashcar","txt":"RT @SAI: This Screen That Fits On Your Eye Foretells The End Of The Smartphone Era $GOOG $AAPL $MSFT by @nichcarlson http://t.co/CwosL7SN","lbl":"Neutral"}
+,{"time":"8:02","usr":"petergo99037185","txt":"Three legs normally push as market higher, $USD GIANT MINUS, got that, OIL pushing higher, got that, TWIN TOWERS, $AAPL & $GOOG, +5 each YES","lbl":"Positive"}
+,{"time":"8:02","usr":"midwaytransform","txt":"RT @SAI: Google Dodged $2 Billion In Taxes Using A Shell Company In Bermuda $GOOG http://t.co/GFX2FeDb","lbl":"Neutral"}
+,{"time":"8:03","usr":"Claude","txt":"RT @SAI: Google Dodged $2 Billion In Taxes Using A Shell Company In Bermuda $GOOG http://t.co/GFX2FeDb","lbl":"Negative"}
+,{"time":"8:53","usr":"Real_MNA","txt":"Buying #Groupon Hard for Google (or Anyone) as Growth Slows--> http://t.co/z3bJFvEz $GRPN $GOOG $FB $MSFT #mna (by Bloomberg\u0027s @taralach)","lbl":"Neutral"}
+,{"time":"8:53","usr":"TheAnlyst","txt":"RT @Real_MNA: Buying #Groupon Hard for Google (or Anyone) as Growth Slows--> http://t.co/z3bJFvEz $GRPN $GOOG $FB $MSFT #mna (by Bloomberg\u0027s @taralach)","lbl":"Neutral"}
+,{"time":"9:09","usr":"nashpd","txt":"\u0022@businessinsider: Larry Page Finally Explains Why Google Is Working On Self-Driving Cars $GOOG by @nichcarlson http://t.co/awuFLLOZ\u0022","lbl":"Neutral"}
+,{"time":"9:09","usr":"DerekJohnBryant","txt":"RT @businessinsider: Larry Page Finally Explains Why Google Is Working On Self-Driving Cars $GOOG by @nichcarlson http://t.co/Nmhup76k","lbl":"Neutral"}
+,{"time":"9:11","usr":"ESL_CSINOW","txt":"RT @businessinsider: Larry Page Finally Explains Why Google Is Working On Self-Driving Cars $GOOG by @nichcarlson http://t.co/Nmhup","lbl":"Neutral"}
+,{"time":"9:40","usr":"Colchester1891","txt":"RT @SeekingAlpha: Using Options To Trade Earnings http://t.co/rxKQbtH2 $GOOG","lbl":"Neutral"}
+,{"time":"9:42","usr":"benjaminraja","txt":"RT @SAI: Reason Larry Page Doesn\u0027t Want Googlers Thinking About The Competition Is Pretty Inspiring $GOOG @nichcarlson http://t.co/iqkM3EQi","lbl":"Neutral"}
+,{"time":"10:01","usr":"Huff_B","txt":"$GOOG break the 20dma and shoot past $700 please","lbl":"Positive"}
+,{"time":"10:12","usr":"Jamtrades","txt":"A lot of investors didn\u0027t know about Bermuda.... That\u0027s for sure $GOOG.","lbl":"Neutral"}
+,{"time":"10:13","usr":"StockPlayer6","txt":"RT @NorthmanTrader: I sold 1/3 of the $GOOG calls, which means the entire trade is paid for @3x win. Will let 2/3 run. Can lose no money now only gain big.","lbl":"Positive"}
+,{"time":"10:33","usr":"SJosephBurns","txt":"@TheYoungWind This is not the spot to start long positions. $AAPL $GOOG","lbl":"Negative"}
+,{"time":"10:34","usr":"realcommonking","txt":"Pinch me! \u0022@HFTAlert: amazingly enough, no big programs yet today..actual real activity. $SPY $AAPL $VXX $GOOG http://t.co/jELKJCJZ\u0022","lbl":"Neutral"}
+,{"time":"10:34","usr":"tooHOTtoFAIL","txt":"$GOOG Why doesn\u0027t the \u0022Always display images\u0022 option EVER WORK on GMAIL?? I literally enable it everyday on emails and it does nothing #FAIL","lbl":"Negative"}
+,{"time":"11:01","usr":"vid_e","txt":"Boehner need to capitulate for the market to rally. Highly doubt it. Will buy any dips $aapl $goog $qqq $spy","lbl":"Neutral"}
+,{"time":"11:02","usr":"ChartLearning","txt":"@z8angela you are saying you are using a twitter indicator when it comes to $GOOG?","lbl":"Neutral"}
+,{"time":"11:26","usr":"UdallTechStrat","txt":"@sandeepbhavsar Sandeep... do not doubt the $goog ster... look at my race to $1000 here. $AAPL could still make it a fight","lbl":"Positive"}
+,{"time":"11:26","usr":"DFantome","txt":"RT @bluser12: BOOM $GOOG","lbl":"Neutral"}
+,{"time":"11:26","usr":"RYNBM45","txt":"is this real volume in $Goog or a pump and dump alto @HFTAlert","lbl":"Neutral"}
+,{"time":"12:02","usr":"gregwelsch","txt":"RT @ritholtz: How has no one ever done a mashup of Google Maps and Zagats? (Google owns both) $GOOG $$","lbl":"Neutral"}
+,{"time":"13:10","usr":"srinikom","txt":"RT @timoreilly: RT @digiphile: Rare interview with $GOOG CEO RT @mhelft Larry Page on @Google: \u0022We\u0027re still 1% to where we should be.\u0022 http://t.co/egSMzQA7","lbl":"Negative"}
+,{"time":"13:11","usr":"SaskoKay","txt":"RT @SAI: Apple\u0027s First Professional Fanboy Has Ditched The iPhone $AAPL $GOOG by @meganrosedickey http://t.co/VXHh7Giz","lbl":"Neutral"}
+,{"time":"14:07","usr":"sandeepbhavsar","txt":"wow $goog is sitting right under hod , lots of consolidation above 50 dma today. ready to make that huge move @smartertrader talks about","lbl":"Neutral"}
+,{"time":"14:08","usr":"thisagent","txt":"RT @wallstCS: How Private is Your Kid\u0027s Mobile Usage? http://t.co/6Gymjulf $AAPL $GOOG $LNKD $FB $DIA $SPY $QQQ $XLK $ZNGA $EA $GRPN","lbl":"Neutral"}
+,{"time":"14:09","usr":"asyurei3","txt":"$GOOG H&S on 10 minute today, Target 694 if it plays out.","lbl":"Neutral"}
+,{"time":"14:47","usr":"Dividend_Lover","txt":"RT @mcilderman: Investing In Science Fiction Tech: Artificial Intelligence http://t.co/bewU7Ebr $ AAPL $FB $GOOG $IBM $MSFT $NUAN $YAMCF.PK #stockaction","lbl":"Neutral"}
+,{"time":"14:48","usr":"Dividend_Lover","txt":"RT @SeekingAlpha: Investing In Science Fiction Tech: Artificial Intelligence http://t.co/sAx6N3MJ $FB $GOOG $IBM $MSFT $NUAN $YAMCF.PK","lbl":"Neutral"}
+,{"time":"14:48","usr":"edevag","txt":"RT @SAI: Apple\u0027s First Professional Fanboy Has Ditched The iPhone $AAPL $GOOG by @meganrosedickey http://t.co/VXHh7Giz","lbl":"Neutral"}
+,{"time":"15:13","usr":"bear__code","txt":"RT @ppprophet: SELL $GOOG The Market will Crash..... #DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
+,{"time":"15:14","usr":"anthonybasker","txt":"RT @SAI: How Google Went From A Simple Search Engine To A Pretty Bloated Site $GOOG by @jyarow http://t.co/1EqZo3HY","lbl":"Neutral"}
+,{"time":"15:15","usr":"NokWebDev","txt":"$GOOG Worldwide Gmail, Chrome crash caused by sync server error http://t.co/L3kdTJ8U","lbl":"Negative"}
+,{"time":"15:48","usr":"BreakingNewzman","txt":"RT @Reuters: Google, U.S. regulators close to deal in patents dispute: sources http://t.co/lQfW0AUl $GOOG","lbl":"Neutral"}
+,{"time":"15:48","usr":"TarekMoukalled","txt":"RT @Reuters: Google, U.S. regulators close to deal in patents dispute: sources http://t.co/lQfW0AUl $GOOG","lbl":"Neutral"}
+,{"time":"15:48","usr":"SJosephBurns","txt":"I sold my $PCLN strangle for a $400 loss. Half of that was due to the wider bid/ask spread. This was the day for $AAPL & $GOOG","lbl":"Neutral"}
+,{"time":"16:30","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Page Lawrence Director SOLD 5800 shares \u2611","lbl":"Negative"}
+,{"time":"16:33","usr":"pennystockguys","txt":"$GOOG - TECH STOCKS: Apple, Texas Instruments Lead Tech Rally http://t.co/w62hpqvY","lbl":"Neutral"}
+,{"time":"16:33","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/j1T9baS5","lbl":"Neutral"}
+,{"time":"17:36","usr":"barronstechblog","txt":"AAPL: Lousy Sentiment Requires \u2018Another Big Thing,\u2019 Says Barclays; Television? - Tech Trader Daily - $AAPL $GOOG http://t.co/4Y0dly3Y","lbl":"Neutral"}
+,{"time":"17:38","usr":"martjvv","txt":"RT @SAI: Apple\u0027s First Professional Fanboy Has Ditched The iPhone $AAPL $GOOG by @meganrosedickey http://t.co/VXHh7Giz","lbl":"Neutral"}
+,{"time":"19:18","usr":"StockMarket411","txt":"Biz Break: Apple, Google, Intel and other tech stocks propel Wall Street, SolarCity IPO may be postponed $goog http://t.co/LQUc4eOZ goog,...","lbl":"Positive"}
+,{"time":"19:22","usr":"reuvenohr","txt":"\u0022@Bizfinder: Not trusting this $GOOG uptrend $MSFT $AAPL $SPY $NOK http://t.co/FW3ts2nb\u0022 <-y? its IHS, 5-year symm tri breakout & bull flag","lbl":"Neutral"}
+,{"time":"19:32","usr":"61point8","txt":"$GOOG > Let\u0027s not forget Scroogle. http://t.co/14sSMGW8","lbl":"Neutral"}
+,{"time":"21:08","usr":"eric_jaramillo","txt":"RT @CNNMoney: Want the fastest possible internet connection? You\u0027ll have to move to Kansas City for that. http://t.co/JE3p3t5u $NFLX $GOOG","lbl":"Neutral"}
+,{"time":"21:12","usr":"pannetron","txt":"RT @CNNMoney: Want the fastest possible internet connection? You\u0027ll have to move to Kansas City for that. http://t.co/JE3p3t5u $NFLX $GOOG","lbl":"Neutral"}
+,{"time":"21:12","usr":"Radomako","txt":"RT @CNNMoney: Want the fastest possible internet connection? You\u0027ll have to move to Kansas City for that. http://t.co/JE3p3t5u $NFLX $GOOG","lbl":"Neutral"}
+,{"time":"23:41","usr":"fabio_sebastian","txt":"RT @cnbcfastmoney: Top Tech Picks for 2013 - VIDEO http://t.co/aFBjniBg $GOOG $RAX $CRM $WDC $STX $FIO $FB @timseymour","lbl":"Positive"}
+,{"time":"23:47","usr":"TechInsiderco","txt":"Google Shuts Down Its Shopping Service in China: Google just announced it is shutting down its Goo... http://t.co/WltI3nI1 #Google $GOOG","lbl":"Negative"}
+,{"time":"23:49","usr":"alilotia","txt":"RT @CNNMoney: Want the fastest possible internet connection? You\u0027ll have to move to Kansas City for that. http://t.co/JE3p3t5u $NFLX $GOOG","lbl":"Neutral"}
+]

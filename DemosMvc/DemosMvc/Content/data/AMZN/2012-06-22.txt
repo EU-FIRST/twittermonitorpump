@@ -1,0 +1,20 @@
+[
+{"time":"4:10","usr":"SeekingAlpha","txt":"Microsoft Smacks Google With New Surface Tablet http://t.co/qME9sXGT $AAPL $AMZN $GOOG $SNE $MSFT","lbl":"Neutral"}
+,{"time":"4:17","usr":"OgFOMK","txt":"RT @Derek_Haines: http://t.co/hggNk9H8\u0027s domain power play:... to control them all | Internet & Media - CNET: http://t.co/75ZkeoBZ $AMZN","lbl":"Neutral"}
+,{"time":"6:58","usr":"mcilderman","txt":"Will #Apple Soon Sell 3D Printers? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #tech #investing #Mac @cultofmac","lbl":"Neutral"}
+,{"time":"6:59","usr":"akivak","txt":"RT @mcilderman: Will #Apple Soon Sell 3D Printers? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #tech #investing #Mac @cultofmac","lbl":"Neutral"}
+,{"time":"7:07","usr":"drumelis","txt":"RT @mcilderman: Will #Apple Soon Sell 3D Printers? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #tech #investing #Mac @cultofmac","lbl":"Neutral"}
+,{"time":"8:59","usr":"JrseyFightsJosh","txt":"@gtotoy Sorry. Replied instead of quoted. Your $AMZN long. Are you using tight stops? Or letting it breath?","lbl":"Positive"}
+,{"time":"8:59","usr":"dlcmh","txt":"Options open interest, IV, delta and price snapshots updated Friday, Jun 22, 2012 for $AMZN http://t.co/tofIwSGc","lbl":"Neutral"}
+,{"time":"10:37","usr":"Nurse_Techy","txt":"RT @mcilderman: Will #Apple Soon #Sell 3D Printers? http://t.co/WCzo3zjJ $AAPL $AMZN #Amazon $MSFT $GOOG #google #Mac #tech @wilw","lbl":"Neutral"}
+,{"time":"12:07","usr":"RoccoPendola","txt":"@TheNextWeb @alex These are likely the same people who trashed $AMZN for pricing Kindle Fire at $199.","lbl":"Neutral"}
+,{"time":"14:34","usr":"retail_sails","txt":"Wal-Mart Beats Amazon Prices, Both Online and In-Store http://t.co/1Nq11LkY $WMT $AMZN #retail","lbl":"Negative"}
+,{"time":"14:35","usr":"stevenpdennis","txt":"RT @retail_sails: Wal-Mart Beats Amazon Prices, Both Online and In-Store http://t.co/1Nq11LkY $WMT $AMZN #retail","lbl":"Negative"}
+,{"time":"15:35","usr":"USwwwStocks","txt":"$AMZN News: Amazon\u0027s Low Margin Squeeze http://t.co/L9IwDan3 #AMZN #Amazonamp39s #Margin","lbl":"Neutral"}
+,{"time":"15:39","usr":"jdsherry","txt":"RT @SAI: Google To Launch Its Amazon Cloud Killer Next Week $AMZN $GOOG by @Julie188 http://t.co/ZOYnjnMf #cloud @Trendmicro","lbl":"Negative"}
+,{"time":"17:00","usr":"t_manfredi","txt":"RT @SAI: Google To Launch Its Amazon Cloud Killer Next Week $AMZN $GOOG by @Julie188 http://t.co/FxJf75fF","lbl":"Negative"}
+,{"time":"17:00","usr":"drkavitashaikh","txt":"RT @Dividend_Lover Will #Apple Sell 3D Printers Soon? http://t.co/5RtFwZ8S $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #3dprinting","lbl":"Neutral"}
+,{"time":"22:42","usr":"fbmoney1","txt":"RT @Dividend_Lover Will #Apple Sell 3D Printers Soon? http://t.co/xeHfjNdp $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #3dprinting","lbl":"Neutral"}
+,{"time":"22:56","usr":"BurnWorld","txt":"RT @Dividend_Lover Will #Apple Sell 3D Printers Soon? http://t.co/MX7wBexg $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #3dprinting","lbl":"Neutral"}
+,{"time":"23:03","usr":"Hephaestus7","txt":"$AMZN http://t.co/zSz2uQxL 300-day support and resistance $AMZN chart.","lbl":"Neutral"}
+]

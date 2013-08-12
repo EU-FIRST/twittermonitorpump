@@ -1,0 +1,19 @@
+[
+{"time":"7:56","usr":"RockwellGlobal","txt":"RT \u201C@SAI: Oh Geez, Now There\u0027s An Android Phone That\u0027s Almost As Big As Your Kindle Fire $GOOG by @stevekovach http://t.co/pGOJ76bO\u201D #Tech","lbl":"Neutral"}
+,{"time":"8:57","usr":"flipboardbiz","txt":"RT @SAI: Will A $99 Android Tablet Be Enough To Make You Ditch Your iPad? $GOOG by @stevekovach http://t.co/oODH8cNg","lbl":"Neutral"}
+,{"time":"8:58","usr":"garrioharrison","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $AAPL $RIMM $MSFT $GOOG by @stevekovach http://t.co/4CSjNtZb","lbl":"Neutral"}
+,{"time":"9:53","usr":"Trefis","txt":"Google Sells Motorola\u0027s Home Business To Focus on Mobile Opportunity http://t.co/BVWcUaMu by Trefis Team $GOOG $MSFT $SSNLF","lbl":"Neutral"}
+,{"time":"10:51","usr":"ntfri","txt":"Now Amazon $AMZN and Google $GOOG collision course http://t.co/4D8RDIjQ","lbl":"Neutral"}
+,{"time":"10:52","usr":"thefinancepress","txt":"$GOOG LG is Expanding its Lineup of Google Inc (NASDAQ:GOOG)\u0027s Televisions: LG is Expanding its Lineup of Googl... http://t.co/BheFReAh","lbl":"Neutral"}
+,{"time":"12:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $WAG +23%, $AAPL -6%, $AMZN -12%, $GOOG -19%, $AMZN -12%, $AAPL -6% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"12:02","usr":"RDeanon","txt":"$VRNG motion for $GOOG et al to Cease using Smart Ads or pay Royalty of 7% http://t.co/pkU2Ja24 - Need extension for this jab?!","lbl":"Neutral"}
+,{"time":"12:36","usr":"mrstolt","txt":"RT @SAI: Google\u0027s Enterprise Chief: We\u0027re Going To Grab 90% Of Office Users Away From Microsoft $GOOG $MSFT by @Julie188 http://t.co/jNnEXyE0","lbl":"Positive"}
+,{"time":"12:38","usr":"gotboredreadme","txt":"RT @businessinsider: Google\u0027s Enterprise Chief: We\u0027re Going To Grab 90% Of Office Users Away From Microsoft $GOOG $MSFT by @Julie188 http://t.co/qBQt4zHr","lbl":"Neutral"}
+,{"time":"13:39","usr":"mcliffe195","txt":"RT @SAI: Google\u0027s Enterprise Chief: We\u0027re Going To Grab 90% Of Office Users Away From Microsoft $GOOG $MSFT by @Julie188 http://t.co/jNnEXyE0","lbl":"Positive"}
+,{"time":"13:39","usr":"nereidadin","txt":"Monday links: end of the macro age & a long-term look at $AAPL. http://t.co/qVjXzwZt via @abnormalreturns $SPY $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"13:44","usr":"jimbojoyce","txt":"90% RT @SAI: Google\u0027s Enterprise Chief: We\u0027re Going To Grab 90% Of Office Users From Microsoft $GOOG $MSFT by @Julie188 http://t.co/0AUTPJII","lbl":"Neutral"}
+,{"time":"17:31","usr":"ADVFNplc","txt":"$GOOG - Still Neutral on Research In Motion - Analyst Blog http://t.co/BCSmHdUP","lbl":"Neutral"}
+,{"time":"17:32","usr":"RaffiSosikian","txt":"Advertising war between Amazon $AMZN & Google $GOOG heats up - http://t.co/2krQJxqn - W/ DSP technology Amazon is looking good.","lbl":"Negative"}
+,{"time":"17:40","usr":"technopolitics","txt":"RT @SAI: Google And Motorola Are Working On A Top-Secret \u0027X Phone\u0027 To Beat The iPhone $GOOG http://t.co/Z5cHi7bv","lbl":"Neutral"}
+,{"time":"23:29","usr":"medici2","txt":"RT @StockTwits: Where is Santa Clause? Google Tracks Saint Nick http://t.co/Ox9n0JyV $GOOG","lbl":"Neutral"}
+]

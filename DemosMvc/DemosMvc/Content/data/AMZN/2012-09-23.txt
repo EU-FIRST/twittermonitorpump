@@ -1,0 +1,10 @@
+[
+{"time":"7:59","usr":"larryfooter","txt":"@cronked @keepitrealdude if $AMZN was valued the same as $AAPL or $GOOG, it would be a $50 stock #insanity","lbl":"Negative"}
+,{"time":"8:02","usr":"strangleprofits","txt":"New blog update for the week http://t.co/mKuH02OC $WLT $AMZN $VIX $COST $LULU $NFLX $SSYS $MLNX $CRM $EOG $CTXS","lbl":"Neutral"}
+,{"time":"8:24","usr":"jonasQuinn23","txt":"RT @larryfooter: @cronked @keepitrealdude if $AMZN was valued the same as $AAPL or $GOOG, it would be a $50 stock #insanity","lbl":"Neutral"}
+,{"time":"11:24","usr":"pdm1010","txt":"RT @biggercapital: $AMZN going in different direction with the Fire HD. It now has 30% of Internet purchasing searches. $GOOG 17%. Media ...","lbl":"Neutral"}
+,{"time":"11:42","usr":"JonErlichman","txt":"NASDAQ-100 top tech stocks this yr? $EXPE +105% $AAPL +73% $EBAY +63% $AMZN +49%..strugglers? $RIMM -55%, $EA -36% $DELL -29% $NFLX -17%","lbl":"Neutral"}
+,{"time":"11:43","usr":"tbg4321","txt":"$ES_F, $TF_F, $CL_F, $SPY, $6E_F, $DX_F, $DAX_F, $AAPL, $AMZN premium charts posted $$ http://t.co/zB8AWfGd","lbl":"Neutral"}
+,{"time":"11:46","usr":"HardballBizSoln","txt":"RT @JonErlichman: NASDAQ-100 top tech stocks this yr? $EXPE +105% $AAPL +73% $EBAY +63% $AMZN +49%..strugglers? $RIMM -55%, $EA -36% $DE ...","lbl":"Neutral"}
+,{"time":"20:39","usr":"rrshasss","txt":"$AMZN Looking for a break above or below channel. Volume and RSI hinting down. http://t.co/D8tPR8rw","lbl":"Negative"}
+]

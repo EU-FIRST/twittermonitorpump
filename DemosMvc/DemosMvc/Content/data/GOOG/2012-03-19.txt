@@ -1,0 +1,39 @@
+[
+{"time":"4:49","usr":"setatakahashi","txt":"RT @howardlindzon: So far- 110 retweets of my last wordpress post, 70 disqus comments, 30 @stocktwits replies and ONE Google Plus- it\u0027s Google OY, not $goog +","lbl":"Neutral"}
+,{"time":"4:50","usr":"KimKimbrough","txt":"RT @barronstechblog: Apple: 750 In Line at Flagship Store Bodes Well, Says Piper - Tech Trader Daily - $AAPL $GOOG $MSFT $NOK $RIMM $AMZN http://t.co/0qkCBVdV","lbl":"Neutral"}
+,{"time":"8:13","usr":"mojoris1977","txt":"$MMI $GOOG: Phase 2 in China...not unexpected, but adds some uncertainty","lbl":"Negative"}
+,{"time":"8:15","usr":"WALLSTJESUS","txt":"\u2605This ETF Will Rise As Soon Facebook Starts Trading http://t.co/cRF6ThfT $AMZN $ZNGA $GOOG $BIDU $YHOO $P $GRPN $TCEHY.PK $SINA","lbl":"Neutral"}
+,{"time":"9:06","usr":"dealReporter","txt":"$GOOG and $MMI confirm our story from last week that China\u0027s MOFCOM has extended its review of the deal. http://t.co/Oj8Sk2cN","lbl":"Neutral"}
+,{"time":"9:06","usr":"StkConfidential","txt":"Retry: $GOOG, $FIRE, $FOSL and others moving well so far. $$","lbl":"Positive"}
+,{"time":"9:53","usr":"barronstechblog","txt":"Sprint: Bernstein Cuts to Sell on iPhone LTE Prospect - Tech Trader Daily - Barron\u0027s $S $T $VZ $CLWR $AAPL $GOOG http://t.co/G1g21Rra","lbl":"Neutral"}
+,{"time":"9:56","usr":"katetrades","txt":"Moved stop on $GOOG up to lock +4 on bal","lbl":"Positive"}
+,{"time":"10:23","usr":"Tangletrade","txt":"@RedDogT3Live really like that $GOOG chart...good look there","lbl":"Positive"}
+,{"time":"10:23","usr":"Sangluccitrades","txt":"Missed $GOOG & $X today... I got nothin\u0027... Watching this $V now","lbl":"Neutral"}
+,{"time":"10:23","usr":"Bluechiptrend","txt":"$GOOG gap fill finally In and I missed it! :(","lbl":"Neutral"}
+,{"time":"10:23","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: madrose1: $GOOG put on show this am @hod http://t.co/XOrCSOVf","lbl":"Negative"}
+,{"time":"10:57","usr":"katetrades","txt":"Out $GOOG +9 on bal","lbl":"Negative"}
+,{"time":"10:59","usr":"DEMOGETS","txt":"Took profits on $GOOG , will buy the dip !","lbl":"Negative"}
+,{"time":"12:26","usr":"traderclubtirol","txt":"RT @bespokeinvest: Our trading range screen for the 30 largest US stocks -- http://t.co/bYTYwnWF $$ $AAPL $GOOG $GE $MSFT $IBM $XOM","lbl":"Neutral"}
+,{"time":"12:27","usr":"EvolvingMedium","txt":"Yandex Search Share Gains as Google \u0027s, Mail.ru \u0027s Portions Shrink $goog - http://t.co/cHWFlOV2","lbl":"Neutral"}
+,{"time":"12:28","usr":"rechtsteiner","txt":"Freemium & the MoSo gaming conundrum. http://t.co/lVjmFNPc $ERTS, $ZYNG, $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"13:33","usr":"ninja_trades","txt":"iPhones for Psychos http://t.co/b5lNsgYi #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"13:37","usr":"JeffReevesIP","txt":"Three largest stocks (by mkt cap) NOT paying divs now: Google $GOOG Berkshire $BRK.B $BRK.A and Amazon $AMZN","lbl":"Neutral"}
+,{"time":"14:41","usr":"4Samy4","txt":"RT @MarketBeat: http://t.co/C7QGTJNa Apple Unveils Dividend. Is Google Next? @wsj $$ $AAPL $GOOG #dividend","lbl":"Positive"}
+,{"time":"14:41","usr":"dekyingPutin","txt":"RT @MarketBeat: http://t.co/C7QGTJNa Apple Unveils Dividend. Is Google Next? @wsj $$ $AAPL $GOOG #dividend","lbl":"Neutral"}
+,{"time":"14:41","usr":"HoratiuSandru","txt":"RT @MarketBeat: http://t.co/C7QGTJNa Apple Unveils Dividend. Is Google Next? @wsj $$ $AAPL $GOOG #dividend","lbl":"Neutral"}
+,{"time":"14:42","usr":"IceColdColeman","txt":"\u201C@MarketBeat: http://t.co/ka5UAPPk Apple Unveils Dividend. Is Google Next? @wsj $$ $AAPL $GOOG #dividend\u201D finally. @KidAgnello called it.","lbl":"Neutral"}
+,{"time":"15:08","usr":"pastclnt","txt":"BTW @tjtakes: How is your SHORT $GOOG doing? You must be down at least $12. Are you in a race w/ @sqwii, re: who loses more? @cnbcfastmoney","lbl":"Positive"}
+,{"time":"15:12","usr":"tjtakes","txt":"our long $goog continues to work, all from $605 and $611","lbl":"Positive"}
+,{"time":"15:14","usr":"BullzzzEye","txt":"took $BAC off the table - added to $AAPL $DPZ $GOOG $V - updated my other stops according to todays action","lbl":"Positive"}
+,{"time":"15:48","usr":"ChrisONeill2","txt":"$aapl should catch $goog tomorrow","lbl":"Negative"}
+,{"time":"16:50","usr":"wallstCS","txt":"Why is Apple Facing Accusations of Piracy in China? http://t.co/bBFqR50s $AAPL $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"16:51","usr":"MariusFermi","txt":"I think $GOOG or any tech would be stupid to spend cash on div or buy back, keep holders happy with purchases for growth.","lbl":"Neutral"}
+,{"time":"16:53","usr":"todd_harrison","txt":"Sitting at JFK awaiting #YPO trip to FB, $GOOG Twitter and more. Excited to get totally social :)","lbl":"Positive"}
+,{"time":"17:56","usr":"StateMagister","txt":"RT @LaMonicaBuzz: And now the $GOOG dividend watch begins. $GOOG has $44.6B in cash. If it\u0027s good enough for iOS ($AAPL) shouldn\u0027t it be new Android feature?","lbl":"Positive"}
+,{"time":"19:33","usr":"BreezeTrading","txt":"The nicest cup and handle you can find in this biz: $SPY $AAPL $GOOG $CMG $PCLN $LULU Ka-chingas #SWEET #WINNER http://t.co/BB9uTdtu","lbl":"Neutral"}
+,{"time":"19:38","usr":"thefinancepress","txt":"$GOOG Solar 15% Returns Lure Investments From Google to Buffett: Solar 15% Returns Lure Investments From Google... http://t.co/2vF68vdK","lbl":"Neutral"}
+,{"time":"21:35","usr":"investlite","txt":"For Tuesday, 3/20 - $LVS $NFLX $BRCM $CNX $QCOM $ADBE $WYNN $NTAP $GOOG $GS $INFA $TS $MOS $GLD","lbl":"Neutral"}
+,{"time":"21:41","usr":"cocoboywonder","txt":"Really $GOOG? Google Wage?! No wonder you are canceling the product!","lbl":"Negative"}
+,{"time":"21:41","usr":"thefinancepress","txt":"$GOOG Google Gets in a Digg at Facebook: Google Gets in a Digg at Facebook DailyFinance - 18 minutes ago By Al... http://t.co/VOgosHez","lbl":"Neutral"}
+,{"time":"21:45","usr":"giantquesadilla","txt":"Watch out $GOOG, $AAPL is catching up!","lbl":"Negative"}
+]

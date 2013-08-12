@@ -1,0 +1,27 @@
+[
+{"time":"2:24","usr":"onatpekcan","txt":"Netflix Blames Outage on Amazon http://t.co/AoIMMH3w #tech $nflx $amzn","lbl":"Negative"}
+,{"time":"8:15","usr":"CNBC","txt":"Netflix\u0027s streaming video service experienced an outage on Christmas Eve. Netflix is blaming it on Amazon: http://t.co/ljZpP2CY $NFLX $AMZN","lbl":"Negative"}
+,{"time":"8:16","usr":"JeffKi31","txt":"RT @CNBC: Netflix\u0027s streaming video service experienced an outage on Christmas Eve. Netflix is blaming it on Amazon: http://t.co/ljZpP2CY $NFLX $AMZN","lbl":"Negative"}
+,{"time":"9:03","usr":"TMFJMo","txt":"I\u0027m still a bit surprised whenever I hear $NFLX shareholders express surprise at the level of the company\u0027s dependence on $AMZN.","lbl":"Neutral"}
+,{"time":"9:44","usr":"JParklsu","txt":"RT @CNBC: Netflix\u0027s streaming video service experienced an outage on Christmas Eve. Netflix is blaming it on Amazon: http://t.co/ljZpP2CY $NFLX $AMZN","lbl":"Negative"}
+,{"time":"9:44","usr":"thenotablecalls","txt":"$AMZN - So far, it\u0027s EBAY showing how it\u0027s done. Not AMZN.","lbl":"Neutral"}
+,{"time":"10:26","usr":"BenCBanks","txt":"would\u0027t have expected $AMZN to be down this much right now","lbl":"Negative"}
+,{"time":"10:30","usr":"mainstr","txt":"Apple: iPad mini Wins Because It\u0027s Expensive http://t.co/2T2mM2mB $AAPL $AMZN $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"11:13","usr":"bespokeinvest","txt":"http://t.co/VdfzoG5u now down $7.50, has dropped $1 every 5 minutes since 10:50. $AMZN","lbl":"Negative"}
+,{"time":"11:42","usr":"reopentainment","txt":"$AMZN plus the whole hemorrhaging money from buying rights to stream various movies/shows trying to kill $NFLX, hulu better atm","lbl":"Neutral"}
+,{"time":"12:14","usr":"takingstock614","txt":"$AMZN $AAPL out both for -.35 & -.15","lbl":"Negative"}
+,{"time":"12:14","usr":"STL_Trader22","txt":"A lot of the market leaders are taking a beating worse than they should, watch them closely. $amzn $fb $aapl. Banks still holding ok $bac","lbl":"Neutral"}
+,{"time":"12:14","usr":"DanaBlankenhorn","txt":"$AMZN It goes down 3.67% and is still near $250/share?","lbl":"Neutral"}
+,{"time":"13:11","usr":"TradingWench","txt":"$HOTT $RTH $URBN $RL $M $AMZN $SKS More on weak retailers http://t.co/MDbhsZTF","lbl":"Neutral"}
+,{"time":"13:40","usr":"iBizNews21","txt":"RT @CNNMoney: Holiday spending not as great. It\u0027s sending retail stocks lower -- $AMZN, $COH, $KORS, $LTD, $M and others.","lbl":"Neutral"}
+,{"time":"13:42","usr":"LEEbaybeeee","txt":"RT @CNNMoney: Holiday spending not as great. It\u0027s sending retail stocks lower -- $AMZN, $COH, $KORS, $LTD, $M and others.","lbl":"Negative"}
+,{"time":"15:07","usr":"kiwitrader24","txt":"@Sliver Sure, anything\u0027s possible. $264.11 id the high to beat until it isn\u0027t. $AMZN","lbl":"Positive"}
+,{"time":"15:08","usr":"DeanBankMA","txt":"RT @CNNMoney: Holiday spending not as great. It\u0027s sending retail stocks lower -- $AMZN, $COH, $KORS, $LTD, $M and others.","lbl":"Negative"}
+,{"time":"15:09","usr":"TrueChartTrader","txt":"$amzn poor volume in this 4% drop. should go back above 255 at this rate easily on even a small push.","lbl":"Positive"}
+,{"time":"15:46","usr":"salman_kiani","txt":"RT @HamzeiAnalytics: BLOCK TRADE detected in $AMZN","lbl":"Neutral"}
+,{"time":"15:47","usr":"BillBigD","txt":"RT @Fitzstock2004: i actually agree with that trader on cnbc about $amzn........i posted that gap down to 225, that is my target, unless reclaims 10sma","lbl":"Neutral"}
+,{"time":"17:01","usr":"UnlovedMoney","txt":"@grenadetrade $AMZN long-term view is such that i\u0027m not sure how much it matters how much profit they made this holiday season, no?","lbl":"Neutral"}
+,{"time":"17:06","usr":"lesha22","txt":"\u201C@rocco_thestreet: Drop in $AMZN is typical market reaction. Reports of slow holiday sales. \u0022 wait till you see their revenue...","lbl":"Negative"}
+,{"time":"19:19","usr":"oktobernv","txt":"RT @jpu19: $AMZN -3,86% $M -1,04% $GPS -3,09% $ANF 3,52% $LULU -3,14%","lbl":"Negative"}
+,{"time":"23:25","usr":"NKOSIpublishing","txt":"RT @MadKindlePromos: Four incredible novels to help you to turbo-charge your Kindle! http://t.co/RH7tMr0I $AMZN #bestsellers #books (via @LukeRomyn)","lbl":"Neutral"}
+]

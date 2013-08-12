@@ -1,0 +1,14 @@
+[
+{"time":"2:01","usr":"infovestment","txt":"Apple - New Earbuds... Finally http://t.co/ecNdJfOD $AAPL $MSFT $GOOG $$ #MKT #IPHONE","lbl":"Neutral"}
+,{"time":"2:09","usr":"tradingview","txt":"$GOOG chart published by frugartarian: http://t.co/FU9IJXcS. google.","lbl":"Neutral"}
+,{"time":"2:09","usr":"AJohnKyriazis","txt":"RT @SeekingAlpha: Amazon Primed For A Big Drop As Growth Slows http://t.co/J5PrNzNA $AAPL $GOOG $BBY $BKS $TGT $WMT $AMZN $SSNLF.PK","lbl":"Neutral"}
+,{"time":"11:26","usr":"halsilva","txt":"RT @andrescardenal: A Simple Idea for Exceptional Returns - $AMZN, $AAPL, $EBAY, $GOOG, $MELI - Foolish Blogging Network: http://t.co/KV ...","lbl":"Positive"}
+,{"time":"11:38","usr":"SAI","txt":"A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0BhSBybK","lbl":"Negative"}
+,{"time":"11:40","usr":"tommakau","txt":"RT @SAI: A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0BhSBybK","lbl":"Negative"}
+,{"time":"15:26","usr":"project_mojave","txt":"$GOOG is probably best ticker for investors","lbl":"Positive"}
+,{"time":"15:29","usr":"BigTicks","txt":"$GOOG News: Google Inc. (GOOG) Is Open For Business http://t.co/TtKZBjTg #GOOG #Business #Google","lbl":"Neutral"}
+,{"time":"15:36","usr":"villav74","txt":"Oh kansas... RT @SAI: A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0O1PRRB9","lbl":"Negative"}
+,{"time":"19:57","usr":"JornBuhring","txt":"RT @SAI: A Lot Of Kansas City Residents Are Not Signing Up For Google Fiber $GOOG by @Julie188 http://t.co/0BhSBybK","lbl":"Negative"}
+,{"time":"19:58","usr":"bclund","txt":"Someone tell me again why $GOOG Drive will not kill Evernote (eventually)?","lbl":"Neutral"}
+,{"time":"20:44","usr":"Lo_trading","txt":"RT @bclund: Someone tell me again why $GOOG Drive will not kill Evernote (eventually)?-- great question, and im an evernote fan","lbl":"Neutral"}
+]

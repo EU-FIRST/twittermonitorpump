@@ -1,0 +1,52 @@
+[
+{"time":"3:03","usr":"dsilva13","txt":"\u201C@SeekingAlpha: Analyst Estimates Are Very Overrated http://t.co/9DcxhWgv $GOOG $MSFT $NFLX $FSLR $AAPL\u201D","lbl":"Negative"}
+,{"time":"3:37","usr":"horatiumocian","txt":"Tech\u2019s \u2018Old Dogs\u2019 $IBM, $MSFT, $INTC Top Estimates as Google ($GOOG) Dips http://t.co/krhZODds via @BloombergNews","lbl":"Neutral"}
+,{"time":"3:51","usr":"lazywisdom","txt":"NEW POST: The Apple Education Event - Can you say Halo Effect? http://t.co/rBmkhTG2 $AMZN $GOOG cc @atul","lbl":"Neutral"}
+,{"time":"8:40","usr":"$GOOG","txt":"nlightn: $GOOG -$590.35 down - $49.47...!!!!!AAPL _$426.20 - $: nlightn http://t.co/4JsHuoi0","lbl":"Negative"}
+,{"time":"8:40","usr":"$GOOG","txt":"contrary to what you may think this morning, $GOOG is in accumulation mode this morning with a Acc/Dist reading abv 0.4 (high yest was 0.1)","lbl":"Positive"}
+,{"time":"8:42","usr":"stocial","txt":"60 minute Trending Social Volume: $GOOG/35, $AAPL/16, $GE/15, $AMZN/13, $SPY/12, $MSFT/11, $ASIA/8, $INTC/7. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"8:42","usr":"$GOOG","txt":"@1nvestor You know, for anyone that owned a straddle, this is the best outcome. Close your $puts for a profit and hold those $calls! $goog","lbl":"Positive"}
+,{"time":"9:31","usr":"edponsi","txt":"Or, why you should be long $MSFT but not $GOOG right now http://t.co/wIxGsVg5 $$","lbl":"Negative"}
+,{"time":"9:31","usr":"TheTradeDonkey","txt":"FADE the GAPS: $BCS $IBM $MPC $SWKS & FADE the GAPS: $PH $COF $WLL $GOOG $ISRG","lbl":"Neutral"}
+,{"time":"9:31","usr":"JFinDallas","txt":"Main market tells for today I\u0027ll be watching for direction today: $GOOG $BIDU $GS $GE $EURUSD $XLF","lbl":"Neutral"}
+,{"time":"10:13","usr":"StockAction","txt":"RT @TheAcsMan: Nearly 4 years ago $GOOG plunged & $MSFT announced $YHOO bid . \u0022It\u0027s a New World\u0022 2008 Szelhamos Archives http://t.co/3j5miEkG #stockaction","lbl":"Neutral"}
+,{"time":"10:54","usr":"RahulTongia","txt":"they don\u0027t want growth, but value $QQQ $MSFT $INTC $GOOG $SPY","lbl":"Neutral"}
+,{"time":"10:58","usr":"kapin_ela","txt":"RT @TraderBerlin they don\u0027t want growth, but value $QQQ $MSFT $INTC $GOOG $SPY","lbl":"Neutral"}
+,{"time":"10:59","usr":"barronstechblog","txt":"Apple: Expect Typical \u2018Conservatism\u2019 Tuesday, Says UBS - Tech Trader Daily - $AAPL $GOOG $AMZN $MSFT $RIMM http://t.co/Qq2r3C2Y","lbl":"Neutral"}
+,{"time":"11:20","usr":"timothysykes","txt":"Amazing free video lessons here http://t.co/1xCg5eUn on stock like $NFLX $AMZN $PCLN $GOOG","lbl":"Neutral"}
+,{"time":"11:21","usr":"trambir","txt":"RT @BloombergNews: Google\u2019s price drop prompts Page\u2019s first miss | http://t.co/y1rfuPtz $GOOG","lbl":"Negative"}
+,{"time":"11:21","usr":"ElliotTurn","txt":"Funny $GOOG misses earnings and people are talking about them as a co. in decline. Company is still growing at over 20% clip, what decline?","lbl":"Positive"}
+,{"time":"11:22","usr":"TrendRida","txt":"@TraderDR Sounds a little crazy, but I like $MSFT more than $GOOG cc: @Dasan","lbl":"Negative"}
+,{"time":"11:43","usr":"jimcollins","txt":"Max pain for $GOOG is 600 if it hits that I make a killing. This is a risk/reward play. Please do not try this at home.","lbl":"Neutral"}
+,{"time":"11:43","usr":"bkelly019","txt":"closed by $GOOG puts up 50%. waiting for the price action to get back into the Bollinger bands on the daily before considering reentering.","lbl":"Neutral"}
+,{"time":"11:43","usr":"DJThistle","txt":"Poll: Ever considered a \u201Crugged\u201D Android?: We\u0027re curious to see just how many typical Android users would... http://t.co/MALtlI12 $GOOG","lbl":"Neutral"}
+,{"time":"11:43","usr":"RussKinnel","txt":"Summer: Market overreacting to Google\u0027s $GOOG 4Q .: http://t.co/f85au3fT","lbl":"Neutral"}
+,{"time":"12:07","usr":"FeedTheBull","txt":"Google $GOOG fell 8% after posting a rare quarterly earnings miss and said search ad revenue decreased for the first time in 2 years","lbl":"Negative"}
+,{"time":"12:07","usr":"1nvestor","txt":"stopping the bal of $GOOG early. pos closed.","lbl":"Negative"}
+,{"time":"12:08","usr":"big3mkt","txt":"MM\u0027S will keep $AMZN near $190 $AAPL close to $425 $GOOG $590 ...imo...done for week congrats all, book those gains!","lbl":"Neutral"}
+,{"time":"12:38","usr":"Catwoman2011","txt":"WHY was $GOOG paid clicks # so low during Holidays? Because NOBODY googles \u0022Apple Store\u0022...Ever. That\u0027s why. =^.^=","lbl":"Negative"}
+,{"time":"12:38","usr":"BreezeTrading","txt":"$GOOG Learn to hold you\u0027re winners. Slight pull back from $670.25 #HOLDING","lbl":"Negative"}
+,{"time":"12:39","usr":"dadams007","txt":"$GOOG / Google really didn\u0027t care about their share & option holders, otherwise they would have HELD bad earnings until after expiry...#SAD","lbl":"Negative"}
+,{"time":"13:21","usr":"clydbeaty","txt":"RT @SullyCNBC: 2p @CNBC: Are you UNDER taxed?..$FITB CEO on lending...$MSFT = cheap?..gagging on $GOOG..is cheap #natgas good for sector? + I yell at herb","lbl":"Negative"}
+,{"time":"13:26","usr":"SA_GOOG","txt":"The Google Transition http://t.co/6ofcw68D $AMZN $MMI $GOOG","lbl":"Neutral"}
+,{"time":"14:51","usr":"best_internets","txt":"Correlation of CNBC pornograpy articles to market preformance? http://t.co/5TIXsYJZ $tna $bac $goog $c $msft $bidu $ibm $axp","lbl":"Neutral"}
+,{"time":"14:55","usr":"2dayT","txt":"Short $NFLX long $GOOG","lbl":"Positive"}
+,{"time":"14:58","usr":"StockTwits","txt":"Friday links: return blindness. http://t.co/NL6hzvak via @abnormalreturns $SHLD $AAPL $GOOG $JPM $ZIV","lbl":"Neutral"}
+,{"time":"15:00","usr":"By_The_Numbers","txt":"Jan. 20: Unusual Volume Leaders http://t.co/lOvij21Q $.SPSUP $CNP $COF $GOOG $HNZ $ISRG $JCI $MSFT $NCIT $PH $SON $VMC #StockMarket","lbl":"Neutral"}
+,{"time":"15:35","usr":"$GOOG","txt":"$GOOG Draw your own conclusion. $$ http://t.co/sYqy5hAv","lbl":"Neutral"}
+,{"time":"15:36","usr":"$GOOG","txt":"Option Millionaires: UgotStocks: $GOOG 580 close nLOD\u0027s printin now http://t.co/EsI0wL2M","lbl":"Neutral"}
+,{"time":"15:36","usr":"$GOOG","txt":"Option Millionaires: gnlbigte: Bought $GOOG 615 jan 27 calls @ .35. http://t.co/kc9WRKzM","lbl":"Positive"}
+,{"time":"16:02","usr":"$GOOG","txt":"RT @TodayTrader: Dip buyers: There is a gap in $GOOG that was never filled at 559. Setting an alert for that area to watch/take action","lbl":"Negative"}
+,{"time":"16:03","usr":"$GOOG","txt":"Whenever we get a big earnings report ($GOOG) that comes in one day before option expiration, it can turn into a live or die trade.today DIE","lbl":"Negative"}
+,{"time":"16:04","usr":"$GOOG","txt":"RT @timothysykes: Everyone say thank you $GOOG http://t.co/9vf55xTj","lbl":"Positive"}
+,{"time":"17:43","usr":"SunriseTrader","txt":"@liltraderr You must trade ur plan. My opinion your wallet. I would not buy a name just before earnings $GOOG $ISRG look at those that did","lbl":"Negative"}
+,{"time":"17:43","usr":"sa_oil","txt":"2 Stocks To Watch, And What\u0027s Next For The Market http://t.co/rgH1xvOn $AAPL $AOL $ASH $BX $CA $CAR $CRM $DLTR $EBAY $F $GE $GOOG","lbl":"Neutral"}
+,{"time":"17:50","usr":"SeekingAlpha","txt":"2 Stocks To Watch, And What\u0027s Next For The Market http://t.co/M9FXNrxj $AAPL $AOL $ASH $BX $CA $CAR $CRM $DLTR $EBAY $F $GE $GOOG","lbl":"Neutral"}
+,{"time":"19:47","usr":"Avatti","txt":"MarketWatch: Three reasons not to hold Google shares http://t.co/tgkIh7zf $GOOG: MarketWatch: Three reasons not... http://t.co/EaYj2iv5","lbl":"Negative"}
+,{"time":"19:47","usr":"DJThistle","txt":"LG X3 render leaked, Tegra 3 & 4.7-inch display shown off: We\u0027ve seen quite a few quad-core Android device... http://t.co/uBceWeXS $GOOG","lbl":"Neutral"}
+,{"time":"19:47","usr":"DJThistle","txt":"Review: Antec Cleaning Spray Kit: Face it, your Android smartphone and tablet get smudged a lot. And no ... http://t.co/NLTlUf1Y $GOOG","lbl":"Negative"}
+,{"time":"19:48","usr":"lluccipha","txt":"SAI: Google Kills Photo-Sharing Service Picnik, Plus More Products $GOOG by @MattRosoff http://t.co/euiyNNMc","lbl":"Neutral"}
+,{"time":"21:46","usr":"JRNavarro75","txt":"RT @TheStreet: 7 Hot Stocks on Traders\u0027 Radars http://t.co/h0nXfX35 by @stockpickr $GOOG $STT $EBAY","lbl":"Neutral"}
+,{"time":"21:50","usr":"ediscoverygroup","txt":"RT @MarketWatch: Three reasons not to hold Google shares http://t.co/uQTzlZ1G $GOOG","lbl":"Negative"}
+,{"time":"21:58","usr":"justavo","txt":"RT @SAI: CHART OF THE DAY: Apple Is Now Twice As Valuable As Google $GOOG $AAPL by @jyarow http://t.co/CzEh23us","lbl":"Neutral"}
+]

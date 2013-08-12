@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Twitter Sentiment Index Demo";
+    ViewBag.DemoTitle = "Twitter Sentiment Index Demo";
+    ViewBag.Demosubtitle = "US Stocks";
+    ViewBag.DemoDesc = "This is some description.";
+    ViewBag.IncludeDrillDown = true;
+    Layout = "DemoLayout.cshtml";
+}
+
+@section Controls {
+<div class="controls">
+	<div class="controls-left">
+		Entity <select id="entity" class="fixpos">
+			<option value="GOOG" selected="selected">Google (GOOG)</option> 
+			<option value="AMZN">Amazon (AMZN)</option>
+		</select>
+	</div>
+	<div class="controls-right">
+		Zoom <div id="zoom" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="zoom-1m" class="btn">1m</button>
+		<button id="zoom-3m" class="btn">3m</button>
+		<button id="zoom-6m" class="btn">6m</button>
+		<button id="zoom-all" class="btn">All</button>
+		</div>&nbsp; From <div id="datepicker-from" class="input-append fixpos">
+		<input data-format="yyyy-MM-dd" type="text">
+		<span class="add-on">
+			<i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+		</span>
+		</div>&nbsp; To <div id="datepicker-to" class="input-append fixpos">
+		<input data-format="yyyy-MM-dd" type="text">
+		<span class="add-on">
+			<i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+		</span>
+		</div>
+	</div>
+</div>
+<div class="controls controls-band">
+	<div class="controls-left">
+		Upper chart <div id="uchart" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="uchart-price" class="btn active">Price</button>
+		<button id="uchart-vol" class="btn">Volume</button>
+		<button id="uchart-volatility" class="btn">Volatility</button>
+		</div>
+	</div>
+	<div class="controls-right">
+		Lower chart <div id="lchart" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="lchart-diff" class="btn active">Difference</button>
+		<button id="lchart-polar" class="btn">Polarity</button>
+		<button id="lchart-count" class="btn">Count</button>
+		</div>&nbsp; MA <div id="lchart-ma" class="btn-group fixpos" data-toggle="buttons-radio">
+		<button id="lchart-ma-none" class="btn active">None</button>
+		<button id="lchart-ma-7-day" class="btn">7-day</button>
+		<button id="lchart-ma-14-day" class="btn">14-day</button>
+		</div>
+	</div>
+</div>
+}
+
+@section Scripts {
+<script type="text/javascript">root = "@Url.Content("~/Content/data/")";</script>
+@Scripts.Render("~/Scripts/TwitterSentimentIndexDemo")
+}

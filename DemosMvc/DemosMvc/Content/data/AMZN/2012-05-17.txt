@@ -1,0 +1,22 @@
+[
+{"time":"1:02","usr":"BUDDIEE18","txt":"RT @guttrader: $AMZN needs to get out of this range. I solute the stock compared to the rest, watch out 118 support or 233 area for possible breakout up","lbl":"Positive"}
+,{"time":"6:34","usr":"HedgeyeRetail","txt":"#Einhorn should add $WMT to $AMZN as it relates to companies taking share from $DKS (a call we don\u0027t particularly agree with).","lbl":"Neutral"}
+,{"time":"6:40","usr":"Qwovadis","txt":"Commented on: \u0022Is Facebook A Destroyer?\u0022 http://t.co/8pK4Ftr1 $AMZN $GOOG $FB","lbl":"Neutral"}
+,{"time":"11:04","usr":"investorsmosaic","txt":"we\u0027ll take the under @LDrogen. $RSH had crappy stores even before $amzn destroyed all brick-and-mortar stores.","lbl":"Positive"}
+,{"time":"11:04","usr":"AronPinson","txt":"Still confused... lol! RT @valuewalk: David Einhorn\u2019s Real Thoughts on Amazon Inc ($AMZN) [Exclusive] http://t.co/h8T2GtpL $$","lbl":"Neutral"}
+,{"time":"11:46","usr":"Mark_Lexus","txt":"$AMZN still holding its post earnings channel despite market down move..still huge gap to fill though http://t.co/oNrhqx93 #WORDEN","lbl":"Negative"}
+,{"time":"11:47","usr":"rfkrishnan","txt":"Seeking analogies from #tech history for #OpenStack vs. #CloudStack approaches to $AMZN API (Replace vs. Emulate)...","lbl":"Neutral"}
+,{"time":"12:24","usr":"LazT3Live","txt":"My T3Live Mid-Day Market Update http://t.co/1y6hYkdJ Don\u0027t Try to Catch a Falling Knife $SPY $AAPL $FB $AMZN $BIDU","lbl":"Negative"}
+,{"time":"12:26","usr":"RedDogT3Live","txt":"Great insights RT @LazT3Live T3Live Mid-Day Market Update http://t.co/fIQLp9UK Don\u0027t Try to Catch a Falling Knife $SPY $AAPL $FB $AMZN $BIDU","lbl":"Neutral"}
+,{"time":"14:25","usr":"turleymuller","txt":"@Aapl_pain I hope so. $FB at this valuation is a joke. Won\u0027t stop people from buying it. Just look at $AMZN. Defies logic","lbl":"Negative"}
+,{"time":"14:27","usr":"tradeadan","txt":"$AMZN flirting with a gap fill?","lbl":"Negative"}
+,{"time":"14:28","usr":"bored2tears","txt":"Amazon to sell ads on Kindle Fire welcome screen. http://t.co/ZsjUQgu2 $AMZN -1.62% at 220.43 #stocks","lbl":"Neutral"}
+,{"time":"14:28","usr":"GFInverness","txt":"Last chance to enter our #Facebook IPO contest! Closest guess 2 the closing price gets a $100 $AMZN giftcard. Must Follow/Connect/Like 2 win","lbl":"Neutral"}
+,{"time":"15:20","usr":"ChartSwingTrade","txt":"The few charts I was watching just in case the market turned ($LF $EXPE $AMZN $FBHS $PZZA) were all hit big today. No charts at all left.","lbl":"Neutral"}
+,{"time":"16:34","usr":"MartinBalerio","txt":"Me ve 2. \u201C@SAI: HUGE: Amazon Is Selling Kindle Fire\u0027s Welcome Screen For $600K $AMZN by @elninodiablo http://t.co/05bx1FBM\u201D","lbl":"Neutral"}
+,{"time":"16:34","usr":"ischafer","txt":"Path to a free Kindle. RT @SAI: HUGE: Amazon Is Selling Kindle Fire\u0027s Welcome Screen For $600K $AMZN by @elninodiablo http://t.co/uJXQVn75","lbl":"Neutral"}
+,{"time":"16:36","usr":"TonyThomas","txt":"Hmm, ads on all Kindle Fires? We\u0027ll see. RT @SAI HUGE: Amazon Is Selling Kindle Fire\u0027s Welcome Screen For $600K $AMZN http://t.co/kGbhjTrt","lbl":"Neutral"}
+,{"time":"16:38","usr":"flipboardbiz","txt":"RT @SAI: HUGE: Amazon Is Selling Kindle Fire\u0027s Welcome Screen For $600K $AMZN by @elninodiablo http://t.co/dZwLE4f3","lbl":"Neutral"}
+,{"time":"19:23","usr":"ServerAutomatio","txt":"Awesome Scoop: $GOOG to fight $AMZN in public #cloud IaaS war: http://t.co/bbOXesHp by @derrickharris","lbl":"Negative"}
+,{"time":"21:15","usr":"a_bh_a","txt":"@kelkun @TSXSwingtrader @TimWolfgang I\u0027m so long in this market anything less than a gap up is going to kill me. $AMZN $ZNGA $OXY $TQQQ","lbl":"Neutral"}
+]

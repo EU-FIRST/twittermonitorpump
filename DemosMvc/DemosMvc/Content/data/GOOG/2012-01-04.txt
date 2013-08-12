@@ -1,0 +1,52 @@
+[
+{"time":"3:23","usr":"ReutersTech","txt":"IBM Assigns 217 More Patent Filings to Google including Wireless Phones and Javascript Widgets http://t.co/Zj2fPJq7 $IBM $GOOG","lbl":"Neutral"}
+,{"time":"3:24","usr":"luca_mac","txt":"RT @SAI: Google Is Busted For Violating Its Own Rules And Will Now Lower The Search Ranking For Chrome $GOOG by @Julie188 http://t.co/Ny16rZGN","lbl":"Negative"}
+,{"time":"3:32","usr":"westdog","txt":"RT @ReutersTech: IBM Assigns 217 More Patent Filings to Google including Wireless Phones and Javascript Widgets http://t.co/Zj2fPJq7 $IBM $GOOG","lbl":"Neutral"}
+,{"time":"7:17","usr":"hakimism","txt":"RT @SAI: Huge Web Companies Are Willing To Go Dark In Protest Of SOPA $AMZN $GOOG $YHOO $EBAY by @_dtl http://t.co/Jyj82xkq","lbl":"Neutral"}
+,{"time":"7:20","usr":"richi","txt":"@cioanywhere $GOOG for its patent portfolio (albeit a bit of an obvious answer)","lbl":"Positive"}
+,{"time":"7:24","usr":"SA_GOOG","txt":"Wall Street Breakfast: Must-Know News http://t.co/gq1x7jJI $APO $QQQ $USO $GLD $SPY $AMZN $BP $CVX $EBAY $EK $EP $GOOG $KMI $LIZ","lbl":"Neutral"}
+,{"time":"7:24","usr":"SA_Market","txt":"Wall Street Breakfast: Must-Know News http://t.co/PM0Q5RMs $APO $QQQ $USO $GLD $SPY $AMZN $BP $CVX $EBAY $EK $EP $GOOG $KMI $LIZ","lbl":"Neutral"}
+,{"time":"9:16","usr":"yigalgrayeff","txt":"Commented on: \u0022Wall Street Breakfast: Must-Know News\u0022 http://t.co/ns91cPNy $APO $QQQ $USO $GLD $SPY $AMZN $BP $CVX $EBAY $EK $EP $GOOG","lbl":"Neutral"}
+,{"time":"9:18","usr":"stocklist21","txt":"$GOOG - Google Stock Analysis - stock gap up - http://t.co/6itoYDMf","lbl":"Positive"}
+,{"time":"9:53","usr":"ManiOhli","txt":"Option Millionaires: retiredMM: In $GOOG $640 WP @ .35. http://t.co/TT2vAktq","lbl":"Positive"}
+,{"time":"9:54","usr":"lawyermarketer","txt":"RT @SAI: Google Is Busted For Violating Its Own Rules And Will Now Lower The Search Ranking For Chrome $GOOG by @Julie188 http://t.co/Ny16rZGN","lbl":"Negative"}
+,{"time":"9:58","usr":"Benzinga","txt":"$GOOG Biggest Controversy Turned Out to be a.. http://t.co/owb7tF2r","lbl":"Neutral"}
+,{"time":"10:50","usr":"GS612","txt":"$GOOG all out the 665 weekly p.","lbl":"Positive"}
+,{"time":"10:50","usr":"OptionsProfits","txt":"RT @GlennHall: Is Chrome Worth $1 Billion to Google? http://t.co/Aeunedos $GOOG","lbl":"Neutral"}
+,{"time":"10:51","usr":"SniffingNews","txt":"RT @CMEGroup: RT @nyfed_news: Forecasting with Internet Search Data http://t.co/Z0Lb0lb3 $GOOG","lbl":"Neutral"}
+,{"time":"11:13","usr":"SA_GOOG","txt":"What To Expect From Salesforce, VMWare And Google In 2012 http://t.co/BnyVMHiF $IBM $GOOG $VMW $ORCL $CRM $MSFT","lbl":"Neutral"}
+,{"time":"11:13","usr":"SA_MSFT","txt":"What To Expect From Salesforce, VMWare And Google In 2012 http://t.co/e7a2GFbh $IBM $GOOG $VMW $ORCL $CRM $MSFT","lbl":"Neutral"}
+,{"time":"11:14","usr":"TRADER1970","txt":"out of remaining shorts.. bouncing lead by $QQQ precisely some retail onliners and $GOOG, $AAPL getting some green","lbl":"Negative"}
+,{"time":"11:14","usr":"Minyanville","txt":"Four Stocks Starting 2012 With Strength, by @TopProsTopPicks http://t.co/dXI7Kw0k $AAPL $APL $GOOG $CMG","lbl":"Positive"}
+,{"time":"11:54","usr":"lockingprofits","txt":"$aapl is cool $goog is cool however $pcln has the clear path to $500","lbl":"Positive"}
+,{"time":"11:56","usr":"einfeldt","txt":"RT @TheStreet: Is $GOOG Chrome worth $1 Billion? by @robthestreet http://t.co/jDOmthwp","lbl":"Neutral"}
+,{"time":"11:57","usr":"MNYCx","txt":"$GOOG Weekly Options are attractive, can move very very fast. Even if you don\u0027t have a perfect entry, it can be still effective","lbl":"Neutral"}
+,{"time":"11:58","usr":"richriker","txt":"$GOOG trading at $666! has to scare someone with that handle!","lbl":"Neutral"}
+,{"time":"12:36","usr":"stoleyourmoney","txt":"$GOOG & $AAPL SHOWING STRENGTH!","lbl":"Positive"}
+,{"time":"12:38","usr":"DarvasTrader","txt":"$GOOG just a monster, hitting new highs again.","lbl":"Positive"}
+,{"time":"12:39","usr":"AlbertS_NY","txt":"Have to admit, wanted $aaple to open lower so I can add some more. Patience grasshoppaaaaa $spy $aapl $goog $es_f","lbl":"Positive"}
+,{"time":"12:39","usr":"StockTwits50","txt":"St50 stocks at new 52week high today: $FTK $KOG $BKI $GOOG","lbl":"Positive"}
+,{"time":"13:04","usr":"DiscoverWallSt","txt":"uranium-pinto-beans: $GOOG $670: uranium-pinto-beans http://t.co/hfImfFoW","lbl":"Neutral"}
+,{"time":"13:04","usr":"DiscoverWallSt","txt":"KillerSquid: $GOOG defying gravity, oberbought on all my stuff: KillerSquid http://t.co/khzLRATO","lbl":"Positive"}
+,{"time":"13:05","usr":"RoccoPendola","txt":"2 Media Stocks To Avoid, 3 To Consider - Seeking Alpha http://t.co/IkcYyc99 $AAPL $AMZN $ATVI $DMD $GOOG $NFLX $S $T $ZNGA #media #Apple","lbl":"Neutral"}
+,{"time":"13:06","usr":"BradHogan","txt":"RT @businessinsider: NY Fed Reveals How To Predict Economic Data Before They\u0027re Published $GOOG by @@rjwile http://t.co/vZvriQS3","lbl":"Neutral"}
+,{"time":"13:46","usr":"NBardta","txt":"RT @howardlindzon: so nervous that everytime I trade $goog I will trade $gogo, but if they merged would it be gogogoog or googgogo ?","lbl":"Neutral"}
+,{"time":"13:47","usr":"LaMonicaBuzz","txt":"$GOOG up a little bit this afternoon. Hit new 52-week high of $670. Will this hit $700 after earnings report later this month?","lbl":"Positive"}
+,{"time":"13:47","usr":"iJustReally","txt":"@dimeetrees start trading options on bigboy stocks $AAPL $GOOG etc. NFLX had some sick range today. didnt trade it unfortunately","lbl":"Neutral"}
+,{"time":"13:50","usr":"MNYCx","txt":"@i_like_bb_stock uhm, i went in yesterday on highs and said half gap in $SPY would be filled which it did. But didn\u0027t expect $GOOG up much","lbl":"Neutral"}
+,{"time":"14:31","usr":"StockTwits","txt":"Dollar vs. euro: Battle of currency chumps http://t.co/os5vDGgS via @LaMonicaBuzz $YHOO $EBAY $GOOG $AOL","lbl":"Neutral"}
+,{"time":"14:32","usr":"stocial","txt":"60 minute Trending Social Volume: $EK/152, $AAPL/46, $SPY/39, $NFLX/36, $LULU/22, $DIS/18, $GOOG/17, $CMCSA/17. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:35","usr":"bbroke7","txt":"RT @SAI: 17 Excellent Google Chrome Apps You Need To Download $GOOG by @hamburger http://t.co/IanGqwwM","lbl":"Neutral"}
+,{"time":"15:33","usr":"MNYCx","txt":"$GOOG red, weakening more and more","lbl":"Negative"}
+,{"time":"15:33","usr":"CallaLilly101","txt":"RT @bridger_w: Yahoo appointed a new CEO. I don\u0027t know his name, but feel free to google it. $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"15:34","usr":"mkultra5000","txt":"@VMSValueBot $AAPL $F $GOOG","lbl":"Neutral"}
+,{"time":"16:25","usr":"WallStWatchDog","txt":"12 Large-Cap Stocks that Have Hit 52-Week Highs for Jan 4th http://t.co/UMYftnN2 $GOOG $ISRG $CLR $CP $CVS $EC $EPD $HD $NKE $PHI","lbl":"Positive"}
+,{"time":"17:28","usr":"lluccipha","txt":"SAI: Android Ice Cream Sandwich\u0027s Pitiful Numbers So Far $GOOG by @stevekovach http://t.co/ijNKVSFA","lbl":"Negative"}
+,{"time":"18:50","usr":"JohnPurdum","txt":"@The_Analyst Been crunching nbrs on $GOOG and that guys chart may not be 2 far off. I estimate $GOOG opens on 01/20/12 at btwn ($750-$775)","lbl":"Positive"}
+,{"time":"19:01","usr":"SJosephBurns","txt":"RT @Fitzstock2004:why the lack of posts/ideas?Well,I am only posting what works & pays, & u DO NOT need to go outside $aapl & $goog (winner","lbl":"Neutral"}
+,{"time":"19:02","usr":"stocial","txt":"Daily Trending Social Volume: $AAPL/405, $SPY/353, $NFLX/320, $EK/246, $YHOO/243, $GOOG/189, $LULU/158. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"22:29","usr":"Mark4124NH","txt":"RT @SeekingAlpha: 5 Investment Themes For 2012 http://t.co/s0wlPj73 $CORN $CF $POT $MOS $AGU $TNH $UAN $FIO $RVBD $CTXS $FFIV $AAPL $GOOG $QCOM","lbl":"Neutral"}
+,{"time":"22:33","usr":"bettertrade5","txt":"$GOOG - Google Stock Analysis - volume up over 5% - http://t.co/Rv54LEO8","lbl":"Neutral"}
+,{"time":"22:36","usr":"SAI_Tools","txt":"Crazy Rumor: Google Is Working On A 7-Inch Tablet Priced To Beat The Kindle Fire $GOOG by @stevekovach http://t.co/iLM75AjX","lbl":"Positive"}
+,{"time":"22:36","usr":"SAI","txt":"Crazy Rumor: Google Is Working On A 7-Inch Tablet Priced To Beat The Kindle Fire $GOOG by @stevekovach http://t.co/jcU7SU8i","lbl":"Neutral"}
+]

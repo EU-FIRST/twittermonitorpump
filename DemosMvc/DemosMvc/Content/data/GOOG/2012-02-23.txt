@@ -1,0 +1,40 @@
+[
+{"time":"2:20","usr":"CliffordWolff","txt":"STARTING TO MAKE SENSE; #YOUTUBE CHANNELS, $GOOG FIBER: Google is exploring pay-TV service in Kansas City http://t.co/fOwFzhny","lbl":"Positive"}
+,{"time":"2:35","usr":"jimcramersucks","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/JYwway5N #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"2:36","usr":"takingstock614","txt":"I\u0027m crazy but I\u0027m short $AAPL & $GOOG here. Well defined stops at recent high and 50DMA on $GOOG.","lbl":"Negative"}
+,{"time":"8:15","usr":"terranovajoe","txt":"Here are the positions LONGS $IBM, $HPQ, $MCD, $EMC, $OXY, $SBUX, $TBT, $FXE, $LQD SHORTS $AAPL $GOOG","lbl":"Negative"}
+,{"time":"8:15","usr":"rechtsteiner","txt":"Changes afoot w/ the $GOOG eBookstore affiliate model? http://t.co/4JuJi9Cv & http://t.co/cnLwzqOS #ACW","lbl":"Neutral"}
+,{"time":"8:17","usr":"SJosephBurns","txt":"I am going into this morning long $AAPL with calls, short $GOOG with puts, and short $AMZN stock. This should be interesting, today.","lbl":"Negative"}
+,{"time":"8:17","usr":"dschorrnyc","txt":"@terranovajoe where will you stop out of your $aapl & $goog shorts?","lbl":"Negative"}
+,{"time":"9:36","usr":"dschorrnyc","txt":"I get the feeling $GOOG will break below $600","lbl":"Negative"}
+,{"time":"9:36","usr":"carmelsurfer","txt":"$GOOG...watch the 600 level for a bounce","lbl":"Neutral"}
+,{"time":"10:11","usr":"ZisblU4U","txt":"niteyNight Obama .. did i see an OPT-IN PRIVACY SCHEME FROM $GOOG ??","lbl":"Neutral"}
+,{"time":"11:02","usr":"parthadhia","txt":"Five Apps That Would Get Me To Put On Google\u0027s Weird New Computer Glasses $GOOG by http://t.co/WgUK6atC","lbl":"Positive"}
+,{"time":"11:04","usr":"tpf","txt":"RT @SAI: You Do Realize That Google\u0027s Attack On The TV Industry Could Hose Its Investors... $AAPL $GOOG by @hblodget http://t.co/bQ9LSCSJ","lbl":"Neutral"}
+,{"time":"11:50","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $GOOG attempting to break pivot level....big test area http://t.co/0NgTbfJj","lbl":"Positive"}
+,{"time":"11:50","usr":"ManiOhli","txt":"Option Millionaires: uranium-pinto-beans: $GOOG!!! CMON LETS GOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!! http://t.co/WWVc1khJ","lbl":"Neutral"}
+,{"time":"11:51","usr":"ReddyCapital","txt":"RT @GreenCrestCap: #LinkedIn acquires #Rapportive, which makes a plug-in that integrates social media features into gmail contacts. $LNKD $GOOG","lbl":"Neutral"}
+,{"time":"12:59","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: madrose1: $GOOG had lot of probs getting up http://t.co/gvIrv3fu","lbl":"Neutral"}
+,{"time":"13:01","usr":"TheOptimalPoint","txt":"RT @SAI: No Surprise: Google Music Is A Flop $GOOG by @MattRosoff http://t.co/o1wX01va","lbl":"Neutral"}
+,{"time":"13:01","usr":"thefinancepress","txt":"$GOOG No Surprise: Google Music Is A Flop (GOOG): No Surprise: Google Music Is A Flop (GOOG) San Francisco Chro... http://t.co/v9r1IiTw","lbl":"Neutral"}
+,{"time":"13:34","usr":"andreasojoeda","txt":"RT @BloombergNews: BREAKING: Google said to pick Dennis Woodside as Motorola Mobility CEO | http://t.co/CNpfDT3d $GOOG","lbl":"Positive"}
+,{"time":"13:34","usr":"yschreiber","txt":"RT @SAI: Google Just Picked This Guy To Run Motorola $GOOG by @mattlynley http://t.co/fFBMcan6","lbl":"Neutral"}
+,{"time":"13:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/152, $SPY/57, $VVUS/44, $GOOG/29, $SLV/21, $GLD/21, $TLT/16, $CRM/14. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:15","usr":"rechtsteiner","txt":"Waiting out the $GOOG TV in KC thread. A long way to go as they don\u0027t have any programming lined up. http://t.co/Ici4RsC2 #ACW","lbl":"Neutral"}
+,{"time":"14:17","usr":"RedTheRabbit","txt":"RT @ritholtz: Web Firms to Adopt \u0027No Track\u0027 Button http://t.co/Nht7A9qK via @WSJ $GOOG $$","lbl":"Neutral"}
+,{"time":"14:17","usr":"RoccoPendola","txt":"Apple About To Crush RIM In Its Own Backyard - Seeking Alpha http://t.co/tm1WEJJW $AAPL $GOOG $RIMM #Apple #BlackBerry #RIM #Android","lbl":"Neutral"}
+,{"time":"14:59","usr":"lluccipha","txt":"SAI: Here\u0027s How YouTube Is Spending $500 Million On Its New Channels $GOOG by @KTLincoln http://t.co/VRcCTAdo","lbl":"Neutral"}
+,{"time":"15:02","usr":"S_H_Law","txt":"RT @businessinsider: Here\u0027s How YouTube Is Spending $500 Million On Its New Channels $GOOG by @KTLincoln http://t.co/fwcc4UbP","lbl":"Neutral"}
+,{"time":"15:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/204, $GOOG/43, $SPY/35, $VVUS/24, $SLV/20, $GLD/18, $USO/16, $WPRT/14. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"16:20","usr":"SeekingAlpha","txt":"Billionaire Paul Tudor Jones\u0027s Top Stock Picks http://t.co/m2hXr4yn $AAPL $EOG $T $VZ $FXI $CHK $CTL $GOOG $LINTA $DVN","lbl":"Neutral"}
+,{"time":"16:22","usr":"kngbn97","txt":"RT @SAI: Hey Android Users: This Guy Is Giving You 50GB Of Free Online Storage $GOOG by @mattlynley http://t.co/okyjA1sK","lbl":"Neutral"}
+,{"time":"16:23","usr":"rohithkm","txt":"RT @SAI: Hey Android Users: This Guy Is Giving You 50GB Of Free Online Storage $GOOG by @mattlynley http://t.co/okyjA1sK","lbl":"Neutral"}
+,{"time":"17:23","usr":"johndavidadams","txt":"@toddmyers11 MT Ex-Googler: New York Googlers Were \u0027Like The Red-Headed Step Children Of Mountain View\u0027 $GOOG http://t.co/aPTY9d0J","lbl":"Neutral"}
+,{"time":"17:25","usr":"hoffmanndaniel","txt":"RT @HolgerSchmidt: No Surprise: Google Music Is A Flop $GOOG by @MattRosoff http://t.co/l9tO8IP8 (via @SAI)","lbl":"Negative"}
+,{"time":"17:28","usr":"DigitalEcon","txt":"RT @BloombergNews: Google to replace Motorola Mobility CEO | http://t.co/NV4A0Y8I $GOOG","lbl":"Neutral"}
+,{"time":"17:28","usr":"lluccipha","txt":"SAI: Ex-Googler: New York Googlers Were \u0027Like The Red-Headed Step Children Of Mountain View\u0027 $GOOG by @mattlynley http://t.co/qwlEK5ED","lbl":"Neutral"}
+,{"time":"19:37","usr":"Fuelnu","txt":"RT @MadMoneyOnCNBC: OpenTable CEO on Comeback http://t.co/b020uGgs $GOOG $OPEN #StockPicks #StockMarket","lbl":"Neutral"}
+,{"time":"19:38","usr":"timtrading123","txt":"@WilliamK82 - for long term trade, I only invest in stocks that I know of in the technology fields, only invest in $GOOG and $AAPL.","lbl":"Neutral"}
+,{"time":"19:43","usr":"nextgenCIO","txt":"RT @SAI: CHART OF THE DAY: Microsoft\u0027s Windows Compared To iOS And Android $AAPL $MSFT $GOOG by @jyarow http://t.co/IMl8HpUq","lbl":"Neutral"}
+,{"time":"19:50","usr":"ValaAfshar","txt":"The smartphone revolution is over (for now) http://t.co/7hpCWEov @fastcompany > radical redesign of iPhone 5 | $AAPL $GOOG $MSFT","lbl":"Neutral"}
+]

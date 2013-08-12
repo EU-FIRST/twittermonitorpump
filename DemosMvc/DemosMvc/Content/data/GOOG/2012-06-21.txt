@@ -1,0 +1,38 @@
+[
+{"time":"3:45","usr":"optionspunk","txt":"Generally speaking this is how I make investment decisions. $$ $SPY $bidu $goog $JPM $ge $iwm #stocks http://t.co/MFDMfTS5","lbl":"Neutral"}
+,{"time":"3:53","usr":"JNWeisbord","txt":"RT @SeekingAlpha: Global Patent Wars Intensify In 2012 http://t.co/WaDXQM2T $AAPL $AOL $CSCO $GOOG $MITL $MSFT $NEON $NIPNF.PK $SI $TGT $VHC $VRNG","lbl":"Negative"}
+,{"time":"3:53","usr":"Loh","txt":"$AAPL\u0027s \u0022hardware company\u0022 passes $MS\u0027s \u0022software company\u0022 & $GOOG\u0027s \u0022services company\u0022 in operating margin percentage: http://t.co/PHWJq37O","lbl":"Neutral"}
+,{"time":"6:56","usr":"EmpowerWithJim","txt":"RT @mcilderman Will #Apple #Buy Into 3D Printing? http://t.co/J99GUaI5 $AAPL $GOOG $MSFT #amazon #MAC #share #iPad #iPhone","lbl":"Neutral"}
+,{"time":"7:01","usr":"mcilderman","txt":"RT @BizYolk: RT @mcilderman Will #Apple #Buy Into 3D Printing? http://t.co/tl0jewcb $AAPL $GOOG $MSFT #amazon #MAC #share #iPad #iPhone","lbl":"Neutral"}
+,{"time":"7:02","usr":"Dividend_Lover","txt":"RT @BizYolk: RT @mcilderman Will #Apple #Buy Into 3D Printing? http://t.co/tl0jewcb $AAPL $GOOG $MSFT #amazon #MAC #share #iPad #iPhone","lbl":"Neutral"}
+,{"time":"8:36","usr":"BanzaiTrader","txt":"filled more $GOOG 470 July puts @.65","lbl":"Negative"}
+,{"time":"8:36","usr":"CTMMagazine","txt":"RT @cnbctopstories: Stocks Edge Higher at Open; Utilities, Banks Up http://t.co/7lgbr8iX $.FTEU3 $AAPL $BBY $CAG $CELG $GOOG $JNJ $MSI...","lbl":"Neutral"}
+,{"time":"8:39","usr":"mcilderman","txt":"Is #Apple Gonna Buy into #3DPrinting ?http://t.co/WCzo3zjJ $AAPL $AMZN #amazon $MSFT $GOOG #Mac #3dp #reprap @andersen","lbl":"Neutral"}
+,{"time":"8:39","usr":"RoccoPendola","txt":"RT @mcilderman: Is #Apple Gonna Buy into #3DPrinting ?http://t.co/WCzo3zjJ $AAPL $AMZN #amazon $MSFT $GOOG #Mac #3dp #reprap @andersen","lbl":"Neutral"}
+,{"time":"9:23","usr":"choffman1978","txt":"$ACUR TREE SHAKE - CAREFUL! !#cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"9:24","usr":"choffman1978","txt":"$IPCI headed to $5 on data news #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"9:26","usr":"FairOaksTrader","txt":"Long $TCBI, added shorts for $MS and $GOOG today. (could not short $DECK with my broker - dammit)","lbl":"Negative"}
+,{"time":"9:58","usr":"choffman1978","txt":"$YMI talking with partners!!!!#cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"10:00","usr":"choffman1978","txt":"$BPAX running!!!! #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"10:01","usr":"racernic","txt":"$ORCL decided to settle w/$goog for: $0. yep. all this and now nothing! Who won here? you got it: lawyers","lbl":"Neutral"}
+,{"time":"12:07","usr":"SAI","txt":"This Is What Happens When Twitter Goes Down $GOOG by @jyarow http://t.co/fI43d4Ig","lbl":"Neutral"}
+,{"time":"12:34","usr":"Missthenet","txt":"RT @howardlindzon: It may not work financially, but it\u0027s great to see $goog and $msft putting up the good fight in the phone and tablet wars...consumers win","lbl":"Negative"}
+,{"time":"12:36","usr":"studuncan","txt":"RT @turleymuller: \u221E Android app can steal credit card data $GOOG http://t.co/eaVLsvYa","lbl":"Neutral"}
+,{"time":"12:37","usr":"michaeljfine","txt":"RT @howardlindzon: It may not work financially, but it\u0027s great to see $goog and $msft putting up the good fight in the phone and tablet wars...consumers win","lbl":"Negative"}
+,{"time":"14:08","usr":"mcilderman","txt":"Will #Apple Buy into 3D Printing http://t.co/WCzo3zjJ $AAPL $AMZN #Amazon $MSFT $GOOG #google #Mac #iPhone #tech","lbl":"Neutral"}
+,{"time":"14:10","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 6000 shares \u2611","lbl":"Negative"}
+,{"time":"14:11","usr":"mithuhassan","txt":"RT @mcilderman: Will #Apple Buy into 3D Printing http://t.co/WCzo3zjJ $AAPL $AMZN #Amazon $MSFT $GOOG #google #Mac #iPhone #tech","lbl":"Neutral"}
+,{"time":"14:11","usr":"joshpritchard","txt":"tempted to add $NVDA July $12 calls at ~$1.15 going into $GOOG IO next week, though $GOOG Nexus tab design win for Tegra 3 may be priced in","lbl":"Positive"}
+,{"time":"14:49","usr":"TweetLeni","txt":"Taking some profits in tech shorts $GOOG $VMW $LNKD $EBAY","lbl":"Positive"}
+,{"time":"14:51","usr":"AlliedInvestors","txt":"RT @tweetleni: Taking some profits in tech shorts $GOOG $VMW $LNKD $EBAY","lbl":"Neutral"}
+,{"time":"16:19","usr":"tlmontana","txt":"RT @StockTwits: What\u0027s up with Google\u0027s plan to split its stock http://t.co/wnYB2jrF $GOOG","lbl":"Positive"}
+,{"time":"16:25","usr":"hohensteinken","txt":"RT @StockTwits: What\u0027s up with Google\u0027s plan to split its stock http://t.co/qeaUhHul $GOOG","lbl":"Neutral"}
+,{"time":"18:09","usr":"RevampYourMind1","txt":"RT @mcilderman: Will #Apple Buy into #3DPrinting? http://t.co/WCzo3zjJ $AAPL $AMZN #Amazon $MSFT $GOOG #technology #investing","lbl":"Neutral"}
+,{"time":"18:11","usr":"ADVFNplc","txt":"$GOOG - Google Stock Split Held Up by Litigation http://t.co/RlREm48M","lbl":"Neutral"}
+,{"time":"18:11","usr":"thefinancepress","txt":"$GOOG Google Stock Split Held Up by Litigation: Google Stock Split Held Up by Litigation NASDAQ - 5 minutes ago... http://t.co/mBfBmwLh","lbl":"Negative"}
+,{"time":"18:13","usr":"lluccipha","txt":"SAI: Google Is Pushing Enterprises To Ditch Windows And Try Chrome OS $GOOG by @Julie188 http://t.co/0tbNG1gx","lbl":"Neutral"}
+,{"time":"22:19","usr":"ThembeK","txt":"RT @turleymuller: \u221E Android app can steal credit card data $GOOG http://t.co/eaVLsvYa","lbl":"Neutral"}
+,{"time":"22:29","usr":"BigTicks","txt":"$GOOG News: Whitman Capital Founder Loses Bid to Dismiss Indictment http://t.co/idUi1XAo #GOOG #Capital #Dismiss","lbl":"Neutral"}
+,{"time":"22:33","usr":"wavestock","txt":"Which stock should I buy? $GOOG or $AAPL - Price / Free Cash Flow : http://t.co/j7rAZ7mU - 15.44 vs 12.11 - http://t.co/5DO9RFy8","lbl":"Neutral"}
+,{"time":"22:35","usr":"chrispycrunch","txt":"Microsoft\u2019s Dilemma | http://t.co/ivlejpWW | $MSFT $GOOG || $HPQ $DELL","lbl":"Neutral"}
+]

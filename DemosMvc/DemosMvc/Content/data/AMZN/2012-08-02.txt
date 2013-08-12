@@ -1,0 +1,13 @@
+[
+{"time":"7:55","usr":"angryspeculator","txt":"@Makro_Trader friend I feel bad for u. U k ow this market is going to shit but u watch every move like a paranoid creep $cat $aapl $amzn","lbl":"Neutral"}
+,{"time":"9:11","usr":"RedDogT3Live","txt":"My go to stocks green $AAPL $GOOG $amzn $bidu. $eBay. So far, some nice tactics today. $sbux also a bottom feeder trade","lbl":"Positive"}
+,{"time":"10:00","usr":"LinkedInToday","txt":"\u0022Amazon\u0027s model is its own worst enemy.\u0022 Rakuten CEO\u0027s retailer-friendly approach to destroy the ecommerce giant http://t.co/pNlGoER3 $AMZN","lbl":"Negative"}
+,{"time":"11:19","usr":"sspencer_smb","txt":"@kaylatausche @herbgreenberg herb is not crazy. high end electronics is a HUGE market for those who prefer to \u0022touch\u0022. $AMZN","lbl":"Neutral"}
+,{"time":"11:25","usr":"DeidreZune","txt":"Don\u0027t ignore strength in select stocks even as market declines. Stocks that will outperform $AAPL $GOOG $AMZN. Buy the dips. Scale in.","lbl":"Positive"}
+,{"time":"14:27","usr":"adamnash","txt":"Watching all the news coverage about $FB today reminds me so much of the $AMZN coverage in 2001. http://t.co/2IybNKYp;","lbl":"Neutral"}
+,{"time":"14:28","usr":"gvilletech","txt":"RT @adamnash: Watching all the news coverage about $FB today reminds me so much of the $AMZN coverage in 2001. http://t.co/2IybNKYp;","lbl":"Neutral"}
+,{"time":"14:29","usr":"tomwilliams","txt":"RT @adamnash: Watching all the news coverage about $FB today reminds me so much of the $AMZN coverage in 2001. http://t.co/2IybNKYp;","lbl":"Neutral"}
+,{"time":"14:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:17pm: 230.5199 -1.5701 (-0.68%).","lbl":"Negative"}
+,{"time":"15:31","usr":"ErinTeague","txt":"RT @adamnash: Watching all the news coverage about $FB today reminds me so much of the $AMZN coverage in 2001. http://t.co/2IybNKYp;","lbl":"Neutral"}
+,{"time":"22:22","usr":"jtemujinw","txt":"RT @rakeshlobster: In the last year, $EBAY has way outperformed $GOOG $AMZN $FB $GRPN.","lbl":"Neutral"}
+]

@@ -1,0 +1,64 @@
+[
+{"time":"5:50","usr":"SeekingAlpha","txt":"Wall Street Breakfast: Must-Know News http://t.co/3XG9EUVy $MCD $SPY $QQQ $LVS $MGM $WYNN $HPQ $AAPL $GOOG $TSLA $AMZN $ROVI $UL","lbl":"Neutral"}
+,{"time":"6:05","usr":"bernadettebaum","txt":"Google warns job cuts at Motorola Mobility unit to cost $340 million in third quarter, more restructuring to come http://t.co/A2cMfsOD $GOOG","lbl":"Negative"}
+,{"time":"7:59","usr":"dmackdaddy","txt":"Google warns job cuts will cost Motorola $340 million http://t.co/FkabJyWC $GOOG","lbl":"Negative"}
+,{"time":"8:44","usr":"TradeEducation","txt":"http://t.co/wbaxIMzR $900.00 profit in $GOOG $900 trade in 9 minutes, great execution on $GOOG options","lbl":"Neutral"}
+,{"time":"8:45","usr":"takingstock614","txt":"$GOOG still remains strong. Just biding time before lift off to 800.","lbl":"Positive"}
+,{"time":"8:46","usr":"thefinancepress","txt":"$GOOG Three Google Inc. (NASDAQ: GOOG) Android Developers Think The Rumored ...: Three Google Inc. (NASDAQ: GOO... http://t.co/WbJRqNPW","lbl":"Neutral"}
+,{"time":"8:46","usr":"SPEQL8R","txt":"$GOOG looks lower to me but then again mo mo loves it","lbl":"Negative"}
+,{"time":"9:12","usr":"bacellarjose","txt":"RT @ConfidentInvest: RT @ConfidentInvest: Invest in cloud computing with these 4 companies http://t.co/0fM4a01H $AMZN $GOOG $EBAY $AKAM","lbl":"Positive"}
+,{"time":"9:12","usr":"HFTAlert","txt":"longer term $goog Accumulator continues to look great. $spy $aapl http://t.co/1GFtozZm","lbl":"Positive"}
+,{"time":"9:12","usr":"petergo99037185","txt":"@lroberts411 $GOOG not acting right, AGAIN","lbl":"Negative"}
+,{"time":"9:25","usr":"Fitzstock2004","txt":"btw,,,,if u bot 766 in $goog, i would take your +2 and scale it vs b/e, and re-enter only above highs....GL","lbl":"Neutral"}
+,{"time":"9:26","usr":"Perihal","txt":"RT @SAI: RT @SAI: Google Maps Street View Now Works On The iPhone $GOOG $AAPL by @stevekovach http://t.co/TdRH6s7B","lbl":"Neutral"}
+,{"time":"9:26","usr":"referohu","txt":"Reuters: Google warns of more Motorola cuts, revises up third-quarter bill http://t.co/XFxX930S $GOOG: Reuters:... http://t.co/ZlT0TQBr","lbl":"Negative"}
+,{"time":"9:26","usr":"HamzeiAnalytics","txt":"RT @Reuters: RT @Reuters: Google warns of more Motorola cuts, revises up third-quarter bill http://t.co/VbyZjuhz $GOOG","lbl":"Negative"}
+,{"time":"9:52","usr":"FoxBusiness","txt":"Google\u2019s Motorola Mobility may cut more jobs than the 4,000 it previously announced http://t.co/6RqAbXkL $GOOG","lbl":"Negative"}
+,{"time":"9:53","usr":"RealCrystalBall","txt":"Google\u0027s Motorola Mobility may cut more jobs than the 4,000 it previously announced http://t.co/bsm8IYB4 $GOOG #Stocks","lbl":"Negative"}
+,{"time":"9:53","usr":"novicetrader88","txt":"RT @z8angela: RT @z8angela: $GOOG topped out again. Don\u0027t chase here.","lbl":"Negative"}
+,{"time":"9:53","usr":"pisarczy","txt":"RT @FoxBusiness: Google\u2019s Motorola Mobility may cut more jobs than the 4,000 it previously announced http://t.co/mFymjjXt $GOOG","lbl":"Neutral"}
+,{"time":"10:14","usr":"MontagueConsult","txt":"RT @FoxBusiness: RT @FoxBusiness: Google\u2019s Motorola Mobility may cut more jobs than the 4,000 it previously announced http://t.co/6RqAbXkL $GOOG","lbl":"Negative"}
+,{"time":"10:16","usr":"takingstock614","txt":"Id add to $GOOG $AAPL $AMZN $MA on any DIP.","lbl":"Neutral"}
+,{"time":"10:17","usr":"blu911","txt":"RT @BloombergTV: RT @BloombergTV: What stocks are you watching? Here are BTV\u0027s top ten of the day: http://t.co/zxHQs2jn $KSS $BA $GOOG $TEVA $MMM $T $AOL ...","lbl":"Neutral"}
+,{"time":"10:17","usr":"canadadan","txt":"Starting $GOOG with a Oct12 750 Call...BTFD","lbl":"Positive"}
+,{"time":"10:57","usr":"thinkingtrades","txt":"I have no doubt, in this market that means for the next few milli seconds, that $GOOG has made up its mind to go much higher.","lbl":"Positive"}
+,{"time":"10:59","usr":"RobotCowboyATX","txt":"$VRNG v $GOOG makes me consider the viability of making a hedgefund that bets on patent litigation outcomes.","lbl":"Neutral"}
+,{"time":"11:27","usr":"pengovsky","txt":"RT @AndrejRavnikar: RT @AndrejRavnikar: The Forgotten Mapmaker: Nokia Has Better Maps Than Apple and Maybe Even Google $NOK $GOOG $AAPL http://t.co/12SM0oik","lbl":"Negative"}
+,{"time":"11:29","usr":"numberonetell","txt":"Trailed a stop on $AMZN to take me out with a small profit, but I am gonna let $GOOG run since it seems to be the tech winner today. $QQQ","lbl":"Positive"}
+,{"time":"11:31","usr":"cwilhel11","txt":"$GOOG HOD retest","lbl":"Positive"}
+,{"time":"12:06","usr":"SAI_Tools","txt":"Google May Launch Several Android Phones Soon To Take On The iPhone 5 Over The Holidays $GOOG by @stevekovach http://t.co/HMqAMkMA","lbl":"Neutral"}
+,{"time":"12:06","usr":"SAI","txt":"Google May Launch Several Android Phones Soon To Take On The iPhone 5 Over The Holidays $GOOG by @stevekovach http://t.co/45MXDaAB","lbl":"Neutral"}
+,{"time":"12:26","usr":"Dmottco","txt":"$goog cup and fucking handle......?","lbl":"Neutral"}
+,{"time":"12:28","usr":"tentativenytes","txt":"RT @SAI: RT @SAI: Google May Launch Several Android Phones Soon To Take On The iPhone 5 Over The Holidays $GOOG by @stevekovach http://t.co/45MXDaAB","lbl":"Positive"}
+,{"time":"12:29","usr":"MauriciosTweets","txt":"RT @SAI Google May Launch Several Android Phones Soon To Take On The iPhone 5 Over The Holidays $GOOG by @stevekovach http://t.co/XnoOB2op","lbl":"Neutral"}
+,{"time":"13:06","usr":"Goodlett","txt":"Thx @maryjofoley on Oct29th date for $MSFT #WP8 mobile phone launch - now just need US carrier dates! http://t.co/S9SQhUKR $GOOG $AAPL $NOK","lbl":"Neutral"}
+,{"time":"13:06","usr":"joey_volpe","txt":"$AMZN and $GOOG are on a tear!","lbl":"Negative"}
+,{"time":"13:07","usr":"hovastocks","txt":"\u0022@SAI: Watch Out, Yelp: Facebook Is Thinking About Restaurant Reviews $FB $YELP $GOOG by @owenthomas http://t.co/ZOkPrIlq\u0022","lbl":"Neutral"}
+,{"time":"13:07","usr":"hovastocks","txt":"RT @SAI: RT @SAI: Watch Out, Yelp: Facebook Is Thinking About Restaurant Reviews $FB $YELP $GOOG by @owenthomas http://t.co/O9wKSVTR","lbl":"Neutral"}
+,{"time":"13:36","usr":"julpepitone","txt":"RT @LaMonicaBuzz: RT @LaMonicaBuzz: $GOOG up again. New all-time high is now $767.81. But stock might be at $1000 already if only Google+ had 1B users! #s ...","lbl":"Positive"}
+,{"time":"13:36","usr":"elguary","txt":"RT @Reuters: RT @Reuters: Google settles with publishers over digital books http://t.co/xuY5PvXe $GOOG","lbl":"Positive"}
+,{"time":"13:36","usr":"racernic","txt":"any guesses on $GOOG earns? prems not showing them on 11th. showing oct opex but not in 10/12 weeklies","lbl":"Neutral"}
+,{"time":"13:36","usr":"pjhoody","txt":"RT @LaMonicaBuzz: RT @LaMonicaBuzz: $GOOG up again. New all-time high is now $767.81. But stock might be at $1000 already if only Google+ had 1B users! #s ...","lbl":"Positive"}
+,{"time":"14:02","usr":"NorthmanTrader","txt":"@smartertrader only 3? go my, $GOOG should be at $1,000 then..","lbl":"Neutral"}
+,{"time":"15:00","usr":"Fitzstock2004","txt":"$goog should retest 766 break out early tomorrow.........will get long, only on a break of todays highs.......","lbl":"Positive"}
+,{"time":"15:00","usr":"SJosephBurns","txt":"I am still holding $GOOG call options long.","lbl":"Positive"}
+,{"time":"15:02","usr":"macroQmicro","txt":"$GOOG close - you know what!","lbl":"Neutral"}
+,{"time":"15:29","usr":"NataliyaNLR","txt":"RT @CNNMoney: RT @CNNMoney: Google strikes deal with publishers over universal library http://t.co/LYhql2GX $GOOG","lbl":"Positive"}
+,{"time":"15:30","usr":"WayneHall","txt":"RT @StockTwits: RT @StockTwits: RT @BloombergTV Users spent 314 billion minutes on $FB in August, more than $GOOG & $MSFT sites combined.","lbl":"Neutral"}
+,{"time":"15:30","usr":"wallstCS","txt":"Tech Business Recap: AT&T Backs The Lumia 920, Facebook\u0027s Billion Active Users http://t.co/xp5GLBBP $T $NOK $FB $P $GOOG #mkt","lbl":"Neutral"}
+,{"time":"15:30","usr":"speedupmark","txt":"RT @CNNMoney: RT @CNNMoney: Google strikes deal with publishers over universal library http://t.co/LYhql2GX $GOOG","lbl":"Neutral"}
+,{"time":"15:55","usr":"survivor977","txt":"RT @CNNMoney: RT @CNNMoney: Google strikes deal with publishers over universal library http://t.co/LYhql2GX $GOOG","lbl":"Positive"}
+,{"time":"15:56","usr":"jefflschmitt","txt":"RT @CNNMoney: RT @CNNMoney: Google strikes deal with publishers over universal library http://t.co/LYhql2GX $GOOG","lbl":"Neutral"}
+,{"time":"15:58","usr":"storybookgen","txt":"RT @CNNMoney: RT @CNNMoney: Google strikes deal with publishers over universal library http://t.co/LYhql2GX $GOOG","lbl":"Neutral"}
+,{"time":"16:57","usr":"Fitzstock2004","txt":"also, watch 764 in $goog tomorrow......imo, that is critical, and would indicate possible FAILED BREAKOUT........","lbl":"Negative"}
+,{"time":"17:00","usr":"Arturo_jordan","txt":"RT @CNNMoney: RT @CNNMoney: Google strikes deal with publishers over universal library http://t.co/LYhql2GX $GOOG","lbl":"Neutral"}
+,{"time":"17:01","usr":"wallstCS","txt":"Cemex Expects Q3 Sales Decline and 4 Stocks Riding 52-Week Highs http://t.co/EVjQ8In8 $CFN $CX $EIX $GOOG $GPS #mkt #stocks","lbl":"Neutral"}
+,{"time":"17:01","usr":"RutterNetRick","txt":"Steve Jobs Wanted To Drop Google Search From The iPhone $AAPL $GOOG by @jyarow http://t.co/wNAF3cr3 #apple #google","lbl":"Neutral"}
+,{"time":"19:36","usr":"MarkECraft","txt":"RT @SAI: Google Maps Street View Now Works On The iPhone $GOOG $AAPL by @stevekovach http://t.co/IAb05DXG","lbl":"Positive"}
+,{"time":"19:41","usr":"MrTimRy","txt":"RT @BloombergNews Samsung quarterly profit beats estimates on Galaxy phones | http://t.co/r9pJ2P7K $GOOG","lbl":"Neutral"}
+,{"time":"19:50","usr":"JRezy","txt":"RT @stockassassin74: RT @stockassassin74: $VRNG Vringo: What Has Happened And What I Think Will Happen http://t.co/SMmqzCFJ = $15/shr coming $GOOG will settle!","lbl":"Neutral"}
+,{"time":"23:01","usr":"DrunkStepmother","txt":"Imagine this scenario just for shits & giggles: $VRNG & $GOOG settle for 200 million over the weekend. What happens to the share price?","lbl":"Neutral"}
+,{"time":"23:02","usr":"DrunkStepmother","txt":"Ok. Now do the same thing with $GOOG paying $VRNG 400 million. What happens to the share price? Those are at least realistic possibilities","lbl":"Neutral"}
+,{"time":"23:06","usr":"thefinancepress","txt":"$GOOG Google To Incur Additional Charges On Motorola Mobility Restructuring: Google To Incur Additional Charges... http://t.co/dOzWPVQd","lbl":"Negative"}
+,{"time":"23:15","usr":"RDeanon","txt":"Google Settlement Could Drive Vringo Shares Above $30: $34.8; $70; or $140/share?! http://t.co/IfM5ogO3 $AOL $GOOG $VRNG","lbl":"Neutral"}
+]

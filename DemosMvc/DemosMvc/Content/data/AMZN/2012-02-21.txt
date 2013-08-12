@@ -1,0 +1,20 @@
+[
+{"time":"3:52","usr":"MVelaigam","txt":"RT @SeekingAlpha: Amazon Analysts And Investors Have Heard The Sell Signal http://t.co/yMGNbfyo $AMZN","lbl":"Negative"}
+,{"time":"4:00","usr":"best_internets","txt":"Amazon app check shop prices, ditch retailers http://t.co/oUmH1FyA #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Positive"}
+,{"time":"8:41","usr":"firstadopter","txt":"$BKS cuts price of Nook Color to $169 and launches 8GB Nook Tablet at $199. Your move $AMZN http://t.co/crSb8ppC","lbl":"Negative"}
+,{"time":"8:43","usr":"Lowtown21","txt":"Buy 2 get 1 free PS Vita Games at $AMZN this week. $SNE","lbl":"Neutral"}
+,{"time":"8:47","usr":"Finishort","txt":"I personally purchased some NKO from $AMZN. VERY Bullish on $NEPT!","lbl":"Neutral"}
+,{"time":"10:23","usr":"FrugalBenjamin","txt":"@NACuser See my previous posts (today) on $AMZN and $GLD / #Gold","lbl":"Neutral"}
+,{"time":"11:04","usr":"2KnightsTrading","txt":"$AMZN has been the sleeping giant ready to make it\u0027s move soon","lbl":"Positive"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/135, $SPY/57, $GLD/52, $GOOG/43, $GS/27, $AMZN/21, $WMT/20, $CF/20. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:47","usr":"adaugelli","txt":"Amazon Is Said to Have Fewer Prime Members Than Estimated via @Bloomberg http://t.co/DIKbfY05 $AMZN","lbl":"Negative"}
+,{"time":"11:49","usr":"LDrogen","txt":"uh-oh RT @adaugelli: Amazon Is Said to Have Fewer Prime Members Than Estimated via @Bloomberg http://t.co/ERlJReYE $AMZN","lbl":"Negative"}
+,{"time":"13:18","usr":"Murocker","txt":"$amzn wth...","lbl":"Neutral"}
+,{"time":"15:37","usr":"MrJoeSterne","txt":"RT @cnnmoney: Is Amazon Prime profitable? Probably not. Vital to company\u0027s future? Almost certainly. http://t.co/HMYqnyyK $AMZN via...","lbl":"Positive"}
+,{"time":"15:37","usr":"AG618","txt":"Interesting! RT @cnnmoney: Is Amazon Prime profitable? Probably not. Vital to company\u0027s future? Almost certainly. http://t.co/eNzauNh4 $AMZN","lbl":"Positive"}
+,{"time":"15:37","usr":"topel_uGoGurl","txt":"RT @CNNMoney: Is Amazon Prime profitable? Probably not. Vital to company\u0027s future? Almost certainly. http://t.co/pcc5EwYA $AMZN via @FortuneMagazine","lbl":"Neutral"}
+,{"time":"16:54","usr":"Kamillo681","txt":"RT @CNNMoney: Is Amazon Prime profitable? Probably not. Vital to company\u0027s future? Almost certainly. http://t.co/pcc5EwYA $AMZN via @FortuneMagazine","lbl":"Neutral"}
+,{"time":"19:10","usr":"newsagg","txt":"Amazon\u0027s Prime and punishment http://t.co/XuBBIGCd $AMZN good read on the strategy for Prime","lbl":"Neutral"}
+,{"time":"21:03","usr":"bergie1393","txt":"RT @KeithMcCullough: No legitimate support for $AMZN to $177 #bearish","lbl":"Negative"}
+,{"time":"23:38","usr":"JamesPhenom","txt":"@chessNwine @upsidetrader aren\u0027t RC and Demetrick short $AMZN? split among us #12631 brothers i see.","lbl":"Negative"}
+]

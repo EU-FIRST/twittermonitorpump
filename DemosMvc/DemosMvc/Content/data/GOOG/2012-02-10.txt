@@ -1,0 +1,42 @@
+[
+{"time":"2:12","usr":"pratikpatel939","txt":"Apple vs. Google: The Stakes Are Rising http://t.co/kNnXcijT $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"2:13","usr":"4_reals","txt":"Is GoogleYoutube Cooking The Numbers of Ron Paul Videos http://t.co/by8wSvYx #ronpaul #tcot #tlot #gop2012 #FITN $goog","lbl":"Neutral"}
+,{"time":"2:22","usr":"excali11","txt":"RT @themoneygame: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/FUS2MRX5","lbl":"Neutral"}
+,{"time":"6:32","usr":"rhbinvest","txt":"I QUIT! Google\u0027s Number 3 Employee Quit Today | $GOOG #NYSE #NASDAQ http://t.co/bUMevhFb","lbl":"Neutral"}
+,{"time":"6:43","usr":"TERRYLEENCTNYC","txt":"RT @SAI: Google\u0027s Number 3 Employee Quit Today $GOOG by @_dtl http://t.co/qjexMV3z","lbl":"Negative"}
+,{"time":"6:48","usr":"Ktr8der","txt":"Reading abt $GOOG\u0027s wireless media device, no images or real details? WSJ refers to Sonos as the direct competition. Sketchy so far.","lbl":"Neutral"}
+,{"time":"6:51","usr":"rbviera","txt":"RT @SAI: Google\u0027s Number 3 Employee Quit Today $GOOG by @_dtl http://t.co/qjexMV3z","lbl":"Neutral"}
+,{"time":"8:26","usr":"parthadhia","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $GRPN $LNKD by @_dtl http://t.co/aEhiVj2V","lbl":"Neutral"}
+,{"time":"8:29","usr":"CNNMoneyTech","txt":"RT @LaMonicaBuzz: Why the fuss about a $GOOG home entertainment device? We knew it was coming. @davidgoldmancnn reported about it in May. http://t.co/zj0clt3Y","lbl":"Negative"}
+,{"time":"8:35","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/73, $SPY/40, $GOOG/23, $LNKD/19, $TVIX/12, $QQQ/11, $BAC/9, $TLT/8. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"8:37","usr":"cocoy","txt":"\u201C@appleinsider: German court dismisses Motorola\u0027s 3G-related suit against Apple http://t.co/dppupe2z\u201D $AAPL $GOOG","lbl":"Negative"}
+,{"time":"9:41","usr":"Artful_Roger","txt":"#Ooopps. RT @SAI: There\u0027s A Glaring Flaw In Google Wallet That Gives Anyone Access To Your Money $GOOG by @stevekovach http://t.co/5SZGGa3Y","lbl":"Neutral"}
+,{"time":"9:43","usr":"AlexandreMclean","txt":"RT @SAI: There\u0027s A Glaring Flaw In Google Wallet That Gives Anyone Access To Your Money $GOOG by @stevekovach http://t.co/lrtjnNzJ","lbl":"Neutral"}
+,{"time":"10:15","usr":"LarryOsentoski","txt":"$GOOG acquisition of $MOT reminds me of AOL Time Warner","lbl":"Negative"}
+,{"time":"10:15","usr":"iStockAnalyst","txt":"We\u2019Re Officially In A Stock Picker\u2019S Market $GOOG $NMR $OPY $VIX: It\u2019s Friday in the Wall Street Daily Nation. I... http://t.co/c9ZvQTkF","lbl":"Neutral"}
+,{"time":"10:45","usr":"ahdiaz","txt":"RT @FoxBusiness: No longer just a search engine, tech titan #Google will reportedly unveil a new home-entertainment system in 2012 http://t.co/aXmFvnO0 $GOOG","lbl":"Positive"}
+,{"time":"10:46","usr":"OptiontradinIQ","txt":"January trading results. Slightly disappointing month with some horrible trading decisions. $SPY $IWM $AAPL $RUT $GOOG http://t.co/s0YBjyEX","lbl":"Neutral"}
+,{"time":"10:46","usr":"randallrex","txt":"RT @FoxBusiness: No longer just a search engine, tech titan #Google will reportedly unveil a new home-entertainment system in 2012 http://t.co/aXmFvnO0 $GOOG","lbl":"Positive"}
+,{"time":"10:46","usr":"DJThistle","txt":"New HTC handset found with Android 4.0, LTE support: Another new HTC handset has been found online, leadi... http://t.co/20OMxiaS $GOOG","lbl":"Neutral"}
+,{"time":"11:20","usr":"SeekingAlpha","txt":"Apple And Google Stock Splits + DJIA = Potential Bonus Returns http://t.co/dqpJOgRz $AAPL $GOOG","lbl":"Positive"}
+,{"time":"11:20","usr":"iBizNews21","txt":"RT @FoxBusiness: No longer just a search engine, tech titan #Google will reportedly unveil a new home-entertainment system in 2012 http://t.co/aXmFvnO0 $GOOG","lbl":"Positive"}
+,{"time":"11:56","usr":"HeatherPerlberg","txt":"RT @BloombergNews: Google is testing wireless entertainment device | http://t.co/AqNMwvyT $GOOG","lbl":"Positive"}
+,{"time":"11:58","usr":"UGzSolution","txt":"RT @BloombergNews: Google is testing wireless entertainment device | http://t.co/AqNMwvyT $GOOG","lbl":"Positive"}
+,{"time":"11:58","usr":"tallyhochaps","txt":"RT @BloombergNews: Google is testing wireless entertainment device | http://t.co/AqNMwvyT $GOOG","lbl":"Neutral"}
+,{"time":"12:32","usr":"varsitymike","txt":"RT @BloombergNews: Google is testing wireless entertainment device | http://t.co/AqNMwvyT $GOOG","lbl":"Positive"}
+,{"time":"12:32","usr":"DJThistle","txt":"Samsung Galaxy Mini 2 S6500 will be Announced at MWC 2012: Last year we saw a Samsung Galaxy Mini S5570 an... http://t.co/AWRSXcu0 $GOOG","lbl":"Neutral"}
+,{"time":"12:35","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/112, $SPY/64, $GOOG/50, $LNKD/49, $BAC/20, $RENN/19, $IWM/19, $BIDU/18. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:21","usr":"iStockAnalyst","txt":"Google (GOOG) Getting Ready For Another Battle With Apple (AAPL); Testing New Communication Device $AAPL $GOOG: ... http://t.co/rClHqgMX","lbl":"Positive"}
+,{"time":"13:27","usr":"nadimhajje","txt":"RT @businessinsider: Apple Is Now Worth More Than Google And Microsoft Combined $AAPL $MSFT $GOOG by @jyarow http://t.co/uM5hUL4j","lbl":"Neutral"}
+,{"time":"13:30","usr":"DrDuru","txt":"Overhead resistance still active on $GOOG although it did not come down nearly as far as needed for put action this week. #120trade","lbl":"Neutral"}
+,{"time":"13:31","usr":"ValaAfshar","txt":"Apple vs Google: the stakes are rising | @WSJ http://t.co/x9tpOpsd $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"14:27","usr":"nxtmillionair40","txt":"going long some $GOOG 610 Feb 18 calls and March $BAC 8 Calls here","lbl":"Positive"}
+,{"time":"15:40","usr":"StockTwits","txt":"Friday links: private placement problems http://t.co/FLQW9LAt via @AbnormalReturns $AAPL $GOOG $FB $SPY $VIX","lbl":"Neutral"}
+,{"time":"15:40","usr":"SP_Trades","txt":"spcoder sold $GOOG at $605.24 for a 3.16% loss. http://t.co/H4KIBYcD","lbl":"Negative"}
+,{"time":"15:43","usr":"keverz146","txt":"RT @The_Domino: $AAPL sets new intraday record...near $500...makes it worth $462B...that\u0027s more than value of $MSFT & $GOOG combined $$ http://t.co/KSkXm2A8","lbl":"Neutral"}
+,{"time":"16:47","usr":"ollielindsay","txt":"RT @DougKass: Speaking of......AAPL market cap $460b now exceeds MSFT (257b) and GOOG ($198b) combined. $AAPL #MSFT $GOOG","lbl":"Neutral"}
+,{"time":"16:47","usr":"Media_Scrutiny","txt":"RT @cnbcfastmoney: Gene Munster Expects Apple Growth, Dividend http://t.co/6YwB3pNV $AAPL $AMZN $DELL $GOOG $IBM $YHOO #Internet #Technology #StockMarket","lbl":"Neutral"}
+,{"time":"18:48","usr":"StocialPicks","txt":"Fahad K. made a pick on Stocial. Long $GOOG at 606.00. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"18:50","usr":"SeekingAlpha","txt":"Apple, Google Patent War Tears Down Both Companies http://t.co/cXK5ph3I $AAPL $GOOG","lbl":"Negative"}
+,{"time":"18:55","usr":"WallStJesus","txt":"Apple, Google Patent War Tears Down Both Companies http://t.co/fyPfYkYf $AAPL $GOOG","lbl":"Negative"}
+]

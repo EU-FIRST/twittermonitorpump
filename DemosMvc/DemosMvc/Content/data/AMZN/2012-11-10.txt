@@ -1,0 +1,4 @@
+[
+{"time":"12:53","usr":"ryan_richt","txt":"Ending trips to Walgreen\u0027s: just set up $AMZN subscriptions for every face wash/shower gel/razor/etc product @jwingbermuehle and I use","lbl":"Neutral"}
+,{"time":"19:05","usr":"RobInvest1","txt":"$AMZN charts http://t.co/kh36Xf1a #stockcharts via @RobInvest1","lbl":"Neutral"}
+]

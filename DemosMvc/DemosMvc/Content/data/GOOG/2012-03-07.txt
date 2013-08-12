@@ -1,0 +1,35 @@
+[
+{"time":"3:00","usr":"CPUStocks","txt":"Chinese web users crack the Great Firewall and access blocked sites http://t.co/QQPf3mXk $RENN $FB $GOOG $BIDU $YOKU $SINA","lbl":"Neutral"}
+,{"time":"3:00","usr":"FastFoodStocks","txt":"Chinese web users crack the Great Firewall and access blocked sites http://t.co/fxtavCAo $RENN $FB $GOOG $BIDU $YOKU $SINA","lbl":"Neutral"}
+,{"time":"3:00","usr":"ChinaWWWstocks","txt":"Chinese web users crack the Great Firewall and access blocked sites http://t.co/NyPeJEwF $RENN $FB $GOOG $BIDU $YOKU $SINA","lbl":"Neutral"}
+,{"time":"3:13","usr":"best_internets","txt":"Google X research facility and its secret projects http://t.co/VLTRZ6s5 #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"7:49","usr":"iamsigal","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG by @_dtl http://t.co/PI6YKI8X","lbl":"Neutral"}
+,{"time":"7:50","usr":"SeekingAlpha","txt":"The Bullish Case For Baidu: Growth Trumps Valuation http://t.co/YifNLN3n $GOOG $YHOO $BIDU","lbl":"Neutral"}
+,{"time":"9:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/163, $SPY/46, $ADK/43, $P/34, $GOOG/26, $NFLX/19, $QQQ/17, $CIEN/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"9:13","usr":"thefinancepress","txt":"$GOOG Google to Dump Cable Set-top Box -- NY Post (GOOG, MMI, CSCO, AAPL): Google to Dump Cable Set-top Box -- ... http://t.co/PcXplZMV","lbl":"Neutral"}
+,{"time":"9:13","usr":"dmackdaddy","txt":"Gmail users claim Google is sending unauthorized spam emails from their accounts http://t.co/8Rx5xQ86 $GOOG","lbl":"Negative"}
+,{"time":"9:56","usr":"BioTechReports","txt":"$NGSX up 15% ahead of FDA approval today....will it be approved? #cnbc,#msnbc,#nyse,#wsj,$dndn,$ctic,$chtp,$vvus,$jnj,$gs, $goog,$c,$v,$f","lbl":"Neutral"}
+,{"time":"9:58","usr":"Cloudchaser921","txt":"RT @LaMonicaBuzz: Don\u0027t sweat stock sticker shock. $AAPL $IBM $PCLN $GOOG & others with triple-digit prices may be attractive. Check The Buzz later for more.","lbl":"Neutral"}
+,{"time":"10:54","usr":"BioTechReports","txt":"$NGSX up 20% ahead of FDA approval today! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$chtp,$vvus,$dsco,$ctic,$gs,$goog,$v,$f,$c","lbl":"Neutral"}
+,{"time":"10:57","usr":"BioTechReports","txt":"$NGSX up 22% ahead of FDA approval today! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$chtp,$vvus,$dsco,$ctic,$gs,$goog,$v,$f,$c","lbl":"Neutral"}
+,{"time":"10:59","usr":"BioTechReports","txt":"$NGSX up 25% ahead of FDA approval today! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$chtp,$vvus,$dsco,$ctic,$gs,$goog,$v,$f,$c","lbl":"Neutral"}
+,{"time":"11:37","usr":"BioTechReports","txt":"$NGSX up 20% ahead of FDA decision today. Huge vol #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$chtp,$vvus,$dsco,$ctic,$gs,$goog,$v,$f,$c","lbl":"Neutral"}
+,{"time":"11:39","usr":"angry_veteran","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/3fCVqYnX","lbl":"Neutral"}
+,{"time":"12:24","usr":"MattRosoff","txt":"Google Is Looking To Sell The Only Profitable Part Of Motorola -- Before The Deal Even Closes $GOOG http://t.co/cETcY15g","lbl":"Negative"}
+,{"time":"12:24","usr":"SAI","txt":"Google Is Looking To Sell The Only Profitable Part Of Motorola -- Before The Deal Even Closes $GOOG by @MattRosoff http://t.co/GWom4yKY","lbl":"Neutral"}
+,{"time":"13:29","usr":"BUDDIEE18","txt":"wonder if $GOOG is setting itself up for a run to $620++ by Friday oex","lbl":"Positive"}
+,{"time":"13:30","usr":"BioTechReports","txt":"$DNDN up 6% #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$chtp,$vvus,$dsco,$ctic,$gs,$goog,$v,$f,$c","lbl":"Neutral"}
+,{"time":"13:30","usr":"BioTechReports","txt":"$DNDN up 6% new HOD! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$chtp,$vvus,$dsco,$ctic,$gs,$goog,$v,$f,$c","lbl":"Neutral"}
+,{"time":"13:33","usr":"barronstechblog","txt":"Apple: New iPad with \u2018Retina Display,\u2019 A5X Chip, 5MP Camera - Tech Trader Daily - $AAPL $AMZN $RIMM $GOOG $NVDA http://t.co/5hwvrKLq","lbl":"Neutral"}
+,{"time":"14:44","usr":"aliomarFIN","txt":"RT @SAI: Google Is Looking To Sell The Only Profitable Part Of Motorola -- Before The Deal Even Closes $GOOG by @MattRosoff http://t.co/GWom4yKY","lbl":"Neutral"}
+,{"time":"14:49","usr":"BioTechReports","txt":"$NGSX up 30% on 990+k vol FDA decision today. #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$chtp,$vvus,$dsco,$ctic,$gs,$goog,$v,$f,$aapl","lbl":"Neutral"}
+,{"time":"14:51","usr":"top_market_news","txt":"Google X research facility and its secret projects http://t.co/gszbjC83 #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"14:53","usr":"BioTechReports","txt":"$NGSX up 29% on 1million vol FDA decision today. #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$chtp,$vvus,$dsco,$ctic,$gs,$goog,$v,$f,$aapl","lbl":"Neutral"}
+,{"time":"16:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/395, $SPY/62, $NFLX/25, $GOOG/24, $P/20, $GS/16, $CRM/15, $BAC/15. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"16:12","usr":"cnbcfastmoney","txt":"New iPad Lifts Shares of Everything\u2014Except Apple http://t.co/K0KavQBn $AAPL $AMZN $BRCM $GOOG $NXPI $QCOM $T $TXN $VZ #Economy","lbl":"Negative"}
+,{"time":"16:12","usr":"top_market_news","txt":"Google X research facility and its secret projects http://t.co/gszbjC83 #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"18:17","usr":"lazywisdom","txt":"NEW POST: Quick Take - Five Takeaways from Apple\u0027s new iPad Launch. http://t.co/0lV4oEy8 $MSFT $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"18:21","usr":"ValentFinancial","txt":"Pandora Losing Advertisers http://t.co/gYuKESvB $P $SIRI $GOOG $AAPL $AMZN #mkt #trading","lbl":"Neutral"}
+,{"time":"21:13","usr":"optionspunk","txt":"Google X research facility and its secret projects http://t.co/iuzwlS0H #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"21:14","usr":"thefinancepress","txt":"$GOOG Credit Suisse Snaps Up Google\u0027s Clearwire Stake: Credit Suisse Snaps Up Google\u0027s Clearwire Stake NASDAQ -... http://t.co/Od28n5ca","lbl":"Neutral"}
+]

@@ -1,0 +1,48 @@
+[
+{"time":"5:29","usr":"gavsky","txt":"Damning pre-IPO stats \u201C@Jim_Edwards: DATA: Google Totally Blows Away Facebook On Ad Performance $GOOG http://t.co/uWxKQ5CZ\u201D","lbl":"Positive"}
+,{"time":"5:31","usr":"JIAlmaskry","txt":"RT @The_Domino: #DidYouKnow if #FacebookIPO prices @ $38/shr, company is valued @ $104.2B...that\u0027s 26x\u0027s sales, or 2x\u0027s Google\u0027s IPO valuation $$ $GOOG $FB","lbl":"Neutral"}
+,{"time":"5:32","usr":"rcastle06","txt":"RT @SAI: DATA: Google Totally Blows Away Facebook On Ad Performance $GOOG by @Jim_Edwards http://t.co/kzENDycu","lbl":"Positive"}
+,{"time":"6:59","usr":"TraderMichigan","txt":"No leadership, altho $LNKD $GOOG $AMZN $EBAY $EXPE holding up well","lbl":"Neutral"}
+,{"time":"7:46","usr":"jaimeparodi","txt":"RT @businessinsider: #Google\u0027s Chrome Browser Is Coming For iOS, Says Macquarie $GOOG $AAPL by @jyarow http://t.co/axAy035h","lbl":"Positive"}
+,{"time":"7:48","usr":"Tuncae","txt":"Ohhh sonunda! RT @SAI: Google\u0027s Chrome Browser Is Coming For iOS, Says Macquarie $GOOG $AAPL by @jyarow http://t.co/famV9o6z","lbl":"Positive"}
+,{"time":"8:44","usr":"patroneux","txt":"out $GOOG 610 call from $4.2 to $5.10 20 cons.","lbl":"Negative"}
+,{"time":"8:46","usr":"BanzaiTrader","txt":"Reloaded $GOOG puts on bounce","lbl":"Negative"}
+,{"time":"9:14","usr":"patroneux","txt":"out $GOOG $625 calls from 1.2 to 1.50 20 cons.","lbl":"Positive"}
+,{"time":"9:14","usr":"BioTechReports","txt":"$YMI about to break all types of resistance!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn","lbl":"Neutral"}
+,{"time":"9:15","usr":"BioTechReports","txt":"$CXM BREAKING OUT!!!!!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn,$csco,$ctic,$mrk","lbl":"Neutral"}
+,{"time":"9:40","usr":"wilkos","txt":"No surprise here.. \u201C@SAI: SURVEY: The iPhone Wins In Consumer Satisfaction, BlackBerry Collapses $AAPL $RIMM $GOOG http://t.co/b8Cykqfb\u201D","lbl":"Neutral"}
+,{"time":"9:42","usr":"esigpri","txt":"RT @SAI: Google\u0027s Chrome Browser Is Coming For iOS, Says Macquarie $GOOG $AAPL by @jyarow http://t.co/86CWFUO5","lbl":"Positive"}
+,{"time":"9:44","usr":"wallstCS","txt":"Here\u0027s Why Qualcomm\u0027s Chips Are Selling Like Hotcakes http://t.co/YDoiUJBw $QCOM $SNE $GOOG $MSFT $NVDA $ERIC $INTC #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:25","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Opens Higher On Broader rally: Google Inc. (NASDAQ:GOOG) Opens Higher On Broade... http://t.co/RMzHMjl8","lbl":"Positive"}
+,{"time":"10:28","usr":"benniekay","txt":"RT @SAI: Google Says Its Computerized Glasses Won\u0027t Be As Cool As The Promo Video Would Have You Believe $GOOG by @stevekovach http://t.co/I6UtDU1B","lbl":"Negative"}
+,{"time":"11:18","usr":"mikecardascia","txt":"RT @wallstCS: Will Facebook Meet Raised Hopes? http://t.co/h97jLZDP $GOOG $GRPN $ZNGA $MS $JPM $GS $AMZN $HPQ $DELL #mkt","lbl":"Neutral"}
+,{"time":"11:19","usr":"GuruPortfolio","txt":"David Tepper - Appaloosa Management LP Portfolio Update (portfolio as of 05/15/2012): Buy: $QQQ, $C, $GOOG, Ad... http://t.co/AUcviTTz","lbl":"Positive"}
+,{"time":"12:16","usr":"wallstCS","txt":"Baidu Seeks This New Market in China http://t.co/BP1STKm0 $BIDU $NOK $RIMM $AAPL $CHA $CHU $GOOG","lbl":"Neutral"}
+,{"time":"12:18","usr":"USwwwStocks","txt":"$GOOG Stock News: Facebook Snaps Up Lightbox Staff On Eve Of IPO http://t.co/W04C23uY #GOOG #Facebook #Lightbox","lbl":"Neutral"}
+,{"time":"12:18","usr":"nancefinance","txt":"Check out the Facebook Ecosystem conference call for great insights on $FB.Bull. Bear. Advertising. http://t.co/4vytk0CH $FB $GOOG","lbl":"Neutral"}
+,{"time":"13:18","usr":"anaka","txt":"RT @SAI: Google Says Its Computerized Glasses Won\u0027t Be As Cool As The Promo Video Would Have You Believe $GOOG by @stevekovach http://t.co/I6UtDU1B","lbl":"Negative"}
+,{"time":"13:20","usr":"ValaAfshar","txt":"Google has successfully patented \u0022ornamental design\u0022 of its augmented reality eyewear http://t.co/qhTrgJoo $GOOG #Tech","lbl":"Positive"}
+,{"time":"13:22","usr":"wallstCS","txt":"Will Google Give iPad Users an Alternative to Safari? http://t.co/VxeEDhaA $GOOG $AAPL $MSFT #mkt #stocks","lbl":"Neutral"}
+,{"time":"14:24","usr":"BryanMortenson","txt":"It\u0027s getting tedious using $GOOG translator for all these Greek headlines. $$","lbl":"Neutral"}
+,{"time":"14:25","usr":"barronstechblog","txt":"Facebook: GM Plans to Stop Buying Ads, Says WSJ - Tech Trader Daily - Barron\u0027s $GOOG $MSFT $YHOO $GM http://t.co/DFthsIoY","lbl":"Neutral"}
+,{"time":"14:26","usr":"BioTechReports","txt":"$YMI breaking out!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac","lbl":"Neutral"}
+,{"time":"15:10","usr":"josephjpeters","txt":"$FB has been noticeably adding to the quantity of their ads, but the quality has stayed roughly the same. $GOOG wins because search = intent","lbl":"Positive"}
+,{"time":"15:11","usr":"josephjpeters","txt":"People go to $GOOG because they want to find answers. Ads are a perfect match because ads are answers if you can match the user correctly.","lbl":"Positive"}
+,{"time":"15:11","usr":"TweetLeni","txt":"Happy with my $GOOG long here as we approach $FB ipo on Friday","lbl":"Positive"}
+,{"time":"15:12","usr":"BioTechReports","txt":"$KERX RUNNING AFTER HOURS - hearing positive PHASE 3 news!c#nbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$s,$wfc,$jcp","lbl":"Neutral"}
+,{"time":"16:16","usr":"lauramandaro","txt":"Soros buys J.P. Morgan, reduces Apple, sells Google. $JPM $GOOG $JPM #13f http://t.co/VmUyYW9i","lbl":"Negative"}
+,{"time":"16:19","usr":"yoanna012","txt":"Google vs Facebook $GOOG $FB | Comparing the Value of the Largest Online Display Advertising Networks http://t.co/sksfWkj4 via @WordStream","lbl":"Neutral"}
+,{"time":"16:19","usr":"TALENTEDBLONDE","txt":"Social Media Explained: http://t.co/QsD4ox8o $FB $GOOG $$","lbl":"Neutral"}
+,{"time":"16:20","usr":"SeekingAlpha","txt":"Microsoft Could Double By 2015 http://t.co/1eY4temu $INTC $AAPL $ARMH $GOOG $IBM $MSFT","lbl":"Neutral"}
+,{"time":"16:43","usr":"dersanz","txt":"RT @MarketWatch: Billionaire George Soros bought shares of $JPM and $GS reduced its holdings of $AAPL and sold $GOOG http://t.co/HUCk5yEr #13f","lbl":"Negative"}
+,{"time":"16:45","usr":"NoXOsk","txt":"RT @MarketWatch: Billionaire George Soros bought shares of $JPM and $GS reduced its holdings of $AAPL and sold $GOOG http://t.co/HUCk5yEr #13f","lbl":"Negative"}
+,{"time":"16:45","usr":"ampressman","txt":"RT @marketfolly: Takeaway from hedge fund 13F filings: lots of $GOOG buyers in Q1, decent amount of $BIDU trimming","lbl":"Positive"}
+,{"time":"16:45","usr":"Sumenn7063","txt":"RT @marketfolly: Takeaway from hedge fund 13F filings: lots of $GOOG buyers in Q1, decent amount of $BIDU trimming","lbl":"Positive"}
+,{"time":"17:17","usr":"MadMoneyOnCNBC","txt":"Cramer: Invest in Easy-to-Understand Businesses http://t.co/V4F6ZUtq $CMG $COST $DIS $GOOG $HD $JPM $WFM $YHOO #JamieDimon #BobIger","lbl":"Neutral"}
+,{"time":"17:22","usr":"nicolasantarell","txt":"RT @StockTwits: Facebook gained $4.34 per user in advertising last year vs more than $30 per user for Google http://t.co/yEim0paf $FB $GOOG","lbl":"Neutral"}
+,{"time":"17:22","usr":"rhbinvest","txt":"MarketWatch: Billionaire George Soros bought shares of $JPM and $GS reduced its holdings of $AAPL and sold $GOOG ... http://t.co/k1HxNtcK","lbl":"Negative"}
+,{"time":"17:23","usr":"jaymon","txt":"@Howardlindzon @mathewi I figure Foursquare also, and eventually Twitter will go to either $Goog or $fb in a bidding war","lbl":"Neutral"}
+,{"time":"19:42","usr":"justin_bomb","txt":"Google, how you entertain us: http://t.co/iCGupoxE $GOOG","lbl":"Neutral"}
+,{"time":"19:45","usr":"thefinancepress","txt":"$GOOG Loeb Adds Apple Inc (AAPL), Yahoo! Inc (YHOO), Google Inc (GOOG): Loeb Adds Apple Inc (AAPL), Yahoo! Inc ... http://t.co/0Vu6xGOX","lbl":"Neutral"}
+,{"time":"19:48","usr":"vsistla","txt":"@crashdev it will b just like PC v Mac - $GOOG might get a bigger mkt share but $AAPL w a vertically integrated model will contrl high end!","lbl":"Positive"}
+]

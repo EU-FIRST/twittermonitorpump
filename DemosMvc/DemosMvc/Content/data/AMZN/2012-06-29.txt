@@ -1,0 +1,10 @@
+[
+{"time":"5:21","usr":"Qwovadis","txt":"Commented on: \u0022Google Nexus 7 Vs. Microsoft Surface\u0022 http://t.co/msDzgKMD $GOOG $AAPL $AMZN $MSFT","lbl":"Neutral"}
+,{"time":"8:57","usr":"OptionsProfits","txt":"Weekly Recap video w/John of Trade the Markets @johnfcarter http://t.co/l8dD8zgt @TheStreet #stockaction $SPY $AMZN","lbl":"Neutral"}
+,{"time":"10:12","usr":"SuzyQJaco","txt":"Took profits on half $AAPL bot yesterday ( calls) holding $AMZN calls still.","lbl":"Positive"}
+,{"time":"10:15","usr":"VCEIPO","txt":"RT @pattidomm: Stocks to Watch: SNDK, NFLX, BA & More http://t.co/zHqrzSG6 $ABT $AMZN $BA $DIS $FB $GOOG $LMT $NFLX $RIMM $SHPGY $SNDK $TM $WPI $YHOO","lbl":"Neutral"}
+,{"time":"13:52","usr":"mayank04","txt":"Going to be riding $AMZN to $230","lbl":"Positive"}
+,{"time":"15:34","usr":"USwwwStocks","txt":"$AMZN News: Amazon (NASDAQ:AMZN) Intends to Release tools for Game Developers- EBAY ... http://t.co/8b4Jn2kX #AMZN #Amazon #Developers","lbl":"Neutral"}
+,{"time":"16:56","usr":"CapCube","txt":"MT @VanV $AMZN is worth $40. netted 2B in profit in 17 yrs. the pump and prop algo parked on the bid every day exemplifies the fraud on WS","lbl":"Neutral"}
+,{"time":"21:34","usr":"USwwwStocks","txt":"$AMZN News: Google Inc. (GOOG) Discloses Cloud-Computing Service http://t.co/jUNcwq1Z #AMZN #GOOG #CloudComputing","lbl":"Neutral"}
+]

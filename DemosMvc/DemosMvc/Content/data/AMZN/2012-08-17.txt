@@ -1,0 +1,10 @@
+[
+{"time":"9:50","usr":"KarSun01","txt":"looking to long some $amzn here","lbl":"Positive"}
+,{"time":"9:50","usr":"KarSun01","txt":"alright long $amzn with a 1% stop","lbl":"Positive"}
+,{"time":"9:50","usr":"Sangluccitrades","txt":"I really fucked up today... Gave away a good $100K in profits on $AMZN. That shit ain\u0027t pretty.","lbl":"Negative"}
+,{"time":"11:26","usr":"BradDenny","txt":"Love how iOS stocks send me to stories about $AMZN but the story is on wall street journal and they want me to pay to read it #NoChance","lbl":"Neutral"}
+,{"time":"12:04","usr":"barronstechblog","txt":"HP Forms Tablet Unit, Says The Verge - Tech Trader Daily - Barron\u0027s $HPQ $AAPL $AMZN $MSFT $GOOG $RIMM http://t.co/XiE48DcJ","lbl":"Neutral"}
+,{"time":"12:04","usr":"PointG","txt":"RT @SAI: BII REPORT: How Amazon Is Trying To Create A Huge Mobile Business $AMZN http://t.co/XzmgxY2I","lbl":"Neutral"}
+,{"time":"13:55","usr":"StevenSavage","txt":"RT @SAI: BII REPORT: How Amazon Is Trying To Create A Huge Mobile Business $AMZN http://t.co/XzmgxY2I","lbl":"Neutral"}
+,{"time":"13:55","usr":"FanToPro","txt":"RT @SAI: BII REPORT: How Amazon Is Trying To Create A Huge Mobile Business $AMZN http://t.co/XzmgxY2I","lbl":"Neutral"}
+]

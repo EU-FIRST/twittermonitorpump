@@ -1,0 +1,38 @@
+[
+{"time":"4:41","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Go: Google Drive\u0022 http://t.co/XTOUiFTS @Forbes @Reuters_Biz @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
+,{"time":"4:41","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Chrome: Coffee\u0022 http://t.co/NaL37Ol1 @Forbes @Reuters_Biz @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
+,{"time":"4:50","usr":"bored2tears","txt":"Trial documents reveal Google\u0027s unrealized ambitions to grow beyond search. http://t.co/GtAuyzqI $GOOG #Internet #stocks","lbl":"Negative"}
+,{"time":"7:53","usr":"BioTechReports","txt":"$KERX - FDA news out - http://t.co/YhfQBSaD #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$s,$v,$c,$gs,$goog,$appl,$ups,$wmt,$amgn,$vvus","lbl":"Neutral"}
+,{"time":"8:48","usr":"businessinsider","txt":"Why Life Is Better When You\u0027re A Googler Working On Cool Projects $GOOG by @jyarow http://t.co/9E3IvpVi","lbl":"Neutral"}
+,{"time":"8:48","usr":"SAI","txt":"Why Life Is Better When You\u0027re A Googler Working On Cool Projects $GOOG by @jyarow http://t.co/crlAIV00","lbl":"Neutral"}
+,{"time":"8:49","usr":"rlbaldwinartist","txt":"RT @businessinsider: Why Life Is Better When You\u0027re A Googler Working On Cool Projects $GOOG by @jyarow http://t.co/9E3IvpVi","lbl":"Neutral"}
+,{"time":"8:50","usr":"SeekingAlpha","txt":"Baidu On Sale, Limited Time Offer http://t.co/UdSD0DVp $AAPL $GOOG $BIDU","lbl":"Neutral"}
+,{"time":"9:52","usr":"TradeAgainst","txt":"Nov 7, 2011: @jimcramer says $AAPL is \u0022just another stock now\u0022 and is no $GOOG. Now $AAPL is over 200+ higher http://t.co/yJllhAvU","lbl":"Neutral"}
+,{"time":"9:58","usr":"SAI_Tools","txt":"LEAKED: All The Smartphones Verizon Will Sell This Year $VZ $AAPL $GOOG by @stevekovach http://t.co/Beq0qNFX","lbl":"Neutral"}
+,{"time":"11:06","usr":"mhhutzler","txt":"RT @SAI: LEAKED: All The Smartphones Verizon Will Sell This Year $VZ $AAPL $GOOG by @stevekovach http://t.co/3AKVmGNa","lbl":"Neutral"}
+,{"time":"11:10","usr":"SeekingAlpha","txt":"Tech Giants Eyeing Google\u0027s Social Media Market Share http://t.co/63wmHySD $INTC $MSFT $YHOO $GOOG $FB","lbl":"Neutral"}
+,{"time":"11:15","usr":"chrisgilmer","txt":"Help Wanted! Self driving car co-pilot http://t.co/bDcDTxvy #google $GOOG","lbl":"Neutral"}
+,{"time":"12:27","usr":"stockadvisors","txt":"#Google\u0027s TV and social networking plans $GOOG http://t.co/qHw02AaH","lbl":"Neutral"}
+,{"time":"12:28","usr":"armyguynyc","txt":"@AlyssaRuddick @tlmontana Nice $GOOG hold at 610. Giddy Up!! :)","lbl":"Positive"}
+,{"time":"13:13","usr":"DJThistle","txt":"Surprise! Latest round of Galaxy S III details differ from previous rumors: Of all the Android releases w... http://t.co/S3mrAA6P $GOOG","lbl":"Neutral"}
+,{"time":"13:13","usr":"lluccipha","txt":"SAI: YouTube Has The Ultimate Silicon Valley Office, Complete With Swimming Pool And Two-Story Slide $GOOG by @MattR... http://t.co/b4NxGMZi","lbl":"Neutral"}
+,{"time":"13:40","usr":"Kapitall","txt":"$$ Will Google Drive make an impact on the Cloud computing market? http://t.co/DuS3MvAI #Googledrive #kapitall $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"13:43","usr":"BUDDIEE18","txt":"$GOOG -- YEA!!!!! MIDDLETON guy\u0027s DEAD ON!!!!","lbl":"Neutral"}
+,{"time":"14:10","usr":"jyuniversity","txt":"RT @businessinsider: It\u0027s Official: Google Has Lost Control Of The Android Tablet Market $GOOG $AMZN by @jyarow http://t.co/GnMXCnLu","lbl":"Negative"}
+,{"time":"14:10","usr":"blcbs","txt":"Super Childish: #Samsung stages douchebag stunt urging Apple store shoppers to \u2018Wake Up\u2019 http://t.co/M7YDXqK4 #Looser #Apple $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"14:39","usr":"wallstCS","txt":"Will the Top or Bottom Line Move Amazon Shares? http://t.co/Uj7hq12v $AAPL $GOOG $EBAY $AMZN","lbl":"Neutral"}
+,{"time":"15:53","usr":"CannoldCNBC","txt":"Video: CNBC Stock Draft 2012: 7 big picks including a few HUGE surprises! http://t.co/wAdmBEuG $RIMM $JCP $DELL $RSH $AAPL $GOOG $SBUX","lbl":"Positive"}
+,{"time":"16:07","usr":"ADVFNplc","txt":"$GOOG - FTC Hires Beth Wilkinson To Lead Antitrust Investigation Of Google -NYT http://t.co/J0cwbS13","lbl":"Neutral"}
+,{"time":"16:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AMZN/827, $AAPL/94, $SBUX/59, $SPY/36, $GOOG/20, $GILD/18, $EXPE/17, $DECK/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"16:54","usr":"pennystockguys","txt":"$GOOG - UPDATE: Amazon Profit Slips 35% As Spending Continues http://t.co/AXJDBIz7","lbl":"Neutral"}
+,{"time":"16:54","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Amazon Profit Slips 35% As Spending Continues http://t.co/cmrsSHB2","lbl":"Negative"}
+,{"time":"17:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AMZN/486, $AAPL/52, $SBUX/46, $SPY/35, $GILD/30, $NIHD/16, $GOOG/11, $EXPE/11. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"17:59","usr":"glynieboy","txt":"RT @MattRosoff: Google Is Getting Out Of The 3D Modeling Business $GOOG http://t.co/EGra9eZW","lbl":"Neutral"}
+,{"time":"18:01","usr":"ZisblU4U","txt":"what is gonna happen to 50 % of the wealth lost in $AAPL and $GOOG ??","lbl":"Negative"}
+,{"time":"18:01","usr":"WSJ","txt":"RT @MKTWBurton: Open letter to Facebook $FB and Instagram millionaires -- Listen to Google $GOOG http://t.co/T1ApyFsC via @MarketWatch","lbl":"Neutral"}
+,{"time":"18:20","usr":"noname_8","txt":"RT @MKTWBurton: Open letter to Facebook $FB and Instagram millionaires -- Listen to Google $GOOG http://t.co/T1ApyFsC via @MarketWatch","lbl":"Positive"}
+,{"time":"19:07","usr":"SAI","txt":"Google Better Be Ready For A Nasty Fight With Uncle Sam $GOOG by @MattRosoff http://t.co/ILMwjMTB","lbl":"Negative"}
+,{"time":"19:07","usr":"MattRosoff","txt":"Google Better Be Ready For A Nasty Fight With Uncle Sam $GOOG http://t.co/a9iKOGJy","lbl":"Negative"}
+,{"time":"19:07","usr":"bi_politics","txt":"Google Better Be Ready For A Nasty Fight With Uncle Sam $GOOG by @MattRosoff http://t.co/ETXKSSLJ","lbl":"Negative"}
+,{"time":"19:45","usr":"rufinachang","txt":"RT @SAI: Google Better Be Ready For A Nasty Fight With Uncle Sam $GOOG by @MattRosoff http://t.co/ILMwjMTB","lbl":"Negative"}
+]

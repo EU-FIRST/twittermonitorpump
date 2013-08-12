@@ -1,0 +1,69 @@
+[
+{"time":"0:17","usr":"sergeykapustin","txt":"Twitter just launched new $ tag. $GOOG $AAPL $FB are now clickable.","lbl":"Neutral"}
+,{"time":"0:19","usr":"sdolgy","txt":"RT @kevinweil: I love that ticker symbols like $AAPL $GOOG $FB are now clickable on Twitter. Another user driven feature; surfaces great biz discussions.","lbl":"Neutral"}
+,{"time":"0:19","usr":"Jacek_Malejko","txt":"Hello cashtags $APPL $GOOG @twitter @jack","lbl":"Neutral"}
+,{"time":"0:21","usr":"ChrisBarrett","txt":"Love the new Twitter Feature: ticker symbols like $AAPL $GOOG $FB are now clickable! Cashtags are the new hastag!","lbl":"Neutral"}
+,{"time":"2:33","usr":"shyam__sunder","txt":"woot! cashtags on twitter $fb $goog $msft","lbl":"Neutral"}
+,{"time":"5:38","usr":"t_wada","txt":"$AAPL $AMZN $FB $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"8:46","usr":"Adib_AM","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"8:59","usr":"zentrader","txt":"Apps: Programmed for Consumption http://t.co/z36DvzyP $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:13","usr":"jeremy_tOS","txt":"634.19 looks to be the key price to watch in $GOOG at the moment http://t.co/HkZociwT","lbl":"Neutral"}
+,{"time":"9:24","usr":"44andrew","txt":"$goog still impressive. Second test of trendline at 640-641 and consolidation above 630 is bullish","lbl":"Positive"}
+,{"time":"9:38","usr":"seyjoh","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"9:50","usr":"epambudi","txt":"Tes $GOOG","lbl":"Neutral"}
+,{"time":"9:58","usr":"MrTimRy","txt":"Picking up some $VRNG calls on today\u0027s pullback...Huge settlement w/ $GOOG could be announced anytime in the next couple months.","lbl":"Neutral"}
+,{"time":"10:10","usr":"tlmontana","txt":"RT @9to5Google: WSJ: Google spending another $200m on YouTube channels http://t.co/RGFdeoIc $GOOG","lbl":"Neutral"}
+,{"time":"10:10","usr":"jonartlucas","txt":"RT @SAI: THE GOOGLE INVESTOR: Can Google Fiber Compete With The Cable Companies? $GOOG by @hleonard76 http://t.co/xTq6Azyk","lbl":"Neutral"}
+,{"time":"10:21","usr":"Jaydg1982","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:21","usr":"azraq99","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:22","usr":"fzgrupoempre","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:22","usr":"roastydog","txt":"$GOOG test","lbl":"Neutral"}
+,{"time":"10:31","usr":"GentleDentalHOU","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:32","usr":"OnlineBrokerRev","txt":"RT @wordCURL: Twitter implements clickable stock symbols called cashtags: http://t.co/KRZctg2b Examples: $aapl $fb $goog $ge","lbl":"Neutral"}
+,{"time":"10:32","usr":"MrTimRy","txt":"So $AAPL & Hulu have officially aligned...That can mean only one thing--$GOOG will be forced into a $NFLX deal whether they like it or not.","lbl":"Neutral"}
+,{"time":"10:46","usr":"tradingpicks","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"10:47","usr":"Redsan","txt":"Twitter lance les #Cashtag : $APPL $GOOG $FB","lbl":"Neutral"}
+,{"time":"10:47","usr":"Dawgum","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"11:07","usr":"maksim2042","txt":"Testing the stock ticker functionality $AAPL $GOOG, $MSFT","lbl":"Neutral"}
+,{"time":"11:09","usr":"Osnay_M","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"11:30","usr":"RRossachacj","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"11:30","usr":"LaramieDunlap","txt":"If you think this run-up in $AAPL\u0027s share price is something $AAPL specific, just look at a daily chart of $GOOG #jeez","lbl":"Positive"}
+,{"time":"11:30","usr":"Joe380","txt":"RT @AJStream: Twitter introduces ticker symbol \u0027cashtags\u0027 for finance searches $GOOG $FB http://t.co/3IW4gGHh","lbl":"Neutral"}
+,{"time":"11:31","usr":"alvintoddjr","txt":"RT @SmartMoney: Google stock is still a \u0022buy\u0022 at $630+. Company\u0027s revenue rose 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"11:52","usr":"kellythul","txt":"Lemme try this cashtag thing out... $FB $GOOG","lbl":"Neutral"}
+,{"time":"12:25","usr":"ITAudits","txt":"Read that if you use the $ cashtag for stocks, the link will be automatically added $GOOG $GE","lbl":"Neutral"}
+,{"time":"13:01","usr":"HazemHmoud","txt":"RT @AJStream: Twitter introduces ticker symbol \u0027cashtags\u0027 for finance searches $GOOG $FB http://t.co/3IW4gGHh","lbl":"Neutral"}
+,{"time":"13:18","usr":"BizRETV","txt":"RT @LaMonicaBuzz: if this social media stock meltdown continues, $GOOG might be able to buy both $GRPN and $ZNGA for $6B ... and have cash left over as well.","lbl":"Neutral"}
+,{"time":"13:18","usr":"MaisAbusalah","txt":"\u0022@SAI: Google Buys Social Advertising Startup Wildfire For $250 Million $GOOG by @mattlynley http://t.co/OevmqK4v\u0022","lbl":"Neutral"}
+,{"time":"13:19","usr":"xcm08","txt":"@LaMonicaBuzz \u2026and $AAPL could buy $GOOG $GRPN and $ZNGA and have cash left over as well TOO #LOL","lbl":"Neutral"}
+,{"time":"13:34","usr":"cjc","txt":"Also, Arielle Zuckerberg, who works at @WildfireApp, now works for $GOOG. I\u0027d love to be a fly on the wall at that Thanksgiving dinner. :)","lbl":"Neutral"}
+,{"time":"13:35","usr":"Davis908","txt":"@wellermeyer @jimcramer Facebook Investors: You\u0027re Nightmare Has Just Begun http://t.co/vtWkudOz $GOOG $GRPN $ZNGA $FB","lbl":"Neutral"}
+,{"time":"13:57","usr":"thepartycow","txt":"RT @cjc: Since @WildfireApp is now owned by $GOOG, technically Facebook uses Google to administer its own marketing campaigns on http://t.co/xU61Fkmt","lbl":"Neutral"}
+,{"time":"14:00","usr":"thefinancepress","txt":"$GOOG GOOGLE INC : FTC Shifts Approach on Monetary Penalties in U.S. Antitrust Cases: GOOGLE INC : FTC Shifts A... http://t.co/IoIyVZPM","lbl":"Neutral"}
+,{"time":"14:28","usr":"JohncoffeyIRL","txt":"RT @launchticker: $goog acquires social ad startup Wildfire for a reported $250M http://t.co/ByOF2T5c","lbl":"Neutral"}
+,{"time":"14:28","usr":"harmongreg","txt":"Commented on StockTwits: hmm, don\u0027t think you mean $GOOG but that is the one you responded too, which name? http://t.co/s6HLSUBI","lbl":"Neutral"}
+,{"time":"14:29","usr":"DavinderJawanda","txt":"Apple Samsung case Is a Proxy for $GOOG: loss for $AAPL and iOS could increase Android lead, already #1 smartphone OS http://t.co/BHkwf4RC","lbl":"Neutral"}
+,{"time":"14:29","usr":"vikomex","txt":"$GOOG cashtag","lbl":"Neutral"}
+,{"time":"14:57","usr":"AdhadiatID","txt":"Twitter has activated $ \u0027cashtag\u0027 for stock symbols, like $GOOG, $FB, etc.","lbl":"Neutral"}
+,{"time":"14:57","usr":"make_lemons","txt":"RT @baltimoresun: Twitter activates $ \u0027cashtag\u0027 for stock symbols, like $GOOG and $FB http://t.co/uREGm02F","lbl":"Neutral"}
+,{"time":"15:00","usr":"RedDogT3Live","txt":"$AAPL needs a rest. $GOOG and $amzn look good, but can use another day of consolidation","lbl":"Positive"}
+,{"time":"15:01","usr":"infovestment","txt":"Microsoft - New Email Service http://t.co/cl5MHxbT... Domain - Get Your name now!http://t.co/kseIu947... $MSFT $GOOG $$ #MKT","lbl":"Neutral"}
+,{"time":"15:27","usr":"Richardgwolfe","txt":"If I want to shop online I use $GOOG to find what I want- Not $FB. #Facebook","lbl":"Positive"}
+,{"time":"15:27","usr":"wallstCS","txt":"Tech Business Roundup: YouTube LOVES Pro Video Channels, Facebook Shares FALL http://t.co/ej2T67Cz $YHOO $GOOG $STP $FB #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:27","usr":"AliyahCentralPA","txt":"RT @SAI: The Coolest Ways To Customize Your Android Phone $GOOG by @_dtl http://t.co/e3jJNmTU","lbl":"Neutral"}
+,{"time":"16:04","usr":"GilbertZavala","txt":"$Goog","lbl":"Neutral"}
+,{"time":"16:40","usr":"Royal_Arse","txt":"RT @jessedhouston By \u0022better\u0022 they mean 1/3 price? RT @engadget $GOOG postponing Nexus Q launch to make it better http://t.co/qiU5D8Rh","lbl":"Neutral"}
+,{"time":"16:43","usr":"indikarama","txt":"RT @StockTwits: Google is adding to its giant advertising business. Snaps Up Wildfire - a social media marketing firm. http://t.co/gUHQaRXc $GOOG","lbl":"Neutral"}
+,{"time":"17:38","usr":"richardball","txt":"RT @StockTwits: Google is adding to its giant advertising business. Snaps Up Wildfire - a social media marketing firm. http://t.co/gUHQaRXc $GOOG","lbl":"Positive"}
+,{"time":"17:39","usr":"thefinancepress","txt":"$GOOG Google Acquires Wildfire, Adding Social Tools for Businesses: Google Acquires Wildfire, Adding Social Too... http://t.co/Heo5aehx","lbl":"Neutral"}
+,{"time":"18:07","usr":"RedXRISTOS","txt":"RT @CNNMoney: Mark Zuckerberg\u0027s sister now works for Google http://t.co/uQMNTXsA $ FB $GOOG","lbl":"Neutral"}
+,{"time":"18:08","usr":"snekse","txt":"RT @CNNMoney: Mark Zuckerberg\u0027s sister now works for Google http://t.co/uQMNTXsA $ FB $GOOG","lbl":"Neutral"}
+,{"time":"18:08","usr":"NoahGray7","txt":"\u201C@CNNMoney: Mark Zuckerberg\u0027s sister now works for Google http://t.co/9DAlOnze $ FB $GOOG\u201D damnnnn","lbl":"Neutral"}
+,{"time":"18:09","usr":"NickASAVet","txt":"RT @CNNMoney: Mark Zuckerberg\u0027s sister now works for Google http://t.co/uQMNTXsA $ FB $GOOG","lbl":"Neutral"}
+,{"time":"19:00","usr":"MarekZee","txt":"Wow. Google delays Nexus Q launch indefinitely, but gives the $299 device free to all those that pre-ordered. http://t.co/r6WLoJQL $goog","lbl":"Neutral"}
+,{"time":"20:04","usr":"ronpragides","txt":"Congrats to @victoria_ransom & the @wildfireapp team on their acquisition by $GOOG. http://t.co/Ec93X5AT #Social","lbl":"Neutral"}
+,{"time":"20:06","usr":"narrator_a","txt":"$goog","lbl":"Neutral"}
+,{"time":"20:07","usr":"QuinnHetrick","txt":"Apparently you can cashtag now? Test $GOOG","lbl":"Neutral"}
+,{"time":"22:07","usr":"ste_aka","txt":"$FB, $MSFT, $GOOG, $AMZN, $AAPL","lbl":"Neutral"}
+,{"time":"23:50","usr":"stockguy22","txt":"story i read earlier : Mark Zuckerberg \u0027s sister now a Google Employee - she tweets #awkward lol http://t.co/CywwKxM6 $FB $GOOG #Facebook","lbl":"Neutral"}
+]

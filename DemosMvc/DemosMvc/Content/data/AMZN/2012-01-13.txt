@@ -1,0 +1,18 @@
+[
+{"time":"5:34","usr":"BrianSozzi","txt":"RT @DecodingtheWSJ: Decoded: the fact Best Buy is fighting back is a sign how its large stores can\u0027t compete against a webpage. $AMZN","lbl":"Neutral"}
+,{"time":"5:52","usr":"CameronKaine","txt":"Commented on: \u00225 Stocks That Stir Up Investor Emotions\u0022 http://t.co/bu1dqPAg $SIRI $AAPL $RIMM $NFLX $BAC $CRM $AMZN $C $ORCL","lbl":"Neutral"}
+,{"time":"9:47","usr":"BioTechReports","txt":"$NFLX breaking out huge! $BAC, $C, $SIRI, $JPM, $WFC, $WMT, $AMZN, $GOOG, $AAPL","lbl":"Neutral"}
+,{"time":"9:48","usr":"BioTechReports","txt":"Be careful of the $YMI tree shake! Will break out soon imo $BAC, $C, $NFLX, $DNDN, $WFC, $JPM, $AMZN, $GOOG, $AAPl","lbl":"Neutral"}
+,{"time":"9:52","usr":"BioTechReports","txt":"The $NFLX break out continues - up almost $3/share! $BAC, $WFC, $JPM, $SIRI, $GOOG, $AMZN, $AAPL","lbl":"Neutral"}
+,{"time":"10:38","usr":"jimcollins","txt":"Kicked off the put on my $AMZN straddle for 1.50 so that\u0027s 50% profit in one day. And I own a 180 expiring call as a free bonus lol","lbl":"Positive"}
+,{"time":"10:38","usr":"mwaizman","txt":"I see #Tickers: $AMZN $ANR $BAC $GRPN $RENN $SINA that\u0027s what I\u0027m #trading today!!!","lbl":"Neutral"}
+,{"time":"11:40","usr":"SeekingAlpha","txt":"3 Stocks To Add To Your Portfolio Due To Rising Gas Prices http://t.co/n1TGaGZC $XOM $WMT $AMZN $TGT $BBY $HAL","lbl":"Neutral"}
+,{"time":"11:40","usr":"jamescallahan","txt":"Aaaaaaaaaaaaaaaaaaand $AMZN is GREEN on the day! This market does not want down... period.","lbl":"Positive"}
+,{"time":"11:41","usr":"NoDoji","txt":"$AMZN 5 min looks bullish to me, except for descending cloud support http://t.co/JIf2Xvm4","lbl":"Positive"}
+,{"time":"13:26","usr":"hectorianlogic","txt":"Long $amzn 176.5 stop lossing 175.90 Let see...","lbl":"Positive"}
+,{"time":"14:21","usr":"Antelope_Bach","txt":"RT @wallstCS: E-Book Sales Continue to Climb in Latest Publishing Industry Report http://t.co/3ygGM3Mz $AMZN $BKS $AAPL $RIMM $DELL #mkt #stocks #trading","lbl":"Positive"}
+,{"time":"14:27","usr":"Catwoman2011","txt":"RT @NoDoji: $AMZN breaking out","lbl":"Positive"}
+,{"time":"17:47","usr":"smarttrading21","txt":"$AMZN - Amazon Stock Analysis - volume up over 5% - http://t.co/qeRbb9PP","lbl":"Neutral"}
+,{"time":"21:50","usr":"OwenFirestone","txt":"Underperforming the S&P 500? may I a suggest a free news letter. http://t.co/1ztfiT59 $sds $srs $twm $msft $amzn $axp $bbby $bby","lbl":"Neutral"}
+,{"time":"21:56","usr":"sssc","txt":"$$ http://t.co/xDAt9ANZ - $AMZN - sharing a vid that @TraderFlorida posted back on 2-5-11. when i started t -> http://t.co/DebbxFHJ","lbl":"Neutral"}
+]

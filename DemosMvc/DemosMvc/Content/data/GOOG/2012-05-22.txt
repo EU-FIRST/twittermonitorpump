@@ -1,0 +1,75 @@
+[
+{"time":"0:48","usr":"verryshery","txt":"RT @SeekingAlpha: Thank Goodness For My Wife\u0027s Bra http://t.co/llJlWtQg $AGQ $AXP $FCX $GOOG $JPM $KSS $VXX $ZSL http://t.co/QL15qAD6","lbl":"Neutral"}
+,{"time":"0:59","usr":"SilverMeddler","txt":"European regulators order Google $GOOG to mend its ways fast or face antitrust action: http://t.co/aRWDhkGr","lbl":"Negative"}
+,{"time":"5:55","usr":"maxcoinage","txt":"Chrome tops Internet Explorer in StatCounter global rankings: http://t.co/dJeyyZyh via @techspot $GOOG $MSFT","lbl":"Positive"}
+,{"time":"6:06","usr":"mytechiy","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"7:31","usr":"choffman1978","txt":"$SIRI up premarket - shareholder meeting today!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm","lbl":"Neutral"}
+,{"time":"7:34","usr":"Trefis","txt":"Windows Phone Market Share Slips Further http://t.co/bVjE66nl by Trefis Team $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"7:38","usr":"wallstCS","txt":"Wall Street Watch: Finger Pointed Around Facebook CRASH, FTC Google Investigation http://t.co/wOXF5WMj $FB $MS $NDAQ $DELL $GOOG $YELP $BX","lbl":"Neutral"}
+,{"time":"8:06","usr":"wildildeera","txt":"RT @CNNNYSE: $GOOG is reportedly buying Motorola Mobility for $40 bucks a share -- that\u0027s more than $FB\u0027s price. DROID!","lbl":"Neutral"}
+,{"time":"8:06","usr":"RyanRadloff","txt":"\u0022@BloombergTV: BREAKING: #Google buys Motorola Mobility; LIVE coverage on, http://t.co/3jW4aQMc $GOOG\u0022 @humphriesjm thoughts?","lbl":"Neutral"}
+,{"time":"8:08","usr":"KnowWhereURGoin","txt":"RT @BloombergTV BREAKING: #Google buys Motorola Mobility; LIVE coverage on, http://t.co/LZqDVnnt $GOOG","lbl":"Neutral"}
+,{"time":"8:09","usr":"businessinsider","txt":"Google Now Officially Owns Motorola $MMI $GOOG by @stevekovach http://t.co/FkXpzaP0","lbl":"Positive"}
+,{"time":"8:18","usr":"twotribes","txt":"RT @FOSSpatents: Google just bought itself into dozens of lawsuits and two *more* EU antitrust investigations than it *already* had on its plate. $GOOG","lbl":"Negative"}
+,{"time":"8:19","usr":"DanielGustafsso","txt":"RT @BloombergTV: BREAKING: #Google buys Motorola Mobility; LIVE coverage on, http://t.co/yYPoOT7M $GOOG","lbl":"Neutral"}
+,{"time":"8:19","usr":"Omar40343131","txt":"RT @SAI: Google CEO Larry Page: Facebook Is Holding Users \u0027Hostage\u0027 And It Doesn\u0027t Make Sense $FB $GOOG by @jyarow http://t.co/VFRrRluI","lbl":"Negative"}
+,{"time":"8:19","usr":"Fuithepolymath","txt":"RT @BloombergTV: BREAKING: #Google buys Motorola Mobility; LIVE coverage on, http://t.co/yYPoOT7M $GOOG","lbl":"Positive"}
+,{"time":"8:35","usr":"Amounii","txt":"\u201C@BloombergTV: BREAKING: #Google buys Motorola Mobility; LIVE coverage on, http://t.co/tkFXJg9a $GOOG\u201D","lbl":"Neutral"}
+,{"time":"8:35","usr":"jeremywright","txt":"@jenneraustin to be fair, I\u0027ve also set a trigger at $40, so if it gathers momentum I\u0027ll catch it before it becomes $GOOG. Prefer $28 though","lbl":"Neutral"}
+,{"time":"8:36","usr":"h_prades","txt":"RT @BloombergTV: BREAKING: #Google buys Motorola Mobility; LIVE coverage on, http://t.co/yYPoOT7M $GOOG","lbl":"Positive"}
+,{"time":"8:54","usr":"realrichardgm","txt":"RT @SAI: Google Now Officially Owns Motorola $MMI $GOOG by @stevekovach http://t.co/VMw26fRr","lbl":"Neutral"}
+,{"time":"8:54","usr":"pettybooshwah","txt":"RT @FOSSpatents: Google just bought itself into dozens of lawsuits and two *more* EU antitrust investigations than it *already* had on its plate. $GOOG","lbl":"Negative"}
+,{"time":"8:54","usr":"tuckerstevenson","txt":"RT @businessinsider: Meet The Former Lawyer Google Put In Charge Of Motorola, Google\u0027s Biggest Gamble Ever $GOOG by @mattlynley http://t.co/QcXN45sw","lbl":"Negative"}
+,{"time":"8:54","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Google Acquires Motorola Mobility http://t.co/iREYocJ7 #BIDU #Acquires #GOOG","lbl":"Positive"}
+,{"time":"9:13","usr":"choffman1978","txt":"$S up huge!!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"9:14","usr":"Shlomiko","txt":"\u201CThe $12.5 Billion Google-Motorola Deal Was Done In Five Days $GOOG by http://t.co/Ca7Ybt14\u201D","lbl":"Neutral"}
+,{"time":"9:15","usr":"LizMani","txt":"RT @SAI: The $12.5 Billion Google-Motorola Deal Was Done In Five Days $GOOG by @mattlynley http://t.co/ddKzwFTC","lbl":"Neutral"}
+,{"time":"9:15","usr":"Vconomics","txt":"Just need to point to $GOOG again. I\u0027ll probably repost this chart another 10 times. Watch this name, big wedge. http://t.co/6ybBWUkx","lbl":"Neutral"}
+,{"time":"9:37","usr":"thefinancepress","txt":"$GOOG Soros Dumps Google and Apple, Buys Banks: Soros Dumps Google and Apple, Buys Banks Fox Business - 35 minu... http://t.co/XSxqZP4q","lbl":"Negative"}
+,{"time":"9:38","usr":"dawchsu","txt":"RT @SAI: Google Now Officially Owns Motorola $MMI $GOOG by @stevekovach http://t.co/T3sGjmwr","lbl":"Neutral"}
+,{"time":"10:06","usr":"choffman1978","txt":"$BAC up HUGE!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"10:07","usr":"choffman1978","txt":"$BPAX new HOD coming!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"10:08","usr":"choffman1978","txt":"$YMI UP HUGE!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmtm","lbl":"Neutral"}
+,{"time":"10:37","usr":"Buddahfan","txt":"RT @SAI: $800 Is Not A Good Price For An Android Phone $GOOG by @stevekovach http://t.co/8PlVw6Xl","lbl":"Negative"}
+,{"time":"10:38","usr":"Ethan_Grey","txt":"RT @SAI: $800 Is Not A Good Price For An Android Phone $GOOG by @stevekovach http://t.co/8PlVw6Xl","lbl":"Neutral"}
+,{"time":"11:11","usr":"SellPuts","txt":"RT @BUDDIEE18: find out how $AAPL $GOOG $AMZN $PCLN trade @SellPuts 0$ room. http://t.co/EfwgLsvI","lbl":"Neutral"}
+,{"time":"11:11","usr":"Binx_240","txt":"RT @SAI: LinkedIn Usage Crushes Google+ Usage Among Readers Like You $GOOG $FB $LNKD by @nichcarlson http://t.co/vHxkhnyv","lbl":"Negative"}
+,{"time":"11:11","usr":"choffman1978","txt":"ENTIRE MARKET TREE SHAK CAREFULcnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"11:12","usr":"Binoym24","txt":"RT @CNNMoney: Google says it bought Motorola for its patents, but its ambitions look far grander. http://t.co/mci1SBFb $GOOG $MMI","lbl":"Neutral"}
+,{"time":"11:51","usr":"marketmavenz","txt":"RT @cnbcfastmoney: SEC Needs to Investigate Facebook Estimate Cut: Blodget http://t.co/uNgWnW0c $FB $GOOG $GS $JPM $MS #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"11:52","usr":"spanishNY","txt":"RT @BloombergWest: Google completes purchase of Motorola Mobility. $GOOG","lbl":"Neutral"}
+,{"time":"11:52","usr":"Equitykingkong","txt":"$GOOG: sold short weekly 580p @ 1.60","lbl":"Positive"}
+,{"time":"11:53","usr":"danshep55","txt":"$goog any news?","lbl":"Neutral"}
+,{"time":"12:33","usr":"61point8","txt":"$GOOG chart remains in play. http://t.co/9cwFLVj6","lbl":"Neutral"}
+,{"time":"12:33","usr":"thefinancepress","txt":"$GOOG Cloud Access Becoming Next \u0027Must Have\u0027 for Mobile: Cloud Access Becoming Next \u0027Must Have\u0027 for Mobile Wall... http://t.co/4ttCGOgp","lbl":"Neutral"}
+,{"time":"12:33","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Cloud Access Becoming Next \u0027Must Have\u0027 for Mobile: Cloud Access Becoming Next \u0027Must Have\u0027 for Mobile Wall... http://t.co/4ttCGOgp","lbl":"Positive"}
+,{"time":"12:37","usr":"Vconomics","txt":"$GOOG anyone? It\u0027s sitting right on top of it\u0027s lower wedge trendline. http://t.co/NIgfx4CP","lbl":"Neutral"}
+,{"time":"13:03","usr":"android_whatnow","txt":"RT @SAI: LEAKED: Here\u0027s How To Get Samsung\u0027s Siri Clone On Any Android Phone $GOOG by @stevekovach http://t.co/bV740YKl","lbl":"Neutral"}
+,{"time":"13:04","usr":"nyckennedy","txt":"RT @SAI: SPOTTED: Google CEO Larry Page Wearing The Google Glasses In Public $GOOG by @jyarow http://t.co/wb5YjWRe","lbl":"Neutral"}
+,{"time":"13:04","usr":"JoeHarveyJr","txt":"Now That Google Owns Motorola, What Does That Mean For Android Phones? $GOOG by @stevekovach http://t.co/Zb5YTOmS #android #share","lbl":"Neutral"}
+,{"time":"13:06","usr":"share_rt","txt":"RT @JoeHarveyJr: Now That Google Owns Motorola, What Does That Mean For Android Phones? $GOOG by @stevekovach http://t.co/Zb5YTOmS #android #share","lbl":"Neutral"}
+,{"time":"13:34","usr":"jaarga","txt":"RT @SAI: Now That Google Owns Motorola, What Does That Mean For Android Phones? $GOOG by @stevekovach http://t.co/4LxGImr7","lbl":"Neutral"}
+,{"time":"13:34","usr":"ashlysassy","txt":"$P - expecting TERRIBLE #\u0027s!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$g http://t.co/A73nZa8h","lbl":"Negative"}
+,{"time":"13:34","usr":"choffman1978","txt":"$P - SELL BEFORE EARNING!!!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm,$gsk,$wfc,$jpm,$wmt","lbl":"Neutral"}
+,{"time":"13:35","usr":"Karanja_Anthony","txt":"RT @SAI: LEAKED: Here\u0027s How To Get Samsung\u0027s Siri Clone On Any Android Phone $GOOG by @stevekovach http://t.co/bV740YKl","lbl":"Neutral"}
+,{"time":"14:25","usr":"cobaltjacket","txt":"$MMI is no more, and now $GOOG owns this groundbreaking patent: http://t.co/0eg4FSIM","lbl":"Positive"}
+,{"time":"14:27","usr":"Sumenn7063","txt":"#SHORT $BIDU (122.3) & $GOOG (610.38)","lbl":"Negative"}
+,{"time":"14:27","usr":"ZacH1992TradeS","txt":"@61point8 props to you for the $GOOG chart!","lbl":"Neutral"}
+,{"time":"15:07","usr":"wallstCS","txt":"Where is the FTC Digging Up Dirt on Google? http://t.co/53aJowBj $GOOG $EBAY $YELP $MSFT #mkt #stocks","lbl":"Negative"}
+,{"time":"15:12","usr":"dstjohn","txt":"Good to see the market is figuring out $FB was overvalued. No way it is worth as much as $AMZN and half of $GOOG","lbl":"Neutral"}
+,{"time":"15:14","usr":"RedDogT3Live","txt":"Daily Recap is streaming live! http://t.co/7j4fPBvO $SPY $AAPL $QQQ $CMG $JPM $GOOG","lbl":"Neutral"}
+,{"time":"15:52","usr":"SAI","txt":"We Had No Idea How A Phone\u0027s Accelerometer Worked Until We Watched This Video $AAPL $GOOG by @_dtl http://t.co/x8Jam7H3","lbl":"Neutral"}
+,{"time":"15:53","usr":"lluccipha","txt":"SAI: We Had No Idea How A Phone\u0027s Accelerometer Worked Until We Watched This Video $AAPL $GOOG by @_dtl http://t.co/TCijqZf2","lbl":"Neutral"}
+,{"time":"15:54","usr":"WhizCheck6","txt":"$aapl Support and Resistance by Hubert Senters - Wealth Creation Investing http://t.co/dxiqLiFz via @WhizCheck6 $goog $amzn $fb","lbl":"Neutral"}
+,{"time":"15:54","usr":"HanunO","txt":"RT @SeekingAlpha: Microsoft Is Ready For A Buying Frenzy http://t.co/kSWDSoLq $AAPL $FB $GOOG $MMI $SNE $MSFT","lbl":"Neutral"}
+,{"time":"17:08","usr":"pennystockguys","txt":"$GOOG - 2nd UPDATE: Dell Profit Falls By A Third, Sending Shares Lower http://t.co/msbAOiDf","lbl":"Neutral"}
+,{"time":"17:08","usr":"ADVFNplc","txt":"$GOOG - 2nd UPDATE: Dell Profit Falls By A Third, Sending Shares Lower http://t.co/opjYVZLa","lbl":"Neutral"}
+,{"time":"17:08","usr":"charlesrwa","txt":"$GOOG - 2nd UPDATE: Dell Profit Falls By A Third, Sending Shares Lower http://t.co/fWwESolM","lbl":"Neutral"}
+,{"time":"17:08","usr":"nottora2","txt":"RT @SAI: Here\u0027s How Easy It Is To Download Any Video On YouTube $GOOG by @_dtl http://t.co/T5cdLQDV","lbl":"Neutral"}
+,{"time":"19:38","usr":"dshaw","txt":"First time I\u0027ve seen g.co. When did $GOOG get that? http://t.co/vHnoug9V","lbl":"Neutral"}
+,{"time":"19:52","usr":"jarsch","txt":"@cselland Fragmentation sucks and this low storage issue I continually run into is infuriating. $GOOG","lbl":"Negative"}
+,{"time":"19:55","usr":"investorblog","txt":"Will $MSFT benefit from $GOOG & $MMI deal? Good article: http://t.co/57ceFsQc More pro stock picks: http://t.co/MxzECxMp","lbl":"Neutral"}
+,{"time":"21:40","usr":"frotuss","txt":"@jasonzweigwsj wasn\u0027t $goog ipo best form?","lbl":"Neutral"}
+,{"time":"21:46","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZciWIt","lbl":"Neutral"}
+,{"time":"21:52","usr":"ClosingBellNews","txt":"5/22 stock prices $FB -3.03 -8.9% to $31.00 $NFLX -4.03 to 67.71 $GOOG -13.31 to 600.80 $SIRI -.02 to 1.96 #daytrading #CNBC #Bloomberg #RT","lbl":"Neutral"}
+]

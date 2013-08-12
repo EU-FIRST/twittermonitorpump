@@ -1,0 +1,22 @@
+[
+{"time":"0:06","usr":"top_market_news","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/Qpu2lwvz #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"7:15","usr":"angry_veteran","txt":"Ever wonder how the iPhone works? $aapl $goog $vz $T #iphone http://t.co/NyMip4FX","lbl":"Neutral"}
+,{"time":"7:18","usr":"alunhillseo","txt":"RT @SAI: The FCC Just Fined Google $25,000 $GOOG by @stevekovach http://t.co/ng7bkoyW","lbl":"Negative"}
+,{"time":"7:21","usr":"coderkid","txt":"HAHAHA RT @SOSlist Gee, this has got to hurt: RT @SAI: The FCC Just Fined Google $25,000 $GOOG by @stevekovach http://t.co/3Vb1FHcI","lbl":"Negative"}
+,{"time":"11:32","usr":"esoap","txt":"RT @TrendRida: New Post: Google and Amazon - The Non Monopoly Monopolies http://t.co/WKFZhzCD $GOOG $AMZN $AAPL","lbl":"Positive"}
+,{"time":"11:34","usr":"OptiontradinIQ","txt":"RT @StockSage1: New Post: \u0022Sage Weekly Letter - 4/15/2012\u0022 http://t.co/nJppg1YW $AAPL $DOW $ECB $EURUSD $GLD $HUN $GOOG $QQQ $SPY $SPX $TLT","lbl":"Neutral"}
+,{"time":"11:39","usr":"OptionsTrader82","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"14:33","usr":"AlphaVN","txt":"Disruptive Technology: No Flashing in the cell phone pan. $NOK $MSFT $GOOG $EEM http://t.co/TR8hYxFn","lbl":"Neutral"}
+,{"time":"14:39","usr":"AlphaVN","txt":"@LLCOOLJ \u0022IM to the next level\u0022 $NOK $MSFT $GOOG $EEM http://t.co/6YHrjB4a","lbl":"Neutral"}
+,{"time":"14:55","usr":"USwwwStocks","txt":"$GOOG News: CNSX Markets Announces Agreement With Google to Provide Real-Time Market Data http://t.co/4dfVkjBt #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"15:05","usr":"stockwatch9","txt":"$GOOG - Google Stock Analysis - 10day moving average is down - http://t.co/EO5RuEqA","lbl":"Negative"}
+,{"time":"17:37","usr":"LardOfTheRings","txt":"#Amazing & #Awesome RT @ReformedBroker: Prepare to have your minds blown by this story http://t.co/2gWNhCx3 $GOOG","lbl":"Neutral"}
+,{"time":"17:37","usr":"stanfo","txt":"RT @ReformedBroker: Prepare to have your minds blown by this story http://t.co/lXwkv581 $GOOG","lbl":"Neutral"}
+,{"time":"17:38","usr":"downtowntrader","txt":"wow RT @ReformedBroker: Prepare to have your minds blown by this story http://t.co/RFFju6pq $GOOG","lbl":"Neutral"}
+,{"time":"18:53","usr":"USwwwStocks","txt":"$GOOG News: Excerpt from letter from Google Inc. co-founders Larry Page and Sergey Brin o http://t.co/k1SPRPzR #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"19:02","usr":"geetlee","txt":"Awesome!\u201C@rahulworldwide: @geetlee read this RT @ReformedBroker: Prepare to have your minds blown by this story http://t.co/1CPUAkvT $GOOG\u201D","lbl":"Neutral"}
+,{"time":"19:04","usr":"valuewalk","txt":"Hypocrite? Web freedom faces greatest threat ever, warns Google\u0027s Sergey Brin The Guardian http://t.co/QvYLwNLY $GOOG","lbl":"Neutral"}
+,{"time":"19:10","usr":"ValentFinancial","txt":"Finally! Google Obtains Rights to This Flagship Property\u0027s Trademark http://t.co/n3DioF0x $GOOG","lbl":"Positive"}
+,{"time":"23:26","usr":"spynewz007","txt":"RT @TimOBrien: What\u0027s Google Really Doing When It Collects Consumer Information? $$ $GOOG http://t.co/4sNfQ8Ug","lbl":"Neutral"}
+,{"time":"23:26","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022+: more to explore\u0022: http://t.co/YLSwlaLA @Forbes @Reuters_Biz @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
+]

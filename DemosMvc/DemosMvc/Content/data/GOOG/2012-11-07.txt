@@ -1,0 +1,41 @@
+[
+{"time":"0:00","usr":"AlbertS_NY","txt":"fiscal cliff gridlock here we come.. $spy $es_f $aapl $goog #obama","lbl":"Neutral"}
+,{"time":"0:04","usr":"Cramer_TV","txt":"RT @AlbertS_NY: fiscal cliff gridlock here we come.. $spy $es_f $aapl $goog #obama","lbl":"Neutral"}
+,{"time":"0:06","usr":"Cramer_TV","txt":"fiscal cliff gridlock here we come.. $spy $es_f $aapl $goog $vix $tvix $spx #stocks #stockmarket #trading #daytrading #nyse #asx #stockpicks","lbl":"Neutral"}
+,{"time":"8:13","usr":"OptionRunners","txt":"I actually wanted to add more of my $GOOG puts, but I won\u0027t avg up. Will wait for a bounce if it comes soon.","lbl":"Negative"}
+,{"time":"8:13","usr":"robertcshea","txt":"Did $VRNG jury make mistake of multiplying $GOOG revenues by 0.0035 instead of 0.035?","lbl":"Neutral"}
+,{"time":"8:14","usr":"danravicher","txt":"@investbymodel Had Jury only given 3.5% for non $GOOG defendants, the total verdict should\u0027ve only been $18M for $VRNG.","lbl":"Neutral"}
+,{"time":"8:15","usr":"levayco_t3live","txt":"today\u0027s watch list...$LNKD $SRPT $RAX $PCLN $GOOG $SODA $VHC","lbl":"Neutral"}
+,{"time":"9:24","usr":"TomFoust","txt":"I\u0027ve got itm $goog puts I may sell today. <biting knuckles>","lbl":"Positive"}
+,{"time":"9:25","usr":"HFTAlert","txt":"main $goog accumulator...continued buying. http://t.co/O4GTPDQu","lbl":"Positive"}
+,{"time":"9:26","usr":"TravisMelville","txt":"A reason to move \u201C@SAI: Evidence Mounts That Apple Blocked Google Apps From The App Store $GOOG $AAPL by @nichcarlson http://t.co/XXnlCSHx\u201D","lbl":"Neutral"}
+,{"time":"9:26","usr":"infoexplora","txt":"RT @SAI: Evidence Mounts That Apple Blocked Google Apps From The App Store $GOOG $AAPL by @nichcarlson http://t.co/d3JMMIcm","lbl":"Neutral"}
+,{"time":"10:09","usr":"thefinancepress","txt":"$GOOG Unlike Apple, Nokia & Google\u0027s Top-Line Phones Are Getting Less Pricey: Unlike Apple, Nokia & Google\u0027s To... http://t.co/PUtOpID1","lbl":"Neutral"}
+,{"time":"10:09","usr":"KimbleCharting","txt":"$GOOG, $APPL $GE $AMZN GAGA indicator not looking too good today! http://t.co/JMJFtrmZ","lbl":"Negative"}
+,{"time":"10:10","usr":"austinmcraig","txt":"RT @SAI: Report: Microsoft Office Coming To The iPhone And iPad Early Next Year $MSFT $AAPL $GOOG by @stevekovach http://t.co/5KlPxPbH","lbl":"Neutral"}
+,{"time":"10:11","usr":"aka_Bobby","txt":"RT @SAI: Evidence Mounts That Apple Blocked Google Apps From The App Store $GOOG $AAPL by @nichcarlson http://t.co/d3JMMIcm","lbl":"Neutral"}
+,{"time":"10:46","usr":"crazyfasteddy","txt":"With Obama re-election, agriculture, tech, and coal.. all that is left is patent trolls... $AGU $AAPL $GOOG $VHC $VRNG","lbl":"Neutral"}
+,{"time":"10:47","usr":"dlcmh","txt":"Wednesday\u0027s options open interest & max pain updated for $AAPL, $AMZN, $GOOG, $SPY http://t.co/IltBmNMK","lbl":"Neutral"}
+,{"time":"10:47","usr":"petergo99037185","txt":"$AAPL -12, $GOOG -7, twin towers NASDQ, & US Markt, TECH -55, if -60 then -99 possible, trashing all techs? Gold turnd (-) things R normal!","lbl":"Negative"}
+,{"time":"11:52","usr":"Equitykingkong","txt":"$GOOG: long @ 666.89-99 small","lbl":"Positive"}
+,{"time":"11:54","usr":"qineqt","txt":"The Vringo Vs. Google Verdict: Did Vringo Investors Win As Well? http://t.co/uCPvxy7S $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"11:54","usr":"Cramer_TV","txt":"fiscal cliff gridlock here we come. $spy $es_f $aapl $goog $vix $tvix $spx #stocks #stockmarket #trading #daytrading #nyse #asx #stockpicks","lbl":"Negative"}
+,{"time":"12:41","usr":"PJPNIG","txt":"Google\u0027s New Flagship Phone Is A Good Value, But That\u0027s About it $GOOG by @nichcarlson http://t.co/QPCbZViZ","lbl":"Neutral"}
+,{"time":"12:44","usr":"luisotre","txt":"RT @allstarcharts: RT @KimbleCharting: $AAPL $GOOG Apple Eiffel tower pattern support test is at hand!","lbl":"Neutral"}
+,{"time":"12:46","usr":"CDMCapital","txt":"\u0022@howardlindzon:i hate paris\u0022@PowerofthePattern:$AAPL $GOOG $AMZN Apple Eiffel tower pattern support test is @ hand! http://t.co/6XCPJzNG\u0022\u0022","lbl":"Neutral"}
+,{"time":"12:46","usr":"UdallTechStrat","txt":"@smartertrader always much appreciated... btw -- while $aapl $goog hugely important $T just put through a huge capital budget increase $$","lbl":"Positive"}
+,{"time":"13:46","usr":"fiblogix","txt":"A Chart that tells a lot abt the market $AAPL : $GOOG : $ES : $AUDUSD : $EURUSD : $CL : $XAU #forex #futures http://t.co/Hzgbvq9N","lbl":"Neutral"}
+,{"time":"13:49","usr":"StockMarket411","txt":"Google Nexus 4 deep-dive review: Android at its best $goog http://t.co/N1NiRCFO goog, google, google stock, news","lbl":"Positive"}
+,{"time":"14:54","usr":"Minyanville","txt":"7 Reasons Why Obama\u0027s Policies Are Great for the Tech Industry $GOOG $FB $EBAY $MSFT $AMZN http://t.co/Sermgy1I","lbl":"Positive"}
+,{"time":"14:56","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/fMKArBkq","lbl":"Neutral"}
+,{"time":"14:56","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/uVWUjQLw","lbl":"Neutral"}
+,{"time":"14:56","usr":"SAI","txt":"Firefox Maker Gets The IRS Off Its Back And Saves $15 Million $GOOG by @Julie188 http://t.co/cLtMB44x","lbl":"Neutral"}
+,{"time":"16:00","usr":"coffeygrinds","txt":"Why is Eric Schmidt $GOOG at Obama HQ right now? Cabinet appointment #thebigblindtrustcashout","lbl":"Neutral"}
+,{"time":"16:04","usr":"TomFoust","txt":"Sold itm Nov $GOOG puts. I\u0027m a happy camper.","lbl":"Neutral"}
+,{"time":"16:15","usr":"TradeEdge","txt":"$AAPL $GOOG $AMZN Tablet showdown: iPad mini vs. Nexus 7 vs Kindle Fire HD - Nov. 7, 2012 http://t.co/sDXfYH3Q via @sharethis","lbl":"Neutral"}
+,{"time":"19:28","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/EKfa8y2G","lbl":"Neutral"}
+,{"time":"19:28","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/tcIVxiIu","lbl":"Neutral"}
+,{"time":"19:28","usr":"NicolasMas","txt":"RT @SAI: Firefox Maker Gets The IRS Off Its Back And Saves $15 Million $GOOG by @Julie188 http://t.co/cLtMB44x","lbl":"Neutral"}
+,{"time":"22:52","usr":"hiaadiv","txt":"MOSSBERG: Google\u0027s New Flagship Phone Is A Good Value, But That\u0027s About it $GOOG by @nichcarlson http://t.co/4zis5xSY via @SAI","lbl":"Neutral"}
+,{"time":"22:52","usr":"AutostreamUSA","txt":"\u201C@TheStreet: If You Have an iPhone, You\u0027re Probably Smart, Married and Female - http://t.co/oTspXBUo $AAPL $GOOG\u201D","lbl":"Neutral"}
+]

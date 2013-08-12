@@ -1,0 +1,10 @@
+[
+{"time":"4:00","usr":"DavidBentley_FA","txt":"I think this is really how google feels about aaple. $aapl $goog http://t.co/qOoi0BNI","lbl":"Neutral"}
+,{"time":"4:09","usr":"aetonkhark","txt":"Google unveils its Google Fiber broadband Internet service $GOOG","lbl":"Neutral"}
+,{"time":"4:22","usr":"markcolem4n","txt":"You can now \u0022handwrite\u0022 @Google searches into your #iPhone #iPad #Android in addition to voice. Quick how-to from $GOOG http://t.co/6pKA7kyU","lbl":"Neutral"}
+,{"time":"10:02","usr":"jm3","txt":"Why is $GOOG picking a fight with organized crime? http://t.co/yI6TErtG","lbl":"Neutral"}
+,{"time":"10:11","usr":"abebut","txt":"To beat consensus estimates you need to beat by $.01. Much easier with $500 stock than with $50 stock. $AAPL, $GOOG, etc.","lbl":"Neutral"}
+,{"time":"10:12","usr":"ABBlitzer","txt":"Google in search calculator is an awesome tool. $goog","lbl":"Neutral"}
+,{"time":"15:07","usr":"AlphaVN","txt":"Microsoft\u0027s No Quarter Moment, are they up to it? $MSFT $AAPL $GOOG $RIMM http://t.co/ASuW1wVR","lbl":"Neutral"}
+,{"time":"15:07","usr":"SaanpaurSeedi","txt":"@pkedrosky So is $GOOG also joining d fray 4 buying@twitter?But obviously $AAPL $117 Bn cash>$GOOG $43 Bn cash @nickbilton Let d games begin","lbl":"Neutral"}
+]

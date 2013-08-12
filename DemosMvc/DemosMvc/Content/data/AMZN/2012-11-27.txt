@@ -1,0 +1,33 @@
+[
+{"time":"0:15","usr":"PickeringE","txt":"RT @Convertbond: Amazon $AMZN sold $750 mln 0.65% 3 year paper, 38 bps over US Treasuries, $1 bln 1.2% 5 yr bonds at +63 bps, $1.25 bln 2.5% 10 yr bonds +93","lbl":"Neutral"}
+,{"time":"0:16","usr":"paulwoll","txt":"$AMZN at 250 - 250.91 be careful IMHO or take profits","lbl":"Neutral"}
+,{"time":"2:56","usr":"dotpeople","txt":"RT @howardlindzon: $AMZN raising $3 billion of debt is genius at this stage of interest rate cycle http://t.co/ZnYoEB5n - money to buy up failed ecom teams","lbl":"Positive"}
+,{"time":"2:57","usr":"SeekingAlpha","txt":"5 Stocks To Trade, What\u0027s Next For The Market http://t.co/ON2Le4o2 $AMZN $ARO $EXPE $MCD $RIMM","lbl":"Neutral"}
+,{"time":"8:34","usr":"Dasan","txt":"@firstadopter I was going to say the ratings agencies had no problem with $AMZN\u0027s repay the debt, but then I didnt for obvious reasons","lbl":"Neutral"}
+,{"time":"8:35","usr":"CEP_Observer","txt":"@firstadopter @Dasan At least 1/3 of $AMZN\u0027s debt will be used to expand its distribution & parcel locker network; adding 25% annually","lbl":"Neutral"}
+,{"time":"9:08","usr":"firstadopter","txt":"Takes real guts to brag about Kindle hardware unit sales w/misleading PRs when units sales are down over 50% y/y in 2012, but whatever $AMZN","lbl":"Negative"}
+,{"time":"9:09","usr":"LaMonicaBuzz","txt":"Amazon, champion of transparency. $AMZN says Kindle sales double from last Black Friday weekend. But from what to what? Unit sales please!","lbl":"Positive"}
+,{"time":"9:09","usr":"DavidGoldmanCNN","txt":"RT @LaMonicaBuzz: Amazon, champion of transparency. $AMZN says Kindle sales double from last Black Friday weekend. But from what to what? Unit sales please!","lbl":"Neutral"}
+,{"time":"9:34","usr":"aztecs99","txt":"love the connection made by @jimcramer btw $fdx and the holidays/shipping -- $amzn going to be the key driver","lbl":"Neutral"}
+,{"time":"9:34","usr":"takingstock614","txt":"$AMZN still working higher... Look for 250 area.","lbl":"Positive"}
+,{"time":"10:28","usr":"blmiller","txt":"RT @TheStreet: Does Apple TV Have Its Eyes On Sports? http://t.co/kdultANa @DanaBlankenhorn thinks so $AAPL $DIS $CMCSA $NWSA $NFLX $GOOG $WMT $AMZN","lbl":"Neutral"}
+,{"time":"10:29","usr":"StockTwits","txt":"The Consumer Is Far from Dead http://t.co/pydyBoib via @ivanhoff $EBAY $AMZN","lbl":"Neutral"}
+,{"time":"10:30","usr":"mathgeek2005","txt":"@TMFJMo I\u0027m sure $AMZN will preserve coastlines and historic sites for #AmazonLocal travel deals","lbl":"Neutral"}
+,{"time":"10:57","usr":"CEP_Observer","txt":"@TMTanalyst @Commodity_Bull @firstadopter $Amzn\u0027s 2 problems 1) 2-day more expensive to provide now 2) Dec. delivery capacity constraints","lbl":"Negative"}
+,{"time":"11:53","usr":"ShadowCapLLC","txt":"$AKAM Pressure today on $AMZN rumor but strong start to holiday shopping is good news. Long the stock, and have been short Jan $33 calls.","lbl":"Negative"}
+,{"time":"11:54","usr":"takingstock614","txt":"$AMZN could get long through 245.67 vs. tight stop there.","lbl":"Positive"}
+,{"time":"12:23","usr":"MWTickersSChang","txt":"Amazon sold a lot of Kindles but RIMM\u0027s BlackBerry 10 not likely to help resuscitate the company. http://t.co/9MHpwzyT $AMZN $RIMM","lbl":"Positive"}
+,{"time":"13:01","usr":"wallstCS","txt":"Here is Amazon\u2019s Conundrum http://t.co/oXg7k1mE $AAPL $AMZN $BKS #stocks #trading","lbl":"Neutral"}
+,{"time":"13:54","usr":"TMFBreaking","txt":"$AMZN taps bond markets for $3 billion. http://t.co/iQVwW9jt","lbl":"Neutral"}
+,{"time":"13:56","usr":"USwwwStocks","txt":"$AMZN News: Cyber Monday best ever, including for Amazon\u0027s Kindle http://t.co/9x3woALh #Amazonamp39s #AMZN #Best","lbl":"Positive"}
+,{"time":"14:30","usr":"kiwitrader24","txt":"Apply that same tweet to $AAPL and $AMZN","lbl":"Neutral"}
+,{"time":"15:05","usr":"fazli12345","txt":"RT @Benzinga: $AMZN Amazon\u0027s Jeff Bezos Practically Confirmed the Kindle Smartphone http://t.co/CfgTYycZ","lbl":"Neutral"}
+,{"time":"15:06","usr":"JackieMJensen","txt":"Bezos on Charlie Rose - talks about opening physical stores, says to stay tuned on $amzn smartphone http://t.co/vU7AMbHF (via @LaunchTicker)","lbl":"Neutral"}
+,{"time":"15:39","usr":"Jamtrades","txt":"Commented on StockTwits: in regards to $AMZN? http://t.co/Bm6bTtRr","lbl":"Neutral"}
+,{"time":"15:40","usr":"agara2004","txt":"Only 1 more day till my noise cancelling headphones come from $AMZN prime, and I can finally tune out of @cnbc & \u0027fiscal cliff\u0027 madness","lbl":"Neutral"}
+,{"time":"17:02","usr":"steelersdiva","txt":"RT @MarketWatch: Amazon is expected to pick up share of the tablet market in the fourth quarter http://t.co/3DzMQBFI $AMZN","lbl":"Positive"}
+,{"time":"17:02","usr":"rocco_thestreet","txt":"Everybody still hating on $AMZN Stock headed to $250 again. Some things never change.","lbl":"Neutral"}
+,{"time":"17:31","usr":"_ChrisVersace","txt":"@StockTwits The Real Winners of Black Friday and Cyber Monday http://t.co/JrfWDngi $BBY $TGT $WMT $AMZN $AAPL $IBM $SCOR $GOOG $UPS $MA $$","lbl":"Positive"}
+,{"time":"18:36","usr":"derek32smith","txt":"RT @chrisarsenault: Wow! $aapl\u0027s FY2012 profits exceeded $msft, $goog, $ebay, $yhoo, $fb &$amzn combined by $7b http://t.co/iqWzcxtB @statista_inc #cix2012","lbl":"Neutral"}
+,{"time":"21:58","usr":"BsiflingTrades","txt":"RT @BenCBanks: $AMZN is extended off it\u0027s 8 EMA w/ caution flags telling us it could rest, see chart - http://t.co/ozKvUclD","lbl":"Negative"}
+]

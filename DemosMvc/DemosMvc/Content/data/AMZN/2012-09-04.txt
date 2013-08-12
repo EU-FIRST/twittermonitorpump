@@ -1,0 +1,35 @@
+[
+{"time":"1:04","usr":"zoeybear20","txt":"RT @AllAboutTrends: Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from ...","lbl":"Neutral"}
+,{"time":"6:33","usr":"Tejpalbedi","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"6:33","usr":"Dow10k","txt":"RT @NASDAQ: NASDAQ-100 AHI at 2772.05 (down -0.01%) movers: $ATVI, $BIDU, $SIRI, $DLTR, $AMZN http://t.co/XcEm35SB #nasdaq","lbl":"Neutral"}
+,{"time":"6:36","usr":"MobilitySoup","txt":"RT @sai: 10 Things You Need To Know This Morning $FB $AAPL $RIMM $HP $AMZN $GOOG $NOK by @nichcarlson http://t.co/4VO6ZBxj","lbl":"Neutral"}
+,{"time":"6:37","usr":"TenBaggers","txt":"The tablet war is ready to heat up. http://t.co/m5ymxDjT $AAPL $AMZN $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"7:37","usr":"everywheresafe","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"7:39","usr":"ChristianMRicci","txt":"$AMZN envy? \u0022Tesco adds e-book seller Mobcast\u0022 http://t.co/ZDH5KmIc","lbl":"Neutral"}
+,{"time":"8:34","usr":"RedDogT3Live","txt":"My T3Live Morning Call http://t.co/aMDzDzif Stay informed, but trade the price action $SPY $SLV $AAPL $AMZN $GOOG @T3Live","lbl":"Neutral"}
+,{"time":"8:35","usr":"RedDogT3Live","txt":"@tlmontana @bcitcapital there\u0027s the gun to head $amzn call of $250 before $240","lbl":"Neutral"}
+,{"time":"8:50","usr":"EdwardFSlayton","txt":"This $AMZN news, doing a deal w/ EPIX, hitting $NFLX hard... To repeat: Competition, competition, competition. #Stocks","lbl":"Positive"}
+,{"time":"8:50","usr":"BrianSozzi","txt":"So basically Best Buy wants its suppliers to lower their prices and get goods to them quicker so it survives. $BBY $AMZN $$","lbl":"Neutral"}
+,{"time":"8:50","usr":"paulwoll","txt":"This might be $AMZN week.. more deals (streaming) may be announced Thursday.","lbl":"Positive"}
+,{"time":"9:12","usr":"mbcls","txt":"just shorted amazon. they going to charge CA sales taxes in 2 weeks? I just shop elsewhere tax-free! $AMZN","lbl":"Negative"}
+,{"time":"9:48","usr":"SAI_Tools","txt":"These Are The 9 Features That The Next Kindle Fire Absolutely Must Have $AMZN by @_dtl http://t.co/O6gLfVk3","lbl":"Neutral"}
+,{"time":"10:20","usr":"ezoomin","txt":"RT @SAI: These Are The 9 Features That The Next Kindle Fire Absolutely Must Have $AMZN by @_dtl http://t.co/HuTAaahH","lbl":"Neutral"}
+,{"time":"11:03","usr":"Paint_Shield","txt":"RT @YahooFinance: Amazon and Epix strike movie deal; Netflix shares slump http://t.co/zpd1n0Wy $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"11:03","usr":"investorsmosaic","txt":"Amazon and Netflix will fight to the death. $AMZN will win because $NFLX can subsidize the content cost from other businesses like Amazon.","lbl":"Positive"}
+,{"time":"12:33","usr":"MR_MONEYSHOW","txt":"Buy Mercadolibre: The eBay Of Latin America http://t.co/jBDupS1k $AMZN $EBAY $MELI","lbl":"Neutral"}
+,{"time":"12:40","usr":"SeekingAlpha","txt":"Is This The End Of Netflix Streaming Video? http://t.co/lgRZFImi $AMZN $AAPL $VZ $VIA $NFLX","lbl":"Neutral"}
+,{"time":"13:20","usr":"Dasan","txt":"When @ericjackson talks, I always watch the replay: Amazon Deal \u2018Final Straw\u2019 for Netflix: Analyst http://t.co/46ekYMly $AMZN $CSTR $NFLX","lbl":"Neutral"}
+,{"time":"14:01","usr":"MKTactn","txt":"RT @CNBCtopStories: Amazon and Epix Strike Movie Deal, Netflix Shares Drop http://t.co/njzQ7hPL $AAPL $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"14:02","usr":"KokomoJoeKW","txt":"RT @YahooFinance: Rivals jostle before Apple announces new iPhone http://t.co/ScZgbrgD $AAPL $AMZN $NOK $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"14:31","usr":"graubart","txt":"@howardlindzon I hardly watch TV but we subscribe to both. Daughter stole the Roku box for her room. $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"14:34","usr":"emrickman","txt":"RT @YahooFinance: Rivals jostle before Apple announces new iPhone http://t.co/ScZgbrgD $AAPL $AMZN $NOK $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"15:12","usr":"ECONgeek947","txt":"@eeckdhal & only way $amzn can steal device mkt share from $aapl is by selling kindle @ LOSS, either way $amzn is screwed lol long $nflx","lbl":"Negative"}
+,{"time":"15:14","usr":"wendylanders","txt":"RT @LaMonicaBuzz: Hunger Games studio $LGF, one of Epix partners, up 3% today on $AMZN deal. Someone say this to $NFLX: May the odds be ...","lbl":"Neutral"}
+,{"time":"15:14","usr":"Toshon","txt":"Is This The End Of Netflix Streaming Video? http://t.co/xZcHyGid $AMZN $AAPL $VZ $VIA $NFLX","lbl":"Neutral"}
+,{"time":"16:30","usr":"GdayToYou","txt":"@MarketWatch Told my broker sell my long position in $FEDEX, but they said $AMZN sales would drive business. Lost 4% today on earnings.","lbl":"Neutral"}
+,{"time":"17:34","usr":"barronstechblog","txt":"AAPL: Baird Encouraged by Survey View on Smaller iPad - Tech Trader Daily - Barron\u0027s $AAPL $AMZN $GOOG $MSFT $NOK $RIMM http://t.co/5A5nRJ0h","lbl":"Neutral"}
+,{"time":"18:44","usr":"ZorTrades","txt":"does $FDX tell you anything about $AMZN or the price of oil itself? or is $AMZN more kindle now, movies, cloud? just think outloud","lbl":"Neutral"}
+,{"time":"18:47","usr":"ECONgeek947","txt":"$amzn prime failure 3 reasons: $aapl mini iPad/iphone5, PATHETIC stream interface & delivery, 1/3 of $nflx titles 4 same PRICE #RUremedial","lbl":"Negative"}
+,{"time":"18:48","usr":"rbanta","txt":"@ZorTrades I\u2019m still wondering how $AMZN can deliver you one box of Kleenex 2nd day air for a fixed price/yr. with gas near $ 5.","lbl":"Neutral"}
+,{"time":"22:01","usr":"GeekChic21","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+]

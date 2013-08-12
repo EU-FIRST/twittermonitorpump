@@ -1,0 +1,49 @@
+[
+{"time":"6:11","usr":"SAI","txt":"Google\u0027s First Tablet Will Start Shipping Next Month [REPORT] $GOOG by @sfiegerman http://t.co/MHVbcoKX","lbl":"Neutral"}
+,{"time":"6:11","usr":"NielsFootman","txt":"RT @SAI: Google\u0027s First Tablet Will Start Shipping Next Month [REPORT] $GOOG by @sfiegerman http://t.co/MHVbcoKX","lbl":"Neutral"}
+,{"time":"7:31","usr":"paddyahern","txt":"RT @SAI: Google\u0027s First Tablet Will Start Shipping Next Month [REPORT] $GOOG by @sfiegerman http://t.co/MHVbcoKX","lbl":"Neutral"}
+,{"time":"7:32","usr":"kngbn97","txt":"RT @SAI: Google\u0027s First Tablet Will Start Shipping Next Month [REPORT] $GOOG by @sfiegerman http://t.co/MHVbcoKX","lbl":"Neutral"}
+,{"time":"7:34","usr":"Lucibelle696","txt":"RT @Computerworld: RT @richi: Google wins again vs. Oracle: No patent probs. #ITBW http://t.co/EnfXWc3p $GOOG $ORCL","lbl":"Positive"}
+,{"time":"7:36","usr":"CPVDBROECK","txt":"RT @SAI: Google\u0027s First Tablet Will Start Shipping Next Month [REPORT] $GOOG by @sfiegerman http://t.co/MHVbcoKX","lbl":"Neutral"}
+,{"time":"8:50","usr":"parklandtrader","txt":"@cnbcfastmoney Stocks to key on in market direction $AAPL $GOOG $BAC $CAT - they need to hold these levels..","lbl":"Neutral"}
+,{"time":"8:50","usr":"EithanReif","txt":"iwm > qqq i think $goog great here 604.5","lbl":"Positive"}
+,{"time":"8:50","usr":"njnigh","txt":"Microsoft Office for iPad and Android tablets may be coming in November $MSFT $AAPL $GOOG http://t.co/Ga2lMFc1","lbl":"Neutral"}
+,{"time":"9:35","usr":"ADVFNplc","txt":"$GOOG - Microsoft Declares Patent Case Win Vs Motorola In Munich Court http://t.co/FhVfXPav","lbl":"Positive"}
+,{"time":"9:35","usr":"pennystockguys","txt":"$GOOG - Microsoft Declares Patent Case Win Vs Motorola In Munich Court http://t.co/QI6Pylln","lbl":"Negative"}
+,{"time":"10:21","usr":"DelPercioS","txt":"RT @WSJ: Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/XH0MiDPU $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:22","usr":"246Incubus","txt":"RT @WSJ: Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/XH0MiDPU $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:22","usr":"wQQn","txt":"RT @WSJ: Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/XH0MiDPU $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:22","usr":"Biggatorsims","txt":"RT @WSJ: Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/XH0MiDPU $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:30","usr":"SeekingAlpha","txt":"AT&T: Cheap At $33 And Ready To Move Higher http://t.co/LyhBaktn $AAPL $GOOG $MSFT $S $VZ $T","lbl":"Neutral"}
+,{"time":"10:30","usr":"McHypeMedia","txt":"RT @WSJ: Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/XH0MiDPU $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:30","usr":"DVarma90","txt":"RT @WSJ: Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/XH0MiDPU $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:30","usr":"thefinancepress","txt":"$GOOG Notable ETF Inflow Detected - XLK, GOOG, VZ, ORCL: Notable ETF Inflow Detected - XLK, GOOG, VZ, ORCL Forb... http://t.co/0apXwImx","lbl":"Neutral"}
+,{"time":"10:55","usr":"Sabor_LoSO","txt":"RT @WSJ: Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/XH0MiDPU $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:56","usr":"hammads","txt":"Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/t4JsyTHP $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:56","usr":"TMFRuleBreakers","txt":"Finally something interesting from Yahoo! ($YHOO). Initial tests of #Axis browser show promise. Pay attention $GOOG and $AAPL.","lbl":"Negative"}
+,{"time":"10:57","usr":"DCaptura","txt":"Googlerola\u0027s android #patent chickens come home to roost. $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"11:40","usr":"SeekingAlpha","txt":"2 High Value Tech Stocks To Buy On Dips http://t.co/NWCTwr1M $AAPL $DELL $GOOG $RIMM $HPQ","lbl":"Neutral"}
+,{"time":"11:40","usr":"takingstock614","txt":"How many times can $GOOG keep bouncing off $600. Believe me it\u0027s gonna break it in time.","lbl":"Positive"}
+,{"time":"11:45","usr":"alvisefranz","txt":"RT @SeekingAlpha: 2 High Value Tech Stocks To Buy On Dips http://t.co/NWCTwr1M $AAPL $DELL $GOOG $RIMM $HPQ","lbl":"Positive"}
+,{"time":"12:17","usr":"jdearman77","txt":"RT @SAI: THE GOOGLE INVESTOR: What The Motorola Acquisition Means For Android $GOOG by @hleonard76 http://t.co/JZyt6vSV","lbl":"Neutral"}
+,{"time":"12:18","usr":"choffman1978","txt":"$SIRI about to turn green! #cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s,$siri,$wmt","lbl":"Neutral"}
+,{"time":"13:02","usr":"BichonLover","txt":"Nice bounce on $GOOG weeklies... quick scalp.","lbl":"Negative"}
+,{"time":"13:03","usr":"HetanP","txt":"RT @WSJ: Motorola is now the Apple of Google\u0027s eye. Behind Google\u0027s strategy: http://t.co/XH0MiDPU $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:04","usr":"businessinsider","txt":"Here Are The Companies Google Is Depending On For Motorola Phones To Survive $GOOG $MOT by @mattlynley http://t.co/UWFKBhuf","lbl":"Neutral"}
+,{"time":"13:50","usr":"TradeEducation","txt":"http://t.co/NuwF4q18 $1,300.00 profit in $GOOG They wouldn\u0027t fill me on the whole order :-( Should have been 4x bigger on $GOOG","lbl":"Positive"}
+,{"time":"13:52","usr":"oktagon1","txt":"RT @SAI: Now You Can Buy In-App Subscriptions In Android Apps $GOOG by @stevekovach http://t.co/3upDawf6","lbl":"Neutral"}
+,{"time":"13:55","usr":"kpooya","txt":"Now You Can Buy In-App Subscriptions In Android Apps $GOOG http://t.co/g5feFreW\u201D","lbl":"Neutral"}
+,{"time":"15:37","usr":"charlesrwa","txt":"$GOOG - Major US Shares Start Trading On Chile\u0027s Main Stock Exchange http://t.co/hgmGZRRv","lbl":"Neutral"}
+,{"time":"15:41","usr":"wallstCS","txt":"Apple Gets Rid of This Headache http://t.co/xZeV3jVe $AAPL $RIMM $DIS $FB $MSFT $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:44","usr":"pdm1010","txt":"$GOOG $$ Transparency for copyright removals in search http://t.co/dqIQANaU","lbl":"Neutral"}
+,{"time":"16:54","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZciWIt","lbl":"Neutral"}
+,{"time":"16:54","usr":"c0taRo","txt":"RT @CNNMoney: Google kills 250K search links a week b/c copyright holders request due to copyright violations http://t.co/QMIYgphP $GOOG","lbl":"Neutral"}
+,{"time":"16:56","usr":"Urbane_Gorilla","txt":"Google Reportedly Plans To Ship Up To 2.5M Tablets In 2012 - Forbes http://t.co/nm7F46gY $GOOG","lbl":"Neutral"}
+,{"time":"18:20","usr":"charlesrwa","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/qSe0awrQ","lbl":"Neutral"}
+,{"time":"18:23","usr":"WallStJesus","txt":"\u2605Undervalued Leaders From Jeremy Grantham To Buy - Will You Let Them Pass By? http://t.co/G6J8f9x7 $JNJ $PFE $KO $PM $WMT $GOOG","lbl":"Positive"}
+,{"time":"18:31","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director BOUGHT 11250 shares \u2611","lbl":"Positive"}
+,{"time":"18:37","usr":"RobertWeinstein","txt":"Buy Apple and Google, Wait On Facebook, Stay Away From Zynga - TheStreet http://t.co/e9CKgBLM via @TheStreet $AAPL, $GOOG, $FB, $ZNGA","lbl":"Positive"}
+,{"time":"21:42","usr":"creditspread23","txt":"RT @traderider7 i think $GOOG tomorrow is my put play on the expiring weekly. with a target of 585 or so.","lbl":"Negative"}
+,{"time":"22:08","usr":"johnctrader","txt":"The Fuck is wrong with volume, and #VOL on $AAPL, $PCLN, and $GOOG http://t.co/ODenO9Ca","lbl":"Neutral"}
+,{"time":"22:08","usr":"johnctrader2","txt":"The Fuck is wrong with volume, and #VOL on $AAPL, $PCLN, and $GOOG http://t.co/vVeuNZEY","lbl":"Neutral"}
+]

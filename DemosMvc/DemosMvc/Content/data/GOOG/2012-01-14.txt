@@ -1,0 +1,26 @@
+[
+{"time":"8:27","usr":"flipboardbiz","txt":"RT @TheStreet: Motorola Mobility Hits Rough Patch http://t.co/JgzUdBLG by @ericjackson $MMI $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"8:29","usr":"D_ROC707","txt":"RT @wallstCS: Weekly Tech Biz Recap: Apple\u0027s Updates, Groupon Expands in Europe http://t.co/XHy1vUj4 $AAPL $GRPN $GOOG $ORCL $DELL $NFLX $VZ $MSFT $GME","lbl":"Neutral"}
+,{"time":"8:35","usr":"chandunair","txt":"RT @SAI: Three Examples Where The Government Has Said Google Is Dominant $GOOG by @MattRosoff http://t.co/epcQw1Gw","lbl":"Neutral"}
+,{"time":"8:52","usr":"thefinancepress","txt":"$GOOG Facebook\u0027s Zuckerberg Admires Amazon, Apple, Google, WSJ Says: Facebook\u0027s Zuckerberg Admires Amazon, Appl... http://t.co/hU7xK4h7","lbl":"Positive"}
+,{"time":"11:02","usr":"rodrigottr","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/yB7AwayO","lbl":"Positive"}
+,{"time":"11:03","usr":"andrias98","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"11:03","usr":"nevinbuconjic","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"11:05","usr":"noelbaklavasi","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"14:02","usr":"TrendRida","txt":"\u0022This is what happens when you tell your entire staff that your salary depends on winning in social.\u0022 $GOOG http://t.co/mEIHtxHb","lbl":"Negative"}
+,{"time":"14:03","usr":"lodginginteract","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/OPGmufOi","lbl":"Positive"}
+,{"time":"14:09","usr":"Jayhassett","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"14:09","usr":"Emafokru","txt":"Investor Trade Stocks Preview \u00A9: Video trading Analysis $GOOG ... http://t.co/WThPCaCB","lbl":"Neutral"}
+,{"time":"15:58","usr":"edwardrooster","txt":"Cadbury unveils new chocolate bar on Google+ http://t.co/sr4qU9KS. $GOOG $CDSCY promo makes me think of FourSQUARE\u0027s Amex pilot #Potential$","lbl":"Neutral"}
+,{"time":"16:04","usr":"Robo_trader","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/EdSp4aRG #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"16:15","usr":"CR8ID","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"16:18","usr":"thefinancepress","txt":"$GOOG White House Won\u0027t Back Internet Censorship: White House Won\u0027t Back Internet Censorship Bloomberg - 5 hour... http://t.co/NzbuQyQc","lbl":"Neutral"}
+,{"time":"18:02","usr":"AlfredoNarvaez","txt":"RT @businessinsider: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/no4LjF1D","lbl":"Negative"}
+,{"time":"18:03","usr":"OgFOMK","txt":"\u0022@YahooFinance: FTC expands Google antitrust probe: source http://t.co/QJFiUOEZ\u0022 $$goog","lbl":"Negative"}
+,{"time":"18:03","usr":"OgFOMK","txt":"\u0022@rupertmurdoch: Piracy leader is Google who streams movies free, sells advts around them. No wonder pouring millions into lobbying.\u0022 $$goog","lbl":"Neutral"}
+,{"time":"18:05","usr":"iamironman4","txt":"RT @SAI: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/nKcLjxlu","lbl":"Negative"}
+,{"time":"20:04","usr":"Drawn_Closer","txt":"RT @businessinsider: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/ZVbM1wmb","lbl":"Negative"}
+,{"time":"20:04","usr":"stocklist21","txt":"$GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/6itoYDMf","lbl":"Positive"}
+,{"time":"20:13","usr":"jborrego","txt":"RT @businessinsider: Rupert Murdoch Is Ripping Google, Supporting SOPA On Twitter Right Now $GOOG $NWS by @jyarow http://t.co/iecOp0QM","lbl":"Negative"}
+,{"time":"20:13","usr":"OptionsTrader82","txt":"RT @stocklist21: $GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/DR18weZs","lbl":"Positive"}
+]

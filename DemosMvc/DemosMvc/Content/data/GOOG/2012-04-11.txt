@@ -1,0 +1,55 @@
+[
+{"time":"2:29","usr":"TechStockFacts","txt":"If Google earns $10 a share on Thursday night, remember where you read it first. #GOOG $GOOG http://t.co/iXMd1vTi","lbl":"Positive"}
+,{"time":"3:01","usr":"surinder","txt":"Does $GOOG really want to be a company that makes actual stuff? http://t.co/nB1rAHKV","lbl":"Neutral"}
+,{"time":"3:08","usr":"freestocks21","txt":"$GOOG - Google Stock Analysis - bullish macd crossover - http://t.co/eXf6cySj","lbl":"Positive"}
+,{"time":"3:27","usr":"zaibatsu","txt":"RT @dkberman: Google\u0027s $12 Billion Toy. http://t.co/sjGKdSwQ $GOOG #tech","lbl":"Neutral"}
+,{"time":"6:58","usr":"RogueStockTradr","txt":"$GOOG 750 May C size is too big for me to believe it\u0027s a hedge against a short. At 1.30ish good risk for a potential parabolic run ala $AAPL","lbl":"Positive"}
+,{"time":"7:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/63, $SPY/33, $AA/21, $GOOG/21, $BBY/16, $JPM/11, $JCP/9, $TZOO/9, $IBM/9. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"7:08","usr":"TechStockFacts","txt":"60 minute Trending Social Volume: $AAPL/63, $SPY/33, $AA/21, $GOOG/21, $BBY/16, $JPM/11, $JCP/9, $TZOO/9, $IBM/9. http://t.co/PPrmXK6y","lbl":"Neutral"}
+,{"time":"8:22","usr":"Edisonsepulveda","txt":"RT @LaMonicaBuzz: Good quarter from $AA may help market. Next up? $GOOG. Can Google regain momentum (and rejuvenate tech) after Q4 miss? Check The Buzz later.","lbl":"Neutral"}
+,{"time":"8:26","usr":"gorosmzk","txt":"RT @SAI: Google\u0027s Motorola Acquisition Is A \u0027Cocky\u0027 Attempt To Do Everything At Once $GOOG by @mattlynley http://t.co/izXxT1Y7","lbl":"Negative"}
+,{"time":"8:30","usr":"Rorro_GV","txt":"RT @LaMonicaBuzz: Good quarter from $AA may help market. Next up? $GOOG. Can Google regain momentum (and rejuvenate tech) after Q4 miss? Check The Buzz later.","lbl":"Neutral"}
+,{"time":"8:59","usr":"jomeara555","txt":"RT @dkberman: What happens when Google believes it can be a device company, too? Read about Google\u0027s $12 Billion Toy here: http://t.co/TyWcNIgf $GOOG $MMI","lbl":"Neutral"}
+,{"time":"8:59","usr":"madFu","txt":"an expert weighs in on $GOOG #glasses...i learned a little sumthin\u0027 so thought i\u0027d share -- http://t.co/bk0qe5xH","lbl":"Neutral"}
+,{"time":"8:59","usr":"BioTechReports","txt":"$NGSX up 35% on FDA news! - Will Merck partner? #cnbc,#msnbc,#wsj,#nyse,$dndn,$pfe,$jnj, $amgn,$ctic,$vvus,$chtp,$gs,$goog,$appl,$c","lbl":"Neutral"}
+,{"time":"8:59","usr":"AiLEON_ODDiSSEY","txt":"RT @dkberman: What happens when Google believes it can be a device company, too? Read about Google\u0027s $12 Billion Toy here: http://t.co/TyWcNIgf $GOOG $MMI","lbl":"Neutral"}
+,{"time":"9:32","usr":"AlphaBetaBanjo","txt":"$GOOG will be strong thru earnings my near term target is 670ish","lbl":"Positive"}
+,{"time":"9:33","usr":"Qwovadis","txt":"Commented on: \u0022Baidu Won\u0027t Stop Growing: Here Are Ways To Profit\u0022 http://t.co/q5lVAZCn $GOOG $SINA $BIDU","lbl":"Neutral"}
+,{"time":"10:10","usr":"AbeLincolnCFP","txt":"RT @dkberman What happens when Google believes it can be a device company, too? Google\u0027s $12 Billion Toy: http://t.co/L1Q16zTi $GOOG $MMI","lbl":"Neutral"}
+,{"time":"10:11","usr":"_SimonUK_","txt":"RT @SAI: Microsoft Has Only Sold 3.5 Million Windows Phones To Date -- REPORT $MSFT $NOK $GOOG $AAPL by @jyarow http://t.co/gUmPdxCd","lbl":"Neutral"}
+,{"time":"10:48","usr":"RobertWeinstein","txt":"LIGHTSPEED WEBINAR: Lightspeed Trader Platform Intro | Paid2Trade http://t.co/0zNvDqVJ $SPY $GOOG","lbl":"Neutral"}
+,{"time":"10:49","usr":"coryjwatson","txt":"out of $GOOG calls as well, small loss","lbl":"Negative"}
+,{"time":"11:44","usr":"thefinancepress","txt":"$GOOG Google Launches New Google+ Design in Challenge to Facebook: Google Launches New Google+ Design in Challe... http://t.co/fUthtNWo","lbl":"Positive"}
+,{"time":"11:47","usr":"elainechen1229","txt":"RT @SAI: Google Just Announced A Big Overhaul Of The Google+ Design $GOOG by @jyarow http://t.co/iCxhYgG2","lbl":"Neutral"}
+,{"time":"11:50","usr":"etchare","txt":"QuoteStream by $QMCI #Stock Quotes $GOOG Play! http://t.co/R7Re3ZHV wireless financial data app streaming real-time market data news charts","lbl":"Neutral"}
+,{"time":"12:28","usr":"aztecs99","txt":"RT @BillBigD: @aztecs99 $GOOG trade-about a 400% gain if it closes at 580 or 688ish --- that\u0027s it bill!","lbl":"Positive"}
+,{"time":"12:28","usr":"lluccipha","txt":"SAI: Microsoft\u0027s Windows 8 Tablets Will Be An Utter Failure, Predicts Gartner $MSFT $AAPL $GOOG $AMZN by @MattRosoff http://t.co/jJLOh17M","lbl":"Neutral"}
+,{"time":"13:21","usr":"UmarAlam","txt":"\u201C@wallstCS: Wrestle Mania Finally Goes Web 2.0 http://t.co/W0hGk7Rv $WWE $GOOG #mkt #stocks\u201D","lbl":"Neutral"}
+,{"time":"13:22","usr":"jonasQuinn23","txt":"wow, $GOOG vaulted over $AAPL again","lbl":"Positive"}
+,{"time":"13:24","usr":"iJamonEdwards","txt":"I just made a new friend, well come to the family $GOOG.","lbl":"Positive"}
+,{"time":"13:25","usr":"ValentFinancial","txt":"Nokia\u0027s Software Stumbles, But Payouts Coming http://t.co/klKkHuoR $NOK $T $AAPL $GOOG $MSFT #mkt #stocks","lbl":"Neutral"}
+,{"time":"13:48","usr":"businessinsider","txt":"Here\u0027s Everything You Need To Know To Use The New Google+ $GOOG by @nattgarun http://t.co/yFC6vBCS","lbl":"Neutral"}
+,{"time":"13:48","usr":"SAI","txt":"Here\u0027s Everything You Need To Know To Use The New Google+ $GOOG by @nattgarun http://t.co/SNOyvc5p","lbl":"Neutral"}
+,{"time":"13:48","usr":"SAI_Tools","txt":"Here\u0027s Everything You Need To Know To Use The New Google+ $GOOG by @nattgarun http://t.co/L88uq2ly","lbl":"Neutral"}
+,{"time":"13:49","usr":"HireFuel","txt":"RT @SAI: Here\u0027s Everything You Need To Know To Use The New Google+ $GOOG by @nattgarun http://t.co/SNOyvc5p","lbl":"Neutral"}
+,{"time":"14:28","usr":"ImAfterdotcom","txt":"businessinsider: Here\u0027s Everything You Need To Know To Use The New Google+ $GOOG by @nattgarun http://t.co/4fS6wrwQ http://t.co/QEroYNeq","lbl":"Neutral"}
+,{"time":"14:31","usr":"barronstechblog","txt":"NOK\u2019s Lumia 900\u2032s $217 Cost Expands Win Phone Market, Says iSuppli - Tech Trader Daily - $NOK $MSFT $AAPL $GOOG http://t.co/4TJWUR7m","lbl":"Neutral"}
+,{"time":"15:17","usr":"ha_jt","txt":"\u0022@SAI: Microsoft Has Only Sold 3.5 Million Windows Phones To Date -- REPORT $MSFT $NOK $GOOG $AAPL by @jyarow http://t.co/pWrdqpYM\u0022","lbl":"Neutral"}
+,{"time":"15:17","usr":"wallstCS","txt":"This is Why Google Bought Motorola http://t.co/c3Psqztf $AAPL $MMI $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"15:20","usr":"fin_bot1","txt":"RT@SAI Google \u0027Plans To Make Substantial Investment\u0027 In Motorola, Not Sell It $GOOG $MMI by @jyarow http://t.co/OqrQxHFX","lbl":"Neutral"}
+,{"time":"15:20","usr":"thefinancepress","txt":"$GOOG IHS iSuppli: Nokia Held Down New Smartphone Costs: IHS iSuppli: Nokia Held Down New Smartphone Costs NASD... http://t.co/am4WzT6D","lbl":"Neutral"}
+,{"time":"16:17","usr":"PaulMedica","txt":"$GOOG looking good into earnings tomorrow. Looking at the May 590/650/690 call spread risk reversal for $2.30 for max gain of 16x. Also ...","lbl":"Positive"}
+,{"time":"16:21","usr":"Mark_Lexus","txt":"@Ustopcryingfool if it sells off it will present an opportunity to enter into credit put spreads so can participate either direction $GOOG","lbl":"Negative"}
+,{"time":"16:21","usr":"thefinancepress","txt":"$GOOG Google forecast to post earnings, sales gains: Google forecast to post earnings, sales gains MarketWatch ... http://t.co/jCrdAFcH","lbl":"Positive"}
+,{"time":"17:12","usr":"MariusFermi","txt":"$GOOG new blog on the new era of QR codes http://t.co/9AbyInfb","lbl":"Neutral"}
+,{"time":"17:14","usr":"mercbizbreak","txt":"Biz Break has feds taking on #Apple on e-book prices, Wall Street rebounding, and #Google earnings preview. $APPL $GOOG http://t.co/EH9qKLOz","lbl":"Neutral"}
+,{"time":"18:35","usr":"fadjri","txt":"RT @businessinsider: Samsung Has A Tablet That\u0027s Better Than The Kindle Fire [GALAXY TAB 2 REVIEW] $GOOG $AMZN by @stevekovach http://t.co/GHR5wHMM","lbl":"Neutral"}
+,{"time":"18:37","usr":"CapCube","txt":"RT @firstadopter: Kick ass! \u201C@SAI: Samsung Has Tablet That\u0027s Better Than The Kindle Fire [GALAXY TAB 2 REVIEW] $GOOG $AMZN http://t.co/VHCfTy5q\u201D","lbl":"Neutral"}
+,{"time":"19:43","usr":"StockHippo","txt":"Current Earnings discussions - top discussed stocks: $GOOG, $AA, $AAPL, $SPY, $WFC, $ADTN, $JPM, $BAC, $PCLN, $XOM http://t.co/HNFiVDAY","lbl":"Neutral"}
+,{"time":"19:45","usr":"LGStateofMind","txt":"RT @SAI: THE GOOGLE INVESTOR: Hollywood Still Not Happy, Here Comes The $1 Billion YouTube Lawsuit $GOOG by @hleonard76 http://t.co/ldX7JRly","lbl":"Negative"}
+,{"time":"19:48","usr":"StockHippo","txt":"Current Calls discussions - top discussed stocks: $AAPL, $BAC, $PCLN, $SPY, $FSLR, $INTC, $GOOG, $WMT, $AA, $FFIV http://t.co/grCrUQtY","lbl":"Neutral"}
+,{"time":"23:28","usr":"Jarheadclan","txt":"RT @OptionInvestor: an option strangle on $GOOG is also expensive. April $600 puts are $8 + the Apr 670 calls are $8(ouch!) but GOOG likes to gap after earnings","lbl":"Neutral"}
+,{"time":"23:32","usr":"brainlee0","txt":"RT @businessinsider: Samsung Has A Tablet That\u0027s Better Than The Kindle Fire [GALAXY TAB 2 REVIEW] $GOOG $AMZN by @stevekovach http://t.co/GHR5wHMM","lbl":"Neutral"}
+,{"time":"23:32","usr":"thefinancepress","txt":"$GOOG Google\u0027s last dance before Facebook IPO: Google\u0027s last dance before Facebook IPO MarketWatch - 31 minutes... http://t.co/uDTly3r0","lbl":"Neutral"}
+,{"time":"23:39","usr":"speculatethemkt","txt":"$GOOG what does everyone think of the new google+? I honestly liked it better the other way #newgoogle+","lbl":"Negative"}
+]

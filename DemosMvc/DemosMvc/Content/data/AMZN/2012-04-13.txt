@@ -1,0 +1,21 @@
+[
+{"time":"1:00","usr":"simplestockqtes","txt":"Someone just got a simple quote on $amzn @simplestockqtes http://t.co/NfEl9cj7","lbl":"Neutral"}
+,{"time":"1:03","usr":"stocktim1","txt":"$AMZN - Amazon Stock Analysis - ATR is bullish - http://t.co/LbhRA2V2","lbl":"Positive"}
+,{"time":"4:51","usr":"businessinsider","txt":"Amazon Inflates Numbers To Make Its Streaming Video Library Seem Bigger Than It Really Is $AMZN by @_dtl http://t.co/WoK6AzPg","lbl":"Negative"}
+,{"time":"7:09","usr":"buzutt","txt":"RT @businessinsider: Amazon Inflates Numbers To Make Its Streaming Video Library Seem Bigger Than It Really Is $AMZN by @_dtl http://t.co/WoK6AzPg","lbl":"Negative"}
+,{"time":"7:10","usr":"theASHOK","txt":"RT @firstadopter: $AMZN boasts more than 17,000 movies and TV shows in Prime streaming, when reality it is 1745 movies and 150 TV series: http://t.co/hGsBdV09","lbl":"Neutral"}
+,{"time":"8:26","usr":"options911","txt":"watching $BIDU $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"9:10","usr":"SeekingAlpha","txt":"Microsoft\u0027s Open Source Problem http://t.co/duIMQP9t $AMZN $CRM $RHT $VMW $MSFT","lbl":"Neutral"}
+,{"time":"9:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:17am: 187.90 -2.79 (-1.46%).","lbl":"Neutral"}
+,{"time":"10:14","usr":"tonythetigerp","txt":"$AMZN long","lbl":"Positive"}
+,{"time":"11:04","usr":"TrendRida","txt":"@biggercapital Interesting. I got to think about it some more... $AMZN","lbl":"Neutral"}
+,{"time":"11:05","usr":"1nvestor","txt":"RT @TrendRida @biggercapital Interesting. I got to think about it some more... $AMZN < S3","lbl":"Neutral"}
+,{"time":"11:27","usr":"kiwitrader24","txt":"$AMZN http://t.co/AKLFiJ0L Notes on chart.","lbl":"Neutral"}
+,{"time":"12:12","usr":"psyt","txt":"RT @SAI: Amazon\u0027s Cloud Can Handle 1 Million Transactions Per Second $AMZN by @MattRosoff http://t.co/oWvtQtg0","lbl":"Positive"}
+,{"time":"12:12","usr":"DiogoCMoreira","txt":"RT @firstadopter: Give us Kindle unit numbers sold like Apple does and AWS revenue/margins. If you going to brag about it, give it up $AMZN","lbl":"Negative"}
+,{"time":"12:49","usr":"atul","txt":"RT @Werner: The 2011 $AMZN Letter to Shareholders about the tremendous enabling power of the all Amazon platforms http://t.co/EJL2nSSt #aws #fba #kdp","lbl":"Neutral"}
+,{"time":"14:50","usr":"al_maisan","txt":"RT @Werner: The 2011 $AMZN Letter to Shareholders about the tremendous enabling power of the all Amazon platforms http://t.co/EJL2nSSt #aws #fba #kdp","lbl":"Neutral"}
+,{"time":"19:26","usr":"hieudpham04","txt":"$GLUU $AMZN $GOOG IAP Vs Premium Android Games Proves Successful For Glu Mobile. http://t.co/knmdnKt8","lbl":"Neutral"}
+,{"time":"19:27","usr":"stevens__","txt":"RT @Werner: The most radical and transformative of inventions are often those that empower others to unleash their creativity http://t.co/SVci0mAM $amzn","lbl":"Neutral"}
+,{"time":"23:10","usr":"LittleAppleSA","txt":"Commented on: \u0022Apple Shares Dip As The U.S. Government And 15 States File Suit\u0022 http://t.co/wuc4QH5Q $AMZN $AAPL","lbl":"Neutral"}
+]

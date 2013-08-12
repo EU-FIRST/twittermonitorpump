@@ -1,0 +1,9 @@
+[
+{"time":"7:30","usr":"seospecialistbd","txt":"RT @Trefis ::Google Launches Compute Engine To Challenge Amazon http://t.co/Lrmt3SBV by Trefis Team $GOOG $AMZN $MSFT http://t.co/h5ecZBBp","lbl":"Negative"}
+,{"time":"9:16","usr":"realcommonking","txt":"nice looking chart $AMZN","lbl":"Positive"}
+,{"time":"12:05","usr":"howardlindzon","txt":"RT @StockTwits: Sunday links: half way home http://t.co/S0SFKlUg via @abnormalreturns $MUB $VIG $VIX $AMZN $LNKD $AAPL $BAC","lbl":"Neutral"}
+,{"time":"19:15","usr":"ComradeArthur","txt":"RT @jaltucher: A friend at $AMZN tells me that 25% of ALL book sales this month is one book: \u002250 shades of grey\u0022","lbl":"Neutral"}
+,{"time":"19:15","usr":"Court1Scott","txt":"RT @howardlindzon : I am so pissed at Amazon being down I just ordered 3 peanuts on Prime (long $amzn)","lbl":"Positive"}
+,{"time":"23:28","usr":"takingstock614","txt":"$AMZN chart looks good for higher prices.","lbl":"Positive"}
+,{"time":"23:38","usr":"twit_ashutosh","txt":"@Techmeme @gassee very sad story. Palm, Nokia and now RIMM. What if they separate BES and sell to MS and BB10 can be a good value to $AMZN","lbl":"Neutral"}
+]

@@ -1,0 +1,20 @@
+[
+{"time":"5:41","usr":"AronPinson","txt":"Whether it\u0027s from subsidies ($VZ $T $S), or bec of product competition ($GOOG $AMZN $MSFT), $AAPL margins will EVENTUALLY preceded its top.","lbl":"Neutral"}
+,{"time":"9:14","usr":"ChartMoMo","txt":"it doesn\u0027t get better than today to build bearish positions in bearish stocks. $amzn $lulu $nflx","lbl":"Negative"}
+,{"time":"9:15","usr":"BUDDIEE18","txt":"RT @ChartMoMo: it doesn\u0027t get better than today to build bearish positions in bearish stocks. $amzn $lulu $nflx","lbl":"Negative"}
+,{"time":"9:15","usr":"Traderabc","txt":"$AAPL 616.78 (+56.50 +10.08%) $GOOG 608.65 (+7.38 +1.23%) $IBM 202.97 (+2.97 +1.49%) $AMZN 193.56 (+3.23 +1.70%) #Tecnol\u00F3gicas #WS","lbl":"Neutral"}
+,{"time":"9:41","usr":"carmelsurfer","txt":"$AMZN has been sideways between 184.50 and 196.50 for a month, EPS tomorrow will dictate direction","lbl":"Neutral"}
+,{"time":"10:19","usr":"CBOE_TV","txt":"In the Money: @Angiemiles reports on: $AMZN, $ZNGA, $BA, $CAT & in an interview w @Keeneonmarket: $AAPL #earnings $$ http://t.co/6gl9tkNF","lbl":"Neutral"}
+,{"time":"10:22","usr":"DumpPump","txt":"long $F, $CAT and looking at $AMZN and $GM for plays","lbl":"Neutral"}
+,{"time":"11:26","usr":"stock_pandit","txt":"10 Tech Stocks To Watch This WEEK http://t.co/S13rScdD $AAPL $AKAM $CERN $CLGX $CRM $INFA $IT $JNPR $LOGM $N $PSA $SLT $VRSN $WD $WDC $AMZN","lbl":"Neutral"}
+,{"time":"11:26","usr":"CNNMoney","txt":"RT @CNNMoneyTech: Amazon e-book prices: Good news ... for now http://t.co/huNciGjl by @julpepitone $AMZN","lbl":"Neutral"}
+,{"time":"15:51","usr":"ReutersInsider","txt":"U.S. Day Ahead: #Amazon $amzn has to amaze soon: Reuters Insider http://t.co/vcwmWRQm","lbl":"Positive"}
+,{"time":"15:53","usr":"61point8","txt":"@1nvestor Thanks man. I hope you\u0027re doing well. Thoughts on $AMZN?","lbl":"Neutral"}
+,{"time":"16:57","usr":"wallstCS","txt":"Consumer Business Recap: Amazon\u0027s Competition, Comcast and GE Like Amusement http://t.co/BIQ4p3Sb $AMZN $COST $CVS $CMCSA $GE #mkt","lbl":"Neutral"}
+,{"time":"18:05","usr":"GOODGREED","txt":"I probably will short $AMZN tomorrow into earnings, there is a good chance they can post a loss.","lbl":"Negative"}
+,{"time":"18:08","usr":"jtbaran","txt":"RT @netgarden: NEW POST: Understanding Apple\u0027s Earnings - It\u2019s about Value & Integration, and it\u2019s Global http://t.co/jgOzmCwh $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"20:44","usr":"61point8","txt":"Most of you recall this article I wrote about $AMZN, right? http://t.co/0H4KkcH9","lbl":"Neutral"}
+,{"time":"20:44","usr":"goycar999","txt":"$AAPL 616.78 (+56.50 +10.08%) $GOOG 608.65 (+7.38 +1.23%) $IBM 202.97 (+2.97 +1.49%) $AMZN 193.56 (+3.23 +1.70%) #Tecnol\u00F3gicas #WS","lbl":"Positive"}
+,{"time":"22:39","usr":"Court3180","txt":"$AMZN historical earnings -11%-13%+3.8%+7.8% so I am thinking should move between 7% and 8%","lbl":"Neutral"}
+,{"time":"22:58","usr":"mariabelknap","txt":"\u201C@jimcramer: Market Preview: When Doves Lie http://t.co/nDJNzho8 $AAPL $AMZN $CSTR $SBUX $DJI $SPX\u201D #Cramersweeps","lbl":"Neutral"}
+]

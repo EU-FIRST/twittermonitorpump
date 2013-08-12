@@ -1,0 +1,11 @@
+[
+{"time":"5:20","usr":"SeekingAlpha","txt":"The Race To Zero: RadioShack http://t.co/LkHwHFqs $AMZN $RSH","lbl":"Negative"}
+,{"time":"5:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 05:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+,{"time":"5:28","usr":"BigTicks","txt":"$AMZN News: What We Think Of Priceline\u0027s Intrinsic Value http://t.co/4Hf9eqtQ #AMZN #News #Think","lbl":"Neutral"}
+,{"time":"5:28","usr":"BigTicks","txt":"$AMZN News: What We Think Of Priceline\u0027s Intrinsic Value http://t.co/Wa8aYnrW #AMZN #Intrinsic #News","lbl":"Neutral"}
+,{"time":"12:23","usr":"SuperNovaPromos","txt":"http://t.co/KihdVeMP | Find out if $FB , $AMZN, and $AAPL will go up or down! Get the charts!","lbl":"Neutral"}
+,{"time":"12:25","usr":"StockStandOff","txt":"$AMZN vs $EBAY: How to look fashionable while traveling on a budget http://t.co/6h2zCFIF #AMZN #Budget #EBAY","lbl":"Neutral"}
+,{"time":"12:26","usr":"shelon64","txt":"RT @SuperNovaPromos: http://t.co/KihdVeMP | Find out if $FB , $AMZN, and $AAPL will go up or down! Get the charts!","lbl":"Neutral"}
+,{"time":"17:31","usr":"BigTicks","txt":"$AMZN News: http://t.co/0pEXC5uk Praised For Customer Service http://t.co/HhH4rTDh #Amazoncom #AMZN #customer","lbl":"Neutral"}
+,{"time":"17:39","usr":"consultski","txt":"RT @howardlindzon: \u201C@ritholtz: How $AMZN Gained a Stranglehold over Online Shopping and the Future of Retail http://t.co/cpPtiZC9 $$\u201D (long)","lbl":"Neutral"}
+]

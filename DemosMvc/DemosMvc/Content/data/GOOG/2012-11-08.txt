@@ -1,0 +1,42 @@
+[
+{"time":"5:52","usr":"MomentumHunters","txt":"$SAFC (0.20) Could be the next major runner , don\u0027t ignore this one $TAGG $AAPL $BIDU $BAC $GOOG","lbl":"Neutral"}
+,{"time":"5:55","usr":"MomentumHunters","txt":"$SAFC could be a interesting play this week and next ... $TAGG $AAPL $GOOG $BAC","lbl":"Neutral"}
+,{"time":"6:00","usr":"RDeanon","txt":"RT @msdestyni69: Important READ Could The $VRNG Vs $GOOG Verdict Have Been Stymied By A Simple Clerical Error? - Alphi - Seeking Alpha http://t.co/bpJLGfeb","lbl":"Neutral"}
+,{"time":"6:03","usr":"MomentumHunters","txt":"$SAFC (0.20) Price target short term : 0.60 $TAGG $AAPL $BAC $GOOG","lbl":"Neutral"}
+,{"time":"8:32","usr":"Goodlett","txt":"Superb to see $MSFT @Microsoft invests US$9B in #research/development and uses/defines patents wisely http://t.co/skhWB48X $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"8:35","usr":"DrunkStepmother","txt":"\u0022http://t.co/jwp7fIPg $GOOG $VRNG\u0022 / this just in from a Middle School in Milwaukee... is that Peter Frampton\u0027s son?","lbl":"Neutral"}
+,{"time":"8:36","usr":"DshapiroDiana","txt":"@jimcramer $RIMM just got FIPS Security Certification, to my knowledge neither $GOOG or $AAPL have this...is $RIMM diamond in the rough?","lbl":"Neutral"}
+,{"time":"10:13","usr":"PeterRumble1","txt":"$NFLX $GMCR $QCOR $SRPT $ZGNX -all very bullish in the portfolio and running when $AAPL $GOOG are falling everyday","lbl":"Negative"}
+,{"time":"10:13","usr":"Jon_Gatzby","txt":"$GOOG, if it leaves the 665 area, shorting to next level 662.","lbl":"Negative"}
+,{"time":"10:45","usr":"BigTicks","txt":"$GOOG News: Google Inc (GOOG) Raises Search Engine Bar with \u0027Spooky\u0027 Accuracy http://t.co/U5Q0qnuj #GOOG #Spooky #accuracy","lbl":"Neutral"}
+,{"time":"10:45","usr":"nexgennovak","txt":"$GOOG Momentum stalls beyond first profit target on short opportunity http://t.co/xVJ5RREH","lbl":"Neutral"}
+,{"time":"10:46","usr":"GopherTrader","txt":"@Fitzstock2004 $GOOG H &S about to be formed on the daily","lbl":"Neutral"}
+,{"time":"11:45","usr":"InvestopediaMkt","txt":"#AOL\u0027s Turnaround Continues http://t.co/JRxF9jom #stocks #finance #markets #stockanalysis $AOL #google $GOOG #facebook $FB #earnings #tech","lbl":"Neutral"}
+,{"time":"12:10","usr":"wallstCS","txt":"Google Has These New Revenue Growth Plans http://t.co/yHy1SIcT $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"12:11","usr":"bluser12","txt":"$GOOG and $AMZN look horrible.","lbl":"Negative"}
+,{"time":"12:13","usr":"Davidrbiggs","txt":"@jmaskell personally still prefer $GOOG to $AAPL and for the real win $DPZ","lbl":"Positive"}
+,{"time":"12:13","usr":"RinehartMaria","txt":"$GOOG just broke thru long term support, yikes!","lbl":"Negative"}
+,{"time":"12:52","usr":"chartanalyst","txt":"GOOGLE Chart analysis: http://t.co/Ez2hzIRr $GOOG $QQQ","lbl":"Neutral"}
+,{"time":"12:55","usr":"JackieMJensen","txt":"$goog Ventures increases annual investment budget $200M to $300M; increase latter-stage investments http://t.co/a6HR8sW2 (via @LaunchTicker)","lbl":"Neutral"}
+,{"time":"12:57","usr":"RobInvest1","txt":"$GOOG charts http://t.co/KlJnptLM #stockcharts","lbl":"Neutral"}
+,{"time":"13:45","usr":"howardlindzon","txt":"Can I call a timeout...woozy from the beating $aapl and $goog are delivering to my fund","lbl":"Neutral"}
+,{"time":"13:46","usr":"berkutchitweet","txt":"RT \u0022@howardlindzon: Can I call a timeout...woozy from the beating $AAPL and $GOOG are delivering to my fund\u0022","lbl":"Negative"}
+,{"time":"14:35","usr":"StockMarket411","txt":"Nexus 7 out of stock at Google Play; 16GB spotted at $199 $goog http://t.co/onDP7hZO goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"14:35","usr":"Equitykingkong","txt":"$GOOG: sold short 100 weekly 660c @ 2.30-1.45","lbl":"Negative"}
+,{"time":"14:39","usr":"Carnageabinitio","txt":"Shares halted on circuit breaker pending news...then superbreakout.This is it $GOOG buys $VRNG that\u0027s 790 sealed document imo.new high!","lbl":"Positive"}
+,{"time":"15:25","usr":"GangnamFail","txt":"Android is #spyware! WIth that in mind, people should use @windowsphone 8 and make $goog stock go down!","lbl":"Negative"}
+,{"time":"15:27","usr":"Urbane_Gorilla","txt":"Who Will This Patent Troll Target Next? | Wall St. Cheat Sheet http://t.co/JDJjteEI $AAPL $INTC $GOOG $HTZ","lbl":"Neutral"}
+,{"time":"15:30","usr":"retat50","txt":"@61point8 Great job Peter! Made some good money today -- out of my shorts $AAPL, $GOOG, $AMZN, $PANL made money on all - wait for bounce up","lbl":"Positive"}
+,{"time":"15:58","usr":"BUDDIEE18","txt":"also a MUST follow is this guy - F## @61point8 -- he 1 of the BEST t/a guys on Twitter when focused. good calls on $AAPL $GOOG $NFLX $CMG","lbl":"Neutral"}
+,{"time":"15:59","usr":"The_FifeX","txt":"RT @jaltucher: @nj_joejoe the results were great: $GOOG guilty and $VRNG makes $600-800mm","lbl":"Negative"}
+,{"time":"16:01","usr":"tradesamurai","txt":"http://t.co/ks12kGAO Candlestick scan Two Black Gapping Candles: $AEE $AEP $DUK $ETR $GOOG $PLL $SCG $SO $VMED $XLU $CVC","lbl":"Neutral"}
+,{"time":"16:25","usr":"MKTWgoldstein","txt":"I think Groupon $GRPN might be tempted by that $6 billion $GOOG offer right about now... mkt cap $2.5 billion & falling http://t.co/jJGeDsld","lbl":"Neutral"}
+,{"time":"16:27","usr":"TheStreet","txt":"Bram Stoker and Google Fan? Check out our $GOOG Plus page and join our circle! http://t.co/NC5KM5RJ","lbl":"Neutral"}
+,{"time":"16:28","usr":"61point8","txt":"RT @BUDDIEE18: also a MUST follow is this guy - F## @61point8 -- he 1 of the BEST t/a guys on Twitter when focused. good calls on $AAPL $GOOG $NFLX $CMG","lbl":"Neutral"}
+,{"time":"17:27","usr":"RDeanon","txt":"RT @msdestyni69: \u0022@jaltucher: @nj_joejoe the results were great: $GOOG guilty and $VRNG makes $600-800mm\u0022/Is this AWESOME or what?! Good to hear from James!","lbl":"Negative"}
+,{"time":"18:49","usr":"PeterWolf405","txt":"$AAPL (Re:Oct 31 tweet), $GOOG Great buying opp under $500 possible ? http://t.co/XvijvSW0 #AAPL #stockaction #stocks","lbl":"Positive"}
+,{"time":"18:52","usr":"IntangibleValue","txt":"Google\u0027s Glory Days Are Ahead Of It http://t.co/uKJ71mcw $GOOG","lbl":"Negative"}
+,{"time":"21:38","usr":"CharlesSizemore","txt":"On avoiding the Peter Lynch Bias: http://t.co/TIcG4YNr $RIMM $GOOG $AAPL $SBUX $CMG","lbl":"Neutral"}
+,{"time":"21:45","usr":"StockTwits","txt":"Avoiding the Peter Lynch Bias: http://t.co/8hqThEr2 via @CharlesSizemore $GOOG $AAPL $SBUX $CMG","lbl":"Neutral"}
+,{"time":"21:46","usr":"gordonBIGAPPLE","txt":"waiting for the big sell off so I can buy $GOOG cheaper. #FiscalCliff #Bull #Nexus #Android","lbl":"Negative"}
+]

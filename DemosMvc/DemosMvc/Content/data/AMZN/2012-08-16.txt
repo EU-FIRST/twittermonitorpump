@@ -1,0 +1,23 @@
+[
+{"time":"3:56","usr":"RedDogT3Live","txt":"In the last 7 or so sess. as the mkts digest higher. Individual stock movement has been key. Great action $GOOG $AAPL $amzn $hd $TGT $xom","lbl":"Positive"}
+,{"time":"8:11","usr":"CROSSHAIRTRADER","txt":"$AMZN setting up here: http://t.co/1x1aaRaf","lbl":"Neutral"}
+,{"time":"9:01","usr":"Qwovadis","txt":"RT @wallstCS: Jim Cramer: RUN to BUY Apple, Comcast and these 2 Winners NOW http://t.co/Vwlu6NmW $AAPL $AMZN $CMCSA $DTV #mkt #stocks","lbl":"Neutral"}
+,{"time":"9:02","usr":"Fitzstock2004","txt":"$amzn","lbl":"Neutral"}
+,{"time":"9:40","usr":"SeekingAlpha","txt":"How To Trade Thursday\u0027s News http://t.co/DTB85HmF $AMZN $ARO $BKE $BONT $BRCD $COSI $CSCO $DE $DIA $DLTR $DRYS $EBAY $FB $GME","lbl":"Neutral"}
+,{"time":"9:41","usr":"CorporateYoungs","txt":"i pick up a few $AMZN 245 for next week. Lets see if he can break out this time. no head fake hopefully. Still need volume.","lbl":"Positive"}
+,{"time":"11:38","usr":"hillmf","txt":"RT @RedDogT3Live: The equity markets have been rewarding all time frames that navigate the action with a plan! Not opinions. $AAPL $goog $amzn $bidu $spy","lbl":"Neutral"}
+,{"time":"11:38","usr":"luisotre","txt":"RT @RedDogT3Live: The equity markets have been rewarding all time frames that navigate the action with a plan! Not opinions. $AAPL $goog $amzn $bidu $spy","lbl":"Neutral"}
+,{"time":"11:50","usr":"SeekingAlpha","txt":"Amazon Is Overbought And Far Over Valued http://t.co/iLPQahGB $AAPL $GOOG $NFLX $SHLD $WMT $AMZN","lbl":"Negative"}
+,{"time":"11:51","usr":"alia1977","txt":"\u201C@ivanhoff: The high ticket fatties: $AMZN $AAPL $GOOG are trading a few % below multi-year highs\u201D","lbl":"Neutral"}
+,{"time":"12:39","usr":"Cabotdude","txt":"For growth stocks, if $AMZN, $EQIX, $EBAY kick into gear, with $LNKD, $BIDU, $GOOG and possibly $CRM doing the same, it could be go time","lbl":"Neutral"}
+,{"time":"12:40","usr":"rechtsteiner","txt":"The eBook Platform Landscape - looking at the role emerging co\u0027s play v. $AMZN, $GOOG, $BKS, etc. http://t.co/olwAaSEK","lbl":"Neutral"}
+,{"time":"13:18","usr":"DrDuru","txt":"$AMZN at fresh post-earnings high. Still holding the post-earnings play. New all-time highs around the corner.","lbl":"Positive"}
+,{"time":"13:50","usr":"SPEQL8R","txt":"some stocks look extremely overbot to me $GOOG $AMZN; we know overbot can stay that way. Keep trailing stops if U bot yest at my 666 level","lbl":"Negative"}
+,{"time":"14:30","usr":"MarekZee","txt":"@mktwcrum @MarketWatch I am certain that either $AAPL or $AMZN will buy $NFLX in the next 12 months.","lbl":"Positive"}
+,{"time":"14:31","usr":"DeidreZune","txt":"Wonder what the performance of #newwallstreet is for 2011 and 2012. Any 1 know? #timestamped. $$ $XLK $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"14:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 3:17pm: 242.718 +5.298 (+2.23%).","lbl":"Positive"}
+,{"time":"14:33","usr":"DeidreZune","txt":"$AMZN rocking :) rock on :)","lbl":"Positive"}
+,{"time":"15:54","usr":"iStocksInfo","txt":"Top Trending Nasdaq100 #Stocks $CSCO $SHLD $WYNN $BRCM $BBBY $MRVL $SNDK $EXPD $BMC $ADBE $APOL $MSFT $EBAY $AMZN $XLNX #QQQ #trading","lbl":"Neutral"}
+,{"time":"17:52","usr":"numberonetell","txt":"@Ahgwanpopcaan agreed. I thanked God for tight stops on $AMZN today.","lbl":"Negative"}
+,{"time":"23:56","usr":"ChartLearning","txt":"@flizzard lol yeah. I learned that being an idiot shorting $amzn","lbl":"Positive"}
+]

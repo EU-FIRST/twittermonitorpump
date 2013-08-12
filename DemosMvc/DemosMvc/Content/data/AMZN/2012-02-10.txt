@@ -1,0 +1,22 @@
+[
+{"time":"2:19","usr":"CashCowStocks","txt":"Tomorrow\u0027s Cash Cow Daytrades Will Be : $SINA $FAS $BIDU $AMZN $FCX $AGQ $NFLX $GMCR Will See Which One Got Milk In It And Will Tweet It !","lbl":"Positive"}
+,{"time":"9:43","usr":"Lowtown21","txt":"Bought $AMZN Feb 190 calls","lbl":"Positive"}
+,{"time":"9:44","usr":"firstadopter","txt":"With U.S. videogame games sale down another leg -38% y/y Jan vs -14% Dec $AMZN can use same excuse again when they blow the March quarter","lbl":"Negative"}
+,{"time":"10:14","usr":"SJosephBurns","txt":"@BluHorShoe I thought the same thing, betting on the iPad instead of the kindle. But $AMZN is the future of retail, it is consuming others","lbl":"Positive"}
+,{"time":"10:16","usr":"parklandtrader","txt":"@cnbcfastmoney Hope you bought $AMZN on dip look at it today!!","lbl":"Positive"}
+,{"time":"11:20","usr":"BoricuaTrader","txt":"traded out my last $SPY put hedges for $AMZN calls.. gotta go with da flow","lbl":"Positive"}
+,{"time":"11:23","usr":"junkieonwallst","txt":"$amzn was a feb 18 weekly $190 call @$2.22. Let\u0027s see what next week brings","lbl":"Neutral"}
+,{"time":"12:33","usr":"CebuBound","txt":"out rest $AMZN b/e","lbl":"Neutral"}
+,{"time":"14:23","usr":"_MobileInsider","txt":"RT @SAI: A Leak From The USA TODAY Shows How The Kindle Fire Is Blowing Away Other Android Tablets $AMZN $APPL by @KTLincoln http://t.co/rQnpZoru","lbl":"Positive"}
+,{"time":"14:25","usr":"ShannonZA","txt":"RT @SAI: A Leak From The USA TODAY Shows How The Kindle Fire Is Blowing Away Other Android Tablets $AMZN $APPL by @KTLincoln http://t.co/rQnpZoru","lbl":"Positive"}
+,{"time":"14:25","usr":"ReneeLJPitts","txt":"RT @SAI: A Leak From The USA TODAY Shows How The Kindle Fire Is Blowing Away Other Android Tablets $AMZN $APPL by @KTLincoln http://t.co/rQnpZoru","lbl":"Positive"}
+,{"time":"15:44","usr":"RoccoPendola","txt":"Commented on: \u0022What To Do If (Or When) The Market Crashes\u0022 http://t.co/3hFwkT5B $RL $AAPL $AMZN $CMG $IBM","lbl":"Neutral"}
+,{"time":"16:47","usr":"4toptrader","txt":"$AMZN - Amazon Stock Analysis - bullish stochastic crossover - http://t.co/VAuH0F3d","lbl":"Positive"}
+,{"time":"16:47","usr":"Media_Scrutiny","txt":"RT @cnbcfastmoney: Gene Munster Expects Apple Growth, Dividend http://t.co/6YwB3pNV $AAPL $AMZN $DELL $GOOG $IBM $YHOO #Internet #Technology #StockMarket","lbl":"Neutral"}
+,{"time":"16:48","usr":"SJosephBurns","txt":"RT @jfahmy Shut out all the noise, the price action of individual stocks is telling you all you need to know right now (like> $AAPL $AMZN)","lbl":"Neutral"}
+,{"time":"18:46","usr":"anothermueller","txt":"RT @SAI: A Leak From The USA TODAY Shows How The Kindle Fire Is Blowing Away Other Android Tablets $AMZN $APPL by @KTLincoln http://t.co/rQnpZoru","lbl":"Positive"}
+,{"time":"23:17","usr":"businessinsider","txt":"How The iPad Kicks Kindle\u0027s Butt When It Comes To Ad Traffic $AAPL $AMZN by @Jim_Edwards http://t.co/02Kw3tRh","lbl":"Negative"}
+,{"time":"23:17","usr":"BI_Advertising","txt":"How The iPad Kicks Kindle\u0027s Butt When It Comes To Ad Traffic $AAPL $AMZN by @Jim_Edwards http://t.co/ZI8LZesM","lbl":"Negative"}
+,{"time":"23:17","usr":"SAI","txt":"How The iPad Kicks Kindle\u0027s Butt When It Comes To Ad Traffic $AAPL $AMZN by @Jim_Edwards http://t.co/YXgoGeYH","lbl":"Negative"}
+,{"time":"23:17","usr":"SAI_Media","txt":"How The iPad Kicks Kindle\u0027s Butt When It Comes To Ad Traffic $AAPL $AMZN by @Jim_Edwards http://t.co/67uU9jld","lbl":"Negative"}
+]

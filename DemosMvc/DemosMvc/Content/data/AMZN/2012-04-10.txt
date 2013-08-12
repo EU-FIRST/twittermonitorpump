@@ -1,0 +1,20 @@
+[
+{"time":"8:44","usr":"AlohaTrades","txt":"RT @bclund: CEO of $BBY resigns. Denies it\u0027s because he is \u0022tired of being $AMZN \u0027s bitch\u0022","lbl":"Neutral"}
+,{"time":"8:46","usr":"skytully","txt":"@herbgreenberg Worst CEO\u0027s of the year?? More like a decade. Successfully turning a biz into an $AMZN showroom is hard to do.","lbl":"Neutral"}
+,{"time":"9:18","usr":"tradingwisely3","txt":"$AMZN - Amazon Stock Analysis - Doji Candlestick Pattern - http://t.co/Cxtw4JeX","lbl":"Neutral"}
+,{"time":"9:20","usr":"Sunny_Sang","txt":"@jimcramer definitely another circuit city, the business model needs to evolve it\u0027s just a show room for $amzn","lbl":"Positive"}
+,{"time":"9:21","usr":"bchi99","txt":"$BBY down the drain..$AMZN takes over the retail space..$AMZN > $WMT","lbl":"Positive"}
+,{"time":"10:11","usr":"wotong1","txt":"$AMZN - Amazon Stock Analysis - Doji Candlestick Pattern - http://t.co/pWX759hP","lbl":"Neutral"}
+,{"time":"11:13","usr":"randygiusto","txt":"RT @bobegan: What a day. Zuck spends $1Bil, $Appl tops $600B, $Amzn stalks IAP, $SUX mobiles 42mil coffees, $yhoo reorgs and BB CEO is out.#itsnotnoonyet","lbl":"Negative"}
+,{"time":"11:14","usr":"Mark_Lexus","txt":"$AMZN is not buying a brick/mortar store..they just sell too many things","lbl":"Negative"}
+,{"time":"11:14","usr":"herbgreenberg","txt":"Can $BBY take the charge from hell and recast itself as a super-electronics store that prices like $AMZN? Or do those economics not work?","lbl":"Neutral"}
+,{"time":"11:56","usr":"LaMonicaBuzz","txt":"Best of StockTwits: @eddyelfenbein @bclund @matt_sf @charlesrotblut $BBY $AMZN $AAPL $FB #instagram http://t.co/hwXNmYN8","lbl":"Neutral"}
+,{"time":"14:09","usr":"keepitrealdude","txt":"BTW you have to pay notice when I post a chart..$AMZN from a few months back.. http://t.co/xQZzpZNX","lbl":"Neutral"}
+,{"time":"14:10","usr":"SeekingAlpha","txt":"Lumia 900 Appears A Winner, For Now http://t.co/iyWZhOBV $AMZN $MSFT $T $NOK","lbl":"Neutral"}
+,{"time":"14:10","usr":"margbrennan","txt":"Obit written too soon? @BestBuy isn\u0027t @Amazon\u0027s showroom says Janney\u0027s Strasser. Still make $860 per sq ft http://t.co/mZAfeSGM $BBY $AMZN","lbl":"Neutral"}
+,{"time":"14:21","usr":"retail_sails","txt":"Today\u2019s Value Shopper Heads to Amazon, Not Walmart http://t.co/q2mjffOQ #retail $AMZN $WMT","lbl":"Positive"}
+,{"time":"16:03","usr":"event_trader","txt":"Not saying untrained staff and terrible customer service led to $BBY downfall, but it doesn\u0027t help build customer base when $AMZN is cheaper","lbl":"Positive"}
+,{"time":"16:03","usr":"iStockAnalyst","txt":"Best Buy CEO Quits After Shoppers Go Online; May Get $6.5M Plus As Compensation $AMZN $BBY $TGT $WMT: Consumer e... http://t.co/ECd4I0HC","lbl":"Neutral"}
+,{"time":"18:33","usr":"jpu19","txt":"RT @SeekingAlpha: Groupon On The Road To Bankruptcy http://t.co/l4dyJyYQ $AAPL $AMZN $GOOG $MM $ZNGA $GRPN","lbl":"Neutral"}
+,{"time":"22:20","usr":"SeekingAlpha","txt":"Not Buying Best Buy http://t.co/yO1Zwrt7 $AMZN $BBY","lbl":"Neutral"}
+]

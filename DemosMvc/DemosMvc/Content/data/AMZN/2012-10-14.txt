@@ -1,0 +1,6 @@
+[
+{"time":"7:30","usr":"kayehuit","txt":"RT @SAI: Amazon May Offer Kindle Customers Refunds On Purchased Books $AMZN http://t.co/AMYYwfJw","lbl":"Positive"}
+,{"time":"7:32","usr":"biggercapital","txt":"Will be sweeter when we get $ from real culprit $AAPL RT @SAI: $AMZN May Offer Kindle Customers Refunds On Books http://t.co/oplloUxE","lbl":"Neutral"}
+,{"time":"19:00","usr":"TheStreet","txt":"Here\u0027s Apple\u0027s Next Hit Product http://t.co/kvHl4cXb by @Commodity_Bull $AAPL $AMZN $GOOG $AUO","lbl":"Neutral"}
+,{"time":"19:01","usr":"RealCrystalBall","txt":"Here\u0027s Apple\u0027s Next Hit Product http://t.co/7KSB75k6 by @Commodity_Bull $AAPL $AMZN $GOOG $AUO #Apple #Stocks","lbl":"Neutral"}
+]

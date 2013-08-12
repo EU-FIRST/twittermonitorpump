@@ -1,0 +1,28 @@
+[
+{"time":"6:31","usr":"BigTicks","txt":"$GOOG News: Google Said Near $22.5 Million Settlement Over Breach of Browser http://t.co/kDAvsphx #225 #GOOG #Breach","lbl":"Neutral"}
+,{"time":"6:51","usr":"JavierArguello","txt":"RT @SeekingAlpha: Wall Street Breakfast: Must-Know News http://t.co/R5LcNUFJ $INTC $SPY $QQQ $AA $AAPL $AMD $ASML $BCS $DUK $ELPDF.PK $GOOG $MU","lbl":"Neutral"}
+,{"time":"8:36","usr":"choffman1978","txt":"$BMTI RUNNING FDA NEWS!! #cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$chtp","lbl":"Neutral"}
+,{"time":"8:38","usr":"choffman1978","txt":"$BMTI SURGES on FDA NEWS!! #cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$chtp","lbl":"Neutral"}
+,{"time":"9:32","usr":"choffman1978","txt":"FCC will reject $LMCA!! #cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$chtp","lbl":"Neutral"}
+,{"time":"9:33","usr":"choffman1978","txt":"$BMTI SURGES on FDA NEWS!! #cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$chtp","lbl":"Neutral"}
+,{"time":"10:10","usr":"SheilaD_TV","txt":"$SPLS says seeing strong pre-orders, momentum for $GOOG nexus tablet. \u0022price pint is great\u0022 #backtoschool #tabletwars","lbl":"Positive"}
+,{"time":"10:12","usr":"Filmbuyer","txt":"$GOOG $3b purchas of DoubleClick is 1 of few display ad deals that succeedd. Used its dominant search tech 2 make display ads more relevant.","lbl":"Neutral"}
+,{"time":"10:12","usr":"caldavis44","txt":"RT @Trefis: Facebook\u0027s New Want Button Could Drive Social Commerce Revenue http://t.co/43N7IWob by Trefis Team $FB $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"10:14","usr":"SAI","txt":"THE GOOGLE INVESTOR: Google+ Would Be A Marketer\u0027s Dream $GOOG by @hleonard76 http://t.co/SLFKsUFy","lbl":"Neutral"}
+,{"time":"10:57","usr":"choffman1978","txt":"$ACUR no DEBT, Pfizer partner! #cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$bac,$fb,$aa","lbl":"Neutral"}
+,{"time":"10:58","usr":"ZacksResearch","txt":"2Q Earning Season is in full swing. Sheraz Mian previews the upcoming week and what to expect. http://t.co/xxTpA51d $AA $WWW $GOOG $JPM","lbl":"Neutral"}
+,{"time":"11:59","usr":"choffman1978","txt":"$P CRASHING! #cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$v,$bac,$fb,$aa,$pfe","lbl":"Neutral"}
+,{"time":"12:00","usr":"SeekingAlpha","txt":"Microsoft Must Use Blackberry Delays To Its Advantage http://t.co/ainjblVI $AAPL $GOOG $NOK $RIMM $MSFT","lbl":"Neutral"}
+,{"time":"12:36","usr":"mister__x_","txt":"@bespokeinvest $GOOG reports next Thursday (19th).","lbl":"Neutral"}
+,{"time":"12:37","usr":"lahrssen","txt":"RT @SAI: After Two Weeks On Android, Here\u0027s Why I Think The iPhone Is Still Superior $AAPL $GOOG by @officialKLS http://t.co/wYx1FWIF","lbl":"Neutral"}
+,{"time":"12:38","usr":"andru08","txt":"RT @businessinsider: After Two Weeks On Android, Here\u0027s Why I Think The iPhone Is Still Superior $AAPL $GOOG by @officialKLS http://t.co/Wc9upLGy","lbl":"Negative"}
+,{"time":"13:26","usr":"barronstechblog","txt":"AAPL: FYQ3 Miss Possible, No Big Deal, Says Barclays - Tech Trader Daily - $AAPL $GOOG $MSFT $NOK $RIMM $005930KS http://t.co/VITioKxW","lbl":"Neutral"}
+,{"time":"13:27","usr":"916bex415","txt":"I <3 2x2 matrices RT @businessinsider everything u will, won\u0027t miss when u quit Google $GOOG by @mattlynley http://t.co/Jo0kJ0Jp","lbl":"Neutral"}
+,{"time":"13:30","usr":"TweetLeni","txt":"Took profits in $CRM to swap more shares in to $GOOG short","lbl":"Negative"}
+,{"time":"14:36","usr":"ralfeichner","txt":"RT @SAI: SCREENSHOTS: Google+ Comes To The iPad $AAPL $GOOG by @_dtl http://t.co/mVaEMMkb","lbl":"Neutral"}
+,{"time":"14:39","usr":"paulwoll","txt":"Many stocks have gap fills below like $GOOG $NFLX etc.","lbl":"Negative"}
+,{"time":"17:03","usr":"FRamabama","txt":"RT @ReutersLegal: Congress to discuss sales bans if key #patents infringed http://t.co/cQb1vOqy $GOOG $APPL","lbl":"Neutral"}
+,{"time":"17:08","usr":"Indyradmama","txt":"RT @ReutersLegal: Congress to discuss sales bans if key #patents infringed http://t.co/cQb1vOqy $GOOG $APPL","lbl":"Negative"}
+,{"time":"21:57","usr":"WeezyMiyagi","txt":"@jurgisshine no outlook sorry I literally only trade $AAPL options. Is there someone out there who mainly trades $GOOG?","lbl":"Neutral"}
+,{"time":"21:59","usr":"twit_ashutosh","txt":"@crashdev @bawbgale If $AMZN can do cheap smart phone than $AAPL can also retail thru stores/iTunes !!!. $GOOG is already into cloud.","lbl":"Neutral"}
+]

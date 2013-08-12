@@ -1,0 +1,13 @@
+[
+{"time":"7:12","usr":"thefinancepress","txt":"$GOOG Google (NASDAQ:GOOG) Gets Green Signal in Oracle (NASDAQ:ORCL) Java Case ...: Google (NASDAQ:GOOG) Gets G... http://t.co/pwyzLQHx","lbl":"Positive"}
+,{"time":"7:28","usr":"stevehau","txt":"Next week is a big week for maps. $AAPL $GOOG \u201CNext Dimension Of Google Maps\u201D Next Week http://t.co/HX8iHLYo","lbl":"Positive"}
+,{"time":"7:50","usr":"MSagebiel","txt":"RT @SAI: VERY SMART: Chromebox Is Really Google\u0027s First Desktop PC For Businesses $GOOG by @Julie188 http://t.co/XZ5xsvay","lbl":"Positive"}
+,{"time":"12:08","usr":"A2ZComputing","txt":"RT @SAI: Google Is About To Steal Apple\u0027s WWDC Spotlight $GOOG $AAPL by @_dtl http://t.co/SLzKp6nX","lbl":"Positive"}
+,{"time":"12:08","usr":"kapilgupta","txt":"Only time will tell if Groupon erred in rejecting $GOOG offer of $6B, but at least decision makes sense http://t.co/zGga6WVv #startups","lbl":"Neutral"}
+,{"time":"12:36","usr":"political_hawk","txt":"Ever wonder how the iPhone works? $aapl $goog $vz $T #iphone http://t.co/YTzbO4lp","lbl":"Neutral"}
+,{"time":"12:40","usr":"SeekingAlpha","txt":"Bashing Facebook For All The Wrong Reasons http://t.co/24rhsDVD $AMZN $GOOG $FB","lbl":"Neutral"}
+,{"time":"19:03","usr":"MeStarHwang","txt":"Cool RT @SAI Check Out These 11 Awesome Google Chrome Apps $GOOG by @officialKLS http://t.co/iSxiBubl","lbl":"Neutral"}
+,{"time":"19:18","usr":"Mr_Endeavor","txt":"RT @SAI: Why Groupon Really Turned Down Google\u0027s $6 Billion Offer $GOOG $GRPN by @owenthomas http://t.co/7onKSKyA Lost Opportunity!","lbl":"Neutral"}
+,{"time":"20:06","usr":"wjboynton","txt":"#Apple Gives #Google the Boot, Faces Off With Facebook ($AAPL, $FB, $GOOG) http://t.co/z9ATOA2B","lbl":"Negative"}
+,{"time":"21:23","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Google+ Local: Zagat\u0022 http://t.co/VuQNK0X4 @googlejapan @GoogleLatam @googleresearch @google [follow @Viddy]","lbl":"Neutral"}
+]

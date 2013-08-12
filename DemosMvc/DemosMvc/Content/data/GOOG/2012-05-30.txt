@@ -1,0 +1,53 @@
+[
+{"time":"5:34","usr":"ciruelas_rojas","txt":"\u0022[Zuckerberg] does not know how to run a multi-billion dollar company and he needs to bring in adults again like $GOOG did.\u0022 -@JoeNBC","lbl":"Neutral"}
+,{"time":"5:37","usr":"USwwwStocks","txt":"$GOOG News: Apple CEO Seeks To Put Personal Mark On Company http://t.co/Abn3PRNG #GOOG #Apple #Company","lbl":"Neutral"}
+,{"time":"5:49","usr":"Joelagro67","txt":"@MandyCNBC $Goog wins?","lbl":"Positive"}
+,{"time":"6:04","usr":"marketmavenz","txt":"More Bad News For HP: The New Google Chromebook Compared to a Typical HP Laptop $goog http://t.co/HgE8Hye8","lbl":"Neutral"}
+,{"time":"8:20","usr":"BUDDIEE18","txt":"get your $EUO coffee $FXE & $SPY on some $AAPL pie $GOOG alerts @SellPuts Trading Room - Cost $0 http://t.co/3jDrXQPU","lbl":"Neutral"}
+,{"time":"8:21","usr":"HFTAlert","txt":"5min $FB Accumulator..any buying yet...in a word...\u0027no\u0027. in two words..\u0027not yet\u0027. $spy $goog $znga http://t.co/f6gg4ArZ","lbl":"Neutral"}
+,{"time":"8:21","usr":"nichcarlson","txt":"Google\u0027s Computerized Glasses Will Hopefully Be Available Next Year, Says Sergey Brin $GOOG http://t.co/1Tog9n5r","lbl":"Neutral"}
+,{"time":"8:22","usr":"businessinsider","txt":"Google\u0027s Computerized Glasses Will Hopefully Be Available Next Year, Says Sergey Brin $GOOG by @nichcarlson http://t.co/DK4MqKEF","lbl":"Neutral"}
+,{"time":"8:42","usr":"choffman1978","txt":"$FB SHORT SQUEEZE HAPPENING - COULD RUN HUGE!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"8:44","usr":"choffman1978","txt":"$CORT the SQUEEZE continues!#cnbc,#msnbc,#nyse,#wsj,$ctic,$amgn,$vvus,$gale,$chtp,$kerx,$mrk,$aapl,$fb,$gs,$goog,$c,$s","lbl":"Neutral"}
+,{"time":"9:04","usr":"sahmehta","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:04","usr":"Trilogy_LLC","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:05","usr":"Jerry_DurhamPT","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:11","usr":"paullecoque","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:11","usr":"HeatherBevan","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:11","usr":"Stric006","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:11","usr":"samturpin","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:20","usr":"medankota","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:21","usr":"Roland_Keller","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:21","usr":"TickerChart","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:37","usr":"anaivelisse","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:38","usr":"sradelfino","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:38","usr":"richi","txt":"New Chromebooks and now Chromebox, in Chrome OS reboot #ITBW by @richi for @Computerworld http://t.co/1PrJfg4o $GOOG","lbl":"Neutral"}
+,{"time":"9:38","usr":"AronPinson","txt":"If you invest in $FB, $LNKD, $GOOG, $GRPN, $Z or $ZNGA, please understand how they monetize their users via @conorsen http://t.co/bZRqfIpK","lbl":"Neutral"}
+,{"time":"9:59","usr":"GloBak","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:59","usr":"bleestein","txt":"RT @JamieSignorile: RT @AronPinson If you invest in $FB, $LNKD, $GOOG, $GRPN, $Z or $ZNGA, please understand how they monetize their users: http://t.co/m3Xkd3T4","lbl":"Neutral"}
+,{"time":"10:20","usr":"rcastle06","txt":"RT @SAI: This Could Shake Things Up: Google\u0027s M&A Team Wishes It Had Bought Twitter $GOOG $FB by @nichcarlson http://t.co/A8kP4M32","lbl":"Negative"}
+,{"time":"10:23","usr":"cancerboy85","txt":"Just bought a ChromeBox. I\u0027m done with you Windows and Microsoft. #whathaveyoudoneformelately $GOOG @google","lbl":"Positive"}
+,{"time":"10:23","usr":"tkuz4u","txt":"RT @SAI: This Could Shake Things Up: Google\u0027s M&A Team Wishes It Had Bought Twitter $GOOG $FB by @nichcarlson http://t.co/A8kP4M32","lbl":"Negative"}
+,{"time":"11:01","usr":"Mr_PresidentOB","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"11:02","usr":"drng","txt":"#withmitt #amercia \u201C@SAI: Check Out How Apps Have Totally Remade The World $FB $AAPL $GOOG by @mattlynley http://t.co/us2HlWqV\u201D","lbl":"Neutral"}
+,{"time":"11:02","usr":"joshdiyanni","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"11:46","usr":"fmilicchio","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"11:47","usr":"LTommy256","txt":"RT @moorehn: Making friends all over! RT $FB continues its charm attack, drops Chrome as supported browser. http://t.co/bD1irysJ $GOOG","lbl":"Negative"}
+,{"time":"12:41","usr":"SpencerBye","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"12:43","usr":"mercbizbreak","txt":"Zagat integration should be good for Google+, not so good for Yelp, possibly useful to consumers. $GOOG http://t.co/Cif4K6Tp","lbl":"Positive"}
+,{"time":"13:31","usr":"DCC_LLC","txt":"P&L: -$376 ($AAPL, damnit) , +$760 ($CRM) OTM put spreads on $GOOG , $NFLX , $BAC going overnight. #whalehunting","lbl":"Neutral"}
+,{"time":"13:35","usr":"USwwwStocks","txt":"$GOOG News: Zynga CEO Hints At Facebook Independence http://t.co/bB6kWkan #GOOG #Facebook #Hints","lbl":"Neutral"}
+,{"time":"14:23","usr":"wallstCS","txt":"2 Media Titans Making Waves http://t.co/RMzBBp5r $DISH $VZ $VOD $VIA $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"14:23","usr":"tlmontana","txt":"$OPEN <-- being added to $GOOG +","lbl":"Neutral"}
+,{"time":"14:23","usr":"StockHollywood","txt":"so in case yo udidn\u0027t hear $GOOG incorporating $OPEN into Google + for restraunt reservations!","lbl":"Neutral"}
+,{"time":"14:23","usr":"BlueFielder","txt":"RT @StockHollywood: so in case yo udidn\u0027t hear $GOOG incorporating $OPEN into Google + for restraunt reservations!","lbl":"Neutral"}
+,{"time":"14:54","usr":"sajulee","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"14:54","usr":"ashek1","txt":"RT @SAI: Digg Founder Kevin Rose Ditches Google+ And Becomes A Partner At Google Ventures $GOOG by @shontelaylay http://t.co/XRGJQOjW","lbl":"Neutral"}
+,{"time":"14:54","usr":"rcastle06","txt":"RT @SAI: How Google Helps Fuel A Cesspit Of Conflicts Among Web Ad Buyers $GOOG $WPPGY $IPG $OMC $PUB by @Jim_Edwards http://t.co/6JV9Jful","lbl":"Neutral"}
+,{"time":"14:55","usr":"KarSun01","txt":"$GOOG looking very weak into close- I do expect this to head lower","lbl":"Negative"}
+,{"time":"16:48","usr":"stefanov","txt":"RT @businessinsider: This Could Shake Things Up: Google\u0027s M&A Team Wishes It Had Bought Twitter $GOOG $FB by @nichcarlson http://t.co/oUBKsq89","lbl":"Neutral"}
+,{"time":"16:49","usr":"3GsDigital","txt":"RT @SAI: Check Out How Apps Have Totally Remade The World $FB $AAPL $GOOG by @mattlynley http://t.co/22HjKaii","lbl":"Neutral"}
+,{"time":"16:53","usr":"TraderNewburgh","txt":"Price Target Sheet. Companion to my price point sheet. Use it to set alerts for price and volume $EXPE $TSCO $GOOG http://t.co/MqQR7SAf","lbl":"Neutral"}
+,{"time":"20:57","usr":"mattkeating85","txt":"RT @SmartMoney: What\u0027s a safe price to pay for Facebook? If you follow Google\u0027s formula, it\u0027s $9 to $15 at most. http://t.co/l6eoQdzz $FB $GOOG","lbl":"Neutral"}
+,{"time":"21:03","usr":"Rooz_P","txt":"No one wants actual hard commodities right now, and we\u0027re talking about virtual goods?! $ZNGA $FB $NFLX $GOOG $AAPL are fucked, step aside.","lbl":"Neutral"}
+]

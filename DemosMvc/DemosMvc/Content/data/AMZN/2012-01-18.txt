@@ -1,0 +1,42 @@
+[
+{"time":"2:46","usr":"LicharTin","txt":"Scan For 01/18/2012 $WFM $MSFT $MNST $HUM $HMSY $AMZN $GMCR $LNKD","lbl":"Neutral"}
+,{"time":"8:45","usr":"gtotoy","txt":"Amazon is ready to go http://t.co/iaQm1CkG $AMZN With Video","lbl":"Neutral"}
+,{"time":"8:48","usr":"TSXSwingtrader","txt":"RT @TimWolfgang: Late Night Charting: http://t.co/bR2huauh $PG $TSE:NA $TSE:MG $LEI $CVE $TSE:BCE $TSE:BBD $AMZN $TSE:ADV $VHC $TSE:STP $RDC $$ #TSE","lbl":"Neutral"}
+,{"time":"8:48","usr":"All_InEquities","txt":"RT @gtotoy: Amazon is ready to go http://t.co/iaQm1CkG $AMZN With Video","lbl":"Positive"}
+,{"time":"9:16","usr":"scalextremeinc","txt":"$AMZN CTO: Amazon DynamoDB \u2013 a Fast and Scalable NoSQL Database Service Designed for Internet Scale Applications http://t.co/Ij1IPNCC","lbl":"Neutral"}
+,{"time":"9:45","usr":"EdgeMe","txt":"Bot $amzn","lbl":"Neutral"}
+,{"time":"9:47","usr":"skayfe","txt":"my moneys on $AMZN tagging 200MA over next few weeks, I\u0027m still long a half pos, cost is 169.84","lbl":"Positive"}
+,{"time":"9:47","usr":"StockTwits","txt":"Amazon is ready to go http://t.co/w0mD9SRC via @Gtotoy $AMZN","lbl":"Positive"}
+,{"time":"10:12","usr":"Trefis","txt":"The Next iPad Could Get 4G LTE Before the iPhone http://t.co/ikWPmeYF $AAPL $AMZN $NOK","lbl":"Neutral"}
+,{"time":"10:13","usr":"noodls_sRetail","txt":"$AMZN Amazon Web Services Launches Amazon DynamoDB \u2013 A New NoSQL... http://t.co/HM09bvUI","lbl":"Neutral"}
+,{"time":"10:57","usr":"rechtsteiner","txt":".@JAKonrath peels back the $AMZN ebook selling process from an author\u0027s perspective. Incredibly valuable. http://t.co/NwbROqZN","lbl":"Neutral"}
+,{"time":"10:57","usr":"katetrades","txt":"Took 1/3 off $AMZN +4.40 .. great entry with @SunriseTrader yesterday","lbl":"Positive"}
+,{"time":"11:28","usr":"katetrades","txt":"$AMZN strong","lbl":"Positive"}
+,{"time":"11:30","usr":"SetupsTrader","txt":"$amzn...sold too fast. If you\u0027re still in awesome. Watching $gmcr. 51 breakout?","lbl":"Positive"}
+,{"time":"11:30","usr":"khanchill","txt":"@TraderFlorida thanks very much for the video, got the answer for $AMZN, keep on watching. Have a great day Sir.","lbl":"Neutral"}
+,{"time":"12:04","usr":"newsagg","txt":"$AMZN +2.4% Fire might be more profitable than expected, RBC seeing 3M-4M sales accretive to margins within the first 6 mo of ownership","lbl":"Positive"}
+,{"time":"12:10","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/52, $AAPL/39, $GS/32, $GOOG/19, $AMZN/18, $NFLX/16, $MSFT/14, $GMCR/13. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"12:37","usr":"HCPG","txt":"Big day for triggers as long standing alerts from our newsletter broke out today $AMZN 185 our focus since Jan 08, $RVBD 28 since Jan 13","lbl":"Positive"}
+,{"time":"12:37","usr":"TraderFlorida","txt":"$AMZN up now $14+ in last 3 days","lbl":"Positive"}
+,{"time":"12:37","usr":"MFinMO","txt":"RT @1nvestor @gtotoy nice job with $AMZN today, thx for the heads up this morning.","lbl":"Neutral"}
+,{"time":"12:37","usr":"businessinsider","txt":"This Is The Number One Thing People Are Using Kindle Fires For $AMZN $AAPL $GOOG by @jyarow http://t.co/H8wuEiT2","lbl":"Neutral"}
+,{"time":"13:10","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/57, $SPY/54, $GS/32, $AMZN/29, $GOOG/19, $NFLX/18, $FCX/18, $AMRN/14. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:11","usr":"TraderFlorida","txt":"$AMZN stop now raised to 186.00 since original entry 173.90\u0027s","lbl":"Positive"}
+,{"time":"13:40","usr":"newsagg","txt":"$AAPL $AMZN http://t.co/k82aYHbN","lbl":"Neutral"}
+,{"time":"13:40","usr":"dpgreen71","txt":"@TraderFlorida will you add to $AMZN as it passes the 50 day","lbl":"Neutral"}
+,{"time":"13:40","usr":"vjland","txt":"i am a proud owner of $amzn and $wynn $GDX yes, strong up side ahead, consolidation above 53, very good, looking 56.5.","lbl":"Positive"}
+,{"time":"14:10","usr":"StockTwits","txt":"Gossip girls (and guys): Rumors rule market http://t.co/2LzmMHTo via @LaMonicaBuzz $RIMM $NFLX $YHOO $AMZN $VZ $SHLD","lbl":"Neutral"}
+,{"time":"14:10","usr":"gtotoy","txt":"$AMZN is ready to go http://t.co/oGUDrH7s Target hit day 1 Baa\u00A9","lbl":"Neutral"}
+,{"time":"14:10","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/50, $SPY/36, $GOOG/28, $AMZN/24, $BAC/11, $FCX/11, $GS/11, $X/10, $LNG/10. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:43","usr":"sssc","txt":"they are still buying $GS $AMZN","lbl":"Positive"}
+,{"time":"14:44","usr":"TheHarper","txt":"fuck want to buy $WYNN or $AMZN but feel like I might be too late $$","lbl":"Neutral"}
+,{"time":"15:23","usr":"StockAction","txt":"RT @TheAcsMan: \u0022Life\u0027s not Fair\u0022 How else explain #Darfur & $AMZN rocking it after sold calls? #WoodyAllen #JedClampett http://t.co/5QjOP7zu #stockaction","lbl":"Positive"}
+,{"time":"16:17","usr":"LouisColumbus","txt":"Enterprise Hadoop: Big data processing made easier http://t.co/v1m0uWzD #Hadoop #EnSW $IBM $AMZN ,- roundup of #BigData in the Enterprise","lbl":"Neutral"}
+,{"time":"16:21","usr":"jimcollins","txt":"Nice call on $AMZN this am @gtotoy #expert","lbl":"Neutral"}
+,{"time":"17:02","usr":"TraderFlorida","txt":"$AMZN http://t.co/hziZsv42 A nice bounce today on strong volume - up $15+ since last Friday $PCLN POSTED VIDEO","lbl":"Positive"}
+,{"time":"17:03","usr":"iTraderz","txt":"$AMZN excellent follow through day and breakout above horizonrtal resistance on increasing large volume. What else ya want $STUDY","lbl":"Positive"}
+,{"time":"17:05","usr":"Catwoman2011","txt":"Own $AAPL, $AKAM, $AMZN, $CAT, $DIS, $HERO, $LINE, $SLB, $SWKS, $POT, $SLW, $WYNN, $WPRT $WLT, $NLY $TEVA @Circa: Do U own any other stocks?","lbl":"Neutral"}
+,{"time":"18:04","usr":"GavSharp","txt":"How bout you boys? @JDK_6 @rossco_007 RT @BNBillionaires #Billionaire Jeff Bezos up $685 million today as $AMZN rose 4.3%","lbl":"Neutral"}
+,{"time":"20:32","usr":"AMZN_stock","txt":"$AMZN after hours quote, 7:59PM EST: 188.99 -0.45 (-0.24%).","lbl":"Neutral"}
+,{"time":"23:08","usr":"GcodE232","txt":"I like to give most of my attention to three equites at a time and not be overwhelmed right now $WYNN $AMZN $NFLX","lbl":"Neutral"}
+]

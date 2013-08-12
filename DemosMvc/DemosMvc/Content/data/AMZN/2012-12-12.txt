@@ -1,0 +1,16 @@
+[
+{"time":"6:03","usr":"sssc","txt":"$GOOG $AMZN - The next chip battleground: Data centers - Fortune Tech http://t.co/GTGdZWY5","lbl":"Neutral"}
+,{"time":"9:52","usr":"SeekingAlpha","txt":"Google Adds Carrier Billing To Google Play To Improve Monetization http://t.co/D4v1OSr5 $AAPL $AMZN $MA $MIMV.OB $MSFT $NOK $S $T","lbl":"Neutral"}
+,{"time":"11:23","usr":"wallstCS","txt":"Redbox Poses New Challenge to Netflix\u0027s Supremacy http://t.co/sh1q5Xwh NFLX $CSTR $TWX $AMZN #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"12:28","usr":"MikeVodicka","txt":"3 Stocks That Could Announce Special Dividends Soon. $LVS, $WMT, $SYK, $AMZN. RT. http://t.co/uEByinJz","lbl":"Positive"}
+,{"time":"13:48","usr":"FastForwardBiz","txt":"RT @retail_sails: Amazon in the cross-hairs as eBay transforms from \u0027disruptee\u0027 to \u0027disruptor\u0027 http://t.co/SHTbySAm $AMZN $EBAY #retail","lbl":"Neutral"}
+,{"time":"14:22","usr":"JFDI","txt":"$AMZN setting up to take out 255 pivot area.","lbl":"Neutral"}
+,{"time":"14:37","usr":"TrendRida","txt":"Tell me something new.. \u0022@thinkingtrades: $AAPL is feeling so out of place in the company of $GOOG $AMZN and $BIDU today.\u0022","lbl":"Neutral"}
+,{"time":"14:37","usr":"davegordon14","txt":"RT @thinkingtrades: $AAPL is feeling so out of place in the company of $GOOG $AMZN and $BIDU today.","lbl":"Neutral"}
+,{"time":"15:08","usr":"HenryPetzold","txt":"@UdallTechStrat @northmantrader Out of Your choices, I would guess $AMZN.","lbl":"Neutral"}
+,{"time":"16:00","usr":"WallStJesus","txt":"Short Interest Swings in Retail #Stocks: http://t.co/oXqZaFqk $BBY $AMZN $COST $CVS $DG $FD $GPS $HD $LOW $M $ROST $RSH $TGT $WMT","lbl":"Neutral"}
+,{"time":"16:02","usr":"AMZN_stock","txt":"$AMZN stock quote, Dec 12: 251.76 +1.07 (+0.43%).","lbl":"Neutral"}
+,{"time":"17:56","usr":"BenCBanks","txt":"DAILY ANALYSIS: $SPY $AAPL $GOOG $AMZN http://t.co/9tozW53c via @weebly","lbl":"Neutral"}
+,{"time":"19:16","usr":"beckleyworks","txt":"Report out saying e-reader sales will be down 36% y/y or more and $AMZN is UP .52 today? WTF. http://t.co/N0P6NKz9","lbl":"Positive"}
+,{"time":"19:17","usr":"IADops40","txt":"Nokia Lumia 820 4G Windows Phone for $0.01 with contract on Amazon http://t.co/3qoLB9w8 $AMZN $NOK $MSFT #Nokia #Lumina820 #Amazon","lbl":"Neutral"}
+]

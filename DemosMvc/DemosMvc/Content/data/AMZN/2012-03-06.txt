@@ -1,0 +1,35 @@
+[
+{"time":"5:22","usr":"simplestockqtes","txt":"Someone just got a simple quote on $amzn @simplestockqtes http://t.co/NfEl9cj7","lbl":"Neutral"}
+,{"time":"5:58","usr":"richi","txt":"Google tablet is the Nexus of rumors; Google Play for $199? #ITBW http://t.co/PsMJgiPc /by @richi for @Computerworld $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"8:21","usr":"sunnyag","txt":"RT @richi: Google tablet is the Nexus of rumors; Google Play for $199? #ITBW http://t.co/QPIYN5IM $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"8:25","usr":"LimitBuyer","txt":"Watchlist for today: $AAPL, $GLD, $MA, $CF, $AMZN, $FSLR, $VALE amongst many others.","lbl":"Neutral"}
+,{"time":"9:56","usr":"Leaf_West","txt":"$AMZN ... stop now at $180 to lock in winning trade on last piece","lbl":"Positive"}
+,{"time":"9:56","usr":"Chaoticonomist","txt":"RT @ReformedBroker: While you were sleeping, $AMZN took one third of the tablet market in 3 months. Kindle is 30% of tablet web traffic in Feb, from 4% in Nov","lbl":"Positive"}
+,{"time":"9:56","usr":"toddstrade","txt":"$AMZN will be sure to squeeze out every last short before going lower","lbl":"Positive"}
+,{"time":"9:56","usr":"firstadopter","txt":"$AMZN cuts web services pricing by 10-42%: http://t.co/J15Tfvez","lbl":"Neutral"}
+,{"time":"10:36","usr":"leopardtrader","txt":"Intraday long $AMZN 180ish still swing short $AAPL to 460$ area","lbl":"Positive"}
+,{"time":"10:38","usr":"CreateCapital","txt":"Jeez. I recommended buying $AMZN yesterday. a happy accident?","lbl":"Positive"}
+,{"time":"10:54","usr":"ShortStockPicks","txt":"#StockMarket #SP500 #Pops: $MWW 10.0%, $SVU 3.0%, $AMZN 1.3%, $ABC .5%, $RAI .5%, $KSS .5% @ShortStockPicks watches #CNBC","lbl":"Positive"}
+,{"time":"10:57","usr":"MichaelComeau","txt":"$AMZN strength is baffling","lbl":"Positive"}
+,{"time":"10:57","usr":"BobPisani","txt":"Consumer stocks higher despite drops across the board. $JCP $AMZN $KFT $CL all up #Markets #CNBC","lbl":"Positive"}
+,{"time":"11:23","usr":"ShortStockPicks","txt":"#StockMarket #NASDAQ100 #Pops: $AMZN 1.3%, $ATVI .5%, $MCHP .2%, $XLNX .2%, $ORLY .1%, $SPLS .1% @ShortStockPicks watches #CNBC","lbl":"Positive"}
+,{"time":"11:24","usr":"ShortStockPicks","txt":"#StockMarket #SP500 #Pops: $MWW 9.3%, $SVU 3.0%, $AMZN 1.3%, $JCP .9%, $ABC .5%, $RSH .4% @ShortStockPicks watches #CNBC","lbl":"Neutral"}
+,{"time":"11:59","usr":"Leaf_West","txt":"$AMZN ... added to scalp at $181.25 ... stop still $180.75 on whole position","lbl":"Positive"}
+,{"time":"11:59","usr":"ShortStockPicks","txt":"#StockMarket #SP500 #Pops: $MWW 8.8%, $SVU 3.1%, $MSI .9%, $RSH .9%, $JCP .8%, $AMZN .6% @ShortStockPicks watches #CNBC","lbl":"Neutral"}
+,{"time":"12:00","usr":"TheSteve0","txt":"RT @joemccann: Amazon Kindle Fire traffic increases 825% from 4% of tablet traffic to 33% traffic in past 3 months. Wow. $AMZN http://t.co/AcPxmwAM","lbl":"Positive"}
+,{"time":"12:30","usr":"tcrawford","txt":"@rhm2k Would be surprised to see $AMZN move to PaaS. Credible player? cc/ @samj @lmacvittie @joeweinman @jamesurquhart @benkepes","lbl":"Neutral"}
+,{"time":"12:32","usr":"cperruna","txt":"Just checked in at lunch - everything I own or am watching is RED, except $AMZN - even this is trending lower from high - back to work","lbl":"Negative"}
+,{"time":"13:14","usr":"ivanhoff","txt":"@ReformedBroker @1nvestor are u concerned that $AMZN is on its way stage a price war and squeeze $RAX margins?","lbl":"Neutral"}
+,{"time":"13:16","usr":"RoccoPendola","txt":"Commented on: \u0022This Just In: Netflix Business Model Broken\u0022 http://t.co/Y23PsO2t $AMZN $CMCSA $GOOG $TWX $NFLX","lbl":"Neutral"}
+,{"time":"13:16","usr":"BreezeTrading","txt":"One thinks $AMZN is outperforming the $SPY today. #NOTSURE","lbl":"Positive"}
+,{"time":"14:12","usr":"trader_paradise","txt":"$NFLX and $AMZN puts paying","lbl":"Negative"}
+,{"time":"14:13","usr":"SJosephBurns","txt":"@MrSteveLee $AMZN is a swing traders stock.","lbl":"Neutral"}
+,{"time":"14:13","usr":"tagthatstock","txt":"$amzn hasnt moved in weeks,, looks like amzn is just full of retail investors and shitt eating possums","lbl":"Neutral"}
+,{"time":"16:02","usr":"AMZN_stock","txt":"$AMZN stock quote, Mar 6: 181.2368 +0.9768 (+0.54%).","lbl":"Neutral"}
+,{"time":"17:21","usr":"randy_cass","txt":"Amazon vs. Apple. Shaffer: \u0022Competing in e-reader market\u0022 Is $AAPL\u0027s good news bad for $AMZN & vice versa? @BNN_TV #marketsense","lbl":"Negative"}
+,{"time":"17:21","usr":"randy_cass","txt":"Shaffer \u0022There\u0027s room for good news for both $AAPL and $AMZN\u0022 @BNN_TV #marketsense","lbl":"Negative"}
+,{"time":"18:14","usr":"NMULaxin","txt":"@jimcramer CRAMERICA! $AMZN is AMZ\u0027in! 1-2 year growth own!? Increasing international infrastructure","lbl":"Positive"}
+,{"time":"18:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/37, $P/31, $SPY/26, $GOOG/12, $AMZN/12, $GLD/12, $NFLX/12, $IWM/11. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"20:45","usr":"RahulSaraogi","txt":"RT @valuewalk: Jeff Bezos Brain scan: Taking the long view | The Economist http://t.co/UlBzn2MV $AMZN","lbl":"Neutral"}
+,{"time":"20:53","usr":"investlite","txt":"$CRR $AMZN $LNKD $AZO $KFT $CVX $PETM $INFA $QCOM $NVDA $CRM $GOOG $GLD $BEAM $WFC $GMCR $NFLX $ADBE $SINA $TZOO $OPEN http://t.co/gWIKkGJu","lbl":"Neutral"}
+]

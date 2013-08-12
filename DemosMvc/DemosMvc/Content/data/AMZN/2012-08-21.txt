@@ -1,0 +1,22 @@
+[
+{"time":"6:44","usr":"Lowtown21","txt":"RT @jfm03: Amazon $AMZN launches cloud storage system: Amazon Glacier at $0.01 per GB per month.","lbl":"Neutral"}
+,{"time":"7:48","usr":"RogueStockTradr","txt":"$GOOG $AMZN two good candidates to ride down for a swing when $SPY cracks.","lbl":"Negative"}
+,{"time":"7:50","usr":"USwwwStocks","txt":"$AMZN News: http://t.co/FVegcAt0, INC. : Amazon Web Services Announces Amazon Glacier http://t.co/TMuz8dDx #AMZN #Amazon #Amazoncom","lbl":"Neutral"}
+,{"time":"7:52","usr":"LuckyDoubleDog","txt":"$AMZN should hope $bby stays healthy or they would loose a free show room","lbl":"Neutral"}
+,{"time":"7:53","usr":"BrianDeDonato","txt":"Interested in $GOOG over 679, $AMZN over 242-245, $AEM over 48, and $AAPL just about anywhere you can get it on a gapfill.","lbl":"Positive"}
+,{"time":"8:32","usr":"C_Goscinski","txt":"@blootch True. $AMZN pulls from Living Social and $GRPN tho. That said, pulls a piece of the cash as a re-seller. ($GRPN -6%+ on the day.)","lbl":"Neutral"}
+,{"time":"8:32","usr":"lowensteiner","txt":"@herbgreenberg I still respectfully disagree. Does $AMZN want to instantly be in the RE game? Also, if so, is big box necessary for AMZN?","lbl":"Neutral"}
+,{"time":"8:35","usr":"Lowtown21","txt":"out some $AMZN weeklies +50%","lbl":"Positive"}
+,{"time":"9:02","usr":"Jigga_Jay_T","txt":"RT @LaMonicaBuzz: Best Buy: Retool or die. Is $BBY going to go the way of Circuit City, Borders and Blockbuster? Buzz video. http://t.co/L6Y0lzDa $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"9:45","usr":"RaveD","txt":"$aapl $amzn $goog ... the generals are waving caution flags","lbl":"Negative"}
+,{"time":"9:45","usr":"CreateCapital","txt":"RT @RaveD: $aapl $amzn $goog ... the generals are waving caution flags ONE TRILLION DOLLARS IN MARKET VALUE","lbl":"Neutral"}
+,{"time":"9:47","usr":"jbscapllc","txt":"RT @CreateCapital: RT @RaveD: $aapl $amzn $goog ... the generals are waving caution flags ONE TRILLION DOLLARS IN MARKET VALUE","lbl":"Negative"}
+,{"time":"10:55","usr":"madaznfootballr","txt":"$AMZN gap filled. EOD run possible?","lbl":"Neutral"}
+,{"time":"10:56","usr":"sergiojarquin","txt":"RT @LaMonicaBuzz: Best Buy: Retool or die. Is $BBY going to go the way of Circuit City, Borders and Blockbuster? Buzz video. http://t.co/L6Y0lzDa $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"11:14","usr":"TheArmoTrader","txt":"Interesting RT @princebhojwani: New Post: The Case For Friending Facebook http://t.co/zKiPBbC7 $FB $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"11:16","usr":"Buddahfan","txt":"RT @SAI: Amazon Announces A New Dirt Cheap Cloud For Storage $AMZN by @Julie188 http://t.co/RKjexJxC","lbl":"Positive"}
+,{"time":"11:16","usr":"VanessaAlvarez1","txt":"$AMZN please acquire $BBY, kthxbai","lbl":"Neutral"}
+,{"time":"12:16","usr":"htormey","txt":"@rakeshlobster 100% agree, $EBAY is still a distant 2nd place to $AMZN in terms of shopping/payment/shipping. I hate buying stuff from $EBAY","lbl":"Positive"}
+,{"time":"13:36","usr":"BrentThreadgill","txt":"$AMZN vs $GOOG in cloud is well known, check out its traction in mobile e-comm (watch the vid) http://t.co/ydgyjSX6 via @sai","lbl":"Neutral"}
+,{"time":"14:43","usr":"EvanMedeiros","txt":"long $AMZN 239.76","lbl":"Positive"}
+]

@@ -1,0 +1,22 @@
+[
+{"time":"9:54","usr":"$AMZN","txt":"@TMTanalyst @gatorcapital You guys and \u0022Listerine-buying\u0022 2-day UPS shipping Prime addicts are crushing $AMZN operating margins!","lbl":"Negative"}
+,{"time":"11:08","usr":"MFinMO","txt":"Had $AMZN on my screen all morning at $185 level...phone call and walked away....come back and it\u0027s at $188. Dammit","lbl":"Neutral"}
+,{"time":"11:09","usr":"thetradingwife","txt":"@gtotoy Nice $AMZN trade","lbl":"Neutral"}
+,{"time":"12:00","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Fairly Up. Top 10 NASDAQ-100 Stocks with Most Analyst Upgrades: CTXS, W: http://t.co/yW5R3Ick","lbl":"Positive"}
+,{"time":"12:01","usr":"AMZN_stock","txt":"$AMZN real time quote, 12:01PM EST: 187.14 +1.05 (+0.56%).","lbl":"Positive"}
+,{"time":"12:02","usr":"passiveharry","txt":"Long above the 50 day and short below the 10 day is the next play. $AMZN http://t.co/SWXgjuo0","lbl":"Neutral"}
+,{"time":"13:45","usr":"andrea_cinti","txt":"RT @BloombergNews: Amazon Fire takes Android, leaves Google apps | http://t.co/d94z8R3h $AMZN $GOOG Google, te lo stanno a butt\u00E0 intarculo!","lbl":"Positive"}
+,{"time":"13:49","usr":"treysdubya","txt":"Boy am I glad I covered that $AMZN for lunch money yesterday! Ugh. Threw away 4-5 points easy. dumb.","lbl":"Positive"}
+,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN real time quote, 2:01PM EST: 185.75 -0.34 (-0.18%).","lbl":"Neutral"}
+,{"time":"15:51","usr":"RoccoPendola","txt":"2 Options Trades You Can Make On Stocks Not Named Apple - Seeking Alpha http://t.co/RUCf3xvt $AAPL $AMZN $MCD $NFLX $VZ #options","lbl":"Neutral"}
+,{"time":"15:58","usr":"CameronKaine","txt":"RT @RoccoPendola: 2 Options Trades You Can Make On Stocks Not Named Apple - Seeking Alpha http://t.co/RUCf3xvt $AAPL $AMZN $MCD $NFLX $VZ #options","lbl":"Neutral"}
+,{"time":"16:00","usr":"NoDoji","txt":"$AMZN 5 min intraday H+S fwiw http://t.co/bKQL0LQJ","lbl":"Neutral"}
+,{"time":"16:46","usr":"lozaldinho","txt":"RT @BloombergNews: Amazon Fire takes Android, leaves Google apps | http://t.co/mKG2utSS $AMZN $GOOG","lbl":"Positive"}
+,{"time":"16:47","usr":"aspenheights100","txt":"RT @gtotoy: $AMZN sold 1/4 what I had +3.18 in AH\u0027s","lbl":"Negative"}
+,{"time":"16:48","usr":"amaeryllis","txt":"RT @m_delamerced: Apple had a $97.6bn war chest as of Dec. 31. Let the \u0022What can $AAPL buy?\u0022 stories commence. A start: $AMZN. Or $RIMM + Slovakia. Just \u0027cuz.","lbl":"Neutral"}
+,{"time":"16:49","usr":"lukehellum","txt":"RT @m_delamerced: Apple had a $97.6bn war chest as of Dec. 31. Let the \u0022What can $AAPL buy?\u0022 stories commence. A start: $AMZN. Or $RIMM + Slovakia. Just \u0027cuz.","lbl":"Neutral"}
+,{"time":"17:54","usr":"jeffcohn","txt":"I am sending back my Kindle Fire to Amazon b/c it still needs work to catch up to the iPad $AAPL $AMZN","lbl":"Negative"}
+,{"time":"17:54","usr":"DeadZones","txt":"I am sending back my Kindle Fire to Amazon b/c it still needs work to catch up to the iPad $AAPL $AMZN","lbl":"Negative"}
+,{"time":"18:28","usr":"laurenahayes","txt":"RT @SAI: Tim Cook: I Looked At The iPad Sales Data Closely, And I Saw No Impact From The Kindle Fire $AAPL $AMZN by @jyarow http://t.co/U2YwMKQX","lbl":"Negative"}
+,{"time":"18:29","usr":"FrankGFisher","txt":"RT @SAI: Tim Cook: I Looked At The iPad Sales Data Closely, And I Saw No Impact From The Kindle Fire $AAPL $AMZN by @jyarow http://t.co/U2YwMKQX","lbl":"Neutral"}
+]

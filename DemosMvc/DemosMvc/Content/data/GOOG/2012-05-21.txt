@@ -1,0 +1,72 @@
+[
+{"time":"2:33","usr":"danielz59","txt":"$GOOG - Google Stock Analysis - sub penny stock - http://t.co/7wK2xKTf","lbl":"Negative"}
+,{"time":"7:32","usr":"Roccrazyz","txt":"Dr Patrick Soon Billionaire buys__ Neom. Recent filings. http://t.co/FQfMMYHX https://t.co/wcTFJ1vA http://t.co/cx6Vjipu $FB $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"7:33","usr":"Roccrazyz","txt":"__NEOM__Patrick Soon Billionaire buying. Recent filings. http://t.co/FQfMMYHX https://t.co/wcTFJ1vA http://t.co/cx6Vjipu $FB $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"7:35","usr":"Abmuku","txt":"Get New Hot Social Media News First! Get Abmuku Mobile, Tech Analysis and More at http://t.co/w7OgISxY $FB $P $GOOG","lbl":"Neutral"}
+,{"time":"7:39","usr":"MNYCx","txt":"$GOOG bounce after this massacre last Friday? Btw those W610 Puts last Friday went from .05 to 13.00\u0027s, HOLY SHHHHHH...","lbl":"Neutral"}
+,{"time":"8:34","usr":"InvestorJunkie","txt":"Put int an order to buy $GOOG @ 600 for my WTF Fund #fb","lbl":"Positive"}
+,{"time":"8:36","usr":"keepitrealdude","txt":"CORR $AMZN avg.224 RT @keepitrealdude I am short $AMZN at 227 and $GOOG at 633, just according to pre laid plan.","lbl":"Neutral"}
+,{"time":"8:36","usr":"InvestorJunkie","txt":"Cool. I got my order for $GOOG @ 600 even though it opened at $600.50 #fb","lbl":"Positive"}
+,{"time":"8:37","usr":"LivingThankful","txt":"Eyes on today market.. $SPY $ICE $GLD $AAPL $GOOG $PCLN #options","lbl":"Neutral"}
+,{"time":"9:04","usr":"billdouglass","txt":"Well-deserved: Google Chrome ousts Internet Explorer as Mayor of Browserville. http://t.co/vU4NwD7H $goog $msft","lbl":"Positive"}
+,{"time":"9:04","usr":"choffman1978","txt":"$KERX moving up 18% on presentation news. #cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$goog","lbl":"Neutral"}
+,{"time":"9:05","usr":"thefinancepress","txt":"$GOOG Critical Alerts For Google, DirecTV, http://t.co/JtKxIUd0, Southwest Airlines, and T ...: Critical Alerts ... http://t.co/QW16tRE2","lbl":"Negative"}
+,{"time":"9:06","usr":"choffman1978","txt":"$KERX moving up 18% on presentation news.$2? #cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$goog","lbl":"Neutral"}
+,{"time":"9:26","usr":"Jim_Edwards","txt":"Pinterest Is Turning Google+ Into A Ghost Town For Advertisers $GOOG http://t.co/pRAqaeap","lbl":"Negative"}
+,{"time":"9:26","usr":"BI_Advertising","txt":"Pinterest Is Turning Google+ Into A Ghost Town For Advertisers $GOOG by @Jim_Edwards http://t.co/vv9GiNQ4","lbl":"Negative"}
+,{"time":"9:26","usr":"SAI","txt":"Pinterest Is Turning Google+ Into A Ghost Town For Advertisers $GOOG by @Jim_Edwards http://t.co/DBZ9FsHU","lbl":"Negative"}
+,{"time":"9:26","usr":"MonaLabban","txt":"RT @BI_Advertising: Pinterest Is Turning Google+ Into A Ghost Town For Advertisers $GOOG by @Jim_Edwards http://t.co/vv9GiNQ4","lbl":"Neutral"}
+,{"time":"9:42","usr":"barronstechblog","txt":"Apple: Cowen, Piper See iPhone 5 Gaining Favorable Chip Treatment - Tech Trader Daily - $AAPL $QCOM $GOOG $NOK $RIMM http://t.co/XoXryaZV","lbl":"Neutral"}
+,{"time":"10:16","usr":"NewTechCity","txt":"@tdsamuelson Cornell new engineering school 22,000 sq ft in NYC headquarters of $GOOG while campus built","lbl":"Neutral"}
+,{"time":"10:16","usr":"charlieherman","txt":"@tdsamuelson Cornell new engineering school 22,000 sq ft in NYC headquarters of $GOOG while campus built","lbl":"Neutral"}
+,{"time":"11:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $FB -11.51%, $AAPL +2.82%, $GOOG +1.53%, $NBG +4.0%, $YHOO +0.65% http://t.co/p9Pt1poZ #StockWars","lbl":"Neutral"}
+,{"time":"11:00","usr":"SeekingAlpha","txt":"Baidu\u0027s Goldrush http://t.co/NlFeAEC8 $GOOG $MMI $BIDU","lbl":"Neutral"}
+,{"time":"11:00","usr":"monesti","txt":"@sspencer_smb didn\u0027t $GOOG do a dutch auction on their IPO?","lbl":"Neutral"}
+,{"time":"11:00","usr":"bpeck","txt":"Great to see the support by $GOOG on the new @CornellTechNYC campus - will be at Google NYC HQ for next 5 years http://t.co/aZf8ENXD","lbl":"Neutral"}
+,{"time":"11:44","usr":"iRemoveAllDoubt","txt":"RT @SuzyQJaco: While everyone was watching $FB nonsense...$GOOG dropped 40 points in 3 days.","lbl":"Negative"}
+,{"time":"11:44","usr":"HedgefundPLAY","txt":"Mobile Contract Customers Fall, But Mobile Data Revs To Hit $80 Bil http://t.co/SImaf4b8 $AAPL $GOOG #fx","lbl":"Neutral"}
+,{"time":"11:44","usr":"IntlMktEntry","txt":"#IE passes $GOOG #Chrome to be most Popular #Browser! http://t.co/SUTEGCec","lbl":"Positive"}
+,{"time":"11:46","usr":"creativereason","txt":"RT @SuzyQJaco: While everyone was watching $FB nonsense...$GOOG dropped 40 points in 3 days.","lbl":"Negative"}
+,{"time":"12:30","usr":"SeekingAlpha","txt":"How Low Can Nokia Go? http://t.co/lgxZAzt3 $AAPL $GOOG $MSFT $NOK","lbl":"Neutral"}
+,{"time":"12:30","usr":"stockmonkeymom","txt":"Or 100+ for $AMZN! \u201C@hblodget: @kteare With $AAPL trading at 13X earns & $GOOG at 15X, very hard to justify 50x-70x for $FB. Seems nuts\u201D","lbl":"Neutral"}
+,{"time":"12:32","usr":"justinkistner","txt":"@rcrsv this is the $8 drop over the first two weeks of $GOOG that I was referring to http://t.co/4y2aQUxb","lbl":"Negative"}
+,{"time":"13:23","usr":"choffman1978","txt":"$BPAX - HUGE RUN - News likely soon?!?#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$goog","lbl":"Neutral"}
+,{"time":"13:25","usr":"TweetLeni","txt":"@PeakTheories In comparing $AAPL v $GGOG the short term up slopes have some merit adding greater probability to $GOOG","lbl":"Positive"}
+,{"time":"13:30","usr":"C_Knight15","txt":"RT @TraderFlorida: Do not buy / chase a stock when it has moved up $10+ in one day - i.e. $AAPL $PCLN $MA $ISRG $GOOG","lbl":"Neutral"}
+,{"time":"13:30","usr":"wallstCS","txt":"Is Apple Stealing Facebook\u0027s Thunder Now? http://t.co/yUOdIrfh $AAPL $FB $LNKD $GOOG $ZNGA","lbl":"Neutral"}
+,{"time":"14:23","usr":"BigE_007","txt":"@TraderFlorida /Es nor $AAPL NOR $PCLN NOR $AMZN nor $GOOG seem to have the volume to send us higher right?","lbl":"Negative"}
+,{"time":"14:24","usr":"choffman1978","txt":"$BPAX - HUGE RUN! .55 cents coming soon!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$goog","lbl":"Neutral"}
+,{"time":"14:48","usr":"barronsonline","txt":"Facebook IPO Flops: Look Out Below! http://t.co/OqJwTB8t via @barronsonline $FB $GOOG $AAPL $MS","lbl":"Neutral"}
+,{"time":"14:50","usr":"choffman1978","txt":"$KERX about to hit new HOD!#cnbc,#msnbc,#nyse,#wsj,$fb,$gs,$goog,$pfe,$jnj,$ctic,$amgn,$chtp,$vvus,$s,$v,$c,$aapl,$gm","lbl":"Neutral"}
+,{"time":"14:51","usr":"wallstCS","txt":"Mergers and Acquisitions Recap: Google to Tour Motorola Mobility, Micron Rejected http://t.co/5OqBz8py $BCS $BLK $CBE $AYI $BX $GOOG $MMI","lbl":"Neutral"}
+,{"time":"15:32","usr":"sigwang","txt":"@cnbcfastmoney MT @ScottKirsner speech technology head, Mike Cohen, has left $GOOG to work on new venture, analyst Walt Tetschner tells me.","lbl":"Neutral"}
+,{"time":"15:33","usr":"dajohi","txt":"If you put $FB at around $GOOG and $AAPL\u0027s P/E , $FB should be trading at around $8/share. #reality #facebook #facebookdown","lbl":"Neutral"}
+,{"time":"16:21","usr":"mattfmccormick","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:21","usr":"SocraticNews","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:21","usr":"kavs88","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:23","usr":"itsmereshma","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:23","usr":"EnricoMorolli","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:26","usr":"TheColdPhoenix","txt":"lmao RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/mUHn8AmP $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:26","usr":"hbosakhar","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:26","usr":"lawhawk","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"16:32","usr":"pennystockguys","txt":"$GOOG - Modest 1Q for SalesForce - Analyst Blog http://t.co/VVCiCtrD","lbl":"Negative"}
+,{"time":"16:32","usr":"charlesrwa","txt":"$GOOG - Modest 1Q for SalesForce - Analyst Blog http://t.co/ZbkWsJSy","lbl":"Negative"}
+,{"time":"16:32","usr":"josephwerle","txt":"Is the market seeing light in the competition? $APPL and $GOOG both have risen, 2~% and 5~% respectively, while $FB is down 11%","lbl":"Positive"}
+,{"time":"16:43","usr":"KenLauder","txt":"More Quick Ratios - $CLDX (7.51), $HZNP (4.17), $RGEN (4.49), $AMLN (1.47), $SPPY (3.07), $TLON (2.22), $NAVB (4.78), $GOOG (5.84)","lbl":"Neutral"}
+,{"time":"16:43","usr":"redkompressor","txt":"#InternetExplorer lost its number 1 spot to $GOOG #Chrome","lbl":"Positive"}
+,{"time":"16:44","usr":"Watchdogsniffer","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:04","usr":"_jjthejetplane_","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:04","usr":"ADVFNplc","txt":"$GOOG - S&P Indices Announces Change to U.S. Index http://t.co/LH0xyiHH","lbl":"Neutral"}
+,{"time":"17:04","usr":"pennystockguys","txt":"$GOOG - S&P Indices Announces Change to U.S. Index http://t.co/86euTGX0","lbl":"Neutral"}
+,{"time":"17:04","usr":"Christian_Ifft","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:54","usr":"jcardan1","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:55","usr":"AAHbusinessman1","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:55","usr":"notibursa_eah","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/FBLxxvQj $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"18:59","usr":"KB_Smoove","txt":"\u201C@SAI:Google\u0027s Self Driving Cars Just Got One Step Closer To Reality In California $GOOG by @Julie188 http://t.co/QJaRUlSP\u201D<--iRobot is here","lbl":"Positive"}
+,{"time":"19:00","usr":"ASyahrulH","txt":"RT @WSJ: As Facebook plummeted 11%, Apple rose 5.8% and Google climbed 2.3%. http://t.co/B4U72cHW $FB $AAPL $GOOG","lbl":"Positive"}
+,{"time":"19:02","usr":"MAKnowledgebase","txt":"$GOOG cleared to close $12.5bn purchase of $MMI. Even giants play defense sometimes. #mobile http://t.co/V0o5iTec","lbl":"Neutral"}
+,{"time":"19:02","usr":"brenondaly","txt":"$GOOG cleared to close $12.5bn purchase of $MMI. Even giants play defense sometimes. #mobile http://t.co/ZHsRL233","lbl":"Neutral"}
+,{"time":"21:21","usr":"Borgiziz","txt":"Devil bless it! Why didn\u0027t I buy back $GOOG too?!","lbl":"Positive"}
+,{"time":"21:28","usr":"BigTicks","txt":"$GOOG News: Alexion To Replace Motorola Mobility In S&P 500 http://t.co/wB0DXac7 #GOOG #Alexion #Mobility","lbl":"Neutral"}
+,{"time":"21:32","usr":"adamh114","txt":"RT @SAI: Google\u0027s Self Driving Cars Just Got One Step Closer To Reality In California $GOOG by @Julie188 http://t.co/uxCS1CGg","lbl":"Positive"}
+]

@@ -1,0 +1,11 @@
+[
+{"time":"9:15","usr":"mikepaterson72","txt":"RT @lazerow: \u0022I\u0027m a $GOOG employee who eats donuts.\u0022 http://t.co/CDSgKfdr","lbl":"Neutral"}
+,{"time":"9:17","usr":"danentin","txt":"Funny. \u0022@lazerow: \u0022I\u0027m a $GOOG employee who eats donuts.\u0022 http://t.co/W4IF16BI\u0022","lbl":"Neutral"}
+,{"time":"9:29","usr":"suhnylla","txt":"RT @SeekingAlpha: Facebook IPO Marks The Transition To The Semantic Web http://t.co/bepEZQ0e $BA $CHKP $EMC $FTNT $GE $GOOG $IBM $MSFT $SYMC $WBSN","lbl":"Neutral"}
+,{"time":"9:29","usr":"katefgold","txt":"RT @lazerow: \u0022I\u0027m a $GOOG employee who eats donuts.\u0022 http://t.co/CDSgKfdr","lbl":"Neutral"}
+,{"time":"13:36","usr":"andrewnyquist","txt":"Social Media Turning Up the Volume: http://t.co/Clgz1ISQ $FB $LNKD $GOOG $ZNGA $SPX $SPY #investing","lbl":"Neutral"}
+,{"time":"13:45","usr":"TraderAshish","txt":"RT @SeekingAlpha: How Facebook Really Stacks Up Against Pre-IPO Google http://t.co/alankvVg $GOOG $FB","lbl":"Neutral"}
+,{"time":"13:55","usr":"SameerPatel","txt":"NYT: Facebook Users Ask, \u0027Where\u0027s Our Cut?\u0027 http://t.co/4v1H84xm > Nonsense. True of every free service incl $GOOG.","lbl":"Neutral"}
+,{"time":"21:30","usr":"MarinaStrauss","txt":"superbowl ad just one piece of the pie ... Super Bowl ad war shifts to social media http://t.co/w0ZToMyE via @globeandmail $GOOG","lbl":"Neutral"}
+,{"time":"22:48","usr":"MarcusCatoOne","txt":"I just opened a LONG position on $GOOG at 596.33. Check out my trades @simitrade - http://t.co/jSMzYa1F","lbl":"Positive"}
+]

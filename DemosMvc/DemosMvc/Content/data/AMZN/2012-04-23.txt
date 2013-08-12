@@ -1,0 +1,15 @@
+[
+{"time":"1:55","usr":"ChristianMRicci","txt":"$AMZN FTW http://t.co/9oPVSG6H","lbl":"Neutral"}
+,{"time":"8:04","usr":"bored2tears","txt":"Amazon launches AmazonSupply site for business, industrial customers. http://t.co/qUfEesTG $AMZN -0.34% premarket #stocks","lbl":"Neutral"}
+,{"time":"8:05","usr":"Benzinga","txt":"$AMZN Introducing AmazonSupply","lbl":"Neutral"}
+,{"time":"8:05","usr":"Michal_Mac","txt":"RT @Benzinga: $AMZN Introducing AmazonSupply","lbl":"Neutral"}
+,{"time":"8:47","usr":"speconomist","txt":"RT @HedgeyeRetail: Hey, why not leverage infrastructure over a brand new market? AmazonSupply (http://t.co/7b4f8I1Y) $AMZN","lbl":"Neutral"}
+,{"time":"9:17","usr":"RoccoPendola","txt":"Netflix, Apple, Amazon Options Trades Ahead of Earnings - TheStreet http://t.co/8oNSMT2o via @TheStreet $AAPL $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"11:07","usr":"tradesmart8","txt":"$amzn - amazon stock analysis - rsi is bearish and falling - http://t.co/En2ETq1d","lbl":"Negative"}
+,{"time":"11:54","usr":"TheStaceyBowers","txt":"RT @retail_sails: Amazon expands offerings to business and industrial clients with new vertical http://t.co/uDvWlbIV #retail $AMZN","lbl":"Positive"}
+,{"time":"12:50","usr":"StockTwits","txt":"Monday Links: Assuming real risk. http://t.co/ov3XDh5B via @abnormalreturns $AAPL $GOOG $FB $WMT $AMZN $CHK $SHLD","lbl":"Neutral"}
+,{"time":"12:52","usr":"howardlindzon","txt":"RT @StockTwits: Monday Links: Assuming real risk. http://t.co/ov3XDh5B via @abnormalreturns $AAPL $GOOG $FB $WMT $AMZN $CHK $SHLD","lbl":"Neutral"}
+,{"time":"14:04","usr":"daveyarmon","txt":"Amazon readily admits Kindle\u0027s ink screens fail without provocation. #PlannedObsolescence $AMZN http://t.co/ZrNPdMV2 #li","lbl":"Negative"}
+,{"time":"14:04","usr":"wisetraders8","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/ROFb8qC3","lbl":"Positive"}
+,{"time":"17:33","usr":"wisetraders8","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/ROFb8qC3","lbl":"Positive"}
+]

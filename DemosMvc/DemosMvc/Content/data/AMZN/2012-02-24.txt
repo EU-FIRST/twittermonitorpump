@@ -1,0 +1,15 @@
+[
+{"time":"2:32","usr":"petercalka","txt":"Commented on: \u0022Short Amazon: Making Sense Of A 5-Year Chart Overlay With Apple\u0022 http://t.co/C1A2e8l5 $AAPL $AMZN","lbl":"Negative"}
+,{"time":"2:42","usr":"Retail_Guru","txt":"John Lewis weekly sales #s continue to suggest modest improvement in UK shopping patterns; online still strongest $$ #retail $AMZN","lbl":"Neutral"}
+,{"time":"8:56","usr":"ManiOhli","txt":"Option Millionaires: hanibal: $AMZN closing in on 180 PM http://t.co/WitLJby5","lbl":"Neutral"}
+,{"time":"8:56","usr":"Bytesfrombits","txt":"The Morning Dump - Feb 24th #google $MMI #motorola #Yahoo $AMZN $DISH #CEO #Mobile #ads #blockbuster http://t.co/fMaIlqwu","lbl":"Neutral"}
+,{"time":"10:15","usr":"XTB_Portugal","txt":"It\u0027s amazing how this market keeps propping up names like $AMZN $CRM $SHLD among others.","lbl":"Positive"}
+,{"time":"10:18","usr":"stockxtrading","txt":"$AMZN is now contracting #Foxconn, what\u0027s good for $AAPL is good for $AMZN http://t.co/V5lDjEoK","lbl":"Positive"}
+,{"time":"11:31","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:16am: 180.04 +1.15 (+0.64%).","lbl":"Positive"}
+,{"time":"12:55","usr":"berkutchitweet","txt":"@RedDogT3Live I may just be bored, but if $AMZN crosses above it\u0027s 50 I\u0027m gonna take a shot. A lower percentage play, but #thatsjusthowifeel","lbl":"Neutral"}
+,{"time":"12:56","usr":"gkellycnbc","txt":"4 Sectors Likely to Thrive With an Improving Economy via @bshactman http://t.co/yo4NGejp $CHH $CMCSA $AMZN","lbl":"Neutral"}
+,{"time":"14:34","usr":"racernic","txt":"what happened to the $amzn bashers?is that all u got? said would hold ground in face of dwngrades, negativ coverge+run of all mighty $aapl.","lbl":"Negative"}
+,{"time":"14:39","usr":"tagthatstock","txt":"@racernic $amzn 179 you should buy puts,, but i have been saying that since 220 so dont listen to me :)","lbl":"Negative"}
+,{"time":"20:04","usr":"stockpicks64","txt":"$AMZN - Amazon Stock Analysis - volume down over 5% - http://t.co/3PvrViwY","lbl":"Negative"}
+,{"time":"20:09","usr":"chrishar00","txt":"RT @KeithMcCullough: Amazon $AMZN (short), no support to $174","lbl":"Negative"}
+]

@@ -1,0 +1,19 @@
+[
+{"time":"0:54","usr":"gtotoy","txt":"$AMZN http://t.co/w4ek0iQD 30 Min view ~ Watchlist","lbl":"Neutral"}
+,{"time":"0:56","usr":"BUDDIEE18","txt":"RT @gtotoy: $AMZN http://t.co/kFhkKXvu 30 Min view ~ Watchlist","lbl":"Positive"}
+,{"time":"1:13","usr":"BUDDIEE18","txt":"on deck monday: $AAPL $GOOG $PCLN $NFLX $FIO $DANG $AMZN $MA","lbl":"Neutral"}
+,{"time":"9:11","usr":"optioncommander","txt":"Trending red: $PAAS -4.5% $NFLX -2% $HAL +1.17% $MS -1.36% $TVIX -1% $ZSL -0.44% $AMZN - 0.64% $TLT -0.58%, $EWZ -0.31% $VMW -0.42%","lbl":"Negative"}
+,{"time":"9:14","usr":"JonErlichman","txt":"#Amazon to open fulfillment center in Spartanburg County, South Carolina; will create \u0022hundreds of new full time #jobs\u0022 $AMZN","lbl":"Positive"}
+,{"time":"12:18","usr":"RebCruz","txt":"RT @JonErlichman: #Amazon to open fulfillment center in Spartanburg County, South Carolina; will create \u0022hundreds of new full time #jobs\u0022 $AMZN","lbl":"Positive"}
+,{"time":"12:18","usr":"ValentFinacial","txt":"RIM: Business as Usual or Ready for Takeover? http://t.co/8G9egI7o $RIMM $AAPL $GOOG $AMZN #mkt","lbl":"Neutral"}
+,{"time":"12:18","usr":"wallstCS","txt":"IHS: Cloud Server Demand is Blowing Up http://t.co/OX8ZY4AP $AAPL $GOOG $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"12:19","usr":"rymico","txt":"$AMZN down 3% as company cut Kindle Fire\u2019s supplier orders in half for Q1 citing slower post-holiday sales & expected launch of iPad 3","lbl":"Negative"}
+,{"time":"13:12","usr":"SA_GOOG","txt":"The \u0027Global Conspiracy\u0027 Portfolio http://t.co/pOCeK5YX $AA $ABX $AMZN $E $GLCNF.PK $GLD $GOOG $GS $JPM $KKR $NVS $PIEJF.PK $RDS.A","lbl":"Neutral"}
+,{"time":"14:14","usr":"FuegyMoney","txt":"Watch Ipad sales tomorrow. Weakness may be a sign to buy $AMZN.","lbl":"Positive"}
+,{"time":"14:15","usr":"FuegyMoney","txt":"$AMZN reports the 31st.","lbl":"Neutral"}
+,{"time":"20:08","usr":"simplestockqtes","txt":"Someone just got a simple quote on $amzn @simplestockqtes http://t.co/NfEl9cj7","lbl":"Neutral"}
+,{"time":"23:18","usr":"Rammohantweets","txt":"RT @businessinsider: Amazon\u2014Again!\u2014Uses Cheap-Shot \u0027Sex Sells\u0027 Tactic For Kindle Campaign $AMZN by @Jim_Edwards http://t.co/NtVnVi3L","lbl":"Negative"}
+,{"time":"23:19","usr":"LIONKING1","txt":"RT @SAI: Amazon\u2014Again!\u2014Uses Cheap-Shot \u0027Sex Sells\u0027 Tactic For Kindle Campaign $AMZN by @Jim_Edwards http://t.co/OM0weoYW","lbl":"Neutral"}
+,{"time":"23:20","usr":"iphone4S_nerd","txt":"#Amazon\u2014Again!\u2014Uses Cheap-Shot \u0027Sex Sells\u0027 Tactic For Kindle Campaign $AMZN http://t.co/jGuXUXIO (via @SAI)","lbl":"Negative"}
+,{"time":"23:24","usr":"eYeks","txt":".@SAI Amazon\u2014Uses Cheap-Shot \u0027Sex Sells\u0027 Tactic For Kindle Campaign $AMZN by @Jim_Edwards http://t.co/yNnfJMZN I\u0027m not buying. Ub the judge.","lbl":"Negative"}
+]

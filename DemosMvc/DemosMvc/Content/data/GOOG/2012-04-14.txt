@@ -1,0 +1,16 @@
+[
+{"time":"7:59","usr":"chatlas","txt":"RT @businessinsider: Google\u0027s Stock Split Is Evil $GOOG by @felixsalmon http://t.co/ybdt4rOC","lbl":"Negative"}
+,{"time":"8:00","usr":"bclund","txt":"\u0022Week In Review: The Best Of The StockTwits Blog Network\u0022 -New blog post. http://t.co/7FwOLnkR $SPY $AAPL $GOOG $DX_F $ISRG $ICE","lbl":"Neutral"}
+,{"time":"8:08","usr":"cohen76","txt":"RT @SeekingAlpha: The Worrisome Amazon CEO Letter http://t.co/Bb4mmPYz $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"8:09","usr":"NaheedKurji","txt":"RT @SAI: Google\u0027s Stock Split Is Evil $GOOG by @felixsalmon http://t.co/26uEeiCB","lbl":"Negative"}
+,{"time":"11:01","usr":"mlstotts","txt":"Twitter, $GOOG, $FB and VCs part of new tech industry lobbying force in DC, which affected fates of #SOPA and #JOBSact http://t.co/LNhdnWWQ","lbl":"Neutral"}
+,{"time":"11:09","usr":"seanmcbride","txt":"RT @atul: TheVerge: Google reports Q1 2012 earnings: $8.14 billion in revenue, $49.3 billion cash on hand - http://t.co/KSfofzPu $GOOG","lbl":"Neutral"}
+,{"time":"11:09","usr":"thefinancepress","txt":"$GOOG Scoring Earnings Season: A True Tale of the Tape (AA, JPM, WFC, GOOG, NOK ...: Scoring Earnings Season: A... http://t.co/3wzwa0Jl","lbl":"Positive"}
+,{"time":"14:08","usr":"optionspirate","txt":"Generally speaking this is how I make investment decisions. $$ $SPY $bidu $goog $JPM $ge $iwm #stocks http://t.co/2VjPo4dZ","lbl":"Neutral"}
+,{"time":"14:13","usr":"stockquestions","txt":"@anuppandey @zite A good move for $GOOG?","lbl":"Neutral"}
+,{"time":"14:14","usr":"katiefehren","txt":"RT @ahess247: Just How \u201CExcited\u201D Is Larry Page? @LizGannes investigates. http://t.co/SIxQ5gET $GOOG","lbl":"Neutral"}
+,{"time":"14:22","usr":"TweetInvestors","txt":"mick: $GOOG GS$ IBM$ JPM MS: mick http://t.co/cAYcxl5U","lbl":"Neutral"}
+,{"time":"23:32","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022GoogleMaps for Droid\u0022: http://t.co/ScCCmLbX @Forbes @Reuters_Biz @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
+,{"time":"23:43","usr":"anuppandey","txt":"@stockquestions @zite It raises more questions than answers. Smaller news in bigger scheme of things. $GOOG","lbl":"Neutral"}
+,{"time":"23:58","usr":"jefflac","txt":"@johniwhelan @jamieyood Target 2030. Too bad one of us ditched all his $GOOG","lbl":"Neutral"}
+]

@@ -1,0 +1,26 @@
+[
+{"time":"5:53","usr":"thefinancepress","txt":"$GOOG Clashes over Internet rules to mark Dubai meeting: Clashes over Internet rules to mark Dubai meeting El P... http://t.co/yUdssUtU","lbl":"Neutral"}
+,{"time":"7:54","usr":"mylongtham","txt":"RT @businessinsider: Lending Money To China\u0027s Leading Internet Company Is Now Less Risky Than Lending Money To Google $GOOG http://t.co/zmeA5L1t","lbl":"Neutral"}
+,{"time":"7:56","usr":"balwant","txt":"RT @SAI: Lending Money To China\u0027s Leading Internet Company Is Now Less Risky Than Lending Money To Google $GOOG http://t.co/EovQNrsg","lbl":"Negative"}
+,{"time":"9:05","usr":"HFTAlert","txt":"Updated $AAPL Accumulator charts. Market Pressure finally rising. http://t.co/k1TkXWbh $spy $goog $fb $gld #stocks #investing","lbl":"Neutral"}
+,{"time":"9:08","usr":"LeoLede","txt":"\u201C@CNNMoney: U.K. targets Google, Amazon, Starbucks on taxes http://t.co/t6Hx9Rul $GOOG $AMZN $SBUX\u201D","lbl":"Neutral"}
+,{"time":"9:09","usr":"AWiersbitzky","txt":"@junkieonwallst What\u0027s on your list for this week? Need some good long setups. $AMZN $EBAY $APPL $GOOG","lbl":"Neutral"}
+,{"time":"9:59","usr":"richgold9","txt":"It\u0027s nice to see a $aapl and $goog rebound","lbl":"Neutral"}
+,{"time":"11:06","usr":"iTraderz","txt":"$GOOG stopped dead at it\u0027s 50 day today. Love to see a little consolidation here.","lbl":"Negative"}
+,{"time":"11:10","usr":"tradethembi","txt":"$GOOG gave a short RED dot # at open bar, bounced around and has filled the target. http://t.co/wUADYGWu","lbl":"Neutral"}
+,{"time":"11:10","usr":"twit_ashutosh","txt":"What after #S3 ? Is an S4 in the works? #Samsung $Goog $Aapl","lbl":"Neutral"}
+,{"time":"12:25","usr":"wsmco","txt":"Sold to open $GOOG Dec 7 680 puts at 1.60","lbl":"Positive"}
+,{"time":"12:30","usr":"thefinancepress","txt":"$GOOG Google-owned Motorola can\u0027t block sales of Microsoft products, US judge rules: Google-owned Motorola can\u0027... http://t.co/aYUNFvIe","lbl":"Negative"}
+,{"time":"13:54","usr":"MMASSASSIN","txt":"AGGRESSIVE strategy 4 trade a buying long leg of $GOOG 685 pDS at 2.50-.80 with a .90 spread in mind, we ai-> http://t.co/fku2FMPS","lbl":"Positive"}
+,{"time":"14:00","usr":"MMASSASSIN","txt":"SIMPLE and AGGRESSIVE strategy 3 trade a creating a $GOOG 717 cCS at .50 area, mentioned this earlier -> http://t.co/fku2FMPS","lbl":"Positive"}
+,{"time":"15:10","usr":"adem_tahiri","txt":"@TMFStockAdvisor-None of the above? Of these three, definitely $AMZN as $GOOG + $AAPL + $MSFT starting to =the same darn thing. Just my .02c","lbl":"Neutral"}
+,{"time":"15:11","usr":"dcrenn","txt":"$MJNA | This stock could soon be worth a fortune and you can get in today for just pocket change! #Stocks $SVEN $CBIS $AMD $AAPL $GOOG $FB","lbl":"Neutral"}
+,{"time":"16:31","usr":"RedDogT3Live","txt":"http://t.co/kwbY1A20 Here is a link to today\u0027s on demand video recap. $spy $aapl $fb $goog","lbl":"Neutral"}
+,{"time":"18:19","usr":"BenCBanks","txt":"DAILY ANALYSIS: $SPY $AAPL $GOOG $AMZN http://t.co/R2qNrUsv via @weebly","lbl":"Neutral"}
+,{"time":"18:21","usr":"BPGAG","txt":"@jimcramer bearish ok maybe holdinh on $goog - I almost passed out - I agree with you.","lbl":"Negative"}
+,{"time":"22:31","usr":"MaoYunior","txt":"OverHeard on youtube: \u0022I wouldn\u0027t be surprised if you had tattoos on your penis and rectum......\u0022 $GOOG","lbl":"Neutral"}
+,{"time":"22:33","usr":"BenCBanks","txt":"This is a gift. The support/resistance levels major & minor all laid out $SPY $AAPL $GOOG $AMZN $GLD http://t.co/Qy2jQotQ","lbl":"Neutral"}
+,{"time":"22:34","usr":"YoungMansMoney","txt":"Dear $GOOG, the \u0022Law of Unbundling\u0022 will allow android an opportunity. Make it awesome and make it social. $FB $AAPL","lbl":"Neutral"}
+,{"time":"23:26","usr":"msdestyni69","txt":"@WeekesTyler It goes down bc investor confusion. Ppl panic on any move $GOOG $VRNG makes. These moves are just normal court procedures, tho.","lbl":"Negative"}
+,{"time":"23:39","usr":"amarfazal","txt":"RT @Forbes: New life for Apple, Facebook, and Google as the walking dead start running again http://t.co/dV2NhGXO $AAPL $FB $GOOG","lbl":"Neutral"}
+]

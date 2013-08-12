@@ -1,0 +1,16 @@
+[
+{"time":"2:30","usr":"SeekingAlpha","txt":"Facebook: The Importance Of Founder Control And Protecting Shareholders From Themselves http://t.co/jOoVltNT $AMZN $GOOG $JPM $FB","lbl":"Neutral"}
+,{"time":"6:30","usr":"BridieChristoph","txt":"RT @mcilderman: Will #Apple Sell 3D Printers Soon? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #stocks","lbl":"Neutral"}
+,{"time":"6:31","usr":"StiBeshev","txt":"RT @mcilderman: Will #Apple Sell 3D Printers Soon? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #stocks","lbl":"Neutral"}
+,{"time":"8:05","usr":"wallstCS","txt":"Wall Street Brief: Google\u0027s CEO Denies Health RUMORS http://t.co/Bj3Bo5lY $SNE $PC $GOOG $RIMM $AMZN $FB $AAPL $MSFT $BUD #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:06","usr":"skrmje5","txt":"LEAK: This Is Google\u0027s Tablet $GOOG $AMZN $AAPL by @jyarow http://t.co/3ofBowxr","lbl":"Neutral"}
+,{"time":"9:01","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:46am: 220.61 -1.55 (-0.70%).","lbl":"Neutral"}
+,{"time":"9:05","usr":"Marwan_Obeidat","txt":"RT @businessinsider: LEAK: This Is Google\u0027s Tablet $GOOG $AMZN $AAPL by @jyarow http://t.co/KI4qQhzT","lbl":"Neutral"}
+,{"time":"9:08","usr":"ChrisMarasco","txt":"Commented on: \u0022Trade Alert: Iron Condor On Amazon\u0022 http://t.co/dzgVaX4i $AMZN $AAPL $GOOG $RAX $WMT","lbl":"Neutral"}
+,{"time":"11:57","usr":"PavolHollosy","txt":"RT @barronsonline: See full Barron\u0027s list of World\u0027s Most Respected Companies http://t.co/TKDUhnOE $AAPL $IBM $MCD $AMZN $KO $DIS $GOOG $XOM $INTC $CAT $V $PEP","lbl":"Neutral"}
+,{"time":"11:58","usr":"Buddahfan","txt":"RT @barronsonline: See full Barron\u0027s list of World\u0027s Most Respected Companies http://t.co/TKDUhnOE $AAPL $IBM $MCD $AMZN $KO $DIS $GOOG $XOM $INTC $CAT $V $PEP","lbl":"Positive"}
+,{"time":"14:07","usr":"grassosteve","txt":"look at one of my favorites $AMZN today","lbl":"Positive"}
+,{"time":"14:08","usr":"AJohnKyriazis","txt":"RT @grassosteve: look at one of my favorites $AMZN today","lbl":"Positive"}
+,{"time":"15:30","usr":"wetradetogether","txt":"The Future Of Best Buy http://t.co/2EikPFRd $AMZN $COST $BBY","lbl":"Neutral"}
+,{"time":"23:03","usr":"Cam_Patrick","txt":"@RonnieSpence makes you wonder if it will always trade at crazy multiples like $AMZN.","lbl":"Negative"}
+]

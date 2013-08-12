@@ -1,0 +1,7 @@
+[
+{"time":"10:24","usr":"thefinancepress","txt":"$GOOG Video: Is this what Apple\u0027s new maps will look like?: Video: Is this what Apple\u0027s new maps will look like... http://t.co/oOBFCjD8","lbl":"Neutral"}
+,{"time":"14:28","usr":"Mark_Lexus","txt":"@Sell_Theta @creditspread23 thought it was after some shareholder vote in Jun.. after that would close out all $GOOG options positions","lbl":"Neutral"}
+,{"time":"14:48","usr":"Goodlett","txt":"@EmilProtalinski If #Facebook already cashflows US$1.5B on web, imagine mobile rev when they pivot in that direct http://t.co/RLn7Myfr $GOOG","lbl":"Neutral"}
+,{"time":"14:49","usr":"Jaspalsaund","txt":"RT @StockTwits: great read.. Why Facebook really bought Instagram http://t.co/qLavnfJP via @jordancooper $FB $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"15:30","usr":"bcwtang","txt":"The price of going IPO. Mobile \u2013 Facebook And Google Can\u2019t Live With It Can\u2019t Live Without It http://t.co/v7yQy3LI via @TechCrunch $fb $goog","lbl":"Neutral"}
+]

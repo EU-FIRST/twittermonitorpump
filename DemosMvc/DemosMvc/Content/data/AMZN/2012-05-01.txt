@@ -1,0 +1,17 @@
+[
+{"time":"7:00","usr":"SeekingAlpha","txt":"A Numerical Look At What\u0027s Built Into Amazon\u0027s Valuation http://t.co/0vPG2MZC $AMZN","lbl":"Neutral"}
+,{"time":"7:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/25, $PFCB/24, $GOOG/16, $PFE/15, $SPY/12, $AMZN/12, $BIIB/10, $EMR/9. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"7:08","usr":"tkuz4u","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AMZN $ZNGA $NOK $DIS $CMCSA $NWS by @shontelaylay http://t.co/tmXlHN9h","lbl":"Neutral"}
+,{"time":"7:09","usr":"RexSikesMovieBT","txt":"RT @markdante1: 10 Things U Need 2 Know ths Morning $GOOG $AMZN $ZNGA $NOK $DIS $CMCSA $NWS by @shontelaylay http://t.co/5CWRkaqS rt @SAI","lbl":"Neutral"}
+,{"time":"8:27","usr":"junkewrsmis7","txt":"jimcramer should $AAPL buy $BKS, replace Nook w/IPad mini, sell Ebooks cheaper than $AMZN, & turn st","lbl":"Neutral"}
+,{"time":"8:30","usr":"SeekingAlpha","txt":"Why Amazon Is Overvalued http://t.co/2pj1F7R0 $AMZN","lbl":"Negative"}
+,{"time":"9:53","usr":"Traderabc","txt":"$AAPL 595.13 (+11.15 +1.91%) $GOOG 610.17 (+5.32 +0.88%) $IBM 208.27 (+1.19 +0.57%) $MSFT 32.19 (+0.17 +0.55%) $AMZN 230.51 (-1.39 ) #Tech","lbl":"Neutral"}
+,{"time":"11:03","usr":"CapCube","txt":"\u201C@AronPinson: Amazon\u2019s Fundamentals are Getting Worse via @firstadopter http://t.co/WqlCwjsf\u201D // good piece on $AMZN","lbl":"Negative"}
+,{"time":"12:01","usr":"wallstCS","txt":"These Hot Stocks Were Make or Break in April http://t.co/Xv8f2Wnn $SUN $EXPE $CHK $ORLY $RRC $AMZN $NFLX $WMT $CSTR $GNW $FSLR $SNDK","lbl":"Neutral"}
+,{"time":"13:18","usr":"JohnOwenhouse","txt":"$SHLD is leading the market w/ a 17% gain while $AAPL and $AMZN are unch because everyone knows KMart and Sears are on the cutting edge?? $$","lbl":"Negative"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/238, $SPY/42, $GOOG/23, $PCLN/22, $AMZN/17, $RIMM/16, $INTC/14, $EMR/13. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:06","usr":"DayTradersWin","txt":"$SPX bit down to moving average support - stalled - 16 trades: $AMZN $AAPL $HLF - 11 win, 4 lose, 1 even - ove... http://t.co/x2CMkzZp","lbl":"Neutral"}
+,{"time":"16:49","usr":"jonslinn","txt":"Now I love what $AMZN does but a PE of 190? Seriously, has the market totally lost it?","lbl":"Negative"}
+,{"time":"16:49","usr":"Rooster306","txt":"RT @TradeVestor $AAPL A company growing at this rate, with $112B in cash is trading at a PE of 14 And people flock $AMZN and $GRPN and $GMCR","lbl":"Neutral"}
+,{"time":"19:11","usr":"stockhaven","txt":"Stockhaven\u0027s Classroom 5/1/12 http://t.co/hd5Gja2i via @stockhaven $AMZN $HLF $KMAG $AAPL $ICPA $EGT $EVDR $RSRS $SHLD $DEST #STUDY","lbl":"Neutral"}
+]

@@ -1,0 +1,45 @@
+[
+{"time":"3:36","usr":"best_n_korea","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/4L4InsnV #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"3:39","usr":"wulu4","txt":"$GOOG - Google Stock Analysis - 10day moving average is down - http://t.co/wCe5KXe2","lbl":"Negative"}
+,{"time":"4:56","usr":"USwwwStocks","txt":"$GOOG News: New Share Class Gives Google Founders Tighter Control http://t.co/aWTCfgGC #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"5:07","usr":"SAI","txt":"Wait Until You Hear Why Apple SVP Phil Schiller Quit Using Instagram $AAPL $GOOG by @_dtl http://t.co/wolbwWNK","lbl":"Neutral"}
+,{"time":"7:59","usr":"Jarheadclan","txt":"$AAPL want higher and gaining on $GOOG which are you, the Rabit or the Hare.","lbl":"Negative"}
+,{"time":"8:00","usr":"SeekingAlpha","txt":"What Stern Lawsuit, Royalties Mean For Sirius Investors http://t.co/Gaj7QvFa $AAPL $P $AOL $CBS $GOOG $SIRI","lbl":"Neutral"}
+,{"time":"8:00","usr":"JASaglimbeni","txt":"Commented on: \u0022Microsoft Continues To Impress\u0022 http://t.co/iIdVrfWh $AAPL $FB $GOOG $NOK $MSFT","lbl":"Neutral"}
+,{"time":"9:05","usr":"deltaStrikejj","txt":"both $AAPL and $GOOG could possibly pin at 600 today with high OI at each strike","lbl":"Positive"}
+,{"time":"9:06","usr":"mohannadaama","txt":"$AAPLL, $MSFT, & $GOOG make up 1/3 of Nasdaq 100. If you want to trade the $QQQ you better look at those 3 for guidance","lbl":"Neutral"}
+,{"time":"9:06","usr":"optionspirate","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/pqwUln64 #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"10:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/200, $SPY/73, $MSFT/65, $IR/42, $LCC/31, $GOOG/29, $BAC/28, $CMG/26. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"10:05","usr":"BioTechReports","txt":"$CORT up huge! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$amgn,$chtp,$vvus,$hgsi","lbl":"Neutral"}
+,{"time":"10:06","usr":"BioTechReports","txt":"$CXM up! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$amgn,$chtp,$vvus,$hgsi","lbl":"Neutral"}
+,{"time":"10:07","usr":"BioTechReports","txt":"$NBY up 4% #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$amgn,$chtp,$vvus,$hgsi","lbl":"Neutral"}
+,{"time":"10:58","usr":"USwwwStocks","txt":"$GOOG News: Excerpt from letter from Google Inc. co-founders Larry Page and Sergey Brin o http://t.co/8KshYJqD #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"11:02","usr":"Breezy_Liz","txt":"RT @SAI: LEAKED: Photos Of The Next Super Android Phone From Samsung $GOOG by @_dtl http://t.co/xs0HNufa","lbl":"Neutral"}
+,{"time":"11:04","usr":"Ikazuchi_maru","txt":"RT @SAI: LEAKED: Photos Of The Next Super Android Phone From Samsung $GOOG by @_dtl http://t.co/xs0HNufa","lbl":"Neutral"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/202, $SPY/54, $MSFT/37, $GOOG/32, $CMG/31, $BAC/24, $GS/16, $MCD/14. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:50","usr":"Bizzlo","txt":"This expert says we are in a \u0022patent bubble\u0022 http://t.co/GWPCGVGZ $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:52","usr":"Bluechiptrend","txt":"$GOOG feeling the heat","lbl":"Neutral"}
+,{"time":"11:54","usr":"BioTechReports","txt":"$CXM presenting on wound care product - up 9% #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$amgn,$chtp,$vvus,$hgsi","lbl":"Neutral"}
+,{"time":"11:54","usr":"rakeshlobster","txt":".@KarstenW i would say $GOOG $FB and Twitter hurt newspapers more than portals.","lbl":"Neutral"}
+,{"time":"12:46","usr":"barronstechblog","txt":"AAPL: Bernstein Sees FYQ2 Upside Despite Tough iPhone, Mac Comparison - Tech Trader Daily - $AAPL $GOOG $MSFT $RIMM http://t.co/2lwU3eaF","lbl":"Neutral"}
+,{"time":"12:48","usr":"pau_cerda","txt":"RT @SAI: Google\u0027s M&A Chief: We Didn\u0027t Need Instagram And Weren\u0027t Interested $GOOG by @mattlynley http://t.co/XknGxwTR","lbl":"Neutral"}
+,{"time":"12:49","usr":"GerardLaMorte","txt":"$GOOG right shoulder firmly in place, break of 570 neckline leads to 470...","lbl":"Neutral"}
+,{"time":"13:49","usr":"trader_MCM","txt":"@TraderFlorida $GOOG toasted too, super good risk reward trade now. you did a great work this week mentor : )","lbl":"Positive"}
+,{"time":"13:49","usr":"wallstCS","txt":"What\u0027s Moving These Hot Stocks: SanDisk, Micron, Oracle, Apple http://t.co/zEi4ghN6 $SNDK $MU $ORCL $GOOG $AAPL #mkt","lbl":"Neutral"}
+,{"time":"13:53","usr":"anthonybrown","txt":"With Facebook buying @instagram, and rumors of Google buying Twitter, does Apple end up buying Yelp!? $YELP $GOOG $FB $AAPL","lbl":"Positive"}
+,{"time":"13:54","usr":"USwwwStocks","txt":"$GOOG News: Taking Stock of Twitter http://t.co/UdsssNdf #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"14:50","usr":"justtrading45","txt":"$GOOG - Google Stock Analysis - MFI is bearish and falling - http://t.co/X5FWNVBl","lbl":"Negative"}
+,{"time":"14:52","usr":"tradingview","txt":"$GOOG chart published by stzilialis: http://t.co/4B3YxSUA. google corection.","lbl":"Neutral"}
+,{"time":"14:53","usr":"BUDDIEE18","txt":"those wkly 720 puts in $PCLN - from 1.60 to 12.90 -- damn hindshight...wow...$GOOG almost 595","lbl":"Neutral"}
+,{"time":"14:53","usr":"USwwwStocks","txt":"$GOOG News: Ahead of the Bell: Yahoo CEO to discuss strategy http://t.co/4It8Bnrq #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"15:39","usr":"stockguy22","txt":"@RRPieck we\u0027re just discussing $GOOG in chat now ..but we trying to consider plays even if 200sma fails -","lbl":"Positive"}
+,{"time":"15:40","usr":"tjtakes","txt":"@BUDDIEE18 i think i\u0027m done with $goog for the entire year.. they\u0027re dumb (management)... $sina is interesting, have to look into $renn more","lbl":"Negative"}
+,{"time":"15:41","usr":"crash_account","txt":"@CoderTrader how about starting (w/ me) a #ratio #analysis web page for stocks? $goog tries to do it, but more comparative & comprehensive","lbl":"Neutral"}
+,{"time":"17:02","usr":"BanzaiTrader","txt":"$CMG puts all expired worthless, but thank you $GOOG weeklies for redeeming me.","lbl":"Neutral"}
+,{"time":"18:57","usr":"jimish","txt":"RT @SAI: Larry Page And Eric Schmidt Have Funded A New Company To Mine Asteroids $GOOG by @nichcarlson http://t.co/QzE0N2wF","lbl":"Neutral"}
+,{"time":"18:58","usr":"flipboardbiz","txt":"RT @businessinsider: Larry Page And Eric Schmidt Have Funded A New Company To Mine Asteroids $GOOG by @nichcarlson http://t.co/my9r0tYf","lbl":"Neutral"}
+,{"time":"18:58","usr":"lluccipha","txt":"SAI: Larry Page And Eric Schmidt Have Funded A New Company To Mine Asteroids $GOOG by @nichcarlson http://t.co/JGXYDQWt","lbl":"Neutral"}
+,{"time":"20:32","usr":"zsolt_nemeth","txt":"RT @SAI: Google Just Killed More Three Useless Products $GOOG by @jyarow http://t.co/LWzM8xEV","lbl":"Positive"}
+,{"time":"20:39","usr":"gravestonedoji","txt":"$GOOG has gone batshit. Mining asteroids as a business plan item? Really?","lbl":"Neutral"}
+,{"time":"20:42","usr":"gravestonedoji","txt":"@GYSC16 no. But I know $GOOG is out of their element...har har!","lbl":"Negative"}
+]

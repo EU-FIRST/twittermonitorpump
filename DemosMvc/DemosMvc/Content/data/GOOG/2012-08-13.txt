@@ -1,0 +1,91 @@
+[
+{"time":"1:21","usr":"sonikg","txt":"RT @MarketCurrents: Google (GOOG) is cutting 20% of Motorola Mobility\u0027s workforce, or over 4K employees. Google has alrea... http://t.co/paaavq3L $GOOG","lbl":"Positive"}
+,{"time":"1:23","usr":"thefinancepress","txt":"$GOOG Google Said to Cut About 4000 Employees in its Motorola Unit: Google Said to Cut About 4000 Employees in ... http://t.co/KpnSc5JL","lbl":"Negative"}
+,{"time":"1:23","usr":"giomarti","txt":"RT @om: \u201CIt\u2019s a small, lean & agile group that is unafraid of failure\u2026will \u201Ccelebrate impatience.\u201D $GOOG What does it mean? http://t.co/c6gC1vJU","lbl":"Neutral"}
+,{"time":"6:00","usr":"blongwe","txt":"RT @SAI: Google Is Slashing 20% Of Motorola\u0027s Staff Starting Today $GOOG by @sfiegerman http://t.co/JrKICzFJ","lbl":"Positive"}
+,{"time":"6:00","usr":"sunshine66","txt":"RT @SAI: Google Is Slashing 20% Of Motorola\u0027s Staff Starting Today $GOOG by @sfiegerman http://t.co/JrKICzFJ","lbl":"Negative"}
+,{"time":"6:01","usr":"alexcnovak","txt":"\u0022@SAI: Google Is Slashing 20% Of Motorola\u0027s Staff Starting Today $GOOG by @sfiegerman http://t.co/BpXqOEQ1\u0022 got what they came for","lbl":"Negative"}
+,{"time":"6:02","usr":"natebecker","txt":"Google says in filing: restructuring charges could be \u0027significant\u0027 -- wonder how significant. Takes a lotta $ to be significant to $GOOG","lbl":"Negative"}
+,{"time":"6:53","usr":"CBSNews","txt":"Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Positive"}
+,{"time":"6:54","usr":"DavidCHelms1","txt":"RT @CBSNews: Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Negative"}
+,{"time":"6:54","usr":"MarybethJacoby","txt":"RT @CBSNews: Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Negative"}
+,{"time":"6:54","usr":"AN_Business","txt":"$BAER to eat up Merrill\u0027s non-U.S. business for $882 million & $GOOG hacks at jobs in #Motorola unit #Reuters","lbl":"Neutral"}
+,{"time":"7:15","usr":"BloombergTV","txt":"Google plans 4,000 job cuts at Motorola Mobility - http://t.co/6sg1AWUF $GOOG","lbl":"Positive"}
+,{"time":"7:15","usr":"glfitzpatrick","txt":"RT @CBSNews: Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Negative"}
+,{"time":"7:16","usr":"albertutamaID","txt":"RT @BloombergTV: Google plans 4,000 job cuts at Motorola Mobility - http://t.co/6sg1AWUF $GOOG","lbl":"Negative"}
+,{"time":"7:16","usr":"KaganJ","txt":"RT @SAI: Google Is Slashing 20% Of Motorola\u0027s Staff Starting Today $GOOG by @sfiegerman http://t.co/JrKICzFJ","lbl":"Neutral"}
+,{"time":"7:49","usr":"BottomtheBasset","txt":"RT @CBSNews: Google slashes 4,000 jobs at Motorola unit http://t.co/LXdYRfOl $GOOG","lbl":"Positive"}
+,{"time":"7:49","usr":"PowerLunch","txt":"Stocks to watch: $SJM $ORLY $BKS $CPB $BAC $UAL $GOOG $BBBY $KO TARO","lbl":"Neutral"}
+,{"time":"7:49","usr":"matterhornbob","txt":"$GOOG: the daily low in March \u002709 was on 3/17 at $412.11. The daily high on 5/1 was $594.93.....re: options repricing = just that good?","lbl":"Neutral"}
+,{"time":"7:50","usr":"choffman1978","txt":"$GMCR Surging 4% Premarket - stock buyback! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$kcg,$soda,$sbux,$cbou","lbl":"Neutral"}
+,{"time":"8:23","usr":"panhpouth","txt":"RT @SAI: Three Ideas Motorola\u0027s CEO Tossed Off To Make Cool Phones $GOOG $AAPL by @jyarow http://t.co/tzpmDwlU","lbl":"Neutral"}
+,{"time":"8:23","usr":"orenmor","txt":"RT @thefinancepress: $GOOG Analyst Upgrades: Sprint, Google, and Bed Bath & Beyond: Analyst Upgrades: Sprint, Google, and Bed Bath &... http://t.co/jTL1s0on","lbl":"Positive"}
+,{"time":"8:24","usr":"WallStTrade","txt":"Stocks to watch this morning $GOOG, $AAPL, $FMCN, $GMCR, $SHLD, $CHK","lbl":"Neutral"}
+,{"time":"8:26","usr":"rammarins","txt":"RT @SAI: Google Is Slashing 20% Of Motorola\u0027s Staff Starting Today $GOOG by @sfiegerman http://t.co/JrKICzFJ","lbl":"Neutral"}
+,{"time":"8:48","usr":"pennystockguys","txt":"$GOOG - US HOT STOCK FUTURES: HOT STOCKS TO WATCH http://t.co/gqUQs3SM","lbl":"Positive"}
+,{"time":"8:48","usr":"TwoSmuth","txt":"How badly do you want to chase this open in $GOOG? I know I do","lbl":"Neutral"}
+,{"time":"8:48","usr":"USwwwStocks","txt":"$GOOG News: Ex-Google executive\u0027s new venture helps students avoid corporate life http://t.co/KsP0H75y #GOOG #Avoid #Corporate","lbl":"Neutral"}
+,{"time":"8:48","usr":"mrjordonez","txt":"Goodbye Moto: Google Will Send Out 4,000 Motorola Pink Slips Starting Today, Part Of Bigger Overhaul http://t.co/SYj79ea1 $GOOG","lbl":"Positive"}
+,{"time":"9:17","usr":"CNNMoneyTech","txt":"RT @LaMonicaBuzz: $GOOG Motorola job cuts not a surprise. All about patents. Buzz video http://t.co/9F0PHWX7 & blog post http://t.co/4w2IoPob $AAPL $RIMM $NOK","lbl":"Neutral"}
+,{"time":"9:17","usr":"flexisharetrade","txt":"@FlexiShareTrade $GOOG up early trade after announcing job cuts at Motorola mobility http://t.co/AqMJTxXy http://t.co/jaNxfbtX","lbl":"Positive"}
+,{"time":"9:17","usr":"wrbva","txt":"RT @davidspeltier: Analysts\u0027 Actions: $GOOG $JCP $P $S $KO $WMT - TheStreet http://t.co/QjIOL5aN via @TheStreet","lbl":"Neutral"}
+,{"time":"9:18","usr":"archibecture","txt":"RT @Dasan: Apple Presentation: Amazing how blatantly Samsung completely copied the iPhone with help from $GOOG http://t.co/fVl7EWv8","lbl":"Negative"}
+,{"time":"9:48","usr":"tlmontana","txt":"RT @JustinPulitzer: It\u0027s going to be hard for Bears to break anything w/ $AAPL & $GOOG ramping. $NQ_F $ES_F .Watching $$ <-- We shall see!","lbl":"Positive"}
+,{"time":"9:48","usr":"GRiccord","txt":"RT @LaurenYoung: Google to cut 4,000 Motorola Mobility jobs, take $275 million charge http://t.co/xjrXNJYo $GOOG","lbl":"Negative"}
+,{"time":"9:49","usr":"OptionsTrader31","txt":"$AAPL $GOOG Nice display of relative strength as the broader market struggles early","lbl":"Neutral"}
+,{"time":"10:20","usr":"robor","txt":"RT @SAI: GOOGLE IS BUYING FROMMER\u0027S $GOOG by @jyarow http://t.co/psvC1XGF","lbl":"Neutral"}
+,{"time":"10:21","usr":"Naif_A","txt":"RT @SAI: GOOGLE IS BUYING FROMMER\u0027S $GOOG by @jyarow http://t.co/psvC1XGF","lbl":"Positive"}
+,{"time":"10:21","usr":"dwendel","txt":"Wow! Makes sense though fits into what they are doing RT @businessinsider: GOOGLE IS BUYING FROMMER\u0027S $GOOG by @jyarow http://t.co/wvG97oIb","lbl":"Neutral"}
+,{"time":"10:21","usr":"chris13scarp","txt":"#powermove RT @SAI: GOOGLE IS BUYING FROMMER\u0027S $GOOG by @jyarow http://t.co/JVaE1X7G","lbl":"Neutral"}
+,{"time":"10:30","usr":"MacObserver","txt":"Google Begins \u201CReinvention\u201D of Motorola With Job, Office Cuts $GOOG http://t.co/3yeqDCJc #google #motorola","lbl":"Positive"}
+,{"time":"10:30","usr":"YahooFinance","txt":"Google is buying travel company Frommer\u0027s http://t.co/9yTdIJN5 $GOOG","lbl":"Positive"}
+,{"time":"10:31","usr":"robertsnell","txt":"RT @SAI: GOOGLE IS BUYING FROMMER\u0027S $GOOG by @jyarow http://t.co/psvC1XGF","lbl":"Neutral"}
+,{"time":"10:31","usr":"nikethana","txt":"RT @LaMonicaBuzz: More Google. Book publisher $JW.A just announced sale of Frommer\u0027s travel brand to $GOOG. Can you say local? $YELP down hard. $TRIP too.","lbl":"Neutral"}
+,{"time":"10:53","usr":"SeemaCnbc","txt":"If you had to pick one - Apple vs Google. Which stock would you buy? Tweet @cnbcfastmoney and tell us WHY. $Aapl $Goog","lbl":"Neutral"}
+,{"time":"10:54","usr":"Mehrotranitin","txt":"RT @businessinsider: GOOGLE IS BUYING FROMMER\u0027S $GOOG by @jyarow http://t.co/qdyQTQm9","lbl":"Positive"}
+,{"time":"10:54","usr":"modernhombre","txt":"$GOOG just passed $650, currently sitting at 652.58. #hombrefund","lbl":"Positive"}
+,{"time":"10:54","usr":"paulwoll","txt":"Trying a couple $GOOG Aug 18 \u002712 $650 puts at 4.10.","lbl":"Negative"}
+,{"time":"11:21","usr":"HitTheBidRadio","txt":"$GOOG our old leader is back Everyone else\u0027s failures are GOOG\u0027s wins. if it can get back into the 700\u0027s can 1000 be too far away?","lbl":"Positive"}
+,{"time":"11:21","usr":"russellmreyes","txt":"$AAPL, $CRM, $GOOG=nice!","lbl":"Positive"}
+,{"time":"11:21","usr":"DKennerson","txt":"RT @Reuters: Google to acquire Frommer\u0027s travel publishing business http://t.co/hIK62Whf > $GOOG today: divestiture & acquisition","lbl":"Neutral"}
+,{"time":"11:21","usr":"CAMAR024","txt":"shorted $GOOG at the top","lbl":"Negative"}
+,{"time":"11:58","usr":"berkutchitweet","txt":"$GOOG that\u0027s as strong as relative strength gets on a day like today.","lbl":"Positive"}
+,{"time":"11:58","usr":"cwilhel11","txt":"@CAMAR024 well we will call that the ohod! hopefully you got out with some profits $GOOG","lbl":"Neutral"}
+,{"time":"11:58","usr":"hijackiv","txt":"Took loss on $GOOG $630 puts","lbl":"Negative"}
+,{"time":"11:59","usr":"bryanepstein","txt":"RT @YahooFinance: Google is buying travel company Frommer\u0027s http://t.co/9yTdIJN5 $GOOG","lbl":"Neutral"}
+,{"time":"12:25","usr":"choffman1978","txt":"$SIRI (SirusXM) Surging -stock buyback rumors! 52m volume! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$kcg,$soda","lbl":"Neutral"}
+,{"time":"12:25","usr":"bindr","txt":"$GOOG, give me back my fucking UTC timezone choice.","lbl":"Neutral"}
+,{"time":"12:27","usr":"Minyanville","txt":"Google to Cut 4,000 Jobs at Motorola http://t.co/Pj4DYVRe $GOOG","lbl":"Neutral"}
+,{"time":"12:50","usr":"choffman1978","txt":"$SIRI (SirusXM) Surging -stock buyback rumors! 53m volume! #cnbc,#msnbc,#nyse,$lmca,#stocks,#markets,$gs,$aapl,$goog,$jcp,$s,$v,$kcg,$soda","lbl":"Neutral"}
+,{"time":"12:50","usr":"smendozag","txt":"stop $goog !!! jajaj","lbl":"Negative"}
+,{"time":"13:20","usr":"hijackiv","txt":"$GOOG & $AAPL real high flyers today.","lbl":"Positive"}
+,{"time":"13:21","usr":"wallstCS","txt":"Intel BRUSHES OFF Calxeda Speed Claims and 4 Tech Titans on the Move http://t.co/FYN1zARg $FB $AAPL $GOOG $MSFT $INTC #mkt #stocks","lbl":"Neutral"}
+,{"time":"13:21","usr":"chinko1907","txt":"RT @bluestacksinc: RT @SAI: Ex-Motorola Employee: It\u0027s Actually Harder For Motorola To Work With Android Now $GOOG by @jyarow http://t.co/5Mx3LGP0","lbl":"Neutral"}
+,{"time":"13:21","usr":"RedDogT3Live","txt":"Recent action in $AAPL and $goog are Great examples that u can make money in equities on multiple time frames with a process/plan","lbl":"Positive"}
+,{"time":"13:50","usr":"skytully","txt":"RT @TheStreet: Analysts\u0027 Actions: $GOOG $JCP $P $S $KO $WMT - http://t.co/inLyi52u","lbl":"Neutral"}
+,{"time":"13:50","usr":"todd_harrison","txt":"Random Random Thoughts on Trend Channels, Trading Positions and Life http://t.co/TnJvmAFe $goog, $fb, $qqq #stockaction","lbl":"Neutral"}
+,{"time":"13:52","usr":"Jamtrades","txt":"Commented on StockTwits: yea.... But $GOOG has rabies . Can you be our shepherd for $GOOG? we dont want to get shave... http://t.co/QYRa7zWY","lbl":"Negative"}
+,{"time":"14:26","usr":"JustinPulitzer","txt":"\u201C@zerohedge: RIM plans to license Blackberry 10 OS - BBG\u201D<~Interesting that $GOOG is so strong today.","lbl":"Positive"}
+,{"time":"14:27","usr":"tlmontana","txt":"RT @JustinPulitzer: \u201C@zerohedge: RIM plans to license Blackberry 10 OS - BBG\u201D<~Interesting that $GOOG is so strong today.","lbl":"Positive"}
+,{"time":"14:27","usr":"matterhornbob","txt":"$GOOG: +1 STD = $654.9210 and +2 STD = $667.8419","lbl":"Neutral"}
+,{"time":"14:53","usr":"Sumenn7063","txt":"#Sold Sept 675 CALL $GOOG","lbl":"Negative"}
+,{"time":"14:54","usr":"MiaChupacabra","txt":"@RichardJMurphy ethical issue irrelevant, but YES. $GOOG managers ethical duty is to maximize return to its (US) sh\u0027holders @BenSaundersCTA","lbl":"Neutral"}
+,{"time":"14:55","usr":"JustinPulitzer","txt":"@smartertrader I would not go over night short $GOOG. So, it might have a little more in the tank, but careful.","lbl":"Neutral"}
+,{"time":"15:38","usr":"wallstCS","txt":"Tech Biz Replay: Fallout From Google\u0027s ACQUISITION, AT&T\u0027s iPhone RELEASE Dates http://t.co/cyOv8Uq3 $YELP $EXPE $GOOG $T $AAPL #mkt","lbl":"Negative"}
+,{"time":"15:38","usr":"carlquintanilla","txt":"@Hedge_FundGirl @fxflow Agreed. Devitt never talks, which is generally an inverse correlation to performance. $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"15:40","usr":"Ticker_Tank","txt":"Have to respect this move in $GOOG, but it looks like a good area for bearish strategy entry nonetheless.","lbl":"Negative"}
+,{"time":"15:45","usr":"RedDogT3Live","txt":"My T3Live Daily Recap http://t.co/qNC3lTQO August can be rewarding if you\u0027re looking in the right places $AAPL $GOOG $SPY @T3Live","lbl":"Positive"}
+,{"time":"16:46","usr":"kid4meus","txt":"RT @YahooFinance: Worldwide market share for smartphones, a market dominated by Apple and Samsung http://t.co/0yHzlKJ3 $GOOG $AAPL $NOK","lbl":"Neutral"}
+,{"time":"16:48","usr":"USwwwStocks","txt":"$GOOG News: US HOT STOCKS: Google, Tesoro, http://t.co/fQttfdRL, Campbell Soup, Sears http://t.co/d5P35sEx #GOOG #Campbell #Google","lbl":"Positive"}
+,{"time":"16:49","usr":"wallstCS","txt":"Market Recap: Gold Falls, Apple\u0027s Big Announcement, Google Slashes Jobs http://t.co/8q9qBten $AAPL $GOOG $SHLD $ARWR $PVSW $GLD $SPX $QQQ","lbl":"Negative"}
+,{"time":"19:05","usr":"wxandmarkets","txt":"RT @businessinsider: We Just Heard An Absolutely Insane Rumor About A New Business For Google ... $GOOG by @mattlynley http://t.co/BqruLVsj","lbl":"Neutral"}
+,{"time":"19:06","usr":"lluccipha","txt":"SAI: We Just Heard An Absolutely Insane Rumor About A New Business For Google ... $GOOG by @mattlynley http://t.co/BCKTinjq","lbl":"Neutral"}
+,{"time":"19:06","usr":"amy_her","txt":"RT @SAI: We Just Heard An Absolutely Insane Rumor About A New Business For Google ... $GOOG by @mattlynley http://t.co/Z5OYZC6Q","lbl":"Neutral"}
+,{"time":"19:09","usr":"Jasonimoore","txt":"Just Heard An Absolutely Insane Rumor About A New Business For Google ... $GOOG by @mattlynley http://t.co/ZFFTE2GV","lbl":"Neutral"}
+,{"time":"20:14","usr":"iJamonEdwards","txt":"RT @MarketWatch: Google is cutting 4,000 of Motorola\u0027s 20,000 employees and closing or consolidating a third of its facilities: http://t.co/5BVwPdzC $GOOG","lbl":"Positive"}
+,{"time":"20:14","usr":"FoxonStocks","txt":"Google BUYS again.... Should I BUY some $GOOG? Google already owns Zagat & 2day bought travel reviewer Frommers http://t.co/tfYn3Ajc","lbl":"Positive"}
+,{"time":"20:14","usr":"GPEpmx","txt":"RT @MarketWatch: Google is cutting 4,000 of Motorola\u0027s 20,000 employees and closing or consolidating a third of its facilities: http://t.co/5BVwPdzC $GOOG","lbl":"Negative"}
+,{"time":"20:16","usr":"CapitalistBull","txt":"#LeadingStocks Up in #Volume: $GOOG $ISRG $PMT $ASPS $GTLS $OCN $NTES $WDC $SIMO #Bullish #StockMarket Action. http://t.co/PX2jidHj $ES $NQ","lbl":"Neutral"}
+,{"time":"21:34","usr":"angry_veteran","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/H4rzsDDJ #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"21:35","usr":"newarrowcom","txt":"RT @MarketWatch: Google is cutting 4,000 of Motorola\u0027s 20,000 employees and closing or consolidating a third of its facilities: http://t.co/5BVwPdzC $GOOG","lbl":"Negative"}
+]

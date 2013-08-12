@@ -1,0 +1,28 @@
+[
+{"time":"5:55","usr":"USwwwStocks","txt":"$GOOG News: 5 Things You Should Know Before the Stock Market Opens http://t.co/ixfFsl6X #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"5:58","usr":"SJosephBurns","txt":"@MrAndres72 I am back in $AAPL $GOOG $VMW call options & $PCLN $INVN Stock","lbl":"Positive"}
+,{"time":"8:01","usr":"thefinancepress","txt":"$GOOG Popular Technology Stocks Latest News Bundle \u2013 (SABA, MU, ORCL, MSFT, CSCO ...: Popular Technology Stocks... http://t.co/JIPOKhLs","lbl":"Neutral"}
+,{"time":"8:03","usr":"rgruia","txt":"Google to begin selling tablets directly to consumers this year, says WSJ $GOOG http://t.co/h4fmnV1t","lbl":"Neutral"}
+,{"time":"8:42","usr":"manualofideas","txt":"$RIMM should embrace $MSFT the way $NOK did. This would create a viable third ecosystem for developers next to $AAPL and $GOOG Android.","lbl":"Neutral"}
+,{"time":"8:42","usr":"tigrs99","txt":"RT @SAI: Larry Page Is Forcing Google To Be Much Less Stupid About Acquisitions $GOOG by @nichcarlson http://t.co/WlSJplO8","lbl":"Positive"}
+,{"time":"9:29","usr":"jaripollanen","txt":"RT @businessinsider: Larry Page Is Forcing Google To Be Much Less Stupid About Acquisitions $GOOG by @nichcarlson http://t.co/eRZjd9Zz","lbl":"Positive"}
+,{"time":"9:29","usr":"dschorrnyc","txt":"$GOOG LOD","lbl":"Negative"}
+,{"time":"10:28","usr":"nichcarlson","txt":"Facebook Is Going After Google In Search, But That Doesn\u0027t Mean What You Think $GOOG http://t.co/ChpZvc9W","lbl":"Negative"}
+,{"time":"10:28","usr":"businessinsider","txt":"Facebook Is Going After Google In Search, But That Doesn\u0027t Mean What You Think $GOOG by @nichcarlson http://t.co/pETzEQ3g","lbl":"Neutral"}
+,{"time":"10:28","usr":"SAI","txt":"Facebook Is Going After Google In Search, But That Doesn\u0027t Mean What You Think $GOOG by @nichcarlson http://t.co/AzEjpcAN","lbl":"Neutral"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/142, $RIMM/67, $GOOG/43, $SPY/35, $DELL/16, $HPQ/16, $AIG/15, $THLD/14. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:05","usr":"EuroDiscovery","txt":"Larry Page Is Forcing Google To Be Much Less Stupid About Acquisitions $GOOG by @nichcarlson http://t.co/8pHi28Gm RT @SAI","lbl":"Positive"}
+,{"time":"11:59","usr":"USwwwStocks","txt":"$GOOG News: RIM posts loss as new CEO begins to clean house http://t.co/8VgG26vA #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"11:59","usr":"USwwwStocks","txt":"$GOOG News: RIM to Die With Its Boots On http://t.co/GEYWIrns #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"12:54","usr":"sssc","txt":"$GOOG http://t.co/FSu4bdCq --- watching & patiently waiting, for a potential entry","lbl":"Positive"}
+,{"time":"12:54","usr":"rekko31","txt":"Took a loss on the $AAPL 650 apr12 calls and another loss on the $GOOG 670 apr12 calls. Will revisit later","lbl":"Negative"}
+,{"time":"13:51","usr":"BioTechReports","txt":"$NGSX upgraded to OUTPERFORM! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$ctic,$vvus,$chtp,$thld","lbl":"Neutral"}
+,{"time":"13:55","usr":"BlueFielder","txt":"same with $GooG","lbl":"Neutral"}
+,{"time":"14:48","usr":"BlueFielder","txt":"$GOOG tall red ones","lbl":"Negative"}
+,{"time":"14:49","usr":"Trending123","txt":"Rolling low of days in $PNRA, $NSC, $PCLN, $UNP, $VFC, $GOOG, GWW...I can\u0027t even keep up....window smashing all over the place","lbl":"Negative"}
+,{"time":"16:48","usr":"portfolio_man","txt":"Google X research facility and its secret projects http://t.co/rYiKsmrK #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"16:55","usr":"paolho","txt":"#StockWatchPaolo $MOH http://t.co/jCOY1ykd; $GOOG http://t.co/JufbdhtL; $KORS http://t.co/sLVkTpJD","lbl":"Neutral"}
+,{"time":"20:40","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"20:41","usr":"TropicCapital_","txt":"Important to note that none of the real market leaders were up today. That is worrisome to me. $AAPL $CMG $PCLN $MA $CRM $GOOG $ISRG","lbl":"Neutral"}
+,{"time":"20:42","usr":"vinodiisc","txt":"RT @businessinsider: Here Are 11 Companies That Might Buy RIM $RIMM $GOOG $HPQ $DELL by @hblodget http://t.co/mcYEtzID","lbl":"Neutral"}
+]

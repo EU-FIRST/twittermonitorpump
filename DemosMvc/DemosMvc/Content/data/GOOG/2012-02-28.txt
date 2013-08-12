@@ -1,0 +1,55 @@
+[
+{"time":"0:27","usr":"EvolvingMedium","txt":"Google+ Users Are Spending Just 3.3 Minutes a Month on Site, ComScore Says $goog - http://t.co/jm8cLRhQ","lbl":"Negative"}
+,{"time":"0:47","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"1:00","usr":"baris_malkoc","txt":"RT @SAI: Andy Rubin Is Full Of It -- It Would Be EASY For Google To Give Motorola An Edge $GOOG by @MattRosoff http://t.co/4x45ucXX","lbl":"Neutral"}
+,{"time":"7:03","usr":"tkuz4u","txt":"RT @SAI: Google Will Pay You $1 Million If You Can Hack Its Web Browser $GOOG by @_dtl http://t.co/3Vp8oFqY","lbl":"Neutral"}
+,{"time":"7:03","usr":"JWGreen_","txt":"RT @businessinsider: Google Will Pay You $1 Million If You Can Hack Its Web Browser $GOOG by @_dtl http://t.co/XxyjaNee","lbl":"Neutral"}
+,{"time":"7:04","usr":"HLeaders","txt":"Google Will Pay You $1 Million If You Can Hack Its Web Browser $GOOG by @_dtl http://t.co/EiOSgiGd\u0022","lbl":"Neutral"}
+,{"time":"7:04","usr":"mdfara","txt":"Google Will Pay You $1 Million If You Can Hack Its Web Browser $GOOG by @_dtl http://t.co/FB2PkLcD\u0022 -- Healthcare Leaders (@HLeaders)","lbl":"Neutral"}
+,{"time":"8:20","usr":"TraderInvestor","txt":"RT @businessinsider: Google Will Pay You $1 Million If You Can Hack Its Web Browser $GOOG by @_dtl http://t.co/XxyjaNee","lbl":"Neutral"}
+,{"time":"8:25","usr":"thefinancepress","txt":"$GOOG Seek Profits in Google With Options: Seek Profits in Google With Options http://t.co/ROjo1XW3 - 21 minutes... http://t.co/Ko89q1gw","lbl":"Neutral"}
+,{"time":"8:29","usr":"AKPalit","txt":"Google activating 800,000 #Android devices daily. Q1 could see share gains against #iOS after latter came storming back in Q4. $GOOG $AAPL","lbl":"Positive"}
+,{"time":"9:58","usr":"gtotoy","txt":"Long $GOOG 610 wklys at 6.70","lbl":"Positive"}
+,{"time":"9:58","usr":"TweetLeni","txt":"$GOOG cleara yeaterday\u0027s high. Should push to 615","lbl":"Positive"}
+,{"time":"10:00","usr":"AliAlhouli","txt":"RT @gtotoy: Long $GOOG 610 wklys at 6.70","lbl":"Positive"}
+,{"time":"10:00","usr":"JFDI","txt":"$GOOG approaching 50d, looking to get long on a move thru the 50d on heavy volume.","lbl":"Positive"}
+,{"time":"10:22","usr":"RedDogT3Live","txt":"$goog trying to get through","lbl":"Positive"}
+,{"time":"10:22","usr":"dschorrnyc","txt":"$GOOG: top of range is from 2/21 @ 617.88. Just peeked out above. Gametime.","lbl":"Positive"}
+,{"time":"10:23","usr":"takingstock614","txt":"Added $GOOG here","lbl":"Positive"}
+,{"time":"10:23","usr":"RahulTongia","txt":"$GOOG moving higher. Time for it to catch up","lbl":"Positive"}
+,{"time":"10:42","usr":"macroQmicro","txt":"$GOOG on the verge at 619; intraday upside volume #searching http://t.co/C0wEHybo #WORDEN","lbl":"Positive"}
+,{"time":"10:42","usr":"brokerz_bullish","txt":"RT @SJosephBurns - $GOOG has overtaken the 50 day line, bullish","lbl":"Positive"}
+,{"time":"10:42","usr":"Centrifugal","txt":"Re $GOOG, I want to scale into something short, albeit slowly & not definitively...& I may end up stopped on $QCOR today; possbl replacmnt","lbl":"Negative"}
+,{"time":"10:42","usr":"barronstechblog","txt":"Nokia: Credit Suisse Sees \u2018Meaningful Progress\u2019 at MWC - Tech Trader Daily - $NOK $RIM $GOOG $MSFT $AAPL http://t.co/tEj8MCLb","lbl":"Neutral"}
+,{"time":"11:24","usr":"Trefis","txt":"AOL Launches Pictela Platform To Attract Advertisers http://t.co/VMCYYRHD $AOL $GOOG $FB","lbl":"Neutral"}
+,{"time":"11:24","usr":"Trefis","txt":"Icahn Shows the Value in Activism With Motorola Investment http://t.co/UYe1pAKd $MSI $MMI $GOOG","lbl":"Neutral"}
+,{"time":"11:25","usr":"craigsebastiano","txt":"The Mounting Minuses at Google+ http://t.co/jv2Fuhvy via @wsj #socialmedia $GOOG","lbl":"Neutral"}
+,{"time":"12:12","usr":"SJosephBurns","txt":"@TRYKtrading nice to be on the same side as Soros. $GOOG","lbl":"Neutral"}
+,{"time":"12:14","usr":"barronstechblog","txt":"Apple Sets March 7th Date for Special Event - Tech Trader Daily - Barron\u0027s $AAPL $RIMM $GOOG $MSFT $AMZN http://t.co/KYopHMZD","lbl":"Neutral"}
+,{"time":"12:14","usr":"Minyanville","txt":"M-Commerce Space Gets Crowded As Google Wallet Faces New Competitors http://t.co/8T41qYwX $GOOG $V $VOD @vincent_trivett","lbl":"Neutral"}
+,{"time":"13:02","usr":"thefinancepress","txt":"$GOOG Apple to Hold Product Event March 7 to Unveil What\u0027s Said to Be the IPad 3: Apple to Hold Product Event M... http://t.co/VNUw9umW","lbl":"Neutral"}
+,{"time":"13:03","usr":"_ankitG","txt":"RT @businessinsider: Google Once Considered Making Its Own Currency $GOOG by @MattRosoff http://t.co/19ujATLr","lbl":"Neutral"}
+,{"time":"13:03","usr":"morrislakeland","txt":"RT @StockTwits: RT @JackDamn Facebook users spend 405 minutes/month on site. Google+ users? 3 minutes. http://t.co/w9dJLHJo $GOOG $FB","lbl":"Negative"}
+,{"time":"13:03","usr":"JWinfro","txt":"Don\u0027t look now $Goog, but here comes $AAPL, up 8.08 today at 533.80","lbl":"Neutral"}
+,{"time":"13:28","usr":"Catwoman2011","txt":"As it should be! =^.^= @kgirljohnson: Quite positive $AAPL board wont even consider another stock split until well above $GOOG s share price","lbl":"Neutral"}
+,{"time":"13:29","usr":"soroushnorouzi","txt":"RT @businessinsider: Google Once Considered Making Its Own Currency $GOOG by @MattRosoff http://t.co/19ujATLr","lbl":"Neutral"}
+,{"time":"13:31","usr":"Tablets_ITE","txt":"Forensics help enterprises understand $AAPL iOS & $GOOG Android security issues. http://t.co/etXVRgkP via @NetworkWorld","lbl":"Neutral"}
+,{"time":"13:31","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"15:02","usr":"ruoweiwu","txt":"the way $goog $gs perform, it looks like the break out is imminent","lbl":"Positive"}
+,{"time":"15:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/136, $SPY/66, $MSFT/17, $IBM/16, $GOOG/15, $SLV/15, $DPZ/13, $NFLX/11. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"15:07","usr":"maczter","txt":"Apple Times iPad 3 Invite To Show How Little Anyone Cares About Android (Cult of Mac) http://t.co/8eD3srIt $AAPL $GOOG","lbl":"Negative"}
+,{"time":"15:42","usr":"TweetLeni","txt":"A close in $GOOG above 618 should get us a parabolic move","lbl":"Neutral"}
+,{"time":"16:25","usr":"craigrubia","txt":"RT @SAI: Why America Will Be The Next Consumer Electronics Powerhouse $GOOG $AAPL $MSFT by @MattRosoff http://t.co/lw2BIP11","lbl":"Neutral"}
+,{"time":"16:26","usr":"macroQmicro","txt":"$GOOG close near hod over 50dma 1st time in month; volume at 3-week high; next step over 620 S/R http://t.co/O0XcqHdZ #WORDEN","lbl":"Positive"}
+,{"time":"16:26","usr":"MoneyNewsWeb","txt":"RT @MSN_Money: Why great consumer products elude Google $GOOG http://t.co/rjLb2XhV","lbl":"Negative"}
+,{"time":"16:27","usr":"tlmontana","txt":"RT @businessinsider: Why America Will Be The Next Consumer Electronics Powerhouse $GOOG $AAPL $MSFT by @MattRosoff http://t.co/ChyvzeKi","lbl":"Neutral"}
+,{"time":"17:31","usr":"jakoru","txt":"RT @wallstCS: Intel Unleashes Secret Weapon in Smartphone War http://t.co/9fDRPJ5D $INTC $ARMH $GOOG $AAPL $MMI #mkt #trading","lbl":"Neutral"}
+,{"time":"17:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/121, $FSLR/97, $VVUS/69, $SPY/35, $JNJ/30, $PG/28, $GOOG/27, $PANL/24. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"17:37","usr":"RebeccaMark","txt":"RT @SAI: Why America Will Be The Next Consumer Electronics Powerhouse $GOOG $AAPL $MSFT by @MattRosoff http://t.co/lw2BIP11","lbl":"Neutral"}
+,{"time":"17:38","usr":"tw_top_1z142kv","txt":"RT @SAI: Why America Will Be The Next Consumer Electronics Powerhouse $GOOG $AAPL $MSFT by @MattRosoff http://t.co/lw2BIP11","lbl":"Neutral"}
+,{"time":"20:11","usr":"wallstCS","txt":"Services Sector Review: Good Day for Domino\u0027s, Office Depot\u0027s Strategy http://t.co/yRKqmFO9 $APOL $CECO $GOOG $AMZN $HSII $LOPE $MSFT $NFLX","lbl":"Neutral"}
+,{"time":"20:13","usr":"daviddao","txt":"$GOOG Schmidt believes in <1 year today\u0027s $400 Android phone will be sold for under $100 and there will be $20-30 smartphones.......believe?","lbl":"Neutral"}
+,{"time":"20:13","usr":"thefinancepress","txt":"$GOOG How To Stop Google From Collecting Your Web History: How To Stop Google From Collecting Your Web History ... http://t.co/0sbi5sOF","lbl":"Neutral"}
+,{"time":"20:15","usr":"wallstsheet","txt":"Why Google+ Doesn&rsquo;t Care If You Never Come Back $GOOG - http://t.co/nGVYprlH","lbl":"Neutral"}
+,{"time":"23:56","usr":"sdotbailey","txt":"Another $GOOG social media blunder ? http://t.co/y03z0izU #bust","lbl":"Negative"}
+]

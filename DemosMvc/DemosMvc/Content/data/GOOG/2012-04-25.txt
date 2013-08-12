@@ -1,0 +1,46 @@
+[
+{"time":"5:40","usr":"SeekingAlpha","txt":"Google Going The Wrong Way http://t.co/WXh8ra2e $QQQ $AAPL $BIDU $MSFT $GOOG","lbl":"Negative"}
+,{"time":"5:41","usr":"AronPinson","txt":"Whether it\u0027s from subsidies ($VZ $T $S), or bec of product competition ($GOOG $AMZN $MSFT), $AAPL margins will EVENTUALLY preceded its top.","lbl":"Neutral"}
+,{"time":"5:46","usr":"TomLabus","txt":"Comparison for terms of service for SkyDrive,Drive. $GOOG claiming right to your stuff. http://t.co/TK7aDqgI $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"7:50","usr":"SeekingAlpha","txt":"Book Review: The Facebook IPO Primer http://t.co/izUvdY1t $GOOG $FB","lbl":"Neutral"}
+,{"time":"7:55","usr":"Jarheadclan","txt":"@BlueFielder im also looking at $GOOG thats 606 area needs to be taken out, its been trying to get thru intraday, ah and premarket.","lbl":"Neutral"}
+,{"time":"7:55","usr":"suhnylla","txt":"RT @SeekingAlpha: Book Review: The Facebook IPO Primer http://t.co/izUvdY1t $GOOG $FB","lbl":"Neutral"}
+,{"time":"7:56","usr":"mitchelltsai","txt":"sold some $AAPL 616.75 (+2.1% profit), $GOOG 605.50 605.40 (-0.4% loss), $UCO 43.29 (+2.0% profit), $TNA 57.10... http://t.co/DeEc3fYB","lbl":"Negative"}
+,{"time":"9:13","usr":"Goodlett","txt":"To those non-tech folks thinking #search is easy problem, check vid of smartest $GOOG engineers discussing parameters http://t.co/ZGUSSA3J","lbl":"Neutral"}
+,{"time":"9:15","usr":"Traderabc","txt":"$AAPL 616.78 (+56.50 +10.08%) $GOOG 608.65 (+7.38 +1.23%) $IBM 202.97 (+2.97 +1.49%) $AMZN 193.56 (+3.23 +1.70%) #Tecnol\u00F3gicas #WS","lbl":"Neutral"}
+,{"time":"9:40","usr":"equitiesgroup","txt":"Google begins eCommerce strategies to compete with Apple... http://t.co/PyxSANPf $GOOG $AAPL #Galaxy #Nexus #iphone5","lbl":"Neutral"}
+,{"time":"9:40","usr":"EquitiesNetwork","txt":"Google begins eCommerce strategies to compete with Apple... http://t.co/2sXMiogN $GOOG $AAPL #Galaxy #Nexus #iphone5","lbl":"Positive"}
+,{"time":"9:41","usr":"EquitiesIR","txt":"Google begins eCommerce strategies to compete with Apple... http://t.co/JBN8ug29 $GOOG $AAPL #Galaxy #Nexus #iphone5","lbl":"Neutral"}
+,{"time":"10:18","usr":"danconway","txt":"Interesting and sad that $GOOG is now polluting their home page with a Nexus phone ad.","lbl":"Negative"}
+,{"time":"11:27","usr":"rynprry","txt":"$GOOG http://t.co/cEjlfISi Google looking toppy intraday. Small H&S confirmed.","lbl":"Neutral"}
+,{"time":"11:28","usr":"carlos_becares","txt":"RT @SAI: RUMOR: Google Snubs Motorola And Picks Samsung To Make Next Flagship Android Phone $GOOG by @stevekovach http://t.co/aJKCdGUI","lbl":"Neutral"}
+,{"time":"12:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/240, $GLD/54, $SPY/48, $GOOG/38, $CAT/30, $MSFT/28, $SLV/26, $GS/21. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"12:05","usr":"thefinancepress","txt":"$GOOG Microsoft, Pegatron Sign Patent Agreement: Microsoft, Pegatron Sign Patent Agreement Wall Street Journal ... http://t.co/8aQDtFZ0","lbl":"Neutral"}
+,{"time":"12:06","usr":"pennystockguys","txt":"$GOOG - Microsoft, Pegatron Sign Patent Agreement http://t.co/K2uMJGIT","lbl":"Neutral"}
+,{"time":"12:06","usr":"ADVFNplc","txt":"$GOOG - Microsoft, Pegatron Sign Patent Agreement http://t.co/wdubee9A","lbl":"Neutral"}
+,{"time":"13:09","usr":"EquitiesIR","txt":"#Google ups #Apple offering smart phone incentives without a #wireless contract: http://t.co/XoIvLRWh $GOOG #tech $AAPL #copyright $ORCL","lbl":"Neutral"}
+,{"time":"13:10","usr":"1fitrecruitment","txt":"\u201C@businessinsider: The End Of Android Approaches ... $AAPL $GOOG by @jyarow http://t.co/TmmCkC3U\u201D << What about the Rest Of The World? #ROW","lbl":"Neutral"}
+,{"time":"13:11","usr":"drew216","txt":"RT @SAI: The End Of Android Approaches ... $AAPL $GOOG by @jyarow http://t.co/P77qNIm6","lbl":"Negative"}
+,{"time":"13:13","usr":"lluccipha","txt":"SAI: The End Of Android Approaches ... $AAPL $GOOG by @jyarow http://t.co/Fq0NSYSn","lbl":"Negative"}
+,{"time":"13:51","usr":"LDrogen","txt":"the $SQUARE news is so bullish for $V and $MA, less so for $GOOG $PAY and the banks who are going to get cut out of this whole thing","lbl":"Negative"}
+,{"time":"13:52","usr":"LVimages","txt":"RT @businessinsider: The End Of Android Approaches ... $AAPL $GOOG by @jyarow http://t.co/f7qQYSZc","lbl":"Neutral"}
+,{"time":"13:54","usr":"USwwwStocks","txt":"$GOOG News: Wall Street Promotes Junk Bonds as Europe Erupts http://t.co/stm9QGM3 #daytrading #usa #www #stocks","lbl":"Neutral"}
+,{"time":"13:54","usr":"HaninS","txt":"\u0022@SAI: RUMOR: Google Snubs Motorola And Picks Samsung To Make Next Flagship Android Phone $GOOG by @stevekovach http://t.co/WUIUPfsh\u0022ouch!","lbl":"Neutral"}
+,{"time":"14:49","usr":"BlueFielder","txt":"$GOOG & $AAPL are exactly the same $ ... they were moving to the penny ...","lbl":"Negative"}
+,{"time":"14:49","usr":"BUDDIEE18","txt":"RT @BlueFielder: $GOOG & $AAPL are exactly the same $ ... they were moving to the penny ...","lbl":"Neutral"}
+,{"time":"14:50","usr":"mojoris1977","txt":"@AronPinson i maintain my view that the deal closes, possibly on Friday. $GOOG and China don\u0027t get a long well so remedy possible","lbl":"Neutral"}
+,{"time":"14:51","usr":"BlueFielder","txt":"BUT .... $AAPL traded 7X that of $GooG","lbl":"Neutral"}
+,{"time":"15:51","usr":"wallstdaily","txt":"@Google\u2019s Stock-Split isn\u2019t Evil, it\u2019s Meaningless. $GOOG http://t.co/WNKGQV0J","lbl":"Negative"}
+,{"time":"15:53","usr":"hezihertz","txt":"RT @atul: The Verge: Is Google Drive worse for privacy than iCloud, Skydrive, and Dropbox? - http://t.co/1paekmag $GOOG","lbl":"Neutral"}
+,{"time":"16:57","usr":"ADVFNplc","txt":"$GOOG - Former Google Android Engineer Removed Java Tech After Suit http://t.co/Bgh0aHfl","lbl":"Neutral"}
+,{"time":"16:57","usr":"pennystockguys","txt":"$GOOG - Former Google Android Engineer Removed Java Tech After Suit http://t.co/hZVDSH2s","lbl":"Neutral"}
+,{"time":"16:57","usr":"charlesrwa","txt":"$GOOG - Former Google Android Engineer Removed Java Tech After Suit http://t.co/QojErSU8","lbl":"Neutral"}
+,{"time":"18:05","usr":"StocialTrends","txt":"Daily Trending Social Volume: $AAPL/2856, $SPY/508, $CAT/389, $GOOG/353, $GS/340, $GLD/183, $BIDU/177. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"18:05","usr":"joseluisleon","txt":"RT @SAI: CHART OF THE DAY: Apple\u0027s Mind-Blowing Margins In Context $MSFT $AAPL $GOOG by @jyarow http://t.co/9O4pEtqG","lbl":"Neutral"}
+,{"time":"18:08","usr":"jtbaran","txt":"RT @netgarden: NEW POST: Understanding Apple\u0027s Earnings - It\u2019s about Value & Integration, and it\u2019s Global http://t.co/jgOzmCwh $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"20:44","usr":"goycar999","txt":"$AAPL 616.78 (+56.50 +10.08%) $GOOG 608.65 (+7.38 +1.23%) $IBM 202.97 (+2.97 +1.49%) $AMZN 193.56 (+3.23 +1.70%) #Tecnol\u00F3gicas #WS","lbl":"Positive"}
+,{"time":"20:45","usr":"equitiesgroup","txt":"#Investing 101: What it means to be a Class A, B, or C #shareholder at #Google: http://t.co/BUfxuaFy $GOOG #tech $AAPL","lbl":"Neutral"}
+,{"time":"20:45","usr":"EquitiesNetwork","txt":"#Investing 101: What it means to be a Class A, B, or C #shareholder at #Google: http://t.co/iVJrRjRw $GOOG #tech $AAPL","lbl":"Neutral"}
+,{"time":"22:41","usr":"paolho","txt":"#Google $GOOG Commercial: \u0022Google+: New Dad\u0022: http://t.co/ImM7pGW1 @Forbes @Reuters_Biz @WSJ @CNBC @googleresearch @googlechrome @google","lbl":"Neutral"}
+,{"time":"22:43","usr":"Rob_Hager","txt":"RT @AlphaVN: Think Apple, Think Asia. $AAPL $GOOG $FXI $EEM $VNM $FB","lbl":"Neutral"}
+]

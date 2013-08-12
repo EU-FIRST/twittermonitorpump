@@ -1,0 +1,14 @@
+[
+{"time":"7:33","usr":"suspect22","txt":"RT @SAI: Google CEO Larry Page Tells Employees Not To Worry About His Health $GOOG by @mattlynley http://t.co/BoABK92T","lbl":"Positive"}
+,{"time":"7:34","usr":"gicvd","txt":"Breznev used to do itRT\u0022@SAI: Google CEO Larry Page Tells Employees Not To Worry About His Health $GOOG by @mattlynley http://t.co/h8D2UzEh\u201D","lbl":"Neutral"}
+,{"time":"7:38","usr":"MrJideAdebayo","txt":"RT @businessinsider: Google CEO Larry Page Tells Employees Not To Worry About His Health $GOOG by @mattlynley http://t.co/iraL55Ev","lbl":"Positive"}
+,{"time":"7:43","usr":"lluccipha","txt":"SAI: Google CEO Larry Page Tells Employees Not To Worry About His Health $GOOG by @mattlynley http://t.co/yNIo0Zvg","lbl":"Neutral"}
+,{"time":"10:13","usr":"LDrogen","txt":"$GOOG Google is up against some tough comps from this quarter last year when it grew ... http://t.co/eHHOe6GO","lbl":"Negative"}
+,{"time":"10:17","usr":"PatrickHarris3","txt":"@Butlerjustin @hblodget Correct, but without content, people have no reason to buy a paper or go to the site. Cart, meet horse. #NYT $Goog","lbl":"Neutral"}
+,{"time":"10:22","usr":"DerekVesselsJr","txt":"RT @businessinsider: Google Is Now Recognizing The Threat To Its Mapping Dominance $GOOG by @mattlynley http://t.co/WAU4vWCe","lbl":"Negative"}
+,{"time":"10:22","usr":"JoshNursing","txt":"RT @GooglApple TUAW: Apple/Motorola reciprocal patent lawsuits dismissed in Chicago $AAPL $GOOG http://t.co/LAe9Bwc2","lbl":"Neutral"}
+,{"time":"15:51","usr":"alibabaoglan","txt":"RT @SAI: Google Still Plans To Provide \u0027Amazing Google Maps Experiences On iOS\u0027 $GOOG by @mattlynley http://t.co/3RIKInbg","lbl":"Neutral"}
+,{"time":"15:55","usr":"armage","txt":"\u201C@SAI: Google Still Plans To Provide \u0027Amazing Google Maps Experiences On iOS\u0027 $GOOG by @mattlynley http://t.co/1EBwGZHn\u201D","lbl":"Neutral"}
+,{"time":"15:55","usr":"cwil","txt":"RT @businessinsider: Google Still Plans To Provide \u0027Amazing Google Maps Experiences On iOS\u0027 $GOOG by @mattlynley http://t.co/rv62yIWQ","lbl":"Neutral"}
+,{"time":"15:56","usr":"tigrs99","txt":"RT @SAI: Google Still Plans To Provide \u0027Amazing Google Maps Experiences On iOS\u0027 $GOOG by @mattlynley http://t.co/3RIKInbg","lbl":"Neutral"}
+]

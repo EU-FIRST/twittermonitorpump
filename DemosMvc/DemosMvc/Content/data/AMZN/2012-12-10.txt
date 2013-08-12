@@ -1,0 +1,23 @@
+[
+{"time":"6:03","usr":"sssc","txt":"$MSFT Can\u0027t Afford to Screw This Up - $AMZN, $AAPL, $GOOG, - Foolish Blogging Network http://t.co/SNF7b5vD","lbl":"Neutral"}
+,{"time":"8:45","usr":"CapCube","txt":"RT @firstadopter: $AMZN selling 8.9 inch Kindle Fire HD for $50 off today. 3rd below cost sale in last few weeks, sales must be awesome! http://t.co/DOizMsYc","lbl":"Positive"}
+,{"time":"8:47","usr":"ShawnPaulBoike","txt":"Commented on: \u0022Android Is Dead - Part 2: Titans Clash\u0022 http://t.co/jIyhVnLE $GOOG $AAPL $AMZN $FB","lbl":"Neutral"}
+,{"time":"8:52","usr":"USwwwStocks","txt":"$AMZN News: Amazon (NASDAQ:AMZN) Offers $20 Discount for Kindle\u0027s Late Christmas ... http://t.co/TnmvWwEu #Amazon #AMZN #Christmas","lbl":"Neutral"}
+,{"time":"9:45","usr":"DividendMaster","txt":"$AMZN Kindle Fire is selling so well that they are offering a $50 discount on it today . Now they can lose even more money on each one sold!","lbl":"Negative"}
+,{"time":"10:27","usr":"lesha22","txt":"@dougkass: regarding china buy $FCX. Sell $AMZN....","lbl":"Negative"}
+,{"time":"11:35","usr":"takingstock614","txt":"$AMZN right @ 10day. We break below 251 could see this one lower. 240-245 imo.","lbl":"Negative"}
+,{"time":"11:37","usr":"rsaintvilus","txt":"Amazon: Still Amazing, But I Don\u2019t Like It - $AMZN, $AAPL, $WMT - : http://t.co/JbXIaZ4W via @themotleyfool","lbl":"Negative"}
+,{"time":"12:01","usr":"SuntoryTrader","txt":"@given2tweet can\u0027t agree with your $BBY call but would love to see $AMZN come back to a more \u0022reasonable\u0022 100 or so earnings multiple...","lbl":"Neutral"}
+,{"time":"12:17","usr":"OneChicago","txt":"$AMZN Dec Block Trade: 147 trade. ~$3.7 MM notional value.","lbl":"Neutral"}
+,{"time":"13:18","usr":"StockAction","txt":"RT @chessNwine: NEW POST: \u0022Prime Levels to Watch for http://t.co/jcHkccNC\u0022 http://t.co/EobQgcFK $AAPL $AMZN $QQQ $SPY #stockaction","lbl":"Neutral"}
+,{"time":"13:18","usr":"Grazen","txt":"@volatilitysmile @HarvardBiz I agree with that. $BBY $AMZN","lbl":"Neutral"}
+,{"time":"13:19","usr":"guttrader","txt":"$AMZN trade did well today. Join us http://t.co/qk5n1zBP","lbl":"Positive"}
+,{"time":"13:54","usr":"nereidadin","txt":"Monday links: letting profits run & REITS look rich. http://t.co/MCUrwI4X via @abnormalreturns $SPY $AMZN $XOM $VNQ","lbl":"Neutral"}
+,{"time":"14:26","usr":"RealStockTrader","txt":"Many people use Penny Stocks to build an account, I perfer trading options of high flying stocks like $APPL, $GOOG and $AMZN.","lbl":"Neutral"}
+,{"time":"16:14","usr":"AAinslie","txt":"Amazon Launches #PayAnywhere #MobileApp http://t.co/FGOGnsAV #payments $AMZN $$","lbl":"Positive"}
+,{"time":"16:14","usr":"LaMonicaBuzz","txt":"RT @UnlovedMoney: @LaMonicaBuzz seems $AMZN happy to get into a \u0022let\u0027s see who can withstand the lowest margins\u0022 fight. $BKS","lbl":"Neutral"}
+,{"time":"16:32","usr":"rrshasss","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 12/10/12 {Video}\u0022 http://t.co/WLDxO39J $AAPL $AMZN $EMN $FLR $FWLT $IWM $IYT $QQQ $SPY #stockaction","lbl":"Neutral"}
+,{"time":"17:24","usr":"PeterPrudden","txt":"$AMZN Jeff Bezos insider sales: 11/29 395K shares @ $250. 11/30 395k shares @ 250.05. Large blocks at stocks all time high. Trailing P/E 3k","lbl":"Negative"}
+,{"time":"19:31","usr":"BG_Nelson","txt":"@StockTwits @pointsnfigures Poorly researched post. $AMZN already collects sales tax in Washington, and 7 other states. http://t.co/hrbzb3Mb","lbl":"Neutral"}
+,{"time":"23:01","usr":"NextDayTrade","txt":"Tuesday: $BIDU, $VRTX, $AMZN, $AAPL, $WLT, $MCP","lbl":"Neutral"}
+]

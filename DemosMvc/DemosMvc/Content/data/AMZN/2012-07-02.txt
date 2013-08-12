@@ -1,0 +1,14 @@
+[
+{"time":"6:33","usr":"nenaseraphina","txt":"RT @SeekingAlpha: Wall Street Breakfast: Must-Know News http://t.co/q4wKKEE8 $BCS $SPY $QQQ $AMLN $AMZN $AZN $BMY $CRM $DELL $EADSY.PK $ED","lbl":"Neutral"}
+,{"time":"6:36","usr":"_Hozay","txt":"- YMCMB$$$ RT @SeekingAlpha Wall Street Breakfast: Must-Know News http://t.co/X6Ket71P $BCS $SPY $QQQ $AMLN $AMZN $AZN $CRM $DELL $EADSY.PK","lbl":"Neutral"}
+,{"time":"9:51","usr":"Crap_Trader","txt":"@strangleprofits The two in $CRM and $AMZN are real.... I learn best with real money at stake... adds the fear and greed emotions into mix","lbl":"Positive"}
+,{"time":"9:52","usr":"knodeinc","txt":"RT @RyanMFierce: Google\u0027s new #cloud platform attracts #biotech players, could rival Amazon EC2 in #pharma http://t.co/86jYHn9t $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"12:30","usr":"SeekingAlpha","txt":"Apple\u0027s Pricing Power? Questionable http://t.co/TEZRpZMz $AMZN $GOOG $MSFT $NOK $T $VZ $AAPL","lbl":"Neutral"}
+,{"time":"13:36","usr":"RJohnstonHughes","txt":"RT @SAI: Amazon Buys 3D-Mapping Company UpNext $AMZN by @mattlynley http://t.co/ogB6zkeK","lbl":"Neutral"}
+,{"time":"14:36","usr":"Japanesegunto","txt":"for .88 cents $AMZN 125 put.....","lbl":"Negative"}
+,{"time":"16:09","usr":"akwchil","txt":"RT @ahess247: Weekend Lightning Stung Amazon and Instagram Right Where It Hurt http://t.co/TBpC8Bme $AMZN","lbl":"Neutral"}
+,{"time":"16:10","usr":"SeekingAlpha","txt":"RIM: The Next Palm? http://t.co/kZrOCSLb $AAPL $AMZN $FB $GOOG $HPQ $RIMM","lbl":"Neutral"}
+,{"time":"16:10","usr":"vsistla","txt":"Congrats @dam00n & @UpNext team on $AMZN acquisition! Congrats to all @ArcAngelFund #angels to be part of it! http://t.co/azyDYTDj","lbl":"Neutral"}
+,{"time":"17:14","usr":"Crap_Trader","txt":"Deep OTM July naked puts paper trade portfolio. %1.23 ROR on $50k initial margin used. http://t.co/YmufJMqS $CRM $CMG $LNKD $BIDU $AMZN","lbl":"Neutral"}
+,{"time":"17:21","usr":"iu77bu81","txt":"Nice, good compliment to other devices! RT @wallstCS: Analyst: iPad Mini Is On Its Way http://t.co/rES0eQny $GOOG $AAPL $AMZN #mkt #stocks","lbl":"Neutral"}
+]

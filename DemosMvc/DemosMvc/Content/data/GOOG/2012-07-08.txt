@@ -1,0 +1,13 @@
+[
+{"time":"7:45","usr":"TrendRida","txt":"Poll: Who Will Dominate the 7\u2033 Tablet Market This Christmas? http://t.co/jRYpGj6D $aapl $goog $amzn","lbl":"Neutral"}
+,{"time":"8:31","usr":"ReformedBroker","txt":"In case you missed Joy of Tech\u0027s soap opera thing, it\u0027s awesome http://t.co/NKj0SPQU $MSFT $GOOG $AAPL $FB","lbl":"Neutral"}
+,{"time":"8:39","usr":"howardlindzon","txt":"RT @ReformedBroker: In case you missed Joy of Tech\u0027s soap opera thing, it\u0027s awesome http://t.co/NKj0SPQU $MSFT $GOOG $AAPL $FB","lbl":"Neutral"}
+,{"time":"8:42","usr":"thefinancepress","txt":"$GOOG Analysis: Microsoft loss reflects Web display ad world\u0027s woes: Analysis: Microsoft loss reflects Web disp... http://t.co/XUImEuUe","lbl":"Neutral"}
+,{"time":"11:46","usr":"FenerHotspurs","txt":"RT @SAI: Google\u0027s Galaxy Nexus Phone Is Shipping Again After Temporary Ban $GOOG $AAPL by @stevekovach http://t.co/yMDikSJr","lbl":"Neutral"}
+,{"time":"12:00","usr":"businessinsider","txt":"Google Starts Campaign To Legalize Homosexuality Abroad $GOOG by @stevekovach http://t.co/yQatzf0m","lbl":"Neutral"}
+,{"time":"12:00","usr":"SAI","txt":"Google Starts Campaign To Legalize Homosexuality Abroad $GOOG by @stevekovach http://t.co/NO7s8EOq","lbl":"Neutral"}
+,{"time":"16:00","usr":"SmileyHilde","txt":"RT @SAI: Google Starts Campaign To Legalize Homosexuality Abroad $GOOG by @stevekovach http://t.co/NO7s8EOq","lbl":"Neutral"}
+,{"time":"18:55","usr":"JchartUpdates","txt":"Potential Sell Setup in our Overall Market Breadth Momentum Indicator http://t.co/8blS4jYX $QQQ $SPX $SPY $DJI $AAPL $GOOG $IBM $SLB","lbl":"Negative"}
+,{"time":"18:58","usr":"jrmcoleman","txt":"RT @BluHorShoe: A move under the 5ema and I am back to shorting the $GOOG. I like the rejecion at the 200, over that im long http://t.co/mMoNlxKY #WORDEN","lbl":"Negative"}
+,{"time":"19:07","usr":"USwwwStocks","txt":"$GOOG News: Yelp Stock Value Increases on Reports of Integration with Apple maps http://t.co/HU63OXHU #GOOG #Apple #Increases","lbl":"Neutral"}
+]

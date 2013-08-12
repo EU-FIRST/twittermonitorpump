@@ -1,0 +1,20 @@
+[
+{"time":"1:16","usr":"ashish_nadkarni","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/CQ49XjQZ","lbl":"Neutral"}
+,{"time":"1:17","usr":"ansarikashif7","txt":"RT @SAI: EX-APPLE ENGINEER: \u0027Almost Everything That Apple Does That Involves The Internet Is A Mess\u0027 $AAPL $GOOG by @hblodget http://t.co/7wJvOu4x","lbl":"Neutral"}
+,{"time":"1:19","usr":"davidburleson","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/0EcFr6ls","lbl":"Neutral"}
+,{"time":"3:29","usr":"strategicstuff","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/biDIJGcp STUFF","lbl":"Neutral"}
+,{"time":"3:36","usr":"islug","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/0EcFr6ls","lbl":"Neutral"}
+,{"time":"3:38","usr":"AndreKiehne","txt":"RT @SAI: The End Of The Smartphone Era Is Coming $MSFT $GOOG $AAPL by @nichcarlson http://t.co/0EcFr6ls","lbl":"Neutral"}
+,{"time":"7:55","usr":"StockMarket411","txt":"The Zacks Analyst Blog Highlights: China Mobile, Apple, China Unicom, ChinaTelecom and Google $goog http://t.co/zehAYGZS goog, google, go...","lbl":"Neutral"}
+,{"time":"8:03","usr":"NeoAaragorn","txt":"RT @SAI: Grand Theft Auto: Vice City Is Coming To Your Mobile Device $AAPL $GOOG by @_dtl http://t.co/ef6VjdK7","lbl":"Neutral"}
+,{"time":"9:51","usr":"StockMarket411","txt":"The Zacks Analyst Blog Highlights: Google, Microsoft, Apple, Oracle and Expedia $goog http://t.co/oqCqEzkK goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"9:53","usr":"accountancylive","txt":"RT @retheauditors: My article on offshore profit shifting by $SBUX $GOOG and $HP $MSFT in the December issue of @accountancylive","lbl":"Neutral"}
+,{"time":"9:54","usr":"USwwwStocks","txt":"$GOOG News: Google Inc. (NASDAQ:GOOG) made a deliberate mistake, discovery of an Island http://t.co/L6Z4fewO #deliberate #discovery #GOOG","lbl":"Negative"}
+,{"time":"11:00","usr":"tradeplay","txt":"Elon Musk: With Jobs Gone, Google Will Win Mobile (And Look Out For The Hyperloop) | TechCrunch http://t.co/yByuDlTw $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:00","usr":"aburato","txt":"$GPRN half of $GOOG offer. Friday morning quarterback :)","lbl":"Neutral"}
+,{"time":"11:09","usr":"JASaglimbeni","txt":"Commented on: \u0022Google: Can It Be The Alpha Of Technology?\u0022 http://t.co/IxSqaWdg $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"12:07","usr":"TheTechTraders","txt":"Simple Yet Eye Opening $RIMM $AAPL $GOOG $NOK http://t.co/wn5AVINv","lbl":"Neutral"}
+,{"time":"13:27","usr":"TheArmoTrader","txt":"Go Google! Actually caring about the consumer (unlike some other mega-cap Company named after a fruit) http://t.co/oZhVBXso $GOOG","lbl":"Positive"}
+,{"time":"16:53","usr":"TrueMarketAI","txt":"RT @rsaintvilus: RIM Ends Week Up 27% - Can It Continue - @ForbesTech http://t.co/46Nw1FrK $RIMM $AAPL $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"21:46","usr":"StockTwits","txt":"\u0022@reformedbroker: Must-read post on Google Fiber by @hblodget. $GOOG http://t.co/BQJlPtKC\u0022","lbl":"Neutral"}
+]

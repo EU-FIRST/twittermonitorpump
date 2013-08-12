@@ -1,0 +1,9 @@
+[
+{"time":"7:22","usr":"StockMarket411","txt":"Google Nexus 4 in Carphone Warehouse UK, Priced \u00A3110 Above Play Store Mark $goog http://t.co/6ZTdpLC0 goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"7:30","usr":"PIPIMedia","txt":"RT @SAI: The Biggest Business Disaster Of 2012 Has To Be HTC $SSNLF $AAPL $GOOG $TPE2498 by @nichcarlson http://t.co/p6ls9uPt","lbl":"Neutral"}
+,{"time":"10:05","usr":"mNHNw","txt":"RT @SAI: Google\u0027s Latest Smartphone Is Already Having Issues $GOOG by @officialKLS http://t.co/oKkR5JLh","lbl":"Negative"}
+,{"time":"10:14","usr":"lualero","txt":"RT @SAI: Google\u0027s Latest Smartphone Is Already Having Issues $GOOG by @officialKLS http://t.co/oKkR5JLh","lbl":"Negative"}
+,{"time":"10:14","usr":"jingsnote","txt":"RT @SAI: Google\u0027s Latest Smartphone Is Already Having Issues $GOOG by @officialKLS http://t.co/oKkR5JLh","lbl":"Negative"}
+,{"time":"12:39","usr":"ike308","txt":"RT @StockTwits: \u0022@reformedbroker: Must-read post on Google Fiber by @hblodget. $GOOG http://t.co/BQJlPtKC\u0022","lbl":"Neutral"}
+,{"time":"12:52","usr":"LouisColumbus","txt":"Google Launches Groups Migration API To Help Businesses Move Their Shared Mailboxes To Google Apps http://t.co/a7wQfbkl $GOOG #API","lbl":"Neutral"}
+]

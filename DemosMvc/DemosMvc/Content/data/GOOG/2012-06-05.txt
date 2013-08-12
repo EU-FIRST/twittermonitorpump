@@ -1,0 +1,56 @@
+[
+{"time":"5:34","usr":"bergie1393","txt":"RT @KeithMcCullough: $CSCO $PCLN and $GOOG all green, but all bearish on my TRADE and TREND durations","lbl":"Negative"}
+,{"time":"5:37","usr":"USwwwStocks","txt":"$GOOG News: Apple Maps vs. Google Maps: The New War Begins http://t.co/EQAv7VwW #GOOG #Apple #begins","lbl":"Negative"}
+,{"time":"7:37","usr":"GeekofWallSt","txt":"$AAPL changing its mapping program from $GOOG to its own; maps big part of $GOOG revenue http://t.co/Q3dL5Bvl","lbl":"Negative"}
+,{"time":"7:40","usr":"mckra1g","txt":"RT @worldresources: Why it\u0027s time 2 follow $GOOG $GE & Buffett on clean energy ~ @ltawney http://t.co/kPYLN8A7 #in #cleantech $$","lbl":"Positive"}
+,{"time":"7:40","usr":"DJHookedOn","txt":"\u201C@stockstobuy: #Apple $AAPL kicking #Google $GOOG Maps off iPhone - Going to use their own #maps - Big News!\u201D @cmotweet","lbl":"Negative"}
+,{"time":"7:40","usr":"SeekingAlpha","txt":"Netflix Announces New Content Delivery Network, Offering Free Caches To ISPs http://t.co/iGlNnDuV $GOOG $AKAM $LLNW $LVLT $AMZN","lbl":"Neutral"}
+,{"time":"8:36","usr":"choffman1978","txt":"$BAC breaking out and taking markets higher #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"8:37","usr":"choffman1978","txt":"$BPAX about to break $3 on HUGE SQUEEZE #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"8:37","usr":"ericjackson","txt":"New Post: What Apple Will Do to the World of TV - TheStreet http://t.co/p5zWnOo7 via @TheStreet $AAPL $DIS $GOOG $T","lbl":"Neutral"}
+,{"time":"8:37","usr":"choffman1978","txt":"$BPAX could hit $5 today on MOASS!!!! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp","lbl":"Neutral"}
+,{"time":"9:21","usr":"ADVFNplc","txt":"$GOOG - Oracle Entering Cloud Race http://t.co/yYjugD3k","lbl":"Neutral"}
+,{"time":"9:21","usr":"pennystockguys","txt":"$GOOG - Oracle Entering Cloud Race http://t.co/bQOjagls","lbl":"Neutral"}
+,{"time":"9:21","usr":"choffman1978","txt":"US Service Sector expands more than expected!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp,$wmt,","lbl":"Neutral"}
+,{"time":"9:22","usr":"choffman1978","txt":"$NGSX up 11% #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp,$wmt,$bac,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"10:01","usr":"choffman1978","txt":"$CORT ready to explode! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp,$wmt,$bac,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"10:03","usr":"choffman1978","txt":"$YMI RUNNING!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp,$wmt,$bac,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"10:05","usr":"choffman1978","txt":"$BPAX SHARES LOCKED UP! SQUEEZE#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp,$wmt,$bac,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"10:45","usr":"parklandtrader","txt":"@cnbcfastmoney $GOOG need to hold this 568 into the close...","lbl":"Neutral"}
+,{"time":"10:46","usr":"iStockAnalyst","txt":"The Two Best Sectors To Invest In Today (Part 1) $ABI $ERTS $GLUU $GOOG $NVDA: During a five-minute lull in my w... http://t.co/gOar0IZ7","lbl":"Neutral"}
+,{"time":"10:49","usr":"srisri55","txt":"Bot few $GOOG lotto calls. No $AAPL position.","lbl":"Positive"}
+,{"time":"11:25","usr":"choffman1978","txt":"$BPAX Libigel will be approved #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$ctic,$gs,$goog,$aapl,$fb,$bpax,$kerx,$vvus,$chtp,$wmt,$bac,$wfc,$jpm","lbl":"Neutral"}
+,{"time":"11:27","usr":"takingstock614","txt":"Markets holding up but $AAPL $GOOG look bad.","lbl":"Negative"}
+,{"time":"11:29","usr":"Vconomics","txt":"$GOOG wedge still working. Printed another lower low. Yesterday\u0027s green tape was to fill the gap created last Friday. http://t.co/TavlYzme","lbl":"Negative"}
+,{"time":"11:31","usr":"pennystockguys","txt":"$GOOG - Mobile Wallets Threaten Bank Revs - Analyst Blog http://t.co/2E26D6Rs","lbl":"Neutral"}
+,{"time":"12:09","usr":"Goodlett","txt":"Why the #cable box is so 1999, and why $MSFT @Xbox is the #TV box of choice for 30 unders http://t.co/kyeOZUdf $CMCSK $TWC $GOOG $AOL","lbl":"Neutral"}
+,{"time":"12:09","usr":"parklandtrader","txt":"@cnbcfastmoney Just my opinion but $GOOG look like $YHOO in 2000 and $FB looks like $GOOG.. something to ponder..","lbl":"Neutral"}
+,{"time":"12:43","usr":"douglas_blake","txt":"RT @LaMonicaBuzz: Google buys Meebo to increase social presence. Should $GOOG spin off Google+ to capitalize on market\u0027s love of social media? Oh wait. $FB","lbl":"Neutral"}
+,{"time":"12:43","usr":"margotneebe","txt":"RT @LinkedInToday: Apple and Google now battling over mobile maps http://t.co/fJkpd1om on @WSJ $GOOG $AAPL","lbl":"Negative"}
+,{"time":"12:43","usr":"MrTimRy","txt":"$VRNG shaking out day traders on extremely low volume--Still no official news from the Markman hearing w/ $GOOG. Stock will soar on + news.","lbl":"Positive"}
+,{"time":"12:45","usr":"businessinsider","txt":"Android Is Losing The Platform War, Period $GOOG $AAPL $MSFT by @jyarow http://t.co/qxKQdLGU","lbl":"Negative"}
+,{"time":"13:06","usr":"KalaKutaNUPE","txt":"Wow! Smh RT @ThoughtsOfFlex: RT @HedgefundPLAY: Valuation update : Buying $FB at $26 is buying $GOOG at $1574 & $AAPL at $2400 #fx","lbl":"Neutral"}
+,{"time":"13:08","usr":"RayBeckerman","txt":"RT @SAI: THE GOOGLE INVESTOR: Google Doubles Down On Its Social Media Strategy $GOOG by @hleonard76 http://t.co/7sErqm5W","lbl":"Neutral"}
+,{"time":"13:08","usr":"MrTimRy","txt":"Just grabbed more $VRNG @ 3.65! Trial date isn\u0027t until Oct, but the settlement w/ $GOOG will be announced much sooner-Act quick on this dip","lbl":"Neutral"}
+,{"time":"13:08","usr":"twit_ashutosh","txt":"Will love to see #FaceTime integrated with #Facebook. #iOS #wwdc $FB $aapl $Goog @mashable @HilzFuld @appletweets @applespotlight","lbl":"Neutral"}
+,{"time":"13:50","usr":"TheSaaSGuy","txt":"$GOOG + Quickoffice = get more done anytime, anywhere. #acquisition #in http://t.co/FplBSQe8 #fb","lbl":"Positive"}
+,{"time":"13:52","usr":"srisri55","txt":"$AAPL struggling to go green. $GOOG struggling. Period.","lbl":"Negative"}
+,{"time":"13:54","usr":"Jared_Naude","txt":"\u0022@businessinsider Android Is Losing The Platform War, Period $GOOG $AAPL $MSFT http://t.co/5wT17DyY\u0022 You looking at it the WRONG way.","lbl":"Negative"}
+,{"time":"13:55","usr":"MrTimRy","txt":"@ayb Mum is the word, although the basic premise of $VRNG\u0027s patent case looks strong...Strong enough to make $GOOG settle out of court.","lbl":"Negative"}
+,{"time":"14:31","usr":"pennystockguys","txt":"$GOOG - H-P Seeks Damages from Oracle - Analyst Blog http://t.co/7JhJx7S8","lbl":"Neutral"}
+,{"time":"14:34","usr":"iid_investor","txt":"people love puts $AAPL $GOOG","lbl":"Negative"}
+,{"time":"15:25","usr":"mikelaw84","txt":"RT @businessinsider: After Selling A Startup To Google For $81 Million, 26-Year-Old Nat Turner Now Wants To Solve Healthcare $GOOG http://t.co/5v0XZeCB","lbl":"Neutral"}
+,{"time":"15:25","usr":"KyleKuhn","txt":"RT @businessinsider: After Selling A Startup To Google For $81 Million, 26-Year-Old Nat Turner Now Wants To Solve Healthcare $GOOG http://t.co/5v0XZeCB","lbl":"Neutral"}
+,{"time":"15:25","usr":"BCWestStudios","txt":"RT @SAI: After Selling A Startup To Google For $81 Million, 26-Year-Old Nat Turner Now Wants To Solve Healthcare $GOOG http://t.co/nYEgRbRw","lbl":"Neutral"}
+,{"time":"15:25","usr":"JohannaBjorkell","txt":"RT @SAI: Android Is Losing The Platform War, Period $GOOG $AAPL $MSFT by @jyarow http://t.co/urhnk5aS","lbl":"Negative"}
+,{"time":"16:31","usr":"ADVFNplc","txt":"$GOOG - Salesforce to Acquire Buddy Media - Analyst Blog http://t.co/Gj6Yw0pa","lbl":"Neutral"}
+,{"time":"16:31","usr":"ADVFNplc","txt":"$GOOG - Amazon Adds Avalon Books - Analyst Blog http://t.co/HKaA1NG3","lbl":"Neutral"}
+,{"time":"16:31","usr":"pennystockguys","txt":"$GOOG - Salesforce to Acquire Buddy Media - Analyst Blog http://t.co/RWE7TF0U","lbl":"Neutral"}
+,{"time":"16:32","usr":"pennystockguys","txt":"$GOOG - Amazon Adds Avalon Books - Analyst Blog http://t.co/f8bwBrcg","lbl":"Neutral"}
+,{"time":"18:06","usr":"marchuq","txt":"RT @SAI: How Apple Can Make The iPhone And iPad More Awesome Starting Next Week $AAPL $GOOG by @stevekovach http://t.co/WEBeuLki","lbl":"Neutral"}
+,{"time":"18:08","usr":"JL_Margin","txt":"$GOOG Chart Update - http://t.co/E6kEsG8w below $570 is $560, $545 & $515 as support.Hugging Channel Line.Google Potential small bounce here","lbl":"Negative"}
+,{"time":"22:55","usr":"clearcup","txt":"RT @HedgefundPLAY: Valuation update : Buying $FB at $26 is buying $GOOG at $1574 & $AAPL at $2400 #fx","lbl":"Neutral"}
+,{"time":"23:00","usr":"SeekingAlpha","txt":"Meeker: Radical Shift Needed To Monetize Mobile http://t.co/JeclGPnX $FB $GOOG $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"23:10","usr":"Hawley_Legal","txt":"MT @patentology: Posner allows #Motorola (now $GOOG) to use colorful Steve Jobs quotes in #patent trial with $AAPL! http://t.co/oB1f9wvi","lbl":"Neutral"}
+,{"time":"23:19","usr":"btershana","txt":"RT @SeekingAlpha: Meeker: Radical Shift Needed To Monetize Mobile http://t.co/JeclGPnX $FB $GOOG $AAPL $AMZN","lbl":"Neutral"}
+]

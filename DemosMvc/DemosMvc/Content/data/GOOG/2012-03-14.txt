@@ -1,0 +1,40 @@
+[
+{"time":"2:02","usr":"TradeAgainst","txt":"@howardlindzon $GOOG is a money printing machine for its employees, not investors. $AAPL on the other hand...","lbl":"Negative"}
+,{"time":"2:04","usr":"scalamai","txt":"#Google\u0027s Focus On Beating #Facebook Is Wrecking The Company, Says This Former Engineer by @MattRosoff http://t.co/FaLjkTsO $GOOG #in","lbl":"Negative"}
+,{"time":"2:23","usr":"Johnboy23233","txt":"RT @howardlindzon: Ouch... $goog http://t.co/MsUfbJ00 (no position)","lbl":"Negative"}
+,{"time":"2:25","usr":"max_options","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/5hJQPE9j #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"6:53","usr":"USwwwStocks","txt":"Google Adds (Even More) Links to the Pentagon http://t.co/4UuFnXCy $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"6:53","usr":"USwwwStocks","txt":"Zynga Files Registration Statement for Proposed Secondary Offering http://t.co/ZQyRB7hu $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"6:58","usr":"ZisblU4U","txt":"@GOOGLE #ANDROID DEV : HEY #DARPA female NOW $GOOG #STOOGE >> FIX THIS . SEND ME A CHECK . http://t.co/kYAAyx1Q","lbl":"Neutral"}
+,{"time":"9:18","usr":"BioTechReports","txt":"Bank of America($BAC) breaking out huge! #cnbc,#msnbc,#nyse,#wsj,$c,$wmt,$gs,$goog,$aapl,$jpm$c,$v,$f,","lbl":"Neutral"}
+,{"time":"9:19","usr":"TweetLeni","txt":"Took profits of additional shares only in $GOOG at target 621.36 Still own core long shares with market money. Free trade","lbl":"Positive"}
+,{"time":"9:19","usr":"tjtakes","txt":"$GOOG 621.. almost 622. move stop up to 619.75","lbl":"Positive"}
+,{"time":"9:19","usr":"NoDoji","txt":"$GOOG breakout","lbl":"Positive"}
+,{"time":"10:36","usr":"DJThistle","txt":"Verizon only releasing LTE smartphones in 2012: Verizon appears to have closed the door on their 3G smart... http://t.co/dpZYJjBa $GOOG","lbl":"Neutral"}
+,{"time":"10:36","usr":"DJThistle","txt":"Review: Satechi R1 Arm Series smartphone and tablet stand: Say what you want about how heavy the Motorola ... http://t.co/LsA2fHjZ $GOOG","lbl":"Neutral"}
+,{"time":"10:39","usr":"businessinsider","txt":"We Want To Know THE TRUTH About Google+: Are You Using It? $GOOG by @jyarow http://t.co/Ww0ljZCt","lbl":"Neutral"}
+,{"time":"10:39","usr":"SAI","txt":"We Want To Know THE TRUTH About Google+: Are You Using It? $GOOG by @jyarow http://t.co/FG0xzCMw","lbl":"Neutral"}
+,{"time":"11:23","usr":"alexferrara","txt":"Regretting my decision last week to sell $AAPL and buy $GOOG.","lbl":"Negative"}
+,{"time":"11:29","usr":"Mark_Lexus","txt":"$GOOG setup http://t.co/gvTRuFUT #WORDEN","lbl":"Neutral"}
+,{"time":"11:29","usr":"wallstCS","txt":"Google Targeted in FTC Investigation http://t.co/s2ga0fzn $GOOG $AAPL $MSFT #mkt #trading","lbl":"Negative"}
+,{"time":"12:09","usr":"USwwwStocks","txt":"Mythbusters, Cake Boss come to Amazon\u0027s instant video service http://t.co/lsFpnvR1 $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"12:09","usr":"USwwwStocks","txt":"Amazon Announces Increased Prime Instant Video Selection via Digital Video Licens http://t.co/seeOtlh6 $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"12:09","usr":"USwwwStocks","txt":"Zynga plans secondary offering to fend off stock price drop http://t.co/yAn2ik3L $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"12:09","usr":"USwwwStocks","txt":"Zynga holders plan to sell up to $400M in stock http://t.co/hVP2a2Ej $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"13:24","usr":"KaylaRLambert","txt":"RT @CNNMoneyMarkets: $MSFT is gaining on $GOOG and $IBM has stolen the lead from $F. #MarchStockMania","lbl":"Negative"}
+,{"time":"13:24","usr":"CNNMoneyMarkets","txt":"$IBM\u0027s lead is growing over $F - last year\u0027s winner. $GOOG is finally breaking away from $MSFT. #MarchStockMania","lbl":"Neutral"}
+,{"time":"13:26","usr":"LaMonicaBuzz","txt":"RT @CNNMoneyMarkets: $IBM\u0027s lead is growing over $F - last year\u0027s winner. $GOOG is finally breaking away from $MSFT. #MarchStockMania","lbl":"Positive"}
+,{"time":"13:27","usr":"StockSage1","txt":"New Post: \u0022AAPL Reaches the Trading Toy Stage\u0022 http://t.co/ieOXurvm $AAPL $GOOG $SLV $TASR","lbl":"Neutral"}
+,{"time":"14:41","usr":"MHStimpson","txt":"@businessinsider $GOOG PE in November 2007 was over 50 $AAPL is still under 12","lbl":"Neutral"}
+,{"time":"16:47","usr":"stocktsogo65","txt":"$GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/poZi9TxI","lbl":"Positive"}
+,{"time":"16:47","usr":"krupy113","txt":"@daytrend $AAPL $SLV $GOOG #PARABOLAS","lbl":"Neutral"}
+,{"time":"16:51","usr":"daytrend","txt":".@krupy113 yes, $GOOG 9/21/2007 leg, good example of an exponential trend with full retracement $spy $es_f","lbl":"Negative"}
+,{"time":"16:57","usr":"JohnKenten","txt":"@jimcramer $GOOG diversified or diworsified?","lbl":"Neutral"}
+,{"time":"19:11","usr":"USwwwStocks","txt":"$GOOG News: [$$] Glenn Beck Rallies Troops For Revolution Against TV http://t.co/vGZhyFuJ #internet #daytrading #stocks","lbl":"Positive"}
+,{"time":"19:16","usr":"TMFJMo","txt":"Video @MarketFoolery; Will This Tablet Burn Investors? ($AAPL, $AMZN, $BKS, $GOOG) http://t.co/7CFgxEk1","lbl":"Neutral"}
+,{"time":"19:27","usr":"LTommy256","txt":"\u201C@SocialVibe: The world\u2019s biggest advertiser is going digital http://t.co/WPEwamMm #advertising\u201D $PG $GOOG $YHOO $AAPL $MM","lbl":"Neutral"}
+,{"time":"19:29","usr":"thefinancepress","txt":"$GOOG The Zacks Analyst Blog Highlights: Intel, Sony, Dish Network, Google and Apple: The Zacks Analyst Blog Hi... http://t.co/bLXUiDk9","lbl":"Neutral"}
+,{"time":"23:50","usr":"ReneLopezMBA","txt":"One @Google $GOOG exec claims: #Google was a great place to work, nit anymore - http://t.co/eY1A819Q","lbl":"Negative"}
+,{"time":"23:57","usr":"stocktwits_suck","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/Gm7opFHX #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"23:57","usr":"nexusrumors","txt":"RT @stocktwits_suck: Apple has a new App, it\u0027s called The Stalker App http://t.co/Gm7opFHX #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+]

@@ -1,0 +1,6 @@
+[
+{"time":"7:10","usr":"jiunshyong","txt":"RT @freeculture: RT @dbd Tell Amazon: Books and Libraries Shouldn\u0027t Have a Kill Switch http://t.co/amQCIagE #DRM is #DefectiveByDesign $AMZN","lbl":"Neutral"}
+,{"time":"11:15","usr":"MarketCurrents","txt":"In the era of Big Data and sophisticated algorithms, major retailers such as Amazon (AM... http://t.co/FrHniL5F $AMZN $TGT $WMT $DG","lbl":"Neutral"}
+,{"time":"18:47","usr":"shabbirghewalla","txt":"RT @StockTwits The longest-running valuation question in the market http://t.co/QYHWDkMu $AMZN","lbl":"Neutral"}
+,{"time":"18:50","usr":"WaveY_GloveS","txt":"RT @StockTwits: The longest-running valuation question in the market http://t.co/uQsIrFRM via @researchpuzzler $AMZN","lbl":"Neutral"}
+]

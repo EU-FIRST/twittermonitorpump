@@ -1,0 +1,57 @@
+[
+{"time":"3:20","usr":"BKMu","txt":"RT @pdparticle: Android Is Suddenly in a Lot of Trouble http://t.co/mOsatZ35 $GOOG","lbl":"Negative"}
+,{"time":"3:40","usr":"lock_m","txt":"RT @margbrennan: Patent Wars: the intangible assets that companies are now shedding for cash http://t.co/C2YKjGNC $GOOG $AOL $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"3:57","usr":"rad182","txt":"RT @pdparticle: Android Is Suddenly in a Lot of Trouble http://t.co/mOsatZ35 $GOOG","lbl":"Negative"}
+,{"time":"3:58","usr":"modTrader","txt":"RT @RoccoPendola: Commented on: \u0022Why I Am A Long-Term Apple Bear\u0022 http://t.co/4OXh7voX $AMZN $GOOG $INTC $MSFT $NOK $SNE $AAPL","lbl":"Neutral"}
+,{"time":"6:31","usr":"ishandwivedi","txt":"RT @pdparticle: Android Is Suddenly in a Lot of Trouble http://t.co/mOsatZ35 $GOOG","lbl":"Negative"}
+,{"time":"6:33","usr":"d_landsberg","txt":"RT @SAI: Google Accidentally Confirms The Existence Of Its Dropbox Killer $GOOG by @_dtl http://t.co/hz1x0dJP","lbl":"Neutral"}
+,{"time":"6:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/50, $GOOG/24, $NOK/16, $WMT/14, $UTX/13, $NFLX/13, $T/12, $COH/11. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"8:04","usr":"RebelMag","txt":"RT @ericjackson: New Post: Why The Next Shoe To Drop Post-Instagram Is Apple Buying Twitter for $10 Billion - Forbes http://t.co/dfgEUksi $AAPL $GOOG $YELP","lbl":"Neutral"}
+,{"time":"8:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/215, $T/51, $NFLX/47, $SPY/36, $F/35, $COH/25, $X/22, $GOOG/18, $MMM/15. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"8:10","usr":"wallstCS","txt":"Should Apple Investors Be Nervous About Stock Performance? http://t.co/GwA74DBC $AAPL $GOOG $AMZN $VZ","lbl":"Neutral"}
+,{"time":"8:47","usr":"joelmartinez","txt":"RT @chrisparnin: My take for $GOOG: (google+)--; (asteroid mining + self-driving cars)++.","lbl":"Neutral"}
+,{"time":"8:48","usr":"BioTechReports","txt":"$AEZS breaking out on huge volume! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$ctic,$chtp,$vvus,$gs,$goog,$aapl,$bac,$c,$f,$s,$v","lbl":"Neutral"}
+,{"time":"8:52","usr":"ItsMeexD","txt":"thats redic $GOOG 592.30 support held !!","lbl":"Neutral"}
+,{"time":"8:55","usr":"barronstechblog","txt":"Apple: Jefferies Sees Risk of Q2 iPhone Number, Refutes Carrier Subsidy Worry - Tech Trader Daily- $AAPL $GOOG $MSFT $T http://t.co/YuwCkK6u","lbl":"Neutral"}
+,{"time":"9:59","usr":"gubbmintcheese","txt":"RT @edwardnh: BBC News - Google Drive to offer free storage in the cloud http://t.co/F1gXi0uh $GOOG","lbl":"Neutral"}
+,{"time":"10:00","usr":"tara_south","txt":"10 Things You Need To Know This Morning $FB $GOOG $AMZN $AAPL $MSFT by @_dtl http://t.co/4hIIrI5P #in","lbl":"Neutral"}
+,{"time":"10:00","usr":"Clark_King","txt":"RT @SAI: Google Accidentally Confirms The Existence Of Its Dropbox Killer $GOOG by @_dtl http://t.co/hz1x0dJP","lbl":"Neutral"}
+,{"time":"10:00","usr":"BioTechReports","txt":"Sprint up 4%!!!!!!!!!!!!!! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$ctic,$chtp,$vvus,$gs,$goog,$aapl,$bac,$c,$f,$s,$v","lbl":"Neutral"}
+,{"time":"10:39","usr":"BioTechReports","txt":"$NGSX moving up - tree shake - be careful! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$amgn,$ctic,$chtp,$vvus,$gs,$goog,$aapl,$bac,$c,$f,$s,$v","lbl":"Neutral"}
+,{"time":"10:39","usr":"Naif_A","txt":"RT @SAI: Google Leaks Google Drive Details, And It\u0027s Basically An Upgrade To Google Docs $GOOG by @MattRosoff http://t.co/FYQBt2SQ","lbl":"Neutral"}
+,{"time":"10:39","usr":"JavierTuiran","txt":"RT @SAI: Google Leaks Google Drive Details, And It\u0027s Basically An Upgrade To Google Docs $GOOG by @MattRosoff http://t.co/FYQBt2SQ","lbl":"Neutral"}
+,{"time":"10:39","usr":"tianhaoalex","txt":"RT @SAI: Google Leaks Google Drive Details, And It\u0027s Basically An Upgrade To Google Docs $GOOG by @MattRosoff http://t.co/FYQBt2SQ","lbl":"Neutral"}
+,{"time":"11:31","usr":"Goodlett","txt":"#Schmidt now testifying live at $GOOG/$ORCL trial and not looking good http://t.co/O1BkKYOL","lbl":"Neutral"}
+,{"time":"11:32","usr":"ADVFNplc","txt":"$GOOG - AT&T Outshines on iPhones - Analyst Blog http://t.co/s6gtcrfI","lbl":"Neutral"}
+,{"time":"11:32","usr":"charlesrwa","txt":"$GOOG - AT&T Outshines on iPhones - Analyst Blog http://t.co/JrjwUY3u","lbl":"Neutral"}
+,{"time":"12:12","usr":"firstadopter","txt":"$GOOG now giving away 5GB cloud drive and 10GB for email for amazing price of free: http://t.co/c6hQeIKv","lbl":"Positive"}
+,{"time":"12:12","usr":"ClayMJohnson","txt":"RT @SAI: Eric Schmidt Just Took A Big Swipe At Microsoft $GOOG $MSFT by @jyarow http://t.co/9YQ55wkK","lbl":"Neutral"}
+,{"time":"12:12","usr":"ValaAfshar","txt":"Google Drive is real: here\u2019s what it means http://t.co/mWGJUhwp @om $GOOG #IT #CIO","lbl":"Neutral"}
+,{"time":"12:52","usr":"SAI","txt":"Google Drive Offers Nothing New From Dropbox $GOOG by @stevekovach http://t.co/P7ieH8lU","lbl":"Negative"}
+,{"time":"12:52","usr":"guildrysantana","txt":"Winners in all these cloud storage wars are $EMC, $NTAP & $Dell. Why because $GOOG, $FB, @dropbox, $MSFT all need infinite amount of storage","lbl":"Neutral"}
+,{"time":"12:52","usr":"DwightChurchill","txt":"RT @SAI: Google Drive Offers Nothing New From Dropbox $GOOG by @stevekovach http://t.co/P7ieH8lU","lbl":"Neutral"}
+,{"time":"12:52","usr":"cocoskp","txt":"RT @businessinsider: Google Drive Offers Nothing New From Dropbox $GOOG by @stevekovach http://t.co/emvqCjqr","lbl":"Neutral"}
+,{"time":"13:20","usr":"SeekingAlpha","txt":"Hewlett-Packard Could Sink In 2013 Without New PC Innovations http://t.co/t3umxhll $AMZN $DELL $EBAY $GOOG $T $HPQ $LNVGY.PK","lbl":"Neutral"}
+,{"time":"13:23","usr":"fit4thabo","txt":"This is a no contest! RT\u201C@SAI: One Thing Is Clear: Facebook Hasn\u0027t Figured It Out Yet $GOOG by @nichcarlson http://t.co/SmyBXTH5\u201D","lbl":"Neutral"}
+,{"time":"13:23","usr":"Fuelnu","txt":"RT @SeekingAlpha: Hewlett-Packard Could Sink In 2013 Without New PC Innovations http://t.co/t3umxhll $AMZN $DELL $EBAY $GOOG $T $HPQ $LNVGY.PK","lbl":"Neutral"}
+,{"time":"13:24","usr":"_ChrisVersace","txt":"Despite the pullback, Still A No Go on Netflix http://t.co/v3QRbDQZ $NFLX $AAPL $GOOG $CMCSA $VZ $TWC $CSTR $AMZN $FB","lbl":"Neutral"}
+,{"time":"14:16","usr":"MrStreetSweeper","txt":"Google now selling devices on Google Play Store; Galaxy Nexus first to bat for $400 - http://t.co/kbBF6RkB $GOOG","lbl":"Neutral"}
+,{"time":"14:17","usr":"LuisaEmilii","txt":"RT @CNNMoney: RT @FortuneMagazine: Google launches Dropbox competitor http://t.co/GuOFjMEe $GOOG","lbl":"Positive"}
+,{"time":"14:19","usr":"dschorrnyc","txt":"RT @ericjackson: New Post: Why The Next Shoe To Drop Post-Instagram Is Apple Buying Twitter for $10 Billion - Forbes http://t.co/dfgEUksi $AAPL $GOOG $YELP","lbl":"Neutral"}
+,{"time":"14:22","usr":"_MalcolmX","txt":"RT @businessinsider: One Thing Is Clear: Facebook Hasn\u0027t Figured It Out Yet $GOOG by @nichcarlson http://t.co/XBaSkBbs","lbl":"Neutral"}
+,{"time":"15:15","usr":"charlesrwa","txt":"$GOOG - UPDATE: Google\u0027s Schmidt Says Sun Micro Was OK With Android http://t.co/j4LmXSyl","lbl":"Neutral"}
+,{"time":"15:17","usr":"BigTicks","txt":"$GOOG News: What Wal-Mart Can Learn From Gallup and Google http://t.co/jk2SAQVl #stocks #NYSE #NASDAQ #trading","lbl":"Neutral"}
+,{"time":"15:20","usr":"campione","txt":"#Microsoft & #Facebook align against #Google in the #patent war http://t.co/PqlZd0YA v @rahul_sachdev $MSFT $GOOG","lbl":"Negative"}
+,{"time":"16:25","usr":"pennystockguys","txt":"$GOOG - Baidu 1Q Profit Jumps 76% On In-Line Revenue Growth http://t.co/dVQ8djpz","lbl":"Neutral"}
+,{"time":"16:25","usr":"charlesrwa","txt":"$GOOG - Baidu 1Q Profit Jumps 76% On In-Line Revenue Growth http://t.co/TMU0LIEE","lbl":"Neutral"}
+,{"time":"16:30","usr":"Tradified","txt":"\u2663 Insider Trading: $GOOG Mather Ann Director SOLD 1445 shares \u2611","lbl":"Negative"}
+,{"time":"17:52","usr":"barronstechblog","txt":"Apple iPhone Crushes Doubts \u2026 For Now - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $MSFT $NOK $RIMM http://t.co/iwiBhMBw","lbl":"Neutral"}
+,{"time":"17:53","usr":"SAI","txt":"Actually, The Guy Running Dropbox Was Once Scared Of Google Drive (Five Years Ago) $GOOG by @mattlynley http://t.co/5lYwo8b2","lbl":"Neutral"}
+,{"time":"17:54","usr":"Goodlett","txt":"Minute by minute cataloging of #Schmidt\u0027s testimony in multi billion dollar lawsuit against $GOOG by $ORCL http://t.co/O1BkKYOL $MSFT","lbl":"Neutral"}
+,{"time":"17:54","usr":"chadrodriguez","txt":"RT @SAI: Actually, The Guy Running Dropbox Was Once Scared Of Google Drive (Five Years Ago) $GOOG by @mattlynley http://t.co/5lYwo8b2","lbl":"Neutral"}
+,{"time":"19:40","usr":"Tradified","txt":"\u2663 Insider Trading: $GOOG Schmidt Eric E Director BOUGHT 15000 shares \u2611","lbl":"Positive"}
+,{"time":"19:40","usr":"charlesrwa","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/BDFg9C3v","lbl":"Neutral"}
+,{"time":"19:40","usr":"outlawz616","txt":"$BIDU used to be a great long when mkt cap was 5-10% of $GOOG. That % now? 33% (50 bln BIDU, 150 bln GOOG). BIDU is 1 country opportunity.","lbl":"Neutral"}
+,{"time":"19:46","usr":"outlawz616","txt":"I think with mobile & social also exploding in China, $BIDU will prob enter a long period of investing which means lower margins, like $GOOG","lbl":"Neutral"}
+,{"time":"23:36","usr":"MParekh","txt":"Useful: \u0022Google Drive vs. the competition: pricing plans and perks, compared\u0022 http://t.co/adGIYmuW via @engadget #Cloud $GOOG $$","lbl":"Neutral"}
+]

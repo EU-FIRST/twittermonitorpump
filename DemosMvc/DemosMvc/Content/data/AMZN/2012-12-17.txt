@@ -1,0 +1,18 @@
+[
+{"time":"7:40","usr":"b2bor","txt":"RT @JeffMacke: 17 of the two 20 video games of 2012 as chosen by $AMZN involve killing people with guns. Not a political statement... it just is.","lbl":"Neutral"}
+,{"time":"7:40","usr":"AH44KS","txt":"RT @JeffMacke: 17 of the two 20 video games of 2012 as chosen by $AMZN involve killing people with guns. Not a political statement... it just is.","lbl":"Neutral"}
+,{"time":"8:40","usr":"basilnsage","txt":"$AMZN above 252 will pop to 254 quick","lbl":"Positive"}
+,{"time":"10:12","usr":"Clearwaterfunds","txt":"Street knowledge.. So the street loves $AMZN $CRM two stocks with #$%^& earnings and no margins, downgrades $AAPL with vis earnings and $$$","lbl":"Positive"}
+,{"time":"11:54","usr":"CrushingColts","txt":"$AMZN here we go, next leg up","lbl":"Positive"}
+,{"time":"13:24","usr":"IllusoryMgmt","txt":"@JamesGRickards I\u0027ve now learned NEVER to lend #CurrencyWars to a family member. Won\u0027t get it back. Ordered another from $AMZN.","lbl":"Neutral"}
+,{"time":"14:03","usr":"MogulAzam","txt":"RT @firstadopter: Speculation of $100-200 $AMZN smartphone Q2 or Q3 2013, 5 million units: http://t.co/1wnJDOz6","lbl":"Positive"}
+,{"time":"15:04","usr":"DNev47","txt":"$$ Amazon\u0027s Exclusive Deal With Turner And Warner Bros. Brings Top Shows To Amazon Instant Video http://t.co/c6NO3Vi2 $AMZN","lbl":"Positive"}
+,{"time":"15:04","usr":"JohnKadias","txt":"RT @CNBC: REPORT: Amazon plans to jump into the competitive smartphone market next year, with help from Foxconn. - http://t.co/zioLJ8w3 $AMZN","lbl":"Neutral"}
+,{"time":"15:19","usr":"69follow","txt":"RT @CNBC: REPORT: Amazon plans to jump into the competitive smartphone market next year, with help from Foxconn. - http://t.co/zioLJ8w3 $AMZN","lbl":"Neutral"}
+,{"time":"15:19","usr":"JSiddoway","txt":"RT @CNBC: REPORT: Amazon plans to jump into the competitive smartphone market next year, with help from Foxconn. - http://t.co/zioLJ8w3 $AMZN","lbl":"Neutral"}
+,{"time":"17:01","usr":"MikeLabrador","txt":"RT @CNBC: REPORT: Amazon plans to jump into the competitive smartphone market next year, with help from Foxconn. - http://t.co/zioLJ8w3 $AMZN","lbl":"Neutral"}
+,{"time":"17:39","usr":"bigbobofva","txt":"RT @SeekingAlpha: What Wal-Mart\u0027s Promotion Of The Apple iPhone Means For Both Companies http://t.co/V4FDcgyn $AMZN $WMT $AAPL","lbl":"Neutral"}
+,{"time":"20:05","usr":"BenCBanks","txt":"DAILY ANALYSIS w/CHARTS is UP -- http://t.co/mNekVtYT $SPY $AAPL $GOOG $AMZN $BAC $C $GE $DUK and MORE","lbl":"Neutral"}
+,{"time":"20:05","usr":"sirlosealot","txt":"RT @firstadopter: Nice catch! MT @oddblots: $AMZN Dec. ChannelAdvisor decelerates http://t.co/LLlEPnIR disclosure no longer says CA\u0027s CEO owns $AMZN or $EBAY","lbl":"Neutral"}
+,{"time":"22:14","usr":"DhanyaTweets","txt":"Nordstrom family scion keeps up with Amazon online, @alistairmbarr reports via @Reuters $JWN $AMZN http://t.co/nHw8cSw2","lbl":"Neutral"}
+]

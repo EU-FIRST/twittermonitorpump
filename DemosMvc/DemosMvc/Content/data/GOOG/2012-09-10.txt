@@ -1,0 +1,37 @@
+[
+{"time":"6:01","usr":"ChuckOzment","txt":"RT @Computerworld: RT @richi: Why Google bought VirusTotal http://t.co/Ear7E2p3 #itbw $GOOG","lbl":"Neutral"}
+,{"time":"6:11","usr":"amylaceous","txt":"\u0022@SAI: 10 Things You Need To Know This Morning $HP $GOOG $AAPL by @nichcarlson http://t.co/pVJLwSkI\u0022","lbl":"Neutral"}
+,{"time":"6:12","usr":"amylaceous","txt":"RT @SAI: 10 Things You Need To Know This Morning $HP $GOOG $AAPL by @nichcarlson http://t.co/nxul7dlg","lbl":"Neutral"}
+,{"time":"7:38","usr":"rhbinvest","txt":"There Is A Huge Threat To Apple And Google That You\u0027ve Never Heard Of | #in $AAPL $GOOG http://t.co/wt9qVoH6","lbl":"Negative"}
+,{"time":"7:38","usr":"augushelmi","txt":":)) RT @SAI: 10 Things You Need To Know This Morning $HP $GOOG $AAPL by @nichcarlson http://t.co/nmeFMfTc","lbl":"Neutral"}
+,{"time":"7:38","usr":"sgtpmjmdl","txt":"RT @businessinsider: There Is A Huge Threat To Apple And Google That You\u0027ve Never Heard Of $AAPL $GOOG by @nichcarlson http://t.co/ZpFRXPCU","lbl":"Neutral"}
+,{"time":"8:16","usr":"leon_wagner","txt":"RT @SAI: There Is A Huge Threat To Apple And Google That You\u0027ve Never Heard Of $AAPL $GOOG by @nichcarlson http://t.co/Mto9TNcj","lbl":"Positive"}
+,{"time":"8:16","usr":"PepeMunoz1","txt":"RT @SAI: There Is A Huge Threat To Apple And Google That You\u0027ve Never Heard Of $AAPL $GOOG by @nichcarlson http://t.co/Wh2sEDNb","lbl":"Neutral"}
+,{"time":"8:38","usr":"Que_Nande","txt":"RT @SAI: Amazon\u0027s Tablet Is Actually More Expensive Than You Think $AMZN $AAPL $GOOG by @jyarow http://t.co/wZ2mJdGD","lbl":"Neutral"}
+,{"time":"8:39","usr":"CNBCShitShow","txt":"@cnbc @jimcramer correction for Melissa $goog all time high is 747.24 set back in 2008","lbl":"Neutral"}
+,{"time":"9:05","usr":"kenjotto","txt":"added to $GOOG Oct660 calls, avg 56.60","lbl":"Positive"}
+,{"time":"9:05","usr":"tuckerstevenson","txt":"RT @businessinsider: Amazon\u0027s Tablet Is Actually More Expensive Than You Think $AMZN $AAPL $GOOG by @jyarow http://t.co/5mJ4CAyP","lbl":"Neutral"}
+,{"time":"9:48","usr":"StartupProgress","txt":"I don\u0027t see $GOOG outmaneuvering $AMZN in the battle for E-Commerce","lbl":"Negative"}
+,{"time":"9:51","usr":"NorthmanTrader","txt":"$GOOG new LOD","lbl":"Negative"}
+,{"time":"10:28","usr":"thefinancepress","txt":"$GOOG Price Volume Leaders for Monday, September 10th: AAPL, GOOG, AIG, BAC ...: Price Volume Leaders for Monda... http://t.co/w21pwDdN","lbl":"Neutral"}
+,{"time":"10:50","usr":"joreva14","txt":"RT @CNNMoney: Toys R Us unveils $150 tablet for kids: http://t.co/qvnUnSwL $GOOG $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"11:06","usr":"launchticker","txt":"Companies need to pay to be included in $goog Shopping; $goog says policy improves search results http://t.co/P3w3vGr3","lbl":"Neutral"}
+,{"time":"11:07","usr":"RedDogT3Live","txt":"$goog shook the tree on September 4th with the 680 level before breaking out. Let\u0027s see if this is a Similar type of pattern for $AAPL","lbl":"Neutral"}
+,{"time":"11:41","usr":"berkmh","txt":"$GOOG buy point","lbl":"Positive"}
+,{"time":"11:41","usr":"MarcHoffman3","txt":"RT @Computerworld: RT @richi: Why Google bought VirusTotal http://t.co/Ear7E2p3 #itbw $GOOG","lbl":"Neutral"}
+,{"time":"11:43","usr":"cnbcfastmoney","txt":"Halftime: http://t.co/9Sgr9bHg $AAPL $FB $GOOG #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"12:07","usr":"drjeffloftus","txt":"RT @StockTwits: Google Glass Graces the Runway at New York Fashion Week http://t.co/Zi4aFhgU via the very styley @laureni $GOOG","lbl":"Positive"}
+,{"time":"12:07","usr":"DerivTrader1","txt":"RT @GdayToYou: $GOOG having trouble at 705 watch $SPY and $GOOG will pull back to 700 $SPY up GOOG test 707 -709. All techs weak today","lbl":"Negative"}
+,{"time":"12:51","usr":"nicoleslavitt","txt":"$GOOG Glasses Graces the Runway at New York Fashion Week (w/ Sergey Brin on the catwalk!!) http://t.co/bL748OyZ via @mashable","lbl":"Neutral"}
+,{"time":"13:45","usr":"thefinancepress","txt":"$GOOG $700: Google Vs. Apple: $700: Google Vs. Apple Seeking Alpha - 42 minutes ago The race to $700 per share... http://t.co/wtOZ2E3k","lbl":"Neutral"}
+,{"time":"13:46","usr":"HFTAlert","txt":"algos very very quiet..only 4 programs over 75 stocks in the program. $spy $vxx $aapl $goog http://t.co/wL5Fvswh","lbl":"Neutral"}
+,{"time":"13:46","usr":"rwachs","txt":"$AAPL $GOOG toying with a sub $700 position. This is more than just an $AAPL correction.....","lbl":"Neutral"}
+,{"time":"14:29","usr":"jason_coleman","txt":"Can $GOOG turn $40b into $290b over the next 10 years?","lbl":"Neutral"}
+,{"time":"14:30","usr":"SeekingAlpha","txt":"Happy To Settle For A Line-Drive Single With Microsoft http://t.co/thQQXg45 $AMZN $GOOG $NOK $MSFT","lbl":"Neutral"}
+,{"time":"15:05","usr":"canadadan","txt":"Still holding SeptW2 690 Calls $GOOG looks strong to me...","lbl":"Positive"}
+,{"time":"15:52","usr":"teddyosembe","txt":"@Computerworld: RT @mbucken: RT @richi: Why Google bought VirusTotal http://t.co/UdOXhjZm #itbw $GOOG#infosec2012","lbl":"Neutral"}
+,{"time":"17:39","usr":"JonErlichman","txt":"Google\u0027s David Lawee: \u0022We didn\u0027t really believe rounded corners were patentable...it was a wake up call\u0022 $GOOG #bwest","lbl":"Neutral"}
+,{"time":"17:39","usr":"samgustin","txt":"RT @JonErlichman: Google\u0027s David Lawee: \u0022We didn\u0027t really believe rounded corners were patentable...it was a wake up call\u0022 $GOOG #bwest","lbl":"Neutral"}
+,{"time":"19:40","usr":"SeekingAlpha","txt":"Amazon: A Wonderful Business At A Terrible Price http://t.co/gzaaVaMO $AAPL $BBY $BKS $GOOG $WMT $AMZN","lbl":"Neutral"}
+,{"time":"23:47","usr":"CodeCharm","txt":"Commented on: \u0022Memo To Microsoft: The PC Is Dead\u0022 http://t.co/n807uC82 $MSFT $AAPL $DELL $GM $GOOG $HPQ $IBM $MO $NOK","lbl":"Neutral"}
+]

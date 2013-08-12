@@ -1,0 +1,29 @@
+[
+{"time":"5:46","usr":"TrendRida","txt":"Commented on StockTwits: I\u0027m not a fan of $goog or $amzn\u0027s strategy outside of their product. http://t.co/zJyfJyQ4","lbl":"Negative"}
+,{"time":"5:49","usr":"TrendRida","txt":"Commented on StockTwits: gun to the head would choose $amzn over $goog. Since AMZN knows how thrive on low margins. http://t.co/8r6NIbFC","lbl":"Negative"}
+,{"time":"6:02","usr":"d_ramsden","txt":"$FB borrows fr $GOOG play book, invests in improved connectivity & speed infrastructure to enhance growth prospects http://t.co/Z8iEGglA $$","lbl":"Neutral"}
+,{"time":"7:24","usr":"salespop","txt":"RT @SAI_Tools: Judge Who Tossed Out Apple/Motorola Lawsuit Says Tech Companies Are \u0027Animals\u0027 $AAPL $GOOG by @Julie188 http://t.co/aUzI1CpQ","lbl":"Negative"}
+,{"time":"8:34","usr":"choffman1978","txt":"$LMCA likely to pay premium for $SIRI #cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm","lbl":"Neutral"}
+,{"time":"8:35","usr":"choffman1978","txt":"$GMCR RUNNING!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f,$pfe,$jnj,$gsk","lbl":"Neutral"}
+,{"time":"8:36","usr":"CBOE","txt":"Active options on open @ CBOE: $AAPL $SAN $JPM $GOOG $ARNA $NFLX $NUAN","lbl":"Neutral"}
+,{"time":"9:01","usr":"choffman1978","txt":"$GMCR is a $70 stock#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f,$pfe,$jnj,$gsk","lbl":"Neutral"}
+,{"time":"9:02","usr":"choffman1978","txt":"$YMI SHORT SQUEEZE!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f,$pfe,$jnj,$gsk","lbl":"Neutral"}
+,{"time":"9:38","usr":"paulwoll","txt":"Bet $GRPN wishes they took that buyout offer now from $GOOG year ago... as it makes new 52 week lows today.","lbl":"Neutral"}
+,{"time":"9:40","usr":"valtheegal","txt":"Samsung and Google team up to wage legal war against Apple \u2013 MacDailyNews - Welcome Home http://t.co/y75vv7gZ via @sharethis $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $AMZN +26%, $JPM +18%, $GOOG +12%, $CAT -60%, $WAG -39%, $INTC -19% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"11:02","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Why Amazon (AMZN) Isn\u0027t Ready to Compete With Apple (AAPL), Nokia (NOK ...: Why Amazon (AMZN) Isn\u0027t Ready... http://t.co/iYpoeRrB","lbl":"Negative"}
+,{"time":"11:45","usr":"businessinsider","txt":"10 Essential Tips And Tricks For Jelly Bean, The New Version Of Android $GOOG by @stevekovach http://t.co/06TmxEXH","lbl":"Neutral"}
+,{"time":"11:45","usr":"SAI_Tools","txt":"10 Essential Tips And Tricks For Jelly Bean, The New Version Of Android $GOOG by @stevekovach http://t.co/MaJ42Ce3","lbl":"Neutral"}
+,{"time":"11:45","usr":"SAI","txt":"10 Essential Tips And Tricks For Jelly Bean, The New Version Of Android $GOOG by @stevekovach http://t.co/IJYgRwJl","lbl":"Neutral"}
+,{"time":"12:42","usr":"BlueFielder","txt":"$GOOG about to open the hatch to 580","lbl":"Positive"}
+,{"time":"13:52","usr":"wallstCS","txt":"Apple GRANTED Samsung Legal Victory and 4 Tech Titans Charting Waters http://t.co/1wXM5qhX $FB $AAPL $GOOG $MSFT $INTC #mkt #stocks","lbl":"Neutral"}
+,{"time":"13:53","usr":"valtheegal","txt":"@CNET Think of this as an extension of the never-ending OSX-Windows War. $AAPL $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"14:00","usr":"thefinancepress","txt":"$GOOG 5 Dividend Stocks To Buy And Hold Forever: 5 Dividend Stocks To Buy And Hold Forever Seeking Alpha - 6 mi... http://t.co/rNhPc3wC","lbl":"Positive"}
+,{"time":"15:12","usr":"barronstechblog","txt":"AAPL: iPhone Estimate Risk Ahead of FYQ3, Says Wedge - Tech Trader Daily - $AAPL $RIMM $GOOG $MSFT $NOK $005930KS http://t.co/5cSGKPse","lbl":"Neutral"}
+,{"time":"15:14","usr":"barronstechblog","txt":"Yahoo!, Facebook Confirm Partnership - Tech Trader Daily - Barron\u0027s $FB $YHOO $GOOG $MSFT http://t.co/hBtyyGuV","lbl":"Neutral"}
+,{"time":"15:30","usr":"ghugo74","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"18:30","usr":"BigTicks","txt":"$GOOG News: 5 Dividend Stocks To Buy And Hold Forever http://t.co/gARTehZG #GOOG #Dividend #Forever","lbl":"Positive"}
+,{"time":"18:30","usr":"BigTicks","txt":"$GOOG News: 5 Dividend Stocks To Buy And Hold Forever http://t.co/KT8ydD3O #GOOG #Dividend #Forever","lbl":"Neutral"}
+,{"time":"18:32","usr":"pennystockguys","txt":"$GOOG - Google Seeks $4 Million From Oracle for Trial Costs http://t.co/6FnGti8H","lbl":"Neutral"}
+,{"time":"18:32","usr":"ADVFNplc","txt":"$GOOG - Google Seeks $4 Million From Oracle for Trial Costs http://t.co/znVzo5z2","lbl":"Negative"}
+]

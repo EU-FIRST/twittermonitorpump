@@ -1,0 +1,18 @@
+[
+{"time":"3:27","usr":"Patokaos","txt":"RT @TheStreet: Apple Poised to Move Higher http://t.co/dIdzct73 $AAPL $GOOG $AMZN by @Commodity_Bull","lbl":"Neutral"}
+,{"time":"8:15","usr":"RedDogT3Live","txt":"\u0022@T3Live: @RedDogT3Live & @LindseyCBell dive into $SPX $IBM $MSFT $ORCL $CSCO $INTC $AMZN $AAPL $GS $BAC in the MCE: http://t.co/NkcRkRHd\u0022","lbl":"Neutral"}
+,{"time":"8:18","usr":"caragu","txt":"RT @themotleyfool: Shopping for a tablet for the holidays? We review the top contenders -- and the stocks behind them: http://t.co/1kcaXxM1 $AAPL $MSFT $AMZN","lbl":"Neutral"}
+,{"time":"9:36","usr":"tlmontana","txt":"$AMZN May got to 255\u0027s but lightened up.. Today is the last day for me to make any trades","lbl":"Neutral"}
+,{"time":"10:15","usr":"Kitsune808","txt":"RT @RedDogT3Live: Here\u0027s my T3Live Morning Call http://t.co/wqpBGQYX Market still needs rest to work off overbought-ness $SPY $AAPL $FB $AMZN $BAC","lbl":"Neutral"}
+,{"time":"11:11","usr":"Daniel_Aaron17","txt":"@LongVollllll Would like to see it down to 150-152 area. Should be lower but it always defies gravity like $AMZN. Shorted at $157 and $159","lbl":"Negative"}
+,{"time":"12:11","usr":"Kleptocratia","txt":"Republicans don\u0027t represent most Americans, they represent Wall Street. $AAPL $AMZN $NFLX $SPY $QQQ $C $XLF #fiscalcliff","lbl":"Neutral"}
+,{"time":"13:16","usr":"MomentumPtrsLLC","txt":"$amzn there is a chance of $357.50 but volume is light for that kind of move so far","lbl":"Neutral"}
+,{"time":"13:17","usr":"MomentumPtrsLLC","txt":"\u0022@MomentumPartnersLLC: $AMZN there is a chance of $357.50 but volume is light for that kind of move so far\u0022 sorry 257.50 lol","lbl":"Positive"}
+,{"time":"14:33","usr":"Fitzstock2004","txt":"@tpetrone22 u know the stock i like $amzn $pcln $ebay and $bac.......only stock i traded this afternoon was $bac weekly calls....GL","lbl":"Positive"}
+,{"time":"15:12","usr":"Corkviews","txt":"$AMZN nhods hehe","lbl":"Positive"}
+,{"time":"15:14","usr":"tlmontana","txt":"$AMZN 255\u0027s B-I-N-G-O!! Ring Those Cash Registers","lbl":"Neutral"}
+,{"time":"15:54","usr":"smendozag","txt":"Holding $sbux will expires worthless?, $fb ripping and keeping it, $lulu into earnings-speculation, $Qihu 1/4 remain , $amzn ripping-keeping","lbl":"Positive"}
+,{"time":"16:59","usr":"wallstCS","txt":"Microsoft Enters Cloud Price War, Pandora\u0027s Rough Patch: Tech Biz Wrap http://t.co/RASI0PmD $MSFT $GOOG $AMZN $P $AAPL #stocks","lbl":"Neutral"}
+,{"time":"16:59","usr":"xtranger51","txt":"Stocks I want to LONG at some point: $BAC, $YHOO, $QCOM, EBAY, $AMZN and some speculative lol $AAPL","lbl":"Positive"}
+,{"time":"21:46","usr":"Rosiat32","txt":"RT @raindeocampo: Will #Apple Buy #3D Systems http://t.co/qHCn4Lzn $AAPL $AMZN $GOOG $DDD $SSYS #3dp #mac #Ipad #3dprinting #tech RT @TheSeek20826344","lbl":"Neutral"}
+]

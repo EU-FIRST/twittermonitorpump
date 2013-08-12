@@ -1,0 +1,19 @@
+[
+{"time":"2:25","usr":"max_options","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/5hJQPE9j #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"6:53","usr":"USwwwStocks","txt":"Google Adds (Even More) Links to the Pentagon http://t.co/4UuFnXCy $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"6:53","usr":"USwwwStocks","txt":"Zynga Files Registration Statement for Proposed Secondary Offering http://t.co/ZQyRB7hu $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"6:59","usr":"JeffBessling","txt":"@SammyWalrusIV $AMZN is the opposite of $AAPL w/ respect to valuation. Expectations wildly out of line with performance. Time corrects this.","lbl":"Negative"}
+,{"time":"8:09","usr":"insidermonkey","txt":"Hard Times Ahead for Amazon $AMZN: Amazon (AMZN) has its hands in a lot of pies right now. In addition to its on... http://t.co/OQ7D9QlN","lbl":"Negative"}
+,{"time":"8:09","usr":"ReneeOFarrell","txt":"Hard Times Ahead for Amazon $AMZN: Amazon (AMZN) has its hands in a lot of pies right now. In addition to its on... http://t.co/reGD9xwe","lbl":"Negative"}
+,{"time":"8:15","usr":"wallstreet1928","txt":"RT @firstadopter: \u0022Soros, Ken Heebner, Andreas Halvorsen, Julian Robertson...sold out of their respective positions in $AMZN during Q4\u0022 http://t.co/QOgB0vaL","lbl":"Negative"}
+,{"time":"8:16","usr":"biggercapital","txt":"3000 more movies (17,000 totl) streaming for free on device you can fit in your pocket Yup the Fire sucks big time. Innovation so suck $AMZN","lbl":"Negative"}
+,{"time":"11:25","usr":"61point8","txt":"$AMZN > Yesterday, it dipped down to 180.77, but managed to close above the 50-ma. Today, it\u0027s got a different tone to it.","lbl":"Positive"}
+,{"time":"12:09","usr":"USwwwStocks","txt":"Mythbusters, Cake Boss come to Amazon\u0027s instant video service http://t.co/lsFpnvR1 $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"12:09","usr":"USwwwStocks","txt":"Amazon Announces Increased Prime Instant Video Selection via Digital Video Licens http://t.co/seeOtlh6 $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"12:09","usr":"USwwwStocks","txt":"Zynga plans secondary offering to fend off stock price drop http://t.co/yAn2ik3L $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"12:09","usr":"USwwwStocks","txt":"Zynga holders plan to sell up to $400M in stock http://t.co/hVP2a2Ej $GOOG $FB $LNKD $PCLN $AMZN #internet","lbl":"Neutral"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"A New Media Portfolio For Aggressive Long-Term Investors http://t.co/15RRq8e0 $AAPL $AMZN $BCE $DIS $NFLX $P $RCI $SIRI $TWX","lbl":"Neutral"}
+,{"time":"14:44","usr":"andrewnyquist","txt":"@MarketPlunger Older chart, but $AMZN sitting right on 5 year trendline: http://t.co/yD7y5zQH 180 closing basis important support imho.","lbl":"Neutral"}
+,{"time":"14:45","usr":"TraderGeek","txt":"@KeithMcCullough Which looks worse, $AMZN or $BIDU?","lbl":"Negative"}
+,{"time":"19:16","usr":"TMFJMo","txt":"Video @MarketFoolery; Will This Tablet Burn Investors? ($AAPL, $AMZN, $BKS, $GOOG) http://t.co/7CFgxEk1","lbl":"Neutral"}
+]

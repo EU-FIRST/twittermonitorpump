@@ -1,0 +1,33 @@
+[
+{"time":"4:13","usr":"ellenademon","txt":"RT @qineqt: Buy Target: 2.3% Dividend Yield, Cheap Valuations And A Move To Meet Online Retailers\u0027 Pricing http://t.co/yMuE3O4t $AMZN $BBY","lbl":"Neutral"}
+,{"time":"7:13","usr":"AISINFUND","txt":"RT @TheStreet: Amazon Battles Apple In The Classroom - http://t.co/60CmcgJh by @GaryKrakow $AMZN $AAPL $FB","lbl":"Neutral"}
+,{"time":"9:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:46am: 245.04 +0.19 (+0.08%).","lbl":"Neutral"}
+,{"time":"9:18","usr":"investorsmosaic","txt":"Amazon the ad company. $AMZN http://t.co/Vgkvlcce","lbl":"Neutral"}
+,{"time":"9:33","usr":"MikeTsangaris","txt":"Impressive customer service from $AMZN. As soon as I closed the phone I received an email with a recap of how to handle the issue","lbl":"Positive"}
+,{"time":"10:31","usr":"barronstechblog","txt":"AAPL: Better Mobile Monetization than GOOG, Says Raymond James - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $MSFT $AMZN http://t.co/7uD5XZyV","lbl":"Neutral"}
+,{"time":"11:08","usr":"OutsiderTrading","txt":"RT @CoryTV: $AMZN gets a traffic pop from #BindersFullOfWomen. 204 hilarious customer reviews for this Avery 3-ring binder. http://t.co/xzwduOkz","lbl":"Neutral"}
+,{"time":"11:42","usr":"UdallTechStrat","txt":"@chrisbeanie1 @takingstock614 Chris, u\u0027d swap $goog for $amzn?? Not me but doesn\u0027t mean I don\u0027t dig ur stuff.","lbl":"Neutral"}
+,{"time":"11:59","usr":"TylerHKling","txt":"http://t.co/gTAR7C7W $120.00 profit in $AMZN vo bread and butter strategy, nice small position with nice profits","lbl":"Positive"}
+,{"time":"12:11","usr":"manglade","txt":"RT @CoryTV: $AMZN gets a traffic pop from #BindersFullOfWomen. 204 hilarious customer reviews for this Avery 3-ring binder. http://t.co/xzwduOkz","lbl":"Neutral"}
+,{"time":"12:24","usr":"chrisbeanie1","txt":"RT @UdallTechStrat: @chrisbeanie1 @takingstock614 Chris, u\u0027d swap $goog for $amzn?? Not me but doesn\u0027t mean I don\u0027t dig ur stuff.","lbl":"Positive"}
+,{"time":"12:26","usr":"JeffBessling","txt":"@SammyWalrusIV $MSFT All time (50%) $MSFT 52 week high (12.6%) $AMZN (9%)","lbl":"Neutral"}
+,{"time":"12:42","usr":"WatermanLXXIII","txt":"RT @WatermanLXXIII: \u0022Bears in real danger tough till $SPY breaks 145.33. [...] $AAPL, $AMZN, $QCOM, $MSFT in down mode\u0022 Yup, they are...","lbl":"Neutral"}
+,{"time":"13:19","usr":"paulwoll","txt":"$AMZN looks like nice short below 238.50... Earnings on 10/25.","lbl":"Negative"}
+,{"time":"13:19","usr":"SuzyQJaco","txt":"@z8angela Angela do you have a read on $AMZN I think it has some serious downside potential. Thank you","lbl":"Negative"}
+,{"time":"14:44","usr":"FlyBoyKhi","txt":"That\u0027s awesome RT @SAI: Google Is Planning A $99 Tablet For The Holidays $GOOG $AMZN by @jyarow http://t.co/pk0Xe1Eq","lbl":"Neutral"}
+,{"time":"14:45","usr":"JeffMacke","txt":"I tried Showrooming at $BBY. These are $20 cheaper at $AMZN. I guess it\u0027ll be another 3 days before I become a pro DJ http://t.co/q5bUIGPR","lbl":"Neutral"}
+,{"time":"15:10","usr":"HarryWanger","txt":"$AMZN Still surprised this didn\u0027t drop much more. Pretty much just tracked NAZ. $AAPL takes 3.6% hit and only -2% here. Seems odd.","lbl":"Negative"}
+,{"time":"15:46","usr":"RiskReversal","txt":"RT @CNBCOptions: Tonight: Is Amazon $AMZN an amazing short, and will $UPS deliver disappointment? We\u0027ve got the take AND the trades. At 5pm ET on CNBC.","lbl":"Negative"}
+,{"time":"16:31","usr":"CubbieBears","txt":"@KIERMCD not to mention all these key stk\u0027s under the 50 day,,,$AAPL $IBM $AMZN $GOOG $ORCL $MSFT $ $LNKD $EQIX $SWI $QQQ etc etc","lbl":"Negative"}
+,{"time":"16:32","usr":"councetx","txt":"@RobertWeinstein $AMZN & $GOOD are aggressive & creative.I like that. Own $AAPL & want 2 see after ~2 yrs when Jobs idea pipeline is empty.","lbl":"Positive"}
+,{"time":"17:05","usr":"hitrdr","txt":"RT @businessinsider: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/r5n2N6KQ","lbl":"Neutral"}
+,{"time":"17:06","usr":"aldovalencia","txt":"RT @businessinsider: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/r5n2N6KQ","lbl":"Neutral"}
+,{"time":"17:06","usr":"jordhy","txt":"RT @businessinsider: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/r5n2N6KQ","lbl":"Neutral"}
+,{"time":"19:06","usr":"JClaytonBell","txt":"RT @businessinsider: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/r5n2N6KQ","lbl":"Neutral"}
+,{"time":"19:08","usr":"hiddenground","txt":"RT @businessinsider: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/KPfuIht8","lbl":"Neutral"}
+,{"time":"20:37","usr":"designCustodian","txt":"RT @SAI: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/WYBpbtRU","lbl":"Neutral"}
+,{"time":"23:32","usr":"Vibroe","txt":"RT @SAI: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/Kh6lZxR7","lbl":"Neutral"}
+,{"time":"23:45","usr":"m2jr","txt":"RT @businessinsider: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/r5n2N6KQ","lbl":"Neutral"}
+,{"time":"23:46","usr":"BigTicks","txt":"$AMZN News: Saraiva Falls in Sao Paulo After Saying No to Deal Report http://t.co/Jr9W4lrZ #After #AMZN #deal","lbl":"Neutral"}
+,{"time":"23:46","usr":"thedrewspencer","txt":"RT @businessinsider: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/r5n2N6KQ","lbl":"Neutral"}
+]

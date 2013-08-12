@@ -1,0 +1,47 @@
+[
+{"time":"0:10","usr":"slatersnotepad","txt":"Thanx to all my Friends & Colleagues for the continued support! Exciting updates w/ $GOOG #Sundance & #500Strong still to come!! #DVDisDEAD","lbl":"Neutral"}
+,{"time":"0:12","usr":"Goodlett","txt":"With #JerryYang now gone from $YHOO company+Board, perhaps new CEO can make it happen w/o interference! http://t.co/yrkX3OAG $GOOG $AOL","lbl":"Neutral"}
+,{"time":"0:17","usr":"markvwes","txt":"#markvwes: Google: consolidation or building support? $GOOG http://t.co/0HmrD8Fm","lbl":"Neutral"}
+,{"time":"2:34","usr":"thefinancepress","txt":"$GOOG Google Rallies Opposition to Anti-Piracy Bill: Google Rallies Opposition to Anti-Piracy Bill Bloomberg - ... http://t.co/Mpze44KN","lbl":"Neutral"}
+,{"time":"2:47","usr":"jfahmy","txt":"Someone put a Groucho Marx mustache on the $GOOG homepage.","lbl":"Neutral"}
+,{"time":"2:50","usr":"cromyz","txt":"RT @SAI: Here\u0027s The Blacked-Out Logo Google Is Using To Protest SOPA $GOOG by @MattRosoff http://t.co/46woqRnV","lbl":"Neutral"}
+,{"time":"7:24","usr":"SA_Market","txt":"Wall Street Breakfast: Must-Know News http://t.co/3c3z3zKB $YHOO $QQQ $USO $GLD $SPY $BAC $BCS $BK $BKU $CAT $CS $GE $GOOG $GS","lbl":"Neutral"}
+,{"time":"7:24","usr":"SA_SPY_ETF","txt":"Wall Street Breakfast: Must-Know News http://t.co/LWkEtgY2 $YHOO $QQQ $USO $GLD $SPY $BAC $BCS $BK $BKU $CAT $CS $GE $GOOG $GS","lbl":"Neutral"}
+,{"time":"7:24","usr":"SA_QQQQ","txt":"Wall Street Breakfast: Must-Know News http://t.co/EfWAzGRy $YHOO $QQQ $USO $GLD $SPY $BAC $BCS $BK $BKU $CAT $CS $GE $GOOG $GS","lbl":"Neutral"}
+,{"time":"7:24","usr":"sa_oil","txt":"Wall Street Breakfast: Must-Know News http://t.co/hIzi44VU $YHOO $QQQ $USO $GLD $SPY $BAC $BCS $BK $BKU $CAT $CS $GE $GOOG $GS","lbl":"Neutral"}
+,{"time":"8:42","usr":"tyrgr","txt":"Polaroid goes digital with new Android camera http://t.co/4ZEy2k0u $GOOG $EK","lbl":"Neutral"}
+,{"time":"9:13","usr":"Minyanville","txt":"Today\u0027s #Stock Upgrades & Downgrades http://t.co/keHzac5V $GOOG $CREE $RL","lbl":"Neutral"}
+,{"time":"9:13","usr":"HFTAlert","txt":"Most Active Algo Symbols for Jan 17th http://t.co/eN0qGZ5p $spy $goog $rimm $msft $F $airm $dct $nok","lbl":"Neutral"}
+,{"time":"9:15","usr":"hwsw_","txt":"RT @SAI: The iPhone Strikes Back! Android\u0027s Share Of New Smartphone Purchases Has Collapsed $GOOG $AAPL by @jyarow http://t.co/GHTnYBK3","lbl":"Negative"}
+,{"time":"9:45","usr":"traderclubtirol","txt":"RT @chartly: Earnings Related Charts of Interest | via @StockSage1 http://t.co/dKBCnCW4 $AXP $GE $GOOG $SLB","lbl":"Neutral"}
+,{"time":"10:12","usr":"barronstechblog","txt":"YHOO: Yang\u2019s Departure Increases Deal Prospects, Says Street - Tech Trader Daily - $YHOO $GOOG $MSFT $IACI $AOL http://t.co/cG4juUxD","lbl":"Neutral"}
+,{"time":"10:12","usr":"Trefis","txt":"Microsoft Announces Skype for Windows Phone, Earnings On Deck http://t.co/C2FernRA $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:57","usr":"TheStreet","txt":"The latest upgrades/downgrades from analysts -- $C $WFC $GOOG $CHK http://t.co/W4ooFof1","lbl":"Neutral"}
+,{"time":"11:30","usr":"KKKTrader","txt":"bot $msft $goog","lbl":"Positive"}
+,{"time":"12:07","usr":"Alfietrade","txt":"$goog looks ready for a sqeeze before earnings","lbl":"Negative"}
+,{"time":"12:10","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/52, $AAPL/39, $GS/32, $GOOG/19, $AMZN/18, $NFLX/16, $MSFT/14, $GMCR/13. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"12:12","usr":"StockTwits","txt":"A Breakout Here Might Lead To A Fake Out http://t.co/qlpzeMTT via @ZorTrades $AAPL $GOOG $EBAY $SPY $QQQ $MSFT","lbl":"Negative"}
+,{"time":"12:37","usr":"businessinsider","txt":"This Is The Number One Thing People Are Using Kindle Fires For $AMZN $AAPL $GOOG by @jyarow http://t.co/H8wuEiT2","lbl":"Neutral"}
+,{"time":"13:08","usr":"BioTechReports","txt":"$BPAX is looking to break new HOD for the day....run to $1.25 or higher $BAC, $DNDN, $PFE, $CTIC, $NFLX, $GOOG, $C","lbl":"Neutral"}
+,{"time":"13:10","usr":"AlohaTrades","txt":"Turning my attention away from $PCLN and to $GOOG $AAPL $SSO $QLD $DDM $FCX $UYM and last, but not least $TBT","lbl":"Positive"}
+,{"time":"13:10","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/57, $SPY/54, $GS/32, $AMZN/29, $GOOG/19, $NFLX/18, $FCX/18, $AMRN/14. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:40","usr":"61point8","txt":"$GOOG: this multi-year consolidation took on the shape of an inverted HS. It\u0027s going to.take a major..... http://t.co/BwpjcxI3","lbl":"Positive"}
+,{"time":"14:10","usr":"brokerz_bullish","txt":"RT @NoDoji - $GOOG remains bullish intraday as long as it holds 630.95","lbl":"Positive"}
+,{"time":"14:10","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/50, $SPY/36, $GOOG/28, $AMZN/24, $BAC/11, $FCX/11, $GS/11, $X/10, $LNG/10. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:43","usr":"DiscoverWallSt","txt":"Y U Axing Me: $GOOG$ option prices for Jan are stupid...too overpriced: Y U Axing Me http://t.co/Xeu8lV1P","lbl":"Negative"}
+,{"time":"14:44","usr":"TraderFlorida","txt":"$GOOG adding here - I normally do not hold into earnings per my rules , if I do will sell 80 - 90% and hold the rest","lbl":"Positive"}
+,{"time":"15:21","usr":"STnet","txt":"A Breakout Here Might Lead To A Fake Out http://t.co/Gx4ZlIMR via @ZorTrades $AAPL $GOOG $EBAY $SPY $QQQ $MSFT","lbl":"Negative"}
+,{"time":"15:25","usr":"iparalax","txt":"Taking a small position here L $GOOG @$632.60 (first time trading $GOOG) wish me luck!","lbl":"Positive"}
+,{"time":"15:25","usr":"ManiOhli","txt":"Option Millionaires: Y U Axing Me: I bought $GOOG OTM calls (710) a couple http://t.co/05z0AvRy","lbl":"Positive"}
+,{"time":"16:14","usr":"StocialPicks","txt":"Emily A. made a pick on Stocial. Long $GOOG at 632.00. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"16:20","usr":"SAI","txt":"The Woman Who Launched Google Wallet Has A New Job $GOOG by @MattRosoff http://t.co/9Dk969eB","lbl":"Neutral"}
+,{"time":"16:59","usr":"OptLiveTradeAU","txt":"New Case Study: $GOOG Call Calendar http://t.co/zK36qP9f","lbl":"Neutral"}
+,{"time":"18:05","usr":"King9999","txt":"RT @gtotoy: i wish i could $GOOG \u0022things to eat in my fridge\u0022 so i wouldn\u0027t have to go downstairs and be disappointed","lbl":"Neutral"}
+,{"time":"18:11","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/38, $SPY/16, $BAC/14, $EBAY/11, $FFIV/11, $GOOG/11, $XLNX/8, $GLD/7. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"18:11","usr":"thetradedotcom","txt":"@JimCramer for $GOOG and $MMI -- have you seen that $MMI has $3.4B cash and tax assets from NOLs worth $4B+ ($700M/year thru 2019)?","lbl":"Positive"}
+,{"time":"20:24","usr":"ETNtrade","txt":"$GOOG Here\u0027s one of our trades on earnings. Take a look, still time to jump onboard with #ETNtrade. #GoogleEarnings http://t.co/lWRVGbbF","lbl":"Positive"}
+,{"time":"20:26","usr":"EddyElfenbein","txt":"It must come as a great shock to people to learn that $GOOG has underperformed the broader market since late 2007. $$","lbl":"Negative"}
+,{"time":"20:29","usr":"best_of_iran","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/G5wBfH8M #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"23:00","usr":"TheStreet","txt":"What\u0027s Next for Web Ads? http://t.co/En1Pjnoy @EricJackson\u0027s analysis of $YHOO, $GOOG and $AOL.","lbl":"Neutral"}
+,{"time":"23:04","usr":"$GOOG","txt":"Google Inc $GOOG Fairly Up. Google and Microsoft Shares in High Demand Before Earnings: http://t.co/bFj9T6MJ","lbl":"Positive"}
+]

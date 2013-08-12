@@ -1,0 +1,34 @@
+[
+{"time":"0:32","usr":"yudejavu","txt":"RT @ivanhoff: Concentrated Portfolios - Tiger Cubs\u0027 Gains Are Largely Thanks to Just A Handfull of Stocks http://t.co/XBGKnaxC $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"0:41","usr":"RajuMalhotra","txt":"Predicting Indian Market in 2013 - how $GOOG $FB $AMZN will fare http://t.co/1Z9AjJRE","lbl":"Neutral"}
+,{"time":"0:51","usr":"RDeanon","txt":"$VRNG @ $6?! now asking7% Running RR on 20.9% $GOOG U.S rev from 3.5% on cont\u0027d willful INFRINGEMENT POST Judgement http://t.co/61Ee6o2m","lbl":"Neutral"}
+,{"time":"7:08","usr":"RssFollow1","txt":"RT @Fitzstock2004: $GOOG has IBD accum/distr of \u0022A-\u0022 ....means buy dips:)","lbl":"Positive"}
+,{"time":"7:18","usr":"dvk1970","txt":"KPN thats what you get defending your old skool state monopoly for years. Time for some innovative players to enter the market $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"8:54","usr":"agara2004","txt":"I hope in the spirit of the holidays, $AAPL & $GOOG can learn to share their $525m Kodak patent gift. @TheStreet ..& avert thermonuclear war","lbl":"Neutral"}
+,{"time":"10:03","usr":"lockingprofits","txt":"$MCP 1at 0.15 No positions in the usual suspects $aapl $goog etc\u2026 I LIKE $PCLN no position yet","lbl":"Neutral"}
+,{"time":"10:05","usr":"takingstock614","txt":"$GOOG holding up very well so far.","lbl":"Positive"}
+,{"time":"10:05","usr":"businessinsider","txt":"Walt Mossberg Tells iPhone Owners To Use Google Maps $AAPL $GOOG by @jyarow http://t.co/Al51X3n1","lbl":"Positive"}
+,{"time":"10:39","usr":"mrjordonez","txt":"Apple, Google, Samsung and more team up in $525M purchase of Kodak patents $GOOG $AAPL http://t.co/witFKUiu","lbl":"Positive"}
+,{"time":"10:40","usr":"asyurei3","txt":"My current positions are $JPM $AMZN $GS $GOOG all short. I got short $GS and $GOOG a bit early they are underwater.","lbl":"Negative"}
+,{"time":"10:41","usr":"TheAnlyst","txt":"RT @BloombergTV: What stocks are you watching? Here are #BTV\u0027s top ten of the day: http://t.co/i3AgCTDM $NAV $MET $GIS $UBS $AA $ORCL $FDX $GOOG $KCG $GM","lbl":"Neutral"}
+,{"time":"11:26","usr":"SeekingAlpha","txt":"A Gameplan For Apple To Keep Its Competitors In Check http://t.co/RCsY3NMy $AAPL $AMZN $GOOG $GRPN $MSFT $NOK $YELP $INTC","lbl":"Neutral"}
+,{"time":"11:28","usr":"GCavaligos","txt":"RT @z8angela: Reversal/stalling action on high flyers: $GOOG $AMZN $REGN,. - REGN has flirted with support level 178 for a while. & now broke down.","lbl":"Negative"}
+,{"time":"12:23","usr":"Sartrecity","txt":"Free Stock Option Trading Lesson Options Trading Entry $GOOG: http://t.co/7UoHskkS via @youtube","lbl":"Neutral"}
+,{"time":"12:24","usr":"businessinsider","txt":"This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/uNZky8d6","lbl":"Neutral"}
+,{"time":"12:24","usr":"SAI","txt":"This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/6POva4Un","lbl":"Neutral"}
+,{"time":"13:23","usr":"khairais","txt":"RT @businessinsider: This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/uNZky8d6","lbl":"Neutral"}
+,{"time":"13:23","usr":"CognitiveBias1","txt":"@newsagg @FreeMrktCptlst $goog low volume backtest over red cloud on daily perhaps.","lbl":"Negative"}
+,{"time":"14:39","usr":"thekeikoshow","txt":"LIVE Free #StockMarket #Trading Webinar Tonite @ 8:30pm ET via $GOOG Hang-Outs. Tweet me questions 2Answer! Will address numerous stocks :)","lbl":"Neutral"}
+,{"time":"14:46","usr":"wjboynton","txt":"$GOOG #Google Maps for iPhone Returns Better Than Ever http://t.co/fMwkCjTV $AAPL #Apple","lbl":"Positive"}
+,{"time":"16:04","usr":"sciencetrader","txt":"my shorts from yesterday $SPY @ 145.40, today $IWM @ 84.15, $GOOG @ 720, $FAS @ 121, use stops","lbl":"Negative"}
+,{"time":"16:07","usr":"wallstCS","txt":"States Vie for Rumored Apple Chip Manufacturing Plant http://t.co/YwtQ3C2i $AAPL $NKE $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"16:13","usr":"Sheridanoptions","txt":"RT @CBOE_TV: Options Safari: Dan @SheridanOptions discusses a $GOOG diagonal & sings jingle bells in this holiday epidode $$ http://t.co/WynBH7Ly","lbl":"Neutral"}
+,{"time":"18:24","usr":"MogulAzam","txt":"RT @Benzinga: Arris to Buy Motorola Home Business for $2.35B $ARRS $GOOG","lbl":"Neutral"}
+,{"time":"18:26","usr":"barronstechblog","txt":"Arris to Buy Google Motorola \u2018Home\u2019 Business for $2.35B in Cash and Stock - Tech Trader Daily - $GOOG $ARRS $CSCO http://t.co/zS2PoeSL","lbl":"Neutral"}
+,{"time":"18:26","usr":"danielhsqr","txt":"$goog sells mot home to $ARRS, as we expected, no mention of pending litigation with $TIVO","lbl":"Neutral"}
+,{"time":"19:50","usr":"JeffSabatAge","txt":"RT @JonErlichman: VIDEO: The @Youtube year in numbers (in less than a minute) http://t.co/zajBkV1m $GOOG","lbl":"Neutral"}
+,{"time":"19:51","usr":"BenCBanks","txt":"I AM also available over Skype if anyone would rather talk over that. If that interests you... $SPY $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"23:08","usr":"thefinancepress","txt":"$GOOG FTC investigation on Google Inc. (NASDAQ:GOOG) - MSFT, YELP, EXPE, & JPM: FTC investigation on Google Inc... http://t.co/NzVXr8Bg","lbl":"Neutral"}
+,{"time":"23:08","usr":"MooneyAlpha","txt":"Old tech from Rochester continues its slow and steady death with $EK selling its patents to $GOOG & $AAPL.","lbl":"Neutral"}
+,{"time":"23:15","usr":"jamescallahan","txt":"RT @PeterGhostine: $GOOG day trade for tomorrow: down to 713 on a breach of 719.","lbl":"Negative"}
+]

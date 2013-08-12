@@ -1,0 +1,15 @@
+[
+{"time":"7:20","usr":"IRON100A","txt":"RT @TMTanalyst: Here is the link for Chitika Insights report on tablet web traffic http://t.co/92vaFxOD $AAPL $AMZN $RIMM $BKS","lbl":"Neutral"}
+,{"time":"7:20","usr":"RogueStockTradr","txt":"Some fakeass bouncing pre-market this AM, favoring S or W P across the board. Will take off remaining $AMZN 240 Jul C this AM as well","lbl":"Neutral"}
+,{"time":"10:22","usr":"TraderFlorida","txt":"$AMZN http://t.co/xOQGoAAX Holding up well since gapping up last week on strong earnings POSTED VIDEO","lbl":"Positive"}
+,{"time":"11:19","usr":"iHeartNFLX","txt":"iTV mobile offers w/ orig contnt $NFLX $AMZN $GOOG r danger 4 TV due 2 more efficient consumption 4 consumers, price @ low portion of income","lbl":"Neutral"}
+,{"time":"12:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 225.80 +1.81 (+0.81%).","lbl":"Neutral"}
+,{"time":"14:50","usr":"ECONgeek947","txt":"$NFLX $AMZN $VZ $CSTR...iTV 2 major adv vs cable are pricing & B2C delivery of content, similar to JIT delivery innovation, plenty of $ 4all","lbl":"Neutral"}
+,{"time":"14:51","usr":"Finster947","txt":"RT @ECONgeek947: $NFLX $AMZN $VZ $CSTR...iTV 2 major adv vs cable are pricing & B2C delivery of content, similar to JIT delivery innovation, plenty of $ 4all","lbl":"Neutral"}
+,{"time":"15:32","usr":"crashdev","txt":"$AMZN is our motor MT @TrevorAGilbert @JeffBezos is Too Good at Running @Amazon to Care About the SEA Startup Ecosystem http://t.co/UiLWBfna","lbl":"Positive"}
+,{"time":"15:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 4:00pm: 225.16 +1.17 (+0.52%).","lbl":"Neutral"}
+,{"time":"17:56","usr":"jhaveri","txt":"bets on who $amzn buys next\u2026. bonobos? bluefly? http://t.co/FiewXl1P","lbl":"Neutral"}
+,{"time":"17:56","usr":"meryljob","txt":"RT @SAI: Jeff Bezos Wears Prada Jeans\u2014But Doesn\u0027t Sell Them $AMZN http://t.co/3bPWm6gL","lbl":"Neutral"}
+,{"time":"19:41","usr":"thewad71","txt":"@HedgefundPLAY I agree but how come $AMZN still gets a pass.","lbl":"Negative"}
+,{"time":"19:52","usr":"TraderNewburgh","txt":"$CMG http://t.co/ExEl4vbN Stock Setups VIDEO part II - $GLD $LULU $AMZN $Z $QQQ $SPY","lbl":"Neutral"}
+]

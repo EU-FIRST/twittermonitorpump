@@ -1,0 +1,53 @@
+[
+{"time":"5:36","usr":"SAI","txt":"10 Things You Need To Know This Morning $FB $GOOG $AAPL $MSFT $WMT $AMZN $P by @nichcarlson http://t.co/EKs2jPFs","lbl":"Neutral"}
+,{"time":"5:36","usr":"nichcarlson","txt":"10 Things You Need To Know This Morning $FB $GOOG $AAPL $MSFT $WMT $AMZN $P http://t.co/rH5n6KOm","lbl":"Neutral"}
+,{"time":"5:38","usr":"Tatianalady19","txt":"10 Things You Need To Know This Morning $FB $GOOG $AAPL $MSFT $WMT $AMZN $P by @nichcarlson http://t.co/b41r7aa2","lbl":"Neutral"}
+,{"time":"5:45","usr":"heidzir","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $GOOG $AAPL $MSFT $WMT $AMZN $P by @nichcarlson http://t.co/EKs2jPFs","lbl":"Neutral"}
+,{"time":"7:21","usr":"thehappytrader","txt":"$VRNG any way you look at it, has to be higher damages or wouldn\u0027t ask $GOOG for figures","lbl":"Neutral"}
+,{"time":"7:29","usr":"MicahJU","txt":"Seemingly good analysis on $VRNG and $GOOG case. YouTube vid: http://t.co/2BODQTDr (Thanks @Cham for this link)","lbl":"Neutral"}
+,{"time":"7:30","usr":"SeekingAlpha","txt":"Pandora\u0027s Acquisition Prospects Jump http://t.co/GAYlxjT9 $AAPL $AMZN $FB $GOOG $SIRI $P","lbl":"Neutral"}
+,{"time":"7:33","usr":"SJosephBurns","txt":"My only position going into this morning is long $AAPL with in the money weekly options. I am eyeing $GOOG","lbl":"Neutral"}
+,{"time":"8:15","usr":"wallstCS","txt":"Google Investigated for Anti-Trust Violations and 4 Morning Hot Stocks Attracting Attention http://t.co/jItTYtRq $FB $GOOG $GRPN $TM $HELE","lbl":"Negative"}
+,{"time":"8:16","usr":"FindCarlos32","txt":"RT @SAI: How Apple Will Keep The iPad Mini As Cheap As Google\u0027s Android Tablets $AAPL $GOOG by @stevekovach http://t.co/Sidh7ocv","lbl":"Neutral"}
+,{"time":"8:16","usr":"markcahill","txt":"RT @SAI: How Apple Will Keep The iPad Mini As Cheap As Google\u0027s Android Tablets $AAPL $GOOG by @stevekovach http://t.co/ENc7pKfK","lbl":"Neutral"}
+,{"time":"8:51","usr":"CAMAR024","txt":"sold $GOOG puts @ 6 dang- didn\u0027t think market rip was coming","lbl":"Negative"}
+,{"time":"8:51","usr":"newsagg","txt":"$GOOG this is a 38.2% pullback http://t.co/y0Mid3oQ","lbl":"Negative"}
+,{"time":"8:52","usr":"SJosephBurns","txt":"$GOOG had its 1st successful bounce off the 21 day ema.","lbl":"Positive"}
+,{"time":"9:09","usr":"SKSMediaHQ","txt":"RT @BergenCapital: $NXPI weakness - OTR has report out there that $BRCM going to be in $GOOG new products for NFC not $NXPI.","lbl":"Neutral"}
+,{"time":"9:11","usr":"pelias01","txt":"Valuation Of Internet Stocks, Or \u0027Gold Mine\u0027 Gambling http://t.co/YHXGBSXO $GOOG","lbl":"Neutral"}
+,{"time":"9:55","usr":"MarketVest","txt":"RT @kennshaw72: The tech bubble is about to burst, triggered by $AAPL -expect $GOOG $NOK $HPQ to follow in choppy market $SPY $$","lbl":"Neutral"}
+,{"time":"9:57","usr":"ajmcafe","txt":"RT @traderstewie: $GOOG - http://t.co/iRIAKtm5 [ http://t.co/6EvlrS7S ] $GOOG trying to turn of its 20 day MA but the quality of the bounce is important now.","lbl":"Neutral"}
+,{"time":"9:57","usr":"CoryTV","txt":".@OpenCoSF arranges visits with $CRM, $GRPN, $GOOG, $TRLA \u2013 it\u0027s like the Montgomery Conf. w/out the trade requirements....","lbl":"Neutral"}
+,{"time":"9:57","usr":"yonsu18","txt":"@SJosephBurns thanks for the post on $GOOG was trading $AAPL but got in just after you on $GOOG wouldn\u0027t have without your post, thanks","lbl":"Positive"}
+,{"time":"10:49","usr":"afilonov","txt":"Commented on: \u0022Valuation Of Internet Stocks, Or \u0027Gold Mine\u0027 Gambling\u0022 http://t.co/SNFzp8sJ $GOOG","lbl":"Neutral"}
+,{"time":"10:52","usr":"rfrancog","txt":"RT @SAI: Microsoft Office Will Land On iPhones, iPads, And Android Phones Early Next Year $MSFT $GOOG $AAPL by @officialKLS http://t.co/sZo3EWA6","lbl":"Neutral"}
+,{"time":"11:48","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/79sPg9EI","lbl":"Neutral"}
+,{"time":"12:30","usr":"BloombergWest","txt":"#Google could be going upscale with a new 10-inch tablet. @shim_richard gives us the details. http://t.co/N70ks5Io $GOOG #tech","lbl":"Positive"}
+,{"time":"12:30","usr":"yonsu18","txt":"$AAPL and $GOOG patience required here","lbl":"Neutral"}
+,{"time":"12:31","usr":"wallstCS","txt":"Wal-Mart vs Amazon: The Battle Continues http://t.co/oTHLVNBY $WMT $AMZN $WFC $UPS $AAPL $GOOG $DIA $SPY $QQQ","lbl":"Negative"}
+,{"time":"13:07","usr":"launchticker","txt":"Sparrow reportedly talked to $fb before agreeing to $goog acquisition; deal less than $20M press reported http://t.co/McTRJcbK","lbl":"Positive"}
+,{"time":"13:09","usr":"BlueFielder","txt":"$GooG SOLD remainder of 750 $PUTS @ assorted $ here for just over plus 4.00 gain > http://t.co/UHrvGwoc","lbl":"Positive"}
+,{"time":"13:10","usr":"MarketCurrents","txt":"YouTube (GOOG) now gets a quarter of its video views from mobile devices, says exec Robert Kyncl, who... http://t.co/cUXS57oW $GOOG","lbl":"Neutral"}
+,{"time":"13:54","usr":"GGAA777","txt":"RT @SAI: Google\u0027s Next Smartphone Could Be Announced In A Few Weeks $GOOG by @stevekovach http://t.co/Lj0TZZoX","lbl":"Positive"}
+,{"time":"13:55","usr":"LukeScuba","txt":"RT @SAI_Tools: Google\u0027s Next Smartphone Could Be Announced In A Few Weeks $GOOG by @stevekovach http://t.co/nUcO8YLz","lbl":"Neutral"}
+,{"time":"13:55","usr":"MockTrade","txt":"...shld now b the focus 4 a potential bias 4 rest of the week & of course 4 a energy gage 4 last hr 2day still use $AAPL/637 & $GOOG 742/41.","lbl":"Neutral"}
+,{"time":"15:45","usr":"ijcasas","txt":"RT @tolcher: A little birdie told me: Sparrow the company behind the awesome email client was in talks with $FB before $GOOG acquired....","lbl":"Neutral"}
+,{"time":"15:46","usr":"thefinancepress","txt":"$GOOG Exclusive: EBay Tests Deals on Services, Takes on Groupon: Exclusive: EBay Tests Deals on Services, Takes... http://t.co/O1lpnfRJ","lbl":"Neutral"}
+,{"time":"15:46","usr":"shopbuyenjoy","txt":"Google Nexus 7 http://t.co/lgrMHdx0 Best Tablet on the market #google $GOOG #justgoogleit #googlefans #nexus7 #tablets #holiday #shopaholics","lbl":"Neutral"}
+,{"time":"17:03","usr":"GeneSwan3","txt":"@Parabolicplease sounds like good news to me. Ceo states $vrng wouldnt be suing $goog if they didnt have a very solid case.","lbl":"Negative"}
+,{"time":"17:03","usr":"thestockbandit","txt":"High-beta leadership lacking $AAPL $BIDU $GOOG $FFIV $CMG $AMZN $PCLN - http://t.co/v9iaOrjB","lbl":"Neutral"}
+,{"time":"17:04","usr":"sandeepbhavsar","txt":"@UdallTechStrat @Minyanville @MichaelSedacca Ah! Let me see, I know $sndk is your fav this Q3, which one is next outside of $appl $goog thx","lbl":"Neutral"}
+,{"time":"17:08","usr":"JRNavarro75","txt":"$GOOG RT @CNET: Google Cultural Institute-- the company\u0027s effort to digitize historical docs -now includes new exhibits http://t.co/veqSrDyx","lbl":"Neutral"}
+,{"time":"18:35","usr":"CNNMoney","txt":"RT @julpepitone: Google awards $60,000 prize for Chrome hack http://t.co/pKSAmpZr via @CNNMoneyTech $GOOG","lbl":"Neutral"}
+,{"time":"18:36","usr":"RealCrystalBall","txt":"RT @julpepitone: Google awards $60,000 prize for Chrome hack http://t.co/1jyFbBcQ via @CNNMoneyTech $GOOG #Stocks","lbl":"Neutral"}
+,{"time":"18:36","usr":"JoeyVillarinte","txt":"RT @julpepitone: Google awards $60,000 prize for Chrome hack http://t.co/pKSAmpZr via @CNNMoneyTech $GOOG","lbl":"Neutral"}
+,{"time":"19:55","usr":"BGLyons","txt":"\u201C@SAI: Google Chairman: We\u0027ll Have A Billion Android Devices In A Year $GOOG by @owenthomas http://t.co/EdM8dYr4\u201D","lbl":"Positive"}
+,{"time":"19:58","usr":"GloCid1","txt":"\u201C@SAI: Google Chairman: We\u0027ll Have A Billion Android Devices In A Year $GOOG by @owenthomas http://t.co/Y2svEwIP\u201D - clash of Tech Titans","lbl":"Positive"}
+,{"time":"19:59","usr":"launchticker","txt":"$goog+ Local changes biz rating sys from 1-5 scale to poor-excellent http://t.co/IYcWzbyD http://t.co/brvys9zi","lbl":"Neutral"}
+,{"time":"20:00","usr":"125_peter","txt":"RT @PremiumReport: http://t.co/Rt2CNAkX <--- LEAKED $SANP Pre Promotion Report! $APDN $CWET $GRPN $ZNGA $AAPL $GOOG $SEFE $RAYS $LEXG $DROP $ACTC $LBSV $MCET","lbl":"Neutral"}
+,{"time":"22:01","usr":"sakal66","txt":"RT @CNNMoney: Hacker known only as \u0022Pinkie Pie\u0022 has taken home a second $60,000 prize for uncovering Google Chrome exploit. http://t.co/xvKqd1Tw $GOOG","lbl":"Neutral"}
+,{"time":"22:01","usr":"Tatts_N_Dreads","txt":"RT @CNNMoney: Hacker known only as \u0022Pinkie Pie\u0022 has taken home a second $60,000 prize for uncovering Google Chrome exploit. http://t.co/xvKqd1Tw $GOOG","lbl":"Neutral"}
+,{"time":"22:01","usr":"wjboynton","txt":"Apple After The Riot, Shortage, Strike, Etc.: Still A Buy? http://t.co/vo6WV5Ku $GOOG $MSFT $NOK $RIMM $AAPL $SSNLF.PK","lbl":"Neutral"}
+,{"time":"22:02","usr":"AbilGhost","txt":"RT @CNNMoney: Hacker known only as \u0022Pinkie Pie\u0022 has taken home a second $60,000 prize for uncovering Google Chrome exploit. http://t.co/xvKqd1Tw $GOOG","lbl":"Neutral"}
+,{"time":"23:57","usr":"stockassassin74","txt":"RT @EXPstocktrader: Thomson Reuters News & Insight regarding $VRNG $GOOG http://t.co/O5PlFTAY","lbl":"Neutral"}
+]

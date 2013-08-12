@@ -1,0 +1,15 @@
+[
+{"time":"0:04","usr":"commoditynews1","txt":"RT @KitcoNewsNow: RT @KitcoNewsNow: METALS OUTLOOK: Gold Prices/ $GC_F May Rise, But Watch Equities For Wobbling Market Leaders Like $APPL & $GOOG \u25B8 h ...","lbl":"Neutral"}
+,{"time":"7:51","usr":"amit6060","txt":"RT @SAI: RT @SAI: Apple Never Planned To Include A Mapping App On The iPhone $AAPL $GOOG by @_dtl http://t.co/km0diUiz","lbl":"Neutral"}
+,{"time":"7:52","usr":"theRealMzYaya","txt":"RT @SAI_Tools: RT @SAI_Tools: Apple Never Planned To Include A Mapping App On The iPhone $AAPL $GOOG by @_dtl http://t.co/NDhKREYH","lbl":"Neutral"}
+,{"time":"7:54","usr":"Sfarhanzafar","txt":"RT @SAI: RT @SAI: Apple Never Planned To Include A Mapping App On The iPhone $AAPL $GOOG by @_dtl http://t.co/km0diUiz","lbl":"Neutral"}
+,{"time":"7:56","usr":"Sonnenglanz","txt":"RT @SeekingAlpha: RT @SeekingAlpha: Will Google Be Generous To Us Once Again? http://t.co/q9inawFo $GOOG","lbl":"Positive"}
+,{"time":"9:52","usr":"RobertWeinstein","txt":"Can Dell Buy Its Way Out of Irrelevance? - TheStreet http://t.co/gRIwSpFv via @TheStreet $DELL $GOOG $AMZN $AAPL $MSFT $RIMM","lbl":"Neutral"}
+,{"time":"9:58","usr":"StockWallStreet","txt":"RT @iamwallstreet: RT @iamwallstreet: Everyone to to http://t.co/6MJ2SKD4 & read some great articles I published yesterday, more to come! $AAPL $GOOG $ ...","lbl":"Neutral"}
+,{"time":"9:59","usr":"ignaciolomas","txt":"RT @SAI: RT @SAI: If You\u0027re Thinking About Buying A Nexus 7 Tablet, There\u0027s One Big Reason To Do It Today $GOOG by @_dtl http://t.co/rcKsEEMN","lbl":"Neutral"}
+,{"time":"10:01","usr":"StockTwits","txt":"Market View: A More Ambitious Top http://t.co/UraeVQlv via @DynamicHedge $SPY $GOOG $IBM","lbl":"Neutral"}
+,{"time":"13:00","usr":"FreeMrktCptlst","txt":"#Android over the next year as $AAPL users turns #Maps into a equally useful app? Was it worth it? I know $YELP is happy. $GOOG","lbl":"Neutral"}
+,{"time":"13:44","usr":"tyki_mo","txt":"RT @ It can\u0027t be denied that google ads have the best algorithms out there!!! $goog","lbl":"Positive"}
+,{"time":"18:38","usr":"scottysnell","txt":"Compare search results on term \u0027lightning adapter\u0027 $amzn, $goog, $yhoo. Amazon is the only one that works. $AAPL http://t.co/tcwvcaZl","lbl":"Neutral"}
+,{"time":"18:55","usr":"fparvaneh","txt":"RT @SAI: RT @SAI: Apple Never Planned To Include A Mapping App On The iPhone $AAPL $GOOG by @_dtl http://t.co/km0diUiz","lbl":"Neutral"}
+]

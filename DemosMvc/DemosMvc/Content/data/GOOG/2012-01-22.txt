@@ -1,0 +1,18 @@
+[
+{"time":"3:40","usr":"GinauMathurin","txt":"RT @SAI: Google\u0027s Latest Trick To Get New Users On Google+ $GOOG by @mattlynley http://t.co/FQWFWPIs","lbl":"Neutral"}
+,{"time":"4:11","usr":"$GOOG","txt":"How things change in a New York minute $GOOG!","lbl":"Neutral"}
+,{"time":"4:51","usr":"$GOOG","txt":"RT @SAI: Google Pays Contractors $14.50 An Hour To Rate Its Search Results $GOOG by @MattRosoff http://t.co/OSfLIT1O","lbl":"Neutral"}
+,{"time":"4:52","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AAPL $MSFT $GOOG @simplestockqtes http://t.co/eRSxySuh","lbl":"Neutral"}
+,{"time":"10:09","usr":"RichardWilks","txt":"I don\u0027t buy this. To me $goog is at risk to windows, not $appl. Windows Phone Will Beat The iPhone By 2015 http://t.co/Vv8Ar6ZW via @zite","lbl":"Neutral"}
+,{"time":"10:09","usr":"Flexus_Group","txt":"Google Kills Photo-Sharing Service Picnik, Plus More Products $GOOG by @MattRosoff http://t.co/9F61p6Pr","lbl":"Positive"}
+,{"time":"10:10","usr":"Flexus_Group","txt":"Apple Is Now Twice As Valuable As Google $GOOG $AAPL by @jyarow http://t.co/crdqcqrU","lbl":"Neutral"}
+,{"time":"13:48","usr":"eyespyfx","txt":"RT @SAI: Another Analyst Firm Says That Windows Phone Will Beat The iPhone By 2015 $MSFT $AAPL $GOOG by @hamburger http://t.co/m9L4Hi9X","lbl":"Neutral"}
+,{"time":"13:48","usr":"thefinancepress","txt":"$GOOG PREVIEW - Apple 2012: Smooth sailing, for the most part: PREVIEW - Apple 2012: Smooth sailing, for the mo... http://t.co/MlCYSkiB","lbl":"Neutral"}
+,{"time":"14:03","usr":"BearBullTrader","txt":"Google $GOOG Is Already Using SOPA-Like Censorship http://t.co/bcRJgL6F","lbl":"Positive"}
+,{"time":"14:04","usr":"the_real_bob_sa","txt":"Correlation of CNBC pornograpy articles to market preformance? http://t.co/aJ6vkHiB $tna $bac $goog $c $msft $bidu $ibm $axp","lbl":"Neutral"}
+,{"time":"16:50","usr":"optionspirate","txt":"Correlation of CNBC pornograpy articles to market preformance? http://t.co/xcTGbpIx $tna $bac $goog $c $msft $bidu $ibm $axp","lbl":"Neutral"}
+,{"time":"17:23","usr":"AlbuquerqueAnd_","txt":"RT @SAI: Another Analyst Firm Says That Windows Phone Will Beat The iPhone By 2015 $MSFT $AAPL $GOOG by @hamburger http://t.co/m9L4Hi9X","lbl":"Neutral"}
+,{"time":"17:47","usr":"party_man2012","txt":"Google X research facility and its secret projects http://t.co/9bzQIQdV #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"21:19","usr":"$GOOG","txt":"@corprebel I should have sold a little $GOOG at $670 :-)","lbl":"Negative"}
+,{"time":"21:24","usr":"seldomawake","txt":"Observation: $GOOG starts a huge move up every Oct. 31. Noted.","lbl":"Positive"}
+]

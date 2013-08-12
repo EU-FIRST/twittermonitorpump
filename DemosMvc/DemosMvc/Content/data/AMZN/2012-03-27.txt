@@ -1,0 +1,41 @@
+[
+{"time":"0:44","usr":"Bluechiptrend","txt":"Watching $MA $AAPL $AMZN (bullish move tomorrow)","lbl":"Positive"}
+,{"time":"0:46","usr":"investlite","txt":"For Tuesday 3/27 - http://t.co/wPUBsItt $PEP $BTU $BIDU $AMZN $BIIB $CXO $QCOM $WYNN $INFA $WFC $DE $PANL $CRM $PETM $GLD","lbl":"Neutral"}
+,{"time":"1:03","usr":"pennies4stocks","txt":"Options for tomorrow $AMZN $AAPL for me","lbl":"Neutral"}
+,{"time":"6:01","usr":"upsidetrader","txt":"NEW POST: STILL ON TRAINING WHEELS http://t.co/OCBtMRlU $AAPL, $AMZN $QQQ $XLF $SPY","lbl":"Neutral"}
+,{"time":"8:04","usr":"OptionsHawk","txt":"$AMZN 185 breakout to 200+ was the easy move- can see a bear case for $210/215 level being simple re-test of trend breakdown...","lbl":"Negative"}
+,{"time":"8:06","usr":"ryandbaird","txt":"RT @OptionsHawk: $AMZN 185 breakout to 200+ was the easy move- can see a bear case for $210/215 level being simple re-test of trend breakdown...","lbl":"Negative"}
+,{"time":"8:07","usr":"Equitykingkong","txt":"$AMZN: looking to sell short above 205","lbl":"Negative"}
+,{"time":"8:43","usr":"Options_Maniac","txt":"I enjoy watching $AMZN. But sweet new highs on $AAPL","lbl":"Neutral"}
+,{"time":"8:43","usr":"lluccipha","txt":"SAI: Amazon Is Going To Step Up Its Assault On The iPad This Year With Three More Kindle Fires $AMZN $GOOG $AAPL by ... http://t.co/Yo4F15Hz","lbl":"Positive"}
+,{"time":"8:44","usr":"barronstechblog","txt":"AAPL: ThinkEquity Ups Target to $700; \u2018Hot\u2019 iPad No Big Deal - Tech Trader Daily - $AAPL $RIMM $AMZN $MSFT $GOOG http://t.co/TNxZXRum","lbl":"Neutral"}
+,{"time":"9:14","usr":"StkConfidential","txt":"Momentum only stock, $AMZN continuing to move higher.","lbl":"Positive"}
+,{"time":"9:52","usr":"Stockalertj","txt":"$AMZN biggest obstacle is 210 area out my position yesterday","lbl":"Negative"}
+,{"time":"9:52","usr":"robertonatale","txt":"RT @SAI: Amazon Is Going To Step Up Its Assault On The iPad This Year With Three More Kindle Fires $AMZN $GOOG $AAPL by @jyarow http://t.co/bUJyh2Wp","lbl":"Neutral"}
+,{"time":"9:53","usr":"Options_Maniac","txt":"$AMZN still working","lbl":"Positive"}
+,{"time":"10:32","usr":"baam60","txt":"short $AMZN 207.46 stop 212.98 swing","lbl":"Negative"}
+,{"time":"10:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:17am: 206.5699 +3.6999 (+1.82%).","lbl":"Neutral"}
+,{"time":"10:33","usr":"CBOE_TV","txt":"In the Money: @AngieMiles reports on: $ARNA, $BIDU, $JPM, $AMZN, RIMM & in an interview w Alex Bernal: #metals. $$ http://t.co/Q3RQs3eU","lbl":"Neutral"}
+,{"time":"10:34","usr":"TraderMichigan","txt":"Cashed out nice gains $AAPL $AMZN $MA. Portfolio new high!","lbl":"Negative"}
+,{"time":"11:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $AAPL +1.08%, $AMZN +2.55%, $GRPN +4.72%, $PURE -11.87%, $GMCR +1.41% http://t.co/p9Pt1poZ #StockWars","lbl":"Positive"}
+,{"time":"11:01","usr":"chiefrocker_dc","txt":"Can someone please tell me if @firstadopter is still short $AMZN? he\u0027s got me blocked from his twitter for no good reason","lbl":"Neutral"}
+,{"time":"11:04","usr":"DailyStockPlays","txt":"RT @TraderFlorida: $AMZN http://t.co/2HNZx7RQ Cleared this next resistance buy area yesterday on volume - heading higher today a nice FTD","lbl":"Positive"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/115, $AFFY/61, $AMZN/50, $MAPP/49, $SPY/40, $LNKD/32, $ARNA/17, $TVIX/17. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:27","usr":"investlite","txt":"$AMZN more sweetness","lbl":"Positive"}
+,{"time":"11:27","usr":"krishope","txt":"$AMZN - out of Apr $Call Verticals at $4.55 with entry @ $2.20 - no reason to hold to expiry with only .45 additional gain on table","lbl":"Neutral"}
+,{"time":"12:52","usr":"dsteele300","txt":"@grassosteve $AMZN still look strong thx ur thu man .Trimming is GOOD $$$","lbl":"Positive"}
+,{"time":"12:56","usr":"optioncommander","txt":"$AMZN +3.26%, 209.53, here we go again. Weekly 215 calls +233% $1.01, let\u0027s go: http://t.co/qMuWMFo2","lbl":"Positive"}
+,{"time":"13:25","usr":"Karter00","txt":"$AMZN http://t.co/v0f1rSLs Nice follow thru day on heavy vol. Will continue to hold- sold 1/2 so far. Will use 208 as support","lbl":"Positive"}
+,{"time":"14:05","usr":"divi","txt":"$AMZN up 3% just because of Harry Potter being on Kindle. Magic, it\u0027s real.","lbl":"Positive"}
+,{"time":"14:06","usr":"newsagg","txt":"$AMZN seeking 5m cloud and 50 ema convergence http://t.co/SdVVUlri","lbl":"Neutral"}
+,{"time":"14:27","usr":"optioncommander","txt":"$AMZN slips 206.67. Weekly 205 puts -51%, 2.00 x 2.03 off 1.20 lows. was tracking volume all day, but bought late http://t.co/tSZNWtfU","lbl":"Negative"}
+,{"time":"14:54","usr":"rr_trades","txt":"$AMZN daily SEQ 9 sell today. Move over 200 dma may shaken out shorts.","lbl":"Negative"}
+,{"time":"14:54","usr":"TradingHeroes","txt":"$AMZN finally showing some life. Looked like a good base, but don\u0027t quote me on that.","lbl":"Neutral"}
+,{"time":"15:52","usr":"ryanjhodges","txt":"isn\u0027t it widely understood whatever trash $AMZN puts out won\u0027t disrupt that market? stock should be hit down not bid up http://t.co/t67Rmmay","lbl":"Negative"}
+,{"time":"17:55","usr":"61point8","txt":"$AMZN > I still feel $215 is in the cards for several technical reasons.","lbl":"Positive"}
+,{"time":"17:58","usr":"1nvestor","txt":"RT @61point8 $AMZN > I still feel $215 is in the cards for several technical reasons. < discuss the Topping Tail for today","lbl":"Positive"}
+,{"time":"17:59","usr":"OptionsTrader82","txt":"RT @1nvestor: RT @61point8 $AMZN > I still feel $215 is in the cards for several technical reasons. < discuss the Topping Tail for today","lbl":"Positive"}
+,{"time":"20:57","usr":"itsjoshnorris","txt":"RT @wallstCS: Tech Business Roundup: Netflix Double-Take, Big Amazon Kindle News http://t.co/yQTfEhcW $SYMC $NFLX $AMZN $GOOG $YELP #mkt","lbl":"Neutral"}
+,{"time":"21:03","usr":"gtlackey","txt":"$STUDY http://t.co/srfBnCTs *New* RS Movers 20pts 5days $PII $AMZN $CHKP $FMC $ADBE $DNDN $NBR $SLB $MDR $R $$","lbl":"Positive"}
+,{"time":"21:13","usr":"ntfri","txt":"Looks like a new start for $AMZN http://t.co/TIOYbeyJ","lbl":"Positive"}
+]

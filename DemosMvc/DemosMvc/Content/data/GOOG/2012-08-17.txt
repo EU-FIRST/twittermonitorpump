@@ -1,0 +1,46 @@
+[
+{"time":"0:20","usr":"ableix","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"0:47","usr":"pennystockguys","txt":"$GOOG - Motorola: Global Layoffs to Affect China, Beijing to Remain Innovation Hub http://t.co/hPTGq4OP","lbl":"Neutral"}
+,{"time":"0:47","usr":"ADVFNplc","txt":"$GOOG - Motorola: Global Layoffs to Affect China, Beijing to Remain Innovation Hub http://t.co/bGsjHXQW","lbl":"Neutral"}
+,{"time":"7:31","usr":"pennystockguys","txt":"$GOOG - Judge Mostly Affirms Markman Ruling in Vringo Case http://t.co/LJ84ERaK","lbl":"Neutral"}
+,{"time":"7:31","usr":"ADVFNplc","txt":"$GOOG - Judge Mostly Affirms Markman Ruling in Vringo Case http://t.co/hjDRd7qO","lbl":"Neutral"}
+,{"time":"7:38","usr":"SPEQL8R","txt":"Some levels AGAIN $GLD 156.3-156; $IBM 200-199 ish; $IWM not 81-80.6 ish; $AAPL now 635-634 ish 630 next 627-625 next; $GOOG 670is first 666","lbl":"Neutral"}
+,{"time":"7:41","usr":"SJosephBurns","txt":"I am long $AAPL & $GOOG going into this morning, I am also watching $eBay closely for a break out.","lbl":"Positive"}
+,{"time":"9:00","usr":"smalljones","txt":"#Hadoop killer? or #Hadoop for the rest of us? https://t.co/tfSNoaKY $GOOG announces BigQuery. Click to analyze service","lbl":"Neutral"}
+,{"time":"9:01","usr":"MikeyLewy","txt":"Tech IPOs these days face fierce competition from their more stable, older tech bretheren. $GOOG, $AAPL, $FB, $GRPN http://t.co/xbXIBbrr","lbl":"Neutral"}
+,{"time":"9:03","usr":"rsblades","txt":"$AAPL $GOOG $SPY Regardless of your view of the market and its health, can\u0027t help enjoying the unbridled enthusiasm on some of the streams.","lbl":"Neutral"}
+,{"time":"9:03","usr":"SunnyBhamra","txt":"$AAPL 52 week high, with $GOOG and $HD my favorite stocks.. While $FB hits an all new low","lbl":"Positive"}
+,{"time":"9:49","usr":"ronellman","txt":"$GOOG at resistance...again. http://t.co/1YJOdYV2","lbl":"Negative"}
+,{"time":"10:38","usr":"ericcharton","txt":"The stock Hashtag (I didn\u0027t know it) : $GOOG $FB, interesting for opinion mining","lbl":"Neutral"}
+,{"time":"10:39","usr":"aznboi27","txt":"$GOOG needs to get through 675","lbl":"Neutral"}
+,{"time":"10:41","usr":"stevegarfield","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"10:41","usr":"AkronsBobert","txt":"ISearch: When Does Apple Release Its Own Search Engine? http://t.co/rSpUE1wZ $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:23","usr":"Skrisiloff","txt":"$GOOG offered to buy $GRPN for $6B in 2010. It\u0027s now worth $3B. #popgoesthebubble","lbl":"Neutral"}
+,{"time":"11:24","usr":"johnsgilbert","txt":"$GOOG Ascending Triple Top Breakout on 1.0 pts/box P&F chart. Bullish Price Objective = 700. $$","lbl":"Positive"}
+,{"time":"11:24","usr":"aznboi27","txt":"$GOOG - just can\u0027t get through that 675","lbl":"Neutral"}
+,{"time":"12:04","usr":"KevinShalvey","txt":"For a big-cap, there\u0027s been some big runs in $GOOG\u0027s history. Back in 2005, it jumped 43% in 12 weeks: http://t.co/RIyoFEqo","lbl":"Positive"}
+,{"time":"12:04","usr":"barronstechblog","txt":"HP Forms Tablet Unit, Says The Verge - Tech Trader Daily - Barron\u0027s $HPQ $AAPL $AMZN $MSFT $GOOG $RIMM http://t.co/XiE48DcJ","lbl":"Neutral"}
+,{"time":"12:05","usr":"TradetheLeader1","txt":"Great move from 650 b/out..needs to take out 700 with power and we are off and running $GOOG","lbl":"Positive"}
+,{"time":"12:49","usr":"paulwoll","txt":"Playing 2 $GOOG 675 puts for .55","lbl":"Negative"}
+,{"time":"12:50","usr":"bmoser1","txt":"@Justin_JBone Ha. I\u0027ve made my $GOOG and $APPL cash for the day. Start fresh again on Monday. #LoserBuysBeer","lbl":"Neutral"}
+,{"time":"12:55","usr":"Fitzstock2004","txt":"@spxtrader2008 $aapl $goog and \u0022Mom jokes\u0022 52 week highs today :)","lbl":"Positive"}
+,{"time":"12:55","usr":"_SimplyTessa","txt":"Watching $Goog and $AAPL go at it.","lbl":"Positive"}
+,{"time":"13:55","usr":"phillyrealty","txt":"$GRPN - will merger rumors be floating around next week? Maybe $GOOG circling back ? #shortsqueeze","lbl":"Neutral"}
+,{"time":"13:55","usr":"jimcramer","txt":"watching some Street Signs with Pop. Narrating the tape with him...Liking the action in the big growth stocks\u0022 $GOOG, $AAPL","lbl":"Neutral"}
+,{"time":"15:00","usr":"MarkAlanT","txt":"@deliciousAAPL Last minute push into the close on $SPY, $GOOG, and $AAPL. too suspicious.","lbl":"Positive"}
+,{"time":"15:03","usr":"KareLindahl","txt":"The Verdict Is In: Facebook Is Not Google $FB $GOOG http://t.co/sIa58t7g via @minyanville","lbl":"Neutral"}
+,{"time":"15:06","usr":"thefinancepress","txt":"$GOOG Google Says It Didn\u0027t Pay Bloggers to Write About Oracle Suit: Google Says It Didn\u0027t Pay Bloggers to Writ... http://t.co/d62CuSDY","lbl":"Neutral"}
+,{"time":"15:07","usr":"Fibonacciqueen","txt":"$GOOG made target one today...hope some of you took that trade! http://t.co/yfmZGmnI","lbl":"Neutral"}
+,{"time":"17:20","usr":"TweetTaco","txt":"@jimcramer: watching some Street Signs with Pop. Narrating the tape with him...Liking the action in the big growth stocks\u0022 $GOOG, $AAPL","lbl":"Positive"}
+,{"time":"17:30","usr":"sciencetrader","txt":"insider selling: $GOOG 8/17 Director sells 145,200 shares at 675, almost 100 million dollars worth","lbl":"Negative"}
+,{"time":"17:40","usr":"MarketCurrents","txt":"Motorola Mobility (GOOG) and Verizon Wireless (VZ, VOD) have scheduled a Sep. 5 announcement... http://t.co/ql8Q7k4v $GOOG $VZ $VOD","lbl":"Neutral"}
+,{"time":"17:41","usr":"sciencetrader","txt":"$GOOG insiders (CEO/founders, VPs, directors) in the month of August have sold close to $260,000,000 in stock","lbl":"Negative"}
+,{"time":"18:57","usr":"go4stimulus","txt":"RT @businessinsider: Google Is Trying To Ban iPhones, iPads, And Macs From The U.S. $GOOG $AAPL by @owenthomas http://t.co/8bd8uXUG","lbl":"Neutral"}
+,{"time":"18:58","usr":"KosmicJelli","txt":"RT @businessinsider: Google Is Trying To Ban iPhones, iPads, And Macs From The U.S. $GOOG $AAPL by @owenthomas http://t.co/8bd8uXUG","lbl":"Neutral"}
+,{"time":"18:59","usr":"fnkey","txt":"RT @SAI: Google Is Trying To Ban iPhones, iPads, And Macs From The U.S. $GOOG $AAPL by @owenthomas http://t.co/qDcQI6UO","lbl":"Neutral"}
+,{"time":"19:00","usr":"Remy_Rahman","txt":"RT @SAI: Google Is Trying To Ban iPhones, iPads, And Macs From The U.S. $GOOG $AAPL by @owenthomas http://t.co/nHv542mp","lbl":"Neutral"}
+,{"time":"20:41","usr":"Liamjck","txt":"RT @SAI: Google Is Trying To Ban iPhones, iPads, And Macs From The U.S. $GOOG $AAPL by @owenthomas http://t.co/qDcQI6UO","lbl":"Neutral"}
+,{"time":"20:45","usr":"jvalenc","txt":"RT @SAI: Google Is Trying To Ban iPhones, iPads, And Macs From The U.S. $GOOG $AAPL by @owenthomas http://t.co/qDcQI6UO","lbl":"Neutral"}
+,{"time":"20:46","usr":"bryandmlee","txt":"MT \u201C@parislemon: $APPL once again over the $600B market cap threshold. That\u0027s $GOOG + $MSFT + $CSCO + $YHOO.\u201D","lbl":"Neutral"}
+,{"time":"20:50","usr":"dennyc69","txt":"RT @SAI: Google Is Trying To Ban iPhones, iPads, And Macs From The U.S. $GOOG $AAPL by @owenthomas http://t.co/qDcQI6UO","lbl":"Neutral"}
+]

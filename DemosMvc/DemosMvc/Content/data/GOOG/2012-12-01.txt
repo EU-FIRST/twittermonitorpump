@@ -1,0 +1,13 @@
+[
+{"time":"7:07","usr":"bigbobofva","txt":"RT @SeekingAlpha: Intel: Buy This Deeply Undervalued Chip Stock Now http://t.co/ZtzjRurw $AAPL $GOOG $HPQ $MSFT $NVDA $INTC","lbl":"Neutral"}
+,{"time":"7:10","usr":"Monster_Trader","txt":"RT @nanexllc: $GOOG oscillates over $1 in the last few seconds of trading today: (chart #10) http://t.co/qHLTqIHZ","lbl":"Neutral"}
+,{"time":"11:18","usr":"ivanhoff","txt":"\u0022@upsidetrader: NEW POST: A Look at Apple and Google http://t.co/D1VJ2q5R $AAPL, $GOOG, $QQQ, $NDX, $SPX\u0022","lbl":"Neutral"}
+,{"time":"11:19","usr":"i8and8","txt":"RT @ivanhoff: \u0022@upsidetrader: NEW POST: A Look at Apple and Google http://t.co/D1VJ2q5R $AAPL, $GOOG, $QQQ, $NDX, $SPX\u0022","lbl":"Neutral"}
+,{"time":"15:32","usr":"rogerkirkness","txt":"RT @themotleyfool: Watch out, iPhone. On a global basis, Android now has an overwhelming 75% market share: http://t.co/wmMfKpgh $AAPL $GOOG","lbl":"Positive"}
+,{"time":"15:32","usr":"old_chap","txt":"@themotleyfool And the new Nexus 4 smarty at half cost of iPhone 5 will slaughter Apple http://t.co/pU7GtquV $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"15:34","usr":"JuanMoriarty","txt":"RT @themotleyfool: Watch out, iPhone. On a global basis, Android now has an overwhelming 75% market share: http://t.co/wmMfKpgh $AAPL $GOOG","lbl":"Positive"}
+,{"time":"18:52","usr":"AfropeanGirl","txt":"RT @themotleyfool: Watch out, iPhone. On a global basis, Android now has an overwhelming 75% market share: http://t.co/wmMfKpgh $AAPL $GOOG","lbl":"Positive"}
+,{"time":"23:30","usr":"boyflamix","txt":"Been long $GOOG since Pre-Election. Hoping recent rally carries my calls into something worth selling. Hate losing, principles over profit.","lbl":"Positive"}
+,{"time":"23:36","usr":"pronamc","txt":"RT @deepakshenoy: $GOOG is more than 5x the revenue and profit of $INFY, at 1/3rd its headcount. Indian IT is simply low cost labour, very little else.","lbl":"Neutral"}
+,{"time":"23:44","usr":"StockMarket411","txt":"Microsoft, Google in catfight over online shopping $goog http://t.co/5hw3edLV goog, google, google stock, news","lbl":"Neutral"}
+]

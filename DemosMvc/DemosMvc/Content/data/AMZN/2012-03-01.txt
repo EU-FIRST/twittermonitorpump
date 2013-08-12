@@ -1,0 +1,16 @@
+[
+{"time":"7:23","usr":"chrisgee","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $MSFT by @_dtl http://t.co/8s8T5df7 #in","lbl":"Neutral"}
+,{"time":"7:24","usr":"tlerell","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $MSFT by @_dtl http://t.co/rUV55GwY","lbl":"Neutral"}
+,{"time":"7:28","usr":"barisimiso","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $MSFT by @_dtl http://t.co/rUV55GwY","lbl":"Neutral"}
+,{"time":"7:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/51, $MSFT/19, $BAC/18, $SPPI/14, $SPY/10, $AMZN/10, $GOOG/7, $GS/7. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"9:32","usr":"barronstechblog","txt":"Apple: iPads to Have Different SKUs, Cheaper Entry, Says DigiTimes - Tech Trader Daily- $AAPL $AMZN $MSFT $RIMM http://t.co/BWQg1CfX","lbl":"Neutral"}
+,{"time":"9:34","usr":"RedDogT3Live","txt":"$AMZN http://t.co/8ofJjtcp Yesterday nullified Tues bounce. Wedge pattern looks ready to break, technicals are broken","lbl":"Neutral"}
+,{"time":"10:02","usr":"3JMcAnally","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $MSFT by @_dtl http://t.co/rUV55GwY","lbl":"Neutral"}
+,{"time":"10:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:47am: 177.31 -2.38 (-1.32%).","lbl":"Neutral"}
+,{"time":"10:04","usr":"Meyouzick","txt":"Who is going to buy $AMZN Kindle Fire if you can buy an iPad with 10Xs better experience for $50-100 more? NOBODY!","lbl":"Negative"}
+,{"time":"10:58","usr":"am0_oma","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $MSFT by @_dtl http://t.co/rUV55GwY","lbl":"Neutral"}
+,{"time":"11:00","usr":"jaykza","txt":"$AMZN hugging bottom of multi-month triangle. thru day\u0027s low on volume should do it. triangle PO ~ 151 greater H&S in play as well.","lbl":"Negative"}
+,{"time":"12:13","usr":"Johnboy23233","txt":"RT @StockTwits: RT @SumZero $CRM Ripe for Short. Wall Street Target: $161.38 -- SumZero: $50.00. http://t.co/6J0mJpr7. $AMZN $VMW $ORCL","lbl":"Neutral"}
+,{"time":"18:52","usr":"WorldNewzFeed","txt":"RT @howardlindzon: cue the whining....RT @SumZero $CRM Ripe for Short. Wall Street Target: $161.38 -- SumZero: $50.00. http://t.co/DHTICGmX. $AMZN $VMW $ORCL","lbl":"Neutral"}
+,{"time":"18:59","usr":"MiSTERKN0WiTALL","txt":"RT @rayno $AMZN: Awful looking stock du jour @InvestUprising","lbl":"Negative"}
+]

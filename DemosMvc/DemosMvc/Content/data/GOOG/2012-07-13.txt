@@ -1,0 +1,29 @@
+[
+{"time":"1:00","usr":"SeekingAlpha","txt":"Amazon\u0027s Newest Victim: hhgregg http://t.co/qGd5IrBo $AAPL $AMD $AMZN $BBY $BKS $GOOG $SHLD $WHR $HGG","lbl":"Neutral"}
+,{"time":"1:36","usr":"USwwwStocks","txt":"$GOOG News: Yahoo Says It\u0027s Investigating Security Breach http://t.co/OmtvAXbo #GOOG #breach #Investigating","lbl":"Neutral"}
+,{"time":"1:40","usr":"NadavGur","txt":"Google\u2019s Nexus 7 Tablet Crushes Kindle: Rich Jaroslavsky: Are $goog crazy taking on the only Successful Android tablet instead of the iPad?","lbl":"Negative"}
+,{"time":"2:08","usr":"punk_army","txt":"iPhones for Psychos http://t.co/kSt3zdU4 #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"7:54","usr":"Sandman7591","txt":"@OptionsHawk just so, the negative relative to $AAPL is unappreciated $GOOG is formidable","lbl":"Positive"}
+,{"time":"7:58","usr":"wallstCS","txt":"Insider Trades in S&P 500 Companies for Jul 11th http://t.co/KjGl9zL8 $GOOG $SYK $SNDK $FDO #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:01","usr":"wallstCS","txt":"Texas Industries ENJOYS Market Improvement and 1 Stock Riding the 52-Week High List http://t.co/oZWeJmYi $TXI $WMT $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"9:14","usr":"thefinancepress","txt":"$GOOG Google Sued Over Chrome App: Google Sued Over Chrome App StocksandShares.TV - 31 minutes ago Google Inc.... http://t.co/qVsDfeYK","lbl":"Neutral"}
+,{"time":"9:15","usr":"nancefinance","txt":"New and improved mobile app for Facebook on my Android. Nice. $FB $GOOG","lbl":"Neutral"}
+,{"time":"9:15","usr":"Brendan_Henry","txt":"oops, I meant calls, the $GOOG wkly 570 calls.","lbl":"Positive"}
+,{"time":"10:18","usr":"RogueStockTradr","txt":"$GOOG an interesting candidate to play for a run into earnings next week. Earnings Jul 19th. Tough one though. Options super inflated.","lbl":"Positive"}
+,{"time":"10:20","usr":"KenShreve","txt":"@BrianSozzi busy next week: large-cap tech $INTC $YHOO $EBAY $QCOM $GOOG $ISRG $MSFT","lbl":"Neutral"}
+,{"time":"11:55","usr":"SunnyBhamra","txt":"RT @terranovajoe: $AAPL Dec 31, 2009 $210.73 $GOOG Dec 31, 2009 $619.98 better company, case closed @cnbcfastmoney @CNBCMelloy","lbl":"Neutral"}
+,{"time":"11:57","usr":"DeidreZune","txt":"Remember Cortez\u0027s pair trade: Long $GOOG short $AAPL. Wonder how\u0027s that working out for him?","lbl":"Positive"}
+,{"time":"13:10","usr":"Insidified","txt":"\u27A1 Insider Trading: $GOOG Hennessy John L Director BOUGHT 602 shares \u2611","lbl":"Positive"}
+,{"time":"13:10","usr":"Insidified","txt":"\u27A1 Insider Trading: $GOOG Doerr L John Director BOUGHT 602 shares \u2611","lbl":"Positive"}
+,{"time":"13:10","usr":"Insidified","txt":"\u27A1 Insider Trading: $GOOG Greene Diane B Director BOUGHT 253 shares \u2611","lbl":"Positive"}
+,{"time":"13:10","usr":"Insidified","txt":"\u27A1 Insider Trading: $GOOG Mather Ann Director BOUGHT 602 shares \u2611","lbl":"Positive"}
+,{"time":"14:55","usr":"mputtpt","txt":"RT @terranovajoe: $AAPL Dec 31, 2009 $210.73 $GOOG Dec 31, 2009 $619.98 better company, case closed @cnbcfastmoney @CNBCMelloy","lbl":"Neutral"}
+,{"time":"15:00","usr":"SeekingAlpha","txt":"Ride The Coming Tsunami In Mobile Advertising With Velti http://t.co/dkT90t0l $GOOG $AAPL $VOD $VZ $T $CHL $CHU $AUGT.OB $VELT","lbl":"Neutral"}
+,{"time":"17:28","usr":"ThePennyPlayer","txt":"Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"17:30","usr":"Insidified","txt":"\u27A1 Insider Trading: $GOOG Tilghman Shirley M Director BOUGHT 602 shares \u2611","lbl":"Positive"}
+,{"time":"17:34","usr":"Media_Scrutiny","txt":"Stocks to watch : http://t.co/ix3hRm3A $BA $BAC $C $GE $GOOG $HON $INTC $JNJ $JPM $KO $USB $VZ $WFC $WFM $YU","lbl":"Neutral"}
+,{"time":"23:07","usr":"USwwwStocks","txt":"$GOOG News: The Zacks Analyst Blog Highlights: Nokia, Apple, Google, Microsoft and Verizon ... http://t.co/CRfF1jbr #GOOG #Analyst #Apple","lbl":"Neutral"}
+,{"time":"23:18","usr":"smendozag","txt":"@AlyssaRuddick @wallstreetbabes it\u0027s $goog #translator !!","lbl":"Neutral"}
+,{"time":"23:21","usr":"chandrab","txt":"RT @JchartUpdates: Potential Sell Setup in our Overall Market Breadth Momentum Indicator http://t.co/8blS4jYX $QQQ $SPX $SPY $DJI $AAPL $GOOG $IBM $SLB","lbl":"Negative"}
+,{"time":"23:21","usr":"thefinancepress","txt":"$GOOG Next week focus is on Citi, Google, \u0027fiscal cliff\u0027: Next week focus is on Citi, Google, \u0027fiscal cliff\u0027 Ma... http://t.co/dyw9HOQx","lbl":"Neutral"}
+]

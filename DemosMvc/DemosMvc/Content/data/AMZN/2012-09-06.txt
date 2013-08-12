@@ -1,0 +1,97 @@
+[
+{"time":"5:17","usr":"Phoenixx138","txt":"Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from @allabouttrends on Tuesday.","lbl":"Neutral"}
+,{"time":"5:27","usr":"JimAndreoni","txt":"Before You Buy Into The \u0027Zuckerberg Put\u0027: 5 Things #Facebook\u0027s CEO Won\u0027t Tell You http://t.co/y0oK4Zj0 $AMZN $AOL $BIDU $CSCO","lbl":"Neutral"}
+,{"time":"5:47","usr":"SAI","txt":"10 Things You Need To Know This Morning $NOK $AMZN $MSFT by @shontelaylay http://t.co/VuaqoSS3","lbl":"Neutral"}
+,{"time":"7:18","usr":"WallStJesus","txt":"\u2605Wall Street Breakfast: Must-Know News http://t.co/tKirSlF1 $AIG $SPY $QQQ $AAIGF.PK $AAPL $AMZN $GLCNF.PK $GOOG $NAV $NOK $TWC","lbl":"Neutral"}
+,{"time":"7:22","usr":"Progadelic","txt":"Amazon is working on a smartphone, according to The Verge, and could announce it at this morning\u0027s Kindle event in Los Angeles $AMZN $$","lbl":"Neutral"}
+,{"time":"9:05","usr":"DeidreZune","txt":"$GOOG train has left the station. $AAPL $AMZN next","lbl":"Positive"}
+,{"time":"9:58","usr":"sterlingwong","txt":"Wrote more about Netflix for today - Will its HBO-esque turn succeed? http://t.co/vVnIzxnI $NFLX $AMZN","lbl":"Neutral"}
+,{"time":"9:59","usr":"HarunAbello","txt":"Tech wars! Yesterday $NOK / $MSFT failed to get some wow factor... Will see today what happens with $AMZN ...","lbl":"Neutral"}
+,{"time":"10:31","usr":"rohit_bmw","txt":"RT @SeekingAlpha: Sell Zynga: Consumer Gaming Shifting From Social Media To Smartphones http://t.co/wWEF69lH $AMZN $DNACF.PK $EA $FB $ZNGA","lbl":"Neutral"}
+,{"time":"12:05","usr":"Robbcarpdm","txt":"$amzn remember kindle they dont have to make money but $aapl does roflmao","lbl":"Negative"}
+,{"time":"12:50","usr":"CollegeInvestin","txt":"Netflix: A Lesson in Competition http://t.co/6vDcyjrL $NFLX $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"12:51","usr":"businessinsider","txt":"Amazon Announces New Backlit Kindle Reader $AMZN by @stevekovach http://t.co/Vpcb78bl","lbl":"Positive"}
+,{"time":"12:55","usr":"mattdebord","txt":"RT @CNBC: The new Kindle Paperwhite gets 8 weeks of battery life even if you leave the light on all the time. http://t.co/afrWWOsj $AMZN","lbl":"Positive"}
+,{"time":"12:56","usr":"NautilusDora","txt":"RT @CNBC: The new Kindle Paperwhite gets 8 weeks of battery life even if you leave the light on all the time. http://t.co/afrWWOsj $AMZN","lbl":"Neutral"}
+,{"time":"12:56","usr":"Arnuminous","txt":"I guess the iKindle is not going over too well. $AMZN","lbl":"Negative"}
+,{"time":"12:59","usr":"JonErlichman","txt":"New kindle paperwhite is $119 $AMZN","lbl":"Neutral"}
+,{"time":"12:59","usr":"event_trader","txt":"and $AMZN just lost VWAP \u201C@firstadopter: $AAPL rallying on $AMZN event. Go figure\u201D","lbl":"Negative"}
+,{"time":"12:59","usr":"jonfortt","txt":"Amazon $AMZN Bezos: Kindle paperwhite costs $119, free 3G","lbl":"Neutral"}
+,{"time":"13:01","usr":"JonErlichman","txt":"$79 kindle now $69 $AMZN","lbl":"Neutral"}
+,{"time":"13:01","usr":"Harri8t","txt":"$AMZN Original kindle price drops to $69, Paperwhite will be $119","lbl":"Neutral"}
+,{"time":"13:06","usr":"LifetimeCO","txt":"RT @CNBC: The new Kindle Paperwhite gets 8 weeks of battery life even if you leave the light on all the time. http://t.co/afrWWOsj $AMZN","lbl":"Positive"}
+,{"time":"13:06","usr":"mattdebord","txt":"Self-publishing for the Kindle is the new college fund. $AMZN","lbl":"Neutral"}
+,{"time":"13:06","usr":"byncer","txt":"RT @businessinsider: Amazon Announces New Backlit Kindle Reader $AMZN by @stevekovach http://t.co/Vpcb78bl","lbl":"Neutral"}
+,{"time":"13:10","usr":"bala_k","txt":"RT @netgarden: \u0022People don\u0027t want gadgets anymore. They want services that improve over time.\u0022 - Jeff Bezos, $AMZN","lbl":"Neutral"}
+,{"time":"13:13","usr":"raghuthaatha","txt":"RT @businessinsider: Amazon Announces New Kindle Fire Tablet For $159 $AMZN by @stevekovach http://t.co/V68lVsXI","lbl":"Neutral"}
+,{"time":"13:13","usr":"Eoghanlyons","txt":"RT @CNBC: Bezos: In 12 months after Kindle, people read 4.6x as much as they did in 12 months before as of 2011. http://t.co/hxKF8YYi $AMZN","lbl":"Neutral"}
+,{"time":"13:13","usr":"JozeR89","txt":"RT @CNBC: Entry-level Kindle now $69 and Paperwhite 3G version $179. http://t.co/hxKF8YYi $AMZN","lbl":"Neutral"}
+,{"time":"13:17","usr":"stephengillett","txt":"RT @CNBC: Amazon unveils Kindle Fire HD with 8.9 inch display, 1920 x 1200 resolution. http://t.co/hxKF8YYi $AMZN","lbl":"Neutral"}
+,{"time":"13:17","usr":"bsilent","txt":"$Amzn now trading over 300+ p/e. If $aapl was at the same valuation, I wouldn\u0027t be in this cubicle.","lbl":"Negative"}
+,{"time":"13:17","usr":"ByronTFrancis","txt":"RT @CNBC: Amazon unveils Kindle Fire HD with 8.9 inch display, 1920 x 1200 resolution. http://t.co/hxKF8YYi $AMZN","lbl":"Neutral"}
+,{"time":"13:20","usr":"RightWingAngel","txt":"RT @businessinsider Amazon Announces New Kindle Fire HD Tablet $AMZN by @stevekovach http://t.co/8b8xrldh","lbl":"Neutral"}
+,{"time":"13:20","usr":"SchmittRomney","txt":"@CNBC 12 months after Kindle, people read 4.6x ...more than before... $AMZN Known because they track you. Buy your books with cash!","lbl":"Neutral"}
+,{"time":"13:21","usr":"mattdebord","txt":"Kindle Fire HD has stereo antennas to go with the stereo speakers. $AMZN","lbl":"Neutral"}
+,{"time":"13:26","usr":"KarSun01","txt":"New Kindle only $159- we know the reason for the cheap hardware is because they are hoping to increase sales within $AMZN, but this cheap?","lbl":"Neutral"}
+,{"time":"13:26","usr":"jarsch","txt":"Consumers win in tablet battle. $AMZN doing great bringing more features at a low price. Like to see Fire compared to Nexus 7 $GOOG $AAPL","lbl":"Positive"}
+,{"time":"13:32","usr":"netgarden","txt":"What $AMZN is presenting today hearkens to post I wrote on $AAPL Halo Effect (integrated platforms w/ derivation). http://t.co/SegculeV","lbl":"Neutral"}
+,{"time":"13:32","usr":"Dasan","txt":"New $AMZN kindle Fire at double previous NAND, good for $SNDK. Just sayin\u0027 if you\u0027re greedy, look at SNDK","lbl":"Neutral"}
+,{"time":"13:38","usr":"danielhsqr","txt":"hey $AMZN, are those rounded corners?","lbl":"Neutral"}
+,{"time":"13:38","usr":"kelliebell10","txt":"RT @SmartMoney: Amazon shares reached an all-time high on Thursday ahead of its Kindle Fire announcement. http://t.co/P4Pg3YyQ $AMZN","lbl":"Positive"}
+,{"time":"13:38","usr":"ampressman","txt":"I am betting on $249 for new 8.9\u0022 Kindle Fire HD? peanut gallery? $AMZN","lbl":"Neutral"}
+,{"time":"13:45","usr":"swamptrade","txt":"$AMZN making new high, $GOOG could follow, $AAPL lagging.","lbl":"Positive"}
+,{"time":"13:45","usr":"ravjee1","txt":"RT @jonfortt: Amazon $AMZN Bezos: Kindle Fire HD wifi 41% faster than iPad","lbl":"Neutral"}
+,{"time":"13:45","usr":"JuliusFerraro","txt":"$AMZN new kindle will kill iPad sales. The stock isn\u0027t worth even half of what its trading at. They won\u0027t recoup the hardware losses though","lbl":"Positive"}
+,{"time":"13:50","usr":"USwwwStocks","txt":"$AMZN News: Highs & Lows: http://t.co/mcOt5byj, General Electric, Google, and Trina Solar http://t.co/jOlXm1tp #AMZN #ampamp #Amazoncom","lbl":"Positive"}
+,{"time":"13:50","usr":"scottRcrawford","txt":"Earth & Wind confused by new Fire announcement? $AMZN #DNC2012","lbl":"Neutral"}
+,{"time":"13:50","usr":"jacquiemcnish","txt":"Here it comes....RT @savitz: Kindle HD 7 inch version $199; 8.9 inch version $299 #amazon #kindle $amzn","lbl":"Neutral"}
+,{"time":"13:54","usr":"lluccipha","txt":"SAI: CHART OF THE DAY: The Explosion In Kindle Book Sales $AMZN by @jyarow http://t.co/AB42LJlx","lbl":"Positive"}
+,{"time":"13:54","usr":"zengqi","txt":"Is $AMZN spreading itself too thin?","lbl":"Negative"}
+,{"time":"13:54","usr":"davesperandio","txt":"RT @asymco: $AMZN P/E now at 308","lbl":"Neutral"}
+,{"time":"13:57","usr":"daamitt","txt":"RT @asymco: $AMZN P/E now at 308","lbl":"Neutral"}
+,{"time":"13:58","usr":"rechtsteiner","txt":"$AMZN\u2019s bundling of content services is only matchable by $AAPL & $GOOG. Will they play? They\u2019re going to have to, soon.","lbl":"Neutral"}
+,{"time":"14:02","usr":"FamilyOfficeGur","txt":"@TMTanalyst $AMZN 5%...we\u0027ll see how well Win8 tablets sell. I\u0027m planning to get one of those hybrid laptop/tablet Win8 devices.","lbl":"Neutral"}
+,{"time":"14:02","usr":"smaruzzi","txt":"RT @SAI: CHART OF THE DAY: The Explosion In Kindle Book Sales $AMZN by @jyarow http://t.co/DIrnbbX5","lbl":"Positive"}
+,{"time":"14:02","usr":"wklyopttrades","txt":"$AMZN play: nothing wrong booking 50% profit","lbl":"Positive"}
+,{"time":"14:08","usr":"kpooya","txt":"RT @howardlindzon: Feels good to be long $goog $lnkd $amzn more tham ever","lbl":"Positive"}
+,{"time":"14:08","usr":"LongShortTrader","txt":"@ppearlman Yeah. Plus, $AMZN isn\u0027t a short\u0027s short. It\u0027s not a \u0022fraud, fad, or failure\u0022","lbl":"Neutral"}
+,{"time":"14:16","usr":"Sermario","txt":"Was $AAPL really concerned about an $AMZN phone lol...they got long ways to go in the HW dept...","lbl":"Negative"}
+,{"time":"14:16","usr":"BenHRobertson","txt":"RT @businessinsider: Amazon Announces New Backlit Kindle Reader $AMZN by @stevekovach http://t.co/Vpcb78bl","lbl":"Neutral"}
+,{"time":"14:16","usr":"jpu19","txt":"$AMZN 1,89% unveils Kindle Paperwhite http://t.co/ZTHW4rao","lbl":"Positive"}
+,{"time":"14:29","usr":"CNNMoney","txt":"Amazon unveils Kindle Fire HD, but sales will remain a mystery http://t.co/cIZ3WCaT $AMZN","lbl":"Neutral"}
+,{"time":"14:30","usr":"SeekingAlpha","txt":"Missed Out On Corn And Gold\u0027s 5-Year Surge? Here Are 5 Stocks That Crushed Them http://t.co/zUuJHjhA $PCLN $AAPL $TJX $MA $AMZN","lbl":"Neutral"}
+,{"time":"14:37","usr":"c_mcmanus","txt":"RT @asymco: $AMZN P/E now at 308","lbl":"Neutral"}
+,{"time":"14:37","usr":"NewsSR","txt":"One fail from #Amazon, the new stuff are not yet up on Amazon(.)com... @Amazon @AmazonKindle $AMZN","lbl":"Negative"}
+,{"time":"14:48","usr":"graubart","txt":"With new Kindle Fires, Nexus 7 and mini iPad coming, it\u0027s a great time to be a consumer $AMZN $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:50","usr":"mayowaowolabi","txt":"RT @cumiastowski: What $AMZN did today \u2026 Wow. This is why RIM needs a content partner like them. AMZN cares not about h/w profit, only ...","lbl":"Positive"}
+,{"time":"15:00","usr":"RatioTrader","txt":"7-inch $AMZN Kindle Fire HD orders also now LIVE: http://t.co/NZjAdU02","lbl":"Neutral"}
+,{"time":"15:00","usr":"ericjackson","txt":"The guy who doesn\u0027t get enough credit for $AMZN\u0027s move into hardware is @blakekrik","lbl":"Neutral"}
+,{"time":"15:00","usr":"SharePlanner","txt":"holding 5 positions overnight all longs: $CROX $AMZN $V $ALXN $FBHS","lbl":"Positive"}
+,{"time":"15:10","usr":"cordial","txt":"So when is the $AMZN smartphone out?","lbl":"Neutral"}
+,{"time":"15:11","usr":"firstadopter","txt":"All the new $AMZN Kindle Fire models ARE AD-SUPPORTED. Funny they didn\u0027t mention this neat feature during the event: http://t.co/EAW5wxOf","lbl":"Negative"}
+,{"time":"15:19","usr":"lluccipha","txt":"SAI: Here\u0027s What The New Kindle Fires Look Like Next To The Nexus 7 $AMZN by @_dtl http://t.co/2GOYwI09","lbl":"Neutral"}
+,{"time":"15:19","usr":"lluccipha","txt":"SAI: Here\u0027s How The New Kindle Fire HD Stacks Up Against The iPad $AMZN by @officialKLS http://t.co/uN9CY5bj","lbl":"Neutral"}
+,{"time":"15:20","usr":"CONCEDE","txt":"RT @firstadopter: If you love tablets that repeatedly spams you ads, $AMZN Kindle Fire is the tablet for you! http://t.co/EAW5wxOf","lbl":"Neutral"}
+,{"time":"15:34","usr":"DeidreZune","txt":"All new $AMZN Kindle Fire models are ad-supported http://t.co/Icku6EL7 Holy Cow. Right there, BIG ADVANTAGE $AAPL.","lbl":"Neutral"}
+,{"time":"15:51","usr":"MasoomaHashmi","txt":"Money & Money Amazon :S RT @SAI: The New Kindle Fires Will Display Ads On Their Lock Screens $AMZN by @_dtl http://t.co/78VsQTDY","lbl":"Neutral"}
+,{"time":"15:51","usr":"DeidreZune","txt":"Most media with exception of VERGE has not picked up on the AD SUPPORTED pricing that $AMZN is following.","lbl":"Neutral"}
+,{"time":"15:52","usr":"gcgcom","txt":"RT @businessinsider: BII REPORT: How Amazon Is Trying To Create A Huge Mobile Business $AMZN http://t.co/ND6j7jkf","lbl":"Neutral"}
+,{"time":"16:10","usr":"EdHenkes","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"16:10","usr":"oceanMude","txt":"RT @DeLuCa: \u201C@SAI: POLL: Will You Buy One Of The New Kindle Fire Tablets? $AMZN by @stevekovach http://t.co/QLvF0F7f\u201D","lbl":"Neutral"}
+,{"time":"16:39","usr":"netgarden","txt":"@parislemon I\u0027m not sure Amazon really needs Google at this point. Larger question is whether $GOOG can stop $AMZN from co-opting Android.","lbl":"Positive"}
+,{"time":"16:39","usr":"nlitenmebabe","txt":"RT @wallstCS: Market Recap: ECB Juices Stocks, Bezos WOWS Techies, VeriFone Collapses http://t.co/YHDUxoSV $AAPL $FB $AMZN $NAV $PAY #mk ...","lbl":"Positive"}
+,{"time":"16:39","usr":"rodzvilla","txt":"RT @SAI: Here\u0027s How The New Kindle Fire HD Stacks Up Against The iPad $AMZN by @officialKLS http://t.co/rVVCpv13","lbl":"Neutral"}
+,{"time":"17:10","usr":"firstadopter","txt":"I will be VERY interested to see the actual performance benchmarks $199 $GOOG quad-core Nexus 7 Tegra vs. $199 $AMZN dual-core Kinde Fire HD","lbl":"Neutral"}
+,{"time":"17:11","usr":"RaviRomo","txt":"RT @firstadopter: There is very little incentive to buy the $299 1920x1200 $AMZN Kindle Fire HD given that most of $NFLX and Prime strea ...","lbl":"Negative"}
+,{"time":"17:12","usr":"firstadopter","txt":"Remember when $AMZN hyped up \u0022ultra-fast\u0022 Silk Kindle Fire web-browsing last yr & it turned out to be totally bogus? Can\u0027t trust them at all","lbl":"Neutral"}
+,{"time":"17:38","usr":"roscor15","txt":"RT @FierceWireless: Did you watch today\u0027s Amazon event? Get complete coverage here: http://t.co/3euD0GuX #Paperwhite #KindleFireHD $AMZN","lbl":"Neutral"}
+,{"time":"18:23","usr":"getsouped","txt":"RT @businessinsider: BII REPORT: How Amazon Is Trying To Create A Huge Mobile Business $AMZN http://t.co/ND6j7jkf","lbl":"Neutral"}
+,{"time":"18:26","usr":"johnsonwhitney","txt":"! @MattSoleyn \u0022Normal just begs to be messed with\u0022 is a great line for Amazon to use in their #TV ads. $AMZN #disruptyourself","lbl":"Neutral"}
+,{"time":"19:33","usr":"deadmau5mania","txt":"Is it just me or the $AMZN kindle fire video looks like an $AAPL iPad video rip off?","lbl":"Negative"}
+,{"time":"19:34","usr":"Lusin1","txt":"RT @businessinsider: Here\u0027s How The New Kindle Fire HD Stacks Up Against The iPad $AMZN by @officialKLS http://t.co/S9XXJBhH","lbl":"Neutral"}
+,{"time":"20:29","usr":"danhyder","txt":"Hard to argue $aapl win over Samsung reduces consumer choice when great companies like $amzn & $goog keep innovating. American brainpower!","lbl":"Positive"}
+,{"time":"20:32","usr":"MCJunkie","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"21:54","usr":"antaurusMichael","txt":"RT @CNBC: Amazon unveils Kindle Fire HD with 8.9 inch display, 1920 x 1200 resolution. http://t.co/hxKF8YYi $AMZN","lbl":"Neutral"}
+,{"time":"23:50","usr":"USwwwStocks","txt":"$AMZN News: Apple, Samsung in crosshairs of rivals http://t.co/i0TGXk9I #AMZN #Apple #crosshairs","lbl":"Neutral"}
+,{"time":"23:53","usr":"thetrading","txt":"These new amazon tablets are getting quite a bit of press. Many of it quite positive. $AMZN","lbl":"Positive"}
+]

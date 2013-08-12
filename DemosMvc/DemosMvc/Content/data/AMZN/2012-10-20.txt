@@ -1,0 +1,6 @@
+[
+{"time":"3:47","usr":"ThanhTranStudio","txt":"RT @SAI: Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot $AMZN by @jyarow http://t.co/AIuEtCa0","lbl":"Neutral"}
+,{"time":"8:45","usr":"WireMonkey557","txt":"RT @jfahmy: VIDEO: Too Much Distribution http://t.co/9ThALXq4 $AAPL $AMZN $GOOG $PCLN $CMG $SPY $QQQ","lbl":"Neutral"}
+,{"time":"8:49","usr":"EvanMedeiros","txt":"RT @jfahmy: VIDEO: Too Much Distribution http://t.co/9ThALXq4 $AAPL $AMZN $GOOG $PCLN $CMG $SPY $QQQ","lbl":"Neutral"}
+,{"time":"14:49","usr":"gtlackey","txt":"My Sennheiser (Cyborg) headset for Skyping just delivered...On Saturday... For Free. I love $AMZN prime.","lbl":"Positive"}
+]

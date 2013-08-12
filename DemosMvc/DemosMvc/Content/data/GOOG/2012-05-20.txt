@@ -1,0 +1,9 @@
+[
+{"time":"7:13","usr":"thefinancepress","txt":"$GOOG Facebook Has A Growth Problem: Facebook Has A Growth Problem Seeking Alpha - 22 minutes ago On May 18, 2... http://t.co/AIDXvqDv","lbl":"Neutral"}
+,{"time":"13:11","usr":"Goodlett","txt":"Been digging $MSFT #WIN8 Beta for 2 months on #tablet, now looking forward to June Windows8 #ReleasePreview http://t.co/4CPhIuqx $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:13","usr":"ECONgeek947","txt":"addition of internet media offerings to TV market means lower prices for consumers in near term $NFLX $GOOG $APPL $VZ $CSTR... #ticktock","lbl":"Neutral"}
+,{"time":"13:15","usr":"BucksAmillion2","txt":"RT @HardcoreValue: Playing Catch Up In A Complex Ecosystem http://t.co/wNXTVSsx $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"20:00","usr":"Bkryan23","txt":"@LDrogen I think only thing $GOOG hasn\u0027t tried yet is warp speed and time travel","lbl":"Neutral"}
+,{"time":"20:45","usr":"TKOStocks","txt":"The Facebook Offering: How It Compares: http://t.co/fOUPbBaY #in $FB, $GOOG, #INTERNET, #TKOSTOCKS, #MSFT","lbl":"Neutral"}
+,{"time":"21:09","usr":"stockpickexpert","txt":"http://t.co/ujR8mbbx Great Financial Market Update/Newsletter! $SPY $GLD $USO $TLT $VXX $FB $AAPL $GOOG $QQQ","lbl":"Neutral"}
+]

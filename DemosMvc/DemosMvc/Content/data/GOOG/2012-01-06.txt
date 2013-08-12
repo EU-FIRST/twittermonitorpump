@@ -1,0 +1,30 @@
+[
+{"time":"0:07","usr":"CJ28MTL","txt":"RT @SAI: LEAK: Samsung\u0027s Galaxy Nexus Coming To Sprint\u0027s New LTE Network Later This Year $GOOG by @stevekovach http://t.co/TsIIU3da","lbl":"Neutral"}
+,{"time":"0:15","usr":"BradBennett","txt":"The good the bad and the ugly of mobile #tech in 2012 - http://t.co/bbXCWKEQ. $AAPL $GOOG $ORCL $RIM $MSFT #CIO #IT via @ValaAfshar #x","lbl":"Neutral"}
+,{"time":"0:34","usr":"howardlindzon","txt":"man o man between gmail and google docs i spend 95 percent of my productive time using $goog and dont see how that drops","lbl":"Neutral"}
+,{"time":"0:37","usr":"i001962","txt":"@howardlindzon +1 on that $goog post. What they are doing with app script is powerful could catch $msft on heels in spreadsheets at least","lbl":"Neutral"}
+,{"time":"8:39","usr":"angryspeculator","txt":"Now the Sheep are ripe for slaughter $SPY suckers get in on the private payroll #\u0027s. fuckn clowns trading this market $AAPL $GOOG $MA $V $T","lbl":"Negative"}
+,{"time":"10:32","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/106, $SPY/62, $NFLX/56, $AMZN/33, $BAC/24, $BKS/23, $GOOG/23, $FXE/23. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"10:52","usr":"claytoncohn","txt":"To be honest I just go straight to the source - I ask people I know who\u0027ve worked at both as programmers who\u0027s better...they all say $GOOG.","lbl":"Positive"}
+,{"time":"10:53","usr":"ITMS","txt":"The Semiconductor Sector Is Still The One To Follow http://t.co/rQOwjIoW $SMH $SNDK $INTC $NVDA $GOOG","lbl":"Neutral"}
+,{"time":"11:20","usr":"bsvtwit","txt":"@Nouf_wpt Also look at $GOOG and $IBM. Showing signs of impulsive moves down from top","lbl":"Negative"}
+,{"time":"11:20","usr":"RobertWeinstein","txt":"What Is A Simulated Trading Account And Why Should I Use One? http://t.co/vVi5jREa $SPY $QQQ $SIRI $USO $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"11:54","usr":"HumbleBioTrader","txt":"@chasingthealpha Yes, I like $GOOG on the 5 minute chart. Would you buy $CHTP here?","lbl":"Positive"}
+,{"time":"13:01","usr":"NiemannCapital","txt":"The new four horsemen of tech http://t.co/olP5BBoX via @CNNMoney #tech #mobile #tablet #cloud $AAPL $GOOG $AMZN $IBM","lbl":"Neutral"}
+,{"time":"13:02","usr":"numberonetell","txt":"$GOOG has a bullish daily chart and is now sitting on this trend line from the 60 min. chart http://t.co/rMDkNZOT","lbl":"Positive"}
+,{"time":"13:54","usr":"SA_GOOG","txt":"Apple Still On The A List http://t.co/srDrIE2F $GOOG $HPQ $RIMM $AAPL","lbl":"Neutral"}
+,{"time":"13:54","usr":"JamesPhenom","txt":"Long $TZA, $GOOG, $FXE June 2012 puts. Done.","lbl":"Negative"}
+,{"time":"15:14","usr":"StockSage1","txt":"$GOOG continues to exhibit notable relative weakness","lbl":"Negative"}
+,{"time":"15:14","usr":"Japanesegunto","txt":"$Goog is landing hard.......lol.......$AAPL is next.....","lbl":"Negative"}
+,{"time":"15:14","usr":"RaveD","txt":"$goog right on 11/25/2011 rising trendline. if it can\u0027t hold here it probably fills gap at least","lbl":"Neutral"}
+,{"time":"15:52","usr":"Phileo99","txt":"$GOOG looks like it put in a short term top - what was so special about 670 ?","lbl":"Positive"}
+,{"time":"15:54","usr":"OptionsHawk","txt":"$GOOG right on that 650 pin","lbl":"Positive"}
+,{"time":"15:55","usr":"TraderFlorida","txt":"RT @OptionsHawk: $GOOG right on that 650 pin > funny how that works","lbl":"Neutral"}
+,{"time":"17:34","usr":"lluccipha","txt":"SAI: UH-OH: The Company That Google Just Paid $12.5 Billion For Had An Awful Holiday $GOOG $MMI by @MattRosoff http://t.co/JPSrcWIZ","lbl":"Negative"}
+,{"time":"17:37","usr":"macroaxis","txt":"Google Inc $GOOG Fairly Down. Lost 1%. 5 Stock Seeing Big Analyst Downgrades: http://t.co/ilolOKqd","lbl":"Negative"}
+,{"time":"17:37","usr":"CorporateYoungs","txt":"http://t.co/WrnMQLOz $315.00 loss in $GOOG Just couldn\u0027t do it. Of all the day on GOOG bullish i got a caught a bear","lbl":"Positive"}
+,{"time":"19:51","usr":"CashRocket","txt":"$GOOG http://t.co/GGFvjtgP looks like an exhaustion gap to me #takeprofits","lbl":"Negative"}
+,{"time":"19:58","usr":"michaeljantze","txt":"RT @SAI: So How\u0027s That \u0022Bet On Android\u0022 Thing Working Out For You? $GOOG by @MattRosoff http://t.co/Kmvowpji","lbl":"Neutral"}
+,{"time":"19:58","usr":"johnyri","txt":"\u201C@SAI: So How\u0027s That \u0022Bet On Android\u0022 Thing Working Out For You? $GOOG by @MattRosoff http://t.co/FHzNLQHP\u201D <~Hmm, CarrierIQ??","lbl":"Neutral"}
+,{"time":"23:38","usr":"pastorr34","txt":"RT @SAI: So How\u0027s That \u0022Bet On Android\u0022 Thing Working Out For You? $GOOG by @MattRosoff http://t.co/Kmvowpji","lbl":"Neutral"}
+]

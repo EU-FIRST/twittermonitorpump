@@ -1,0 +1,28 @@
+[
+{"time":"5:29","usr":"StockJason","txt":"$GOOG great short at the moment.","lbl":"Negative"}
+,{"time":"5:46","usr":"newt_funny_man","txt":"iPhones for Psychos http://t.co/CS252ta3 #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"5:49","usr":"panzetti","txt":"Andr\u00E9 bought 1711 shares of $GOOG at $585.52 in #WallStreetGame (http://t.co/ZE1P1Xfs).","lbl":"Positive"}
+,{"time":"5:59","usr":"robzidar","txt":"Are $GOOG Search+\u0027s days numbered? From Pando http://t.co/wOAp0Eo8","lbl":"Negative"}
+,{"time":"9:40","usr":"$GOOG","txt":"RT @mygershberg: Exclusive: YouTube hits 4 billion daily video views http://t.co/l81JDD0y via @reuters $GOOG","lbl":"Positive"}
+,{"time":"9:47","usr":"$GOOG","txt":"Is Sergey Brin alive? Google back in China edition. ($GOOG) http://t.co/v33C23Zm","lbl":"Neutral"}
+,{"time":"9:48","usr":"$GOOG","txt":"$AAPL earnings tonight. It\u0027s almost exciting as $GOOG earnings.","lbl":"Positive"}
+,{"time":"11:09","usr":"$GOOG","txt":"@ericjackson Further, $GOOG doesn\u0027t value user experience & product design, and it shows. To be relevant in 2012 that is essential.","lbl":"Negative"}
+,{"time":"11:09","usr":"$GOOG","txt":"$GOOG looks weak today... under this 583 with broader market selling can bring us into the 570\u0027s quick","lbl":"Negative"}
+,{"time":"12:01","usr":"Metachronism","txt":"after missing on $intc puts and long $goog, taking my chances on $fio today - like $ocz way better but willing to scalp off the $fio hype","lbl":"Neutral"}
+,{"time":"13:45","usr":"andrea_cinti","txt":"RT @BloombergNews: Amazon Fire takes Android, leaves Google apps | http://t.co/d94z8R3h $AMZN $GOOG Google, te lo stanno a butt\u00E0 intarculo!","lbl":"Negative"}
+,{"time":"13:48","usr":"SaqibReports","txt":"Analysis: New EU data laws command the tide but not the cost http://t.co/nW6HiCV8 by @georginius via @reuters $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"15:57","usr":"angryspeculator","txt":"Joe Granville v.s. Carter worth 2008 http://t.co/KHVg1U1z lol Carter worth gets owned $AAPL $SPY $GOOG $BIDU $FFIV $RHT","lbl":"Neutral"}
+,{"time":"16:46","usr":"lozaldinho","txt":"RT @BloombergNews: Amazon Fire takes Android, leaves Google apps | http://t.co/mKG2utSS $AMZN $GOOG","lbl":"Negative"}
+,{"time":"17:52","usr":"EugeneChannel","txt":"$GOOG thinks they know better what we need. Everybody wants to be a Big Brother. http://t.co/bJnCc6Pn","lbl":"Negative"}
+,{"time":"17:53","usr":"$GOOG","txt":"5 years after the introduction of the 1st #iphone, it\u0027s now safe to say that #apple has won the mobile platform war! $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"18:29","usr":"jgomezd","txt":"\u201C@SAI: Apple\u0027s PROFIT Was Higher Than Google\u0027s REVENUE Last Quarter $GOOG $AAPL by @mattlynley http://t.co/tAEVAh6u\u201D","lbl":"Neutral"}
+,{"time":"18:29","usr":"ITkimbannerman","txt":"My wow moment for the day\u2026 \u201C@alexbard: $aapl profit greater than $goog revenue last quarter.\u201D","lbl":"Neutral"}
+,{"time":"19:22","usr":"rs_no7","txt":"RT @SAI: Apple\u0027s PROFIT Was Higher Than Google\u0027s REVENUE Last Quarter $GOOG $AAPL by @mattlynley http://t.co/CMpBWbhi","lbl":"Negative"}
+,{"time":"19:23","usr":"mwaizman","txt":"The cheapest #Stocks in the market in my opinion are: $AAPL & $GOOG go buy them NOW!!!","lbl":"Positive"}
+,{"time":"19:28","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"19:29","usr":"keithmcgreggor","txt":"RT @ITkimbannerman: My wow moment for the day\u2026 \u201C@alexbard: $aapl profit greater than $goog revenue last quarter.\u201D","lbl":"Neutral"}
+,{"time":"21:58","usr":"wallstCS","txt":"Services Sector Review: McDonald\u0027s Earnings, Collective Brands Big Premium http://t.co/nJJVueKx $RRD $PSS $EAT $GOOG $MCD $VZ $IBM","lbl":"Neutral"}
+,{"time":"22:08","usr":"ChrisONeill2","txt":"still like $goog going to 560...no position at moment","lbl":"Neutral"}
+,{"time":"22:16","usr":"elleuncensored","txt":"RT @TheStreet: Investors Should be Wary of @Google: Analysts http://t.co/3b5jxlZh by @Commodity_Bull $GOOG","lbl":"Neutral"}
+,{"time":"22:19","usr":"wallstCS","txt":"iPhone Earnings Boost Apple to Record Quarterly Profit http://t.co/TvNBQX7w $AAPL $MSFT $INTC $MMI $GOOG","lbl":"Neutral"}
+]

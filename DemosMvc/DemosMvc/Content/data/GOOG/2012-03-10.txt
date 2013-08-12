@@ -1,0 +1,9 @@
+[
+{"time":"0:02","usr":"joey_girardi","txt":"@AirFrankie I would say $aapl for sure. So much cash on hand could do lots $goog is jut all over the place and needs to focus. G+ = #fail","lbl":"Negative"}
+,{"time":"0:52","usr":"rpmmicro","txt":"RT @wallstCS: Services Sector Review: Google Wallet, Cereal Sees Q1 Decline http://t.co/YdKSSDqc $AAPL $AMZN $GOOG $MCD $MHS $TRP $TXN $WMT","lbl":"Neutral"}
+,{"time":"10:53","usr":"mothership","txt":"@stevenplace the $goog","lbl":"Neutral"}
+,{"time":"12:29","usr":"zubeendedhia","txt":"RT @SAI: Google Paid Apple $1 Billion To Be Its Default Search Engine, Says Analyst $AAPL $GOOG by @jyarow http://t.co/O70Qac2B","lbl":"Neutral"}
+,{"time":"12:38","usr":"iStockAnalyst","txt":"Microsoft (MSFT) Extends Its Lead Over Yahoo (YHOO) In February US Search Engine Share $GOOG $MSFT $YHOO: Softwa... http://t.co/TFxYcte2","lbl":"Neutral"}
+,{"time":"19:57","usr":"ValaAfshar","txt":"Open, interoperable and modular architecture ($GOOG) will kill the integrated, proprietary architecture - Clay Christensen.","lbl":"Neutral"}
+,{"time":"20:00","usr":"EquitiesNetwork","txt":"The consequences of #business models depending on #Google and its #algorithms: http://t.co/N4WWloJD $GOOG #SEO $ZNGA #SearchEngine $FB $AOL","lbl":"Neutral"}
+]

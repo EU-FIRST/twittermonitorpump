@@ -1,0 +1,26 @@
+[
+{"time":"1:19","usr":"guttrader","txt":"$AAPL, $GS, $GOOG, $BIDU, $NFLX, $IBM, $CAT, $AMZN, $FFIV, $JCP, $IOC, $ARNA, $LVS if u love these stocks join us http://t.co/qk5n1zBP","lbl":"Positive"}
+,{"time":"1:32","usr":"djmastamynd","txt":"RT @chrispycrunch: 10 Reasons Blackberry 10 Will Help RIM Survive 2013 | Blogging Idol | Blogosphere http://t.co/wTKDweHS $RIMM $AAPL $GOOG $NOK $MSFT","lbl":"Neutral"}
+,{"time":"1:57","usr":"StockMarket411","txt":"Investors That Bought Tech Stocks Google, Intel and Apple in the Third Quarter $goog http://t.co/v7YIrCBj goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"7:52","usr":"petergo99037185","txt":"RT @vid_e: Please let Bernanke & Schaeuble shut up just for today. Take a holiday, go shopping, just stay away from cameras $aapl $goog $spy $qqq","lbl":"Neutral"}
+,{"time":"7:53","usr":"mdcarlso","txt":"Commented on: \u0022Wall Street Breakfast: Must-Know News\u0022 http://t.co/Mc3sdbnd $HPQ $SPY $QQQ $ACTG $CBS $FLO $GLCNF.PK $GOOG $IDCC","lbl":"Neutral"}
+,{"time":"9:07","usr":"howierhee","txt":"RT @SAI: This Guy Left A Cushy Job At Google To Do A Startup...And Now He\u0027s Up To His Ears In Debt $GOOG by @meganrosedickey http://t.co/Zlmld92I","lbl":"Neutral"}
+,{"time":"9:10","usr":"yoavlurie","txt":"RT @SAI: This Guy Left A Cushy Job At Google To Do A Startup...And Now He\u0027s Up To His Ears In Debt $GOOG by @meganrosedickey http://t.co/Zlmld92I","lbl":"Neutral"}
+,{"time":"9:51","usr":"RDeanon","txt":"Will Vringo $VRNG gives us post Thanksgiving or Pre-Christmas surprise ?!!!! $GOOG $VHC $FB $MSFT","lbl":"Neutral"}
+,{"time":"9:52","usr":"Jonmayke","txt":"RT @SAI: Some Wonder If This Is The Next Big Smartphone Platform $GOOG $NOK $MSFT $AAPL by @nichcarlson http://t.co/GeNoNcjR","lbl":"Neutral"}
+,{"time":"9:53","usr":"DeidreZune","txt":"Rivals question Google Fiber\u0027s network longevity http://t.co/Gts3SzPA $GOOG $VZ $T #CASE of #SOURGRAPES","lbl":"Negative"}
+,{"time":"10:36","usr":"petergo99037185","txt":"$GOOG -8 $AAPL -1, HOLIDAY SALE?","lbl":"Neutral"}
+,{"time":"11:23","usr":"HobiBola","txt":"RT @SAI: This Guy Left A Cushy Job At Google To Do A Startup...And Now He\u0027s Up To His Ears In Debt $GOOG by @meganrosedickey http://t.co/Zlmld92I","lbl":"Neutral"}
+,{"time":"11:24","usr":"Empaxis","txt":"RT @businessinsider: The Biggest Tech Flops Of 2012 $RIMM $AAPL $AMZN $GOOG $FB $YHOO $ZNGA by @jyarow http://t.co/8oMct8Pw","lbl":"Negative"}
+,{"time":"11:24","usr":"wallstCS","txt":"Has Microsoft\u0027s Bing Strategy Paid Off? http://t.co/JgPRTl14 $YHOO $GOOG $BIDU $YELP #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"12:12","usr":"thomsonreuters","txt":"Google\u2019s Eric Schmidt on online privacy - http://t.co/LBYaKfBD $GOOG","lbl":"Neutral"}
+,{"time":"12:14","usr":"Stuey_B","txt":"RT @SAI: The Biggest Tech Flops Of 2012 $RIMM $AAPL $AMZN $GOOG $FB $YHOO $ZNGA by @jyarow http://t.co/m2JawW4T","lbl":"Negative"}
+,{"time":"12:15","usr":"JenRCurry","txt":"#13F Watch: portfolio managers big on $GOOG, $MSFT, $GE, $PG, and $CSCO http://t.co/nU3soN5L","lbl":"Positive"}
+,{"time":"13:24","usr":"urisahealth","txt":"RT @thomsonreuters: Google\u2019s Eric Schmidt on online privacy - http://t.co/LBYaKfBD $GOOG","lbl":"Neutral"}
+,{"time":"13:24","usr":"mench90","txt":"RT @SAI: Some Wonder If This Is The Next Big Smartphone Platform $GOOG $NOK $MSFT $AAPL by @nichcarlson http://t.co/GeNoNcjR","lbl":"Neutral"}
+,{"time":"14:15","usr":"TraderDR","txt":"@TrendRida guy was dead-on, loss leader garbage removes all incentive to innovation or improve anything, thanks $AMZN and $GOOG","lbl":"Neutral"}
+,{"time":"14:15","usr":"TrendRida","txt":"Love this comment by a dude named biodam \u0022$GOOG and $AMZN should be penalized for messing with Moore\u0027s law.\u0022 http://t.co/gNy3GxV0","lbl":"Negative"}
+,{"time":"15:15","usr":"LibertineMomani","txt":"RT @herbgreenberg: dum de dum dum... $GOOG trading at 666","lbl":"Positive"}
+,{"time":"16:17","usr":"MysteryMan78","txt":"RT @ACInvestorBlog: $VRNG $GOOG $AOL Judge Orders Google Pay Vringo $15.8M + 3.5% Running Royalty Rate http://t.co/cggkkak1","lbl":"Negative"}
+,{"time":"19:24","usr":"CalviCarlo","txt":"RT @retheauditors: My article on offshore profit shifting by $SBUX $GOOG and $HP $MSFT in the December issue of @accountancylive","lbl":"Neutral"}
+]

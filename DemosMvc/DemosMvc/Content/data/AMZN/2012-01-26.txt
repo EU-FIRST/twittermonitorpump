@@ -1,0 +1,20 @@
+[
+{"time":"0:10","usr":"StocialPicks","txt":"Michelle T. made a pick on Stocial. Long $AMZN at 187.95. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"0:15","usr":"$AMZN","txt":"$AMZN No matter how you slice it, this is the best place to shop on line for everything! One stop shopping, excellent prices and service.","lbl":"Positive"}
+,{"time":"9:17","usr":"ManijehM","txt":"$NFLX made me proud lets see if $AMZN do the same","lbl":"Neutral"}
+,{"time":"9:55","usr":"BioStockAddict","txt":"$AMZN there she goes...","lbl":"Neutral"}
+,{"time":"9:55","usr":"3Fers","txt":"@CreateCapital I like your $AMZN call, but why 186/210 - if I may ask?","lbl":"Positive"}
+,{"time":"10:30","usr":"YW_MF","txt":"$amzn $goog $nflx $aapl $bac $gs $c $jpm ----","lbl":"Neutral"}
+,{"time":"11:34","usr":"wallstdaily","txt":"\u201CMade in America\u201D Means Nothing to Apple Investors: http://t.co/SF9cFVFu $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"13:17","usr":"wallstCS","txt":"http://t.co/gHRWI5iz Inc. Fourth Quarter Earnings Sneak Peek http://t.co/JHC60y4S $SPY $AMZN $EBAY $WMT $OSTK $GOOG $BKS $COST #stocks #mkt","lbl":"Neutral"}
+,{"time":"15:01","usr":"AMZN_stock","txt":"$AMZN real time quote, 3:01PM EST: 191.91 +4.11 (+2.19%).","lbl":"Neutral"}
+,{"time":"15:01","usr":"Minyanville","txt":"#Option Trading: Using Butterfly Positions In #Amazon To Gain Profits http://t.co/20IDthuJ $AMZN","lbl":"Neutral"}
+,{"time":"15:03","usr":"gurufocus","txt":"Short Sellers Circle Around Gamestop : $GME, $BBY, $AMZN http://t.co/X7nRVLKu","lbl":"Negative"}
+,{"time":"15:40","usr":"SeekingAlpha","txt":"At Least Not Every Netflix Analyst Is Certifiably Insane http://t.co/X2LaATTr $AAPL $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"15:42","usr":"Fuelnu","txt":"RT @SeekingAlpha: At Least Not Every Netflix Analyst Is Certifiably Insane http://t.co/X2LaATTr $AAPL $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"16:51","usr":"options911","txt":"$AMZN about to break neckline on inverse head and shoulders?! -- daily","lbl":"Negative"}
+,{"time":"16:54","usr":"ManiOhli","txt":"Option Millionaires: 10baggerscape: $AMZN NICE CLOSE,BOUGHT SOME LOTTO 200 CALLS TO http://t.co/HjbfSzEk","lbl":"Positive"}
+,{"time":"18:39","usr":"henrygambell","txt":"Bears finally made a showing into the close, does it stick into tomorrow? Recap $MA $AMZN & $GLD http://t.co/viM4rgmi","lbl":"Negative"}
+,{"time":"20:55","usr":"carmenhill8","txt":"Amazoncom Inc $AMZN Climbed Past 2%. Metro Finds Cheap Not Enough as Investors Press Chief to Def: http://t.co/dSrHerKe","lbl":"Neutral"}
+,{"time":"20:58","usr":"luisferfranco","txt":"I\u0027m not very good at technicals, but could it be possible that $AMZN is forming a flag with low of 185 and high of 195?","lbl":"Positive"}
+]

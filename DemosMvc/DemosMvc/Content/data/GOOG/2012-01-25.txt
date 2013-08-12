@@ -1,0 +1,62 @@
+[
+{"time":"0:21","usr":"paragonjr","txt":"\u2756 $AAPL \u25CF $AMZN \u25CF $GOOG \u25CF $MSFT \u25CF $DELL \u25CF $HPQ \u27A4 http://t.co/ceHErIQe | #apple #amazon #google #microsoft #dell #hp | #stock #trends","lbl":"Neutral"}
+,{"time":"0:22","usr":"punksgt","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/VR6EEtpT #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"0:32","usr":"EthertonSwitch","txt":"$GOOG http://t.co/vaizc5KM $GOOG near support, and is close to 50% fib line","lbl":"Positive"}
+,{"time":"6:18","usr":"InFullBloomUS","txt":"RT @ekolsky: $AAPL makes more profit in one quarter than $GOOG has in revenue, has more cash-at-hand than 200 countries -- and they pay almost no taxes?","lbl":"Negative"}
+,{"time":"6:36","usr":"INIDena","txt":"Amazing! RT @SAI Apple\u0027s PROFIT Was Higher Than Google\u0027s REVENUE Last Quarter $GOOG $AAPL by @mattlynley http://t.co/7JuXLmqd","lbl":"Negative"}
+,{"time":"6:40","usr":"reaganwr","txt":"RT @SAI: Apple\u0027s PROFIT Was Higher Than Google\u0027s REVENUE Last Quarter $GOOG $AAPL by @mattlynley http://t.co/CMpBWbhi","lbl":"Neutral"}
+,{"time":"6:41","usr":"thefinancepress","txt":"$GOOG Irish Data Protection Agency \u0027Assessing\u0027 Google Privacy Policy: Irish Data Protection Agency \u0027Assessing\u0027 ... http://t.co/5mqvgNuh","lbl":"Neutral"}
+,{"time":"8:09","usr":"Milton_Rosario","txt":"RT @businessinsider: 10 Things You Need To Know Before The Opening Bell $SPY $GOOG $YHOO $ILMN $COP $NFLX $BA by @mamtabadkar http://t.co/CMUEWRmk","lbl":"Neutral"}
+,{"time":"8:11","usr":"punksgt","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/iWjPihIW #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"8:12","usr":"jmccastlain","txt":"RT @ritholtz: Google to track consumers across products; users can\u2019t opt out http://t.co/SU5pfl0f $GOOG $$","lbl":"Neutral"}
+,{"time":"9:10","usr":"itbot1","txt":"RT@SAI BOOM: Apple Passes Android To Take The Market Share Lead In The U.S., Says Kantar $GOOG $AAPL by @jyarow http://t.co/bd25Uu2t","lbl":"Negative"}
+,{"time":"9:10","usr":"SeekingAlpha","txt":"5 Reasons Apple Is Currently Cheap http://t.co/yfvxqhjm $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"9:10","usr":"ValaAfshar","txt":"Apple\u0027s U.S. market share passes Android http://t.co/z5d4UjGQ $AAPL $GOOG","lbl":"Negative"}
+,{"time":"9:10","usr":"andyabramson","txt":"RT @SAI: BOOM: Apple Passes Android To Take The Market Share Lead In The U.S., Says Kantar $GOOG $AAPL by @jyarow http://t.co/JdsXtqcK","lbl":"Negative"}
+,{"time":"9:41","usr":"hainsworthtv","txt":"RT @SAI: BOOM: Apple Passes Android To Take The Market Share Lead In The U.S., Says Kantar $GOOG $AAPL by @jyarow http://t.co/JdsXtqcK","lbl":"Neutral"}
+,{"time":"9:41","usr":"CitizenGunner","txt":"RT @businessinsider: BOOM: Apple Passes Android To Take The Market Share Lead In The U.S., Says Kantar $GOOG $AAPL by @jyarow http://t.co/t6buE13i","lbl":"Negative"}
+,{"time":"9:42","usr":"powerpoints_net","txt":"$GOOG gap #1 down to 474.27 filled. Gap #2 down to $559.00 is next","lbl":"Positive"}
+,{"time":"9:57","usr":"sugg_business","txt":"RT @jimcramer: $AAPL should by Twitter--need that social leg to keep going higher and blunt $GOOG","lbl":"Neutral"}
+,{"time":"9:57","usr":"StrayTrader","txt":"Comparing $AAPL and $GOOG quarters and EPS, you have to wonder why $AAPL should have a lower share price than $GOOG","lbl":"Neutral"}
+,{"time":"9:57","usr":"rogerchucker","txt":"@jimcramer why do you hate $GOOG so much?","lbl":"Negative"}
+,{"time":"10:15","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/321, $SPY/28, $JCP/24, $NFLX/20, $GOOG/18, $HGSI/16, $MSFT/16, $BA/14. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"10:15","usr":"chrisknuet","txt":"OK, back into $GOOG. Glad I got out in December, now lets hope it\u0027s up from here.","lbl":"Neutral"}
+,{"time":"10:16","usr":"racernic","txt":"$GOOG entry now would be good. this dip likely exaggerated by the piling into $AAPL. will wait a bit and sell few safe feb put spreads soon","lbl":"Positive"}
+,{"time":"10:52","usr":"dschorrnyc","txt":"Is $goog down on this privacy thing? Or is it also that $aapl is crushing it?","lbl":"Negative"}
+,{"time":"10:52","usr":"punksgt","txt":"iPhones for Psychos http://t.co/dmOAVjnK #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"11:24","usr":"JoshNursing","txt":"5 Ways That Android Is Trying To Break The Mobile UI Paradigm http://t.co/6GG3z9a3 via @zite $aapl $goog $armh","lbl":"Neutral"}
+,{"time":"11:27","usr":"BuyOnTheDip","txt":"$GOOG $BIDU $YNDX ... search & rescue. long 2 of 3","lbl":"Neutral"}
+,{"time":"11:27","usr":"conorsen","txt":"@chrisparnin Right. I think Facebook EV should be around $80bn and $GOOG EV more like $200bn.","lbl":"Neutral"}
+,{"time":"12:01","usr":"RaviRomo","txt":"Look for $GOOG to be SOURCE of CASH as $AAPL rises into the next few months and $FCBOOK IPO arrives.","lbl":"Positive"}
+,{"time":"12:01","usr":"MaverickNY","txt":"RT @ppearlman: astonishing $GOOG would risk its bread and butter http://t.co/kJ3q9LRT but im looking at search & see what theyre saying.","lbl":"Neutral"}
+,{"time":"12:29","usr":"$BIDU","txt":"Yahoo! Japan CFO Says Talks Ongoing, Per WSJ - Tech Trader Daily- Barron\u0027s $YHOO $MSFT $GOOG $BIDU $RENN $YOKU http://t.co/9Jiv3EKs","lbl":"Neutral"}
+,{"time":"12:29","usr":"MichaelShinder","txt":"Damn crazy action slapping $goog all over","lbl":"Negative"}
+,{"time":"12:30","usr":"SeekingAlpha","txt":"Research In Motion: Buy The (BlackBerry 10) Rumor http://t.co/VRvxIKjc $AAPL $GOOG $MMI $RIMM","lbl":"Neutral"}
+,{"time":"12:30","usr":"thefinancepress","txt":"$GOOG Oversold Conditions For Google Inc (GOOG): Oversold Conditions For Google Inc (GOOG) http://t.co/aIQ5o3eM ... http://t.co/d7yMKkxV","lbl":"Positive"}
+,{"time":"13:01","usr":"abnormalreturns","txt":"Wednesday links: financial intermediation, the farmland bubble and a clutter-free work space. http://t.co/VPmXwXVi $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:02","usr":"ppearlman","txt":"@allanbreports fair and good point tho the present search page presently looks much worse and far noisier then it used to. $GOOG","lbl":"Negative"}
+,{"time":"13:02","usr":"_DespBj","txt":"RT @jimcramer: $AAPL should by Twitter--need that social leg to keep going higher and blunt $GOOG","lbl":"Neutral"}
+,{"time":"13:04","usr":"bingobaa","txt":"RT @SAI: Stop What You\u0027re Doing, And Go See What Google Thinks It Knows About You $GOOG by @jyarow http://t.co/U9vsqu2m","lbl":"Neutral"}
+,{"time":"13:39","usr":"IBDinvestors","txt":"RT IBD\u0027s @TrangHoETFs Apple Earnings Surprise Boosts Technology Exchange Traded Funds http://t.co/kNkT1tXB $AAPL $GOOG $IGM","lbl":"Positive"}
+,{"time":"13:39","usr":"wsmco","txt":"@upsidetrader i\u0027m long $GOOG but wanted to give you props for your short call on them day or 2 - and 20 some points ago.","lbl":"Positive"}
+,{"time":"13:40","usr":"SeekingAlpha","txt":"Google\u0027s Real Challenge Is Creating Transactions http://t.co/e3X2jHEw $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:40","usr":"herbgreenberg","txt":"Will the new $GOOG privacy laws push me to Bing or -- egads! -- Yahoo? $YHOO $MSFT","lbl":"Neutral"}
+,{"time":"14:15","usr":"bornalady85","txt":"RT @businessinsider: The Best Tablets You Can Buy In 2012 $GOOG $AAPL $MSFT by @stevekovach http://t.co/5WIztEE6","lbl":"Neutral"}
+,{"time":"14:15","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/88, $SPY/42, $GLD/34, $GOOG/25, $TLT/21, $SLV/17, $BA/16, $NFLX/13. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:16","usr":"DiscoverWallSt","txt":"joepcf: $GOOG 580 W Calls bailed took the loss: joepcf http://t.co/VqpwLr6z","lbl":"Negative"}
+,{"time":"14:45","usr":"Japanesegunto","txt":"Profitable on $Goog, $MCD, $AAPL earnings..3/3..$AMZN and $BIDU and $NFLX (Option is too expensive....not sure about the how points swing)","lbl":"Positive"}
+,{"time":"14:45","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/95, $SPY/45, $GOOG/25, $GLD/18, $RIMM/17, $TLT/16, $JCP/11, $CF/10. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:46","usr":"SAI","txt":"Here\u0027s Who Pays The Most In Silicon Valley $AAPL $YHOO $GOOG $CSCO $ORCL $HPQ by @jyarow http://t.co/7J1dQvIV","lbl":"Neutral"}
+,{"time":"14:47","usr":"MarketPlunger","txt":"$GOOG update(a bit late sorry): 150sma breached. next level I\u0027m watching is 200sma around $562.","lbl":"Neutral"}
+,{"time":"15:24","usr":"Buzz81","txt":"@LiquidBedouin @CAbN but but, Apple\u0027s Profit Was Higher Than Google\u0027s Revenue Last Quarter $GOOG, $AAPL . LOL.","lbl":"Negative"}
+,{"time":"15:24","usr":"iStockAnalyst","txt":"Avoid These 2 High-Yield Stocks -- And Own These 2 Instead $AAPL $CPY $GOOG $HCN $MXM $NHI $NNYP $NOK $NZT $QCOM... http://t.co/qM7Oosro","lbl":"Positive"}
+,{"time":"16:30","usr":"dukedevil23","txt":"Google thinks I am a 65+ year old man. MT@businessinsider Go See What Google Thinks It Knows About You $GOOG by @jyarow http://t.co/Q5Tls2u8","lbl":"Neutral"}
+,{"time":"16:30","usr":"JMDmultimedia","txt":"Google\u2019s Broken Promise http://t.co/qNWOX6DZ $GOOG","lbl":"Negative"}
+,{"time":"16:33","usr":"FXTraderUpdates","txt":"Open Letter To RIMM And Google $AAPL $GOOG $RIMM $USB http://t.co/tLAGCKWU #Forex #Trading #Traders","lbl":"Neutral"}
+,{"time":"16:33","usr":"iStockAnalyst","txt":"Open Letter To RIMM And Google $AAPL $GOOG $RIMM $USB: In development of something brought forward on the forum ... http://t.co/7COd4icC","lbl":"Neutral"}
+,{"time":"18:35","usr":"angryspeculator","txt":"How is Nancy Pelosi not arrested yet or investigated for insider trading yet on $V $MA step up u pussy attorneys $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"20:27","usr":"ronguest","txt":"RT @businessinsider: Stop What You\u0027re Doing, And Go See What Google Thinks It Knows About You $GOOG by http://t.co/GugP6WuM","lbl":"Neutral"}
+,{"time":"20:31","usr":"martinmaslo","txt":"@alfonsolg mi tech watch list: $GOOG (long & buying dips), $ZNGA (long @ 8.7) $NFLX (chasing) y $AMZN (long @ 200 on hold) y miro $GLW abz","lbl":"Positive"}
+,{"time":"20:33","usr":"bullbear365","txt":"I like this newsletter too. ShadowTraderPro Swing Trader 01.26.12 $LVS $GOOG $DKS #stocks #trading","lbl":"Neutral"}
+,{"time":"20:34","usr":"Keith_in_Japan","txt":"@RT_com: #Google to track users like never before. http://t.co/PRp1H34u $GOOG","lbl":"Neutral"}
+]

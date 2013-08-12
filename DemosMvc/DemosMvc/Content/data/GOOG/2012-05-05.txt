@@ -1,0 +1,18 @@
+[
+{"time":"0:14","usr":"mgreco84","txt":"RT @Reuters: Judge urges more deliberations in #Android case between #Google and #Oracle Corp http://t.co/3Z0gT32p $GOOG $ORCL","lbl":"Neutral"}
+,{"time":"0:20","usr":"SeekingAlpha","txt":"Lessons From Earnings Plays http://t.co/Sz672NiY $AAPL $AMZN $BIDU $GMCR $GOOG $NFLX","lbl":"Neutral"}
+,{"time":"10:58","usr":"TheSaaSGuy","txt":"$GOOG expect to make $840.2m from Android mobile ads in 2012 vs just $35.9m on apps sales @Verge #in http://t.co/p22oq1pe","lbl":"Positive"}
+,{"time":"10:58","usr":"cvas","txt":"@TylerSoliday why not? Ad rev got you scared? Reminds me of what they said about $GOOG","lbl":"Neutral"}
+,{"time":"11:01","usr":"DMacBoston","txt":"Also watching for $GOOG to lose that 200 SMA","lbl":"Negative"}
+,{"time":"11:07","usr":"ribeiroharman","txt":"RT @TheStreet: Why Oracle vs. Google Matters to You http://t.co/is45b6Zt $GOOG $ORCL","lbl":"Neutral"}
+,{"time":"14:24","usr":"angry_veteran","txt":"Generally speaking this is how I make investment decisions. $$ $SPY $bidu $goog $JPM $ge $iwm #stocks http://t.co/kXxVoTgb","lbl":"Neutral"}
+,{"time":"14:27","usr":"RyanRuggiero","txt":"Warren Buffett: Apple and Google Too Risky For Me http://t.co/kmyTKivp $AAPL $Goog #apple #google","lbl":"Negative"}
+,{"time":"14:28","usr":"CNBC","txt":"Warren Buffett: Apple and Google Too Risky For Me http://t.co/hjVdutMp $AAPL $GOOG #BuffettWatch","lbl":"Negative"}
+,{"time":"14:42","usr":"tw_top_business","txt":"RT @CNBC: Warren Buffett: Apple and Google Too Risky For Me http://t.co/hjVdutMp $AAPL $GOOG #BuffettWatch","lbl":"Negative"}
+,{"time":"14:43","usr":"Zain_hafeez","txt":"RT @CNBC: Warren Buffett: Apple and Google Too Risky For Me http://t.co/hjVdutMp $AAPL $GOOG #BuffettWatch","lbl":"Negative"}
+,{"time":"14:43","usr":"AHM1403","txt":"RT @moe_alhammadi: \u0022@CNBC: Warren Buffett: Apple and Google Too Risky For Me http://t.co/4RW2fzfI $AAPL $GOOG #BuffettWatch\u0022 RT WOOOOPS!","lbl":"Negative"}
+,{"time":"14:45","usr":"bwireless","txt":"RT @CNBC: Warren Buffett: Apple and Google Too Risky For Me http://t.co/hjVdutMp $AAPL $GOOG #BuffettWatch","lbl":"Negative"}
+,{"time":"16:15","usr":"thefinancepress","txt":"$GOOG Apple Not A Buy Says Buffett: Apple Not A Buy Says Buffett ValueWalk - 23 minutes ago By Paul Shea Warre... http://t.co/bd8GyZqK","lbl":"Negative"}
+,{"time":"16:27","usr":"DarrionScott","txt":"RT @CNBC: Warren Buffett: Apple and Google Too Risky For Me http://t.co/hjVdutMp $AAPL $GOOG #BuffettWatch","lbl":"Negative"}
+,{"time":"16:29","usr":"DatDudeKings","txt":"RT @CNBC: Warren Buffett: Apple and Google Too Risky For Me http://t.co/hjVdutMp $AAPL $GOOG #BuffettWatch","lbl":"Negative"}
+]

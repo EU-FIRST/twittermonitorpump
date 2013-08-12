@@ -1,0 +1,40 @@
+[
+{"time":"2:56","usr":"sergiazo","txt":"RT @MattRosoff: Google May Have Made The Worst Mistake In Its History This Week $GOOG $MSFT http://t.co/2armLV8W","lbl":"Negative"}
+,{"time":"2:58","usr":"SivanRBarnea","txt":"RT @MattRosoff: Microsoft Has Painted A Patent Target On Chrome $MSFT $GOOG http://t.co/HfZd4uRz","lbl":"Negative"}
+,{"time":"2:58","usr":"1MattHopkins","txt":"RT @SAI: Google May Have Made The Worst Mistake In Its History This Week $GOOG $MSFT by @MattRosoff http://t.co/NB5QRgdm","lbl":"Negative"}
+,{"time":"2:59","usr":"tiogaventure","txt":"RT @SAI: Google May Have Made The Worst Mistake In Its History This Week $GOOG $MSFT by @MattRosoff http://t.co/NB5QRgdm","lbl":"Negative"}
+,{"time":"5:31","usr":"Stockpulse1","txt":"$GOOG Google is extremely talked up in Social Media at the moment. MattRosoff, West Coast Editor for Business... http://t.co/RcydHX8T","lbl":"Negative"}
+,{"time":"5:32","usr":"esterdenicolas","txt":"#MuertaMeQuedo RT @SAI: \u0022Google May Have Made The Worst Mistake In Its History This Week $GOOG $MSFT by @MattRosoff http://t.co/O5pNEJQT\u201D","lbl":"Negative"}
+,{"time":"8:03","usr":"PaddyGray","txt":"\u201C@SeekingAlpha: Google Faces Another PR Disaster http://t.co/UBDiAQXB $GOOG\u201D this is nuts","lbl":"Negative"}
+,{"time":"8:07","usr":"stocial","txt":"60 minute Trending Social Volume: $JPM/68, $AAPL/15, $SPY/13, $BAC/9, $C/8, $GS/7, $GOOG/5, $GLD/4, $NVS/3. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"8:08","usr":"thefinancepress","txt":"$GOOG Top 10 Best-Rated NASDAQ-100 Stocks: VOD, AAPL, ESRX, WCRX, SIRI, ATVI, GOOG ...: Top 10 Best-Rated NASDA... http://t.co/jq3GH095","lbl":"Neutral"}
+,{"time":"8:19","usr":"DrorYashar","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $ZNGA by @_dtl http://t.co/QPEJ93vm","lbl":"Neutral"}
+,{"time":"9:47","usr":"BioTechReports","txt":"$NFLX breaking out huge! $BAC, $C, $SIRI, $JPM, $WFC, $WMT, $AMZN, $GOOG, $AAPL","lbl":"Neutral"}
+,{"time":"9:48","usr":"BioTechReports","txt":"Be careful of the $YMI tree shake! Will break out soon imo $BAC, $C, $NFLX, $DNDN, $WFC, $JPM, $AMZN, $GOOG, $AAPl","lbl":"Neutral"}
+,{"time":"9:50","usr":"SeekingAlpha","txt":"Key Stocks Reporting Earnings Next Week: Part 2, Technology http://t.co/X3sqnBpQ $FFIV $GOOG $CREE $EBAY $XLNX $INTC","lbl":"Neutral"}
+,{"time":"9:52","usr":"BioTechReports","txt":"The $NFLX break out continues - up almost $3/share! $BAC, $WFC, $JPM, $SIRI, $GOOG, $AMZN, $AAPL","lbl":"Neutral"}
+,{"time":"10:42","usr":"thefinancepress","txt":"$GOOG Google Inc. (NASDAQ:GOOG) Expands Board: Google Inc. (NASDAQ:GOOG) Expands Board StocksandShares.TV - 8 m... http://t.co/c1MBYDGg","lbl":"Neutral"}
+,{"time":"11:39","usr":"LaurenYoung","txt":"How to make money from the ever-changing tech landscape http://t.co/ZeFqcdCr $AAPL $GOOG $DELL","lbl":"Neutral"}
+,{"time":"12:22","usr":"BioTechReports","txt":"$BPAX getting ready to run!!!!! $BAC, $C, $NFLX, $DNDN, $GOOG, $JPM, $WMT","lbl":"Neutral"}
+,{"time":"12:23","usr":"61point8","txt":"$GOOG the downside target of the HS pattern published yesterday was hit on the nose ($621). http://t.co/uQYiPIsj","lbl":"Positive"}
+,{"time":"12:25","usr":"arpatil","txt":"RT @SAI: Let\u0027s Just Calm Down: Google Didn\u0027t Just Break Its Search Engine $GOOG $MSFT by @jyarow http://t.co/wFvOMAji","lbl":"Neutral"}
+,{"time":"12:26","usr":"dslevy","txt":"RT @SAI: Let\u0027s Just Calm Down: Google Didn\u0027t Just Break Its Search Engine $GOOG $MSFT by @jyarow http://t.co/wFvOMAji","lbl":"Neutral"}
+,{"time":"13:24","usr":"JalelTounsi","txt":"RT @SAI: How Larry Page Plans To Change Google Forever In 2012 $GOOG by @MattRosoff http://t.co/q0tyvMaz","lbl":"Neutral"}
+,{"time":"13:25","usr":"imranhossainn","txt":"based on the Euro news, tuesday might be ugly $AAPL, $goog, $nflx $ma","lbl":"Neutral"}
+,{"time":"13:27","usr":"carmenhill8","txt":"Google Inc $GOOG Slightly Dropping. Google Inc. (NASDAQ:GOOG) Set To Host Event: http://t.co/PFQ2x2mR","lbl":"Negative"}
+,{"time":"14:24","usr":"bigmovingstock","txt":"RT @jomarzii: \u0022In tech, you don\u0027t lose because you make competitors angry. You lose when you make your customers angry.\u0022 $GOOG $MSFT http://t.co/HtcU0K1w","lbl":"Neutral"}
+,{"time":"14:26","usr":"AKPalit","txt":"#google search integration with #google+ is starting to raise privacy and antitrust concerns. $goog","lbl":"Negative"}
+,{"time":"15:06","usr":"ManiOhli","txt":"Option Millionaires: Mikey: can i get an amen on $GOOG being http://t.co/Z0naKeoZ","lbl":"Positive"}
+,{"time":"15:06","usr":"Tangletrade","txt":"RT @aztecs99: yikes, that was a big volume bar on $goog --> And that crushed call holders, now rally back to $625","lbl":"Positive"}
+,{"time":"15:06","usr":"kwahba","txt":"RT @SAI: How Larry Page Plans To Change Google Forever In 2012 $GOOG by @MattRosoff http://t.co/q0tyvMaz","lbl":"Neutral"}
+,{"time":"15:07","usr":"stocktwits_suck","txt":"Angry iPhone Mobs In China http://t.co/QdZU4QcV #china #iPhone #andriod $goog $aapl $t $vz #news","lbl":"Neutral"}
+,{"time":"15:46","usr":"DivIncome247","txt":"RT @TheAppleStock: 3 Reasons Why Potential iPhone Buyers Should Wait for iPhone 5 http://t.co/6iARH6Fg #iPhone 5 #iPhone #Apple $AAPL $GOOG $CHL","lbl":"Neutral"}
+,{"time":"15:46","usr":"RaviRomo","txt":"Good action in $GOOG $AAPL. Held back only by macro market.","lbl":"Positive"}
+,{"time":"15:47","usr":"fairsearch","txt":"RT @MattRosoff: Three Examples Where The Government Has Said Google Is Dominant $GOOG http://t.co/3AQwNMKP","lbl":"Neutral"}
+,{"time":"15:48","usr":"MyParExcellence","txt":"RT @CMEGroup: A good read on Search+ -- Foursquare, Google, And The Search Schism Of 2012 http://t.co/RbP4tGlg $GOOG","lbl":"Neutral"}
+,{"time":"17:43","usr":"thefinancepress","txt":"$GOOG Apple Loses Ruling in Patent Case: Apple Loses Ruling in Patent Case Bloomberg - 5 minutes ago Apple Inc... http://t.co/Gg4iIDDx","lbl":"Neutral"}
+,{"time":"17:46","usr":"$GOOG","txt":"$GOOG apologizes over the Mocality debacle. It was indeed $GOOG personnel who were involved: https://t.co/ub2A1sRn","lbl":"Negative"}
+,{"time":"17:48","usr":"OptionsTrader82","txt":"RT @TraderFlorida: $GOOG http://t.co/PI3Je56J Buyers stepping in holding above this support line","lbl":"Positive"}
+,{"time":"21:47","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"21:52","usr":"DiscoverWallSt","txt":"Hcotton: Awesome! good thing about $GOOG is that it: Hcotton http://t.co/BQLLC2Vx","lbl":"Positive"}
+]

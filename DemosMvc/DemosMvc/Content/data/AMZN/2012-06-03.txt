@@ -1,0 +1,6 @@
+[
+{"time":"8:29","usr":"djnishka","txt":"RT @GrowTweets: http://t.co/ancu9nj9 ; Find out if $FB , $AMZN, and $AAPL will go up or down: Get the charts","lbl":"Neutral"}
+,{"time":"8:32","usr":"SuperNovaPromos","txt":"RT @GrowTweets: http://t.co/ancu9nj9 ; Find out if $FB , $AMZN, and $AAPL will go up or down: Get the charts","lbl":"Neutral"}
+,{"time":"10:43","usr":"SuperNovaPromos","txt":"http://t.co/KihdVeMP > Find out if $FB , $AMZN, and $AAPL will go up or down) Get the charts!","lbl":"Neutral"}
+,{"time":"21:58","usr":"freespiderlinks","txt":"http://t.co/9RB6AAEy | Find out if $FB , $AMZN, and $AAPL will go up or down! Get the charts","lbl":"Neutral"}
+]

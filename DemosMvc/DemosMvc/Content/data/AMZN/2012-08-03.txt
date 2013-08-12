@@ -1,0 +1,11 @@
+[
+{"time":"6:36","usr":"ACInvestorBlog","txt":"$AMZN Buy area when clears $234.34 on heavy volume","lbl":"Positive"}
+,{"time":"7:57","usr":"stuffandplayx","txt":"RT @jimcramer: $AAPL, $AMZN, $GOOG make a ton of money, $FB doesn\u0027t make a ton. Particularly on mobile. Fact of life.","lbl":"Positive"}
+,{"time":"7:57","usr":"cordial","txt":"@jimcramer Hmm, Walmart managed to grow and have decent margins at the same time, why doesnt $AMZN just do the same then?","lbl":"Neutral"}
+,{"time":"7:58","usr":"RyanSnelgrove","txt":"@jimcramer if $AMZN \u0022wanted to\u0022 -- how ridiculous","lbl":"Neutral"}
+,{"time":"8:30","usr":"wklyopttrades","txt":"$AMZN out at .90","lbl":"Neutral"}
+,{"time":"9:50","usr":"USwwwStocks","txt":"$AMZN News: Amazon Video App, jailbroken iPads Showing Error Message http://t.co/sBKs3JOI #AMZN #Amazon #error","lbl":"Neutral"}
+,{"time":"9:51","usr":"Sangluccitrades","txt":"@askchrishetrade I got $150K in exposure to longs right now in $BAC, $AMZN, $AAPL, $GOOG. Say a prayer for me son your boy is going in.","lbl":"Neutral"}
+,{"time":"12:32","usr":"franche1","txt":"RT @jimcramer: $AAPL, $AMZN, $GOOG make a ton of money, $FB doesn\u0027t make a ton. Particularly on mobile. Fact of life.","lbl":"Positive"}
+,{"time":"12:44","usr":"biggercapital","txt":"Kindle I bought for $50 on $AMZN not minding the sand on the beach http://t.co/UjuOZdaL","lbl":"Neutral"}
+]

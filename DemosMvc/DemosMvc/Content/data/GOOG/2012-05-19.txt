@@ -1,0 +1,11 @@
+[
+{"time":"11:00","usr":"SeekingAlpha","txt":"Investment In Baidu Yi Likely Result In Cost Pressure And Margin Deterioration http://t.co/vaBiKV4S $BIDU $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"11:01","usr":"Qwovadis","txt":"Commented on: \u0022Investment In Baidu Yi Likely Result In Cost Pressure And Margin De... http://t.co/TACUjMN7 $BIDU $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"11:17","usr":"wallstCS","txt":"Weekly Tech Business Recap: Facebook\u0027s Tepid IPO, Yahoo CEO Drama Shift http://t.co/4noC08sY $FB $AAPL $GOOG $ZNGA $YHOO $MSFT $FSLR $QQQ","lbl":"Neutral"}
+,{"time":"11:17","usr":"is4tomj","txt":"$FB has more issued utility patents (23), than $GOOG when $GOOG IPO\u0027ed (7).","lbl":"Neutral"}
+,{"time":"14:42","usr":"Borgiziz","txt":"I stopped out of $GOOG yesterday @ 617.25. Will sell $FB Monday if Market does what it needs to do in order for the Fed to be able to do 0.","lbl":"Negative"}
+,{"time":"14:52","usr":"jonathanalgar","txt":"Insightful social media infographic @gogulf > http://t.co/GXK72UDS. \u0027Avg time spend/month\u0027: 3mins $GOOG VS 405mins $FB. For val, key stat.","lbl":"Neutral"}
+,{"time":"14:53","usr":"G2GLondon","txt":"RT @jonathanalgar: Insightful social media infographic @gogulf > http://t.co/GXK72UDS. \u0027Avg time spend/month\u0027: 3mins $GOOG VS 405mins $FB. For val, key stat.","lbl":"Neutral"}
+,{"time":"21:24","usr":"DMacBoston","txt":"Learning about these candlestick patterns, $GOOG nice example of the dark cloud cover pattern here Wed & Thurs http://t.co/5YGSVt7o #WORDEN","lbl":"Negative"}
+,{"time":"21:35","usr":"USwwwStocks","txt":"$GOOG News: Iran\u0027s Foreign Ministry Threatens To Sue Google (NASDAQ:GOOG) (GOOG, PCLN, MA http://t.co/4hXEsHlF #GOOG #PCLN #Foreign","lbl":"Negative"}
+]

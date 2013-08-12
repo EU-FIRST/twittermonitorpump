@@ -1,0 +1,26 @@
+[
+{"time":"3:17","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AMZN @simplestockqtes http://t.co/lsVWvPkw","lbl":"Neutral"}
+,{"time":"3:51","usr":"lazywisdom","txt":"NEW POST: The Apple Education Event - Can you say Halo Effect? http://t.co/rBmkhTG2 $AMZN $GOOG cc @atul","lbl":"Neutral"}
+,{"time":"7:57","usr":"firstadopter","txt":"$AMZN Kindle Fire huge ramp in 2012 was CENTRAL to the Amazon sell-side community bull thesis. STICK A FORK IN IT. IT\u0027S OVER","lbl":"Negative"}
+,{"time":"7:57","usr":"mcvetetic","txt":"Textbook business has begged revolution for years and $AAPL is the only company to deliver - $AMZN kindle not the right platform","lbl":"Negative"}
+,{"time":"8:00","usr":"SeekingAlpha","txt":"Do Not Blame E-Commerce For A Retailer\u0027s Troubles http://t.co/UCAevPjH $AAPL $AMZN $BBY $BKS $JWN $NILE $TIF $WMT","lbl":"Neutral"}
+,{"time":"8:02","usr":"firstadopter","txt":"Instead of -50% q/q in $AMZN Fire Tablet orders Q4 to Q1, $AAPL iPad orders +27% q/q if you want to directly compare: http://t.co/15PMI0Go","lbl":"Negative"}
+,{"time":"8:42","usr":"stocial","txt":"60 minute Trending Social Volume: $GOOG/35, $AAPL/16, $GE/15, $AMZN/13, $SPY/12, $MSFT/11, $ASIA/8, $INTC/7. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"9:31","usr":"AMZN_stock","txt":"$AMZN real time quote, 9:31AM EST: 191.31 -3.14 (-1.61%).","lbl":"Neutral"}
+,{"time":"10:12","usr":"PavanAtukuri","txt":"RT @SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/7oMTAKD4","lbl":"Negative"}
+,{"time":"10:13","usr":"sil1998","txt":"bot some $amzn","lbl":"Positive"}
+,{"time":"10:13","usr":"lluccipha","txt":"SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/6G5zf3tY","lbl":"Negative"}
+,{"time":"10:53","usr":"GuinevereXandra","txt":"RT @SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/7oMTAKD4","lbl":"Negative"}
+,{"time":"10:59","usr":"barronstechblog","txt":"Apple: Expect Typical \u2018Conservatism\u2019 Tuesday, Says UBS - Tech Trader Daily - $AAPL $GOOG $AMZN $MSFT $RIMM http://t.co/Qq2r3C2Y","lbl":"Neutral"}
+,{"time":"11:20","usr":"timothysykes","txt":"Amazing free video lessons here http://t.co/1xCg5eUn on stock like $NFLX $AMZN $PCLN $GOOG","lbl":"Neutral"}
+,{"time":"12:08","usr":"big3mkt","txt":"MM\u0027S will keep $AMZN near $190 $AAPL close to $425 $GOOG $590 ...imo...done for week congrats all, book those gains!","lbl":"Neutral"}
+,{"time":"12:08","usr":"Brendan_Henry","txt":"The $AMZN 190 calls short is working. But must close it out to leave early to avoid a snow storm in Chicago.","lbl":"Negative"}
+,{"time":"12:41","usr":"O_serpi","txt":"RT @SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/b6fNKj62 korktular","lbl":"Negative"}
+,{"time":"13:23","usr":"wallstCS","txt":"Seasonal Drop in Kindle Fire Tablet PCs http://t.co/WuiXX3By $BKS $AAPL $AMZN #mkt #stocks","lbl":"Negative"}
+,{"time":"13:24","usr":"TraderFlorida","txt":"$AMZN http://t.co/qihuLr6C Sold rest of holdings this morning for nice gains since $173.90\u0027s $AAPL POSTED VIDEO","lbl":"Negative"}
+,{"time":"13:26","usr":"SA_GOOG","txt":"The Google Transition http://t.co/6ofcw68D $AMZN $MMI $GOOG","lbl":"Neutral"}
+,{"time":"15:35","usr":"Lawndale1","txt":"http://t.co/4Pc7t6Yl Netflix\u0027s $NFLX streaming offers just 5 of top 100 2011 movies vs 10 1-yr ago & 40s for $AMZN $AAPL $WMT","lbl":"Neutral"}
+,{"time":"16:04","usr":"TheHarper","txt":"Would love to see $AMZN back-test to its 50-day around 186 to buy back my position $$","lbl":"Negative"}
+,{"time":"17:47","usr":"tw_top_1z142kv","txt":"RT @SAI: Amazon Is So Scared Of The iPad 3 That It Cut Kindle Fire Orders In Half $AMZN $AAPL by @stevekovach http://t.co/7oMTAKD4","lbl":"Negative"}
+,{"time":"21:47","usr":"DMAugustine","txt":"RT @gtotoy $AMZN just filled its gap<==time to go long again at 50d support?","lbl":"Positive"}
+]

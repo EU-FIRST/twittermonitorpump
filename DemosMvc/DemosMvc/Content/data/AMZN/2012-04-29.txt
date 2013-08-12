@@ -1,0 +1,12 @@
+[
+{"time":"6:49","usr":"HTTOS","txt":"My last positions in $AMZN & $AAPL $89 & $96 respectively. If I\u0027d had held through all the crap wouldn\u0027t have to trade this summer. Nice.","lbl":"Positive"}
+,{"time":"7:13","usr":"scalamai","txt":"Why the Amazon Naysayers Should Be Scared - Businessweek http://t.co/oExycHWp $AMZN","lbl":"Positive"}
+,{"time":"7:23","usr":"Qwovadis","txt":"Commented on: \u0022Review Of Analyst Upgrades This Week - Part III\u0022 http://t.co/I0NCcnFD $AAPL $AMZN $AZO $BWLD $CE $CTXS $FFIV $FTNT","lbl":"Neutral"}
+,{"time":"12:41","usr":"QE4sayswhat","txt":"Love how shocked everybody was with $AMZN successful use of cash to invest in growth instead of stockpiling cash (a depreciating asset)...","lbl":"Neutral"}
+,{"time":"15:35","usr":"davehelen1709","txt":"RT @j_krawczuk: like Apple in the USA, Amzon has an elaborate way of avoiding tax in the UK: http://t.co/Lei6BDsX $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"15:36","usr":"StockMarketEnds","txt":"Anti Christ Zionist Amazon is Anti 99% $GEO $CXW #Tickets #Earth #UN #News #Travels #Math #HR #Tech #Health #NGO #Amazon $AMZN #AMZN $GS #GS","lbl":"Neutral"}
+,{"time":"15:46","usr":"StockMarketEnds","txt":"Anti Christ Zionist Amazon is Anti 99% #Amazon #Corn $AMZN #Music #Audio #Stereo #Mic #Rap #Pop #Soul #Seniors #Students #Songs #CD #Lyrics","lbl":"Neutral"}
+,{"time":"19:03","usr":"big3mkt","txt":"$AMZN Amazon agrees on Texas sales tax - MarketWatch http://t.co/kHX2vXbl via @MarketWatch // Amazon loses advantage in Texas","lbl":"Negative"}
+,{"time":"19:04","usr":"v_stktrdr","txt":"RT @big3mkt: $AMZN Amazon agrees on Texas sales tax - MarketWatch http://t.co/kHX2vXbl via @MarketWatch // Amazon loses advantage in Texas","lbl":"Negative"}
+,{"time":"19:08","usr":"Dividend_Lover","txt":"RT @big3mkt: $AMZN Amazon agrees on Texas sales tax - MarketWatch http://t.co/kHX2vXbl via @MarketWatch // Amazon loses advantage in Texas","lbl":"Neutral"}
+]

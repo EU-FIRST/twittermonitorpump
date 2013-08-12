@@ -1,0 +1,15 @@
+[
+{"time":"9:32","usr":"ericjackson","txt":"No wonder Siri never works for me in NYC \u201C@Alea_: Apple\u2019s Siri Feature Doubles IPhone Data Usage http://t.co/Jm6lMfB8\u201D $AAPL $RIMM $GOOG","lbl":"Neutral"}
+,{"time":"9:50","usr":"RoccoPendola","txt":"Commented on: \u00223 Stocks To Buy Because Of Apple\u0027s Dominance\u0022 http://t.co/Rtn8X6E7 $INTC $DELL $HPQ $AMZN $GOOG $NOK $AAPL","lbl":"Neutral"}
+,{"time":"13:03","usr":"jeremy_tOS","txt":"RT @ldrogen: you don\u0027t see $GOOG trying to shove all of its properties into the same UI like Facebook, its about trust and brand and quality","lbl":"Positive"}
+,{"time":"13:03","usr":"TrendRida","txt":"@ldrogen Why do you say $GOOG\u0027s multiple is increasing? Stock hasn\u0027t done squat in 2 years w/ earning increasing...","lbl":"Positive"}
+,{"time":"13:03","usr":"LDrogen","txt":"Facebook\u0027s motto (let\u0027s dumb it down for grandma), Google\u0027s motto (let\u0027s build the best product possible) $GOOG $FBOOK","lbl":"Positive"}
+,{"time":"13:04","usr":"pjdempsey","txt":"@LDrogen what about $GOOG & Currents, Wave & Places? I\u0027d argue that it is more the sum of the parts than the value of individual offerings","lbl":"Neutral"}
+,{"time":"15:04","usr":"hedgefundinvest","txt":"Technical question: Is anyone aware of a way to set up contacts in groups using $GOOG, and retrieve in $AAPL iOS using groups? Thanks!","lbl":"Neutral"}
+,{"time":"15:05","usr":"reopentainment","txt":"$GOOG just sent me an email informing that mobile maps is currently on and reporting my location... how thoughtful of them","lbl":"Neutral"}
+,{"time":"15:06","usr":"Fitzstock2004","txt":"4 every bull, there\u0027s a bear-.Technicals Work--so far your calls R up > +100% ($aapl,$goog-2 weeks)&+20%($amzn-2 days)-stick 2 what works 4U","lbl":"Neutral"}
+,{"time":"19:03","usr":"thefinancepress","txt":"$GOOG Barnes & Noble has Strategic Schizophrenia: Barnes & Noble has Strategic Schizophrenia Wall St. Cheat She... http://t.co/hg0c8pLa","lbl":"Negative"}
+,{"time":"19:08","usr":"top_stock_news","txt":"Google X research facility and its secret projects http://t.co/PPaRofox #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"19:29","usr":"StockTwits","txt":"Microsoft, Defying Image, Has a Design Gem in Windows Phone http://t.co/23rghjZJ via NYT $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"19:36","usr":"tcvalela","txt":"$RIMM $NOK $AAPL $GOOG $MSFT $MMI Next Big thing in Mobile NFC http://t.co/VVPto5HR","lbl":"Neutral"}
+]

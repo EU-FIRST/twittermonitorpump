@@ -1,0 +1,17 @@
+[
+{"time":"5:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 05:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+,{"time":"8:53","usr":"AndrewhFX","txt":"Banks leading; Standouts: $NVDA, $PGN, $S, $TRIP, $MU, $THC, $FSLR, $JPM Weak hands: $CVH, $PGR, $GWW, $AMZN","lbl":"Negative"}
+,{"time":"9:31","usr":"Volpinacci","txt":"$AMZN surviving after touching support...but ready for breakdown through it http://t.co/SZtV63xk","lbl":"Negative"}
+,{"time":"9:32","usr":"Vin_Noto","txt":"RT @Volpinacci: $AMZN surviving after touching support...but ready for breakdown through it http://t.co/SZtV63xk","lbl":"Negative"}
+,{"time":"10:28","usr":"ECONgeek947","txt":"if u check twitter of @netflix @NetflixUK netflixLA theyve been adding crazy amounts of content lately, $AMZN lovefilm in trouble folks ;)","lbl":"Negative"}
+,{"time":"11:40","usr":"vaneekelenzzui9","txt":"how many times do i have 2 reiterate obv opportunity w/ $NFLX? combined efforts of $VZ $AMZN $GOOG $","lbl":"Neutral"}
+,{"time":"11:41","usr":"PerforM84697233","txt":"Option Millionaires: madrose1: Reshort $AMZN pop over 218, usually u http://t.co/GLdsSMB9","lbl":"Negative"}
+,{"time":"11:42","usr":"tlmontana","txt":"$AMZN New HIGH","lbl":"Positive"}
+,{"time":"11:43","usr":"chrishar00","txt":"$AAPL down, $AMZN up. interesting","lbl":"Positive"}
+,{"time":"12:45","usr":"Crap_Trader","txt":"@Mark_Lexus I keep thinking that once it sorts out that gap, its gonna fly. Lots of churn going on right now. $AMZN","lbl":"Positive"}
+,{"time":"13:42","usr":"rubysneakers","txt":"RT @SAI: Apple Is Blowing PayPal And Amazon Away In Payments With 400 Million Accounts $AAPL $EBAY $AMZN by @owenthomas http://t.co/QWWT9LR4","lbl":"Negative"}
+,{"time":"13:42","usr":"Unlockly","txt":"RT @SAI: Apple Is Blowing PayPal And Amazon Away In Payments With 400 Million Accounts $AAPL $EBAY $AMZN by @owenthomas http://t.co/QWWT9LR4","lbl":"Negative"}
+,{"time":"14:19","usr":"MClaeren","txt":"RT @SAI: Apple Is Blowing PayPal And Amazon Away In Payments With 400 Million Accounts $AAPL $EBAY $AMZN by @owenthomas http://t.co/QWWT9LR4","lbl":"Negative"}
+,{"time":"14:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 14:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+,{"time":"23:22","usr":"StocksOracle123","txt":"Social Indicators for $AMZN since 23:22 EST have been negative. Live graph here http://t.co/hjtETpXE","lbl":"Negative"}
+]

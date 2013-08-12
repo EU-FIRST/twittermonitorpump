@@ -1,0 +1,19 @@
+[
+{"time":"6:14","usr":"$AMZN","txt":"SCALPSWINGSTRADDLE: ZOZO: $AMZN : Zappos says personal information of customers http://t.co/Df8uyOHe","lbl":"Neutral"}
+,{"time":"6:46","usr":"best_n_korea","txt":"Amazon app check shop prices, ditch retailers http://t.co/7AHdunsf #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Neutral"}
+,{"time":"9:45","usr":"Rocket_Trades","txt":"$WFC $AMZN $SOL all out %TZA $TVIX small position waiting for bigger pullback","lbl":"Negative"}
+,{"time":"9:51","usr":"reopentainment","txt":"ok, first trades in the equities only portfolio; $AMZN $CAT $DIS $FDX $HPQ $MSFT $NSC $SPY $XLK $XLU each with $2-4000 as entry point","lbl":"Positive"}
+,{"time":"12:34","usr":"stockguy22","txt":"$AMZN closing in on key resistance from last week - -$183 just tested ( will be watching 183-$184+) considering option play into Feb/April","lbl":"Negative"}
+,{"time":"12:36","usr":"PawelGurdziel","txt":"Pawel bought 12422 shares of $AMZN at $182.75 in #WallStreetGame (http://t.co/D4E1qMyE).","lbl":"Positive"}
+,{"time":"12:39","usr":"StocialPicks","txt":"Michelle T. made a pick on Stocial. Short $AMZN at 186.00. http://t.co/QZsYOzLH","lbl":"Negative"}
+,{"time":"12:40","usr":"StocialPicks","txt":"Michelle T. made a pick on Stocial. Long $AMZN at 182.90. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"13:31","usr":"AMZN_stock","txt":"$AMZN real time quote, 1:31PM EST: 182.82 +4.40 (+2.47%).","lbl":"Neutral"}
+,{"time":"13:33","usr":"Tradingenvivo","txt":"http://t.co/ZhR2n5iK New position in $AMZN acting strong. BUYING NEW POSITION","lbl":"Positive"}
+,{"time":"14:14","usr":"$AMZN","txt":"$AMZN looking at 195, hold on to it.","lbl":"Positive"}
+,{"time":"14:17","usr":"$AMZN","txt":"$AMZN I love you, but you\u0027re bringin\u0027 me down.","lbl":"Negative"}
+,{"time":"15:13","usr":"guttrader","txt":"$AMZN did well the last bull call spread with naked put is up 58%. http://t.co/wn7qsEGJ","lbl":"Positive"}
+,{"time":"17:02","usr":"bretta75","txt":"Should be interesting...RT @SAI: Tech Giants Join Forces To Fight Amazon\u0027s Cloud $AMZN $IBM $CSCO $SAP by @Julie188 http://t.co/jWKqWyIe","lbl":"Negative"}
+,{"time":"17:05","usr":"M_chadwick_FA","txt":"Underperforming the S&P 500? may I a suggest a free news letter. http://t.co/Pf4Rj5Ax $sds $srs $twm $msft $amzn $axp $bbby $bby","lbl":"Neutral"}
+,{"time":"18:50","usr":"SeekingAlpha","txt":"Dangdang: Like Rolling Back Time To Buy Amazon At $6 http://t.co/Fic4alqb $AMZN $BIDU $SNDA $DANG","lbl":"Neutral"}
+,{"time":"21:18","usr":"MarcIyeki","txt":"RT @SeekingAlpha: Dangdang: Like Rolling Back Time To Buy Amazon At $6 http://t.co/Fic4alqb $AMZN $BIDU $SNDA $DANG","lbl":"Neutral"}
+]

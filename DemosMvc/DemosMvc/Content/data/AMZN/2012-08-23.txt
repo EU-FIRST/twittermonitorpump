@@ -1,0 +1,26 @@
+[
+{"time":"6:38","usr":"yudejavu","txt":"RT @RNAiAnalyst: $GNOM to store sequencing data w/ $AMZN: http://t.co/ciVh61sn Move into clinical seq in full swing, not planning for bankruptcy.","lbl":"Neutral"}
+,{"time":"6:46","usr":"23aloha","txt":"MT @RNAiAnalyst $GNOM to store seq data w/ $AMZN. Move into clinical seq in full swing, not planning for bankruptcy. http://t.co/h7cIh7YS","lbl":"Neutral"}
+,{"time":"8:43","usr":"conorsen","txt":"@RoccoPendola You remember this one? http://t.co/9TWzh8Ik $AMZN","lbl":"Neutral"}
+,{"time":"8:45","usr":"dillardsarah","txt":"Inflation / my perceived inelasticity continues. Product up another $0.69 on $AMZN since last night.","lbl":"Neutral"}
+,{"time":"10:15","usr":"WallStTrade","txt":"$AMZN trying to go back green and fill the gap. Remember strong stocks get bought on gap downs. Vice versa for gap ups. $$ #Market #Sense $$","lbl":"Positive"}
+,{"time":"10:15","usr":"askchrishetrade","txt":"RT @WallStTrade: $AMZN trying to go back green and fill the gap. Remember strong stocks get bought on gap downs. Vice versa for gap ups. $$ #Market #Sense $$","lbl":"Positive"}
+,{"time":"11:01","usr":"traderJNY","txt":"@tastytrade going over our positions. Trading $AAPL, talking $AMZN, $DIA, $EWZ, $FAS, $GDX, $SPY, $UNG, & $VXX #in $$","lbl":"Neutral"}
+,{"time":"11:01","usr":"traderLIZ","txt":"RT @traderJNY: @tastytrade going over our positions. Trading $AAPL, talking $AMZN, $DIA, $EWZ, $FAS, $GDX, $SPY, $UNG, & $VXX #in $$","lbl":"Neutral"}
+,{"time":"12:05","usr":"wallstCS","txt":"Survey: New iPhone Sales Will be EXPLOSIVE! http://t.co/y2F5nItu $AAPL $GOOG $RIMM $FB $AMZN #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"13:33","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:18pm: 239.60 -3.50 (-1.44%).","lbl":"Negative"}
+,{"time":"13:34","usr":"biggercapital","txt":"Let\u0027s go RT @businessinsider: Get Ready For The New Kindle Fire: Amazon Holding Event September 6 $AMZN by @stevekovach http://t.co/m1xBJaST","lbl":"Neutral"}
+,{"time":"13:34","usr":"edwardrooster","txt":"RT @TrendRida: Everybody front running 9/12 $AAPL RT @wsmco $AMZN having press conference in LA on Sept. 6","lbl":"Neutral"}
+,{"time":"13:50","usr":"joshpritchard","txt":"with $AMZN event announcement, $NVDA may get some more play as anticipation builds of design win in the new 7\u0022 and 10\u0022 http://t.co/3kokzIYl","lbl":"Neutral"}
+,{"time":"13:50","usr":"MarketCurrents","txt":"Amazon (AMZN) has sent invitations for a Sep. 6 press conference in Santa Monica, CA. The event is ex... http://t.co/vzo0OKHW $AMZN","lbl":"Neutral"}
+,{"time":"14:18","usr":"CorporateYoungs","txt":"Understanding this $AMZN more and more everyday. $AMZN is good at faking people just make sure you buy far out and give it time.","lbl":"Neutral"}
+,{"time":"14:21","usr":"MarlonSilos","txt":"Dont understand people buying into $amzn its a disaster waiting to happen #stocks","lbl":"Negative"}
+,{"time":"15:31","usr":"LSilverspar","txt":"RT @Tangletrade: $CRM and $AMZN carry the anti-PE Virus P/E has absolutely no effect on their price.","lbl":"Negative"}
+,{"time":"17:13","usr":"wallstCS","txt":"DOJ: Why Does Apple Feel So Entitled? http://t.co/MGIBSOha $AAPL $AMZN $BKS $NWSA $CBS #mkt #stocks","lbl":"Neutral"}
+,{"time":"17:30","usr":"SeekingAlpha","txt":"A Kindle Fire Design Win Could Turbocharge Nvidia Shares http://t.co/6YoVXSh4 $AMZN $GOOG $TXN $AAPL $NVDA","lbl":"Neutral"}
+,{"time":"17:31","usr":"peterjtucker","txt":"RT @SAI: Get Ready For The New Kindle Fire: Amazon Holding Event September 6 $AMZN by @stevekovach http://t.co/rJrj23LC","lbl":"Neutral"}
+,{"time":"22:29","usr":"drles03","txt":"RT @MarketWatch: September is looking like an action-packed month of new and high-profile smartphones and tablets: http://t.co/mqv17lVY $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"22:29","usr":"TheTallyRealtor","txt":"RT @MarketWatch: September is looking like an action-packed month of new and high-profile smartphones and tablets: http://t.co/mqv17lVY $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"22:30","usr":"treeserver","txt":"RT @MarketWatch: September is looking like an action-packed month of new and high-profile smartphones and tablets: http://t.co/mqv17lVY $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"22:32","usr":"drokwhiz","txt":"RT @MarketWatch: September is looking like an action-packed month of new and high-profile smartphones and tablets: http://t.co/mqv17lVY $AAPL $AMZN","lbl":"Neutral"}
+]

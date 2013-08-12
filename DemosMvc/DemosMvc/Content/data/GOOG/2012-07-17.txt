@@ -1,0 +1,35 @@
+[
+{"time":"3:31","usr":"slangwise","txt":"The Mayer of #Yahoo lights up cyberspace. Here are some of the Storified highlights from @thetellblog http://t.co/ffAtLolO $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"3:33","usr":"upDragon","txt":"@CNBCWEX At first blush Marissa Mayer as $YHOO CEO is,1.culture shift, 2.signal toward products, 3.positive for $GOOG, 4.a negative for $FB","lbl":"Neutral"}
+,{"time":"6:36","usr":"flexisharetrade","txt":"@flexisharetrade $YHOO expected to trade heavily today. Lots of backing for CEO Mayer and her influence in early days at $GOOG","lbl":"Neutral"}
+,{"time":"6:37","usr":"Covestor","txt":"RT @scalamai Great article (as usual) by @StevenLevy: Why the Ultimate Googler Is Yahoo\u0027s Ideal CEO http://t.co/MeSwTIBd $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"6:39","usr":"rhbinvest","txt":"$YHOO rallying 2% after the company snapped up longtime $GOOG exec Marissa Mayer to be its CEO | #yahoo #google ... http://t.co/psaFdbij","lbl":"Neutral"}
+,{"time":"6:40","usr":"SeekingAlpha","txt":"Yahoo! Hires Marissa Meyers: The Pros And Cons http://t.co/qmV8vMXp $FB $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"7:58","usr":"lluccipha","txt":"SAI: How Up To 85% Of Google Search Results Are Actually Paid Ads $GOOG by @Jim_Edwards http://t.co/iB1Yq992","lbl":"Neutral"}
+,{"time":"7:59","usr":"DeLuCa","txt":"RT @SAI: How Up To 85% Of Google Search Results Are Actually Paid Ads $GOOG by @Jim_Edwards http://t.co/meUZKENC","lbl":"Neutral"}
+,{"time":"8:00","usr":"mmarleydotcom","txt":"RT @SAI: How Up To 85% Of Google Search Results Are Actually Paid Ads $GOOG by @Jim_Edwards http://t.co/meUZKENC","lbl":"Neutral"}
+,{"time":"8:38","usr":"alphabachelor","txt":"@SammyWalrusIV Interesting how Samsung is not invited to this party. Looks like Apple\u0027s managed to bypass them now, just like $GOOG.","lbl":"Neutral"}
+,{"time":"8:43","usr":"tombrammar","txt":"i.e. this was given the blessing from Larry to form a soft $GOOG / $YHOO alliance against $MSFT","lbl":"Neutral"}
+,{"time":"10:00","usr":"scalamai","txt":"Of #Google\u0027s first 20 employees, besides Larry & Sergey, how many are still there? Answer: http://t.co/xkYNcxYb on @Quora $GOOG","lbl":"Neutral"}
+,{"time":"11:10","usr":"acornwealth","txt":"$GOOG earning July 19th , playing Put short 525 @ 205 and Long 515 @ 1.20 I don\u0027t mind owning her down here and also I see a 50 max drop","lbl":"Neutral"}
+,{"time":"11:15","usr":"joecolangelo","txt":"How many sick days did Marissa Mayer have to take a $GOOG to interview for the CEO job? #CLG","lbl":"Neutral"}
+,{"time":"11:16","usr":"BrianStengel","txt":"Ellenbogen: Four platform companies today- $AMZN, $GOOG, $AAPL, $FB. $MSFT wants to be but they are way behind. #FortuneTech","lbl":"Neutral"}
+,{"time":"12:51","usr":"seotweetz","txt":"RT @reemsaied: #seo is dead. \u0027Up To 85% Of Google Search Results Are Actually Paid Ads $GOOG\u0027 by @Jim_Edwards http://t.co/sg863b9B","lbl":"Neutral"}
+,{"time":"12:51","usr":"onlinetaxpros","txt":"RT @reemsaied: #seo is dead. \u0027Up To 85% Of Google Search Results Are Actually Paid Ads $GOOG\u0027 by @Jim_Edwards http://t.co/sg863b9B","lbl":"Neutral"}
+,{"time":"12:56","usr":"JohnEarlBurnett","txt":"@JohnEarlBurnett @Dantanner Anyone who puts their life/business in the $GOOG #Cloud until personal encryption is available is a total moron!","lbl":"Negative"}
+,{"time":"14:28","usr":"Ravi20975618","txt":"RT @nichcarlson: EXCLUSIVE Q&A: Marc Andreessen Tells Us What He Thinks Of New Yahoo CEO Marissa Mayer $YHOO $GOOG http://t.co/lSMd9Xwx","lbl":"Neutral"}
+,{"time":"14:30","usr":"wallstCS","txt":"Are Amazon And Its Tablet In Trouble? http://t.co/fnLQMpEx $AAPL $TGT $AMZN $GOOG #mkt #stocks #trading #investings","lbl":"Neutral"}
+,{"time":"14:32","usr":"fpbadnewz","txt":"RT \u0022@CNBCtopStories: Mayer Outlines Plans to Revive Yahoo http://t.co/kgHKv3IA $AMZN $CCO $CCU $CMCSA $FB $GOOG $MSFT $NWS.A $NWSA $YHOO\u0022","lbl":"Neutral"}
+,{"time":"14:32","usr":"ADVFNplc","txt":"$GOOG - eCommerce Stock Outlook - July 2012 - Industry Outlook http://t.co/8E9VrHV1","lbl":"Neutral"}
+,{"time":"15:48","usr":"thefinancepress","txt":"$GOOG Yahoo 2Q Net Falls 4.4% on Restructuring Costs: Yahoo 2Q Net Falls 4.4% on Restructuring Costs Wall Stree... http://t.co/yg4s6ruB","lbl":"Neutral"}
+,{"time":"15:51","usr":"wallstCS","txt":"Tech Business Roundup: Microsoft Promises A GLITCH Fix, Yahoo STUNS The Tech World http://t.co/MsuMpd4P $MSFT $YHOO $GOOG $AMZN #mkt","lbl":"Neutral"}
+,{"time":"15:51","usr":"pattidomm","txt":"Stocks to Watch: YHOO, INTC, CSX & More http://t.co/uFqWVwQA $CSX $EMC $FIS $GOOG $INTC $RL $ROVI $URI $VMW $YHOO #InvestmentStrategy","lbl":"Neutral"}
+,{"time":"15:53","usr":"MoeGlitz","txt":"\u201C@businessinsider: How Up To 85% Of Google Search Results Are Actually Paid Ads $GOOG by @Jim_Edwards http://t.co/i6hw8ujo\u201D What\u0027s new?","lbl":"Neutral"}
+,{"time":"17:53","usr":"mCommerceNews","txt":"RT @thefinancepress: $GOOG Yahoo Posts Profit Decline as New CEO Takes Over: Yahoo Posts Profit Decline as New CEO Takes Over NASDAQ... http://t.co/KWXrg491","lbl":"Neutral"}
+,{"time":"17:57","usr":"jayhawkjockdoc","txt":"@jonfortt $MSFT offered ~$47.5 bill 2008 for $YHOO in the past? DailyMail had a story-\u002711 regarding possibility of $GOOG interest in $YHOO.","lbl":"Neutral"}
+,{"time":"18:04","usr":"jayhawkjockdoc","txt":"@jimcramer An M-M fan - $YHOO CEO initials same as M-M-oney. Watched your show while tweeting Fortt a ($). Thought of $GOOG w/ $YHOO- future","lbl":"Neutral"}
+,{"time":"21:35","usr":"USwwwStocks","txt":"$GOOG News: Google Inc\u0027s (NASDAQ:GOOG) Nexus 7 Available at US Stores http://t.co/qFFO9i9Q #GOOG #available #Google","lbl":"Positive"}
+,{"time":"21:43","usr":"gdickinson","txt":"@dcurtis With a pretty poor margin. See $GOOG/$MSFT for comparison. Gross bottom line is contextless.","lbl":"Neutral"}
+,{"time":"21:50","usr":"DerekVesselsJr","txt":"RT @businessinsider: The Inside Story On Why Kevin Rose Never Had A Big Hit $GOOG by @mattlynley http://t.co/AllCLeA9","lbl":"Neutral"}
+,{"time":"22:01","usr":"davidrshane","txt":"RT @JBoorstin: ATT CEO- about 1/3 the traffic on our network is video- Netflix, YouTube, HBO #FortuneTech $NFLX $GOOG $TWX","lbl":"Neutral"}
+]

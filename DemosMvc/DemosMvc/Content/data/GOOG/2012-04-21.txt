@@ -1,0 +1,28 @@
+[
+{"time":"1:47","usr":"hotdogscrum","txt":"RT @businessinsider: Larry Page And Eric Schmidt Have Funded A New Company To Mine Asteroids $GOOG by @nichcarlson http://t.co/S4ZOKWn0","lbl":"Neutral"}
+,{"time":"2:02","usr":"toptw_money","txt":"RT @businessinsider: Larry Page And Eric Schmidt Have Funded A New Company To Mine Asteroids $GOOG by @nichcarlson http://t.co/my9r0tYf","lbl":"Neutral"}
+,{"time":"2:25","usr":"wmaterka","txt":"RT @SAI: Larry Page And Eric Schmidt Have Funded A New Company To Mine Asteroids $GOOG by @nichcarlson http://t.co/QzE0N2wF","lbl":"Neutral"}
+,{"time":"2:38","usr":"genesys_consult","txt":"RT @businessinsider: Larry Page And Eric Schmidt Have Funded A New Company To Mine Asteroids $GOOG by @nichcarlson http://t.co/2L4iw2J0","lbl":"Neutral"}
+,{"time":"11:06","usr":"AdrianCapote","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
+,{"time":"11:07","usr":"shorepatrol","txt":"So Apple will supply and control entire world? \u0022@SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/eLioQdVO\u0022","lbl":"Neutral"}
+,{"time":"11:09","usr":"nburdy","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
+,{"time":"11:10","usr":"pascalguertin","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"12:35","usr":"kngbn97","txt":"RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/ktTBhj77","lbl":"Negative"}
+,{"time":"12:42","usr":"ozrashid","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/pAhIi3gk @samjaddi","lbl":"Negative"}
+,{"time":"12:44","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Google\u0027s Schmidt gets raise after leaving CEO post: Google\u0027s Schmidt gets raise after leaving CEO post Ma... http://t.co/LFxLXQBn","lbl":"Neutral"}
+,{"time":"12:48","usr":"HBCUMoney","txt":"Google\u0027s Chairman Schmidt earned $101 million in 2011 compensation. $GOOG","lbl":"Neutral"}
+,{"time":"14:23","usr":"stockquestions","txt":"A very important question #IC !!! Is now the time to buy $AAPL $GOOG","lbl":"Positive"}
+,{"time":"14:25","usr":"raheethan","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"14:26","usr":"gcaughey","txt":"RT @rrelyea: RT @SAI Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/0YOqspBi < good read","lbl":"Neutral"}
+,{"time":"14:28","usr":"daytrend","txt":"RT @upsidetrader: NEW POST: WHAT STOCK SECTORS ARE TELLING ME http://t.co/UtyHvBsu $SPX $AAPL $GOOG, $XLE $XME $XLV $USO $XLB","lbl":"Neutral"}
+,{"time":"16:24","usr":"MaxSpeed988","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"16:28","usr":"police_of_twits","txt":"Ever wonder how the iPhone works? $aapl $goog $vz $T #iphone http://t.co/vQUSxp9e","lbl":"Neutral"}
+,{"time":"16:29","usr":"iScreamSocMedia","txt":"RT @TheStreet: Viacom Tunes Into YouTube, Google Play http://t.co/IVGxCQJA by @trefis $VIA $GOOG","lbl":"Neutral"}
+,{"time":"16:32","usr":"RamblingRooney","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/7gDKrOnZ","lbl":"Negative"}
+,{"time":"18:53","usr":"annelizhannan","txt":"Are you buying it? Not me. RT @SAI: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/zQ4ZtV6m","lbl":"Negative"}
+,{"time":"18:54","usr":"ndysantoso","txt":"RT @businessinsider: Larry Page And Eric Schmidt Have Funded A New Company To Mine Asteroids $GOOG by @nichcarlson http://t.co/my9r0tYf","lbl":"Neutral"}
+,{"time":"18:54","usr":"TRAVhodges","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Neutral"}
+,{"time":"19:04","usr":"best_of_iran","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/G5wBfH8M #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"22:23","usr":"janezhujie","txt":"RT @businessinsider: Android Is Suddenly In A Lot Of Trouble $GOOG $AAPL by @jyarow http://t.co/9NVLybKr","lbl":"Negative"}
+,{"time":"22:35","usr":"TrendRida","txt":"@ericjackson Have been thinking $AAPL should buy $TWIT since iOS integration. AAPL would lose ton of $R&D effort if $GOOG bought \u0027em...","lbl":"Neutral"}
+]

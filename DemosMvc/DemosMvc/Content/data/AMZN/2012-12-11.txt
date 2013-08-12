@@ -1,0 +1,16 @@
+[
+{"time":"7:27","usr":"yodoukas","txt":"RT @Retail_Guru: Most remarkable stat in Asos Q is UK re-acceleration to +24%; shows Xmas is getting more \u0027online\u0027 even in its most mature market $AMZN $EBAY","lbl":"Neutral"}
+,{"time":"8:53","usr":"TheEquitiesRoom","txt":"EBR: Watchlist/worksheet/Swing Trade Updates/ 6 Trading Ideas: $PWER $CRM $MKC $AMZN $DECK $CMG http://t.co/jDm27JhK","lbl":"Neutral"}
+,{"time":"9:42","usr":"vvsturner","txt":"$AMZN What will Amazon do with $3 billion in nearly free money? http://t.co/a0n4moAU","lbl":"Neutral"}
+,{"time":"10:01","usr":"tradingview","txt":"$AMZN chart by RedSoloCupTrader2: http://t.co/Xr1wxO5m Tests $242.","lbl":"Neutral"}
+,{"time":"10:01","usr":"bluser12","txt":"Boom more lows $AMZN","lbl":"Negative"}
+,{"time":"10:12","usr":"RobertWeinstein","txt":"Is $AMZN discounting Kindle Fire HD a sign of desperation? $AAPL appears to maintain pricing power. If Kindle Fire was @ cost, now a loss??","lbl":"Negative"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:47am: 251.23 +3.46 (+1.40%).","lbl":"Positive"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:47am: 252.87 +5.10 (+2.06%).","lbl":"Positive"}
+,{"time":"12:02","usr":"consultski","txt":"RT @firstadopter: \u0022Another call-out that I didn\u0027t mention is physical books. Unit growth was double digit in Q4 year-over-year\u0022 $AMZN Q4-2011 call","lbl":"Neutral"}
+,{"time":"12:35","usr":"tarhinitrade","txt":"RT @Dasan: @ReformedBroker kudos for pumping our $amzn today. F the haters Josh won the debate. I\u0027m tweeting this in my underwear btw.","lbl":"Neutral"}
+,{"time":"12:35","usr":"CapCube","txt":"@cnbcfastmoney - $AMZN only @ReformedBroker promoting the greater fool theory in AMZN -Others say fuggediboutit. Meanwhile Bezos is a seller","lbl":"Neutral"}
+,{"time":"12:35","usr":"DividendMaster","txt":"$AMZN rallying hard on news all MA orders will now include sales tax eliminating that advantage .","lbl":"Positive"}
+,{"time":"13:11","usr":"StockPlayer6","txt":"RT @z8angela: Double tops on $AAPL intraday chart as res was rejected. $AMZN may see weaker close. $PCLN bounced, then dropped. Good to sell into the rip.","lbl":"Negative"}
+,{"time":"17:36","usr":"popaihq","txt":"RT @retail_sails: Walmart Has An Aggressive Strategy To Do #eCommerce Right, And Amazon Should Watch Out http://t.co/vtKbbkFt $WMT $AMZN #retail","lbl":"Negative"}
+]

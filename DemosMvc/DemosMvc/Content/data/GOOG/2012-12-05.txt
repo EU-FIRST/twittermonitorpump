@@ -1,0 +1,28 @@
+[
+{"time":"3:24","usr":"nenad_severovic","txt":"RT @bogdanbrkic: RT @SAI: Here\u0027s Your First Look At Gmail\u0027s Overhauled App On iPhones And iPads $GOOG by @_dtl http://t.co/SynI9JTy","lbl":"Neutral"}
+,{"time":"3:27","usr":"Patokaos","txt":"RT @TheStreet: Apple Poised to Move Higher http://t.co/dIdzct73 $AAPL $GOOG $AMZN by @Commodity_Bull","lbl":"Neutral"}
+,{"time":"3:29","usr":"vid_e","txt":"Of course futs will be rallying. Why not? #fiscallcliff $aapl $spy $qqq $goog","lbl":"Neutral"}
+,{"time":"8:15","usr":"EdCarson1","txt":"Which 5 Big Cap Leaders boast the fastest sales growth? http://t.co/wqLIDGO7 $REGN $KORS $CRM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:34","usr":"MaltdMark","txt":".RT @SeekingAlpha: Vringo Verdict And Future Royalties Against Google On Shaky Ground http://t.co/L69S8lOz $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"9:37","usr":"halfDayTrader","txt":"$goog!!!....riding it now.","lbl":"Positive"}
+,{"time":"10:13","usr":"BruceDetterich","txt":"$AAPL lived (lives) on high margins. $GOOG popped that balloon. Can Apple survive in the world of commodity pricing? Started under Jobs.","lbl":"Positive"}
+,{"time":"10:14","usr":"ChewTheDirt","txt":"RT @ericjackson: New Post: What Will A Post-iPhone World at Apple Look Like? - TheStreet http://t.co/frN3ooDO via @TheStreet $AAPL $GOOG $NOK","lbl":"Neutral"}
+,{"time":"11:10","usr":"wallstCS","txt":"Pandora: Investors Unable to Tune-Out Reduced Outlook http://t.co/mFWn2Chl $P $AAPL $GOOG $GRPN $ZNGA $XLK $DIA $SPY $QQQ","lbl":"Neutral"}
+,{"time":"11:12","usr":"gregorykanter","txt":"Margin requirement for $aapl is total BS. I repeat is total BS. If $aapl then $goog $pcln $fb and all the rest. You CANNOT do it for 1 stock","lbl":"Neutral"}
+,{"time":"12:16","usr":"61point8","txt":"Anyone stepped into $GOOG? Spot-on chart last night.","lbl":"Neutral"}
+,{"time":"12:16","usr":"Mr_Eric_WSCS","txt":"Investors can\u0027t tune-out #Pandora outlook... http://t.co/TCj9jhYl $P $ZNGA $GRPN $AAPL $GOOG #business","lbl":"Neutral"}
+,{"time":"13:15","usr":"TheStreet","txt":"Next Smartphone Revolution Will Be Price http://t.co/H6d9HO7d $GOOG $QCOM $MSFT $NOK $RIMM by @antonwahlman","lbl":"Neutral"}
+,{"time":"14:34","usr":"ShayBeanzSkii","txt":"\u201C@WSJ \u201C@AaronLucchetti \u0022The adult way to run a business is to run it more like a country\u0022 http://t.co/cmABkQbm via @WSJ, $AAPL, $GOOG\u201D\u201D","lbl":"Neutral"}
+,{"time":"14:34","usr":"diniewan","txt":"RT @AaronLucchetti: \u0022The adult way to run a business is to run it more like a country\u0022 http://t.co/nSlxToIX via @WSJ, $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"15:15","usr":"dombeveridge","txt":"How things have changed -> RT @SAI: Google Chairman On Microsoft And Windows 8: \u0022Meh\u0022. by @jyarow http://t.co/r5iXyMbw $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"15:54","usr":"Heimerik","txt":"RT @BI_Advertising: Microsoft\u0027s Anti-Android Twitter Campaign Blew Up In Its Face $MSFT $GOOG by @stevekovach http://t.co/pdrE3JxJ","lbl":"Neutral"}
+,{"time":"15:57","usr":"balwant","txt":"RT @SAI: Microsoft\u0027s Anti-Android Twitter Campaign Blew Up In Its Face $MSFT $GOOG by @stevekovach http://t.co/i3TTBUN0","lbl":"Neutral"}
+,{"time":"16:58","usr":"STL_Trader22","txt":"Ideas for tomorrow - $LNKD $MNST $WPRT $NFLX $PCLN $EBAY $GOOG (to hold 685) $BAC $JPM $FB $YHOO $COST and I suppose $AAPL :)","lbl":"Neutral"}
+,{"time":"16:59","usr":"wallstCS","txt":"Microsoft Enters Cloud Price War, Pandora\u0027s Rough Patch: Tech Biz Wrap http://t.co/RASI0PmD $MSFT $GOOG $AMZN $P $AAPL #stocks","lbl":"Neutral"}
+,{"time":"18:33","usr":"Mktgeistcom","txt":"RT @StockTwits: Cashing in on Gangnam Style\u0027s YouTube fame http://t.co/IiY8VQQO $GOOG","lbl":"Neutral"}
+,{"time":"18:33","usr":"elliottwavems","txt":"Will Apple Go The Way Of RIMM? http://t.co/I7AIicei $AAPL $RIMM $GOOG","lbl":"Neutral"}
+,{"time":"18:35","usr":"Paid2Trade","txt":"... http://t.co/oPJ1seCQ $SPY, $QQQ, $DIA, $RUT, $IWM, $CME, $BAC, $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"21:46","usr":"Rosiat32","txt":"RT @raindeocampo: Will #Apple Buy #3D Systems http://t.co/qHCn4Lzn $AAPL $AMZN $GOOG $DDD $SSYS #3dp #mac #Ipad #3dprinting #tech RT @TheSeek20826344","lbl":"Neutral"}
+,{"time":"21:52","usr":"PeterPrudden","txt":"@pensionpartners @61point8 look at $GOOG 2008, acts similar","lbl":"Neutral"}
+,{"time":"21:54","usr":"rushtonjdr","txt":"RT @PeterPrudden: @pensionpartners @61point8 look at $GOOG 2008, acts similar","lbl":"Neutral"}
+]

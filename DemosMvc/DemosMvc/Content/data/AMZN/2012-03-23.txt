@@ -1,0 +1,21 @@
+[
+{"time":"8:34","usr":"sssc","txt":"$AMZN http://t.co/FTWhS6j2 --- patiently waiting & watching the vol & price action","lbl":"Neutral"}
+,{"time":"8:35","usr":"oNootch","txt":"$AMZN 194.40 r lvl, over that...launch it...","lbl":"Positive"}
+,{"time":"9:04","usr":"stocial","txt":"Sean closed long position for $AMZN at 195.00 with a gain of 0.44% http://t.co/8Kn90iNK","lbl":"Negative"}
+,{"time":"9:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $TVIX/88, $AAPL/72, $SPY/57, $KBH/36, $GS/33, $BAC/31, $GLUU/30, $AMZN/29. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"9:49","usr":"Bluechiptrend","txt":"$AMZN bullish high flyer for now... Target is 200MA on daily chart #Lehgoo","lbl":"Positive"}
+,{"time":"9:49","usr":"buysellshort","txt":"$AMZN now a $9 gainer for us from breakout","lbl":"Positive"}
+,{"time":"9:49","usr":"financialtrader","txt":"$AMZN nice pop today.. resistance coming up http://t.co/bhIvaALj","lbl":"Negative"}
+,{"time":"10:25","usr":"WallStBeats","txt":"$AMZN Daily chart - On It\u0027s Way To Test/Break MA200 .","lbl":"Positive"}
+,{"time":"10:26","usr":"BlueFielder","txt":"$AMZN added a few to wkly 195 $CALLs @ 1.25 -- i could very easily get trapped here - close eye","lbl":"Positive"}
+,{"time":"11:19","usr":"FeedTheBull","txt":"RT @stockguy22: What Stocks will benefit from the #HUNGERGames Movie ? New Blog with charts on $HAS $MAT $LGF $SCHL $AMZN & $IMAX http://t.co/Rt3mAsij","lbl":"Neutral"}
+,{"time":"11:28","usr":"TraderFlorida","txt":"$AMZN http://t.co/dn0w4PB4 Cont\u0027s to act well since breaking out this wk. Poised to clear this next resistance line / buy pt.","lbl":"Negative"}
+,{"time":"11:29","usr":"newsagg","txt":"$AMZN Ichimoku analysis on weekly chart http://t.co/9sJVLgZa","lbl":"Neutral"}
+,{"time":"12:39","usr":"Stockalertj","txt":"Dear $AMZN gods I would be so great full if you would please keep this thing above 194.50 \uE41D","lbl":"Neutral"}
+,{"time":"14:05","usr":"NYNewsNow","txt":"@KeithMcCullough good thing you doubled down on $AMZN and $VXX, at least the percentages don\u0027t look as bad","lbl":"Positive"}
+,{"time":"14:09","usr":"KeithMcCullough","txt":"No idea why $AMZN is going up - we thought the acquisition they did signaled more topline weakness to come","lbl":"Negative"}
+,{"time":"14:10","usr":"CapCube","txt":"RT @firstadopter: RT @BW: German copycats clone http://t.co/gZBIskcm | http://t.co/lOIsawu4 $AMZN","lbl":"Neutral"}
+,{"time":"15:33","usr":"berkutchitweet","txt":"Idea of the week: There are a lot of eyes on the ranges set up by $AMZN and $MA. Up or down, those breakouts will bring serious action...","lbl":"Neutral"}
+,{"time":"15:35","usr":"berkutchitweet","txt":"...If $AMZN breaks upside, that will be my next buy and hold swing position. On $MA I\u0027m already long, so I may only add 1/4 position. $$","lbl":"Positive"}
+,{"time":"20:30","usr":"gutone","txt":"Is http://t.co/zGOoMP0x ($AMZN) Over Valued? http://t.co/25sl6Qbe","lbl":"Neutral"}
+]

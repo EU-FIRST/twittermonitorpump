@@ -1,0 +1,42 @@
+[
+{"time":"6:17","usr":"mdbrenner","txt":"Amazon tries to catch up in personal cloud storage and falls further behind http://t.co/AEriDbsK $AMZN $GOOG $IBM","lbl":"Neutral"}
+,{"time":"6:23","usr":"MattNesto","txt":"if you could own all of Apple ($AAPL) OR all of Coke ($KO), J&J ($JNJ) and Google ($GOOG), which would you take? 1 vs 3?","lbl":"Neutral"}
+,{"time":"8:30","usr":"equitiesgroup","txt":"Why #Facebook is merely a combination of #Google and #Zynga: http://t.co/dyU98FIS $GOOG #tech $ZNGA #socialmedia $FB","lbl":"Neutral"}
+,{"time":"8:31","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) Never Wastes Development Opportunity: Upcoming Apple ...: Google Inc (NASDAQ:GOO... http://t.co/xgUU3iFZ","lbl":"Neutral"}
+,{"time":"8:31","usr":"equitiescom","txt":"Why #Facebook is merely a combination of #Google and #Zynga: http://t.co/lnxVloWX $GOOG #tech $ZNGA #socialmedia $FB","lbl":"Neutral"}
+,{"time":"8:31","usr":"EquitiesNetwork","txt":"Why #Facebook is merely a combination of #Google and #Zynga: http://t.co/gQgrpprs $GOOG #tech $ZNGA #socialmedia $FB","lbl":"Neutral"}
+,{"time":"9:18","usr":"SAI","txt":"Here Are The Top 10 Best Smartphones You Can Buy This Month $GOOG $AAPL $T $VZ by @stevekovach http://t.co/UiLjBcJ4","lbl":"Neutral"}
+,{"time":"9:20","usr":"wallstCS","txt":"Why Are Smartphone Makers Bowing to China? http://t.co/yDGTuRPb $AAPL $CHL $NOK $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"9:23","usr":"mattheweagen","txt":"$RIMM falling dagger lol.. $AAPL or $GOOG should buy it for their email and business accounts","lbl":"Neutral"}
+,{"time":"10:12","usr":"wassmannfuozw1","txt":"? Insider Trading: $GOOG Schmidt Eric E Director BOUGHT 11250 shares ?","lbl":"Positive"}
+,{"time":"10:13","usr":"Goodlett","txt":"All other online in-app advertising now recalibrated by #LifeStreetMedia and its US$66M refi w/#NauticPartners http://t.co/w6zuZ5Qc $GOOG","lbl":"Neutral"}
+,{"time":"10:15","usr":"followLin","txt":"RT @SAI: REMINDER: Samsung\u0027s Big Android Announcement Happens Today $GOOG by @_dtl http://t.co/lwknLo4k","lbl":"Neutral"}
+,{"time":"11:09","usr":"sidbafs","txt":"RT @SAI: It\u0027s Pitiful How Many Android Phones Are Running Outdated Software $AAPL $GOOG by @stevekovach http://t.co/XqSpcbqh","lbl":"Negative"}
+,{"time":"12:25","usr":"kharise","txt":"RT @SAI: FIGHT! Dropbox vs. Google Drive...Guess Who Wins? $GOOG by @@officialKLS http://t.co/kSoZ5ag8","lbl":"Positive"}
+,{"time":"12:26","usr":"RobertSobek","txt":"$MSFT and $GOOG did not suffer the loss in price that othjers have today","lbl":"Positive"}
+,{"time":"12:27","usr":"tkuz4u","txt":"RT @SAI: FIGHT! Dropbox vs. Google Drive...Guess Who Wins? $GOOG by @@officialKLS http://t.co/kSoZ5ag8","lbl":"Neutral"}
+,{"time":"13:19","usr":"vincedumont","txt":"RT @SAI_Tools: Samsung Galaxy S III: Meet the New Android Emperor $GOOG http://t.co/Fu9D5X5K","lbl":"Neutral"}
+,{"time":"13:19","usr":"David_OGL","txt":"RT @businessinsider: Samsung Galaxy S III: Meet the New Android Emperor $GOOG http://t.co/X3OD261U","lbl":"Neutral"}
+,{"time":"13:20","usr":"yeppi1","txt":"RT @SAI: Samsung Galaxy S III: Meet the New Android Emperor $GOOG http://t.co/ixnAvPv4","lbl":"Neutral"}
+,{"time":"13:22","usr":"businessinsider","txt":"Amazon Only Shipped 700,000 Kindle Fires Last Quarter $GOOG $AAPL $AMZN by @jyarow http://t.co/metbLc2V","lbl":"Neutral"}
+,{"time":"14:08","usr":"tara_south","txt":"Samsung Rips Off Siri, Introduces \u0027S Voice\u0027 $GOOG $AAPL by @_dtl http://t.co/ABHjyHBI #in","lbl":"Neutral"}
+,{"time":"14:08","usr":"MichaelComeau","txt":"$AAPL iPad market share increase was obvious to those with basic mental abilities (like me) $AMZN $GOOG http://t.co/Teeehqom","lbl":"Neutral"}
+,{"time":"14:47","usr":"SAI","txt":"Flipboard Is Headed To Android, But Only On The Galaxy S III At First $GOOG by @_dtl http://t.co/JcRX0fZE","lbl":"Neutral"}
+,{"time":"14:47","usr":"chad518","txt":"RT @SAI: Amazon Only Shipped 700,000 Kindle Fires Last Quarter $GOOG $AAPL $AMZN by @jyarow http://t.co/i1BmgpMb","lbl":"Neutral"}
+,{"time":"14:48","usr":"TropicCapital_","txt":"$GOOG chart still looks bad - low volume bounce today","lbl":"Negative"}
+,{"time":"14:48","usr":"ChristianFaty","txt":"RT @SAI: Flipboard Is Headed To Android, But Only On The Galaxy S III At First $GOOG by @_dtl http://t.co/JcRX0fZE","lbl":"Neutral"}
+,{"time":"15:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $LNKD/218, $AAPL/72, $FSLR/69, $SPY/51, $GMCR/50, $YHOO/43, $AIG/40, $GOOG/32. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"15:36","usr":"CobusC82","txt":"RT @SAI: Here Are All The Most Important Features In Samsung\u0027s New Galaxy S III $GOOG by @stevekovach http://t.co/XTQqQQt6","lbl":"Neutral"}
+,{"time":"16:57","usr":"sm_businesses","txt":"RT @jannarone: My story: Stars of a YouTube channel - Jennifer Garner, Julia Stiles - work for $15 an hour - and a higher cause http://t.co/AjA496dU $GOOG","lbl":"Neutral"}
+,{"time":"16:58","usr":"ryan_Zelaski","txt":"RT @jannarone: My story: Stars of a YouTube channel - Jennifer Garner, Julia Stiles - work for $15 an hour - and a higher cause http://t.co/AjA496dU $GOOG","lbl":"Neutral"}
+,{"time":"16:58","usr":"Gay_Toronto","txt":"Your Old Gmail Is Gone Forever $GOOG by @_dtl http://t.co/ZwSGjOSM","lbl":"Neutral"}
+,{"time":"16:59","usr":"jabbaugh","txt":"RT @jannarone: My story: Stars of a YouTube channel - Jennifer Garner, Julia Stiles - work for $15 an hour - and a higher cause http://t.co/AjA496dU $GOOG","lbl":"Neutral"}
+,{"time":"17:58","usr":"VranicaWSJ","txt":"RT @jannarone: My story: Stars of a YouTube channel - Jennifer Garner, Julia Stiles - work for $15 an hour - and a higher cause http://t.co/AjA496dU $GOOG","lbl":"Neutral"}
+,{"time":"17:59","usr":"MakingRainInSea","txt":"$AMZN, $FB, $CRM, $GOOG, etc. can\u0027t hire fast enought but the talent is not there. #structural unemployment","lbl":"Neutral"}
+,{"time":"18:01","usr":"sergio_cuerda","txt":"RT @TheStreet: Why Oracle vs. Google Matters to You http://t.co/frYfV7Wa $GOOG $ORCL","lbl":"Neutral"}
+,{"time":"18:03","usr":"jimish","txt":"RT @cnbcfastmoney: Facebook IPO: Stock Could Double Amid Street Excitment - Pro Traders http://t.co/Lr2KUftT $AAPL $AMZN $CSCO $DELL $FB $GOOG $HPQ","lbl":"Neutral"}
+,{"time":"21:50","usr":"dslevy","txt":"History \u0022lesson\u0022: when $GOOG IPO\u0027d in 2004 @ $85/sh, traders were (direct quote) \u0022lined up around the corner\u0022 to short it. $FB #in","lbl":"Neutral"}
+,{"time":"21:54","usr":"DMacBoston","txt":"that\u0027s why the last few weeks I\u0027ve mainly been watching, looking at some of the short setups forming on the high beta\u0027s $CMG $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"21:55","usr":"jevgenijs","txt":"RT @dslevy: History \u0022lesson\u0022: when $GOOG IPO\u0027d in 2004 @ $85/sh, traders were (direct quote) \u0022lined up around the corner\u0022 to short it. $FB #in","lbl":"Neutral"}
+,{"time":"21:56","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+]

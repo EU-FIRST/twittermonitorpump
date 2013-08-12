@@ -1,0 +1,13 @@
+[
+{"time":"6:54","usr":"AAinslie","txt":"Zynga has transitioned from Amazon Web Services to its own Citrix-enabled Z-Cloud. http://t.co/OFhK1zhw /via @natishalom #AWS $AMZN","lbl":"Negative"}
+,{"time":"7:03","usr":"pegobry","txt":"RT @AAinslie: Zynga has transitioned from Amazon Web Services to its own Citrix-enabled Z-Cloud. http://t.co/OFhK1zhw /via @natishalom #AWS $AMZN","lbl":"Neutral"}
+,{"time":"7:26","usr":"dotpeople","txt":"RT @AAinslie: Zynga has transitioned from Amazon Web Services to its own Citrix-enabled Z-Cloud. http://t.co/OFhK1zhw /via @natishalom #AWS $AMZN","lbl":"Neutral"}
+,{"time":"7:44","usr":"UCguns","txt":"RT @screwyourdayjob2012Amazon app check shop prices, ditch retailers http://t.co/IOQHAdpa #video #funny #Christmas #Santa #Guns $amzn...","lbl":"Neutral"}
+,{"time":"14:13","usr":"herbgreenberg","txt":"huge. shows cloud=commodity RT @firstadopter $AMZN largest web services customer $ZNGA moves from AMZN to own cloud services offering","lbl":"Negative"}
+,{"time":"14:14","usr":"herbgreenberg","txt":"here\u0027s the story on $znga switching from $amzn via @firstadopter http://t.co/6taFgJ87 my q: what does this say for $rax?","lbl":"Neutral"}
+,{"time":"14:16","usr":"JasonRaznick","txt":"RT @firstadopter: $AMZN largest web services customer $ZNGA decides to move away from AMZN and compete with own cloud services offering: http://t.co/DQRJ2RAo","lbl":"Negative"}
+,{"time":"17:27","usr":"leopardtrader","txt":"we remain bullish risks after shallow selloff early last week. We are buyers of dips. $EURUSD $SPX $AMZN","lbl":"Positive"}
+,{"time":"17:30","usr":"firstadopter","txt":"@adrianco $ZNGA going from \u0022significant majority\u0022 to only 20% on $AMZN web services in few months still huge turn 80% of DAU is internal now","lbl":"Neutral"}
+,{"time":"17:42","usr":"CapCube","txt":"@firstadopter wow ! $AMZN has a lot going wrong for it ... What is going right to justify 170 PE ?","lbl":"Negative"}
+,{"time":"21:36","usr":"sdh_ihub","txt":"*SCALPSWINGSTRADDLE* ($$$): $AMZN largest web services customer $ZNGA decides to http://t.co/raXL2KdH","lbl":"Neutral"}
+]

@@ -1,0 +1,31 @@
+[
+{"time":"0:40","usr":"markfuccio","txt":"Read why $AMZN charge more to eliminate ads from your Kindle? http://t.co/Nvw0QdwV","lbl":"Neutral"}
+,{"time":"5:26","usr":"davidjaxon","txt":"Commented on: \u0022The Folly Of http://t.co/YB5buY0s\u0027s Tablet Strategy\u0022 http://t.co/KXHzkYCB $AMZN $AAPL $BBY","lbl":"Neutral"}
+,{"time":"5:39","usr":"bored2tears","txt":"Amazon to start collecting #California sales tax on Saturday. http://t.co/amaqvaZ6 $AMZN #ecommerce #retail #taxes","lbl":"Neutral"}
+,{"time":"7:41","usr":"Armaannm","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $GOOG $ZNGA $FB by @nichcarlson http://t.co/DXFq7s7t","lbl":"Neutral"}
+,{"time":"8:40","usr":"infovestment","txt":"Apple - The Wait is almost over http://t.co/KTiWnqZK $AAPL is the new iPhone worth buying? $$ #MKT $MSFT $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"8:44","usr":"RedDogT3Live","txt":"I will look to buy back $goog And $amzn around there 8day moving averages if we see them and they set up. No position now","lbl":"Positive"}
+,{"time":"9:13","usr":"jwalker5200","txt":"@jimcramer you say $AMZN is a buy:-) then you say this morning it\u0027s overvalued and has been since it came out:( what gives?","lbl":"Neutral"}
+,{"time":"9:13","usr":"cassie_leung","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $AMZN $GOOG $ZNGA $FB by @nichcarlson http://t.co/DXFq7s7t","lbl":"Neutral"}
+,{"time":"10:47","usr":"RobertWeinstein","txt":"Watching $AMZN for short entry. oversold on 2min bar, but looks to accelerate losses today","lbl":"Negative"}
+,{"time":"10:47","usr":"Shaq48_Trading","txt":"the A team $AAPL and $AMZN leaking lower","lbl":"Negative"}
+,{"time":"10:47","usr":"JasonBondPicks","txt":"Luke $AMZN Sold Sept 14 $225 puts @ $3.10 +27%. A 4 day hold","lbl":"Neutral"}
+,{"time":"11:11","usr":"apocketfullofdz","txt":"RT @SeekingAlpha: The Meaning Of Google Fiber http://t.co/mE5Z1Xyr $AMZN $CMCSA $MSFT $T $TWC $GOOG","lbl":"Neutral"}
+,{"time":"11:11","usr":"dwhiteshines","txt":"RT @SeekingAlpha: The Meaning Of Google Fiber http://t.co/mE5Z1Xyr $AMZN $CMCSA $MSFT $T $TWC $GOOG","lbl":"Neutral"}
+,{"time":"11:11","usr":"MendozaLydie","txt":"RT @businessinsider: How Amazon Can Disrupt The Smartphone Industry $AMZN $GOOG $AAPL $MSFT by @jyarow http://t.co/O6hlyhWE","lbl":"Neutral"}
+,{"time":"11:48","usr":"iStockAnalyst","txt":"A 27% \u0027Instant Dividend\u0027 From Amazon $AMZN: http://t.co/aHAcksCG (Nasdaq: AMZN) is changing the world, again. The... http://t.co/qbfh5eW5","lbl":"Neutral"}
+,{"time":"12:27","usr":"takingstock614","txt":"Added to my $AMZN calls.","lbl":"Positive"}
+,{"time":"14:12","usr":"barronstechblog","txt":"AAPL: Post-iPhone Sell-Off in Effect? iPad \u2018Mini\u2019 Next, Says Barclays - Tech Trader Daily - Barron\u0027s $AAPL $AMZN $GOOG http://t.co/exABMz9P","lbl":"Neutral"}
+,{"time":"14:13","usr":"swamptrade","txt":"$AMZN a slow mover these days, iron condor?","lbl":"Neutral"}
+,{"time":"14:54","usr":"comtoulthard","txt":"@enilkcals >> RT @SAI: Believe It Or Not, You Can Turn Your Kindle Into A Computer Monitor $AMZN by @_dtl http://t.co/0waZrqyf","lbl":"Neutral"}
+,{"time":"15:49","usr":"sallydedecker","txt":"Interesting info for those following the bookselling world! Indigo Books & Music: Analysis http://t.co/dCLRQ8ZC $AMZN $IDGBF.PK","lbl":"Neutral"}
+,{"time":"15:50","usr":"ClearlyStatedCo","txt":"Don\u0027t Buy The Amazon Kindle Fire HD Hype http://t.co/FBamXVer $AAPL $GOOG $NVDA $TXN $AMZN","lbl":"Negative"}
+,{"time":"15:51","usr":"firstadopter","txt":"9/6/12 \u0022If $AAPL decides to really fight $AMZN leverage their bal sheet, price iPad Mini low, and MATCH EBOOK PRICING, who is screwed then?\u0022","lbl":"Neutral"}
+,{"time":"16:46","usr":"DerivTrader1","txt":"RT\u0022@Commodity_Bull: was it me or did Zuck let slip out that $AMZN is building a phone? #TCDisrupt\u0022","lbl":"Neutral"}
+,{"time":"16:47","usr":"firstadopter","txt":"For real? RT @Commodity_Bull: was it me or did Zuck let slip out that $AMZN is building a phone? #TCDisrupt","lbl":"Neutral"}
+,{"time":"19:27","usr":"tannawings","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"19:27","usr":"DeidreZune","txt":"With $AAPL\u0027s iPAD MINI on its way, let\u0027s see how many people will stll be choosing $AMZN\u0027s Kindle\u0027s over $AAPL iPads. AAPL offers $9 e-books","lbl":"Negative"}
+,{"time":"19:30","usr":"marismorgan","txt":"RT @SAI: Believe It Or Not, You Can Turn Your Kindle Into A Computer Monitor $AMZN by @_dtl http://t.co/7kQYu69b","lbl":"Neutral"}
+,{"time":"20:52","usr":"firstadopter","txt":"Great news for $AMZN fans, new Kindle Fire HD same rating score as HP Touchpad and last yr\u0027s Kindle Fire. Low bar for them to beat next yr!","lbl":"Positive"}
+,{"time":"20:52","usr":"DaveCV100","txt":"RT @firstadopter: Great news for $AMZN fans, new Kindle Fire HD same rating score as HP Touchpad and last yr\u0027s Kindle Fire. Low bar for ...","lbl":"Positive"}
+]

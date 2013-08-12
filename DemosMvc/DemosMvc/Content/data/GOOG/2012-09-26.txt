@@ -1,0 +1,94 @@
+[
+{"time":"0:49","usr":"jessello","txt":"RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 ...","lbl":"Neutral"}
+,{"time":"0:51","usr":"philwahba","txt":"Barnes & Noble takes aims at Amazon, Apple with HD Nook tablets http://t.co/PWsiyGrq via @reuters $BKS $AMZN $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"0:52","usr":"rdasxy","txt":"RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 ...","lbl":"Neutral"}
+,{"time":"0:53","usr":"stormbrew","txt":"RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 ...","lbl":"Neutral"}
+,{"time":"2:49","usr":"USwwwStocks","txt":"$GOOG News: Google (GOOG) said it would have been better if Apple Inc (AAPL) had kept ... http://t.co/DmdFDSmZ #GOOG #AAPL #Apple","lbl":"Neutral"}
+,{"time":"2:51","usr":"DominicVonbern","txt":"$GOOG \u2013 Google (Last:749.16) http://t.co/tg9en9Bv","lbl":"Neutral"}
+,{"time":"3:01","usr":"BryantTran","txt":"RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 ...","lbl":"Neutral"}
+,{"time":"3:06","usr":"DICERAW","txt":"\u201C@elliottwavems: Apple Investors Hoodwinked By Media Hype? http://t.co/FVwhsQVi $NDX $AAPL $GOOG\u201Dlol","lbl":"Neutral"}
+,{"time":"6:00","usr":"SeekingAlpha","txt":"Wall Street Breakfast: Must-Know News http://t.co/oVTINWAH $YHOO $SPY $QQQ $TM $NSANY.OB $CSCO $BKS $NFLX $JPM $BAC $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"6:00","usr":"andreih1","txt":"RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 $AOL: +120.34%","lbl":"Neutral"}
+,{"time":"6:02","usr":"Ktr8der","txt":"Call me crazy, but I think the $goog\u0027s Nexus iPad will be more profitable to $nvda than googarola. http://t.co/EOVCTrpq","lbl":"Negative"}
+,{"time":"6:09","usr":"SiAlpha","txt":"\u201C@cherylwaller: Samsung\u2019s Mobile Chief To Meet Google\u2019s Schmidt \u2014 Apple Patents Battle On The Agenda? http://t.co/kQ8ROLOj $GOOG $AAPL","lbl":"Negative"}
+,{"time":"6:58","usr":"suckapple","txt":"Apple \u0027Maps\u0027 vs. Google Maps. Spot on. http://t.co/99xZItfK $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"7:00","usr":"z8angela","txt":"Thanks for RTs, feedbacks, & comments on my post! You have motivated and inspired me to do/be better. $AAPL $GOOG $SPY http://t.co/sIBqdWds","lbl":"Neutral"}
+,{"time":"7:44","usr":"SWolfring","txt":"RT @CNNMoney: Google\u0027s stock hit an all-time high of $748.90 early Monday, topping the previous record set in November 2007. http://t.co/Aee9Re4C $GOOG","lbl":"Positive"}
+,{"time":"7:44","usr":"businessinsider","txt":"Google Is Working On Its Own Maps App For The iPhone $GOOG by @jyarow http://t.co/bu2A63Ko","lbl":"Neutral"}
+,{"time":"7:44","usr":"SAI","txt":"Google Is Working On Its Own Maps App For The iPhone $GOOG by @jyarow http://t.co/s2u7Tv0r","lbl":"Neutral"}
+,{"time":"8:10","usr":"wallstCS","txt":"Wall Street Brief: Barnes & Noble Challenges Amazon, http://t.co/OkxOK2SY $YHOO $GOOG $AAPL $BKS $AMZN","lbl":"Neutral"}
+,{"time":"8:29","usr":"ACE52weekhigh","txt":"$GOOG split should be set for October. Details unknown until quarterly earnings and court settlement. Contributing to profit taking","lbl":"Positive"}
+,{"time":"8:29","usr":"firstadopter","txt":"98% of tablet web traffic comes from $AAPL iPads according to Onswipe: http://t.co/c9jg3dTi $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"8:29","usr":"sssc","txt":"+1 - RT @TraderFlorida: $AAPL $GOOG sharing some insights POSTED VIDEO http://t.co/QuF8weo0","lbl":"Neutral"}
+,{"time":"8:30","usr":"MoElnadi","txt":"While $AAPL struggles to fix its buggy #iOS6 maps, $GOOG manages to launch new underwater maps! http://t.co/3DdNHUBs #Apple #GPS","lbl":"Positive"}
+,{"time":"8:50","usr":"pennystockguys","txt":"$GOOG - Brazil Judge Orders Google to Remove Anti-Islam Film http://t.co/RIXiSWj2","lbl":"Negative"}
+,{"time":"8:50","usr":"ADVFNplc","txt":"$GOOG - Brazil Judge Orders Google to Remove Anti-Islam Film http://t.co/g22zFi44","lbl":"Negative"}
+,{"time":"8:50","usr":"srisri55","txt":"No trades for me. Watching the Show. $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:09","usr":"RealCrystalBall","txt":"Google becomes 5th most valuable U.S. company by market cap http://t.co/yNPA8c1Z $GOOG #Stocks","lbl":"Positive"}
+,{"time":"9:09","usr":"nosaj_jason","txt":"RT @YahooFinance: Google becomes 5th most valuable U.S. company by market cap http://t.co/8oJnHaJl $GOOG","lbl":"Positive"}
+,{"time":"9:10","usr":"littletigercs","txt":"$AAPL will come back to above $670. watching and waiting. meanwhile, enjoying shorting the arrogant $GOOG","lbl":"Negative"}
+,{"time":"9:10","usr":"stuffandplayx","txt":"RT @YahooFinance: Google becomes 5th most valuable U.S. company by market cap http://t.co/AX8Ysz8e $GOOG","lbl":"Positive"}
+,{"time":"9:28","usr":"WeTradeAAPL","txt":"#Apple Action morning show. - $AAPL $GOOG $FB $SPY $BIDU $AMZN --- http://t.co/1gQ0zlYm","lbl":"Neutral"}
+,{"time":"9:29","usr":"mitchelltsai","txt":"(typo) sold $AAPL Oct 650 Call 27.95-30.70 (-34% loss), $GOOG Weekly Call 9.5 (+31% profit), Oct 700 Call 62.0 (+4% profit) #MyStock","lbl":"Negative"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"Google\u0027s Growth Is Slowing But The Stock Is Correctly Priced http://t.co/7SCy1oOa $GOOG","lbl":"Neutral"}
+,{"time":"9:50","usr":"kenjotto","txt":"closed $GOOG 760 straddle +2.28/4.7%...was gonna hold until earnings, but i\u0027ll reload once we stabilize","lbl":"Neutral"}
+,{"time":"9:51","usr":"spookyghostfish","txt":"RT @YahooFinance: Google working on maps for iPhone, iPad http://t.co/VZeeevsu $GOOG","lbl":"Neutral"}
+,{"time":"9:52","usr":"z8angela","txt":"@petergo99037185 Thanks, but the last standing man like $GOOG usually bounces fastest and HFT can make it bounce up and down too fast.","lbl":"Neutral"}
+,{"time":"10:19","usr":"jensantarosabk","txt":"RT @YahooFinance: Google working on maps for iPhone, iPad http://t.co/VZeeevsu $GOOG","lbl":"Neutral"}
+,{"time":"10:20","usr":"OptionRunners","txt":"Failed exit on $GOOG. In at 1.35 out at 1.70 for a 26% gain. Got up to 3.00 though, got caught in that market bounce.","lbl":"Negative"}
+,{"time":"10:23","usr":"kstockguy","txt":"can somebody answer $goog if it is so cheap, then so is rest of stocks because most stocks have almost doubled income since 2005-2007 range.","lbl":"Positive"}
+,{"time":"11:01","usr":"ali_Rza777","txt":"Alibaba Rebuilding OS To Escape Android\u0027s Control http://t.co/OMk4odnw $GOOG $ALBCF.PK\u201D","lbl":"Neutral"}
+,{"time":"11:01","usr":"mkarias1","txt":"Bought some $GOOG stock at $747.64","lbl":"Positive"}
+,{"time":"11:02","usr":"mike_tweets","txt":"@SeemaCnbc @cnbcfastmoney - How about $PAY - it seems to be misunderstood - Square competes with $GOOG Wallet or Paypal not $PAY.Education?","lbl":"Neutral"}
+,{"time":"11:20","usr":"NexgenJeremy","txt":"$GOOG Fibonacci support continues to hold for long opportunities. First target reached again. http://t.co/MH9h28jG","lbl":"Positive"}
+,{"time":"11:21","usr":"do_hk","txt":"\u0022@Equitykingkong: $GOOG: covered short 100 weekly 720 puts @ 0.55 for +0.45pts...flat now\u0022 nice timing","lbl":"Neutral"}
+,{"time":"11:22","usr":"actionjack2000","txt":"@ChartLearning any thoughts on $goog, banked some earlier","lbl":"Positive"}
+,{"time":"11:22","usr":"NexgenJeremy","txt":"$GOOG Update on fibonacci levels reached. No divergence here or anticipation of holding yet. http://t.co/akJD5qSQ","lbl":"Neutral"}
+,{"time":"11:52","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Apple Inc. (AAPL) iPhone 5 Trending Is Impressive, Despite Hitches: Apple Inc. (AAPL) iPhone 5 Trending I... http://t.co/qgXmeuZg","lbl":"Neutral"}
+,{"time":"11:52","usr":"abnormalreturns","txt":"Wednesday links: illusions of control, a dearth of bears and body clock awareness. http://t.co/D9WgxEEh $VXX $VIX $GOOG $KRFT $MDLZ","lbl":"Neutral"}
+,{"time":"11:53","usr":"Dmoneydtx","txt":"all out $Goog.. 4.90 she strong ..","lbl":"Negative"}
+,{"time":"11:53","usr":"hedgieguy","txt":"With Apple Stuck On Land, Google Takes Maps Underwater - LITERALLY! http://t.co/SaLcl4fd $AAPL $GOOG","lbl":"Positive"}
+,{"time":"12:12","usr":"valtheegal","txt":"Google Incredibly Didn\u0027t Anticipate Being Dropped From iOS 6 Maps, Scrambling To Create App http://t.co/eC1yb00e @sengineland $AAPL $GOOG","lbl":"Negative"}
+,{"time":"12:12","usr":"JamesGMark","txt":"$GOOG not proven yet http://t.co/Rako2eHn","lbl":"Negative"}
+,{"time":"12:13","usr":"howardlindzon","txt":"RT @StockTwits: Wednesday links: illusions of control. http://t.co/ZkJOgqJa via @abnormalreturns $VXX $VIX $GOOG $KRFT $MACRO","lbl":"Neutral"}
+,{"time":"12:32","usr":"The_cube1984","txt":"$goog will see some lower prices in the near future ;-) .","lbl":"Negative"}
+,{"time":"12:33","usr":"vick08","txt":"More traffic jams? RT @YahooFinance: All cars will be driverless in 20 years: Bob Lutz http://t.co/EvOL4f0X @aarontask $GOOG $TM $GM","lbl":"Neutral"}
+,{"time":"12:33","usr":"OvernightEdges","txt":"RT @abnormalreturns: Wednesday links: illusions of control, a dearth of bears and body clock awareness. http://t.co/p3TP3zLa $VXX $VIX $GOOG","lbl":"Neutral"}
+,{"time":"12:34","usr":"sandeepbhavsar","txt":"@smartertrader the decay in $aapl options vs lack of decay in $goog was really something. Good catch Sam.","lbl":"Positive"}
+,{"time":"12:56","usr":"glifsey","txt":"RT @YahooFinance: All cars will be driverless in 20 years: Bob Lutz http://t.co/odjs26Mb @aarontask $GOOG $TM $GM","lbl":"Neutral"}
+,{"time":"12:57","usr":"NYLnotArmstrong","txt":"RT @SAI: The Only 7 Tablets Worth Buying Right Now $AAPL $GOOG $BKS $AMZN by @_dtl http://t.co/6JRN8cBs","lbl":"Neutral"}
+,{"time":"12:57","usr":"noblin_","txt":"SAI: Here We Go Again! Samsung Has Two New iPhone 5-Bashing Commercials $AAPL $GOOG by @stevekovach http://t.co/pDCaQZin","lbl":"Neutral"}
+,{"time":"13:20","usr":"dmackdaddy","txt":"Once again for u haters! Apple\u0027s #iPhone5 is the World\u0027s Fastest Smartphone, Hands Down! http://t.co/qPWF8X73 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:20","usr":"JustinPulitzer","txt":"$GOOG is just a monster. VERY impressive recovery if it holds strong into the close.","lbl":"Positive"}
+,{"time":"13:20","usr":"christopher2025","txt":"RT @SAI: The Only 7 Tablets Worth Buying Right Now $AAPL $GOOG $BKS $AMZN by @_dtl http://t.co/XCgkXJtR","lbl":"Neutral"}
+,{"time":"13:21","usr":"_Dinesh_Advani_","txt":"The Great Barrier Reef is now available on Google Maps Street View, in case you intend to drive into the ocean. http://t.co/HOi57nhe $GOOG","lbl":"Neutral"}
+,{"time":"13:37","usr":"littletigercs","txt":"that is my plan. $GOOG puts overnight and $aapl calls overnight. see u all Thursday. hahah","lbl":"Negative"}
+,{"time":"13:38","usr":"Sharryn_Dotson","txt":"$GOOG to buy output from Oklahoma #wind #power project http://t.co/Xrt4kPxa","lbl":"Neutral"}
+,{"time":"13:38","usr":"tonythetigerp","txt":"RT @z8angela: Great trading opportunities on big swings these a few days, and trade what we see not what we think. $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"13:38","usr":"mabr0408","txt":"RT @JustinPulitzer: $GOOG is just a monster. VERY impressive recovery if it holds strong into the close.","lbl":"Positive"}
+,{"time":"14:01","usr":"BUDDIEE18","txt":"watch the stock markets aka CASINO -- all of a sudden LIGHT UP ...(gasp)...GREEN?? ;) $SPY $NDX $PCLN $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"14:02","usr":"cnbcfastmoney","txt":"VIDEO: Riding 3 Tech Giants to Profits http://t.co/QBbU1XML $GOOG $EBAY $AMZN $FB @stephanie_link @petenajarian @SimonBakerAve @grassosteve","lbl":"Positive"}
+,{"time":"14:30","usr":"davidweidner","txt":"#tablet wars $AAPL $AMZN $BKS $GOOG http://t.co/97J8EOX5","lbl":"Neutral"}
+,{"time":"14:30","usr":"launchticker","txt":"Report: $goog reluctance to add voice navigation to iOS Maps led to fallout w/ $aapl http://t.co/frKYHyb2","lbl":"Negative"}
+,{"time":"14:30","usr":"brandtrock","txt":"RT @SAI: Here\u0027s The Exact Reason Apple No Longer Has Google-Based Maps On The iPhone $AAPL $GOOG by @jyarow http://t.co/n22cNayZ","lbl":"Neutral"}
+,{"time":"14:45","usr":"ScimaticsSols","txt":"RT @kapulo: RT @businessinsider: The Only 7 Tablets Worth Buying Right Now $AAPL $GOOG $BKS $AMZN by @_dtl http://t.co/Tgri4nVD .","lbl":"Neutral"}
+,{"time":"14:45","usr":"BsiflingTrades","txt":"http://t.co/LOoT57c2 $130.00 profit in $GOOG Also had 100% profits today and stopped out.","lbl":"Negative"}
+,{"time":"14:47","usr":"triowebdesign","txt":"RT @SAI: Here\u0027s The Exact Reason Apple No Longer Has Google-Based Maps On The iPhone $AAPL $GOOG by @jyarow http://t.co/4al3QaiV","lbl":"Neutral"}
+,{"time":"15:24","usr":"Bizwithbaker","txt":"RT @businessinsider: Here\u0027s The Exact Reason Apple No Longer Has Google-Based Maps On The iPhone $AAPL $GOOG by @jyarow http://t.co/px0pEC5Z","lbl":"Neutral"}
+,{"time":"15:27","usr":"justinMreilly","txt":"RT @ericjackson: New Post: Facebook\u0027s MySpace Moment: Why Twitter Is Already Bigger Than Facebook - Forbes http://t.co/EfZ1lRxa $FB $GOOG $YHOO $NWSA","lbl":"Neutral"}
+,{"time":"16:13","usr":"Fitzstock2004","txt":"once again....NOBODY talkin $GOOG.......this one still WANTS HIGHER.......buy all dips vs 10sma=STRONGEST STOCK ON THE BOARD","lbl":"Positive"}
+,{"time":"16:16","usr":"ForTraders","txt":"#Google Inc : Google Brazil Chief Detained, ReleasedGoogle Inc : Google Brazil Chief Detained, Released http://t.co/Dd1jO2Vy $GOOG","lbl":"Negative"}
+,{"time":"16:16","usr":"JAG92","txt":"RT @Vconomics: Why is it constantly \u0022which is a better buy now: $AAPL or $GOOG?\u0022 Honestly, shut up at this point. You missed the run, look elsewhere.","lbl":"Negative"}
+,{"time":"16:16","usr":"pennystockguys","txt":"$GOOG - Google Brazil Chief Detained, Released Over YouTube Videos -Police http://t.co/xcRnbgxp","lbl":"Negative"}
+,{"time":"17:05","usr":"pnavarro88","txt":"Apple\u2019s Maps Tilt in Strange Directions http://t.co/0vTIbhx8 $GOOG","lbl":"Neutral"}
+,{"time":"17:06","usr":"Qwovadis","txt":"$GOOG Bear trade #154 entered week 1 750 P at 50% discount have not been able enter 800 call. Bearish short term has run too far too fast.","lbl":"Negative"}
+,{"time":"17:08","usr":"Ru_Murillo","txt":"RT @SAI: Here\u0027s The Exact Reason Apple No Longer Has Google-Based Maps On The iPhone $AAPL $GOOG by @jyarow http://t.co/n22cNayZ","lbl":"Neutral"}
+,{"time":"17:11","usr":"abdo_dh","txt":"RT @SeekingAlpha: 5 Stocks Billionaires Are Crazy About http://t.co/qhayx644 $AAPL $GOOG $MSFT $NWSA $QCOM","lbl":"Neutral"}
+,{"time":"18:58","usr":"convolutedvol","txt":"RT @tradingplays: $AAPL $GOOG - It\u0027s pop or drop time for these guys! #Intraday","lbl":"Negative"}
+,{"time":"18:58","usr":"beneti","txt":"RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 $AOL: +120.34%","lbl":"Neutral"}
+,{"time":"19:07","usr":"DanielZezepTedy","txt":"RT @YahooFinance: Google working on maps for iPhone, iPad http://t.co/bsSeyMYE $GOOG","lbl":"Neutral"}
+,{"time":"21:41","usr":"thekeikoshow","txt":"@tweet_rrando yea like I\u0027m short $GOOG right now","lbl":"Negative"}
+,{"time":"21:42","usr":"jerry_trades29","txt":"@XESEBT plus the overall stock market is very strong. With $AAPL and $GOOG at all time highs $FB can continue upward","lbl":"Positive"}
+,{"time":"21:45","usr":"petergo99037185","txt":"^SPX 6 MO/DAY Chart still slopping down, angle is softer after 3 days, may turn up thurs, lets hope. Leaders NASDQ $AAPL and $GOOG look GOOD","lbl":"Neutral"}
+,{"time":"21:48","usr":"reverbstrategy","txt":"AMAZING CHART...LOOK AT IT When People Use #Mobile Devices $AAPL, $GOOG, $MSFT http://t.co/kbK4kCBZ compared against PCs","lbl":"Neutral"}
+]

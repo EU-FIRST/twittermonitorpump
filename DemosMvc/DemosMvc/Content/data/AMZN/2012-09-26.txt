@@ -1,0 +1,28 @@
+[
+{"time":"0:51","usr":"philwahba","txt":"Barnes & Noble takes aims at Amazon, Apple with HD Nook tablets http://t.co/PWsiyGrq via @reuters $BKS $AMZN $AAPL $GOOG","lbl":"Negative"}
+,{"time":"6:59","usr":"outlawz616","txt":"@firstadopter Amazon loads too much software on the Kindle Fire, it just becomes bloatware. $AMZN $BKS","lbl":"Negative"}
+,{"time":"7:01","usr":"AnneMarieTrades","txt":"A long term swing view of $AMZN - note the likely retracements that could occur before completion http://t.co/wPaOUiud","lbl":"Neutral"}
+,{"time":"7:45","usr":"JeffReevesIP","txt":"Jeez... Barnes & Noble launching HD Nook reader! A poor man\u0027s Kindle which is a poor man\u0027s iPad... http://t.co/KqRCFLBe $AAPL $AMZN $BKS","lbl":"Negative"}
+,{"time":"8:10","usr":"ericjackson","txt":"New Post: Why Mobile And Music Are a Must: Interview With Songza Co-Founder Eric Davich - Forbes http://t.co/k4qFY4f6 $P $AAPL $FB $AMZN","lbl":"Neutral"}
+,{"time":"8:10","usr":"firstadopter","txt":"\u0022next to Kindle Fire HD & Nexus 7, the NOOK HD\u2019s display was in an entirely different class..the brightness & clarity are phenomenal\u0022 $AMZN","lbl":"Negative"}
+,{"time":"8:10","usr":"wallstCS","txt":"Wall Street Brief: Barnes & Noble Challenges Amazon, http://t.co/OkxOK2SY $YHOO $GOOG $AAPL $BKS $AMZN","lbl":"Negative"}
+,{"time":"8:11","usr":"MattEarley","txt":"Amazon may be expanding grocery delivery into CA. Grocery services = not easy. http://t.co/yn0kc0DX $AMZN","lbl":"Negative"}
+,{"time":"8:29","usr":"firstadopter","txt":"98% of tablet web traffic comes from $AAPL iPads according to Onswipe: http://t.co/c9jg3dTi $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"8:51","usr":"yogeshnahar","txt":"RT @SAI: Amazon\u0027s Kindle Fire Just Became A Dud $BKS $AMZN by @stevekovach http://t.co/XuFBoaZY","lbl":"Negative"}
+,{"time":"9:28","usr":"WeTradeAAPL","txt":"#Apple Action morning show. - $AAPL $GOOG $FB $SPY $BIDU $AMZN --- http://t.co/1gQ0zlYm","lbl":"Neutral"}
+,{"time":"9:29","usr":"Commodity_Bull","txt":"The tablet wars are heating up with $BKS new NOOKs. My take on it http://t.co/9TNcVFLB $AMZN $AAPL","lbl":"Negative"}
+,{"time":"9:51","usr":"BeFullyInformed","txt":"Can\u0027t believe $AMZN is not back to $220 let alone $190. WAYYYY overvalued in my books","lbl":"Negative"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:46am: 250.36 -2.10 (-0.83%).","lbl":"Neutral"}
+,{"time":"12:13","usr":"atwal92","txt":"RT @MarketWatch: The new Barnes & Noble\u0027s Nook tablets take aim at Amazon: http://t.co/CC5h1jud $BKS $AMZN","lbl":"Negative"}
+,{"time":"12:56","usr":"BanzaiTrader","txt":"competition is best for the consumer. $BKS $AMZN http://t.co/jUb7sCfy","lbl":"Neutral"}
+,{"time":"12:57","usr":"NYLnotArmstrong","txt":"RT @SAI: The Only 7 Tablets Worth Buying Right Now $AAPL $GOOG $BKS $AMZN by @_dtl http://t.co/6JRN8cBs","lbl":"Neutral"}
+,{"time":"13:20","usr":"christopher2025","txt":"RT @SAI: The Only 7 Tablets Worth Buying Right Now $AAPL $GOOG $BKS $AMZN by @_dtl http://t.co/XCgkXJtR","lbl":"Neutral"}
+,{"time":"14:02","usr":"cnbcfastmoney","txt":"VIDEO: Riding 3 Tech Giants to Profits http://t.co/QBbU1XML $GOOG $EBAY $AMZN $FB @stephanie_link @petenajarian @SimonBakerAve @grassosteve","lbl":"Positive"}
+,{"time":"14:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 2:47pm: 250.287 -2.173 (-0.86%).","lbl":"Neutral"}
+,{"time":"14:30","usr":"davidweidner","txt":"#tablet wars $AAPL $AMZN $BKS $GOOG http://t.co/97J8EOX5","lbl":"Neutral"}
+,{"time":"14:31","usr":"morganefitz","txt":"Exit: $AMZN,, Long Swing Trade S8 $AMZN,, Exit Long Entry S8, 249.38","lbl":"Positive"}
+,{"time":"14:45","usr":"ScimaticsSols","txt":"RT @kapulo: RT @businessinsider: The Only 7 Tablets Worth Buying Right Now $AAPL $GOOG $BKS $AMZN by @_dtl http://t.co/Tgri4nVD .","lbl":"Neutral"}
+,{"time":"15:26","usr":"Bullish_Closer","txt":"RT @SeekingAlpha: Netflix Cutting Costs: Will It Be Enough? http://t.co/8s47flHe $AMZN $CSTR $TIVO $VZ $NFLX","lbl":"Neutral"}
+,{"time":"15:27","usr":"Power_Closer","txt":"RT @SeekingAlpha: Netflix Cutting Costs: Will It Be Enough? http://t.co/K0LhbFu4 $AMZN $CSTR $TIVO $VZ $NFLX ... http://t.co/ZwOt8bnl","lbl":"Neutral"}
+,{"time":"19:13","usr":"jmorgrain","txt":"That guy on the #amazon commercial has a creepy voice. Such a simple thing. $AAPL gets it $AMZN doesn\u0027t. It\u0027s the little things...","lbl":"Negative"}
+]

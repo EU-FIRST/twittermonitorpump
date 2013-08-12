@@ -1,0 +1,29 @@
+[
+{"time":"1:01","usr":"RichLoPresti","txt":"RT @BaselineAce & $AMZN is \u0022cheapest\u0022 @MergerArbitrage $GOOG $AMZN $AAPL & $FB are \u0022just in case they conquer the world\u0022 stocks u have 2 buy","lbl":"Positive"}
+,{"time":"1:07","usr":"jacomijn","txt":"RT @SAI: Twitter\u0027s New Communications Chief Has Never Used Twitter $GOOG by @mattlynley http://t.co/By37XiJV","lbl":"Neutral"}
+,{"time":"1:10","usr":"wpbasti","txt":"RT @SteveStreza: Woah. $AAPL now has a higher per-share price than $GOOG.","lbl":"Neutral"}
+,{"time":"1:20","usr":"SeekingAlpha","txt":"Project Glass Could Be Called Google Eye When It Lands On Your Face http://t.co/0y4S5ivy $GOOG","lbl":"Neutral"}
+,{"time":"5:10","usr":"SeekingAlpha","txt":"Nokia: A Play For Speculative Investors http://t.co/OZGEBE4W $AAPL $T $GOOG $MSFT $RIMM $NOK $HTCXF.PK $SSNLF.PK","lbl":"Neutral"}
+,{"time":"5:26","usr":"cwdutton","txt":":-) Closing Prices: Apple $633, Google $632 $AAPL $GOOG by @MattRosoff http://t.co/mzfyLgUQ","lbl":"Neutral"}
+,{"time":"5:30","usr":"SAI","txt":"The Future Of YouTube Has A Lot More 3D Videos $GOOG by @_dtl http://t.co/zTbOTVtC","lbl":"Neutral"}
+,{"time":"5:32","usr":"MParekh","txt":"Mutiny for the Bounty: #Android \u0022Device Makers Are Mutinying, Says Insider\u0022 http://t.co/H5hmwG3f (via @TechReview) #Smartphones $GOOG $$","lbl":"Neutral"}
+,{"time":"8:06","usr":"Sermario","txt":"Since patent trolling is the new rage...wondering who has the patents to google glasses...Nintendo (Virtual Boy) lol $GOOG","lbl":"Neutral"}
+,{"time":"8:12","usr":"815wrldtrvlr","txt":"RT @businessinsider: This Is What The 24th Richest Man In The World Looks Like $GOOG by @jyarow http://t.co/1vsYWlMj","lbl":"Neutral"}
+,{"time":"8:15","usr":"bret_jensen","txt":"Commented on: \u0022A Provocative Play On The Smart Phone Market: Nokia\u0022 http://t.co/Gl9qZRGo $AAPL $GOOG $MSFT $RIMM $T $NOK","lbl":"Neutral"}
+,{"time":"9:22","usr":"_MobileInsider","txt":"RT @SAI: Google Delays Its Tablet Because It Can\u0027t Get The Price Under $250 $GOOG $AMZN $AAPL by @jyarow http://t.co/Qy3o5QA2","lbl":"Negative"}
+,{"time":"9:22","usr":"tabletinsider","txt":"RT @SAI: Google Delays Its Tablet Because It Can\u0027t Get The Price Under $250 $GOOG $AMZN $AAPL by @jyarow http://t.co/Qy3o5QA2","lbl":"Negative"}
+,{"time":"9:35","usr":"mikegreenberg","txt":"RT @tomwicky: #Google sponsoring Intuit free business pages - getting Florida online >> Florida Get Online | http://t.co/Iwulm2tr $GOOG #SMB #local","lbl":"Neutral"}
+,{"time":"9:35","usr":"satish_jha","txt":"RT @SAI: Google Delays Its Tablet Because It Can\u0027t Get The Price Under $250 $GOOG $AMZN $AAPL by @jyarow http://t.co/Qy3o5QA2","lbl":"Negative"}
+,{"time":"10:58","usr":"leslieberland","txt":"RT @SAI: This Hilarious Video Shows What It Would Really Be Like To Wear Google\u0027s Computerized Glasses, Ads And All $GOOG http://t.co/XV1LDEwL","lbl":"Neutral"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovBiFBU Sentiment: $GOOG +14%, $MSFT +8%, $AAPL -5%, $AAPL -5%, $MSFT +8%, $GOOG +14% http://t.co/uBJCPjdx","lbl":"Neutral"}
+,{"time":"11:01","usr":"samwbennett","txt":"Look on the bright side, if we gap down on Monday, QE3 might be back $C $BAC $MS $GS and $AAPL > $GOOG #traders","lbl":"Positive"}
+,{"time":"11:02","usr":"tomwickyphoto","txt":"@Google partners with #Intuit for free homepages to get Florida #SMBs online | http://t.co/lGTYbY3b $GOOG #local","lbl":"Neutral"}
+,{"time":"13:00","usr":"tweet_trader","txt":"http://t.co/7ovBiFBU Sentiment: $PFE +51%, $WMT +19%, $MSFT +8%, $AAPL -7%, $WAG -2%, $GOOG +2% http://t.co/uBJCPjdx","lbl":"Neutral"}
+,{"time":"14:36","usr":"stockmarketvide","txt":"$GOOG http://t.co/g66WFqf6 Google (GOOG) CEO Plans to Keep Android Operating System Open","lbl":"Neutral"}
+,{"time":"14:38","usr":"JosefHiggins","txt":"Say what you want about $GOOG Glasses. I\u0027m wouldn\u0027t be ashamed of wearing a pair. I would be ashamed at having a Google+ acct.","lbl":"Negative"}
+,{"time":"14:40","usr":"SAI","txt":"Here\u0027s Who Would Actually Use The Google Glasses $GOOG by @jyarow http://t.co/JhUo0VEn","lbl":"Neutral"}
+,{"time":"14:43","usr":"lluccipha","txt":"SAI: Here\u0027s Who Would Actually Use The Google Glasses $GOOG by @jyarow http://t.co/UpQQ5mXH","lbl":"Neutral"}
+,{"time":"17:56","usr":"Margit_Mcdaniel","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/13YwfQhu $aapl $goog","lbl":"Neutral"}
+,{"time":"17:59","usr":"WallStJesus","txt":"\u2605 RT @traderstewie: $AA, $GOOG, $JPM and $WFC kick off earnings starting next week. Gonna get a lot more exciting soon!","lbl":"Neutral"}
+,{"time":"18:06","usr":"1nvestor","txt":"RT @traderstewie: $AA, $GOOG, $JPM and $WFC kick off earnings starting next week. Gonna get a lot exciting soon!","lbl":"Neutral"}
+]

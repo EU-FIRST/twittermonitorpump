@@ -1,0 +1,26 @@
+[
+{"time":"0:07","usr":"investlite","txt":"Charts and watch list for wednesday posted: http://t.co/yDqK59Xx $GOOG $BIDU $AMZN $LTD $LVS $NFLX $OPEN $SHLD $UA $WFC","lbl":"Neutral"}
+,{"time":"0:15","usr":"EvolvingMedium","txt":"Microsoft to unveil Windows 8 for public test $goog - http://t.co/OEF5iYc4","lbl":"Neutral"}
+,{"time":"0:21","usr":"thefinancepress","txt":"$GOOG Microsoft to unveil Windows 8 for public test: Microsoft to unveil Windows 8 for public test Zee News - 9... http://t.co/CymaMfHn","lbl":"Neutral"}
+,{"time":"6:51","usr":"OdaLisque3","txt":"SCALPSWINGSTRADDLE: ZOZO: $GOOG France\u0027s data protection regulator will launch an http://t.co/aRx2Awqa","lbl":"Negative"}
+,{"time":"6:53","usr":"m1chille","txt":"RT @fromedome: My dream scenario for $GOOG and Motorola: That they start making some really wacky, futuristic stuff: http://t.co/Alt9VsBG via @RWW","lbl":"Neutral"}
+,{"time":"6:58","usr":"SAI","txt":"10 Things You Need To Know This Morning $AAPL $GOOG $MSFT by @_dtl http://t.co/6UpHjWmB","lbl":"Neutral"}
+,{"time":"6:58","usr":"lluccipha","txt":"SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $MSFT by @_dtl http://t.co/C5Zyb1v7","lbl":"Neutral"}
+,{"time":"8:56","usr":"rechtsteiner","txt":"RT @acoffeewith: $GOOG taketh away, and then giveth right back for Indie Booksellers. http://t.co/2dk6dgbO","lbl":"Neutral"}
+,{"time":"8:56","usr":"StockAction","txt":"RT @TheAcsMan: Math doesn\u0027t begin to explain \u0022Law of Large Numbers\u0022 It\u0027s all about creativity. $AAPL #SteveJobs $GOOG http://t.co/mTEe0KeR @stockaction","lbl":"Neutral"}
+,{"time":"8:57","usr":"cvillanu","txt":"Not sure about that price. \u201C@SAI: Here\u0027s Toshiba\u0027s Third Attempt At An Android Tablet $GOOG by @stevekovach http://t.co/2sXlFeRU\u201D","lbl":"Neutral"}
+,{"time":"9:50","usr":"LavinderK","txt":"Just an idea - but a COOL one :D \u201C@SAI: Google Considered Issuing Its Own Currency $GOOG by @_dtl http://t.co/vLd3StyK\u201D","lbl":"Positive"}
+,{"time":"9:51","usr":"SperlsT3Live","txt":"took my $goog off","lbl":"Negative"}
+,{"time":"9:53","usr":"JFDI","txt":"$GOOG working well after clearing 50d on vol yesterday.","lbl":"Positive"}
+,{"time":"11:13","usr":"Minyanville","txt":"#Android tablet market should be shaking in its boots, Apple\u0027s #iPad3 is coming http://t.co/VxZnF3tS $AAPL $GOOG @MichaelComeau","lbl":"Negative"}
+,{"time":"11:14","usr":"VanWinkleSays","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $MSFT by @_dtl http://t.co/6UpHjWmB","lbl":"Neutral"}
+,{"time":"11:17","usr":"wallstCS","txt":"What Does Microsoft Have Up Its Sleeve? http://t.co/2VheH8je $MSFT $ARMH $AAPL $GOOG #mkt #trading","lbl":"Neutral"}
+,{"time":"12:54","usr":"AronPinson","txt":"No one is saying $YHOO is better than $GOOG/$AAPL. No one is saying it\u0027s growing or its US biz is worth $18B. $YHOO = Real value SOP play.","lbl":"Neutral"}
+,{"time":"14:36","usr":"Ro_Patel","txt":"Avg minutes per visitor to Facebook: 405; Tumblr.: 89; Pinterest: 89; Twitter: 21; Linkedin: 17; MySpace: 8; Google+: 3 - $GOOG","lbl":"Negative"}
+,{"time":"15:46","usr":"srisri55","txt":"Don\u0027t know about $AAPL but the market will sell-off tomorrow $BIDU $PCLN $GMCR $GOOG","lbl":"Negative"}
+,{"time":"15:47","usr":"raremetaltrader","txt":"RT @SeekingAlpha: Will Amazon Ever Be Profitable? http://t.co/2BiMMlUW $AAPL $EBAY $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"18:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/76, $GLD/38, $SPY/36, $MSFT/30, $AMRN/28, $SLV/21, $IWM/15, $GOOG/10. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"22:51","usr":"mikejmonahan","txt":"RT @SeekingAlpha: Paradigm Shift In Online Digital Goods Retailing http://t.co/SiXEya35 $AAPL $GOOG $MSFT $AMZN","lbl":"Neutral"}
+,{"time":"22:58","usr":"NoDoji","txt":"RT @TheTokyoTimes: Japan worried by Google\u2019s new privacy policy http://t.co/yRPfXN6h $GOOG","lbl":"Negative"}
+,{"time":"23:23","usr":"ValaAfshar","txt":"Spectacular > Check out @ericschmidt must-see, visionary Mobile World Congress keynote http://t.co/IqslUnpP via @sameerpatel $GOOG","lbl":"Neutral"}
+]

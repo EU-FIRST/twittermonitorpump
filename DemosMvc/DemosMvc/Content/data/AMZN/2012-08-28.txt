@@ -1,0 +1,53 @@
+[
+{"time":"6:30","usr":"OptionsHawk","txt":"Active in Cloud, Amazon Reshapes Computing - NY Time - Good Article on $AMZN Web Services http://t.co/iXBYhITz","lbl":"Positive"}
+,{"time":"6:32","usr":"sunsrin","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"6:46","usr":"MelkiSch","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"6:47","usr":"josch","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"6:47","usr":"reelimages","txt":"RT @binoy1: \u201C@counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.\u201D","lbl":"Neutral"}
+,{"time":"6:47","usr":"dbalin","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:10","usr":"mmetzler","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:10","usr":"omelnikov","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:12","usr":"Roscoe09","txt":"Unbelievable... RT @counternotions As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:47","usr":"densmith","txt":"RT @macsmarts: \u201C@counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.\u201D Well.","lbl":"Neutral"}
+,{"time":"7:47","usr":"RoMoExpress","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"8:41","usr":"AndrewBoyd29","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"8:42","usr":"hiphoox","txt":"\u201C@counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.\u201D Good morning everyone.","lbl":"Neutral"}
+,{"time":"8:42","usr":"srshti","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"8:55","usr":"shaunbent","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"8:56","usr":"pelias01","txt":"5 Tablet War Winners And Losers To Watch Closely http://t.co/y6RQWIfu $GOOG $INTC $MSFT $T $AMZN","lbl":"Neutral"}
+,{"time":"8:57","usr":"stock_pandit","txt":"Notable Large-Cap And Mid-Cap Insider Sells Filed On August 27 http://t.co/lAbFqmdk $MSFT $ALXN $AMZN $REGN $BRCM $CHS $EL $EMC $GD","lbl":"Neutral"}
+,{"time":"9:43","usr":"jblet","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"9:43","usr":"Janvankampen","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"9:59","usr":"huguenel","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"9:59","usr":"rwanitoo","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"10:14","usr":"Casseon","txt":"$AMZN looking a little pricey right now though. .69 profit margin.Only so low you can squeeze margins.$355mil prof on 55bil rev, that\u0027s tiny","lbl":"Negative"}
+,{"time":"10:15","usr":"vid_e","txt":"$amzn unch, awesome!","lbl":"Positive"}
+,{"time":"10:15","usr":"hardik4321","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"10:42","usr":"bch4pm4n","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"10:43","usr":"H2CO3_iOS","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"11:15","usr":"RinoRaj","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"11:17","usr":"G__MAT","txt":"$AMZN @ 245.19 +0.49%, $AAPL @ 675.29 -0.06%, $GOOG 677.00 +1.16% press on high","lbl":"Positive"}
+,{"time":"11:17","usr":"owehrens","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"11:20","usr":"TenBaggers","txt":"How Amazon will make a dent in the universe: http://t.co/dIqcCW7G $AMZN #cloudcomputing","lbl":"Positive"}
+,{"time":"11:42","usr":"sssc","txt":"RT @MercenaryJack This story on $AMZN web services is crazy http://t.co/snW9kPih Note to self: Don\u0027t short Bezos $QQQ","lbl":"Positive"}
+,{"time":"11:42","usr":"kona314","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"11:43","usr":"howardlindzon","txt":"LONG ... RT @MercenaryJack This story on $AMZN web services is crazy http://t.co/1dy47ukM Note to self: Don\u0027t short Bezos $QQQ","lbl":"Neutral"}
+,{"time":"12:19","usr":"stockmarketvide","txt":"$AMZN http://t.co/hoHqYJeo Amazon. com Inc (AMZN) Web Services Releases Cloud Based Archival; Glacier","lbl":"Positive"}
+,{"time":"12:21","usr":"laulauritzen","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"12:21","usr":"NikMaydanov","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"13:20","usr":"oakinger","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"14:24","usr":"sleatham1","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"14:25","usr":"takingstock614","txt":"Long some $AMZN looking for 250+","lbl":"Positive"}
+,{"time":"15:23","usr":"hannesvonwyl","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"16:51","usr":"zozotrader","txt":"$AMZN dail area chart lined http://t.co/8hjeBood #WORDEN","lbl":"Neutral"}
+,{"time":"17:53","usr":"tweetstar10","txt":"RT @zentrader: Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from @alla ...","lbl":"Neutral"}
+,{"time":"19:08","usr":"healyconsult","txt":"RT @SAI: Uh Oh! Amazon Researchers Say Pinterest Doesn\u0027t Monetize Well $AMZN by @owenthomas http://t.co/KAoLEQhc","lbl":"Neutral"}
+,{"time":"19:10","usr":"ValentFinancial","txt":"Amazon\u0027s Kindle Books Are ON FIRE! http://t.co/11OfE3JX $AAPL $AMZN","lbl":"Positive"}
+,{"time":"19:14","usr":"Manoncamelshump","txt":"RT @zentrader: Retweet to win an $AMZN Kindle DX w/ $50 credit for a trading book & go digital with your trading research from @alla ...","lbl":"Neutral"}
+,{"time":"20:54","usr":"pascaledowning","txt":"RT @SAI: Uh Oh! Amazon Researchers Say Pinterest Doesn\u0027t Monetize Well $AMZN by @owenthomas http://t.co/KAoLEQhc","lbl":"Neutral"}
+,{"time":"20:59","usr":"LawrenceArnolie","txt":"RT @SAI: Uh Oh! Amazon Researchers Say Pinterest Doesn\u0027t Monetize Well $AMZN by @owenthomas http://t.co/KAoLEQhc","lbl":"Neutral"}
+,{"time":"21:03","usr":"everywheresafe","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"21:04","usr":"miltonix","txt":"RT @SAI: Uh Oh! Amazon Researchers Say Pinterest Doesn\u0027t Monetize Well $AMZN by @owenthomas http://t.co/KAoLEQhc","lbl":"Neutral"}
+,{"time":"23:58","usr":"shaochuhan","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"23:59","usr":"SusanStovall","txt":"RT @LukeRomyn: Overdose your Kindle with some adrenaline-fueled adventure! http://t.co/shNMMha9 $AMZN #action #thriller #bestseller","lbl":"Neutral"}
+]

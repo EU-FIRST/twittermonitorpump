@@ -1,0 +1,9 @@
+[
+{"time":"1:27","usr":"NiueNews1","txt":"RT @SAI: Mark Zuckerberg Lists The Companies He Admires, Microsoft Doesn\u0027t Make It $MSFT $GOOG $AMZN $AAPL by @jyarow http://t.co/VNJPHwZ9","lbl":"Positive"}
+,{"time":"1:35","usr":"ManiOhli","txt":"Money Runners: burberry: $AMZN Chart http://t.co/3ojL5Cp5","lbl":"Neutral"}
+,{"time":"12:51","usr":"DUInvestors","txt":"RT @StockTwits: It\u2019s Amazon\u2019s World and We\u2019re All Just Living In It http://t.co/c5qDSmaS via @kiddynamiteblog $AMZN","lbl":"Positive"}
+,{"time":"12:57","usr":"bread_apostle","txt":"RT @StockTwits: It\u2019s Amazon\u2019s World and We\u2019re All Just Living In It http://t.co/c5qDSmaS via @kiddynamiteblog $AMZN","lbl":"Positive"}
+,{"time":"16:25","usr":"StocialPicks","txt":"Heidi made a pick on Stocial. Long $AMZN at 178.19. http://t.co/QZsYOzLH","lbl":"Positive"}
+,{"time":"16:29","usr":"CapCube","txt":"@StockTwits @kiddynamiteblog cult stories needed to prop up cult stock w/terrible valuation metrics. $AMZN can\u0027t make $- I use but noKoolAid","lbl":"Negative"}
+,{"time":"21:59","usr":"fortune8","txt":"RT @traderflorida: $AMZN http://t.co/Y8ZFPB8R Holding support watching closely $AZO $BIDU $SINA $SOHU POSTED VIDEO // Nice Like SOHU","lbl":"Neutral"}
+]

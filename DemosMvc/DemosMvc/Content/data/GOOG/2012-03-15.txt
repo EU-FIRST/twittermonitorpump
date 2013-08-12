@@ -1,0 +1,25 @@
+[
+{"time":"0:10","usr":"Amounii","txt":"Just voted! #MarchStockMania @CNNMoney #Day3 $AAPL $GE $GOOG $IBM","lbl":"Neutral"}
+,{"time":"2:27","usr":"McCannToday","txt":"RT @SAI: Roger McNamee Thinks Google Should Build A Chrome Phone And Twitter Is \u0027Tragic\u0027 $GOOG $AAPL by @MattRosoff http://t.co/kl2XAOUi","lbl":"Neutral"}
+,{"time":"2:31","usr":"1JamesWoodhead","txt":"RT @SAI: Roger McNamee Thinks Google Should Build A Chrome Phone And Twitter Is \u0027Tragic\u0027 $GOOG $AAPL by @MattRosoff http://t.co/kl2XAOUi","lbl":"Neutral"}
+,{"time":"2:37","usr":"hondelxpji4","txt":"Billionaire Ray Dalio\u0027s Top Stock Picks $AAPL $BMC $DELL $EEM $GOOG $HPQ $JNJ $PFE $SPY $VWO","lbl":"Neutral"}
+,{"time":"2:38","usr":"mercedesmapua","txt":"RT @SAI: Google Admits Microsoft Is Right, Will Begin Serving Answers Instead Of Links $GOOG $MSFT by @MattRosoff http://t.co/Zfug5UCt","lbl":"Negative"}
+,{"time":"7:06","usr":"AmericanEtrader","txt":"China\u0027s online advertising market rose 57 percent surpassing traditional newspaper advertising http://t.co/MjmwgPir $BIDU $SINA $SOHU $GOOG","lbl":"Neutral"}
+,{"time":"7:16","usr":"angry_veteran","txt":"Google X research facility and its secret projects http://t.co/tcriFhuV #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"8:42","usr":"elpady","txt":"RT @businessinsider: What It\u0027s Like At Google\u0027s Hyper-Secure Server Centers $GOOG by @mattlynley http://t.co/eHVL0ivP","lbl":"Neutral"}
+,{"time":"8:43","usr":"lluccipha","txt":"SAI: What It\u0027s Like At Google\u0027s Hyper-Secure Server Centers $GOOG by @mattlynley http://t.co/6abrLtOG","lbl":"Neutral"}
+,{"time":"8:43","usr":"liishygo","txt":"RT @businessinsider: What It\u0027s Like At Google\u0027s Hyper-Secure Server Centers $GOOG by @mattlynley http://t.co/eHVL0ivP","lbl":"Neutral"}
+,{"time":"9:53","usr":"Trefis","txt":"Microsoft Continues to Bleed Smartphone Market Share in the US; All Hopes on Tango http://t.co/4hIAB4G2 $MSFT $GOOG $AAPL","lbl":"Negative"}
+,{"time":"9:56","usr":"thefinancepress","txt":"$GOOG Google Inc. Expands Google Offers Again: Google Inc. Expands Google Offers Again StocksandShares.TV - 16 ... http://t.co/mTQXDSal","lbl":"Neutral"}
+,{"time":"9:56","usr":"thinkingtrades","txt":"$GOOG is only meant to be shorted. No point going long this stock. Wait and short.","lbl":"Negative"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/214, $SPY/56, $GS/46, $USO/34, $BAC/32, $CSCO/25, $GOOG/24, $GLD/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:08","usr":"BanzaiTrader","txt":"Large Head and shoulder pattern on $GOOG measures to 470ish. Long $530 April puts at 1.75-1.8...","lbl":"Negative"}
+,{"time":"12:28","usr":"rechtsteiner","txt":"The official NCAA March Madness app is out for $AAPL iOS & $GOOG Android. http://t.co/yo5k5jlR $3.99 for live streaming of all games.","lbl":"Neutral"}
+,{"time":"12:30","usr":"max_options","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/HLykxouW #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"12:30","usr":"big_options","txt":"RT @BanzaiTrader: Large Head and shoulder pattern on $GOOG measures to 470ish. Long $530 April puts at 1.75-1.8...","lbl":"Negative"}
+,{"time":"13:48","usr":"USwwwStocks","txt":"$GOOG News: [$$] Apple Shares Hit $600 Ahead of iPad Release http://t.co/PbT1ZQrE #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"13:51","usr":"gaamu89","txt":"RT @atul: YouTube Blog: 19,000+ episodes of Indian TV on YouTube Shows - http://t.co/6DpIBBa6 $GOOG #bollywood","lbl":"Neutral"}
+,{"time":"13:52","usr":"DanTraderETN","txt":"Even with PR help from #WSJ, $GOOG has a tough road to hoe. http://t.co/YoZdHsRo","lbl":"Negative"}
+,{"time":"21:28","usr":"tradepips","txt":"$tocktwit$ StockTwits: RT @bpeck $EBAY, $GOOG The new Cashier app/case should accelerate mo... http://t.co/gaKOPGqa #stocks #MKT #charts","lbl":"Neutral"}
+,{"time":"21:34","usr":"tradingstocks28","txt":"$GOOG - Google Stock Analysis - volume up over 5% - http://t.co/aRoYhWTV","lbl":"Neutral"}
+]

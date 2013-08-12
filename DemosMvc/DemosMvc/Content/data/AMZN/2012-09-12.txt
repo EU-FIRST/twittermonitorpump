@@ -1,0 +1,20 @@
+[
+{"time":"1:18","usr":"DonGarabedian","txt":"\u201C@om: Here is what I think about the new Amazon Kindle Fire HD 2012 edition. http://t.co/QeAa5E8T\u201D Fair evaluation $AMZN","lbl":"Neutral"}
+,{"time":"5:35","usr":"peagama","txt":"RT @StockTwits: Amazon, Forced to Collect a Tax, Is Adding Roots http://t.co/3l6rGPVG $AMZN ht @deidrezune $AMZN","lbl":"Neutral"}
+,{"time":"5:36","usr":"PaulaWarfield","txt":"RT @StockTwits: Amazon, Forced to Collect a Tax, Is Adding Roots http://t.co/3l6rGPVG $AMZN ht @deidrezune $AMZN","lbl":"Negative"}
+,{"time":"6:41","usr":"etamb","txt":"RT @SAI: MOSSBERG: The Kindle Fire HD Is Not As \u0027Polished, Fluid Or Versatile\u0027 As The iPad $AAPL $AMZN $GOOG by @nichcarlson http://t.co ...","lbl":"Negative"}
+,{"time":"6:42","usr":"davidjhinson","txt":"RT @SAI: MOSSBERG: The Kindle Fire HD Is Not As \u0027Polished, Fluid Or Versatile\u0027 As The iPad $AAPL $AMZN $GOOG by @nichcarlson http://t.co ...","lbl":"Neutral"}
+,{"time":"7:21","usr":"joshzik","txt":"RT @businessinsider: Pogue Laughs At Amazon\u0027s iPad Wannabe $AMZN $AAPL by @nichcarlson http://t.co/ZG0ZCx86","lbl":"Negative"}
+,{"time":"8:31","usr":"SAI","txt":"Amazon\u0027s \u0027Monumental Bet\u0027 $AMZN by @jyarow http://t.co/T2rWQSRR","lbl":"Neutral"}
+,{"time":"10:54","usr":"Minyanville","txt":"Tech News: Oops, Apple Search Engine Reveals Secret Product Names $AAPL $INTC $MSFT $DELL $AMZN http://t.co/4boQMM5q","lbl":"Neutral"}
+,{"time":"11:35","usr":"LaMonicaBuzz","txt":"NOT overheard in Cupertino last week after $AMZN event. \u0022But we were going to call this iPhone Paperwhite! I guess it\u0027s back to iPhone 5.\u0022","lbl":"Neutral"}
+,{"time":"11:36","usr":"ForTraders","txt":"#Amazon\u0027s new $199 tablet gets tepid reviewsAmazon\u0027s new $199 tablet gets tepid reviews http://t.co/py0SmNKo $AMZN","lbl":"Neutral"}
+,{"time":"12:52","usr":"tlmontana","txt":"$AMZN Go... Looking for 256.50 or will trim more off of this name as well and Buy at re-test of 250. Think it is a 300 stock","lbl":"Positive"}
+,{"time":"13:53","usr":"MycroftP","txt":"Commented on: \u0022Google - New Reasons To Buy This Hot Stock Now\u0022 http://t.co/jIQ0Yvto $GOOG $AAPL $AMZN $BIDU $MSFT","lbl":"Neutral"}
+,{"time":"14:47","usr":"Benzinga","txt":"$AAPL $AMZN Amazon\u0027s New Shipping Plans May Cause Trouble for Kindle: http://t.co/Dl5AoOhG","lbl":"Negative"}
+,{"time":"14:49","usr":"bryang_KR","txt":"http://t.co/3aWudKBD 5 more minutes ticking off my 15 of fame ;-) thanks to #cnbcfastmoney crew! $AMZN $CVS $FDO $DG $JCP $M $JWN $TJX","lbl":"Neutral"}
+,{"time":"15:55","usr":"DeidreZune","txt":"$AMZN has most of its rocket move behind it (called it at 234 for 25 points to 259). Hope u enjoyed it :)","lbl":"Negative"}
+,{"time":"17:13","usr":"rob_a_nielsen","txt":"Tempting, looks true on Amazon -- $99 Samsung Galaxy S3 Deal Alert -- http://t.co/NpZlpUkM via @HuffPostTech $AMZN","lbl":"Positive"}
+,{"time":"18:53","usr":"KevinNewcombe78","txt":"Amazon Is Hitting Google Where It Hurts $GOOG $AMZN http://t.co/xvtqtsRJ via @minyanville","lbl":"Positive"}
+,{"time":"19:10","usr":"FreedoniaMoney","txt":"Amazon To Cash In On #Gaming Market - Seeking Alpha http://t.co/2te0rFML $AMZN $AAPL $GME","lbl":"Positive"}
+]

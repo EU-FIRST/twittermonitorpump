@@ -1,0 +1,30 @@
+[
+{"time":"7:13","usr":"BioTechReports","txt":"$KERX - wow! RUNNING!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn,$csco,$ctic,$mrk,$jpm","lbl":"Neutral"}
+,{"time":"7:18","usr":"thefinancepress","txt":"$GOOG Monster Worldwide (NYSE:MWW) Possible Deal Weigh by Linkedin (NYSE:LNKD ...: Monster Worldwide (NYSE:MWW)... http://t.co/1Wf0yWL9","lbl":"Neutral"}
+,{"time":"7:25","usr":"BioTechReports","txt":"$KERX - we called it!RUN!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn,$csco,$ctic,$mrk,$jpm","lbl":"Neutral"}
+,{"time":"9:09","usr":"patroneux","txt":"this is it markets?? 40 mins in and we\u0027re flat?! $SPY $NFLX $AAPL $PCLN $GOOG","lbl":"Neutral"}
+,{"time":"9:14","usr":"berkutchitweet","txt":"Sitting tight on last week\u0027s shorts at the moment: $AAPL $CEO $CMG $GOOG $GWW $IBM $MA $PCLN. Got room for one more, stalking $ISRG at 50d.","lbl":"Negative"}
+,{"time":"10:07","usr":"ericjackson","txt":"New Post: Here\u0027s the 30 Second Zuckerberg Video That Should Terrify All Facebook Investors - Forbes http://t.co/4AfKF4dG $FB $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"11:52","usr":"Mark_Lexus","txt":"$GOOG chart and setups for new entry http://t.co/mrVnPAUQ $ZNGA","lbl":"Neutral"}
+,{"time":"11:54","usr":"BUDDIEE18","txt":"@Mark_Lexus lol...Y don\u0027t u go to @SellPuts trading room & save yourself doing t/a on $GOOG - http://t.co/Efwlj2ES","lbl":"Negative"}
+,{"time":"11:59","usr":"MockTrade","txt":"$GOOG bears trying 2 hold below Fri\u0027s VAL 608 & I am watching $AAPL here 2 lead lower as it has held below the 10min40MA 4 most of the morn","lbl":"Negative"}
+,{"time":"12:03","usr":"thefinancepress","txt":"$GOOG GOOGLE INC : Atlantic Wind Transmission Project Clears Hurdle: GOOGLE INC : Atlantic Wind Transmission Pr... http://t.co/X4PWhpeU","lbl":"Neutral"}
+,{"time":"12:56","usr":"tigrs99","txt":"RT @SAI: Zuckerberg Explains How Facebook Is Different Than Google, Yahoo, And HP $HP $YHOO $GOOG $FB by @nichcarlson http://t.co/scmUr7PY","lbl":"Neutral"}
+,{"time":"12:57","usr":"StevenCarraher","txt":"Zuckerberg Explains How @Facebook Is Different Than @Google, @Yahoo, & @HP http://t.co/A5h0XYSS by @nichcarlson via @SAI $FB $GOOG $YHOO $HP","lbl":"Neutral"}
+,{"time":"12:57","usr":"SocialWorldBuzz","txt":"RT @businessinsider: Zuckerberg Explains How Facebook Is Different Than Google, Yahoo, And HP $HP $YHOO $GOOG $FB by @nichcarlson...","lbl":"Neutral"}
+,{"time":"12:58","usr":"Equitykingkong","txt":"$BIDU,$GOOG = should own these 2 stocks but have not found a compelling techn. reason yet","lbl":"Positive"}
+,{"time":"13:34","usr":"wallstCS","txt":"Will Apple Take Down Instagram? http://t.co/IaQyIfg8 $AAPL $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"14:01","usr":"MichaelComeau","txt":"Apps don\u0027t make gaming consoles obsolete. Apps are just where the growth is. $AAPL $GOOG $EA $ATVI #videogames","lbl":"Neutral"}
+,{"time":"14:02","usr":"CNBC_Live","txt":"RT @SeekingAlpha: When To \u0027Unfriend\u0027 Facebook Stock http://t.co/GCtk8qP1 $GOOG $FB","lbl":"Neutral"}
+,{"time":"14:03","usr":"Bluechiptrend","txt":"missed my $GOOG entry","lbl":"Neutral"}
+,{"time":"15:15","usr":"longrunreturns","txt":"Facebook\u0027s IPO: Dislike #bubble http://t.co/tCgTl7RH $GOOG $LNKD $ZNGA $GRPN #Facebook #socialnetworking","lbl":"Neutral"}
+,{"time":"15:22","usr":"bbehnamfar","txt":"RT @SAI: Zuckerberg Explains How Facebook Is Different Than Google, Yahoo, And HP $HP $YHOO $GOOG $FB by @nichcarlson http://t.co/scmUr7PY","lbl":"Neutral"}
+,{"time":"18:33","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/PDYIOPfD","lbl":"Neutral"}
+,{"time":"18:33","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/EShVHddS","lbl":"Neutral"}
+,{"time":"19:02","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Form 4 Google Inc. For: May 14 Filed by: Page Lawrence (10K) http://t.co/rFwMTC9g #BIDU #Filed #Form","lbl":"Neutral"}
+,{"time":"19:15","usr":"tjtakes","txt":"On this $fb revalue of IPO I will look at $goog for long setup","lbl":"Neutral"}
+,{"time":"22:44","usr":"thefinancepress","txt":"$GOOG Google\u0027s Brin makes strides in hunt for Parkinson\u0027s cure: Google\u0027s Brin makes strides in hunt for Parkins... http://t.co/Q4qxyAtu","lbl":"Neutral"}
+,{"time":"23:00","usr":"AlphaVN","txt":"Can HP turn it around? They\u0027ll need more than money, they\u0027ll need vision $HPQ $AAPL $GOOG $AMD $MSFT http://t.co/fViqazWA","lbl":"Neutral"}
+,{"time":"23:04","usr":"smarttrader15","txt":"$GOOG - Google Stock Analysis - RSI is bearish and falling - http://t.co/HmHwjphD","lbl":"Negative"}
+,{"time":"23:12","usr":"FredBullock","txt":"The Android Income Statement http://t.co/j8Zei1gn #in $goog","lbl":"Neutral"}
+]

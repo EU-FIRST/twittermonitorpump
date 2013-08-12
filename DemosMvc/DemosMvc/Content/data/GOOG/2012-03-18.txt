@@ -1,0 +1,13 @@
+[
+{"time":"9:54","usr":"USwwwStocks","txt":"$GOOG News: 3 Key Technology Plays For Profits Now http://t.co/qfOYvIXX #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"9:56","usr":"I_am_funny_one","txt":"I think this is really how google feels about aaple. $aapl $goog http://t.co/qR51rJd0","lbl":"Neutral"}
+,{"time":"10:00","usr":"SteelerTrader","txt":"$GOOG http://t.co/fxUqFpJe Not a bad look here trying to break out of range- long > 626. swing stop can be losing 612 or 2.3%","lbl":"Positive"}
+,{"time":"17:31","usr":"secretbonus","txt":"Apple, a history of parabolic moves and how to trade them http://t.co/Lf16oNyu $aapl $csco $goog, $qqq, $msft, $yhoo, $rom","lbl":"Neutral"}
+,{"time":"17:41","usr":"thefinancepress","txt":"$GOOG Facebook vs. Google+: Let\u0027s See Which One Is Better? [POLL]: Facebook vs. Google+: Let\u0027s See Which One Is... http://t.co/hnMOQGJB","lbl":"Neutral"}
+,{"time":"17:44","usr":"bclund","txt":"BREAKING NEWS: $AAPL schedules press conference to announce they have used free cash to construct a \u0022laser\u0022 that is pointed right at $GOOG","lbl":"Negative"}
+,{"time":"17:47","usr":"cronked","txt":"\u201C@bclund: $AAPL sched. press conf. to announce they have used free cash to construct a \u0022laser\u0022 that is pointed right at $GOOG\u201D // I wish.","lbl":"Neutral"}
+,{"time":"22:04","usr":"Ro_Patel","txt":"RT @cnbcfastmoney: Apple Likely to Declare 2.5% Annual Dividend on Monday Call - http://t.co/ZQ7WXF0e - $AAPL $MSFT $GOOG $HPQ $DELL $RIMM","lbl":"Neutral"}
+,{"time":"22:04","usr":"barronstechblog","txt":"Apple: Mizuho Ups Target to $700 on Dividend Prospect, iPad Outlook - Tech Trader Daily - $AAPL $GOOG $MSFT $RIMM $AMZN http://t.co/c1MyB3e6","lbl":"Neutral"}
+,{"time":"22:27","usr":"investorblog","txt":"@TRYKtrading When wondering how high $AAPL can go to...what\u0027s the benchmark tech stock for it? $GOOG ?","lbl":"Neutral"}
+,{"time":"22:31","usr":"EvolvingMedium","txt":"Apple \u0027s Cook to Discuss Plans for $97.6 Billion Cash Hoard $goog - http://t.co/Sg5bU5gi","lbl":"Neutral"}
+]

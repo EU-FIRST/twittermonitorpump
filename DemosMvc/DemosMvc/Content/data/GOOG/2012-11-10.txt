@@ -1,0 +1,11 @@
+[
+{"time":"5:20","usr":"biggalaxy","txt":"$GOOG and $AAPL - January to get ugly for $AAPL? http://t.co/YAdBouq7","lbl":"Neutral"}
+,{"time":"5:30","usr":"clafsm","txt":"RT @CNNMoney: Google\u0027s own \u0022transparency report\u0022 shows a sharp drop in traffic from China across all of Google\u0027s products. http://t.co/yfxohMJO $GOOG","lbl":"Negative"}
+,{"time":"5:34","usr":"SparrowMinded","txt":"Google Apps Vault now available to Google Apps for Government Customers http://t.co/PLhtcu80 #Google #Apps $GOOG","lbl":"Neutral"}
+,{"time":"13:11","usr":"StockTwits","txt":"\u0022@tradermarsh: Google, Facebook And The Next Billion Users http://t.co/GuSZc59N via @zite $GOOG $FB\u0022","lbl":"Neutral"}
+,{"time":"13:17","usr":"Minyanville","txt":"ICYMI: Death by Apple: Five Products Killed in the Name of Progress $AAPL $MSFT $GOOG $EBAY http://t.co/Ah0uKsa1","lbl":"Neutral"}
+,{"time":"13:19","usr":"sssc","txt":"lests see: $AAPL - $GOOG - financials - energy all pulling in. $TLT hot.","lbl":"Neutral"}
+,{"time":"19:08","usr":"rrshasss","txt":"Open Interest $GOOG - High C - 700. High P 700 then 650. http://t.co/yEf3AyI1","lbl":"Neutral"}
+,{"time":"19:26","usr":"BenCBanks","txt":"Anyone out there have a trading/investing book recommendations?? Thanks. $spy $aapl $goog","lbl":"Neutral"}
+,{"time":"20:02","usr":"RIConferences","txt":"RT @StockTwits: Google Presents Google Ventures With $1.5B for Investments Through 2017 http://t.co/CKze8bes via WSJ $GOOG","lbl":"Neutral"}
+]

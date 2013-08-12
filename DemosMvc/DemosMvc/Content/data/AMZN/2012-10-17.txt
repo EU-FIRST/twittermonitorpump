@@ -1,0 +1,25 @@
+[
+{"time":"6:48","usr":"rodzvilla","txt":"RT @SAI: These Amazing World Maps Show Where Apple\u0027s Beating Google, Amazon, And Microsoft $AAPL $GOOG $AMZN $MSFT http://t.co/iVa6jZyT","lbl":"Negative"}
+,{"time":"6:52","usr":"HillmanRea","txt":"RT @SAI: Google Is Planning A $99 Tablet For The Holidays $GOOG $AMZN by @jyarow http://t.co/JGwaKDna","lbl":"Neutral"}
+,{"time":"7:51","usr":"chrishar00","txt":"WHAT THEY KNOW: $GOOG - what you want/search history; $AMZN - what you bought; $FB - who you are/your exact profile ~~> All powerful bits","lbl":"Neutral"}
+,{"time":"7:52","usr":"MPWCanada_TNG","txt":"$AMZN Where are the robots? http://t.co/IukNJ2vP","lbl":"Neutral"}
+,{"time":"8:40","usr":"launchticker","txt":"$amzn intros Whispercast, Kindle mgt for large orgs & schools; allows admins to distribute books across # of Kindles http://t.co/1P6KwzKy","lbl":"Neutral"}
+,{"time":"8:40","usr":"YahooFinance","txt":"Amazon makes big Kindle push in U.S. schools $AMZN http://t.co/wI61nKfP #kindle","lbl":"Positive"}
+,{"time":"9:20","usr":"kulatogz","txt":"RT @SAI: Google Is Planning A $99 Tablet For The Holidays $GOOG $AMZN by @jyarow http://t.co/JGwaKDna","lbl":"Negative"}
+,{"time":"9:20","usr":"MomentumPtrsLLC","txt":"$amzn decided i as getting greedy too it all off entry avg $243.50 exit avg $248.30 +$4.80 going tio taek it easy ready of day risk off","lbl":"Neutral"}
+,{"time":"9:21","usr":"ToddSullivan","txt":"Amazon said to be looking to buy Kindle chip supplier Texas Instruments http://t.co/nJqdMvXR $AMZN","lbl":"Neutral"}
+,{"time":"9:22","usr":"MomentumPtrsLLC","txt":"$amzn coudl very easily tag $250 but confluence of half week candle and MA R by lots of MAs","lbl":"Neutral"}
+,{"time":"9:56","usr":"BlueFielder","txt":"$AMZN - New trade - bot 245 $PUT\u0027s @ 1.76","lbl":"Negative"}
+,{"time":"9:56","usr":"pampered_stef","txt":"RT @YahooFinance: Amazon makes big Kindle push in U.S. schools $AMZN http://t.co/wI61nKfP #kindle","lbl":"Positive"}
+,{"time":"9:57","usr":"ToddSullivan","txt":"RT @thestalwart: @BI_RetailNews: An Analyst Walked Into $BBY And Discovered FIrsthand How $AMZN Is Killing It http://t.co/v9L3S2aV","lbl":"Positive"}
+,{"time":"10:36","usr":"LukeRomyn","txt":"Love your Kindle? Love it more with these intense thrillers: http://t.co/DpXAtUsA $AMZN #bestsellers","lbl":"Neutral"}
+,{"time":"11:41","usr":"nicholas_yee","txt":"I agree 100% with the author on the sale of $TXN\u0027s OMAP division, hopefully $AMZN is not dumb enough to pay \u0022billions\u0022 http://t.co/RXwLYx1F","lbl":"Neutral"}
+,{"time":"12:27","usr":"pnavarro88","txt":"EPS season is here u still have time to get the trades from @HFT_Options best is yet to come $AAPL $GOOG $MSFT $AMZN $CMG @HamzeiAnalytics","lbl":"Neutral"}
+,{"time":"13:27","usr":"Lowtown21","txt":"RT @OptionsHawk: $AMZN October $245/$250 calls likely active as a play on $EBAY earnings - tend to be correlated and a sympathy mover","lbl":"Positive"}
+,{"time":"14:30","usr":"CBOE","txt":"DRJ on @CBOE_TV: $GOOG & $AMZN outperform & post-debate activity in #coal stocks @Optionmonster reports $$ http://t.co/rMQRYjqu","lbl":"Positive"}
+,{"time":"15:44","usr":"monesti","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 10/17/12 {Video}\u0022 http://t.co/jetL7o4t $AAPL $AMZN $FXI $IBM $INTC $QQQ $SPY $TLT $XLB $XLE $XLF #stockaction","lbl":"Neutral"}
+,{"time":"15:45","usr":"Mortimer_Duke","txt":"RT @chessNwine: NEW POST: Stock Market Recap 10/17/12 {Video} http://t.co/CbR4C1Vr $AAPL $AMZN $FXI $IBM $INTC $QQQ $SPY $TLT $XLB $XLE $XLF","lbl":"Neutral"}
+,{"time":"17:07","usr":"BenCBanks","txt":"NEW BLOG POST -- \u0022What a move! Top of Channel now!\u0022 http://t.co/Tf35gvdk $spy $dia $aapl $goog $amzn $deck $c $xlf","lbl":"Neutral"}
+,{"time":"17:07","usr":"MomentumPtrsLLC","txt":"$amzn god bless you amazon helped make up for that $mlnx f job ......","lbl":"Positive"}
+,{"time":"22:42","usr":"options_mike","txt":"$AMZN looking at nice support stochastics churning higher my favorite stock to trade","lbl":"Positive"}
+]

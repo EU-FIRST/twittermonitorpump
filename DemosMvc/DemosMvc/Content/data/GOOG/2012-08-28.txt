@@ -1,0 +1,76 @@
+[
+{"time":"4:20","usr":"SeekingAlpha","txt":"Apple\u0027s Q4 Depends On iPhone Release http://t.co/L4MmRZOH $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"4:24","usr":"tkuz4u","txt":"&not only have I replaced iPad w/7 & waiting for $goog Motorola for iPhone alternative but as Chrome OS progresses, I just may dump Mac too!","lbl":"Neutral"}
+,{"time":"4:36","usr":"PjWentink","txt":"RT @SeekingAlpha: Apple\u0027s Q4 Depends On iPhone Release http://t.co/L4MmRZOH $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"4:48","usr":"akidonakis","txt":"RT @SAI: Here\u0027s Google\u0027s Latest Apple TV Killer $GOOG by @stevekovach http://t.co/VCKG6o9e","lbl":"Positive"}
+,{"time":"6:30","usr":"SeekingAlpha","txt":"Nokia - Bonds Have Run Up, Look To Exit http://t.co/8HfAhc6P $GOOG $MSFT $NOK","lbl":"Neutral"}
+,{"time":"6:32","usr":"sunsrin","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"6:46","usr":"MelkiSch","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"6:47","usr":"josch","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"6:47","usr":"reelimages","txt":"RT @binoy1: \u201C@counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.\u201D","lbl":"Neutral"}
+,{"time":"6:47","usr":"dbalin","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:10","usr":"mmetzler","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:10","usr":"omelnikov","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:12","usr":"Roscoe09","txt":"Unbelievable... RT @counternotions As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:12","usr":"RedDogT3Live","txt":"RT @T3Live $SPX $AAPL $GOOG $SLV Draghi Skips, Does The Market Care? http://t.co/70xvjMUD Morning Call EXPRESS @RedDogT3Live @BrittanyUmar","lbl":"Neutral"}
+,{"time":"7:47","usr":"densmith","txt":"RT @macsmarts: \u201C@counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.\u201D Well.","lbl":"Neutral"}
+,{"time":"7:47","usr":"RoMoExpress","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"7:48","usr":"USwwwStocks","txt":"$GOOG News: Apple Clouds Circulating at Google Inc (GOOG)\u0027s Motorola Unit http://t.co/GnYs6EtX #GOOG #Apple #Circulating","lbl":"Neutral"}
+,{"time":"7:50","usr":"Fitzstock2004","txt":"@desichemist EVERYTHING is a \u0022trade\u0022.......dont buy $goog til >680","lbl":"Negative"}
+,{"time":"8:22","usr":"businessinsider","txt":"Google Wants To Add One Of Apple\u0027s Newest iPhone Features To Google Wallet $GOOG by @stevekovach http://t.co/3ArXCp5A","lbl":"Positive"}
+,{"time":"8:22","usr":"SAI_Tools","txt":"Google Wants To Add One Of Apple\u0027s Newest iPhone Features To Google Wallet $GOOG by @stevekovach http://t.co/y5HsLruD","lbl":"Neutral"}
+,{"time":"8:22","usr":"SAI","txt":"Google Wants To Add One Of Apple\u0027s Newest iPhone Features To Google Wallet $GOOG by @stevekovach http://t.co/UUREgy8Z","lbl":"Neutral"}
+,{"time":"8:23","usr":"tkpagel","txt":"Marissa Mayer leaves and Google starts adding stuff to their home page. $goog #sellingtheirtablet","lbl":"Neutral"}
+,{"time":"8:41","usr":"AndrewBoyd29","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"8:42","usr":"hiphoox","txt":"\u201C@counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.\u201D Good morning everyone.","lbl":"Neutral"}
+,{"time":"8:42","usr":"srshti","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"8:42","usr":"StubbornNews","txt":"Out all of my $GOOG Sept 590 calls plus about 3.00. Very nice performance after that gap down.","lbl":"Negative"}
+,{"time":"8:55","usr":"shaunbent","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"8:56","usr":"pelias01","txt":"5 Tablet War Winners And Losers To Watch Closely http://t.co/y6RQWIfu $GOOG $INTC $MSFT $T $AMZN","lbl":"Neutral"}
+,{"time":"8:56","usr":"takingstock614","txt":"$GOOG sold my calls for nice +20%.. I\u0027ll look to get back in on break above 674ish.","lbl":"Neutral"}
+,{"time":"9:22","usr":"charliegodwin","txt":"@tlmontana @RedDogT3Live $GOOG yes","lbl":"Positive"}
+,{"time":"9:22","usr":"RedDogT3Live","txt":"$goog triggered thru the ppt buy of $672 now at highs of the day. Trad-em and trail em. Most started as it was negative on the day","lbl":"Positive"}
+,{"time":"9:23","usr":"wallstplayer","txt":"Googles shares $GOOG & Apple shares $AAPL are almost identical in price - $AAPL 673.42 $GOOG 673.92 talk about parity .Who would\u2019ve thought","lbl":"Neutral"}
+,{"time":"9:23","usr":"446721x","txt":"$GOOG riiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiip","lbl":"Negative"}
+,{"time":"9:42","usr":"446721x","txt":"@SellPuts $GOOG wants to go again","lbl":"Positive"}
+,{"time":"9:43","usr":"jblet","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"9:43","usr":"Janvankampen","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"9:44","usr":"SurinderJaggi","txt":"Google Is Advertising The Nexus 7 Tablet On http://t.co/C3V03rS6 Today $GOOG","lbl":"Neutral"}
+,{"time":"9:59","usr":"charliegodwin","txt":"@RedDogT3Live @tlmontana Got out of $GOOG with little profit, it\u0027s acting crazy. Almost time to short $AAPL?","lbl":"Negative"}
+,{"time":"9:59","usr":"huguenel","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"9:59","usr":"Fitzstock2004","txt":"Monday $aapl gains gone, $GOOG losses gone......groundhog day","lbl":"Negative"}
+,{"time":"9:59","usr":"rwanitoo","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"10:15","usr":"takingstock614","txt":"Looks like 675ish is a good level for both $AAPL $GOOG. Though one broke it. $AAPL not so much.","lbl":"Neutral"}
+,{"time":"10:15","usr":"hardik4321","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"10:42","usr":"WhizCheck6","txt":"$$ Horrible Consumer Confidence numbers released, conflict with Good Housing numbers http://t.co/5AwNKrVM $aapl $goog $vix $bidu $nke $gld","lbl":"Neutral"}
+,{"time":"10:42","usr":"bch4pm4n","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"10:43","usr":"H2CO3_iOS","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"10:43","usr":"racernic","txt":"$GOOG agreed 2license some of its standards-essential patents 2 $AAPL in Germany. extending an olive branch?","lbl":"Neutral"}
+,{"time":"11:15","usr":"RinoRaj","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"11:17","usr":"G__MAT","txt":"$AMZN @ 245.19 +0.49%, $AAPL @ 675.29 -0.06%, $GOOG 677.00 +1.16% press on high","lbl":"Positive"}
+,{"time":"11:17","usr":"owehrens","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"11:41","usr":"joshpritchard","txt":"Commented on StockTwits: to be clear, meant $GOOG is pushing the $NVDA Nexus 7 directly on the www-google-com main h... http://t.co/cAiXGShv","lbl":"Positive"}
+,{"time":"11:42","usr":"kona314","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"12:21","usr":"firstadopter","txt":"$AAPL reaches patent licensing deal with $GOOG in Germany: http://t.co/qC01giLi","lbl":"Neutral"}
+,{"time":"12:21","usr":"laulauritzen","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"12:21","usr":"NikMaydanov","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"13:19","usr":"kesor6","txt":"RT @m_cof: Google buys newspaper ad to show print ads don\u0027t work: http://t.co/YEyyIgbM $GOOG #offline","lbl":"Neutral"}
+,{"time":"13:20","usr":"oakinger","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"13:20","usr":"boogidown","txt":"$GOOG long that i picked up ysdy is paying off WELL.. $AAPL no position.","lbl":"Positive"}
+,{"time":"13:23","usr":"JoeDeaux","txt":"Massive Google montage just blasted up on the screens on stage. They\u0027re everywhere in this convention. $GOOG","lbl":"Neutral"}
+,{"time":"14:27","usr":"Investorir","txt":"Get Your Business Listed on @NYSE, FRANKFURT $FB $AAPL $GOOG $MSFT $INTC #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"14:27","usr":"dan0rtega","txt":"Ceteris paribus, it took $GOOG 3 years to go up by 525%; $AAPL waited 21 years to go up by 419%...","lbl":"Neutral"}
+,{"time":"15:20","usr":"rcncal","txt":"Patent Overreaction Follows Samsung Verdict $AAPL $SSNLF $GOOG $MSFT $NOK http://t.co/h4qS5LU9 via @minyanville","lbl":"Neutral"}
+,{"time":"15:22","usr":"SwingStateVoter","txt":"2 Challenges Facebook Must Overcome - $AOL, $FB, $GOOG, $YHOO http://t.co/nzsnZ91S via @themotleyfool #invest #SMM","lbl":"Neutral"}
+,{"time":"15:23","usr":"hannesvonwyl","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"15:24","usr":"RedDogT3Live","txt":"RT @T3Live $SPY $AAPL $GOOG $SLV http://t.co/Boh5TQsL Daily Recap is streaming LIVE now!! @RedDogT3Live","lbl":"Neutral"}
+,{"time":"16:51","usr":"WalkenTalken","txt":"@BUDDIEE18 Shocked that $GOOG has run back like this, I wouldn\u0027t have predicted it, not like the $MCP yest at $9.58 ;-) and $FB today too.","lbl":"Positive"}
+,{"time":"16:51","usr":"syedatheeq177","txt":"The iPhone 5: Apple\u0027s Last Hurrah http://t.co/tkThhPYY $GOOG $MSFT $NKE $NOK $RIMM $AAPL","lbl":"Neutral"}
+,{"time":"16:52","usr":"zozotrader","txt":"$GOOG daily area chart http://t.co/MAV7ONAg #WORDEN","lbl":"Neutral"}
+,{"time":"17:50","usr":"z8angela","txt":"@MarkAlanT Thanks! Also, Corporate Insiders Selling Shares is at Fastest Rate since February according to Trimtabs, $GOOG is no exception.","lbl":"Negative"}
+,{"time":"17:53","usr":"mercbizbreak","txt":"Biz Break focuses on Hewlett-Packard, which hit an eight-year low today. $HPQ $DELL $AAPL $GOOG $LNKD $FB $YELP $ZNGA http://t.co/tseCzGkE","lbl":"Neutral"}
+,{"time":"17:54","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/UXCb7ulx","lbl":"Neutral"}
+,{"time":"19:21","usr":"jattrux","txt":"RT @SeekingAlpha: Microsoft Stores Will Impact Your Tech Portfolio: Here\u0027s How http://t.co/db5HmXED $AAPL $BBY $GOOG $S $T $MSFT","lbl":"Neutral"}
+,{"time":"23:56","usr":"niccai","txt":"@howardlindzon Still can\u0027t believe $GRPN didn\u0027t take that $6B acquihire from $GOOG.","lbl":"Neutral"}
+,{"time":"23:58","usr":"shaochuhan","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+]

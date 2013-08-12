@@ -1,0 +1,24 @@
+[
+{"time":"8:53","usr":"fornix","txt":"$AMZN http://t.co/itZv5xMg Could have a nice b/o of that trendline today. Don\u0027t chase, though. Watch 4 intraday setups","lbl":"Neutral"}
+,{"time":"9:36","usr":"Hoopgroundzero","txt":"RT @wallstCS: Coming to Microsoft in 2012: Tablets, Smartphones, and Searching http://t.co/TH1chhRr $MSFT $AMZN $VZ $GOOG $FBOOK #fb","lbl":"Neutral"}
+,{"time":"10:50","usr":"ValaAfshar","txt":"What to watch from 5 #tech giants in 2012 - $AMZN $APPL $GOOG $MSFT Facebook http://t.co/XtHusjCd. #CIO #CFO #IT","lbl":"Neutral"}
+,{"time":"10:52","usr":"andrew_falde","txt":"$AMZN broke bearish trend line from October... plenty of upside. Bought 200-210 April Call spread.","lbl":"Positive"}
+,{"time":"11:35","usr":"allegratech","txt":"@SAI: The Kindle Fire Took Away 1-2 Million iPad Sales $AAPL $AMZN by http://t.co/MvyCGVVP ridiculous because it\u0027s a mediocre toy, at best.","lbl":"Negative"}
+,{"time":"12:15","usr":"Smart_BMW","txt":"RT @stockhaven: GOOG video chart - Google looks poised for $750 http://t.co/qEDiD1jI via @stockhaven $GOOG $AAPL $AMZN $CRM $GMCR $LULU $NFLX $QQQ","lbl":"Neutral"}
+,{"time":"12:15","usr":"everylifeworthy","txt":"RT @hblodget: FURIOUS MERCHANT: \u0027Groupon And Living Social Are Doomed\u0027 $GRPN http://t.co/dYDq3I6B $GRPN $AMZN #Surprise!","lbl":"Neutral"}
+,{"time":"13:19","usr":"ampressman","txt":"RT @howardlindzon: If $goog closes above $670 today I am buying an android phone for @gruber and @parislemon from $amzn - $aapl $goog","lbl":"Neutral"}
+,{"time":"13:22","usr":"Trefis","txt":"Groupon Updates: Taking on Amazon with Buy Local, $13 Fair Value http://t.co/o3vzep51 $GRPN $AMZN $YHOO","lbl":"Neutral"}
+,{"time":"14:15","usr":"jcocin","txt":"$amzn riding the moving avgs nicely","lbl":"Positive"}
+,{"time":"14:15","usr":"zoharalon","txt":"RT @KnowYourCloud: RT @anuppandey: Great Read! #Amazon vs. The Rest of the #Cloud http://t.co/vLxJxlko via @zite $AMZN $AAPL #AWS","lbl":"Neutral"}
+,{"time":"14:53","usr":"ITMS","txt":"Stock Market Videos: Key Breakout And January Plays http://t.co/MbjvovnH $IBM $CAT $MMM $AMZN $AAPL $BIDU","lbl":"Neutral"}
+,{"time":"15:28","usr":"jcocin","txt":"going strong til closing $amzn only stock I traded today","lbl":"Positive"}
+,{"time":"16:31","usr":"AMZN_stock","txt":"$AMZN after hours quote, 4:15PM EST: 179.07 +0.04 (+0.02%).","lbl":"Neutral"}
+,{"time":"16:34","usr":"katetrades","txt":"Had so much fun trading $AMZN and $V today. Action was like a pendulum. Had some fab trades, lucky to trade with some very smart people.","lbl":"Neutral"}
+,{"time":"16:54","usr":"iStockAnalyst","txt":"Our Outlook For Tech&Communication Services Stocks $AAPL $ACN $ADI $ALTR $AMZN $BRCM $CLWR $CMCSA $CRM $CSC $CSC... http://t.co/W0VsVSiM","lbl":"Neutral"}
+,{"time":"17:18","usr":"startupdispatch","txt":"RT @briellenikaido: RT @cselland: Kindle Fire may have cost Apple $1 billion or more in holiday iPad sales http://t.co/PAIFYmwK $AMZN $AAPL","lbl":"Positive"}
+,{"time":"17:50","usr":"LDrogen","txt":"$AAPL http://t.co/rtgiIqLQ My (revised) FQ1 2012 EPS Estimize is 11.0 .Talk of $AMZN Kindle Fire eating in...","lbl":"Positive"}
+,{"time":"17:52","usr":"taassetmgmt","txt":"RT @FoxBusiness: Analysts say Amazon\u0027s Kindle Fire may have cost Apple well over $1 billion in holiday iPad sales http://t.co/Wmntjeo8 $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"17:53","usr":"oldputter","txt":"RT @FoxBusiness: Analysts say Amazon\u0027s Kindle Fire may have cost Apple well over $1 billion in holiday iPad sales http://t.co/Wmntjeo8 $AMZN $AAPL","lbl":"Positive"}
+,{"time":"18:28","usr":"Tradesight","txt":"5 out of 5 with our stock #trading calls to start the year, read the summary here: http://t.co/39UWjpto $gs $tsco $amzn #mkts","lbl":"Positive"}
+,{"time":"18:32","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/21, $SPY/11, $GOOG/9, $TIVO/9, $ARNA/8, $AMZN/6, $T/5, $CSCO/4, $LPHI/4. http://t.co/DHnV02ws","lbl":"Neutral"}
+]

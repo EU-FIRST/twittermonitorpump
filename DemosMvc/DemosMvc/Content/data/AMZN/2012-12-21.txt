@@ -1,0 +1,12 @@
+[
+{"time":"5:22","usr":"prabier","txt":"RT @SAI: This Is A Devastating Report For Amazon\u0027s Kindle Business $AMZN $AAPL $GOOG by @jyarow http://t.co/6POva4Un","lbl":"Negative"}
+,{"time":"8:43","usr":"stuzzy1969","txt":"RT @MadKindlePromos: Four incredible novels to help you to turbo-charge your Kindle! http://t.co/RH7tMr0I $AMZN #bestsellers #books (via @LukeRomyn)","lbl":"Neutral"}
+,{"time":"10:15","usr":"TMFJMo","txt":"@scbower Not at all; in fact I\u0027m wishing for the same thing. I own $AMZN shares already & if they duck back below $200 I\u0027d be very tempted.","lbl":"Positive"}
+,{"time":"10:20","usr":"danshep55","txt":"$amzn long 257.99","lbl":"Positive"}
+,{"time":"13:41","usr":"tradingview","txt":"$AMZN chart by @1nvestor: http://t.co/oor4ZmCs Weekly.","lbl":"Neutral"}
+,{"time":"15:06","usr":"elvicks","txt":"\u201C@TheStreet: Dear RIM: Wall Street Doesn\u0027t Date Losers http://t.co/onMtxHiY $RIMM $AMZN\u201D","lbl":"Neutral"}
+,{"time":"17:25","usr":"HedgeHouseKwt","txt":"BIG TIME $AMZN SPX @chrisbeanie1 Greater Time ahead #Happy Holidays !","lbl":"Neutral"}
+,{"time":"19:35","usr":"TheStreet","txt":"Dear RIM: Wall Street Doesn\u0027t Date Losers http://t.co/820KTvu9 $RIMM $AMZN","lbl":"Neutral"}
+,{"time":"19:42","usr":"Lubbee","txt":"RT @Retail_Guru: John Lewis web sales strong +36% but pace is similar to y-t-d trend. No evidence for claim that bad Amazon UK tax PR is helping them $AMZN","lbl":"Neutral"}
+,{"time":"19:47","usr":"JonEdwardsBC","txt":"RT @TheStreet: Dear RIM: Wall Street Doesn\u0027t Date Losers http://t.co/820KTvu9 $RIMM $AMZN","lbl":"Neutral"}
+]

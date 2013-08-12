@@ -1,0 +1,34 @@
+[
+{"time":"6:28","usr":"biggercapital","txt":"RT @matterhornbob: $AMZN\u0027s Jeff Bezos invested in $Twitter in May of 2008 (at $250mm valuation)...does not seem like \u0022spaghetti thrown at the wall\u0022, does it!","lbl":"Neutral"}
+,{"time":"6:29","usr":"biggercapital","txt":"Transportation API and Services coming IMO RT @CEP_Observer: $AMZN has 8 lockers in VA as it opens one in Crystal City $UPS better watch out","lbl":"Neutral"}
+,{"time":"8:29","usr":"midpannonian","txt":"RT @Lawndale1: Commented on: \u0022Stock Awards And Magical Thinking\u0022 http://t.co/oxLir6JN $AMZN","lbl":"Neutral"}
+,{"time":"8:30","usr":"km201300","txt":"short $AMZN http://t.co/HUA3COa6 via @YahooFinance","lbl":"Negative"}
+,{"time":"8:30","usr":"launchticker","txt":"$amzn debuts free Instant Video ipad app; Prime members can watch 120k videos http://t.co/OqDWyPYR http://t.co/A8fH4zou","lbl":"Neutral"}
+,{"time":"9:02","usr":"km201300","txt":"@cnbcfastmoney --SHORT $AMZN--VERY BAD NEWS COMING-- GOING BELOW 220 SOON","lbl":"Negative"}
+,{"time":"9:03","usr":"km201300","txt":"SHORT $AMZN--COMING BELOW 220. BAD NEWS COMING http://t.co/NJgPHY3M via @YahooFinance","lbl":"Negative"}
+,{"time":"9:33","usr":"km201300","txt":"SHORT $AMZN--- THANK ME LATER http://t.co/HUA3COa6 via @YahooFinance","lbl":"Negative"}
+,{"time":"10:06","usr":"AKPalit","txt":"#Amazon updates #CloudPlayer to better compete with #Google, #Apple. $AMZN $GOOG $AAPL http://t.co/G8uxhaeX","lbl":"Neutral"}
+,{"time":"10:07","usr":"km201300","txt":"SHORT $AMZN-- BELOW 200 COMING http://t.co/HUA3COa6 via @YahooFinance","lbl":"Negative"}
+,{"time":"11:29","usr":"Jdsu82703","txt":"\u201C@CNBC: Should Amazon Purchase Best Buy? - by @herbgreenberg http://t.co/5pbRjkS1 $AMZN $BBY\u201D they should buy $rsh similar footprint less $","lbl":"Neutral"}
+,{"time":"11:29","usr":"Slublog","txt":"RT @TheH2: No. Next question. RT @CNBC Should Amazon Purchase Best Buy? - by @herbgreenberg http://t.co/yXO0nDNA $AMZN $BBY","lbl":"Neutral"}
+,{"time":"11:29","usr":"Imzada_Inc","txt":"RT @CNBC: Should Amazon Purchase Best Buy? - by @herbgreenberg http://t.co/PeMbcrlW $AMZN $BBY","lbl":"Neutral"}
+,{"time":"11:29","usr":"sspencer_smb","txt":"interesting idea. worked for $AAPL RT @herbgreenberg Am I nuts? Me on .... Should $AMZN buy $BBY? http://t.co/vz5U9uYD","lbl":"Neutral"}
+,{"time":"11:44","usr":"MarekFuchs","txt":"$AMZN should buy $BBY?! Well, if u say so @herbgreenberg. Just as long as they don\u0027t buy any Olympic badminton teams. cc: @RobTheStreet","lbl":"Neutral"}
+,{"time":"12:04","usr":"FOCUS_ON_RISK","txt":"$AMZN http://t.co/pGqyi6cj $BBBY short","lbl":"Neutral"}
+,{"time":"12:06","usr":"goldmansachs666","txt":"Only thing I would add: Customer service in stores not same as online. Could taint image/brand @jeffmacke @herbgreenberg re $AMZN buy $BBY","lbl":"Neutral"}
+,{"time":"12:51","usr":"ToddSullivan","txt":"wow..$AMZN video can be streamed to my TV (w/$AAPL TV), and can pick up on any device where i left off...FREE w/prime membership.. amazing","lbl":"Positive"}
+,{"time":"12:53","usr":"lowensteiner","txt":"@herbgreenberg I still think it is a nutty idea. $AMZN has enough cash to open own stores and bootstrap operation a la $AAPL vs $6B 4 $BBY.","lbl":"Neutral"}
+,{"time":"12:54","usr":"biggercapital","txt":"RT @ToddSullivan: wow..$AMZN video can be streamed to my TV (w/$AAPL TV), and can pick up on any device where i left off...FREE w/prime membership.. amazing","lbl":"Neutral"}
+,{"time":"13:57","usr":"tweetingstocks","txt":"$AMZN Don\u0027t buy Best Buy. You don\u0027t need buildings or rent. Just use Best Buy for us consumers to check out product and then buy from you.","lbl":"Neutral"}
+,{"time":"14:22","usr":"AdaptToReality","txt":"RT @JeffMacke: Yes and no. RT @herbgreenberg Am I nuts? Me on .... Should $AMZN buy $BBY? http://t.co/6w6F5coD","lbl":"Neutral"}
+,{"time":"14:23","usr":"Chubbs258","txt":"\u201C@FortuneMagazine: Amazon\u0027s retail bulldozer rumbles on http://t.co/cXSdDyjz\u201D this is incredible $amzn will one day rule the world","lbl":"Neutral"}
+,{"time":"14:24","usr":"CNNMoney","txt":"RT @FortuneMagazine: Amazon\u0027s retail bulldozer rumbles on http://t.co/hH0NqjUZ $AMZN","lbl":"Positive"}
+,{"time":"16:27","usr":"wallstCS","txt":"Consumer Biz Replay: Penney\u0027s RETRAINS ITS Customers, Amazon Might BUY Best Buy http://t.co/GJEOygWp $JCP $AMZN $BBY $MWW #mkt #stocks","lbl":"Neutral"}
+,{"time":"16:51","usr":"patroneux","txt":"$GMCR having an $AMZN moment. What\u0027s the biggest difference? $AMZN actually has a real product.","lbl":"Neutral"}
+,{"time":"18:06","usr":"stocktiger","txt":"Market Wrap Video + Additions to Watch List http://t.co/Fx6h3mVm including: $AMZN $DPS $GEO $KEY $RATE $XCO","lbl":"Neutral"}
+,{"time":"18:07","usr":"BeaconStock","txt":"RT @stocktiger: Market Wrap Video + Additions to Watch List http://t.co/Fx6h3mVm including: $AMZN $DPS $GEO $KEY $RATE $XCO","lbl":"Neutral"}
+,{"time":"18:07","usr":"BUDDIEE18","txt":"RT @stocktiger: Market Wrap Video + Additions to Watch List http://t.co/Fx6h3mVm including: $AMZN $DPS $GEO $KEY $RATE $XCO","lbl":"Neutral"}
+,{"time":"20:10","usr":"LaissezFaire38","txt":"RT @valuewalk: Why Amazon Really Could Be a Value Stock at 179x Earnings http://t.co/Ggysja4N $AMZN $BBY","lbl":"Neutral"}
+,{"time":"22:04","usr":"biggercapital","txt":"Kindle wifi with special offers is offered below $50 if you use KINDLE40 promo code and if you have an $AMZN Visa. Device price --> 0","lbl":"Neutral"}
+,{"time":"23:34","usr":"vvakame","txt":"$AMZN","lbl":"Neutral"}
+]

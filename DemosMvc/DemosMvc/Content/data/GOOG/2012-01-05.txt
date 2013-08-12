@@ -1,0 +1,45 @@
+[
+{"time":"0:31","usr":"PNWCinderella","txt":"Google and Facebook Face Indian Censorship Challenges http://t.co/OrspJEgr via @trefis $GOOG #Google #Facebook #Censorship","lbl":"Negative"}
+,{"time":"0:48","usr":"chadrobley","txt":"RT @SAI: Crazy Rumor: Google Is Working On A 7-Inch Tablet Priced To Beat The Kindle Fire $GOOG by @stevekovach http://t.co/jcU7SU8i","lbl":"Positive"}
+,{"time":"0:50","usr":"udezekene","txt":"RT @SAI: Crazy Rumor: Google Is Working On A 7-Inch Tablet Priced To Beat The Kindle Fire $GOOG by @stevekovach http://t.co/jcU7SU8i","lbl":"Neutral"}
+,{"time":"6:48","usr":"Briefingcom","txt":"$GOOG: The Benchmark Company cuts to Hold","lbl":"Negative"}
+,{"time":"6:55","usr":"Losfinancieros","txt":"RT @Benzinga: $GOOG Downgraded to Hold at Benchmark","lbl":"Negative"}
+,{"time":"8:32","usr":"stocial","txt":"60 minute Trending Social Volume: $SODA/25, $TGT/14, $LLY/10, $AAPL/9, $AEZS/8, $GOOG/8, $MON/8, $SPY/8, $NFLX/8. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"8:33","usr":"OptionsHawk","txt":"$MRVL Chips in Google TV http://t.co/qarOsK1X $GOOG","lbl":"Neutral"}
+,{"time":"8:34","usr":"Betacap","txt":"$MRVL $GOOG - Google TV is moving from x86 to ARM, and $mrvl is letting know its platform has been selected to power the next of Google TV.","lbl":"Neutral"}
+,{"time":"8:38","usr":"davidspeltier","txt":"Here are today\u0027s top research calls: http://t.co/UeGjK2vI $GOOG $T $VZ $YHOO $GE $ISRG $NSC $RAI $MMM $UPS","lbl":"Neutral"}
+,{"time":"9:28","usr":"CNBCMelloy","txt":"I see tickers. $TGT $LLY $GOOG $CSCO $XLF to open lower/// $MON $LSI $WDC $AAPL to open higher.","lbl":"Negative"}
+,{"time":"9:29","usr":"LiqWave","txt":"Daily Day/Swingtrading Market Outlook: http://t.co/P36XisAA $SPY $TLT $TBT $ES_F $SPX $FESX_F $DIA IWM $TZA $GOOG $AAPL $AMZN $BGZ $VIX $VXX","lbl":"Neutral"}
+,{"time":"9:29","usr":"cnbcfastmoney","txt":"RT @CNBCMelloy: I see tickers. $TGT $LLY $GOOG $CSCO $XLF to open lower/// $MON $LSI $WDC $AAPL to open higher.","lbl":"Negative"}
+,{"time":"9:31","usr":"MNYCx","txt":"$GOOG getting murdered, hahaha","lbl":"Negative"}
+,{"time":"10:01","usr":"harriozspot","txt":"RT @StockTwits: RT @ZorTrades Kodak Teeters on the Brink http://t.co/lZ3q5GCL $EK invented the digital camera in 1975, was the $AAPL and $GOOG of it\u0027s time.","lbl":"Positive"}
+,{"time":"10:01","usr":"trader_trend","txt":"Active option families @ CBOE; $AAPL 55K contracts, $X 21K, $NFLX 18K, $GOOG 15K, $DNDN 15K http://t.co/gHgZToQT","lbl":"Neutral"}
+,{"time":"10:01","usr":"Dylan_Parks","txt":"RT @SAI: Apple Not Interested In Bidding On English Soccer, But Google Is Still Thinking It Over $AAPL $GOOG by @KTLincoln http://t.co/m1BW98TN","lbl":"Neutral"}
+,{"time":"10:02","usr":"stocial","txt":"60 minute Trending Social Volume: $BKS/50, $DNDN/45, $SPY/30, $AAPL/28, $NFLX/18, $SODA/17, $GOOG/16, $STX/15. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"10:48","usr":"lluccipha","txt":"SAI: Google Ditches Intel For Next Generation Of Google TV Boxes $GOOG by @hamburger http://t.co/SeDPac6j","lbl":"Neutral"}
+,{"time":"10:48","usr":"MichaelWStiles","txt":"RT @SAI_Tools: Google Ditches Intel For Next Generation Of Google TV Boxes $GOOG by @hamburger http://t.co/tGqy27P8","lbl":"Neutral"}
+,{"time":"10:49","usr":"thefinancepress","txt":"$GOOG Top Stock Picks From Hedge Fund Senator Investment Group: Top Stock Picks From Hedge Fund Senator Investm... http://t.co/QfqY5fVL","lbl":"Positive"}
+,{"time":"12:09","usr":"RogueStockTradr","txt":"And there my friends is your $GOOG crack!!!","lbl":"Positive"}
+,{"time":"12:10","usr":"sugarloverxo","txt":"@SAI @stevekovach $goog could just by $RIMM\u0027s tablets, rebrand! lol! (heard they\u0027re on sale!!)","lbl":"Neutral"}
+,{"time":"12:11","usr":"Legacy_Trades","txt":"ALTERNATE VIEW: Patty Edwards selling the best name in tech, $GOOG. Respectfully; smarter play = hold SWING L & hedge selling covered calls.","lbl":"Negative"}
+,{"time":"12:12","usr":"sugarloverxo","txt":"$goog inside the big candle today. Samsung earnings tomorrow am...buy on the rumor, sell on the news? Or crush call sellers and run up more","lbl":"Neutral"}
+,{"time":"12:58","usr":"dracossaint","txt":"RT @SAI_Tools: Google Ditches Intel For Next Generation Of Google TV Boxes $GOOG by @hamburger http://t.co/tGqy27P8","lbl":"Neutral"}
+,{"time":"13:02","usr":"stocial","txt":"60 minute Trending Social Volume: $BAC/74, $AAPL/55, $SPY/48, $NFLX/27, $GOOG/24, $XOMA/19, $BKS/19, $TZA/15. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:02","usr":"DJThistle","txt":"Qualcomm\u2019s GameCommand ready for Android Market debut: Qualcomm has all but wrapped up work on their ans... http://t.co/nDnVdbMX $GOOG","lbl":"Neutral"}
+,{"time":"13:53","usr":"CenellHarrell","txt":"RT @SAI: THE GOOGLE INVESTOR: Does The Weak European Ad Market Suggest A Google Miss? $GOOG by @hleonard76 http://t.co/R8jgsSLT","lbl":"Negative"}
+,{"time":"14:32","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/79, $SPY/47, $BAC/36, $NFLX/23, $GOOG/20, $TZA/20, $MTG/19, $LNG/15. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:33","usr":"ITMS","txt":"Stock Market Video: Markets Turn Higher, More Upside To Come http://t.co/JysGpg2h $IBM $JPM $CVX $RIMM $AAPL $GOOG","lbl":"Positive"}
+,{"time":"14:33","usr":"DJThistle","txt":"Brisk Iced Tea brings Brisksaber app to Android, gives geeks a Yoda vs. Darth Maul showdown: Hey, all you... http://t.co/9rNaopK9 $GOOG","lbl":"Neutral"}
+,{"time":"16:00","usr":"SeekingAlpha","txt":"Google Still Has More Valuation Upside http://t.co/GhiNYb60 $GOOG","lbl":"Positive"}
+,{"time":"16:00","usr":"SA_GOOG","txt":"Google Still Has More Valuation Upside http://t.co/DhFoNuRZ $GOOG","lbl":"Positive"}
+,{"time":"16:03","usr":"SA_GOOG","txt":"An Ingenious Way To Profit From JPMorgan\u0027s Earnings Prior To Their Release http://t.co/k9jFMTWJ $GOOG $AAPL $AMZN $NFLX $FFIV","lbl":"Neutral"}
+,{"time":"16:06","usr":"LiqWave","txt":"Into the Close Day/Swingtrade Update: http://t.co/Th8q7e4y $SPY $TLT $TBT $ES_F $SPX $FESX_F $DIA IWM $TZA $GOOG $AAPL $AMZN $BGZ $VIX $VXX","lbl":"Neutral"}
+,{"time":"17:30","usr":"CaSWolf","txt":"RT @Street_Insider: Google $GOOG Says Sony $SNE, LG to Unveil New Google TV Products at CES","lbl":"Neutral"}
+,{"time":"17:30","usr":"allstarcharts","txt":"Looks like they want to breakout together RT @SAI CHART OF THE DAY: Will $GOOG Market Cap Pass $MSFT This Year? @jyarow http://t.co/iwXeAkya","lbl":"Positive"}
+,{"time":"17:31","usr":"katetrades","txt":"@ldrogen We have a Mac mini hooked up to the TV. No need for either. Best thing we bought last year! $AAPL $GOOG $NFLX","lbl":"Neutral"}
+,{"time":"17:31","usr":"MichaelKrey","txt":"Marvell $MRVL co-founder says new Google TV $GOOG will make all forget bad memories of first Goog TV http://t.co/qzTxvvyw","lbl":"Neutral"}
+,{"time":"20:15","usr":"SAI","txt":"Big TV Makers Are Ready To Give Google TV A Shot $GOOG by @MattRosoff http://t.co/uOvjHnxn","lbl":"Positive"}
+,{"time":"20:15","usr":"MattRosoff","txt":"Big TV Makers Are Ready To Give Google TV A Shot $GOOG http://t.co/HZNN33fP","lbl":"Positive"}
+,{"time":"20:17","usr":"varicent","txt":"RT @SAI: Big TV Makers Are Ready To Give Google TV A Shot $GOOG by @MattRosoff http://t.co/uOvjHnxn","lbl":"Positive"}
+,{"time":"20:17","usr":"Finishort","txt":"$CMCSA need to get moving on its ITV platfomrs before someone like $goog eats its lunch.","lbl":"Neutral"}
+]

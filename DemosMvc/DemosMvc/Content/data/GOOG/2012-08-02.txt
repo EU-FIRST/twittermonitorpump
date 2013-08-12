@@ -1,0 +1,41 @@
+[
+{"time":"1:38","usr":"isai_","txt":"RT @LouisColumbus: Professor Billionaire: The #Stanford Academic Who Wrote Google Its First Check - Forbes http://t.co/UUz2wVrA $GOOG","lbl":"Neutral"}
+,{"time":"1:48","usr":"daveying99","txt":"Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. via @howardlindzon","lbl":"Positive"}
+,{"time":"1:48","usr":"USwwwStocks","txt":"$GOOG News: Your 119 Billion Google Searches Now a Central Bank Tool http://t.co/adhhjkqN #GOOG #Bank #Billion","lbl":"Neutral"}
+,{"time":"5:01","usr":"rechtsteiner","txt":"If I\u2019m $CMCSA, I\u2019m more worried about $GOOG getting into the broadcasting arena than anyone else. #Olympics","lbl":"Neutral"}
+,{"time":"7:56","usr":"choffman1978","txt":"ECB to start buying bonds - futures surge! #cnbc,#msnbc,$fb,#twitter,#money,#markets,#stocks,$bac,$gs,$goog,$fb,$nflx,$wfc,$wmt,$tgt,$jpm","lbl":"Neutral"}
+,{"time":"7:58","usr":"141deni","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"7:58","usr":"choffman1978","txt":"$KCG down over 90% in two days - ouch! #cnbc,#msnbc,$fb,#twitter,#money,#markets,#stocks,$bac,$gs,$goog,$fb,$nflx,$wfc,$wmt,$tgt,$jpm","lbl":"Neutral"}
+,{"time":"8:43","usr":"uzuki_aoba","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"8:43","usr":"choffman1978","txt":"$GMCR surging up 27% on share buyback news! 35m shares short - Squeeze! #cnbc,#msnbc,$fb,#twitter,#money,#markets,#stocks,$bac,$gs,$goog,$fb","lbl":"Neutral"}
+,{"time":"8:44","usr":"TradeEducation","txt":"http://t.co/oL4Ia4e2 $8,780.00 profit in $GOOG 8.7K Another wonderful opening bell trade on $GOOG AFTER we sold these contrac...","lbl":"Neutral"}
+,{"time":"8:44","usr":"oabianchi","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"9:10","usr":"choffman1978","txt":"$ACUR up nearly 10% - strong pipeline, Pfizer partner, no debt! #cnbc,#msnbc,$fb,#twitter,#money,#markets,#stocks,$bac,$gs,$goog,$fb,$incy","lbl":"Neutral"}
+,{"time":"9:11","usr":"choffman1978","txt":"$ACUR surging - up 11% - Pfizer partner, no debt, FDA drug! #cnbc,#msnbc,$fb,#twitter,#money,#markets,#stocks,$bac,$gs,$goog,$fb,$incy,$Pfe","lbl":"Neutral"}
+,{"time":"9:11","usr":"RedDogT3Live","txt":"My go to stocks green $AAPL $GOOG $amzn $bidu. $eBay. So far, some nice tactics today. $sbux also a bottom feeder trade","lbl":"Positive"}
+,{"time":"9:12","usr":"choffman1978","txt":"$SIRI Green!!!!!! Earnings next week - squeeze likely?! #cnbc,#msnbc,$fb,#twitter,#money,#markets,#stocks,$bac,$gs,$goog,$fb","lbl":"Neutral"}
+,{"time":"9:56","usr":"choffman1978","txt":"Market shake - be careful!! #cnbc,#msnbc,$fb,#twitter,#money,#markets,#stocks,$bac,$gs,$goog,$fb","lbl":"Neutral"}
+,{"time":"9:57","usr":"SJosephBurns","txt":"$GOOG trying to make a run at the near term resistance but is being rejected so far.","lbl":"Positive"}
+,{"time":"10:30","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Google Fiber Isn\u0027t A Test, It\u0027s World Domination $GOOG by @hleonard76 http://t.co/CWMX1d3B","lbl":"Positive"}
+,{"time":"10:30","usr":"ValueLine","txt":"There have been many noteworthy developments in the technology space recently. $AAPL $FB $YHOO $GOOG $ZNGA #stocks http://t.co/j3WdkrLZ","lbl":"Neutral"}
+,{"time":"10:30","usr":"2TradersClub","txt":"$GOOG (Google Inc) - $644-$622 stuck. Could break either way http://t.co/3WvsHaFJ","lbl":"Neutral"}
+,{"time":"11:23","usr":"HomeSickShit","txt":"$goog","lbl":"Neutral"}
+,{"time":"11:24","usr":"lihkin","txt":"OK, cashtags don\u0027t work on the mobile clients. $GM. $GOOG. Nothing happens.","lbl":"Neutral"}
+,{"time":"11:25","usr":"DeidreZune","txt":"Don\u0027t ignore strength in select stocks even as market declines. Stocks that will outperform $AAPL $GOOG $AMZN. Buy the dips. Scale in.","lbl":"Positive"}
+,{"time":"12:48","usr":"ftxesc","txt":"$Goog","lbl":"Neutral"}
+,{"time":"12:54","usr":"LaMonicaBuzz","txt":"Scary Monster. $MWW down 16% on earnings. Tomorrow\u0027s jobs report may not help either. But hasn\u0027t $GOOG already bought Monster like 15 times?","lbl":"Neutral"}
+,{"time":"12:55","usr":"barronsonline","txt":"YELP Leaps 17%: Bears Admire, Can\u2019t Get Past Valuation http://t.co/ajoHpaZu $YELP $GOOG","lbl":"Neutral"}
+,{"time":"15:27","usr":"wallstCS","txt":"Tech Biz Replay: Google\u0027s New TRIUMPH, Facebook\u0027s New MISERIES http://t.co/Bxt39L0I $GOOG $SNCR $T $FB $S #mkt #stocks","lbl":"Positive"}
+,{"time":"15:29","usr":"barronstechblog","txt":"LNKD Rising on Q2 Beat, Raises Year View - Tech Trader Daily - Barron\u0027s $LNKD $FB $GRPN $GOOG http://t.co/5y85Z91k","lbl":"Neutral"}
+,{"time":"15:31","usr":"pennystockguys","txt":"$GOOG - Amazon Launches iPad Video App - Analyst Blog http://t.co/p0jdvgmp","lbl":"Neutral"}
+,{"time":"17:03","usr":"Kayser_soze","txt":"RT @hblodget: RT @LaMonicaBuzz: Could $FB keep falling? Even at $20, shares trade at 41X \u002712 EPS. $AAPL fiscal \u002712 P/E: 14. $GOOG P/E: 15.","lbl":"Neutral"}
+,{"time":"17:03","usr":"AnthonyPerala","txt":"RT @LaMonicaBuzz: Could $FB keep falling? Does Zuckerberg wear a hoodie? Even at $20, shares trade at 41X \u002712 EPS. $AAPL fiscal \u002712 P/E: 14. $GOOG P/E: 15.","lbl":"Neutral"}
+,{"time":"17:03","usr":"13091108011801","txt":"RT @LaMonicaBuzz: Could $FB keep falling? Does Zuckerberg wear a hoodie? Even at $20, shares trade at 41X \u002712 EPS. $AAPL fiscal \u002712 P/E: 14. $GOOG P/E: 15.","lbl":"Neutral"}
+,{"time":"17:08","usr":"frumpy","txt":"FB deserves a premium. 2x? 3x? MT @LaMonicaBuzz: Could $FB keep falling? Even at $20, 41X \u002712 EPS. $AAPL fiscal \u002712 P/E: 14, $GOOG P/E: 15","lbl":"Neutral"}
+,{"time":"18:59","usr":"tariqpanja","txt":"RT @BrettFoley1: Beware that next click: read how your 119bn Google searches are becoming economic indicators for central banks http://t.co/budTezvc $GOOG","lbl":"Neutral"}
+,{"time":"19:03","usr":"mikedamm","txt":"RT @LaMonicaBuzz: Could $FB keep falling? Does Zuckerberg wear a hoodie? Even at $20, shares trade at 41X \u002712 EPS. $AAPL fiscal \u002712 P/E: 14. $GOOG P/E: 15.","lbl":"Neutral"}
+,{"time":"19:04","usr":"AzeemZMir","txt":"RT @BrettFoley1: Beware that next click: read how your 119bn Google searches are becoming economic indicators for central banks http://t.co/budTezvc $GOOG","lbl":"Neutral"}
+,{"time":"19:07","usr":"faisalmobaid","txt":"RT @LaMonicaBuzz: Could $FB keep falling? Does Zuckerberg wear a hoodie? Even at $20, shares trade at 41X \u002712 EPS. $AAPL fiscal \u002712 P/E: 14. $GOOG P/E: 15.","lbl":"Neutral"}
+,{"time":"22:15","usr":"cynthiie","txt":"$GOOG :o","lbl":"Neutral"}
+,{"time":"22:22","usr":"jtemujinw","txt":"RT @rakeshlobster: In the last year, $EBAY has way outperformed $GOOG $AMZN $FB $GRPN.","lbl":"Neutral"}
+]

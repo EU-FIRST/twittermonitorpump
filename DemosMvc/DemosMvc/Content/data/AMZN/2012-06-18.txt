@@ -1,0 +1,16 @@
+[
+{"time":"7:07","usr":"Crap_Trader","txt":"My current spreads: http://t.co/x3XoNKPS Watching $V today - it flirted with the 50dma on Friday. $CF $AMZN","lbl":"Neutral"}
+,{"time":"8:44","usr":"RyanDetrick","txt":"I like $AMZN - but needs to clear that $220 area.","lbl":"Positive"}
+,{"time":"8:44","usr":"newsagg","txt":"$AMZN","lbl":"Neutral"}
+,{"time":"9:04","usr":"tradekitten","txt":"Long $AMZN $CMG","lbl":"Positive"}
+,{"time":"9:30","usr":"barronstechblog","txt":"Microsoft: Beware Irking Tablet Partners, Says CLSA - Tech Trader Daily - Barron\u0027s $MSFT $AMZN $BKS $GOOG http://t.co/tOwoISdk","lbl":"Neutral"}
+,{"time":"9:32","usr":"arisdavid1","txt":"Could $EBAY be a mkt leader this yr? $AMZN #Paypal","lbl":"Neutral"}
+,{"time":"10:28","usr":"barronstechblog","txt":"Groupon Jumps 7%: Morgan Stanley Ups to Buy, $18 Target - Tech Trader Daily - Barron\u0027s $GRPN $AMZN $GOOG http://t.co/uVvv0wpd","lbl":"Neutral"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 12:47pm: 222.21 +3.86 (+1.77%).","lbl":"Neutral"}
+,{"time":"12:07","usr":"SharePlanner","txt":"Another Long Position: Amazon $AMZN at $221.60 | SharePlanner http://t.co/bWWLXHag","lbl":"Positive"}
+,{"time":"13:06","usr":"HelloDelaney","txt":"#Amazon is reportedly coming to an agreement with four major U.S. record labels on a cloud system: http://t.co/N2eg6gBf $AMZN $AAPL","lbl":"Positive"}
+,{"time":"13:08","usr":"Blueshiftideas","txt":"AmazonSupply Does Not Fulfill MRO Needs $AMZN $ARBA $FAST $GWW $MSM $ORCL $SQI","lbl":"Negative"}
+,{"time":"13:14","usr":"NYs_Finest_CL3","txt":"Sometimes I feel like I single handedly keep Amazon in business. Who else spends $200 on leisure books? Lol $AMZN","lbl":"Neutral"}
+,{"time":"14:28","usr":"optnelder","txt":"@lindseycbell @jimcramer @thestreet_tv #nowplaying #video #kindle $BKS $AMZN $AAPL #samsung $MSFT \u0027$MSFT has ran, but to continue..\u0027agree $$","lbl":"Neutral"}
+,{"time":"14:28","usr":"Hedgeye","txt":"RT @KeithMcCullough: $AMZN seeing a bullish breakout here > my TRADE line of $217","lbl":"Positive"}
+]

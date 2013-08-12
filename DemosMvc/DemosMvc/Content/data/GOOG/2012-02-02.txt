@@ -1,0 +1,40 @@
+[
+{"time":"0:25","usr":"Rob_Hager","txt":"Facebook Tracks Ascent of Google http://t.co/6zvpmnfB $GOOG","lbl":"Neutral"}
+,{"time":"0:27","usr":"thefinancepress","txt":"$GOOG Wealthy Investors Shrug at Facebook After Buying Shares in Pre-IPO Deals: Wealthy Investors Shrug at Face... http://t.co/qOQ11OTr","lbl":"Neutral"}
+,{"time":"0:31","usr":"StocksMD","txt":"RT @bramsal: $FB new facebook IPO could push tech higher. Looking at some key players like $LNKD $ORCL $AAPL $GOOG $AMZN","lbl":"Positive"}
+,{"time":"5:56","usr":"CameronKaine","txt":"Commented on: \u0022Amazon: Determined To Continue Its Assault On Apple\u0022 http://t.co/hu7yIftZ $AAPL $AMZN $BBY $GOOG $MSFT $NFLX $RIMM","lbl":"Neutral"}
+,{"time":"5:59","usr":"optionspirate","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/pqwUln64 #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"6:09","usr":"cj_sims1","txt":"RT @MarketWatch: Facebook tops Google as the biggest U.S. Internet IPO in history http://t.co/WTZ2bYRa $FB $GOOG","lbl":"Neutral"}
+,{"time":"8:13","usr":"RONKRAEMER2","txt":"RT @LaMonicaBuzz: Who does $FB think are its biggest rivals? Facebook lists $GOOG $MSFT and Twitter as \u0022significant competition\u0022 in IPO filing.","lbl":"Positive"}
+,{"time":"8:14","usr":"ArthurHale","txt":"RT @LaMonicaBuzz: Who does $FB think are its biggest rivals? Facebook lists $GOOG $MSFT and Twitter as \u0022significant competition\u0022 in IPO filing.","lbl":"Neutral"}
+,{"time":"8:20","usr":"top_tw_biz","txt":"RT @LaMonicaBuzz: Who does $FB think are its biggest rivals? Facebook lists $GOOG $MSFT and Twitter as \u0022significant competition\u0022 in IPO filing.","lbl":"Neutral"}
+,{"time":"9:12","usr":"WSJ","txt":"RT @RolfeWinkler: Turns out Facebook looks a dead ringer for a young $GOOG. Financially speaking. Can it stay on the same growth path? http://t.co/ne6etdaf","lbl":"Neutral"}
+,{"time":"9:13","usr":"XCsohaiyb","txt":"RT @RolfeWinkler: Turns out Facebook looks a dead ringer for a young $GOOG. Financially speaking. Can it stay on the same growth path? http://t.co/ne6etdaf","lbl":"Neutral"}
+,{"time":"9:38","usr":"flipboardbiz","txt":"RT @RolfeWinkler: Turns out Facebook looks a dead ringer for a young $GOOG. Financially speaking. Can it stay on the same growth path? http://t.co/ne6etdaf","lbl":"Neutral"}
+,{"time":"9:39","usr":"UmarSajid","txt":"RT @RolfeWinkler: Turns out Facebook looks a dead ringer for a young $GOOG. Financially speaking. Can it stay on the same growth path? http://t.co/ne6etdaf","lbl":"Neutral"}
+,{"time":"10:18","usr":"SJosephBurns","txt":"$GOOG finally coming alive and taking out highs of the day instead spending the day at the lows.","lbl":"Positive"}
+,{"time":"10:59","usr":"MichaelComeau","txt":"Poll: Are you going to buy Facebook when it comes public? $FB $GOOG http://t.co/7GV1PU2n","lbl":"Neutral"}
+,{"time":"11:01","usr":"TraderFlorida","txt":"$GOOG http://t.co/5cvUWEnW Chart is broken since earnings - looking to reshort","lbl":"Negative"}
+,{"time":"11:02","usr":"BuyOnTheDip","txt":"closed: $GOOG puts, at a loss.","lbl":"Neutral"}
+,{"time":"11:40","usr":"SeekingAlpha","txt":"Running Like Hell From The Facebook IPO http://t.co/hvzf1CIz $GOOG $FB","lbl":"Neutral"}
+,{"time":"11:40","usr":"LegalNewsance","txt":"RT @ReutersLegal: Two new Summary Judgments: #Google gets fined $660,000 and Lawyers Behind the PACs http://t.co/FqyH4iVq by @CarlynKolker $GOOG","lbl":"Neutral"}
+,{"time":"11:41","usr":"ActualGains","txt":"Remember, we talk options all the time here: http://t.co/ya6VP5fB And you can see our $GOOG MACD/psychology snippet: http://t.co/Tc38gyxp","lbl":"Neutral"}
+,{"time":"13:09","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/48, $ZNGA/35, $AAPL/32, $GMCR/20, $MA/16, $GOOG/13, $RIMM/13, $TVIX/12. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:10","usr":"SeekingAlpha","txt":"Stocks To Consider For Gains To Outperform The S&P 500 http://t.co/fBt46lM5 $AAPL $DUK $GOOG $PPL $RIG $SO $T $VZ $WMT $CTL","lbl":"Positive"}
+,{"time":"13:10","usr":"itbot1","txt":"RT@SAI Look At How Much Google Search Has Changed Since 1998 $GOOG by @MattRosoff http://t.co/F8pNJWCI","lbl":"Neutral"}
+,{"time":"13:10","usr":"dominguezdaniel","txt":"How $FB IPO Compares to $GOOG, $VG, $GRPN https://t.co/FNeGmxfg","lbl":"Neutral"}
+,{"time":"14:09","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/46, $SPY/40, $ZNGA/38, $GOOG/17, $MOTR/14, $ISRG/10, $IGC/10, $GLD/9. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:10","usr":"zeinha","txt":"RT @SAI: Look At How Much Google Search Has Changed Since 1998 $GOOG by @MattRosoff http://t.co/Wt3dBTuF","lbl":"Neutral"}
+,{"time":"14:10","usr":"SAI","txt":"THE GOOGLE INVESTOR: Chrome Falls In Browser Share For First Time In Two Years $GOOG by @hleonard76 http://t.co/v3tiPlWR","lbl":"Negative"}
+,{"time":"14:11","usr":"JamesPrior","txt":"RT @SAI: THE GOOGLE INVESTOR: Chrome Falls In Browser Share For First Time In Two Years $GOOG by @hleonard76 http://t.co/v3tiPlWR","lbl":"Negative"}
+,{"time":"14:59","usr":"thefinancepress","txt":"$GOOG US Bancorp Plans To Invest $440M In Solar, Wind Projects In 2012: US Bancorp Plans To Invest $440M In Sol... http://t.co/p3bt6cAu","lbl":"Neutral"}
+,{"time":"15:01","usr":"stkmkt1","txt":"@BuyOnTheDip are betting on a $GOOG pullback?","lbl":"Negative"}
+,{"time":"15:49","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $GOOG W C 590-595\u0027s still holding/added some as well http://t.co/05iIdX9W","lbl":"Positive"}
+,{"time":"17:41","usr":"SAI_Tools","txt":"It\u0027s About Time Google Did Something About All Those Nasty Android Apps $GOOG by @stevekovach http://t.co/RYwOJWDL","lbl":"Negative"}
+,{"time":"17:41","usr":"SAI","txt":"It\u0027s About Time Google Did Something About All Those Nasty Android Apps $GOOG by @stevekovach http://t.co/6jXrAIcd","lbl":"Positive"}
+,{"time":"17:44","usr":"the_gadgeteur","txt":"RT @SAI: It\u0027s About Time Google Did Something About All Those Nasty Android Apps $GOOG by @stevekovach http://t.co/6jXrAIcd","lbl":"Neutral"}
+,{"time":"17:45","usr":"lluccipha","txt":"SAI: It\u0027s About Time Google Did Something About All Those Nasty Android Apps $GOOG by @stevekovach http://t.co/QOvDC4cB","lbl":"Negative"}
+,{"time":"20:13","usr":"garyhhdry","txt":"Mind the Gap: Encouraging women to study engineering $GOOG http://t.co/TbWxZap1","lbl":"Neutral"}
+,{"time":"20:17","usr":"bettertrade5","txt":"$GOOG - Google Stock Analysis - price & sma crossover, #bull stock - http://t.co/Rv54LEO8","lbl":"Positive"}
+,{"time":"20:22","usr":"Keith_in_Japan","txt":"@AP: #Facebook generates a \u0022surprisingly low\u0022 $4.39 per user; #Google revenues work out to $30 per user. http://t.co/VzqU4FjT $FB $GOOG","lbl":"Neutral"}
+]

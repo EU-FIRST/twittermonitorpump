@@ -1,0 +1,5 @@
+[
+{"time":"13:33","usr":"TradingtheTrend","txt":"RT @1nvestor: Monthly. Peeking in to see how Feb is shaping up - and see a rare Hollow Red candle formed. $AMZN http://t.co/PcFpGUsp","lbl":"Negative"}
+,{"time":"22:07","usr":"korryab","txt":"RT @adamnash: Apple ($AAPL) is now at the point where they could acquire Amazon ($AMZN) \u2026 for cash. #YouKnowWhatsCool100BDollars","lbl":"Neutral"}
+,{"time":"22:07","usr":"RodneyTrades","txt":"$AMZN http://t.co/UShzod1W Right at support.","lbl":"Neutral"}
+]

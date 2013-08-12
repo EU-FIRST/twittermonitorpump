@@ -1,0 +1,31 @@
+[
+{"time":"1:09","usr":"punkboyinsf","txt":"RT @TheStreet: Stocks insiders are buying and selling -- $GOOG $CBRL $LULU $SNTA $MSM http://t.co/wThHwzlA","lbl":"Neutral"}
+,{"time":"1:12","usr":"the_real_bob_sa","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/yeM66wdW #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Negative"}
+,{"time":"1:15","usr":"Six6DC","txt":"RT @TheStreet: Motorola Mobility Hits Rough Patch http://t.co/5EczixLb by @ericjackson $MMI $AAPL $GOOG","lbl":"Negative"}
+,{"time":"5:22","usr":"sanchesf6","txt":"Interesting fact - despite $MSFT having 1\u005C/7th $GOOG\u0027s search market share, $MSFT has more than half $GOOG\u0027s display ad rev share.","lbl":"Neutral"}
+,{"time":"5:31","usr":"InvestDividends","txt":"Commented on: \u0022You Know How to Pick Great Stocks? Prove It\u0022 http://t.co/WxBo9FZq $WWD $SBUX $MELI $LECO $ISRG $F $GM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"5:34","usr":"michaelbx9","txt":"Interesting fact - despite $MSFT having 1\u005C/7th $GOOG\u0027s search market share, $MSFT has more than half $GOOG\u0027s display ad rev share.","lbl":"Neutral"}
+,{"time":"5:45","usr":"SAI","txt":"Ice Cream Sandwich For The Original Transformer Tablet Arrives Next Month $GOOG by @_dtl http://t.co/pMringZ5","lbl":"Neutral"}
+,{"time":"8:50","usr":"StkConfidential","txt":"$AAPL\u0027s super secret presence at the CES: http://t.co/EbfD6PxY $GOOG, $MMI, $MSFT, $RIMM $SNE $STUDY","lbl":"Neutral"}
+,{"time":"10:04","usr":"tianhaoalex","txt":"RT @SAI: Microsoft Wins Again: Another Big Android Partner Signs A Patent Deal $MSFT $GOOG by @jyarow http://t.co/ZjlTHPdI","lbl":"Neutral"}
+,{"time":"10:07","usr":"LittleAppleSA","txt":"RT @BioTechReports: So...hearing this is the start of some short covering - $SIRI - Could take has to $3 $BAC, $C, $NFLX, $WMT, $JPM, $GOOG, $AAPL","lbl":"Neutral"}
+,{"time":"11:25","usr":"bsvtwit","txt":"4hr charts of $APPL and $MSFT suggest another leg higher. $GOOG and $IBM indicating lower.#CL in a bullish triangle #VIX wants to pop higher","lbl":"Negative"}
+,{"time":"11:28","usr":"$GOOG","txt":"@rmac55 $goog We\u0027ll have a lot of gyration. Only to find ourselves back to right where we started in March","lbl":"Neutral"}
+,{"time":"11:29","usr":"wallstCS","txt":"Analyst Insights: Google Stock Favorable, Citrix Shares Positive, F5 Stock a Buy http://t.co/IGkOKg0P $GOOG $CTSX $FFIV #mkt #stocks","lbl":"Positive"}
+,{"time":"12:49","usr":"BioTechReports","txt":"$YMI here comes the break out! Strong Buy - IMO $DNDN, $BAC, $WMT, $JPM, $C, $SIRI, $WFC, $GOOG, $AAPL","lbl":"Positive"}
+,{"time":"12:50","usr":"sherm8n","txt":"RT @ericjackson: Top Ten Reasons Why It\u0027s Better To Stick It Out At A Big Company Instead of Leave for a Start-Up - Forbes http://t.co/3yGkQwMe $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"12:53","usr":"MrStreetSweeper","txt":"Microsoft signs patent agreement with LG, now covers 70 percent of US Android smartphone market http://t.co/ipn2UUdu $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"14:06","usr":"stocial","txt":"60 minute Trending Social Volume: $MR/2, $GOOG/2, $NWL/2, $COG/2, $MCP/1, $QCOR/1, $APA/1, $VMW/1, $OCZ/1, $TDG/1. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"14:07","usr":"MJMIPAttorneys","txt":"RT @SAI: Microsoft Has Painted A Patent Target On Chrome $MSFT $GOOG by @MattRosoff http://t.co/rbCk0SwD","lbl":"Neutral"}
+,{"time":"14:07","usr":"SA_GOOG","txt":"Trading Intel\u0027s Earnings Release: Expecting A Mild Price Move http://t.co/VxPyU34H $GOOG $AAPL $RIMM $INTC","lbl":"Neutral"}
+,{"time":"15:40","usr":"SeekingAlpha","txt":"The Most Important Stocks In The World http://t.co/JGeOMAi2 $IBM $CVX $MCD $AAPL $CAT $GOOG $XOM $MSFT","lbl":"Neutral"}
+,{"time":"15:42","usr":"jcatcw","txt":"RT @Computerworld: RT @richi: 3 things Google Apps needs to fix... like, NOW http://t.co/AOdXR8f2 #tlv $GOOG [Insider: free reg. req.]","lbl":"Negative"}
+,{"time":"16:51","usr":"AJatBridgeGate","txt":"Nice $GOOG Bigger than Google+, MySpace isn\u2019t dead yet http://t.co/HGhwpglm","lbl":"Positive"}
+,{"time":"16:53","usr":"VanessaAlvarez1","txt":".@vambenepe Exactly what I was thinking, $GOOG lucky to have her, she brings all that enterprise, networking, virt knowledge","lbl":"Positive"}
+,{"time":"16:54","usr":"footnoted","txt":"$GOOG names Diane Greene to its board according to this 8K http://t.co/DyfiYV7L","lbl":"Neutral"}
+,{"time":"18:04","usr":"thefinancepress","txt":"$GOOG Senator Leahy Proposes Change to Hollywood-Backed Anti-Piracy Measure: Senator Leahy Proposes Change to H... http://t.co/7TyLuyaB","lbl":"Neutral"}
+,{"time":"18:07","usr":"stocial","txt":"60 minute Trending Social Volume: $DMND/34, $SPY/19, $GOOG/14, $AAPL/14, $INFI/8, $JPM/7, $MSFT/6, $LCC/6. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"18:11","usr":"kylemce","txt":"@irmck I don\u0027t necessarily disagree, haven\u0027t used the new search stuff, but people clamoring for having non-$GOOG sources in it seem... off.","lbl":"Neutral"}
+,{"time":"22:41","usr":"$MSFT","txt":"RT @BuddyPlatform: Interesting fact - despite $MSFT having 1/7th $GOOG\u0027s search market share, $MSFT has more than half $GOOG\u0027s display ad rev share.","lbl":"Neutral"}
+,{"time":"22:47","usr":"$GOOG","txt":"$GOOG is inclusive and wants to show Twitter/FCBK results in its search. Twitter & Facebook choose to exclude themselves -- prohibiting GOOG","lbl":"Negative"}
+]

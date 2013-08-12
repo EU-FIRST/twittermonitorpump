@@ -1,0 +1,10 @@
+[
+{"time":"2:02","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AMZN $AAPL @simplestockqtes http://t.co/PMacVvcW","lbl":"Neutral"}
+,{"time":"10:00","usr":"ReupSkeez","txt":"RT @terranovajoe: $AMZN earnings on Tuesday after the close","lbl":"Neutral"}
+,{"time":"14:49","usr":"HCPG","txt":"Don\u0027t delete those alerts! The Re-Test market http://t.co/lPAZfkt6 $AMZN $x $POT $SLW","lbl":"Neutral"}
+,{"time":"14:54","usr":"TheHarper","txt":"RT @HCPG: Don\u0027t delete those alerts! The Re-Test market http://t.co/lPAZfkt6 $AMZN $x $POT $SLW","lbl":"Neutral"}
+,{"time":"14:56","usr":"traderstewie","txt":"RT @HCPG: Don\u0027t delete those alerts! The Re-Test market http://t.co/lPAZfkt6 $AMZN $x $POT $SLW","lbl":"Neutral"}
+,{"time":"18:55","usr":"wiselytrading87","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/uCz9HOsh","lbl":"Positive"}
+,{"time":"22:23","usr":"TMFBane","txt":"@TMFJMo Yeah, it\u0027s a fascinating story. $AMZN is worth $88 billion today; B&N is worth $719 million.","lbl":"Neutral"}
+,{"time":"22:29","usr":"RaviRomo","txt":"How $AMZN might emerge a winner in streaming over $NFLX http://t.co/YSqKsLeh","lbl":"Neutral"}
+]

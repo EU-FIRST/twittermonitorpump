@@ -1,0 +1,19 @@
+[
+{"time":"1:51","usr":"IQ2020","txt":"RT @rocco_thestreet: Gotta see #\u0027s, but was I right? On @CNBC I said $AAPL would sell more minis in a month than $AMZN would Kindles in a Q. http://t.co/9fklvNjM","lbl":"Negative"}
+,{"time":"1:53","usr":"joshkolbert","txt":"RT @rocco_thestreet: Gotta see #\u0027s, but was I right? On @CNBC I said $AAPL would sell more minis in a month than $AMZN would Kindles in a Q. http://t.co/9fklvNjM","lbl":"Negative"}
+,{"time":"1:54","usr":"researchpuzzler","txt":"the battle royale among the tech (if that\u0027s the right word) giants http://t.co/mGAnkujf $AAPL $GOOG $FB $AMZN","lbl":"Neutral"}
+,{"time":"10:07","usr":"basilnsage","txt":"$AMZN keep an eye on it can rock if ES turns up","lbl":"Positive"}
+,{"time":"10:15","usr":"researchpuzzler","txt":"why have the dominant firms -- $AAPL $GOOG $FB $AMZN -- had declining estimates? http://t.co/mGAnkujf","lbl":"Negative"}
+,{"time":"10:18","usr":"wklyopttrades","txt":"$AMZN we alerted to the 245 puts as it is struggling at the 50 day ema this will be a quick one http://t.co/73oVAbMd","lbl":"Negative"}
+,{"time":"10:52","usr":"MassenburgINC","txt":"RT @TMFBreaking: Survey: Amazon ranks No. 1 in retail customer satisfaction this holiday period. $AMZN http://t.co/QVPsSbGt","lbl":"Positive"}
+,{"time":"10:52","usr":"smartjeremy","txt":"RT @TMFBreaking: Survey: Amazon ranks No. 1 in retail customer satisfaction this holiday period. $AMZN http://t.co/QVPsSbGt","lbl":"Positive"}
+,{"time":"10:52","usr":"fau_tic","txt":"\u201C@TMFBreaking: Survey: Amazon ranks No. 1 in retail customer satisfaction this holiday period. $AMZN http://t.co/nzC19gi7\u201D","lbl":"Positive"}
+,{"time":"11:28","usr":"HShankle","txt":"If anyone has the original Droid Razr Maxx then hit me up I have a nice case for you... I accidently ordered it off $AMZN. I have DRM HD","lbl":"Neutral"}
+,{"time":"11:29","usr":"Glaser13","txt":"RT @TMFBreaking: Survey: Amazon ranks No. 1 in retail customer satisfaction this holiday period. $AMZN http://t.co/QVPsSbGt","lbl":"Positive"}
+,{"time":"12:54","usr":"tradethembi","txt":"$AMZN gave winners on last 2 signals and flat from 1st signal, that also happens. http://t.co/m2DCBaKD","lbl":"Neutral"}
+,{"time":"14:24","usr":"Benzinga","txt":"Is Apple Being Beaten to the Punch?: http://t.co/AvIiMcoA $AAPL $AMZN $FB $HPQ $INTC $MSFT $RIMM","lbl":"Neutral"}
+,{"time":"14:25","usr":"hili1","txt":"Decoding http://t.co/rqapN1Z5 http://t.co/kBnPpjrC $AMZN - AMZN is currently my #1 short play","lbl":"Negative"}
+,{"time":"14:25","usr":"racernic","txt":"if $amzn gets to 246 we could have an intraday HS (bearish) then maybe it breaks to lows (am short it so baised ;-)","lbl":"Negative"}
+,{"time":"15:43","usr":"mtnpoet","txt":"RT @TMFBreaking: Survey: Amazon ranks No. 1 in retail customer satisfaction this holiday period. $AMZN http://t.co/QVPsSbGt","lbl":"Positive"}
+,{"time":"19:50","usr":"rsaintvilus","txt":"Why an Amazon Smartphone Will Finally Ring in 2013 - $AMZN, $AAPL, $GOOG, $MSFT, $VZ - http://t.co/ZLjac78I via @themotleyfool","lbl":"Neutral"}
+]

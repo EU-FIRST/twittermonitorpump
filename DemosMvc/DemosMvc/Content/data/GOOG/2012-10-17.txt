@@ -1,0 +1,66 @@
+[
+{"time":"0:28","usr":"moe_tanahy","txt":"RT @galilu: Google CEO Breaks His Silence To Warn Against Government Regulation $GOOG http://t.co/o4TEKQfN","lbl":"Neutral"}
+,{"time":"0:31","usr":"ZeyadAlhazmi","txt":"RT @SAI: Google CEO Breaks His Silence To Warn Against Government Regulation $GOOG by @owenthomas http://t.co/EJLgWjHv","lbl":"Neutral"}
+,{"time":"0:34","usr":"DeidreZune","txt":"Google CEO Speaks Publicly Again, Says He\u0027s \u0027Hopeful\u0027 About Outcome of Antitrust Probes http://t.co/uPnIrIVr $GOOG Page finds his VOICE","lbl":"Neutral"}
+,{"time":"0:40","usr":"mbuguanjihia","txt":"Google CEO Breaks His Silence To Warn Against Government Regulation $GOOG http://t.co/Vqqf7kjr","lbl":"Neutral"}
+,{"time":"5:42","usr":"niked","txt":"RT \u201C@SAI: Google CEO Breaks His Silence To Warn Against Government Regulation $GOOG by @owenthomas http://t.co/V19Enku1\u201D","lbl":"Neutral"}
+,{"time":"5:47","usr":"mateiasro","txt":"Here\u0027s The Full Video Of Google CEO Larry Page Talking $GOOG http://t.co/qbI7ZRpA","lbl":"Neutral"}
+,{"time":"5:47","usr":"mateiasro","txt":"10 Things You Need To Know This Morning $MSFT $AAPL $YHOO $BBY $GOOG $ZNGA http://t.co/SMQpdWNH","lbl":"Neutral"}
+,{"time":"5:48","usr":"rcastle06","txt":"RT @SAI: 10 Things You Need To Know This Morning $MSFT $AAPL $YHOO $BBY $GOOG $ZNGA by @jyarow http://t.co/c55s1lxo","lbl":"Neutral"}
+,{"time":"6:48","usr":"victorJ0NES","txt":"RT @Benzinga: $GOOG PT Raised from $640 to $690 at Wedbush, Neutral rated","lbl":"Positive"}
+,{"time":"6:48","usr":"rodzvilla","txt":"RT @SAI: These Amazing World Maps Show Where Apple\u0027s Beating Google, Amazon, And Microsoft $AAPL $GOOG $AMZN $MSFT http://t.co/iVa6jZyT","lbl":"Neutral"}
+,{"time":"6:52","usr":"RecallPropecia","txt":"As the world becomes aware of #Merck\u0027s deceptive marketing, health activists vow to put an end to Merck\u0027s machinations. $MRK $GOOG #NYSE","lbl":"Neutral"}
+,{"time":"6:52","usr":"HillmanRea","txt":"RT @SAI: Google Is Planning A $99 Tablet For The Holidays $GOOG $AMZN by @jyarow http://t.co/JGwaKDna","lbl":"Neutral"}
+,{"time":"7:50","usr":"Alex__Salomon","txt":"Published $GOOG estimate on Estimize: +0.16 EPS and +27M Revs compared to Wall Street\u0027s consensus. http://t.co/86rW0ViP","lbl":"Positive"}
+,{"time":"7:51","usr":"chrishar00","txt":"WHAT THEY KNOW: $GOOG - what you want/search history; $AMZN - what you bought; $FB - who you are/your exact profile ~~> All powerful bits","lbl":"Neutral"}
+,{"time":"7:53","usr":"DeidreZune","txt":"Study finds smartphone users top 1B for first time ever http://t.co/LXwR6Z8E $AAPL $GOOG $RIMM $NOK $samsung","lbl":"Neutral"}
+,{"time":"8:40","usr":"DanTraderETN","txt":"2pm ET TODAY: Live Option Spread Trade Setups for $GOOG Earnings. Join Us for the Web Class!!! http://t.co/QuI1NHFO","lbl":"Neutral"}
+,{"time":"8:40","usr":"JerTignes","txt":"$goog will give a good picture of the economic recovery in US, with its main market, advertisement. Goog ad revenue could lift $fb...","lbl":"Positive"}
+,{"time":"8:58","usr":"JerTignes","txt":"Bad $goog ad revenue would show US industry isnt ready to invest again, all markets will react quiete strongly to this...","lbl":"Negative"}
+,{"time":"8:59","usr":"bluser12","txt":"$GOOG earnings tomorrow, I was wondering why the premiums were so huge.","lbl":"Positive"}
+,{"time":"8:59","usr":"russellmreyes","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"8:59","usr":"z8angela","txt":"$GOOG dip buying is easier for me ahead of its earring similar to $IBM $ISRG action. Quick play...","lbl":"Positive"}
+,{"time":"9:20","usr":"kulatogz","txt":"RT @SAI: Google Is Planning A $99 Tablet For The Holidays $GOOG $AMZN by @jyarow http://t.co/JGwaKDna","lbl":"Positive"}
+,{"time":"9:57","usr":"onlineIDtech","txt":"\u201C@iBlessit: $VRNG going under $4 due to trial risk. Google obviously making patent trolls earn it via jury\u201D / patent thief= $goog.","lbl":"Negative"}
+,{"time":"10:36","usr":"RDeanon","txt":"Vringo vs Google: \u0022A Reasonable Royalty Rate is 3.5%\u0022 See for yourself. Page 11, line 12 https://t.co/gNvyGk7k $AOL $GOOG $MSFT $YHOO $IACI","lbl":"Neutral"}
+,{"time":"10:37","usr":"launchticker","txt":"$goog publishes photo gallery of data center operations http://t.co/S0XPmf2T","lbl":"Neutral"}
+,{"time":"10:37","usr":"parklandtrader","txt":"@cnbcfastmoney @RedDogT3Live @GuyAdami $GOOG MO MO is back into tomorrow earnings.","lbl":"Neutral"}
+,{"time":"11:10","usr":"businessinsider","txt":"10 Android Apps You Didn\u0027t Know Existed, But Make Your Phone Much Better $GOOG by @officialKLS http://t.co/gJyEfdSP","lbl":"Neutral"}
+,{"time":"11:10","usr":"SAI_Tools","txt":"10 Android Apps You Didn\u0027t Know Existed, But Make Your Phone Much Better $GOOG by @officialKLS http://t.co/kOoVleSG","lbl":"Neutral"}
+,{"time":"11:10","usr":"SAI","txt":"10 Android Apps You Didn\u0027t Know Existed, But Make Your Phone Much Better $GOOG by @officialKLS http://t.co/ll16FZYe","lbl":"Neutral"}
+,{"time":"11:11","usr":"edwil","txt":"RT @SAI_Tools: 10 Android Apps You Didn\u0027t Know Existed, But Make Your Phone Much Better $GOOG by @officialKLS http://t.co/kOoVleSG","lbl":"Positive"}
+,{"time":"11:41","usr":"RDeanon","txt":"$VRNG $GOOG Good post Re: Mark Cuban http://t.co/1dtqg4oF","lbl":"Neutral"}
+,{"time":"11:41","usr":"TweetLeni","txt":"Entering $GOOG today trying to fill under 754","lbl":"Positive"}
+,{"time":"11:43","usr":"coombscnbc","txt":"Google virtually opens the doors to its data centers... http://t.co/TgPqcaES $GOOG","lbl":"Neutral"}
+,{"time":"12:27","usr":"pnavarro88","txt":"EPS season is here u still have time to get the trades from @HFT_Options best is yet to come $AAPL $GOOG $MSFT $AMZN $CMG @HamzeiAnalytics","lbl":"Neutral"}
+,{"time":"12:27","usr":"wallstCS","txt":"Did the iPhone Make Us Smartphone-Crazy? http://t.co/O56cUMUI $SSNLF $AAPL $GOOG $NOK #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"12:28","usr":"dmackdaddy","txt":"Google Throws Open Doors to Its Top-Secret Data Center | Wired Enterprise | http://t.co/Rkoo3Y6w - http://t.co/1sMgHWmB $GOOG","lbl":"Neutral"}
+,{"time":"12:29","usr":"TradetheLeader1","txt":"$goog acting well ahead of tomorrow\u0027s ERN report","lbl":"Positive"}
+,{"time":"13:25","usr":"launchticker","txt":"$goog releases 2 map APIs; Tracks API to analyze GPS data & Geolocation API for locating mobile device w/o GPS http://t.co/3WYqZnJY","lbl":"Positive"}
+,{"time":"13:26","usr":"61point8","txt":"$GOOG > If it goes above $758.50, I\u0027ll take a shot at earnings.","lbl":"Positive"}
+,{"time":"13:28","usr":"ADVFNplc","txt":"$GOOG - UPDATE: Wireless Carriers Set to Debut Mobile-Payments Service Next Week http://t.co/V8f2fYqA","lbl":"Neutral"}
+,{"time":"14:27","usr":"Dmirelli","txt":"RT @SAI: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/moOEKWl0","lbl":"Positive"}
+,{"time":"14:28","usr":"PCH888","txt":"RT @businessinsider: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/YO6r8J3M","lbl":"Positive"}
+,{"time":"14:28","usr":"Bclark796","txt":"RT @businessinsider: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/YO6r8J3M","lbl":"Neutral"}
+,{"time":"14:30","usr":"CBOE","txt":"DRJ on @CBOE_TV: $GOOG & $AMZN outperform & post-debate activity in #coal stocks @Optionmonster reports $$ http://t.co/rMQRYjqu","lbl":"Positive"}
+,{"time":"15:03","usr":"DaveCV100","txt":"RT @dmackdaddy: Sold my $GOOG #Nexus7 table for $15 less than I paid for it 3 months ago on $eBay. Going to pre-order $AAPL iPad Mini next week. 7\u0022 rocks!","lbl":"Neutral"}
+,{"time":"15:03","usr":"OCVC","txt":"RT @SAI: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/moOEKWl0","lbl":"Positive"}
+,{"time":"15:04","usr":"mark_perry309","txt":"RT @SAI: Here\u0027s What Happens When You Put An iPhone 5 And A Samsung Galaxy S III In A Blender $AAPL $GOOG by @_dtl http://t.co/sL2M5VZQ","lbl":"Neutral"}
+,{"time":"15:05","usr":"Simonka","txt":"RT @StockTwits: crazy cool.. Google Throws Open Doors to Its Top-Secret Data Center http://t.co/rfuPhulc via Wired $GOOG","lbl":"Positive"}
+,{"time":"15:44","usr":"zeroroy","txt":"RT @SAI: Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB by @jyarow http://t.co/moOEKWl0","lbl":"Positive"}
+,{"time":"15:48","usr":"aaronspe","txt":"Published $GOOG estimate on Estimize: +0.09 EPS and +462M Revs compared to Wall Street\u0027s consensus. http://t.co/vDaSaPS3","lbl":"Neutral"}
+,{"time":"17:05","usr":"RedDogT3Live","txt":"Here is a link to our On Demand Video Recap of Today\u0027s Action $spy $AAPL $goog $c $xlf $gld $IBM http://t.co/oeq1Bd3Y","lbl":"Neutral"}
+,{"time":"17:07","usr":"BenCBanks","txt":"NEW BLOG POST -- \u0022What a move! Top of Channel now!\u0022 http://t.co/Tf35gvdk $spy $dia $aapl $goog $amzn $deck $c $xlf","lbl":"Neutral"}
+,{"time":"17:09","usr":"galilu","txt":"Google Pays Engineers More Than Any Other Tech Company $GOOG $AAPL $FB http://t.co/YM99QlGy","lbl":"Neutral"}
+,{"time":"18:49","usr":"StockMarket411","txt":"Legal concerns could pull Google stock down from current record highs, analysts say $goog http://t.co/W02v4lf9 goog, google, google stock...","lbl":"Negative"}
+,{"time":"18:50","usr":"KarriannGraf","txt":"RT @pennies4stocks: Peter Pan Alerts : Watchlist 10-18-2012 with Earnings gambles http://t.co/EUDMslo0 $VHC $FSLR $BWEN $SIFY $ARNA $CMG $GOOG $SNDK","lbl":"Neutral"}
+,{"time":"18:51","usr":"FigureNyenterms","txt":"65 days til dreidelgames; $GOOG, you gonna have the the glasses ready? #flyingcar","lbl":"Neutral"}
+,{"time":"18:57","usr":"TradeEdge","txt":"$GOOG Throws Open Doors to Its Top-Secret Data Center | http://t.co/6Vj7HI4Z http://t.co/qCNPb8bD","lbl":"Neutral"}
+,{"time":"20:22","usr":"22tec","txt":"RT @SAI: Google Hosting Android Event October 29 To Announce A New Smartphone $GOOG by @stevekovach http://t.co/KsV3W9Az","lbl":"Neutral"}
+,{"time":"20:30","usr":"BettyInTheLoop","txt":"We\u0027ll also be joined by @scottkessler who previews $GOOG & $MSFT earnings. Don\u0027t miss it! #InTheLoop","lbl":"Neutral"}
+,{"time":"20:46","usr":"StockTwits","txt":"shmoogle... Something\u2019s brewing at Google: Android event on Oct. 29 http://t.co/uWXR7u2M via the giga om $GOOG","lbl":"Neutral"}
+,{"time":"20:47","usr":"johnsgilbert","txt":"@DeidreZune I\u0027m long $GOOG for the AH earnings (in ST acct) only if it closes >760. 4mo SMA;13wk EMA;50d SMA are all... http://t.co/MdaqjLbL","lbl":"Positive"}
+,{"time":"22:45","usr":"OnTimePicks","txt":"- Statement of Changes in Beneficial Ownership (4) filed for $vrng $goog #form4 $vrng #vrng","lbl":"Neutral"}
+,{"time":"22:55","usr":"JimmyLegg2","txt":"RT @StockTwits: shmoogle... Something\u2019s brewing at Google: Android event on Oct. 29 http://t.co/uWXR7u2M via the giga om $GOOG","lbl":"Neutral"}
+,{"time":"22:56","usr":"Sactownbobby","txt":"RT @SAI: Google Hosting Android Event October 29 To Announce A New Smartphone $GOOG by @stevekovach http://t.co/KsV3W9Az","lbl":"Neutral"}
+]

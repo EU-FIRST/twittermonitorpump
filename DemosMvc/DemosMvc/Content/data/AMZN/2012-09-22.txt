@@ -1,0 +1,8 @@
+[
+{"time":"9:26","usr":"howardlindzon","txt":"(long ($amzn) RT @gtlackey $AMZN taking its shot at $GRPN with WOOT. I would not want to be in Bezos crosshairs http://t.co/6Vs3Lv3B","lbl":"Positive"}
+,{"time":"9:26","usr":"morningErnest","txt":"Are you kidding me. http://t.co/jEaP8VeW $AMZN","lbl":"Negative"}
+,{"time":"11:04","usr":"ScottRutt","txt":"Don\u0027t miss my Weekly Roundup on $AMZN $WMT $SBUX $GRPN $RIMM $FB $NFLX http://t.co/3Ak3ueAk #StockMarket #StockPicks #Investing","lbl":"Neutral"}
+,{"time":"14:03","usr":"ScottRutt","txt":"Last call for this week\u0027s newsletter with $AMZN $WMT $SBUX $GRPN $RIMM $FB $NFLX http://t.co/Ruva6mji","lbl":"Neutral"}
+,{"time":"17:25","usr":"OptionsTrader82","txt":"RT @jimcramer: @RoccoPendola is breaking ground with $AMZN, $AAPL, $NFLX--he is a MUST follow. Provocative and exciting!","lbl":"Neutral"}
+,{"time":"23:04","usr":"Aceandover","txt":"@jimcramer #bestbuy sucks, they didn\u0027t get any iPhones5 in no wonder there stock is bombing. $AMZN is going to crush them $BBY #cancelorder","lbl":"Positive"}
+]

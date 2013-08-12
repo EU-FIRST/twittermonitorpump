@@ -1,0 +1,54 @@
+[
+{"time":"5:50","usr":"MarketCurrents","txt":"Google (GOOG) says it will roll out Google Play gift cards in Target, GameStop, and RadioShack stores... http://t.co/qkkSIAHu $GOOG","lbl":"Neutral"}
+,{"time":"8:14","usr":"wallstCS","txt":"Jim Cramer: \u0027BUY, BUY, BUY\u0027 LinkedIn, Google and these 3 Sizzling Stocks TODAY http://t.co/KHcYGuYB $GOOG $LNKD $LTD $LULU $VMW #mkt","lbl":"Positive"}
+,{"time":"8:16","usr":"Daniel_Aaron17","txt":"$SPY futures down mildly to 1408. Remain short $GOOG and $AMZN going into the open. Long $VXX up 2.3 pct premarket.","lbl":"Negative"}
+,{"time":"8:17","usr":"wallstdaily","txt":"12 Reasons to Keep Ignoring #Facebook\u2019s Friend Request (Part 1) http://t.co/8JCxJme9 $FB $GOOG $ZNGA $GRPN","lbl":"Neutral"}
+,{"time":"9:03","usr":"KatyFinneran","txt":"More of today\u0027s leading technology CEOs previously worked at Yahoo! than any other company, including Google and Microsoft $YHOO $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"9:06","usr":"Sell_Theta","txt":"$GOOG Credit Put Spreads http://t.co/hhuJvI7x #trades","lbl":"Negative"}
+,{"time":"9:53","usr":"JSTBiotech","txt":"@MarkTho771 Yeah it\u0027s worth the risk IMO. Thing could skyrocket on hype/pumping if $vrng actually wins vs $goog","lbl":"Neutral"}
+,{"time":"9:58","usr":"SPEQL8R","txt":"$AAPL doing better than I thot>660 next resist 665 ish. Am not interested. But as goes $AAPL $GOOG $AMZN so goes mkt- since mgrs want these","lbl":"Neutral"}
+,{"time":"10:00","usr":"MarkTho771","txt":"@JSTBiotech Exactly, high upside potential. I believe in $VRNG, own a position in that as well as options. $COIN is icing on cake. $GOOG","lbl":"Neutral"}
+,{"time":"10:00","usr":"jimcramer","txt":"Hedgies still salivating for these babies http://t.co/QAT1Zwpl by @Commodity_Bull $AAPL $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"10:58","usr":"SAI","txt":"How To Quit The iPhone And Convert To Android $GOOG $AAPL by @mattlynley http://t.co/MAOx0FCJ","lbl":"Neutral"}
+,{"time":"10:59","usr":"Fitzstock2004","txt":"Stop watching $spx. You are missing the boat $aap $goog","lbl":"Neutral"}
+,{"time":"11:00","usr":"olivcim","txt":"RT @SAI: How To Quit The iPhone And Convert To Android $GOOG $AAPL by @mattlynley http://t.co/MAOx0FCJ","lbl":"Neutral"}
+,{"time":"11:00","usr":"TweetLeni","txt":"Good afternoon. Quick check in. Looks like Ill have to cover the $GOOG -1.5% Gain in $TSO +1.2 so kind of a wash. Nice to see some bullish","lbl":"Positive"}
+,{"time":"11:32","usr":"ADVFNplc","txt":"$GOOG - Amazon Launches New Cloud Service - Analyst Blog http://t.co/dL3nlTJ8","lbl":"Positive"}
+,{"time":"11:32","usr":"pennystockguys","txt":"$GOOG - Amazon Launches New Cloud Service - Analyst Blog http://t.co/AZebnd3e","lbl":"Neutral"}
+,{"time":"12:27","usr":"alexia","txt":"RT @SAI: Facebook Just Launched Search Ads $FB $GOOG by @joshconstine http://t.co/ZUNewMjo","lbl":"Neutral"}
+,{"time":"12:27","usr":"pitagorazz","txt":"RT @SAI: Facebook Just Launched Search Ads $FB $GOOG by @joshconstine http://t.co/ZUNewMjo","lbl":"Neutral"}
+,{"time":"12:27","usr":"howardlindzon","txt":"what I would do or $goog \u201C@TrendRida: Investors bashing Peter Thiel for taking a profit in $FB is wacked. He probably swapped into $AAPL","lbl":"Neutral"}
+,{"time":"12:28","usr":"dojimaster","txt":"RT @SAI: Facebook Just Launched Search Ads $FB $GOOG by @joshconstine http://t.co/ZUNewMjo","lbl":"Neutral"}
+,{"time":"12:45","usr":"Goodlett","txt":"One of @BING\u0027s smarter #search bits is #media abilities, including picking a topic & it pulling for you http://t.co/Up8EdfPS $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"12:46","usr":"Knutos","txt":"RT @SAI: How To Quit The iPhone And Convert To Android $GOOG $AAPL by @mattlynley http://t.co/MAOx0FCJ","lbl":"Neutral"}
+,{"time":"12:46","usr":"RedDogT3Live","txt":"On a \u0022down/bearish\u0022 day. $goog $AAPL and $amzn Don\u0027t seem to care. There is always action","lbl":"Positive"}
+,{"time":"13:24","usr":"Kangarax","txt":"RT @businessinsider: How To Block Ads And 6 Other Cool Tricks You Should Try With YouTube $GOOG by @_dtl http://t.co/O2ZPJiE4","lbl":"Neutral"}
+,{"time":"13:24","usr":"thefinancepress","txt":"$GOOG Vringo (AMEX:VRNG) vs Google (GOOG), David vs Goliath?: Vringo (AMEX:VRNG) vs Google (GOOG), David vs Gol... http://t.co/ONRlZOJt","lbl":"Neutral"}
+,{"time":"13:24","usr":"kimolesen","txt":"Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"13:24","usr":"creeksidecap","txt":"Will take the theta in my short 680 weekly calls tomorrow and roll into a short position for next week expiration $GOOG","lbl":"Negative"}
+,{"time":"13:54","usr":"jmoreno_qurius","txt":"RT @TheRomit: Santa Clara County to adopt Office 365 for 15,000 employees. $MSFT $GOOG http://t.co/5fX3zFMy","lbl":"Neutral"}
+,{"time":"13:55","usr":"Lichartin","txt":"$ES_F making new highs then I will hold my $GOOG might sell some and trail overnight","lbl":"Neutral"}
+,{"time":"13:55","usr":"marwan_jones","txt":"RT @TraderFlorida: $GOOG $AAPL these two market leaders continue to hold up well","lbl":"Positive"}
+,{"time":"14:32","usr":"jbptuco","txt":"RT @Fitzstock2004: I see your engulfing candle AND RAISE U A HAMMER REVERSAL $spx $aapl $goog","lbl":"Negative"}
+,{"time":"14:33","usr":"Benzinga","txt":"$AAPL $GOOG Apple, Samsung Patent Battle Could Lead to Unusual Deal: http://t.co/46rcrTte","lbl":"Neutral"}
+,{"time":"14:56","usr":"businessinsider","txt":"Google Hiring Data Reveals Two Things Women Can Do To Get Hired And Promoted More $GOOG by @nichcarlson http://t.co/2WDlXXdN","lbl":"Neutral"}
+,{"time":"14:56","usr":"BI_Careers","txt":"Google Hiring Data Reveals Two Things Women Can Do To Get Hired And Promoted More $GOOG by @nichcarlson http://t.co/7uk2vrc0","lbl":"Neutral"}
+,{"time":"14:56","usr":"SAI","txt":"Google Hiring Data Reveals Two Things Women Can Do To Get Hired And Promoted More $GOOG by @nichcarlson http://t.co/NmwgABXt","lbl":"Neutral"}
+,{"time":"14:56","usr":"DeidreZune","txt":"Hey Zuck, give few hundred million shares to Eric Schmidt. He can bring $FB all of $GOOG\u0027s secrets. He\u0027s a pro-- got GOOG all $AAPL secrets","lbl":"Neutral"}
+,{"time":"15:27","usr":"launchticker","txt":"$goog Chrome on iOS now lets users share webpages to $goog +, Twitter, $fb & email http://t.co/z9wVpPYR http://t.co/XlwFbJR8","lbl":"Neutral"}
+,{"time":"15:29","usr":"dberkowitz","txt":"@dslevy it\u0027s a great post, though i still would be happy if $FB could be a complement to $GOOG w/search rather than killer","lbl":"Negative"}
+,{"time":"16:19","usr":"businessinsider","txt":"8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/XcXRRjMq","lbl":"Neutral"}
+,{"time":"16:19","usr":"SAI_Tools","txt":"8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/B54E3IBz","lbl":"Negative"}
+,{"time":"16:19","usr":"SAI","txt":"8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/J6RyXMMI","lbl":"Neutral"}
+,{"time":"16:21","usr":"Nukaba","txt":"RT @businessinsider: 8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/XcXRRjMq","lbl":"Negative"}
+,{"time":"17:37","usr":"dmackdaddy","txt":"FREE today: Busta Rhymes: Year Of The Dragon - Music on Google Play - https://t.co/S2ZNMioz $GOOG","lbl":"Neutral"}
+,{"time":"17:39","usr":"thefinancepress","txt":"$GOOG Google Heads to Canada\u0027s Arctic to Map Remote Community: Google Heads to Canada\u0027s Arctic to Map Remote Co... http://t.co/O5P4I56W","lbl":"Neutral"}
+,{"time":"17:40","usr":"nnomiface","txt":"RT @SAI: Google Hiring Data Reveals Two Things Women Can Do To Get Hired And Promoted More $GOOG by @nichcarlson http://t.co/NmwgABXt","lbl":"Neutral"}
+,{"time":"17:44","usr":"iamnotthelotus","txt":"RT @RachelILowrey: Cool! RT @FierceBiotech Amazon targets #pharma R&D, others with new #cloud storage http://t.co/Jhxw4Zji $AMZN $GOOG #BigData","lbl":"Neutral"}
+,{"time":"19:40","usr":"DevKMenon","txt":"8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/lo7lQ16p","lbl":"Neutral"}
+,{"time":"19:42","usr":"BuildSocialBiz","txt":"RT @DevKMenon: 8 Huge Complaints We Still Have About Android $GOOG by @officialKLS http://t.co/lo7lQ16p","lbl":"Negative"}
+,{"time":"19:44","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) FTC Settlement Challenged by Consumer Group: Google Inc. (GOOG) FTC Settlement Challen... http://t.co/guWjOl9C","lbl":"Neutral"}
+,{"time":"22:52","usr":"BrianDeDonato","txt":"VCHEDGE Trade Plan for Thursday, August 23, 2012 http://t.co/iRZrVOar $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"22:59","usr":"howardlindzon","txt":"I get a little sad when someone adds me to a circle on Google Plus $goog","lbl":"Neutral"}
+,{"time":"23:19","usr":"frotuss","txt":"It\u0027s only for @klout RT @howardlindzon I get a little sad when someone adds me to a circle on Google Plus $goog","lbl":"Neutral"}
+]

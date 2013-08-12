@@ -1,0 +1,66 @@
+[
+{"time":"0:34","usr":"RFrankCollins","txt":"RT @EA_Rice: RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"0:36","usr":"TMichaelRodrigu","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/75yg6Spx","lbl":"Neutral"}
+,{"time":"0:36","usr":"Gabriel_Gaming","txt":"RT @EA_Rice: RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"0:37","usr":"TErvinSanchez","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/sRQiIFEz","lbl":"Neutral"}
+,{"time":"3:47","usr":"kibriyactg","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/K2XQBvBm","lbl":"Neutral"}
+,{"time":"3:48","usr":"DMarcusCollins","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/yG2iDQks","lbl":"Neutral"}
+,{"time":"3:55","usr":"DMarcusCollins","txt":"RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"3:58","usr":"rafiqpahel","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/Ovc78NzZ","lbl":"Neutral"}
+,{"time":"6:13","usr":"GoogleInvestor","txt":"Google Defies Gravity: 12 Consecutive Weeks of Gains! http://t.co/QX1LE3rp $GOOG","lbl":"Positive"}
+,{"time":"6:13","usr":"Narsis1990","txt":"RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"6:14","usr":"moonexpt","txt":"RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"6:14","usr":"egosventures","txt":"@SAI: 10 Things You Need To Know This Morning $AAPL $MSFT $ORCL $GOOG by @nichcarlson http://t.co/xtPj2ItC","lbl":"Neutral"}
+,{"time":"7:21","usr":"MimviSearch","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/D330PEcH","lbl":"Neutral"}
+,{"time":"7:26","usr":"SSpencerLee","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/VHkjpLvz","lbl":"Neutral"}
+,{"time":"8:29","usr":"BibianoDiPerna","txt":"Let me get this straight $LNKD: You have a PE over 1000, increasing sales cost, a lawsuit, competition from $GOOG and $FB, insiders dumping.","lbl":"Neutral"}
+,{"time":"8:33","usr":"pennystockguys","txt":"$GOOG - InvestorsObserver releases comments on Wells Fargo, Google, ConocoPhillips, DISH Network and Fastenal http://t.co/CnHolkHM","lbl":"Neutral"}
+,{"time":"9:11","usr":"MarkNewtonCMT","txt":"@timothynick @Convertbond ty TN was more of a relative bullish $GOOG vs $AAPL call technically,but appreciate- AAPL tech target to buy $621","lbl":"Positive"}
+,{"time":"9:42","usr":"BPGAG","txt":"$aapl $goog Laggards leading selling beta for now","lbl":"Neutral"}
+,{"time":"9:44","usr":"BPGAG","txt":"$aapl $goog $spy Seems to be a lot of resistance in Tech especially on the daily charts","lbl":"Neutral"}
+,{"time":"9:47","usr":"BPGAG","txt":"$aapl $goog Taking more Google shorts","lbl":"Negative"}
+,{"time":"9:47","usr":"2KnightsTrading","txt":"Which algo listened to my $GOOG trade? :)","lbl":"Neutral"}
+,{"time":"10:10","usr":"JamarParris","txt":"@GoogleMaps is throwing more shade Apple\u0027s way. New \u0027More Than A Map\u0027 site showcases power of it\u0027s maps. $GOOG $AAPL http://t.co/OiZXYlaV","lbl":"Positive"}
+,{"time":"10:11","usr":"BPGAG","txt":"$aapl $goog quick test to 750?","lbl":"Neutral"}
+,{"time":"10:12","usr":"ThSi_","txt":"$MSFT 29.8x +0.0% | $AIG 35.5x +0.7% | $FB 20.5x -1.4% | $GOOG 755.4x -1.3% | $AAPL 641.xx -1.6% (was -2%) #ThSi_ http://t.co/iS4u2pK0","lbl":"Neutral"}
+,{"time":"10:42","usr":"ChartLearning","txt":"I want to short $GOOG on a tiny bounce. Refrain from here since I want the best entry possible","lbl":"Negative"}
+,{"time":"10:43","usr":"aznboi27","txt":"RT @traderstewie: Starting to look like $GOOG is topping out now. Wouldn\u0027t be surprised to see it continue lower next few days","lbl":"Negative"}
+,{"time":"10:43","usr":"NorthmanTrader","txt":"@smartertrader @HenryPetzold I\u0027ll go long $AAPL at $627 for a trade 21 weekly EMA. With $GOOG now also down hard, tech is correcting.","lbl":"Negative"}
+,{"time":"10:44","usr":"z8angela","txt":"@MarkAlanT @SJosephBurns Nice short in $GOOG as it broke my rising pennant; but buy $AAPL ..","lbl":"Negative"}
+,{"time":"11:04","usr":"CNNMoney","txt":"When blockbuster franchises collide: \u0022Angry Birds Star Wars\u0022 http://t.co/Kott6T77 $AAPL, $GOOG, $AMZN, $MSFT","lbl":"Neutral"}
+,{"time":"11:04","usr":"wallstCS","txt":"Dislike: Facebook Gets Downgraded http://t.co/McIU9Tmd $FB $ZNGA $GOOG $YHOO #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"11:04","usr":"drmolynn","txt":"RT @CNNMoney When blockbuster franchises collide: \u0022Angry Birds Star Wars\u0022 http://t.co/Q6Ohs8wC $AAPL, $GOOG, $AMZN, $MSFT","lbl":"Neutral"}
+,{"time":"11:05","usr":"Crap_Trader","txt":"@TraderDR Agree on $GOOG. Earnings next week is stopping me from opening anything.","lbl":"Neutral"}
+,{"time":"11:32","usr":"StockTwits","txt":"Tiny Tech Suing Google Up 80% in Past Week http://t.co/HeZhOrEk via @lamonicabuzz $VRNG $GOOG","lbl":"Neutral"}
+,{"time":"11:35","usr":"sandeepbhavsar","txt":"got some $goog calls based on hrly, looking for a bounce.","lbl":"Positive"}
+,{"time":"11:35","usr":"shibley","txt":"What Is Vringo Worth? http://t.co/MbST1r79 $AAPL $GOOG $MSFT $NOK $TGT $VRNG","lbl":"Neutral"}
+,{"time":"11:35","usr":"1nvestor","txt":"$GOOG continues to hover here at 166. Candle for today is a traditional Doji, the Rickshaw.","lbl":"Neutral"}
+,{"time":"12:10","usr":"wallstCS","txt":"Why Are These Tech Foes Teaming Up? http://t.co/3xyWWofs $AAPL $GOOG $FB $MSFT $HPQ #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"12:11","usr":"dschorrnyc","txt":"RT @LaMonicaBuzz: Best of StockTwits: @lukekramer @traderrl23 @a_f @dschorrnyc @atlantatweeps http://t.co/jybVaf1C $VRNG $GOOG $AOL $IAC ...","lbl":"Neutral"}
+,{"time":"12:11","usr":"stockguy22","txt":"I see that $aapl $goog very weak today - but $vvus got some nice continuation over $19.50 , nice when gets over $20/$21again","lbl":"Negative"}
+,{"time":"12:12","usr":"SovereignNews","txt":"RT @wallstCS: Why Are These Tech Foes Teaming Up? http://t.co/3xyWWofs $AAPL $GOOG $FB $MSFT $HPQ #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"12:42","usr":"SAI","txt":"Google TV (Sort Of) Catches Up To Apple TV With Its New Update $GOOG by @stevekovach http://t.co/rugBjoa9","lbl":"Positive"}
+,{"time":"12:43","usr":"ChartLearning","txt":"Could be wrong here but based on charts $AAPL $GOOG have a bit more upside before the close","lbl":"Positive"}
+,{"time":"12:43","usr":"choffman1978","txt":"$AEZS rallying on huge Oncology pipeline!#cnbc,#msnbc,#nyse,#wsj,$p,$aapl,$amzn,$goog,$gs,$bac,$c,$f,$gm,$soda,$v,$cbou","lbl":"Neutral"}
+,{"time":"12:44","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 10.8.2012 http://t.co/pLR477r7","lbl":"Neutral"}
+,{"time":"13:41","usr":"BPGAG","txt":"$goog short it mo mo not today - be quick though","lbl":"Negative"}
+,{"time":"13:42","usr":"barronstechblog","txt":"VRNG Soars 21% Approaching Google Talks; Maxim Ups target to $10 - Tech Trader Daily - $VRNG $GOOG $MSFT $0763HKhttp://on.barrons.com/UNLkyA","lbl":"Neutral"}
+,{"time":"14:33","usr":"SaugasFinest","txt":"RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"14:36","usr":"BPGAG","txt":"$aapl $nav $goog $aig AIG squeeze into the close? - get it above 40","lbl":"Neutral"}
+,{"time":"15:20","usr":"JRNavarro75","txt":"$GOOG RT @CNET: You can now make Google Play purchases on your Google TV http://t.co/8EH5hO3T","lbl":"Positive"}
+,{"time":"15:22","usr":"rechtsteiner","txt":"$GOOG can\u0027t update & standardize the Android app experience fast enough. http://t.co/UcafP1lK via @Wired","lbl":"Neutral"}
+,{"time":"15:22","usr":"Stocks_Plus","txt":"$AAPL, $GOOG, $MSFT, $AMZN BUY Apple. SHORT Kass. http://t.co/SxIlVGos via @Stocks_Plus","lbl":"Positive"}
+,{"time":"15:23","usr":"chessNwine","txt":"NEW POST: \u0022Stock #Market Recap 10/08/12 {Video} http://t.co/lVXiA2gb $AAPL $EBAY $GOOG $QQQ $SMH $SPY $XLB $XLE $XLF #stockaction","lbl":"Neutral"}
+,{"time":"16:37","usr":"cnbcfastmoney","txt":"Google Better Than Apple for This Reason: Verrone http://t.co/wjgjNwa7 $AAPL $GOOG $XLV #StockMarket #StockPicks","lbl":"Positive"}
+,{"time":"16:37","usr":"RealCrystalBall","txt":"Google Better Than Apple for This Reason: Verrone http://t.co/Ii5Du9Qc $AAPL $GOOG $XLV #StockMarket #StockPicks #Apple #Stocks","lbl":"Positive"}
+,{"time":"16:38","usr":"Mark4124NH","txt":"RT @cnbcfastmoney: Google Better Than Apple for This Reason: Verrone http://t.co/wjgjNwa7 $AAPL $GOOG $XLV #StockMarket #StockPicks","lbl":"Positive"}
+,{"time":"18:18","usr":"BrianDeDonato","txt":"Contemplating a pair trade; L $AAPL & SS $GOOG for a 3-4 week trade. Perhaps purchase vs sell call spreads in each in the Nov Expiration.","lbl":"Neutral"}
+,{"time":"18:23","usr":"milguy23","txt":"I can imagine a chain of tech learning centers on every street corner. Better than bank outlets. Learn $GOOG $MSFT http://t.co/tTx9Gl6x","lbl":"Neutral"}
+,{"time":"20:38","usr":"br1ckz","txt":"Any are good w me \u201C@StockTwits:Who Will Be the First Trillion Dollar Company? http://t.co/ucMr4u4M via @howardlindzon $GOOG $AAPL $FB $AMZN\u201D","lbl":"Positive"}
+,{"time":"20:43","usr":"wjboynton","txt":"Apple\u0027s Next Big Thing: The Upcoming Earnings Report http://t.co/Zo3wn2kI $AMZN $GOOG $MSFT $AAPL","lbl":"Neutral"}
+,{"time":"20:49","usr":"dsalchow","txt":"RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"20:50","usr":"TheStreet","txt":"Small Biz Owners Still Battling to Go Local $YHOO $LOCM $MSFT $GRPN $GOOG http://t.co/ijy8qBDm video w/ @5GsOnTheStreet","lbl":"Neutral"}
+,{"time":"23:44","usr":"isabelletaylor8","txt":"$GOOG Launching AdWords Credit Card To Boost Search Ad Spend: \u0022You can assume that we are losing money\u0022 http://t.co/r73md3lV via @techcrunch","lbl":"Neutral"}
+,{"time":"23:55","usr":"a_bh_a","txt":"YouTube is the most popular website for listening to music online, with 33.5 billion plays in the last 12 months. $GOOG","lbl":"Neutral"}
+,{"time":"23:57","usr":"cmedrano72","txt":"RT @MNYCx: Futures green + up. Looks like $SPY $GOOG $AAPL & Co will bounce tomorrow.","lbl":"Positive"}
+]

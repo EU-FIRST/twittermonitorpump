@@ -1,0 +1,8 @@
+[
+{"time":"5:13","usr":"dhakkan_d","txt":"$AMZN, Goldman Sachs Very Important Short Positions For Hedge Funds: Q1 2012 - http://t.co/3FVrgd7D","lbl":"Negative"}
+,{"time":"5:28","usr":"BigTicks","txt":"$AMZN News: J&J, Amazon on list that hedge funds love to hate http://t.co/wjFmDORm #Amazon #AMZN #Funds","lbl":"Negative"}
+,{"time":"11:33","usr":"elie_h","txt":"RT @atul: Geekwire: Amazon in talks to buy mobile ad network Jumptap - http://t.co/UR82HadJ $AMZN","lbl":"Neutral"}
+,{"time":"11:45","usr":"adnys","txt":"Amazon wants to buy mobile ad network Jumptap http://t.co/vTMeUED5 ~ $AMZN eCommerce revenue is 10x $AAPL.","lbl":"Neutral"}
+,{"time":"15:04","usr":"himynamesdave","txt":"Some great commentary on popular tech stocks $AAPL $AMZN $FB http://t.co/qo445grs","lbl":"Neutral"}
+,{"time":"15:11","usr":"Qwovadis","txt":"Commented on: \u0022Understanding Risk In Internet Companies\u0022 http://t.co/4lzq1FwH $AMZN $EBAY $FB $LNKD $YHOO $ZNGA $GOOG","lbl":"Neutral"}
+]

@@ -1,0 +1,22 @@
+[
+{"time":"7:20","usr":"wdyang","txt":"RT @SAI: Google\u0027s Latest Smartphone Is Already Having Issues $GOOG by @officialKLS http://t.co/oKkR5JLh","lbl":"Negative"}
+,{"time":"7:22","usr":"wdyang","txt":"RT @TheStreet: Nokia\u0027s HERE Maps App: Review - http://t.co/DwvFyIx4 by @GaryKrakow $AAPL $GOOG $NOK","lbl":"Neutral"}
+,{"time":"7:49","usr":"wdyang","txt":"RT @howardlindzon: The new Twitter for iPhone upgrades are superb...superb...more convinced than ever in coming Social BOOM... $sweb $qqq $aapl $goog $fb $twit","lbl":"Neutral"}
+,{"time":"9:23","usr":"XeekWild","txt":"RT @businessinsider: Facebook Has Posters In Its Hallways Begging Employees To Ditch iPhones For Androids $FB $GOOG $AAPL by @jyarow http://t.co/LhUAX1qb","lbl":"Neutral"}
+,{"time":"9:24","usr":"CamacConsulting","txt":"Facebook Has Posters In Its Hallways Begging Employees To Ditch iPhones For Androids $FB $GOOG $AAPL $ANAD http://t.co/TZJluCDn","lbl":"Neutral"}
+,{"time":"9:25","usr":"stevis78","txt":"RT @businessinsider: Facebook Has Posters In Its Hallways Begging Employees To Ditch iPhones For Androids $FB $GOOG $AAPL by @jyarow http://t.co/LhUAX1qb","lbl":"Neutral"}
+,{"time":"10:30","usr":"Dec1968","txt":"RT @SAI: I Spent A Week In Google\u0027s Mailroom $GOOG by @_dtl http://t.co/pvppCd1c","lbl":"Neutral"}
+,{"time":"10:31","usr":"adlymn","txt":"RT @SAI: The iPad Had 88% Of All Online Tablet Shopping Traffic On Black Friday $AAPL $GOOG by @jyarow http://t.co/5nwU30Oj","lbl":"Positive"}
+,{"time":"10:31","usr":"caitcmcd","txt":"RT @SAI: The iPad Had 88% Of All Online Tablet Shopping Traffic On Black Friday $AAPL $GOOG by @jyarow http://t.co/5nwU30Oj","lbl":"Neutral"}
+,{"time":"10:56","usr":"DanielMcCarter","txt":"The iPad Had 88% Of All Online Tablet Shopping Traffic On Black Friday $AAPL $GOOG by @jyarow http://t.co/3hWzroao","lbl":"Neutral"}
+,{"time":"10:56","usr":"PMgeezer","txt":"RT @businessinsider: The iPad Had 88% Of All Online Tablet Shopping Traffic On Black Friday $AAPL $GOOG by @jyarow http://t.co/eKgISRqh","lbl":"Positive"}
+,{"time":"11:50","usr":"asaenz_87","txt":"RT @SAI: The Best New Smartphones Of 2012 $GOOG $AAPL by @stevekovach http://t.co/4UOOdFav","lbl":"Neutral"}
+,{"time":"11:54","usr":"angelreality","txt":"Facebook Has Posters In Its Hallways Begging Employees To Ditch iPhones For Androids $FB $GOOG $AAPL by @jyarow http://t.co/N4L98nHH","lbl":"Neutral"}
+,{"time":"13:07","usr":"allisonstamm","txt":"RT @SAI: The iPad Had 88% Of All Online Tablet Shopping Traffic On Black Friday $AAPL $GOOG by @jyarow http://t.co/5nwU30Oj","lbl":"Positive"}
+,{"time":"14:35","usr":"sumitachugh","txt":"\u0022The Best New Smartphones Of 2012 $GOOG $AAPL http://t.co/oDe1n8o8\u0022","lbl":"Neutral"}
+,{"time":"14:35","usr":"jhochwald","txt":"RT @SAI: I Spent A Week In Google\u0027s Mailroom $GOOG by @_dtl http://t.co/pvppCd1c","lbl":"Neutral"}
+,{"time":"14:41","usr":"Mella_TA","txt":"RT @Fitzstock2004: $goog weekly(see notes) http://t.co/FMVpQa3L","lbl":"Neutral"}
+,{"time":"18:52","usr":"SunriseTrader","txt":"RT @Couzin_Vinny: Cyber Monday - $COMPQ $SPX $TSX $SPY $GOOG $AAPL $AMZN $IBM - video uploaded -> http://t.co/6u8NxlUQ http://t.co/xI2QFf2n","lbl":"Neutral"}
+,{"time":"18:56","usr":"rrshasss","txt":"Open Interest $GOOG http://t.co/kMSyr4sy","lbl":"Neutral"}
+,{"time":"21:28","usr":"61point8","txt":"$GOOG should make a run for [$695 - $700].","lbl":"Positive"}
+]

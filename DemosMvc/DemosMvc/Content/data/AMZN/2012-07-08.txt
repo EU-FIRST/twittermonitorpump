@@ -1,0 +1,7 @@
+[
+{"time":"7:45","usr":"TrendRida","txt":"Poll: Who Will Dominate the 7\u2033 Tablet Market This Christmas? http://t.co/jRYpGj6D $aapl $goog $amzn","lbl":"Neutral"}
+,{"time":"16:14","usr":"Crap_Trader","txt":"Update to the $50k Risked Capital Naked Put Paper Trade: http://t.co/Fuw14oUR $BIDU $AMZN $CRM $LNKD $CMG","lbl":"Neutral"}
+,{"time":"16:16","usr":"businessinsider","txt":"Report: New Kindle Fire Tablet With A Better Screen Launching Soon $AMZN by @stevekovach http://t.co/IwFz9nGo","lbl":"Neutral"}
+,{"time":"16:16","usr":"SAI_Tools","txt":"Report: New Kindle Fire Tablet With A Better Screen Launching Soon $AMZN by @stevekovach http://t.co/65pCgORF","lbl":"Neutral"}
+,{"time":"19:06","usr":"64turok","txt":"Still Bullish(charts&analysis) http://t.co/f0lGd1ST $rut $vix $spy $dia $qqq $aapl $amzn $gld $nymo $nya $spx $bnny $thld $wfc $wlp $arun","lbl":"Positive"}
+]

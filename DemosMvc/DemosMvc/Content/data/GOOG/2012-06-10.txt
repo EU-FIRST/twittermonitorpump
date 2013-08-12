@@ -1,0 +1,9 @@
+[
+{"time":"12:25","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Baidu Unveils ROM for its Own Android Smartphones in China http://t.co/HLEH3FLY #BIDU #Android #Baidu","lbl":"Neutral"}
+,{"time":"17:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 17:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+,{"time":"17:36","usr":"USwwwStocks","txt":"$GOOG News: EU Almunia: Expects Google Answers on Antitrust Probe by Early July http://t.co/sJ5UekWn #GOOG #Almunia #Answers","lbl":"Neutral"}
+,{"time":"21:45","usr":"johnctrader","txt":"Only 25 spots left for free Options ALERTS! $VIX, $SPY, $GOOG, $XOM, $DIS RE-TWEET TO GET IN http://t.co/NkZw059H","lbl":"Neutral"}
+,{"time":"21:45","usr":"johnctrader2","txt":"Only 25 spots left for free Options ALERTS! $VIX, $SPY, $GOOG, $XOM, $DIS RE-TWEET TO GET IN http://t.co/vVcQwPcJ","lbl":"Neutral"}
+,{"time":"21:57","usr":"atul","txt":"NYTimes: Apple Keeps Loyalty of Mobile App Developers - http://t.co/YRoyOubj $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"21:58","usr":"pdickp","txt":"#Google $GOOG Commercial: \u0022Google+: New Dad\u0022: http://t.co/W1LspYbQ","lbl":"Neutral"}
+]

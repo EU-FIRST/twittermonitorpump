@@ -1,0 +1,40 @@
+[
+{"time":"0:10","usr":"SeekingAlpha","txt":"Apple, Microsoft And Google: All Substantially Undervalued \u0027Strong Buys\u0027 http://t.co/PWmvcCfp $GOOG $MSFT $AAPL","lbl":"Positive"}
+,{"time":"0:12","usr":"guttrader","txt":"$GOOG, let us see if it can hold $574 levels and don\u0027t buy before that price. If u want to see us in action $GOOG http://t.co/8maEp8tP","lbl":"Neutral"}
+,{"time":"7:02","usr":"mdbrenner","txt":"Google mobile apps: Banned in China? $GOOG http://t.co/pUXmKQPV","lbl":"Negative"}
+,{"time":"7:08","usr":"SirKartikPatel","txt":"Warren Buffet not planning on buying $FB, $AAPL or $GOOG. Dude you are loosing out. #ComeOn","lbl":"Negative"}
+,{"time":"8:50","usr":"BlueFielder","txt":"$GooG ...","lbl":"Neutral"}
+,{"time":"8:54","usr":"AlephBlog","txt":"Buffett understands tech. But he searches for revenue streams that can\u0027t easily be obsoleted. $AAPL & $GOOG could be \u2026 http://t.co/VyOnKUTy","lbl":"Neutral"}
+,{"time":"8:54","usr":"USwwwStocks","txt":"$GOOG News: Google Inc (NASDAQ:GOOG) Violates Apple Inc\u0027s (NASDAQ:AAPL) Safari I http://t.co/PUwxZ3Ip #daytrading #usa #www #stocks","lbl":"Negative"}
+,{"time":"8:55","usr":"StkConfidential","txt":"Some leaders up early $AAPL, $PCLN, $GOOG, $DG, $NEU etc.but it remains to be seen if they can stay up given mkt conditions. $$","lbl":"Positive"}
+,{"time":"10:22","usr":"kunur","txt":"Per U.S. user, Facebook made $13.07 last year. Google made $95.96. http://t.co/KeetcqtG $FB $GOOG","lbl":"Neutral"}
+,{"time":"10:22","usr":"hunterbradford","txt":"RT @kunur: Per U.S. user, Facebook made $13.07 last year. Google made $95.96. http://t.co/KeetcqtG $FB $GOOG","lbl":"Neutral"}
+,{"time":"10:22","usr":"joverdorff","txt":"If $GOOG is serious about G+, why haven\u0027t they focused more on a mobile experience? If FB is vulnerable, it\u0027s in that area, even w Instagram","lbl":"Neutral"}
+,{"time":"11:19","usr":"Scobleizer","txt":"RT @MParekh: Whole new ball game: \u0022Google+ Hangouts On Air: broadcast your conversation to the world\u0022 http://t.co/FMlt2oc3 #Broadcast #Media $GOOG $$","lbl":"Neutral"}
+,{"time":"11:19","usr":"iHeartNFLX","txt":"iTV mobile offers w/ orig contnt $NFLX $AMZN $GOOG r danger 4 TV due 2 more efficient consumption 4 consumers, price @ low portion of income","lbl":"Neutral"}
+,{"time":"11:21","usr":"JamesEggers","txt":"RT @MParekh: Whole new ball game: \u0022Google+ Hangouts On Air: broadcast your conversation to the world\u0022 http://t.co/FMlt2oc3 #Broadcast #Media $GOOG $$","lbl":"Neutral"}
+,{"time":"11:22","usr":"ABENAAM","txt":"RT @StockTwits: Growth Prospects Dimming in Equities http://t.co/eYYxAuWN via @alphavn $GOOG $AAPL $SPY","lbl":"Neutral"}
+,{"time":"12:33","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Nokia\u0027s Losses May Necessitate a Microsoft Bailout: Nokia\u0027s Losses May Necessitate a Microsoft Bailout Da... http://t.co/kdspg5zA","lbl":"Neutral"}
+,{"time":"12:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/77, $SPY/50, $TPX/27, $YHOO/22, $MSFT/18, $BAC/15, $GOOG/12, $DNDN/12. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"12:38","usr":"patroneux","txt":"$GOOG resolute. making new hod.","lbl":"Neutral"}
+,{"time":"13:23","usr":"aztecs99","txt":"$goog --- nice outside day working here...bullish but needs confirm tomorrow","lbl":"Positive"}
+,{"time":"13:26","usr":"DarvasTrader","txt":"Nice day for $GOOG, but tough to get excited about a stock still stuck below the 50-day line.","lbl":"Negative"}
+,{"time":"13:26","usr":"katetrades","txt":"Looks like $AAPL getting a lift off $GOOG news. $ORCL dispute relates to patent infringement regarding Android.","lbl":"Neutral"}
+,{"time":"13:29","usr":"MattRosoff","txt":"GOOGLE FOUND PARTLY GUILTY $GOOG $ORCL http://t.co/NmQJXBOh","lbl":"Negative"}
+,{"time":"13:54","usr":"FOSSpatents","txt":"RT @ibc_fn: The Jury Sides With Oracle, $ORCL; $GOOG Infringed Upon Java Patents - http://t.co/rM50xzkj","lbl":"Negative"}
+,{"time":"13:55","usr":"AKPalit","txt":"Early media reports suggesting that jury in #Google #Oracle trial is saying that Google infringed on #Java patents. $GOOG $ORCL","lbl":"Negative"}
+,{"time":"13:55","usr":"bored2tears","txt":"More on partial verdict in Google-Oracle case: http://t.co/d0vJ6nCV $GOOG +2.10% at 609.48, $ORCL -1.37% at 28.02 #stocks #tech","lbl":"Neutral"}
+,{"time":"13:56","usr":"Gretyl","txt":"RT @ibc_fn: The Jury Sides With Oracle, $ORCL; $GOOG Infringed Upon Java Patents - http://t.co/rM50xzkj","lbl":"Negative"}
+,{"time":"14:49","usr":"Buddahfan","txt":"RT @SeekingAlpha: Behind Apple\u0027s Mobile Market Strategy http://t.co/dP9kvTJY $GOOG $MSFT $NOK $RIMM $SNE $AAPL","lbl":"Neutral"}
+,{"time":"14:50","usr":"SeekingAlpha","txt":"Microsoft Vs. Google: The Future Of Windows http://t.co/hWb1oiZW $AAPL $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"15:32","usr":"Cap_and_Trade","txt":"@LaMonicaBuzz $GOOG as Spiderman. With great power comes great responsibility not to be evil.","lbl":"Neutral"}
+,{"time":"15:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $SPY/78, $AAPL/47, $EA/38, $GOOG/37, $RAX/32, $MAKO/31, $WYNN/29, $CHK/26. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"16:32","usr":"thefinancepress","txt":"$GOOG Google Looking At Big Investment In YouTube Video Creator Machinima (GOOG): Google Looking At Big Investm... http://t.co/N0xf3EjV","lbl":"Neutral"}
+,{"time":"16:34","usr":"wallstCS","txt":"Tech Business Roundup: TV Wars Heat Up, Yahoo Degree-Gate Won\u0027t Go Away http://t.co/xsg7PJFo $GOOG $AAPL $YHOO $MSFT $WWWW #mkt","lbl":"Neutral"}
+,{"time":"16:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/42, $EA/29, $MSFT/27, $SPY/25, $GOOG/22, $PBI/17, $DNDN/16, $WYNN/14. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"16:39","usr":"MattRosoff","txt":"AT&T Blames Google For Slow Android Updates $GOOG $T http://t.co/TWa9wgWr","lbl":"Neutral"}
+,{"time":"17:54","usr":"SAI","txt":"Judge: Microsoft And Motorola Are Playing Me \u0027Like A Pawn\u0027 $MSFT $MMI $GOOG by @MattRosoff http://t.co/hh5rud9g","lbl":"Neutral"}
+,{"time":"17:56","usr":"LudmillaVeloso","txt":"RT @businessinsider: Judge: Microsoft And Motorola Are Playing Me \u0027Like A Pawn\u0027 $MSFT $MMI $GOOG by @MattRosoff http://t.co/Tzqecovq","lbl":"Neutral"}
+,{"time":"19:45","usr":"kngbn97","txt":"RT @SAI: 12 Massive Changes That Will Transform The Software Industry Within 5 Years $ORCL $GOOG $MSFT by @Julie188 http://t.co/KbBP9qTG","lbl":"Neutral"}
+,{"time":"19:50","usr":"loriexaggerates","txt":"So: is the web dead? @ericjackson argues for the decline of $GOOG, FB empires in 5 years. http://t.co/TAHKCfS2 [+]","lbl":"Negative"}
+]

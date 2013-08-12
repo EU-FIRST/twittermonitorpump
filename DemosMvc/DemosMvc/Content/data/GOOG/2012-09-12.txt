@@ -1,0 +1,44 @@
+[
+{"time":"1:22","usr":"keepitrealdude","txt":"Stopped on $GOOG short from 690 at 701 the other day. No single names at the moment..","lbl":"Positive"}
+,{"time":"1:22","usr":"StockWallStreet","txt":"@StockWallStreet Stock Updates. What to Expect for the Rest of 2012 from $AAPL $FB $GOOG $INTC $LNKD?http://t.co/Jm6OIm1D","lbl":"Neutral"}
+,{"time":"5:37","usr":"thefinancepress","txt":"$GOOG Huawei Denies Report It Plans Mobile System to Rival Android: Huawei Denies Report It Plans Mobile System... http://t.co/WH5lzCsj","lbl":"Neutral"}
+,{"time":"6:41","usr":"etamb","txt":"RT @SAI: MOSSBERG: The Kindle Fire HD Is Not As \u0027Polished, Fluid Or Versatile\u0027 As The iPad $AAPL $AMZN $GOOG by @nichcarlson http://t.co ...","lbl":"Negative"}
+,{"time":"6:41","usr":"StockTwits","txt":"Average searches per day based on talks by Zuck and Matt Cutts: $GOOG 3.3b vs $FB 1b | http://t.co/ZelNxFa5","lbl":"Neutral"}
+,{"time":"6:42","usr":"davidjhinson","txt":"RT @SAI: MOSSBERG: The Kindle Fire HD Is Not As \u0027Polished, Fluid Or Versatile\u0027 As The iPad $AAPL $AMZN $GOOG by @nichcarlson http://t.co ...","lbl":"Neutral"}
+,{"time":"7:24","usr":"rrshasss","txt":"$AAPL - watch out for talk about new mapping ==> $GOOG","lbl":"Neutral"}
+,{"time":"7:26","usr":"TraderJones2011","txt":"$GOOG raised to $850 at Bernstein?","lbl":"Neutral"}
+,{"time":"8:30","usr":"cfrazierjr","txt":"@soolebop was long $GOOG at the same time and got handed down on them too.","lbl":"Negative"}
+,{"time":"8:31","usr":"firstadopter","txt":"$GOOG should trade down today. $AAPL is basically kicking them out of iOS and $FB said last night they are going after their core search biz","lbl":"Negative"}
+,{"time":"8:59","usr":"DeidreZune","txt":"$GOOG down directly because $FB said they r seriously thinking of entering search. $FB social+$BING= formidable competitor?","lbl":"Negative"}
+,{"time":"9:00","usr":"BloombergTV","txt":"What are you watching? Here are BTV\u0027s top ten stocks of the day: http://t.co/8KSDi7qv $TXN $MCO #Euro $ZNGA $GE $V $GOOG $CHK $FB $AAPL","lbl":"Neutral"}
+,{"time":"9:01","usr":"ravee_mehta","txt":"Article http://t.co/7fY36xLe on real threats to $aapl #iphone and #ipad from $goog, $msft and others. How AAPL could be like $rimm someday.","lbl":"Neutral"}
+,{"time":"9:41","usr":"takingstock614","txt":"Watching $GOOG 680","lbl":"Neutral"}
+,{"time":"9:42","usr":"SeemaCnbc","txt":"Will Facebook be able to steal market share from $GOOG? Zuckerberg did say $FB will get into the search biz...tweet @cnbcfastmoney ur ideas","lbl":"Negative"}
+,{"time":"9:43","usr":"Mr_Eric_WSCS","txt":"Mark #Zuckerberg\u0027s complete interview in one picture... http://t.co/todf1fmx #Facebook $FB $AAPL $GOOG $ZNGA","lbl":"Neutral"}
+,{"time":"10:20","usr":"wallstCS","txt":"Facebook Target REDUCED and 4 Must-See Stock Analyses http://t.co/CcgHJvNo $FB $BIIB $GOOG $AAPL $SNSS #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:25","usr":"b1llmoo","txt":"@Sell_Theta @Mark_Lexus those Oct options are gonna hold that premium strong $GOOG","lbl":"Neutral"}
+,{"time":"10:53","usr":"DrunkStepmother","txt":"Listen up #Fuckies until real news on the $GOOG $VRNG case don\u0027t expect anything other than algorithmic moves on Vringo #GoDoSomethingFun","lbl":"Neutral"}
+,{"time":"10:54","usr":"takingstock614","txt":"Those that played $GOOG off 680 level, looks good here. I\u0027d take some profits.","lbl":"Negative"}
+,{"time":"11:35","usr":"soolebop","txt":"@cfrazierjr 683.17 looks like technically strong in $goog.. it looks like it will revisit it.. today\u0027s low plus 15 cent looks like a stop","lbl":"Negative"}
+,{"time":"12:19","usr":"ACInvestorBlog","txt":"Must read : Will Google Gunning with the Right Patents vs. Apple, Microsoft ? http://t.co/Mps7vAAS $IDCC $AAPL $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"12:20","usr":"SeekingAlpha","txt":"Vringo Warrants Offer An Amazing Asymmetrical Trade http://t.co/CxM4V102 $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"12:20","usr":"MarketCurrents","txt":"Google (GOOG) has launched Boutique, a local shopping app meant only for China. With Google an also-r... http://t.co/TIpJ6w8d $GOOG","lbl":"Neutral"}
+,{"time":"12:52","usr":"ForbesTech","txt":"$GOOG\u0027s carbon emissions per $1m in revenue has fallen 10% every year since 2009 reports @greenwombat http://t.co/0eITOJfZ","lbl":"Negative"}
+,{"time":"12:52","usr":"RedDogT3Live","txt":"\u201C@tlmontana: $GOOG New Highs\u201D Trade em and trail em","lbl":"Positive"}
+,{"time":"13:50","usr":"reelimages","txt":"RT @todd_harrison: Critic: With iPhone 5 Launch, Tim Cook Blows Major PR Opportunity $AAPL $GOOG $SSNLF http://t.co/p3dRUZ67 via @minyan ...","lbl":"Neutral"}
+,{"time":"13:51","usr":"jeffgent99","txt":"@jimcramer Jim, whats your take on $QIHU, after announcing it\u0027s going to have $goog sales people? Couldn\u0027t it be too big to miss?","lbl":"Neutral"}
+,{"time":"13:53","usr":"MycroftP","txt":"Commented on: \u0022Google - New Reasons To Buy This Hot Stock Now\u0022 http://t.co/jIQ0Yvto $GOOG $AAPL $AMZN $BIDU $MSFT","lbl":"Positive"}
+,{"time":"14:48","usr":"bored2tears","txt":"Google Fiber tv service signs up ESPN, other Disney networks. http://t.co/5aBtI1mX $DIS $GOOG #media #stocks","lbl":"Neutral"}
+,{"time":"16:04","usr":"thefinancepress","txt":"$GOOG Google blocks YouTube clip in Egypt and Libya; keeps it online: Google blocks YouTube clip in Egypt and L... http://t.co/AcK4u3Q1","lbl":"Neutral"}
+,{"time":"16:11","usr":"WhizCheck6","txt":"$$ While Middle East Boils Over, Market Eyes the Fed Top Gun Options | SITREP 9-12-12 | http://t.co/Hyb2CiO4 $aapl $goog $vix $spx $spy $gld","lbl":"Neutral"}
+,{"time":"17:16","usr":"mikerochac","txt":"Say i have a smartphone already the question is: \u0022What do I buy? A $300 $AAPL iPod or a $200 $GOOG Nexus 7? Odds are not on Apples side 4 me","lbl":"Positive"}
+,{"time":"17:18","usr":"mosesli12","txt":"do the math :) $AAPL $JBL $GOOG $EBAY $DTLK $PANL http://t.co/nJdzguvf","lbl":"Neutral"}
+,{"time":"17:18","usr":"iamwallstreet","txt":"RT @StockWallStreet: @StockWallStreet\u0027s Stock Talk & Advice. What to Expect from these Top Tech Stocks $AAPL $FB $GOOG $INTC $LNKD? ...","lbl":"Neutral"}
+,{"time":"18:53","usr":"KevinNewcombe78","txt":"Amazon Is Hitting Google Where It Hurts $GOOG $AMZN http://t.co/xvtqtsRJ via @minyanville","lbl":"Negative"}
+,{"time":"18:53","usr":"DeonXXIV","txt":"And everyone please chill with the iPhone sucks texts. I didn\u0027t even get to analyze the phone yet - But I did see $GOOG shares drop 19 pts.","lbl":"Negative"}
+,{"time":"18:57","usr":"zentwo2","txt":"RT @DrunkStepmother: in case this $GOOG settlement with $VRNG story evaporates here is a screenshot http://t.co/u0gfzf8Y","lbl":"Neutral"}
+,{"time":"21:37","usr":"BUDDIEE18","txt":"RT @berkmh: Thurs on watch: $MCP $CMG $SODA $FB $NFLX $LNKD $PCLN longs $AAPL $GOOG short","lbl":"Negative"}
+,{"time":"21:37","usr":"BUDDIEE18","txt":"@berkmh WHY are u shorting $AAPL & $GOOG ?? tia","lbl":"Negative"}
+,{"time":"21:40","usr":"victoriawoeste","txt":"Critic: With iPhone 5 Launch, Tim Cook Blows Major PR Opportunity $AAPL $GOOG $SSNLF http://t.co/Kbp9j8dv","lbl":"Neutral"}
+,{"time":"21:41","usr":"hitjo","txt":"$NOK $MSFT $AAPL $GOOG Nokia Lumia\u0027s Hail Mary Pass Fails http://t.co/LyZPLktE","lbl":"Neutral"}
+]

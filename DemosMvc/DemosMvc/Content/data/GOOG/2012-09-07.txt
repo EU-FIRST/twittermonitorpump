@@ -1,0 +1,62 @@
+[
+{"time":"1:48","usr":"USwwwStocks","txt":"$GOOG News: Google\u0027s Arora: CEO Page Is \u0027Fine\u0027 and \u0027Very Involved\u0027 http://t.co/LnlrOltk #GOOG #amp39Fineamp39 #amp39Very","lbl":"Neutral"}
+,{"time":"4:50","usr":"SeekingAlpha","txt":"Nokia Is Finnished: Windows 8 Is No Savior http://t.co/6tD8UUMA $GOOG $MSFT $RIMM $AAPL $NOK","lbl":"Neutral"}
+,{"time":"5:06","usr":"ihubRainmaker","txt":"New article out today tearing apart the modernist piece.....On September 6, 2012, the Modernist publ $VRNG $GOOG $MSFT http://t.co/Cc1rVwcc","lbl":"Neutral"}
+,{"time":"6:44","usr":"halfDayTrader","txt":"@bclund--->I felt the same when it happened the 1st time. $goog doing it across different compys. We\u0027ll get used to it.","lbl":"Neutral"}
+,{"time":"8:24","usr":"Finishort","txt":"$goog should buy $p... increase traffic to google +.... give people an actual reason to use it","lbl":"Neutral"}
+,{"time":"8:44","usr":"choffman1978","txt":"$GMCR surging nearly 10% on upgrade from Lazard w/ $40pt and short squeeze! #cnbc,#msnbc,$goog,#money,#stocks,$gs,$sbux,$cbou,$soda,$gs","lbl":"Neutral"}
+,{"time":"8:44","usr":"TradetheLeader1","txt":"Long $AAPL $GOOG $KORS $CRUS $SLV","lbl":"Positive"}
+,{"time":"8:44","usr":"jglmac","txt":"$GOOG out of 700c at $4.10; in yesterday at 2.85.","lbl":"Neutral"}
+,{"time":"9:11","usr":"samshaddock","txt":"$GOOG crosses $700 threshold. http://t.co/wjzEeXDq","lbl":"Positive"}
+,{"time":"9:11","usr":"nxtmillionair40","txt":"@tom6sigma $GOOG is gone, im half in $GOOG","lbl":"Positive"}
+,{"time":"9:19","usr":"bobfasbender","txt":"RT @SeemaCnbc: Google leading the tech pack - breaks $700 mark. $Goog","lbl":"Positive"}
+,{"time":"9:30","usr":"Fitzstock2004","txt":"RT @elradman: @Fitzstock2004 Saw lots of folks buying $goog puts last night expecting a sell-off. They should have listened to the \u0022Orac ...","lbl":"Negative"}
+,{"time":"9:30","usr":"hijackiv","txt":"$LULU $GOOG not so much a boring day?? $MONEY","lbl":"Positive"}
+,{"time":"9:41","usr":"monesti","txt":"Back in $goog with Sept3 715 calls @ 7.80","lbl":"Positive"}
+,{"time":"9:50","usr":"DontTakeLosses","txt":"RT @Street_Insider: While everyone was watching $GOOG cross $700 - Apple $AAPL just made a new all-time high of $681.50. Who will win r ...","lbl":"Neutral"}
+,{"time":"9:50","usr":"jblin","txt":"RT @SAI: Watch Out Google, Microsoft: Amazon Is Ready To Take The Number Two Spot In Tablets $AAPL $GOOG $AMZN $MSFT by @jyarow http://t ...","lbl":"Negative"}
+,{"time":"10:03","usr":"StacyCarmen07","txt":"RT @CNBCnow: A share of Google is above $700 for the first time since December of 2007: http://t.co/7mzoZJur $GOOG","lbl":"Positive"}
+,{"time":"10:19","usr":"yannbrandt","txt":"Loving my Sept650 $GOOG calls","lbl":"Positive"}
+,{"time":"10:42","usr":"DavieKams","txt":"FYI Loving $AMZN business strategy and new products. Could be $AAPL $GOOG contender if they make the right choices.","lbl":"Positive"}
+,{"time":"10:44","usr":"stockguy22","txt":"so many alerts go off this a/m & had to shut them off since was busy w/options $XCO $MGM $TuMI $GMCR $GDX $DGP $GOOG $SINA $TSLA $DE $END..","lbl":"Neutral"}
+,{"time":"11:10","usr":"SeekingAlpha","txt":"Look Out Sirius XM And Pandora - Apple Might Make A Move http://t.co/K827Yfom $AAPL $GOOG $LMCA $P $SIRI","lbl":"Neutral"}
+,{"time":"11:10","usr":"nichcarlson","txt":"Rejecting Google\u0027s Money, Marissa Mayer Just Made A Risky, Billion Dollar Bet $YHOO $GOOG http://t.co/SL3n2Oee","lbl":"Neutral"}
+,{"time":"11:10","usr":"businessinsider","txt":"Rejecting Google\u0027s Money, Marissa Mayer Just Made A Risky, Billion Dollar Bet $YHOO $GOOG by @nichcarlson http://t.co/GSt5U8S8","lbl":"Neutral"}
+,{"time":"11:23","usr":"DavieKams","txt":"Notice almost no volume and no volatility in $GOOG since 11:30. Expect that to pick up prior to close today. #investor do your homework.","lbl":"Neutral"}
+,{"time":"11:23","usr":"dianaspiridon","txt":"RT @SNLKagan: Panel of execs from Google, Microsoft & TiVo on the future of connected TV: http://t.co/1QJ0alRG #IBC2012 $GOOG $MSFT ...","lbl":"Neutral"}
+,{"time":"11:31","usr":"karlilugmp","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:32","usr":"silksharpness","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:32","usr":"marybphoto","txt":"RT @CNNMoney: Google\u0027s stock tops $700 for first time since 2007: http://t.co/QYsyLxu5 $GOOG","lbl":"Positive"}
+,{"time":"11:34","usr":"mamma","txt":"RT @CNNMoney: Google\u0027s stock tops $700 for first time since 2007: http://t.co/f4wg1WVs $GOOG","lbl":"Positive"}
+,{"time":"11:34","usr":"WADO72","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:41","usr":"RagingMonarchQ","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:41","usr":"Mo_Okda","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"11:42","usr":"cgrisales","txt":"RT @WSJ Google shares top $700 for first time since December 2007. http://t.co/hvutCiJp $GOOG","lbl":"Positive"}
+,{"time":"11:52","usr":"Harshal_Wit","txt":"RT @SAI: With The Kindle Fire HD, Amazon Just Pointed A Gun At Google\u0027s Head $AMZN $GOOG by @mattlynley http://t.co/N4UnqLAR","lbl":"Negative"}
+,{"time":"12:02","usr":"x5e","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"12:03","usr":"MNYCx","txt":"OMG $GOOG hit 712\u0027s, totally forgot. I had the W705 @ .70 yesterday, they went almost 8.00. ARGH! THERE I\u0027D HAD A 1000%+","lbl":"Positive"}
+,{"time":"12:19","usr":"TraderAnger","txt":"RT @RobertTGas: @TraderAnger @Gotanger \u201C@WSJ: Google shares top $700 for first time since December 2007. http://t.co/8thKA9CG $GOOG\u201D","lbl":"Positive"}
+,{"time":"12:19","usr":"dannymac1000","txt":"RT @SAI: Rejecting Google\u0027s Money, Marissa Mayer Just Made A Risky, Billion Dollar Bet $YHOO $GOOG by @nichcarlson http://t.co/sX9s1qie","lbl":"Neutral"}
+,{"time":"12:19","usr":"newsagg","txt":"$LULU $AMZN $GOOG hitting top rail 10d60m I expect $AAPL also http://t.co/xHBSiyua","lbl":"Neutral"}
+,{"time":"12:32","usr":"kkendd","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"12:32","usr":"faisal381","txt":"A share of Google is above $700 for the first time since December of 2007 http://t.co/dUQCRcda $GOOG","lbl":"Positive"}
+,{"time":"12:51","usr":"tmutahi","txt":"RT @businessinsider: Google\u0027s Self-Driving Cars May Cost More Than A Ferrari $GOOG by @owenthomas http://t.co/rXH3CBt3","lbl":"Neutral"}
+,{"time":"12:51","usr":"bigbobofva","txt":"RT @WSJ: Google shares top $700 for first time since December 2007. http://t.co/eLNOBvdV $GOOG","lbl":"Positive"}
+,{"time":"13:07","usr":"thas5","txt":"RT @SAI: Google\u0027s Self-Driving Cars May Cost More Than A Ferrari $GOOG by @owenthomas http://t.co/4sHzKdY8","lbl":"Neutral"}
+,{"time":"13:07","usr":"EdwardFSlayton","txt":"Google tops $700, at 4-year high http://t.co/f1Txqe61 VIDEO @JackieDeAngelis @petenajarian @stephenLweiss @optionmonster $GOOG #Stocks","lbl":"Positive"}
+,{"time":"13:32","usr":"SJosephBurns","txt":"I just purchased a new weekly $GOOG in the money call option when the stock was at $707","lbl":"Positive"}
+,{"time":"13:32","usr":"andrespenaranda","txt":"\u201C@SAI: With The Kindle Fire HD, Amazon Just Pointed A Gun At Google\u0027s Head $AMZN $GOOG by @mattlynley http://t.co/oOtqQ8X4\u201D","lbl":"Negative"}
+,{"time":"13:55","usr":"rsv_bitrix","txt":"RT @SAI: BIG WIN FOR MICROSOFT: Bing Is The Default Search Engine On The Kindle Fire HD $GOOG $MSFT by @jyarow http://t.co/a6Hgd3yi","lbl":"Neutral"}
+,{"time":"13:55","usr":"_jaykang","txt":"Its only logical for $AAPL to follow $GOOG and touch $700","lbl":"Neutral"}
+,{"time":"13:56","usr":"RnBlund","txt":"RT \u0022@WSJ: Google shares top $700 for first time since December 2007. http://t.co/BuCuILgw $GOOG\u0022 called this one a couple months ago!","lbl":"Positive"}
+,{"time":"14:38","usr":"Tiefseher","txt":"RT @ReutersInsider $GOOG hits record high of $712.25 and $AAPL not far behind reaching $682.48 today. #Google-Aktie steigt auf Rekordhoch","lbl":"Positive"}
+,{"time":"14:58","usr":"StockWallStreet","txt":"What to Expect for the Rest of 2012 from these Top 5 Tech Stocks? $AAPL $FB $GOOG $INTC $LNKD http://t.co/Jm6OIm1D","lbl":"Neutral"}
+,{"time":"15:16","usr":"TerrillCharming","txt":"A Google Board Member Just Sold $35 Million In Shares $GOOG by @owenthomas http://t.co/qnc8fWpA","lbl":"Negative"}
+,{"time":"15:17","usr":"techandtrading","txt":"RT @sspencer_smb: i wonder if all those who left $GOOG to work for $FB are gonna come crawling back now?? #oops http://t.co/NnoknSPz","lbl":"Positive"}
+,{"time":"15:44","usr":"303to203","txt":"$GOOG past 700 today. 20% 2 month rally for Google. Why do non of the talking heads mention this. Everyone is over-obsessed w/ Apple.","lbl":"Positive"}
+,{"time":"16:15","usr":"hectorini16","txt":"Go To http://t.co/DfaBFUJy And Check Out Today\u0027s Google Doodle $GOOG http://t.co/zZwBEf3N\u0022 #MktUnam #mkt1355","lbl":"Neutral"}
+,{"time":"16:16","usr":"jennymoebius","txt":"RT @businessinsider: Quick: Go To http://t.co/gTMRW9Wk And Check Out Today\u0027s Google Doodle $GOOG by @Julie188 http://t.co/mbYGMosC","lbl":"Neutral"}
+,{"time":"17:35","usr":"WallStJesus","txt":"\u2605Apple (AAPL) and Google (GOOG) Pivot Points for 9.10.2012 http://t.co/dCcTwrTd $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"17:35","usr":"jhochwald","txt":"BIG WIN FOR MICROSOFT: Bing Is The Default Search Engine On The Kindle Fire HD $GOOG $MSFT by @jyarow http://t.co/y9jvOA2N","lbl":"Neutral"}
+,{"time":"18:58","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/4gGa3gQu","lbl":"Neutral"}
+]

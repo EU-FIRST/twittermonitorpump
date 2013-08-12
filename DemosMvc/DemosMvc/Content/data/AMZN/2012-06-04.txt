@@ -1,0 +1,14 @@
+[
+{"time":"7:03","usr":"dlcmh","txt":"Options open interest, IV, delta and price snapshots updated Monday, Jun 04, 2012 for $AMZN http://t.co/ZmbwPphZ","lbl":"Neutral"}
+,{"time":"9:50","usr":"SeekingAlpha","txt":"If You Own This Tech Giant, Then It May Be Time To Sell http://t.co/HwBcBtH2 $AMZN","lbl":"Negative"}
+,{"time":"11:36","usr":"dhakkan_d","txt":"$AMZN resisting hard to fill the gap down to 196.5 which is 100 DMA too!","lbl":"Negative"}
+,{"time":"12:54","usr":"trader_trend","txt":"$AMZN, http://t.co/6phi6QO5 is one of the rare few stocks that looks constructive chart wise. managed to survive quite w...","lbl":"Positive"}
+,{"time":"13:35","usr":"TraderFlorida","txt":"$AMZN cont\u0027s higher nice action today","lbl":"Positive"}
+,{"time":"13:36","usr":"CliffYoung","txt":"@AlyssaRuddick $AMZN 210 C, $AAPL 560 C Thunder on!","lbl":"Positive"}
+,{"time":"14:19","usr":"Quantum_Trader","txt":"RT @businessinsider: EXCLUSIVE: 7 Tech Bigwigs Tell Us What\u0027s Next For Cloud Computing $MSFT $AMZN by @Julie188 http://t.co/dSTUHi6a","lbl":"Neutral"}
+,{"time":"14:20","usr":"Volpinacci","txt":"Out of $AMZN at 213.9","lbl":"Negative"}
+,{"time":"15:59","usr":"cjdavola","txt":"RT @LaMonicaBuzz: When you have a Kindle, nobody can tell you\u0027re reading a cheesy paperback romance. $AMZN buying publisher Avalon Books. Very interesting.","lbl":"Positive"}
+,{"time":"16:06","usr":"pattidomm","txt":"Stocks to Watch: SBUX, GOOG, AMZN & More http://t.co/uXVc2XYI $AMZN $DG $EA $GOOG $HON $KND $MTN $SBUX #InvestmentStrategy","lbl":"Neutral"}
+,{"time":"18:04","usr":"matterhornbob","txt":"I have these great chart books from Securities Reseach Company (log scale)...looking at $AMZN\u0027s early life in the late \u002790\u0027s = amazing","lbl":"Neutral"}
+,{"time":"22:32","usr":"ntfri","txt":"Some good stock for tomorrow $SO $CMSA $COST $BMY $JNJ $WMT $T $MRK $AEP $EXC and $AMZN, $GOOG, $MSFT, $INTC and $APPL may move higher","lbl":"Positive"}
+]

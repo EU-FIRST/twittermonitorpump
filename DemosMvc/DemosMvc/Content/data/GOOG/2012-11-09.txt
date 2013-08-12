@@ -1,0 +1,35 @@
+[
+{"time":"0:30","usr":"TheStreet","txt":"Bram Stoker and the Google Doodle - http://t.co/fdmYk7AZ by @Commodity_Bull $GOOG","lbl":"Neutral"}
+,{"time":"0:40","usr":"dantanner","txt":"Why the stock market is crashing? http://t.co/pvR6Rs9V $SPX, $SPY, $AAPL, $GOOG","lbl":"Negative"}
+,{"time":"0:46","usr":"i8and8","txt":"FYI RT @investlite: Alright, here are a few charts for tomorrow: http://t.co/LId2rhr9 $SPY $GOOG $CYNO $NFLX $AAPL","lbl":"Neutral"}
+,{"time":"7:55","usr":"RDeanon","txt":"Vringo will soar soon, rumors are circulating that Mark Cuban is going to become more involved. $VRNG http://t.co/njpKhN9l $VHC $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"7:57","usr":"Tradersfly","txt":"$GOOG breaking this support","lbl":"Negative"}
+,{"time":"9:30","usr":"ChartMoMo","txt":"Bot to cover $goog calls +1.10","lbl":"Negative"}
+,{"time":"9:30","usr":"ChartMoMo","txt":"will re-short $goog 673","lbl":"Negative"}
+,{"time":"9:31","usr":"newsagg","txt":"647.67 is $GOOG 200 ema","lbl":"Neutral"}
+,{"time":"9:31","usr":"ppearlman","txt":"i\u0027d pay 5$ a month to not hav commercials on youtube $GOOG","lbl":"Neutral"}
+,{"time":"10:14","usr":"BlueFielder","txt":"$GooG Bot 655 $CALLs @ avg about 2.75 - will risk .50","lbl":"Positive"}
+,{"time":"10:15","usr":"mustped","txt":"if $GOOG breaks 657.54 today i like $661.37 as target","lbl":"Neutral"}
+,{"time":"10:16","usr":"StkConfidential","txt":"A few leaders $GOOG, $MA, $ISRG etc. bouncing a bit so far today after being brutalized the last several days. $$","lbl":"Neutral"}
+,{"time":"10:52","usr":"MockTrade","txt":"$GOOG testing 1st resistance zone 660-663 zone & if above 669/70 is next","lbl":"Positive"}
+,{"time":"10:54","usr":"LemBear","txt":"@arutkow More likely than a buyout by $GOOG","lbl":"Neutral"}
+,{"time":"10:56","usr":"EliezerFerguson","txt":"Brought $GOOG Calls $AAPL is trippin","lbl":"Positive"}
+,{"time":"10:57","usr":"Katie_Roof","txt":"$GRPN could have done well at $GOOG. They could have integrated it - helped them create more targeted deals, reach a larger user base, etc.","lbl":"Neutral"}
+,{"time":"11:50","usr":"TampaBayTrader","txt":"#Google : Story about China blocking $GOOG making the rounds; seen as a positive for $BIDU","lbl":"Negative"}
+,{"time":"11:52","usr":"BUDDIEE18","txt":"RT @HedgefundPLAY: China taking extrodinary steps to block access to ALL GOOGLE services\u201D $GOOG Error 503. Service error -27. That\u2019s all http://t.co/VyoPMIeC\u201D","lbl":"Negative"}
+,{"time":"11:52","usr":"USwwwStocks","txt":"$GOOG News: Google Inc. (GOOG) Launching Google\u0027s Play in Europe Later This Month http://t.co/QUxj36g5 #Europe #GOOG #Google","lbl":"Neutral"}
+,{"time":"12:34","usr":"TenBaggers","txt":"Google sees itself as a mobile first company going forward. http://t.co/U6RkO9I8 $GOOG","lbl":"Neutral"}
+,{"time":"12:34","usr":"MarketTwits_com","txt":"$goog 666","lbl":"Neutral"}
+,{"time":"12:34","usr":"Trefis","txt":"Google\u0027s UK Market Share Loss Is Microsoft\u0027s Gain http://t.co/WgedLZar by Trefis Team $GOOG $MSFT $YHOO","lbl":"Negative"}
+,{"time":"12:35","usr":"TradetheLeader1","txt":"Out 1/2 $aapl +1.5 long runner vs cost..now long aapl and $goog runners and $tlt in other account","lbl":"Positive"}
+,{"time":"13:48","usr":"Carina_Lermon","txt":"Android Veterans Tom Moss, Mike Chan Head To Accel As ... #Android $GOOG http://t.co/IUrqcaQk","lbl":"Neutral"}
+,{"time":"15:08","usr":"NVDA_trdr","txt":"$GOOG head and shoulders 5min http://t.co/HF0u3kYZ","lbl":"Neutral"}
+,{"time":"16:24","usr":"choffman1978","txt":"Carl Icahn rumored to buy $NFLX? $MSFT also rumored as likely buyer! Stock rallying after hours. #cnbc,#msnbc,#nyse,#wsj,$gs,$goog,$aapl","lbl":"Neutral"}
+,{"time":"16:25","usr":"royoriginal","txt":"\u0022@howardlindzon: \u0022@DeidreZune: $GOOG\u0027s Nexus 10 tablet falls short of iPad -- REVIEW http://t.co/fPUsPqMU $AAPL #WINNING\u0022\u0022","lbl":"Negative"}
+,{"time":"16:25","usr":"BenCBanks","txt":"Daily Analysis it out - http://t.co/CBVtHSsG $spy $dia $aapl $goog","lbl":"Neutral"}
+,{"time":"16:26","usr":"choffman1978","txt":"Hearing Carl Ichan is rumored to to a hositle takeover of $NFLX or $MSFT to buy the company. #cnbc,#msnbc,#nyse,#wsj,$p,$grpn,$aapl,$goog","lbl":"Neutral"}
+,{"time":"17:44","usr":"Rashod_JL","txt":"RT @CNNMoney: Google blocked in China as government leaders meet http://t.co/YSQKVTmA $GOOG","lbl":"Negative"}
+,{"time":"17:50","usr":"MarketCurrents","txt":"Judge Koh has agreed to review a Samsung (SSNLF.PK) complaint that the foreman in its... http://t.co/JRWYaHmA $SSNLF.PK $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"22:04","usr":"mengxy","txt":"RT @dhh: @mastorna I\u0027m big on $AAPL, short on $CRM, long on $GOOG, $T, $VZ, and a bunch of ETFs. Pretty boring portfolio ;)","lbl":"Positive"}
+,{"time":"22:05","usr":"Dvm001Mike","txt":"RT @MadMoneyOnCNBC: Lightning Round: Nordstrom, Harley Davidson, Facebook and More http://t.co/4BxO3RYB $BMY $CAT $CVX $CZR $FB $GOOG $HOG $JWN $MSFT $YHOO","lbl":"Neutral"}
+]

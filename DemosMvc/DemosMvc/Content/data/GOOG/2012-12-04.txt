@@ -1,0 +1,36 @@
+[
+{"time":"3:48","usr":"buddhacop","txt":"RT @TheStreet: Pope Benedict Takes to @twitter - http://t.co/xnEXlXER @GaryKrakow starring @Pontifex $FB $GOOG","lbl":"Neutral"}
+,{"time":"4:14","usr":"BernardSlede","txt":"\u0022Surface\u0022 buried?: Further signs that $MSFT is latest casualty of $AAPL-$GOOG mobile duopoly: http://t.co/PVJ9Feoq #disruption #innovation","lbl":"Neutral"}
+,{"time":"4:26","usr":"devilhdh","txt":"@jimcramer $F $WY $UA $AIG $GOOG $WFC $DEA $HD $YUM $LVS all set to go?","lbl":"Neutral"}
+,{"time":"8:50","usr":"petergo99037185","txt":"Pre-Market, $AAPL -4.xx, $GOOG flat, QQQ flat.","lbl":"Neutral"}
+,{"time":"8:52","usr":"HFTAlert","txt":"UPDATED $FB ACCUMULATOR CHARTS. http://t.co/HKUHw70C $spy $aapl $msft $goog","lbl":"Neutral"}
+,{"time":"8:54","usr":"JBling13","txt":"RT @Fitzstock2004: $amzn $ebay $pcln $goog all continue to look EXTREMELY BULLISH.........dips should get bought, with 2 fists","lbl":"Positive"}
+,{"time":"9:50","usr":"GopherTrader","txt":"Short $GOOG from the opening 10 min candle close, sorry twitter wouldn\u0027t load or it would\u0027ve been RT","lbl":"Negative"}
+,{"time":"9:50","usr":"ivanhoff","txt":"Only 17% of the world mobile subscribers use smartphones. Safe to say that number will be >80% in 5yrs $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:51","usr":"takingstock614","txt":"$AAPL $PCLN $GOOG $BIDU all getting hit hard this morning and yet $DOW +35. Go figure.","lbl":"Negative"}
+,{"time":"10:28","usr":"pennystockguys","txt":"$GOOG - Leading Daytrading Newsletter up 35.9% Year-to-Date http://t.co/EqnWKdYz","lbl":"Neutral"}
+,{"time":"10:28","usr":"ADVFNplc","txt":"$GOOG - Leading Daytrading Newsletter up 35.9% Year-to-Date http://t.co/7gTaXrBK","lbl":"Neutral"}
+,{"time":"10:28","usr":"gaha1","txt":"RT @SAI: Hopefully, Facebook Will Try To Kill Apple\u0027s iMessage Too $AAPL $FB $GOOG by @stevekovach http://t.co/yCzGmq8m","lbl":"Neutral"}
+,{"time":"11:20","usr":"shawnmcewen","txt":"RT @iGlennSmith: More on $GOOG \u0027s purchase of @Bufferbox http://t.co/6A9MKZl5 Hey @amazon, maybe you need some presence at #Communitech \u0027s Hub","lbl":"Neutral"}
+,{"time":"12:34","usr":"takingstock614","txt":"$GOOG $PCLN $AAPL gave you 2nd oppt to BTD.","lbl":"Neutral"}
+,{"time":"12:34","usr":"sdkstl","txt":"Another $GOOG-$AAPL app mess? Went to update Gmail app w/lauded revamp: \u0027the item you tried to buy is no longer available\u0027","lbl":"Negative"}
+,{"time":"13:19","usr":"brianlrichards","txt":"iPad v. Fire v. Nook v. Surface v. Nexus: \u0022A Tablet Comparison for the Holidays\u0022: http://t.co/nPFQtV1b $AAPL $GOOG $MSFT $BKS $AMZN","lbl":"Neutral"}
+,{"time":"13:19","usr":"FreeMrktCptlst","txt":"Let\u0027s not forget, $GOOG didn\u0027t wake up one day and decide to build phones\u2026they partnered with $AAPL, and then stole the idea.","lbl":"Negative"}
+,{"time":"13:19","usr":"FreeMrktCptlst","txt":"Alls fair in business? Fine. But it\u0027s not ethical, and I hope it comes back to them. $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"14:07","usr":"SAI","txt":"Here\u0027s Your First Look At Gmail\u0027s Overhauled App On iPhones And iPads $GOOG by @_dtl http://t.co/s91QPtX1","lbl":"Neutral"}
+,{"time":"14:07","usr":"BUDDIEE18","txt":"RT @HFTAlert: info on Accumulator.. http://t.co/E6Y4wP83 $fb $aapl $goog $nflx","lbl":"Neutral"}
+,{"time":"16:58","usr":"chessNwine","txt":"NEW POST: \u0022Stock #Market Recap 12/04/12 {Video}\u0022 http://t.co/lpf5WCp0 $EEM $FLS $GOOG $HD $MA $QQQ $SMH $SPY $V $XLF #stockaction","lbl":"Neutral"}
+,{"time":"16:59","usr":"GullahGeechee","txt":"RT @CNNMoney: Google\u0027s iPhone Gmail app is finally pretty good http://t.co/Wg2d0mvN $GOOG$AAPL","lbl":"Neutral"}
+,{"time":"17:01","usr":"redkompressor","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 12/04/12 {Video}\u0022 http://t.co/lpf5WCp0 $EEM $FLS $GOOG $HD $MA $QQQ $SMH $SPY $V $XLF #stockaction","lbl":"Neutral"}
+,{"time":"18:03","usr":"passfail","txt":"Should you have to pay for news? Google is trying to find a way to avoid it - read for more info! http://t.co/iBmnUTf0 $GOOG #journalism","lbl":"Neutral"}
+,{"time":"20:15","usr":"bagualivan","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"21:13","usr":"erjddcs","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"21:14","usr":"Little_Viper_","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"21:16","usr":"Giselefnr","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"22:21","usr":"leticia12m","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"22:23","usr":"LGBED","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"22:23","usr":"livtodance96","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"23:26","usr":"PictureOnly","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"23:26","usr":"PW33","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"23:26","usr":"Ramozim95","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+]

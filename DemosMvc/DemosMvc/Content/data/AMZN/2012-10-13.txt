@@ -1,0 +1,6 @@
+[
+{"time":"6:52","usr":"Fitzstock2004","txt":"$amzn had some nice trades(both long & short).....another \u0022MA\u0022 pattern=BEARISH http://t.co/bsKgboBx","lbl":"Negative"}
+,{"time":"11:40","usr":"SeekingAlpha","txt":"Amazon Earnings Preview: Q3 May Be Good, But Guidance Will Disappoint http://t.co/cIyq8QQ3 $BBY $COST $GOOG $WMT $AMZN","lbl":"Negative"}
+,{"time":"16:31","usr":"TheStreet","txt":"3 Alternative Lending Sources for Small Businesses http://t.co/FYGAzI5D by @LKulikowski $AMZN $AXP","lbl":"Neutral"}
+,{"time":"16:31","usr":"RealCrystalBall","txt":"3 Alternative Lending Sources for Small Businesses http://t.co/dVLeoYC3 by @LKulikowski $AMZN $AXP #Stocks","lbl":"Neutral"}
+]

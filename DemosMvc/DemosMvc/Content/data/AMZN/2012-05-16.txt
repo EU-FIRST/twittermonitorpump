@@ -1,0 +1,25 @@
+[
+{"time":"9:09","usr":"Stockpickr","txt":"top holdings at Blue Ridge Capital as of end of Q1: $AAPL, $PCLN, $AMZN, $MON http://t.co/7p3GSxUM","lbl":"Neutral"}
+,{"time":"9:23","usr":"vietlytangle","txt":"RT @Tangletrade: all this talk of justifying $FB valuation makes me laugh: umm $AMZN $CRM $LNKD $LULU $RHT $VMW $CMG $FIO all 50+P/e several triple digits","lbl":"Negative"}
+,{"time":"10:37","usr":"wallstCS","txt":"Here\u0027s Why Apple\u0027s iPad Needn\u0027t Watch its Back http://t.co/PnK5ApsT $AAPL $AMZN $GOOG $MSFT #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:37","usr":"chicagosean","txt":"I\u0027m so tempted to put a bearish trade on in $AMZN to get into or fill that gap from 200 to 220.","lbl":"Negative"}
+,{"time":"11:26","usr":"stockscommentar","txt":"RT @SeekingAlpha: How Much Money Does It Take To Make Money? http://t.co/tj1KVCX7 $AGQ $AMZN $GMCR $MCP $NFLX $VXX $ZS http://t.co/KoEG1HqR","lbl":"Neutral"}
+,{"time":"12:22","usr":"marketmavenz","txt":"Redwood Capital is long Argentinian debt #irasohn $$. Looked at $amzn and $aapl before though http://t.co/3lbm0151 http://t.co/3lbm0151","lbl":"Negative"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"Who Will Benefit From Cloud Gaming? http://t.co/Zlvv761J $AAPL $AKAM $AMZN $ATVI $CSCO $EA $MSFT $NVDA $QCOM $TDC $SNE","lbl":"Neutral"}
+,{"time":"13:41","usr":"maureenmfarrell","txt":"Philippe Laffont of Coatue calls Equinix $EQIX a buy makes $AMZN and $FB work via its architecture; #irasohn","lbl":"Neutral"}
+,{"time":"14:50","usr":"ldelevingne","txt":"David Einhorn of #hedgefund Greenlight at #irasohn : short $AMZN - future a \u0022riddle\u0022","lbl":"Negative"}
+,{"time":"14:50","usr":"thinkingtrades","txt":"Einhorn says $AMZN is hard to value and it takes a swoon.","lbl":"Negative"}
+,{"time":"14:50","usr":"stephengandel","txt":"Einhorn now attacking $amzn. Says is it really a better biz than other retails. Seems einhorn doesn\u0027t thing so. #irasohn","lbl":"Negative"}
+,{"time":"14:50","usr":"ARhedge","txt":"David Einhorn of #hedgefund Greenlight at #irasohn : short $AMZN - future a \u0022riddle\u0022","lbl":"Neutral"}
+,{"time":"14:54","usr":"fbonacci","txt":"@ldelevingne @ericjackson I wldnt short $AMZN","lbl":"Negative"}
+,{"time":"14:54","usr":"ADXGuy","txt":"end of day $AMZN trading volumes in 1min look a lot like tradebots having fun.","lbl":"Neutral"}
+,{"time":"14:54","usr":"maureenmfarrell","txt":"Einhorn knocks Amazon $AMZN and $AAPL Apple\u0027s revenue is recurring and defensible","lbl":"Negative"}
+,{"time":"15:19","usr":"biggercapital","txt":"Einhorn did not add to his $AAPL position in q1 2012. Just admitting a little bit of frustration with $AMZN My read","lbl":"Negative"}
+,{"time":"15:20","usr":"LDrogen","txt":"I LOVE the fact that $AMZN took 30B in revenue away from brick and mortar retail, yet has a hard time turning a profit, consumers WIN!","lbl":"Neutral"}
+,{"time":"15:22","usr":"The_Dumb_Money","txt":"RT @LDrogen: I LOVE the fact that $AMZN took 30B in revenue away from brick and mortar retail, yet has a hard time turning a profit, consumers WIN!","lbl":"Positive"}
+,{"time":"16:00","usr":"BloombergTV","txt":"David Einhorn says #Amazon\u0027s future is a \u0027riddle\u0027 after profit lags sales $AMZN","lbl":"Negative"}
+,{"time":"16:01","usr":"Commodity_Bull","txt":"Has anyone been able to explain why $amzn trades at 90 times earnings? It\u0027s not growing anywhere NEAR that rate","lbl":"Negative"}
+,{"time":"16:01","usr":"Benzinga","txt":"@firstadopter Einhorn was mixed on $AMZN. Said he couldn\u0027t figure out LT future. Said had taken lots of money from traditional retail","lbl":"Neutral"}
+,{"time":"16:40","usr":"marketmavenz","txt":"RT @TheStreet: Sell Apple, Buy Amazon http://t.co/4YQ5naij by @roccopendola $AMZN $AAPL http://t.co/3lbm0151","lbl":"Positive"}
+,{"time":"21:16","usr":"CorrelationPro","txt":"Doesn\u0027t $AMZN look kind of Scary perched up high above 220? If that horizontal support at 220 gives, lot of air below http://t.co/8pNSeTrX","lbl":"Negative"}
+]

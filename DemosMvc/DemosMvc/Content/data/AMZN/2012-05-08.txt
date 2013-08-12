@@ -1,0 +1,19 @@
+[
+{"time":"6:07","usr":"StockBouncers","txt":"mrchipper: $AMZN put in a lower high http://t.co/QhmbCCa3","lbl":"Negative"}
+,{"time":"7:40","usr":"largeheartedboy","txt":"How Books Will Survive Amazon http://t.co/eCcOvI5D #books #publishing $AMZN via @nybooks","lbl":"Neutral"}
+,{"time":"7:41","usr":"joeykennedy","txt":"RT @largeheartedboy: How Books Will Survive Amazon http://t.co/eCcOvI5D #books #publishing $AMZN via @nybooks","lbl":"Neutral"}
+,{"time":"7:44","usr":"EdwardGGordon","txt":"RT @largeheartedboy: How Books Will Survive Amazon http://t.co/eCcOvI5D #books #publishing $AMZN via @nybooks","lbl":"Neutral"}
+,{"time":"8:41","usr":"KJM_Library","txt":"RT @largeheartedboy: How Books Will Survive Amazon http://t.co/eCcOvI5D #books #publishing $AMZN via @nybooks","lbl":"Neutral"}
+,{"time":"8:44","usr":"DividendMaster","txt":"@Dasan $AMZN is shades of dot-bomb mentality of 1999 . Buying market share is all they care on ...... will end same way i suspect","lbl":"Negative"}
+,{"time":"9:43","usr":"newsagg","txt":"$AMZN - my theory for 217.71 http://t.co/jCUdr1lo","lbl":"Neutral"}
+,{"time":"9:43","usr":"kingmike423","txt":"$AMZN puts loaded yesterday are rocking! Closing half here let the other half ride","lbl":"Negative"}
+,{"time":"11:37","usr":"keith_douglas","txt":"#Amazon Leaps In2 High End of Fashion http://t.co/nlBeCknG [2 bad that once again $AMZN couldn\u0027t stream enuff video 4 viewers] @amazon","lbl":"Negative"}
+,{"time":"12:39","usr":"Trending123","txt":"@LSilverspar Actually $AMZN is the one stock I continue to like....even way up here :)","lbl":"Positive"}
+,{"time":"12:50","usr":"SeekingAlpha","txt":"Microsoft Nook No Threat For Apple iPad http://t.co/U4BNuwCn $AAPL $AMZN $BKS $GOOG $NOK $T $MSFT","lbl":"Neutral"}
+,{"time":"14:53","usr":"ITMS","txt":"Falling Dollar Saves The Day http://t.co/MROyNMLc $DE $XOM $AMZN $DIA","lbl":"Neutral"}
+,{"time":"14:55","usr":"ChartSwingTrade","txt":"$AOSL $TRIP $CAP $EXPE $MSI $FBHS $AMZN $AMRN - some names holding up well here but overall too much damage to get bullish yet. Time needed","lbl":"Negative"}
+,{"time":"14:55","usr":"RaginCajun","txt":"RT @ChartSwingTrade: $AOSL $TRIP $CAP $EXPE $MSI $FBHS $AMZN $AMRN - some names holding up well here but overall too much damage to get bullish yet. Time needed","lbl":"Neutral"}
+,{"time":"15:58","usr":"61point8","txt":"If $AMZN breaks under today\u0027s low, look forward to $215, followed by $211.","lbl":"Negative"}
+,{"time":"16:09","usr":"ChristianMRicci","txt":"@ChristianMRicci o\u0027 course, MS still gets their money but this must sting the Azure crowd. $AMZN $MSFT","lbl":"Neutral"}
+,{"time":"18:22","usr":"Dixawy01","txt":"RT @SAI: Amazon Is Trying To Steal Microsoft\u0027s Hardcore Customers Away From Microsoft\u0027s Cloud $MSFT $AMZN by @Julie188 http://t.co/kVQ1fTSg","lbl":"Neutral"}
+]

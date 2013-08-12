@@ -1,0 +1,22 @@
+[
+{"time":"0:13","usr":"ActuallyRLM","txt":"RT @MarketWatch: Apple won an injunction against Motorola in Germany over \u0022rubber band\u0022 patent http://t.co/m6IIZzX0 $AAPL $GOOG","lbl":"Negative"}
+,{"time":"11:22","usr":"Arielotx","txt":"RT @SAI: Here\u0027s How Samsung Beat HTC To Become The Biggest Android Phone Maker $GOOG by @jyarow http://t.co/XDPDXKVD","lbl":"Neutral"}
+,{"time":"11:31","usr":"LoveLifeDiOm","txt":"RT @MarketWatch: Apple won an injunction against Motorola in Germany over \u0022rubber band\u0022 patent http://t.co/m6IIZzX0 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:46","usr":"jmullin9","txt":"Bravo $goog RT @ChinaBizWatch: Google Refuses White House Request To Pull Anti-Islamic Film http://t.co/cb2ekITt ~Forbes","lbl":"Positive"}
+,{"time":"17:10","usr":"BitcoinAnalyst","txt":"$GOOG $SPX Throw over in ending diagonal!? below 700 is bear signal signal. above more upside. http://t.co/LZz8KlIk","lbl":"Negative"}
+,{"time":"17:27","usr":"Bullogic","txt":"Getting Even with Options $AAPL $GOOG http://t.co/ut6O7CYm","lbl":"Neutral"}
+,{"time":"17:40","usr":"Meggsy8","txt":"Science Fiction Investing, Part 1 http://t.co/erGkcar5 $AAPL $ATVI $GOOG $INTC $MSFT","lbl":"Neutral"}
+,{"time":"17:41","usr":"tlmontana","txt":"\u201C@Fitzstock2004: $goog Here is a GREAT CHART LESSON......u got stopped at the 10sma, re-enter > previous days high http://t.co/A6cCW2t8\u201D","lbl":"Positive"}
+,{"time":"22:40","usr":"GabrielGruber","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"22:40","usr":"shomachat","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"22:40","usr":"harleywonderpug","txt":"RT @businessinsider: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/QRXwx8q1","lbl":"Neutral"}
+,{"time":"22:40","usr":"tuckerpoo","txt":"RT @businessinsider: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/E3nz52Lh","lbl":"Neutral"}
+,{"time":"23:15","usr":"kimdian_04","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"23:16","usr":"discoverlight","txt":"RT @businessinsider: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/kzSjW6kZ","lbl":"Neutral"}
+,{"time":"23:17","usr":"bard_46","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+,{"time":"23:18","usr":"rldourado","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/7VU1YYvY","lbl":"Neutral"}
+,{"time":"23:54","usr":"thienhanbui","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/yyPUsGui","lbl":"Neutral"}
+,{"time":"23:55","usr":"boy_lumot","txt":":| RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/duqH0Qm4","lbl":"Neutral"}
+,{"time":"23:55","usr":"Muhamad_IS","txt":"RT @businessinsider: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/kzSjW6kZ","lbl":"Neutral"}
+,{"time":"23:56","usr":"Big_Shepdogg","txt":"RT @SAI: Marissa Mayer Just Gave Every Yahoo Employee An iPhone 5 $YHOO $AAPL $GOOG $RIMM by @nichcarlson http://t.co/siI5aKgZ","lbl":"Neutral"}
+]

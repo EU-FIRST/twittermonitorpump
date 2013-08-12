@@ -1,0 +1,10 @@
+[
+{"time":"7:33","usr":"crazyfasteddy","txt":"@RussianDoc patience. And never look at $AMZN PE... $AAPL","lbl":"Neutral"}
+,{"time":"11:19","usr":"EmpoweredTrader","txt":"$amzn $aapl $expe $tck report earnings this week. $lnkd reports next week.","lbl":"Neutral"}
+,{"time":"11:20","usr":"jfxmcl","txt":"RT @LukeRomyn: The Prometheus Wars books 1 and 2 will leave you gasping: http://t.co/DOxcMo5A $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"13:02","usr":"sutherlandjamie","txt":"Bodes well for $AMZN $HPQ $DELL and others RT @WSJ: From beginning of time until 2003, we generated 5 billion GB of data. Soon we\u0027ll...","lbl":"Positive"}
+,{"time":"13:04","usr":"punitkg","txt":"Commented on StockTwits: $AMZN had strength but ended up going down with $AAPL, $GOOG http://t.co/bcCzFeqo","lbl":"Negative"}
+,{"time":"18:50","usr":"StockTwits","txt":"500+ co\u0027s report earnings next week. Some to watch on the Stream: 10/22 $YHOO $CAT, 10/23 $FB, 10/24 $T $LLY, 10/25 $AAPL $AMZN, 10/26 $MCO","lbl":"Neutral"}
+,{"time":"18:51","usr":"83WALLSTREET","txt":"RT @StockTwits: 500+ co\u0027s report earnings next week. Some to watch on the Stream: 10/22 $YHOO $CAT, 10/23 $FB, 10/24 $T $LLY, 10/25 $AAPL $AMZN, 10/26 $MCO","lbl":"Neutral"}
+,{"time":"21:33","usr":"_ChrisVersace","txt":"The Week Ahead: Earnings Downpour http://t.co/jzRbDJJC $AAPL $NFLX, $FB $ANGI $BWLD $CAKE $PNRA $PPC $CAT $HAS $COH $SKX $AMZN $$","lbl":"Neutral"}
+]

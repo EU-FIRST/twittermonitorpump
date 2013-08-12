@@ -1,0 +1,7 @@
+[
+{"time":"0:04","usr":"BUDDIEE18","txt":"everyone\u0027s going to have their eyes on $AAPL this coming week ...but i wonder IF $GOOG \u0027s going to sauce the way like them red apples ? ;)","lbl":"Negative"}
+,{"time":"10:45","usr":"OgFOMK","txt":"goog - Google Search - http://t.co/tFT7cqtv $goog Google\u0027s stock drop just means that you can buy a little more. Look at the maximum chart.","lbl":"Positive"}
+,{"time":"10:52","usr":"QuantRec","txt":"$MSFT $GOOG $VRNG Google refuses to license patents again. http://t.co/ONJGgMqP","lbl":"Negative"}
+,{"time":"20:26","usr":"DaveCV100","txt":"\u201C@turleymuller: Hackers infect Android apps, steal 10 million pieces of personal info http://t.co/CWDAfpv6\u201D $aapl $goog","lbl":"Neutral"}
+,{"time":"20:38","usr":"StockMarket411","txt":"Google\u2019s Stock Market Value Passes Microsoft\u2019s $goog http://t.co/wIdgioJ9 goog, google, google stock, news","lbl":"Neutral"}
+]

@@ -1,0 +1,27 @@
+[
+{"time":"8:14","usr":"Trefis","txt":"Cutting Prices for Playbooks Isn\u0027t Solving RIMM\u0027s Tablet Problems http://t.co/iKAyDcIs $RIMM $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"8:14","usr":"Trefis","txt":"Apple\u0027s Tablet Plans for 2012: iPad 3 & Keeping Kindle at Bay http://t.co/8oKuXulO $AAPL $AMZN $RIMM","lbl":"Neutral"}
+,{"time":"8:20","usr":"$AMZN","txt":"@jimcramer $AMZN - best technology for those of us selling wares thru our sites","lbl":"Positive"}
+,{"time":"10:31","usr":"ChartMoMo","txt":"@fitzstock2004 If you took my amzn trade 10pts ago you still don\u0027t need to reward yourself. 190 tgt $AMZN http://t.co/Vi3xPCj3","lbl":"Positive"}
+,{"time":"10:31","usr":"GlobalCollapse","txt":"RT @Retail_Guru: Best Buy missed Dec sales plan & consensus both in US & overseas. Promos likely remained high as Holiday biz came late $BBY $AMZN #retail","lbl":"Neutral"}
+,{"time":"10:31","usr":"AMZN_stock","txt":"$AMZN real time quote, 10:31AM EST: 181.81 +4.20 (+2.36%).","lbl":"Neutral"}
+,{"time":"10:32","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/106, $SPY/62, $NFLX/56, $AMZN/33, $BAC/24, $BKS/23, $GOOG/23, $FXE/23. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"10:53","usr":"oktobernv","txt":"Up 23% on my $AMZN Feb $220 calls. Not selling.","lbl":"Positive"}
+,{"time":"10:53","usr":"Lowtown21","txt":"out rest of $AMZN weeklies, +700%","lbl":"Negative"}
+,{"time":"11:21","usr":"Exit_16W","txt":"$AMZN http://t.co/vG8mdH54 Super strong today, however has been rejected at this 50% retrace of the down move numerous times","lbl":"Positive"}
+,{"time":"11:21","usr":"dschorrnyc","txt":"$AMZN gettin jiggy wit it","lbl":"Positive"}
+,{"time":"11:53","usr":"BotTrading","txt":"$AMZN at highs of day","lbl":"Positive"}
+,{"time":"11:53","usr":"gtotoy","txt":"$AMZN Shoot the moon!","lbl":"Positive"}
+,{"time":"11:53","usr":"aztecs99","txt":"RT @gtotoy: $AMZN Shoot the moon! --- we did also!","lbl":"Positive"}
+,{"time":"12:58","usr":"wdhallco","txt":"RT @IBDinvestors: Stock market mixed early afternoon today. Nasdaq up a bit as Amazon and Apple gained. http://t.co/4R2d3Unt $AAPL $AMZN","lbl":"Positive"}
+,{"time":"13:01","usr":"NiemannCapital","txt":"The new four horsemen of tech http://t.co/olP5BBoX via @CNNMoney #tech #mobile #tablet #cloud $AAPL $GOOG $AMZN $IBM","lbl":"Neutral"}
+,{"time":"13:02","usr":"barronstechblog","txt":"CSTR: No Change To Warner Deal, Per Bloomberg - Tech Trader Daily - Barron\u0027s $CSTR $NFLX $AMZN $AAPL $DISH $TWX http://t.co/gesGsdPN","lbl":"Neutral"}
+,{"time":"13:53","usr":"trader_trend","txt":"Amazon Strikes Netflix While the Company is Down $NFLX $AMZN $SNE $AAPL $MSFT #mkt #stocks http://t.co/QATmWwbl","lbl":"Neutral"}
+,{"time":"13:57","usr":"TraderFlorida","txt":"$AMZN adding to this one since buying today - like the action / volume this time of day lod as my stop","lbl":"Positive"}
+,{"time":"15:14","usr":"Derek2534","txt":"I currently hold a weekly option on $AMZN for a strike on $195 for next week","lbl":"Positive"}
+,{"time":"15:55","usr":"bored2tears","txt":"IMDb \u0022Jane Doe\u0022 plaintiff revealed as actress Junie Hoang. http://t.co/bp07IO7A $AMZN #law #media","lbl":"Neutral"}
+,{"time":"17:33","usr":"SA_MSFT","txt":"Does Apple\u0027s New CEO Have Any Surprises In Store For Q1? http://t.co/cwqqDXMO $AAPL $AMZN $SSNLF.PK $MSFT","lbl":"Neutral"}
+,{"time":"19:56","usr":"h9ramzy","txt":"RT @SAI: Meet The Men Who Turned Amazon From Bookstore To Tech Giant $AMZN by @Julie188 http://t.co/FppMCRNQ","lbl":"Neutral"}
+,{"time":"23:13","usr":"rasoolr","txt":"$AMZN is all over the news this week. Mostly favourable coverage. http://t.co/1IVBtLoZ","lbl":"Positive"}
+,{"time":"23:21","usr":"DiscoverWallSt","txt":"jimmybob: $AMZN ~ $180 calls hit 4.65 from .42: jimmybob http://t.co/JuLfmXuz","lbl":"Positive"}
+]

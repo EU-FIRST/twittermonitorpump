@@ -1,0 +1,43 @@
+[
+{"time":"0:04","usr":"wisetraders8","txt":"$GOOG - Google Stock Analysis - 22day ema moving up - http://t.co/O27SjWXT","lbl":"Positive"}
+,{"time":"0:21","usr":"DaytradersLive","txt":"RT @DaytradersTweet: $SINA $SOHU $BIDU $AAPL $FFIV $CRM $GOOG $QCOM $FAZ $FAS $EDC $BAC $JPM $MS $WFC Follow me and let\u0027s share our daytrades !","lbl":"Neutral"}
+,{"time":"0:24","usr":"WilliamK82","txt":"RT @TraderMichigan: Don\u0027t overcomplicate trading. $AAPL $BAC $JPM $XLF $GS $PCLN. Swing a little $AMZN or $GOOG small. Avoid battleground stocks.","lbl":"Neutral"}
+,{"time":"5:49","usr":"dudeman718","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $AOL $MSFT $GOOG $AAPL $YHOO by @_dtl http://t.co/4Fom4EDa","lbl":"Neutral"}
+,{"time":"5:51","usr":"MartinVolante","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $AOL $MSFT $GOOG $AAPL $YHOO by @_dtl http://t.co/uML4n9fS","lbl":"Neutral"}
+,{"time":"5:58","usr":"lluccipha","txt":"SAI: 10 Things You Need To Know This Morning $FB $AOL $MSFT $GOOG $AAPL $YHOO by @_dtl http://t.co/BmQHPpVW","lbl":"Neutral"}
+,{"time":"6:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/18, $LNKD/11, $GS/10, $SPY/9, $GOOG/8, $HIG/6, $BAC/5, $MSFT/5, $KKD/5. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"8:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/44, $SPY/34, $LNKD/32, $ORCL/17, $HPQ/16, $GS/16, $GOOG/14, $GIS/14. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"8:07","usr":"reverbstrategy","txt":"Is a $GOOG Dividend Even Possible? http://t.co/uPOKgDAB #google #technology","lbl":"Neutral"}
+,{"time":"8:51","usr":"takingstock614","txt":"$GOOG $650","lbl":"Neutral"}
+,{"time":"8:52","usr":"ppearlman","txt":"@ronellman long term chart looks massively bullish to me $GOOG","lbl":"Positive"}
+,{"time":"10:05","usr":"andrewnyquist","txt":"Follow up on $GOOG chart from this weekend -- Still holding above fibonacci level 61.8: http://t.co/wvgklGHE Watch this level","lbl":"Positive"}
+,{"time":"11:04","usr":"aztecs99","txt":"$GOOG very strong","lbl":"Positive"}
+,{"time":"11:04","usr":"rcastle06","txt":"RT @SAI: Here\u0027s The #1 Complaint About Google TV $GOOG by @MattRosoff http://t.co/urdbUobQ","lbl":"Negative"}
+,{"time":"11:04","usr":"61point8","txt":"$GOOG > Exited at $639.","lbl":"Negative"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $LPTH/150, $AAPL/123, $MSFT/43, $SPY/43, $LNKD/33, $GMCR/32, $HPQ/25, $GOOG/21. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:31","usr":"DJThistle","txt":"Toshiba debuts 7-inch LT170 tablet: For Toshiba\u0027s next tablet, the company is going back to the same wel... http://t.co/YkeqhUGj $GOOG","lbl":"Neutral"}
+,{"time":"11:31","usr":"tjtakes","txt":"move stops up in $goog to $635 and 640","lbl":"Positive"}
+,{"time":"11:31","usr":"malaysiannick","txt":"$goog weeklies looking good now.","lbl":"Neutral"}
+,{"time":"11:31","usr":"DrDuru","txt":"$GOOG has finally filled its post-earnings gap down. Looking for more...","lbl":"Positive"}
+,{"time":"12:05","usr":"racernic","txt":"is $GOOG the new $AAPL? nah... goog never darling of traders 4some reason & only 1.4days to cover shorts. good run 2day tho.","lbl":"Positive"}
+,{"time":"12:09","usr":"tjtakes","txt":"out of $goog $645","lbl":"Negative"}
+,{"time":"12:10","usr":"howardlindzon","txt":"seems like market loves the idea of a $GOOG dividend....why should they eat for free is the reason I am hearing","lbl":"Positive"}
+,{"time":"13:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/77, $ZNGA/75, $LNKD/46, $SPY/40, $GOOG/29, $SHLD/20, $ORCL/18, $SBUX/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"13:09","usr":"berkutchitweet","txt":"Wanted to add to my $GOOG pos. at 640 but I missed it. If vol doesn\u0027t clear 3M I may get another chance a few days from now. We\u0027ll see.","lbl":"Positive"}
+,{"time":"13:11","usr":"berkutchitweet","txt":"... make that 2.6M shares, actually. $GOOG","lbl":"Neutral"}
+,{"time":"13:11","usr":"Afthought","txt":"Hmm. Why is $AAPL Safari at < 8%? @CNET Chrome was the most popular browser in the world on Sunday http://t.co/ewXQ0cNC #tech #MSFT $GOOG $$","lbl":"Positive"}
+,{"time":"13:49","usr":"SJosephBurns","txt":"I am just got long $GOOG with in the money call options.","lbl":"Positive"}
+,{"time":"13:55","usr":"USwwwStocks","txt":"$GOOG News: Zuiker to debut \u0027Cybergeddon\u0027 movie on Yahoo http://t.co/ufnWAx0S #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"14:20","usr":"berkutchitweet","txt":"$GOOG http://t.co/cLdjpu9Z Resolving wedge/descending trendline long term.","lbl":"Positive"}
+,{"time":"14:21","usr":"ScottGow1","txt":"RT @StkConfidential: Too many up leaders to mention \u0027em all: $AAPL, $PCLN, $CMG, $GOOG, $FOSL, $NTES, $PEET, $FFIV, $RAX, $SXCI, $TNH, $TSCO, $M, $LULU etc. $$","lbl":"Neutral"}
+,{"time":"15:27","usr":"Baselfinance","txt":"RT @themotleyfool: Cue up \u0022Eye of the Tiger\u0022 and ring the opening bell, as Google ($GOOG) and Facebook start trading jabs: http://t.co/3IuVpD8M #zuckerpunch","lbl":"Neutral"}
+,{"time":"16:27","usr":"Vconomics","txt":"If one more person says $GOOG is going to pay a dividend, I\u0027m going to go insane. Just because $AAPL pays one, doesn\u0027t mean $GOOG has to.","lbl":"Neutral"}
+,{"time":"16:28","usr":"zabackj","txt":"RT @tsgiles: SCOOP Google rethinks Wallet strategy after slow start, excecutive exits http://t.co/SpGBmgo7 Bloomberg\u0027s @olgakharif has the story $GOOG","lbl":"Negative"}
+,{"time":"16:28","usr":"sotek","txt":"RT @ukarlewitz: $GOOG Chrome this week became the number one browser, knocking off $MSFT IE after its decade of dominance.","lbl":"Positive"}
+,{"time":"16:28","usr":"juanmacastellan","txt":"RT @SAI: Google Wallet Is A Bust, So Google Will Try To Throw Money At Carriers To Get Them To Use It $GOOG by @Julie188 http://t.co/QBF6r756","lbl":"Negative"}
+,{"time":"17:52","usr":"ETF_analyst","txt":"Wow. Newsworthy stuff. RT @ppearlman $GOOG Chrome this week became the #1 browser, knocking off $MSFT IE after its decade of dominance.\u201D","lbl":"Positive"}
+,{"time":"17:55","usr":"wawam","txt":"RT @MadMoneyOnCNBC: Jim Cramer: Economy Ready for a Long-Term Bull Run http://t.co/5wsr4v5O $AAPL $BBBY $GAP $GOOG $HD $LULU $MRK $NKE $PNRA #StockPicks","lbl":"Neutral"}
+,{"time":"17:59","usr":"ZisblU4U","txt":"- http://t.co/kJrK02rj via http://t.co/dpj0BZYb << i just let $goog know I have a twitter account .","lbl":"Neutral"}
+,{"time":"18:05","usr":"StocialTrends","txt":"Daily Trending Social Volume: $AAPL/1049, $SPY/449, $LPTH/370, $LNKD/360, $GOOG/293, $ZNGA/292, $GMCR/196. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"20:24","usr":"thefinancepress","txt":"$GOOG Iceland Woos Microsoft for Part of $41 Billion Data Market: Tech: Iceland Woos Microsoft for Part of $41 ... http://t.co/IOgnnYnT","lbl":"Neutral"}
+]

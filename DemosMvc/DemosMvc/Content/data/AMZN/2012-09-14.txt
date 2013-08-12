@@ -1,0 +1,22 @@
+[
+{"time":"6:05","usr":"biggercapital","txt":"It benefits from being taxed for that reason RT @bored2tears: California $AMZN shoppers can still (cont) http://t.co/BN9ctsBH","lbl":"Neutral"}
+,{"time":"6:07","usr":"DNev47","txt":"RT @biggercapital: It benefits from being taxed for that reason RT @bored2tears: California $AMZN shoppers can still (cont) http://t.co/ ...","lbl":"Neutral"}
+,{"time":"7:45","usr":"Itweets4u","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"8:44","usr":"Fitzstock2004","txt":"\u0022CWUS\u0022 tomorrow......to give you the ROAD MAP on how to make $$ AGAIN next week.....$aapl $goog $amzn $dia and more","lbl":"Neutral"}
+,{"time":"9:10","usr":"Eloy_Rc","txt":"current holdings $AAPL $AMZN $CMCSA $LNKD $BIIB $IACI 100% net long","lbl":"Positive"}
+,{"time":"9:11","usr":"FreedoniaMoney","txt":"Amazon To Cash In On #Gaming Market - Seeking Alpha http://t.co/IWf3Dqq0 $AMZN $AAPL $GME","lbl":"Neutral"}
+,{"time":"9:12","usr":"markflowchatter","txt":"$AMZN - not sure if this well hurt them but: Amazon to Begin California Sales Tax Collection on September 15th http://t.co/15pQdmV9","lbl":"Negative"}
+,{"time":"10:14","usr":"ECONgeek947","txt":"@Casseon on the contrary, more likely $NFLX will surpass $AMZN in UK this winter & beat HBO $TWX like an unloved stepchild ;) $AAPL $FB $P","lbl":"Negative"}
+,{"time":"10:32","usr":"Jamtrades","txt":"Commented on StockTwits: I know I know... but can that really stop $AMZN? No! http://t.co/7EptvKVU","lbl":"Positive"}
+,{"time":"10:35","usr":"DividendMaster","txt":"@upsidetrader @The_Real_Fly Will be here when all the bagholders in junk bonds and $AMZN realize they been had","lbl":"Negative"}
+,{"time":"11:07","usr":"outlawz616","txt":"@firstadopter That is fricken hilarious! $AMZN","lbl":"Negative"}
+,{"time":"11:07","usr":"outlawz616","txt":"RT @firstadopter: Been to $AMZN home-page recently, you\u0027ll see Kindle Fire HD ad front and center. I heard this one was the first draft: ...","lbl":"Neutral"}
+,{"time":"11:08","usr":"craigpatik","txt":"RT @SplatF: Now imagine if Amazon had bought Palm and WebOS instead of HP: http://t.co/MAn6OOVQ Kindle Fire fan fiction. $AMZN $HPQ $AAPL","lbl":"Neutral"}
+,{"time":"11:41","usr":"biggercapital","txt":"Just got the new Fire. Speakers on this device pretty amazing. Watching Coming to America. $AMZN will sell a ton of these $DLB","lbl":"Positive"}
+,{"time":"11:42","usr":"nxtmillionair40","txt":"$AMZN nice bounce of of 260, great support area in last two day","lbl":"Neutral"}
+,{"time":"13:12","usr":"RandallKoczara","txt":"Hewlett-Packard Gloom Intensifying http://t.co/Au1ylgfg $A $AMZN $DELL $GOOG $RAX $HPQ","lbl":"Neutral"}
+,{"time":"13:12","usr":"Rod_RLR","txt":"It\u0027s normal that $AAPL and $AMZN explore new highs in that way, a little hesitant perhaps. Patience will pay here.","lbl":"Positive"}
+,{"time":"13:54","usr":"NoahPorschart","txt":"RT @jimcramer: RT @SullyCNBC: Somebody mispriced .. $AMZN forward P/E = 339 .. $EBAY forward P/E = 21 jjc- You could have made that case ...","lbl":"Neutral"}
+,{"time":"16:28","usr":"vikingvessel","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"16:30","usr":"SeekingAlpha","txt":"3 Reasons To Consider Williams-Sonoma http://t.co/KUiiMEzn $AMZN $BBBY $WMT $WSM","lbl":"Neutral"}
+]

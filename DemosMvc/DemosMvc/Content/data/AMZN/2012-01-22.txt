@@ -1,0 +1,6 @@
+[
+{"time":"9:59","usr":"iTraderz","txt":"took $AMZN profits Friday as it looks like it is going to consolidate here but if not I can get right back in","lbl":"Negative"}
+,{"time":"16:46","usr":"TraderFlorida","txt":"$AMZN http://t.co/L2TODzqC Continues to act well since breaking this descending trendline - could see a nice run into earnings","lbl":"Positive"}
+,{"time":"21:20","usr":"$AMZN","txt":"@goodgreed They became a tech company b4 Fire w/ AWS... $AMZN","lbl":"Neutral"}
+,{"time":"21:21","usr":"seldomawake","txt":"Just bought the Sarah Brightman album via $AMZN 1-click, anyone seen my man card? It was right here, I swear...","lbl":"Neutral"}
+]

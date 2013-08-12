@@ -1,0 +1,9 @@
+[
+{"time":"2:51","usr":"USwwwStocks","txt":"$AMZN News: Analysis: Amazon faces new obstacles in fight for holiday dollars http://t.co/wNnt3dvP #Amazon #AMZN #Analysis","lbl":"Negative"}
+,{"time":"9:50","usr":"HarryWanger","txt":"$AMZN Out 227.30. Moving on to $AAPL now","lbl":"Neutral"}
+,{"time":"11:05","usr":"mnoltecpa","txt":"$AMZN https://t.co/o6bbhXVQ 5 minute. Tried and failed to hold the move over that descending trend. Busted below old lows it bounced off.","lbl":"Negative"}
+,{"time":"14:57","usr":"ivanhoff","txt":"@firstadopter good point. $AMZN would probably be better without hardware","lbl":"Neutral"}
+,{"time":"14:59","usr":"StockTwits","txt":"Wednesday links: bear market starts, and working from bed. http://t.co/1IAyi7Fn via @abnormalreturns $SPY $GOOG $FB $AMZN","lbl":"Neutral"}
+,{"time":"15:56","usr":"CapCube","txt":"The silver lining to all this is watching $AMZN bleed out ....","lbl":"Negative"}
+,{"time":"22:20","usr":"ihmvps","txt":"Bearish $AMZN Chart http://t.co/qIFHaYzu #stockcharts #amazon","lbl":"Negative"}
+]

@@ -1,0 +1,35 @@
+[
+{"time":"5:19","usr":"bored2tears","txt":"Google ends its effort to bring digital buying, measurement to traditional tv advertising. http://t.co/0ZkqaKVj $GOOG #media","lbl":"Neutral"}
+,{"time":"5:20","usr":"MarketCurrents","txt":"Workday, which yesterday filed an S-1 ahead of an IPO, has won a contract from Google (GOOG) to suppl... http://t.co/zPlbUkN7 $GOOG","lbl":"Neutral"}
+,{"time":"7:25","usr":"aseembakshi","txt":"RT @BI_Advertising: Google Will Kill Its TV Advertising Business $GOOG by @Jim_Edwards http://t.co/TKDksxX0","lbl":"Negative"}
+,{"time":"7:26","usr":"bluser12","txt":"Will be looking for $GOOG to test $700 today.","lbl":"Neutral"}
+,{"time":"7:26","usr":"Nils1975","txt":"...but if $FB really comes in below estimates, shares should not trade at a higher multiple than $GOOG (13.6x FY13 est). $GRPN $ZNGA redux","lbl":"Neutral"}
+,{"time":"7:28","usr":"wallstCS","txt":"Wall Street Brief: Amazon and Nokia EXCLUDE Google, Apple LOSES http://t.co/l2tcJVtc $AAPL $AMZN $NOK $GOOG $SHLD #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:19","usr":"dschorrnyc","txt":"\u0022Google acquisition of Vringo a possibility, says Maxim\u0022 $GOOG $VRNG","lbl":"Neutral"}
+,{"time":"8:20","usr":"MarketCurrents","txt":"A Japanese court rules Samsung\u0027s (SSNLF.PK) devices don\u0027t infringe an Apple (AAPL) pa... http://t.co/ZJJhxXMj $SSNLF.PK $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:11","usr":"SunnyVegas360","txt":"\u0022No more crack for the market\u0022 Bernanke S&P DOW $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:11","usr":"wallstCS","txt":"Domino\u0027s Sales LEAP 22% and 4 Morning Hot Stocks Sparking Chatter http://t.co/DnrwYyal $PEP $DPZ $BCS $GOOG $NFLX #mkt #stocks","lbl":"Neutral"}
+,{"time":"9:43","usr":"ajmcafe","txt":"RT @gtotoy: RT @sspencer_smb: $AAPL trading below pre-samsung verdict level. $GOOG trading above. the market has spoken. http://t.co/EQJ ...","lbl":"Positive"}
+,{"time":"9:43","usr":"Alfietrade","txt":"For the iphone 3gs in june 8 2009, $aapl actually ran up all the way into the announcement. $goog http://t.co/dePcS5w7","lbl":"Neutral"}
+,{"time":"10:06","usr":"TMFJMo","txt":"Today marks Maria Montessori\u0027s 142nd birthday. As a former #Montessori student, hats off to #Google\u0027s $GOOG tribute! https://t.co/Xof6loGN","lbl":"Positive"}
+,{"time":"10:06","usr":"tradermays","txt":"1/2\u0027ing the $GOOG calls here for a quick 75%","lbl":"Positive"}
+,{"time":"10:08","usr":"tivoboy","txt":"I have 680$, do I buy 1 share of $aapl or 1 share of $goog ?","lbl":"Neutral"}
+,{"time":"10:31","usr":"shyamster","txt":"RT @ManuKumar: Interesting to note that the market cap of $AAPL exceeds the market cap of $MSFT, $GOOG, $AMZN and $YHOO combined. #Hardw ...","lbl":"Neutral"}
+,{"time":"10:32","usr":"thekeikoshow","txt":"If ur long $GOOG, I\u0027d get out here. IF it can\u0027t break that $688 I see reversal happening to $685 then break supp to $680","lbl":"Negative"}
+,{"time":"11:33","usr":"barronstechblog","txt":"Facebook: BMO, Merrill, Stifel Chop Targets on Lockup Expiry - Tech Trader Daily - $FB $ZNGA $LNKD $YELP $GOOG $MSFT http://t.co/jShWpnju","lbl":"Neutral"}
+,{"time":"12:20","usr":"ProlongWealth","txt":"Is there a weather monopoly? $goog $cmcsa http://t.co/TjrCvqSz","lbl":"Neutral"}
+,{"time":"12:21","usr":"jimcramer","txt":"The question for $FB is do people like these \u0022pseudo\u0022 ads in copy. We do accept a lot of bogus \u0022articles\u0022 at the top of the $GOOG queue","lbl":"Neutral"}
+,{"time":"12:21","usr":"StockTwits","txt":"Amen RT @rsblades RT Another in an ongoing string of excellent calls!! @Fibline $GOOG Nice Short Scalp set up. Tasty. http://t.co/yJSEKFhk","lbl":"Neutral"}
+,{"time":"12:21","usr":"KeeneOnMarket","txt":"Starting New Today, Get Your Daily Video Recap for $AAPL and $GOOG with all Levels for FREE http://t.co/53zONfDN please RT","lbl":"Neutral"}
+,{"time":"13:04","usr":"numberonetell","txt":"If $GOOG and $AAPL can shake their intra-day downtrends then $AMZN might settle at 250. I am hoping.","lbl":"Negative"}
+,{"time":"13:07","usr":"slick_trader24","txt":"RT @SeekingAlpha: Nokia Could Soar To $5 On Successful Release http://t.co/cnDqcOXV $AAPL $GOOG $T $VZ $NOK","lbl":"Neutral"}
+,{"time":"14:01","usr":"JonErlichman","txt":"With all the product announcements scheduled next week, I found myself wondering... http://t.co/GMUPoIlN $AMZN $MSFT $NOK $VZ $GOOG","lbl":"Neutral"}
+,{"time":"14:04","usr":"ipodnar","txt":"Rt @JonErlichman: Since start of June: $FB -38%, $ZNGA -55%, $GRPN -61%... comparively $LNKD +11%, $YELP +32%, $AAPL +15%, $GOOG +18%\u201D","lbl":"Positive"}
+,{"time":"14:07","usr":"JohnEarlBurnett","txt":"Google Ends Five-Year Quest to Sell TV Ads http://t.co/zl38CXmH $GOOG $$","lbl":"Neutral"}
+,{"time":"15:12","usr":"barronstechblog","txt":"Amazon Developing Ad-Supported Tablet, Says WSJ - Tech Trader Daily - Barron\u0027s $AMZN $AAPL $GOOG http://t.co/reesTimz","lbl":"Neutral"}
+,{"time":"15:14","usr":"LTommy256","txt":"They have a phone? \u201C@krestivo: It\u2019ll be difficult for #google to make the new #motorola #smartphone stand out on $VZ\u0022 $GOOG","lbl":"Neutral"}
+,{"time":"16:36","usr":"edlassalle","txt":"I concur... \u201C@SAI: \u0027Gangnam Style,\u0027 A Korean Pop Sensation, Is Big In Silicon Valley Right Now $GOOG by @owenthomas http://t.co/8oFswqCZ\u201D","lbl":"Neutral"}
+,{"time":"16:49","usr":"USwwwStocks","txt":"$GOOG News: Nokia, Microsoft Head for \u0022Last Chance Saloon\u0022 http://t.co/QYfu0e3Z #GOOG #ampquotLast #Chance","lbl":"Neutral"}
+,{"time":"16:49","usr":"RSantJR","txt":"RT @SeekingAlpha: Nokia\u0027s New Lumia Series: The Beginning Of A Beautiful Friendship? http://t.co/l1nYAIZe $AAPL $GOOG $MSFT $T $VZ $NOK","lbl":"Neutral"}
+,{"time":"20:02","usr":"billysto","txt":"RT @SAI: \u0027Gangnam Style,\u0027 A Korean Pop Sensation, Is Big In Silicon Valley Right Now $GOOG by @owenthomas http://t.co/pn7Jmmei @arms87","lbl":"Neutral"}
+]

@@ -1,0 +1,24 @@
+[
+{"time":"8:47","usr":"racernic","txt":"$AMZN feeling some love up1.7%.","lbl":"Positive"}
+,{"time":"8:51","usr":"o_hoolix","txt":"Out of final bit of original $amzn short w/ nice profit. Don\u0027t like the volume break of 190.","lbl":"Positive"}
+,{"time":"9:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:17am: 193.25 +4.86 (+2.58%).","lbl":"Positive"}
+,{"time":"9:32","usr":"OptionRunners","txt":"$AMZN pretty strong so far today.","lbl":"Positive"}
+,{"time":"10:18","usr":"HomeRunStocks","txt":"A Cloudy Forecast ($AAPL $AMZN, $BVSN, $CRM, $EBAY, $GOOG, $GWIV, $IBM, $ORCL $SAP) http://t.co/75RdeFl4 ~ http://t.co/NIpqjSd7","lbl":"Neutral"}
+,{"time":"10:18","usr":"AgressiveStocks","txt":"A Cloudy Forecast ($AAPL $AMZN, $BVSN, $CRM, $EBAY, $GOOG, $GWIV, $IBM, $ORCL $SAP) http://t.co/5gV1pr7p ~ http://t.co/HL3r6P11","lbl":"Negative"}
+,{"time":"10:18","usr":"QStocksMedia","txt":"A Cloudy Forecast ($AAPL $AMZN, $BVSN, $CRM, $EBAY, $GOOG, $GWIV, $IBM, $ORCL $SAP) http://t.co/Zb0SBWvO ~ http://t.co/Y6CSytdi","lbl":"Negative"}
+,{"time":"10:18","usr":"SCRelations","txt":"A Cloudy Forecast ($AAPL $AMZN, $BVSN, $CRM, $EBAY, $GOOG, $GWIV, $IBM, $ORCL $SAP) http://t.co/a875DVcA ~ http://t.co/9CTcUr0b","lbl":"Negative"}
+,{"time":"12:02","usr":"Cmds_Simba","txt":"\u201C@SeekingAlpha: Wal-Mart Will Break New $63 Highs By 2013 http://t.co/zUTSzVsD $AMZN $COST $TGT $WMT\u201D cc @X_TheAmbitious1","lbl":"Neutral"}
+,{"time":"12:58","usr":"qndarwin","txt":"It has a name now + it\u0027s killing Best Buy/B&N. MT @FoxNews: Are you guilty of \u0022showrooming\u0022? http://t.co/JY0ZGmK3 $BBY $BKS $AMZN","lbl":"Neutral"}
+,{"time":"12:59","usr":"CapCube","txt":"RT @firstadopter: $AMZN bull thesis of 25% CAGR growth next 10 years is a pipedream 1) secular decline shift of physical media to digital media/tablets","lbl":"Negative"}
+,{"time":"13:43","usr":"fbonacci","txt":"RT @biggercapital: WTF is a chikou? RT @newsagg: $AMZN $194.95 is where the candle and chikou both hit the 60 cloud http://t.co/2kOUl7wg","lbl":"Neutral"}
+,{"time":"14:28","usr":"NickGweezy","txt":"@cnbcclosingbell Of course, $BBY is $AMZN\u0027s Best Friend. They should rename it Best Browse.","lbl":"Neutral"}
+,{"time":"16:01","usr":"johndrossjr","txt":"RT @SAI: CHART OF THE DAY: Amazon Is About To Blow Past Best Buy In Revenue $AMZN $BBY by @jyarow http://t.co/0cPkl6IV","lbl":"Positive"}
+,{"time":"16:03","usr":"mbeckford","txt":"RT @SAI CHART OF THE DAY: Amazon Is About To Blow Past Best Buy In Revenue $AMZN $BBY by @jyarow http://t.co/F1MI6yzu","lbl":"Positive"}
+,{"time":"16:04","usr":"Lowtown21","txt":"@OptionsHawk you think $AMZN could see a positive reaction off of these ebay #\u0027s? It\u0027s up AH","lbl":"Positive"}
+,{"time":"17:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $EBAY/101, $AAPL/57, $FFIV/35, $QCOM/31, $GOOG/25, $CHK/23, $VMW/19, $AMZN/19. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"17:12","usr":"WimB1977","txt":"RT @SAI Amazon Is About To Blow Past Best Buy In Revenue $AMZN $BBY by @jyarow http://t.co/iS5AeT4M","lbl":"Positive"}
+,{"time":"17:25","usr":"firstadopter","txt":"California and Pennsylvania are 16% of U.S. population and $AMZN will start collecting state taxes on them in September","lbl":"Negative"}
+,{"time":"18:53","usr":"Rapmonster","txt":"http://t.co/oZvvlYCl - will $AAPL and $AMZN keep going up, find out today.","lbl":"Neutral"}
+,{"time":"18:54","usr":"UncutRapVideos","txt":"http://t.co/PWphbO7f - will $AAPL and $AMZN keep going up, find out today.","lbl":"Neutral"}
+,{"time":"22:00","usr":"investlite","txt":"Charts for Thursday, 4/18 - $aapl $amzn $azo $bbby $beam $gld $gmcr $goog $lnkd $nvda $sina $stx $ts $wdc $wynn $yoku http://t.co/2v29tVtj","lbl":"Neutral"}
+]

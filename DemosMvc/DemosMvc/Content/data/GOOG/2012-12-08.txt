@@ -1,0 +1,22 @@
+[
+{"time":"0:20","usr":"SeekingAlpha","txt":"Nintendo Presses Start On Wii-U http://t.co/sv6Lrujj $ATVI $GOOG $IPK $MSFT $NTDOF.PK","lbl":"Neutral"}
+,{"time":"0:20","usr":"thefinancepress","txt":"$GOOG Apple Joins Google in $500 Million-Plus Bid for Kodak Patents: Apple Joins Google in $500 Million-Plus Bi... http://t.co/HqGdrsPF","lbl":"Neutral"}
+,{"time":"0:21","usr":"IADops40","txt":"#Apple $AAPL & #Google $GOOG join forces to offer $500M+ to buy #Kodak $EKDKQ patents out of bankruptcy http://t.co/y8n1iZhK #tech #news","lbl":"Neutral"}
+,{"time":"8:27","usr":"jornalistavitor","txt":"RT @SAI: Apple And Google Are Trying To Buy $500 Million Worth Of Kodak Patents $AAPL $GOOG http://t.co/PwnBcQkF","lbl":"Positive"}
+,{"time":"8:28","usr":"joordi","txt":"RT @businessinsider: Apple And Google Are Trying To Buy $500 Million Worth Of Kodak Patents $AAPL $GOOG http://t.co/omWTgMWr","lbl":"Neutral"}
+,{"time":"8:28","usr":"paxxman","txt":"RT @SAI: Apple And Google Are Trying To Buy $500 Million Worth Of Kodak Patents $AAPL $GOOG http://t.co/PwnBcQkF","lbl":"Neutral"}
+,{"time":"9:09","usr":"rizkirahmatridh","txt":"RT @SAI: How To Get Rid Of Annoying Ads On Your Android Phone With One Simple Trick $GOOG by @officialKLS http://t.co/3rlX5qpI","lbl":"Neutral"}
+,{"time":"9:09","usr":"COPA_network","txt":"RT @businessinsider: Apple And Google Are Trying To Buy $500 Million Worth Of Kodak Patents $AAPL $GOOG http://t.co/vuA1sOEh","lbl":"Neutral"}
+,{"time":"9:11","usr":"Chuloong","txt":"\uC560\uD50C\uB3C4 \uC774\uC9D3\uD558\uB354\uB2C8... RT @SAI How To Get Rid Of Annoying Ads On Your Android Phone With One Simple Trick $GOOG by @OfficialKLS http://t.co/Z7WWCaN6","lbl":"Neutral"}
+,{"time":"9:54","usr":"taufiqmhdi","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"9:55","usr":"USwwwStocks","txt":"$GOOG News: Google Inc (NASDAQ:GOOG) is No Longer Accepting New Sign-ups For Free ... http://t.co/bIrxUkcL #Accepting #FREE #GOOG","lbl":"Neutral"}
+,{"time":"10:14","usr":"garciadigitlmkt","txt":"RT @nichcarlson: 12 Quotes That Reveal How Larry Page Built Google Into The World\u0027s Most Important Internet Company $GOOG...","lbl":"Neutral"}
+,{"time":"11:25","usr":"catskillfishing","txt":"@BrianStutland Re: $QQQ DEC put spr--> Not sure I agree since $AAPL selloff due to locking in gains in \u002712. $GOOG & $AMZN RSI / TRIX look ok","lbl":"Positive"}
+,{"time":"11:26","usr":"catskillfishing","txt":"@z8angela Re: $QQQ DEC put spr--> Not sure I agree since $AAPL selloff due to locking in gains in \u002712. $GOOG & $AMZN RSI / TRIX look ok.","lbl":"Neutral"}
+,{"time":"11:27","usr":"catskillfishing","txt":"@RiskReversal $QQQ DEC put spr--> Not sure I agree since $AAPL selloff due to locking in gains in \u002712. $GOOG & $AMZN RSI / TRIX look ok.","lbl":"Positive"}
+,{"time":"13:26","usr":"ThePaaji","txt":"RT @shyamdhulkhed: Apple And Google Are Trying To Buy $500 Million Worth Of Kodak Patents $AAPL $GOOG http://t.co/VC6XZZSm","lbl":"Positive"}
+,{"time":"13:31","usr":"Rour24","txt":"I had $goog puts perfectly. Wanted 680 or 690 puts. Did nothing. Fml","lbl":"Negative"}
+,{"time":"16:41","usr":"valtheegal","txt":"$AAPL \u0022The Real Threat That Samsung Poses To Apple\u0022 Asymco http://t.co/udbbmdV0 via @sharethis $GOOG $DELL","lbl":"Neutral"}
+,{"time":"16:49","usr":"babfari","txt":"Investing In Science Fiction Tech: Artificial Intelligence http://t.co/pbybEBbx $FB $GOOG $IBM $MSFT $NUAN $YAMCF.PK","lbl":"Neutral"}
+,{"time":"16:49","usr":"wwwbolognaarte","txt":"RT @babfari: Investing In Science Fiction Tech: Artificial Intelligence http://t.co/pbybEBbx $FB $GOOG $IBM $MSFT $NUAN $YAMCF.PK","lbl":"Neutral"}
+]

@@ -1,0 +1,15 @@
+[
+{"time":"7:58","usr":"coreymanicone","txt":"Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs http://t.co/os6qorrB via @sai $GOOG $AAPL $AMZN","lbl":"Negative"}
+,{"time":"9:05","usr":"tradekitten","txt":"$AAPL long great. Stopped out of $AMZN re-entry, sml loss. If $GS cl > 105, will close bear call, leave bull put. $SPY","lbl":"Negative"}
+,{"time":"9:07","usr":"RaveD","txt":"$amzn slices thru S2","lbl":"Neutral"}
+,{"time":"9:08","usr":"Kamillo681","txt":"How Amazon Is Trying To Create A Huge Mobile Business $AMZN http://t.co/pwcBjQHY #SoLoMo","lbl":"Neutral"}
+,{"time":"11:59","usr":"TheAnalytic","txt":"RT @AlephBlog: Hard to compete against $AMZN, which doesn\u0027t have an immediate profit motive. $BKS http://t.co/SC5gA1Ps","lbl":"Positive"}
+,{"time":"11:59","usr":"DeidreZune","txt":"Buying dips in $AAPL $GOOG $AMZN will serve u well","lbl":"Positive"}
+,{"time":"12:49","usr":"upseerivera","txt":"RT @SAI: How To Get Free Shipping And 9 Other Things You Didn\u0027t Know Were Possible On Amazon $AMZN by @_dtl http://t.co/Dv1fJTmU","lbl":"Neutral"}
+,{"time":"12:52","usr":"simon_prickett","txt":"$AMZN #Amazon Cloud\u0027s \u0027Elastic Beanstalk\u0027 PaaS adds #Python - Forbes http://t.co/Ebw6Tg8M via @sharethis","lbl":"Neutral"}
+,{"time":"14:23","usr":"CAMAR024","txt":"yes $AMZN 240 calls is what Im currently in.","lbl":"Positive"}
+,{"time":"14:25","usr":"Arnuminous","txt":"$AMZN trying to break back over $240.00","lbl":"Positive"}
+,{"time":"16:05","usr":"SusanBishop","txt":"RT @sai: How To Get Free Shipping And 9 Other Things You Didn\u0027t Know Were Possible On Amazon $AMZN by @_dtl http://t.co/ynZRK3K3","lbl":"Neutral"}
+,{"time":"18:54","usr":"dillardsarah","txt":"Interesting. Ordering an HDMI cable. $AMZN offers two options: \u0022Retail\u0022 or \u0022Amazon Frustration-Free\u0022 for $1 more. http://t.co/6cQn6EAC","lbl":"Positive"}
+,{"time":"18:56","usr":"dillardsarah","txt":"Here\u0027s $AMZN\u0027s explanation of it: http://t.co/HTqAI7ci Cool--though would like it better if free (should be less expensive to package).","lbl":"Neutral"}
+]

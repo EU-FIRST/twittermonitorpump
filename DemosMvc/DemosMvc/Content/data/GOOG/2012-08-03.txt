@@ -1,0 +1,38 @@
+[
+{"time":"2:12","usr":"D_talesgonebad","txt":"welcome #cashtag! :) $AAPL $FB $GOOG","lbl":"Neutral"}
+,{"time":"2:21","usr":"iLoveAAPL","txt":"RT @LaMonicaBuzz: Could $FB keep falling? Does Zuckerberg wear a hoodie? Even at $20, shares trade at 41X \u002712 EPS. $AAPL fiscal \u002712 P/E: 14. $GOOG P/E: 15.","lbl":"Neutral"}
+,{"time":"2:40","usr":"SeekingAlpha","txt":"Earnings Preview: Sohu http://t.co/qvlirKGL $BIDU $GOOG $SINA $YHOO $SOHU","lbl":"Neutral"}
+,{"time":"2:49","usr":"McGregorTest","txt":"Get me some $GOOG","lbl":"Positive"}
+,{"time":"6:37","usr":"ACInvestorBlog","txt":"$AAPL $GOOG $SSNLF Apple wants judge to punish Samsung by ruling in its favor - I hope they look at the potential of $IDCC patents","lbl":"Neutral"}
+,{"time":"6:38","usr":"BreakingBullz","txt":"Don\u0027t miss out on our next big alert! Subscribe @ http://t.co/ibTl9Pip today $DIMI $KCG $FB $GRPN $ZNGA $AAPL $GOOG $MA $V $P $C $JPM $GMCR","lbl":"Neutral"}
+,{"time":"6:39","usr":"Merx49","txt":"RT @BreakingBullz: Don\u0027t miss out on our next big alert! Subscribe @ http://t.co/ibTl9Pip today $DIMI $KCG $FB $GRPN $ZNGA $AAPL $GOOG $MA $V $P $C $JPM $GMCR","lbl":"Neutral"}
+,{"time":"7:57","usr":"stuffandplayx","txt":"RT @jimcramer: $AAPL, $AMZN, $GOOG make a ton of money, $FB doesn\u0027t make a ton. Particularly on mobile. Fact of life.","lbl":"Positive"}
+,{"time":"8:29","usr":"smendozag","txt":"@AlyssaRuddick NICE work translation with $goog #translator !! jajaj","lbl":"Positive"}
+,{"time":"8:31","usr":"syhum","txt":"RT @Dasan: Must read for $AAPL & $GOOG investors: Apple wants to wipe Google off the map with iOS 6 http://t.co/lj13qVlu","lbl":"Neutral"}
+,{"time":"8:32","usr":"choffman1978","txt":"$ACUR tree shake - careful - Pfizer partnership, no debt, buyout? #cnbc,#twitter,#facebook,#msnbc,#nyse,$goog,$aapl,$gmcr,$lly,$pfe,$jnj","lbl":"Neutral"}
+,{"time":"9:00","usr":"njnigh","txt":"Government adoption of Google Apps picking up steam $GOOG http://t.co/93Y5zGQW","lbl":"Positive"}
+,{"time":"9:02","usr":"Dasan","txt":"@AWidebrant I think $GOOG may have made a mistake with doing Android- it\u0027s going to be very costly for them- but they had no choice in a way","lbl":"Negative"}
+,{"time":"9:03","usr":"_charlesbrun","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"9:03","usr":"AmerBanker","txt":"How Disruptive Is New Google Wallet for Card Issuers, Merchants? @seansposito starts the discussion at @BankThink http://t.co/s0ykDzll $GOOG","lbl":"Neutral"}
+,{"time":"9:51","usr":"Sangluccitrades","txt":"@askchrishetrade I got $150K in exposure to longs right now in $BAC, $AMZN, $AAPL, $GOOG. Say a prayer for me son your boy is going in.","lbl":"Neutral"}
+,{"time":"9:51","usr":"tr_publishing","txt":"$GOOG chart: X. http://127.0.0.1:6285/v/HkEa2mRj/","lbl":"Neutral"}
+,{"time":"9:56","usr":"sandeepbhavsar","txt":"waiting for $goog and $wfm pullback.","lbl":"Negative"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $A +60%, $CRM +43%, $AAPL +12%, $PG -22%, $WAG -4%, $GOOG +0% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"11:05","usr":"srisri55","txt":"Out of $GOOG 645 calls for 90c from 90c. Flat. 643 area posing big resistance. If takes out, it can fly though.","lbl":"Neutral"}
+,{"time":"11:06","usr":"choffman1978","txt":"$GMCR rallying on buyback! #cnbc,#twitter,#msnbc,#nyse,$pfe,$jnj,$ptie,$ymi,$mrk,$gsk,$lly,$dndn,$ctic,#biotech,$goog,$aapl,$lnkd,$gs,$cbou","lbl":"Neutral"}
+,{"time":"11:10","usr":"srisri55","txt":"Trying $GOOG 640 puts here for 90c.","lbl":"Negative"}
+,{"time":"12:32","usr":"franche1","txt":"RT @jimcramer: $AAPL, $AMZN, $GOOG make a ton of money, $FB doesn\u0027t make a ton. Particularly on mobile. Fact of life.","lbl":"Positive"}
+,{"time":"12:40","usr":"SeekingAlpha","txt":"Facebook Faces Harsh Accusation http://t.co/l3o2ZJWG $GOOG $FB","lbl":"Neutral"}
+,{"time":"12:42","usr":"TheUKSEO","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"14:07","usr":"paulwoll","txt":"$GOOG going for higher pin?","lbl":"Positive"}
+,{"time":"14:10","usr":"SeekingAlpha","txt":"An Underappreciated And Important Aspect Of The Cisco NDS Acquisition http://t.co/InJN74Pt $AAPL $GOOG $KO $MSFT $CSCO","lbl":"Neutral"}
+,{"time":"14:11","usr":"ianchaffee","txt":"@karaswisher That\u2019s where $GOOG is strongest, but I think it\u2019s a tie between that and public perception where $YHOO Is weakest.","lbl":"Neutral"}
+,{"time":"14:11","usr":"kclang","txt":"RT @SAI: Google Gets 4% Of All Homes In Kansas City To Sign Up For Super Fast Internet After One Week $GOOG by @Julie188 http://t.co/WOsUx9Ro","lbl":"Positive"}
+,{"time":"16:31","usr":"pennystockguys","txt":"$GOOG - AT&T to Buy Nextwave - Analyst Blog http://t.co/7AIdfV7S","lbl":"Neutral"}
+,{"time":"16:31","usr":"Mr_Eric_WSCS","txt":"#Facebook: Dead Cat Bounce? http://t.co/poLIYA4i $FB $ZNGA $LNKD $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:31","usr":"ADVFNplc","txt":"$GOOG - Google Expands Finland Data Center - Analyst Blog http://t.co/RQ9FA3bK","lbl":"Neutral"}
+,{"time":"16:31","usr":"ADVFNplc","txt":"$GOOG - AT&T to Buy Nextwave - Analyst Blog http://t.co/eKN6ez1q","lbl":"Neutral"}
+,{"time":"21:14","usr":"bryanepstein","txt":"RT @SmartMoney: At $640+, Google is still a \u0022buy.\u0022 Its revenue grew 35% last quarter. http://t.co/SclMOJk2 $GOOG","lbl":"Positive"}
+,{"time":"21:16","usr":"DeidreZune","txt":"Commented on StockTwits: May I ask the date for $GOOG\u0027s stock split. Thanks. http://t.co/p6UB4wNU","lbl":"Neutral"}
+,{"time":"21:29","usr":"NancyMolinaRdz","txt":"RT @SAI: Apparently American Express Never Agreed To Be Part Of Google Wallet $GOOG by @sfiegerman http://t.co/f1bqj2vp","lbl":"Neutral"}
+]

@@ -1,0 +1,19 @@
+[
+{"time":"0:24","usr":"WilliamK82","txt":"RT @TraderMichigan: Don\u0027t overcomplicate trading. $AAPL $BAC $JPM $XLF $GS $PCLN. Swing a little $AMZN or $GOOG small. Avoid battleground stocks.","lbl":"Neutral"}
+,{"time":"8:04","usr":"ZhukovAnt","txt":"Today\u0027s watchlist $AMZN $FMCN $KORS $ORCL $RCON $YOKU","lbl":"Neutral"}
+,{"time":"8:05","usr":"ZhukovAnt","txt":"The most interesting $AMZN $ORCL $RCON","lbl":"Neutral"}
+,{"time":"8:51","usr":"ByrneTSCM","txt":"kind of an ugly 3 min bar on $AMZN right there.","lbl":"Negative"}
+,{"time":"10:03","usr":"SalemShadman","txt":"RT @themotleyfool: Will these happy little robots help make warehouse workers\u0027 jobs less horrible? Amazon ($AMZN) acquires automatons: http://t.co/johdk6p9","lbl":"Neutral"}
+,{"time":"10:03","usr":"VOLADIVERSE","txt":"@graybids ive been watching $AMZN too, $KMP is a little risky but utilities are at such a low valuation YTD i put some calls 3 months out.","lbl":"Positive"}
+,{"time":"10:07","usr":"srisri55","txt":"@AMZN_stock where do you & why do u get these delayed $AMZN quotes in the era of smartphone? Irritating to say the least.","lbl":"Neutral"}
+,{"time":"12:05","usr":"CameronKaine","txt":"Commented on: \u0022Sirius XM: Hope Is Not Good Enough\u0022 http://t.co/IslX5jyx $AMZN $NFLX $SIRI","lbl":"Neutral"}
+,{"time":"13:51","usr":"61point8","txt":"@AlyssaRuddick Let me know when you feel $AMZN is going to break out. Not watching it.","lbl":"Positive"}
+,{"time":"13:51","usr":"StockMarketEnds","txt":"Amazon is Puppet of Anti Christ Zionists #Amazon #Corn $AMZN #Music #Videos #Audio #Stereo #Speakers #Mic #Rap #Pop #Soul #Songs #CD #Lyrics","lbl":"Neutral"}
+,{"time":"14:22","usr":"Lowtown21","txt":"RT @statsreal: @KeithMcCullough I\u0027m sure you have exited your $amzn short at this point, but you forgot to put on your #timestamp #accountability","lbl":"Positive"}
+,{"time":"14:22","usr":"FTGFUTURE","txt":"News Feeds http://t.co/0OXULe7x $AMZN has a breakout from the kumo with a great price surge yesterday","lbl":"Positive"}
+,{"time":"15:25","usr":"anthonypascucci","txt":"RT @SAI: New iPad Vs. Kindle Fire: Guess Who Wins? $AMZN $AAPL by @stevekovach http://t.co/81zJa0QA","lbl":"Neutral"}
+,{"time":"15:27","usr":"AlephBlog","txt":"@merrillmatter Bezos is scary-smart. I don\u0027t own $AMZN either $$","lbl":"Neutral"}
+,{"time":"15:28","usr":"hilda_oell","txt":"RT @SAI: New iPad Vs. Kindle Fire: Guess Who Wins? $AMZN $AAPL by @stevekovach http://t.co/81zJa0QA","lbl":"Neutral"}
+,{"time":"20:22","usr":"dipesh_vs","txt":"RT @SAI: New iPad Vs. Kindle Fire: Guess Who Wins? $AMZN $AAPL by @stevekovach http://t.co/81zJa0QA","lbl":"Neutral"}
+,{"time":"20:35","usr":"SMCHARTcom","txt":"$AMZN http://t.co/nVc1flci AMZN one or two days and this stock could be at $200, our new buy point is above $195.","lbl":"Positive"}
+]

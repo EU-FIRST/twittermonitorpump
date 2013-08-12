@@ -1,0 +1,31 @@
+[
+{"time":"3:02","usr":"scalamai","txt":"Good read: Research in Motion\u0027s longshot comeback effort (via @covestor) http://t.co/I3eHVgBt #mobile #smartphone $RIMM $AAPL $GOOG $NOK","lbl":"Neutral"}
+,{"time":"3:37","usr":"pelias01","txt":"Internet Companies With Strong Network Effects http://t.co/I667K1uW $FB $GOOG $Z","lbl":"Neutral"}
+,{"time":"3:50","usr":"kmthein248","txt":"RT @WorldOfCEOs: BB10 Won\u2019t Be RIM\u2019s Saviour, Another Analyst Argues http://t.co/mFtGr6pa $RIM $AAPL $GOOG $MSFT $NOK $NOK1V","lbl":"Neutral"}
+,{"time":"8:43","usr":"Mr_Abundance","txt":"RT @BenCBanks: I wouldn\u0027t be the one buying at these levels. Though someone has to if you want to make money. Don\u0027t let it be you. $spy $goog $amzn","lbl":"Negative"}
+,{"time":"9:47","usr":"RDeanon","txt":"RT @WesStull: So $GOOG files, admitting jury miscalculation for everyone but them, lol - opening Pandora\u0027s Box. Good for $VRNG <-- supported by evidence","lbl":"Negative"}
+,{"time":"9:47","usr":"PeterRumble1","txt":"$SIFY took long position, this stock will coil higher to 3 in coming weeks $REDF $GOOG $MU","lbl":"Neutral"}
+,{"time":"10:32","usr":"SwatOptions","txt":"$GOOG making 1,228% PROFITS and HOLDING last 1/4","lbl":"Neutral"}
+,{"time":"10:33","usr":"kiwitrader24","txt":"$GOOG the 50-day SMA at par with the 50% Fib back to 774.38","lbl":"Neutral"}
+,{"time":"11:25","usr":"TacticalOptions","txt":"GARCH volatility forecast for $GOOG, #Google stock for today 26.34% (-0.20) http://t.co/HFCZp9Id","lbl":"Neutral"}
+,{"time":"11:25","usr":"firstadopter","txt":"So $GOOG cutting cloud pricing 30%+ and $AMZN cutting cloud pricing 24-27% this week is good for $RAX right? right? #sarcasm","lbl":"Neutral"}
+,{"time":"11:25","usr":"suckapple","txt":"Google Maps work in Russia. Apple Maps work...? somewhere, probably. http://t.co/LVMiYXAy $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"12:27","usr":"howardlindzon","txt":"I know kids dont use Gmail and may never, but the product is worth $20-$30 billion minimum to Google if Twitter is $10 bil (long $goog)","lbl":"Positive"}
+,{"time":"13:32","usr":"StockTwits","txt":"$GOOG hitting new HOD, Trending http://t.co/U3ZlIRFB. Rolling 7-day Sentiment on StockTwits has been bullish.","lbl":"Positive"}
+,{"time":"13:32","usr":"Jamtrades","txt":"$GOOG is aiming at $700","lbl":"Positive"}
+,{"time":"14:00","usr":"DisCo_Project","txt":"New post by @dh_oconnor. \u0022Dangerous Implications of Politicizing #Antitrust Law: #Google Critics Hit New Lows\u0022 http://t.co/aqnupSgK $GOOG","lbl":"Neutral"}
+,{"time":"14:00","usr":"ModernistAlpha","txt":"@rsaintvilus any tech company? I pick $GOOG which has a lower P/E than $SAP and does it with smaller operating margins","lbl":"Positive"}
+,{"time":"14:41","usr":"tradethembi","txt":"$GOOG , nailed $PCLN to short side and have been all over the long side of $GOOG after the red dot # short earlier.","lbl":"Neutral"}
+,{"time":"14:41","usr":"itsshawnbrown","txt":"was in $SPY and $GOOG both just went south, blah. out. im done for today. :/","lbl":"Negative"}
+,{"time":"15:23","usr":"ynggekko","txt":"University of Waterloo start-up company gets snatched up by $GOOG. #TechMecca #happyfriday","lbl":"Neutral"}
+,{"time":"15:23","usr":"MariettaXpress","txt":"Google Is Going On An Acquisition Spree To Compete With Amazon $GOOG $AMZN by @owenthomas http://t.co/bMv3w4uU","lbl":"Neutral"}
+,{"time":"15:23","usr":"BPGAG","txt":"$goog long 695 - 85% cash","lbl":"Positive"}
+,{"time":"15:52","usr":"swamptrade","txt":"$GOOG $AMZN $FB HOD","lbl":"Positive"}
+,{"time":"15:54","usr":"HFTAlert","txt":"second spike is a portfolio program..low quote rates are the key. they don\u0027t need to spam quotes to achieve their goals. $spy $aapl $goog","lbl":"Neutral"}
+,{"time":"15:54","usr":"amitp_gupta","txt":"Wow... Just noticed $GOOG closing on $700","lbl":"Positive"}
+,{"time":"16:25","usr":"samgustin","txt":"RT @DisCo_Project: New post on the #FTC\u0027s potential #antitrust action against #Google: http://t.co/aqnupSgK $GOOG cc @ABAantitrust @ABASAL_UCC @ABASALMediaTech","lbl":"Negative"}
+,{"time":"16:26","usr":"SKSMediaNZ","txt":"RT @CBOE: VXGOG +1.3%; $GOOG trying to go out @ strike ($700) into Nov weekly expiration","lbl":"Neutral"}
+,{"time":"17:51","usr":"YoungMansMoney","txt":"Dear Mr. Page and Mr. Brin - Thank you! @Google $goog","lbl":"Neutral"}
+,{"time":"22:42","usr":"acespades1","txt":"RT @SAI: The Biggest Business Disaster Of 2012 Has To Be HTC $SSNLF $AAPL $GOOG $TPE2498 by @nichcarlson http://t.co/ubO705N9","lbl":"Neutral"}
+,{"time":"22:46","usr":"BigTicks","txt":"$GOOG News: Google Buys Shipping Service BufferBox to Buoy E-Commerce http://t.co/D1ud329n http://t.co/GlGnAeWP","lbl":"Neutral"}
+]

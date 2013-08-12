@@ -1,0 +1,19 @@
+[
+{"time":"5:37","usr":"iraentis","txt":"#Analytics at work... Amazon\u0027s recommendation secret, from @FortuneMagazine $AMZN http://t.co/bUqkzqHk","lbl":"Neutral"}
+,{"time":"5:38","usr":"t_wada","txt":"$AAPL $AMZN $FB $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"7:57","usr":"CapCube","txt":"thanks - $amzn rt \u201C@Wex2: @CapCube If you never listen to anything else I ever post, listen to Paul Isaac on investments.\u201D","lbl":"Neutral"}
+,{"time":"7:59","usr":"LunchLady","txt":"RT @JonErlichman: Amazon\u0027s Lovefilm signs deal with Miramax for UK, Germany streaming rights to films, including...Jackie Brown? $AMZN","lbl":"Neutral"}
+,{"time":"8:59","usr":"FairOaksTrader","txt":"My largest short side bet right now is on $AMZN, up nicely today so far.","lbl":"Negative"}
+,{"time":"9:06","usr":"Crap_Trader","txt":"Opened Bear Call Spread on $AMZN. 10x AUG 250/255 for $561","lbl":"Negative"}
+,{"time":"10:31","usr":"Fitzstock2004","txt":"@djl4stockInfo STILL waiting on $amzn....want to see it break previous days hod,,,and then the bull flag will ENGAGE","lbl":"Negative"}
+,{"time":"11:52","usr":"reditum","txt":"RT @SeekingAlpha: Glaring Recession Signal - Consumer Spending Stops http://t.co/R4sn2fUm $AAPL $AMZN $BAC $DIA $DLTR $EBAY $JCP $PG $QQQ $SHLD","lbl":"Neutral"}
+,{"time":"12:25","usr":"dnevas","txt":"LivingSocial valuation falls harder than Groupon. Worth $6B in 2011, <$1B now according to $AMZN filing. http://t.co/m3xPeTmU","lbl":"Neutral"}
+,{"time":"13:01","usr":"fed_speak","txt":"Has anyone checked out the new $AMZN site http://t.co/SKJKD2qt? Sorry, wrong link in first tweet.","lbl":"Neutral"}
+,{"time":"13:03","usr":"faded357","txt":"@jimcramer ehhh its $FB not $AMZN","lbl":"Neutral"}
+,{"time":"13:18","usr":"dove526u","txt":"RT @SAI: Amazon Introduces Its Own Version Of iTunes Match $AMZN by @_dtl http://t.co/4f36Y1dM","lbl":"Neutral"}
+,{"time":"13:35","usr":"vijayharyal","txt":"RT @SAI: Amazon Introduces Its Own Version Of iTunes Match $AMZN by @_dtl http://t.co/4f36Y1dM","lbl":"Neutral"}
+,{"time":"13:35","usr":"AnthonysPeak","txt":"@boseyjones completely. there\u0027ll be another opportunity. the bus always comes back. $amzn this yr was a great buy on gap down as well.","lbl":"Positive"}
+,{"time":"14:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $AMZN Sentiment rises: +2% http://t.co/Isb5NmxQ","lbl":"Positive"}
+,{"time":"15:00","usr":"RedDogT3Live","txt":"$AAPL needs a rest. $GOOG and $amzn look good, but can use another day of consolidation","lbl":"Positive"}
+,{"time":"22:07","usr":"ste_aka","txt":"$FB, $MSFT, $GOOG, $AMZN, $AAPL","lbl":"Neutral"}
+]

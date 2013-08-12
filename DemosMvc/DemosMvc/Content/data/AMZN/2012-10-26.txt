@@ -1,0 +1,102 @@
+[
+{"time":"2:07","usr":"Quirky_Poppins","txt":"RT @LukeRomyn: Step into adventure and escape into imagination! http://t.co/gIrM75pk $AMZN #Kindle #books","lbl":"Neutral"}
+,{"time":"5:24","usr":"blisnez1206","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $MSFT $AMZN $P by @jyarow http://t.co/p2tRdscE","lbl":"Neutral"}
+,{"time":"5:25","usr":"pegobry","txt":"Apple And Amazon Earnings Show Once Again Jeff Bezos Is Steve Jobs\u0027 True Heir http://t.co/tXaEnJKz $AAPL $AMZN","lbl":"Positive"}
+,{"time":"5:27","usr":"Michellerein","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $MSFT $AMZN $P by @jyarow http://t.co/p2tRdscE","lbl":"Neutral"}
+,{"time":"6:47","usr":"BPGAG","txt":"These futures feel like a bear trap - $aapl reversed hard $amzn reversed hard - $ibm in desperate need of a rally","lbl":"Neutral"}
+,{"time":"6:49","usr":"mercenaryjack","txt":"So $AAPL and $AMZN both whiff, yet stay positive after hours, yet $ES_F down 10 handles early. This market is a stone cold trip $MACRO $SPY","lbl":"Negative"}
+,{"time":"6:50","usr":"DEMOGETS","txt":"I see $AAPL and $AMZN are both green despite those horrible numbers !! #Rigged","lbl":"Negative"}
+,{"time":"7:14","usr":"RedDogT3Live","txt":"RT @rrshasss: If Only Pinning $AAPL Maps Worked Like Option Pinning $AAPL $AMZN $GOOG $CMG $PCLN $FFIV $WYNN http://t.co/1om1YNyY @RedDogT3Live","lbl":"Neutral"}
+,{"time":"7:14","usr":"d_ramsden","txt":"You\u0027d think that daily deals are to some extent counter-cyclical to consumer spend. Behind $AMZN results for $LVSCL: http://t.co/bK49Qrq7 $$","lbl":"Neutral"}
+,{"time":"7:14","usr":"Fitzstock2004","txt":"yesterday i said $amzn was going to 222 (when quoting 213)......then when it hit 222, i said \u0022228 next\u0022......That is now a DOUBLE YAHTZEE:)","lbl":"Positive"}
+,{"time":"7:35","usr":"DEMOGETS","txt":"Wow !! $AMZN rolling on you stiches !!","lbl":"Neutral"}
+,{"time":"7:35","usr":"KTVora","txt":"@Tangletrade $AMZN So that\u0027s why they used \u0022Amazon\u0022 as the brand name for Flubber. :-)","lbl":"Neutral"}
+,{"time":"7:35","usr":"BlackStockguy","txt":"$AMZN $AAPL $QCOR Valuations and how much money the co. actually makes obviously means nothing. Thats what I learned this week.","lbl":"Neutral"}
+,{"time":"7:35","usr":"GEQSense","txt":"$AMZN 227 i rest my case.","lbl":"Neutral"}
+,{"time":"7:51","usr":"DontTakeLosses","txt":"RT @Briefingcom: Amazon shares higher by 2% after reporting Q3 loss http://t.co/t4yjvkTm $AMZN","lbl":"Positive"}
+,{"time":"7:51","usr":"leopardtrader","txt":"RT @studatnu $AMZN dumbfounded here, PE of 300,lost $$ this quarter, guided down on rev for next Qtr and UP 2%??>>Trading & Economy not same","lbl":"Negative"}
+,{"time":"7:52","usr":"aztecs99","txt":"RT @leopardtrader: RT @studatnu $AMZN dumbfounded here, PE of 300,lost $$ this quarter, guided down -- were you around in the late 90\u0027s?","lbl":"Negative"}
+,{"time":"7:52","usr":"leopardtrader","txt":"RT @CarolineC $AMZN got to be short covering up over $5 pre-market???>>Dont bet against amzn whatever u think or call it ..haha","lbl":"Negative"}
+,{"time":"8:09","usr":"TxbetaZesty","txt":"RT @KeeneOnMarket: Closing Price of $AAPL and $AMZN today?","lbl":"Neutral"}
+,{"time":"8:09","usr":"LimitBuyer","txt":"Good morning, Markets-- It\u0027s beautiful here in MA - the calm before the storm? Watching $AMZN, $AAPL, $SPY, $SHW, $GLD ... amongst others.","lbl":"Neutral"}
+,{"time":"8:09","usr":"OptionRunners","txt":"$AMZN green... $AAPL flat... LOL option writers won","lbl":"Positive"}
+,{"time":"8:09","usr":"contingencyisu","txt":"$AMZN stock price will see major correction","lbl":"Negative"}
+,{"time":"8:25","usr":"etfdigest","txt":"$AAPL PE @ 14.3 vs $AMZN PE @ 280. Former seems reasonable while latter absurd. $$","lbl":"Neutral"}
+,{"time":"8:26","usr":"TheStreet","txt":"Stock Futures Pare Losses as GDP Shows U.S. Expansion http://t.co/zKCvIr2k by @atwtse $CMCSA $GT $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"8:26","usr":"TradingGuru","txt":"RT Analysts: $AMZN stock price will see major correction #Markets #WallStreet #Finance #Daytrade #NextTrade #Stx #CNBC #Watching #Stocks","lbl":"Negative"}
+,{"time":"8:26","usr":"TFMkts","txt":"Of all the things I don\u0027t understand & there are lots, $AMZN has to be most confusing. 6 cents total earnings in 9 mths but stk 179 -> 222?","lbl":"Negative"}
+,{"time":"8:36","usr":"TraderJive","txt":"$AMZN Trading higher after nice earnings miss. Go figure, and $AAPL is red.","lbl":"Negative"}
+,{"time":"8:37","usr":"wsmco","txt":"Bought to cover $AMZN Nov 2 195 puts at .20 for plus 1.20/contract profit","lbl":"Positive"}
+,{"time":"8:49","usr":"LimitBuyer","txt":"Well done - I\u0027m right there with you! RT @sssc $AMZN: no position, but i am watching the price & vol http://t.co/eaFtzHXW","lbl":"Neutral"}
+,{"time":"8:49","usr":"stockmonkeymom","txt":"RT @etfdigest: $AAPL PE @ 14.3 vs $AMZN PE @ 280. Former seems reasonable while latter absurd. $$","lbl":"Negative"}
+,{"time":"8:49","usr":"eminiking","txt":"$AMZN in bear killing mode","lbl":"Positive"}
+,{"time":"8:57","usr":"LeoKaplin","txt":"@Rocco_TheStreet: You do know $AMZN went from 265 to 225?","lbl":"Negative"}
+,{"time":"8:57","usr":"jonasQuinn23","txt":"Whoa! $amzn p/e is 2,979x and $AAPL has less than 15x. Where is sanity here?","lbl":"Negative"}
+,{"time":"8:57","usr":"parklandtrader","txt":"@RedDogT3Live @GuyAdami @cnbcfastmoney Take a bit of profit here $AMZN.. hold rest for year end run","lbl":"Neutral"}
+,{"time":"8:57","usr":"jkings1","txt":"U.S. Economy at Stall Speed; A.M. Gold Bounce; Cautious Outlooks from $AMZN & $AAPL; LIBOR Probe #GDP $GLD http://t.co/YnSR8gOs","lbl":"Negative"}
+,{"time":"9:13","usr":"moneymanjazz","txt":"RT @investools: The good bad and ugly $AAPL, $AMZN, $CERN, GDP, Greece all combine to make futures flat. Trade demo on $AMZN earnings https://t.co/zhF5Rpr1","lbl":"Neutral"}
+,{"time":"9:13","usr":"Stonefoxcapital","txt":"so $AAPL and $AMZN are both up, but the avg stock is down... uh","lbl":"Neutral"}
+,{"time":"9:14","usr":"alistairmbarr","txt":"Amazon $AMZN shares up more than 4 pct - spending spree to hurt margins now, boost profit later - analysts | Reuters - http://t.co/neCEIlQN","lbl":"Neutral"}
+,{"time":"9:14","usr":"NYSE_Arca","txt":"$STMP +16.97% $OSTK +6.30% $AMZN +3.71% $EBAY +1.74%","lbl":"Neutral"}
+,{"time":"9:31","usr":"Daniel_Aaron17","txt":"Of course $AMZN is up after losing 3x more than expected on light revenue. Will be looking to short it again soon. #RidiculousValuation","lbl":"Negative"}
+,{"time":"9:32","usr":"HarryWanger","txt":"$AMZN Jeffries views the third quarter results as solid and keeps a Buy rating on their stock with a $300 price target","lbl":"Positive"}
+,{"time":"9:49","usr":"geneyarsky","txt":"RT Citi\u0027s Manahey sceptical on $AMZN growth #Markets #WallStreet #Finance #Daytrade #NextTrade #CNBC #Watching #Stocks","lbl":"Negative"}
+,{"time":"9:49","usr":"StockBouncers","txt":"MiamiGent: $AMZN +3.18% @ 230.01, 2.25M http://t.co/KLbet7oT","lbl":"Neutral"}
+,{"time":"9:49","usr":"DividendMaster","txt":"$AMZN should do an $AMZN Daily Special of $1,000 gift certificates for $950 . Would be a revenue blowout and stock at $300+","lbl":"Neutral"}
+,{"time":"9:50","usr":"WindsorPartners","txt":"RT @DallasTexxxas: Would love to see $AAPL and $AMZN start to tank. Especially $AMZN. That stock deserves a medal for being a POS","lbl":"Negative"}
+,{"time":"10:08","usr":"geneyarsky","txt":"RT CITI\u0027s MAHANEY dismissal maybe related to $FB, $AMZN coverage #Markets #WallStreet #Finance #Daytrade #NextTrade #CNBC #Watching #Stocks","lbl":"Neutral"}
+,{"time":"10:09","usr":"SPEQL8R","txt":"@fundmyfund would luv to see retest of lows on $AAPL $AMZN; they get saved. Would be nice to see whoosh to $VIX 20-21; $JPM at 50 dema","lbl":"Negative"}
+,{"time":"10:35","usr":"Minyanville","txt":"Random Thoughts: Frankenstorm, GDP, Apple, and Amazon $AAPL $AMZN $GOOG http://t.co/bhsLulq5","lbl":"Neutral"}
+,{"time":"10:36","usr":"desifinance","txt":"@ChartMoMo I wouldn\u0027t call it same biz. Look at $AMZN repeat loyal customer base. Not sure I can say same about $EBAY. I am a Amazonoholic","lbl":"Positive"}
+,{"time":"10:36","usr":"MicroFundy","txt":"@axiosadvisors why 100%? it was either 62% or 65% (see my prev tweet). $GRPN down 58% same time frame. $AMZN","lbl":"Neutral"}
+,{"time":"10:37","usr":"rubiconcap","txt":"$AAPL & $AMZN rallied in the post-mkt yesterday after earnings, so all is well with the world....for now. Yet GDP slowing, earnings slowing","lbl":"Positive"}
+,{"time":"11:00","usr":"geneyarsky","txt":"RT $AMZN stock value not translated to its ERNGS #Markets #Business #WallStreet #Finance #Daytrade #NextTrade #Stx #CNBC #Watching #Stocks","lbl":"Negative"}
+,{"time":"11:01","usr":"TheStreet","txt":"The Few, the Proud, the Absurd: Amazon Bears Who Are Short - TheStreet http://t.co/eXF0BX4C by @Rocco_TheStreet $AMZN","lbl":"Negative"}
+,{"time":"11:01","usr":"TheStreet","txt":"Is $MSFT CEO Steve Ballmer Crazy? by @rocco_thestreet http://t.co/mE7IzHDG $GOOG $AMZN $RIMM","lbl":"Neutral"}
+,{"time":"11:16","usr":"trustfundbaby","txt":"RT @joemccann: FWIW, $AMZN P/E is 3,067, $FB is 238, $GOOG is 21 and $AAPL is 13.4","lbl":"Neutral"}
+,{"time":"11:17","usr":"HarryWanger","txt":"@Ktr8der @asymco $AMZN P/E is now 3,064.42. $AAPL P/E is now 13.46.\u201D QT Amazing! -Please why do people compare these... http://t.co/BGNfBkiI","lbl":"Neutral"}
+,{"time":"11:17","usr":"TradeAgainst","txt":"@optionmonster and $AMZN still hasn\u0027t figured out how to make money","lbl":"Negative"}
+,{"time":"11:43","usr":"geneyarsky","txt":"RT US MARKET SELL-OFF due to $AMZN $AAPL HUGE MISSES #Markets #Business #WallStreet #Finance #Daytrade #NextTrade #CNBC #Watching #Stocks","lbl":"Negative"}
+,{"time":"11:44","usr":"geneyarsky","txt":"RT $AMZN will see y\u0027day A/M lows 200 #Markets #WallStreet #Finance #Daytrade #NextTrade #CNBC #Watching #Stocks http://t.co/yCLwXPFW","lbl":"Negative"}
+,{"time":"11:44","usr":"iamnafets","txt":"My stock has a bigger P/E than your stock. $AMZN","lbl":"Neutral"}
+,{"time":"11:44","usr":"geneyarsky","txt":"RT $AMZN 5-x times expensive than $AAPL #Markets #Business #WallStreet #Finance #Daytrade #Investment #NextTrade #Stx #CNBC #Watching #Mkt","lbl":"Neutral"}
+,{"time":"12:12","usr":"TradingGuru","txt":"RT $AMZN compare to $AAPL P/E should cost $45 #Markets #Business #WallStreet #Finance #Daytrade #Investment #NextTrade #CNBC","lbl":"Negative"}
+,{"time":"12:12","usr":"onemikey","txt":"@TMFJMo still, we need to see exceptional profits from $AMZN at some point, right? How long can market wait? I ask this every quarter.","lbl":"Negative"}
+,{"time":"12:13","usr":"TradingGuru","txt":"RT $AMZN 5-x expensive than $AAPL was +12 #Markets #Business #WallStreet #Finance #Daytrade #Investment #NextTrade #CNBC","lbl":"Negative"}
+,{"time":"12:39","usr":"mikemost","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Neutral"}
+,{"time":"12:39","usr":"DavidForrest","txt":"This move in $AMZN is unbelievable.","lbl":"Neutral"}
+,{"time":"12:40","usr":"Jamtrades","txt":"$AMZN squeeze appears to be real boys and girls.","lbl":"Negative"}
+,{"time":"12:59","usr":"1mstewart","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Neutral"}
+,{"time":"13:00","usr":"isaac","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Neutral"}
+,{"time":"13:00","usr":"SeekingAlpha","txt":"Is Your Retail Portfolio Safe? http://t.co/RzkQDk8e $AMZN $LOW $OSTK $TGT $WMT $HD","lbl":"Neutral"}
+,{"time":"13:00","usr":"CapCube","txt":"$AMZN 235 calls went from $0.06 this morning (around 11 am) to $2.06","lbl":"Positive"}
+,{"time":"13:15","usr":"todd_harrison","txt":"Random Thoughts: Frankenstorm, GDP, Apple, and Amazon $AAPL $AMZN $GOOG http://t.co/QUFzfCWC via @minyanville","lbl":"Neutral"}
+,{"time":"13:15","usr":"Angelica_Pagan","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/JiNQ8BDP","lbl":"Neutral"}
+,{"time":"13:35","usr":"tradefast","txt":"i would like a do-over on this long scalp on $AMZN - post earnings yesterday - banking gains seemed smart at the time http://t.co/8JMuS5n7","lbl":"Positive"}
+,{"time":"13:35","usr":"InmanBillTST","txt":"Overlooked in Apple Noise, Good News From Smaller Names - TheStreet http://t.co/ByUYbvmV $AAPL $AMZN $ESIO $AVX","lbl":"Neutral"}
+,{"time":"13:53","usr":"BenCBanks","txt":"A close above 236 is needed for $amzn today","lbl":"Neutral"}
+,{"time":"13:53","usr":"paulwoll","txt":"Exited Earlier $AMZN put play loss of .08 due to volatilty stop on daily switched to green.","lbl":"Positive"}
+,{"time":"13:54","usr":"SPEQL8R","txt":"just a quick note- wasn\u0027t it just last month when everyone wanted $GOOG at 700 saying going to $1000? well totally ignored today $AAPL $AMZN","lbl":"Neutral"}
+,{"time":"14:12","usr":"parklandtrader","txt":"@GuyAdami @cnbcfastmoney @RedDogT3Live And now comes the few who still have not covered.. $AMZN $NFLX $AAPL $CAT $PHM","lbl":"Neutral"}
+,{"time":"14:12","usr":"BPGAG","txt":"$amzn just finished last scalp long for +1.5 - but think this could run into the close - but I\u0027m not putting other profits from day at risk","lbl":"Positive"}
+,{"time":"14:12","usr":"Stockpicks81","txt":"$amzn Being bid up every tick... Time for a reality check. Short more up here with puts...","lbl":"Negative"}
+,{"time":"14:12","usr":"PabloR0bles","txt":"RT @KeithMcCullough: Its mutual fund yr end early next wk, so they\u0027ll try to hold the $AAPL $AMZN $GOOG together me thinks","lbl":"Neutral"}
+,{"time":"14:32","usr":"wallstCS","txt":"Amazon\u0027s Post-Earnings Outlook, P&G Praised By Barron\u0027s: Consumer Business Report http://t.co/spmBszSO $AMZN $OSTK $EBAY $F $PG #stocks","lbl":"Neutral"}
+,{"time":"14:34","usr":"HarryWanger","txt":"$AMZN Stay long. It\u0027ll test HOY by early Dec.","lbl":"Positive"}
+,{"time":"14:49","usr":"JoanSanchis","txt":"RT @BloombergTV: Amazon\u0027s $199 Kindle Fire costs $202 to make #FastFact $AMZN","lbl":"Neutral"}
+,{"time":"14:50","usr":"KatyFinneran","txt":"Wild: RT @BloombergTV Amazon\u0027s $199 Kindle Fire costs $202 to make #FastFact $AMZN","lbl":"Neutral"}
+,{"time":"15:09","usr":"cronked","txt":"RT @Dasan: People, do you realize $AMZN is up 6.87% today after reporting first negative operating margins in years? This is what we\u0027re dealing with.","lbl":"Negative"}
+,{"time":"15:09","usr":"nicholasgomes","txt":"RT @SAI: Google\u0027s Cloud Goes Down Affecting Evernote, Instagram, Lots More $GOOG $AMZN by @Julie188 http://t.co/C7Wclsl0","lbl":"Neutral"}
+,{"time":"15:09","usr":"londonadvisor","txt":"RT\u201C@BloombergTV: Amazon\u0027s $199 Kindle Fire costs $202 to make #FastFact $AMZN\u201D","lbl":"Neutral"}
+,{"time":"15:46","usr":"matthewcjessup","txt":"Bezos: \u0022We run a different business model than Apple\u0022 RT @KatyFinneran: Amazon\u0027s $199 Kindle Fire costs $202 to make #FastFact $AMZN $AAPL\u201D","lbl":"Neutral"}
+,{"time":"15:49","usr":"gravicle","txt":"@DianePatterson @asymco $AMZN has a P/E of 290.18 while $APPL is at 14.20. http://t.co/l32MFl6A http://t.co/gNPnIfJx","lbl":"Neutral"}
+,{"time":"15:51","usr":"candreass1","txt":"RT @ericjackson: Bezos: \u0022We run a different business model than Apple\u0022 RT @KatyFinneran: Amazon\u0027s $199 Kindle Fire costs $202 to make #FastFact $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"16:37","usr":"roykissel","txt":"\u201C@nyckennedy: Yowza - RT @bloombergtv: Amazon\u0027s $199 Kindle Fire costs $202 to make #FastFact $AMZN\u201D It\u2019s a volume game.","lbl":"Neutral"}
+,{"time":"16:41","usr":"rocco_thestreet","txt":"This was one of the more entertaining weeks between $FB $AMZN $AAPL, yet it sort of went down as expected. Not many surprises.","lbl":"Negative"}
+,{"time":"17:35","usr":"SJosephBurns","txt":"@MrSteveLee $AMZN trades like it is 1999 all over again.","lbl":"Neutral"}
+,{"time":"17:35","usr":"jpinvestor89","txt":"@Stockpicks81 @taotaoli2001 $AMZN is weird for trading sometimes. . Down first then up on the first day of the ER even though missed.(cont)","lbl":"Negative"}
+,{"time":"18:48","usr":"DawgPhan","txt":"RT @MadMoneyOnCNBC: How Wall Street\u2019s Perception of Apple, Amazon Varies Greatly http://t.co/RJlsv7I5 $AAPL $AMZN #Earnings #CorporateLeaders #WallStreet","lbl":"Neutral"}
+,{"time":"21:21","usr":"DaveCV100","txt":"RT @MrBarrySchwartz: Maybe $AAPL should follow $AMZN lead and make no money, that\u0027s obviously how you get a reasonable P/E multiple.","lbl":"Negative"}
+,{"time":"21:28","usr":"BenCBanks","txt":"If $amzn falls to 234 I think all the bulls will be stepping in and swallowing the shorts whole.","lbl":"Positive"}
+,{"time":"21:30","usr":"ynggekko","txt":"@BenCBanks $AAPL priced 13X earnings...$AMZN priced 3000X earnings. g-d bless those prospective buyers.","lbl":"Neutral"}
+]

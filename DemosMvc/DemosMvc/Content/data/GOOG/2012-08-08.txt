@@ -1,0 +1,62 @@
+[
+{"time":"5:30","usr":"Frank_McG","txt":"RT @bored2tears: FT: #Internet giants forced into strategic shifts as users move to mobile. http://t.co/VKPacO0t $FB $GOOG $MSFT $YHOO #stocks","lbl":"Neutral"}
+,{"time":"6:00","usr":"douglas_blake","txt":"They should call Google + Hangouts what they really are: Nerd Herds $GOOG $$","lbl":"Neutral"}
+,{"time":"7:53","usr":"danielhsqr","txt":"daughter, 7 just texted me from moms iPhone off to town pool for swim lessons, #summer #modernpartenting $aapl $goog","lbl":"Neutral"}
+,{"time":"9:00","usr":"Dasan","txt":"It\u0027s credible that Samsung would buy/partner with $RIMM. They NEED an alternate OS in case $GOOG yanks Android someday, or is forced to","lbl":"Neutral"}
+,{"time":"9:02","usr":"aztecs99","txt":"$GOOG 645 weekly looks good here","lbl":"Positive"}
+,{"time":"9:03","usr":"thefinancepress","txt":"$GOOG Google To Invest In Digital Signature Firm: Google To Invest In Digital Signature Firm StocksandShares.TV... http://t.co/vokxv89S","lbl":"Neutral"}
+,{"time":"10:15","usr":"lubby732","txt":"RT @YahooFinance: Ex-Google exec\u0027s new venture helps students avoid corporate life http://t.co/6dh04ct7 $GOOG","lbl":"Neutral"}
+,{"time":"10:15","usr":"numberonetell","txt":"Maybe I am just biased as I get short, but $GOOG is looking like an easy risk/reward short here with the August 6 high as the stop.","lbl":"Negative"}
+,{"time":"10:16","usr":"Goodlett","txt":"$MSFT is only one w/ default of #DoNotTrack functions for both its OS+broswer - #Windows8 and #IE10 http://t.co/pQ1lV26u $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"11:12","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING 8% to NEW 52w high! MOASS -$LMCA buying?-115m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$wmt,$tgt,$v,$s","lbl":"Neutral"}
+,{"time":"11:12","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING 8% to NEW 52w high! MOASS -$LMCA buying?-116m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$wmt,$tgt,$v,$s","lbl":"Neutral"}
+,{"time":"11:13","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING 8% to NEW 52w high! MOASS -$LMCA buying?-117m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$wmt,$tgt,$v,$s","lbl":"Neutral"}
+,{"time":"11:14","usr":"thefinancepress","txt":"$GOOG Apple And Google Enter \u00273rd Phase\u0027 Of Smartphone War: Apple And Google Enter \u00273rd Phase\u0027 Of Smartphone Wa... http://t.co/RVNXsTwn","lbl":"Neutral"}
+,{"time":"11:49","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs MOASS -Moody UPGRADE-152m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$wmt,$tgt,$v,$s,$g","lbl":"Neutral"}
+,{"time":"11:51","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs MOASS -Moody UPGRADE-153m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$wmt,$tgt,$v,$s,$gs","lbl":"Neutral"}
+,{"time":"11:51","usr":"barronstechblog","txt":"RIM: Jefferies Reiterates Samsung Possibilities - Tech Trader Daily - Barron\u0027s $RIMM $GOOG $005930KS http://t.co/WOAwgCNf","lbl":"Neutral"}
+,{"time":"12:48","usr":"themotleyfool","txt":"Could $GOOG\u0027s PageRank help avert banking crises? Tracking critical connections: http://t.co/MgIa7pnC #NonFoolLink via @bloombergview","lbl":"Neutral"}
+,{"time":"12:50","usr":"LunchLady","txt":"RT @KatyFinneran: BREAKING: #Google unveils updated voice search app with Q&A for iPhone, iPad -- via @BloombergNews $GOOG","lbl":"Neutral"}
+,{"time":"12:52","usr":"wallstCS","txt":"Facebook Attorneys DEBATE Meaning of \u0022Like\u0022 and 4 Tech Titans on the Move http://t.co/ayyZZEeN $FB $AAPL $GOOG $MSFT $INTC #mkt","lbl":"Neutral"}
+,{"time":"13:13","usr":"businessinsider","txt":"Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/EdrOruMD","lbl":"Neutral"}
+,{"time":"13:13","usr":"SAI","txt":"Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/MzRMs0Xz","lbl":"Neutral"}
+,{"time":"13:13","usr":"AmandaMalia","txt":"RT @businessinsider: Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/EdrOruMD","lbl":"Neutral"}
+,{"time":"13:13","usr":"kskpdx","txt":"RT @businessinsider: Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/EdrOruMD","lbl":"Neutral"}
+,{"time":"13:34","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs MOASS -Headed to $5 per charts!- 220m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$","lbl":"Neutral"}
+,{"time":"13:34","usr":"akindolu","txt":"Trust googlers RT @SAI: Google Is Bringing Its Siri-Killer To iPhones And iPads $GOOG by @stevekovach http://t.co/L2gUmmiU","lbl":"Positive"}
+,{"time":"13:36","usr":"kozfinance","txt":"RT @businessinsider: Google Is Bringing Its Siri-Killer To iPhones And iPads $GOOG by @stevekovach http://t.co/d5QNGG2U","lbl":"Neutral"}
+,{"time":"13:37","usr":"tbake","txt":"Google Will Now Include Gmail sMessages In Your Search Results $GOOG by @_dtl http://t.co/v57cllpf","lbl":"Neutral"}
+,{"time":"13:56","usr":"AlwaysResist","txt":"RT @YahooFinance: Google to include people\u0027s Gmail in search results http://t.co/U2mljF2t $GOOG","lbl":"Neutral"}
+,{"time":"14:11","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs MOASS -Headed to $5 per charts!- 248m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$","lbl":"Neutral"}
+,{"time":"14:12","usr":"CLJB","txt":"RT @CeCe_23Spalding: RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/9ZAhAcsF","lbl":"Positive"}
+,{"time":"14:13","usr":"aLeXiScOBaiN","txt":"RT @businessinsider: Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/FSdgxUFK","lbl":"Neutral"}
+,{"time":"14:13","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs MOASS -Headed to $5 per charts!- 249m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$","lbl":"Neutral"}
+,{"time":"14:27","usr":"H_O_T_Follow","txt":"Android races past Apple in smartphone market share http://t.co/nYGiT70m $AAPL $GOOG --","lbl":"Neutral"}
+,{"time":"14:27","usr":"Chris_Yonan","txt":"RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/w5qf4t1b","lbl":"Positive"}
+,{"time":"14:27","usr":"Nizzyk99","txt":"RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/i5vshIEc","lbl":"Neutral"}
+,{"time":"14:39","usr":"srisri55","txt":"But u Agreed to all terms&conditions, remember? @mlserra @_dtl Dislike RT @businessinsider: Google Will Include Gmail Messages $GOOG","lbl":"Neutral"}
+,{"time":"14:39","usr":"Mahmoud_Hamouda","txt":"RT @CNNMoney: Android races past Apple in smartphone market share http://t.co/S9kREhWG $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"14:39","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs, Maxim price target $3.35! 300m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$s,$gs","lbl":"Neutral"}
+,{"time":"14:55","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs, Maxim price target $3.35! 317m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$s,$gs","lbl":"Neutral"}
+,{"time":"14:55","usr":"choffman1978","txt":"$SIRI (SirusXM) SURGING to NEW 52w highs, Maxim price target $3.35! 320m vol #cnbc,#msnbc,#nyse,$lmca,$wmt,$aapl,$bac,$s,$goog,$lmca,$s,$gs","lbl":"Neutral"}
+,{"time":"14:56","usr":"RatioTrader","txt":"$GOOG fielding testing feature that will include results from users\u2019 Gmail accounts in their searches: http://t.co/ff6v88si","lbl":"Neutral"}
+,{"time":"14:57","usr":"JJax_","txt":"RT @businessinsider: Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/EdrOruMD","lbl":"Neutral"}
+,{"time":"15:33","usr":"Hadramie","txt":"RT @businessinsider: Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/EdrOruMD","lbl":"Neutral"}
+,{"time":"15:34","usr":"SAI","txt":"CHART OF THE DAY: Even At $21, Facebook Is Still Overpriced $FB $AMZN $LNKD $AAPL $GOOG by @jyarow http://t.co/LCU8OqTP","lbl":"Neutral"}
+,{"time":"15:35","usr":"thefinancepress","txt":"$GOOG Google, Inc. (GOOG), Oracle Corporation (ORCL) Ordered to Reveal Paid ...: Google, Inc. (GOOG), Oracle Co... http://t.co/DwfwccgD","lbl":"Neutral"}
+,{"time":"15:35","usr":"ernieschell","txt":"RT @SAI: CHART OF THE DAY: Even At $21, Facebook Is Still Overpriced $FB $AMZN $LNKD $AAPL $GOOG by @jyarow http://t.co/LCU8OqTP","lbl":"Neutral"}
+,{"time":"16:03","usr":"shagarienyc","txt":"Google Now, a mobile search solution that delivers traditional and voice-based results, coming to iOS devices http://t.co/MUFhq8mn $GOOG","lbl":"Neutral"}
+,{"time":"16:04","usr":"NeddATTan","txt":"Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/hWCN0cpo","lbl":"Neutral"}
+,{"time":"16:06","usr":"aixanz","txt":"RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/i5vshIEc","lbl":"Positive"}
+,{"time":"16:47","usr":"HizakiV","txt":"RT @businessinsider: Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/EdrOruMD","lbl":"Neutral"}
+,{"time":"16:50","usr":"Sentimentcharts","txt":"RT @valuewalk: S&P 500 Dividend Payments Reach a 13 Year High http://t.co/qzHgQn1C $XOM $SPY $GME $DELL $GOOG $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"17:23","usr":"intersrchmedia","txt":"Google To Include Gmail In Search Engine Result Pages-Will This Decrease PPC Spend? http://t.co/eYG7POXa $GOOG $QQQ #PPC","lbl":"Neutral"}
+,{"time":"17:23","usr":"celestichukumba","txt":"Google To Include Gmail In Search Engine Result Pages-Will This Decrease PPC Spend? http://t.co/GOdPjvNa $GOOG $QQQ #PPC","lbl":"Neutral"}
+,{"time":"17:23","usr":"torycapital","txt":"Google To Include Gmail In Search Engine Result Pages-Will This Decrease PPC Spend? http://t.co/chDoZHct $GOOG $QQQ #PPC","lbl":"Neutral"}
+,{"time":"17:23","usr":"intersrchmedia","txt":"Google To Include Gmail In Search Engine Result Pages-Will This Decrease PPC Spend? http://t.co/eYG7POXa $GOOG $QQQ... http://t.co/E6SOa8ma","lbl":"Neutral"}
+,{"time":"18:41","usr":"rhbinvest","txt":"MEANWHILE, Google Is About To Make Apple\u0027s Siri Look Like A Joke | #NASDAQ #in $GOOG $AAPL http://t.co/XryllhLd","lbl":"Positive"}
+,{"time":"18:45","usr":"arabiadev","txt":"RT @businessinsider: Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/i5vshIEc","lbl":"Positive"}
+,{"time":"20:42","usr":"Dim_Zaharakis","txt":"Google Is About To Make Apple\u0027s Siri Look Like A Joke $GOOG $AAPL by @stevekovach http://t.co/wiHYTWvv","lbl":"Positive"}
+,{"time":"20:47","usr":"rgruia","txt":"RT @jpnKevin_T Google Is About To Make Apple\u0027s Siri Look Like A Joke http://t.co/O8VAvY5o $GOOG has search & $AAPL doesn\u0027t so it\u0027s expected","lbl":"Neutral"}
+,{"time":"20:51","usr":"sdaas","txt":"WTF? RT @businessinsider: Google Will Now Include Gmail Messages In Your Search Results $GOOG by @_dtl http://t.co/dhY3AQUo","lbl":"Neutral"}
+]

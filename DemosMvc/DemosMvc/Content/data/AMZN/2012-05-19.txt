@@ -1,0 +1,9 @@
+[
+{"time":"4:09","usr":"marovdan","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"4:15","usr":"DavidGibbons","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"4:15","usr":"casey__allen","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"4:37","usr":"nickste","txt":"RT @bgurley: Like $FB, $AMZN was \u0022optimally priced\u0022 on 5/17/97 The stock broke issue, and stayed below til 7/6. No one remembers. http://t.co/7OLXSSdY","lbl":"Neutral"}
+,{"time":"14:42","usr":"Qwovadis","txt":"Commented on: \u0022Dell\u0027s Dim Dilemma: The Stock Story Of The Coming Week\u0022 http://t.co/XsQjc2ZB $AAPL $AMZN $HPQ $DELL","lbl":"Neutral"}
+,{"time":"21:34","usr":"USwwwStocks","txt":"$AMZN News: Up The Amazon Without A Paddle http://t.co/laweZ3aM #AMZN #Amazon #News","lbl":"Neutral"}
+,{"time":"21:49","usr":"StckBull","txt":"RT @stock_pandit: 10 Stocks With Strong Growth & Attractive Valuation http://t.co/FUDdgyGX $AMD $CAT $DAL $JBLU $LCC $LUV $NBR $TXT $WDC $BAC $AMZN $NFLX GRPN","lbl":"Neutral"}
+]

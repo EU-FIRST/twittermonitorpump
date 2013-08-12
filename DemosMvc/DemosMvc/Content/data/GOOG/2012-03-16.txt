@@ -1,0 +1,29 @@
+[
+{"time":"3:50","usr":"SeekingAlpha","txt":"Yahoo: Alibaba And Yahoo Japan No Longer Matter http://t.co/JTnwwFSA $DIS $EBAY $FB $GOOG $HPQ $MAR $MSFT $ALBCF.PK $YHOO","lbl":"Neutral"}
+,{"time":"4:06","usr":"USwwwStocks","txt":"$GOOG News: Yahoo: Alibaba And Yahoo Japan No Longer Matter http://t.co/ENaB9vgN #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"4:13","usr":"richi","txt":"Pwn2Own and Pwnium: Traps, Hacks, and NERDFIGHT #HPIO UK http://t.co/WJiIofR7 /by @fjfonseca $GOOG #brony","lbl":"Neutral"}
+,{"time":"6:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/68, $GOOG/19, $SPY/11, $MSFT/10, $EBAY/9, $GLD/9, $GS/9, $WMT/6, $BAC/5. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"6:37","usr":"macsmarts","txt":"\u201C@SAI: Google Might Have To Pay Unbelievable Fines For Privacy Violations $GOOG by @_dtl http://t.co/yZIh4kSW\u201D I\u0027ll take direct deposit.","lbl":"Negative"}
+,{"time":"6:37","usr":"elvicks","txt":"RT @SAI: Google Might Have To Pay Unbelievable Fines For Privacy Violations $GOOG by @_dtl http://t.co/U7tuSO2e","lbl":"Negative"}
+,{"time":"6:40","usr":"ReutersInsider","txt":"Get your dose of morning news! $GOOG snooping around your browser & the #iPad3 is here! Check it out: http://t.co/4AwAHpW3","lbl":"Negative"}
+,{"time":"8:59","usr":"xlcjlx","txt":"RT @TheStreet: Inside the Bell Labs Innovation Factory $TSLA $T $ALU $GOOG http://t.co/xzOuHfo4 by @5GsOnTheStreet [video]","lbl":"Neutral"}
+,{"time":"9:01","usr":"LivingThankful","txt":"Eyes on market: $CME $GLD $AAPL $SPY $GOOG #options","lbl":"Neutral"}
+,{"time":"9:02","usr":"DaniChicarito","txt":"@ElliotTurn Yes, thing with $GOOG it has got technically a bit stuck I think and weak H1 of the year stock. BIDU will see multiple compress","lbl":"Negative"}
+,{"time":"10:30","usr":"SeekingAlpha","txt":"The Beauty Of The \u0027Neutral Calendar Spread\u0027 Using Weekly Options http://t.co/RDxA1uvv $AAPL $CF $GOOG $MCP $QQQ $BA $CRM $IBM","lbl":"Neutral"}
+,{"time":"10:30","usr":"NFPW","txt":"RT @sai: 8 Great Android Apps You\u0027ve Been Missing Out On Lately $GOOG by @stevekovach http://t.co/c3SONL3r","lbl":"Neutral"}
+,{"time":"10:31","usr":"cryptblade","txt":"Former Google Exec says Larry Page\u0027s obsession with FB & social ruined co. http://t.co/9PvpersQ $GOOG","lbl":"Negative"}
+,{"time":"10:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/240, $BAC/54, $SPY/48, $AMRN/27, $FSLR/23, $GS/23, $GOOG/21, $RIMM/18. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:28","usr":"MogulAzam","txt":"RT @firstadopter: Report $GOOG 7 inch tablet w/real OS to launch at a STUNNING $149-199 price vs. $199-249 to crush $AMZN Kindle Fire http://t.co/G72xTWyx","lbl":"Positive"}
+,{"time":"11:28","usr":"ppearlman","txt":"RT @firstadopter Report $GOOG 7in tablet w/real OS to launch at $149-199 price vs. $199-249 to crush $AMZN Kindle Fire http://t.co/lqmfYwLU","lbl":"Neutral"}
+,{"time":"11:30","usr":"josephjpeters","txt":"RT @firstadopter: Report $GOOG 7 inch tablet w/real OS to launch at a STUNNING $149-199 price vs. $199-249 to crush $AMZN Kindle Fire http://t.co/G72xTWyx","lbl":"Positive"}
+,{"time":"11:31","usr":"firstadopter","txt":"If $GOOG really does launch 7 inch tablet at $149, that would be game set match death-blow to $AMZN Kindle Fire and $BKS Nook Tablet","lbl":"Neutral"}
+,{"time":"12:08","usr":"HumbleBioTrader","txt":"RT @SAI: RUMOR: Google Is Getting Ready To Release A $150 Answer To The Kindle Fire $GOOG $AAPL $AMZN $MSFT by @jyarow http://t.co/kVNZKAW3","lbl":"Neutral"}
+,{"time":"12:39","usr":"StkConfidential","txt":"$GOOG continuing to rebound nicely today. $$","lbl":"Positive"}
+,{"time":"13:49","usr":"61point8","txt":"I\u0027ve been patiently looking at $GOOG, waiting for a spike to $629-$632 to go short down to $580, and then long.","lbl":"Negative"}
+,{"time":"13:53","usr":"FontanillaJr","txt":"Goldman Sachs, you are not the only empire in town. #siliconvalley #niners #49ers $AAPL $GOOG $GS #santaclara","lbl":"Neutral"}
+,{"time":"14:03","usr":"EvolvingMedium","txt":"YouTube Crushes Online Video Competitors (GOOG, NFLX, YHOO, VIA, AOL, MSFT ... $goog - http://t.co/iMFMNjdP","lbl":"Positive"}
+,{"time":"15:33","usr":"Ktr8der","txt":"@CNBC Cortes\u0027 compared $AAPL\u0027s recent run to $GOOG 2007 run. Here\u0027s what he left off. GOOG\u0027s PE was 52x. See 5yr data http://t.co/iFFdlTL4","lbl":"Neutral"}
+,{"time":"15:53","usr":"HumbleBioTrader","txt":"RT @Ktr8der: @CNBC Cortes\u0027 compared $AAPL\u0027s recent run to $GOOG 2007 run. Here\u0027s what he left off. GOOG\u0027s PE was 52x. See 5yr data http://t.co/iFFdlTL4","lbl":"Neutral"}
+,{"time":"18:36","usr":"USwwwStocks","txt":"$GOOG News: Share a Car, Risk Your Insurance http://t.co/MfHekBNA #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"18:46","usr":"TheRomit","txt":"VP of Google Apps leaving the company, and the group going under Chrome VP. Interesting, to say the least. $GOOG","lbl":"Neutral"}
+]

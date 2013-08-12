@@ -1,0 +1,21 @@
+[
+{"time":"3:54","usr":"$GOOG","txt":"RT @SAI: Google Plus Has 90 Million Users, 60% Come Back Every Day $GOOG by @nichcarlson http://t.co/kZNPY30W","lbl":"Neutral"}
+,{"time":"4:40","usr":"sean_low95","txt":"RT @SAI: CHART OF THE DAY: Apple Is Now Twice As Valuable As Google $GOOG $AAPL by @jyarow http://t.co/1LO3pOqY","lbl":"Negative"}
+,{"time":"4:51","usr":"avantgo","txt":"RT @SAI: CHART OF THE DAY: Apple Is Now Twice As Valuable As Google $GOOG $AAPL by @jyarow http://t.co/CzEh23us","lbl":"Neutral"}
+,{"time":"10:09","usr":"EGulc","txt":"RT @SAI: CHART OF THE DAY: Apple Is Now Twice As Valuable As Google $GOOG $AAPL by @jyarow http://t.co/CzEh23us","lbl":"Neutral"}
+,{"time":"10:10","usr":"EGulc","txt":"RT @SAI: CHART OF THE DAY: Apple Is Now Twice As Valuable As Google $GOOG $AAPL by @jyarow http://t.co/Wf7QDqvL","lbl":"Neutral"}
+,{"time":"10:16","usr":"TopProsTopPicks","txt":"$SPY $DIA $QQQ $GOOG $GLD The Week Ahead: Wait to Buy Lower Patience is Key http://t.co/u9aX3ot9","lbl":"Neutral"}
+,{"time":"10:18","usr":"STnet","txt":"Chart of the Day: Apple vs Google | via @AllStarCharts http://t.co/WeQ5fptD $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:52","usr":"chelseysm1th","txt":"Google Kills Photo-Sharing Service Picnik, Plus More Products $GOOG http://t.co/8fRbhnxI via @sai","lbl":"Neutral"}
+,{"time":"11:58","usr":"jameswales","txt":"RT @BrianSHall: Peak Google? Because iPhone is now worth more than Google ($GOOG). | brian s hall http://t.co/excay3j6","lbl":"Neutral"}
+,{"time":"12:02","usr":"1nvestor","txt":"Gap Fills starring $GOOG http://t.co/qID88zpK","lbl":"Positive"}
+,{"time":"12:02","usr":"ACInvestorBlog","txt":"Buying on Weakness $GOOG $QCOM $CVS $CAT $CVX $KFT $TOT $HD $AMZN $MMM $NWSA $AXP $MON $HON $WAG $TROW $NOV $APA $V $VZ $COL $NSC $PCP $PX","lbl":"Positive"}
+,{"time":"15:27","usr":"WilkiFinancial","txt":"Stocks Worth Buying Before Earnings Week 2: Jan. 23-27 - Seeking Alpha http://t.co/cE9oI1w1 $AAPL $GOOG $CAT $MCD $NFLX $TPX $AXP","lbl":"Positive"}
+,{"time":"15:32","usr":"gtotoy","txt":"$GOOG long term resistance is 592.30 . It\u0027s been on my chart for years. @melissasmith08","lbl":"Neutral"}
+,{"time":"15:33","usr":"stockpicks64","txt":"$GOOG - Google Stock Analysis - RSI is bearish and falling - http://t.co/R2dYEGht","lbl":"Negative"}
+,{"time":"15:35","usr":"gtotoy","txt":"not at machine right now.. hit my blog or my chart.ly and search $GOOG @melissasmith08","lbl":"Neutral"}
+,{"time":"19:16","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AAPL $MSFT $GOOG @simplestockqtes http://t.co/eRSxySuh","lbl":"Neutral"}
+,{"time":"19:21","usr":"tdarling1","txt":"@jimcramer looking forward to your $goog v $msft analysis","lbl":"Neutral"}
+,{"time":"19:27","usr":"iancassel","txt":"What $GOOG did to internet advertising is what $RVUE is doing to the digital signage industry. #rvue #digsignagetoday #makingiteasier","lbl":"Positive"}
+,{"time":"19:28","usr":"multistagecorre","txt":"http://t.co/n2EdTbIA $PRU=strongbuy $KO=strongbuy $AAPL=strongbuy $GOOG=strongbuy $HES=strongbuy $BTU=strongbuy $MET=strongbuy $FLR=strongbu","lbl":"Positive"}
+]

@@ -1,0 +1,80 @@
+[
+{"time":"5:11","usr":"kapso","txt":"RT @SAI: Sergey Brin: Facebook And Apple Pose Serious Threats To Internet Freedom $GOOG $FB $AAPL by @_dtl http://t.co/p0lN9Cpe","lbl":"Neutral"}
+,{"time":"5:13","usr":"lluccipha","txt":"SAI: Sergey Brin: Facebook And Apple Pose Serious Threats To Internet Freedom $GOOG $FB $AAPL by @_dtl http://t.co/6vwz7pAp","lbl":"Neutral"}
+,{"time":"5:20","usr":"stirlo","txt":"\u201C@SAI: Sergey Brin: Facebook And Apple Pose Serious Threats To Internet Freedom $GOOG $FB $AAPL by @_dtl http://t.co/vAjH4kHo\u201D uhhhh","lbl":"Neutral"}
+,{"time":"5:21","usr":"infoarbitrage","txt":"Third-class shares http://t.co/XhgpJWuH a blunt critique of $GOOG\u0027s move towards further entrenchment","lbl":"Negative"}
+,{"time":"6:32","usr":"d_ramsden","txt":"If $GOOG is scared of $FB, $FB seems sort of spooked by $AAPL (i.e., mobile) & $AMZN (i.e., commerce). http://t.co/UvYqRRRZ $$","lbl":"Negative"}
+,{"time":"6:34","usr":"BizBeatTz","txt":"RT @SeekingAlpha: Weekly Stock Watch: April 16-20 http://t.co/B4jYrzRN $FB $GOOG $BAC $C $DNDN $HGSI $AGEN $IMSC.PK $PIMO.OB $CELH.PK","lbl":"Neutral"}
+,{"time":"6:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/27, $GOOG/22, $C/20, $SPY/14, $NOK/12, $GS/12, $MSFT/8, $DANG/8, $MAT/7. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"8:03","usr":"MNYCx","txt":"On watch: $GOOG if it can recoup some losses from Friday","lbl":"Neutral"}
+,{"time":"8:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $C/110, $AAPL/46, $SPY/36, $GOOG/18, $RENN/9, $HALO/9, $NFLX/8, $GLD/8, $FSLR/8. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"8:06","usr":"AlexRubalcava","txt":"Correction on an earlier tweet. I said $GOOG\u0027s TTM net income almost equals $FB\u0027s TTM revenue. I meant $GOOG\u0027s last quarter income!","lbl":"Neutral"}
+,{"time":"8:08","usr":"thefinancepress","txt":"$GOOG Google (NASDAQ: GOOD) Earnings Report Reveals CPC Woes - Fred Dunsel (04/16/12): Google (NASDAQ: GOOD) Ea... http://t.co/D4cKTqUn","lbl":"Neutral"}
+,{"time":"8:41","usr":"TraderInPlay","txt":"$AMZN, $GOOG, $WYNN notable rel. weakness in $QQQ early","lbl":"Negative"}
+,{"time":"8:41","usr":"srisri55","txt":"out of those $GOOG puts for nice gain from friday. Bot $AAPL calls. Will see how $AAPL acts today.","lbl":"Positive"}
+,{"time":"8:42","usr":"Cambridge_Legal","txt":"RT @ReutersLegal: #Oracle suit vs. #Google over Android trial set to being this morning http://t.co/UF6mXUGp by @FedCourtJunkie $ORCL $GOOG","lbl":"Neutral"}
+,{"time":"8:43","usr":"Superrfly","txt":"Sorry but $GOOG your new layout SUCKS...and google finance never works right! #FLUSHTHATTURD","lbl":"Negative"}
+,{"time":"8:53","usr":"SmartStops","txt":"$GOOG Triggered a SmartStops Risk Alert http://t.co/6rELnatl","lbl":"Positive"}
+,{"time":"8:53","usr":"TraderFlorida","txt":"$GOOG $AAPL peeling off move shares - nice profits (lower stop to protect profits)","lbl":"Neutral"}
+,{"time":"8:53","usr":"punk_army","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/SvrV6QnQ #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"8:54","usr":"tototrade","txt":"RT @bespokeinvest: Apple, Google getting smoked. $AAPL $GOOG $$","lbl":"Negative"}
+,{"time":"9:07","usr":"stickmantoo","txt":"RT @LaMonicaBuzz: $GOOG fined a whopping $25K by FCC. Should we start a charity drive for Larry, Sergey and Eric? That would be super exciting.","lbl":"Neutral"}
+,{"time":"9:07","usr":"jlaich","txt":"RT @Vconomics: Should have bought weekly puts in $GOOG which are now up 250%. Wasn\u0027t thinking straight without my coffee (off coffee this week).","lbl":"Negative"}
+,{"time":"9:07","usr":"JanezFilipich","txt":"$aapl $goog $egt $asyi $neom $afbg","lbl":"Neutral"}
+,{"time":"9:07","usr":"racernic","txt":"there we go people. keep your heads screwed on straight. panic will make you no money $AAPL $PCLN $GOOG","lbl":"Neutral"}
+,{"time":"9:25","usr":"Tangletrade","txt":"@jimcramer I think you have a bunch of folks that missed pin plays on $AAPL and $GOOG Friday and were put stock this weekend","lbl":"Neutral"}
+,{"time":"9:25","usr":"CDMCapital","txt":"Feel like we are seeing some mean reversion/rotation $SBUX $PCLN $AAPL $GOOG, names that ran the most getting hit hard, others flattish...","lbl":"Neutral"}
+,{"time":"9:26","usr":"CBOE","txt":"Active options on open @ CBOE: $AAPL $GOOG $C $BAC $ JPM $BAC $T $CAT $INTC","lbl":"Neutral"}
+,{"time":"9:35","usr":"tkuz4u","txt":"RT @SAI: Sergey Brin: Facebook And Apple Pose Serious Threats To Internet Freedom $GOOG $FB $AAPL by @_dtl http://t.co/p0lN9Cpe","lbl":"Neutral"}
+,{"time":"9:35","usr":"ampressman","txt":"Likely won\u0027t be owned by index funds -- $GOOG: \u2018C\u2019 Shares Could Sell-Off Post Split, Says JP Morgan - http://t.co/uHRD8o7x","lbl":"Neutral"}
+,{"time":"9:36","usr":"CNNMoney","txt":"RT @LaMonicaBuzz: Momentum\u0027s a female dog. Hot stocks with triple-digit share prices -- $PCLN $GOOG $MA $AAPL $CMG $FOSL $AMZN -- all down about 2% today.","lbl":"Negative"}
+,{"time":"9:55","usr":"equitiescom","txt":"Patent wars continue as Oracle suit over Google Android sets trial http://t.co/yfZA2uFB $GOOG","lbl":"Negative"}
+,{"time":"9:55","usr":"equitiesgroup","txt":"Patent wars continue as Oracle suit over Google Android sets trial http://t.co/9OIKaP7b $GOOG","lbl":"Negative"}
+,{"time":"9:55","usr":"EquitiesNetwork","txt":"Patent wars continue as Oracle suit over Google Android sets trial http://t.co/5p317ypD $GOOG","lbl":"Negative"}
+,{"time":"10:24","usr":"eimei_c","txt":"\u201C@YahooFinance: Google fined $25,000 for impeding FCC investigation http://t.co/14RSfydg $GOOG\u201D","lbl":"Negative"}
+,{"time":"10:25","usr":"Le_bish","txt":"RT @YahooFinance: Google fined $25,000 for impeding FCC investigation http://t.co/lLFUyPXS $GOOG","lbl":"Negative"}
+,{"time":"10:25","usr":"PlanMaestro","txt":"Why Facebook Terrifies Google Fhttp://www.readwriteweb.com/archives/why_facebook_terrifies_google.php $GOOG $FB","lbl":"Negative"}
+,{"time":"10:26","usr":"kiastora","txt":"RT @bgurley: I know why people don\u0027t like the $GOOG split, but I still say the shareholders should have had no other expectation. http://t.co/jvMWxBpR","lbl":"Negative"}
+,{"time":"10:50","usr":"justmegregory","txt":"Likely $GOOG sees the 200SMA ??","lbl":"Neutral"}
+,{"time":"10:50","usr":"TMFChrisHill","txt":"RT @BryanHinmon: On $GOOG returning to its roots: \u0022Let\u0027s face it. This whole \u0027act like a start-up\u0027 business is insincere rubbish.\u0022 http://t.co/wDVektcZ","lbl":"Neutral"}
+,{"time":"10:50","usr":"ThisFuckinGuy3","txt":"RT @themotleyfool: Google\u0027s ($GOOG) new share structure lets you share the wealth -- but takes away your vote on the company\u0027s future: http://t.co/OVcrxBp1","lbl":"Neutral"}
+,{"time":"11:13","usr":"flashrouters","txt":"RT @businessinsider: The 9 Best Tablets You Can Buy For $400 Or Less $GOOG $AMZN by @stevekovach http://t.co/M7nqTU7g #tablettime","lbl":"Neutral"}
+,{"time":"11:13","usr":"lluccipha","txt":"SAI: The 9 Best Tablets You Can Buy For $400 Or Less $GOOG $AMZN by @stevekovach http://t.co/uveyqa3e","lbl":"Neutral"}
+,{"time":"11:13","usr":"StkConfidential","txt":"If you\u0027re not shorting $PCLN, $AAPL, $TNH, $GOOG, $CMG, etc. this pullback ahead of earnings will create some nice rebound setups. $STUDY","lbl":"Negative"}
+,{"time":"11:14","usr":"DavidConklin21","txt":"Bought $GOOG at $604 area. Looking for$615. Risk the low of the day $601.","lbl":"Positive"}
+,{"time":"12:05","usr":"optionsinfocus","txt":"@jimcramer @thestreet So your breaking your probation rule for earnings miss? Not once but 2 quarters in a row? $GOOG","lbl":"Neutral"}
+,{"time":"12:05","usr":"wallstCS","txt":"Apple Rumored to Reveal This New Device http://t.co/HTaMUFS3 $AAPL $MSFT $AMZN $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"12:06","usr":"richi","txt":"RT @Computerworld: RT @richi: Android on trial: Oracle v Google circus opens today #ITBW http://t.co/bIrhdc6A $ORCL $GOOG","lbl":"Neutral"}
+,{"time":"12:07","usr":"Sangluccitrades","txt":"Viktor wins the $GOOG #Cheesesteak bet and orders a lame Italian... No love for the #Cheesesteak out here... http://t.co/ok4otSuM","lbl":"Neutral"}
+,{"time":"12:32","usr":"GuruPortfolio","txt":"Steven Romick - FPA Crescent Fund Portfolio Update (portfolio as of 04/16/2012): Buy: $GOOG, $IPG, $BAC, Add: ... http://t.co/neOHKMsv","lbl":"Neutral"}
+,{"time":"12:32","usr":"bofan82","txt":"RT @businessinsider: 12 Apps That Will Help You Quit Instagram Forever $FB $AAPL $GOOG $MSFT by @_dtl http://t.co/7qcEvAKv","lbl":"Neutral"}
+,{"time":"13:58","usr":"DavidConklin21","txt":"Big turn around in the $NASDAQ. Still long $GOOG and just bought $AAPL $600 May calls that I will take into earnings.","lbl":"Positive"}
+,{"time":"13:58","usr":"elvicks","txt":"RT @MarketWatch: Shares of Apple and Google have slipped today, leading a tech sector retreat. $AAPL down about 3%, $GOOG slid 2.6% http://t.co/vpKmM6ZN","lbl":"Negative"}
+,{"time":"13:58","usr":"TrdrFloridaFan","txt":"$goog 600 in 2007 and now 600 LOL. so much for \u0027innovation\u0027 :-)","lbl":"Neutral"}
+,{"time":"13:58","usr":"sspencer_smb","txt":"@LazT3Live sign of a healthy market when every stock isn\u0027t 99% correlated $SPY $AAPL $DJI $GOOG http://t.co/1QmkKqps","lbl":"Neutral"}
+,{"time":"14:39","usr":"Sophistrybuster","txt":"Do you people at @CNBC actually have the hubris and temerity to call yourselves journalists? $SPY $GOOG $AAPL $MSFT $IBM #ShitCNBCSays","lbl":"Neutral"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"Priceline Will Beat Apple And Google To $1,000 http://t.co/QDnjbVD1 $AAPL $CTRP $EXPE $GOOG $OWW $PCLN","lbl":"Neutral"}
+,{"time":"14:41","usr":"ronellman","txt":"$GOOG and $AAPL locked in a tight race to the finish.","lbl":"Neutral"}
+,{"time":"14:44","usr":"TraderFlorida","txt":"$PCLN $GOOG $AAPL strong shorts today sweet","lbl":"Negative"}
+,{"time":"15:13","usr":"TrdrFloridaFan","txt":"surprisingly $goog and $aapl looks not so oversold. hmmm....","lbl":"Negative"}
+,{"time":"15:17","usr":"BigTicks","txt":"$GOOG News: Google stock slips as pricing trend weighs http://t.co/rpRIr3qq #stocks #NYSE #NASDAQ #trading","lbl":"Neutral"}
+,{"time":"15:19","usr":"dlwasylyk","txt":"Oh $GOOG, you Judas. Existing share dilution, garbage non-voting \u0022C\u0022 shares? That\u0027s so brazen, I think Facebook is blushing.","lbl":"Negative"}
+,{"time":"15:50","usr":"thefinancepress","txt":"$GOOG Cobalt, Google, Mattel, Spreadtrum, Vornado: U.S. Equity Movers: Cobalt, Google, Mattel, Spreadtrum, Vorn... http://t.co/fGa39qN8","lbl":"Neutral"}
+,{"time":"15:50","usr":"SeekingAlpha","txt":"Dear Northland Securities, Nokia Won\u0027t Outperform Pt. II http://t.co/Kdp8CRdd $AAPL $GOOG $RIMM $NOK","lbl":"Neutral"}
+,{"time":"15:50","usr":"YOCCSS","txt":"RT @SAI: Why Google\u0027s \u0027Open\u0027 Complaint About Facebook And Apple Is Bunk $GOOG $AAPL $FB by @MattRosoff http://t.co/fYZE2RHu","lbl":"Neutral"}
+,{"time":"15:51","usr":"Zidd0","txt":"RT @SAI: Here Are Some Leaked Details On Google\u0027s New Dropbox Wannabe $GOOG by @stevekovach http://t.co/U197wbnO","lbl":"Negative"}
+,{"time":"16:39","usr":"ea32da32","txt":"RT @TraderFlorida: $GOOG $PCLN $AAPL these market leaders lead the market higher and now are leading the charge down - take the hint","lbl":"Negative"}
+,{"time":"16:41","usr":"TraderFlorida","txt":"Once the leaders stop moving, it\u2019s a signal to raise cash. $AAPL $PCLN $GOOG etc. $study","lbl":"Neutral"}
+,{"time":"16:41","usr":"jannarone","txt":"MGM, YouTube Strike Deal http://t.co/EkgzpTp9 via @WSJ $GOOG","lbl":"Neutral"}
+,{"time":"16:42","usr":"thomasonjdt","txt":"JT\u0027s OPTIMUM STOCK INVESTING Daily Blog Update for 04/16/2012 5:15 PM http://t.co/V2uulq7N #dividendstocks $C $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"17:45","usr":"StratusG_MWod","txt":"RT @SeekingAlpha: Nokia And RIM: A Tale Of Two Pasts http://t.co/cbuoKUXV $AAPL $GOOG $IMMR $MSFT $NOK $RIMM","lbl":"Neutral"}
+,{"time":"17:48","usr":"optionspirate","txt":"Google X research facility and its secret projects http://t.co/yELF9kyn #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"17:58","usr":"ukarlewitz","txt":"Selling good news: last week, $JPM and $GOOG solid results. This week, good retail sales","lbl":"Neutral"}
+,{"time":"18:00","usr":"BioStockAddict","txt":"RT @Trending123: RT @CapstoneTrader A few days ago it was which would hit $1000 first. Now it\u0027s which will hit $500 first. $AAPL $GOOG (LOL)","lbl":"Neutral"}
+,{"time":"19:53","usr":"Grazen","txt":"@ListonTech @BYRONFBERRY Wake me up when $GOOG gets some value from all of the sabbaticals it provides employees.","lbl":"Neutral"}
+,{"time":"19:54","usr":"chrispycrunch","txt":"Sergey Brin says the internet is under attack by governments, Apple and Facebook http://t.co/Qx0xyT39 via @engadget $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"21:58","usr":"conorsen","txt":"@trdraaron Qualitatively I look at the company as the $GOOG of professional connections and insight, if that helps. $LNKD","lbl":"Neutral"}
+,{"time":"22:00","usr":"SeekingAlpha","txt":"Vringo: Should You Follow Mark Cuban? An Examination Of His Past Deals http://t.co/4lAGgMpY $CKEC $GOOG $LGF $LNET $RDI $RENT","lbl":"Neutral"}
+,{"time":"22:05","usr":"Goodlett","txt":"$ORCL lawsuit against $GOOG for IP infringement misses deadline to resolve and heads to trial which can\u0027t be good http://t.co/emeh8kL1","lbl":"Neutral"}
+,{"time":"22:15","usr":"tomas_vavra","txt":"RT @SAI: Here Are Some Leaked Details On Google\u0027s New Dropbox Wannabe $GOOG by @stevekovach http://t.co/U197wbnO","lbl":"Negative"}
+]

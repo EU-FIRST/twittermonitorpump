@@ -1,0 +1,25 @@
+[
+{"time":"3:05","usr":"tradingallday2","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/Qm2ZPDFQ","lbl":"Positive"}
+,{"time":"3:05","usr":"MrBege1","txt":"Amazon app check shop prices, ditch retailers http://t.co/jtceaGbZ #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Neutral"}
+,{"time":"3:19","usr":"UCguns","txt":"RT @MrBege12012Amazon app check shop prices, ditch retailers http://t.co/IOQHAdpa #video #funny #Christmas #Santa #Guns $amzn $wmt $t...","lbl":"Neutral"}
+,{"time":"8:10","usr":"stocial","txt":"60 minute Trending Social Volume: $THLD/24, $AAPL/14, $SPY/9, $GILD/8, $BEAM/7, $AMZN/6, $GOOG/5, $F/5, $GLD/5. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"9:36","usr":"stockguy22","txt":"re: $AMZN i didn\u0027t want to chase it so close to $185 since my bounce target was to $185 to $200 max ( i\u0027ll wait for now) @racernic","lbl":"Neutral"}
+,{"time":"9:37","usr":"stockguy22","txt":"at this point on $AMZN not giving me enough risk/reward ( as long or short) -- but if sets up again i\u0027ll trade it @racernic","lbl":"Neutral"}
+,{"time":"10:33","usr":"CameronKaine","txt":"Commented on: \u0022Why Cisco And Microsoft Are No Longer Technology Companies\u0022 http://t.co/owflLtNg $AAPL $MSFT $AMZN $CSCO $GOOG","lbl":"Neutral"}
+,{"time":"11:23","usr":"StocksMD","txt":"$AMZN If 185 breaks, i\u0027ll be looking for a gap fill fairly quickly","lbl":"Positive"}
+,{"time":"12:16","usr":"cornholelio","txt":"RT @cornholelio Usually when everyone is short something $AMZN, it never works out. Could get a short squeeze today. It\u0027s happens a lot. $$","lbl":"Positive"}
+,{"time":"12:17","usr":"CQNCTRADING","txt":"$AMZN BFEB175/170PV@0.65","lbl":"Neutral"}
+,{"time":"13:09","usr":"61point8","txt":"@MrSteveLee Told ya. No panic. Jobs = consumer spending = good for $AMZN","lbl":"Positive"}
+,{"time":"13:10","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/53, $SPY/49, $ZNGA/32, $BAC/26, $AMZN/18, $OPXT/18, $PPO/17, $OCZ/15. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:12","usr":"thestockbandit","txt":"Great examples of what it looks like to experiment small RT @smbcapital: http://t.co/vzZV7lFu copy this trader $RENN $AMZN $QCOM","lbl":"Neutral"}
+,{"time":"13:47","usr":"Leaf_West","txt":"$AMZN $FCX $V $GS Video from this morning\u0027s trading room session http://t.co/hj3c8W6Z","lbl":"Neutral"}
+,{"time":"13:49","usr":"kiwitrader24","txt":"$AMZN http://t.co/rDdl0F9K just a tiny little bit of overhead res. here...","lbl":"Negative"}
+,{"time":"13:49","usr":"DannyBoitanni","txt":"10 Things in Tech You Need To Know This Morning (03.Feb.2012) $ZNGA $AAPL $AMZN $GOOG $FB $MSFT #li http://t.co/Fp1hxwV5","lbl":"Neutral"}
+,{"time":"13:52","usr":"esstrader","txt":"RT @Mark_Lexus: http://t.co/HKzReoAq New position in $AMZN MAR 200/205 call credit spread - to make iron condor","lbl":"Positive"}
+,{"time":"14:17","usr":"SogoTradeOption","txt":"$AMZN over $14 off post earnings low. all of a sudden numbers wern\u0027t that bad? or most likely selling was overdone and unjustified.","lbl":"Positive"}
+,{"time":"14:18","usr":"bbolan1","txt":"AMZN down how much? RT @factset: Significant upside #earnings surprises reported during the past week from $ALL $NOC $AMZN","lbl":"Positive"}
+,{"time":"14:58","usr":"Jamtrades","txt":"$CAT is on ultra fire. The big boys want New highs here. Also, watch $AAPL, $APKT, and $AMZN oh yea add $NFLX and $CRM to that list :)","lbl":"Neutral"}
+,{"time":"14:58","usr":"CBOE","txt":"Active calls @ CBOE: $AA July 11c, $AAPL 2/3/12 460c, $BIDU 2/3/12 135c, $AMZN 2/3/12 185c","lbl":"Neutral"}
+,{"time":"15:40","usr":"jpu19","txt":"$GOOG 595,3 1,74% (mantiene la 100MA 589,85)y $AMZN 2,86% extienden rebote","lbl":"Neutral"}
+,{"time":"16:03","usr":"jpu19","txt":"$BAC 5,23% $C 4,85% $AMZN 3,28%","lbl":"Neutral"}
+]

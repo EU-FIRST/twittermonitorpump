@@ -1,0 +1,7 @@
+[
+{"time":"6:02","usr":"LukeRomyn","txt":"Love your #Kindle? You\u0027ll love it even more with these incredible novels! http://t.co/Ws9KBLtg #bestsellers $AMZN","lbl":"Neutral"}
+,{"time":"6:19","usr":"seary1","txt":"RT @LukeRomyn: Love your #Kindle? You\u0027ll love it even more with these incredible novels! http://t.co/Ws9KBLtg #bestsellers $AMZN","lbl":"Neutral"}
+,{"time":"19:12","usr":"sssc","txt":"$SBUX $AMZN $GGOG - to face UK lawmakers over tax - Reuters http://t.co/yU8TIDZx","lbl":"Negative"}
+,{"time":"20:52","usr":"ryanmcraver","txt":"@abwaters purchase via cloud player would be helpful. cloud player available for ipad would be helpful. $AMZN focuses on mass with Android.","lbl":"Neutral"}
+,{"time":"21:03","usr":"keefriffards","txt":"RT @AffluenzaVirus: Watchlist 11.12.12 http://t.co/FEIRsIEq $ABX, $AMZN, $ATW, $CRM, $NFLX, $ORLY, $SHW, $SPY & $VMW","lbl":"Neutral"}
+]

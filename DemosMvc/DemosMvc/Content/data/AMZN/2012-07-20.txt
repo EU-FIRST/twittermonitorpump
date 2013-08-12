@@ -1,0 +1,17 @@
+[
+{"time":"5:50","usr":"SeekingAlpha","txt":"The Unsung Heroes Of Cloud Computing http://t.co/RPpqAnVZ $AMZN $CRM $DELL $FB $GRPN $STX $ZNGA $INTC","lbl":"Neutral"}
+,{"time":"8:01","usr":"danshep55","txt":"$amzn deal with warner bros","lbl":"Positive"}
+,{"time":"8:01","usr":"Benzinga","txt":"$AMZN Instant Video Agreement with Warner Bros","lbl":"Neutral"}
+,{"time":"8:02","usr":"rechtsteiner","txt":"Zola Aims to Replace $GOOG Books, Then Take on $AMZN. http://t.co/3Ui9coXt This will take far more than $1.3M and a social ereader.","lbl":"Neutral"}
+,{"time":"8:35","usr":"DividendMaster","txt":"Mark my words : $AMZN is close to an open like $CMG is doing today .","lbl":"Neutral"}
+,{"time":"8:57","usr":"MichaelShinder","txt":"Laying into $amzn into the quarter. Looking to go biggggg","lbl":"Positive"}
+,{"time":"9:17","usr":"tecktrdr","txt":"$amzn","lbl":"Neutral"}
+,{"time":"11:42","usr":"racernic","txt":"wonder why $AMZN holding up well today.","lbl":"Negative"}
+,{"time":"11:44","usr":"CEP_Observer","txt":"@firstadopter My sense is that $amzn is going to sufficiently lower delivery & fulfilment costs to drive some on-line cometitors out","lbl":"Positive"}
+,{"time":"13:54","usr":"gregmartz","txt":"@TMFJMo $AMZN or $DIS. Disney may be easier to grasp, but Amazon would be a great way to intro web/tech. Thinking that\u0027s next for my 8-yo.","lbl":"Positive"}
+,{"time":"13:58","usr":"iStockAnalyst","txt":"Facebook, Inc. (FB) Likes Wal-Mart Stores Inc\u0027s (WMT) $AMZN $FB $WMT: This weekend, an unlikely pair is meeting ... http://t.co/9fIaBzQU","lbl":"Neutral"}
+,{"time":"14:39","usr":"tomdesee","txt":"before i go to the pool with my daughter....thank you $GOOG and $AMZN for a better friday!","lbl":"Positive"}
+,{"time":"14:40","usr":"HedgeyeRetail","txt":"RT @KeithMcCullough: $AMZN acts like the champ","lbl":"Positive"}
+,{"time":"15:34","usr":"USwwwStocks","txt":"$AMZN News: Equities Research Analysts\u0027 Ratings Reiterations for July, 20th (AMD, AMZN ... http://t.co/5VvDo5Km #AMZN #20th #Analystsamp39","lbl":"Neutral"}
+,{"time":"21:34","usr":"USwwwStocks","txt":"$AMZN News: Earnings Preview: Netflix Inc. - Analyst Blog http://t.co/ufhr8F63 #AMZN #Analyst #Blog","lbl":"Neutral"}
+]

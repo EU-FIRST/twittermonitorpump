@@ -1,0 +1,5 @@
+[
+{"time":"8:26","usr":"abnormalreturns","txt":"Sunday links: having an impact, the surge in lumber and the nasty new Web. http://t.co/ywVum3r3 $SPX $JNK $AAPL $GOOG $PNC $AMZN","lbl":"Neutral"}
+,{"time":"22:13","usr":"sspencer_smb","txt":"Little Sign of a Predicted E-Book Price War http://t.co/avEnEO3O $AMZN $AAPL $GOOG","lbl":"Positive"}
+,{"time":"22:24","usr":"nereidadin","txt":"Sunday links: having an impact. http://t.co/EDFrTrr0 via @abnormalreturns $SPX $JNK $AAPL $GOOG $PNC $AMZN","lbl":"Neutral"}
+]

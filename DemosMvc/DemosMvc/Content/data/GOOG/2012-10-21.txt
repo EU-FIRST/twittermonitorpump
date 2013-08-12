@@ -1,0 +1,35 @@
+[
+{"time":"7:34","usr":"thefinancepress","txt":"$GOOG Analysis: Yahoo CEO\u0027s comeback plan hones in on technology, not media: Analysis: Yahoo CEO\u0027s comeback pla... http://t.co/saVL9PWJ","lbl":"Neutral"}
+,{"time":"7:39","usr":"ddobss22","txt":"RT @tinyreal: Market Autopsy Video For the week ending October 19th, 2012 http://t.co/oEDXKrxG $AAPL $GOOG $SPY $IWM $DIA $QQQ $INTC $BAC $GS $PCLN $CMG","lbl":"Neutral"}
+,{"time":"7:39","usr":"bored2tears","txt":"The glass half-empty view of Google: http://t.co/1IwN0BsW $AAPL $GOOG #Andoid #mobile #tech #stocks","lbl":"Negative"}
+,{"time":"11:23","usr":"anupamdm","txt":"$GOOG finally let\u0027s Indian app developers sell apps on Android market. Million dreams taking off!","lbl":"Positive"}
+,{"time":"11:28","usr":"GoAndroidMarket","txt":"RT @anupamdm: $GOOG finally let\u0027s Indian app developers sell apps on _Android_ _market_. Million dreams taking off!","lbl":"Neutral"}
+,{"time":"12:59","usr":"TheNewGekko","txt":"@jimcramer @JRig2010 JC I think the est for Q4 for $AAPL may be too high. You got more competition this year from Samsung and $GOOG.","lbl":"Neutral"}
+,{"time":"13:03","usr":"TheNewGekko","txt":"@TheNewGekko @jimcramer @JRig2010 Samsung Note 2 will be a hot seller. rumor is $GOOG is abt to introduce 10\u0022 tablet w/ a high res screen!","lbl":"Neutral"}
+,{"time":"13:04","usr":"punitkg","txt":"Commented on StockTwits: $AMZN had strength but ended up going down with $AAPL, $GOOG http://t.co/bcCzFeqo","lbl":"Negative"}
+,{"time":"14:19","usr":"bananbanan","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"samprihanto","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"icinizdenbirses","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"DjoelBagas","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"kucingsatu","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"Taptengholic","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"unin75","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"denemeRT","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"BilqisAndyum","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"mamauk123","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"dinipangestutii","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:19","usr":"Pezevenk2","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:20","usr":"mu000002","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:20","usr":"woeng_jowo","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:20","usr":"JosendroBx","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:20","usr":"Rhsatria","txt":"RT @IUArturas: Everything that Google will Unveil at its October 29 Android Event http://t.co/f0KU00pm via TNW $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"15:46","usr":"andrescardenal","txt":"Three Reasons to Buy Google After the Dip - $AAPL, $GOOG, $MSFT, $RIMM, $YHOO - Foolish Blogging Network: http://t.co/i012TdOQ","lbl":"Positive"}
+,{"time":"15:48","usr":"newmaniums","txt":"Only 1 millionth time this has been beaten into the ground... RT @Fibline What would Jesse Livermore say about $GOOG $AAPL? Just saying...","lbl":"Negative"}
+,{"time":"15:52","usr":"Colomesita","txt":"RT @andrescardenal: Three Reasons to Buy Google After the Dip - $AAPL, $GOOG, $MSFT, $RIMM, $YHOO - Foolish Blogging Network: http://t.co/i012TdOQ","lbl":"Positive"}
+,{"time":"16:00","usr":"SeekingAlpha","txt":"Tired Of Dismal Tech Earnings? Maybe Its Time To Consider A Position In Telecom http://t.co/oOaxtHyO $CALL $GOOG $MSFT $VZ","lbl":"Neutral"}
+,{"time":"18:46","usr":"AlwayzInformed","txt":"$VRNG , Settlement? Hmm... really? I guess we\u0027ll see in the early a.m. I\u0027m hoping I can say \u0022Merry Christmas Motherf*****s\u0022 $GOOG","lbl":"Neutral"}
+,{"time":"18:50","usr":"matterhornbob","txt":"Thanks for all the comments and notes today....looking forward to a challenging week in $AAPL, $GOOG, $SPX...","lbl":"Negative"}
+,{"time":"21:18","usr":"dherman76","txt":"Pre-read to Sunday evening Twitter-stream. $GOOG and the driverless car. It\u0027s BIG for helping to close the loop. http://t.co/7DN7yN5N","lbl":"Positive"}
+,{"time":"21:30","usr":"TheStreet","txt":"Google\u0027s $249 Laptop: Is it the real deal? - http://t.co/s3DLzi4d by @antonwahlman $GOOG","lbl":"Neutral"}
+,{"time":"21:30","usr":"RealCrystalBall","txt":"Google\u0027s $249 Laptop: Is it the real deal? - http://t.co/TY9qCxlm by @antonwahlman $GOOG #Stocks","lbl":"Neutral"}
+]

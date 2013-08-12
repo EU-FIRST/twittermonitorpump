@@ -1,0 +1,19 @@
+[
+{"time":"9:23","usr":"tradingview","txt":"$AMZN chart published by @FibLine: http://t.co/oStkapkv. $AMZN.","lbl":"Neutral"}
+,{"time":"14:51","usr":"BanzaiTrader","txt":"batter up on an $AMZN miss http://t.co/9WramYQ3","lbl":"Neutral"}
+,{"time":"15:58","usr":"DeidreZune","txt":"Did $AMZN lose its mojo. We\u0027ll know tomorrow ..","lbl":"Negative"}
+,{"time":"15:58","usr":"lluccipha","txt":"SAI: Amazon\u0027s New Obsession: Developers $AMZN http://t.co/eLJ9xF55","lbl":"Neutral"}
+,{"time":"16:00","usr":"jeremyuzan","txt":"Amazon\u0027s New Obsession: Developers $AMZN http://t.co/X3vdHYzh","lbl":"Neutral"}
+,{"time":"17:39","usr":"MatthieuLecomte","txt":"RT @SAI: Amazon\u0027s New Obsession: Developers $AMZN http://t.co/WRl32pfy","lbl":"Positive"}
+,{"time":"17:39","usr":"ningsihpangestu","txt":"RT @LinkedInToday: Amazon wants software developers to build apps and games to build features for Kindle Fire http://t.co/FOv9tXef on @Reuters_Biz $AMZN","lbl":"Positive"}
+,{"time":"17:40","usr":"KWHPublishing","txt":"RT @LinkedInToday: Amazon wants software developers to build apps and games to build features for Kindle Fire http://t.co/FOv9tXef on @Reuters_Biz $AMZN","lbl":"Neutral"}
+,{"time":"17:42","usr":"Tangletrade","txt":"earnings charts for tomorrow will be $AMZN $FB $CSTR $EXPE $VPRT spread myself too thin on charts today #I_Deserve_an_extra_beer","lbl":"Neutral"}
+,{"time":"19:18","usr":"sanitychecknyc","txt":"RT @JVascellaro: Of all the tech rivalries, $aapl and $amzn is the one to watch. Let me list the reasons. http://t.co/0vFCH8mL","lbl":"Neutral"}
+,{"time":"19:20","usr":"pizzaessa_blog","txt":"WSJ: RT @JVascellaro: Of all the tech rivalries, $aapl and $amzn is the one to watch. Let me list the reasons. http://t.co/Tt8108dA","lbl":"Neutral"}
+,{"time":"19:21","usr":"wdsmith22","txt":"RT @JVascellaro: Of all the tech rivalries, $aapl and $amzn is the one to watch. Let me list the reasons. http://t.co/0vFCH8mL","lbl":"Neutral"}
+,{"time":"19:21","usr":"wdsmith1122","txt":"RT @JVascellaro: Of all the tech rivalries, $aapl and $amzn is the one to watch. Let me list the reasons. http://t.co/0vFCH8mL","lbl":"Positive"}
+,{"time":"21:12","usr":"aznboi27","txt":"$AMZN - this could go either on ER tomorrow. But it does have a GAP to fill @ 196.36. I\u0027m actually BULLISH on this one http://t.co/JbqEHIkq","lbl":"Positive"}
+,{"time":"21:13","usr":"TannorP","txt":"$AMZN earnings tomorrow......$UPS miss....short?","lbl":"Neutral"}
+,{"time":"21:16","usr":"chrishcho","txt":"RT @JVascellaro: Of all the tech rivalries, $aapl and $amzn is the one to watch. Let me list the reasons. http://t.co/0vFCH8mL","lbl":"Neutral"}
+,{"time":"21:17","usr":"stephendcady","txt":"RT @JVascellaro: Of all the tech rivalries, $aapl and $amzn is the one to watch. Let me list the reasons. http://t.co/0vFCH8mL","lbl":"Positive"}
+]

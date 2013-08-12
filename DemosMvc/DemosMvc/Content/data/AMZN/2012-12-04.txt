@@ -1,0 +1,27 @@
+[
+{"time":"8:54","usr":"JBling13","txt":"RT @Fitzstock2004: $amzn $ebay $pcln $goog all continue to look EXTREMELY BULLISH.........dips should get bought, with 2 fists","lbl":"Positive"}
+,{"time":"11:20","usr":"Dmottco","txt":"@Sangluccitrades you better watch it, it does some scary shit sometimes when your short, I have lost more money shorting $amzn thn any other","lbl":"Positive"}
+,{"time":"12:33","usr":"davemoon","txt":"\u0022You can find what you need but not what you want on $amzn\u0022 @shanaglick","lbl":"Negative"}
+,{"time":"13:19","usr":"brianlrichards","txt":"iPad v. Fire v. Nook v. Surface v. Nexus: \u0022A Tablet Comparison for the Holidays\u0022: http://t.co/nPFQtV1b $AAPL $GOOG $MSFT $BKS $AMZN","lbl":"Neutral"}
+,{"time":"14:08","usr":"rakeshlobster","txt":"As expected, I lost my bet on the intelligence of Amazon locker. It isn\u0027t smart enough to route packages to the same locker. $AMZN","lbl":"Negative"}
+,{"time":"15:02","usr":"DshapiroDiana","txt":"@jimcramer Jim,whats your target EPS for $AMZN that justifies your $270 target? EPS now is .07 and $UPS plans to increase shipping costs!!","lbl":"Neutral"}
+,{"time":"15:02","usr":"tradethembi","txt":"$AMZN 10 min was riding green trend then orange dot players decided to push another run ! BINGO ! http://t.co/cCwXw9Rv","lbl":"Positive"}
+,{"time":"15:03","usr":"StkConfidential","txt":"$AMZN continuing its amazing run. Nice! $$","lbl":"Positive"}
+,{"time":"15:47","usr":"joebones265","txt":"$NFLX what is the hoopla about? Paid a ton of money to $DIS and starts in 2016 $AMZN by then will have crushed them!","lbl":"Positive"}
+,{"time":"15:49","usr":"alia1977","txt":"$amzn","lbl":"Neutral"}
+,{"time":"15:49","usr":"RULiquid","txt":"RT @joebones265: $NFLX what is the hoopla about? Paid a ton of money to $DIS and starts in 2016 $AMZN by then will have crushed them!","lbl":"Neutral"}
+,{"time":"18:03","usr":"MadKindlePromos","txt":"Four incredible novels to help you to turbo-charge your Kindle! http://t.co/RH7tMr0I $AMZN #bestsellers #books (via @LukeRomyn)","lbl":"Neutral"}
+,{"time":"18:04","usr":"Fitzstock2004","txt":"still bullish $amzn $ebay $pcln $bac .....and if you trade $aapl buy Jan ITM calls(.i.e 550 ) and sell weekly (580s) against.....GL to all","lbl":"Positive"}
+,{"time":"20:11","usr":"reuvenohr","txt":"still holding \u0022the people with the smile on the box\u0022 $amzn","lbl":"Neutral"}
+,{"time":"20:14","usr":"reuvenohr","txt":"\u0022@Zubair84: \u0022@reuvenohr: still holding \u0022the people with the smile on the box\u0022 $AMZN\u0022Amzn gonna go much higher bro\u0022 <-you ridin?","lbl":"Positive"}
+,{"time":"20:15","usr":"bagualivan","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"21:13","usr":"erjddcs","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"21:14","usr":"Little_Viper_","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"21:16","usr":"Giselefnr","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"22:21","usr":"leticia12m","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"22:23","usr":"LGBED","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"22:23","usr":"livtodance96","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"23:26","usr":"PW33","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"23:26","usr":"PictureOnly","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+,{"time":"23:26","usr":"Ramozim95","txt":"RT @pswizard: Why $PFNI Rates an \u201COutperform\u201D http://t.co/MzEeUrfE $FB $NFLX $GOOG $SIRI $AMZN $ZNGA $GRPN $LNKD $AAPL $NOK $EBAY $YAHOO $SVEN $PBCW $NGRC","lbl":"Neutral"}
+]

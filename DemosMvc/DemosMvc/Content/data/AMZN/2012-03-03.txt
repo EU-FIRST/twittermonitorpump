@@ -1,0 +1,4 @@
+[
+{"time":"22:02","usr":"DrewShelstad","txt":"@gapandyap Nope,we\u0027ll be buying groceries soon enough from $AMZN Already buy my meat frm @OmahaSteaks Dry iced amazing meat. Even Hot dogs!","lbl":"Neutral"}
+,{"time":"22:41","usr":"donaldtw4","txt":"http://t.co/3UDeIQMt $RIMM Playbook now the best low-cost tablet $AMZN $GOOG","lbl":"Neutral"}
+]

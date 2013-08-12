@@ -1,0 +1,19 @@
+[
+{"time":"5:40","usr":"murphyrosecliff","txt":"@CNBCMelloy $HD pullback needed. Note: $AMZN trying to take mkt share & $AMZN is usually pretty successful.","lbl":"Positive"}
+,{"time":"6:56","usr":"TradersHuddle","txt":"Early Research Calls: $TMO, $AMZN, $JNPR, $FLEX, $JBL, $D, $SLW, $XEL, $SO, $QSII http://t.co/zKQsm9Oj","lbl":"Positive"}
+,{"time":"6:59","usr":"daytrend","txt":"@biggercapital If they migrated they wud (might) lose free shipping, which is always an important factor in my $AMZN decisions.","lbl":"Neutral"}
+,{"time":"6:59","usr":"TraderMichigan","txt":"No leadership, altho $LNKD $GOOG $AMZN $EBAY $EXPE holding up well","lbl":"Neutral"}
+,{"time":"7:48","usr":"biggercapital","txt":"$AMZN daily channel check anyone? I met this person in Borneo who told me.....","lbl":"Neutral"}
+,{"time":"7:48","usr":"oktobernv","txt":"$AMZN initiated with a Buy at Topeka; tgt $400 - good luck with that.......","lbl":"Neutral"}
+,{"time":"8:47","usr":"SiAlpha","txt":"Talk about a women\u0027s dream job! Amazon $AMZN apparently hires three female employees just to try on #shoes as it ramps up its fashion sales","lbl":"Neutral"}
+,{"time":"9:14","usr":"BlueFielder","txt":"$AMZN in wkly 230 $CALL\u0027s @ 3.30 (corrected symbol)","lbl":"Positive"}
+,{"time":"9:38","usr":"worthystyle","txt":"@CAFashionGirl @jalexanderm seeing as $AMZN owns Shopbop AND Zappos: http://t.co/xpQ6qGIF I don\u0027t understand their need to do fashion","lbl":"Neutral"}
+,{"time":"10:28","usr":"patroneux","txt":"covering here for $AMZN 230 puts after double top formed. $3.46 to 4.0 12 cons.","lbl":"Negative"}
+,{"time":"11:18","usr":"mikecardascia","txt":"RT @wallstCS: Will Facebook Meet Raised Hopes? http://t.co/h97jLZDP $GOOG $GRPN $ZNGA $MS $JPM $GS $AMZN $HPQ $DELL #mkt","lbl":"Neutral"}
+,{"time":"11:19","usr":"thinkingtrades","txt":"$EXPE wants to take out recent highs. Similar set up as $AMZN","lbl":"Positive"}
+,{"time":"11:20","usr":"StockMarketEnds","txt":"Anti Christ Zionist WellsFargo, IBM & Amazon are Anti 99% $CXW $GEO $WFC $IBM $AMZN $GS #Social #Movies #Senior #Shows #Site #Utility #Care","lbl":"Neutral"}
+,{"time":"12:18","usr":"swamptrade","txt":"$AMZN Golden Cross 50SMA cross above the 200SMA today","lbl":"Neutral"}
+,{"time":"13:18","usr":"z8angela","txt":"@SJosephBurns Yes, it\u0027s just like $AAPL vs. $AMZN now. To be successful in trading: Think Like a Fundamentlist, Trade Like a Technician.","lbl":"Neutral"}
+,{"time":"14:26","usr":"Risk_Surfer","txt":"$amzn #givingitallback","lbl":"Negative"}
+,{"time":"19:37","usr":"TraderFlorida","txt":"$AMZN http://t.co/IMaz4Zpu Posting several chart updates and setups POSTED VIDEO","lbl":"Neutral"}
+]

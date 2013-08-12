@@ -1,0 +1,29 @@
+[
+{"time":"0:24","usr":"k3m71","txt":"RT @businessinsider: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/lcmayjtG","lbl":"Neutral"}
+,{"time":"0:26","usr":"Alejandroperez","txt":"RT @AlexOsterwalder: hmmm... RT @SAI: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/NDtrkZaG #bmgen","lbl":"Positive"}
+,{"time":"0:29","usr":"Tsyen10","txt":"RT @SAI: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/SfFFbyws","lbl":"Neutral"}
+,{"time":"0:32","usr":"AimLearning","txt":"RT @AlexOsterwalder: hmmm... RT @SAI: Amazon Is Developing A Smartphone To Go After The iPhone And Android $AMZN by @mattlynley http://t.co/NDtrkZaG #bmgen","lbl":"Neutral"}
+,{"time":"5:46","usr":"TrendRida","txt":"Commented on StockTwits: I\u0027m not a fan of $goog or $amzn\u0027s strategy outside of their product. http://t.co/zJyfJyQ4","lbl":"Negative"}
+,{"time":"5:49","usr":"TrendRida","txt":"Commented on StockTwits: gun to the head would choose $amzn over $goog. Since AMZN knows how thrive on low margins. http://t.co/8r6NIbFC","lbl":"Positive"}
+,{"time":"6:00","usr":"ronin245","txt":"$AMZN frisky as always, longs worked but fades as well , 230 & 229 yest , topping action? Scalp trading paradise, emphasis to short here","lbl":"Negative"}
+,{"time":"7:26","usr":"IrishPRick1","txt":"RT @LaMonicaBuzz: Kindle Phone? kPHone? Prime Phone? Chatter about Amazon entering the smartphone market is back again thanks to Bloomberg report. $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"7:27","usr":"EWILLIAM08","txt":"RT @LaMonicaBuzz: Kindle Phone? kPHone? Prime Phone? Chatter about Amazon entering the smartphone market is back again thanks to Bloomberg report. $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"7:28","usr":"mjames126","txt":"RT @LaMonicaBuzz: Kindle Phone? kPHone? Prime Phone? Chatter about Amazon entering the smartphone market is back again thanks to Bloomberg report. $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"8:36","usr":"parklandtrader","txt":"@grassosteve $AMZN working well today..","lbl":"Positive"}
+,{"time":"9:00","usr":"LinkedInToday","txt":"Will Amazon compete head-to-head with Apple in smartphone arena? http://t.co/qoPX79gG on @BloombergNews $AMZN $AAPL","lbl":"Positive"}
+,{"time":"9:01","usr":"AMZN_stock","txt":"$AMZN stock quote, 9:46am: 227.73 +0.67 (+0.30%).","lbl":"Neutral"}
+,{"time":"9:38","usr":"marketfolly","txt":"So $AMZN first puts out Kindle Fire that hasn\u0027t gained much traction, now wants to create smartphone? http://t.co/TaEArtSS","lbl":"Negative"}
+,{"time":"9:40","usr":"alphabachelor","txt":"RT @marketfolly: So $AMZN first puts out Kindle Fire that hasn\u0027t gained much traction, now wants to create smartphone? http://t.co/TaEArtSS","lbl":"Negative"}
+,{"time":"10:22","usr":"Onitael79","txt":"businessinsider: There Is Zero Reason For Amazon To Release Its Own Phone $AMZN by @j http://t.co/zYn9bdu7","lbl":"Neutral"}
+,{"time":"10:22","usr":"david_putnam","txt":"RT @ppearlman: amazing that $AMZN can just decide to build a phone & meanwhile $RIMM cant build one to save its life. $RIM.CA","lbl":"Positive"}
+,{"time":"10:23","usr":"Empresario__","txt":"Market Psychology: \u0022Gaps\u0022 $aapl $db $ctl $vxx $amzn http://t.co/yZMCaFnl","lbl":"Neutral"}
+,{"time":"11:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $AMZN +26%, $JPM +18%, $GOOG +12%, $CAT -60%, $WAG -39%, $INTC -19% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"11:01","usr":"newsagg","txt":"After the $AMZN and $FB phones can we expect an $EBAY phone? Expedia phone? Foursquare? Linked-In? Hell why not","lbl":"Neutral"}
+,{"time":"11:01","usr":"newsagg","txt":"RT @ivanhoff: Everyone can build a phone nowadays. Not everyone can sell it. $AMZN $RlMM $NOK","lbl":"Neutral"}
+,{"time":"11:45","usr":"ryanNseal","txt":"RT @jonmilani: What does it say when $AMZN\u0027s entire digital content business model, from a revenue standpoint, is an afterthought to $AAPL?","lbl":"Negative"}
+,{"time":"12:35","usr":"tradingview","txt":"$AMZN chart published by @FibLine: http://t.co/BuLS2L1P. $AMZN.","lbl":"Neutral"}
+,{"time":"12:37","usr":"paulwoll","txt":"@FibLine Said same thing couple hours ago. on $AMZN","lbl":"Neutral"}
+,{"time":"12:39","usr":"DeidreZune","txt":"We know $AMZN is scrounging around eager to buy wireless patents (missed out on IDCC). So will it go after $RIMM? RIMM up 4% a signal? $AAPL","lbl":"Neutral"}
+,{"time":"13:57","usr":"VonnHD","txt":"Why RT @CNNMoney: RT @CNNMoneyInvest: Best of StockTwits: A Kindle Phone? http://t.co/h5FcyYm8 $AMZN","lbl":"Neutral"}
+,{"time":"15:34","usr":"USwwwStocks","txt":"$AMZN News: Job fair planned for Amazon\u0027s Jeffersonville facility http://t.co/TkLPQyRy #AMZN #Amazonamp39s #facility","lbl":"Neutral"}
+]

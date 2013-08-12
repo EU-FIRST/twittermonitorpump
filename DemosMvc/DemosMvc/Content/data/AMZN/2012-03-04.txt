@@ -1,0 +1,5 @@
+[
+{"time":"9:52","usr":"TimJohns6","txt":"SMALLCAP TRADING TRICK - MAKES YOU 100-200% GAINS PER WEEK http://t.co/4gFUNLPB $USO $AMZN $PSID $LNKD $IWM $CORN $ACFN $EZU","lbl":"Neutral"}
+,{"time":"17:13","usr":"jeremy_tOS","txt":"RT @SharePlanner: Bear-flag in $AMZN beautiful short-trade setup - entry/stop/target noted on chart http://t.co/CuHG4ndc","lbl":"Negative"}
+,{"time":"17:16","usr":"ninja_trades","txt":"Amazon app check shop prices, ditch retailers http://t.co/n2Kqe3f1 #video #funny #Christmas #Santa #Guns $amzn $wmt $tgt","lbl":"Neutral"}
+]

@@ -1,0 +1,50 @@
+[
+{"time":"3:48","usr":"thefinancepress","txt":"$GOOG Roundup; Apple Inc. (NASDAQ:AAPL) Vs Google Suite, Apple Sells 3 Million ...: Roundup; Apple Inc. (NASDAQ... http://t.co/uROUT3XV","lbl":"Neutral"}
+,{"time":"3:48","usr":"vid_e","txt":"If I have to guess, market will be super green today $aapl $goog $spy $qqq $amzn $pcln","lbl":"Positive"}
+,{"time":"3:53","usr":"pelias01","txt":"The Post-Hurricane and Pre-Election Financial Markets $INX $AAPL $AMZN $GOOG $GS http://t.co/SSGRHQSz via @minyanville","lbl":"Neutral"}
+,{"time":"7:37","usr":"yianniak","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AMZN $MSFT $FB $AOL $YHOO by @nichcarlson http://t.co/URKQqykZ","lbl":"Neutral"}
+,{"time":"7:40","usr":"tweepforce","txt":"Mary Meeker Gives Mid-Year Internet Trends Report: Android Adoption Ramping Up 6X Faster Than iPhone http://t.co/ZpqVUvva $GOOG vs $APPL","lbl":"Neutral"}
+,{"time":"7:40","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 11.6.2012 http://t.co/Y446Y4g1","lbl":"Neutral"}
+,{"time":"8:59","usr":"nichcarlson","txt":"Google Cofounder Sergey Brin Is \u0027Dreading Today\u0027s Elections\u0027 $GOOG http://t.co/QcRWSRkt","lbl":"Neutral"}
+,{"time":"8:59","usr":"businessinsider","txt":"Google Cofounder Sergey Brin Is \u0027Dreading Today\u0027s Elections\u0027 $GOOG by @nichcarlson http://t.co/sRFQZD6H","lbl":"Neutral"}
+,{"time":"8:59","usr":"bi_politics","txt":"Google Cofounder Sergey Brin Is \u0027Dreading Today\u0027s Elections\u0027 $GOOG by @nichcarlson http://t.co/Mq6f3hhv","lbl":"Neutral"}
+,{"time":"9:35","usr":"howardlindzon","txt":"ha... \u0022@upsidetrader: Romney/Obama is the new $GOOG/ $VRNG for the next 24 hours\u0022","lbl":"Neutral"}
+,{"time":"10:04","usr":"TwistedGinger","txt":"RT @JonErlichman: If you click on today\u0027s election themed Google doodle, it helps you find the closest polling place $GOOG #election2012","lbl":"Neutral"}
+,{"time":"10:04","usr":"InmanBillTST","txt":"Great piece from the Digital Skeptic: Sandy shows where web is weak - TheStreet http://t.co/t7Wfn83n $VZ $T $S $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"10:04","usr":"mnoltecpa","txt":"Think $GOOG could go more short, just with only 1 put I can\u0027t really peel and hold. Just be safe and take the 2:1 r/r I targeted in entry.","lbl":"Negative"}
+,{"time":"10:05","usr":"russellmreyes","txt":"$AAPL and $GOOG act like dogs","lbl":"Negative"}
+,{"time":"10:43","usr":"ExBliss","txt":"RT @businessinsider: Microsoft Is Working On Its Own Smaller Tablet \u2014 A 7-Inch Xbox Surface $MSFT $AAPL $GOOG $AMZN by @jyarow http://t.co/4lqaysZ6","lbl":"Neutral"}
+,{"time":"10:43","usr":"HFTAlert","txt":"large HFT burst at 10:42 $spy $vxx $aapl $goog","lbl":"Neutral"}
+,{"time":"11:22","usr":"choffman1978","txt":"$BMTI RALLYING on LIKELYHOOD of FDA approval?#cnbc,#msnbc,#nyse,#wsj,$p,$gs,$aapl,$goog,#obama,#romney,#stocks,#election,$dndn,$ctic,$kerx,","lbl":"Neutral"}
+,{"time":"11:22","usr":"russellmreyes","txt":"$AAPL & $GOOG looks like garbage here, so far","lbl":"Negative"}
+,{"time":"11:24","usr":"deepeshalways","txt":"RT @SAI: Microsoft Is Working On Its Own Smaller Tablet \u2014 A 7-Inch Xbox Surface $MSFT $AAPL $GOOG $AMZN by @jyarow http://t.co/ndUPEc7M","lbl":"Neutral"}
+,{"time":"11:26","usr":"mohlat","txt":"RT @SAI: Microsoft Is Working On Its Own Smaller Tablet \u2014 A 7-Inch Xbox Surface $MSFT $AAPL $GOOG $AMZN by @jyarow http://t.co/ndUPEc7M","lbl":"Neutral"}
+,{"time":"12:14","usr":"m_terenziani","txt":"RT @businessinsider: Microsoft Is Working On Its Own Smaller Tablet \u2014 A 7-Inch Xbox Surface $MSFT $AAPL $GOOG $AMZN by @jyarow http://t.co/4lqaysZ6","lbl":"Neutral"}
+,{"time":"12:15","usr":"barronstechblog","txt":"MSFT: Here Comes Xbox Tablet, Says TheVerge - Tech Trader Daily - $MSFT $ARMH $INTC $AAPL $AMZN $GOOG $005930KS http://t.co/Q4SISkZv","lbl":"Neutral"}
+,{"time":"12:54","usr":"ViewOnMarkets","txt":"GOOG - Scary Chart Comparison http://t.co/uNWnanUv $GOOG #goog #google #chart #nasdaq $NDX $AAPL #aapl #apple $QQQ","lbl":"Negative"}
+,{"time":"12:55","usr":"DrunkStepmother","txt":"re $VRNG is today the day $GOOG goes to $0 like you said @jaltucher ???","lbl":"Negative"}
+,{"time":"13:15","usr":"HobiBola","txt":"RT @SAI: Google Cofounder Sergey Brin Is \u0027Dreading Today\u0027s Elections\u0027 $GOOG by @nichcarlson http://t.co/IenblaKl","lbl":"Neutral"}
+,{"time":"13:15","usr":"Equitykingkong","txt":"$SPY: pretty impressive rally so far without $AAPL and $GOOG","lbl":"Neutral"}
+,{"time":"13:15","usr":"__RobbP__","txt":"\u0022@zerosum24: Hearing that $VRNG won their patent case against $GOOG. Now let\u0027s see how much cash they get!! Congrats LONGS!!!\u0022","lbl":"Negative"}
+,{"time":"13:31","usr":"numbchucknig","txt":"@CNBC hey you $goog lovers. you forgot the 3.5% royalty that vrng was awarded. next time make sure to do your job right","lbl":"Neutral"}
+,{"time":"13:31","usr":"mpkangas","txt":"RT @Street_Insider: Vringo $VRNG awarded $30M in patent case - DJ. patents are valid. Will receive royalty rate on patents until they expire in 2016. $GOOG","lbl":"Neutral"}
+,{"time":"13:55","usr":"TechInsiderco","txt":"Google Chrome\u2019s Latest Release Promises To Take It Easier On Your Battery, Adds \u201CDo Not Track\u201D Sup... http://t.co/Z0jpPWzV #Google $GOOG","lbl":"Neutral"}
+,{"time":"13:55","usr":"StockBang","txt":"What\u0027s the hold up? $VRNG and $GOOG now talking settlement after their pissing match has been decided?","lbl":"Neutral"}
+,{"time":"13:55","usr":"ismagg2","txt":"Gartner Sees 821M Unit Smart Device Mkt In 2012; 1.2B 2013 $AAPL $GOOG http://t.co/xIHIWCE2","lbl":"Neutral"}
+,{"time":"14:20","usr":"MarketCurrents","txt":"More on Vringo-Google: Of the $30M awarded to Vringo (VRNG), Google (GOOG) is ordere... http://t.co/1QJx7hLF $VRNG $GOOG $AOL $IACI","lbl":"Neutral"}
+,{"time":"14:20","usr":"onlineIDtech","txt":"RT @MarketCurrents: More on Vringo-Google: Of the $30M awarded to Vringo (VRNG), Google (GOOG) is ordere... http://t.co/1QJx7hLF $VRNG $GOOG $AOL $IACI","lbl":"Neutral"}
+,{"time":"14:20","usr":"myTraderGang","txt":"RT @TraderMike9: $VRNG wins huge settlement with $GOOG: and Google stock price didn\u0027t even move one percent on the news...LOL!","lbl":"Negative"}
+,{"time":"14:52","usr":"dorkmo","txt":"RT @JonErlichman: Sergey Brin Blog: \u0022I must confess, I am dreading today\u0027s elections\u0022 https://t.co/IzrGnE77 $GOOG","lbl":"Neutral"}
+,{"time":"14:52","usr":"PeterRumble1","txt":"$VRNG Game is OVER here, shorts will make money, dont dream! $GOOG","lbl":"Neutral"}
+,{"time":"14:54","usr":"WallStJesus","txt":"Google Gets The Goliath Treatment From Vringo http://t.co/nbSr74YV $VRNG $GOOG $AOL $IACI $TGT #stocks","lbl":"Neutral"}
+,{"time":"15:31","usr":"pennystockguys","txt":"$GOOG - Microsoft Expands Services in China - Analyst Blog http://t.co/dDyeU066","lbl":"Neutral"}
+,{"time":"15:31","usr":"ADVFNplc","txt":"$GOOG - Microsoft Expands Services in China - Analyst Blog http://t.co/DxJQh6Ql","lbl":"Neutral"}
+,{"time":"16:13","usr":"wallstCS","txt":"Is Apple Falling Into the BlackBerry Trap? http://t.co/V3NgEsDF $AAPL $S $RIMM $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"16:14","usr":"juhavitikka","txt":"RT @businessinsider: Why I Hate E-Books $AMZN $BKS $AAPL $GOOG by @_dtl http://t.co/upJALK2L","lbl":"Neutral"}
+,{"time":"16:16","usr":"ChartLines","txt":"RT @Minyanville: What Your Food and Social Media Preferences Reveal About How You\u0027ll Vote $AMZN $FB $BLMN $CBRL $GOOG http://t.co/Vbb8pyvo","lbl":"Neutral"}
+,{"time":"17:04","usr":"JornBuhring","txt":"RT @SAI: Patent Troll Vringo\u0027s Big Plan To Kill Google Falls Short $GOOG $VRNGO by @jyarow http://t.co/fD6Gs6Rj","lbl":"Positive"}
+,{"time":"17:08","usr":"wallstCS","txt":"Google Loses, Zillow Tanks, and Amazon Wins: Market Recap http://t.co/dozoJIvE $VRNG $GOOG $AAPL $AMZN $Z #stocks","lbl":"Negative"}
+,{"time":"19:44","usr":"UdallTechStrat","txt":"@larryfooter @casualanalysis 28% now.. man FL must be running $FIO on some $CRAY supercomputers over a $GOOG fiber beta network :)","lbl":"Neutral"}
+,{"time":"19:48","usr":"stockticks","txt":"$GOOG News: Google Inc & Rosetta Stone Inc Settle Lawsuit; Agree To Collaborate In Fight... http://t.co/ziKA1IzB #USInternetStocks","lbl":"Neutral"}
+,{"time":"19:48","usr":"EmpoweredTrader","txt":"The native Type to Speak on $goog #Android is slick... #takenote $aapl","lbl":"Neutral"}
+]

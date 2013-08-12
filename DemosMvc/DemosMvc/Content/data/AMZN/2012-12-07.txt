@@ -1,0 +1,9 @@
+[
+{"time":"8:20","usr":"benswoodard","txt":"RT @lukeromyn: Dive into adventure! http://t.co/blvybOr0 $AMZN #Kindle","lbl":"Neutral"}
+,{"time":"8:22","usr":"IllusoryMgmt","txt":"@KeithMcCullough Just ordered \u0022Diary of A Hedge Fund Manager\u0022 from $AMZN . Please don\u0027t spend all the royalty in one place.","lbl":"Neutral"}
+,{"time":"9:56","usr":"wklyopttrades","txt":"$AMZN alert update: The 15 min candle needs to close below 252.66 for continuation down","lbl":"Negative"}
+,{"time":"9:57","usr":"TradetheLeader1","txt":"As I mentioned yesterday $amzn was NOT a buy..better sell until > 256","lbl":"Negative"}
+,{"time":"11:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:46am: 253.44 +0.07 (+0.03%).","lbl":"Positive"}
+,{"time":"12:32","usr":"pipespier","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG $MSFT $AMZN by @nichcarlson http://t.co/7S61W5sm","lbl":"Neutral"}
+,{"time":"14:00","usr":"MikeVodicka","txt":"These 3 Stocks Are Riding the Fast-Growing Online Shopping Craze. My take on $DRIV, $AKAM, $AMZN, $IBM, $ADBE. http://t.co/67zGHb41","lbl":"Neutral"}
+]

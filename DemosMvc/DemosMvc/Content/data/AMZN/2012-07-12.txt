@@ -1,0 +1,18 @@
+[
+{"time":"2:37","usr":"djenryte","txt":"$AMZN _same_ day delivery. This is HUGE. Makes sense why they relented on collecting taxes. http://t.co/JHMiIW3J","lbl":"Positive"}
+,{"time":"6:00","usr":"LinkedInToday","txt":"Amazon caves to sales tax demands, but that might spell trouble for traditional retail businesses http://t.co/Xf3Ywc0J on @verge $AMZN","lbl":"Negative"}
+,{"time":"7:44","usr":"outlawz616","txt":"RT @firstadopter: $AMZN may delay next-generation Kindle shipments http://t.co/1ZyE4yTY","lbl":"Negative"}
+,{"time":"7:45","usr":"StockTwits","txt":"Amazon\u2019s About to Nino Brown Your Local Retailers http://t.co/cVlApbQR via @ReformedBroker $AMZN","lbl":"Neutral"}
+,{"time":"7:49","usr":"sspencer_smb","txt":"Amazon\u2019s About to Nino Brown Your Local Retailers http://t.co/0YD2TODR $amzn","lbl":"Neutral"}
+,{"time":"8:32","usr":"top10tag","txt":"RT @mcilderman Will #3DPrinting Ruin the Toy #Industry? http://t.co/Sh0sjQQp #Investing #3dp #starwars $HAS $AAPL $MSFT $AMZN $DDD $DIS","lbl":"Neutral"}
+,{"time":"9:30","usr":"wallstCS","txt":"Freefalling Groupon Hits ALL-TIME LOW http://t.co/RN0SMUtD $GRPN $GOOG $AMZN $EBAY $LNKD #mkt #stocks","lbl":"Neutral"}
+,{"time":"9:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:17am: 213.755 -4.615 (-2.11%).","lbl":"Neutral"}
+,{"time":"10:58","usr":"Kapitall","txt":"Rumor Mill: $AMZN Plans to Enter Smartphone Market #Kapitall http://t.co/WRq9Lp4w","lbl":"Positive"}
+,{"time":"12:14","usr":"tradingfloorcom","txt":"Amazon will be the Wal-Mart of the 21st century @petergarnry equity strategist @Saxobank $AMZN $WMT http://t.co/D6jNKISv","lbl":"Positive"}
+,{"time":"12:15","usr":"hdlevy","txt":"RT @cselland: \u0022It\u2019s hard to overstate how thoroughly this move will shake up the retail industry.\u0022 $AMZN http://t.co/bKNyRezL","lbl":"Neutral"}
+,{"time":"14:44","usr":"ketaanhmshah","txt":"@61point8 Peter THANKS A LOT man...$aapl and $amzn calls were awesome I bot some $aapl and $amzn calls and sold it @ 50%+ in last 3 hours","lbl":"Negative"}
+,{"time":"14:45","usr":"launchticker","txt":"$amzn\u0027s Game Connect cloud-based platform adds MMOs & free games @techcrunch: http://t.co/JDSpdbvd","lbl":"Neutral"}
+,{"time":"16:07","usr":"launchticker","txt":"$amzn hiring \u0027aggressively\u0027 in Vancouver for Silk browser team @techvibes: http://t.co/hBS9qUjj","lbl":"Neutral"}
+,{"time":"16:13","usr":"StockFxMarket","txt":"$AMZN chart: AMZN Daily Analysis. http://t.co/l8K2Icoh","lbl":"Neutral"}
+,{"time":"19:24","usr":"aacalhounholder","txt":"RT @Stonefoxcapital: Commented on: \u0022Retirement: Enjoyment Without Employment With The Growth And Value ... http://t.co/E62e9QEP $AAPL $AMZN $CSCO $INTC","lbl":"Neutral"}
+]

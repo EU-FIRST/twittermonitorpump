@@ -1,0 +1,24 @@
+[
+{"time":"0:54","usr":"investlite","txt":"Charts: http://t.co/5fVawwUC $AMZN $BIIB $LULU $MCP $NOV $POT $SHLD $SODA $VMW $ZAGG","lbl":"Neutral"}
+,{"time":"0:55","usr":"investlite","txt":"On watch Wed 4/4: http://t.co/5fVawwUC $ZAGG $LULU $SHLD $UA $MCP $BIIB $AMZN $NOV $WYNN $VMW $WFC $INFA $QCOM $SODA $POT $GMCR","lbl":"Neutral"}
+,{"time":"6:54","usr":"firstadopter","txt":"MS: \u0022we expect Kindle Fire to lose mkt share primarily to $AAPL \u0022 \u0022expect $AMZN to lose share in eBook mkt\u0022 Party on Garth, party on Wayne!","lbl":"Negative"}
+,{"time":"6:55","usr":"OgFOMK","txt":"\u0022@ceebee308: @OgFOMK Thanks, Alexander! :) @LukeRomyn\u0022 You can\u0027t hate literacy pushers. $amzn","lbl":"Neutral"}
+,{"time":"8:10","usr":"USwwwStocks","txt":"$AMZN News: Pier 1 Looks To Furnish Stock Boost With Q4 Report http://t.co/bZXcWtPY #internet #daytrading #stocks","lbl":"Positive"}
+,{"time":"8:14","usr":"rechtsteiner","txt":"$AMZN\u0027s in-app purchase capabilities push them a major step closer to $AAPL & $GOOG http://t.co/pqVGYTYt","lbl":"Positive"}
+,{"time":"8:19","usr":"HedgeArt","txt":"Rather a negative note out on $AMZN from Morgan Stanley","lbl":"Negative"}
+,{"time":"9:23","usr":"newsagg","txt":"$AMZN nearing bottom of 10d60m http://t.co/2lMJttR9","lbl":"Negative"}
+,{"time":"10:03","usr":"urbinarestrepo","txt":"Out of $AMZN @193.49 (-4.2%) LOD / Stopped Out of $EURNOK: the Trailing Stop protected -some of- my Profits. #Risk Management!","lbl":"Negative"}
+,{"time":"10:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/179, $YHOO/140, $SPY/113, $GOOG/41, $HEAT/39, $JPM/25, $SNDK/25, $AMZN/22. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"10:52","usr":"newsagg","txt":"@WannabeTraderRF now is not the time to buy either of these stocks. $AMZN bottoming on the 10d60m chart but has earnings in 3 weeks.","lbl":"Positive"}
+,{"time":"10:54","usr":"WannabeTraderRF","txt":"@newsagg so I should wait for earnings then on $amzn?","lbl":"Neutral"}
+,{"time":"11:36","usr":"newsagg","txt":"$AMZN following the 10d6m chart? Here is the linear regression low extension coinciding with a critical day for chikou http://t.co/mpW4CxRt","lbl":"Negative"}
+,{"time":"11:36","usr":"W1llSm1th","txt":"@apascual Correct. Rumor has it that $BBBY window shoppers go to $AMZN for products.","lbl":"Positive"}
+,{"time":"11:36","usr":"wallstCS","txt":"Amazon\u0027s App Strategy to Win Over Developers http://t.co/XCl6XWoS $AAPL $AMZN $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"12:35","usr":"passiveharry","txt":"$AMZN having problems with 20SMA","lbl":"Negative"}
+,{"time":"13:27","usr":"Shapkarov","txt":"$BBY only improves if $AMZN has to charge sales tax and shipping $$","lbl":"Neutral"}
+,{"time":"14:31","usr":"BlueFielder","txt":"$AMZN going to catch a lift here .... doin git now","lbl":"Positive"}
+,{"time":"14:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/123, $SPY/81, $BBY/32, $YHOO/27, $AIG/26, $GOOG/20, $GLD/20, $AMZN/18. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"16:45","usr":"wallstCS","txt":"Consumer Business Review: General Motors Volts, McDonald\u0027s on Warning http://t.co/NPSN5T6v $GM $MCD $CMCSA $LUV $BBY $AMZN #mkt","lbl":"Neutral"}
+,{"time":"18:43","usr":"frumpy","txt":"@optionbob Seriously! Thank you for $AMZN today!","lbl":"Positive"}
+,{"time":"18:45","usr":"BT24_7","txt":"$AMZN http://t.co/zCUWgAaO follow up http://t.co/dWdPsikG & http://t.co/BrjtbqLD $AMZN distribution for a nice profit $$","lbl":"Positive"}
+]

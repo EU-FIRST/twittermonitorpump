@@ -1,0 +1,24 @@
+[
+{"time":"2:49","usr":"CPUStocks","txt":"Chinese web users crack the Great Firewall and access blocked sites http://t.co/SmlJRpJk $RENN $FB $GOOG $BIDU $YOKU $SINA #obama","lbl":"Neutral"}
+,{"time":"2:49","usr":"FastFoodStocks","txt":"Chinese web users crack the Great Firewall and access blocked sites http://t.co/LXdrnGtM $RENN $FB $GOOG $BIDU $YOKU $SINA #obama","lbl":"Neutral"}
+,{"time":"2:49","usr":"USwwwStocks","txt":"Chinese web users crack the Great Firewall and access blocked sites http://t.co/psWYWLSQ $RENN $FB $GOOG $BIDU $YOKU $SINA #obama","lbl":"Neutral"}
+,{"time":"3:06","usr":"EvolvingMedium","txt":"Mobile Devices, Software Spur U.S. Job Revival $goog - http://t.co/HEnPJqzZ","lbl":"Neutral"}
+,{"time":"8:09","usr":"CapitalOverlook","txt":"Facebook\u0027s Unprofitable Obsession http://t.co/nzg7oj0D $AMZN $GOOG $FB $AAPL $QQQ $SPY $STUDY $DIA","lbl":"Neutral"}
+,{"time":"8:12","usr":"Puzzelaar","txt":"RT @SAI: Here\u0027s The Name Of The Next Release Of Android $GOOG by @_dtl http://t.co/ExQGhCao","lbl":"Neutral"}
+,{"time":"8:18","usr":"andrewflamm","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG by @_dtl http://t.co/mOtLnAkG","lbl":"Neutral"}
+,{"time":"8:38","usr":"takingstock614","txt":"Still like a lot of names $GOOG $BIDU $AAPL $PCLN $MA $V $CMG $AZO","lbl":"Neutral"}
+,{"time":"9:13","usr":"out2late","txt":"RT @SAI: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG by @hblodget http://t.co/MzG55bxI","lbl":"Negative"}
+,{"time":"9:18","usr":"footnoted","txt":"Marsh CFO Vanessa Whitman heading to Google, but 8-K doesn\u0027t say what she\u0027ll be doing at $GOOG, $MMC http://t.co/pCky3GrK","lbl":"Neutral"}
+,{"time":"10:32","usr":"berkutchitweet","txt":"$GOOG 10d rising to meet it\u0027s 50d today just underneath its current price.","lbl":"Positive"}
+,{"time":"11:52","usr":"JFP","txt":"RT @hblodget: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG http://t.co/kNV5agXB","lbl":"Negative"}
+,{"time":"11:55","usr":"BS_Whistler","txt":"RT @SeekingAlpha: Massive Upside Potential In These 5 Stocks http://t.co/MR1tKik3 $AAPL $GOOG $LMCA $NVDA $SIRI","lbl":"Positive"}
+,{"time":"11:55","usr":"MustangStocks","txt":"RT @stockguy22: overall i doubt a privacy probe would be too bad for $AAPL .. worry more about $GOOG #facebook $AMZN privacy- So much Info they all collect","lbl":"Neutral"}
+,{"time":"14:44","usr":"BluHorShoe","txt":"\u201C@tlmontana: $GOOG another new low\u201D //Love it!","lbl":"Negative"}
+,{"time":"14:44","usr":"DEMOGETS","txt":"The only problem is the big market leaders are getting hammered .. $AAPL, $GOOG, $PCLN, $CF","lbl":"Negative"}
+,{"time":"14:47","usr":"berkutchitweet","txt":"Stopped out of $GOOG just now. That\u0027s all she wrote. I\u0027ll be back when she get\u0027s her act together.","lbl":"Negative"}
+,{"time":"14:49","usr":"thefinancepress","txt":"$GOOG Yahoo Said to Weigh Job Cuts as CEO Thompson Copes With Market Share Loss: Yahoo Said to Weigh Job Cuts a... http://t.co/EXmAOc2Y","lbl":"Neutral"}
+,{"time":"17:04","usr":"Tablets_ITE","txt":"$AAPL\u0027s iOS running HTML5 games 3x faster than $GOOG Android? http://t.co/4fkjK1qx Watch for enterprise app comparisons in short order.","lbl":"Neutral"}
+,{"time":"17:13","usr":"wallstCS","txt":"End is Near for RIM as Clients Drift to Apple http://t.co/25WHIpta $RIMM $GOOG $AAPL $HAL #mkt #trading","lbl":"Neutral"}
+,{"time":"17:15","usr":"nottora2","txt":"RT @SAI: Look Out, Google -- \u0022Amazon Is Already Doing More Than $1 Billion In Ad Revenue\u0022 $AMZN $GOOG by @hblodget http://t.co/MzG55bxI","lbl":"Negative"}
+,{"time":"20:37","usr":"IraLipman","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/RWHCAq2p","lbl":"Neutral"}
+]

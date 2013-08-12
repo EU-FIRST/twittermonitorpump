@@ -1,0 +1,48 @@
+[
+{"time":"1:05","usr":"benny_the_dogs","txt":"Google drives Blind Guy to Taco Bell http://t.co/Hbfin3zS #hollywood #tmz #SourceFed $goog","lbl":"Neutral"}
+,{"time":"1:10","usr":"MedexMedia","txt":"\u201C@SAI: Android Is Winning, But Companies That Make Android Phones Aren\u0027t $GOOG by @MattRosoff http://t.co/fka6dUEg\u201D","lbl":"Negative"}
+,{"time":"5:59","usr":"ernieschell","txt":"RT @SAI: WOW: Instagram For Android Got 2,000 Downloads Per Minute $GOOG by @_dtl http://t.co/NPSdLv16","lbl":"Positive"}
+,{"time":"6:00","usr":"finnstr","txt":"RT @SAI: WOW: Instagram For Android Got 2,000 Downloads Per Minute $GOOG by @_dtl http://t.co/NPSdLv16","lbl":"Neutral"}
+,{"time":"6:01","usr":"aDropofReality","txt":"RT @SAI: WOW: Instagram For Android Got 2,000 Downloads Per Minute $GOOG by @_dtl http://t.co/YKL4NFQM","lbl":"Positive"}
+,{"time":"6:01","usr":"widyanuansarah","txt":"Android is a super phone! ;D \u0022@SAI WOW: Instagram For Android Got 2,000 Downloads Per Minute $GOOG by @_dtl http://t.co/0sk8YxgM \u0022","lbl":"Positive"}
+,{"time":"6:57","usr":"vzrjvy","txt":"RT @SAI: WOW: Instagram For Android Got 2,000 Downloads Per Minute $GOOG by @_dtl http://t.co/NPSdLv16","lbl":"Positive"}
+,{"time":"7:01","usr":"etfhack","txt":"no chance for a $YHOO / $GOOG deal - you don\u0027t marry someone who\u0027s trying to screw you http://t.co/frO2LE6v via @CNET","lbl":"Neutral"}
+,{"time":"8:14","usr":"rechtsteiner","txt":"$AMZN\u0027s in-app purchase capabilities push them a major step closer to $AAPL & $GOOG http://t.co/pqVGYTYt","lbl":"Neutral"}
+,{"time":"8:23","usr":"ForTraders","txt":"#Yahoo lays off 2,000 employeesYahoo lays off 2,000 employees http://t.co/r7NxEcRU $GOOG","lbl":"Neutral"}
+,{"time":"9:19","usr":"CrowdKnowsBest","txt":"$GOOG vs Facebook.$YHOO still dead in the water. Introducing \u0027Hoo You?\u0027, $YHOO wishes it could make it. #CrowdKnowsBest http://t.co/KtkSh0R9","lbl":"Neutral"}
+,{"time":"9:19","usr":"jmleray","txt":"RT @SAI: Larry Page\u0027s \u0027Paranoia\u0027 Over Facebook Has Forced Him To Abandon His Ideals $GOOG http://t.co/QX2zFikX","lbl":"Negative"}
+,{"time":"9:20","usr":"SeekingAlpha","txt":"Internet Explorer Gains Hint At Coming Microsoft Fightback http://t.co/2xXvz53x $AAPL $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"10:03","usr":"EvanMedeiros","txt":"knife catching $GOOG on way down stop LOD","lbl":"Negative"}
+,{"time":"10:04","usr":"igrowthinvest","txt":"Sold rest $trmb +2%, still holding $goog $v and 1/3 starter in $bidu, around 25% long and holding longs with wider stops at ~50 dma","lbl":"Positive"}
+,{"time":"10:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/179, $YHOO/140, $SPY/113, $GOOG/41, $HEAT/39, $JPM/25, $SNDK/25, $AMZN/22. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"10:54","usr":"coryjwatson","txt":"most heavy put positions of year, looking for another move lower here $AAPL $GOOG","lbl":"Negative"}
+,{"time":"10:55","usr":"MrStreetSweeper","txt":"Disneyland Paris celebrates 20th Anniversary by sending Goofy to your home http://t.co/9I8hpdef $DIS $GOOG","lbl":"Neutral"}
+,{"time":"11:35","usr":"pdparticle","txt":"According to Larry Page, a company protecting its IP is just for \u0022show\u0022. Stay classy. http://t.co/2mAcNkBv $GOOG","lbl":"Neutral"}
+,{"time":"11:36","usr":"wallstCS","txt":"Amazon\u0027s App Strategy to Win Over Developers http://t.co/XCl6XWoS $AAPL $AMZN $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"12:30","usr":"LazyStocks","txt":"What Would Warren Do? PASS ON $AAPL, PASS $SPY, PASS $GOOG, PASS $YHOO, PASS $HEAT, PASS $QQQ, PASS $MAGS, PASS $DIA.","lbl":"Neutral"}
+,{"time":"12:32","usr":"r2tweets","txt":"Commented on: \u0022If Vringo Was The Inventor Of Google Search, They\u0027d Have Invented G... http://t.co/3hj54O5a $VRNG $GOOG","lbl":"Neutral"}
+,{"time":"12:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/77, $SPY/74, $GOOG/35, $QQQ/26, $HEAT/24, $YHOO/20, $AIG/20, $GLD/17. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"13:29","usr":"marksigal","txt":"$GOOG Project Glass concept video is worth a watch (well done). The badness in me envisions the spoof version. http://t.co/DhmD45Cy","lbl":"Positive"}
+,{"time":"13:29","usr":"netgarden","txt":"$GOOG Project Glass concept video is worth a watch (well done). The badness in me envisions the spoof version. http://t.co/oIEuSdHy","lbl":"Neutral"}
+,{"time":"13:29","usr":"lazywisdom","txt":"$GOOG Project Glass concept video is worth a watch (well done). The badness in me envisions the spoof version. http://t.co/Kdbpaghy","lbl":"Neutral"}
+,{"time":"14:31","usr":"BioTechReports","txt":"SiriusXM($SIRI) breaking out on HUGE news from Ford($F) increased 2012 forecast. #cnbc,#msnbc,#nyse,#wsj,$c,$v,$s,$gs,$goog,$aapl","lbl":"Neutral"}
+,{"time":"14:32","usr":"dschorrnyc","txt":"Bought $GOOG 635.70","lbl":"Positive"}
+,{"time":"14:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/123, $SPY/81, $BBY/32, $YHOO/27, $AIG/26, $GOOG/20, $GLD/20, $AMZN/18. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"15:51","usr":"Mi2CaMatt","txt":"RT @chrisgrayson: $GOOG > Finally releases images of Google Glasses prototype. #AR #AugmentedReality #Mobile http://t.co/Xo8au7PH","lbl":"Positive"}
+,{"time":"15:52","usr":"trendspottr","txt":"Top trends for Google Glasses on TrendSpottr: http://t.co/dn02zpBI $goog #projectglass","lbl":"Neutral"}
+,{"time":"15:52","usr":"marketdelta","txt":"Futuristic - Project Glass from $GOOG: One day http://t.co/fcXexB36","lbl":"Neutral"}
+,{"time":"15:55","usr":"thefinancepress","txt":"$GOOG Sprint To Unveil 4G HTC Evo Smartphone At Wed Event - Sources: Sprint To Unveil 4G HTC Evo Smartphone At ... http://t.co/pLwv4kSh","lbl":"Neutral"}
+,{"time":"16:45","usr":"hpgretech","txt":"Google Begins Testing Its Augmented Reality Glasses http://t.co/D76w6I3q $GOOG via @DavidSchorr #google #AR #augmentedreality","lbl":"Positive"}
+,{"time":"16:46","usr":"best_of_iran","txt":"Google X research facility and its secret projects http://t.co/muwAjBKE #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"16:50","usr":"SeekingAlpha","txt":"Nokia: Is The Cell Phone Giant Stumbling Or Just Slumbering? http://t.co/YZSzY7XC $AAPL $GOOG $MMI $RIMM $SNE $SSNLF.PK $T $NOK","lbl":"Neutral"}
+,{"time":"18:42","usr":"mamaspoohlie","txt":"RT @themotleyfool: 3 growth stocks that look attractive now, including an appearance by Google: http://t.co/osWxPiIG (via @TMFStoffel) $GOOG","lbl":"Positive"}
+,{"time":"18:43","usr":"screwyourdayjob","txt":"Google X research facility and its secret projects http://t.co/sKXQwEGn #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"22:03","usr":"pmod","txt":"@meitweet Also, for an industry that\u0027s perpetually butthurt about women and how they\u0027re represented, $Goog\u0027s choice of model is interesting.","lbl":"Neutral"}
+,{"time":"22:03","usr":"WilliamK82","txt":"RT @WallStJesus: \u2605Apple Investors Need To Know About Google\u0027s Project Glass http://t.co/gHoOREIG $GOOG $NUAN $AAPL","lbl":"Neutral"}
+,{"time":"22:04","usr":"pmod","txt":"In an industry that\u0027s perpetually butthurt about women & how they\u0027re represented, $Goog\u0027s glasses model is interesting http://t.co/FlhPOe02","lbl":"Neutral"}
+,{"time":"22:06","usr":"RoccoPendola","txt":"RT @SeekingAlpha: Why Apple And Facebook Should Be Afraid Of Google\u0027s Glasses http://t.co/xg6vlHpe $AAPL $FB $GOOG","lbl":"Positive"}
+,{"time":"23:55","usr":"trends44","txt":"Google\u0027s Project Glass: A concept Navin R. Johnson could love http://t.co/G7ajamDM #Google, $Goog, #TechNews, #SciFi","lbl":"Neutral"}
+,{"time":"23:55","usr":"MickTwain","txt":"Google\u0027s Project Glass: A concept Navin R. Johnson could love http://t.co/xh8FoCno #Google, $Goog, #TechNews, #SciFi","lbl":"Positive"}
+,{"time":"23:55","usr":"TrendingNews1","txt":"Google\u0027s Project Glass: A concept Navin R. Johnson could love http://t.co/4HI7vjOW #Google, $Goog, #TechNews, #SciFi","lbl":"Positive"}
+,{"time":"23:55","usr":"SocialTrends12","txt":"Google\u0027s Project Glass: A concept Navin R. Johnson could love http://t.co/286tn1vG #Google, $Goog, #TechNews, #SciFi","lbl":"Positive"}
+]

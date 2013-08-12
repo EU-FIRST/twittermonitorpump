@@ -1,0 +1,10 @@
+[
+{"time":"6:25","usr":"DeviaVir","txt":"RT @SAI: Google Is Now Doing Same-Day Shopping Delivery $GOOG by @Jim_Edwards http://t.co/DRScWVHq","lbl":"Neutral"}
+,{"time":"7:19","usr":"SarahCaldicott","txt":"RT @businessinsider: Google Is Now Doing Same-Day Shopping Delivery $GOOG by @Jim_Edwards http://t.co/rPLvBOlY","lbl":"Neutral"}
+,{"time":"13:04","usr":"KarriannGraf","txt":"RT @stockhaven: Class is tonight at 7 pm est, see you there! http://t.co/wSZygen1 via @stockhaven #study #stocks $AAPL $GOOG $QQQ $AMZN","lbl":"Neutral"}
+,{"time":"18:03","usr":"StockMarket411","txt":"How Google Still Makes Billions From Tiny Text Ads $goog http://t.co/zoLhWoEj goog, google, google stock, news","lbl":"Positive"}
+,{"time":"18:20","usr":"StockMarket411","txt":"How Google Still Makes Billions From Tiny Text Ads $goog http://t.co/vn1ZowTP goog, google, google stock, news","lbl":"Positive"}
+,{"time":"23:19","usr":"phisher12","txt":"RT @RDeanon: Weekend Trial Update: This Comes Down To Google Management VRINGO vs Google $VRNG $GOOG http://t.co/D09oBDU8\u201D /agree 100%","lbl":"Neutral"}
+,{"time":"23:21","usr":"RDeanon","txt":"RT @Pennystockdolla: Vringo, Inc. ($VRNG): $VRNG likely settles or $GOOG gets upset by jury..... http://t.co/ZJMLIIOI","lbl":"Neutral"}
+,{"time":"23:24","usr":"RDeanon","txt":"RT @ScottMatusow: Speculation In The Patent Litigation Segment: Finding The Next Big Stock Movers http://t.co/rAWUN0JL $VRNG $GOOG $MGT $DSS $FB","lbl":"Neutral"}
+]

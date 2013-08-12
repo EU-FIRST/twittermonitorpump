@@ -1,0 +1,8 @@
+[
+{"time":"8:43","usr":"HugoSarrazin","txt":"RT @ValaAfshar: How big is the $AMZN cloud? 1% of all internet traffic http://t.co/JdGiDLI6 @gigaom #cloud","lbl":"Neutral"}
+,{"time":"8:57","usr":"biggercapital","txt":"@cyclecomputing Do you have a video clip of your presentation at the $AMZN AWS summit? I would like to write a post about it + embedd","lbl":"Neutral"}
+,{"time":"8:59","usr":"alalawin1","txt":"$AMZN - Amazon Stock Analysis - 5day sma & 10day sma crossover - http://t.co/qllL8qHJ","lbl":"Neutral"}
+,{"time":"9:00","usr":"StockTwits","txt":"Saturday links: primed for risk. http://t.co/e7oeMUph via @abnormalreturns $SNE $NYT $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"22:24","usr":"MoneyNewsWeb","txt":"RT @StockTwits: Saturday links: primed for risk. http://t.co/e7oeMUph via @abnormalreturns $SNE $NYT $AMZN $AAPL","lbl":"Neutral"}
+,{"time":"22:24","usr":"simplestockqtes","txt":"Someone just got a simple quote on $AMZN $AAPL @simplestockqtes http://t.co/PMacVvcW","lbl":"Neutral"}
+]

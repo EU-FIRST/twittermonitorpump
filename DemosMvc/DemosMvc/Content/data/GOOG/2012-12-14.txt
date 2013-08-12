@@ -1,0 +1,32 @@
+[
+{"time":"1:05","usr":"JohncoffeyIRL","txt":"$goog Maps becomes the iOS App Store\u0027s top free app in 7 hours w/a 4.5 star rating!","lbl":"Positive"}
+,{"time":"1:16","usr":"StockMarket411","txt":"Google Maps return to iPhone with new mobile app $goog http://t.co/h43zYekI goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"1:18","usr":"ipahlke","txt":"RT @BloombergTV: Are Google\u0027s top stock searches a good investment? http://t.co/yd1mvRA3 $GOOG","lbl":"Neutral"}
+,{"time":"7:05","usr":"thefinancepress","txt":"$GOOG Google maps to the rescue of Apple Inc- AAPL, GOOG, & HTC: Google maps to the rescue of Apple Inc- AAPL, ... http://t.co/aPxk6Edf","lbl":"Positive"}
+,{"time":"7:06","usr":"StockMarketEnds","txt":"AntiChrist Greedy Zionists #Fox, #BirkshireHathaway & #Google are Anti 99% $BRK.A $BRK.B $GOOG #Nurse #Teacher #Eggs #Surface #Warmongers","lbl":"Neutral"}
+,{"time":"9:03","usr":"shastamac13","txt":"@smartertrader great job on $goog !","lbl":"Neutral"}
+,{"time":"9:54","usr":"BlueFielder","txt":"$GooG Sold ALL of wkly 705 $CALLs @ 1.50 for minus .50","lbl":"Negative"}
+,{"time":"9:55","usr":"TMFJMo","txt":"Video @MarketFoolery - This Is Why Apple Won the Map War: http://t.co/4I0NaFmZ $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"10:39","usr":"Treatise","txt":"RT @businessinsider: Google Has Cool New Way To Find Cheap Plane Tickets $GOOG by @_dtl http://t.co/W4wzz9Yg","lbl":"Positive"}
+,{"time":"10:39","usr":"theHUNGRY__BEAR","txt":"RT @ppprophet: SELL $GOOG The Market will Crash .... .#DAX #CAC #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT $DIA $QQQ","lbl":"Negative"}
+,{"time":"10:39","usr":"Leathillmatic","txt":"RT @SAI: Google Has Cool New Way To Find Cheap Plane Tickets $GOOG by @_dtl http://t.co/7g6Or6xr","lbl":"Neutral"}
+,{"time":"10:59","usr":"Jamtrades","txt":"\u0022@ridepow1: @Jamtrades 5 for 5 on the week, thanks again James!\u0022 Gracias boss. $AAPL $GOOG We are on a streak right? $STUDY","lbl":"Neutral"}
+,{"time":"11:00","usr":"z8angela","txt":"\u201C@cali_sunnyd: @z8angela @Chunami $goog looks strong today.indicators pointing up! buyers coming in.\u201D- Sell into bounce after reversal bar!","lbl":"Positive"}
+,{"time":"11:00","usr":"TradetheLeader1","txt":"Would like to short $GOOG rallies vs 710ish","lbl":"Negative"}
+,{"time":"11:37","usr":"tradethembi","txt":"$GOOG 78 min has been a buy then short, but working perfectly ,today no exception ! nice http://t.co/dZabJfyx","lbl":"Neutral"}
+,{"time":"11:38","usr":"andrescardenal","txt":"Five Mistaken Reasons to Sell Apple - $AMZN, $AAPL, $CHL, $GOOG, $MSFT : http://t.co/G0hCaZAm via @themotleyfool","lbl":"Neutral"}
+,{"time":"11:38","usr":"Dmottco","txt":"@jfahmy Does $goog make bread and water?","lbl":"Neutral"}
+,{"time":"12:11","usr":"gabrioni","txt":"@SuperTradeTimer I agree. $GOOG great buy. Better than $AAPL #kapitall","lbl":"Positive"}
+,{"time":"13:35","usr":"Cisenorita","txt":"RT @LaMonicaBuzz: Did $GOOG analysts cut 4Q forecasts too far? Look at @estimize consensus. http://t.co/rUZgoEIS I cited in today\u0027s Buzz. http://t.co/zNshZNGa","lbl":"Neutral"}
+,{"time":"13:38","usr":"mktwcrum","txt":"#Apple executives said to be \u0022seething\u0022 over upbeat reaction to Google Maps. http://t.co/K1xW2XXu $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:39","usr":"MikeVodicka","txt":"5 Reasons Cisco is My Top Tech Pick for 2013. $AAPL, $GOOG, $AMZN, $CSCO. RT. http://t.co/Tn56HOsL","lbl":"Neutral"}
+,{"time":"14:45","usr":"smendozag","txt":"My $lulu position, $nflx & $goog, will expire worthless; no problem week finishes positive with early gains on week in $lulu & celg","lbl":"Neutral"}
+,{"time":"14:49","usr":"noahmp","txt":"$goog bearishness down from October http://t.co/Sljugj5R","lbl":"Negative"}
+,{"time":"15:52","usr":"YWCACleveland","txt":"RT @FortuneMPW: RT @FortuneMagazine Another senior woman leaves Google: SVP Shona Brown. $GOOG http://t.co/gB2sjTqT","lbl":"Negative"}
+,{"time":"15:53","usr":"cpuzder","txt":"@thurrott @fxshaw I wish $GOOG would just focus on search.","lbl":"Neutral"}
+,{"time":"15:53","usr":"mattritsema","txt":"RT @BI_Advertising: Google Is Working On A Fix For People Accidentally Clicking On Mobile Ads $GOOG by @owenthomas http://t.co/DUd5Mzyz","lbl":"Neutral"}
+,{"time":"16:52","usr":"PuneetKohli_Biz","txt":"Wow. Long $GOOG and long $RIMM vs short $AAPL has been huge over the last few months.","lbl":"Positive"}
+,{"time":"16:52","usr":"SoftwareAGCloud","txt":"So, #Rackspace to lead the hybrid cloud pack... http://t.co/qJFoQuN1 $AMZN $CSCO $DELL $GOOG $HPQ $MSFT $RAX $RHT $VMW","lbl":"Neutral"}
+,{"time":"17:12","usr":"wallstCS","txt":"Radar Movers: Apple Closes in the Red, GE Hikes Dividend 12% http://t.co/TYo5mPkY $ADBE $AAPL $FB $GE $GOOG $DIA $SPY $QQQ $XLK","lbl":"Neutral"}
+,{"time":"20:33","usr":"AliDahmash","txt":"RT @Reach_20: Google Is Working On A Fix For People Accidentally Clicking On Mobile Ads $GOOG http://t.co/ODcrwEca #Tech #USA","lbl":"Neutral"}
+]

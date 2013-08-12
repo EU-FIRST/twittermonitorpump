@@ -1,0 +1,26 @@
+[
+{"time":"0:02","usr":"thefinancepress","txt":"$GOOG Monday Grok: Will Siri crack the walls of GOOG?: Monday Grok: Will Siri crack the walls of GOOG? Computer... http://t.co/DNCA73LA","lbl":"Negative"}
+,{"time":"6:15","usr":"themaxpain","txt":"$GOOG ($600.25), 3/12/2012, current max pain strike price: $600.00. Put/Call ratio: 0.591. #GOOG","lbl":"Neutral"}
+,{"time":"8:36","usr":"brokerz_bullish","txt":"RT @SJosephBurns - Watch for $AAPL price crossing over the $GOOG price as a bullish market indicator. $QQQ","lbl":"Positive"}
+,{"time":"8:39","usr":"ninja_trades","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/zbyR5Z61","lbl":"Neutral"}
+,{"time":"10:16","usr":"DJThistle","txt":"Save $100! Buy Sony Tablet P and XPERIA Play for $299 from AT&T: AT&T, borrowing from the Pantech strateg... http://t.co/j8t8tjTP $GOOG","lbl":"Neutral"}
+,{"time":"10:16","usr":"DJThistle","txt":"Instagram developers: \u201CAndroid version better than iOS\u201D: As many of you know, we\u0027ve been waiting for an a... http://t.co/g9lEOmQO $GOOG","lbl":"Neutral"}
+,{"time":"10:20","usr":"thefinancepress","txt":"$GOOG Is Apple in danger of antitrust charges?: Is Apple in danger of antitrust charges? San Jose Mercury News ... http://t.co/WEa5ZEXz","lbl":"Neutral"}
+,{"time":"11:48","usr":"AmericanEtrader","txt":"$YOKU near HOD +20.5% $TUDO +147% >> $SOHU +2.9% this may be 1 -2 Watch!<<.......... $BIDU $SINA $GOOG $PCLN $AMZN $AAPL $NFLX $LNKD $CSTR","lbl":"Neutral"}
+,{"time":"13:12","usr":"ninja_trades","txt":"Google X research facility and its secret projects http://t.co/mljKt7xm #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"13:17","usr":"tradingstocks28","txt":"$GOOG - Google Stock Analysis - bullish macd crossover - http://t.co/aRoYhWTV","lbl":"Positive"}
+,{"time":"14:03","usr":"SAI","txt":"17 Easy Ways To Offend Googlers $GOOG by @mattlynley http://t.co/Bve3E8Rd","lbl":"Neutral"}
+,{"time":"14:03","usr":"businessinsider","txt":"17 Easy Ways To Offend Googlers $GOOG by @mattlynley http://t.co/IVL4yiBq","lbl":"Neutral"}
+,{"time":"14:03","usr":"BigTicks","txt":"RT @USwwwStocks: Google+ \u0022Ghost Town\u0022 or Long Term #Social Media Winner? http://t.co/iybZQbXB $GOOG $FB $LNKD $PCLN $AMZN #daytrading","lbl":"Neutral"}
+,{"time":"15:04","usr":"keertichivukula","txt":"$GOOG still holding a dominant search share despite all of the hoopla about Social. http://t.co/WZYJ43gN. Now, can they stop with G+ already","lbl":"Positive"}
+,{"time":"15:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/86, $SPY/43, $GOOG/29, $YOKU/24, $AMZN/15, $AIG/14, $BAC/14, $PCBC/13. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"15:05","usr":"morganefitz","txt":"New: $GOOG,GOOGLE, Long Swing Trade S8, 20% $GOOG,GOOGLE, New Long Entry S8, 20%. 12 Shares @ 6... Read more at http://t.co/Sm9zrssB","lbl":"Positive"}
+,{"time":"17:45","usr":"Ktr8der","txt":"The most important data point on iPad is not how many are sold, but how many are delighted long after the buy. $AAPL v $AMZN/$GOOG?$MMI","lbl":"Neutral"}
+,{"time":"17:54","usr":"MichaelKrey","txt":"Andoid phones $GOOG and Nintendo games add up to be big growth for recent IPO InvenSense, a \u0027motion\u0027 chip maker $INVN http://t.co/ZMRL6n2E","lbl":"Neutral"}
+,{"time":"17:54","usr":"RatioTrader","txt":"Trading Videos are back! -- Premium for all tonight: $spy $goog $aapl $rimm: http://t.co/vP1HDXom","lbl":"Neutral"}
+,{"time":"18:05","usr":"StocialTrends","txt":"Daily Trending Social Volume: $AAPL/1223, $SPY/419, $YOKU/239, $GOOG/163, $BAC/160, $TUDO/139, $AMZN/134. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"19:32","usr":"rogpz","txt":"RT @SAI: Google Just Hired The Head Of The Pentagon\u0027s Research Arm $GOOG by @MattRosoff http://t.co/5vKadsyG","lbl":"Positive"}
+,{"time":"19:35","usr":"thefinancepress","txt":"$GOOG Google Just Hired The Head Of The Pentagon\u0027s Research Arm (GOOG): Google Just Hired The Head Of The Penta... http://t.co/p4vdx4YN","lbl":"Neutral"}
+,{"time":"22:37","usr":"thurberdog","txt":"$GOOG #Android platform chief Eric #Chu resigns after Google Play shakeup http://t.co/x4j8DQ5h","lbl":"Neutral"}
+,{"time":"22:40","usr":"Qforma_Jenn","txt":"RT @fiercebiotech: Google #VC backed #startup plays \u0027Moneyball\u0027 in Big #Pharma partnerships http://t.co/9gmR11jf $GOOG #analytics","lbl":"Neutral"}
+]

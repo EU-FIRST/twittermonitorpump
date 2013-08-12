@@ -1,0 +1,35 @@
+[
+{"time":"2:28","usr":"BigTicks","txt":"$GOOG News: Lupin, Google, China Copyright: Intellectual Property http://t.co/isUDarEO #GOOG #China #Copyright","lbl":"Neutral"}
+,{"time":"2:31","usr":"kurtsh","txt":"RT @samgustin: Reason that $GOOG, $MSFT, and $FB are focused on software (per Andreessen) is that you\u0027ve off-shored hardware. @billgates @charliesrose","lbl":"Neutral"}
+,{"time":"2:33","usr":"scalamai","txt":"#Cloud vs Google vs Amazon: if you think things are complicated now, it\u2019s about to get a lot worse: http://t.co/la8r59q3 $GOOG $AMZN","lbl":"Negative"}
+,{"time":"2:40","usr":"I_am_funny_one","txt":"Ever wonder how the iPhone works? $aapl $goog $vz $T #iphone http://t.co/JxowLcRv","lbl":"Neutral"}
+,{"time":"6:09","usr":"bdpatoday","txt":"RT @Computerworld: RT @richi: Nexus 7 tablet vs. Nokia patents http://t.co/dRFBrl1S #ITBW $GOOG $NOK $NOK1V $MSFT","lbl":"Neutral"}
+,{"time":"6:20","usr":"bored2tears","txt":"After weekend outages, some in Congress question the safety of the cloud. http://t.co/KIQ3t8XK $AMZN $GOOG #stocks #tech","lbl":"Neutral"}
+,{"time":"6:21","usr":"RichLoPresti","txt":"RT @TheStreet: Google on Amazon, Apple, Microsoft: Napalm - http://t.co/asAVH0gG by @antonwahlman $aapl $goog $msft $$","lbl":"Neutral"}
+,{"time":"6:22","usr":"richi","txt":"RT @LivesInThought: Ridiculous. RT @Computerworld: RT @richi: Nexus 7 tablet vs. Nokia patents http://t.co/cn1iRvzf #ITBW $GOOG $NOK $NOK1V $MSFT","lbl":"Neutral"}
+,{"time":"8:27","usr":"JMWilke","txt":"@katehoughton16 RT \u201C@SAI: Google Already Submitted A Term Sheet To Buy Yahoo\u0027s Ad Tech $GOOG $YHOO by @nichcarlson http://t.co/ZIgZpDPH\u201D","lbl":"Neutral"}
+,{"time":"8:29","usr":"lluccipha","txt":"SAI: After Seven Months, The Latest Version Of Android Is Only On 10% Of Devices $GOOG by @stevekovach http://t.co/nrsMkk0Y","lbl":"Negative"}
+,{"time":"8:29","usr":"PricingEngineCo","txt":"RT @sai: Google Already Submitted A Term Sheet To Buy Yahoo\u0027s Ad Tech $GOOG $YHOO by @nichcarlson http://t.co/xP9VNe2s","lbl":"Neutral"}
+,{"time":"9:13","usr":"choffman1978","txt":"$KERX RUNNING HUGE - up 10%!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"9:14","usr":"choffman1978","txt":"$GMCR- up 7%!!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f,$v,","lbl":"Neutral"}
+,{"time":"9:15","usr":"TheStreet","txt":"Sell Research In Motion! Against the Grain - http://t.co/OZeCKNxE by @MarekFuchs $RIMM, $GOOG, $AAPL","lbl":"Neutral"}
+,{"time":"9:15","usr":"choffman1978","txt":"$SIRI - up 5%!!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"9:50","usr":"rgruia","txt":"Google\u0027s Nexus 7 tablet infringes Nokia patents http://t.co/SPS5XnDU $GOOG allegedly infringing on 802.11 $NOK patents","lbl":"Neutral"}
+,{"time":"9:59","usr":"IT_info","txt":"RT: @SAI: Uh Oh! Google\u0027s Android Jelly Bean Statue Melted $GOOG by @officialKLS http://t.co/hzl00sdX","lbl":"Neutral"}
+,{"time":"10:00","usr":"choffman1978","txt":"$SIRI TREE SHAKE - CAREFUL!!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"11:07","usr":"RickyBonMx","txt":"RT @SAI: The Real Thermonuclear War For Apple Against Android Isn\u0027t Going To Happen In The Court Room $AAPL $GOOG by @jyarow http://t.co/sWgpAHqB","lbl":"Negative"}
+,{"time":"11:10","usr":"SeekingAlpha","txt":"Amazon Ready To Plunge On Margin Squeeze http://t.co/KQbEc54g $AOL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"11:11","usr":"choffman1978","txt":"$SIRI- judge throws out Stern suit!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"11:13","usr":"choffman1978","txt":"$ACUR breaking out!!!!!#cnbc,#msnb,#nyse,#wsj,$ms,$gs,$goog,$aapl,$jnj,#stocks,#investments,#markets,$arna,$ctic,$vvus,$c,$gm,$f","lbl":"Neutral"}
+,{"time":"13:03","usr":"ankypanky25","txt":"so many tech lawsuits...$NOK $INTC $GOOG $AAPL $MSFT...is there anyone left!?! just admit you all stole from each other and move on...","lbl":"Neutral"}
+,{"time":"13:05","usr":"_max_k","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"13:13","usr":"BUDDIEE18","txt":"$YHOO $GOOG & others are scanning, analysing, & categorizing YOUR emails -- this one does NOT>> http://t.co/d4n5XP5U $BIDU $AAPL $SPY","lbl":"Neutral"}
+,{"time":"14:37","usr":"tkuz4u","txt":"RT @SAI: 4 Ways To Skip The Apple Television And Be Glad You Did $GOOG by @_dtl http://t.co/ttNQztJj","lbl":"Neutral"}
+,{"time":"14:41","usr":"2kaykim","txt":"$GOOG Stock Market Technical Analysis | Possible Double Top & BBands Squeeze | Traders Club http://t.co/dblgJHM6 via @2tradersclub","lbl":"Neutral"}
+,{"time":"14:46","usr":"darthmanu","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"14:54","usr":"i_am_ninja_cat","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/eTUEv206 #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"18:43","usr":"LEXUSMARCK","txt":"RT @torycapital: Apple May Launch Smaller 7 Inch iPad \u0027Mini\u0027 October 2012 http://t.co/ACg7rEpB $AAPL $GOOG $AMZN http://t.co/vw0edpdm","lbl":"Neutral"}
+,{"time":"18:47","usr":"TScomputing","txt":"RT @businessinsider: 4 Ways To Skip The Apple Television And Be Glad You Did $GOOG by @_dtl http://t.co/UqAvIQ1a","lbl":"Neutral"}
+,{"time":"18:59","usr":"DonGarabedian","txt":"Nexus 7 Nightmare: The iPad mini http://t.co/0yZdfpar via @BloombergNews $GOOG & $MSFT tablets will die quickly if true! $AAPL rules again!!","lbl":"Negative"}
+,{"time":"18:59","usr":"wallstCS","txt":"Tech Business Recap: Apple Turned DOWN, Facebook Has Another GO At GM http://t.co/Jy0MnXUF $AAPL $GOOG $FB $GM #mkt #stocks","lbl":"Neutral"}
+]

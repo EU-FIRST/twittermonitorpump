@@ -1,0 +1,21 @@
+[
+{"time":"0:21","usr":"campione","txt":"A #CTO\u2019s take on #cloud http://t.co/n9dn1o3S v @gigaom #IBM $MSFT #azure $AMZN","lbl":"Neutral"}
+,{"time":"0:21","usr":"paragonjr","txt":"\u2756 $AAPL \u25CF $AMZN \u25CF $GOOG \u25CF $MSFT \u25CF $DELL \u25CF $HPQ \u27A4 http://t.co/ceHErIQe | #apple #amazon #google #microsoft #dell #hp | #stock #trends","lbl":"Neutral"}
+,{"time":"8:05","usr":"funtrading12","txt":"$AMZN - Amazon Stock Analysis - bullish macd crossover - http://t.co/UAlCqnJU","lbl":"Positive"}
+,{"time":"8:11","usr":"punksgt","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/iWjPihIW #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"9:57","usr":"dschorrnyc","txt":"RT @NewYorkPost: Amazon looking into taking on Netflix http://t.co/qnRWiEzD $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"10:53","usr":"50bulls50bears","txt":"RT @Arnuminous You probably don\u0027t need reminding, but $NFLX reports today after close, $AMZN reports next Tuesday, 1/31","lbl":"Neutral"}
+,{"time":"10:53","usr":"Leaf_West","txt":"As per this am\u0027s blog on $AMZN .. the 10-min/60-min charts look like it wants to bounce . hawking it http://t.co/IYP7RIVQ","lbl":"Positive"}
+,{"time":"11:23","usr":"RaviRomo","txt":"Ha! Your \u201CLimited Function\u201D Kindle Fire Is No Match for My Magical iPad! $AAPL $AMZN http://t.co/qJ6Mfmue","lbl":"Negative"}
+,{"time":"12:01","usr":"Leaf_West","txt":"$AMZN .. Yellow candles and the Squeeze Indicator has flipped \u0022green\u0022 Expansion follows contraction http://t.co/iF6Vmjht","lbl":"Positive"}
+,{"time":"12:01","usr":"AMZN_stock","txt":"$AMZN real time quote, 12:01PM EST: 185.25 -1.75 (-0.94%).","lbl":"Neutral"}
+,{"time":"14:15","usr":"BUDDIEE18","txt":"RT @wallstCS: Netflix Key Drivers: What to Watch at Earnings http://t.co/KNH2rVxe $NFLX $AMZN #stocks #mkt","lbl":"Neutral"}
+,{"time":"14:45","usr":"Japanesegunto","txt":"Profitable on $Goog, $MCD, $AAPL earnings..3/3..$AMZN and $BIDU and $NFLX (Option is too expensive....not sure about the how points swing)","lbl":"Positive"}
+,{"time":"15:22","usr":"Yonaz1","txt":"out 1/2 $AMZN Jan-27-12 185 call @ 3.30 still holding http://t.co/jQ9oRIiv","lbl":"Negative"}
+,{"time":"15:27","usr":"rekko31","txt":"$AMZN bull flag, could run to 200+ needs to get above the 50day MA. http://t.co/5jRi9h4M","lbl":"Positive"}
+,{"time":"18:34","usr":"CherylRainfield","txt":"RT @jensbookpage: RT @rechtsteiner: According to $AMZN, Kindle Lending Library is increasing ebook sales. http://t.co/RzSkLa90 Exposure...","lbl":"Neutral"}
+,{"time":"18:34","usr":"fundmyfund","txt":"RT @firstadopter: $NFLX confirming NYPost story this morning they expect $AMZN to launch standalone video streaming service at a lower price","lbl":"Neutral"}
+,{"time":"18:35","usr":"fundmyfund","txt":"based on $AMZN margin due to Prime they are willing and happy to lose a lot of money to build long term market share","lbl":"Neutral"}
+,{"time":"20:31","usr":"martinmaslo","txt":"@alfonsolg mi tech watch list: $GOOG (long & buying dips), $ZNGA (long @ 8.7) $NFLX (chasing) y $AMZN (long @ 200 on hold) y miro $GLW abz","lbl":"Positive"}
+,{"time":"23:50","usr":"timothysykes","txt":"Watch these 7 free lessons if you wanna learn trading stocks like $NFLX $AMZN http://t.co/1xCg5eUn from a guy who makes $40k per trade","lbl":"Neutral"}
+]

@@ -1,0 +1,17 @@
+[
+{"time":"5:48","usr":"pjwoude","txt":"RT @SeekingAlpha: Can Nokia Hit $5 A Share Once Restructuring Is Completed? http://t.co/1Sx4WvuD $AAPL $GOOG $MSFT $RIMM $NOK","lbl":"Neutral"}
+,{"time":"6:47","usr":"mohasin","txt":"RT @SAI: Could This Device Change Television Forever? $GOOG by @_dtl http://t.co/hIWMh101","lbl":"Neutral"}
+,{"time":"11:06","usr":"madaznfootballr","txt":"$GOOG earnings this week Thursday AH. Haven\u0027t decided on how to play yet but leaning towards the bull side.","lbl":"Positive"}
+,{"time":"11:09","usr":"Jim_Edwards","txt":"Is Google Looking To Buy A Social Media Management Firm To Keep Tabs On Facebook? $GOOG $FB http://t.co/IaXOx3ga","lbl":"Neutral"}
+,{"time":"11:09","usr":"BI_Advertising","txt":"Is Google Looking To Buy A Social Media Management Firm To Keep Tabs On Facebook? $GOOG $FB by @Jim_Edwards http://t.co/WyfT9xWf","lbl":"Neutral"}
+,{"time":"11:09","usr":"businessinsider","txt":"Is Google Looking To Buy A Social Media Management Firm To Keep Tabs On Facebook? $GOOG $FB by @Jim_Edwards http://t.co/G2WiTl5w","lbl":"Neutral"}
+,{"time":"12:47","usr":"JeffMLoy","txt":"\u0022@SAI: Is #Google Looking To Buy A #SocialMedia Management Firm To Keep Tabs On #Facebook? $GOOG $FB by @Jim_Edwards http://t.co/rTdHtSKo\u0022","lbl":"Neutral"}
+,{"time":"12:50","usr":"ffalconi","txt":"RT @businessinsider: Is Google Looking To Buy A Social Media Management Firm To Keep Tabs On Facebook? $GOOG $FB by @Jim_Edwards http://t.co/G2WiTl5w","lbl":"Neutral"}
+,{"time":"12:58","usr":"nag_blr","txt":"RT @SAI: Is Google Looking To Buy A Social Media Management Firm To Keep Tabs On Facebook? $GOOG $FB by @Jim_Edwards http://t.co/ibtGhcA8","lbl":"Neutral"}
+,{"time":"16:44","usr":"FreakingAnnoyed","txt":"I received a $GOOG class action suit settlement check the other day for .51! There needs to be special place in hell for lawyers!","lbl":"Neutral"}
+,{"time":"16:45","usr":"KeeneOnMarket","txt":"Only a few more spots to Today\u0027s #Earnings Webinar with trades in $GOOG $WYNN $FCX $CMG and $GS http://t.co/VaRUc9i9","lbl":"Neutral"}
+,{"time":"16:55","usr":"abhishek_tri","txt":"RT @SAI: Is Google Looking To Buy A Social Media Management Firm To Keep Tabs On Facebook? $GOOG $FB by @Jim_Edwards http://t.co/ibtGhcA8","lbl":"Neutral"}
+,{"time":"17:06","usr":"madaznfootballr","txt":"My Strategy for the week: Trade $SPY Options based on the general reaction of the market to the earnings this week. $C $GS $VVUS $BAC $GOOG","lbl":"Neutral"}
+,{"time":"20:38","usr":"adnanzulkarnain","txt":"Google docs provides offline capability $goog http://t.co/Byfv4Gvc","lbl":"Positive"}
+,{"time":"20:44","usr":"KenShreve","txt":"My latest video over at The Street - The Week Ahead: Retail Sales, CPI, Tech Earnings - $EBAY $QCOM $GOOG $ISRG $MSFT - http://t.co/5SP21M4t","lbl":"Neutral"}
+]

@@ -1,0 +1,35 @@
+[
+{"time":"5:17","usr":"nuckel_pinne","txt":"RT @SAI: Watch Microsoft Make Fun Of Google Apps In This Video $GOOG $MSFT by @MattRosoff http://t.co/TLyOnAgv","lbl":"Neutral"}
+,{"time":"5:17","usr":"best_of_iran","txt":"Google Sponsors #CPAC 2012 http://t.co/zBsYdUHs #politics #tyt #occupy #ows $goog","lbl":"Neutral"}
+,{"time":"5:18","usr":"top_stock_news","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/143t3ZmA #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"7:59","usr":"VOLADIVERSE","txt":"watch-list for today: $WMT $GOOG $SLV $FDX $RL","lbl":"Neutral"}
+,{"time":"9:54","usr":"cgoodaker","txt":"They $GOOG have the master databases now they\u0027re connecting them in real time...really, you don\u0027t see the value @jimcramer","lbl":"Positive"}
+,{"time":"9:54","usr":"I_am_funny_one","txt":"Google X research facility and its secret projects http://t.co/kHFBoKyX #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"9:57","usr":"DrivenSports","txt":"@jimcramer you nailed it with $GOOG","lbl":"Neutral"}
+,{"time":"9:57","usr":"jimcramer","txt":"Take that cramer haters-- I understand $GOOG eps, DO YOU!?","lbl":"Neutral"}
+,{"time":"10:49","usr":"thehartley","txt":"In case you missed it, my Saturday feature: Google\u0027s Android has conquered the world. Now what? http://t.co/HZPWvQOm $GOOG","lbl":"Positive"}
+,{"time":"10:50","usr":"WendyBairos","txt":"RT @thehartley: In case you missed it, my Saturday feature: Google\u0027s Android has conquered the world. Now what? http://t.co/HZPWvQOm $GOOG","lbl":"Positive"}
+,{"time":"10:54","usr":"businessinsider","txt":"Ex-Google Designer Calls Some Of Its Recent Changes \u0027Bats**t Crazy\u0027 $GOOG by @mattlynley http://t.co/zWJofub5","lbl":"Neutral"}
+,{"time":"10:54","usr":"SAI","txt":"Ex-Google Designer Calls Some Of Its Recent Changes \u0027Bats**t Crazy\u0027 $GOOG by @mattlynley http://t.co/yaeF4T7k","lbl":"Neutral"}
+,{"time":"11:37","usr":"TrendRida","txt":"RT LOL $GOOG http://t.co/DOSHoJng via: @traderdr","lbl":"Neutral"}
+,{"time":"11:39","usr":"ericjackson","txt":"New Post: Why Apple Should Buy Yahoo! - Forbes http://t.co/EsWv1LOq $AAPL $YHOO $GOOG $MSFT $DIS $V $EBAY","lbl":"Neutral"}
+,{"time":"11:39","usr":"Edisonsepulveda","txt":"RT @Trefis: Amazon Smartphone Interest Rises After Kindle Fire\u0027s Success http://t.co/0xaBCLpl $AMZN $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"11:39","usr":"BioTechReports","txt":"$BPAX - volume before news!!!! UP HUGE! $dndn, $pfe, $ymi, $amgn,$thld, $ctic, $c, $gs, $goog, $bac, $aapl, #cnbc, #msnbc, #nyse, #wsj","lbl":"Neutral"}
+,{"time":"12:33","usr":"Mark_Lexus","txt":"$GOOG setup http://t.co/IL2Q06n7 #WORDEN","lbl":"Neutral"}
+,{"time":"12:34","usr":"jessefelder","txt":"Google to Sell Heads-Up Display Glasses by Year\u0027s End http://t.co/4AC8ERsi $goog #geekchic","lbl":"Positive"}
+,{"time":"12:34","usr":"Catwoman2011","txt":"@stephenLweiss I\u0027m with U! Every time I have EVER shorted $AAPL, it has ended very badly. If U MUST short, look elsewhere like $GOOG. =^.^=","lbl":"Negative"}
+,{"time":"12:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/101, $NFLX/65, $SPY/65, $GOOG/37, $BAC/25, $C/23, $GS/23, $VVUS/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"13:27","usr":"thefinancepress","txt":"$GOOG Google Privacy Plan Should Be Stopped, Consumer Group\u0027s FTC Complaint Says: Google Privacy Plan Should Be... http://t.co/AzL2LYFv","lbl":"Negative"}
+,{"time":"13:33","usr":"TTCSN","txt":"Present $GOOG logo: How Heinrich Rudolf Hertz revealed the invisible world - http://t.co/MP5cpzFu http://t.co/xilbr10l","lbl":"Neutral"}
+,{"time":"13:34","usr":"smells_fargo","txt":"Google Tracks Unknowing Apple Users http://t.co/fAwjN2r4 #infowars #nwo $goog #aapl","lbl":"Neutral"}
+,{"time":"15:19","usr":"adnys","txt":"Google Seen Poised To Overtake Facebook In Display Ads http://t.co/EaY38jTA \u2022 $GOOG on track to hit $3.68 billion in US.","lbl":"Positive"}
+,{"time":"15:20","usr":"SeekingAlpha","txt":"The Smart Money To Buy Out Sirius Is On ... http://t.co/k1vnrsQl $AAPL $BRK.A $LMCA $P $RIMM $GOOG $SIRI","lbl":"Neutral"}
+,{"time":"15:23","usr":"boonspoon","txt":"AMAZING: Learn How To Build A Self-Driving Car In 7 Weeks $GOOG http://t.co/rbsDU9Oq","lbl":"Neutral"}
+,{"time":"15:23","usr":"SAI","txt":"AMAZING: Learn How To Build A Self-Driving Car In 7 Weeks $GOOG by @boonspoon http://t.co/xntRFpaE","lbl":"Neutral"}
+,{"time":"16:11","usr":"aefbehcet","txt":"RT @HedgefundPLAY: 36 Attorneys General tell Google they\u0027re not happy with privacy changes $GOOG #fx","lbl":"Negative"}
+,{"time":"16:11","usr":"GeoHGoogins","txt":"Sold $GOOG puts a bit early today and sold $GS too late. $IVN moves on","lbl":"Negative"}
+,{"time":"16:13","usr":"latamike","txt":"$GOOG head and shoulders pattern still in full effect","lbl":"Neutral"}
+,{"time":"17:58","usr":"marchuq","txt":"RT @SAI: Google Is Launching A TV Service This Year $GOOG by @MattRosoff http://t.co/iBjoq0dP","lbl":"Positive"}
+,{"time":"21:17","usr":"BRHook","txt":"-- Google tests waters for Web-based TV service in Kansas City: http://t.co/MXIaJ2Qs @KCBizjournal @AlysonRaletz @google $GOOG #media #biz","lbl":"Neutral"}
+,{"time":"21:34","usr":"wallstCS","txt":"Services Sector Review http://t.co/Gn9qLbPa $AMZN $CETV $CMCSA $DISH $DTV $GOOG $NFLX $RRD $CHS $WMT","lbl":"Neutral"}
+]

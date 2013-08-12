@@ -1,0 +1,31 @@
+[
+{"time":"2:30","usr":"traderwalton","txt":"$GOOG will stand the test of time against $FB. $GOOG is pure utility. $FB is for leisure.","lbl":"Positive"}
+,{"time":"3:02","usr":"TheStreet","txt":"AT&T Touts HTC\u0027s New Flagship Phone http://t.co/hiYQ1X0l by @GaryKrakow $T $GOOG $NVDA $QCOM","lbl":"Neutral"}
+,{"time":"4:10","usr":"SeekingAlpha","txt":"How Much Is Google Worth? http://t.co/927WsEm3 $GOOG","lbl":"Neutral"}
+,{"time":"4:50","usr":"SeekingAlpha","txt":"Is Pandora Boxed In By Supplier Pricing Power? http://t.co/L45a2shp $AAPL $GOOG $AMZN $P","lbl":"Neutral"}
+,{"time":"12:03","usr":"TraderLantern","txt":"RT @stockstobuy: RT @stockstobuy: Vringo $VRNG Stock Jumped 65% Last Week on Google $GOOG Patent Trial Hopes - http://t.co/hWUuD2zO","lbl":"Neutral"}
+,{"time":"12:20","usr":"SeekingAlpha","txt":"Why I\u0027m Adding To My Nvidia Position At These Levels http://t.co/3Dbwb2PX $AMD $GOOG $INTC $MSFT $QCOM $NVDA","lbl":"Neutral"}
+,{"time":"12:24","usr":"WhizCheck6","txt":"Taking a look at weeklies on $goog $aapl $cmg nice split between implied and historical vol in all 3, looking to sell iron condors","lbl":"Negative"}
+,{"time":"12:30","usr":"SeekingAlpha","txt":"Nokia\u0027s Lumia 920 AT&T Exclusivity Is A Huge Mistake http://t.co/3B0R0SmA $AAPL $GOOG $S $SSNLF.PK $T $VZ $NOK","lbl":"Neutral"}
+,{"time":"13:29","usr":"NashvilleSwag","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/vikJEj7v","lbl":"Neutral"}
+,{"time":"13:29","usr":"Sunny_In_LA","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/miayQy4b","lbl":"Neutral"}
+,{"time":"13:29","usr":"Nodoline","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/crwyjsDB","lbl":"Neutral"}
+,{"time":"13:30","usr":"IceHockeyJake","txt":"RT @Smash_Networks: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/mtuTZ8YV","lbl":"Neutral"}
+,{"time":"13:53","usr":"RoundBallRep","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/g6CYsplf","lbl":"Neutral"}
+,{"time":"13:53","usr":"WillieMcGinest","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/DKaAKYuL","lbl":"Neutral"}
+,{"time":"13:53","usr":"BuljCo","txt":"RT @JonSimon2: RT @JonSimon2: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/uHSRLjdb","lbl":"Neutral"}
+,{"time":"13:54","usr":"MobileBliss","txt":"RT @EA_Rice: RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"15:00","usr":"SteveGM420","txt":"RT @EA_Rice: RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"15:01","usr":"FatihMod","txt":"Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/7GRxXf8R","lbl":"Neutral"}
+,{"time":"15:03","usr":"BaselineAce","txt":"Tweeted 4/17 RT @BaselineAce $AAPL Apple\u0027s best days are behind it. Google, on the other hand, is JUST GETTING STARTED. $AAPL $GOOG","lbl":"Positive"}
+,{"time":"15:04","usr":"69follow","txt":"RT @StockTwits: RT @StockTwits: Apple, Bonds, Dollar, Gold, Google, Real Estate http://t.co/5zJjhWyT via @OspreyFlyer $AAPL $GLD $GOOG $SLV $SPY $USDX","lbl":"Neutral"}
+,{"time":"17:05","usr":"MizplacedTM2012","txt":"RT @EA_Rice: RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"17:08","usr":"rentacoach1","txt":"RT @z8angela: RT @z8angela: My new post here: Bearish Reversal on SPX and GOOG along with AAPL Selloff Last Friday http://t.co/ArCHv7Ei - $AAPL $GOOG ...","lbl":"Negative"}
+,{"time":"19:50","usr":"SeekingAlpha","txt":"Are Higher Priced Stocks Really Safer? http://t.co/yXKBljeI $AMZN $GOOG $WPO $AAPL","lbl":"Neutral"}
+,{"time":"19:50","usr":"nolte88","txt":"Published $GOOG estimate on Estimize: Expect big things on this report and going forward. Excited fo... http://t.co/aFOt2ekT","lbl":"Positive"}
+,{"time":"19:53","usr":"TMFBiggles","txt":"@onemikey @TMFJMo @adem_tahiri I stand by my prior assessments that wearable augmented reality tech is next, $GOOG is far ahead there.","lbl":"Positive"}
+,{"time":"21:55","usr":"ChasHermann","txt":"RT @EA_Rice: RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"21:57","usr":"StockTwits","txt":"In Technology Wars, Using the Patent as a Sword http://t.co/DNbYuFrI via NYT $AAPL $GOOG $VRNG et al...","lbl":"Neutral"}
+,{"time":"21:57","usr":"fitness123go","txt":"RT @EA_Rice: RT @EA_Rice: Microsoft: Partners In Search And The Mobile Strategy For Growth - Seeking Alpha $MIMV $GOOG $MSFT http://t.co/KEyKPIMu","lbl":"Neutral"}
+,{"time":"21:57","usr":"DeidreZune","txt":"$GOOG Google makes first foray into credit business http://t.co/G6wGVAIE Financing ad-sales on $GOOG is another great idea. All upside","lbl":"Positive"}
+]

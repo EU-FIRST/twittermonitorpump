@@ -1,0 +1,14 @@
+[
+{"time":"0:10","usr":"mazmazen","txt":"Answers To 15 MORE Google Interview Questions That Made Geniuses Feel Dumb $GOOG by @nichcarlson http://t.co/pTiYEXc2","lbl":"Neutral"}
+,{"time":"0:27","usr":"Mr_Eric_WSCS","txt":"Is the sentiment finally changing in #Apple and #Facebook... http://t.co/0rCZRqYM $AAPL $FB $AMZN $GOOG $LNKD #business","lbl":"Neutral"}
+,{"time":"7:42","usr":"fibstalker","txt":"Using past price patterns to predict the future on $AAPL based on $GOOG. This weekend in my newsletter. Subscribe here: http://t.co/u39ymtwJ","lbl":"Neutral"}
+,{"time":"7:52","usr":"rsaintvilus","txt":"Why BB10 Could Save RIM, But It Won\u0027t - @Forbes http://t.co/ICdivpMq $RIMM $AAPL $NOK $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"7:55","usr":"jakessone","txt":"RT @wallstCS: It\u0027s Apple Versus the Market, and Apple May Lose http://t.co/WxqIOvC6 $AAPL $MSFT $GOOG $AMAN #mkt #stocks","lbl":"Neutral"}
+,{"time":"10:23","usr":"STL_Trader22","txt":"Checkout Elite Trading\u0027s Recap! $spy $aapl $nflx $lnkd $goog http://t.co/uLbZltPH","lbl":"Neutral"}
+,{"time":"10:24","usr":"natev223","txt":"RT @STL_Trader22: Checkout Elite Trading\u0027s Recap! $spy $aapl $nflx $lnkd $goog http://t.co/uLbZltPH","lbl":"Neutral"}
+,{"time":"10:38","usr":"cstiernberg","txt":"Former $GOOG ler Michelle Lee to head new #USPTO satellite office in Silicon Valley http://t.co/gv8dEUyf #patent #ip","lbl":"Neutral"}
+,{"time":"14:22","usr":"mnoltecpa","txt":"$GOOG https://t.co/DfYHP3L8 DAILY. I only DT GOOG but always keep perspective. Bounced off 200 day, RSI oversold.. maybe gets relief bounce","lbl":"Neutral"}
+,{"time":"14:25","usr":"mnoltecpa","txt":"$GOOG https://t.co/AnXClCP1 WEEKLY. Also the relief bounce idea is aided on a major support area here GOOG had huge resistance on in past.","lbl":"Positive"}
+,{"time":"18:52","usr":"ichimokucharts","txt":"S&P500 WEEKLY Member EXCLUSIVE Ichimoku video Nov16 http://t.co/G9UVclBC $SPY $SPX $SP_F $ES_F $HD $AAPL $GOOG $MRK $YHOO $MSFT $MS $HNZ $$","lbl":"Neutral"}
+,{"time":"18:52","usr":"Lazza134","txt":"S&P500 WEEKLY Member EXCLUSIVE Ichimoku video Nov16 http://t.co/dYS75kai $SPY $SPX $SP_F $ES_F $HD $AAPL $GOOG $MRK $YHOO $MSFT $MS $HNZ $$","lbl":"Neutral"}
+]

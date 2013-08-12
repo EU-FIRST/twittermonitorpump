@@ -1,0 +1,60 @@
+[
+{"time":"4:52","usr":"DGHGroup","txt":"RT @MSN_Money: RT @MSN_Money: $Goog surpassed $MSFT in market value http://t.co/5DmByexB","lbl":"Positive"}
+,{"time":"4:56","usr":"kacko","txt":"RT @JeffMacke: RT @JeffMacke: $GOOG now w/ a bigger mkt cap than $MSFT. Since $GOOG IPO its stock is up 600% vs MSFT\u0027s 9% & $AAPL\u0027s 4,176% gain ht ...","lbl":"Positive"}
+,{"time":"5:45","usr":"TheStreet","txt":"Cramer Quick Take: I\u0027d Only Buy Facebook At $18 http://t.co/01xeh24y by @scottrutt $FB $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"5:46","usr":"graveytrain","txt":"RT @TheStreet: RT @TheStreet: Cramer Quick Take: I\u0027d Only Buy Facebook At $18 http://t.co/01xeh24y by @scottrutt $FB $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"7:16","usr":"cwstrawderman","txt":"RT @YahooFinance: We\u0027re number 2! Google passes Microsoft to become second most valuable tech company in the world, behind Apple http://t.co/PbcMAmEj $GOOG","lbl":"Positive"}
+,{"time":"7:16","usr":"z8angela","txt":"Exact 100 pts difference between $AAPL at 665 & $GOOG at 765. Which one to buy or short? Bipolar action almost makes us day traders for now.","lbl":"Neutral"}
+,{"time":"7:17","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Google (NASDAQ:GOOG) Bypasses Microsoft\u0027s Market Value, Stands on No.1 ...: Google (NASDAQ:GOOG) Bypasses... http://t.co/9nH59VWI","lbl":"Positive"}
+,{"time":"8:08","usr":"wallstCS","txt":"AOL Announces Project Devil 2 and 4 Stocks Hitting 52-Week Highs http://t.co/o1UBtLGf $ACN $AGU $AOL $DVA $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"8:08","usr":"StockAction","txt":"RT @OptionsProfits: Levels to Watch (video) by John Carter @johnfcarter $GOOG $SPX $UNG http://t.co/obuQnDOo @TheStreet #stockaction","lbl":"Neutral"}
+,{"time":"8:10","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 10.2.2012 http://t.co/LuIeeCVk","lbl":"Neutral"}
+,{"time":"8:47","usr":"JimAndreoni","txt":"#Google ($GOOG) is close to acquiring face-recognition technology developer #Viewdle for a price \u0022to... http://t.co/DDjqA5WB $GOOG","lbl":"Neutral"}
+,{"time":"8:48","usr":"z8angela","txt":"@lizzyb191 Yes, it could be fine if $GOOG fell hard like a falling knife in fast and furious speed emulating $AAPL . Plan and watch...","lbl":"Negative"}
+,{"time":"9:12","usr":"smendozag","txt":"Now on $goog call & $aapl put","lbl":"Positive"}
+,{"time":"9:14","usr":"chrisgilmer","txt":"Google adds searching inside of Gmail attachments http://t.co/aKUV19Fy $GOOG","lbl":"Neutral"}
+,{"time":"9:15","usr":"convolutedvol","txt":"$PCLN & $GOOG DOWN....$$","lbl":"Negative"}
+,{"time":"9:15","usr":"m_cof","txt":"#Google is now the third biggest company in the U.S., ahead of $MSFT and $WMT: http://t.co/SISAZuxJ via @MarketBeat @srussolillo $GOOG","lbl":"Positive"}
+,{"time":"9:52","usr":"pelias01","txt":"Mobile App Ecosystem: Searching For Growth http://t.co/5QnzVFPN $AAPL $GOOG $YNDX $MSFT","lbl":"Neutral"}
+,{"time":"9:53","usr":"Ryanisjones","txt":"RT @dcurtis: RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 ...","lbl":"Neutral"}
+,{"time":"9:53","usr":"jeffgent99","txt":"@optionmonster $GOOG to blast right thru $800 by next week","lbl":"Positive"}
+,{"time":"10:36","usr":"StockGarage","txt":"$GOOG Chart Analysis http://t.co/lwQWWNn1","lbl":"Neutral"}
+,{"time":"10:36","usr":"stockguy22","txt":"looks like $GOOG hit a new high today but continues to consolidate into the $760+ resistance - would not mind trying to short it again","lbl":"Negative"}
+,{"time":"10:37","usr":"Podcasting101","txt":"@cskulevold $nok 920 huh I will have to $goog it and see whats up with it... @merlin67","lbl":"Neutral"}
+,{"time":"11:18","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) Expands Advertising with Lightbox: Google Inc. (GOOG) Expands Advertising with Lightbo... http://t.co/JlLRQBOG","lbl":"Positive"}
+,{"time":"11:18","usr":"Consumer_Stocks","txt":"RT @investorpoint: RT @investorpoint: Stocks In News: http://t.co/t8sunv34, Google Inc, Nokia Corporation $GOOG #news #517919 #translating http://t.co/XHL ...","lbl":"Neutral"}
+,{"time":"11:24","usr":"carney","txt":"Dear $GOOG, I am really, really angry at you about this Chrome thing. I loved Chrome. Now it crashes my computer. It\u0027s malware.","lbl":"Negative"}
+,{"time":"11:24","usr":"appsruntheworld","txt":"$GOOG market cap surpasses $MSFT. Add $GOOG, $APPL you can give each man, woman, child on earth $125 a pop. #oow","lbl":"Neutral"}
+,{"time":"12:15","usr":"CreateCapital","txt":"When \u0022investors\u0022 buy one stock $GOOG because they own too much of another $AAPL that doesn\u0027t mean it represents value. Just another MOMO","lbl":"Negative"}
+,{"time":"12:16","usr":"agwarner","txt":"anyone having probs with $GOOG Drive on Mac? Freezing up every 2 minutes","lbl":"Negative"}
+,{"time":"12:54","usr":"clindhartsen","txt":"RT @BloombergTV: RT @BloombergTV: BREAKING: Google\u0027s Motorola drops latest ITC patent claim against Apple $GOOG $AAPL","lbl":"Negative"}
+,{"time":"12:55","usr":"DaveCV100","txt":"RT @PatrickSeitz: RT @PatrickSeitz: Apple iPad Mini To Kick Off Tablet Holiday Season. $AAPL $GOOG $MSFT $BKS $AMZN http://t.co/lvFhTMEP via @IBDinvestors","lbl":"Neutral"}
+,{"time":"12:56","usr":"WeTradeAAPL","txt":"#SEC states mini #option contracts coming soon 4 $AAPL $GOOG $AMZN $GLD $SPY - http://t.co/dkwUcDuM <-- PDF","lbl":"Neutral"}
+,{"time":"12:58","usr":"2kaykim","txt":"Commented on StockTwits: $GOOG definitely worth keeping my eye on it. $765 establishing as a new shortterm resistanc... http://t.co/1OgtAb44","lbl":"Neutral"}
+,{"time":"13:33","usr":"bluser12","txt":"Nice $GOOG almost back to 750.","lbl":"Positive"}
+,{"time":"13:33","usr":"BaggerDon","txt":"RT @RedDogT3Live: RT @RedDogT3Live: $goog 8day moving average is 751.46 then 21 day is $722. So know ur time frame","lbl":"Neutral"}
+,{"time":"13:34","usr":"tradetime99","txt":"@RedDogT3Live $goog made a new hi 2day @765.99, Its the new king (aapl)","lbl":"Positive"}
+,{"time":"13:35","usr":"ReneNow","txt":"RT @carlquintanilla: RT @carlquintanilla: \u0022I don\u0027t think Larry & Sergey wake up in the am and say, \u0027How can I make more $ per click?\u0027\u0022 - $GOOG analyst, o ...","lbl":"Neutral"}
+,{"time":"14:09","usr":"darealmanmib","txt":"@Tangletrade Key Reversal depending on close $GOOG called it earlier.","lbl":"Neutral"}
+,{"time":"14:10","usr":"c3lsiusbb04","txt":"$Goog or $MMM? Take Your Pick | The Exchange - Yahoo! Finance http://t.co/2hmmlNCW via @YahooFinance","lbl":"Neutral"}
+,{"time":"14:11","usr":"mrtopstep","txt":"$GOOG withdraws patent complaint against $AAPL #stockaction $$","lbl":"Neutral"}
+,{"time":"14:11","usr":"GEQSense","txt":"okay so rebound from support + good news on $GOOG withdrawal on Patent Complaint. $AAPL up","lbl":"Neutral"}
+,{"time":"14:47","usr":"RedDogT3Live","txt":"@cooldaddy5x $goog needs a rest I would reduce.","lbl":"Negative"}
+,{"time":"14:47","usr":"Goodlett","txt":"Just another push for #Social integration vs silo platforms as @TripAdvisor merges @Wanderfly to $FB model http://t.co/fNHL0Nvp $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"14:49","usr":"MichaelComeau","txt":"@UdallTechStrat $GOOG should go all in on its own or its PC-style commodity all over again. More money in it for them.","lbl":"Positive"}
+,{"time":"15:20","usr":"omkarphatak","txt":"RT @SAI: RT @SAI: The Biggest Threat To Apple Right Now $AAPL $GOOG by @stevekovach http://t.co/R2NmteXS","lbl":"Positive"}
+,{"time":"15:21","usr":"smalljones","txt":"$GOOG > $MSFT RT @Slate: For the first time ever, Google is worth more than Microsoft: http://t.co/Ox46bJgk","lbl":"Positive"}
+,{"time":"15:22","usr":"heleIme1","txt":"RT @SAI: RT @SAI: 10 Things You Forgot Your Android Phone Could Do $GOOG by @officialKLS http://t.co/i7RFypyY","lbl":"Neutral"}
+,{"time":"15:22","usr":"HeatherLaGarde","txt":"RT @smalljones: RT @smalljones: $GOOG > $MSFT RT @Slate: For the first time ever, Google is worth more than Microsoft: http://t.co/Ox46bJgk","lbl":"Positive"}
+,{"time":"16:11","usr":"gravestonedoji","txt":"RT @chessNwine: RT @chessNwine: NEW POST: \u0022Stock #Market Recap 10/02/12 {Video}\u0022 http://t.co/LjIg9SlQ $AAPL $AKAM $GOOG $IWM $QQQ $RAX $SLW $SPY $XLF #s ...","lbl":"Neutral"}
+,{"time":"16:11","usr":"wallstCS","txt":"Tech Business Review: Sharp\u0027s 5-Inch LCD Panels, Motorola Withdraws Complaint http://t.co/rVdLHjbm $PANL $QCOM $NVDA $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"16:17","usr":"takingstock614","txt":"Took home some $AAPL $GOOG $LVS and short $SPY hedge.","lbl":"Negative"}
+,{"time":"16:18","usr":"MarketBeat","txt":"Google, Apple May Stop Inspiring Bulls for a While - MarketBeat - WSJ http://t.co/zAj1bCce via @WSJ $AAPL $GOOG","lbl":"Positive"}
+,{"time":"17:57","usr":"pennystockguys","txt":"$GOOG - 2nd UPDATE: Google Withdraws Patent Claim Against Apple http://t.co/uvI7RyZX","lbl":"Negative"}
+,{"time":"17:57","usr":"ADVFNplc","txt":"$GOOG - 2nd UPDATE: Google Withdraws Patent Claim Against Apple http://t.co/1Ar5Vdt4","lbl":"Neutral"}
+,{"time":"17:58","usr":"MadMoneyOnCNBC","txt":"Cramer Goes Inside Google\u2019s Monster Market Cap http://t.co/Sl5hQB1X $GOOG $MSFT #StockPicks #StockMarket","lbl":"Neutral"}
+,{"time":"21:03","usr":"DavidLeshaw","txt":"Food for thought: $GOOG is now worth more than $MSFT. http://t.co/uB9NKaK9","lbl":"Positive"}
+,{"time":"21:06","usr":"cdavis20000","txt":"RT @StockTwits: RT @StockTwits: Google Passes Microsoft\u2019s Market Value as PC Loses to Web http://t.co/X6PQkrDb via @bloomberg $GOOG $MSFT","lbl":"Positive"}
+,{"time":"21:06","usr":"ScttsdleRealtor","txt":"RT @themotleyfool: RT @themotleyfool: Companies like Google and Microsoft are tracked as \u0022Democratic Donors\u0022 by @motifinvesting: http://t.co/dq73J4uk $GOOG ...","lbl":"Neutral"}
+,{"time":"21:14","usr":"ritelink","txt":"Tomorrow watch: $MON, $AAPL, $GOOG","lbl":"Neutral"}
+]

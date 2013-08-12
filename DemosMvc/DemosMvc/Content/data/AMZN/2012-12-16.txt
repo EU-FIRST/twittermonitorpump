@@ -1,0 +1,5 @@
+[
+{"time":"14:20","usr":"Consumer_Stocks","txt":"RT @investorpoint: http://t.co/q8ZaHumq - Seinfeld\u0027s \u0022Soup Nazi\u0022 Sells Stock $AMZN $CPB $GIS $HNZ $SOUP #CAMPBELLS #spaghettios #Services http://t.co/xsrM3UJK","lbl":"Neutral"}
+,{"time":"14:22","usr":"UPyDOWN","txt":"$AMZN Possible maximum and minimum decreasing.While stays within red parallel bars quiet.. http://t.co/LyXfbSvw","lbl":"Neutral"}
+,{"time":"18:20","usr":"BsiflingTrades","txt":"New Post: This Week\u0027s Watch List $AMZN $AAPL $ES $SPY $APPA $ATHX $FOLD $PATH $RPTP $SRPT $ZGNX http://t.co/s1YtiR84","lbl":"Neutral"}
+]

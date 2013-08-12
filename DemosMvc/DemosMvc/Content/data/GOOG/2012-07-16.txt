@@ -1,0 +1,84 @@
+[
+{"time":"4:08","usr":"Qwovadis","txt":"Commented on: \u0022Google\u0027s Self Driving Car And What To Expect From Q2 Earnings\u0022 http://t.co/U5sHFj2g $GOOG","lbl":"Neutral"}
+,{"time":"4:11","usr":"abramap_","txt":"RT @TradingDeck: RT @slangwise: $AAPL, $ORCL, $GOOG and other hedge-fund favorites from the tech sector, courtesy of @InsiderMonkey http://t.co/EWQaDnCA","lbl":"Neutral"}
+,{"time":"5:13","usr":"bored2tears","txt":"As tablet race heats up, Apple may introduce smaller #iPad. http://t.co/X4mQaa6I $AMZN $AAPL $GOOG $MSFT #stocks #tech","lbl":"Neutral"}
+,{"time":"8:25","usr":"MikeKi6moe","txt":"RT @SAI: Google\u0027s Nexus 7 Tablet Already Sold Out In Most Stores $GOOG by @stevekovach http://t.co/HHrnMPcf","lbl":"Positive"}
+,{"time":"8:27","usr":"DavidBentley_FA","txt":"I think this is really how google feels about aaple. $aapl $goog http://t.co/qOoi0BNI","lbl":"Neutral"}
+,{"time":"8:28","usr":"kateoCFO","txt":"Brutal piece on $MSFT in @VanityFair. How the one-time tech leader got beat on just about everything by $AAPL and $GOOG http://t.co/UfleZgrv","lbl":"Positive"}
+,{"time":"8:30","usr":"deslava10","txt":"RT @businessinsider: Google\u0027s Nexus 7 Tablet Already Sold Out In Most Stores $GOOG by @stevekovach http://t.co/BX5yEiMp","lbl":"Positive"}
+,{"time":"9:26","usr":"JohnWaggoner","txt":"RT @StockTwits: RT @MichaelComeau Positive take on $GOOG Nexus 7. $AMZN Kindle Fire in trouble: http://t.co/4YZRjgOG","lbl":"Positive"}
+,{"time":"9:28","usr":"FairOaksTrader","txt":"RT @StockTwits: RT @MichaelComeau Positive take on $GOOG Nexus 7. $AMZN Kindle Fire in trouble: http://t.co/4YZRjgOG","lbl":"Positive"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"Microsoft-Google Reversal May Be Coming http://t.co/Gcnrzez3 $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"9:30","usr":"SeekingAlpha","txt":"Where\u0027d Groupon\u0027s Growth Go? http://t.co/YUxNBHfQ $AMZN $GOOG $GRPN","lbl":"Neutral"}
+,{"time":"10:36","usr":"HedgefundPLAY","txt":"RT \u201C@FastCompany: Android phones now account for 51% of the U.S. smartphone market: http://t.co/rA8QtnCI via @nidhisubs. $GOOG #fx","lbl":"Neutral"}
+,{"time":"10:38","usr":"moemoneysouth","txt":"RT @thefinancepress: $GOOG Google Adds Walking To Maps: Google Adds Walking To Maps StocksandShares.TV - 23 minutes ago Google Inc.... http://t.co/7MOiBXX8","lbl":"Neutral"}
+,{"time":"10:38","usr":"wallstCS","txt":"Can Google\u0027s Might Protect Motorola in Court? http://t.co/PXNX3AdD $GOOG $AAPL #mkt #stocks","lbl":"Neutral"}
+,{"time":"11:06","usr":"Jelani_Nkozi","txt":"RT @businessinsider: 8 Brain Busting Interview Questions Google Asks Its Engineers $GOOG by @mattlynley http://t.co/3dMh9gJb","lbl":"Neutral"}
+,{"time":"11:07","usr":"stock_notions","txt":"RT @MarketWatch: The 10 most popular stocks in the tech sector among hedge funds: to no surprise, $AAPL $GOOG on the list http://t.co/uy0XDpLO","lbl":"Neutral"}
+,{"time":"11:07","usr":"DogeMocenigo","txt":"RT @FOSSpatents: Microsoft says Google \u0027committed to license\u0027 Motorola\u0027s H.264 patents to it under the MPEG LA agreement http://t.co/7V6zhu5d did $GOOG know?","lbl":"Neutral"}
+,{"time":"12:01","usr":"ThePennyPlayer","txt":"$AAPL took 5.60\u0027s and sold at 6.00. Last hour today should be really nice imo. $GS $AMZN still on watch, $GOOG off of watch, no action.","lbl":"Neutral"}
+,{"time":"12:01","usr":"bournemd","txt":"RT @SAI: 8 Brain Busting Interview Questions Google Asks Its Engineers $GOOG by @mattlynley http://t.co/CaaKMeTf","lbl":"Neutral"}
+,{"time":"12:02","usr":"GencogluMustafa","txt":"RT @MarketWatch: The 10 most popular stocks in the tech sector among hedge funds: to no surprise, $AAPL $GOOG on the list http://t.co/uy0XDpLO","lbl":"Positive"}
+,{"time":"13:41","usr":"2TradersClub","txt":"$GOOG (Google Inc): Earnings on the 19th | $560 Major Pivot | Moving Sideways http://t.co/cpaaUneA","lbl":"Neutral"}
+,{"time":"13:42","usr":"kochsmicha","txt":"RT @SAI: Is Google Looking To Buy A Social Media Management Firm To Keep Tabs On Facebook? $GOOG $FB by @Jim_Edwards http://t.co/ibtGhcA8","lbl":"Neutral"}
+,{"time":"13:42","usr":"parthadhia","txt":"RT @SAI: Steve Jobs Called Up Yelp And Said Don\u0027t Sell Out To Google $GOOG $AAPL $YELP by @sfiegerman http://t.co/nDVAMnTz","lbl":"Neutral"}
+,{"time":"15:02","usr":"wsmco","txt":"RT @andrewrsorkin: Big News: Marissa Mayer of Google to Be CEO of Yahoo!!! The story: http://t.co/J8bMTE6h On CNBC now\u2026$GOOG $YHOO","lbl":"Neutral"}
+,{"time":"15:02","usr":"MicroFundy","txt":"$GOOG down $2","lbl":"Negative"}
+,{"time":"15:03","usr":"StockSage1","txt":"Marissa Mayer of $GOOG is new $YHOO CEO","lbl":"Neutral"}
+,{"time":"15:03","usr":"daytrend","txt":"RT @Street_Insider: Yahoo! $YHOO names Google\u0027s $GOOG Melissa Mayer as the new CEO","lbl":"Neutral"}
+,{"time":"15:06","usr":"TheBasisPoint","txt":"wow RT @benzinga: $GOOG Marissa Mayer to be Named CEO of $YHOO","lbl":"Neutral"}
+,{"time":"15:07","usr":"chicagosean","txt":"RT @zerobeta Marissa Mayer\u0027s move says more to me about the future of $GOOG than $YHOO.","lbl":"Neutral"}
+,{"time":"15:07","usr":"ilyasteker","txt":"RT @SAI: Marissa Mayer Is The New CEO Of Yahoo $GOOG $YHOO by @nichcarlson http://t.co/EoW7nQsf","lbl":"Neutral"}
+,{"time":"15:07","usr":"aorley","txt":"RT @herbgreenberg: My first thought: How can Marissa Mayer of $Goog not have a non-compete to go to $Yhoo as CEO? Calif law?","lbl":"Neutral"}
+,{"time":"15:10","usr":"randyrandy","txt":"shocking: Marissa Mayer leaving $GOOG for $YHOO!! http://t.co/3TYqsyHV","lbl":"Negative"}
+,{"time":"15:10","usr":"craigsebastiano","txt":"Google\u2019s Marissa Mayer Tapped as Yahoo\u2019s Chief http://t.co/yGSrIjVR via @dealbook $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"15:10","usr":"Jamie_Burkart","txt":"\u0027Google\u2019s Marissa Mayer Tapped as Yahoo\u2019s Chief \u0027 $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"15:10","usr":"jchristianjones","txt":"yep. Cal has own set of rules on non compete \u201C@herbgreenberg: How can Marissa Mayer $Goog not have a non-compete $Yhoo as CEO? Calif law?\u201D","lbl":"Neutral"}
+,{"time":"15:20","usr":"harmongreg","txt":"Does this mean I should dump my $GOOG gmail and start using my old $YHOO mail account?","lbl":"Neutral"}
+,{"time":"15:20","usr":"OsborneGroup","txt":"RT @yahoofinance: Google\u0027s Marissa Mayer tapped as Yahoo\u0027s president and CEO http://t.co/DH82LxzV $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"15:21","usr":"jamiebyrne1","txt":"RT @SAI: Marissa Mayer Is The New CEO Of Yahoo $GOOG $YHOO by @nichcarlson http://t.co/EoW7nQsf","lbl":"Neutral"}
+,{"time":"15:21","usr":"jochenf","txt":"RT @SAI: Marissa Mayer Is The New CEO Of Yahoo $GOOG $YHOO by @nichcarlson http://t.co/EoW7nQsf","lbl":"Neutral"}
+,{"time":"15:31","usr":"KatrinaChan","txt":"Breaking news -- Google\u0027s Marissa Mayer will be the next CEO of Yahoo! http://t.co/EQgfOrgu $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"15:31","usr":"wallstCS","txt":"Can Microsoft Win With These BIG Changes? http://t.co/PX0qlB43 $MSFT $GOOG $AAPL $FB $LNKD #mkt","lbl":"Neutral"}
+,{"time":"15:32","usr":"ovejafula1","txt":"RT @YahooFinance: Google\u0027s Marissa Mayer tapped as Yahoo\u0027s president and CEO http://t.co/K4Ozawp2 $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"15:32","usr":"razAtif","txt":"RT @rakeshlobster: $AOL, $YHOO and $GOOG are all run by googlers now.","lbl":"Neutral"}
+,{"time":"15:44","usr":"DontTakeLosses","txt":"RT @FoxBusiness: More details on Yahoo\u0027s surprise move to hire senior Google exec Marissa Mayer for the CEO spot: http://t.co/uV351Kbv $YHOO $GOOG","lbl":"Negative"}
+,{"time":"15:44","usr":"davetroy","txt":"Wondering if the Mayer@Yahoo move is actually just a prelude to an eventual $GOOG acquisition of $YHOO.","lbl":"Neutral"}
+,{"time":"15:44","usr":"peakwriter","txt":"RT @FoxBusiness: More details on Yahoo\u0027s surprise move to hire senior Google exec Marissa Mayer for the CEO spot: http://t.co/uV351Kbv $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"15:44","usr":"nancefinance","txt":"Yahoo Snags Google\u2019s Mayer As Next CEO http://t.co/fPenejEu $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"15:57","usr":"JonahSeiger","txt":"RT @rakeshlobster: $AOL, $YHOO and $GOOG are all run by googlers now.","lbl":"Neutral"}
+,{"time":"15:57","usr":"briandanielian","txt":"RT @wallstCS: Can Microsoft Win With These BIG Changes? http://t.co/PX0qlB43 $MSFT $GOOG $AAPL $FB $LNKD #mkt","lbl":"Neutral"}
+,{"time":"15:58","usr":"StephenStull","txt":"Current stock program allows a max of $100MM / year in compensation at $GOOG that\u0027s a hefty sum and I would expect many get rewarded","lbl":"Neutral"}
+,{"time":"15:59","usr":"news_freek","txt":"RT @FoxBusiness: More details on Yahoo\u0027s surprise move to hire senior Google exec Marissa Mayer for the CEO spot: http://t.co/uV351Kbv $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"16:22","usr":"mrtoadsc","txt":"@fenriq Some people need a challenge. Besides, she would never been CEO of $GOOG as long as Sergy and Larry are around.","lbl":"Neutral"}
+,{"time":"16:22","usr":"ichow23","txt":"Congrats to Marissa Mayer! $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"16:23","usr":"jonfortt","txt":"I\u0027d be shocked if $GOOG makes any kind of stink about Marissa Mayer joining $YHOO. It\u0027s Larry Page\u0027s call, & doesn\u0027t seem his style","lbl":"Neutral"}
+,{"time":"16:24","usr":"lebron_is_cryin","txt":"Generally speaking this is how I make investment decisions. $$ $SPY $bidu $goog $JPM $ge $iwm #stocks http://t.co/tvG1A8KN","lbl":"Neutral"}
+,{"time":"16:47","usr":"torycapital","txt":"Yahoo Hires Google\u0027s Marissa Mayer, Pros And Cons http://t.co/2fnLRjYz $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"16:47","usr":"celestichukumba","txt":"Yahoo Hires Google\u0027s Marissa Mayer, Pros And Cons http://t.co/PWHZ42xY $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"16:47","usr":"intersrchmedia","txt":"Yahoo Hires Google\u0027s Marissa Mayer, Pros And Cons http://t.co/PWjdkO6q $YHOO $GOOG http://t.co/KFOcWJoi","lbl":"Neutral"}
+,{"time":"16:48","usr":"kristinluck","txt":"RT @SAI: Marissa Mayer\u0027s Exit Took Google By Surprise $YHOO $GOOG by @nichcarlson http://t.co/UkPt2mQ2","lbl":"Negative"}
+,{"time":"17:15","usr":"wallstsheet","txt":"Yahoo hires Google\u0027s Mayer as CEO $GOOG - http://t.co/gbwXHILZ","lbl":"Neutral"}
+,{"time":"17:16","usr":"Daniel_E_Murphy","txt":"Google\u0027s $goog Marrisa Mayer named Yahoo\u0027s $yhoo next and LAST CEO","lbl":"Neutral"}
+,{"time":"17:18","usr":"billykei","txt":"RT @SAI: Why Yahoo Picked Marissa Mayer, According To A Source Close To The Board $YHOO $GOOG by @nichcarlson http://t.co/Bt2MdNKn","lbl":"Neutral"}
+,{"time":"17:19","usr":"kenquandt","txt":"RT @LinkedInToday: Breaking: Yahoo taps Google\u0027s Marissa Mayer to be CEO http://t.co/cRH57e1G on @dealbook $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"18:01","usr":"cocoy","txt":"Google loses Marissa Mayer. Mayer now CEO of Yahoo! http://t.co/Qf1eZ7oX $GOOG $YHOO","lbl":"Negative"}
+,{"time":"18:01","usr":"marketfolly","txt":"Good hire by $YHOO to poach top $GOOG talent @marissamayer. Assume Dan Loeb approves of this hah","lbl":"Neutral"}
+,{"time":"18:03","usr":"ritholtz","txt":"RT @marketfolly: Good hire by $YHOO to poach top $GOOG talent @marissamayer. Assume Dan Loeb approves of this hah","lbl":"Neutral"}
+,{"time":"18:04","usr":"jessefelder","txt":"Not one of my friends has posted anything in Google+ this month. $GOOG #ifatreefalls","lbl":"Negative"}
+,{"time":"20:00","usr":"WestWingReport","txt":"@moorehn There is an elegant symmetry between Mayer\u0027s quitting by phone to work at $YHOO - and its firing of Carol Bartz by same means $GOOG","lbl":"Neutral"}
+,{"time":"20:01","usr":"Renuvate","txt":"BTW, $FB CTO Taylor departed last month. \u201C@SAI: Ex-Googlers Are Officially Running The Tech Universe $GOOG $FB $YHOO http://t.co/w7TC0wP8\u201D","lbl":"Neutral"}
+,{"time":"20:04","usr":"sec_prof","txt":"@investorsmosaic I think big$ dumping $FB to get ready to buy $GOOG or $AAPL on good earnings. If $FB earnings not stellar, then teens IMHO","lbl":"Positive"}
+,{"time":"20:07","usr":"fromedome","txt":"\u0022via Twitter for iPhone\u0022 https://t.co/Ja5owswM \u201C@gruber: What kind of phone do you think Marissa Mayer uses?\u201D $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"21:28","usr":"Josh_Lowry","txt":"Interesting. RT @businessinsider: \u0022Marc Andreessen Tells Us What He Thinks Of New Yahoo CEO Marissa Mayer.\u0022 http://t.co/rHW7Yjmd $YHOO $GOOG","lbl":"Neutral"}
+,{"time":"21:30","usr":"JBoorstin","txt":"Peter Thiel calls Google a monopoly to Eric Schmidt #fortunetech $GOOG http://t.co/La5ezMia","lbl":"Neutral"}
+,{"time":"21:31","usr":"IdeaGov","txt":"RT @JBoorstin: Peter Thiel calls Google a monopoly to Eric Schmidt #fortunetech $GOOG http://t.co/La5ezMia","lbl":"Negative"}
+,{"time":"21:58","usr":"Keitha_Rozon","txt":"RT @ThePennyPlayer: Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"21:58","usr":"Greta_Mency","txt":"RT @ThePennyPlayer: Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"21:58","usr":"Roberto_Valakas","txt":"RT @ThePennyPlayer: Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"21:58","usr":"Leeanna_Collora","txt":"RT @ThePennyPlayer: Monday Watchlist $AAPL $GOOG $PVTA $CTDT $ACTC $ZDVN $NFLX $AMZN $JPM","lbl":"Neutral"}
+,{"time":"22:38","usr":"tangeroa","txt":"2nd surprise: Mayer pregnant! /@tangeroa: Never saw that coming! /@SAI: Marissa Mayer Is New CEO Of Yahoo $GOOG $YHOO http://t.co/icTMM321","lbl":"Neutral"}
+,{"time":"22:39","usr":"TheOppTime","txt":"Google\u0027s Marissa #Mayer becomes latest #Yahoo CEO http://t.co/lhXh1gmw $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"22:39","usr":"bbolan1","txt":"Larry Halverty from GAMCO on @BloombergWest discussing his ideas.... which were bad. 2 person CEO didn\u0027t work so well for $RIMM $GOOG had 3","lbl":"Neutral"}
+,{"time":"22:40","usr":"henryksarat","txt":"RT @SAI: Ex-Googlers Are Officially Running The Tech Universe $GOOG $FB $YHOO by @mattlynley http://t.co/Il7VEUjp","lbl":"Neutral"}
+]

@@ -1,0 +1,70 @@
+[
+{"time":"1:58","usr":"Keith_in_Japan","txt":"@Reuters: $GOOG withdraws patent complaint against $AAPL. http://t.co/u9XGONzR","lbl":"Negative"}
+,{"time":"2:16","usr":"xirxop","txt":"imho ios maps is on par with $goog maps when searching street addy.ng with places.test took place in istanbul(: turn by turn nav is cool 2","lbl":"Neutral"}
+,{"time":"2:39","usr":"vaughnjeffrey","txt":"I take $GOOG over $AAPL anyday.","lbl":"Positive"}
+,{"time":"7:20","usr":"SeekingAlpha","txt":"Apple\u0027s Siri, Google\u0027s Voice Recognition Technology Targeted By Patent Troll http://t.co/U15pbYDq $AAPL $GOOG $SSNLF.PK","lbl":"Neutral"}
+,{"time":"7:21","usr":"thefinancepress","txt":"$GOOG Rise in Online-Ad \u0027Clicks\u0027 on Smartphones May Be Due to Key Size: Rise in Online-Ad \u0027Clicks\u0027 on Smartphon... http://t.co/JHsdjrqC","lbl":"Positive"}
+,{"time":"7:21","usr":"redman59","txt":"Posted last night \u0022The Forgotten but Effective Moving Average\u0022 http://t.co/YhPbMSDX $NFLX $CMG $GOOG $V $AAPL $PNRA","lbl":"Neutral"}
+,{"time":"7:22","usr":"CrazyStocks","txt":"Our NEXT HOT STOCK ALERT is coming soon! Subscribe @ http://t.co/WEckhNOy right now! $SNTS $SANP $TAGG $RIMM $YELP $FB $AAPL $GOOG $IBM $C","lbl":"Neutral"}
+,{"time":"8:36","usr":"takingstock614","txt":"$GOOG still consolidating in channel here. Nothing wrong with it yet. Strongest stock on the tape right now. Above 8/21 still.","lbl":"Positive"}
+,{"time":"8:37","usr":"ppprophet","txt":"SELL $GOOG The Market will Crash #DAX #CAC40 #FTSE #CAC #IBEX #STOCKMARKET STOCKS #SENSEX $VIX $UVXY NYSE $SPY $SPX #CBOE #MKT #nikkei $vxv","lbl":"Negative"}
+,{"time":"8:38","usr":"ravee_mehta","txt":"RT @john_frankel: RT @john_frankel: >5m Have Visited the Bing It On Challenge; 1/3rd $GOOG Users Say They Would Use Bing More After Taking the Challeng ...","lbl":"Neutral"}
+,{"time":"9:13","usr":"kiwitrader24","txt":"$GOOG too bad they went and put out a phone when their CEO was sitting on the board of $AAPL. These 2 will never make up.","lbl":"Negative"}
+,{"time":"9:14","usr":"seanchungg","txt":"RT @SAI: RT @SAI: Steve Jobs Wanted To Drop Google Search From The iPhone $AAPL $GOOG by @jyarow http://t.co/lZSl3XwO","lbl":"Neutral"}
+,{"time":"9:14","usr":"choffman1978","txt":"$GMCR $500 million stock buyback continues. #cnbc,#msnbc,#nyse,#wsj,$p,$grpn$,appl,$goog,$gs,$c,$bac,$gm,$v,$soda,$wmt,$sbux,$cbou","lbl":"Neutral"}
+,{"time":"9:58","usr":"crazyfasteddy","txt":"$AAPL Fuck fundamentals, it\u0027s all about Maps.. http://t.co/PO2T8Zwn $AMZN $GOOG $FB $RIMM","lbl":"Neutral"}
+,{"time":"9:59","usr":"barronstechblog","txt":"AAPL: Kass Slams iPhone 5; \u2018Feels Like a Toy\u2019 - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $MSFT $NOK $RIMM $005930KS http://t.co/RwbATQ10","lbl":"Neutral"}
+,{"time":"10:04","usr":"DeidreZune","txt":"To those who say Steve Jobs would not have replaced $GOOG maps, U know nothing. Jobs initiated $AAPL maps project. http://t.co/n3qCQnnI","lbl":"Neutral"}
+,{"time":"10:31","usr":"SPEQL8R","txt":"All stocks held support as mentioned earlier $JPM, $AMZN, $AAPL, $GOOG, etc. $SPY is churning in a range like it did in Aug be4 next move","lbl":"Positive"}
+,{"time":"10:32","usr":"CrushingColts","txt":"$GOOG wants to take out $760 right now","lbl":"Positive"}
+,{"time":"10:32","usr":"bnkausik","txt":"@nichcarlson If you prefer, $GOOG display avg is 1-2%; $FB is 0.01%","lbl":"Negative"}
+,{"time":"10:32","usr":"thefinancepress","txt":"$GOOG Google (GOOG) - Analysts\u0027 Weekly Ratings Changes: Google (GOOG) - Analysts\u0027 Weekly Ratings Changes Daily ... http://t.co/yGp9d4T1","lbl":"Neutral"}
+,{"time":"11:03","usr":"tradejas","txt":"RT @EXPstocktrader: RT @EXPstocktrader: $VRNG $GOOG lawsuit....more ...it has been ordered that parties engage in settlement discussions... more to follow . ...","lbl":"Neutral"}
+,{"time":"11:03","usr":"thefinancepress","txt":"$GOOG Apple\u0027s Map Service Uses Less Data Than Google Maps: New Study: Apple\u0027s Map Service Uses Less Data Than G... http://t.co/02iQOgoZ","lbl":"Neutral"}
+,{"time":"11:04","usr":"StockBang","txt":"RT @EXPstocktrader: RT @EXPstocktrader: $VRNG $GOOG lawsuit....more ...it has been ordered that parties engage in settlement discussions... more to follow . ...","lbl":"Neutral"}
+,{"time":"11:41","usr":"racernic","txt":"@61point8 still short $goog?","lbl":"Negative"}
+,{"time":"11:42","usr":"HenryPetzold","txt":"@smartertrader And That is why I trade $AAPL/$SPY Options: High volume, tight spreads and not $GOOG/$MA, etc, etc Wide spreads will kill ya","lbl":"Negative"}
+,{"time":"11:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Brin Sergey Director SOLD 400 shares \u2611","lbl":"Negative"}
+,{"time":"11:46","usr":"gotalohas","txt":"RT @z8angela: RT @z8angela: $GOOG right here is its pivot point 761.4, should be patient to have waited.","lbl":"Neutral"}
+,{"time":"12:23","usr":"wallstCS","txt":"Retailers Prepare for Jolly Good Holiday Sales http://t.co/yOLDtwBh $WMT $TGT $AMZN $GOOG $MSFT $BKS $AAPL $DIA $QQQ $SPY","lbl":"Neutral"}
+,{"time":"12:24","usr":"Jamtrades","txt":"$GOOG and $AAPL vacillating.. $AMZN ripping","lbl":"Neutral"}
+,{"time":"12:26","usr":"ElectroSounds","txt":"RT @EXPstocktrader: RT @EXPstocktrader: $VRNG $GOOG lawsuit....more ...it has been ordered that parties engage in settlement discussions... more to follow . ...","lbl":"Negative"}
+,{"time":"13:08","usr":"Biotechmoney18","txt":"RT @zerosum24: RT @zerosum24: If $VRNG gets billions in settlement this stock will be over $10 like nothing! Google $GOOG is going to have to pay here, ...","lbl":"Negative"}
+,{"time":"13:08","usr":"mj16","txt":"RT @SAI: RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/TVGaYr9W","lbl":"Neutral"}
+,{"time":"13:09","usr":"thefinancepress","txt":"$GOOG Google Must Defend Itself in Vringo Lawsuit (GOOG, VRNG, NOK): Google Must Defend Itself in Vringo Lawsui... http://t.co/VDYQIn0o","lbl":"Negative"}
+,{"time":"13:09","usr":"vzrjvy","txt":"that was fast | RT @sai: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/KRUmk4AZ","lbl":"Neutral"}
+,{"time":"13:38","usr":"localmidlandmi","txt":"RT @SAI: RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/TVGaYr9W","lbl":"Positive"}
+,{"time":"13:39","usr":"takingstock614","txt":"Added small today in $AAPL $AMZN $XLP $LVS $GS $XLF $V $GOOG","lbl":"Neutral"}
+,{"time":"13:39","usr":"thefinancepress","txt":"$GOOG Google Inc. (GOOG) Adds Chrome Benefits for App Subscribers: Google Inc. (GOOG) Adds Chrome Benefits for ... http://t.co/HG4oU09o","lbl":"Neutral"}
+,{"time":"13:40","usr":"SeekingAlpha","txt":"Apple\u0027s Emerging Markets Problem http://t.co/xa1gYig3 $GOOG $MSFT $NOK $RIMM $AAPL","lbl":"Neutral"}
+,{"time":"14:09","usr":"MrJDStokes","txt":"Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/CMo1NULQ","lbl":"Positive"}
+,{"time":"14:09","usr":"takingstock614","txt":"Still holding $AAPL $GOOG $PCLN $V $MLNX $XLF $XLP long here vs. some $SPY $HPQ short.","lbl":"Positive"}
+,{"time":"14:10","usr":"TheStreet","txt":"How Much Will the iPad Mini Cost?: Poll http://t.co/r3suMlLs by @Commodity_Bull $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"14:45","usr":"DavidkElam","txt":"RT @SAI: RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/TVGaYr9W","lbl":"Positive"}
+,{"time":"14:45","usr":"wenzhounees","txt":"RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/iWC1juN1 - smfd google","lbl":"Neutral"}
+,{"time":"14:45","usr":"TradetheLeader1","txt":"$GOOG close here would be a new all time high close $$$$","lbl":"Positive"}
+,{"time":"14:46","usr":"SwatOptions","txt":"$GOOG making 174% PROFITS and HOLDING","lbl":"Positive"}
+,{"time":"15:11","usr":"fortune_sibanda","txt":"RT @businessinsider: RT @businessinsider: Steve Jobs Wanted To Drop Google Search From The iPhone $AAPL $GOOG by @jyarow http://t.co/ah37k8AU","lbl":"Negative"}
+,{"time":"15:12","usr":"MissTashaEvans","txt":"RT @TerrillCharming: RT @TerrillCharming: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/oLTGyeWL","lbl":"Neutral"}
+,{"time":"15:13","usr":"vinicard1","txt":"RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/Fkqqij9q","lbl":"Neutral"}
+,{"time":"15:55","usr":"ArtJhunQ","txt":"RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/d0ym4X3C","lbl":"Positive"}
+,{"time":"15:57","usr":"MisterDevin","txt":"RT @zerosum24: RT @zerosum24: If $VRNG gets billions in settlement this stock will be over $10 like nothing! Google $GOOG is going to have to pay here, ...","lbl":"Negative"}
+,{"time":"15:57","usr":"DNev47","txt":"$$ Education: A Huge Opportunity For Microsoft http://t.co/Hag7zNE1 $AAPL $AMZN $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"15:58","usr":"RedDogT3Live","txt":"My T3Live Daily Recap http://t.co/WoXgnSpi Wedge pattern continues to build $SPX $AAPL $XHB $USO $GOOG $LNKD $XLF","lbl":"Neutral"}
+,{"time":"16:48","usr":"MrTimRy","txt":"Settlement date is set for 10/9, but $GOOG & $VRNG also have a pre-trial meeting on Fri...Things move fast--I\u0027d recommend getting in asap.","lbl":"Neutral"}
+,{"time":"16:49","usr":"Unltd209","txt":"RT @SAI: RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/TVGaYr9W","lbl":"Neutral"}
+,{"time":"16:50","usr":"SeekingAlpha","txt":"Just Leave Yelp Stock Alone http://t.co/cdLzx3Ju $GOOG $GRPN $YELP","lbl":"Neutral"}
+,{"time":"17:50","usr":"AlreadyBakedIn","txt":"$aapl iPad Mini gonna cannibalize tablet sales alright. $goog nexus and $amzn tablet sales!","lbl":"Negative"}
+,{"time":"17:50","usr":"danielhprice","txt":"RT @SAI: RT @SAI: Google Maps Street View Coming To iPhones And iPads Tomorrow $GOOG $AAPL by @stevekovach http://t.co/TVGaYr9W","lbl":"Neutral"}
+,{"time":"17:54","usr":"RobertWeinstein","txt":"RT @Stocknomics1: RT @Stocknomics1: It\u0027s on its way to extinction @RobertWeinstein Can $DELL Buy Its Way Out of Irrelevance $GOOG $AMZN $AAPL $MSFT $RIMM ...","lbl":"Neutral"}
+,{"time":"17:55","usr":"elianto76","txt":"RT @dcurtis: RT @dcurtis: This year: $GRPN: -75.04% $FB: -43.57% $MSFT: +18.44% $GOOG: +15.34% $AAPL: +70.57% $LNKD: +95.82% And\u2026 drum roll please\u2026 ...","lbl":"Neutral"}
+,{"time":"18:54","usr":"chrissmart","txt":"RT @SAI: RT @SAI: Google Has Patented A Smart Watch $GOOG http://t.co/3XP5bGIu","lbl":"Positive"}
+,{"time":"18:57","usr":"a_abusiness","txt":"RT @SAI: RT @SAI: Google Has Patented A Smart Watch $GOOG http://t.co/3XP5bGIu","lbl":"Positive"}
+,{"time":"18:58","usr":"stabishere1975","txt":"RT @SAI: RT @SAI: Google Has Patented A Smart Watch $GOOG http://t.co/3XP5bGIu","lbl":"Neutral"}
+,{"time":"18:58","usr":"Fitzstock2004","txt":"$goog >766 .....back up the truck http://t.co/VOy0f3sY","lbl":"Positive"}
+,{"time":"20:14","usr":"Pennystockdolla","txt":"$VRNG made a nice move today. $VRNG could settle out of court wtih $GOOG next week. Will probably keep running into next week","lbl":"Neutral"}
+,{"time":"20:16","usr":"TTMarketingInfo","txt":"RT @thefinancepress: RT @thefinancepress: $GOOG Stock Market Edges Into Positive Column: Stock Market Edges Into Positive Column iStockAnalyst - 39 minut... ...","lbl":"Positive"}
+,{"time":"23:03","usr":"IPisBusiness","txt":"\u201C@SAI: Google Has Patented A Smart Watch $GOOG http://t.co/xKg5x8I3\u201D #pebblewatch #watchout","lbl":"Positive"}
+,{"time":"23:07","usr":"RssFollow1","txt":"RT @Fitzstock2004: RT @Fitzstock2004: These betas $amzn $aapl $goog $ma can LEAD AGAIN!","lbl":"Neutral"}
+,{"time":"23:13","usr":"samiaji","txt":"RT @SAI: RT @SAI: Google Has Patented A Smart Watch $GOOG http://t.co/3XP5bGIu","lbl":"Neutral"}
+]

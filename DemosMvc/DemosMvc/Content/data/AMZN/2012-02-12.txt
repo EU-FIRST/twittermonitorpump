@@ -1,0 +1,4 @@
+[
+{"time":"23:28","usr":"mathersma1","txt":"LicharTin\u0027s Monday Watchlist ~ $AMZN $BIDU $PCLN $BG $TSCO ~","lbl":"Neutral"}
+,{"time":"23:40","usr":"nxtmillionair40","txt":"@tom6sigma i mean $AMZN, also a good amount of put option trading, so we can move both ways","lbl":"Neutral"}
+]

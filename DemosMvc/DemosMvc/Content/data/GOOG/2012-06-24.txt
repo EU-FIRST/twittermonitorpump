@@ -1,0 +1,7 @@
+[
+{"time":"0:26","usr":"StockStandOff","txt":"$GOOG vs $BIDU: Google Inc (NASDAQ:GOOG) Showing Some Sign Of Relief http://t.co/oapyrcjZ #BIDU #GOOG #Google","lbl":"Positive"}
+,{"time":"0:53","usr":"paulwoll","txt":"Hmm . Death Cross 50/200 for $GOOG on Wednesday.. Could be interesting next few day...","lbl":"Negative"}
+,{"time":"1:37","usr":"USwwwStocks","txt":"$GOOG News: Google\u0027s Schmidt Says Page Lost Voice, Won\u0027t Speak at Events http://t.co/Dz8KYcwn #GOOG #Events #Googleamp39s","lbl":"Neutral"}
+,{"time":"11:42","usr":"vengefulduck","txt":"@cp3atlast Kids today just assume they can $GOOG history. The rub is that they then have no #PointofReference, which goes back to control.","lbl":"Neutral"}
+,{"time":"18:29","usr":"BigTicks","txt":"$GOOG News: Apple-Motorola Mobility Patent Suit Ended by US Judge http://t.co/vnR4rdtC #GOOG #AppleMotorola #Ended","lbl":"Neutral"}
+]

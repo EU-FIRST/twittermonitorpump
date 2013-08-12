@@ -1,0 +1,14 @@
+[
+{"time":"8:06","usr":"Grynn","txt":"RT @NewPharo: $MSFT #Microsoft = PC Plus Era, $AAPL #Apple = Post PC Era, $GOOG #Google = PC Cloud Era http://t.co/R34FilDC $LOGI $INTC","lbl":"Neutral"}
+,{"time":"8:25","usr":"ShreddieMurphy","txt":"What does Microsoft\u2019s BING stand for\u2026 \u201CBecause It\u2019s Not Google\u201D $MS $GOOG","lbl":"Neutral"}
+,{"time":"8:27","usr":"ValaAfshar","txt":"Google\u0027s Android crushes Apple in smartphone shipments -- but does it matter? http://t.co/c4UWpnp5 $GOOG $AAPL","lbl":"Positive"}
+,{"time":"9:00","usr":"ericjackson","txt":"New Post: Why Twitter Is Right To Launch An Instagram Competitor - Forbes http://t.co/QrUZmYm5 $FB $GOOG","lbl":"Neutral"}
+,{"time":"14:32","usr":"DallenCyrr","txt":"$VRNG is the wronged party, $GOOG has acted as a \u0022Patent Pirate\u0022 as someone said on Stocktwitts. What happened to Google\u0027s \u0022Don\u0027t Be Evil\u0022 ?","lbl":"Negative"}
+,{"time":"14:36","usr":"DallenCyrr","txt":"$GOOG Google always says \u0022Don\u0027t Be Evil\u0022 So, why has Google blatently become a \u0022Patent Pirate\u0022 re Intellectual Property and $VRNG ???","lbl":"Negative"}
+,{"time":"14:37","usr":"douglaskloeker","txt":"$VRNG - why are they calling them patent trolls? - $GOOG bought $MOT for the patents - what\u0027s the difference ?","lbl":"Neutral"}
+,{"time":"14:50","usr":"smlpublicmedia","txt":"Android Market Share http://t.co/fzgzNCHF by @jyarow @SAI via @jolewitz $AAPL $GOOG #mobi #market #data New data from IDC says Android...","lbl":"Neutral"}
+,{"time":"17:19","usr":"rechtsteiner","txt":"Twitter cards are remarkably similar to $GOOG+ mobile app.","lbl":"Neutral"}
+,{"time":"23:27","usr":"edwardrooster","txt":"Introducing: The Physical Google Wallet Card http://t.co/0qT5ZdMA via @AndroidPolice $GOOG on the road to Googlezon :)","lbl":"Neutral"}
+,{"time":"23:33","usr":"FrostRealEstate","txt":"RT @SAI: It\u0027s Official: Apple Is Just A Niche Player In Smartphones Now $AAPL $GOOG by @jyarow http://t.co/hiWmby7D","lbl":"Neutral"}
+,{"time":"23:58","usr":"WallStBeats","txt":"a Few Quick Comments On $AMRN $SINA $BIDU $MOS $JPM $GOOG $AZO $CMG $ISRG $RVBD $RIMM $ROSG","lbl":"Neutral"}
+]

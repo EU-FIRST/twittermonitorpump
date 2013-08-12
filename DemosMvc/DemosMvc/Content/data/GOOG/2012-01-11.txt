@@ -1,0 +1,56 @@
+[
+{"time":"2:07","usr":"securitiex","txt":"$GOOG loves #Spain! $BBVA","lbl":"Neutral"}
+,{"time":"2:11","usr":"securitiex","txt":"$GOOG @googleapps is moving from Los Angeles to Madrid: http://t.co/Am1z9Txp $BBVA","lbl":"Neutral"}
+,{"time":"2:28","usr":"thefinancepress","txt":"$GOOG Yandex Loses Russian Market Share to Google, Vedomosti Reports: Yandex Loses Russian Market Share to Goog... http://t.co/g3NEe4mB","lbl":"Neutral"}
+,{"time":"8:00","usr":"SeekingAlpha","txt":"Pre-Earnings Strangle Trades For These 4 Tech Stocks http://t.co/sfCBIDbe $CREE $FFIV $ISRG $GOOG","lbl":"Neutral"}
+,{"time":"8:00","usr":"SA_GOOG","txt":"Pre-Earnings Strangle Trades For These 4 Tech Stocks http://t.co/mJ5jetf1 $CREE $FFIV $ISRG $GOOG","lbl":"Neutral"}
+,{"time":"8:06","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/12, $MA/7, $AAPL/7, $CMC/6, $GOOG/5, $MSFT/5, $URBN/4, $GLD/4, $SMSC/3. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"8:08","usr":"StockTwits","txt":"RT @OptionsHawk Google ($GOOG) Wins Largest Enterprise Contract Ever from Spanish bank http://t.co/kQbJ3NlP","lbl":"Positive"}
+,{"time":"9:38","usr":"MarketPlunger","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"9:38","usr":"LiqWave","txt":"Daily Day/Swingtrading Outlook: http://t.co/LVb9Em2g $SPX $SPY $ES_F $TLT $TBT $ZN_F $QQQ $GOOG $AAPL $IWM $TZA $TNA $XLE $DIA $VIX $VXX","lbl":"Neutral"}
+,{"time":"9:39","usr":"MaysReport","txt":"BBVA dumps Microsoft for Google cloud http://t.co/Buh0P93t $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"9:40","usr":"SeekingAlpha","txt":"Microsoft: Does It Deserve Commodity Company Valuation? http://t.co/PDHRMo1C $AAPL $GOOG $VMW $ARMH $IBM $NOK $MSFT","lbl":"Neutral"}
+,{"time":"10:37","usr":"Leaf_West","txt":"$GOOG ... like to see an ABC into the $625.31 - $624.70 projected zone to try a scalp long http://t.co/iyp1v5ub","lbl":"Positive"}
+,{"time":"10:38","usr":"gmalvim","txt":"RT @SAI: Google To Twitter: Hey Pal, You Screwed Yourself $GOOG by @nichcarlson http://t.co/dUMDq2lq","lbl":"Neutral"}
+,{"time":"10:40","usr":"itbot1","txt":"RT@SAI Google To Twitter: Hey Pal, You Screwed Yourself $GOOG by @nichcarlson http://t.co/CYLtqo68","lbl":"Neutral"}
+,{"time":"11:13","usr":"wallstCS","txt":"October and November Milestone Months for Smartphones http://t.co/D71mhGwm $AAPL $GOOG AAPL, $RIMM $NOK $MSFT #stocks #mkt","lbl":"Neutral"}
+,{"time":"11:14","usr":"BlueFielder","txt":"$GooG added to yesterday\u0027s buy of wkly 635 $CALLs @ 2.00","lbl":"Positive"}
+,{"time":"11:16","usr":"SJosephBurns","txt":"My $GOOG options are doing well in a down market.","lbl":"Neutral"}
+,{"time":"11:18","usr":"barronstechblog","txt":"Apple May Have Avoided LTE To Box in Verizon, Says Guggenheim - Tech Trader Daily - $AAPL $VZ $GOOG $T $S http://t.co/SalVrJpM","lbl":"Neutral"}
+,{"time":"11:52","usr":"BioTechReports","txt":"$YMI holding strong $BAC, $C, $SIRI, $GOOG, $AAPL, $NFLX","lbl":"Neutral"}
+,{"time":"11:52","usr":"missha","txt":"RT @SAI: Google To Twitter: Hey Pal, You Screwed Yourself $GOOG by @nichcarlson http://t.co/dUMDq2lq","lbl":"Neutral"}
+,{"time":"11:53","usr":"wallstCS","txt":"Dell to Launch Tablet in Late 2012 http://t.co/5vGz1SyS $DELL $HPQ $RIM $GOOG $MSFT $AAPL $XLK #stocks #tech","lbl":"Neutral"}
+,{"time":"12:34","usr":"CancunParadise8","txt":"@TraderFlorida Got $GOOG ... +$10 gain.. yesterday... sold in $627s ... looking to buy back ... at what point ?","lbl":"Positive"}
+,{"time":"12:35","usr":"tradetheROCK","txt":"$scam looking to breakout along with $sucks in big volume $$$$ #study..... $aapl $bac $c $msft $goog","lbl":"Neutral"}
+,{"time":"12:36","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/49, $SPY/28, $NFLX/27, $FSLR/27, $QCOR/23, $BAC/19, $MSFT/17, $GOOG/16. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"13:09","usr":"ManiOhli","txt":"Option Millionaires: UgotStocks: $GOOG 635 C\u0027s 1.55 back in http://t.co/wr6Dl1GS","lbl":"Positive"}
+,{"time":"13:10","usr":"sbobrows","txt":"Could be a game changer. @SAI: Google TV Just Got Its Killer App: OnLive Streaming Video Games $GOOG by @hamburger http://t.co/TSnE9B7c","lbl":"Positive"}
+,{"time":"14:01","usr":"Emerick08","txt":"RT @SAI: Google+ Is Way Bigger Than We Thought: It\u0027s Totally Going To Change How The Web Works $GOOG by @MattRosoff http://t.co/t4lOO8hl","lbl":"Positive"}
+,{"time":"14:02","usr":"bingobaa","txt":"RT @SAI: Google TV Just Got Its Killer App: OnLive Streaming Video Games $GOOG by @hamburger http://t.co/5ogPcJxR","lbl":"Positive"}
+,{"time":"14:03","usr":"BioTechReports","txt":"$dndn new HOD! Fed BB out - MODERATE GROWTH!! RALLY TIME! $BAC, $SIRI, $C, $JPM, $GOOG, $AAPL","lbl":"Positive"}
+,{"time":"14:03","usr":"Ktr8der","txt":"Earnings one week from tomorrow: $INTC $IBM $MSFT $GOOG $BAC $FCX $UNH $MS An eclectic group of big names.","lbl":"Neutral"}
+,{"time":"14:42","usr":"BioTechReports","txt":"$DNDN up 14% $GOOG, $BAC, $C, $JPM, $WFC, $CTIC, $ARIA, $AMRN, $EXAS, $NFLX, $AAPL","lbl":"Neutral"}
+,{"time":"14:43","usr":"BUDDIEE18","txt":"GOOOOOO.... $AAPL .... $GOOG .... $NFLX ....$RENN ...$DANG -- TO DA MOOOOON!!!!!","lbl":"Positive"}
+,{"time":"14:45","usr":"BioTechReports","txt":"$dndn gap filling and profit taking - will break towards $15 soon...watch $GOOG, $BAC, $C, $JPM, $WFC, $CTIC, $ARIA, $AMRN, $EXAS, $NFLX,","lbl":"Neutral"}
+,{"time":"15:32","usr":"Legacy_Trades","txt":"@koolaidluke Impossible to do in 140 characters but to educate yourself properly, simply $GOOG & read REG FD & SEC analyst disclosure rules.","lbl":"Neutral"}
+,{"time":"15:32","usr":"pennystocksusa","txt":"Trades are on #FIRE $BAC, $C, $NFLX, $SIRI, $GOOG, $AAPL","lbl":"Neutral"}
+,{"time":"15:34","usr":"61point8","txt":"$GOOG: I\u0027m going to close the other half at either breakeven or at $627. It looks to me like a BS short-covering move.","lbl":"Negative"}
+,{"time":"16:35","usr":"Narries","txt":"RT @hainsworthtv: Stone\u0027s Fickes tells @BNN_TV\u0027s @hainsworthtv her #stockpicks are $AAPL, $GOOG, and $PFE for \u0022defensive tech, US pharma\u0022. #investing $$","lbl":"Positive"}
+,{"time":"16:36","usr":"ValaAfshar","txt":"By the end of 2012, BBVA will migrate 110,000 employees to @googleapps - http://t.co/jM8WJmHM #IT #CIO $GOOG","lbl":"Neutral"}
+,{"time":"17:00","usr":"SeekingAlpha","txt":"4 Buy And 4 Sell Recommendations From UBS http://t.co/Q3R5yWCG $CMCSA $CBS $GOOG $S $WIN $NYT $AMT $THQI","lbl":"Neutral"}
+,{"time":"17:02","usr":"MediJoshi","txt":"RT @SAI: CHART OF THE DAY: Microsoft\u0027s Share Of The Search Market Is Finally Bigger Than Yahoo\u0027s $MSFT $GOOG $YHOO by @jyarow http://t.co/TKEqtFYv","lbl":"Neutral"}
+,{"time":"17:05","usr":"markpavan","txt":"Digital politics... A Twitter Lawyer Is Outraged Over This Google Search Results Page. $GOOG http://t.co/4souGTMQ","lbl":"Neutral"}
+,{"time":"17:06","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/33, $AAPL/23, $GOOG/19, $BAC/17, $RF/15, $TSCO/11, $RJF/10, $PVH/10. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"18:28","usr":"tianhaoalex","txt":"RT @SAI: Google Apps Gets Its Biggest Deal Ever $GOOG by @MattRosoff http://t.co/PvYnXrvB","lbl":"Positive"}
+,{"time":"18:30","usr":"SeekingAlpha","txt":"Recent Performance Review Of George Soros\u0027 Major Equity Investments http://t.co/lwJ6jPhp $WPRT $AAPL $DISH $AGRO $IOC $MSI $GOOG","lbl":"Neutral"}
+,{"time":"18:30","usr":"itbot1","txt":"RT@SAI Google Apps Gets Its Biggest Deal Ever $GOOG by @MattRosoff http://t.co/q7GqcHDT","lbl":"Positive"}
+,{"time":"18:31","usr":"CashRocket","txt":"@zerosum24 how about his tweets that he is long $goog on a good day and out of it on a bad day lol no entries/exits posted","lbl":"Neutral"}
+,{"time":"19:36","usr":"simplestockqtes","txt":"Someone just got a simple quote on $GOOG @simplestockqtes http://t.co/BwllMzgo","lbl":"Neutral"}
+,{"time":"19:39","usr":"wallstCS","txt":"Bing Search Engine Traffic Passes Yahoo http://t.co/LPdOf5GA $MSFT $YHOO $GOOG $IACI","lbl":"Neutral"}
+,{"time":"19:40","usr":"jet_cbolton","txt":"RT @SAI: Google Apps Gets Its Biggest Deal Ever $GOOG by @MattRosoff http://t.co/PvYnXrvB","lbl":"Positive"}
+,{"time":"19:42","usr":"LDrogen","txt":"It just keeps getting better for $GOOG \u201C@Techmeme: Google+ Hangouts Add Screen Sharing to List of Collaboration http://t.co/BfBOazUZ\u0022","lbl":"Positive"}
+,{"time":"22:05","usr":"RaviRomo","txt":"@jimcramer is however plain wrong in saying that Android is losing market share. Simply not true. $AAPL $GOOG","lbl":"Positive"}
+,{"time":"22:07","usr":"portfolio_man","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/XWBHrzNX #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Negative"}
+,{"time":"22:08","usr":"RaviRomo","txt":"$AAPL\u0027s iPhone 4S is a great success. They may sell over 33 million iPhones (incl 3G, GS) in Q4. But $GOOG\u0027s Android will outsell.","lbl":"Positive"}
+,{"time":"22:10","usr":"KTMtwt","txt":"RT @TrendRida: What percentage of Android products will run ICS? It\u0027s a joke that u got buy new hardware for every OS upgrade... $GOOG","lbl":"Neutral"}
+]

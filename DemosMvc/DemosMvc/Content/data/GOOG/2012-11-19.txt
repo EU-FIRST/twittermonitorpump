@@ -1,0 +1,41 @@
+[
+{"time":"1:11","usr":"digitalGeek_au","txt":"RT @SAI: Analysts Say Google Is \u0027Just Trying Harder\u0027 Than Apple, And Android Innovation Is Racing Ahead $AAPL $GOOG http://t.co/IRBDvywr","lbl":"Positive"}
+,{"time":"1:17","usr":"thefinancepress","txt":"$GOOG Google fined $22.5 million for alleged privacy breach: Google fined $22.5 million for alleged privacy bre... http://t.co/1NjRAlpV","lbl":"Negative"}
+,{"time":"1:18","usr":"simpleandwhite","txt":"How To Get Ahead At #Google (And How Not To) $GOOG by @_dtl http://t.co/NBCClubd #tech #innovation","lbl":"Neutral"}
+,{"time":"1:22","usr":"Bluechiptrend","txt":"Gonna be looking for a great entry on $GOOG long this week -actually on Monday","lbl":"Positive"}
+,{"time":"7:24","usr":"SeekingAlpha","txt":"Wall Street Breakfast: Must-Know News http://t.co/JzsyJa37 $HBC $SPY $QQQ $AONE $BP $CSCO $FB $GM $GOOG $ING $ITW $LOW $MSFT","lbl":"Neutral"}
+,{"time":"7:30","usr":"niked","txt":"RT \u201C@SAI: 10 Things You Need To Know This Morning $GOOG $YHOO $FB $CSCO $AAPL $MSFT $NOK by @nichcarlson http://t.co/2SUVMSJl\u201D","lbl":"Neutral"}
+,{"time":"9:17","usr":"StkConfidential","txt":"Mkt hasn\u0027t followed thru, but lots of leaders up in pre-mkt like $AAPL, $GOOG, $ISRG, $MA etc. $PCLN would be a buy at $623.78. $STUDY","lbl":"Positive"}
+,{"time":"9:19","usr":"dealReporter","txt":"$DISH inching closer to $GOOG, sad day at $ITW, $CI mum on PBM sale idea - Morning Flash - http://t.co/eljnngWz","lbl":"Neutral"}
+,{"time":"10:14","usr":"AdeoMarketing","txt":"7 Ways People Are Gaming Social Media $LNKD $FB $MWW $GOOG http://t.co/JteROG0w via @minyanville","lbl":"Neutral"}
+,{"time":"10:15","usr":"deepfoo","txt":"subtle, maybe early, but $GOOG so far is under-performing peers on this bounce. watch list it.","lbl":"Neutral"}
+,{"time":"10:16","usr":"DeidreZune","txt":"High beta is rallying the most-- the same stocks that were left for dead. Guesses? Hint: $AAPL $GOOG $AMZN. All in time for Thanksgiving","lbl":"Positive"}
+,{"time":"10:20","usr":"RealJohnFiedler","txt":"About 6 years now since $GOOG bought YouTube, and media companies still struggling to find the right approach to integrating with them.","lbl":"Negative"}
+,{"time":"11:04","usr":"Bluechiptrend","txt":"kinda pissed i didn\u0027t get triggered on the $GOOG call from yesterday","lbl":"Positive"}
+,{"time":"11:04","usr":"ALeeTrading","txt":"all out first round with $GOOG and $AAPL, will re-enter later, have to take care of dog right now she got gum in her paws :(","lbl":"Negative"}
+,{"time":"12:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $GOOG +55%, $MSFT +46%, $AAPL +41%, $GS -27%, $INTC -18%, $CSCO -12% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"12:01","usr":"fibstalker","txt":"Can past price patterns be used to predict the future? Answer: a decisive \u201Cyes\u201D. Check in this video why: http://t.co/mrEUIYZY $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"12:02","usr":"morrisanschel","txt":"$GOOG patent loss to $VRNG as per jury trial likely to result in a settlement.","lbl":"Negative"}
+,{"time":"12:33","usr":"takingstock614","txt":"Only two I think you can get paid on still might be $AAPL $GOOG","lbl":"Positive"}
+,{"time":"12:34","usr":"KarSun01","txt":"prob should have longed $GOOG instead of $SPY intraday. Getting a nice break here","lbl":"Positive"}
+,{"time":"12:37","usr":"tradethembi","txt":"Here is the rising short entry on $GOOG now 666.18 will then move up to 666.87 http://t.co/BWiW6KCS","lbl":"Negative"}
+,{"time":"13:20","usr":"kwyjibo_9","txt":"RT @businessinsider: Marissa Mayer And Sheryl Sandberg Are In Secret Talks To Make A Facebook/Yahoo Search Engine $FB $YHOO $MSFT $GOOG http://t.co/AgGPEADI","lbl":"Neutral"}
+,{"time":"13:20","usr":"wallstCS","txt":"Apple OS X Name Rumors Swirl and 1 Tech Titan on the Move http://t.co/UInxEZCl $AAPL $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"14:31","usr":"pennystockguys","txt":"$GOOG - e-Commerce Stock Outlook - Nov. 2012 - Industry Outlook http://t.co/4i8QHagp","lbl":"Neutral"}
+,{"time":"14:31","usr":"pennystockguys","txt":"$GOOG - eCommerce Stock Outlook - Nov. 2012 - Industry Outlook http://t.co/19tP6EW2","lbl":"Neutral"}
+,{"time":"14:31","usr":"pennystockguys","txt":"$GOOG - eCommerce Stock Outlook - Nov. 2012 - Zacks Analyst Interviews http://t.co/vGP59pMu","lbl":"Neutral"}
+,{"time":"14:32","usr":"ADVFNplc","txt":"$GOOG - e-Commerce Stock Outlook - Nov. 2012 - Industry Outlook http://t.co/KvMIZcNg","lbl":"Neutral"}
+,{"time":"14:53","usr":"WallStJesus","txt":"CAPPER SPIKE $spy $goog $vxx http://t.co/G9LpqKET @HFTAlert","lbl":"Negative"}
+,{"time":"14:53","usr":"borjaadiego","txt":"+1 RT @zerohedge: Google raised to AA from AA- by S&P, outlook stable $GOOG. Soon to be on par with the USA","lbl":"Positive"}
+,{"time":"14:53","usr":"TsepoMpeta","txt":"RT @zerohedge: Google raised to AA from AA- by S&P, outlook stable $GOOG. Soon to be on par with the USA","lbl":"Positive"}
+,{"time":"14:54","usr":"tphedgegroup","txt":"$SPY 2012 starting now is the beginning of the biggest tech rally since 1998. $GOOG $AAPL $RIMM $HPQ $MSFT $MU $INTC","lbl":"Neutral"}
+,{"time":"15:45","usr":"jcas39","txt":"RT @LuisBenguerel: \u0022@BloombergTV: BREAKING: Google raised to AA from AA- by S&P, outlook stable $GOOG\u0022","lbl":"Positive"}
+,{"time":"15:45","usr":"morganefitz","txt":"Exit: $GOOG,GOOGLE, Long Swing Trade S8 $GOOG,GOOGLE, Exit Long Entry S8, 668.11","lbl":"Neutral"}
+,{"time":"15:48","usr":"ForexFTI","txt":"$GOOG https://t.co/MoiVq1IL from http://t.co/xArDmz7J","lbl":"Neutral"}
+,{"time":"15:50","usr":"SamHamadehNYC","txt":"RT @PrivCo: Other #VC backers of @meraki, in addition to @Sequoia_Capital: @Google $GOOG @felicisventures #NorthgateCap #DAGVenture http://t.co/D3AayxZo","lbl":"Neutral"}
+,{"time":"17:13","usr":"StockMarket411","txt":"Google Inks Music Deal With European Publishers $goog http://t.co/9PlTnrX7 goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"17:15","usr":"Carina_Lermon","txt":"Firefox for Android Now Available for Millions More Phones | The ... #Android $GOOG http://t.co/F3z6qZAC","lbl":"Neutral"}
+,{"time":"19:17","usr":"larryfooter","txt":"@ChartMoMo don\u0027t get me wrong, I had a GREAT day ... came in quite long $AAPL $GOOG $SPY $QQQ calls - sold \u0027em way to early and bought puts","lbl":"Negative"}
+,{"time":"19:25","usr":"GVGOZZ","txt":"RT @larryfooter: @ChartMoMo don\u0027t get me wrong, I had a GREAT day ... came in quite long $AAPL $GOOG $SPY $QQQ calls - sold \u0027em way to early and bought puts","lbl":"Negative"}
+,{"time":"19:27","usr":"iamwallstreet","txt":"RT @StockWallStreet: Does Yelp Need Help? http://t.co/tgmGU0X2 $YELP $AAPL $GOOG $AMZN $MSFT $FB $ZNGA $P $YHOO $GRPN $LNKD","lbl":"Neutral"}
+]

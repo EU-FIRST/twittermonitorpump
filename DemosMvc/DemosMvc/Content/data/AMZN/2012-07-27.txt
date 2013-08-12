@@ -1,0 +1,61 @@
+[
+{"time":"2:25","usr":"binaryoptionsjt","txt":"RT @RealDividendLab: @DividendMaster very true. $AMZN - after all these years - is still not making major bucks per quarter? It\u0027s silly. I\u0027ll stick w/ $WDC 3.8x","lbl":"Negative"}
+,{"time":"2:26","usr":"Mr_Punk_Rocker","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/a9V8i8Hq #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"2:32","usr":"LarsTS","txt":"RT @dkberman: Add this to one of life\u0027s great mysteries: Amazon sells $12.8 billion worth of stuff. Its profit is only $7 million. $AMZN","lbl":"Negative"}
+,{"time":"5:59","usr":"Retail_Guru","txt":"@spbaines And that\u0027s a very fair question to raise. I think its clear $AMZN is in a phase where its being run for shoppers not shareholders","lbl":"Negative"}
+,{"time":"6:04","usr":"Retail_Guru","txt":"@mtg0827 In some ways call it a race to the bottom. Shopper habits are changing & if you don\u0027t have web assets, you\u0027re toast $JWN $AMZN","lbl":"Neutral"}
+,{"time":"7:20","usr":"smainfo","txt":"$AMZN Neutral investor sentiment Jul 27, 8:10 AM ET, see chart at http://t.co/6A20pYCa #sentiment #trading #stocks","lbl":"Neutral"}
+,{"time":"7:20","usr":"LTommy256","txt":"High multiple and sales tax coming. What could go wrong? RT @ActAccordingly: $AMZN, I\u0027m short in the PA, no ?","lbl":"Neutral"}
+,{"time":"7:47","usr":"graubart","txt":"RT @SAI: MUNSTER: Amazon\u0027s Kindle Fire Will Be \u0027Destroyed\u0027 By Apple This Holiday Season $AMZN $AAPL by @sfiegerman http://t.co/uV1q64mn","lbl":"Negative"}
+,{"time":"7:48","usr":"graubart","txt":"I\u0027d love to see $AMZN come out with continuity program - free Kindle with agreement to buy 6 books - ahead of 7\u0022 iPad http://t.co/YQnQQrop","lbl":"Neutral"}
+,{"time":"7:49","usr":"SpeedSixx2","txt":"Today on the radar $SPY, $AAPL, $GOOG, $AMZN $LNKD $GS, good luck to all","lbl":"Neutral"}
+,{"time":"7:50","usr":"USwwwStocks","txt":"$AMZN News: Earnings Review; Facebook Inc. (FB), http://t.co/mcOt5byj Inc. (AMZN) http://t.co/rKpd83oI #AMZN #Amazoncom #Earnings","lbl":"Neutral"}
+,{"time":"8:14","usr":"biggercapital","txt":"$AMZN could be an $EBAY manage for the .01 beat+let global 3Ps fall in the hands of competitors Long both stock wld love to short EBAY MGMT","lbl":"Neutral"}
+,{"time":"8:14","usr":"SoylentGreenBot","txt":"@davidfabercnbc yes, lets talk about $AMZN. What have they delivered in terms of earnings ? Almost nothing dude","lbl":"Negative"}
+,{"time":"8:14","usr":"tkuz4u","txt":"Jeff Bezos is Genious! No doubt about it! $Amzn is up on 1cent profit a share? & $GOOG & $AAPL on billions $ in profits go down?","lbl":"Positive"}
+,{"time":"8:14","usr":"RoccoPendola","txt":"Thanks for the retweet @biggercapital -- seems so obvious to me, shocked that it\u0027s not consensus. http://t.co/Z17OumQg $FB $AMZN","lbl":"Neutral"}
+,{"time":"8:34","usr":"CubbieBears","txt":"$AMZN looks ready","lbl":"Neutral"}
+,{"time":"8:34","usr":"FreeMrktCptlst","txt":"So over the next 6 months, I\u0027m going watch how this stock reacts, and see if building a nice short position is warranted $AMZN","lbl":"Negative"}
+,{"time":"8:35","usr":"JAuerbach4","txt":"$amzn up 10 on those numbers. this stock will never go down.","lbl":"Positive"}
+,{"time":"8:43","usr":"erickschonfeld","txt":"RT @ericjackson: Pretty sure $AMZN\u0027s stock will never drop - no matter how much money they don\u0027t make","lbl":"Positive"}
+,{"time":"8:44","usr":"barronstechblog","txt":"This Morning: Apple for AUTH, FB Drops 16%, ALU Support at $0? - Tech Trader Daily - $AAPL $AUTH $FB $AMZN $ALU $MSFT http://t.co/5pA24m5Z","lbl":"Neutral"}
+,{"time":"8:52","usr":"ToddSullivan","txt":"RT @kiddynamiteblog: seems like a good time to revisit this old $AMZN post: http://t.co/4GRhhfHk $AMZN is going to run the retail world..","lbl":"Positive"}
+,{"time":"8:52","usr":"JAuerbach4","txt":"@grassosteve so confused. did i miss good numbers? $amzn","lbl":"Neutral"}
+,{"time":"8:52","usr":"ramiroencizo","txt":"As of yesterday I am a first time shareholder of $AMZN ... Already +5% good job #BezosCEO on quarterly results!","lbl":"Positive"}
+,{"time":"8:53","usr":"KyleStock","txt":"\u0022Scared $ don\u0027t make no $\u0022 -- mantra for this earnings season c/o Rick Ross: (minus the double negative of course). $SBUX $AMZN $FB $NKE","lbl":"Neutral"}
+,{"time":"8:59","usr":"EvanMedeiros","txt":"$AMZN above 234 level and we\u0027re clear for take off.","lbl":"Positive"}
+,{"time":"9:00","usr":"SoylentGreenBot","txt":"$AMZN price targets getting cut again ... buy buy buy","lbl":"Neutral"}
+,{"time":"9:01","usr":"davidspitz","txt":"http://t.co/ZHUCmPxO investing for the battle of the century: http://t.co/898X462S $AMZN","lbl":"Neutral"}
+,{"time":"9:13","usr":"ivorybullapps","txt":"$AMZN price distribution #StockMagnet app #ipad long-term POC acts as solid support in recent days http://t.co/jSDk3XPj","lbl":"Neutral"}
+,{"time":"9:21","usr":"inelegantinvest","txt":"The efficient market has decided that $AMZN is worth 6% more today after its awful report yesterday. Hidden pixie dust?","lbl":"Neutral"}
+,{"time":"9:22","usr":"kiasuchick","txt":"RT @SAI: Amazon CEO Jeff Bezos Is Spending $2.5 Million To Support Same-Sex Marriage $AMZN http://t.co/VOBnctY0 --> Eat that C-F-A","lbl":"Neutral"}
+,{"time":"9:22","usr":"wallstreetbabes","txt":"RT @grassosteve: $AMZN = my everything girl didnt disappoint with price action","lbl":"Neutral"}
+,{"time":"9:22","usr":"PhMai","txt":"RT @SAI: Amazon CEO Jeff Bezos Is Spending $2.5 Million To Support Same-Sex Marriage $AMZN http://t.co/QKDSTRKZ","lbl":"Neutral"}
+,{"time":"9:31","usr":"rsaintvilus","txt":"\u201C@MarekFuchs: Gotta respect Amazon\u0027s Bezos. It\u0027s not often a CEO takes backlash risk for political beliefs. $AMZN\u201D - My sentiments exactly!","lbl":"Neutral"}
+,{"time":"9:32","usr":"SaraCsit","txt":"RT @SAI: Amazon CEO Jeff Bezos Is Spending $2.5 Million To Support Same-Sex Marriage $AMZN http://t.co/JpzcCHdu","lbl":"Neutral"}
+,{"time":"9:43","usr":"dwizkid21","txt":"@Sangluccitrades missing this move was depressing, though who woulda thought to pile in this morning!?? fuckin $AMZN","lbl":"Neutral"}
+,{"time":"9:43","usr":"RealPro4Real","txt":"RT @MarketBeat: A Need to Know Basis: Facebook, Amazon Earnings - MarketBeat - WSJ http://t.co/63WMsgOI via @WSJ $FB $AMZN @paulvigna @srussolillo","lbl":"Neutral"}
+,{"time":"10:15","usr":"girigr8","txt":"RT @BloombergTV: Can Google\u0027s Nexus take a slice out of Amazon Kindle sales? http://t.co/QFMIRoJO $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"10:52","usr":"Vconomics","txt":"@TRYKtrading $AMZN has a forward P/E of 80, $EBAY has a forward P/E of 16. And compare margins of both companies side by side.","lbl":"Positive"}
+,{"time":"10:54","usr":"deltaStrikejj","txt":"the $AMZN iron condor I mentioned yesterday can expire worthless below 245 today or u can cover call side for .05. return on capital 36%","lbl":"Neutral"}
+,{"time":"10:54","usr":"BethanyBSander","txt":"All about #Apple and #3DPrinters http://t.co/HlcI4Ix7 $AAPL $MSFT $DDD $GOOG #Google $AMZN #tech #Mac #iPhone #Ipad","lbl":"Neutral"}
+,{"time":"11:16","usr":"TraderDanyG","txt":"RT @cavalatica: \u201C@ivanhoff: It looks like $AMZN\u0027s main shareholders\u0027 base doesn\u0027t have an investing horizon of just one quarter\u201D // No, just 257 years.","lbl":"Neutral"}
+,{"time":"11:17","usr":"TMFInsideValue","txt":"@jordanhodgkinso Disagree, but sweet metaphor. $AMZN could post 7-9% EBIT margins if they took the foot off the gas -- but they shouldn\u0027t.","lbl":"Neutral"}
+,{"time":"11:41","usr":"RoccoPendola","txt":"@hblodget At least somebody gets $FB and $AMZN","lbl":"Neutral"}
+,{"time":"11:42","usr":"bearshort","txt":"Has $AMZN explained what caused them to increase their assets in Q3? Oh, that\u0027s right - a 27% gain in goodwill (CA Sales tax?)","lbl":"Neutral"}
+,{"time":"12:01","usr":"toddstrade","txt":"$GOOG $PCLN $AMZN - leaders of the next wave.","lbl":"Neutral"}
+,{"time":"12:01","usr":"Catalystrader","txt":"$WMT here comes the drop, this run looks finished. Longs way too complacent. WMT is not $AMZN","lbl":"Neutral"}
+,{"time":"12:23","usr":"racernic","txt":"@Mark_Lexus i like where u set ur spreads in2 earn.But don\u0027t like they r coin toss.thesis can b right but cant predict mkt reaction ie $AMZN","lbl":"Neutral"}
+,{"time":"12:42","usr":"CBOE","txt":"VIX methodology for Amazon- $VXAZN -34% to 33.78, $AMZN +6% on Q3","lbl":"Positive"}
+,{"time":"12:43","usr":"RockoLedesma","txt":"RT @RoccoPendola: Thanks for the retweet @biggercapital -- seems so obvious to me, shocked that it\u0027s not consensus. http://t.co/Z17OumQg $FB $AMZN","lbl":"Neutral"}
+,{"time":"13:15","usr":"jarsch","txt":"$AMZN move is incredible! If you shorted last night on earnings got major burnt toast. Wall St loves them, that simple.","lbl":"Positive"}
+,{"time":"13:15","usr":"mikecardascia","txt":"RT @wallstCS: Starbucks\u0027 Q3 Earnings ROSE 19% and 4 Hot Stocks Attracting Investor Attention http://t.co/wlsPOe8K $PCS $SBUX $AMZN $AMRN #mkt","lbl":"Neutral"}
+,{"time":"14:15","usr":"LucciNews","txt":"RT @Sangluccitrades: What a day man... 100% scalps on the weeklies left and right. $GOOG $AAPL $AMZN $BIDU","lbl":"Neutral"}
+,{"time":"14:16","usr":"ItsAllUpside","txt":"As I look at my notepad from this morning, I had $PCLN 655 call and $AMZN 225 call listed. Think I traded either? Nah, I don\u0027t like money","lbl":"Neutral"}
+,{"time":"14:45","usr":"FairOaksTrader","txt":"5 Longs: $TCBI $ALXN $BIIB $GLD $BUNL. 4 Shorts: oil via $SCO, Euro via $EUO, $SBUX and $AMZN. :)","lbl":"Negative"}
+,{"time":"15:26","usr":"StockTwits","txt":"In Defense of Amazon \u2013 Not That They Need Defending. Shrinking the NOW-Gap http://t.co/fmAir4sb via @KidDynamiteBlog $AMZN","lbl":"Neutral"}
+,{"time":"15:27","usr":"CBOE","txt":"Actives @ CBOE: $AAPL $FB $AMZN $JPM $BAC","lbl":"Neutral"}
+,{"time":"16:22","usr":"alexdgn","txt":"RT @DividendMaster: $AMZN is a buy buy buy cuz they gonna lose hundreds of millions next Q to buy market share . Yup , http://t.co/tVJAYCxv circa 1999 strategy","lbl":"Positive"}
+,{"time":"17:49","usr":"ChrisErice","txt":"@chrishodges1 although I like $AMZN, their PE of 195 scares me.","lbl":"Neutral"}
+,{"time":"17:50","usr":"USwwwStocks","txt":"$AMZN News: Amazon Says LivingSocial Had Q2 Loss of $93 Million http://t.co/5q3wfLhf #AMZN #Amazon #LivingSocial","lbl":"Neutral"}
+]

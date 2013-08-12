@@ -1,0 +1,17 @@
+[
+{"time":"6:10","usr":"SeekingAlpha","txt":"Revisiting The Reverse Iron Condor On Amazon\u0027s Upcoming Earnings http://t.co/J6rlpjGQ $AMZN","lbl":"Neutral"}
+,{"time":"6:15","usr":"themaxpain","txt":"$AMZN ($216.93), 7/18/2012, current max pain strike price: $210.00. Put/Call ratio: 0.977. #AMZN Get more: http://t.co/cKW3PW3D","lbl":"Neutral"}
+,{"time":"8:46","usr":"JeffReevesIP","txt":"Big box store Costco the analog version of digital discounter Amazon. That\u0027s why $AMZN will kill $COST... eventually. http://t.co/356i0y8W","lbl":"Neutral"}
+,{"time":"11:40","usr":"stockhaven","txt":"$AMZN 60 minute chart looks beautiful... just needs some volume to the upside","lbl":"Positive"}
+,{"time":"11:47","usr":"WallStreetBean","txt":"$GRMN currently has 4 items in top 35 of $AMZN\u0027s \u0022bestsellers in electronics\u0022 http://t.co/cl25KPkH","lbl":"Neutral"}
+,{"time":"12:50","usr":"stockhaven","txt":"Im waiting on $AMZN to move but in the mean time... http://t.co/7hUDeL85","lbl":"Neutral"}
+,{"time":"14:03","usr":"flipboardbiz","txt":"RT @YahooFinance: Get ready to pay sales tax on Amazon http://t.co/aIfvWTBL $AMZN","lbl":"Neutral"}
+,{"time":"14:07","usr":"Jeunesse34","txt":"RT @YahooFinance: Get ready to pay sales tax on Amazon http://t.co/aIfvWTBL $AMZN","lbl":"Negative"}
+,{"time":"15:06","usr":"meganpaul88","txt":"$$ Robert Hagstrom of Legg Mason: $AMZN a Retailer or Tech Company?: Robert Hagstrom of Legg Mason: Is Amazon.c... http://t.co/6ociI9KE","lbl":"Neutral"}
+,{"time":"15:07","usr":"kevinbinversie","txt":"RT @CNBCtopStories: Zynga Exploring \u0027Real Money Gaming\u0027: CEO http://t.co/zTl4Izes $AMZN $FB $ZNGA | You mean gambling?","lbl":"Neutral"}
+,{"time":"16:15","usr":"biggercapital","txt":"Oh really? 80% of purchase on our site are via $AMZN payment RT @DeidreZune So $AMZN is going up. But $AMZN does NOT have Paypal equivalent","lbl":"Positive"}
+,{"time":"17:44","usr":"altagracias_son","txt":"RT @NASDAQ: NASDAQ-100 AHI at 2639.97 (up 0.54%) movers: $EBAY, $QCOM, $BRCM, $AMZN, $NUAN http://t.co/XcEm35SB #nasdaq","lbl":"Neutral"}
+,{"time":"19:38","usr":"themotleyfool","txt":"These stocks, including Amazon, have serious red flags according to @FlushDrawFool. Possible stocks to short: http://t.co/Ltq5Et7U $AMZN","lbl":"Negative"}
+,{"time":"19:39","usr":"Odette_2011","txt":"RT @themotleyfool: These stocks, including Amazon, have serious red flags according to @FlushDrawFool. Possible stocks to short: http://t.co/Ltq5Et7U $AMZN","lbl":"Negative"}
+,{"time":"22:34","usr":"takishirayanagi","txt":"Amazon Yesterday Shipping: http://t.co/lYNODJul via @youtube $AMZN","lbl":"Neutral"}
+]

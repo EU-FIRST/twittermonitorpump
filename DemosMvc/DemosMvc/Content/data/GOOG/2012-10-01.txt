@@ -1,0 +1,69 @@
+[
+{"time":"8:08","usr":"bmakins101","txt":"RT @BloombergTV: RT @BloombergTV: #Chart: Proof Google Is Beginning to Turn Tables on Apple - http://t.co/H5V0Hyq1 $GOOG $APPL","lbl":"Positive"}
+,{"time":"8:09","usr":"Snapper1853","txt":"RT @BloombergTV: RT @BloombergTV: #Chart: Proof Google Is Beginning to Turn Tables on Apple - http://t.co/H5V0Hyq1 $GOOG $APPL","lbl":"Positive"}
+,{"time":"8:09","usr":"uBooost","txt":"RT @RealCrystalBall: RT @RealCrystalBall: #Chart: Proof Google Is Beginning to Turn Tables on Apple - http://t.co/EiNV8FoM $GOOG $APPL #Apple #Stocks","lbl":"Positive"}
+,{"time":"8:15","usr":"NatBrogadir","txt":"Ya its easy to add GOOG Maps to your iphone home. But still don\u0027t see a way to make it a default. Same issue with Chrome browser #GOOG $GOOG","lbl":"Neutral"}
+,{"time":"8:40","usr":"msravenable","txt":"RT @SAI: RT @SAI: Google\u0027s Market Cap Blows Past Microsoft $MSFT $GOOG by @jyarow http://t.co/pYP4zJNL","lbl":"Neutral"}
+,{"time":"8:40","usr":"optioncommander","txt":"RT @businessinsider Google\u0027s Market Cap Blows Past Microsoft $MSFT $GOOG by @jyarow http://t.co/s942ECyf > GOOG +0.41% 757","lbl":"Positive"}
+,{"time":"8:40","usr":"KeeneOnMarket","txt":"Get the Key Levels for #Trading $AAPL and $GOOG for 10.1.2012 http://t.co/Iciql1j8","lbl":"Neutral"}
+,{"time":"8:40","usr":"a_bh_a","txt":"Google\u0027s market cap surpasses Microsoft today. $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"8:57","usr":"Againstalloddss","txt":"RT @jeffkearns: RT @jeffkearns: Google market cap ~$250 billion surpasses Microsoft\u0027s $$ $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"8:57","usr":"burakkucherii","txt":"RT @SAI: RT @SAI: Google\u0027s Market Cap Blows Past Microsoft $MSFT $GOOG by @jyarow http://t.co/pYP4zJNL","lbl":"Neutral"}
+,{"time":"9:25","usr":"MockTrade","txt":"$NQ_F new 1st support area 2811.75 - 2810 zone but will need $AAPL & $GOOG to really pop from here w/good follow through 4 more NQ upside","lbl":"Negative"}
+,{"time":"9:27","usr":"SJosephBurns","txt":"$GOOG is finding resistance near the top of its 5 day price range.","lbl":"Negative"}
+,{"time":"9:27","usr":"itworks","txt":"Google Passes Microsoft\u2019s Market Value as PC Loses to Web - Ballmer won\u0027t like this http://t.co/LwnygToS $GOOG $MSFT","lbl":"Positive"}
+,{"time":"9:28","usr":"FlyingBinary","txt":"It begins RT @itworks: #Google Passes Microsoft\u2019s Market Value as PC Loses to Web Ballmer won\u0027t like this http://t.co/apO2NNRs $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"10:05","usr":"thefinancepress","txt":"$GOOG Weekly Top Insider Sells: GOOG, TIF, SWN, and AZO: Weekly Top Insider Sells: GOOG, TIF, SWN, and AZO NASD... http://t.co/LoBXcwtR","lbl":"Negative"}
+,{"time":"10:11","usr":"flexisharetrade","txt":"@flexisharetrade $GOOG surpasses $MSFT as world\u2019s second most valuable tech company behind $AAPL","lbl":"Positive"}
+,{"time":"10:40","usr":"MPWCanada_TNG","txt":"Buy Apple\u0027s Current Dip To Ride Its Likely Rise To $800 http://t.co/BFsFZk6H $GOOG $MSFT $SSNLF.PK $AAPL","lbl":"Neutral"}
+,{"time":"10:45","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Drummond David C Officer SOLD 568 shares \u2611","lbl":"Negative"}
+,{"time":"11:18","usr":"deepfoo","txt":"fwiw - $GOOG - active bullish pennant. upside potential to $790. inactive below $759. Pattern voided below $750","lbl":"Positive"}
+,{"time":"11:19","usr":"jessect6","txt":"RT @deepfoo: RT @deepfoo: fwiw - $GOOG - active bullish pennant. upside potential to $790. inactive below $759. Pattern voided below $750","lbl":"Positive"}
+,{"time":"11:19","usr":"z8angela","txt":"Reminder: $AAPL is only good for trading for now as it whipsaws; $GOOG price action is watched for potential pullback. Its 21-day is 719.","lbl":"Negative"}
+,{"time":"11:20","usr":"ruipsilva75","txt":"Sold $goog at 758.87","lbl":"Negative"}
+,{"time":"11:53","usr":"mcilderman","txt":"How You Can Invest in Science Fiction Technology http://t.co/HoIBT9ey $AAPL $ATVI $GOOG $INTC $MSFT #SF #Stockaction","lbl":"Neutral"}
+,{"time":"11:54","usr":"TheSeek20826344","txt":"RT @mcilderman: RT @mcilderman: How You Can Invest in Science Fiction Technology http://t.co/HoIBT9ey $AAPL $ATVI $GOOG $INTC $MSFT #SF #Stockaction","lbl":"Neutral"}
+,{"time":"11:54","usr":"launchticker","txt":"@fmanjoo says $aapl did great job by apologizing for Maps; $goog should have had iOS 6 app ready http://t.co/347fb9mU","lbl":"Negative"}
+,{"time":"12:34","usr":"anuppandey","txt":"Google Passes Microsoft\u0027s Market Value for First Time Ever http://t.co/mW4U25Vc via @zite $GOOG $MSFT","lbl":"Positive"}
+,{"time":"12:38","usr":"jaffoneh","txt":"Google is now worth more than Microsoft (247.94B vs. 247.52B) $goog $msft","lbl":"Positive"}
+,{"time":"12:41","usr":"ArdavanH","txt":"$GOOG officially surpassing $MSFT to become the third most valuable company by market cap at $249.2 B. #Tech #Stocks","lbl":"Positive"}
+,{"time":"13:23","usr":"bumpersales","txt":"RT @ReformedBroker: RT @ReformedBroker: Sorry, Facebook taking on Google in Search is like your diary taking on the Encyclopedia Britannica. Shush. $FB $GOOG","lbl":"Positive"}
+,{"time":"13:26","usr":"optioncommander","txt":"Apple has quietly created the world\u2019s largest hedge fund worth $117 billion http://t.co/olzvfMof > $AAPL $SPY $DIA $GOOG","lbl":"Neutral"}
+,{"time":"13:27","usr":"peter_gibbons","txt":"New Chart: The Map Gap http://t.co/e2Xk3fbF $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:27","usr":"FreeMrktCptlst","txt":"\u0027#iPadmini\u0027 mockup compared to #Nexus7, #KindleFireHD http://t.co/jpAMuubG via @AppleInsider $AAPL $AMZN $GOOG $$","lbl":"Neutral"}
+,{"time":"13:50","usr":"iTraderz","txt":"struggling today, not a winner. Stopped on $GOOG and $AAPL, now short $AAPL so we\u0027ll see.","lbl":"Negative"}
+,{"time":"13:51","usr":"CrushingColts","txt":"$GOOG rocking towards highest price ever","lbl":"Positive"}
+,{"time":"13:51","usr":"TheStreet","txt":"5 Top Beer Apps for Oktoberfest http://t.co/I42HqaeK by @npierrepont $AAPL $GOOG $BUD","lbl":"Neutral"}
+,{"time":"14:12","usr":"DrDuru","txt":"$AAPL testing critical resistance at $660. Divergence from $GOOG strength getting wider.","lbl":"Negative"}
+,{"time":"14:12","usr":"chung55","txt":"@SJosephBurns $GOOG, setting up for higher prices!!!","lbl":"Positive"}
+,{"time":"14:12","usr":"TripleDTrader","txt":"And for those of you who are keeping track...$GOOG has now taken a 100 point lead on $AAPL. $$","lbl":"Positive"}
+,{"time":"14:13","usr":"BigUnit412","txt":"There\u0027s a reason $GOOG stock is dominating $AAPL stock lately. It\u0027s certainly not because apple\u0027s dominance is strengthening!","lbl":"Positive"}
+,{"time":"14:39","usr":"ReutersInsider","txt":"FACTBOX: Tech surges in Q3, Google beats Apple $aapl $goog : Reuters Insider http://t.co/vO6JNWyJ","lbl":"Positive"}
+,{"time":"14:39","usr":"FNWatch","txt":"ReutersInsider: RT @ReutersInsider: FACTBOX: Tech surges in Q3, Google beats Apple $aapl $goog : Reuters Insider... http://t.co/fq0hhGsf","lbl":"Positive"}
+,{"time":"14:39","usr":"kcnickerson","txt":"Microsoft needs Eric Schmidt? - Google Passes Microsoft\u2019s Market Value: PC Loses to Web http://t.co/MABsYf1v $goog $msft #google #microsoft","lbl":"Positive"}
+,{"time":"14:39","usr":"Tha_MaihnYOU","txt":"RT @ReutersInsider: RT @ReutersInsider: FACTBOX: Tech surges in Q3, Google beats Apple $aapl $goog : Reuters Insider http://t.co/vO6JNWyJ","lbl":"Positive"}
+,{"time":"15:12","usr":"wallstCS","txt":"Tech Business Roundup: Nokia Partners With Oracle, Facebook\u0027s Promoted Posts http://t.co/Fkei1k6G $MSFT $GOOG $NOK $ORCL $FB #mkt","lbl":"Neutral"}
+,{"time":"15:13","usr":"littletigercs","txt":"stay away from $aapl options for at least two more days. no kidding. meanwhile, put the trades in $goog.","lbl":"Positive"}
+,{"time":"15:13","usr":"XQuickFixX","txt":"RT @WScottONeil: RT @WScottONeil: RT @marketsmith: RT @jfahmy: Weekend Market VIDEO: http://t.co/VxNBp5h4 $SPY $QQQ $AAPL $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"15:40","usr":"SeekingAlpha","txt":"5 Stocks To Watch This Week http://t.co/qKWkZ2YV $AAPL $CLWR $GOOG $NFLX $S","lbl":"Neutral"}
+,{"time":"15:40","usr":"iBizNews21","txt":"RT @CNBC: RT @CNBC: Stocks end the day mixed; Google hits an all-time high. [MARKET REPORT] http://t.co/oGQkqDxc $GOOG","lbl":"Positive"}
+,{"time":"16:22","usr":"PIPIMedia","txt":"RT @SAI: Here\u0027s What The iPad Mini Looks Like Next To The Kindle Fire And Nexus 7 $AAPL $GOOG $AMZN by @officialKLS http://t.co/TOLdqSSi","lbl":"Neutral"}
+,{"time":"16:24","usr":"jonasQuinn23","txt":"Google Tops Microsoft Market Cap On Mobile Strength http://t.co/7dkqaRPk via @IBDinvestors $AAPL $goog $msft $wmt $xom","lbl":"Positive"}
+,{"time":"16:25","usr":"SAI_Tools","txt":"It\u0027s Just Sad Google\u0027s Motorola Can\u0027t Keep Android Phones Updated $GOOG by @stevekovach http://t.co/h8pfOuHd","lbl":"Negative"}
+,{"time":"16:25","usr":"SAI","txt":"It\u0027s Just Sad Google\u0027s Motorola Can\u0027t Keep Android Phones Updated $GOOG by @stevekovach http://t.co/WFM5kzuV","lbl":"Negative"}
+,{"time":"17:18","usr":"empressario","txt":"RT @StockTwits: RT @StockTwits: Google Passes Microsoft\u2019s Market Value as PC Loses to Web http://t.co/X6PQkrDb via @bloomberg $GOOG $MSFT","lbl":"Positive"}
+,{"time":"17:18","usr":"Camicamira","txt":"RT @BloombergTV: RT @BloombergTV: Google Options Bullish on Market Value Expansion - http://t.co/lOvNCkKS $GOOG","lbl":"Positive"}
+,{"time":"17:24","usr":"SJosephBurns","txt":"RT @BloombergTV: Google Options Bullish on Market Value Expansion - http://t.co/gJsSe7O2 $GOOG","lbl":"Positive"}
+,{"time":"19:00","usr":"j_stops","txt":"$FBCD .0007 FBC Holdings Announces New Flowboard Snowboard/Surf Training and Action Product NEW $FBCD $FBC $GOOG http://t.co/JOfJ186S","lbl":"Neutral"}
+,{"time":"19:01","usr":"j_stops","txt":"$FBCD .0007 FBC Holdings Announces New Flowboard Snowboard/Surf Training and Action Product NEW $FBCD $FBC $GOOG http://t.co/lgeBbLcy","lbl":"Neutral"}
+,{"time":"19:02","usr":"pennystockguys","txt":"$GOOG - Google to Buy Facial-Recognition Software Company Viewdle -Reports http://t.co/OlzH5hAw","lbl":"Neutral"}
+,{"time":"19:02","usr":"ADVFNplc","txt":"$GOOG - Google to Buy Facial-Recognition Software Company Viewdle -Reports http://t.co/S8oPt7tP","lbl":"Neutral"}
+,{"time":"20:59","usr":"MrFlyTrap","txt":"@stephanie_link stephanie,some months ago $GOOG approved a possible stock split, but i haven\u0027t heard much since.Will the split happen?","lbl":"Positive"}
+,{"time":"21:00","usr":"AntoinetteOuell","txt":"RT @glenchen: RT @glenchen: RT @SAI: Here\u0027s What The iPad Mini Looks Like Next To The Kindle Fire And Nexus 7 $AAPL $GOOG $AMZN by @officialKLS http:/ ...","lbl":"Neutral"}
+,{"time":"21:01","usr":"i8and8","txt":"Wake me when something more exciting happens than Google\u0027s market cap rising above Microsoft\u0027s $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"21:02","usr":"samsissine2","txt":"RT @SAI: RT @SAI: Here\u0027s What The iPad Mini Looks Like Next To The Kindle Fire And Nexus 7 $AAPL $GOOG $AMZN by @officialKLS http://t.co/ChpOLdh0","lbl":"Neutral"}
+,{"time":"23:13","usr":"nicholi57","txt":"RT @SAI: RT @SAI: It\u0027s Just Sad Google\u0027s Motorola Can\u0027t Keep Android Phones Updated $GOOG by @stevekovach http://t.co/WFM5kzuV","lbl":"Negative"}
+,{"time":"23:17","usr":"CompassInvestrs","txt":"RT @MSN_Money: RT @MSN_Money: $Goog surpassed $MSFT in market value http://t.co/5DmByexB","lbl":"Positive"}
+,{"time":"23:21","usr":"DeidreZune","txt":"Google buying face recognition firm Viewdle from Ukraine http://t.co/UKRmvMjj $GOOG $FB","lbl":"Neutral"}
+,{"time":"23:21","usr":"j_stops","txt":"$FBCD .0007 FBC Holdings Announces New Flowboard Snowboard/Surf Training and Action Product NEW $FBCD $FBC $GOOG http://t.co/59lISt0P","lbl":"Neutral"}
+]

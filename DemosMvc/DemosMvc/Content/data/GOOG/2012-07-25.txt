@@ -1,0 +1,27 @@
+[
+{"time":"2:40","usr":"Nils1975","txt":"$ARMH (+3% in LON) Posts Market Beating Earnings On Strong Demand For Its Microchips http://t.co/wKuT8jHP $AAPL $GOOG Samsung $NVDA $QCOM","lbl":"Neutral"}
+,{"time":"2:42","usr":"Qwovadis","txt":"Commented on: \u0022A Facebook Earnings Preview: Hoping To Hear From Mark Zuckerberg An... http://t.co/orB51jqB $FB $GOOG","lbl":"Neutral"}
+,{"time":"2:48","usr":"USwwwStocks","txt":"$GOOG News: Google and Facebook boost federal lobbying in 2nd quarter http://t.co/mDZeIbL0 #GOOG #Boost #Facebook","lbl":"Neutral"}
+,{"time":"3:08","usr":"3GsDigital","txt":"RT @SAI: And The Winner Of The Apps vs. Browsers War Is... $AAPL $MSFT $GOOG http://t.co/CHN7D3yP","lbl":"Neutral"}
+,{"time":"7:28","usr":"thefinancepress","txt":"$GOOG Google (NASDAQ:GOOG) Approaches Potential Antitrust-Case Settlement with ...: Google (NASDAQ:GOOG) Approa... http://t.co/Z0c0vIeu","lbl":"Positive"}
+,{"time":"7:30","usr":"SeekingAlpha","txt":"Making Sense Of InvenSense Earnings http://t.co/OrX3PrTp $GOOG $QCOM $SSNLF.PK $INVN $AAPL","lbl":"Neutral"}
+,{"time":"7:31","usr":"ElliotTurn","txt":"Yep Google Fiber is real and it\u0027s coming for Kansas City: http://t.co/Sf5sSWaD $GOOG","lbl":"Neutral"}
+,{"time":"7:31","usr":"pennystockguys","txt":"$GOOG - Rogers Communications Misses in 2Q - Analyst Blog http://t.co/LscO1tbW","lbl":"Neutral"}
+,{"time":"9:25","usr":"justtradin","txt":"RT @WhizCheck6: $GOOG put vertical - -15 Jul-27-12 585/590 put vertical @ 0.20 nice 70% gain for today...","lbl":"Negative"}
+,{"time":"9:27","usr":"scalamai","txt":"What\u0027s the real value of #Googlerola? RT @VentureBeat: Google: Motorola\u0027s patents were just $5.5B of $12.4B price http://t.co/5O7kVRYc $GOOG","lbl":"Neutral"}
+,{"time":"9:29","usr":"Trefis","txt":"Baidu Heads To $125 With Ad Business Strength http://t.co/8bRPjQic by Trefis Team $BIDU $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"10:34","usr":"choffman1978","txt":"$SIRI (SiriusXM) squeeze once $2.10 breaks!!!l! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,$aapl,$nflx","lbl":"Neutral"}
+,{"time":"10:34","usr":"caldavis44","txt":"RT @Trefis: Apple Is Headed To $700 With China Growth And iPhone 5 http://t.co/PrtLCnUE by Trefis Team $AAPL $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"10:34","usr":"choffman1978","txt":"$NGSX rallying on newsl! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,$aapl,$nflx","lbl":"Neutral"}
+,{"time":"10:38","usr":"Minyanville","txt":"7 People-to-People Apps to Save Money, As Long As You\u0027re Willing to Share http://t.co/nG3oW8QM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"12:06","usr":"Stonefoxcapital","txt":"Commented on: \u0022Velti To Benefit From Surging Tablet Demand\u0022 http://t.co/IlJeyUmw $VELT $FB $GOOG $MM","lbl":"Neutral"}
+,{"time":"12:09","usr":"Stonefoxcapital","txt":"Commented on: \u0022Making Sense Of InvenSense Earnings\u0022 http://t.co/7rNBcMTx $INVN $GOOG $QCOM $SSNLF.PK $AAPL","lbl":"Neutral"}
+,{"time":"12:12","usr":"tlmontana","txt":"$GOOG <--- Nice round Bottom","lbl":"Neutral"}
+,{"time":"12:13","usr":"choffman1978","txt":"Markets SURGE on Treasury Auction newsl! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,$wfc,$nflx","lbl":"Neutral"}
+,{"time":"13:39","usr":"choffman1978","txt":"$SIRI (SiriusXM) surging on debt retire news!!!!l! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,$wfc,$nflx","lbl":"Neutral"}
+,{"time":"13:42","usr":"wmwitkowski","txt":"#TripAdvisor strategy causes investor flight - The Ratings Game - http://t.co/4LWzB0Vv via @MarketWatch $TRIP $EXPE $PCLN $FB $GOOG","lbl":"Neutral"}
+,{"time":"13:47","usr":"choffman1978","txt":"$YMI rallying - company likely in partnership talks!l! #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,$wfc,$nflx","lbl":"Neutral"}
+,{"time":"13:48","usr":"USwwwStocks","txt":"$GOOG News: Why Google Paid $12.4 Billion For Motorola Patents and Technologies http://t.co/Bmc4MNgQ #124 #GOOG #Billion","lbl":"Neutral"}
+,{"time":"14:51","usr":"WalterFritz1966","txt":"$GOOG buy $800","lbl":"Positive"}
+,{"time":"16:00","usr":"choffman1978","txt":"$FB down on $ZNGA news = LAME - $FB will report great earnings #cnbc,#msnbc,#nyse,#wsj,$bac,$c,$v,$s,$gm,$f,$goog,$appl,$pfe,$jnj,$wfc,$nflx","lbl":"Neutral"}
+]

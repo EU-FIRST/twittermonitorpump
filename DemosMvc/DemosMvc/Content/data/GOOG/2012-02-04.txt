@@ -1,0 +1,9 @@
+[
+{"time":"4:37","usr":"OptionPundit","txt":"@t3nman I see on the forum that you already closed $GOOG 570 calls for solid gains. Congrats. Now we need the Bear CSpread to work for us.","lbl":"Positive"}
+,{"time":"4:49","usr":"party_man2012","txt":"iPhones for Psychos http://t.co/hnJp0bq6 #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"4:50","usr":"macroaxis","txt":"Google Inc $GOOG Went Up Over 1%. Microsoft Pulls Patent From Barnes & Noble Android Case: http://t.co/IZ6yhqTV","lbl":"Neutral"}
+,{"time":"11:09","usr":"newt_funny_man","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/KwBOcVuc #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"21:38","usr":"JeremyKissel","txt":"Is Google asking the FCC to allow gigabit Wi-Fi for its gigabit network? \u2014 GigaOM http://t.co/ZwlF478x $GOOG #fcc","lbl":"Neutral"}
+,{"time":"22:02","usr":"party_man2012","txt":"iPhones for Psychos http://t.co/hnJp0bq6 #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"22:12","usr":"danggaku","txt":"Does google img search for mobile work at all? Or is this blackberry specific issue? Nothing is clickable on the results. $GOOG","lbl":"Neutral"}
+]

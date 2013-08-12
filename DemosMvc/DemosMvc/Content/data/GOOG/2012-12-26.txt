@@ -1,0 +1,25 @@
+[
+{"time":"2:25","usr":"p_canales","txt":"Good ideas @SAI: The First 12 Apps You Should Download For Your New Android Phone $GOOG by @stevekovach http://t.co/zLlcAAMk","lbl":"Neutral"}
+,{"time":"2:45","usr":"BUDDIEE18","txt":"her astrological blog is a MUST open DAILY - http://t.co/eBXlFM9t $SPY $AAPL $GOOG $RIMM $CLF $MLNX $GS $HLF $PCLN $MA $NDAQ $GLD $AGQ $SLV","lbl":"Neutral"}
+,{"time":"8:15","usr":"KaiDiekmann","txt":"RT @SAI: 10 Things You Need To Know This Morning $FB $MSFT $GOOG $NOK by @stevekovach http://t.co/P7DHOUYH","lbl":"Neutral"}
+,{"time":"9:04","usr":"iKino013","txt":"RT @SAI: Here\u0027s A Good Idea Of The Most Popular Tablets Given On Christmas $AAPL $GOOG $MSFT by @stevekovach http://t.co/X7U9K4iw","lbl":"Neutral"}
+,{"time":"9:07","usr":"kaltstelive","txt":"Google Scan and Match feature chops explicit lyrics - http://t.co/UcGjTlQt $GOOG","lbl":"Neutral"}
+,{"time":"9:45","usr":"PJGonzaga","txt":"Hehehe... RT @SAI: Here\u0027s A Good Idea Of The Most Popular Tablets Given On Christmas $AAPL $GOOG $MSFT by @stevekovach http://t.co/ocRFe1GD","lbl":"Neutral"}
+,{"time":"10:25","usr":"HawkDayTrader","txt":"$goog buying some calls here at $710.85. Looks like it wants to move higher like $bidu.","lbl":"Positive"}
+,{"time":"10:30","usr":"mainstr","txt":"Apple: iPad mini Wins Because It\u0027s Expensive http://t.co/2T2mM2mB $AAPL $AMZN $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"11:11","usr":"barronstechblog","txt":"This Morning: Google Challenges MSFT, Apple mini needs Bigger Production - Tech Trader Daily - $AAPL $GOOG $MSFT $NOK http://t.co/R6yTbn5u","lbl":"Neutral"}
+,{"time":"11:12","usr":"victor_roca","txt":"RT @SAI: Here\u0027s A Good Idea Of The Most Popular Tablets Given On Christmas $AAPL $GOOG $MSFT by @stevekovach http://t.co/vw0yKWx8","lbl":"Neutral"}
+,{"time":"11:41","usr":"arly_rampen","txt":"RT @SAI: Here\u0027s A Good Idea Of The Most Popular Tablets Given On Christmas $AAPL $GOOG $MSFT by @stevekovach http://t.co/X7U9K4iw","lbl":"Neutral"}
+,{"time":"13:08","usr":"TechInsiderco","txt":"Google Extends Free Gmail Voice Calls In The U.S. And Canada Through 2013: This is becoming somewh... http://t.co/5BRRLG2Q #Google $GOOG","lbl":"Neutral"}
+,{"time":"13:09","usr":"takingstock614","txt":"$AAPL $GOOG might not see lows again. Possible BTD trades intraday. Will have to watch close.","lbl":"Neutral"}
+,{"time":"13:40","usr":"takingstock614","txt":"$GOOG stud move off lod.","lbl":"Neutral"}
+,{"time":"14:20","usr":"mamatwita","txt":"RT @businessinsider: 15 Tips And Tricks For Your New Android Phone You Need To Know About $GOOG by @stevekovach http://t.co/Bt4NaDOA","lbl":"Neutral"}
+,{"time":"14:21","usr":"edmundoTO","txt":"RT @SAI: 15 Tips And Tricks For Your New Android Phone You Need To Know About $GOOG by @stevekovach http://t.co/l0NmfAqz","lbl":"Neutral"}
+,{"time":"14:21","usr":"fjsol","txt":"RT @SAI: 15 Tips And Tricks For Your New Android Phone You Need To Know About $GOOG by @stevekovach http://t.co/l0NmfAqz","lbl":"Neutral"}
+,{"time":"15:49","usr":"StockMarket411","txt":"Google Said to Be Working on \u2018X\u2019 Phone with Motorola $goog http://t.co/4ToMcAnW goog, google, google stock, news","lbl":"Neutral"}
+,{"time":"16:59","usr":"MarketCurrents","txt":"Google (GOOG) is as happy to pay phone companies as it is music studios for the privilege of having c... http://t.co/gH5eknIY $GOOG","lbl":"Neutral"}
+,{"time":"19:16","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/GZ4RMDF8","lbl":"Neutral"}
+,{"time":"19:20","usr":"Tradified","txt":"\u27A1 Insider Trading: $GOOG Schmidt Eric E Director SOLD 57 shares \u2611","lbl":"Negative"}
+,{"time":"23:19","usr":"P_V_J","txt":"RT @SAI: 15 Tips And Tricks For Your New Android Phone You Need To Know About $GOOG by @stevekovach http://t.co/l0NmfAqz","lbl":"Neutral"}
+,{"time":"23:26","usr":"surendra100","txt":"Intel And Qualcomm: The Moment Of Truth Is Near http://t.co/anlFNeQG $AAPL $ARMH $GOOG $TSM $TXN $INTC $QCOM","lbl":"Neutral"}
+]

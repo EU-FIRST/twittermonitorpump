@@ -1,0 +1,64 @@
+[
+{"time":"0:02","usr":"jpatel41","txt":"RT @StockTwits: Largest USA Tech Companies Market Cap: http://t.co/2SbihWid via @ospreyflyer great battle for 2nd between $GOOG $IBM & $MSFT","lbl":"Neutral"}
+,{"time":"6:42","usr":"wea2party","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG by @_dtl http://t.co/cCoxhbxQ","lbl":"Neutral"}
+,{"time":"6:43","usr":"lluccipha","txt":"SAI: 10 Things You Need To Know This Morning $AAPL $GOOG by @_dtl http://t.co/ImA6y970","lbl":"Neutral"}
+,{"time":"6:44","usr":"Tradin4Gains","txt":"RT @Fitzstock2004 your $aapl and $goog call spreads will be up HUGE.......fyi,,,,take another 1/4 off @open, and only leave a runner","lbl":"Negative"}
+,{"time":"6:47","usr":"HTB_Krull","txt":"$QQQ $GOOG why must they ruin my good weekend with a massive gap up? When did the futures open? 2012 I am already waiting for a pullback","lbl":"Negative"}
+,{"time":"8:42","usr":"TraderFractal","txt":"Holding $DECK $FCX $FMCN $MAKO, but today\u0027s a day of meetings $BBW $GOOG","lbl":"Neutral"}
+,{"time":"8:42","usr":"jeffcoffee","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $GOOG by @_dtl http://t.co/cCoxhbxQ","lbl":"Neutral"}
+,{"time":"8:52","usr":"roybachar","txt":"RT @IBDinvestors: Google chief Larry Page is IBD\u0027s CEO of the year, intent on making the search king quick, mobile and social. $GOOG http://t.co/7rcSdF9i","lbl":"Positive"}
+,{"time":"9:36","usr":"lluccipha","txt":"SAI: It Looks Like Google Chrome Could Pass Up Internet Explorer This Year $GOOG $MSFT by @hamburger http://t.co/p5uKAOlg","lbl":"Positive"}
+,{"time":"9:36","usr":"Hoopgroundzero","txt":"RT @wallstCS: Coming to Microsoft in 2012: Tablets, Smartphones, and Searching http://t.co/TH1chhRr $MSFT $AMZN $VZ $GOOG $FBOOK #fb","lbl":"Neutral"}
+,{"time":"9:36","usr":"Karl_Meinhardt","txt":"Yay! RT @sai: It Looks Like Google Chrome Could Pass Up Internet Explorer This Year $GOOG $MSFT by @hamburger http://t.co/le4hN6qm","lbl":"Positive"}
+,{"time":"9:36","usr":"TraderFlorida","txt":"RT @howardlindzon: $goog in the 650\u0027 to start the year....JOY!","lbl":"Neutral"}
+,{"time":"9:52","usr":"DontTakeLosses","txt":"$AAPL $411 $GOOG $660? Sweet. $$ #stocks #stockpicks #GOP","lbl":"Positive"}
+,{"time":"9:52","usr":"socialwyze","txt":"RT @SAI: It Looks Like Google Chrome Could Pass Up Internet Explorer This Year $GOOG $MSFT by @hamburger http://t.co/puo3yssO","lbl":"Positive"}
+,{"time":"9:53","usr":"KSpade1120","txt":"RT @angryspeculator: We do this every new years day and RALLY UP. SUCKERS DAY IN! $SPY $SPX $AAPL $GOOG $BIDU $NFLX $GMCR","lbl":"Neutral"}
+,{"time":"9:53","usr":"BUDDIEE18","txt":"out @ 1.35 from 1.15 on wklies $SINA calls. and of course it now runs...LOL... $GOOG looks like a nice put? $SPY looks 2 sell off?","lbl":"Negative"}
+,{"time":"10:50","usr":"ValaAfshar","txt":"What to watch from 5 #tech giants in 2012 - $AMZN $APPL $GOOG $MSFT Facebook http://t.co/XtHusjCd. #CIO #CFO #IT","lbl":"Neutral"}
+,{"time":"10:50","usr":"Buzz81","txt":"comScore Reports November 2011 U.S. Mobile Subsc MKT Share: $GOOG = 44% $AAPL = 27% $RIM = 20% ... $$ http://t.co/ECc4bOrN via @comscore","lbl":"Neutral"}
+,{"time":"10:53","usr":"CBOE","txt":"CBOE most active equity families: $AAPL 81K contracts, $FSLR 38K, $C 26K, $GOOG 20K","lbl":"Neutral"}
+,{"time":"11:33","usr":"maria_andersen","txt":"RT @dillardsarah: Conclusion: academia may drive volatility in $GOOG searches for \u0022inequality\u0022: http://t.co/1UhnTIdb A neat way to look at their influence.","lbl":"Neutral"}
+,{"time":"11:34","usr":"NoDoji","txt":"I will scale out of some $GOOG $650 calls if it pops here","lbl":"Negative"}
+,{"time":"11:36","usr":"TraderFlorida","txt":"$GOOG http://t.co/VXKAPB5O A strong run to new highs today for the market leader","lbl":"Positive"}
+,{"time":"12:15","usr":"alexisgoa","txt":"RT @SeekingAlpha: Apple To Hit $450 Before iPhone 5 Launch http://t.co/taB05u3r $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"12:15","usr":"Smart_BMW","txt":"RT @stockhaven: GOOG video chart - Google looks poised for $750 http://t.co/qEDiD1jI via @stockhaven $GOOG $AAPL $AMZN $CRM $GMCR $LULU $NFLX $QQQ","lbl":"Positive"}
+,{"time":"12:17","usr":"tkuz4u","txt":"$GOOG is a rare blend of deep value and barely restrained growth today.","lbl":"Positive"}
+,{"time":"13:19","usr":"ampressman","txt":"RT @howardlindzon: If $goog closes above $670 today I am buying an android phone for @gruber and @parislemon from $amzn - $aapl $goog","lbl":"Positive"}
+,{"time":"13:22","usr":"JoshNursing","txt":"RT @nexustech RIM Board May Fire Co-CEOs Amid Investor Revolt http://t.co/PKj2Jz3S $RIMM $GOOG $AAPL $ARMH","lbl":"Neutral"}
+,{"time":"13:22","usr":"brittpierpoint","txt":"Decepticons win for now..Rise And Fall Of The Asus Transformer Prime Android Tablet http://t.co/hjG0Ai9q via TechCrunch $GOOG","lbl":"Neutral"}
+,{"time":"14:15","usr":"RoccoPendola","txt":"Should You Run Away From Social Media Stocks? - Seeking Alpha http://t.co/wlBp3q4R #IPOs $SOCL $ANGI $DMD $EXTR $GOOG $GRPN $LNKD $P $ZNGA","lbl":"Neutral"}
+,{"time":"14:53","usr":"OdaLisque3","txt":"MOMO\u0027s: SpaceBound: $GOOG Major push here! http://t.co/G5E3Y2LY","lbl":"Positive"}
+,{"time":"14:54","usr":"SMCHARTcom","txt":"$GOOG http://t.co/8wV7TWE4 GOOG our March/12 Call, Strike $500, jumping to $164 from our buy area of $133.","lbl":"Positive"}
+,{"time":"14:54","usr":"wallstCS","txt":"Why Apple Will Never Dominate the Global Mobile Market $AAPL $RIMM $GOOG $ORCL http://t.co/LmRc5i9f","lbl":"Neutral"}
+,{"time":"15:28","usr":"jflyons","txt":"RT @SAI: Check Out These 11 Incredible Smartphones And Tablets To Be Unveiled Next Week $GOOG $MSFT by @stevekovach http://t.co/EOM4hoAa","lbl":"Positive"}
+,{"time":"15:28","usr":"tradingPolitics","txt":"Significant one day failure. cc: @tjtakes ;^) \u201C@statsreal: If $goog doesn\u0027t close above 715, look out below\u201D","lbl":"Negative"}
+,{"time":"15:28","usr":"AntonioReyX360","txt":"RT @SAI: Check Out These 11 Incredible Smartphones And Tablets That Will Be Unveiled Next Week $GOOG $MSFT by @stevekovach http://t.co/JBXwKh5F","lbl":"Neutral"}
+,{"time":"15:52","usr":"BUDDIEE18","txt":"RT @HedgefundPLAY: $GOOG $IBM $AAPL buying dips working and stay short $RIMM $BBY $HPQ ....nice pair trade & wining trade of 2011 will continue in 2012 too","lbl":"Positive"}
+,{"time":"15:53","usr":"OdaLisque3","txt":"BOUNCE: momentum74: Shorted $GOOG scalp 668.02 http://t.co/LNyHSsJx","lbl":"Negative"}
+,{"time":"15:53","usr":"OdaLisque3","txt":"BOUNCE: momentum74: Out $GOOG +.20 rtq 666.84 http://t.co/OB0qN748","lbl":"Neutral"}
+,{"time":"15:53","usr":"angryspeculator","txt":"How about a $666.66 close on $GOOG ?","lbl":"Neutral"}
+,{"time":"16:32","usr":"stocial","txt":"60 minute Trending Social Volume: $SPY/51, $GOOG/37, $AAPL/24, $AMRN/18, $APKT/17, $BAC/17, $GLD/13, $MBI/11. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"16:37","usr":"benny_the_dogs","txt":"Siri Romance http://t.co/YgwRlEz8 #love #technology #iPhone $aapl $goog #iphone #ipad #siri","lbl":"Neutral"}
+,{"time":"16:44","usr":"JesusBaseball","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/VVBZKJBh $GOOG","lbl":"Neutral"}
+,{"time":"16:45","usr":"BartlomiejF","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"16:45","usr":"DmitriEvankovic","txt":"$GOOG $GOOG $GOOG $GOOG","lbl":"Neutral"}
+,{"time":"16:45","usr":"pinkivy81","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"16:53","usr":"Eltempest","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Neutral"}
+,{"time":"16:54","usr":"jeluani12","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"16:54","usr":"ChefJTaylor","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"17:17","usr":"wallstreetkorea","txt":"\uAD6C\uAE00! RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/Oh1owCOb $GOOG","lbl":"Neutral"}
+,{"time":"17:17","usr":"RichLoPresti","txt":"RT @valuewalk Google and Apple are the winners of the smartphone war http://t.co/DcrCisQl $RIMM $GOOG $AAPL $MSFT #PALMisstillaround?","lbl":"Positive"}
+,{"time":"17:17","usr":"lluccipha","txt":"SAI: Here\u0027s Samsung\u0027s Vague Answer To Its Galaxy S \u0027Value Pack\u0027 Upgrade Plans $GOOG by @stevekovach http://t.co/4SABZoHV","lbl":"Neutral"}
+,{"time":"17:51","usr":"wallstCS","txt":"Google and Verizon Shares Achieve 52-Week Price Highs With Android Success http://t.co/7NZsHJD7 $GOOG $VZ #mkt #stocks #trading #investing","lbl":"Positive"}
+,{"time":"18:28","usr":"TheRealXMoney","txt":"This is proof to let you know how evil #Google is their stock $GOOG is trading at... [see pic] http://t.co/3RLw7dDd","lbl":"Negative"}
+,{"time":"18:31","usr":"brokerz_spx","txt":"RT @BRK_B - RT @BRK_B - RT @BRK_B - Market Wrap: 2012 Starts On The Right Foot http://t.co/Wh1boGdW $JNY $BRK.A $BRK.B $GOOG... ...","lbl":"Neutral"}
+,{"time":"18:32","usr":"stocial","txt":"60 minute Trending Social Volume: $AAPL/21, $SPY/11, $GOOG/9, $TIVO/9, $ARNA/8, $AMZN/6, $T/5, $CSCO/4, $LPHI/4. http://t.co/DHnV02ws","lbl":"Neutral"}
+,{"time":"20:05","usr":"EC78","txt":"RT @FinanceTrends: Chart update: $GOOG soars through resistance, goodbye sideways channel http://t.co/pcSK091g $$","lbl":"Positive"}
+,{"time":"20:05","usr":"kadzaiFP","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"20:07","usr":"seattlegoldpros","txt":"RT @MarketWatch: Google shares top $650 for first time since January 2008 http://t.co/0NBE7JoK $GOOG","lbl":"Positive"}
+,{"time":"20:09","usr":"vinnystocktips","txt":"Stocks Start 2012 off with a Bang! Happy New Year to all! $GOOG $CHK $DVN $AKAM $BAC $C $DB $CS $AAPL $ZSL $MCD $PM $MO http://t.co/8ZxAR2Rn","lbl":"Neutral"}
+,{"time":"22:57","usr":"angryspeculator","txt":"@edshow Spending doesn\u0027t result in growth, saving and investing does. Economics 101, u sounded stupid brother $SPY $AAPL $GOOG $BIDU","lbl":"Negative"}
+,{"time":"22:58","usr":"ThembeK","txt":"Android \u0027Open\u0027 for Whom? (@dannysullivan) (\u0027the surgery was a success, but the patient died.\u0027) $GOOG http://t.co/2V9rsxPu via @netgarden","lbl":"Negative"}
+,{"time":"23:03","usr":"Japanesegunto","txt":"@MrPaul : Lol......$GOOG earning releases on 1/24.....I believe. The up and down swing is 6 to 8% of the closing price.","lbl":"Neutral"}
+]

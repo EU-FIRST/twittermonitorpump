@@ -1,0 +1,39 @@
+[
+{"time":"5:25","usr":"punk_army","txt":"Google X research facility and its secret projects http://t.co/4GEKGYZM #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"5:29","usr":"ninja_trades","txt":"iPhones for Psychos http://t.co/b5lNsgYi #video #funny #apple #iphone #siri $aapl $goog","lbl":"Neutral"}
+,{"time":"5:37","usr":"mrkokos","txt":"RT @TraderNewburgh: OK Use it to mark trends, breakouts, shorts etc.... $AAPL $PCLN $GOOG $CMG http://t.co/X2rFReWZ","lbl":"Neutral"}
+,{"time":"5:41","usr":"nancefinance","txt":"Facebook debating whether to publicize gov\u0027t \u0027takedown requests\u0027--a Google policy. #transparency $FB $GOOG http://t.co/v8wu3oca","lbl":"Neutral"}
+,{"time":"7:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/25, $PFCB/24, $GOOG/16, $PFE/15, $SPY/12, $AMZN/12, $BIIB/10, $EMR/9. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"7:08","usr":"tkuz4u","txt":"RT @SAI: 10 Things You Need To Know This Morning $GOOG $AMZN $ZNGA $NOK $DIS $CMCSA $NWS by @shontelaylay http://t.co/tmXlHN9h","lbl":"Neutral"}
+,{"time":"7:09","usr":"RexSikesMovieBT","txt":"RT @markdante1: 10 Things U Need 2 Know ths Morning $GOOG $AMZN $ZNGA $NOK $DIS $CMCSA $NWS by @shontelaylay http://t.co/5CWRkaqS rt @SAI","lbl":"Neutral"}
+,{"time":"8:27","usr":"BluHorShoe","txt":"How long will it be before that $GRPN CEO regrets not taking that buyout offer from $GOOG","lbl":"Neutral"}
+,{"time":"8:32","usr":"thefinancepress","txt":"$GOOG Demand Media Inc (NYSE:DMD) Reaches Best Since September 27 On Deal To Go ...: Demand Media Inc (NYSE:DMD... http://t.co/gYyFF9MI","lbl":"Neutral"}
+,{"time":"9:51","usr":"ADVFNplc","txt":"$GOOG - S&P Downgrades Nokia to Junk - Analyst Blog http://t.co/YCDdKfmJ","lbl":"Neutral"}
+,{"time":"9:51","usr":"charlesrwa","txt":"$GOOG - S&P Downgrades Nokia to Junk - Analyst Blog http://t.co/hq2Afcjn","lbl":"Neutral"}
+,{"time":"9:53","usr":"Traderabc","txt":"$AAPL 595.13 (+11.15 +1.91%) $GOOG 610.17 (+5.32 +0.88%) $IBM 208.27 (+1.19 +0.57%) $MSFT 32.19 (+0.17 +0.55%) $AMZN 230.51 (-1.39 ) #Tech","lbl":"Neutral"}
+,{"time":"9:54","usr":"USwwwStocks","txt":"$GOOG News: Google: New AdMob, Mobile Focus Will Drive Stock Higher In 2013 http://t.co/RqyXVVBK #daytrading #usa #www #stocks","lbl":"Positive"}
+,{"time":"11:03","usr":"Trefis","txt":"Yelp\u0027s Intl. Efforts In Focus In First Earnings Announcement Wednesday http://t.co/2tLIFrXK by Trefis Team $YELP $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"11:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/135, $SPY/56, $RIMM/47, $CHK/31, $F/29, $GS/22, $GOOG/19, $SHLD/15. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:06","usr":"TheRomit","txt":"U.S. Department of the Interior ends up going Google for hosted e-mail http://t.co/rEKt8Uuc by @maryjofoley /Google wins by suing! $GOOG","lbl":"Positive"}
+,{"time":"11:58","usr":"pennystockguys","txt":"$GOOG - ComScore: Samsung Remains Top Cellphone Maker, Google\u0027s Android Top Smartphone Platform http://t.co/xInzZahf","lbl":"Neutral"}
+,{"time":"11:58","usr":"ADVFNplc","txt":"$GOOG - ComScore: Samsung Remains Top Cellphone Maker, Google\u0027s Android Top Smartphone Platform http://t.co/X1xTz3o2","lbl":"Positive"}
+,{"time":"11:58","usr":"charlesrwa","txt":"$GOOG - ComScore: Samsung Remains Top Cellphone Maker, Google\u0027s Android Top Smartphone Platform http://t.co/zMcsgssg","lbl":"Positive"}
+,{"time":"13:19","usr":"SAI","txt":"THE GOOGLE INVESTOR: Investors Aren\u0027t Too Happy About This Weird Stock Split Plan $GOOG by @hleonard76 http://t.co/J2reiHn9","lbl":"Negative"}
+,{"time":"13:20","usr":"fin_bot1","txt":"RT@SAI THE GOOGLE INVESTOR: Investors Aren\u0027t Too Happy About This Weird Stock Split Plan $GOOG by @hleonard76 http://t.co/fg4WnpEP","lbl":"Negative"}
+,{"time":"13:20","usr":"SeekingAlpha","txt":"Google\u0027s Chrome Strategy http://t.co/vOaOWRmf $MSFT $GOOG","lbl":"Neutral"}
+,{"time":"14:02","usr":"takingstock614","txt":"All the growth names look vulnerable here. $AAPL $GOOG $PCLN $CMG $NFLX $MA $AZO","lbl":"Negative"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/238, $SPY/42, $GOOG/23, $PCLN/22, $AMZN/17, $RIMM/16, $INTC/14, $EMR/13. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:05","usr":"WHeyndrickx","txt":"RT @SAI: Sorry, Microsoft: Big Government Agency Changes Its Mind And Goes Google $GOOG $MSFT by @MattRosoff http://t.co/bJA33ht0","lbl":"Neutral"}
+,{"time":"14:50","usr":"BUDDIEE18","txt":"RT RT @lasertrader $AAPL rebalancing http://t.co/hzet9641 benefits $INTC, $MSFT, $GOOG, $ORCL http://t.co/rKRaQxiL via @YahooFinance","lbl":"Positive"}
+,{"time":"14:51","usr":"CapitalOverlook","txt":"Yelp Yourself http://t.co/2lBPSV2l $YELP $FB $GOOG","lbl":"Neutral"}
+,{"time":"14:53","usr":"Fuelnu","txt":"RT @SeekingAlpha: Microsoft: The Sleeping Giant Awakens http://t.co/NC4wFyWf $AAPL $FB $GOOG $NOK $MSFT","lbl":"Neutral"}
+,{"time":"14:54","usr":"wallstCS","txt":"Can the New Blackberry Woo Developers Away from Apple and Google? http://t.co/ZhZdTtCQ $RIMM $AAPL $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:57","usr":"MattRosoff","txt":"GOOGLE: The First Version Of Google TV Was A Mess, And Here\u0027s How We\u0027re Going To Fix It $GOOG http://t.co/vlQ1Xy1a","lbl":"Neutral"}
+,{"time":"15:57","usr":"SAI","txt":"GOOGLE: The First Version Of Google TV Was A Mess, And Here\u0027s How We\u0027re Going To Fix It $GOOG by @MattRosoff http://t.co/aMEDZEQw","lbl":"Neutral"}
+,{"time":"15:58","usr":"CarolinaMillan","txt":"GOOGLE: The First Version Of Google TV Was A Mess, And Here\u0027s How We\u0027re Going To Fix It $GOOG by @MattRosoff http://t.co/vsDpIvZL via @SAI","lbl":"Neutral"}
+,{"time":"15:58","usr":"lluccipha","txt":"SAI: GOOGLE: The First Version Of Google TV Was A Mess, And Here\u0027s How We\u0027re Going To Fix It $GOOG by @MattRosoff http://t.co/ViEQL2fR","lbl":"Neutral"}
+,{"time":"16:50","usr":"tigrs99","txt":"RT @SAI: Google\u0027s Soon-To-Be Phone Division (Motorola) Had Another Crappy Quarter $MMI $GOOG by @MattRosoff http://t.co/FZFLelmk","lbl":"Negative"}
+,{"time":"16:51","usr":"takingstock614","txt":"Most of the big money guys are raising cash through the most liquid positions. $CMG $AAPL $GOOG $PCLN $MA... Watch out in MAY!","lbl":"Neutral"}
+,{"time":"19:12","usr":"ADVFNplc","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/FfMVrF8K","lbl":"Neutral"}
+,{"time":"19:12","usr":"pennystockguys","txt":"$GOOG - - Statement of Changes in Beneficial Ownership (4) http://t.co/y7G1BK2r","lbl":"Neutral"}
+]

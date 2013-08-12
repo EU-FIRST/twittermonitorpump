@@ -1,0 +1,4 @@
+[
+{"time":"11:29","usr":"timTom30831497","txt":"SMALLCAP TRADING TRICK - MAKES YOU 100-200% GAINS PER WEEK http://t.co/mbR3gKyd $USO $AMZN $PSID $LNKD $IWM $CORN $ACFN $EZU","lbl":"Neutral"}
+,{"time":"11:33","usr":"eekygeeky","txt":"RT @BrianMcCallion @swardley Met an $EMC rep recently who explained that EMC Atmos is what powers $amzn S3 :-) <wow. just...wow:)","lbl":"Neutral"}
+]

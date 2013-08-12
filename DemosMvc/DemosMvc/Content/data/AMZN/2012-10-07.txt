@@ -1,0 +1,7 @@
+[
+{"time":"4:50","usr":"SeekingAlpha","txt":"Is Pandora Boxed In By Supplier Pricing Power? http://t.co/L45a2shp $AAPL $GOOG $AMZN $P","lbl":"Neutral"}
+,{"time":"17:01","usr":"tbg4321","txt":"$ES_F, $TF_F, $CL_F, $SPY, $IWM, $6E_F, $DX_F, $AAPL, $AMZN premium charts posted $$ http://t.co/zB8AWfGd","lbl":"Neutral"}
+,{"time":"17:06","usr":"FractalHIS","txt":"RT @tbg4321: RT @tbg4321: $ES_F, $TF_F, $CL_F, $SPY, $IWM, $6E_F, $DX_F, $AAPL, $AMZN premium charts posted $$ http://t.co/zB8AWfGd","lbl":"Neutral"}
+,{"time":"19:50","usr":"SeekingAlpha","txt":"Are Higher Priced Stocks Really Safer? http://t.co/yXKBljeI $AMZN $GOOG $WPO $AAPL","lbl":"Neutral"}
+,{"time":"19:50","usr":"USwwwStocks","txt":"$AMZN News: Zombies Join Kevin Spacey in Cannes Seeking Web Money http://t.co/i54W9b8C #AMZN #Cannes #join","lbl":"Neutral"}
+]

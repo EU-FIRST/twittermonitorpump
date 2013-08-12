@@ -1,0 +1,11 @@
+[
+{"time":"1:48","usr":"MrBege1","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/lXqvpaWz #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"10:32","usr":"fmu","txt":"Facebook will pay only 1.1% in underwriting fees. $GOOG, which had tried to fight the banks, paid 2.8%.","lbl":"Neutral"}
+,{"time":"10:47","usr":"BuyOnTheDip","txt":"$FB $GOOG \u201C@TechCrunch: Sean Parker & Shawn Fanning Open New Social Video Startup Airtime For Business http://t.co/xC2lY4nz @ingridlunden\u201D","lbl":"Neutral"}
+,{"time":"10:56","usr":"Convertbond","txt":"Who\u0027s next to pay a dividend? 19% of Google\u0027s $GOOG market value is in cash, 30% of Dell $DELL is","lbl":"Positive"}
+,{"time":"10:56","usr":"spbaines","txt":"RT @Convertbond: Who\u0027s next to pay a dividend? 19% of Google\u0027s $GOOG market value is in cash, 30% of Dell $DELL is","lbl":"Neutral"}
+,{"time":"16:51","usr":"optionspirate","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/pqwUln64 #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"16:55","usr":"NewTraderU","txt":"My #FinalFour Stocks Picks http://t.co/FdnV3dYl $AAPL $GOOG plus two more","lbl":"Positive"}
+,{"time":"22:35","usr":"investlite","txt":"Charts for 3/26-3/30 - http://t.co/A0gPiLeb $AAPL $ALLT $AMZN $BAC $BBBY $BEAM $BRCM $CRM $CXO $DE $DECK $FIRE $GLD $GOOG $HAL $INFA","lbl":"Neutral"}
+,{"time":"23:04","usr":"tradingtowin12","txt":"$GOOG - Google Stock Analysis - bullish macd crossover - http://t.co/iiiK2wsz","lbl":"Positive"}
+]

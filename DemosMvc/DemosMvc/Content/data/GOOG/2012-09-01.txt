@@ -1,0 +1,10 @@
+[
+{"time":"6:01","usr":"tkuz4u","txt":"$AAPL is scared shitless of $GOOG , after trying out Nexus 7, I see why. Before 7 no tablet was even comparable to iPad.....","lbl":"Neutral"}
+,{"time":"11:21","usr":"twit_ashutosh","txt":"You can pair any #smartphone with #YouTube app on #ps3 and use as remote. Amazing. #iPhone #Google #galaxy $GOOG $AAPL $SNE","lbl":"Neutral"}
+,{"time":"11:31","usr":"Buyan_biz","txt":"RT @SAI: \u0027Gangnam Style,\u0027 A Korean Pop Sensation, Is Big In Silicon Valley Right Now $GOOG by @owenthomas http://t.co/Ah5LGYJl","lbl":"Neutral"}
+,{"time":"11:35","usr":"twit_ashutosh","txt":"RT @businessinsider: Sergey Brin Is Secretly Buying Up Property And Charging Below Market Rent $GOOG by @nichcarlson http://t.co/9U5fqSE0","lbl":"Neutral"}
+,{"time":"16:46","usr":"rrego23","txt":"RT @SAI: \u0027Gangnam Style,\u0027 A Korean Pop Sensation, Is Big In Silicon Valley Right Now $GOOG by @owenthomas http://t.co/Ah5LGYJl","lbl":"Neutral"}
+,{"time":"16:53","usr":"trevorloe","txt":"Google+ Is Going After Yammer To Flank Facebook http://t.co/7s7LSAhL $GOOG","lbl":"Neutral"}
+,{"time":"16:55","usr":"TTMarketingInfo","txt":"RT @thefinancepress: $GOOG Google\u0027s (NASDAQ:GOOG) Motorola Mobility to Unveil First High Profile Product ...: Google\u0027s (NASDAQ:GOOG)... ...","lbl":"Positive"}
+,{"time":"16:56","usr":"MInvestmentsLLC","txt":"RT @thefinancepress: $GOOG Google\u0027s (NASDAQ:GOOG) Motorola Mobility to Unveil First High Profile Product ...: Google\u0027s (NASDAQ:GOOG)... ...","lbl":"Neutral"}
+]

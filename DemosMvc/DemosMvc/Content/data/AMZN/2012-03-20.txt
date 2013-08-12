@@ -1,0 +1,55 @@
+[
+{"time":"6:21","usr":"mamtabadkar","txt":"10 Things You Need To Know Before The Opening Bell $SPY $AMZN $DIS $TIF $AAPL http://t.co/UA88l7Cn","lbl":"Neutral"}
+,{"time":"6:21","usr":"businessinsider","txt":"10 Things You Need To Know Before The Opening Bell $SPY $AMZN $DIS $TIF $AAPL by @mamtabadkar http://t.co/bGhELwrp","lbl":"Neutral"}
+,{"time":"6:21","usr":"themoneygame","txt":"10 Things You Need To Know Before The Opening Bell $SPY $AMZN $DIS $TIF $AAPL by @mamtabadkar http://t.co/1ZHcSF5T","lbl":"Neutral"}
+,{"time":"8:01","usr":"mattyhilt","txt":"RT @firstadopter: $AMZN $5 for $10 Amazon gift card deal is live. Go make Amazon lose more money: http://t.co/4tV7ACS6","lbl":"Negative"}
+,{"time":"8:04","usr":"STnet","txt":"Morning News: March 20, 2012 | via @EddyElfenbein http://t.co/fciFzoKN $AAPL $AMZN $FB $ADBE $C","lbl":"Neutral"}
+,{"time":"8:53","usr":"Vconomics","txt":"Took my $AMZN put spread off, +9%","lbl":"Positive"}
+,{"time":"8:53","usr":"joyceyinjun","txt":"RT @businessinsider: Jeff Bezos Is Indulging His 11-Year-Old Self And We Love It $AMZN by @pegobry http://t.co/qGZ4vBO6","lbl":"Positive"}
+,{"time":"8:54","usr":"bilateralmonply","txt":"$WMT Gears Up Online as Customers Defect to $AMZN http://t.co/A2pkHJWB","lbl":"Positive"}
+,{"time":"9:55","usr":"Ameliaheights","txt":"RT @julpepitone: Amazon is offering $10 gift cards for $5 today http://t.co/3GZsrAMt via @CNNMoneyTech $Amzn","lbl":"Neutral"}
+,{"time":"9:55","usr":"keyssure","txt":"RT @julpepitone: Amazon is offering $10 gift cards for $5 today http://t.co/3GZsrAMt via @CNNMoneyTech $Amzn","lbl":"Neutral"}
+,{"time":"9:57","usr":"Dom_Chez","txt":"\u201C@julpepitone: Amazon is offering $10 gift cards for $5 today http://t.co/3NSOki5Q via @CNNMoneyTech $Amzn\u201D@Pat_McCall @mikechezz @zafocracy","lbl":"Neutral"}
+,{"time":"10:39","usr":"jamiebardin","txt":"$AMZN acquires Kiva Systems: http://t.co/fK16ZgfO","lbl":"Neutral"}
+,{"time":"10:39","usr":"13thirtyone","txt":"@mikbong RT @julpepitone: Amazon is offering $10 gift cards for $5 today http://t.co/LZMn9Fa3 via @CNNMoneyTech $Amzn","lbl":"Neutral"}
+,{"time":"10:43","usr":"racernic","txt":"@OptionsTrader31 totally agree on $AMZN. everytime it gets neg news/coverage i initiate credit put spread that ends up yielding max prof","lbl":"Negative"}
+,{"time":"11:11","usr":"RahulTongia","txt":"$AMZN long April 190 C","lbl":"Positive"}
+,{"time":"11:13","usr":"RahulTongia","txt":"$AMZN about time it moved out of the 175-185 base","lbl":"Neutral"}
+,{"time":"11:34","usr":"GretelandBryan","txt":"$AMZN http://t.co/1Zfcr0E5 Waiting on the breakout, Eyes on Volume always","lbl":"Positive"}
+,{"time":"11:34","usr":"katetrades","txt":"Raised my $AMZN stop to +1 from entry 185.68","lbl":"Positive"}
+,{"time":"11:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/149, $SPY/52, $AMZN/51, $GOOG/31, $AMRN/30, $BAC/30, $GS/21, $NOK/20. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:35","usr":"Lichartin","txt":"missed $AMZN so Good luck guys ~","lbl":"Neutral"}
+,{"time":"11:49","usr":"racernic","txt":"yest I said \u0022$amzn had bad news+covrage yet it mngd>0close. even aftr hrs w/aquisition news still holdng. usually good 4cr put spread trade\u0022","lbl":"Negative"}
+,{"time":"11:50","usr":"RedDogT3Live","txt":"\u201C@TweetLeni: @TweetLeni @reddogt3live here we go\u201D yup $amzn 190-191 spot to take some off","lbl":"Negative"}
+,{"time":"11:50","usr":"basilnsage","txt":"$AMZN 189.41 Bingo Target hit ,I\u0027m out","lbl":"Negative"}
+,{"time":"11:50","usr":"TweetLeni","txt":"Took partial profits in $AMZN at 189.26 Very big move today. Letting the rest run.","lbl":"Positive"}
+,{"time":"12:06","usr":"SeeShasta","txt":"$AMZN - nice reversal today @grassosteve","lbl":"Neutral"}
+,{"time":"12:06","usr":"Dchatrades","txt":"$AMZN http://t.co/grznhClf Larger trend change as I see it.","lbl":"Neutral"}
+,{"time":"12:18","usr":"MoneySmart","txt":"RT @CNNMoney: Amazon buys army of robots. Seriously. http://t.co/dyRU9KN4 $AMZN","lbl":"Negative"}
+,{"time":"12:18","usr":"MNYCx","txt":"$AMZN 190 W Calls soon 1000% from LOD today.","lbl":"Positive"}
+,{"time":"12:18","usr":"TweetLeni","txt":"Second target for $AMZN ~193.5","lbl":"Neutral"}
+,{"time":"12:19","usr":"StockHollywood","txt":"RT @Sangluccitrades: Still in ths $AMZN hre... I got my vengeance U son of a bitch, O I got my vengeance...// u shoulda bn the 5th Avenger","lbl":"Positive"}
+,{"time":"12:37","usr":"tlmontana","txt":"$AMZN is on Fire - who let the bulls out!!","lbl":"Positive"}
+,{"time":"12:38","usr":"tbg4321","txt":"RT @AnneMarieTrades First $AMZN tgt hit at 189.7 - next tgt is at 191.56 $ >> Very nice AM","lbl":"Positive"}
+,{"time":"12:38","usr":"OptionRunners","txt":"$AMZN just took out more resistance... damn! 195x weekly\u0027s I alerted at .57 are now at 1.12 +96.5%","lbl":"Neutral"}
+,{"time":"12:57","usr":"parklandtrader","txt":"Timestamp that $AMZN short as WRONG...","lbl":"Positive"}
+,{"time":"12:57","usr":"Lowtown21","txt":"$AMZN beast mode","lbl":"Positive"}
+,{"time":"12:58","usr":"basilnsage","txt":"$AMZN man I left a lot of chicken on that bone .LOL","lbl":"Neutral"}
+,{"time":"12:58","usr":"2KnightsTrading","txt":"$AMZN wouldn\u0027t be surprised if we see a major run-up into earnings. $AAPL the same move has happened","lbl":"Positive"}
+,{"time":"13:06","usr":"Sangluccitrades","txt":"So my $190 Weekly $AMZN Call went from $.75 to over $5. Pity I got out at $2.50 like a bitch... Oh I suck...","lbl":"Positive"}
+,{"time":"13:06","usr":"oktobernv","txt":"$AMZN wants me to short it. Hmmmmm........","lbl":"Negative"}
+,{"time":"13:24","usr":"Sangluccitrades","txt":"RT @aznboi27: @MNYCx @Sangluccitrades thank you for the heads up on $AMZN. Make a cool 100% gain on my calls","lbl":"Positive"}
+,{"time":"14:02","usr":"ShortStockPicks","txt":"#StockMarket #SP500 #Pops: $TIF 6.8%, $AMZN 4.6%, $WMB 3.2%, $C 2.7%, $NTAP 2.6%, $ODP 2.5%, $URBN 2.5%, $ROST 2.1%, $NYX 2.1%, $JCP 2.1%","lbl":"Neutral"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/208, $AMZN/80, $SPY/38, $GOOG/26, $YHOO/21, $LGF/19, $HPQ/18, $AMRN/17. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"15:08","usr":"ValentFinancial","txt":"RIMM Sued, http://t.co/9yOaUgTx Buys Kiva, Google Maps Flustered http://t.co/EJNxhrc9 $RIMM $AMZN $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:09","usr":"LaurieD32","txt":"RT @julpepitone: Amazon is offering $10 gift cards for $5 today http://t.co/3GZsrAMt via @CNNMoneyTech $Amzn","lbl":"Neutral"}
+,{"time":"16:12","usr":"TheEquitiesRoom","txt":"Over $10 range break stocks on watch for tmrw: $TJX $CHS $AVT $SOHU $PDM $AMZN $NTAP $ALXN $AFG","lbl":"Neutral"}
+,{"time":"16:13","usr":"WallStJesus","txt":"\u2605 RT @TheEquitiesRoom: Over $10 range break stocks on watch for tmrw: $TJX $CHS $AVT $SOHU $PDM $AMZN $NTAP $ALXN $AFG","lbl":"Neutral"}
+,{"time":"16:13","usr":"Fibonacciqueen","txt":"Shameless plug for my service....my subscribers had the $AMZN setup in advance....that pays for a month of service... http://t.co/rDpNl08g","lbl":"Neutral"}
+,{"time":"17:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/78, $ORCL/38, $GOOG/25, $MSFT/17, $SPY/17, $BAC/16, $AMZN/12, $GLD/10. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"18:33","usr":"GrayCalTrading","txt":"$aapl $amzn make for great daytrading days. Wish everyday was this easy...","lbl":"Neutral"}
+,{"time":"18:36","usr":"CapCube","txt":"RT @firstadopter: RT @BBinNYC: Put my $ where my mouth has been all day and bought $AMZN May 200-175 put spread & shorted small amt of stk. Down w/the robots!","lbl":"Negative"}
+,{"time":"20:39","usr":"Mark_Lexus","txt":"self RT: The $AMZN trade that wasnt 20mar http://t.co/CdUlaYPh","lbl":"Neutral"}
+,{"time":"20:40","usr":"Sangluccitrades","txt":"NEW WALL STREET PORN! RETWEET! $AMZN http://t.co/6Zm3KL3s","lbl":"Neutral"}
+,{"time":"20:43","usr":"SirFreshington","txt":"RT @Sangluccitrades: NEW WALL STREET PORN! RETWEET! $AMZN http://t.co/6Zm3KL3s","lbl":"Neutral"}
+]

@@ -1,0 +1,66 @@
+[
+{"time":"3:05","usr":"qineqt","txt":"Baidu Is A High Growth Internet Stock To Buy http://t.co/6dOqjwgs $GOOG $QIHU $SINA $SOHU $BIDU","lbl":"Neutral"}
+,{"time":"3:05","usr":"FAILRizNOTanOP","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"3:15","usr":"Rizky_Faiz","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"6:41","usr":"TraderFlorida","txt":"$AAPL $GOOG sharing sevaral chart updates and market views POSTED VIDEO http://t.co/gGh6Ob0j","lbl":"Neutral"}
+,{"time":"6:49","usr":"USwwwStocks","txt":"$GOOG News: Why Google Will Beat Apple to $1000 http://t.co/KMgauxff #1000 #GOOG #Apple","lbl":"Positive"}
+,{"time":"6:51","usr":"thefinancepress","txt":"$GOOG Competitive Move: Google+ Releases Business Tools - GOOG, TRIP, AOL ...: Competitive Move: Google+ Releas... http://t.co/TShGmNaQ","lbl":"Neutral"}
+,{"time":"6:58","usr":"campionqheip4","txt":"I am shocked at how much that I do is $GOOG based now. Gmail, Google Reader, Drive, Maps, Search, CgYd1z","lbl":"Positive"}
+,{"time":"7:42","usr":"dbacardi","txt":"RT @businessinsider: Sergey Brin Is Secretly Buying Up Property And Charging Below Market Rent $GOOG by @nichcarlson http://t.co/9U5fqSE0","lbl":"Neutral"}
+,{"time":"7:42","usr":"Fitzstock2004","txt":"Commented on StockTwits: yes, buy $goog gap down verse 680 http://t.co/L8cmwYOC","lbl":"Neutral"}
+,{"time":"7:42","usr":"Jackson_PPC","txt":"RT @SAI: Sergey Brin Is Secretly Buying Up Property And Charging Below Market Rent $GOOG by @nichcarlson http://t.co/hTFOGt1Z","lbl":"Neutral"}
+,{"time":"7:43","usr":"TEDxBayArea","txt":"RT @glfceo: RT @SAI: Sergey Brin Is Secretly Buying Up Property And Charging Below Market Rent $GOOG by @nichcarlson http://t.co/5JPyJYNC","lbl":"Neutral"}
+,{"time":"8:21","usr":"gbwusc63","txt":"@TraderFlorida You mentioned that you know $GOOG is under accumulation. Can you tell me what you are watching to know this? Tks for all!","lbl":"Positive"}
+,{"time":"8:21","usr":"A_F","txt":"$VRNG smart timing on $NOK license/lwsuit plans=if they loose prior art motion w $GOOG a higher floor under the stock price","lbl":"Neutral"}
+,{"time":"8:24","usr":"thefinancepress","txt":"$GOOG Tech Stocks; Google Inc (NASDAQ:GOOG) And http://t.co/Bp1PYzNq, Inc. (NASDAQ ...: Tech Stocks; Google Inc ... http://t.co/il5NLjeN","lbl":"Neutral"}
+,{"time":"8:39","usr":"EvelynRusli","txt":"Post had $GOOG hiring Barclays in Mar. to sell set-top biz @claireatki http://t.co/HwmEDo3V yet stil in\u0022v.early stages\u0022says Bloomberg","lbl":"Neutral"}
+,{"time":"8:47","usr":"boogidown","txt":"screw $AAPL, wow - $GOOG is the trade!!!!","lbl":"Positive"}
+,{"time":"8:47","usr":"slimtrades","txt":"Bot more $GOOG 690\u0027s","lbl":"Neutral"}
+,{"time":"8:48","usr":"Eloy_Rc","txt":"current holdings: $AAPL $AMZN $GOOG added today more $AMZN to my original position, now making serious money.. BOOOOOM!","lbl":"Positive"}
+,{"time":"8:57","usr":"thefinancepress","txt":"$GOOG Google (GOOG) Shakes Up The Internet Access Business: Google (GOOG) Shakes Up The Internet Access Busines... http://t.co/8FpANUTZ","lbl":"Positive"}
+,{"time":"9:07","usr":"monesti","txt":"Out of last 1/4 of $goog 680/690 CS @ 4.20,,looking to add sept goof Long calls if it dips today","lbl":"Positive"}
+,{"time":"9:20","usr":"BlueFielder","txt":"I\u0027ll keep these $GOOG 585 $CALLs tight","lbl":"Positive"}
+,{"time":"9:38","usr":"jaythan","txt":"RT @SAI: Sergey Brin Is Secretly Buying Up Property And Charging Below Market Rent $GOOG by @nichcarlson http://t.co/hTFOGt1Z","lbl":"Neutral"}
+,{"time":"9:40","usr":"pennystockguys","txt":"$GOOG - 2nd UPDATE: WPP Cuts Revenue Forecast http://t.co/YVw1pbIo","lbl":"Neutral"}
+,{"time":"10:11","usr":"NetizenShane","txt":"\u201C@SAI: Sergey Brin Is Secretly Buying Up Property And Charging Below Market Rent $GOOG by @nichcarlson http://t.co/IMbmnIN9\u201D v. Cool","lbl":"Neutral"}
+,{"time":"10:58","usr":"CrushingColts","txt":"$GOOG needs $684.75 to push higher today","lbl":"Neutral"}
+,{"time":"11:24","usr":"ChartMoMo","txt":"Remember. Bad news is good news and good news is bad news. $study $spy $es_f $aapl $goog","lbl":"Neutral"}
+,{"time":"12:18","usr":"businessinsider","txt":"Here\u0027s The App That Will Single-Handedly Make You Want To Switch From The iPhone To Android $AAPL $GOOG by @mattlynley http://t.co/rfnVbsh9","lbl":"Neutral"}
+,{"time":"12:19","usr":"TradetheLeader1","txt":"$GOOG and $AAPL have been THE market leaders. False breakouts in these names cannot be ignored.","lbl":"Positive"}
+,{"time":"12:19","usr":"RaveD","txt":".@tinyreal voice recognition on my droid has extremely high accuracy $goog :)","lbl":"Neutral"}
+,{"time":"12:40","usr":"TradetheLeader1","txt":"$GOOG resting on 680..if it doesn\u0027t bounce here I will","lbl":"Neutral"}
+,{"time":"12:40","usr":"Liquid_Trader","txt":"$GOOG pressing new LOD every 5 minutes. this can get smashed.","lbl":"Neutral"}
+,{"time":"12:40","usr":"Sumenn7063","txt":"#Short $GOOG (683.85)","lbl":"Negative"}
+,{"time":"12:41","usr":"ali_Rza777","txt":"The Valuation/Fundamental Relationship In Internet Based Companies http://t.co/kCkij1cI $AMZN $FB $GOOG $LNKD $P $SIRI $SPPI\u201D","lbl":"Neutral"}
+,{"time":"13:06","usr":"thuant","txt":"RT @firstadopter: Reuters article on $AAPL and $GOOG CEOs patent discussions: http://t.co/utIt9UAa","lbl":"Neutral"}
+,{"time":"13:07","usr":"SAI","txt":"Tim Cook And Larry Page Are Talking About Ending Their Patent Wars $AAPL $GOOG by @jyarow http://t.co/5WxDEf1j","lbl":"Neutral"}
+,{"time":"13:20","usr":"MarketCurrents","txt":"Apple\u0027s (AAPL) Tim Cook and Google\u0027s (GOOG) Larry Page have reportedly been holding \u0022behind... http://t.co/FV2l2508 $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:20","usr":"tkuz4u","txt":"If you really cool and tech savvy you don\u0027t use Apple nor Samsung phones or tablets but core Android Google Nexus ones. $goog $aapl","lbl":"Neutral"}
+,{"time":"13:20","usr":"boogidown","txt":"$GOOG stop raised to 681","lbl":"Positive"}
+,{"time":"13:22","usr":"rsblades","txt":"RT Nice catch @Fibline $GOOG Bearish Harami http://t.co/KcMBdn22","lbl":"Neutral"}
+,{"time":"13:53","usr":"YahooFinance","txt":"Google ups the ante in wallet wars http://t.co/skg0mll4 $GOOG $AAPL","lbl":"Positive"}
+,{"time":"13:54","usr":"terriers4ever","txt":"RT @businessinsider: Tim Cook And Larry Page Are Talking About Ending Their Patent Wars $AAPL $GOOG by @jyarow http://t.co/97B5eewk","lbl":"Positive"}
+,{"time":"13:54","usr":"mistermccall","txt":"RT @SAI: Here\u0027s The App That Will Single-Handedly Make You Want To Switch From The iPhone To Android $AAPL $GOOG by @mattlynley http://t ...","lbl":"Neutral"}
+,{"time":"13:54","usr":"dwhiteshines","txt":"RT @YahooFinance: Google ups the ante in wallet wars http://t.co/skg0mll4 $GOOG $AAPL","lbl":"Neutral"}
+,{"time":"14:27","usr":"RatioTrader","txt":"$AAPL $GOOG CEOs talking about companies\u2019 patent dispute: http://t.co/WFE8nkzg","lbl":"Negative"}
+,{"time":"14:31","usr":"pennystockguys","txt":"$GOOG - TIP SHEET: Baron Fund Likes LinkedIn, Yet to Friend Facebook http://t.co/YnLy2scr","lbl":"Neutral"}
+,{"time":"14:31","usr":"ADVFNplc","txt":"$GOOG - TIP SHEET: Baron Fund Likes LinkedIn, Yet to Friend Facebook http://t.co/XV4mRhrV","lbl":"Neutral"}
+,{"time":"14:54","usr":"sahayaarunjose","txt":"RT @Reuters: $AAPL, $GOOG (Apple, Google) CEOs talk patent issues. A Reuters exclusive. (video): http://t.co/V6O3nmR6","lbl":"Negative"}
+,{"time":"14:56","usr":"amiluccio","txt":"RT @SeekingAlpha: Buy Nokia: Samsung\u0027s WP8 Launch Is A Good News For Nokia http://t.co/Ku61taQI $AAPL $GOOG $MSFT $QCOM $RIMM $NOK $HTCXF.PK","lbl":"Neutral"}
+,{"time":"14:56","usr":"FabienLavocat","txt":"RT @SeekingAlpha: Buy Nokia: Samsung\u0027s WP8 Launch Is A Good News For Nokia http://t.co/Ku61taQI $AAPL $GOOG $MSFT $QCOM $RIMM $NOK $HTCXF.PK","lbl":"Neutral"}
+,{"time":"14:56","usr":"pjohnsatyaraj","txt":"RT @SAI: Here\u0027s The App That Will Single-Handedly Make You Want To Switch From The iPhone To Android $AAPL $GOOG by @mattlynley http://t ...","lbl":"Neutral"}
+,{"time":"15:51","usr":"TradetheLeader1","txt":"\u0022@z8angela $AAPL closed gap from Fri $GOOG $MLNX reversed. $VIX at 18 / $SPX still hanging.\u0022Many falling knives that need time to setup imo","lbl":"Negative"}
+,{"time":"15:51","usr":"novicestockist","txt":"RT @chessNwine: NEW POST: \u0022Stock #Market Recap 08/30/12 {Video}\u0022 http://t.co/ZSYpnaNN $AAPL $AMZN $CAB $GOOG $GPS $QQQ $SPY $XRT #stocka ...","lbl":"Neutral"}
+,{"time":"15:51","usr":"ohslaw","txt":"RT @wallstCS: What Are Larry Page and Tim Cook SECRETLY Discussing? http://t.co/tmdT6RrZ $SSNLF $AAPL $GOOG #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"16:46","usr":"iamPEER","txt":"Pat ruling a blessing in disguise? \u0022@StockTwits:Samsung Unveils Pen-Equipped Phone To Keep Lead On Apple http://t.co/qKZZs9PX $AAPL $GOOG.\u0022","lbl":"Neutral"}
+,{"time":"16:46","usr":"roberee","txt":"$GOOG Google Drive is irksome to use because it is unreliable. Documents don\u0027t load properly each time.","lbl":"Negative"}
+,{"time":"16:50","usr":"MarketCurrents","txt":"Bing (MSFT) is now capable of searching Facebook photos added by a user\u0027s \u0022friends.&#... http://t.co/xSBR51Tg $MSFT $GOOG $YHOO","lbl":"Neutral"}
+,{"time":"17:59","usr":"biggercapital","txt":"Bought: \u0027Asus $GOOG Nexus 7 Tablet (8 GB) for $175 on $AMZN New for INV research. Will buy all AMZN tablets, AMZN makes money in all ways","lbl":"Neutral"}
+,{"time":"18:06","usr":"DavidMillanMene","txt":"RT @businessinsider: Sergey Brin Is Secretly Buying Up Property And Charging Below Market Rent $GOOG by @nichcarlson http://t.co/nNLMuxCX","lbl":"Neutral"}
+,{"time":"18:10","usr":"DavidMillanMene","txt":"RT @businessinsider: Tim Cook And Larry Page Are Talking About Ending Their Patent Wars $AAPL $GOOG by @jyarow http://t.co/feZBxzSU","lbl":"Neutral"}
+,{"time":"19:51","usr":"MonthTrader","txt":"RT @MadMoneyOnCNBC: Calculating a Stock\u2019s Risk-Reward Ratio http://t.co/FbnBpygD $DELL $GOOG #InvestmentStrategy #StockPicks #StockMarket","lbl":"Neutral"}
+,{"time":"19:52","usr":"DanielKayeNYC","txt":"RT @SAI: Google Will Kill Its TV Advertising Business $GOOG by @Jim_Edwards http://t.co/2FQW4IzF","lbl":"Neutral"}
+,{"time":"20:06","usr":"ausanncap","txt":"$AAPL $GOOG Does anyone know of a service or a tweetbot that will tweet a particular stock price to your feed at a defined interval?","lbl":"Neutral"}
+,{"time":"23:10","usr":"hittrading","txt":"Samsung Unveils Pen-Equipped Phone To Keep Lead On Apple http://t.co/VNRdSooV $AAPL $GOOG via @BloombergNews","lbl":"Neutral"}
+,{"time":"23:36","usr":"nastyshot88","txt":"RT @YahooFinance: Google ups the ante in wallet wars http://t.co/skg0mll4 $GOOG $AAPL","lbl":"Neutral"}
+]

@@ -1,0 +1,31 @@
+[
+{"time":"2:18","usr":"Keith_in_Japan","txt":"@WSJ: Jefferies analyst: $AAPL\u0027s new products like #Maps and #Siri are \u0022a clear and present danger\u0022 to $GOOG. http://t.co/pw2Wkwk4","lbl":"Negative"}
+,{"time":"2:18","usr":"harishvc","txt":"RT @SAI: Google Generates $1 Billion On Five Enterprise Products: Can You Name Them? $GOOG by @Julie188 http://t.co/HGigrGwO","lbl":"Neutral"}
+,{"time":"2:28","usr":"BigTicks","txt":"$GOOG News: Google Faces New Street View Probe by UK Privacy Regulator http://t.co/VlqvX2II #GOOG #faces #Google","lbl":"Negative"}
+,{"time":"6:47","usr":"pauldiaz1776","txt":"#Google #Maps is out, #Apple Map #App is in http://t.co/aQitOqj4 #travel $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"6:50","usr":"SeekingAlpha","txt":"Billionaire Julian Robertson And John Griffin Are Bullish About These Stocks http://t.co/5vXjt3vv $AAPL $GOOG $HCA $LBTYA $VRSN","lbl":"Positive"}
+,{"time":"6:50","usr":"Qwovadis","txt":"Commented on: \u0022Nokia May Slip Another 30% By 2013\u0022 http://t.co/pztxp4Wn $NOK $AAPL $GOOG $MSFT $RIMM","lbl":"Neutral"}
+,{"time":"7:55","usr":"choffman1978","txt":"$P crashing premarket - ouch down 4%!! #cnbc,#nyse,#wsj,#msnbc,$gs,$goog,$aapl,$wmt,$wfc,$jpm,$siri,$v,$f,$gm,$dmnd,$ctic,$dndn,$chtp,$vvus","lbl":"Neutral"}
+,{"time":"8:43","usr":"MichaelKrey","txt":"Apple $AAPL more serious about Siri -- and about competition with Google $GOOG http://t.co/rkREkC0y","lbl":"Neutral"}
+,{"time":"8:44","usr":"parklandtrader","txt":"@CNBCSquawkSt Hey just want mention to all $FB hater.. $FB vs $GOOG.. Remember early 2000 Yahoo was the leader..","lbl":"Neutral"}
+,{"time":"8:44","usr":"dschorrnyc","txt":"$AAPL strong, $GOOG weak is the theme for the week it seems","lbl":"Negative"}
+,{"time":"9:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 09:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+,{"time":"10:25","usr":"SJosephBurns","txt":"@DeeBeeFunky $GOOG is just acting way to choppy for me, it would likely just stop me out like $FB did.","lbl":"Negative"}
+,{"time":"10:26","usr":"SJosephBurns","txt":"@DeeBeeFunky I would consider $GOOG if the MKT turns down and I can short off the 5 day ema or 10 day sma","lbl":"Positive"}
+,{"time":"10:27","usr":"thefinancepress","txt":"$GOOG Google, Amazon lead grab for new domain names: Google, Amazon lead grab for new domain names San Jose Mer... http://t.co/SbNy4bJ6","lbl":"Neutral"}
+,{"time":"11:48","usr":"todd_harrison","txt":"Apple Maps Will Kill You if Followed Literally http://t.co/ZlnF3RvI via @minyanville @mcs212, #Apple, #iOS6, $AAPL, $GOOG","lbl":"Neutral"}
+,{"time":"11:49","usr":"todd_harrison","txt":"When Apple\u0027s WWDC Is Full, There\u0027s Always Appsterdam http://t.co/bEItiuMu via @minyanville #WWDC2012, #Appsterdam, $AAPL, $MSFT, $GOOG $RIMM","lbl":"Neutral"}
+,{"time":"11:50","usr":"todd_harrison","txt":"An Investor\u0027s Perspective on Apple\u0027s Announcements http://t.co/olPE9dO0 via @minyanville @UdallTechStrat, #Apple #WWDC2012 $AAPL $GOOG $NVDA","lbl":"Neutral"}
+,{"time":"11:55","usr":"minervatweet","txt":"RT @SAI: Google Should Be Terrified Of These 11 Startups $GOOG by @mattlynley http://t.co/8gCcW9um","lbl":"Negative"}
+,{"time":"13:27","usr":"russcovarrubia","txt":"RT @Jamtrades: Why Einhorn Likes $AAPL is apparent by now. $AAPL could make $GOOG extinct is what Einhorn is thinking @Bloomberg @CNBC #NASDAQ $SPY $QQQ","lbl":"Negative"}
+,{"time":"13:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 13:30 EST have been negative. Live graph here http://t.co/c4rm8WGR","lbl":"Negative"}
+,{"time":"14:50","usr":"vid_e","txt":"RT @srisri55: Morning Markets were up +66 .Now down -100. True bipolar markets. If u wanna trade, Ur gut is Ur friend..there is no direction //$AAPL $GOOG","lbl":"Neutral"}
+,{"time":"16:18","usr":"TraderNewburgh","txt":"Companion to my price point sheet. Use it to set alerts for price and volume $TSCO $GOOG $ULTA $LNKD #stocks #money http://t.co/cvGmD4y1","lbl":"Neutral"}
+,{"time":"16:19","usr":"Qwovadis","txt":"Commented on: \u0022On The Value Of Users, Hard Drives And Batteries - Part 1\u0022 http://t.co/OC62G095 $FB $AAPL $CSCO $GOOG $LNKD $STX","lbl":"Neutral"}
+,{"time":"16:21","usr":"TraderNewburgh","txt":"Alot of stocks continue to break down. $GOOG, $TSCO $NTES to name a few. Will cover many later in the video. Have a good one","lbl":"Negative"}
+,{"time":"18:43","usr":"ADVFNplc","txt":"$GOOG - Facebook Seeks to Draw Big Advertisers with Exchange http://t.co/4iHr1zSX","lbl":"Neutral"}
+,{"time":"18:43","usr":"pennystockguys","txt":"$GOOG - Facebook Seeks to Draw Big Advertisers with Exchange http://t.co/OH854Smp","lbl":"Neutral"}
+,{"time":"18:44","usr":"iStockAnalyst","txt":"Potential Head & Shoulder Bottom Forming $AAPL $AMZN $CGI $DNDN $ETN $GOOG $GS $MITK $NDY $VIX: The stock market... http://t.co/qzJMUC9p","lbl":"Neutral"}
+,{"time":"23:21","usr":"pastorinom","txt":"RT @MParekh: Dreaming: \u0022Microsoft charges Tablet OEMs a whopping $85 for Windows RT\u0022 http://t.co/wLogFoMW #Tablets #Android #iOS $MSFT $GOOG $AAPL $$","lbl":"Neutral"}
+,{"time":"23:25","usr":"brq6","txt":"RT @Jimmybob77: $GOOG 540/530 puts","lbl":"Negative"}
+]

@@ -1,0 +1,29 @@
+[
+{"time":"0:06","usr":"MrBege1","txt":"Apple vs HTC Apple scores minor victory in Android fight http://t.co/5rW3pIvS #htc $aapl $vz $mot $goog #andriod $msft #iphone","lbl":"Neutral"}
+,{"time":"0:09","usr":"abdullazf","txt":"RT @TheStreet: Don\u0027t Count RIM Out - http://t.co/GzZCHASp $RIMM $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"0:10","usr":"bored2tears","txt":"Google+ comments to appear in Gmail. http://t.co/2FsuODyW $GOOG #SocialMedia \u2022 \u0022Completely interactive,\u0022 completely annoying.","lbl":"Neutral"}
+,{"time":"0:12","usr":"thedeeppool","txt":"RT @SAI: Here\u0027s An Adorable Photo Taken With Google Glass $GOOG by @stevekovach http://t.co/0Z9C4Kyj","lbl":"Neutral"}
+,{"time":"7:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $SPY/29, $AOL/25, $AAPL/21, $SODA/18, $GLD/14, $ARNA/13, $GS/11, $GOOG/10. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"7:24","usr":"Sangluccitrades","txt":"http://t.co/XM5HqAOY Verified $1,021.25 loss in $GOOG Tried a longo on that fake breakout... No love. Ironically the stock got ...","lbl":"Negative"}
+,{"time":"7:25","usr":"Sangluccitrades","txt":"http://t.co/tZzSYWFS Verified $207.88 loss in $GOOG Feeler Trade","lbl":"Negative"}
+,{"time":"7:26","usr":"lukeadevlin","txt":"$FB will have to improve its revenue per user if it is to keep up with tech peers $GOOG $LNKD and to keep potential investors happy","lbl":"Neutral"}
+,{"time":"8:58","usr":"BioTechReports","txt":"The FEDS MUST ENACT QE3 - THEY HAVE NO CHOICE! Thanks to Europe! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt","lbl":"Neutral"}
+,{"time":"8:59","usr":"njnigh","txt":"Nevada issues $GOOG first license for self-driving car http://t.co/uvWGGLO7","lbl":"Positive"}
+,{"time":"10:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $SPY/153, $AAPL/125, $GLD/34, $GDX/33, $IWM/29, $GOOG/24, $MSFT/24, $YHOO/23. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"10:05","usr":"Trefis","txt":"Google Launches Hangouts on Air Worldwide; Hasn\u0027t Given Up On Google+ http://t.co/icvlaE29 by Trefis Team $GOOG $FB $YHOO","lbl":"Neutral"}
+,{"time":"11:13","usr":"takingstock614","txt":"Stocks Im watching patiently for long side entry few more weeks: $DNKN $LNKD $GOOG $AAPL $PCLN $MA $CMG $AZO $NFLX $KORS $TSLA","lbl":"Positive"}
+,{"time":"11:16","usr":"BioTechReports","txt":"$S - Sprint in talks with Clearwire to SHARE network services! #cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac","lbl":"Neutral"}
+,{"time":"13:12","usr":"UmarAlam","txt":"RT @wallstCS: RIM Gets Vicious, But Will Users Bite? http://t.co/Lhg916gU $RIMM $AAPL $GOOG #mkt #stocks","lbl":"Neutral"}
+,{"time":"13:15","usr":"racernic","txt":"$GOOG rolling out another change to their search engine.imo every time they do it they gain in click rev. changes screw up natural rankings","lbl":"Negative"}
+,{"time":"13:17","usr":"BioTechReports","txt":"$BMTI breaking out - NEW HOD!#cnbc,#msnbc,#nyse,#wsj,$dndn,$pfe,$jnj,$gs,$goog,$appl,$c,$f,$v,$bac,$wmt,$chtp,$vvus,$amgn,$ctic,$optr,$bpax","lbl":"Neutral"}
+,{"time":"14:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/67, $SPY/49, $HPQ/37, $PCLN/25, $GOOG/21, $PFE/18, $CSCO/18, $ARNA/16. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:35","usr":"best_of_iran","txt":"Google X research facility and its secret projects http://t.co/muwAjBKE #video $goog $aapl $sne $gm $f","lbl":"Neutral"}
+,{"time":"14:40","usr":"SeekingAlpha","txt":"4 Ways Google Will Break New $670 Highs In 2013 http://t.co/rfYD8u7r $AMZN $BIDU $MSFT $WMT $YHOO $GOOG","lbl":"Positive"}
+,{"time":"16:21","usr":"Michael__Kaplan","txt":"@Tangletrade any suitor for $TWIT would need right platform & userbase for proper integration. I can only see vertically- $GOOG $FB $AAPL","lbl":"Neutral"}
+,{"time":"16:23","usr":"alliwalk","txt":"RT @peterhorvath: $FB takes on $AAPL and $GOOG with App Center http://t.co/gVITmcZa","lbl":"Negative"}
+,{"time":"16:25","usr":"Michael__Kaplan","txt":"@Tangletrade interestingly enough $FB seems most acquisition hungry as of late. Imagine an integration/monetization of $TWIT and $GOOG+?","lbl":"Neutral"}
+,{"time":"19:37","usr":"thefinancepress","txt":"$GOOG GOOGLE INC : Google Announces Internet Availability of Proxy Materials for its ...: GOOGLE INC : Google A... http://t.co/fNsUdzCS","lbl":"Neutral"}
+,{"time":"19:52","usr":"HodgesBradberry","txt":"Cannot wait for this to become a reality. #Ihatedriving http://t.co/LXVGaA4B via @AutomatonBlog $GOOG","lbl":"Neutral"}
+,{"time":"19:59","usr":"VinodColeslaw","txt":"$GOOG is the Oldsmobile of social.","lbl":"Negative"}
+,{"time":"20:01","usr":"acityofpearls","txt":"RT @VinodColeslaw: $GOOG is the Oldsmobile of social.","lbl":"Neutral"}
+]

@@ -1,0 +1,22 @@
+[
+{"time":"7:10","usr":"intrepidbio","txt":"RT @RyanMFierce: Morning! Check out Amazon\u0027s plan to boost its presence in the market for cloud computing in #genomics http://t.co/IFH7GOlU via @Wired $AMZN","lbl":"Neutral"}
+,{"time":"8:29","usr":"Trefis","txt":"Hewlett-Packard Heads To $39 With Converged Cloud For Big Businesses http://t.co/Vz8TQdBL by Trefis Team $HPQ $AMZN $IBM","lbl":"Neutral"}
+,{"time":"9:32","usr":"pooyae","txt":"Just got me some $AMZN too... #stocks #options #market","lbl":"Positive"}
+,{"time":"9:33","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:18am: 190.74 +3.76 (+2.01%).","lbl":"Neutral"}
+,{"time":"10:11","usr":"profitly","txt":"This is SUCH a good trade on $AMZN http://t.co/wCBFKd1t nearly $20,000 in profits","lbl":"Positive"}
+,{"time":"10:47","usr":"justmegregory","txt":"dammit $AMZN had some more room seriously more room..","lbl":"Negative"}
+,{"time":"10:48","usr":"coryjwatson","txt":"taking loss on $AMZN puts","lbl":"Positive"}
+,{"time":"12:28","usr":"lluccipha","txt":"SAI: Microsoft\u0027s Windows 8 Tablets Will Be An Utter Failure, Predicts Gartner $MSFT $AAPL $GOOG $AMZN by @MattRosoff http://t.co/jJLOh17M","lbl":"Neutral"}
+,{"time":"12:29","usr":"LDrogen","txt":"@Alex__Salomon @MichaelComeau executed by Bezos at $AMZN to perfection","lbl":"Positive"}
+,{"time":"12:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 189.04 +2.06 (+1.10%).","lbl":"Neutral"}
+,{"time":"14:28","usr":"RahulTongia","txt":"$AMZN nice bounce of the low back test. Great work @kiwitrader","lbl":"Positive"}
+,{"time":"14:28","usr":"Lowtown21","txt":"$AMZN looking to close strong","lbl":"Positive"}
+,{"time":"16:17","usr":"andrewnyquist","txt":"@pthegr8trades Thank you . Correction: Today is bar 8 of buy setup 9 for $AMZN. Nearing 3YR trendline again but heavy again. Watch 183-185.","lbl":"Positive"}
+,{"time":"17:17","usr":"iStockAnalyst","txt":"DOJ Sues Apple, Publishers Over E-Book Price Fixing $AAPL $AMZN: The U.S. Department of Justice (DOJ) has sued A... http://t.co/83KQaBxH","lbl":"Neutral"}
+,{"time":"17:17","usr":"biggercapital","txt":"Commented on StockTwits: according to the $AMZN stream, the stock is a short because it prices too low. What was you... http://t.co/9j2ncqFq","lbl":"Negative"}
+,{"time":"18:30","usr":"firstadopter","txt":"\u0022better buy\u0022 vs. $AMZN Kindle Fire Verge says RT @verge: Samsung Galaxy Tab 2 7.0 review http://t.co/5RjMsC77","lbl":"Neutral"}
+,{"time":"18:35","usr":"fadjri","txt":"RT @businessinsider: Samsung Has A Tablet That\u0027s Better Than The Kindle Fire [GALAXY TAB 2 REVIEW] $GOOG $AMZN by @stevekovach http://t.co/GHR5wHMM","lbl":"Negative"}
+,{"time":"18:37","usr":"CapCube","txt":"RT @firstadopter: Kick ass! \u201C@SAI: Samsung Has Tablet That\u0027s Better Than The Kindle Fire [GALAXY TAB 2 REVIEW] $GOOG $AMZN http://t.co/VHCfTy5q\u201D","lbl":"Negative"}
+,{"time":"19:47","usr":"stocktim1","txt":"$AMZN - Amazon Stock Analysis - - http://t.co/LbhRA2V2","lbl":"Neutral"}
+,{"time":"23:32","usr":"brainlee0","txt":"RT @businessinsider: Samsung Has A Tablet That\u0027s Better Than The Kindle Fire [GALAXY TAB 2 REVIEW] $GOOG $AMZN by @stevekovach http://t.co/GHR5wHMM","lbl":"Negative"}
+]

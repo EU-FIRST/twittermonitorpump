@@ -1,0 +1,35 @@
+[
+{"time":"1:10","usr":"Games4Health","txt":"RT @MikeGordonRyan: RT @Jason . @ritholtz: $aapl should acquire @Twitter fixes Ping, keeps frm $goog/FB/$msft http://t.co/BfIfbEPo #Twitter #Apple","lbl":"Neutral"}
+,{"time":"1:10","usr":"HealthcareGames","txt":"RT @MikeGordonRyan: RT @Jason . @ritholtz: $aapl should acquire @Twitter fixes Ping, keeps frm $goog/FB/$msft http://t.co/BfIfbEPo #Twitter #Apple","lbl":"Neutral"}
+,{"time":"1:10","usr":"GrowthStage","txt":"RT @MikeGordonRyan: RT @Jason . @ritholtz: $aapl should acquire @Twitter fixes Ping, keeps frm $goog/FB/$msft http://t.co/BfIfbEPo #Twitter #Apple","lbl":"Neutral"}
+,{"time":"1:10","usr":"HealthTsunami","txt":"RT @MikeGordonRyan: RT @Jason . @ritholtz: $aapl should acquire @Twitter fixes Ping, keeps frm $goog/FB/$msft http://t.co/BfIfbEPo #Twitter #Apple","lbl":"Neutral"}
+,{"time":"6:19","usr":"Megachrist","txt":"RT @SAI: 10 Things You Need To Know This Morning $AAPL $MSFT $HPQ $GOOG $ZNGA by @_dtl http://t.co/lWZOsTVb","lbl":"Neutral"}
+,{"time":"8:04","usr":"TraderInvestor","txt":"According to Business Insider: 19 Billionaires own $AAPL, 16 Billionaires own $GOOG and 15 Billionaires own El Paso Energy $$","lbl":"Neutral"}
+,{"time":"8:06","usr":"BlueFielder","txt":"Morning daytrade watch : $MAKO $CREE $TUP $GooG $LVLT & $BIDU (short position)","lbl":"Neutral"}
+,{"time":"8:58","usr":"thefinancepress","txt":"$GOOG Seven Stocks With Above $500 Per Share in Prices: Seven Stocks With Above $500 Per Share in Prices Forbes... http://t.co/niJaznlz","lbl":"Neutral"}
+,{"time":"9:56","usr":"DJThistle","txt":"Galaxy S III to feature proprietary wireless charging technology?: Yet another rumor has surfaced in the ... http://t.co/zH1RcqB8 $GOOG","lbl":"Neutral"}
+,{"time":"10:41","usr":"SAI","txt":"THE GOOGLE INVESTOR: Is Samsung Concerned About Google\u0027s Acquisition Of Motorola? $GOOG by @hleonard76 http://t.co/1prcC7cH","lbl":"Neutral"}
+,{"time":"11:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/149, $SPY/52, $AMZN/51, $GOOG/31, $AMRN/30, $BAC/30, $GS/21, $NOK/20. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"12:05","usr":"terrytoovey","txt":"A Few Quick Tips To Boost Your Android Phone\u0027s Battery Life $GOOG by @nattgarun http://t.co/UwZ9pu9D","lbl":"Neutral"}
+,{"time":"12:06","usr":"aalabdulwahab","txt":"\u201C@SAI: Free Apps Are Killing Your Smartphone\u0027s Battery $AAPL $GOOG by @nattgarun http://t.co/uXwNxi5v\u201D","lbl":"Neutral"}
+,{"time":"12:37","usr":"1nvestor","txt":"$GOOG in melt up stage. Not too far from green here, well done Bulls.","lbl":"Negative"}
+,{"time":"13:06","usr":"thefinancepress","txt":"$GOOG Apple Fails to Wrest Android Data From Motorola Mobility: Apple Fails to Wrest Android Data From Motorola... http://t.co/NrxQF28g","lbl":"Negative"}
+,{"time":"13:25","usr":"shopd1","txt":"Free Apps Are Killing Your Smartphone\u0027s Battery $AAPL $GOOG by @nattgarun http://t.co/0sjeEUUw","lbl":"Neutral"}
+,{"time":"13:27","usr":"TraderFlorida","txt":"$CMG $GOOG $PCLN to name a few holding up well","lbl":"Positive"}
+,{"time":"13:28","usr":"jimcramersucks","txt":"@traderflorida has made me so much $$, I made tribute video for him! $goog $gs $jpm $bac http://t.co/UPIMoOoV","lbl":"Neutral"}
+,{"time":"14:03","usr":"hedgefundinvest","txt":"A cheap game changer for tablets is needed. If cheap, not likely $MSFT Windows 8. Maybe $GOOG Android. Maybe...","lbl":"Neutral"}
+,{"time":"14:03","usr":"thetradedotcom","txt":"Huge from Groklaw: $ORCL v $GOOG final damages report in, $ORCL claiming $32.3M (compare to original headline of $6.1B) http://t.co/gHbld7M6","lbl":"Neutral"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/208, $AMZN/80, $SPY/38, $GOOG/26, $YHOO/21, $LGF/19, $HPQ/18, $AMRN/17. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:38","usr":"businessinsider","txt":"The Real Reason Google Bought Kevin Rose And Milk: It Needs Designers $GOOG by @mattlynley http://t.co/smtOj9T7","lbl":"Neutral"}
+,{"time":"14:38","usr":"SAI","txt":"The Real Reason Google Bought Kevin Rose And Milk: It Needs Designers $GOOG by @mattlynley http://t.co/Ev7Ij9At","lbl":"Neutral"}
+,{"time":"15:08","usr":"ValentFinancial","txt":"Why Do App Developers Prefer Apple\u0027s iOS to Android? http://t.co/gRtlzJPI $AAPL $GOOG $RIMM $MSFT #mkt #stocks #trading","lbl":"Negative"}
+,{"time":"15:08","usr":"ValentFinancial","txt":"RIMM Sued, http://t.co/9yOaUgTx Buys Kiva, Google Maps Flustered http://t.co/EJNxhrc9 $RIMM $AMZN $GOOG #mkt #stocks","lbl":"Negative"}
+,{"time":"15:09","usr":"thefinancepress","txt":"$GOOG Apple Inc iPad Ready for AOL HuffPo Mag, Google Defends Hotfile, Yahoo! in ...: Apple Inc iPad Ready for ... http://t.co/8s7ZWtIS","lbl":"Neutral"}
+,{"time":"16:12","usr":"KatePietrelli","txt":"RT @SAI: CHART OF THE DAY: Developer Interest In Android Is Slowly Eroding $AAPL $GOOG $MSFT by @jyarow http://t.co/Dt1BZGw0","lbl":"Negative"}
+,{"time":"17:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/78, $ORCL/38, $GOOG/25, $MSFT/17, $SPY/17, $BAC/16, $AMZN/12, $GLD/10. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"17:05","usr":"lfalvey","txt":"RT @wallstCS: Is Nokia About to Change the Way We Use Smartphones? http://t.co/XvcDxRHY $T $NOK $GOOG $MSFT #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"17:06","usr":"EvolvingMedium","txt":"Coming Soon From Google: Showy? (GOOG) $goog - http://t.co/WNkVohOy","lbl":"Neutral"}
+,{"time":"17:08","usr":"billgatewood","txt":"RT @SAI: Google Ventures Has $1 Billion To Invest And It Likes Big Data Startups $GOOG by @Julie188 http://t.co/7L0J6iKR","lbl":"Neutral"}
+,{"time":"18:33","usr":"tradingstocks28","txt":"$GOOG - Google Stock Analysis - MFI is bearish and falling - http://t.co/aRoYhWTV","lbl":"Negative"}
+,{"time":"18:37","usr":"barronstechblog","txt":"AAPL: Ned Davis Sizes the Payout Vs. S&P - Tech Trader Daily - Barron\u0027s $AAPL $GOOG $MSFT $IBM $INTC $CSCO http://t.co/dNCgHGkK","lbl":"Neutral"}
+]

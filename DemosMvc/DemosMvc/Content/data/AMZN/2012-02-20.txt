@@ -1,0 +1,11 @@
+[
+{"time":"9:14","usr":"SuperDiet3","txt":"SMALLCAP TRADING TRICK - MAKES YOU 100-200% GAINS PER WEEK http://t.co/WOxOEAnQ $USO $AMZN $PSID $LNKD $IWM $CORN $ACFN $EZU","lbl":"Neutral"}
+,{"time":"9:27","usr":"SAI_Tools","txt":"Barnes & Noble Is About To Launch A Cheaper Nook Tablet To Match The Kindle Fire $BKS $AMZN by @stevekovach http://t.co/JB0k0rSR","lbl":"Negative"}
+,{"time":"9:27","usr":"SAI","txt":"Barnes & Noble Is About To Launch A Cheaper Nook Tablet To Match The Kindle Fire $BKS $AMZN by @stevekovach http://t.co/77AJHddN","lbl":"Neutral"}
+,{"time":"9:28","usr":"lluccipha","txt":"SAI: Barnes & Noble Is About To Launch A Cheaper Nook Tablet To Match The Kindle Fire $BKS $AMZN by @stevekovach http://t.co/AfbaJ0aE","lbl":"Neutral"}
+,{"time":"12:07","usr":"andrewnyquist","txt":"RT @StockTwits The Incredible Shrinking World\u2026Make It Work for You! http://t.co/LnhhvPHB via @HowardLindzon $FB $TWIT $STWIT $AMZN","lbl":"Neutral"}
+,{"time":"12:07","usr":"PeterBreitholtz","txt":"RT @andrewnyquist: RT @StockTwits The Incredible Shrinking World\u2026Make It Work for You! http://t.co/LnhhvPHB via @HowardLindzon $FB $TWIT $STWIT $AMZN","lbl":"Neutral"}
+,{"time":"15:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/31, $GOOG/10, $MSFT/9, $SPY/8, $EBAY/7, $BAC/5, $WYNN/4, $GME/4, $AMZN/4. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"19:02","usr":"ChinaNews24","txt":"RT @Phillip_Futures2012Apple\u0027s Legal Woes in China Offer Hope to Rivals http://t.co/ezu1TyuW $0334.HK $0992.HK $AAPL $AMZN $GOOG #Tr...","lbl":"Positive"}
+,{"time":"19:05","usr":"StocialTrends","txt":"Daily Trending Social Volume: $AAPL/298, $SPY/91, $GOOG/69, $MSFT/51, $AMZN/41, $GS/40, $BAC/39, $GLD/35. http://t.co/9ch5yju7","lbl":"Neutral"}
+]

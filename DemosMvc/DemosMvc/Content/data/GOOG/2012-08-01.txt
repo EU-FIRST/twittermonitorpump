@@ -1,0 +1,56 @@
+[
+{"time":"0:45","usr":"Bintangmaskentr","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"0:48","usr":"scottgallacher","txt":"RT @SAI: Google Buys Social Advertising Startup Wildfire For $250 Million $GOOG by @mattlynley http://t.co/nW03LCv8","lbl":"Neutral"}
+,{"time":"2:17","usr":"daniilre","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"3:55","usr":"TheYourDad","txt":"RT @businessinsider: Mark Zuckerberg\u0027s Brother-In-Law Works At The Company Google Just Acquired, Too $GOOG $FB by @owenthomas http://t.co/Nmhk3jrw","lbl":"Neutral"}
+,{"time":"3:57","usr":"pprabhu007","txt":"RT @SAI: Mark Zuckerberg\u0027s Brother-In-Law Works At The Company Google Just Acquired, Too $GOOG $FB by @owenthomas http://t.co/okAHQPtT","lbl":"Neutral"}
+,{"time":"3:58","usr":"hijackiv","txt":"Let\u0027s SEE $AAPL, $GOOG, $DIA, $ZB_F, $ZT_F....","lbl":"Neutral"}
+,{"time":"4:00","usr":"itworks","txt":"Google boosts productivity by being creative with its work environments (photos of Google offices) http://t.co/Meady5eN $GOOG","lbl":"Positive"}
+,{"time":"6:23","usr":"stevenfransiss","txt":"$GOOG","lbl":"Neutral"}
+,{"time":"6:29","usr":"Harri8t","txt":"The world\u0027s most succesful digital media companies - $GOOG tops the list, $FB misses top 10... http://t.co/8GFEo7Jc","lbl":"Positive"}
+,{"time":"7:56","usr":"SJosephBurns","txt":"I am still long $AAPL & $GOOG in the money call options going into this morning. So far looking good in the premarket.","lbl":"Positive"}
+,{"time":"7:58","usr":"jimcramer","txt":"$AAPL v. $GOOG--and rumors galore on $LH/$DNB/ how short are people in $LH","lbl":"Neutral"}
+,{"time":"8:00","usr":"SeekingAlpha","txt":"Facebook\u0027s Fait Acompli: Strike 3 Looms As Insiders Sell Out While Investors Hold The Bag http://t.co/YU9GhZO3 $AAPL $GOOG $GRPN","lbl":"Neutral"}
+,{"time":"8:29","usr":"strzel_a","txt":"$AAPL vs $GOOG","lbl":"Neutral"}
+,{"time":"9:04","usr":"choffman1978","txt":"Fed will announce easing today - that is the chatter! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$wfc,$jpm,$sbux,$appl,$pfe,$jnj,$dndn","lbl":"Neutral"}
+,{"time":"9:04","usr":"launchticker","txt":". @GigaOm reporter visits bakery in KC that has $goog Fiber; tests & finds downloads slow on wired connection http://t.co/Uq2cxQeC","lbl":"Neutral"}
+,{"time":"9:33","usr":"choffman1978","txt":"$ACUR way oversold - Nexafed to be launched soon! Billion dollar market! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,,","lbl":"Neutral"}
+,{"time":"9:33","usr":"digitas_fr","txt":"RT @DigitasLabParis: Twitter introduce the cashtag so you can link to any stock like this $GOOG http://t.co/LrbkFogR","lbl":"Neutral"}
+,{"time":"9:36","usr":"ruchi_andry_has","txt":"$goog","lbl":"Neutral"}
+,{"time":"10:06","usr":"AKPalit","txt":"#Amazon updates #CloudPlayer to better compete with #Google, #Apple. $AMZN $GOOG $AAPL http://t.co/G8uxhaeX","lbl":"Neutral"}
+,{"time":"10:09","usr":"hugobarredos","txt":"$goog","lbl":"Neutral"}
+,{"time":"10:34","usr":"choffman1978","txt":"$ACUR way oversold - Nexafed to be launched soon! Billion dollar market! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$aezs","lbl":"Neutral"}
+,{"time":"10:34","usr":"choffman1978","txt":"$ACUR way oversold - Nexafed to be launched soon! Billion dollar market! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$rxpc","lbl":"Neutral"}
+,{"time":"10:35","usr":"choffman1978","txt":"$kerx moving up #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk","lbl":"Neutral"}
+,{"time":"10:35","usr":"choffman1978","txt":"SEC needs to investigate Knight Capital! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,#SEC","lbl":"Neutral"}
+,{"time":"11:07","usr":"choffman1978","txt":"$GMCR breaking $19 ahead of earnings - short squeeze happening! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wmt,$sbux","lbl":"Neutral"}
+,{"time":"11:41","usr":"colbay","txt":"RT @kevinweil: I love that ticker symbols like $AAPL $GOOG $FB are now clickable on Twitter. Another user driven feature; surfaces great biz discussions.","lbl":"Neutral"}
+,{"time":"11:42","usr":"choffman1978","txt":"$ACUR a buyout at these levels??? Way oversold with FDA approved drug!! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk","lbl":"Neutral"}
+,{"time":"11:42","usr":"_sonnyD","txt":"RT @businessinsider: After Using An Android Phone For A Month, I Can Tell The iPhone Has One Glaring Flaw $GOOG $AAPL by @mattlynley http://t.co/LmIaYWmt","lbl":"Neutral"}
+,{"time":"12:04","usr":"WordStream","txt":"RT @LinkedInToday: Gotta find someone? This guy turned Google Search into a powerful people search tool http://t.co/EBvnxyXl on @wordstream $GOOG","lbl":"Positive"}
+,{"time":"12:06","usr":"devevangelist","txt":"RT @LinkedInToday: Gotta find someone? This guy turned Google Search into a powerful people search tool http://t.co/EBvnxyXl on @wordstream $GOOG","lbl":"Neutral"}
+,{"time":"12:51","usr":"TradetheLeader1","txt":"Intraday charts looking sharp..possible entry point above $640 $GOOG","lbl":"Positive"}
+,{"time":"13:20","usr":"thefinancepress","txt":"$GOOG Google (GOOG) Decides to Stop Nexus Q Shipments over Bad Reviews: Google (GOOG) Decides to Stop Nexus Q S... http://t.co/jDEEcnxM","lbl":"Negative"}
+,{"time":"13:20","usr":"choffman1978","txt":"$ACUR way oversold - Nexafed to be launched soon! rallying back! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wfc","lbl":"Neutral"}
+,{"time":"13:22","usr":"choffman1978","txt":"Fed will keep twist active through end of year! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wfc","lbl":"Neutral"}
+,{"time":"13:57","usr":"mattlynley","txt":"RT @SAI: Why I Always Go Back To The iPhone $AAPL $GOOG by @stevekovach http://t.co/oMMvZWxz","lbl":"Neutral"}
+,{"time":"13:57","usr":"CraigLeGrice","txt":"RT @SAI: Why I Always Go Back To The iPhone $AAPL $GOOG by @stevekovach http://t.co/oMMvZWxz","lbl":"Neutral"}
+,{"time":"13:57","usr":"nicolasfalcioni","txt":"RT @SAI: Google Wallet Just Got A Huge Update That Lets You Use Any Major Credit Card $GOOG by @stevekovach http://t.co/ZLRrKU7l","lbl":"Neutral"}
+,{"time":"15:11","usr":"choffman1978","txt":"$GMCR announces $500m stock buyback!!! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wfc","lbl":"Neutral"}
+,{"time":"15:11","usr":"choffman1978","txt":"$GMCR announces $500m stock buyback! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wfc","lbl":"Neutral"}
+,{"time":"15:12","usr":"choffman1978","txt":"$GMCR announces $500m stock buyback!! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wfc","lbl":"Neutral"}
+,{"time":"15:13","usr":"iStockAnalyst","txt":"How Low Can Facebook (FB) Go? $FB $GOOG: Facebook (FB) shares hit a new low Tuesday, as the recently listed stoc... http://t.co/UHJfTHV4","lbl":"Neutral"}
+,{"time":"15:41","usr":"choffman1978","txt":"Wow - $GMCR rallying back on $500m stock buyback #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wfc,$jpm,$bac,#twitter","lbl":"Neutral"}
+,{"time":"15:41","usr":"choffman1978","txt":"Wow - $GMCR rallying back on $500m stock buyback #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wfc,$jpm,#twitter","lbl":"Neutral"}
+,{"time":"15:42","usr":"choffman1978","txt":"Wow - $GMCR rallying back on $500m stock buyback #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$pfe,$jnj,$dndn,$vvus,$gsk,$wfc,#facebook,#twitter","lbl":"Neutral"}
+,{"time":"16:27","usr":"meyer10S","txt":"$goog","lbl":"Neutral"}
+,{"time":"16:29","usr":"choffman1978","txt":"$GMCR SURGING on $500m stock buyback! Up 8% - rally! #cnbc,#msnbc,$gs,$goog,$aapl,$bac,$wmt,$v,$s,$siri,$soda,$lulu,$dmnd,#markets,#twitter","lbl":"Neutral"}
+,{"time":"16:51","usr":"prasenjit","txt":"wow so many folks leaving FB - don\u0027t recall such an exodus after the $goog IPO. And my first TL\u0027s are still at the Plex!","lbl":"Neutral"}
+,{"time":"16:52","usr":"briandanielian","txt":"RT @wallstCS: Google ACQUIRES Wildfire Interactive and 4 Tech Titans on the Move http://t.co/IWdii0iT $FB $AAPL $GOOG $MSFT $INTC #mkt #stocks","lbl":"Neutral"}
+,{"time":"17:58","usr":"thefinancepress","txt":"$GOOG Google Revamps Pay-By-Phone Service to Add More Cards: Google Revamps Pay-By-Phone Service to Add More Ca... http://t.co/XZNOhZd2","lbl":"Neutral"}
+,{"time":"20:17","usr":"JSquatriglia","txt":"RT @CNNMoney: Google is sending its Nexus Q streaming media player back to the drawing board. http://t.co/caQdBsyt $GOOG","lbl":"Neutral"}
+,{"time":"20:20","usr":"atul","txt":"Businesses Leap on Fiber Bandwidth Wagon - http://t.co/MHsjUPL1 $GOOG http://t.co/SUkgnigJ","lbl":"Neutral"}
+,{"time":"22:03","usr":"sethcarl","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"22:05","usr":"arlandu","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+,{"time":"22:06","usr":"kpooya","txt":"RT @howardlindzon: Twitter locking down, $znga imploding and $fb in a spiral should remind you how great $goog really is. Search is so not dead.","lbl":"Positive"}
+]

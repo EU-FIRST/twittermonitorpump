@@ -1,0 +1,33 @@
+[
+{"time":"4:05","usr":"TechStockFacts","txt":"$GOOG Noteworthy ETF Inflows: VOO, CVX, GE, GOOG: Noteworthy ETF Inflows: VOO, CVX, GE, GOOG Forbes - 18 minute... http://t.co/nmYd99Yn","lbl":"Positive"}
+,{"time":"4:19","usr":"RedDogT3Live","txt":"Most leaders acted well enough yesterday to mute the downside. $AAPL $Pcln $bidu $goog $MA $lvs.","lbl":"Neutral"}
+,{"time":"4:27","usr":"thefinancepress","txt":"$GOOG Android beats Apple in China mobile platform race-report: Android beats Apple in China mobile platform ra... http://t.co/DBxO9TiZ","lbl":"Positive"}
+,{"time":"4:30","usr":"bored2tears","txt":"Rosetta Stone trademark infringement suit against Google revived, others could follow. http://t.co/dTmH910C $GOOG $RST #stocks","lbl":"Negative"}
+,{"time":"7:30","usr":"tjtakes","txt":"the stream is giddy over $goog, really? its\u0027 up $4 and is a $630 stock, and it\u0027s NOT making ATH each day like 2 other names... chill folks","lbl":"Positive"}
+,{"time":"7:33","usr":"thefinancepress","txt":"$GOOG Implied Stock-Price Moves for U.S. Companies Reporting Results: Implied Stock-Price Moves for U.S. Compan... http://t.co/JlQ5zTRe","lbl":"Neutral"}
+,{"time":"7:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/77, $VVUS/19, $SPY/17, $GOOG/15, $SVU/14, $RIMM/12, $AA/11, $VPHM/11. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"7:37","usr":"Turtledreams","txt":"RT @StockTwits: RT @bpeck $GOOG - Proof in the demand and power of mobile payments; $SBUX already processed 42m payments in just 15 mos http://t.co/xVxhFFlu","lbl":"Neutral"}
+,{"time":"8:43","usr":"ynggekko","txt":"$GOOG call options lighting up in the 750\u0027s area.","lbl":"Positive"}
+,{"time":"8:45","usr":"BlueFielder","txt":"$GooG too . But I can only focus on 2 or 3 trades @ the moment ... max . Waaaaay too much coffee","lbl":"Neutral"}
+,{"time":"9:22","usr":"SAI_Tools","txt":"11 Android Features Apple Needs To Steal For The Next iPhone $AAPL $GOOG by @stevekovach http://t.co/0cU1GEN1","lbl":"Neutral"}
+,{"time":"10:10","usr":"RedDogT3Live","txt":"$goog hangs in pretty well- next buyable cash flow trade is through $634.50-635.50","lbl":"Positive"}
+,{"time":"10:12","usr":"__daz__","txt":"RT @SAI: 11 Android Features Apple Needs To Steal For The Next iPhone $AAPL $GOOG by @stevekovach http://t.co/gBS4UAKV","lbl":"Neutral"}
+,{"time":"10:13","usr":"neelptl","txt":"RT @J_A_B_A_R_I: Facebook $FB is not the next $AAPL or $GOOG even.","lbl":"Neutral"}
+,{"time":"11:14","usr":"iheartWallSt","txt":"THE WORLD IS FLAT http://t.co/wQI08zJt $GOOG $FB $AAPL $$","lbl":"Neutral"}
+,{"time":"11:56","usr":"GeekofWallSt","txt":"@charliegodwin So I think $GOOG reporting Thurs will effect $AAPL. so if $GOOG droid num high- people may be worried bout iphone sales","lbl":"Positive"}
+,{"time":"11:56","usr":"MattRosoff","txt":"Google Caves And Makes ChromeOS Look More Like Windows And Mac $GOOG $MSFT http://t.co/s77dvY92","lbl":"Neutral"}
+,{"time":"11:56","usr":"SAI","txt":"Google Caves And Makes ChromeOS Look More Like Windows And Mac $GOOG $MSFT by @MattRosoff http://t.co/aAVauxcA","lbl":"Neutral"}
+,{"time":"13:07","usr":"stockusa","txt":"Google $GOOG short target 577.40 http://t.co/2EZNyTwv #mystockusa #stocks","lbl":"Negative"}
+,{"time":"13:07","usr":"brianuitti","txt":"Microsoft\u0027s Last-Ditch Effort (AAPL, GOOG, MSFT, NOK, NVDA) http://t.co/bi144xJY $MSFT $NOK $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"13:07","usr":"TechStockFacts","txt":"60 minute Trending Social Volume: $AAPL/117, $SPY/109, $GLD/31, $MSFT/22, $BBY/21, $GOOG/20, $GS/20, $IWM/19. http://t.co/PPrmXK6y","lbl":"Neutral"}
+,{"time":"13:07","usr":"ManiOhli","txt":"Option Millionaires: uranium-pinto-beans: $GOOG!! --->>>>>>>>>>> http://t.co/R2HfB6t5","lbl":"Neutral"}
+,{"time":"15:58","usr":"sunyall","txt":"RT @LaMonicaBuzz: Bye-bye, Nasdaq 3000. It was a fun month. Will we meet again soon? What\u0027s that? Depends on $GOOG earnings Thursday afternoon? G\u0027night y\u0027all.","lbl":"Neutral"}
+,{"time":"16:05","usr":"wallstCS","txt":"Facebook + Instagram = ? http://t.co/mUVqE8dA $GOOG $AAPL #mkt #stocks","lbl":"Neutral"}
+,{"time":"18:33","usr":"Rick__H","txt":"Wonder what it costs to develop an app for mobile? Eye opening. http://t.co/2ly3DZbZ $aapl $goog","lbl":"Neutral"}
+,{"time":"18:33","usr":"jpu19","txt":"RT @SeekingAlpha: Groupon On The Road To Bankruptcy http://t.co/l4dyJyYQ $AAPL $AMZN $GOOG $MM $ZNGA $GRPN","lbl":"Neutral"}
+,{"time":"18:43","usr":"tradeplay","txt":"$GOOG - Google\u0027s stock price testing the 50 day exponential moving average support. http://t.co/CakCNDpy #technicalanalysis of stocks","lbl":"Negative"}
+,{"time":"18:45","usr":"ValaAfshar","txt":"Science Fiction - Google\u0027s Project Glass http://t.co/4eTw1Qz3 @TechCrunch > imaginary, until it isn\u0027t. $GOOG","lbl":"Neutral"}
+,{"time":"22:07","usr":"dkberman","txt":"Google\u0027s $12 Billion Toy. http://t.co/vVxibCLM $GOOG","lbl":"Neutral"}
+,{"time":"22:15","usr":"abonel","txt":"RT @dkberman: Google\u0027s $12 Billion Toy. http://t.co/vVxibCLM $GOOG","lbl":"Neutral"}
+,{"time":"22:18","usr":"joshspear","txt":"RT @dkberman: Google\u0027s $12 Billion Toy. http://t.co/vVxibCLM $GOOG","lbl":"Neutral"}
+]

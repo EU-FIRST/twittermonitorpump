@@ -1,0 +1,16 @@
+[
+{"time":"6:49","usr":"max_options","txt":"Is GoogleYoutube Cooking The Numbers of Ron Paul Videos http://t.co/T9FhEPJl #ronpaul #tcot #tlot #gop2012 #FITN $goog","lbl":"Neutral"}
+,{"time":"6:50","usr":"GOPPrimary","txt":"RT @max_options: Is GoogleYoutube Cooking The Numbers of Ron Paul Videos http://t.co/K6VJd8XU #ronpaul #tcot #tlot #gop2012 #FITN $goog","lbl":"Neutral"}
+,{"time":"9:40","usr":"tlmontana","txt":"RT @businessinsider: Here Are The 17 Radical Ideas From Google\u0027s Top Genius Conference That Could Change The World $GOOG by @mattlynley http://t.co/JFMhUkad","lbl":"Neutral"}
+,{"time":"9:43","usr":"andrewnyquist","txt":"Latest on investing & personal finance http://t.co/m4MOvqvA $SPX $SPY $DJIA $FB $AAPL $GOOG $QQQ For technical charts, search chartology","lbl":"Neutral"}
+,{"time":"9:45","usr":"android_whatnow","txt":"RT @SAI_Tools: A Bunch Of HTC Phone Owners Are Finally Getting Google\u0027s Newest Version Of Android $GOOG by @mattlynley http://t.co/J9xdNaJQ","lbl":"Neutral"}
+,{"time":"9:46","usr":"kim_burns","txt":"RT @businessinsider: Here Are The 17 Radical Ideas From Google\u0027s Top Genius Conference That Could Change The World $GOOG by @mattlynley http://t.co/JFMhUkad","lbl":"Neutral"}
+,{"time":"12:51","usr":"MarcoPolo1279","txt":"RT @businessinsider: Android Apps You\u0027d Have To Pry From Our Cold, Dead Fingers $GOOG by @stevekovach http://t.co/o8SSWoYV","lbl":"Neutral"}
+,{"time":"13:04","usr":"NoDoji","txt":"$GOOG Weekly Ichimoku: Stopped under tenkan-sen, support at 575.42. Nice defined consolidation area http://t.co/RgPyaNoV","lbl":"Positive"}
+,{"time":"13:06","usr":"pablo_ventura","txt":"RT @SAI: Here Are The 17 Radical Ideas From Google\u0027s Top Genius Conference That Could Change The World $GOOG by @mattlynley http://t.co/c4BWk8dT","lbl":"Neutral"}
+,{"time":"13:08","usr":"SSL787","txt":"RT @businessinsider: Here Are The 17 Radical Ideas From Google\u0027s Top Genius Conference That Could Change The World $GOOG by @mattlynley http://t.co/JFMhUkad","lbl":"Neutral"}
+,{"time":"18:32","usr":"freedom_twits","txt":"Google Sponsors #CPAC 2012 http://t.co/KasWYjhP #politics #tyt #occupy #ows $goog","lbl":"Neutral"}
+,{"time":"19:04","usr":"confluently","txt":"RT @businessinsider: Here Are The 17 Radical Ideas From Google\u0027s Top Genius Conference That Could Change The World $GOOG by @mattlynley http://t.co/JFMhUkad","lbl":"Neutral"}
+,{"time":"19:32","usr":"betterpick","txt":"$GOOG - Google Stock Analysis - CCI is bullish - http://t.co/iYcGnZ6h","lbl":"Positive"}
+,{"time":"19:33","usr":"cocoy","txt":"New front in Apple-Samsung war. WSJ: Apple seeks US injunction against Samsung Galaxy Nexus http://t.co/eYbyjdkh $AAPL $GOOG","lbl":"Neutral"}
+]

@@ -1,0 +1,38 @@
+[
+{"time":"6:32","usr":"political_hawk","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/TQJK07PZ #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"6:40","usr":"TheStreet","txt":"Microsoft Seeks to Exploit \u0027Snatch & Grab\u0027 http://t.co/AHdG6cT5 by @rsaintvilus $MSFT $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"9:03","usr":"pennystockguys","txt":"$GOOG - Internet\u0027s Leading \u0022Stock Alert\u0022 Service Remains 100% Perfect in 2012 http://t.co/VYLXmTaL","lbl":"Neutral"}
+,{"time":"9:03","usr":"ADVFNplc","txt":"$GOOG - Internet\u0027s Leading \u0022Stock Alert\u0022 Service Remains 100% Perfect in 2012 http://t.co/dqmj042i","lbl":"Positive"}
+,{"time":"9:03","usr":"Power_Closer","txt":"\u201C@SeekingAlpha: Apple IP More Important Than iOS http://t.co/qPj5rzxZ $BBY $GOOG $IP ... (cont) http://t.co/Nt1ARGQy","lbl":"Neutral"}
+,{"time":"9:03","usr":"DavidTBurke","txt":"RT @businessinsider: With Google Now, Android Puts Apple\u0027s Siri To Shame $GOOG $AAPL by @stevekovach http://t.co/7JfPvRJR","lbl":"Positive"}
+,{"time":"9:52","usr":"knodeinc","txt":"RT @RyanMFierce: Google\u0027s new #cloud platform attracts #biotech players, could rival Amazon EC2 in #pharma http://t.co/86jYHn9t $GOOG $AMZN","lbl":"Positive"}
+,{"time":"9:54","usr":"choffman1978","txt":"$SIRI - someone is buying tons of shares on open maret - $LMCA??? #cnbc,#msnb,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,#stocks,#investments,#markets","lbl":"Neutral"}
+,{"time":"9:54","usr":"choffman1978","txt":"$SIRI (up 4%)- someone is buying tons of shares on open maret - $LMCA??? #cnbc,#msnb,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,#stocks,#investments","lbl":"Neutral"}
+,{"time":"10:42","usr":"cnbcwhores","txt":"RT @businessinsider: Mozilla Is Building An Open Source \u0027Firefox\u0027 Phone $GOOG by @mattlynley http://t.co/7ajR901U","lbl":"Neutral"}
+,{"time":"10:42","usr":"Vconomics","txt":"$GOOG levels working perfectly. http://t.co/nqlsSVa9","lbl":"Neutral"}
+,{"time":"10:42","usr":"choffman1978","txt":"$SIRI squeeze - break out!#cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$ctic,$pfe,$jnj,#stocks,#biotech,#investments,#markets,$arna","lbl":"Neutral"}
+,{"time":"10:43","usr":"lluccipha","txt":"SAI: REVIEWED: Google\u0027s Nexus 7 Tablet $GOOG by @stevekovach http://t.co/tDQdZW2F","lbl":"Neutral"}
+,{"time":"11:15","usr":"arelyzperez","txt":"\u0022Put a dollar sign ahead of the company\u2019s stock ticker symbol.\u0022 http://t.co/s83it3uP So Google = $GOOG Microsoft = $MSFT Etc... Interesting.","lbl":"Neutral"}
+,{"time":"11:20","usr":"wallstCS","txt":"Facebook KEEPS Nasdaq and 4 Super Hot Stocks on Trader Radars Now http://t.co/G17VXWt9 $BAC $AAPL $GOOG $FB $NDAQ $T $NOK #mkt #stocks","lbl":"Neutral"}
+,{"time":"11:23","usr":"choffman1978","txt":"$SIRI buyout by Google,Apple,Liberty? #cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$,$pfe,$jnj,#stocks,#biotech,#investments,#markets","lbl":"Neutral"}
+,{"time":"11:24","usr":"2TradersClub","txt":"$GOOG $585 current short-term resistance and $588 http://t.co/MPIbGuyy","lbl":"Negative"}
+,{"time":"12:30","usr":"SeekingAlpha","txt":"Apple\u0027s Pricing Power? Questionable http://t.co/TEZRpZMz $AMZN $GOOG $MSFT $NOK $T $VZ $AAPL","lbl":"Neutral"}
+,{"time":"12:30","usr":"thefinancepress","txt":"$GOOG EU Confirms Google\u0027s Schmidt Responds to Antitrust Concerns: EU Confirms Google\u0027s Schmidt Responds to Ant... http://t.co/8L3ZSTeV","lbl":"Neutral"}
+,{"time":"12:32","usr":"choffman1978","txt":"$SIRI running - $LMCA buying shares?#cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$ctic,$pfe,$jnj,#stocks,#biotech,#investments,#markets","lbl":"Neutral"}
+,{"time":"12:32","usr":"SaqibReports","txt":"Google offers to settle EU antitrust probe http://t.co/30rHIOCd via @reuters $GOOG","lbl":"Neutral"}
+,{"time":"13:32","usr":"choffman1978","txt":"$SIRI RUNNING!!! #cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$ctic,$pfe,$jnj,#stocks,#biotech,#investments,#markets,$arna","lbl":"Neutral"}
+,{"time":"13:36","usr":"medianueva","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"13:36","usr":"USwwwStocks","txt":"$GOOG News: EU Confirms Google\u0027s Schmidt Responds to Antitrust Concerns http://t.co/WvUgJ7jH #GOOG #Antitrust #Concerns","lbl":"Neutral"}
+,{"time":"14:37","usr":"srisri55","txt":"Just in case u trade weekilies, Tomorrow market closes early & Wednesday is holiday. GL. //$AAPL $GOOG $ARNA $BAC","lbl":"Neutral"}
+,{"time":"14:37","usr":"stock_pandit","txt":"http://t.co/DWax9w08 Notable Large-Cap Insider Selling Last Week $AFL $BMY $CA $GOOG $IT $RTN $SYK","lbl":"Neutral"}
+,{"time":"14:37","usr":"choffman1978","txt":"$BMTI SQUEEZING!#cnbc,#msnb,#nyse,#wsj,$gs,$c,$ms,$gs,$goog,$aapl,$pfe,$jnj,#stocks,#biotech,#investments,#markets","lbl":"Neutral"}
+,{"time":"16:04","usr":"parthadhia","txt":"RT @SAI: Mozilla Is Building An Open Source \u0027Firefox\u0027 Phone $GOOG by @mattlynley http://t.co/h4qFJqUK","lbl":"Neutral"}
+,{"time":"16:10","usr":"SeekingAlpha","txt":"RIM: The Next Palm? http://t.co/kZrOCSLb $AAPL $AMZN $FB $GOOG $HPQ $RIMM","lbl":"Neutral"}
+,{"time":"17:19","usr":"m_desmond","txt":"$GOOG contributed $80B to U.S. economy in 2011 -- amazing stats. http://t.co/Wau1TtrM","lbl":"Positive"}
+,{"time":"17:21","usr":"iu77bu81","txt":"Nice, good compliment to other devices! RT @wallstCS: Analyst: iPad Mini Is On Its Way http://t.co/rES0eQny $GOOG $AAPL $AMZN #mkt #stocks","lbl":"Neutral"}
+,{"time":"17:24","usr":"wsmco","txt":"Video of head to head test of $GOOG Voice Actions vs. $AAPL Siri http://t.co/eOskCEAM","lbl":"Neutral"}
+,{"time":"20:14","usr":"amad","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Neutral"}
+,{"time":"20:16","usr":"yawexperience","txt":"RT @greggretsch: Since release of iPhone 5 years ago, market caps of companies most affected - $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89%","lbl":"Positive"}
+,{"time":"20:32","usr":"themotleyfool","txt":"Break out your calendars, here are 4 dates to circle in July! http://t.co/43PTpqdF $GOOG $MCD","lbl":"Neutral"}
+,{"time":"20:51","usr":"ChicagoDiane","txt":"Saw these things at $GOOG. Cool! RT @TheIAFM: Driverless Cars Move Closer in California http://t.co/oNweEWrl","lbl":"Positive"}
+]

@@ -1,0 +1,24 @@
+[
+{"time":"3:13","usr":"jimcramersucks","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/OftD29nI #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"3:56","usr":"simplestockqtes","txt":"Someone just got a simple quote on $goog @simplestockqtes http://t.co/IHZgQwRD","lbl":"Neutral"}
+,{"time":"4:10","usr":"SeekingAlpha","txt":"Facebook IPO: A Valuation Comparison To Other Social Media Stocks http://t.co/mjrkafcJ $FFN $GOOG $GRPN $LNKD $P $QPSA $RENN","lbl":"Neutral"}
+,{"time":"8:15","usr":"DrDuru","txt":"Chart review extravaganza. TELLING stories to bookmark for follow-up: http://t.co/lNLxujeS $GOOG $RIMM $SHLD $GS $FSLR $TSLA $CAT $JCP $INTC","lbl":"Neutral"}
+,{"time":"8:16","usr":"TradeConnect","txt":"$GOOG, nice setup for a long swing","lbl":"Positive"}
+,{"time":"10:00","usr":"mohannadaama","txt":"Agree with JM \u0022 @StockTwits RT @abnormalreturns A real world example of how $FB is hurting $GOOG (via @JeffreyMatthews) http://t.co/wetHGFcQ","lbl":"Negative"}
+,{"time":"11:43","usr":"bbolan1","txt":"@ericjackson and $GOOG actions of lowering CPC helping or hurting the $FB offering? I tend to think its not helping.","lbl":"Neutral"}
+,{"time":"11:45","usr":"mortificador","txt":"RT @SAI: You Don\u0027t Need To Be A Computer Genius To Get These Google Jobs $GOOG by @mattlynley http://t.co/IfIUxYo3","lbl":"Neutral"}
+,{"time":"12:41","usr":"S_LYNGSTAD","txt":"RT @ericjackson: Buying $FB in 2012 at $100b is like buying $GOOG in 2005 at $650/share","lbl":"Neutral"}
+,{"time":"12:41","usr":"joeSnow896","txt":"@DougKass Doug - can you tell me if $GOOG is bottoming?","lbl":"Neutral"}
+,{"time":"12:42","usr":"aaronreynholt","txt":"According to @klout, @CFRN is influential about $aapl, $slv, and $goog http://t.co/0Hg1G2hf","lbl":"Neutral"}
+,{"time":"13:46","usr":"GPickholz","txt":"RT @StockTwits: Euro: Putting lipstick on the PIIGS http://t.co/QuAFqsqo via @LaMonicaBuzz $GSVC $GRPN $GOOG","lbl":"Neutral"}
+,{"time":"13:46","usr":"GiantRobot7","txt":"RT @cnbcfastmoney: This Stock Has Most to Lose from Facebook IPO: Top Analyst http://t.co/uOyPAcnH $GOOG #StockMarket #StockPicks","lbl":"Neutral"}
+,{"time":"14:17","usr":"stocklist21","txt":"$GOOG - Google Stock Analysis - bullish stochastic crossover - http://t.co/6itoYDMf","lbl":"Positive"}
+,{"time":"15:02","usr":"gurufocus","txt":"Should You \u0022Friend\u0022 the Facebook IPO?: $GOOG, $T, $MSFT http://t.co/Nos1LJZ7","lbl":"Neutral"}
+,{"time":"16:00","usr":"hainsworthtv","txt":"EARNINGS DUE: http://t.co/0rzE3nts Q4 revenue seen +88% at $699M with EPS $0.91 up 83% 1 year after $GOOG got out of China. @BNN_TV $BIDU $$","lbl":"Neutral"}
+,{"time":"17:03","usr":"StockTwits","txt":"RT @OptionsCommander WSJ: \u0022The Coming Tech Boom\u0022 3 breakthroughs to transform this century http://t.co/OIOTXwxN $ORCL $IBM $VMW $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"17:04","usr":"DJThistle","txt":"Asus to launch PadFone at Mobile World Congress?: If you remember, Asus introduced the PadFone, a tablet... http://t.co/Joreaj6g $GOOG","lbl":"Neutral"}
+,{"time":"17:06","usr":"WallStJesus","txt":"RT @OptionsCommander WSJ: \u0022The Coming Tech Boom\u0022 3 breakthroughs to transform this century http://t.co/idvmeY3a $ORCL $IBM $VMW $AAPL $GOOG","lbl":"Neutral"}
+,{"time":"18:03","usr":"CNNMoney","txt":"Bocce, cupcakes & laundry - oh my! Just a few of Google\u0027s employee perks. Check out the rest! http://t.co/nau37tmX #BestCos $GOOG","lbl":"Neutral"}
+,{"time":"19:35","usr":"JeremyKissel","txt":"Will Google have to start a patent war to get $9bn of value from Motorola? | Technology | http://t.co/DPGbJQQ7 http://t.co/WVZ1o9fZ $GOOG","lbl":"Negative"}
+,{"time":"19:50","usr":"61point8","txt":"@NickHackworthy Good thing they\u0027re not. Both $BIDU and $GOOG are skewed upward. Hopefully, we\u0027ll get a feedback loop.","lbl":"Positive"}
+]

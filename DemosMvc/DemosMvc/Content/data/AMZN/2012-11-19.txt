@@ -1,0 +1,21 @@
+[
+{"time":"7:24","usr":"WallandBroad","txt":"RT @bmccandless: I\u0027ll pay not to go shopping on Black Friday. Just what $amzn wants to hear.","lbl":"Positive"}
+,{"time":"7:29","usr":"ReginaPucket","txt":"RT @LukeRomyn: Four incredible novels to help you to turbo-charge your Kindle! http://t.co/bwf0fUkH $AMZN #bestsellers #books","lbl":"Neutral"}
+,{"time":"9:21","usr":"TheArmoTrader","txt":"I was abt to buy a headset from $AMZN last night,but found that $BBY had it in stock. No shipping cost +same price +immediacy = Best buy win","lbl":"Negative"}
+,{"time":"9:21","usr":"firstadopter","txt":"BofA: \u0022 $EBAY has lower prices than Amazon.. offering 7% lower prices than $AMZN on average\u0022","lbl":"Negative"}
+,{"time":"10:16","usr":"DeidreZune","txt":"High beta is rallying the most-- the same stocks that were left for dead. Guesses? Hint: $AAPL $GOOG $AMZN. All in time for Thanksgiving","lbl":"Positive"}
+,{"time":"11:04","usr":"StockTwits","txt":"\u0022@TALENTEDBLONDE: My Black Friday musings $AMZN $AAPL $M $TGT http://t.co/RJ3aOmqh\u0022 via Bloomberg Brief","lbl":"Neutral"}
+,{"time":"11:05","usr":"OptionCast","txt":"$EA Electronic Arts option traders aggressively loading up with 17K Jan Calls. http://t.co/aJoouie9 Related: $NFLX, $AAPL, $AMZN","lbl":"Neutral"}
+,{"time":"12:02","usr":"AMZN_stock","txt":"$AMZN stock quote, 11:47am: 230.01 +4.78 (+2.12%).","lbl":"Neutral"}
+,{"time":"12:34","usr":"OptionCast","txt":"$AAPL Mid-Day Option Trading. Options traders getting 3 times more bullish http://t.co/ix6uHd72 Related: $AMZN, $NFLX Free Month Membership!","lbl":"Positive"}
+,{"time":"13:19","usr":"licorishp","txt":"RT @DividendMaster: Looks like a few $AMZN holders trying to quietly slip out backdoor in midst of a classic CNBC style rally on fluff and bluff","lbl":"Negative"}
+,{"time":"13:20","usr":"GlitchRetweet","txt":"RT @StaceyRetail: Online Glitches for $BBY; Not Way to Start off a New Relationship http://t.co/VLSXfyzV $AMZN $WMT $COST","lbl":"Neutral"}
+,{"time":"17:05","usr":"DevinHutchings","txt":"RT @danzarrella: RT @JBoorstin: Pinterest will be a powerful tool for retailers this holiday season- watch @streetsignscnbc for answers. $FB $AMZN","lbl":"Neutral"}
+,{"time":"17:21","usr":"XQuickFixX","txt":"Currently long small positions $ITB $FLT $VAL, PUTS $AMZN PUTS $WFM looking at $SHW $LL for a nibble, over 50% cash basis now","lbl":"Negative"}
+,{"time":"19:19","usr":"NextDayTrade","txt":"Tuesday: $AAPL, $AMZN, $SINA, $GMCR, $BIDU, $ANF, $CTXS","lbl":"Neutral"}
+,{"time":"19:27","usr":"iamwallstreet","txt":"RT @StockWallStreet: Does Yelp Need Help? http://t.co/tgmGU0X2 $YELP $AAPL $GOOG $AMZN $MSFT $FB $ZNGA $P $YHOO $GRPN $LNKD","lbl":"Neutral"}
+,{"time":"22:37","usr":"SKSMediaManila","txt":"RT @stoxline: 5 top stocks on NASDAQ: $ISCA, $AMZN, $WTFC, $GTXI, $NUAN","lbl":"Positive"}
+,{"time":"22:37","usr":"karmic9","txt":"RT @LukeRomyn: Get THE DARK PATH #free on your #Kindle now! http://t.co/5eYvWWfh #freekindlebooks $AMZN","lbl":"Neutral"}
+,{"time":"22:38","usr":"RabidReaders","txt":"RT @LukeRomyn: Get THE DARK PATH #free on your #Kindle now! http://t.co/5eYvWWfh #freekindlebooks $AMZN","lbl":"Neutral"}
+,{"time":"22:40","usr":"wiglove","txt":"RT @LukeRomyn: Get THE DARK PATH #free on your #Kindle now! http://t.co/5eYvWWfh #freekindlebooks $AMZN","lbl":"Neutral"}
+]

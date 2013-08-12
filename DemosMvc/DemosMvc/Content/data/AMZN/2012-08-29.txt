@@ -1,0 +1,28 @@
+[
+{"time":"0:00","usr":"zohaibhassan","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"2:00","usr":"dataPlumbers","txt":"$AMZN #Cloud #AWS \u201CI don\u2019t even know what ballpark number for a server is \u2014 for me, it would be like knowing what the \u2026http://t.co/LfScgnIg","lbl":"Neutral"}
+,{"time":"2:12","usr":"ojilles","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"2:18","usr":"jirizavadil","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"5:28","usr":"DNev47","txt":"$$ http://t.co/YLN0oDTr: Losing The Battle Against eBay, Amazon http://t.co/h3Pu7zq2 $AMZN $EBAY $OSTK","lbl":"Neutral"}
+,{"time":"5:31","usr":"DNev47","txt":"$$ Netflix: Get Content Or Perish http://t.co/YmgMOKMg $AMZN $CMCSA $CSTR $TWX $VZ $NFLX","lbl":"Neutral"}
+,{"time":"7:32","usr":"bramsal","txt":"Well folks, today is a SOH day, due to bad GDP numbers. So we\u0027ll have to see where $AAPL and $AMZN falls into place today","lbl":"Neutral"}
+,{"time":"8:51","usr":"tradermays","txt":"machine gun out taking 3/4 profits $GOOG calls (+55%) $AMZN c (+25%) $LNKD c (+35%) $SBUX c (+15%) $JCP c (+45%)","lbl":"Positive"}
+,{"time":"9:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 10:17am: 245.78 -0.33 (-0.13%).","lbl":"Negative"}
+,{"time":"10:06","usr":"bored2tears","txt":"Amazon Web Services\u0027 job openings reveal its future \u2014 a new kind of browser, global growth, spy work for the US. http://t.co/7cILR7iJ $AMZN","lbl":"Neutral"}
+,{"time":"10:13","usr":"GeekChic21","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+,{"time":"10:45","usr":"YahooFinance","txt":"Job openings at Amazon web services reveal its future http://t.co/M3FtWpBn $AMZN","lbl":"Neutral"}
+,{"time":"10:45","usr":"EdwardFSlayton","txt":"Job openings at Amazon web services reveal its future http://t.co/7iBNAurg $AMZN #StockMarket","lbl":"Neutral"}
+,{"time":"10:46","usr":"ANDREAALVIGINI1","txt":"RT @YahooFinance: Job openings at Amazon web services reveal its future http://t.co/M3FtWpBn $AMZN","lbl":"Neutral"}
+,{"time":"11:30","usr":"RoccoPendola","txt":"Why It May Be Time to Sell Amazon - TheStreet http://t.co/vMLg9VFX via @TheStreet I don\u0027t agree, but @rsaintvilus can write. $AMZN","lbl":"Negative"}
+,{"time":"11:31","usr":"rsaintvilus","txt":"RT @RoccoPendola: Why It May Be Time to Sell Amazon - TheStreet http://t.co/vMLg9VFX via @TheStreet I don\u0027t agree, but @rsaintvilus can write. $AMZN","lbl":"Negative"}
+,{"time":"12:59","usr":"SlayterDev","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"13:00","usr":"MarketCurrents","txt":"New job listings indicate Amazon Web Services (AMZN) could be planning an international push, the NYT... http://t.co/6d6BLRtz $AMZN","lbl":"Neutral"}
+,{"time":"13:28","usr":"smendozag","txt":"@smartertrader except for $amzn, but balance yes positive, that is what matters; same for you Sam congrats","lbl":"Neutral"}
+,{"time":"14:06","usr":"wallstCS","txt":"Google REALLY Wants You to Buy This Product http://t.co/zrTQrVt0 $GOOG $AAPL $AMZN #mkt #stocks #trading #investing","lbl":"Neutral"}
+,{"time":"14:42","usr":"446721x","txt":"$AMZN wants to rip into the bell","lbl":"Neutral"}
+,{"time":"15:30","usr":"dlehman","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"19:08","usr":"AbyVarma","txt":"RT @counternotions: As we start the day, $MSFT + $GOOG + $AMZN + $FB = $627B, $AAPL = $633B.","lbl":"Neutral"}
+,{"time":"22:15","usr":"MR_MONEYSHOW","txt":"Azure Is Windows 8\u0027s Secret Weapon http://t.co/LW2IiAu9 $AMZN $MSFT","lbl":"Neutral"}
+,{"time":"22:22","usr":"ScottyJK6","txt":"$GOOG and $AMZN one breaking out today and the other coiling imho. Holding both","lbl":"Positive"}
+,{"time":"22:28","usr":"everywheresafe","txt":"RT to win a $AMZN Kindle DX with a $50 credit for a trading book & go digital with your trading research from @AllAboutTrends","lbl":"Neutral"}
+]

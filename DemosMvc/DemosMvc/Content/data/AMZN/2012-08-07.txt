@@ -1,0 +1,19 @@
+[
+{"time":"6:58","usr":"shakunni","txt":"RT @PreetaTweets: Pretty Amaz-ing service if you don\u0027t live in a doorman building or don\u0027t want DVDs delivered at work: http://t.co/5s4LpYM1 $AMZN","lbl":"Neutral"}
+,{"time":"6:59","usr":"Retail_Guru","txt":"Office Depot struggling. Delivers -4% comp & contract business is falling too. Office superstores continue to bleed $ODP $OMX $SPLS $AMZN","lbl":"Neutral"}
+,{"time":"7:01","usr":"FAquila","txt":"RT @PreetaTweets: Pretty Amaz-ing service if you don\u0027t live in a doorman building or don\u0027t want DVDs delivered at work: http://t.co/5s4LpYM1 $AMZN","lbl":"Neutral"}
+,{"time":"9:01","usr":"pauldryden","txt":"Some 7 posts & 5K words later, a concise finish to my INTRO (ugh) to $AMZN Feedback Loop: http://t.co/8vcZNjHV #understandingamazon","lbl":"Neutral"}
+,{"time":"9:05","usr":"ECONgeek947","txt":"@LaMonicaBuzz #BOOM goes the $NFLX Arrested Development cast set to begin filming Netflix reboot http://t.co/EdVe6Jnx $AMZN $AAPL $CSTR","lbl":"Neutral"}
+,{"time":"9:38","usr":"cuezaku","txt":"$AMZN","lbl":"Neutral"}
+,{"time":"9:39","usr":"mbcls","txt":"just shorted amazon. they going to charge sales taxes for california pretty soon. people just going to elsewhere to buy tax free! $AMZN","lbl":"Negative"}
+,{"time":"10:43","usr":"Turtletrader59","txt":"$amzn covered oochie......$Spx $spy","lbl":"Neutral"}
+,{"time":"10:44","usr":"FairOaksTrader","txt":"$AMZN Amazon continues to defy gravity. I can\u0027t argue with the market even though I would like to! :)","lbl":"Positive"}
+,{"time":"11:47","usr":"DeidreZune","txt":"Fed\u2019s Rosengren Urges \u2018Open-Ended\u2019 Easing Program http://t.co/mVcwD5xF $SPY $QQQ $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"12:21","usr":"danshep55","txt":"$amzn lets see if we can get a late day run to highs.. will swing if closes well","lbl":"Neutral"}
+,{"time":"12:24","usr":"DutchOracle","txt":"Timing not quite right to open position in Amazon ($AMZN)....hawking it for now.","lbl":"Neutral"}
+,{"time":"14:19","usr":"AlphaVN","txt":"Let the Tablet Wars Really Begin. 7\u0022 is where it will be fought. $GOOG $AAPL $AMZN $BN $MSFT http://t.co/ULjdJL8U","lbl":"Neutral"}
+,{"time":"14:21","usr":"CarolinesCall","txt":"RT @AlphaVN Let the Tablet Wars Really Begin. 7\u0022 is where it will be fought. $GOOG $AAPL $AMZN $BN $MSFT http://t.co/nU4C6NZh","lbl":"Neutral"}
+,{"time":"15:32","usr":"AMZN_stock","txt":"$AMZN stock quote, Aug 7: 236.56 +2.57 (+1.10%).","lbl":"Neutral"}
+,{"time":"15:35","usr":"ajmcafe","txt":"RT @launchticker: $amzn has closed hole that @mat reported as part of his hacking; can no longer call in to change account settings http://t.co/4U8tJ31D","lbl":"Neutral"}
+,{"time":"15:36","usr":"mercenaryjack","txt":"How $AAPL and $AMZN security flaws led to epic hacking: http://t.co/ZZopUxdI Hella scary stuff. Turn on gmail 2-step authentication! $GOOG","lbl":"Neutral"}
+]

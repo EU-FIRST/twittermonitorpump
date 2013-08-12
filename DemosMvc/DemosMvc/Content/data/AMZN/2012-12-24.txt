@@ -1,0 +1,18 @@
+[
+{"time":"6:26","usr":"jurylady5","txt":"RT @AltGovUK: RT @businessinsider: Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/oYR11Mqr #News","lbl":"Negative"}
+,{"time":"6:31","usr":"AmyJarvisInc","txt":"RT @businessinsider: Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/bPTCttN9","lbl":"Negative"}
+,{"time":"7:52","usr":"SedonaKathy","txt":"RT @SAI: Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/XdObKafc","lbl":"Negative"}
+,{"time":"7:54","usr":"dzdock","txt":"Who knows what you\u0027re looking for? Who know what you\u0027ve bought? Amazon & Google Are On A Collision Course In 2013 $AMZN http://t.co/lroDYrwx","lbl":"Neutral"}
+,{"time":"8:57","usr":"thejackdigital","txt":"RT @businessinsider: Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/bPTCttN9","lbl":"Negative"}
+,{"time":"9:51","usr":"obamah82","txt":"Amazon And Google Are On A Collision Course In 2013 $AMZN http://t.co/dNw9V1ZW","lbl":"Negative"}
+,{"time":"9:53","usr":"SaprodaniAlerts","txt":"We believe shares in $AMZN Amazon will likely benefit from strong seasonal sales through the end of this year.","lbl":"Positive"}
+,{"time":"10:51","usr":"RaginCajun","txt":"anybody like $AMZN here?","lbl":"Neutral"}
+,{"time":"10:51","usr":"ntfri","txt":"Now Amazon $AMZN and Google $GOOG collision course http://t.co/4D8RDIjQ","lbl":"Neutral"}
+,{"time":"12:00","usr":"tweet_trader","txt":"http://t.co/7ovwL5sK Sentiment: $WAG +23%, $AAPL -6%, $AMZN -12%, $GOOG -19%, $AMZN -12%, $AAPL -6% http://t.co/uBJyhJcD","lbl":"Neutral"}
+,{"time":"12:04","usr":"TradetheLeader1","txt":"Many stocks holding high after nice runs..buyable at new highs $gs $c $bac $phm $amzn to name a few","lbl":"Positive"}
+,{"time":"12:36","usr":"Fitzstock2004","txt":"$amzn looks like the first one to RIP, on Wednesday.......","lbl":"Negative"}
+,{"time":"13:39","usr":"nereidadin","txt":"Monday links: end of the macro age & a long-term look at $AAPL. http://t.co/qVjXzwZt via @abnormalreturns $SPY $GOOG $AMZN","lbl":"Neutral"}
+,{"time":"17:32","usr":"RaffiSosikian","txt":"Advertising war between Amazon $AMZN & Google $GOOG heats up - http://t.co/2krQJxqn - W/ DSP technology Amazon is looking good.","lbl":"Negative"}
+,{"time":"23:26","usr":"daytrader305","txt":"RT @Jamtrades: $AMZN could squeeze nicely on Wednesday!","lbl":"Negative"}
+,{"time":"23:26","usr":"daytrader305","txt":"RT @Jamtrades: in $AMZN $260C $1.96","lbl":"Neutral"}
+]

@@ -1,0 +1,11 @@
+[
+{"time":"3:06","usr":"MycroftP","txt":"Commented on: \u0022Research In Motion Headed For New Lows?\u0022 http://t.co/XA6QCMXo $RIMM $AAPL $AMZN $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"6:21","usr":"rsaintvilus","txt":"Why Apple Is Checking Out Wal-Mart - TheStreet http://t.co/y5YMm56P via @TheStreet $AAPL $WMT $MCD $GOOG $AMZN $TGT $SBUX $EBAY $ODP","lbl":"Neutral"}
+,{"time":"6:26","usr":"MobilitySoup","txt":"RT @sai: 10 Things You Need To Know This Morning $FB $AAPL $NOK $NFLX $AMZN $MSFT by @nichcarlson http://t.co/9leYY9Cx","lbl":"Neutral"}
+,{"time":"6:31","usr":"RoccoPendola","txt":"RT @rsaintvilus: Why Apple Is Checking Out Wal-Mart - TheStreet http://t.co/y5YMm56P via @TheStreet $AAPL $WMT $MCD $GOOG $AMZN $TGT $SB ...","lbl":"Neutral"}
+,{"time":"9:15","usr":"aviatelive","txt":"Content is king part 2: Amazon $AMZN versus Netflix $NFLX. The simple maths http://t.co/MV4BKsvt #GlobalTMTIdeas","lbl":"Neutral"}
+,{"time":"9:20","usr":"eeckdhal","txt":"@ECONgeek947 but $AMZN also sells appetizers and deserts. They don\u0027t need to raise prices on pizza and pop. $NFLX is going down.","lbl":"Positive"}
+,{"time":"9:22","usr":"ECONgeek947","txt":"LOW supply of GOOD content LEFT 4 $NFLX 2 ADD ergo create content & improve quality of service-JUST LIKE HBO, PS 7days til $AMZN dies ;) $FB","lbl":"Negative"}
+,{"time":"10:51","usr":"BrentThreadgill","txt":"Online rtlrs ($AMZN & $BBY) applying dynamic pricing algos to win the sale - vid: http://t.co/72tXjTTH text: http://t.co/wTwFFvc7","lbl":"Neutral"}
+,{"time":"20:01","usr":"FreedoniaMoney","txt":"How the Epix Deal Affects $AMZN $NFLX and streaming video! http://t.co/CwbiYYUC #amazon #netflix","lbl":"Neutral"}
+]

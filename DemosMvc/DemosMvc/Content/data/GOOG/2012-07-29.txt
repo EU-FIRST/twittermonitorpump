@@ -1,0 +1,16 @@
+[
+{"time":"0:09","usr":"dslevy","txt":"Real social search coming. RT @TechCrunch: Bitly Announces Realtime, A Search Engine For Trending Links http://t.co/0Xo83vjo $FB $TWIT $GOOG","lbl":"Neutral"}
+,{"time":"0:30","usr":"JudeDeCorgi","txt":"$$BUY 10 $GOOG","lbl":"Positive"}
+,{"time":"8:58","usr":"GerardLaMorte","txt":"A break of $GOOG 660 will get you 760 and a break of 560 will get you 460...","lbl":"Neutral"}
+,{"time":"9:08","usr":"jpintobks","txt":"Commented on: \u0022Microsoft Surface, And Windows 8 Tablets In General, Will Be Compet... http://t.co/s9hUGzeY $MSFT $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"9:13","usr":"thefinancepress","txt":"$GOOG Google Inc (NASDAQ:GOOG) and the Future of Connectivity: Google Inc (NASDAQ:GOOG) and the Future of Conne... http://t.co/r3vCk7Ma","lbl":"Neutral"}
+,{"time":"13:50","usr":"RedDogT3Live","txt":"$goog $AAPL $bidu $lulu $Hal $slb $MOS. All nice tactical set ups from the PPT and off the charts. Look for new ones Monday","lbl":"Neutral"}
+,{"time":"13:50","usr":"BUDDIEE18","txt":"RT @RedDogT3Live: $goog $AAPL $bidu $lulu $Hal $slb $MOS. All nice tactical set ups from the PPT and off the charts. Look for new ones Monday","lbl":"Neutral"}
+,{"time":"13:57","usr":"iStockAnalyst","txt":"Weighing The Week Ahead: Expecting Too Much From Central Bankers? $ADP $CDS $GOOG $NYT $SMP: Last week\u0027s big st... http://t.co/8Cl9Ke13","lbl":"Neutral"}
+,{"time":"16:17","usr":"JamesGMark","txt":"IMO, if market up Monday, $PCLN $AAPL look much better for Call options plays than $GOOG. $GOOG needs a little rest.","lbl":"Negative"}
+,{"time":"16:20","usr":"BUDDIEE18","txt":"Can Planets Affect Your Portfolio? http://t.co/3ofJaR2C $SPY $GOOG $AAPL $BIDU $JPM $GS $NDX ..+ the algos in Bernanke\u0027s machine","lbl":"Neutral"}
+,{"time":"23:16","usr":"SystemBugRpt","txt":"FREE FOOD?! YAAAAHOOOOO! $YHOO $GOOG | #Yahoogle http://t.co/JliqbIuR -- System Bug Report (@SystemBugRpt)","lbl":"Neutral"}
+,{"time":"23:18","usr":"ajmcafe","txt":"RT @SystemBugRpt: FREE FOOD?! YAAAAHOOOOO! $YHOO $GOOG | #Yahoogle http://t.co/JliqbIuR -- System Bug Report (@SystemBugRpt)","lbl":"Neutral"}
+,{"time":"23:32","usr":"daviddayan68","txt":"RT @mercenaryjack: Interesting to compare real world impact of $AMZN / $GOOG to that of $FB, $ZNGA, $GRPN. Retail revolution / digital fiber vs... Farmville","lbl":"Neutral"}
+,{"time":"23:39","usr":"thefinancepress","txt":"$GOOG Google, Christie\u0027s, Apple, Samsung: Intellectual Property: Google, Christie\u0027s, Apple, Samsung: Intellectu... http://t.co/SgCXxavV","lbl":"Neutral"}
+]

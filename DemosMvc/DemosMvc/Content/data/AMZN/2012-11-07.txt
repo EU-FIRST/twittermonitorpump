@@ -1,0 +1,20 @@
+[
+{"time":"0:10","usr":"DanielPearson","txt":"Breaking news: $AMZN launches same-day Marijuana delivery to Seattle.","lbl":"Neutral"}
+,{"time":"10:09","usr":"KimbleCharting","txt":"$GOOG, $APPL $GE $AMZN GAGA indicator not looking too good today! http://t.co/JMJFtrmZ","lbl":"Negative"}
+,{"time":"10:47","usr":"dlcmh","txt":"Wednesday\u0027s options open interest & max pain updated for $AAPL, $AMZN, $GOOG, $SPY http://t.co/IltBmNMK","lbl":"Neutral"}
+,{"time":"10:55","usr":"Corkviews","txt":"@OptionsHawk liking $AMZN $IBM charts","lbl":"Positive"}
+,{"time":"11:50","usr":"Equitykingkong","txt":"$AMZN: long @ 229.55-75 small","lbl":"Positive"}
+,{"time":"12:46","usr":"CDMCapital","txt":"\u0022@howardlindzon:i hate paris\u0022@PowerofthePattern:$AAPL $GOOG $AMZN Apple Eiffel tower pattern support test is @ hand! http://t.co/6XCPJzNG\u0022\u0022","lbl":"Neutral"}
+,{"time":"13:47","usr":"BigTicks","txt":"$AMZN News: Buzz Stocks: Time Warner, http://t.co/0pEXC5uk, Verizon Communications, and Pfizer http://t.co/HlZXKm6e #Amazoncom #AMZN #Buzz","lbl":"Neutral"}
+,{"time":"13:48","usr":"MomentumPtrsLLC","txt":"$amzn out never made to my target -.05","lbl":"Negative"}
+,{"time":"14:54","usr":"Minyanville","txt":"7 Reasons Why Obama\u0027s Policies Are Great for the Tech Industry $GOOG $FB $EBAY $MSFT $AMZN http://t.co/Sermgy1I","lbl":"Positive"}
+,{"time":"16:10","usr":"crazyfasteddy","txt":"$QCOM beats.. oh no..more good news for $AAPL to go down on.. this news should get $AMZN to PE 3000 2moro","lbl":"Positive"}
+,{"time":"16:15","usr":"TradeEdge","txt":"$AAPL $GOOG $AMZN Tablet showdown: iPad mini vs. Nexus 7 vs Kindle Fire HD - Nov. 7, 2012 http://t.co/sDXfYH3Q via @sharethis","lbl":"Neutral"}
+,{"time":"18:27","usr":"businessinsider","txt":"Online Video Piracy Is Fading Away, Thanks To Netflix $NFLX $AMZN by @owenthomas http://t.co/hhjy9BR7","lbl":"Neutral"}
+,{"time":"18:27","usr":"SAI","txt":"Online Video Piracy Is Fading Away, Thanks To Netflix $NFLX $AMZN by @owenthomas http://t.co/TswM0JHj","lbl":"Neutral"}
+,{"time":"18:27","usr":"tbithewire","txt":"Online Video Piracy Is Fading Away, Thanks To Netflix $NFLX $AMZN by @owenthomas http://t.co/2t6d6GtI","lbl":"Neutral"}
+,{"time":"18:29","usr":"antony__smith","txt":"RT @SAI: Online Video Piracy Is Fading Away, Thanks To Netflix $NFLX $AMZN by @owenthomas http://t.co/TswM0JHj","lbl":"Neutral"}
+,{"time":"19:24","usr":"gsDetermination","txt":"Online Video Piracy Is Fading Away, Thanks To Netflix $NFLX $AMZN by @owenthomas http://t.co/afEGFFlS","lbl":"Neutral"}
+,{"time":"22:50","usr":"aparcedoluis","txt":"RT @SAI: Online Video Piracy Is Fading Away, Thanks To Netflix $NFLX $AMZN by @owenthomas http://t.co/TswM0JHj","lbl":"Neutral"}
+,{"time":"22:58","usr":"network20q","txt":"RT @SAI: Online Video Piracy Is Fading Away, Thanks To Netflix $NFLX $AMZN by @owenthomas http://t.co/4ismytYU","lbl":"Neutral"}
+]

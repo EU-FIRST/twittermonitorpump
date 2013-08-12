@@ -1,0 +1,9 @@
+[
+{"time":"7:05","usr":"InvestorsLive","txt":"http://t.co/2Lxa1TWo Verified $1,326.51 profit in $AMZN Auto import trades as of 27th of April - Broad","lbl":"Neutral"}
+,{"time":"7:20","usr":"Finance_Wire","txt":"RT @etfdigest: Bulls Cherry Pick News http://t.co/mb502lip $AMZN $XBI $IYR $$","lbl":"Neutral"}
+,{"time":"13:31","usr":"wallstCS","txt":"Weekly Market Recap: Apple\u0027s EXPLOSIVE Earnings. \u0027Nuff Said http://t.co/QLs4Tt4m $AAPL $NFLX $AMZN $EXPE $FB $S $BAC $ADBE $WMT $GOOG $MSFT","lbl":"Neutral"}
+,{"time":"13:32","usr":"brokerz_bullish","txt":"RT @wallstCS - Weekly Market Recap: Apple\u005C\u0027s EXPLOSIVE Earnings. \u005C\u0027Nuff Said http://t.co/c0A1xHrj $AAPL $NFLX $AMZN $EXPE $FB $S...","lbl":"Neutral"}
+,{"time":"13:32","usr":"tradekingking","txt":"$AMZN - Amazon Stock Analysis - stock gap up, #bull signal - http://t.co/9XLY7BsK","lbl":"Positive"}
+,{"time":"18:29","usr":"BEFREEinFL","txt":"RT @TraderFlorida: $AMZN http://t.co/72cGIXgx A monster run Friday on solid earnings - appears ready to move back to recent highs.","lbl":"Positive"}
+,{"time":"18:41","usr":"b_ducamel","txt":"Thanks Jeff Bezos for making me more money in one day than I could make working a shitty job all summer. $AMZN","lbl":"Neutral"}
+]

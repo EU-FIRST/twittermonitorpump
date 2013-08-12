@@ -1,0 +1,20 @@
+[
+{"time":"6:32","usr":"d_ramsden","txt":"If $GOOG is scared of $FB, $FB seems sort of spooked by $AAPL (i.e., mobile) & $AMZN (i.e., commerce). http://t.co/UvYqRRRZ $$","lbl":"Neutral"}
+,{"time":"6:33","usr":"emartino","txt":"RT @FortuneMagazine: Amazon\u0027s knock-off problem (35 Shades of Grey, anyone?) http://t.co/AV6rkRWO $AMZN","lbl":"Neutral"}
+,{"time":"8:41","usr":"TraderInPlay","txt":"$AMZN, $GOOG, $WYNN notable rel. weakness in $QQQ early","lbl":"Negative"}
+,{"time":"8:53","usr":"punk_army","txt":"Kindle Fire, iPad and all that tablet hype http://t.co/SvrV6QnQ #video $amzn $hpq $aapl $goog","lbl":"Neutral"}
+,{"time":"9:35","usr":"Lowtown21","txt":"still like $BIDU long here, same type of action as Friday. The chart still looks bullish. $AMZN not so much. @Xiphos_Trading is right 4 now","lbl":"Negative"}
+,{"time":"9:36","usr":"CNNMoney","txt":"RT @LaMonicaBuzz: Momentum\u0027s a female dog. Hot stocks with triple-digit share prices -- $PCLN $GOOG $MA $AAPL $CMG $FOSL $AMZN -- all down about 2% today.","lbl":"Negative"}
+,{"time":"9:55","usr":"lolosmythe","txt":"RT @FortuneMagazine: Amazon\u0027s knock-off problem (35 Shades of Grey, anyone?) http://t.co/AV6rkRWO $AMZN","lbl":"Neutral"}
+,{"time":"10:50","usr":"SeekingAlpha","txt":"The Day The Retail Store Died http://t.co/52O8j5qS $AAPL $AMZN $BKS $EBAY $GME $OSTK $RAD $RSH $TGT $WMT $BBY","lbl":"Neutral"}
+,{"time":"11:13","usr":"flashrouters","txt":"RT @businessinsider: The 9 Best Tablets You Can Buy For $400 Or Less $GOOG $AMZN by @stevekovach http://t.co/M7nqTU7g #tablettime","lbl":"Neutral"}
+,{"time":"11:13","usr":"lluccipha","txt":"SAI: The 9 Best Tablets You Can Buy For $400 Or Less $GOOG $AMZN by @stevekovach http://t.co/uveyqa3e","lbl":"Neutral"}
+,{"time":"12:05","usr":"wallstCS","txt":"Apple Rumored to Reveal This New Device http://t.co/HTaMUFS3 $AAPL $MSFT $AMZN $GOOG #mkt #stocks #trading","lbl":"Neutral"}
+,{"time":"12:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 186.00 -2.46 (-1.31%).","lbl":"Negative"}
+,{"time":"12:33","usr":"lelandkim","txt":"RT @CNNMoney: Is the Best Buy in your area closing? Find out here: http://t.co/z5dOTXBo $BBY $AMZN","lbl":"Neutral"}
+,{"time":"13:12","usr":"jpeak64","txt":"One location in TN: Antioch. \u0022@CNNMoney: Is the Best Buy in your area closing? Find out here: http://t.co/rUBC34xr $BBY $AMZN\u0022","lbl":"Neutral"}
+,{"time":"13:13","usr":"marksigal","txt":"Baby, meet Bath Water: Two good articles on $AMZN eBook Strategy (http://t.co/OfZpTEDX) and Agency Model in eBooks (http://t.co/hfPEckOP).","lbl":"Neutral"}
+,{"time":"13:13","usr":"lazywisdom","txt":"Baby, meet Bath Water: Two good articles on $AMZN eBook Strategy (http://t.co/mSuShovN) and Agency Model in eBooks (http://t.co/WlCyXC2K).","lbl":"Neutral"}
+,{"time":"13:15","usr":"marksigal","txt":"Baby, meet Bath Water: Two good articles on $AMZN eBook Strategy (http://t.co/7LcAVDa9) and Agency Model in eBooks (http://t.co/hfPEckOP).","lbl":"Neutral"}
+,{"time":"15:16","usr":"Jhnyc123","txt":"Commented on: \u0022The Day The Retail Store Died\u0022 http://t.co/xKVt6aZL $AAPL $AMZN $BKS $EBAY $GME $OSTK $RAD $RSH $TGT $WMT $BBY","lbl":"Neutral"}
+]

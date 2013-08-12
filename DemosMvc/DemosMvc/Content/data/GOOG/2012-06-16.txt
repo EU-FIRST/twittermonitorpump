@@ -1,0 +1,8 @@
+[
+{"time":"9:36","usr":"USwwwStocks","txt":"$GOOG News: Google To Present At The Guggenheim TMT Symposium http://t.co/2Um93z2I #GOOG #Google #Guggenheim","lbl":"Neutral"}
+,{"time":"9:38","usr":"TenBaggers","txt":"Why we\u0027re buying more #Google for our portfolio -- a video discussion: http://t.co/FxrMGl44 $GOOG","lbl":"Positive"}
+,{"time":"18:54","usr":"jmarienolan","txt":"RT @themotleyfool: Google, Apple, and Facebook. Why you should consider buying these 3 stocks now: http://t.co/8zbA5sID $GOOG $AAPL $FB","lbl":"Positive"}
+,{"time":"19:05","usr":"darkhorse305","txt":"RT @themotleyfool: Google, Apple, and Facebook. Why you should consider buying these 3 stocks now: http://t.co/8zbA5sID $GOOG $AAPL $FB","lbl":"Positive"}
+,{"time":"19:07","usr":"USwwwStocks","txt":"$GOOG News: Google asked to set up IT centres at grassroots level http://t.co/Ahxiggii #GOOG #asked #centres","lbl":"Neutral"}
+,{"time":"19:21","usr":"evangreenberg","txt":"Super engineer @SebastianThrun is making moves for $GOOG and Udacity #selfdrivingcars #onlineeducation #secretprojects","lbl":"Positive"}
+]

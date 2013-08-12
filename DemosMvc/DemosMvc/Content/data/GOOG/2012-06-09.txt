@@ -1,0 +1,7 @@
+[
+{"time":"3:07","usr":"Qwovadis","txt":"Commented on: \u0022Baidu\u0027s Cloud ROM: Striking At The Heart Of Google Android\u0022 http://t.co/EFhv8Duw $BIDU $AAPL $GOOG $TCEHY.PK","lbl":"Neutral"}
+,{"time":"11:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 11:30 EST have been positive. Watch the real-time indicator graph at http://t.co/c4rm8WGR","lbl":"Positive"}
+,{"time":"14:54","usr":"datbadjuju","txt":"Study: 69% of new #apps are developed for #iOS versus 31% for #Android http://t.co/UXnFYnh3 #Apple #Google $AAPL $GOOG","lbl":"Negative"}
+,{"time":"15:03","usr":"stockticks","txt":"$GOOG News: Google (NASDAQ:GOOG) Succeeds Partial Repeal of Lower Court Ruling \u2013 GOOG \u2026 http://t.co/GLbqFcMY #USWwwStocks","lbl":"Positive"}
+,{"time":"15:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 15:30 EST have been positive. Watch the real-time indicator graph at http://t.co/c4rm8WGR","lbl":"Positive"}
+]

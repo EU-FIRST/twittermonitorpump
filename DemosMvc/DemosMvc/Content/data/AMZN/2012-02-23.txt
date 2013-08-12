@@ -1,0 +1,17 @@
+[
+{"time":"2:43","usr":"Millarrh","txt":"Amazon $AMZN will start collecting sales tax in VA after Sep 2013. http://t.co/RjW0bm3m","lbl":"Neutral"}
+,{"time":"8:17","usr":"SJosephBurns","txt":"I am going into this morning long $AAPL with calls, short $GOOG with puts, and short $AMZN stock. This should be interesting, today.","lbl":"Negative"}
+,{"time":"9:36","usr":"RaginCajun","txt":"$AMZN finally cracking","lbl":"Negative"}
+,{"time":"9:36","usr":"trader_paradise","txt":"$AMZN puts paying","lbl":"Negative"}
+,{"time":"10:16","usr":"basilnsage","txt":"$AMZN nice bounce off double bottom","lbl":"Positive"}
+,{"time":"10:16","usr":"CashRocket","txt":"in $AMZN weekly 175C @ 3.55","lbl":"Neutral"}
+,{"time":"10:18","usr":"ManijehM","txt":"$AMZN is wroking at least for now","lbl":"Neutral"}
+,{"time":"11:03","usr":"CashRocket","txt":"theres the move i was hoping for in $amzn #fml","lbl":"Neutral"}
+,{"time":"11:04","usr":"Stockalertj","txt":"$AMZN needs to break $181.00 to truly turn it\u0027s ship","lbl":"Neutral"}
+,{"time":"11:51","usr":"Aruno_Chang","txt":"RT @SAI: The Kindle Fire Cools Off: Barclays Cuts Its Kindle Forecast For The Year $AMZN by @jyarow http://t.co/yuRYx7eg","lbl":"Neutral"}
+,{"time":"12:58","usr":"brokerz_rumors","txt":"RT @Trefis - Rumored iPad Mini Could Make a Splash in Tablet Market http://t.co/3g7vvAzX $AAPL $AMZN $MMI","lbl":"Neutral"}
+,{"time":"13:34","usr":"jaykza","txt":"$AMZN in some serious trouble","lbl":"Negative"}
+,{"time":"14:16","usr":"rodeubanks","txt":"@jimcramer What is up with $AMZN? Sell?","lbl":"Negative"}
+,{"time":"15:06","usr":"trader_paradise","txt":"$AMZN weekly 180 puts paid nearly 150% intraday","lbl":"Negative"}
+,{"time":"16:10","usr":"Tradesight","txt":"Nice #trading winners in #stocks today from our calls, incl $AMZN and $TEVA. Read the recap here about the #markets: http://t.co/dxvICy6C","lbl":"Positive"}
+]

@@ -1,0 +1,45 @@
+[
+{"time":"4:00","usr":"pdickp","txt":"#Google $GOOG Commercial: \u0022Introducing Custom Themes in Gmail\u0022 http://t.co/pM7uHhop","lbl":"Neutral"}
+,{"time":"4:10","usr":"SeekingAlpha","txt":"Billionaire Stephen Mandel\u0027s New Stock Pick http://t.co/GQ0QCT7A $AAPL $GOOG $JNJ $NVS $PCLN $PFE $COO","lbl":"Neutral"}
+,{"time":"4:10","usr":"SeekingAlpha","txt":"Microsoft Smacks Google With New Surface Tablet http://t.co/qME9sXGT $AAPL $AMZN $GOOG $SNE $MSFT","lbl":"Negative"}
+,{"time":"6:58","usr":"mcilderman","txt":"Will #Apple Soon Sell 3D Printers? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #tech #investing #Mac @cultofmac","lbl":"Neutral"}
+,{"time":"6:59","usr":"KristenMParker","txt":"RT @businessinsider: Google Prepares To \u0022Reset And Retool\u0022 The Dying Elephant It Just Bought (Motorola) $GOOG by @hblodget http://t.co/Fw701wld","lbl":"Neutral"}
+,{"time":"6:59","usr":"akivak","txt":"RT @mcilderman: Will #Apple Soon Sell 3D Printers? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #tech #investing #Mac @cultofmac","lbl":"Neutral"}
+,{"time":"7:07","usr":"drumelis","txt":"RT @mcilderman: Will #Apple Soon Sell 3D Printers? http://t.co/WCzo3zjJ $AAPL $AMZN $MSFT $GOOG #tech #investing #Mac @cultofmac","lbl":"Neutral"}
+,{"time":"8:04","usr":"BluHorShoe","txt":"I am short $GOOG with slightly out of the money Puts that I purchased yesterday at close","lbl":"Negative"}
+,{"time":"8:10","usr":"choffman1978","txt":"$FB Unreal - rallying again. #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"8:11","usr":"UdallTechStrat","txt":"I\u0027m more bullish about potential for $goog buy of MMI than most. Note, was buying $MMI in the $20\u0027s before the deal. http://t.co/vXAnvw3Z","lbl":"Positive"}
+,{"time":"8:12","usr":"Alex__Salomon","txt":"RT @UdallTechStrat: I\u0027m more bullish about potential for $goog buy of MMI than most. Note, was buying $MMI in the $20\u0027s before the deal. http://t.co/vXAnvw3Z","lbl":"Positive"}
+,{"time":"8:58","usr":"tjb1970","txt":"RT @BI_Advertising: CLAIM: Google Ad Campaign Won Top Cannes Award In Corrupt Judging Process $GOOG $OMC $WPPGY by @Jim_Edwards http://t.co/IfmqR4zz","lbl":"Negative"}
+,{"time":"8:59","usr":"choffman1978","txt":"$SIRI running - news?. #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"9:35","usr":"USwwwStocks","txt":"$GOOG News: Google Says Motorola is More Than Patents http://t.co/yRmU1fIm #GOOG #Google #more","lbl":"Neutral"}
+,{"time":"9:36","usr":"choffman1978","txt":"$ACUR 100 share manipultion!. #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"9:36","usr":"choffman1978","txt":"$CORT RALLYING HUGE!!. #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"9:37","usr":"pennystockguys","txt":"$GOOG - Traders Cash In on 100% Profitable Stock Alerts With 28 Straight Winners http://t.co/nfqVq6fy","lbl":"Neutral"}
+,{"time":"9:59","usr":"choffman1978","txt":"$CORT up 5%!. #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"9:59","usr":"salespop","txt":"RT @SAI_Tools: Flipboard Is Now Officially Available For Android $GOOG by @officialKLS http://t.co/aTtH1jll","lbl":"Neutral"}
+,{"time":"9:59","usr":"DrewKerr","txt":"RT @SAI: Flipboard Is Now Officially Available For Android $GOOG by @officialKLS http://t.co/kiWEXUtU","lbl":"Neutral"}
+,{"time":"9:59","usr":"robinschmid","txt":"RT @SAI: Flipboard Is Now Officially Available For Android $GOOG by @officialKLS http://t.co/kiWEXUtU","lbl":"Neutral"}
+,{"time":"10:36","usr":"choffman1978","txt":"$CORT $5 today????!. #cnbc,#msnbc,#nyse,#wsj,#stocks,#biotech,#money,#investments,$pfe,$jnj,$ctic,$arna,$vvus,$chtp,$gs,$fb,$goog","lbl":"Neutral"}
+,{"time":"10:37","usr":"Nurse_Techy","txt":"RT @mcilderman: Will #Apple Soon #Sell 3D Printers? http://t.co/WCzo3zjJ $AAPL $AMZN #Amazon $MSFT $GOOG #google #Mac #tech @wilw","lbl":"Neutral"}
+,{"time":"10:38","usr":"funtime7777","txt":"RT @SAI: Flipboard Is Now Officially Available For Android $GOOG by @officialKLS http://t.co/kiWEXUtU","lbl":"Neutral"}
+,{"time":"10:38","usr":"kngbn97","txt":"RT @SAI: Flipboard Is Now Officially Available For Android $GOOG by @officialKLS http://t.co/kiWEXUtU","lbl":"Neutral"}
+,{"time":"12:05","usr":"richfred","txt":"RT @businessinsider: iPhone Vs. Samsung Galaxy S III: Which Phone Should You Buy? $AAPL $GOOG by @stevekovach http://t.co/wO2XpGr5","lbl":"Neutral"}
+,{"time":"12:06","usr":"TxbetaZesty","txt":"every1 reporting on $GOOG #Page #LossofVoice story seems 2b loosing their voice during their reports - funny n ironic!!! @simonconstable","lbl":"Neutral"}
+,{"time":"13:13","usr":"pennystockguys","txt":"$GOOG - Facebook to Require Privacy Policies for All Apps in App Center -LA Times http://t.co/IPiUc4gq","lbl":"Neutral"}
+,{"time":"13:13","usr":"ADVFNplc","txt":"$GOOG - Facebook to Require Privacy Policies for All Apps in App Center -LA Times http://t.co/gDJszOWM","lbl":"Neutral"}
+,{"time":"13:14","usr":"JM_thatswassup","txt":"$Goog clearing up space on its homepage. Is there somethign to this?? http://t.co/Mbb2guC3","lbl":"Neutral"}
+,{"time":"13:18","usr":"0100c","txt":"RT @SAI: iPhone Vs. Samsung Galaxy S III: Which Phone Should You Buy? $AAPL $GOOG by @stevekovach http://t.co/5QYVMazp","lbl":"Neutral"}
+,{"time":"14:30","usr":"johnoeffinger75","txt":"RT @SAI: Something Is Going On In Google\u0027s Maps And Commerce Group $GOOG by @owenthomas http://t.co/i1BMgWk9","lbl":"Neutral"}
+,{"time":"14:34","usr":"UdallTechStrat","txt":"$goog -- Google to launch cloud competitor to Amazon and Microsoft, http://t.co/gRgMge9g says","lbl":"Neutral"}
+,{"time":"15:34","usr":"wallstCS","txt":"Here\u0027s Why Samsung Seems PLAGUED By Bad Luck http://t.co/jT83ksac $AAPL $T $GOOG $S $VZ #mkt #stocks","lbl":"Neutral"}
+,{"time":"15:39","usr":"jdsherry","txt":"RT @SAI: Google To Launch Its Amazon Cloud Killer Next Week $AMZN $GOOG by @Julie188 http://t.co/ZOYnjnMf #cloud @Trendmicro","lbl":"Neutral"}
+,{"time":"15:43","usr":"SAI_Tools","txt":"Now HTC Is Making A Siri Clone $GOOG $AAPL by @officialKLS http://t.co/cs9l5ybK","lbl":"Neutral"}
+,{"time":"16:59","usr":"ryanmcraver","txt":"amazing what a little competition from apple will do to google pricing on maps product $goog $aapl http://t.co/8TAjblrE","lbl":"Negative"}
+,{"time":"17:00","usr":"t_manfredi","txt":"RT @SAI: Google To Launch Its Amazon Cloud Killer Next Week $AMZN $GOOG by @Julie188 http://t.co/FxJf75fF","lbl":"Positive"}
+,{"time":"17:00","usr":"drkavitashaikh","txt":"RT @Dividend_Lover Will #Apple Sell 3D Printers Soon? http://t.co/5RtFwZ8S $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #3dprinting","lbl":"Neutral"}
+,{"time":"17:01","usr":"samestrin","txt":"Google to launch Amazon, Microsoft cloud competitor at Google I/O 2012 http://t.co/aoXLMYJ5 $goog #cloud","lbl":"Neutral"}
+,{"time":"22:30","usr":"StocksOracle123","txt":"Social Indicators for $GOOG since 22:30 EST have been negative. Live graph here http://t.co/c4rm8WGR #NASDAQ","lbl":"Negative"}
+,{"time":"22:42","usr":"fbmoney1","txt":"RT @Dividend_Lover Will #Apple Sell 3D Printers Soon? http://t.co/xeHfjNdp $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #3dprinting","lbl":"Neutral"}
+,{"time":"22:56","usr":"BurnWorld","txt":"RT @Dividend_Lover Will #Apple Sell 3D Printers Soon? http://t.co/MX7wBexg $AAPL $AMZN $MSFT $GOOG #google #tech #investing #Mac #3dprinting","lbl":"Neutral"}
+]

@@ -1,0 +1,23 @@
+[
+{"time":"0:12","usr":"BUDDIEE18","txt":"Real Estate Lender Implosion: fwd: Contrary to popular belief http://t.co/ZoXcz2kO $GOOG $BIDU $GS $ AIG $WFC $JPM","lbl":"Neutral"}
+,{"time":"0:18","usr":"alrajhi10","txt":"RT @SAI: Google Is Trying To Ban iPhones, iPads, And Macs From The U.S. $GOOG $AAPL by @owenthomas http://t.co/qDcQI6UO","lbl":"Neutral"}
+,{"time":"0:20","usr":"swb1192","txt":"@JordanSussman $Goog AND $AAPL up on the same day? quite rare! ;)","lbl":"Neutral"}
+,{"time":"7:12","usr":"alexischeong","txt":"RT @nichcarlson: Forget Apple, Forget Facebook: Here\u0027s The One Company That Actually Terrifies Google Execs $GOOG $AMZN $AAPL http://t.co/xW0DvPW2","lbl":"Negative"}
+,{"time":"7:13","usr":"patryk_kubiak","txt":"RT @dkberman: Facebook\u0027s 50% plunge doesn\u0027t tell the real story. $FB still valued at 37 times 2013 earnings. $GOOG - 15 times. $LNKD - 112 times","lbl":"Neutral"}
+,{"time":"7:25","usr":"StockTwits","txt":"Saturday links: limits and balance http://t.co/9sH7HiQE via @abnormalreturns $EWJ $GOOG","lbl":"Neutral"}
+,{"time":"7:25","usr":"Fitzstock2004","txt":"Huge week for $GOOG, and for your PnL :) This weekly chart (Cup n Handle)says \u0022WANTS HIGHER\u0022 http://t.co/Wmh5vLLL","lbl":"Positive"}
+,{"time":"9:38","usr":"rjsanchez01","txt":"RT @Fitzstock2004: I can post a million charts today (\u0022charts while u sleep\u0022), but then they loose their relevancy ....stick with $goog $aapl $amzn $xlk ....GL","lbl":"Positive"}
+,{"time":"9:40","usr":"WaleedSammyDiab","txt":"RT @SAI: Here\u0027s Some Really Good News For Android Fans $GOOG by @stevekovach http://t.co/sYrKseRi","lbl":"Neutral"}
+,{"time":"9:42","usr":"jkho1980","txt":"RT @SAI: Here\u0027s Some Really Good News For Android Fans $GOOG by @stevekovach http://t.co/TvGMPy3n","lbl":"Neutral"}
+,{"time":"11:25","usr":"muthiahrm","txt":"RT @SAI: Here Are The Best iPhone And iPad Apps You Missed This Week $AAPL $GOOG $FB by @officialKLS http://t.co/kFJDVRt2","lbl":"Neutral"}
+,{"time":"11:33","usr":"pateljigar7","txt":"RT @SAI: Here\u0027s Some Really Good News For Android Fans $GOOG by @stevekovach http://t.co/mF1f7Tm3","lbl":"Neutral"}
+,{"time":"11:40","usr":"Williamj54","txt":"Names within/below buy points to consider this wk: $AAPL, $FRAN, $TFM, $TDC, $KORS, $GOOG, $AMZN, $EQIX","lbl":"Positive"}
+,{"time":"14:00","usr":"daytrend","txt":"RT @upsidetrader: New Post: What Facebook Really Cost You http://t.co/paXpDVHR $FB $GOOG $AAPL $MLNX $MDVN $QQQ","lbl":"Neutral"}
+,{"time":"14:04","usr":"StockCurrents","txt":"Forget $GOOG and $AAPL, here\u0027s a stock with 120% upside in the next few years: http://t.co/vZEHX7H9 $CNO","lbl":"Neutral"}
+,{"time":"14:08","usr":"ravivlb","txt":"RT @SAI: Here\u0027s Some Really Good News For Android Fans $GOOG by @stevekovach http://t.co/7nNYEw6X","lbl":"Neutral"}
+,{"time":"14:12","usr":"ChrisAstro","txt":"RT @SAI: Here\u0027s Some Really Good News For Android Fans $GOOG by @stevekovach http://t.co/mF1f7Tm3","lbl":"Positive"}
+,{"time":"18:14","usr":"BhagCAPITAL","txt":"\u0022@WTFRLY: The @federalreserve can hint at #QE3 at the Jackson Hole mtg, but then what? 81 days to #RomneyRyan2012 $GOOG $AMZN $FB $GRPN","lbl":"Neutral"}
+,{"time":"18:18","usr":"vodioapp","txt":"RT @businessinsider: Here Are The Best iPhone And iPad Apps You Missed This Week $AAPL $GOOG $FB by @officialKLS http://t.co/OrxKKJCj","lbl":"Neutral"}
+,{"time":"18:19","usr":"pictureofpower","txt":"$AAPL vs $GOOG: Race to 700 https://t.co/s9ix5hcK;","lbl":"Neutral"}
+,{"time":"18:20","usr":"njnigh","txt":"Google Books judge lets librarians, EFF weigh in on Authors Guild case $GOOG http://t.co/7BjRl5IH","lbl":"Neutral"}
+]

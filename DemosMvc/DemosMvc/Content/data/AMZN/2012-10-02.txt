@@ -1,0 +1,11 @@
+[
+{"time":"7:20","usr":"biggercapital","txt":"He is full of shit RT @ypanjabi: Tilson says \u0022$nflx is the $amzn of this decade\u0022","lbl":"Negative"}
+,{"time":"9:53","usr":"DividendMaster","txt":"How is it nobody ( including Einhorn ) can at least address the insanity of $AMZN with a 300+ PE and a $100+bln market cap","lbl":"Negative"}
+,{"time":"10:34","usr":"DNev47","txt":"$$ Nuttiness About Netflix In 2022? Please Make It Stop http://t.co/XSpGFQjL $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"12:14","usr":"LansdowneWealth","txt":"RT @LegendOnWallSt: RT @LegendOnWallSt: Amazon Quietly Begins Moves Into Online Lending - http://t.co/eBOH5eWg - $AMZN","lbl":"Positive"}
+,{"time":"12:19","usr":"JeffMacke","txt":"$AMZN has >80 iPhone5 cases for sale. I doubt any store, anywhere has >15. Getting ppl in the store at all is the prob, not \u0022Showrooming\u0022","lbl":"Neutral"}
+,{"time":"12:55","usr":"DaveCV100","txt":"RT @PatrickSeitz: RT @PatrickSeitz: Apple iPad Mini To Kick Off Tablet Holiday Season. $AAPL $GOOG $MSFT $BKS $AMZN http://t.co/lvFhTMEP via @IBDinvestors","lbl":"Neutral"}
+,{"time":"12:56","usr":"WeTradeAAPL","txt":"#SEC states mini #option contracts coming soon 4 $AAPL $GOOG $AMZN $GLD $SPY - http://t.co/dkwUcDuM <-- PDF","lbl":"Neutral"}
+,{"time":"14:47","usr":"TweetLeni","txt":"@KymLang i like on line retailers a lot I consider $FB one of them :) $Ebay is a great choice as well as $AMZN","lbl":"Positive"}
+,{"time":"17:59","usr":"javiervegac","txt":"RT @wallstCS: RT @wallstCS: Consumer Business Update: Ackman Defends Penney\u0027s, Chrysler\u0027s Optimistic Forecast http://t.co/GeXP2nhC $JCP $BKS $AMZN $FI ...","lbl":"Neutral"}
+]

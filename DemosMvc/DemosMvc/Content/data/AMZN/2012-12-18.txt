@@ -1,0 +1,31 @@
+[
+{"time":"7:08","usr":"Furlicity","txt":"RT @ACInvestorBlog: $AMZN Amazon price target raised to $300 from $250 at RBC Capital","lbl":"Positive"}
+,{"time":"7:09","usr":"CROSSHAIRTRADER","txt":"Bullish: $AAPL $CREE $CRM $EMN $DVN $AMZN $APA $CTXS $IOC $NIHD $VRTX $WDC $NUE $TWX $ROST $CRUS http://t.co/EOxLTzWt","lbl":"Neutral"}
+,{"time":"7:15","usr":"saintandrews1","txt":"RT @CNBCnow: A report says Amazon plans to jump into the competitive smartphone market next year: http://t.co/TYpoIZcy $AMZN","lbl":"Neutral"}
+,{"time":"8:47","usr":"scalamai","txt":"Watch out, Google, Facebook, Apple. Amazon is coming for your advertisers http://t.co/2JcLHb5z (via @pandodaily) $GOOG $FB $AAPL $AMZN","lbl":"Positive"}
+,{"time":"8:48","usr":"uBooost","txt":"RT @scalamai: Watch out, Google, Facebook, Apple. Amazon is coming for your advertisers http://t.co/2JcLHb5z (via @pandodaily) $GOOG $FB $AAPL $AMZN","lbl":"Positive"}
+,{"time":"9:45","usr":"sspencer_smb","txt":"#1 idea today was long $AMZN above 255. similar setup to $C from ystdy. move decimal over & look at chart. #execute","lbl":"Positive"}
+,{"time":"9:45","usr":"aznboi27","txt":"That was the easiest 100% $AMZN Still holding: $GS $AMZN $NFLX $SPY $SINA","lbl":"Positive"}
+,{"time":"10:14","usr":"aznboi27","txt":"$AMZN $GS looking good! Been a great day folks!","lbl":"Positive"}
+,{"time":"10:15","usr":"Jamtrades","txt":"Commented on StockTwits: $AMZN is squeezing guys. We discussed this in the chat yesterday.. Holiday season = $AMZN..... http://t.co/Icvt9OzX","lbl":"Positive"}
+,{"time":"10:36","usr":"CubbieBears","txt":"$AMZN varsity player","lbl":"Positive"}
+,{"time":"10:37","usr":"StockPlayer6","txt":"RT @CAMAR024: Added to $AMZN 260s","lbl":"Positive"}
+,{"time":"10:37","usr":"Sangluccitrades","txt":"$AMZN $260 Weekly Calls are killing it today.","lbl":"Positive"}
+,{"time":"10:56","usr":"ki11tank","txt":"sold early in $AMZN, figured it would gap MORE with market and didn\u0027t. climbing move, healthier than gap anyways.","lbl":"Positive"}
+,{"time":"10:56","usr":"yaksierra","txt":"$BBY and $AMZN - a good partnership? By Rocco Pendola of http://t.co/8kcGyNdY http://t.co/5VzJ2VdW","lbl":"Neutral"}
+,{"time":"11:20","usr":"ManijehM","txt":"out of $AMZN calls bought Jan puts,","lbl":"Negative"}
+,{"time":"12:00","usr":"stock_wars","txt":"U.S. Active (Stock Wars): $NOK +7.09%, $FB +1.93%, $AAPL +0.84%, $AMZN +2.87%, $BOSC +68.0% http://t.co/p9PotPfP #StockWars","lbl":"Positive"}
+,{"time":"12:00","usr":"MarketCurrents","txt":"The holiday season\u0027s e-commerce sales growth has slowed quite a bit, according to Channel... http://t.co/bPQYYp22 $AMZN $EBAY $GOOG","lbl":"Neutral"}
+,{"time":"12:41","usr":"ChartMoMo","txt":"ho-ho-ho $spy $amzn $aapl $goog","lbl":"Positive"}
+,{"time":"13:28","usr":"Furlicity","txt":"@_Cro_Magnon Just found out - Discover Card Doesn\u0027t issue cash back checks anymore - option to deposit in Amazon account. $AMZN","lbl":"Neutral"}
+,{"time":"14:55","usr":"HawkDayTrader","txt":"$amzn shorting here $260.60","lbl":"Negative"}
+,{"time":"14:56","usr":"RtrsTechquity","txt":"Apple, Amazon, Google, Facebook news in one three-minute package. That\u0027s today\u0027s @Reuters #Techquity: http://t.co/E1JryHko $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"15:44","usr":"Japanesegunto","txt":"Holy cow $AMZN is 260. wow. Must be profit company ?????? lmao.","lbl":"Neutral"}
+,{"time":"15:46","usr":"danielensign","txt":"Ridiculous textbook policy from @amazon. Shipped me 4 books in one box but now they want me to return them individually. $amzn","lbl":"Negative"}
+,{"time":"16:57","usr":"donileo","txt":"@rocco_thestreet unless earnings and sales drop.. #2 $amzn doesnt make profit.. their p/e is ridiculously overvalued","lbl":"Negative"}
+,{"time":"17:07","usr":"RobertWeinstein","txt":"Put Away the Prozac, Apple\u0027s Just Fine - TheStreet http://t.co/wppuiZel via @TheStreet $AAPL $AMZN $NOK $DELL","lbl":"Neutral"}
+,{"time":"18:54","usr":"BenCBanks","txt":"DAILY ANALYSIS: $SPY $AAPL $GOOG $AMZN... http://t.co/hxi7QSm2 via @weebly","lbl":"Neutral"}
+,{"time":"18:55","usr":"BenCBanks","txt":"DAILY ANALYSIS is POSTED - http://t.co/Nb4Dq917 $SPY $AAPL $GOOG $AMZN $BAC $C $PCLN and MORE","lbl":"Neutral"}
+,{"time":"21:40","usr":"UnlovedMoney","txt":"@OptionsHawk seems $AMZN multiple not as rich as Jeff Bezos. may the investors worth more than him cast the stones","lbl":"Neutral"}
+,{"time":"21:43","usr":"bgershon","txt":"Nice work! @soapdotcom packs replacement broken shipment in bubble wrap! Includes toothbrushes! $amzn WIN! http://t.co/2arYPM5N","lbl":"Neutral"}
+]

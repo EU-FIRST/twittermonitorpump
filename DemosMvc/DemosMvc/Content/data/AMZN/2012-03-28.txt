@@ -1,0 +1,35 @@
+[
+{"time":"4:49","usr":"RedDogT3Live","txt":"Most high beta names met short term objectives and need some time to set up again $Nflx $goog $bidu $amzn $AAPL $lnkd","lbl":"Neutral"}
+,{"time":"4:50","usr":"CameronKaine","txt":"Commented on: \u00222 Stocks To Buy And 3 To Avoid Due To Valuation\u0022 http://t.co/McV05Jlw $AAPL $AMZN $CRM $GOOG $SIRI","lbl":"Neutral"}
+,{"time":"7:12","usr":"allanschoenberg","txt":"Kindle Touch Heads To Europe @paidContent $AMZN http://t.co/18WiCDhs","lbl":"Neutral"}
+,{"time":"7:13","usr":"mfin","txt":"#TeamG Recap - Trades in: $ANR $FRO $ZAZA $GDX $AMZN To watch: $AEO $VLO S&P cash line: 1370 @grassosteve","lbl":"Neutral"}
+,{"time":"8:30","usr":"Cameron401","txt":"RT @wallstCS: Tech Business Roundup: Netflix Double-Take, Big Amazon Kindle News http://t.co/yQTfEhcW $SYMC $NFLX $AMZN $GOOG $YELP #mkt","lbl":"Neutral"}
+,{"time":"8:32","usr":"Vivianlius","txt":"$AMZN - Amazon Stock Analysis - CCI is bullish and rising - http://t.co/MercbiWX","lbl":"Positive"}
+,{"time":"9:00","usr":"HeadInvestfool","txt":"Trade: CALENDAR on $AMZN: -5 MAY12 215 / 5 JUL12 215 CALLS 3.35 http://t.co/Qo52UxM5","lbl":"Positive"}
+,{"time":"9:31","usr":"MNYCx","txt":"$AMZN #FLUSHTHATTURD lol @geckler","lbl":"Negative"}
+,{"time":"9:31","usr":"finametrics","txt":"$AMZN puts 1.3","lbl":"Negative"}
+,{"time":"9:31","usr":"nxtmillionair40","txt":"there goes $AMZN dropping like a rock down now, 200 is the price to watch for a bounce","lbl":"Negative"}
+,{"time":"10:03","usr":"coryjwatson","txt":"$AAPL setting up as a short now, stalking, still in $PCLN and $AMZN puts","lbl":"Negative"}
+,{"time":"10:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/149, $AMLN/68, $SPY/53, $GOOG/45, $LPTH/44, $AMZN/34, $ANR/21, $CAT/21. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"10:05","usr":"medstudentrader","txt":"$amzn wants lower...","lbl":"Negative"}
+,{"time":"11:00","usr":"Urbanomical","txt":"$amzn c\u0027mon","lbl":"Neutral"}
+,{"time":"11:50","usr":"takingstock614","txt":"One could go long $AMZN here playing bounce off 200dma with a tight stop there too.","lbl":"Positive"}
+,{"time":"11:50","usr":"mitchelltsai","txt":"long $AMZN 201.05 #MyStock http://t.co/owVhfiH9","lbl":"Positive"}
+,{"time":"11:52","usr":"takingstock614","txt":"@RedDogT3Live @grassosteve @mikedalman $AMZN has actually broken through its 200dma right. Im seeing it around 203.40.","lbl":"Negative"}
+,{"time":"12:32","usr":"AMZN_stock","txt":"$AMZN stock quote, 1:17pm: 201.58 -3.86 (-1.88%).","lbl":"Neutral"}
+,{"time":"12:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/114, $AMZN/39, $SPY/36, $GLD/22, $BAC/21, $CAT/21, $GOOG/18, $AMLN/18. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"13:13","usr":"KyleG2012","txt":"@RedDogT3Live Scott would u still short $AMZN at this spot? Or would I be chasing the short?","lbl":"Negative"}
+,{"time":"13:14","usr":"CashRocket","txt":"out $AMZN call -60c no good","lbl":"Negative"}
+,{"time":"13:44","usr":"EricConsiglio","txt":"$AMZN vs $BIDU both showing very similar patterns. Check out this article http://t.co/cOSFhBso","lbl":"Neutral"}
+,{"time":"15:08","usr":"BUDDIEE18","txt":"I \u0027M STILL ALIVE & getting off the net 4 couple of hrs $AMZN $SINA on deck http://t.co/4DQqdsyO","lbl":"Neutral"}
+,{"time":"15:09","usr":"Finishort","txt":"RT @StocialTrends: 60 minute Trending Social Volume: $AAPL/88, $SPY/61, $CHTP/41, $GOOG/34, $ZLCS/30, $AMLN/22, $AMZN/21, $GS/19. I wonder y","lbl":"Neutral"}
+,{"time":"15:09","usr":"JonHoehler","txt":"Amazon\u0027s Game-Changing Cloud Was Built By Some Guys In South Africa $AMZN by @Julie188 http://t.co/Qgfk2xyo via @SAI #proudlySouthAfrican","lbl":"Neutral"}
+,{"time":"15:56","usr":"RedDogT3Live","txt":"My T3Live Daily Recap http://t.co/zVT68occ Less is More, Begin Personal Evaluation Process for 1st Quarter $SPY $CZR $AMZN $BIDU $ZNGA","lbl":"Neutral"}
+,{"time":"16:47","usr":"firstadopter","txt":"$AMZN CEO finds Apollo 11 rocket F-1 engines at bottom of ocean and has plans to raise them: http://t.co/2j6QwkHI","lbl":"Neutral"}
+,{"time":"16:50","usr":"zzbar","txt":"@firstadopter will it increase $amzn margin?","lbl":"Neutral"}
+,{"time":"16:52","usr":"SwissCreno","txt":"The internet is taking over. #BigBox is a thing of the past. $AMZN","lbl":"Neutral"}
+,{"time":"19:09","usr":"coultasdcze5","txt":"$SPX quiet trading day - 10 $AAPL $AMZN trades: 7win, 2 lose, 1 even - overall: 3.48 - markets conti","lbl":"Neutral"}
+,{"time":"19:10","usr":"SwatOptions","txt":"$AMZN - we got PUT 200 at open and made 162% Profits so far - more to come, imo - Stay tuned - http://t.co/I2JU4MQv","lbl":"Negative"}
+,{"time":"21:47","usr":"FreeMLSUS","txt":"$AMZN Great Buy Today","lbl":"Positive"}
+,{"time":"21:47","usr":"sdotbailey","txt":"If $AMZN really is beginning to build out a logistics division oh boy look out. This will have significant negative impact on $FDX $UPS EPS.","lbl":"Neutral"}
+]

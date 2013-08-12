@@ -1,0 +1,11 @@
+[
+{"time":"8:00","usr":"SAI","txt":"This Ex-Employee Has Some Simple Advice For Getting A Job At Google $GOOG by @mattlynley http://t.co/rhXagbAn","lbl":"Neutral"}
+,{"time":"8:01","usr":"CPAMilwaukee","txt":"RT @SAI: This Ex-Employee Has Some Simple Advice For Getting A Job At Google $GOOG by @mattlynley http://t.co/rhXagbAn","lbl":"Neutral"}
+,{"time":"8:05","usr":"ranalomar","txt":"RT @SAI: This Ex-Employee Has Some Simple Advice For Getting A Job At Google $GOOG by @mattlynley http://t.co/rhXagbAn","lbl":"Neutral"}
+,{"time":"8:06","usr":"tombers","txt":"RT @SAI: This Ex-Employee Has Some Simple Advice For Getting A Job At Google $GOOG by @mattlynley http://t.co/rhXagbAn","lbl":"Neutral"}
+,{"time":"10:59","usr":"shoot2win","txt":"RT @sspencer_smb: I\u0027ve had Nexus 7 for a week. Awesome product. Superior OS to IPad. Ridiculous price point of $199. Expect $aapl response soon. $goog","lbl":"Positive"}
+,{"time":"11:13","usr":"best_of_iran","txt":"Apple has a new App, it\u0027s called The Stalker App http://t.co/G5wwI77S #video #funny $aapl $goog #iphone #ipad","lbl":"Neutral"}
+,{"time":"11:13","usr":"EvanMedeiros","txt":"RT @howardlindzon New Post - \u0027The FOUR Horsemen of the Economy...Make that THREE\u0027 http://t.co/AIgZGgE4 $AAPL $AMZN $GOOG","lbl":"Neutral"}
+,{"time":"15:53","usr":"ChartMoMo","txt":"@greenjaytrading I\u0027ve been lights out (knock on wood) coming into this week long $goog about 10% invested. Looking for higher or (cont)","lbl":"Positive"}
+,{"time":"16:23","usr":"takingstock614","txt":"$AAPL $GOOG $PCLN $AMZN","lbl":"Neutral"}
+]

@@ -1,0 +1,17 @@
+[
+{"time":"6:48","usr":"LongShortTrader","txt":"\u0022We\u0027re not short Amazon either\u0022 - Einhorn $AMZN","lbl":"Neutral"}
+,{"time":"6:48","usr":"jonfortt","txt":"Einhorn on $AMZN: \u0022It\u0027s very hard to compete against someone who doesn\u0027t feel compelled to make a profit.\u0022 @CNBC","lbl":"Neutral"}
+,{"time":"8:36","usr":"Hephaestus7","txt":"$AMZN is a turning into a short very rapidly.","lbl":"Negative"}
+,{"time":"8:37","usr":"CAMAR024","txt":"sold the gap for $AMZN aswell","lbl":"Negative"}
+,{"time":"9:32","usr":"TradingGuru","txt":"RT $AAPL $AMZN Kindle killer SIDE- BUY #Stocks #Markets #News #Business #WallStreet #NASDAQ #NYSE #CNBC #Daytrade","lbl":"Neutral"}
+,{"time":"9:33","usr":"Gamer_Guild","txt":"$AMZN https://t.co/9LVlx3Pq -->> Another key trend baseline being tested!","lbl":"Negative"}
+,{"time":"10:58","usr":"cnbcfastmoney","txt":"RT @Citi: Tune in to @cnbcfastmoney today at 12:10PM ET to hear our internet analyst, Mark Mahaney, talk $AMZN smartphone + his outlook for $FB.","lbl":"Neutral"}
+,{"time":"10:59","usr":"terranovajoe","txt":"RT @Citi: Tune in to @cnbcfastmoney today at 12:10PM ET to hear our internet analyst, Mark Mahaney, talk $AMZN smartphone + his outlook for $FB.","lbl":"Neutral"}
+,{"time":"11:59","usr":"twit_ashutosh","txt":"What\u0027s up with #upNext $AMZN $ GOOG $AAPL. Are we sure of #kindlephone now ?","lbl":"Neutral"}
+,{"time":"12:00","usr":"DereckToker","txt":"Looks like the gap from June 28/29 was essentially filled on $AMZN, could be the final shake-out for some big upside","lbl":"Positive"}
+,{"time":"12:37","usr":"alexanderywang","txt":"RT @marketfolly: Greenlight Capital\u0027s David Einhorn on Apple, Green Mountain Coffee & Amazon (Interview) http://t.co/kxWPtwf7 $AAPL $GMCR $AMZN $HLF","lbl":"Neutral"}
+,{"time":"14:39","usr":"KeithMcCullough","txt":"$AMZN maybe the most interesting, long side - but I\u0027m in no rush","lbl":"Positive"}
+,{"time":"16:54","usr":"64turok","txt":"The H&S Target was almost met on the SP500 15 min Chart http://t.co/rU2Omm0U $SPX $SPY $AMZN $AAPL $DIA $INDUA $VIX $QQQ","lbl":"Neutral"}
+,{"time":"21:55","usr":"aznboi27","txt":"$AMZN broke upward trend lines, it bounced off the 218.20 area but new lows coming 212.80 http://t.co/TObcdiqd","lbl":"Negative"}
+,{"time":"21:59","usr":"twit_ashutosh","txt":"@crashdev @bawbgale If $AMZN can do cheap smart phone than $AAPL can also retail thru stores/iTunes !!!. $GOOG is already into cloud.","lbl":"Neutral"}
+]

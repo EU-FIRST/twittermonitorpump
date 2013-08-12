@@ -1,0 +1,20 @@
+[
+{"time":"3:34","usr":"RealStockTrader","txt":"Many people use Penny Stocks to build an account, I perfer trading options of high flying stocks like $APPL, $GOOG and $AMZN.","lbl":"Positive"}
+,{"time":"5:54","usr":"gtlackey","txt":"\u201C@Reuters_Biz: Nasdaq strikes cloud deal with Amazon to cut clients\u0027 data costs http://t.co/Py2JjNzZ\u201D <- $AMZN does it again","lbl":"Neutral"}
+,{"time":"5:56","usr":"DNev47","txt":"$$ Amazon Vs. Netflix - In The End, Who Will Reign Supreme As King Of Online Streaming Video? http://t.co/6dmzPiAm $AMZN $NFLX","lbl":"Neutral"}
+,{"time":"6:54","usr":"StocksFlow","txt":"RT @SeekingAlpha: Wall Street Breakfast: Must-Know News http://t.co/ydPsZiBq $T $SPY $QQQ $AAMRQ.PK $AAPL $AMZN $CMCSA $DV $EA $JPM $LXK ...","lbl":"Neutral"}
+,{"time":"6:56","usr":"StocksFlow","txt":"RT @SeekingAlpha: Price-Sales Ratio Says Amazon Could Have Tremendous Upside Remaining http://t.co/50EnV936 $AAPL $BBY $GOOG $WMT $AMZN","lbl":"Positive"}
+,{"time":"8:31","usr":"JasonThePM","txt":"$AMZN partnership with NASDAQ","lbl":"Neutral"}
+,{"time":"8:43","usr":"Swake183","txt":"short $AMZN 256.25","lbl":"Negative"}
+,{"time":"9:10","usr":"MysticWyngarden","txt":"RT @LukeRomyn: Two of my Kindle books are #FREE for the rest of the day! http://t.co/iyYdW3cs $AMZN #promobooks","lbl":"Neutral"}
+,{"time":"9:21","usr":"Liquid_Trader","txt":"Good Consumer # are great for retail stocks. $AMZN has had a ton of selling. watching for a failed bounce to short or avoid this week.","lbl":"Positive"}
+,{"time":"9:37","usr":"BlueFielder","txt":"$AMZN bot 260 $CALLs @ 1.40 - small trade will look to add on breaking HoD","lbl":"Positive"}
+,{"time":"9:53","usr":"CNBCSquawkSt","txt":"RT @carlquintanilla: $AMZN\u0027s web services chief on @CNBCSquawkSt: web biz may eventually be \u0022at least as big\u0022 as co\u0027s $40B retail biz","lbl":"Neutral"}
+,{"time":"10:30","usr":"SeekingAlpha","txt":"Pandora: Possible Acquisition Target? http://t.co/9kCtOe5G $AAPL $AMZN $FB $GOOG $YELP $P","lbl":"Neutral"}
+,{"time":"10:56","usr":"BlueFielder","txt":"$AMZN Sold ALL of Wkly 260 $CALL\u0027s for par - not my day","lbl":"Negative"}
+,{"time":"12:43","usr":"AshtonHayse","txt":"\u201C@zerohedge: Amazon is now a stock exchange too?\u201D Well diversified, indeed. $amzn","lbl":"Positive"}
+,{"time":"13:30","usr":"StockAction","txt":"RT @stockdrover: $AMZN prime addict reports first Prime delivery via $FDX in a year. Up till today all $UPS and lasership. C-change? #st ...","lbl":"Neutral"}
+,{"time":"14:14","usr":"joebones265","txt":"Nasdaq OMX and $AMZN Web Services Launch Financial Services Cloud Offering. I Hope it works out better than the $FB IPO","lbl":"Neutral"}
+,{"time":"15:19","usr":"takingstock614","txt":"Bears deflated $AAPL $GOOG $AMZN $LNKD $BIDU $PCLN $XLF $GS $MA $KORS....","lbl":"Negative"}
+,{"time":"19:43","usr":"henrygambell","txt":"Tomorrow is make or break for the S&P. Here\u0027s what we\u0027re following along with updates on $AMZN $UNG and $AAPL http://t.co/YhvqQtQG","lbl":"Neutral"}
+]

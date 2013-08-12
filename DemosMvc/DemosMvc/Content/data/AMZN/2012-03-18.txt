@@ -1,0 +1,4 @@
+[
+{"time":"9:54","usr":"USwwwStocks","txt":"$AMZN News: Immune Cells Attacking Tumors, An iPad Under A Microscope, And The Medical Si http://t.co/HBLdt7O5 #internet #daytrading #stocks","lbl":"Neutral"}
+,{"time":"22:04","usr":"barronstechblog","txt":"Apple: Mizuho Ups Target to $700 on Dividend Prospect, iPad Outlook - Tech Trader Daily - $AAPL $GOOG $MSFT $RIMM $AMZN http://t.co/c1MyB3e6","lbl":"Neutral"}
+]

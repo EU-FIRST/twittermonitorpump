@@ -1,0 +1,33 @@
+[
+{"time":"0:26","usr":"JonathanKine","txt":"\u0022@MattRosoff: UPDATE: Google Says AT&T Is Confused, It Does NOT Play Favorites With Android Updates $GOOG $T http://t.co/6pufeEqH\u0022","lbl":"Neutral"}
+,{"time":"0:28","usr":"lluccipha","txt":"SAI: UPDATE: Google Says AT&T Is Confused, It Does NOT Play Favorites With Android Updates $GOOG $T by @MattRosoff http://t.co/8tUCjzy6","lbl":"Neutral"}
+,{"time":"0:30","usr":"knowaging","txt":"UPDATE: Google Says AT&T Is Confused, It Does NOT Play Favorites With Android Updates $GOOG $T by @MattRosoff http://t.co/L7dCWWjt RT @SAI","lbl":"Neutral"}
+,{"time":"0:32","usr":"Hackow","txt":"RT @SAI: 12 Massive Changes That Will Transform The Software Industry Within 5 Years $ORCL $GOOG $MSFT by @Julie188 http://t.co/Yifw9AfQ","lbl":"Neutral"}
+,{"time":"6:04","usr":"BasilButtercups","txt":"RT @SAI: A Really Good Mobile App Will Crush Your Mobile Website $AAPL $GOOG http://t.co/b1aWqbLD","lbl":"Neutral"}
+,{"time":"6:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $SPY/16, $YHOO/11, $GOOG/9, $DANG/9, $AAPL/9, $SVNT/7, $BAC/7, $F/4, $MS/4. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"6:07","usr":"wallstreetlive","txt":"$GOOG, Google Tries Again with Google TV | http://t.co/7CUmxoUX","lbl":"Neutral"}
+,{"time":"7:39","usr":"UdallTechStrat","txt":"$goog -- $12B offer not bad if even a quarter of this hits. Microsoft Counters Motorola Mobility\u2019s $4 Billion Demand http://t.co/CjS42Xkd","lbl":"Neutral"}
+,{"time":"8:45","usr":"TraderInPlay","txt":"$GOOG trades positive in $QQQ #stocks #trading","lbl":"Positive"}
+,{"time":"8:45","usr":"richi","txt":"RT @JonathanKine: @Computerworld: RT @richi: Oracle v Google: Jury verdict inconclusive #ITBW http://t.co/X4f2tacB $ORCL $GOOG","lbl":"Neutral"}
+,{"time":"9:44","usr":"MockTrade","txt":"If $GOOG breaks below $600 then the 200dayMA will come into play @ $592ish, but not until $AAPL is well below $564","lbl":"Negative"}
+,{"time":"9:45","usr":"StockAction","txt":"RT @MarekFuchs: Traders and journalists live in the moment, but what about history? Enter Google TV: http://t.co/YPM4YXxw #stockaction $GOOG $AAPL $$","lbl":"Neutral"}
+,{"time":"10:43","usr":"BI_Enterprise","txt":"There\u0027s A Reason Google\u0027s Lawyers Were Laughing After Yesterday\u0027s Oracle Trial $ORCL $GOOG by @Julie188 http://t.co/eW42RhX5","lbl":"Positive"}
+,{"time":"10:43","usr":"SAI","txt":"There\u0027s A Reason Google\u0027s Lawyers Were Laughing After Yesterday\u0027s Oracle Trial $ORCL $GOOG by @Julie188 http://t.co/cdHYVihA","lbl":"Positive"}
+,{"time":"10:44","usr":"lluccipha","txt":"SAI: THE GOOGLE INVESTOR: Android Dominating The Mobile OS Market, Except In Revenue $GOOG by @hleonard76 http://t.co/4FwhuG9G","lbl":"Negative"}
+,{"time":"10:44","usr":"nevinbuconjic","txt":"RT @SAI: THE GOOGLE INVESTOR: Android Dominating The Mobile OS Market, Except In Revenue $GOOG by @hleonard76 http://t.co/2QHZ369D","lbl":"Neutral"}
+,{"time":"11:35","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/90, $SPY/87, $YHOO/53, $ARNA/33, $GOOG/32, $IWM/27, $FOSL/25, $GLD/24. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"11:35","usr":"thefinancepress","txt":"$GOOG Facebook Executives Talk Growth as IPO Meetings Begin: Facebook Executives Talk Growth as IPO Meetings Be... http://t.co/0cJu9gI8","lbl":"Neutral"}
+,{"time":"11:35","usr":"john_keats","txt":"RT @SAI: Toshiba Has The Thinnest Tablet In The World, But Does That Make It The Best? $GOOG by @stevekovach http://t.co/oNFnLkiQ","lbl":"Neutral"}
+,{"time":"12:37","usr":"ChillCuz61","txt":"RT @YahooFinance: Google just got a license for its self-driving cars http://t.co/T6OLY5Gv $GOOG @aarontask @hblodget","lbl":"Positive"}
+,{"time":"12:50","usr":"SeekingAlpha","txt":"Microsoft Nook No Threat For Apple iPad http://t.co/U4BNuwCn $AAPL $AMZN $BKS $GOOG $NOK $T $MSFT","lbl":"Neutral"}
+,{"time":"12:50","usr":"racernic","txt":"$GOOG plus would b much better if my peeps used it. looks like i need new circle occupants. firing my friends/family and opening auditions","lbl":"Neutral"}
+,{"time":"14:01","usr":"SAI_Tools","txt":"The Pebble Founder Reveals The Hardest Part Of Bringing His Product To Market $AAPL $GOOG by @_dtl http://t.co/hIaY5zsf","lbl":"Neutral"}
+,{"time":"14:01","usr":"SAI","txt":"The Pebble Founder Reveals The Hardest Part Of Bringing His Product To Market $AAPL $GOOG by @_dtl http://t.co/kLdb5gYc","lbl":"Neutral"}
+,{"time":"14:04","usr":"UmarSajid","txt":"RT @SAI: The Pebble Founder Reveals The Hardest Part Of Bringing His Product To Market $AAPL $GOOG by @_dtl http://t.co/kLdb5gYc","lbl":"Neutral"}
+,{"time":"14:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $AAPL/116, $SPY/75, $UNG/38, $YHOO/30, $GMCR/26, $GOOG/25, $BAC/17, $GLD/17. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"14:53","usr":"parklandtrader","txt":"@cnbcfastmoney MOMO in $GOOG buy buy buy 1/4 position here","lbl":"Positive"}
+,{"time":"16:05","usr":"StocialTrends","txt":"60 minute Trending Social Volume: $DIS/62, $AAPL/55, $SPY/36, $IWM/21, $GOOG/20, $GLD/18, $YHOO/15, $MELI/15. http://t.co/9ch5yju7","lbl":"Neutral"}
+,{"time":"16:10","usr":"SeekingAlpha","txt":"Why Electric Beats Natural Gas Vehicles: It\u0027s All About The Re-Fueling Network http://t.co/psQn6YaD $CCJ $CLNE $EBAY $GOOG $UEC","lbl":"Neutral"}
+,{"time":"18:25","usr":"EricJhonsa","txt":"Viddy, Socialcam provide mobile competition for YouTube. $GOOG http://t.co/Rh4N1w29","lbl":"Neutral"}
+,{"time":"18:26","usr":"EricJhonsa","txt":"Samsung\u0027s Tizen reference phone could suggest attempt to lessen Android dependence. $GOOG http://t.co/Jod7bQ68","lbl":"Neutral"}
+]
