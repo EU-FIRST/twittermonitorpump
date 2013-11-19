@@ -101,7 +101,7 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Latino\Latino2010.csproj">
+    <ProjectReference Include="..\..\..\latino\Latino\Latino2010.csproj">
       <Project>{5B86AAD5-3FEA-487C-A518-4F846AF09E18}</Project>
       <Name>Latino2010</Name>
     </ProjectReference>
